@@ -28,11 +28,11 @@ average: '13.49'
 
 ℹ️:
 
-- MATERIALI DI QUALITÀ. Realizzate con materiali di alta qualità, queste infradito utilizzano gomma resistente e di lunga durata. Le proprietà ipoallergeniche e il design privo di sostanze tossiche garantiscono la sicurezza dei piedi sensibili
-- TOP COLOR. Le iconiche infradito per adulti che combinano un design classico con funzionalità e comfort, rendendole ideali per luso quotidiano in spiaggia, in piscina o per attività casual. Ispirate ai sandali giapponesi Zori, sono un simbolo intramontabile di uno stile rilassato
-- IMPEGNATI NELLA SOSTENIBILITÀ. Havaianas integra pratiche responsabili nella produzione delle sue infradito, utilizzando il 40% di gomma riciclata nelle suole e reintegrando il 100% delle strisce di scarto nel processo di produzione
 - COMFORT E SICUREZZA. Realizzate con cinghie in gomma morbida e suola antiscivolo, offrono comfort e sicurezza di lunga durata a ogni passo. Il loro design flessibile e leggero garantisce unusura confortevole anche per i piedi più attivi
 - ESTETICA MINIMALISTA. Le infradito hanno unestetica monocolore e una silhouette minimalista che non passa mai di moda. Disponibili in unampia gamma di colori, consentono di esprimere il proprio stile personale con calzature leggere, pratiche e facili da combinare
+- MATERIALI DI QUALITÀ. Realizzate con materiali di alta qualità, queste infradito utilizzano gomma resistente e di lunga durata. Le proprietà ipoallergeniche e il design privo di sostanze tossiche garantiscono la sicurezza dei piedi sensibili
+- IMPEGNATI NELLA SOSTENIBILITÀ. Havaianas integra pratiche responsabili nella produzione delle sue infradito, utilizzando il 40% di gomma riciclata nelle suole e reintegrando il 100% delle strisce di scarto nel processo di produzione
+- TOP COLOR. Le iconiche infradito per adulti che combinano un design classico con funzionalità e comfort, rendendole ideali per luso quotidiano in spiaggia, in piscina o per attività casual. Ispirate ai sandali giapponesi Zori, sono un simbolo intramontabile di uno stile rilassato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07CLTDBK9{{</world>}}

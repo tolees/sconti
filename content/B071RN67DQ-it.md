@@ -30,8 +30,8 @@ average: '10.8633333333333'
 
 - Ispirato alla ricetta originale del 1880, è un gin fruttato e deciso
 - Gordon’s, la celebre casa che inventò il sistema di produzione denominato ‘London Dry Gin’, presenta Gordon’s Premium Pink Gin
-- Goditi Gordon’s Premium Pink Gin con acqua tonica e fragole fresche
 - Preparato con ingredienti selezionati e solo aromi naturali
+- Goditi Gordon’s Premium Pink Gin con acqua tonica e fragole fresche
 - Il sapore dolce del lampone e della fragola incontra in modo armonico il gusto intenso del ribes
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

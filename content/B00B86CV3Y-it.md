@@ -28,9 +28,9 @@ average: '16.02'
 
 ℹ️:
 
-- 200 ml
 - Donna
 - Jabón Facial
+- 200 ml
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00B86CV3Y{{</world>}}

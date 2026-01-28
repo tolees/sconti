@@ -28,10 +28,10 @@ average: '59.63'
 
 ℹ️:
 
-- Display digitale LCD intuitivo e Design moderno: Lintuitivo dispaly LCD ti permette di selezionare facilmente la temperatura e il tempo di cottura desiderati per ogni piatto. Inoltre, il design elegante e compatto si adatta perfettamente a qualsiasi cucina, aggiungendo uno stile moderno e funzionale.
-- Massima sicurezza: La funzione di protezione da surriscaldamento e la spia di funzionamento garantisce la sicurezza durante la cottura e il funzionamento della friggitrice
-- Facile pulizia: cestello antiaderente e serbatoio sono rimovibili e lavabili in lavastoviglie, rendendo la pulizia un gioco da ragazzi.
 - Tecnologia avanzata: questa friggitrice ad aria utilizza la tecnologia ad aria calda per cucinare i tuoi cibi preferiti in modo sano e gustoso, riducendo luso di grassi e oli. Ottieni cibi croccanti e dorati grazie alla tecnologia di circolazione dellaria ad alta velocità, senza il bisogno di immergere gli alimenti nellolio.
+- Facile pulizia: cestello antiaderente e serbatoio sono rimovibili e lavabili in lavastoviglie, rendendo la pulizia un gioco da ragazzi.
+- Massima sicurezza: La funzione di protezione da surriscaldamento e la spia di funzionamento garantisce la sicurezza durante la cottura e il funzionamento della friggitrice
+- Display digitale LCD intuitivo e Design moderno: Lintuitivo dispaly LCD ti permette di selezionare facilmente la temperatura e il tempo di cottura desiderati per ogni piatto. Inoltre, il design elegante e compatto si adatta perfettamente a qualsiasi cucina, aggiungendo uno stile moderno e funzionale.
 - Friggitrice ad aria per tutta la famiglia: capacità totale da 7,6 L, cestello con rivestimento antiaderente e ricette per tutti i gusti. Scegli tra 9 possibili programmi di cottura preimpostati per seguire e lasciarti inspirare da numerose ricette sane e gustose.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

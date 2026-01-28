@@ -28,8 +28,8 @@ average: '13.4871999999999'
 
 ℹ️:
 
-- HOT WHEELS MARIO KART - RAGAZZO TIMIDO P-WING
 - ATTENZIONE Questo articolo è consegnato dal fabbricante in un assortimento di colore/modellli aleatorio. Per questa ragione Amazon.it non puo garantire la spedizione di un colore/modelli in particolare. Ordinando questo articolo riceverete uno dei colori/modelli figuranti nellimmagine, in funzione dello stock disponibile. Amazon.it ringrazia per la comprensione.
+- HOT WHEELS MARIO KART - RAGAZZO TIMIDO P-WING
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B086FF1Y5W{{</world>}}

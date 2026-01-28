@@ -29,9 +29,9 @@ average: '95.99'
 ℹ️:
 
 - Le tecnologie Flicker Free e Low Blue Mode riducono laffaticamento degli occhi e nel contempo aumentano il comfort visivo. La sincronizzazione adattiva dellimmagine garantisce l’assenza di screen tearing
+- Dotazione: Philips 271V8LAB/00 - Monitor PC, 68,6 cm (27 pollici), cavo di alimentazione, cavo VGA, cavo HDMI, lettore CD, certificato di garanzia
 - Godetevi leccezionale qualità delle immagini con la risoluzione FHD e i colori ad alto contrasto del potente pannello VA
 - Pannello VA ad alto contrasto, 2 altoparlanti stereo da 2 watt, display opaco, uscita cuffie, cornice sottile, compatibile con il supporto VESA 100x100, supporto staccabile
-- Dotazione: Philips 271V8LAB/00 - Monitor PC, 68,6 cm (27 pollici), cavo di alimentazione, cavo VGA, cavo HDMI, lettore CD, certificato di garanzia
 - Garanzia del produttore: 3 anni Le condizioni di garanzia sono riportate nella sezione "Ulteriori informazioni tecniche". I diritti di garanzia previsti dalla legge rimangono inalterati
 - Luminosità/contrasto: 250 cd/m² 3.000:1, connessioni: 1x D-Sub, 1x HDMI 1.4, tempo di risposta rapido 1 ms MPRT
 

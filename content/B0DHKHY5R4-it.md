@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Navegación láser: crea un mapa interactivo de tu casa para una limpieza precisa y personalizada de todos los espacios de tu hogar, sin importar la cantidad de luz ambiental; room plan: permite definir, planificar y programar la limpieza de tu vivienda completa o por habitaciones gracias al mapa generado en la APP; elige el orden de limpieza, guarda mapa de distintos pisos, elige áreas restringidas
-- Ultrapotenza di aspirazione di 7.000 Pa del motore per eliminare ogni tipo di sporco (polvere, peli e particelle grandi) su qualsiasi tipo di superficie o situazione; batteria da 3200 mAh fino a 170 minuti di autonomia in aspirazione e lavaggio in modalità Eco ininterrottamente per coprire 170 metri cubici; secondo i test di laboratorio; le prestazioni reali variano a seconda della distribuzione della casa
-- Aspira, spazza, lava e passa i mop; consente di eseguire queste operazioni separatamente o contemporaneamente; spazzola centrale in silicone, pulizia totale multi-superficie; ottimale per i peli degli animali domestici
 - Superficie totale: se il robot rimane senza batteria, torna alla base di ricarica e riprende la pulizia per completare la pulizia programmata una volta caricata la batteria; APP Control: controlla la Conga dal tuo smartphone e gestisci i programmi, la potenza, il lavaggio e lo storico, tra gli altri
+- Aspira, spazza, lava e passa i mop; consente di eseguire queste operazioni separatamente o contemporaneamente; spazzola centrale in silicone, pulizia totale multi-superficie; ottimale per i peli degli animali domestici
+- Ultrapotenza di aspirazione di 7.000 Pa del motore per eliminare ogni tipo di sporco (polvere, peli e particelle grandi) su qualsiasi tipo di superficie o situazione; batteria da 3200 mAh fino a 170 minuti di autonomia in aspirazione e lavaggio in modalità Eco ininterrottamente per coprire 170 metri cubici; secondo i test di laboratorio; le prestazioni reali variano a seconda della distribuzione della casa
+- Navegación láser: crea un mapa interactivo de tu casa para una limpieza precisa y personalizada de todos los espacios de tu hogar, sin importar la cantidad de luz ambiental; room plan: permite definir, planificar y programar la limpieza de tu vivienda completa o por habitaciones gracias al mapa generado en la APP; elige el orden de limpieza, guarda mapa de distintos pisos, elige áreas restringidas
 - Spazzola centrale in silicone: pulizia totale multi-superficie; ottimale per i peli degli animali domestici; aree riservate, seleziona dallApp le parti della tua casa che non vuoi che il robot pulisca e dimentica le preoccupazioni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

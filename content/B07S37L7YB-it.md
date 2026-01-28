@@ -28,9 +28,9 @@ average: '4.95'
 
 ℹ️:
 
+- Spina 16A 230V
 - Prodotto di ottima qualità
 - Adattatore 2 prese Shuko e 4 prese 10/16
-- Spina 16A 230V
 - Electraline - Adattatore elettrico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

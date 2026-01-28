@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Per capelli lisci fino a 3 giorni* senza luso della piastra, Capigliatura in ordine e luminosa senza effetto crespo *Test strumentale dopo lapplicazione di shampoo e balsamo
-- Balsamo lisciante ideale per capelli difficili da lisciare e crespi, Azione ammorbidente che dona luminosità ai capelli, Effetto anti-crespo per domare i capelli ribelli
 - Applicare sui capelli umidi dopo lo shampoo Hydra Liss & Shine e distrubuire sulle lunghezze e sulle punte, Lasciare agire e risciacquare
+- Per capelli lisci fino a 3 giorni* senza luso della piastra, Capigliatura in ordine e luminosa senza effetto crespo *Test strumentale dopo lapplicazione di shampoo e balsamo
 - Contenuto: 1x Garnier Fructis Balsamo Lisciante, Per Capelli Crespi, Effetto Luminoso, Con Olio di Argan e Cheratina Vegetale, Hydra Liss & Shine, 200 ml
 - Formula arricchita con olio di Argan che ammorbidisce i capelli e dona un luminosità intensa, La cheratina vegetale agisce sulla fibra capillare eliminando leffetto crespo
+- Balsamo lisciante ideale per capelli difficili da lisciare e crespi, Azione ammorbidente che dona luminosità ai capelli, Effetto anti-crespo per domare i capelli ribelli
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BXXVZVW8{{</world>}}

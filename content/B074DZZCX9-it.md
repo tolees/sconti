@@ -28,11 +28,11 @@ average: '1.71'
 
 ℹ️:
 
-- DELICATO E DERMATOLOGICAMENTE TESTATO, ADATTO A TUTTI I TIPI DI PELLE: Il prodotto dermatologicamente testato deterge delicatamente ogni tipo di pelle, donando morbidezza e idratazione
-- BAGNOSCHIUMA PROFUMATO FRESCO CON NOTE AGRUMATE E FIORITE: Le prime note di Bergamotto, Cocco Pesca lasciano spazio a un cuore di Fiori di Cedro e Mughetto. Il fondo si illumina di note Musk e Gelsomino, Orchidee, Mughetto e sfumature di Ambra e Cannella
-- MORBIDO E VELLUTANTE, DETERGE E IDRATA LA PELLE: Il prodotto nutre delicatamente la pelle, lasciando un effetto vellutante che deterge e idrata, senza alternare il PH cutaneo
-- AMPLIFICA I BENEFICI AROMATERAPICI PER IL TUO BENESSERE: Per una doccia rigenerante, applica una piccola quantità sul corpo e massaggia delicatamente, risciacquando lentamente. Per il bagno, versa il prodotto nellacqua tiepida per una schiuma avvolgente
 - FELCE AZZURRA, PROFUMO INCONFONDIBILE: Dal 1923, porta nelle case il fascino di fragranze uniche tramandate nel tempo. Sinonimo di qualità e artigianalità, offre prodotti per la cura del corpo e della casa, regalando un’autentica esperienza sensoriale
+- MORBIDO E VELLUTANTE, DETERGE E IDRATA LA PELLE: Il prodotto nutre delicatamente la pelle, lasciando un effetto vellutante che deterge e idrata, senza alternare il PH cutaneo
+- BAGNOSCHIUMA PROFUMATO FRESCO CON NOTE AGRUMATE E FIORITE: Le prime note di Bergamotto, Cocco Pesca lasciano spazio a un cuore di Fiori di Cedro e Mughetto. Il fondo si illumina di note Musk e Gelsomino, Orchidee, Mughetto e sfumature di Ambra e Cannella
+- AMPLIFICA I BENEFICI AROMATERAPICI PER IL TUO BENESSERE: Per una doccia rigenerante, applica una piccola quantità sul corpo e massaggia delicatamente, risciacquando lentamente. Per il bagno, versa il prodotto nellacqua tiepida per una schiuma avvolgente
+- DELICATO E DERMATOLOGICAMENTE TESTATO, ADATTO A TUTTI I TIPI DI PELLE: Il prodotto dermatologicamente testato deterge delicatamente ogni tipo di pelle, donando morbidezza e idratazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B074DZZCX9{{</world>}}

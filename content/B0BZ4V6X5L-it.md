@@ -28,9 +28,9 @@ average: '11.6333333333333'
 
 ℹ️:
 
+- Sulla pelle risulta leggero e non appiccicoso
 - Spray adatto a proteggere la pelle dai raggi solari
 - Agisce efficacemente senza ungere
-- Sulla pelle risulta leggero e non appiccicoso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BZ4V6X5L{{</world>}}

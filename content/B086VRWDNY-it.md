@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Prodotto: Wc Net disincrostante gel è un prodotto specifico contro il calcare ed i batteri del wc
-- Azione anticalcare: la sua formula in gel grazie ai suoi agenti attivi e molecole disincrostanti, elimina il 100% del calcare e aiuta a prevenire la formazione di calcare proteggendo il wc
-- Modalità d’uso: spruzzare abbondantemente WC Net disinfettante disincrostante sotto il bordo e sulle pareti del wc. Lasciare agire il prodotto almeno unora. Per incrostazioni più resistenti lasciare agire il prodotto tutta la notte
-- Azione disinfettante: wc net disincrostante offre un’azione disinfettante eliminando germi e batteri lasciando il wc pulito e brillante
 - Certificazione: il prodotto dal 9/12/2021 è certificato presidio medico chirurgico come disinfettante
+- Modalità d’uso: spruzzare abbondantemente WC Net disinfettante disincrostante sotto il bordo e sulle pareti del wc. Lasciare agire il prodotto almeno unora. Per incrostazioni più resistenti lasciare agire il prodotto tutta la notte
+- Azione anticalcare: la sua formula in gel grazie ai suoi agenti attivi e molecole disincrostanti, elimina il 100% del calcare e aiuta a prevenire la formazione di calcare proteggendo il wc
+- Azione disinfettante: wc net disincrostante offre un’azione disinfettante eliminando germi e batteri lasciando il wc pulito e brillante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B086VRWDNY{{</world>}}

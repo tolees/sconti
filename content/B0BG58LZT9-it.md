@@ -28,11 +28,11 @@ average: '25.99'
 
 ℹ️:
 
-- "SILENZIO DA BIBLIOTECA"– con tasti morbidi e silenziosi, Trezo è il set da scrivania più silenzioso che abbiamo mai realizzato: lavorare sarà più facile e produttivo
-- IMPOSTAZIONE DEI TASTI PER UN MAGGIORE COMFORT – tastiera con poggiapolsi, tasti multimediali, resistenza ai liquidi e layout QWERTY italiano: le tue mani ti ringrazieranno
-- UN CLIC PERFETTO – un mouse silenzioso con regolazione DPI (1000-1400-1800) per mettere a punto la sensibilità e con design ambidestro perfetto per utenti sia mancini che destri
-- UN PIENO DI ENERGIA – tutto il piacere di unesperienza di lavoro totalmente wireless con una batteria di lunga durata (48 mesi per la tastiera e 12 per il mouse)
 - AMORE PER IL PIANETA – realizzato all85% con materiali riciclati per un design sempre più sostenibile e attento allambiente
+- IMPOSTAZIONE DEI TASTI PER UN MAGGIORE COMFORT – tastiera con poggiapolsi, tasti multimediali, resistenza ai liquidi e layout QWERTY italiano: le tue mani ti ringrazieranno
+- UN PIENO DI ENERGIA – tutto il piacere di unesperienza di lavoro totalmente wireless con una batteria di lunga durata (48 mesi per la tastiera e 12 per il mouse)
+- UN CLIC PERFETTO – un mouse silenzioso con regolazione DPI (1000-1400-1800) per mettere a punto la sensibilità e con design ambidestro perfetto per utenti sia mancini che destri
+- "SILENZIO DA BIBLIOTECA"– con tasti morbidi e silenziosi, Trezo è il set da scrivania più silenzioso che abbiamo mai realizzato: lavorare sarà più facile e produttivo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BG58LZT9{{</world>}}

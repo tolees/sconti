@@ -28,12 +28,12 @@ average: '10.99'
 
 ℹ️:
 
-- 15000 ore di durata
+- Forma e dimensioni simili a quelle di una lampadina a incandescenza standard
 - La scelta giusta per il tuo portafoglio e per il tuo pianeta
+- Progettata per il benessere dei tuoi occhi
+- 15000 ore di durata
 - La forma di sempre con la tecnologia LED: goditi il risparmio ed una durata dieci volte superiore ad una lampadina tradizionale
 - Ottime per illuminare qualsiasi spazio della tua casa
-- Progettata per il benessere dei tuoi occhi
-- Forma e dimensioni simili a quelle di una lampadina a incandescenza standard
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09ZBKKGHV{{</world>}}

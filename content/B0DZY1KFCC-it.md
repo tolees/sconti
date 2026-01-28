@@ -28,11 +28,11 @@ average: '54.9'
 
 ℹ️:
 
-- Linee eleganti, attenzione ai dettagli e poggia tazza rimovibile.
-- Funziona esclusivamente con Capsule originali Bialetti il Caffè dItalia in alluminio (INCLUSE 32 CAPSULE)
 - Dotata di un serbatoio da 0,5 litri e di un cassettino che può contenere fino a 8 capsule.
+- Linee eleganti, attenzione ai dettagli e poggia tazza rimovibile.
 - Pensata per chi vuole gustare anche a casa il vero espresso italiano. Piccola, elegante e super compatta, perfetta per ogni cucina- Automatica: scegli il tuo caffè lungo o corto e personalizza la quantità di erogato in tazza grazie al Flow Meter.
 - Lespresso come al bar, cremoso ed omogeneo grazie alla pompa 20 bar. Il sistema Thermoblock garantisce sempre la migliore temperatura per il caffè.
+- Funziona esclusivamente con Capsule originali Bialetti il Caffè dItalia in alluminio (INCLUSE 32 CAPSULE)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DZY1KFCC{{</world>}}

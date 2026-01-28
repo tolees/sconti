@@ -28,10 +28,10 @@ average: '9.96'
 
 ℹ️:
 
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
+- FLACONE RICICLABILE: Flacone realizzato con plastica riciclata (esclusi tappo, coloranti e additivi) e riciclabile
 - USO QUOTIDIANO PER RISULTATI OTTIMALI: Lavaggio dopo lavaggio, migliora lidratazione del cuoio capelluto riducendone i problemi, per cute e capelli liberi dalla forfora
 - EFFICACI PROTEZIONE E PREVENZIONE DALLA FORFORA: Fino al 100% di protezione contro la forfora*, clinicamente testato. *Forfora visibile, con uso regolare
-- FLACONE RICICLABILE: Flacone realizzato con plastica riciclata (esclusi tappo, coloranti e additivi) e riciclabile
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
 - FORMULA MICROBIOMA BILANCIATO: Colpisce alla radice la causa della forfora, mantenendo un buon pH e un buon equilibrio del microbioma del cuoio capelluto
 - FLACONE RICICLABILE: Flacone realizzato con plastica riciclata (esclusi tappo, coloranti e additivi) e riciclabile
 

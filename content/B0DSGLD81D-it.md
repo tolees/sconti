@@ -28,11 +28,11 @@ average: '4.69'
 
 ℹ️:
 
-- PROTEZIONE DEI BAMBINI FINO A 8 ORE - Protegge i tuoi bambini dalle zanzare fino a 8 ore, cosi che possano giocare allaperto senza punture di insetti e fastidiosi pruriti sulla pelle
-- PROTEZIONE DALLE ZANZARE DAI 12+ MESI - Autan Kids e stato appositamente formulato proteggere dalle zanzare le pelli sensibili come quelle dei bambini piccoli dai 12 mesi; Morbido e piacevole sulla pelle, basta applicare il repellente per evitare le fastidiose punture di insetto
 - DERMATOLOGICAMENTE TESTATO - Autan Kids e stato studiato per proteggere la pelle sensibile dalle punture di zanzara; La sua formula, esaminata e approvata dalla Skin Health Alliance, e morbida sulla pelle e dermatologicamente testata
-- PER LE PELLI SENSIBILI - Privo di profumi, coloranti e conservanti, Autan Kids e lantizanzare studiato per bambini; Questo spray repellente aiutera i vostri piccoli a muovere i primi passi senza linterruzione di zanzare o zecche
+- PROTEZIONE DEI BAMBINI FINO A 8 ORE - Protegge i tuoi bambini dalle zanzare fino a 8 ore, cosi che possano giocare allaperto senza punture di insetti e fastidiosi pruriti sulla pelle
 - DALLA MARCA DI INSETTO REPELLENTI NUMERO 1 IN EUROPA - Sostenuto dal SC Johnson Center for Insect Science con oltre 65 anni di storia, Autan Kids si avvale di questa esperienza per fornire protezione a chi cerca un repellente sicuro per la pelle
+- PER LE PELLI SENSIBILI - Privo di profumi, coloranti e conservanti, Autan Kids e lantizanzare studiato per bambini; Questo spray repellente aiutera i vostri piccoli a muovere i primi passi senza linterruzione di zanzare o zecche
+- PROTEZIONE DALLE ZANZARE DAI 12+ MESI - Autan Kids e stato appositamente formulato proteggere dalle zanzare le pelli sensibili come quelle dei bambini piccoli dai 12 mesi; Morbido e piacevole sulla pelle, basta applicare il repellente per evitare le fastidiose punture di insetto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DSGLD81D{{</world>}}

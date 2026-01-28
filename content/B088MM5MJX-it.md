@@ -28,9 +28,9 @@ average: '27.61'
 
 ℹ️:
 
-- Include: 75 carte immagine, 287 carte didascalia standard, 73 carte didascalia esplicite (HOT), cavalletto, regole del gioco
-- Per iniziare, ciascun giocatore pesca 7 carte didascalia; un giudice, a rotazione fra i giocatori, sceglie la carta immagine che verrà utilizzata durante il turno; limmagine viene mostrata ai giocatori e messa sul cavalletto in dotazione
 - La carta didascalia molto divertente vincerà il turno e il giocatore che lha proposta conserverà la carta immagine come Trofeo; vince il giocatore che accumula molte carte immagine rispetto ai suoi avversari
+- Per iniziare, ciascun giocatore pesca 7 carte didascalia; un giudice, a rotazione fra i giocatori, sceglie la carta immagine che verrà utilizzata durante il turno; limmagine viene mostrata ai giocatori e messa sul cavalletto in dotazione
+- Include: 75 carte immagine, 287 carte didascalia standard, 73 carte didascalia esplicite (HOT), cavalletto, regole del gioco
 - I giocatori dovranno scegliere la carta didascalica che, tra 7 a loro disposizione, si abbina alla carta immagine; una volta ricevute tutte le carte didascalia, il giudice potrà sollevarle dal tavolo, mescolarle e leggerle ad alta voce
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ average: '2.39'
 ℹ️:
 
 - Non adatto a bambini di età inferiore a 7 anni
-- Contenuto della confezione: 1 dentifricio Colgate Max White Multi Protect da 50 ml. Nota: si consiglia di conservare il dentifricio a partire da una temperatura di 15°C.
-- Denti bianchi in 3 giorni: il dentifricio Colgate Max White Ultra Multi Protect rimuove lo scolorimento da cibi e bevande
-- Rimuove le tinture – il dentifricio rimuove le macchie superficiali e previene il futuro
 - Sicuro per lo smalto dei denti: il dentifricio protegge lo smalto durante luso quotidiano
+- Denti bianchi in 3 giorni: il dentifricio Colgate Max White Ultra Multi Protect rimuove lo scolorimento da cibi e bevande
+- Contenuto della confezione: 1 dentifricio Colgate Max White Multi Protect da 50 ml. Nota: si consiglia di conservare il dentifricio a partire da una temperatura di 15°C.
+- Rimuove le tinture – il dentifricio rimuove le macchie superficiali e previene il futuro
 - FORMULA FORMALE FORTE: con azione profonda arricchita di ossigeno che penetra in modo sicuro in profondità sotto la superficie dello smalto dei denti e rimuove lo scolorimento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

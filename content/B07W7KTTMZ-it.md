@@ -28,11 +28,11 @@ average: '65.8788888888889'
 
 ℹ️:
 
-- Le parti in plastica di MX Keys Mini includono plastica riciclata post-consumer certificata (Graphite: 30%, Pale Gray e Rose 12%(5)).
-- Ricaricabile USB-C: la carica completa della tastiera Bluetooth MX Keys Mini dura 10 giorni o 5 mesi senza retroilluminazione (3)
-- Impronta di carbonio del prodotto: 10,78 kg di CO2e;
 - Digitazione Precisa con i Tasti Intelligenti (1): digita su tasti leggermente concavi che si adattano alla forma delle dita, con dettatura vocale (4), microfono mute/unmute e tasti Emoji
+- Ricaricabile USB-C: la carica completa della tastiera Bluetooth MX Keys Mini dura 10 giorni o 5 mesi senza retroilluminazione (3)
 - Più Computer, un Solo Flow: abbina la tastiera sottile a un MX Master 3 o MX Anywhere 3 per Mac e digita su più dispositivi in un unico flusso di lavoro (1)
+- Le parti in plastica di MX Keys Mini includono plastica riciclata post-consumer certificata (Graphite: 30%, Pale Gray e Rose 12%(5)).
+- Impronta di carbonio del prodotto: 10,78 kg di CO2e;
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07W7KTTMZ{{</world>}}

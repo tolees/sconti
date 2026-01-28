@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - PER LA COLAZIONE - Ideali per la tua colazione o per la merenda: gocciole e una bella tazza di latte caldo
-- PAVESI - I nostri prodotti contengono solo ingredienti di qualità. Ti accompagniamo in tutti i momenti della giornata: biscotti per la colazione, snack dolci e salati e crackers
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
 - GOCCIOLE INTEGRALI - Gusto unico con tante gocce di cioccolato fondente e una pastafrolla gustosa di farina integrale. Ricche di fibre e gusto, per cambiare la tua giornata da così a così
 - INGREDIENTI - Biscotti frollini con farina integrale, cioccolato fondente, zucchero e burro. Senza olio di palma. La carica giusta per affrontare la giungla giornaliera
+- PAVESI - I nostri prodotti contengono solo ingredienti di qualità. Ti accompagniamo in tutti i momenti della giornata: biscotti per la colazione, snack dolci e salati e crackers
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FBS8NXSJ{{</world>}}

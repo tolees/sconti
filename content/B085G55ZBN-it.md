@@ -28,11 +28,11 @@ average: '194.99'
 
 ℹ️:
 
-- Protezione della Batteria: il nostro frigorifero per auto 12v è dotato di adattatori 120/240 V CA e 12/24 V CC, che possono essere utilizzati a casa o in auto. Il frigorifero per camper offre tre funzioni di protezione della batteria (bassa, media e alta) a diversi livelli. Questo design può impedire il sovraccarico o il cortocircuito dellalimentazione dellauto.
-- Ampio Utilizzo: questo frigorifero con congelatore da 47,5 Qt si adatta perfettamente al bagagliaio, dietro un seggiolino auto o nel letto di un camion. N.B. Controllo singolo a doppia zona. Il grande scomparto a sinistra ti permette di impostare la temperatura di congelamento, mentre quello piccolo a destra non è regolabile e serve per la refrigerazione.
-- Schermo LED e controllo Bluetooth: Puoi impostare qualsiasi temperatura tra -20 °C e 20 °C / -4 °F e 68 °F sul pannello. Il frigo elettrico ha anche la modalità Bluetooth, che ti permette di collegarlo a unapp mobile per controllarlo da remoto.
-- Refrigerazione Efficiente: con la tecnologia di refrigerazione del compressore, questo congelatore per auto potrebbe raggiungere un raffreddamento veloce da -20℃ - 20 ℃/-4 ℉ - 68 ℉ mantenendo il cibo fresco. Perfetto per viaggi, picnic, barbecue, campeggio e feste.
 - Spazio di Stoccaggio da 45L: il frigorifero portatile con capacità di 45L è grande per contenere 48 lattine di coca cola di 330 ml, 28 bottiglie di bevande da 550 ml e 15 bottiglie di vino rosso da 750 ml. Dotato con la certificazione CE, è possibile contenere bevande, verdure, frutta, frutti di mare, carni, prodotti per cura di pelle, latte ect.
+- Schermo LED e controllo Bluetooth: Puoi impostare qualsiasi temperatura tra -20 °C e 20 °C / -4 °F e 68 °F sul pannello. Il frigo elettrico ha anche la modalità Bluetooth, che ti permette di collegarlo a unapp mobile per controllarlo da remoto.
+- Ampio Utilizzo: questo frigorifero con congelatore da 47,5 Qt si adatta perfettamente al bagagliaio, dietro un seggiolino auto o nel letto di un camion. N.B. Controllo singolo a doppia zona. Il grande scomparto a sinistra ti permette di impostare la temperatura di congelamento, mentre quello piccolo a destra non è regolabile e serve per la refrigerazione.
+- Refrigerazione Efficiente: con la tecnologia di refrigerazione del compressore, questo congelatore per auto potrebbe raggiungere un raffreddamento veloce da -20℃ - 20 ℃/-4 ℉ - 68 ℉ mantenendo il cibo fresco. Perfetto per viaggi, picnic, barbecue, campeggio e feste.
+- Protezione della Batteria: il nostro frigorifero per auto 12v è dotato di adattatori 120/240 V CA e 12/24 V CC, che possono essere utilizzati a casa o in auto. Il frigorifero per camper offre tre funzioni di protezione della batteria (bassa, media e alta) a diversi livelli. Questo design può impedire il sovraccarico o il cortocircuito dellalimentazione dellauto.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B085G55ZBN{{</world>}}

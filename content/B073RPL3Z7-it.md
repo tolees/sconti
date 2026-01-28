@@ -28,9 +28,9 @@ average: '32.8'
 
 ℹ️:
 
-- La polo Transat è la nostra classica polo a maniche corte da uomo con una vestibilità classica aggiornata. Piquet di cotone morbido e confortevole con logo ricamato prodotto in Europa, adatto per ogni occasione. Disponibile in una selezione di fantastici colori in modo da poter mescolare e abbinare come preferisci
-- La polo Transat è la nostra classica polo a maniche corte di marca HH da uomo con una vestibilità classica aggiornata
 - Articoli consegnati: 1 polo Helly Hansen Transat da uomo, M, bianco
+- La polo Transat è la nostra classica polo a maniche corte di marca HH da uomo con una vestibilità classica aggiornata
+- La polo Transat è la nostra classica polo a maniche corte da uomo con una vestibilità classica aggiornata. Piquet di cotone morbido e confortevole con logo ricamato prodotto in Europa, adatto per ogni occasione. Disponibile in una selezione di fantastici colori in modo da poter mescolare e abbinare come preferisci
 - Esterno: 100% cotone biologico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

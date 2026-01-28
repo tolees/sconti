@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- PER LA COLAZIONE - Ottimi per la tua colazione o per la merenda: gocciole e una bella tazza di latte caldo
 - GOCCIOLE EXTRA DARK - Irresistibili biscotti al cacao con gocce di cioccolato extra fondente; per un brivido di piacere ancora più sorprendente, prova le Gocciole ExtraDark con il caffè
-- GOCCIOLE - Per una colazione ricca di gusto per affrontare la giornata con allegria e buon umore; semplice pastafrolla con tante gustose gocce al cioccolato
 - INGREDIENTI E ALLERGENI - farina di FRUMENTO, zucchero, cioccolato extra fondente 14%* [pasta di cacao, zucchero, emulsionante: lecitine (SOIA), aroma naturale vaniglia], olio di girasole, amido di FRUMENTO, BURRO, cacao 2%*, cioccolato 1,8%* (zucchero, pasta di cacao, cacao magro, aroma naturale vaniglia), cacao magro 1,2%*, agenti lievitanti (carbonato acido d’ammonio, carbonato acido di sodio), aromi (LATTE), sale. *Percentuali espresse sul prodotto finito. Può contenere tracce di FRUTTA A GUSCIO, SENAPE, SESAMO e UOVA
+- PER LA COLAZIONE - Ottimi per la tua colazione o per la merenda: gocciole e una bella tazza di latte caldo
+- GOCCIOLE - Per una colazione ricca di gusto per affrontare la giornata con allegria e buon umore; semplice pastafrolla con tante gustose gocce al cioccolato
 - PAVESI - I nostri prodotti contengono solo ingredienti di qualità; ti accompagniamo in tutti i momenti della giornata: biscotti per la colazione, snack dolci e salati e crackers
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

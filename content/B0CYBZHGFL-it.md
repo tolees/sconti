@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 1. New e alta qualità.
+- 5.If avete qualsiasi domanda, vi preghiamo di contattarci.We offrirà un eccellente servizio post-vendita.
 - 2. Easy da installare, ma si consiglia linstallazione da professionisti.
 - 4.Compatible with: Intel NUC NUC10 NUC10i3FNH NUC10i5FNH NUC10i7FNH NS65B01
-- 5.If avete qualsiasi domanda, vi preghiamo di contattarci.We offrirà un eccellente servizio post-vendita.
+- 1. New e alta qualità.
 - 3.Only accessorio, non includere istruzioni.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

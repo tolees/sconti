@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Cancellazione ibrida del rumore di 42 dB. Redmi Buds 6 Lite dispone di una cancellazione del rumore ibrida fino a 42 dB, tra cui la riduzione del rumore a banda larga, consentendo una riduzione del rumore efficace fino a 2000 Hz, che copre una vasta gamma di frequenze basse comuni in giorno per giorno
-- 2 microfoni con AI e riduzione del rumore dal vento di 6 m/s. Rispetto alla generazione precedente questa versione incorpora due microfoni con intelligenza artificiale per una riduzione del rumore superiore durante le chiamate
 - Diaframma placcato in titanio da 12,4 mm. Diaframma rivestito in titanio da 12,4 mm. Design della fotocamera posteriore con struttura indipendente. Quattro impostazioni di effetti sonori
 - Batteria di lunga durata. Batteria unica: 7 ore di utilizzo continuo per tutto il giorno. Scatola di ricarica inclusa: prolunga la durata della batteria a 38 ore, sufficiente per una settimana di utilizzo. Ricarica super veloce: ricarica per 10 minuti e goditi 2 ore di riproduzione musicale
+- 2 microfoni con AI e riduzione del rumore dal vento di 6 m/s. Rispetto alla generazione precedente questa versione incorpora due microfoni con intelligenza artificiale per una riduzione del rumore superiore durante le chiamate
 - Connessione conveniente ed esperienza superiore. Supporto per il matchmaking rapido di Google. Compatibilità con lapp Xiaomi Headphones
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

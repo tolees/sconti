@@ -28,11 +28,11 @@ average: '19.8128571428571'
 
 ℹ️:
 
-- Esplora HELL-A: Dead Island 2 porta i giocatori nelle location della Città degli Angeli, ora intrise di orrore
+- Ledizione Pulp include anche il pacchetto Armi pulp, con due armi distintive che lasciano un ricordo indelebile
 - Diventa lammazzazombi: ci sono sei personaggi tra cui scegliere, ognuno con personalità e dialoghi diversi
 - Include il pacchetto Ricordi di Banoi che contiene: Randello di Banoi, Mazza da baseball Ricordi di Banoi, Vantaggio arma; equilibrio, Scheda abilità spazio personale
-- Ledizione Pulp include anche il pacchetto Armi pulp, con due armi distintive che lasciano un ricordo indelebile
 - Feroce mischia in libertà: il combattimento offre lesperienza in prima persona intensa, viscerale e cruenta possibile
+- Esplora HELL-A: Dead Island 2 porta i giocatori nelle location della Città degli Angeli, ora intrise di orrore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BLW2KDG3{{</world>}}

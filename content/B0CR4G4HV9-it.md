@@ -28,9 +28,9 @@ average: '12.9'
 
 ℹ️:
 
-- Ion Real: gli ioni del phon agiscono sui capelli per renderli molto più luminosi e idratati e migliorano il naturale anti-crespo.
 - Potente motore di nuova generazione con 2500 W per unasciugatura rapida e uniforme. Grazie alla regolazione della temperatura e della velocità potrai scegliere le impostazioni ideali per i tuoi capelli e acconciature. Dispone di due posizioni di velocità e tre posizioni di temperatura, tra cui la funzione di aria fredda, offrendo un extra di fissaggio nella pettinatura per mantenerla perfetta e duratura più a lungo.
 - Include un ugello di precisione per una finitura duratura e perfetta e un diffusore che aiuta a ottenere un maxivolume naturale nelle radici e definire facilmente i riccioli con finiture professionali e durevoli. Inoltre, è dotato di 1,8 m di cavo in modo da poter utilizzare lasciugacapelli comodamente ovunque, con piena libertà di movimento.
+- Ion Real: gli ioni del phon agiscono sui capelli per renderli molto più luminosi e idratati e migliorano il naturale anti-crespo.
 - Emette una grande portata daria per asciugare i capelli in modo rapido. Inoltre, possiede una tecnologia Hair Care per proteggere i capelli dal calore estremo. Include anche un robusto anello per appendere lasciugacapelli ovunque quando non lo usi o per riporlo senza occupare spazio extra.
 - Pro Style: cura dei capelli migliorando la tenuta delle cuticole per una finitura ultra brillante e senza perdita di colore. Inoltre, il filtro del nostro asciugacapelli è molto comodo e facile da pulire grazie alla griglia posteriore rimovibile, che prolunga la vita dellessiccatore e permette di funzionare a livelli ottimali.
 

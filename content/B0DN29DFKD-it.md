@@ -28,11 +28,11 @@ average: '25.43'
 
 ℹ️:
 
-- BENEFICI: Dona forza e vitalità ai capelli, li rende luminosi e profumati.
-- MULAC COSMETICS: Marchio italiano fondato nel 2014. Lazienda si distingue per la produzione di cosmetici naturali e vegani ad alte performance, offrendo una vasta gamma di prodotti per il make-up, la cura dei capelli e della pelle. La filosofia di Mulac promuove lunicità e la diversità, invitando la community a esprimere la propria arte e individualità.
-- VEGAN & CRUELTY FREE: Tutti i nostri prodotti sono formulati senza ingredienti di origine animale e non vengono testati su di essi.
-- ESSENZA RISTRUTTURANTE: Arricchita con estratto di fico d’India per idratazione e micro-cheratina vegetale da canapa e riso per protezione e riparazione, dona morbidezza e luminosità ai capelli. Fragranza raffinata che unisce pera nashi, yuzu, fiori di pero, fresia, sandalo e muschio.
 - CONSIGLI DI UTILIZZO: Spruzzare su capelli asciutti da una distanza di 20 cm circa, tenendo gli occhi chiusi. Perfetto da utilizzare in combo con Huileberry, per un risultato ancora più intenso e duraturo.
+- MULAC COSMETICS: Marchio italiano fondato nel 2014. Lazienda si distingue per la produzione di cosmetici naturali e vegani ad alte performance, offrendo una vasta gamma di prodotti per il make-up, la cura dei capelli e della pelle. La filosofia di Mulac promuove lunicità e la diversità, invitando la community a esprimere la propria arte e individualità.
+- ESSENZA RISTRUTTURANTE: Arricchita con estratto di fico d’India per idratazione e micro-cheratina vegetale da canapa e riso per protezione e riparazione, dona morbidezza e luminosità ai capelli. Fragranza raffinata che unisce pera nashi, yuzu, fiori di pero, fresia, sandalo e muschio.
+- VEGAN & CRUELTY FREE: Tutti i nostri prodotti sono formulati senza ingredienti di origine animale e non vengono testati su di essi.
+- BENEFICI: Dona forza e vitalità ai capelli, li rende luminosi e profumati.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DN29DFKD{{</world>}}

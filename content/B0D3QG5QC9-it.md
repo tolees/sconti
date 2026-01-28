@@ -28,12 +28,12 @@ average: '199.0'
 
 ℹ️:
 
-- Continua la Stampa Automatica: Kobra 3 riprende la stampa dove è stata interrotta dopo una mancanza di corrente o filamento. Funziona con la fotocamera che controlla il processo di stampa riducendo efficacemente il mostro di spaghetti
-- 600 mm/s Alta Velocità: la velocità massima di stampa del cobra 3 è di 600 mm/s. La velocità di stampa consigliata è di 300 mm/s. Laccelerazione massima è di 20000 mm/s². Volume di stampa di 250 mm x 250 mm x 260 mm
-- Stampa Multicolore con ACE Pro: personalizza le tue creazioni con facilità. Con Anycubic ACE Pro e Kobra 3 è possibile stampare in 4 colori e 8 colori in combinazione con lhub Anycubic Color Engine che è stato progettato nel terzo Trimestre sarà disponibile
-- Livellamento Automatico LeviQ 3.0: la struttura dinamica di Kobra 3 ha doppi mandrini metallici e cuscinetti SG15 per prestazioni di stampa fluide e affidabili anche alle alte velocità
 - Supporto: esiste un diritto di restituzione o sostituzione di 30 giorni e una garanzia limitata di un anno (il periodo di garanzia per alcune parti è di 3-6 mesi). Inoltre, il produttore fornisce supporto tecnico professionale a vita
+- Livellamento Automatico LeviQ 3.0: la struttura dinamica di Kobra 3 ha doppi mandrini metallici e cuscinetti SG15 per prestazioni di stampa fluide e affidabili anche alle alte velocità
+- Stampa Multicolore con ACE Pro: personalizza le tue creazioni con facilità. Con Anycubic ACE Pro e Kobra 3 è possibile stampare in 4 colori e 8 colori in combinazione con lhub Anycubic Color Engine che è stato progettato nel terzo Trimestre sarà disponibile
 - Compensazione delle Vibrazioni: dotato di un accelerometro integrato che rileva le frequenze di vibrazione e regola in modo intelligente il controllo del movimento per evitare problemi di ringing - per stampe eccezionalmente uniformi e di alta qualità
+- 600 mm/s Alta Velocità: la velocità massima di stampa del cobra 3 è di 600 mm/s. La velocità di stampa consigliata è di 300 mm/s. Laccelerazione massima è di 20000 mm/s². Volume di stampa di 250 mm x 250 mm x 260 mm
+- Continua la Stampa Automatica: Kobra 3 riprende la stampa dove è stata interrotta dopo una mancanza di corrente o filamento. Funziona con la fotocamera che controlla il processo di stampa riducendo efficacemente il mostro di spaghetti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D3QG5QC9{{</world>}}

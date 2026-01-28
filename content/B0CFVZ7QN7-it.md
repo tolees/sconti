@@ -28,10 +28,10 @@ average: '69.99'
 
 ℹ️:
 
-- Maniglia e motori rotanti: i giovani esploratori spaziali possono far volare laereo cargo giocattolo usando la maniglia, possono far ruotare i motori e osservare la cabina di guida autolivellante mentre eseguono le manovre di volo
 - Camera di equilibrio: il set contiene un elemento camera di equilibrio che consente ai bambini di collegare il veicolo giocattolo ad altri set LEGO space compatibili (disponibili a parte), per tante avventure spaziali
-- Giochi spaziali da costruire: questo set è unottima idea regalo per i bambini amanti dei viaggi nello spazio, un gioco divertente per i fan degli aerei spaziali futuristici
 - Aereo giocattolo per le missioni spaziali: il set LEGO Technic lAstronave Heavy Cargo VTOL LT81, è un gioco per bambini e bambine da 10 anni in su con cui costruire un aereo spaziale da esplorazione e carico
+- Maniglia e motori rotanti: i giovani esploratori spaziali possono far volare laereo cargo giocattolo usando la maniglia, possono far ruotare i motori e osservare la cabina di guida autolivellante mentre eseguono le manovre di volo
+- Giochi spaziali da costruire: questo set è unottima idea regalo per i bambini amanti dei viaggi nello spazio, un gioco divertente per i fan degli aerei spaziali futuristici
 - Aereo giocattolo da trasporto: lastronave spaziale include un mini rover LEGO, che può essere caricato nella capsula di carico, oppure fatto scendere dal veicolo giocattolo utilizzando l’artiglio estensibile
 - Decollo verticale e carrello di atterraggio: i bambini possono aprire e ritrarre il carrello di atterraggio dellastronave giocattolo, pronti per decollare verso sfide entusiasmanti e tante missioni spaziali
 

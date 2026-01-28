@@ -28,9 +28,9 @@ average: '9.1'
 
 ℹ️:
 
+- MODO DUSO - Prodotto concentrato. Agitare prima delluso. IN LAVATRICE: versare 10/20ml di prodotto nella vaschetta della lavatrice dedicata allultimo risciacquo a seconda dellintensità del profumo desiderata. Rimuovere immediatamente il prodotto fuoriuscito. IN ASCIUGATRICE: versare qualche goccia su un fazzoletto di tessuto e posizionarlo allinterno dellasciugatrice. A MANO: aggiungere 10/20 ml di prodotto ogni 5 litri dacqua nellultimo risciacquo utilizzando guanti protettivi.
 - MADE IN ITALY - HOROMIA, marchio italiano deccellenza, garantisce qualità e passione per le fragranze, interamente prodotte in Italia e pensate per arricchire i tuoi capi con un tocco unico.
 - NOTE OLFATTIVE - Bianco Infinito è un soffio di purezza senza fine: le delicate note talcate si aprono con leggerezza, abbracciando la raffinatezza della magnolia in un cuore luminoso e avvolgente, mentre il calore della vaniglia e la morbidezza del muschio bianco cullano i sensi in un abbraccio elegante e rilassante, evocando la serenità di uneleganza senza tempo.
-- MODO DUSO - Prodotto concentrato. Agitare prima delluso. IN LAVATRICE: versare 10/20ml di prodotto nella vaschetta della lavatrice dedicata allultimo risciacquo a seconda dellintensità del profumo desiderata. Rimuovere immediatamente il prodotto fuoriuscito. IN ASCIUGATRICE: versare qualche goccia su un fazzoletto di tessuto e posizionarlo allinterno dellasciugatrice. A MANO: aggiungere 10/20 ml di prodotto ogni 5 litri dacqua nellultimo risciacquo utilizzando guanti protettivi.
 - UNA FRESCHEZZA CHE DURA NEL TEMPO - HOROMIA profuma bucato assicura una fragranza persistente fino a 150 giorni, mantenendo i tuoi capi e tessuti gradevolmente profumati in armadi e cassetti. Un alleato indispensabile per una sensazione di pulito prolungata.
 - PROFUMO PER BUCATO - Le Essenze HOROMIA sono molto più di semplici profumi per bucato. Dedicate alle donne che amano un tocco di stile in più, bastano poche gocce aggiunte in lavatrice per ottenere capi profumati in grado di regalarvi sensazioni di benessere per tutta la giornata
 

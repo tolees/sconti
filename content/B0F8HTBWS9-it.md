@@ -28,11 +28,11 @@ average: '69.9'
 
 ℹ️:
 
-- Programmabile: la macchina per il caffè è programmabile 24 ore su 24 per preparare automaticamente il caffè allora desiderata
-- 1086 W di potenza: goditi un riscaldamento rapido ed efficiente della macchina per il caffè; aroma massimo: tecnologia ExtremeAroma che consente di ottenere un sapore di caffè più intenso attraverso una spruzzatura e un gocciolamento continui
 - Ampia capacità del macinacaffè: contiene circa 14-15 cucchiai di chicchi di caffè (80-87 g)
 - Acciaio inossidabile: macchina per il caffè americano con finitura in acciaio inossidabile; spegnimento automatico: goditi un utilizzo sicuro della macchina per il caffè
+- 1086 W di potenza: goditi un riscaldamento rapido ed efficiente della macchina per il caffè; aroma massimo: tecnologia ExtremeAroma che consente di ottenere un sapore di caffè più intenso attraverso una spruzzatura e un gocciolamento continui
 - Macinacaffè a lame: il tempo di macinatura è di 30 secondi per un caffè standard e di 35 secondi per un caffè più fine; fino a 12 tazze di caffè: ampia capacità da 1.8 L per preparare fino a 12 tazze di caffè
+- Programmabile: la macchina per il caffè è programmabile 24 ore su 24 per preparare automaticamente il caffè allora desiderata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F8HTBWS9{{</world>}}

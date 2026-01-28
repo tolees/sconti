@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - DOUBLE EXPOSURE: The Now camera can frame two moments in one with double exposure, or get yourself in the picture with self-timer and an accurate flash to make everyone look like they should.
-- POINT. SHOOT. KEEP FOREVER: Now camera is compatible with both i-Type film and 600 film. Film sold seperately.
-- NEW & IMPROVED: Our new Now Generation 2 analog instant camera is now made with 40% recycled materials and the internal lithium-ion battery charges via USB-C
-- NEW NOW INSTANT CAMERA: Capture and keep your everyday moments forever with the Polaroid Now i-Type Instant Film Camera.
 - FULL COLOR: The Polaroid Now Generation 2 is available in 4 vibrant colors including Black, Panda, Red and Blue. Neck strap and USB charging cable included.
+- POINT. SHOOT. KEEP FOREVER: Now camera is compatible with both i-Type film and 600 film. Film sold seperately.
+- NEW NOW INSTANT CAMERA: Capture and keep your everyday moments forever with the Polaroid Now i-Type Instant Film Camera.
+- NEW & IMPROVED: Our new Now Generation 2 analog instant camera is now made with 40% recycled materials and the internal lithium-ion battery charges via USB-C
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BVNMQ2XL{{</world>}}

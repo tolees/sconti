@@ -28,11 +28,11 @@ average: '11.94'
 
 ℹ️:
 
-- SOLEGRO: vini frizzanti freschi e delicati, dal moderato contenuto alcolico. Un frizzante piacere per accompagnare pasti e aperitivi.
 - NOTE DEGUSTATIVE: dal colore giallo paglierino con brillanti riflessi verdognoli, questo vino frizzante è intenso e fresco, con note floreali ma anche fruttate di persa e albicocca. Al palato è morbido e piacevole, con una dolce sensazione di freschezza.
-- FORMATO: Confezione con 6 bottiglie da 750 ml ciascuna
-- ABBINAMENTO: Ottimo da abbinare al dessert e pasticceria
+- SOLEGRO: vini frizzanti freschi e delicati, dal moderato contenuto alcolico. Un frizzante piacere per accompagnare pasti e aperitivi.
 - SOLEGRO VINO BIANCO FRIZZANTE AMABILE: vino frizzante fresco e piacevole, ottimo da abbinare al dessert e pasticceria. Gradazione alcolica 8% vol. Prodotto in Italia.
+- ABBINAMENTO: Ottimo da abbinare al dessert e pasticceria
+- FORMATO: Confezione con 6 bottiglie da 750 ml ciascuna
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C7RHVGD3{{</world>}}

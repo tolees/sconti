@@ -28,11 +28,11 @@ average: '30.9'
 
 ℹ️:
 
-- Vitamine A, D & E
 - Aiuta a supportare denti e gengive sane; favorisce occhi vivaci, segno di vitalità, un pelo lucido ed una cute sana
-- Il cibo per cani Friskies Nutri Soft è un alimento per cani 100% completo e bilanciato, preparato esclusivamente con gustosi bocconi con manzo
-- Le 5 Promesse che abbiamo a cuore: Nutrizione 100% Completa e Bilanciata, Qualità, Esperienza, Tracciabilità degli ingredienti & confezioni riciclabili o riutilizzabili entro il 2025
+- Vitamine A, D & E
 - Le crocchette per cani Friskies Adult sono Senza Coloranti, Aromatizzanti o Conservanti Artificiali
+- Le 5 Promesse che abbiamo a cuore: Nutrizione 100% Completa e Bilanciata, Qualità, Esperienza, Tracciabilità degli ingredienti & confezioni riciclabili o riutilizzabili entro il 2025
+- Il cibo per cani Friskies Nutri Soft è un alimento per cani 100% completo e bilanciato, preparato esclusivamente con gustosi bocconi con manzo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09B7R9WJJ{{</world>}}

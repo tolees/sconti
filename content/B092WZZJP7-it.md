@@ -30,8 +30,8 @@ average: '15.12'
 
 - COSA CONTIENE: gioco Made in Italy con 1 tabellone, 150 carte domanda, 60 carte lettera e 40 carte categoria, 6 pedine, 36 gettoni, 1 dado e il regolamento per scoprire tutte le regole di gioco
 - CLEMENTONI GIOCHI DA TAVOLO: sfide appassionanti per stimolare la mente e limmaginazione, da soli o in compagnia; grandi classici, giochi di carte e di magia, giochi in scatola a licenza e giochi con idee e meccaniche originali
-- COME GIOCARE: una volta girata la freccia, rispondere alle domande su definizioni di parole, sinonimi, contrari, grammatica e modi di dire; vince chi ottiene per primo più gettoni
 - GIOCO DA TAVOLO: divertiti in compagnia della famiglia al gioco "Ce lho", con 600 domande per mettere alla prova la conoscenza dellitaliano
+- COME GIOCARE: una volta girata la freccia, rispondere alle domande su definizioni di parole, sinonimi, contrari, grammatica e modi di dire; vince chi ottiene per primo più gettoni
 - IMPARARE GIOCANDO: il gioco "Ce lho" sviluppa il lessico e stimola la scoperta di parole sconosciute; un modo divertente per imparare e passare delle belle giornate in famiglia o compagnia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

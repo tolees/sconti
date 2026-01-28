@@ -28,11 +28,11 @@ average: '9.53499999999998'
 
 ℹ️:
 
-- Solari 2025: ISDIN S25
 - Isdin: Solari Isdin
-- Prodotti in offerta: Sconto dal 20% al 30%
+- Solari 2025: ISDIN S25
 - Fattore di Protezione: SPF 30
 - Promozioni: Solari
+- Prodotti in offerta: Sconto dal 20% al 30%
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07N1LNNLZ{{</world>}}

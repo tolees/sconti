@@ -28,10 +28,10 @@ average: '13.09'
 
 ℹ️:
 
-- Consigliato per bambini dai 5 ai 6 anni, anche se letà è molto relativa in termini di puzzle.
 - I puzzle aiutano a migliorare e sviluppare una moltitudine di capacità e abilità: migliorano la concentrazione, losservazione, la memoria e la risoluzione dei problemi; sviluppano percezione spaziale, psicomotricità fine e coordinazione occhio-mano.
 - Puzzle per bambini di animali minacciati, modello oceano, per identificare le specie a rischio di estinzione e per aumentare la consapevolezza nei più piccoli circa limportanza di prendersi cura dellecosistema. Una volta costruito il puzzle, i bambini impareranno a conoscere il mondo marino.
 - Include 200 pezzi di dimensioni 6 x 3 cm e 2 schede con informazioni sulle specie minacciate e le ragioni della loro situazione in 16 lingue diverse. Dimensioni del puzzle montato: 100 x 30 cm.
+- Consigliato per bambini dai 5 ai 6 anni, anche se letà è molto relativa in termini di puzzle.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DB1Y9KNB{{</world>}}

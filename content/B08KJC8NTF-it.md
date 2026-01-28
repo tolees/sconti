@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Defence Hair è la linea per la detersione quotidiana dei capelli e della cute formulata per tutte le esigenze, proteggendo la pelle più sensibile ed esaltando la naturale bellezza della chioma
-- Shampoo antiforfora dermopurificante e lenitivo per il capello, allevia la desquamazione da forfora secca e restituisce idratazione alla cute, donando capelli puliti e sani più a lungo
 - Applicare sui capelli inumiditi e massaggiare delicatamente anche sul cuoio capelluto, lasciare in posa qualche minuto prima di risciacquare; nickel tested e senza conservanti e glutine
+- Shampoo antiforfora dermopurificante e lenitivo per il capello, allevia la desquamazione da forfora secca e restituisce idratazione alla cute, donando capelli puliti e sani più a lungo
+- Defence Hair è la linea per la detersione quotidiana dei capelli e della cute formulata per tutte le esigenze, proteggendo la pelle più sensibile ed esaltando la naturale bellezza della chioma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08KJC8NTF{{</world>}}

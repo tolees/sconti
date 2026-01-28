@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- CHASSIS E GARANZIA: lo chassis è realizzato con materiali eco-sostenibili e la confezione è senza plastica. La garanzia di 2 anni sul prodotto e la garanzia sulle apparecchiature collegate fino a 2.000 € offrono una maggiore sicurezza sulla qualità.
-- MODALITÀ STANDBY: se usata come un supporto, la base di ricarica è compatibile con StandBy. Potrai impostare la tua modalità preferita e ottieni una visualizzazione chiara dellorario in ufficio, in una camera dhotel o in qualsiasi luogo ti trovi.
-- RICARICA VELOCE 3 IN 1: posiziona il telefono sul supporto con MagSafe per usufruire di una ricarica Qi2 rapida fino a 15 W, per iPhone, anche con la custodia è inserita (massimo 3 mm), e ricarica anche AirPods e Apple Watch Series fino a 5 W.
 - INDICATORE LED: sul tappetino di ricarica Qi da 5 W per AirPods o auricolari Belkin compatibili, il LED integrato comunica lo stato di ricarica degli auricolari. Con un rapido sguardo saprai subito il livello di carica della batteria.
+- RICARICA VELOCE 3 IN 1: posiziona il telefono sul supporto con MagSafe per usufruire di una ricarica Qi2 rapida fino a 15 W, per iPhone, anche con la custodia è inserita (massimo 3 mm), e ricarica anche AirPods e Apple Watch Series fino a 5 W.
 - TECNOLOGIA QI2 + ALIMENTATORE: il dock di ricarica wireless sfrutta lo standard magnetico Qi2 per ottimizzare l’uso di energia e salvaguardare la batteria. La confezione include u alimentatore da 36 W e un cavo da USB-C a USB-C intrecciato da 1,5 m.
 - ANGOLAZIONE REGOLABILE PER IPHONE: il caricabatteria 3 in 1 supporta entrambe le modalità paesaggio e ritratto, da 0 a 90 gradi. Ti basterà appoggiare l’iPhone sulla sua superficie e potrai inclinare il supporto all’angolazione da te preferita.
+- MODALITÀ STANDBY: se usata come un supporto, la base di ricarica è compatibile con StandBy. Potrai impostare la tua modalità preferita e ottieni una visualizzazione chiara dellorario in ufficio, in una camera dhotel o in qualsiasi luogo ti trovi.
+- CHASSIS E GARANZIA: lo chassis è realizzato con materiali eco-sostenibili e la confezione è senza plastica. La garanzia di 2 anni sul prodotto e la garanzia sulle apparecchiature collegate fino a 2.000 € offrono una maggiore sicurezza sulla qualità.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D2NRYCL4{{</world>}}

@@ -28,11 +28,11 @@ average: '37.49'
 
 ℹ️:
 
-- TRADIZIONE INNOVATIVA: EPC è una cantina giovane e innovativa, fondata nel 2019, che si distingue per la sua visione pionieristica della produzione di Champagne. Collaborando strettamente con viticoltori locali, EPC crea cuvée uniche che esaltano le caratteristiche distintive dei diversi terroir della regione.
-- CHAMPAGNE BLANC DE BLANCS BRUT NATURE: Fermentazione malolattica in vasche di acciaio inox per esaltare la pienezza, la dolcezza e la purezza del frutto. Laffinamento dura un periodo di almeno 24 mesi.
-- SERVIZIO E CONSUMO: Consigliato servire a 8-10 °C in bicchiere tulipano. Il consumo ideale è entro i 4-5 anni.
 - ABBINAMENTI GASTRONOMICI: Si consiglia con tartare di capesante, zucchine arrostite con feta, primi piatti, pesce al forno e prosciutto crudo.
+- TRADIZIONE INNOVATIVA: EPC è una cantina giovane e innovativa, fondata nel 2019, che si distingue per la sua visione pionieristica della produzione di Champagne. Collaborando strettamente con viticoltori locali, EPC crea cuvée uniche che esaltano le caratteristiche distintive dei diversi terroir della regione.
+- SERVIZIO E CONSUMO: Consigliato servire a 8-10 °C in bicchiere tulipano. Il consumo ideale è entro i 4-5 anni.
 - PUREZZA MASSIMA: Champagne in tutta la sua purezza. Nessun trucco per questa cuvée nitida e precisa. Note minerali di pietra focaia, gemma di ribes nero con un carattere leggermente mentolato. Leggera amarezza sul finale con i suoi aromi di frutta secca.
+- CHAMPAGNE BLANC DE BLANCS BRUT NATURE: Fermentazione malolattica in vasche di acciaio inox per esaltare la pienezza, la dolcezza e la purezza del frutto. Laffinamento dura un periodo di almeno 24 mesi.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FL4HNYJ3{{</world>}}

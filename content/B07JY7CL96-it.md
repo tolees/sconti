@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- FACILE SOSTITUZIONE DEL FILO SENZA INFILATURE - quando il filo è da sostituire, basta staccare la testa e infilare direttamente il nuovo filo. Lavanzamento automatico del filo eroga la giusta quantità di nuovo filo ogni volta che si avvia lapparecchio
 - DOTATO DI 2 BATTERIE AL LITIO 40V 2Ah DI NUOVA GENERAZIONE - per averne una in uso e laltra in carica. Queste batterie al litio evolute possono essere utilizzate con qualsiasi apparecchio Greenworks da 40V per risparmiare spazio e denaro
-- TAGLIABORDI POTENTE, LEGGERO E BEN BILANCIATO - con maniglia anteriore regolabile per impostare una comoda altezza di lavoro e albero divisibile per riporlo più facilmente - ideale per tagliare lerba lunga dove il tosaerba non può arrivare
 - PROTEZIONE PER PIANTE E ALBERI - possibilità di variare la velocità per una rasatura più accurata intorno a piante delicate. La protezione per piante integrata consente di proteggere la corteccia alla base degli alberi posizionandola contro il tronco
 - 3 ANNI DI GARANZIA CON 2 ANNI DI GARANZIA PER LA BATTERIA - Da Greenworks, leader mondiale negli attrezzi elettrici e della tecnologia a batterie, con una reputazione globale per design intelligente, prestazioni elevate e un servizio clienti eccezionale
-- FACILE SOSTITUZIONE DEL FILO SENZA INFILATURE - quando il filo è da sostituire, basta staccare la testa e infilare direttamente il nuovo filo. Lavanzamento automatico del filo eroga la giusta quantità di nuovo filo ogni volta che si avvia lapparecchio
+- TAGLIABORDI POTENTE, LEGGERO E BEN BILANCIATO - con maniglia anteriore regolabile per impostare una comoda altezza di lavoro e albero divisibile per riporlo più facilmente - ideale per tagliare lerba lunga dove il tosaerba non può arrivare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07JY7CL96{{</world>}}

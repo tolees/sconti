@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Ritagliabile per adattarlo alla misura desiderata
-- In silicone resistente al calore
 - Dimensioni: 42 x 30 cm
+- In silicone resistente al calore
 - Con beccuccio per rimuovere l’acqua raccolta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

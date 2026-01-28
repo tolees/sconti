@@ -29,11 +29,11 @@ average: '56.55'
 ℹ️:
 
 - Ottimo elemento da esposizione: lo stand da costruire è dotato di targhetta e di un mattoncino per festeggiare il 25° anniversario LEGO Star Wars; un accattivante progetto visivo pensato per larredamento di casa o dellufficio
-- Modellino da costruire di astronave Tantive IV: ricrea l’emozione della scena di apertura di Star Wars: Una nuova speranza, costruendo la versione in mattoncini LEGO in scala media, di un iconico veicolo Star Wars
 - Realizza la tua astronave LEGO Star Wars con l’assistenza di un’app: grazie agli strumenti digitali dell’app LEGO Builder, puoi costruire i modellini in 3D, monitorare i progressi e salvare i tuoi set
-- Nave Star Wars piena di dettagli: usa i mattoncini di questo set di modellismo LEGO per adulti, per catturare ogni dettaglio della Tantive IV, compresi i suoi 11 motori e il turbolaser
-- Regalo per gli appassionati: questo set da 654 pezzi è unottima idea regalo per i fan di Star Wars e per i collezionisti LEGO adulti, con cui festeggiare il compleanno o un anniversario
+- Modellino da costruire di astronave Tantive IV: ricrea l’emozione della scena di apertura di Star Wars: Una nuova speranza, costruendo la versione in mattoncini LEGO in scala media, di un iconico veicolo Star Wars
 - Veicolo da collezione LEGO Star Wars: questo set fa parte di una serie di modellini da costruire LEGO Star Wars per adulti in scala media, con iconiche astronavi da esporre e da collezionare
+- Regalo per gli appassionati: questo set da 654 pezzi è unottima idea regalo per i fan di Star Wars e per i collezionisti LEGO adulti, con cui festeggiare il compleanno o un anniversario
+- Nave Star Wars piena di dettagli: usa i mattoncini di questo set di modellismo LEGO per adulti, per catturare ogni dettaglio della Tantive IV, compresi i suoi 11 motori e il turbolaser
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CFW1NPZK{{</world>}}

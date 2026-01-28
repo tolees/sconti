@@ -28,9 +28,9 @@ average: '6.36'
 
 ℹ️:
 
-- Il gonfiore addominale è una sensazione causata dall’eccessivo accumulo di gas a livello intestinale e può comportare fastidio localizzato e malessere generale
 - Confezione da 20 bustine. Lactoflorene Pancia Piatta è disponibile anche in formato da 10 bustine. Busta T-WIN con 2 camere per separare gli ingredienti fino all’uso e garantirne la qualità
 - Modo d’uso: 1 bustina al giorno, prima dei pasti principali. Sciogliere il contenuto in un bicchiere d’acqua e bere immediatamente dopo la preparazione
+- Il gonfiore addominale è una sensazione causata dall’eccessivo accumulo di gas a livello intestinale e può comportare fastidio localizzato e malessere generale
 - Lactoflorene Pancia Piatta è ricco di estratti vegetali: Melissa, Passiflora, Camomilla, Zenzero, Finocchio e Carciofo utili a contrastare il gonfiore addominale
 - Lactoflorene Pancia Piatta è un integratore alimentare a base di fermenti lattici vivi ad azione probiotica, enzimi digestivi ed estratti vegetali. Senza glutine, senza lattosio
 

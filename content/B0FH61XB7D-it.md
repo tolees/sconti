@@ -28,11 +28,11 @@ average: '10.43'
 
 ℹ️:
 
+- UN REGALO DI CANDELA SPLENDIDO: le etichette decorative presentano immagini di fragranze illustrate a mano e sono tanto attraenti quanto profumate.
 - MISCELA DI CERA DI SOIA: Per colori vivaci e una combustione uniforme
+- CANDELE PROFUMATE DI NATALE: Questo set regalo contiene tre candele votive mini riempite Signature profumate per le feste nelle fragranze Vanilla Cupcake, Black Cherry, Cinnamon Stick
 - LA DIMENSIONE PERFETTA: le mini candele votive riempite Yankee Candle hanno la dimensione perfetta per un campionamento alla ricerca della tua nuova fragranza preferita
 - IMBALLAGGIO RICICLABILE: aiuta Yankee Candle a dare una seconda vita a questo imballaggio riciclandolo correttamente e continua a diffondere la gioia
-- CANDELE PROFUMATE DI NATALE: Questo set regalo contiene tre candele votive mini riempite Signature profumate per le feste nelle fragranze Vanilla Cupcake, Black Cherry, Cinnamon Stick
-- UN REGALO DI CANDELA SPLENDIDO: le etichette decorative presentano immagini di fragranze illustrate a mano e sono tanto attraenti quanto profumate.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FH61XB7D{{</world>}}

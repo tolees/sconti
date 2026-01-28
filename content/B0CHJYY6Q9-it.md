@@ -28,9 +28,9 @@ average: '23.6533333333333'
 
 ℹ️:
 
-- ENTRIAMO: Ti piacciono i cambiamenti di design per la casa? Aiutami a progettare ogni stanza con meravigliose carte da parati e decorazioni scintillanti. Rendi questa DreamHouse la tua casa dei sogni.
 - GLI AMICI PIÙ COOL: Incontra Barbie e i suoi migliori amici; "Brooklyn" Roberts, Renee, un fanatico dello sport; Daisy, una talentuosa DJ; Teresa, amante della scienza; Nikki, una aspirante stilista di moda e lunico Ken! Inoltre, conosci la sua famiglia, comprese le sue sorelle divertenti: Skipper, Stacie e Chelsea! Persino i suoi genitori, il signor e la signora Roberts, si uniscono allavventura!
 - CUCINA, PASTICCERIA E GIARDINAGGIO: Perché non unirti a me nella mia fantastica cucina? Ci sono così tante deliziose ricette da cucinare! Oppure passa del tempo nel tuo giardino e coltiva i tuoi frutti e verdure preferiti.
+- ENTRIAMO: Ti piacciono i cambiamenti di design per la casa? Aiutami a progettare ogni stanza con meravigliose carte da parati e decorazioni scintillanti. Rendi questa DreamHouse la tua casa dei sogni.
 - PARRUCCHIERE: Preparati per un cambio di look! Cè un salone di bellezza nella DreamHouse e puoi progettare tantissimi stili di acconciatura diversi!
 - VESTITI: Hai qualche consiglio di moda? Vestiti con bellissimi abiti da principessa o rilassati in comodi pigiama, cè un outfit per tutti! Preparati per un cambio di look! Trascorri una giornata di trasformazione con Teresa e scopri tutti gli accessori alla moda che puoi aggiungere al tuo nuovo look!
 

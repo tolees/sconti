@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- 3 SALI ORGANICI DI MAGNESIO: Da sali organici citrato, pidolato e glicerofosfato, per lequilibrio elettrolitico, il normale metabolismo energetico e la riduzione di stanchezza e affaticamento
 - EQUILIBRA: Da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto di un perfetto equilibrio tra rispetto, efficacia, benessere e bellezza
+- 2 SALI DI POTASSIO: Da citrato e bicarbonato, contribuiscono al normale funzionamento del sistema nervoso, alla normale funzione muscolare e al mantenimento di una normale pressione sanguigna
 - PER IL REINTEGRO DEI SALI MINERALI: Integratore alimentare indicato per attività fisica o intensa sudorazione per il riequilibrio salino. Senza calorie, zuccheri e glutine. Gusto arancia e limone
 - MODALITÀ D’USO: Si consiglia 1 bustina al giorno, preferibilmente dopo i pasti. Sciogliere il contenuto della bustina in un bicchiere dacqua (150 ml), mescolando prima di bere
-- 3 SALI ORGANICI DI MAGNESIO: Da sali organici citrato, pidolato e glicerofosfato, per lequilibrio elettrolitico, il normale metabolismo energetico e la riduzione di stanchezza e affaticamento
-- 2 SALI DI POTASSIO: Da citrato e bicarbonato, contribuiscono al normale funzionamento del sistema nervoso, alla normale funzione muscolare e al mantenimento di una normale pressione sanguigna
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BVRG3QJ2{{</world>}}

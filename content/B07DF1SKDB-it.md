@@ -28,9 +28,9 @@ average: '28.79'
 
 ℹ️:
 
+- Golia Bianca è la caramella rinfrescante con il cuore di Liquirizia, per tutti gli amanti della freschezza
 - Scopri come con la menta e a liquirizia puoi concederti un piacevole e gustoso momento di freschezza
 - Grazie al pratico formato in barattolo da 800 pezzi incartati singolarmente, potrai portare Golia Bianca con te durante le tue giornate
-- Golia Bianca è la caramella rinfrescante con il cuore di Liquirizia, per tutti gli amanti della freschezza
 - Tieni le caramelle Golia Bianca nella tua borsa o nel tuo zaino per gustarle quando sei fuori casa e per condividerle con amici, colleghi o con chi vuoi
 - Gusta i classici di Golia, prova il confetto di Golia Bianca, la liquirizia è racchiusa in confetti alla menta croccanti fuori e teneri dentro
 

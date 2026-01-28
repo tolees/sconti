@@ -29,11 +29,11 @@ average: '55.99'
 ℹ️:
 
 - Un divertente regalo per i fan delle auto giocattolo: lo sfasciacarrozze è una simatica idea regalo di compleanno per bambini e bambine, adatto agli appassionati di veicoli giocattolo e di macchine da modificare con i mattoncini
-- Sfasciacarrozze con Auto LEGO City: questo gioco educativo per bambini e bambine da 7 anni in su offre tante possibilità creative ai giovani fan delle macchine giocattolo e delle officine, grazie ad uno sfasciacarrozze con gru e funzioni
+- Cosa comprende il set? Questo set LEGO comprende un deposito di rottami con una gru giocattolo dotata di artigli, un crusher, uffici, 2 modelli di auto da costruire e modificare, e 4 minifigure
 - Uno sfasciacarrozze giocattolo con funzioni per il gioco realistico: i piccoli possono utilizzare la gru ad artiglio per sollevare i veicoli LEGO, posizionarli nel crusher per poi premere una leva per trasformarli in cubi
 - Accessori da demolizione per le minifigure: questo gioco con le costruzioni LEGO per bambini contiene accessori divertenti come un computer giocattolo e attrezzi, tra cui un trapano, chiavi inglesi e un martello
-- Cosa comprende il set? Questo set LEGO comprende un deposito di rottami con una gru giocattolo dotata di artigli, un crusher, uffici, 2 modelli di auto da costruire e modificare, e 4 minifigure
 - Divertente guida digitale: l’app LEGO Builder guida i piccoli operai in un’avventura di costruzione intuitiva, con strumenti che consentono di ingrandire e ruotare i modelli in 3D e di monitorare i loro progressi durante le fasi di costruzione
+- Sfasciacarrozze con Auto LEGO City: questo gioco educativo per bambini e bambine da 7 anni in su offre tante possibilità creative ai giovani fan delle macchine giocattolo e delle officine, grazie ad uno sfasciacarrozze con gru e funzioni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DHSFL5DD{{</world>}}

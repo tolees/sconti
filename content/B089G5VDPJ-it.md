@@ -28,11 +28,11 @@ average: '0.74'
 
 ℹ️:
 
-- PASTA CLASSICA LA MOLISANA: gamma di pasta genuina e digeribile che nasce da solo grano italiano decorticato a pietra; La trafilatura al bronzo rende la pasta ruvida e tenace, in grado di catturare perfettamente i condimenti
-- LA MOLISANA: dal 1912 azienda 100% Italiana leader nella produzione di pasta con solo grando italiano da filiera integrata, semole di alta qualità e tenacità certificata
-- PACK ECOSOSTENIBILE: i pack, riciclabili nella carta, sono composti da materiale che proviene da foreste ben gestite, foreste certificate FSC e da altre fonti controllate
-- COTTURA: 9 minuti di cottura - Pasta con eccellente tenuta in cottura che non scuoce mai grazie alla trafilatura al bronzo e ad un indice proteico superiore al 14%
 - MACCHERONI N.37: popolare formato di pasta corta molto consistente e caratterizzato da una deliziosa superficie porosa - Confezione da 500 g
+- LA MOLISANA: dal 1912 azienda 100% Italiana leader nella produzione di pasta con solo grando italiano da filiera integrata, semole di alta qualità e tenacità certificata
+- COTTURA: 9 minuti di cottura - Pasta con eccellente tenuta in cottura che non scuoce mai grazie alla trafilatura al bronzo e ad un indice proteico superiore al 14%
+- PASTA CLASSICA LA MOLISANA: gamma di pasta genuina e digeribile che nasce da solo grano italiano decorticato a pietra; La trafilatura al bronzo rende la pasta ruvida e tenace, in grado di catturare perfettamente i condimenti
+- PACK ECOSOSTENIBILE: i pack, riciclabili nella carta, sono composti da materiale che proviene da foreste ben gestite, foreste certificate FSC e da altre fonti controllate
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B089G5VDPJ{{</world>}}

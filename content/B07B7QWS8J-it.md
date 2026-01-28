@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Formula arricchita con burro di mango selvatico dalle proprietà emollienti e protettive
 - Texture morbida e avvolgente che fonde sulle labbra per nutrirle intensamente e donare una piacevole sensazione di idratazione
-- Balsamo nutriente intensivo: dona idratazione e levigatezza alle labbra
+- Formula arricchita con burro di mango selvatico dalle proprietà emollienti e protettive
 - Dermatologicamente testato
+- Balsamo nutriente intensivo: dona idratazione e levigatezza alle labbra
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07B7QWS8J{{</world>}}

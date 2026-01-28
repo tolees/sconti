@@ -28,11 +28,11 @@ average: '17.38'
 
 ℹ️:
 
-- BASICS: Il compagno giusto per ogni esigenza: la flessibilità del volume del roll-top lo rende versatile per i viaggi in città, le escursioni e come zaino da lavoro o da scuola Facile da agganciare alle valigie grazie al manicotto per trolley
+- VOLUME DI CONSEGNA: 1 zaino da viaggio bagaglio a mano aereo; dimensioni 60 x 37 x 16 cm; volume 35 litri - bagaglio per circa 3 giorni; peso 0,8 kg; colore: nero
 - PRATICO: lo zaino è leggero, estremamente robusto e realizzato in poliestere resistente I due spallacci ergonomici imbottiti, il pannello posteriore traspirante e la cinghia pettorale regolabile in altezza e lunghezza lo rendono comodo da trasportare
 - CARATTERISTICHE: Lo zaino offre un ampio spazio di archiviazione con uno scomparto imbottito per laptop fino a 15,6 pollici con una fessura laterale, un ampio scomparto principale, due tasche anteriori e un piccolo scomparto segreto sul retro
-- VOLUME DI CONSEGNA: 1 zaino da viaggio bagaglio a mano aereo; dimensioni 60 x 37 x 16 cm; volume 35 litri - bagaglio per circa 3 giorni; peso 0,8 kg; colore: nero
 - TRAVELITE: dal 1949 lazienda familiare di Amburgo fornisce ai viaggiatori valigie leggere, robuste e funzionali per il tempo libero e per i viaggi
+- BASICS: Il compagno giusto per ogni esigenza: la flessibilità del volume del roll-top lo rende versatile per i viaggi in città, le escursioni e come zaino da lavoro o da scuola Facile da agganciare alle valigie grazie al manicotto per trolley
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CXY2PP5X{{</world>}}

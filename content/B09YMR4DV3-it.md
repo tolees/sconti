@@ -31,8 +31,8 @@ average: '19.0966666666667'
 - Miscela Mia Napoli - Tostato scuro, con corpo e gusto netti, ma stemperati dalla sapiente aggiunta di Arabica: da oggi puoi gustare a casa tua l’espresso perfetto, come si beve a Napoli; Ed è proprio a Napoli che vogliamo dedicare questa miscela, una città eclettica, solare, viva e creativa, dove ha preso forma il modo speciale di intendere il caffè; La preferisci in alluminio? Sceglila buona
 - Capsule Compatibili Nespresso* con i seguenti modelli di macchine da caffè: Delonghi - Essenza, Essenza Mini EN85R, Citiz, Inissia, Lattissima Premium, Pixie, Prodigio Silver, U; Krups - Citiz, Essenza, Essenza Mini, Inissia, Pixie, Prodigio Titan, U; Nespresso - Essenza Mini C30 Matt Black, Lattissima One; Didiesse
 - *Nespresso è un marchio registrato di Societè des Produits Nestlè S.A; Caffè Borbone Srl è produttore autonomo non collegato alla Societè des Produits Nestlè S.A; La compatibilità delle capsule Caffè Borbone è funzionale allutilizzo con macchine da caffè ad uso domestico *Nespresso
-- FORMATO: Confezione da 100 capsule - 10 confezioni da 10 capsule in ALLUMINIO
 - Miscela Mia Napoli: CORPO 8 - INTENSITA 8 - DOLCEZZA 8,5 - Le capsule “Mia Napoli” sono realizzate in alluminio, per permettervi di gustare al meglio l’inconfondibile aroma del vero espresso napoletano, che tutto il mondo ci invidia
+- FORMATO: Confezione da 100 capsule - 10 confezioni da 10 capsule in ALLUMINIO
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09YMR4DV3{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- INSERTO PER FOTOCAMERA RIMOVIBILE: Integrato con accesso laterale, adatto a CSC full frame con obiettivo 24-70 f/2.8 montato, 1 obiettivo o drone
-- PROGETTATO PER FOTOGRAFI ESCURSIONISTI: Lo scomparto superiore fornisce spazio sufficiente per tutto il necessario per escursioni, ed è dotato di punti di attacco per treppiede e bastoni da escursione
 - LEGGERO E COMODO: Leggero e resistente alle intemperie. Fai escursioni, trekking o viaggi con facilità e mobilità grazie all’imbracatura ActivZone – pensata per fornire comfort mirato
-- REALIZZATO CON TESSUTI SOSTENIBILI: Il 75% del tessuto è riciclato. Alcuni materiali sono in filato misto riciclato e nuovo, altri completamente riciclati, ma sempre leggeri e resistenti
+- PROGETTATO PER FOTOGRAFI ESCURSIONISTI: Lo scomparto superiore fornisce spazio sufficiente per tutto il necessario per escursioni, ed è dotato di punti di attacco per treppiede e bastoni da escursione
+- INSERTO PER FOTOCAMERA RIMOVIBILE: Integrato con accesso laterale, adatto a CSC full frame con obiettivo 24-70 f/2.8 montato, 1 obiettivo o drone
 - TRASPORTO ATTREZZATURA MODULARE: Il sistema di cinghie incluso nello zaino offre diverse configurazioni di trasporto per telefono, fotocamera e custodie GearUp
+- REALIZZATO CON TESSUTI SOSTENIBILI: Il 75% del tessuto è riciclato. Alcuni materiali sono in filato misto riciclato e nuovo, altri completamente riciclati, ma sempre leggeri e resistenti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0982YGFXN{{</world>}}

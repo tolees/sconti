@@ -28,11 +28,11 @@ average: '1.69'
 
 ℹ️:
 
-- Formula arricchita con estratto di cetriolo che purifica la cute e la fibra capillare, LAcido Salicilico elimina il sebo in eccesso
 - Applicare sui capelli bagnati e risciacquare abbondantemente
+- Formula arricchita con estratto di cetriolo che purifica la cute e la fibra capillare, LAcido Salicilico elimina il sebo in eccesso
+- Per capelli freschi e puliti più a lungo grazie a una cute purificata
 - Contenuto: 1xGarnier Fructis Shampoo Purificante, Per Capelli Grassi, Con Acido Salicilico ed Estratto di Cetriolo, Cucumber Fresh, 250 ml
 - Shampoo purificante per capelli grassi, Purifica a fondo i capelli e rimuove i residui dalla cute, Elimina il sebo in eccesso per permettere di effetturae lavaggi meno frequenti
-- Per capelli freschi e puliti più a lungo grazie a una cute purificata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BXY4K9XX{{</world>}}

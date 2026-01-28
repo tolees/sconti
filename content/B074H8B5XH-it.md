@@ -29,8 +29,8 @@ average: '25.99'
 ℹ️:
 
 - DELICATEZZA ED ESPRESSIVITA: Colore dorato chiaro con bollicine delicate e frizzanti. Naso espressivo che rivela frutti gialli e pompelmo sostenuti da note di brioche fresca e una discreta mineralità quando si rotea. Al palato è ben equilibrato, fresco e vivace con aromi di pera, verdura e agrumi. Finale speziato e persistente.
-- SERVIZIO E CONSUMO: Consigliato servire a 6-10° C in bicchiere tulipano. Il consumo ideale è entro 3-4 anni.
 - CHAMPAGNE BRUT GRAND RESERVE: La vinificazione separata permette di applicare unenologia ragionata per ogni cuvée. Per mantenere un controllo perfetto, la decantazione del mosto e le varie fermentazioni vengono effettuate in tini di acciaio inox termoregolati. Per le annate di prestigio, una parte dei vini viene affinata in legno, il che conferisce al vino maggiore intensità aromatica, sostanza e lunghezza. 100% mosto fiore e dosaggio 8 g/l.
+- SERVIZIO E CONSUMO: Consigliato servire a 6-10° C in bicchiere tulipano. Il consumo ideale è entro 3-4 anni.
 - BEAUMONT DE CRAYÈRES: La Maison si trova nel comune di Mardeuil, sulle colline della Valle della Marna. 80 ettari vitati principalmente a Meunier, vitigno molto rinomato per la sua qualità. Forte nella sua attività collaborativa e ambiziosa nellelaborazione delle sue cuvée, la Maison valorizza i tre grandi vitigni dello Champagne: Meunier per rotondità e carattere fruttato, Chardonnay per freschezza e finezza e Pinot nero per corpo e persistenza. Impegno nel rispetto e nella tutela del proprio suolo, della proprie vite e dellambiente.
 - ABBINAMENTI GASTRONOMICI: Si consiglia come aperitivo servito con bastoncini di formaggio Comté.
 

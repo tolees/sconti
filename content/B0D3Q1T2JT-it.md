@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dimmerabile Continua: Lintensità luminosa desiderata può essere regolata con una pressione prolungata dellinterruttore. La lampada da tavolo memorizza lultima impostazione di luminosità per un utilizzo più comodo.
 - Lunga Durata: Dotata di una batteria al litio integrata da 5000 mAh, la lampada offre fino a 20 ore di utilizzo continuo, riducendo la necessità di frequenti ricariche. Ideale per chi necessita di una fonte di luce affidabile in ambienti esterni o mobili.
-- Classe di Protezione IP54: Grazie alla protezione IP54, la lampada è resistente agli spruzzi dacqua, rendendola perfetta per il campeggio allaperto e lilluminazione delle cene allaperto.
 - Luce Calda e Accogliente: Sorgente luminosa regolabile da 150 lumen, composta da 40 LED, per una luce naturale e rilassante, ideale per il soggiorno, la camera da letto e tutte le attività in casa.
+- Classe di Protezione IP54: Grazie alla protezione IP54, la lampada è resistente agli spruzzi dacqua, rendendola perfetta per il campeggio allaperto e lilluminazione delle cene allaperto.
+- Dimmerabile Continua: Lintensità luminosa desiderata può essere regolata con una pressione prolungata dellinterruttore. La lampada da tavolo memorizza lultima impostazione di luminosità per un utilizzo più comodo.
 - Lampada da Tavolo Senza Fili: Stile moderno ed elegante con colori classici e design pulito. Realizzata con un raffinato corpo in metallo con finitura a effetto spazzolato, la lampada ricaricabile è dotata di un connettore USB-C.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

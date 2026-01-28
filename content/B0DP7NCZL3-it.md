@@ -29,10 +29,10 @@ average: '999.0'
 ℹ️:
 
 - LENTI LEICA - Xiaomi 15 Ultra monta le migliori lenti per smartphone. Comparto fotografico Leica a quattro camere con sensore principale da 1 pollice e ultra tele da 200MP. Grazie al superbo zoom ottico 14mm - 200mm, Xiaomi 15 Ultra offre unesperienza fotografica unica, paragonabile al trio classico di lenti della fotografia tradizionale.
+- FUNZIONI AI DI ULTIMA GENERAZIONE - Che sia generare testi, prendere appunti, creare un riassunto o eliminare oggetti da una foto, Xiaomi 15 Ultra grazie a Xiaomi HyperAI, Powered by Xiaomi HyperOS 2, ti supporta in tutti i momenti del quotidiano.
 - DISPLAY ULTRA LUMINOSO - Fino a 3.200 nits, un display luminoso anche sotto la luce del sole. Curvo su tutti e quattro i lati, per la miglior combinazione tra feeling al tatto e una visione totalmente immersiva.
 - ANCORA PIÙ AUTONOMIA - Batteria da 5.410mAh (typ)con chip Xiaomi Surge ad ultra densità, per unautonomia senza precedenti. Ricarica ultras veloce Xiaomi HyperCharge da 90W e wireless HyperCharge da 80W.
 - PRESTAZIONI INIMMAGINABILI - Snapdragon 8 Elite Mobile Platform con processore da 3nm, offre performance sopra a tutti consumando meno energia della generazione precedente.
-- FUNZIONI AI DI ULTIMA GENERAZIONE - Che sia generare testi, prendere appunti, creare un riassunto o eliminare oggetti da una foto, Xiaomi 15 Ultra grazie a Xiaomi HyperAI, Powered by Xiaomi HyperOS 2, ti supporta in tutti i momenti del quotidiano.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DP7NCZL3{{</world>}}

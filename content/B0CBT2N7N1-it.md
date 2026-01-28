@@ -29,11 +29,11 @@ average: '12.32'
 ℹ️:
 
 - UNO Show em No Mercy aggiunge 56 nuove carte, regole speciali e Carte Azione tostissime dando vita alledizione di UNO più brutale di sempre!
+- Viene fornito in una scatola da viaggio portatile e collezionabile.
+- Le Carte Azione più toste, come Salta Tutti, Jolly Pesca 6 e addirittura Jolly Pesca 10, rendono il gioco spietato!
+- La regola Senza pietà elimina un giocatore che ha 25 o più carte in mano!
 - È un ottimo regalo per animare le serate di gioco con amici e familiari, in viaggio e alle feste!
 - Ogni volta che viene giocata una carta 7 o 0, i giocatori devono scambiare le carte in mano con quelle di un altro giocatore!
-- Le Carte Azione più toste, come Salta Tutti, Jolly Pesca 6 e addirittura Jolly Pesca 10, rendono il gioco spietato!
-- Viene fornito in una scatola da viaggio portatile e collezionabile.
-- La regola Senza pietà elimina un giocatore che ha 25 o più carte in mano!
 - La regola dellaccumulare consente ai giocatori di passare le penalità (Pesca 2, 4, 6, 10) al giocatore successivo, finché il primo giocatore che non può giocare deve prendere tutte le carte combinate!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

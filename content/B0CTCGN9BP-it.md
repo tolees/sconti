@@ -30,8 +30,8 @@ average: '520.84'
 
 - ✅ DESIGN FUNZIONALE: il computer portatile Aspire 3 15 è più leggero e sottile che mai (1.78 kg per 19.9 mm). Il tutto con una batteria a lunga durata che consente a tutta la famiglia di fare di più tra una ricarica e laltra
 - ✅ PRESTAZIONI POTENZIATE: il PC portatile Acer Aspire 3 ha un potente processore Intel Core i5 di 12a generazione e scheda grafica Intel Iris Xe, Display 15.6" FHD, 16 GB di RAM DDR4 e 512 GB di memoria SSD per svolgere qualsiasi attività
-- ✅ DISPLAY: il notebook con display FHD a 1080p è perfetto per la navigazione occasionale sul Web e lo streaming di video, offrendo immagini nitide e dettagliate. E con Acer BlueLightShield, riduci i livelli di esposizione alla luce blu per te e per i tuoi cari
 - ✅ CONNETTIVITA: collega al laptop i tuoi dispositivi più recenti alle porte USB 3.2 Gen 1. Inoltre, WiFi 6 e HDMI 2.1 offrono velocità e funzionalità migliorate per tutta la famiglia
+- ✅ DISPLAY: il notebook con display FHD a 1080p è perfetto per la navigazione occasionale sul Web e lo streaming di video, offrendo immagini nitide e dettagliate. E con Acer BlueLightShield, riduci i livelli di esposizione alla luce blu per te e per i tuoi cari
 - ✅ STAI CONNESSO: rimanete in contatto con amici e familiari grazie alla webcam HD a 720p. Dotato di soluzione Acer TNR (Temporal Noise Reduction) per videochiamate migliori in condizioni di scarsa illuminazione e di doppi altoparlanti con un suono di qualità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

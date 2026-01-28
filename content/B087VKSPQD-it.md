@@ -28,9 +28,9 @@ average: '14.4'
 
 ℹ️:
 
+- CLEMENTONI SAPIENTINO: divertenti giochi educativi su animali, parole, numeri, colori e emozioni, per stimolare e supportare il bambino durante la crescita, offrendo strumenti per un apprendimento efficace e interattivo in ogni fase dello sviluppo
 - CERA UNA VOLTA: uno storyteller interattivo che permette di creare e ascoltare storie diverse, immergendosi in un mondo di racconti fantastici per stimolare la creatività, lascolto e lattenzione attraverso il gioco
 - IMPARARE GIOCANDO: i bambini creano e ascoltano 64 storie combinando personaggi, ambientazioni ed emozioni, sviluppando immaginazione, attenzione e capacità di ascolto in modo divertente e coinvolgente
-- CLEMENTONI SAPIENTINO: divertenti giochi educativi su animali, parole, numeri, colori e emozioni, per stimolare e supportare il bambino durante la crescita, offrendo strumenti per un apprendimento efficace e interattivo in ogni fase dello sviluppo
 - COSA CONTIENE: gioco educativo ideato, progettato e sviluppato in Italia per bambini dai 4 anni in su; con 1 storyteller interattivo con 64 storie, 3 rulli per scegliere ambientazioni, personaggi ed eventi, per creare e ascoltare racconti sempre nuovi
 - COME GIOCARE: i bambini girano i 3 rulli per scegliere ambientazione, personaggi ed emozioni, creando ogni volta una storia unica e personalizzata; un modo intuitivo per stimolare la fantasia e linteresse per la narrazione
 

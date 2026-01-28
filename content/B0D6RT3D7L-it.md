@@ -28,11 +28,11 @@ average: '35.99'
 
 ℹ️:
 
-- Istruzioni di lavaggio: lavabile in lavatrice
-- Jeans, pantaloni, lunghi
+- Tipo elasticizzato: non elasticizzato
 - Vestibilità: Relaxed Straight
 - Composizione: 100% cotone
-- Tipo elasticizzato: non elasticizzato
+- Istruzioni di lavaggio: lavabile in lavatrice
+- Jeans, pantaloni, lunghi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D6RT3D7L{{</world>}}

@@ -28,11 +28,11 @@ average: '17.55'
 
 ℹ️:
 
-- Cura del corpo e dei capelli per uomini: Tea Tree 3 in 1 pulisce i capelli, dona lucentezza, nutre i capelli e la pelle e lascia un profumo rinfrescante
-- TIPO DI CAPELLI DI STYLING & TEXTUR: la crema formante è consigliata per capelli lisci o ricci
-- Set completo per la cura dei capelli e del corpo: contiene 3 in 1 Tea Tree Shampoo, balsamo e Body Wash (250 ml) e crema formante (50 g)
-- CREMA FORMING CREAM: fornisce definizione su capelli lisci o ricci e sottolinea il look naturale. Per una tenuta medio-forte, eccellente formabilità e una lucentezza naturale
 - DUO VANTAGGI: Tea Tree 3 in 1 rivitalizza e idrata la pelle per una pulizia tonificante, mentre districa e nutre i capelli. Forming Cream garantisce definizione, tenuta media, malleabilità e lucentezza naturale
+- CREMA FORMING CREAM: fornisce definizione su capelli lisci o ricci e sottolinea il look naturale. Per una tenuta medio-forte, eccellente formabilità e una lucentezza naturale
+- TIPO DI CAPELLI DI STYLING & TEXTUR: la crema formante è consigliata per capelli lisci o ricci
+- Cura del corpo e dei capelli per uomini: Tea Tree 3 in 1 pulisce i capelli, dona lucentezza, nutre i capelli e la pelle e lascia un profumo rinfrescante
+- Set completo per la cura dei capelli e del corpo: contiene 3 in 1 Tea Tree Shampoo, balsamo e Body Wash (250 ml) e crema formante (50 g)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DMPJC75D{{</world>}}

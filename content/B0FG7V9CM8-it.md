@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Contiene nove buste dell’espansione Megaevoluzione del GCC Pokémon e una carta promozionale olografica a figura intera di Riolu. Ogni busta di espansione contiene 10 carte e un’Energia base. Le carte variano a seconda delle buste.
-- Ti aspettano anche 65 bustine protettive, 40 carte Energia del GCC Pokémon, sei dadi segnalini danno e un dado lancia-moneta valido per le gare.
-- Pokémon di ogni tipo si giocano il tutto per tutto per diventare Pokémon-ex Megaevoluzione!
 - Fai megaevolvere la tua potenza!
 - Ciascun set Allenatore Fuoriclasse include una guida giocatore per l’espansione Megaevoluzione, un cofanetto da collezione con sei divisori per conservare e organizzare tutto il contenuto e una carta codice per il Gioco di Carte Collezionabili Pokémon Live.
+- Pokémon di ogni tipo si giocano il tutto per tutto per diventare Pokémon-ex Megaevoluzione!
+- Contiene nove buste dell’espansione Megaevoluzione del GCC Pokémon e una carta promozionale olografica a figura intera di Riolu. Ogni busta di espansione contiene 10 carte e un’Energia base. Le carte variano a seconda delle buste.
+- Ti aspettano anche 65 bustine protettive, 40 carte Energia del GCC Pokémon, sei dadi segnalini danno e un dado lancia-moneta valido per le gare.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FG7V9CM8{{</world>}}

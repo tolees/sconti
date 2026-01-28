@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Colori allegri. Design originale. Pixel 9a è disponibile in nero ossidiana, grigio creta, rosa peonia e viola ametista, ha una finitura satinata ed è realizzato con materiali riciclati.
-- I piccoli dettagli diventano immagini spettacolari. Usa la funzionalità Macro nelle foto e nei video per esaltare i colori vivaci e aumentare il contrasto dei dettagli più piccoli, come gocce di pioggia, fiori o spruzzi.
 - Una batteria affidabile che dura tutto il giorno. La batteria adattiva di Pixel 9a può durare più di 24 ore. Non è abbastanza? Attiva il Risparmio Energetico Estremo per farla durare fino a 100 ore.
+- I piccoli dettagli diventano immagini spettacolari. Usa la funzionalità Macro nelle foto e nei video per esaltare i colori vivaci e aumentare il contrasto dei dettagli più piccoli, come gocce di pioggia, fiori o spruzzi.
 - Scatta la foto. Con te dentro. Con Aggiungimi, nessuno verrà escluso da una foto. Basta scattare una foto con il gruppo e aggiungere chi lha scattata. Pixel unirà magicamente i due scatti.
 - Chiedi a Gemini di ottenere ulteriori informazioni dalle app. Risparmia tempo chiedendo a Gemini di trovare informazioni e svolgere attività per te nelle app Google. Il multitasking non è mai stato così facile.
 

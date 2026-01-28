@@ -28,10 +28,10 @@ average: '9.82'
 
 ℹ️:
 
+- FORMULA RICCA: Contiene olio di mirtillo e olio essenziale di ginepro per un trattamento completo.
+- EFFETTO SETOSO: Conferisce lucentezza naturale e vitalità, migliorando laspetto del manto.
 - USO PROFESSIONALE: Ideale per un utilizzo regolare, facilita la pettinabilità del pelo.
 - AZIONE DISTRICANTE: Prodotto specifico per manti sfibrati, aiuta a districare e riparare il pelo.
-- EFFETTO SETOSO: Conferisce lucentezza naturale e vitalità, migliorando laspetto del manto.
-- FORMULA RICCA: Contiene olio di mirtillo e olio essenziale di ginepro per un trattamento completo.
 - CAMON: Camon è lazienda che si dedica alla cura e al benessere dei tuoi piccoli amici. Dal 1985, il nostro maggior impegno è offrire prodotti e soluzioni di qualità per gli animali da compagnia.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

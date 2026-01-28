@@ -28,11 +28,11 @@ average: '19.9'
 
 ℹ️:
 
-- Due coni rimovibili in plastica per adattarsi a agrumi grandi o piccoli.
 - Leva di pressione per lestrazione del succo senza sforzo. Sistema di estrazione continua per un maggiore comfort. Versato direttamente nel bicchiere.
-- Spremiagrumi elettrico a braccio per agrumi con potenza di 120 W. Spremi rapidamente e facilmente sfruttando al massimo la frutta.
-- Sistema antigoccia per un versamento più facile e pulito. Parti rimovibili lavabili in lavastoviglie.
 - Capacità di 250 ml e sistema di accensione automatica premendo la frutta contro il cono.
+- Spremiagrumi elettrico a braccio per agrumi con potenza di 120 W. Spremi rapidamente e facilmente sfruttando al massimo la frutta.
+- Due coni rimovibili in plastica per adattarsi a agrumi grandi o piccoli.
+- Sistema antigoccia per un versamento più facile e pulito. Parti rimovibili lavabili in lavastoviglie.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BQ1XBHPP{{</world>}}

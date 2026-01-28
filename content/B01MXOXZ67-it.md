@@ -28,9 +28,9 @@ average: '1.4'
 
 ℹ️:
 
-- Non puoi sbagliare se la abbini a carni bianche, pesce o insalate composte. La salsa Heinz Curry Mango donerà al tuo piatto un carattere unico.
-- Senza conservanti e aromi artificiali. Adatta a vegetariani.
 - Grazie al pratico formato top down, un dosaggio preciso e pulito è assicurato: la soluzione perfetta per ogni occasione!
+- Senza conservanti e aromi artificiali. Adatta a vegetariani.
+- Non puoi sbagliare se la abbini a carni bianche, pesce o insalate composte. La salsa Heinz Curry Mango donerà al tuo piatto un carattere unico.
 - La perfetta soluzione per chi non si accontenta dei soliti gusti, ma cerca sempre qualcosa di nuovo.
 - Con la salsa Curry Mango Heinz porti a tavola tutto il sapore delle spezie indiane. Tendenzialmente piccante, composta da cumino, curcuma, coriandolo, pepe nero e cannella. Le note dolci di mango e albicocca danno un tocco in più, donando un sapore leggermente agrodolce.
 

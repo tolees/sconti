@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- L’autentica evoluzione dell’originale “Ufouria”! Scatenati insieme ai tuoi fidati compagni del gioco originale nella morbidezza del mondo di Ufouria ricreato in maniera artigianale in feltro, un gioco a scorrimento orizzontale basato sull’esplorazione. E ovviamente anche i principianti sono i benvenuti!
 - I Popoon ora sono uno strumento di pulizia super potente! Una nuova minaccia che non c’era nel gioco originale... Ecco il rivoltante Bumyon! Questo seccante personaggio si attacca a tutto e tutti, ed è parecchio noioso, ma in qualche modo Hebe e il suo team possono sbarazzarsene grazie ai Popoon. Elimina i Bumyon che sporcano il pianeta e sventa i piani malvagi di Utsujin!
+- L’autentica evoluzione dell’originale “Ufouria”! Scatenati insieme ai tuoi fidati compagni del gioco originale nella morbidezza del mondo di Ufouria ricreato in maniera artigianale in feltro, un gioco a scorrimento orizzontale basato sull’esplorazione. E ovviamente anche i principianti sono i benvenuti!
 - Livelli diversi ogni volta che giochi?! In questa versione i setting del gioco originale cambiano in maniera casuale a ogni partita, rendendo l’esperienza sempre nuova! I nuovi personaggi che si aggiungono al tuo team ti consentiranno di arrivare in zone inesplorate. Potresti anche trovarti in aree inesistenti nel gioco originale...
 - Avventura nello stravagante mondo fatto a mano di Ufouria! I personaggi e i livelli del gioco originale sono tornati, abbandonando i pixel per l’affascinante mondo del feltro fatto a mano. Ma ci pensano le creazioni in perline a rendere omaggio al look nostalgico pixelato del gioco originale. Cerca le similitudini e le differenze se hai già giocato al vecchio capitolo!
 

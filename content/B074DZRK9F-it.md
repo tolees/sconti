@@ -28,10 +28,10 @@ average: '2.045'
 
 ℹ️:
 
-- FELCE AZZURRA, PROFUMO INCONFONDIBILE: Dal 1923, porta nelle case il fascino di fragranze uniche tramandate nel tempo. Sinonimo di qualità e artigianalità, offre prodotti per la cura del corpo e della casa, regalando un’autentica esperienza sensoriale
-- BAGNOSCHIUMA PROFUMATO CLASSICO CON NOTE FRESCHE INCONFONDIBILI: Le prime note di Arancia, Rosa e Pino lasciano spazio a un cuore di Lavanda, Petit Grain e Patchouli. Il fondo si inebria dei toni profondi di Muschio e Citronella regalando un profumo unico
 - MORBIDO E VELLUTANTE, DETERGE E IDRATA LA PELLE: Il prodotto nutre delicatamente la pelle, lasciando un effetto vellutante che deterge e idrata, senza alternare il PH cutaneo
 - DELICATO E DERMATOLOGICAMENTE TESTATO, ADATTO A TUTTI I TIPI DI PELLE: Il prodotto dermatologicamente testato deterge delicatamente ogni tipo di pelle, donando morbidezza e idratazione
+- FELCE AZZURRA, PROFUMO INCONFONDIBILE: Dal 1923, porta nelle case il fascino di fragranze uniche tramandate nel tempo. Sinonimo di qualità e artigianalità, offre prodotti per la cura del corpo e della casa, regalando un’autentica esperienza sensoriale
+- BAGNOSCHIUMA PROFUMATO CLASSICO CON NOTE FRESCHE INCONFONDIBILI: Le prime note di Arancia, Rosa e Pino lasciano spazio a un cuore di Lavanda, Petit Grain e Patchouli. Il fondo si inebria dei toni profondi di Muschio e Citronella regalando un profumo unico
 - AMPLIFICA I BENEFICI AROMATERAPICI PER IL TUO BENESSERE: Per una doccia rigenerante, applica una piccola quantità sul corpo e massaggia delicatamente, risciacquando lentamente. Per il bagno, versa il prodotto nellacqua tiepida per una schiuma avvolgente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

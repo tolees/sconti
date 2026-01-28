@@ -28,11 +28,11 @@ average: '134.99'
 
 ℹ️:
 
-- MODELLINO DA COSTRUIRE LEGO DA COLLEZIONE: il set LEGO Icons Transformers: Soundwave è un progetto creativo per adulti, pensato per i fan del franchise di film di fantascienza
-- RICCO DI ACCESSORI: il set include laction figure LEGO Transformers di Soundwave, con capsula a razzo, blaster laser e accessori per i dardi, e le figure di Ravage e Laserbeak
 - KIT DA COSTRUZIONE LEGO CON ISTRUZIONI DIGITALI: preparati a costruire come mai prima d’ora con l’app LEGO Builder, che ti consente di salvare i set, monitorare i tuoi progressi, ingrandire e ruotare il modello in 3D
-- CARATTERISTICHE E FUNZIONI: questo kit di modellismo LEGO per adulti è dotato di pulsante per gli effetti sonori; può essere convertito manualmente in modalità registratore, così come Ravage e Laserbeak in modalità cassetta
+- RICCO DI ACCESSORI: il set include laction figure LEGO Transformers di Soundwave, con capsula a razzo, blaster laser e accessori per i dardi, e le figure di Ravage e Laserbeak
 - LEGO DA COLLEZIONE: metti in posa Soundwave, Ravage e Laserbeak, o “cattura” le figure durante la conversione; crea una decorazione per la casa o per l’ufficio dinamica usando la targhetta e lespositore
+- CARATTERISTICHE E FUNZIONI: questo kit di modellismo LEGO per adulti è dotato di pulsante per gli effetti sonori; può essere convertito manualmente in modalità registratore, così come Ravage e Laserbeak in modalità cassetta
+- MODELLINO DA COSTRUIRE LEGO DA COLLEZIONE: il set LEGO Icons Transformers: Soundwave è un progetto creativo per adulti, pensato per i fan del franchise di film di fantascienza
 - REGALO PER UOMO O DONNA FAN DEI ROBOT LEGO: delizia un amico per il suo compleanno con un regalo avvincente, un set che farà felici gli amanti delle action figure Transformers e del personaggio Soundwave
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

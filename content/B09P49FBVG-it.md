@@ -28,10 +28,10 @@ average: '48.41'
 
 ℹ️:
 
-- Contenuto: 1x PLAYMOBIL DreamWorks Dragons: The Nine Realms - Thunder & Tom, Set di gioco con 39 pezzi e istruzioni per il montaggio: 1 drago PLAYMOBIL, 1 drone, 1 personaggio, 36 accessori (necessita 1 batteria AA da 1,5 V, non inclusa), Materiale: Plastica, LxLxA Drago: ca. 14 x 58 x 9 cm, Peso: 354 g, 71081
 - Giocattolo per bambini dai 4 anni in su: Ottimo per le mani dei bambini grazie alle dimensioni adeguate alletà e alla piacevole sensazione al tatto con i bordi arrotondati
-- Montaggio con i genitori: consultare il libretto distruzioni allinterno della confezione, Alta qualità e struttura solida, Pulizia dei pezzi (senza adesivi) solo con acqua corrente e senza luso di prodotti chimici
 - Drago con 4 gambe mobili, ali e testa mobili, bocca con funzione di tiro, cresta sul dorso luminosa e sella integrata per un personaggio adulto
+- Montaggio con i genitori: consultare il libretto distruzioni allinterno della confezione, Alta qualità e struttura solida, Pulizia dei pezzi (senza adesivi) solo con acqua corrente e senza luso di prodotti chimici
+- Contenuto: 1x PLAYMOBIL DreamWorks Dragons: The Nine Realms - Thunder & Tom, Set di gioco con 39 pezzi e istruzioni per il montaggio: 1 drago PLAYMOBIL, 1 drone, 1 personaggio, 36 accessori (necessita 1 batteria AA da 1,5 V, non inclusa), Materiale: Plastica, LxLxA Drago: ca. 14 x 58 x 9 cm, Peso: 354 g, 71081
 - Playset DreamWorks Dragons con drago PLAYMOBIL Thunder e lavventuriero Tom, un drone e un elmo vichingo della serie tv animata "Dragons: The Nine Realms"
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '5.0'
 
 ℹ️:
 
-- La texture morbida e sensoriale regala alle labbra un aspetto più pieno, liscio e levigato e le prepara per il trucco
-- Dermatologicamente testato
-- Ha una formula arricchita con peptidi biomimetici ad effetto volumizzante e mentolo e mentone ad effetto rinfrescante
 - Labbra idratate, esaltate da un effetto volumizzante immediato e da una texture che ne ravviva il colore naturale
+- Dermatologicamente testato
+- La texture morbida e sensoriale regala alle labbra un aspetto più pieno, liscio e levigato e le prepara per il trucco
+- Ha una formula arricchita con peptidi biomimetici ad effetto volumizzante e mentolo e mentone ad effetto rinfrescante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CDM6W5TZ{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- FORMATO - Multipack medio con pratico display da 8 sacchetti, contenenti 10 Gardena Fingers (125 g) ciascuno in confezioni singole, per stimolare un consumo frazionato, ripetibile senza sensi in colpa
-- 100 ANNI LOACKER: Dal 1925, celebriamo un secolo di passione e dedizione nella creazione di wafer e snack di alta qualità. Ogni prodotto nasce dallamore per ingredienti naturali ed autentici, senza compromessi su qualità e gusto. Perchè la bontà è una scelta ribelle, e da centanni siamo buoni, ma sempre a modo nostro
+- SOTTILI COME DITA DELLE MANI - La specialità di casa Loacker con 55% di finissima e golosa crema al cioccolato al latte chiaro e con cacao, in un simpatico sacchetto da portar via
 - PER UNA PAUSA GOLOSA - Sacchettino perfetto da condividere con familiari, amici e colleghi o da assaporare da soli. La confezione singola garantisce la massima freschezza fino all’apertura
 - INGREDIENTI SPECIALI - L’esclusiva crema di cacao e cioccolato è racchiusa tra cinque fragranti cialdine sovrapposte e il tutto è ricoperto da finissimo cioccolato al latte
-- SOTTILI COME DITA DELLE MANI - La specialità di casa Loacker con 55% di finissima e golosa crema al cioccolato al latte chiaro e con cacao, in un simpatico sacchetto da portar via
+- 100 ANNI LOACKER: Dal 1925, celebriamo un secolo di passione e dedizione nella creazione di wafer e snack di alta qualità. Ogni prodotto nasce dallamore per ingredienti naturali ed autentici, senza compromessi su qualità e gusto. Perchè la bontà è una scelta ribelle, e da centanni siamo buoni, ma sempre a modo nostro
+- FORMATO - Multipack medio con pratico display da 8 sacchetti, contenenti 10 Gardena Fingers (125 g) ciascuno in confezioni singole, per stimolare un consumo frazionato, ripetibile senza sensi in colpa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0748KZDC6{{</world>}}

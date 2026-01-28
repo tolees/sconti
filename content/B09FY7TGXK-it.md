@@ -28,8 +28,8 @@ average: '3.9'
 
 ℹ️:
 
-- Tonalità: 10 Fair
 - Applicazione: stendila con un pennello o con una spugnetta sulle aree del viso da opacizzare. Può essere usata per fissare il trucco sotto gli occhi
+- Tonalità: 10 Fair
 - Effetti e benefici: per un make up dal finish impeccabile che dura tutto il giorno
 - Formula: infusa con aloe vera e tapioca, senza talco. Realizzata con il 94% di ingredienti di origine naturale
 - Cipria KIND & FREE: leggera e translucida, dona al viso un aspetto fresco e naturale, contrastando leffetto lucido. Realizzata con ingredienti 100% vegani e cruelty-free

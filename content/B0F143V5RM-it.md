@@ -28,10 +28,10 @@ average: '19.99'
 
 ℹ️:
 
-- NON CREA DIPENDENZA: ZzzQuil Sonno non causa dipendenza – basta prendere una pastiglia gommosa 30 minuti prima di andare a dormire
+- INGREDIENTI: Contiene 1 mg di Melatonina che contribuisce a ridurre il tempo necessario per addormentarsi, 15 mg di estratto di Valeriana, 10 mg di estratto di Camomilla, 10 mg di estratto di Lavanda, 1,4 mg di Vitamina B6*
 - NUOVA FORMULA E IMBALLAGGIO: Senza gelatina di origine animale. Senza coloranti, dolcificanti o conservanti artificiali, senza glutine e senza lattosio; imballaggio riciclabile
 - CONTENUTO: 1 sacchetto di ZzzQuil Sonno, integratore di melatonina per il sonno, con valeriana, al gusto Frutti di Bosco, con formulazione vegana, contiene 72 pastiglie gommose
-- INGREDIENTI: Contiene 1 mg di Melatonina che contribuisce a ridurre il tempo necessario per addormentarsi, 15 mg di estratto di Valeriana, 10 mg di estratto di Camomilla, 10 mg di estratto di Lavanda, 1,4 mg di Vitamina B6*
+- NON CREA DIPENDENZA: ZzzQuil Sonno non causa dipendenza – basta prendere una pastiglia gommosa 30 minuti prima di andare a dormire
 - MELATONINA PER AIUTARTI AD ADDORMENTARTI VELOCEMENTE E SVEGLIARTI RIPOSATO**: Integratore per il sonno con Melatonina, per aiutarti ad addormentarti velocemente* senza sensazione di stordimento il giorno dopo**
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

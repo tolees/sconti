@@ -29,11 +29,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - 5 minifigure LEGO di personaggi Harry Potter: il set include Marge Dursley, Vernon Dursley, Petunia Dursley, Dudley Dursley, Harry Potter, la figura di zia Marge gonfiata da un incantesimo, e il cane giocattolo di nome Squarta
+- Dettagli autentici: comprende una porta segreta sul retro della casa che conduce all’armadio del sottoscala, sbarre rimovibili sulla finestra della camera da letto di Harry, il cartello “Privet Drive”, un lampione e altro ancora
 - Incantevole casa giocattolo costruibile: con il set di giochi creativi per bambine e bambini da 8 anni Privet Drive: la Visita di Zia Marge, i piccoli possono rivivere le esileranti scene nella casa di Vernon Dursley, al numero 4 di Privet Drive
 - Istruzioni per la costruzione in 3D: segui le semplici istruzioni nell’app LEGO Builder, che consentono ai costruttori di ingrandire e ruotare i modelli in 3D, di tenere traccia dei loro progressi e di salvare i set mentre sviluppano nuove abilità
-- Iconica ambientazione in mattoncini: la casa LEGO Harry Potter dispone di una veranda e si apre per un facile accesso alla cucina, alla zona pranzo con tavolo da pranzo rimovibile, al soggiorno e alle camere da letto di Dudley e di Harry
-- Dettagli autentici: comprende una porta segreta sul retro della casa che conduce all’armadio del sottoscala, sbarre rimovibili sulla finestra della camera da letto di Harry, il cartello “Privet Drive”, un lampione e altro ancora
 - Regalo di compleanno per bambini e bambine: questo giocattolo regalo LEGO Harry Potter da collezione è un pensiero divertente per i govani maghi, streghe o Babbani fan della serie, e per tutti gli amanti dei gadget di Harry Potter
+- Iconica ambientazione in mattoncini: la casa LEGO Harry Potter dispone di una veranda e si apre per un facile accesso alla cucina, alla zona pranzo con tavolo da pranzo rimovibile, al soggiorno e alle camere da letto di Dudley e di Harry
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DWDSPKLS{{</world>}}

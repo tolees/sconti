@@ -31,8 +31,8 @@ average: '21.39'
 - 【Filamento PLA che non occlude il Nozzle】: Materie prime del filamento PLA di purezza e tolleranza del diametro di alta precisione, 1,75mm +/-0,02mm. Controllo rigoroso del diametro uniforme del filamento PLA e selezione di materie prime di alta qualità per evitare linceppamento dellugello causato da impurità e diametri. Facile manipolazione, deformazione minima. Compatibile con stampanti 3D PLA e PLA+.
 - 【1.75mm 1KG Vacuum Pack Filament】 Bobina da 1kg di filamento PLA 1.75mm, confezionata sottovuoto per garantire la massima qualità. Tutti i filamenti per stampanti 3D di GIANTARM sono confezionati sottovuoto insieme a una bustina di disidratante. Questo vi permetterà di mantenere facilmente i vostri filamenti per stampanti 3D in condizioni ottimali e al riparo da polvere e sporcizia prima di aprire la confezione sottovuoto.
 - 【Warm tips】Se avete problemi di qualità, vi preghiamo di contattarci tempestivamente attraverso la piattaforma Amazon e faremo del nostro meglio per aiutarvi.
-- 【GIANTARM 3D Filament】 Qualità Premium 1.75MM Filamento PLA, adatto per stampanti 3D PLA 1.75. Lelevata durezza e forte adesione permettono di ottenere un primo layer e una stampa perfetta.
 - 【Materiale Eco-friendly】: Temperatura di pressione: 190-220 ℃. Il filamento PLA viene realizzato con una plastica biodegradabile, non tossica e che non emette odori durante la stampa. Non è pericoloso per persone e ambiente. Ideale per stampanti 3D filamento PLA, PLA+, e stampanti 3D con filamento PLA 1.75.
+- 【GIANTARM 3D Filament】 Qualità Premium 1.75MM Filamento PLA, adatto per stampanti 3D PLA 1.75. Lelevata durezza e forte adesione permettono di ottenere un primo layer e una stampa perfetta.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0895MNZJS{{</world>}}

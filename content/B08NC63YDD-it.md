@@ -29,9 +29,9 @@ average: '21.47'
 ℹ️:
 
 - Sfogliatrice con 9 regolazioni di spessore e rulli da 15 cm
+- Funazionamento manuale con manovella
 - Struttura in acciaio INOX con rulli in alluminio
 - 3 formati di pasta: lasagne, tagliatelle e spaghetti
-- Funazionamento manuale con manovella
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08NC63YDD{{</world>}}

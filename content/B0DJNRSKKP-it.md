@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- ISTRUZIONI DUSO – IN LAVATRICE: aggiungere al detersivo nella vaschetta principale. Per macchie difficili e secche 1 misurino, per macchie normali ½ misurino. Per la rimozione delle macchie e l’azione sbiancante, funziona anche a 20 °C; AGGIUNGERE UN MISURINO A OGNI LAVAGGIO 1 misurino : 60 ml
+- ANTI-GRIGIO: La nuova formula Vanish protegge dall’ingrigimento dei capi. NON USARE su capi che richiedono lavaggio a secco, tessuti in pelle, lana, seta e su superfici trattate o verniciate
+- SU QUALI MACCHIE USARLO: La versatilità di Vanish permette di trattare vari tipi di macchia (sangue, cioccolato, caffè, pomodoro, olio, sudore, vino)
+- LA CONFEZIONE: Il pacco contiene 1Kg di Polvere Vanish Smacchiatore Bucato, Additivo Lavatrice Multiazione senza Candeggina
+- ISTRUZIONI DUSO – PRE-TRATTANTE: mischiare ¼ di misurino di polvere con ¾ di misurino dacqua. Mescolare per 30 secondi. Applicare il mix sulla macchia per MAX 5 min. Strofinare la macchia se necessario. Pulire e asciugare il misurino prima di riporlo nella confezione. Dopo il pre-trattamento lavare il capo come d’abitudine.
+- LE SUE AZIONI: Rimuove le macchie più resistenti a 20°C e ripristina i bianchi, anche in acqua fredda, elimina gli odori ed igienizza i tuoi capi
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
 - ISTRUZIONI DUSO – IN AMMOLLO: aggiungere un misurino a 4 L d’acqua. (6h max per i Bianchi); Dopo l’ammollo, lavare il capo come d’abitudine; Per risultati migliori sulle macchie, strofinare se necessario
-- LE SUE AZIONI: Rimuove le macchie più resistenti a 20°C e ripristina i bianchi, anche in acqua fredda, elimina gli odori ed igienizza i tuoi capi
-- ISTRUZIONI DUSO – IN LAVATRICE: aggiungere al detersivo nella vaschetta principale. Per macchie difficili e secche 1 misurino, per macchie normali ½ misurino. Per la rimozione delle macchie e l’azione sbiancante, funziona anche a 20 °C; AGGIUNGERE UN MISURINO A OGNI LAVAGGIO 1 misurino : 60 ml
-- LA CONFEZIONE: Il pacco contiene 1Kg di Polvere Vanish Smacchiatore Bucato, Additivo Lavatrice Multiazione senza Candeggina
-- ANTI-GRIGIO: La nuova formula Vanish protegge dall’ingrigimento dei capi. NON USARE su capi che richiedono lavaggio a secco, tessuti in pelle, lana, seta e su superfici trattate o verniciate
-- ISTRUZIONI DUSO – PRE-TRATTANTE: mischiare ¼ di misurino di polvere con ¾ di misurino dacqua. Mescolare per 30 secondi. Applicare il mix sulla macchia per MAX 5 min. Strofinare la macchia se necessario. Pulire e asciugare il misurino prima di riporlo nella confezione. Dopo il pre-trattamento lavare il capo come d’abitudine.
-- SU QUALI MACCHIE USARLO: La versatilità di Vanish permette di trattare vari tipi di macchia (sangue, cioccolato, caffè, pomodoro, olio, sudore, vino)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DJNRSKKP{{</world>}}

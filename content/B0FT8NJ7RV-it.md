@@ -29,9 +29,9 @@ average: '7.9'
 ℹ️:
 
 - Bagno doccia: avvolgente, deterge delicatamente la pelle regalando una piacevole sensazione di comfort e un profumo dolce e irresistibile di lunga durata
+- Profumazione: cioccolato bianco
 - Bagno doccia: applicare il prodotto sulla spugna o sulla mano e massaggiare fino alla formazione di una piacevole schiuma. Sciacquare abbondantemente Latte corpo: applicare a piacere su tutto il corpo e massaggiare fino a completo assorbimento.
 - Latte corpo: idratante e profumato, rende la tua pelle deliziosamente dolce e vellutata dopo ogni utilizzo
-- Profumazione: cioccolato bianco
 - Il cofanetto Aquolina contiene tutto il necessario per una coccola durante e dopo la doccia. Due prodotti per profumare la pelle con dolcezza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

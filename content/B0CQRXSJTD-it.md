@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Funko POP! Harry Potter Bitty POP! - Harry Potter w/Hogwarts Express #83622
-- Una miniatura Funko Pop da collezionare.
 - La miniatura è in confezione originale e circa 2,5 cm.
+- Una miniatura Funko Pop da collezionare.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CQRXSJTD{{</world>}}

@@ -28,10 +28,10 @@ average: '12.13'
 
 ℹ️:
 
-- Tipo di prodotto: maglietta
 - Stampa: stampa in gomma morbida
-- Composizione del materiale: 100% cotone biologico
+- Tipo di prodotto: maglietta
 - Scollatura: girocollo
+- Composizione del materiale: 100% cotone biologico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CSBZTP5F{{</world>}}

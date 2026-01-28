@@ -28,11 +28,11 @@ average: '8.6'
 
 ℹ️:
 
-- NURSES – Apis ROSACEA-STOP crema è arricchita con estratto di funghi chaga che rafforza la barriera protettiva naturale della pelle. Lestratto di alghe rosse restringe i vasi sanguigni. La formula con olio di frutto della passione, estratto di arnica e acido ialuronico idrata e rassoda la carnagione.
 - Per pelli sensibili; la crema notte di Redness Reducing di Rosacea è particolarmente adatta per pelli sensibili e irritate. Puoi anche usarli per la pelle soggetta a telangiectasie e arrossamenti.
-- " DELICIOUS FORMULA - Apis ROSACEA-STOP La crema da notte lenitiva si distingue per la sua efficienza e la sua consistenza setosa. È facile da applicare sulla pelle con la punta delle dita e picchiettare. Il prodotto viene assorbito rapidamente, lasciando una sensazione idratante e lenitiva sulla pelle."
 - " NOTTE - La crema antiarrossamento Apis ROSACEA-STOP è progettata per luso notturno. In questo modo supporta i processi naturali di rigenerazione della pelle. Così la pelle al mattino è radiosa e piena di luminosità."
+- " DELICIOUS FORMULA - Apis ROSACEA-STOP La crema da notte lenitiva si distingue per la sua efficienza e la sua consistenza setosa. È facile da applicare sulla pelle con la punta delle dita e picchiettare. Il prodotto viene assorbito rapidamente, lasciando una sensazione idratante e lenitiva sulla pelle."
 - REDUCES ROSACEA-STOP Crema lenitiva di Apis contiene acido azelaico e Agascalm con proprietà antinfiammatorie. Calma leritema e ripristina il tono della pelle corretto. Lenisce lirritazione e riduce la reazione infiammatoria della pelle."
+- NURSES – Apis ROSACEA-STOP crema è arricchita con estratto di funghi chaga che rafforza la barriera protettiva naturale della pelle. Lestratto di alghe rosse restringe i vasi sanguigni. La formula con olio di frutto della passione, estratto di arnica e acido ialuronico idrata e rassoda la carnagione.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CLM1NJNY{{</world>}}

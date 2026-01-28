@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Testato oftalmologicamente su occhi sensibili e portatori di lenti a contatto.
 - In un solo gesto, effetto 3D immediato: ciglia folte, lunghe e incurvate per uno sguardo intenso e sublimato. Formula ultra-black, con cere vegetali per una texture materica, cremosa, facile da modulare.
-- In sinergia con l’applicatore in fibra dalla speciale forma a clessidra, avvolge tutte le ciglia moltiplicandone le 3 dimensioni per un incredibile volume, lunghezza e curvatura.
 - Modalità di applicazione: Estrarre con movimenti circolari l’astina dal flacone evitando i movimenti verticali (su e giù) che fanno entrare aria e seccare il prodotto. Applicare a zig-zag sulle ciglia superiori in modo da distribuire il mascara uniformemente. Utilizzare la punta per definire e pettinare le ciglia superiori e inferiori.
+- Testato oftalmologicamente su occhi sensibili e portatori di lenti a contatto.
+- In sinergia con l’applicatore in fibra dalla speciale forma a clessidra, avvolge tutte le ciglia moltiplicandone le 3 dimensioni per un incredibile volume, lunghezza e curvatura.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DKXQPRTD{{</world>}}

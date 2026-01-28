@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - PROMUOVE LA FUNZIONE SANA DELLE POLLINE: dolcificato naturalmente con miele, questo sciroppo contiene issopo, che favorisce la secrezione dellespettorato da parte delle vie respiratorie e promuove la salute dei bronchi.
+- RAFFORZA lIMMUNITÀ: prevenire è meglio che curare. La liquirizia contenuta nello sciroppo aiuta anche a rafforzare il sistema immunitario, in modo che voi e i vostri bambini possiate rimanere sani e salvi.
 - SOLLIEVO PER LA GOLA: lo sciroppo per la gola Herbion è un concentrato di estratti vegetali, come laltea e la liquirizia, che agisce efficacemente.
 - SOLLIEVO NATURALE PER LA GOLA: Questo sciroppo goloso contiene una potente combinazione di liquirizia, noce di Malabar, pepe lungo e una combinazione di diverse erbe che danno sollievo alla gola.
-- RAFFORZA lIMMUNITÀ: prevenire è meglio che curare. La liquirizia contenuta nello sciroppo aiuta anche a rafforzare il sistema immunitario, in modo che voi e i vostri bambini possiate rimanere sani e salvi.
 - FORMULA A MISURA DI BAMBINO: questo sciroppo è adatto ad adulti e bambini dai 13 mesi in su. La formula completamente naturale non è sedativa, non contiene alcool, non contiene noci e non contiene glutine.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

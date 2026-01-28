@@ -28,11 +28,11 @@ average: '17.1'
 
 ℹ️:
 
-- Età Consiglata: 10+ | Numero Giocatori: 2-6 | Twmpo Stimato: 20 min | Edizione in italiano
+- In questo gioco di carte rapido e immediato usate la strategia, afferrate al volo ogni opportunità e osate rischiare! Divertimento assicurato per tutta la famiglia; tutti giocano contemporaneamente!
 - Non ci sono tempi morti: in Bounty Hunters tutti giocano contemporaneamente. Vince chi ottiene più punti prestigio alla fine della partita!
 - Diventate i più grandi cacciatori di taglie della galassia!
+- Età Consiglata: 10+ | Numero Giocatori: 2-6 | Twmpo Stimato: 20 min | Edizione in italiano
 - In Star Wars: Bounty Hunters, i giocatori sono esperti cacciatori di taglie che inseguono bersagli per tutta la galassia. Collaborate con i giusti alleati e acquistate i droidi di cui avete bisogno al mercato dei Jawa. Catturate i bersagli più ricercati per diventare i migliori cacciatori di taglie che ci siano!
-- In questo gioco di carte rapido e immediato usate la strategia, afferrate al volo ogni opportunità e osate rischiare! Divertimento assicurato per tutta la famiglia; tutti giocano contemporaneamente!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D37MSRVR{{</world>}}

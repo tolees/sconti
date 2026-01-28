@@ -28,11 +28,11 @@ average: '35.5'
 
 ℹ️:
 
-- PRENDITI CURA DEI TUOI CAPELLI IN 3 STEP: Per risultati ottimali, usa INVIGO Color Brilliance shampoo, balsamo e Miracle BB Spray — ideale per self‑care o come set regalo beauty.
 - COLOR BRILLIANCE SET: Regala capelli splendidi questo Natale – il COFANETTO INVIGO Color Brilliance con shampoo, balsamo e Miracle BB Spray protegge il colore fino a 7 settimane.* * con l’uso regolare dello shampoo Color Brilliance di Invigo.
-- MIRACLE BB SPRAY: Offre idratazione immediata e colori vivaci, scioglie i nodi e leviga le fibre capillari - bye bye capelli spenti
-- SHAMPOO & BALSAMO: Shampoo che sigilla il colore per una luminosità duratura, con tecnologia Metal Purifier. Il balsamo ricco di vitamine dona morbidezza, lucentezza e intensifica la vivacità del colore.
 - Applica lo Shampoo sui capelli bagnati e massaggia. Applica il Balsamo su capelli umidi. Applicare il Miracle BB Spray direttamente sui capelli umidi e non risciacquare.
+- MIRACLE BB SPRAY: Offre idratazione immediata e colori vivaci, scioglie i nodi e leviga le fibre capillari - bye bye capelli spenti
+- PRENDITI CURA DEI TUOI CAPELLI IN 3 STEP: Per risultati ottimali, usa INVIGO Color Brilliance shampoo, balsamo e Miracle BB Spray — ideale per self‑care o come set regalo beauty.
+- SHAMPOO & BALSAMO: Shampoo che sigilla il colore per una luminosità duratura, con tecnologia Metal Purifier. Il balsamo ricco di vitamine dona morbidezza, lucentezza e intensifica la vivacità del colore.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0G1TDZW5N{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Pulisce a lungo; Pulisce rapidamente; Il rullo della spazzola da quasi 30 cm copre una superficie più ampia a ogni passata, mentre la modalità Rapida esegue pulizie in brevissimo tempo, Fino a 65 minuti di autonomia⁴, prima di ricaricarsi automaticamente per essere nuovamente pronto per la pulizia
-- Il robot aspirapolvere più potente di sempre; 6 volte la potenza di aspirazione di qualsiasi altro robot aspirapolvere¹
-- Aspira più di qualsiasi altro robot su tutti i pavimenti;² Pulisce a fondo tutti i tipi di pavimento e sotto i mobili bassi; Il primo rullo Dyson a tripla azione combina tre modalità per pulire a fondo contemporaneamente
 - A differenza delle spazzole laterali che spostano via lo sporco, Dyson aspira lo sporco completamente anche lungo i bordi della parete; Un condotto laterale estensibile reindirizza automaticamente laspirazione ed è sufficientemente potente da catturare i detriti fino alla parete
 - Controlla le tue pulizie o lascia che sia il robot Dyson a farlo per te; Scegli tra quattro modalità di potenza: Modalità Auto, Boost, Rapida e Silenziosa; In modalità Auto, il robot aspirapolvere 360 Vis Nav adatta automaticamente la potenza di aspirazione alla quantità di detriti presenti;³
+- Aspira più di qualsiasi altro robot su tutti i pavimenti;² Pulisce a fondo tutti i tipi di pavimento e sotto i mobili bassi; Il primo rullo Dyson a tripla azione combina tre modalità per pulire a fondo contemporaneamente
+- Il robot aspirapolvere più potente di sempre; 6 volte la potenza di aspirazione di qualsiasi altro robot aspirapolvere¹
+- Pulisce a lungo; Pulisce rapidamente; Il rullo della spazzola da quasi 30 cm copre una superficie più ampia a ogni passata, mentre la modalità Rapida esegue pulizie in brevissimo tempo, Fino a 65 minuti di autonomia⁴, prima di ricaricarsi automaticamente per essere nuovamente pronto per la pulizia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CM28JNZN{{</world>}}

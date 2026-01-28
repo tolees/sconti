@@ -28,8 +28,8 @@ average: '279.0'
 
 ℹ️:
 
-- [Auto-pulizia a doppia rotazione con raschietto flessibile]H14 districa i grovigli e rimane pulito ruotando in senso orario e antiorario, imitando il lavaggio a mano. Inoltre, rimuove in modo efficiente i grovigli grazie al raschietto flessibile con design a pettine.
 - [Auto-pulizia e asciugatura rapida ad alta temperatura]Spazzola avanzata con auto-pulizia e sterilizzazione con acqua calda a 60 °C, seguita da unasciugatura rapida di 5 minuti. Pavimenti scintillanti, senza la necessità di pulire la spazzola.
+- [Auto-pulizia a doppia rotazione con raschietto flessibile]H14 districa i grovigli e rimane pulito ruotando in senso orario e antiorario, imitando il lavaggio a mano. Inoltre, rimuove in modo efficiente i grovigli grazie al raschietto flessibile con design a pettine.
 - [Design piatto a 180°, aspirazione costante] H14 è in grado di pulire aree precedentemente fuori portata. Il design biomimetico consente a H14 di aderire perfettamente al pavimento e di adattarsi a spazi di soli 14 cm per il corpo e di 9,8 cm per la spazzola. Le prestazioni non diminuiscono, poiché un motore speciale estrae lacqua sporca quando laspirapolvere è completamente piatto.
 - [Pulizia dei bordi su entrambi i lati]Pulisce a fondo lungo i battiscopa e gli angoli stretti, rendendo la manutenzione delle aree difficili da raggiungere più facile che mai.
 - [Pulizia Wet & Dry con aspirazione da 18.000 Pa]Aspirazione da 18.000 Pa, per pulire sia lo sporco secco che umido. Dotato di un motore da 14.000 giri/min, questo potente aspirapolvere pulisce a 520 giri/min: moci più veloci, meno aloni.

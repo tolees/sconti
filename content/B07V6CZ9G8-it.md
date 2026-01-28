@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Regolatore di pressione, uscita aria universale, 2 manometri, coperchio in plastica per proteggere le parti calde e rotanti, azionamento diretto con cilindro in ghisa, compatibile con molti utensili pneumatici per il fai da te
 - Compressore mobile con serbatoio da 24 l ideale per molteplici applicazioni come la pulizia, il gonfiaggio, la verniciatura o il soffiaggio, adatto per uso amatoriale e professionale
-- Grande coppa dellolio per una migliore lubrificazione e una lunga durata
+- Regolatore di pressione, uscita aria universale, 2 manometri, coperchio in plastica per proteggere le parti calde e rotanti, azionamento diretto con cilindro in ghisa, compatibile con molti utensili pneumatici per il fai da te
 - Comode ruote e maniglia per un facile spostamento in garage o in officina, doppi piedini ammortizzanti in gomma per un supporto stabile
+- Grande coppa dellolio per una migliore lubrificazione e una lunga durata
 - Capacità serbatoio: 24 litri, motore: 2 hp, pressione massima: 8 bar, portata aria di aspirazione: 170 l/min - 10,2 m3/h livello sonoro: 72 db(a) lpa 4m - 95 db(a) lwa, peso: 27 kg, alimentazione 230 v
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

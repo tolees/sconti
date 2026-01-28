@@ -29,9 +29,9 @@ average: '861.0'
 ℹ️:
 
 - CONDIVIDI IL TUO SCATTO: Condividi la tua foto sul tuo smartphone tramite lapp Imaging Edge (Wi-Fi/Bluetooth)
+- PERFETTA PER I CONTENT CREATORS: Video ad alta risoluzione 4K HDR e Slow motion Full HD (120p) con Autofocus
 - NON PERDERE NEMMENO UN MOMENTO: Fino a 11fps con Autofocus
 - CATTURA I SOGGETTI DA DIVERSE ANGOLAZIONI: fotografa il tuo soggetto con semplicità scattando da diverse angolazioni grazie al monitor touch ribaltabile
-- PERFETTA PER I CONTENT CREATORS: Video ad alta risoluzione 4K HDR e Slow motion Full HD (120p) con Autofocus
 - AUTOFOCUS VELOCE E PRECISO: sfrutta lAF in 0,02s, Real Time Eye AF e Real Time Tracking (Persone e Animali) per mantenere il tuo soggetto a fuoco in ogni situazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

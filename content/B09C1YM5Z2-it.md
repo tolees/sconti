@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Intensità alta: caffè dal corpo consistente, gusto soave e aromatico. Tostatura chiara. La confezione contiene 100 capsule divise in 10 scatole da 10 pezzi ciascuna
 - Linea in alluminio: questo materiale garantisce un effetto barriera che chiude ermeticamente le capsule e assicura una perfetta preservazione dell’aroma e del gusto
-- La qualità del Caffè Segafredo in capsule compatibili con le macchine ad uso domestico. Assicurarsi sempre di seguire le istruzioni del fabbricante della macchina del caffè
 - Capsule compatibili con i seguenti modelli di macchine da caffè Nespresso: Citiz, Pixie, Inissia, Essenza, Lattissima, U, Umilk, Prodigio, Maestria. Assicurarsi sempre di seguire le istruzioni del fabbricante della macchina del caffè
+- Intensità alta: caffè dal corpo consistente, gusto soave e aromatico. Tostatura chiara. La confezione contiene 100 capsule divise in 10 scatole da 10 pezzi ciascuna
 - *Nespresso è un Marchio registrato di Société des Produits Nestlé S.A.. Segafredo Zanetti S.p.a. è Produttore autonomo non collegato alla Société des Produits Nestlé S.A.. La compatibilità delle capsule Segafredo Zanetti è funzionale allutilizzo con macchine da caffè ad uso domestico Nespresso
+- La qualità del Caffè Segafredo in capsule compatibili con le macchine ad uso domestico. Assicurarsi sempre di seguire le istruzioni del fabbricante della macchina del caffè
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09C1YM5Z2{{</world>}}

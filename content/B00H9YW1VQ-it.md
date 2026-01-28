@@ -28,11 +28,11 @@ average: '15.62'
 
 ℹ️:
 
+- FORMATO - 1 confezione da 24 tortine. Le tortine sono racchiuse in pratiche confezioni singole tascabili che assicurano la massima freschezza, come fossero appena state sfornate
+- INGREDIENTI SPECIALI - Il cioccolato bianco si sposa con la rotondità della morbida crema alle nocciole 100% italiane, tostate nei nostri stabilimenti per donare un piacere unico e gratificante
+- 100 ANNI LOACKER: Dal 1925, celebriamo un secolo di passione e dedizione nella creazione di wafer e snack di alta qualità. Ogni prodotto nasce dallamore per ingredienti naturali ed autentici, senza compromessi su qualità e gusto. Perchè la bontà è una scelta ribelle, e da centanni siamo buoni, ma sempre a modo nostro
 - MOMENTI DI PIACERE - Sotto lo strato di cioccolato bianco della tortina si nasconde un cuore morbido ripieno di una deliziosa crema alla nocciola racchiusa tra due cialde leggere e croccanti
 - PER UNA PAUSA DI GUSTO E BENESSERE - Goditi una dolce pausa pomeridiana o serale che unisce gusto e leggerezza. Realizzati con ingredienti naturali, i nostri snack offrono un piacere equilibrato, pensati per ricaricare le energie e condividere momenti speciali con famiglia, amici o colleghi
-- FORMATO - 1 confezione da 24 tortine. Le tortine sono racchiuse in pratiche confezioni singole tascabili che assicurano la massima freschezza, come fossero appena state sfornate
-- 100 ANNI LOACKER: Dal 1925, celebriamo un secolo di passione e dedizione nella creazione di wafer e snack di alta qualità. Ogni prodotto nasce dallamore per ingredienti naturali ed autentici, senza compromessi su qualità e gusto. Perchè la bontà è una scelta ribelle, e da centanni siamo buoni, ma sempre a modo nostro
-- INGREDIENTI SPECIALI - Il cioccolato bianco si sposa con la rotondità della morbida crema alle nocciole 100% italiane, tostate nei nostri stabilimenti per donare un piacere unico e gratificante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00H9YW1VQ{{</world>}}

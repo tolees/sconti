@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Vola senza alcun timore di farti male - Questo drone con fotocamera 4K è dotato di paraeliche integrali realizzate in fibra di carbonio leggera, per una protezione completa. Divertimento assicurato in tutta sicurezza!
-- Straordinari video HDR 4K/60fps - Cattura lo splendore dellalba o del tramonto con video in ultra-alta definizione. Questo mini drone offre unesperienza visiva eccezionale, per dare vita a scatti mozzafiato.
 - A causa di problemi di compatibilità della piattaforma, lapp DJI Fly è stata rimossa da Google Play. Visita il sito Web ufficiale DJI per scaricare il manuale utente e lultima versione dellapp DJI Fly per una migliore esperienza.
+- Vola senza alcun timore di farti male - Questo drone con fotocamera 4K è dotato di paraeliche integrali realizzate in fibra di carbonio leggera, per una protezione completa. Divertimento assicurato in tutta sicurezza!
+- Autonomia di volo massima di 31 minuti - Libera la tua creatività Con unautonomia di volo fino a 31 minuti, [5] con questo mini drone puoi creare contenuti senza preoccuparti che la batteria si scarichi velocemente.
 - Cattura ogni dettaglio con il sensore CMOS da 1/1,3 pollici - Il sensore più grande in questo drone con fotocamera 4K cattura più luce, per immagini più chiare con dettagli vividi, ideale per paesaggi e ritratti.
 - Leggero e conforme alle normative - Con un peso inferiore a 249 g, [1] questo drone soddisfa le normative C0, quindi non è necessaria alcuna formazione o il patentino. È compatto, conveniente e ideale per le tue escursioni!
+- Straordinari video HDR 4K/60fps - Cattura lo splendore dellalba o del tramonto con video in ultra-alta definizione. Questo mini drone offre unesperienza visiva eccezionale, per dare vita a scatti mozzafiato.
 - Include il DJI Flip, il radiocomando DJI RC-N3, una batteria di volo intelligente e altro ancora. Ideale per iniziare.
 - Il tuo fotografo portatile - Con il tracciamento IA del soggetto, il tuo soggetto rimane sempre al centro dellinquadratura. Questo drone riprenderà ogni tuo movimento con la precisione di un fotografo professionista.
-- Autonomia di volo massima di 31 minuti - Libera la tua creatività Con unautonomia di volo fino a 31 minuti, [5] con questo mini drone puoi creare contenuti senza preoccuparti che la batteria si scarichi velocemente.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DJ1H6KCP{{</world>}}

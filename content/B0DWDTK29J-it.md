@@ -29,11 +29,11 @@ average: '152.49'
 ℹ️:
 
 - Decorazione per la casa o lufficio: esponi la tua creazione accanto alla targhetta informativa dell’AT-ST e alla minifigure del pilota AT-ST LEGO Star Wars, dotato di stemma imperiale sulle braccia e di pistola blaster
-- Modellino da costruire LEGO Star Wars per adulti: costruisci con i mattoncini LEGO la versione del Walker AT-ST della Ultimate Collector Series, il mezzo visto sui campi di battaglia della classica saga dei film di Star Wars
+- Veicolo LEGO Star Wars ricco di dettagli: ricrea le caratteristiche riconoscibili del mezzo all-terrain, come le gambe, il boccaporto superiore apribile e la cabina di guida per 2 minifigure LEGO Star Wars
 - Istruzioni intuitive: goditi ogni step di questa complessa costruzione con l’app LEGO Builder, con cui puoi visualizzare una versione digitale 3D di questo modello mentre lo costruisci, monitorare i tuoi progressi e salvare i set
 - Regalo Star Wars per un uomo o una donna fan della serie: regalati questo oggetto LEGO Star Wars da collezione, un elemento da esposizione che farà felici gli appassionati dei set di costruzioni LEGO Star Wars UCS
-- Veicolo LEGO Star Wars ricco di dettagli: ricrea le caratteristiche riconoscibili del mezzo all-terrain, come le gambe, il boccaporto superiore apribile e la cabina di guida per 2 minifigure LEGO Star Wars
 - Kit di modellismo LEGO da costruire: metti in posa l’AT-ST ruotando la “testa”, aprendo o chiudendo i portelli, e regolando i cannoni laser
+- Modellino da costruire LEGO Star Wars per adulti: costruisci con i mattoncini LEGO la versione del Walker AT-ST della Ultimate Collector Series, il mezzo visto sui campi di battaglia della classica saga dei film di Star Wars
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DWDTK29J{{</world>}}

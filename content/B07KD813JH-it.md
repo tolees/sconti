@@ -28,8 +28,8 @@ average: '34.4242857142857'
 
 ℹ️:
 
-- Tessuto morbido
 - Taglio regolare
+- Tessuto morbido
 - Design moderno
 - Tasca a marsupio
 

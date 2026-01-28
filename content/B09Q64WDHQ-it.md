@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- CAVO INCLUSO: Include un cavo da USB-A a USB-C (15 cm) per caricare il tuo dispositivo o ricaricare il power bank
-- RICARICA MULTI DISPOSITIVO: Porte USB-A, USB-C e wireless Qi ricarica rapida per la ricarica multi dispositivo. Funziona con il tuo cavo preferito e con dispositivi Apple, Samsung, LG, Google e molti altri.
 - INDICATORE DI ALIMENTAZIONE A LED: L’indicatore di alimentazione a LED mostra lo stato di ricarica e la durata della batteria
 - RICARICA WIRELESS Qi: Supporta la ricarica senza fili grazie a Qi Wireless da 10W e consente una pratica ricarica wireless anche in presenza di custodie e protezioni per schermo OtterBox
+- CAVO INCLUSO: Include un cavo da USB-A a USB-C (15 cm) per caricare il tuo dispositivo o ricaricare il power bank
+- RICARICA MULTI DISPOSITIVO: Porte USB-A, USB-C e wireless Qi ricarica rapida per la ricarica multi dispositivo. Funziona con il tuo cavo preferito e con dispositivi Apple, Samsung, LG, Google e molti altri.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09Q64WDHQ{{</world>}}

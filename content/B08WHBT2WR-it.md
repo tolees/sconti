@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- ENERGIA PULITA: con questo kit di esperimenti scientifici per bambini, tuo figlio potrà scoprire i principi dell’ecologia, perché i modelli mostrano in modo chiaro come ottenere energia da sole, vento e acqua
 - CONTENUTO DELLA CONSEGNA: 1 x PROFI Green Energy, kit sperimentale. ATTENZIONE: Per motivi ambientali, larticolo viene consegnato nella confezione originale. Per una protezione aggiuntiva, selezionare « Spedizione in imballaggio Amazon» o «Aggiungi opzioni regalo».
 - GIOCA E IMPARA: questo giocattolo avvicina tuo figlio all’affascinante mondo delle energie rinnovabili, l’ecologia e la protezione dell’ambiente, in linea con il nostro motto “Capire la tecnica giocando”
-- ENERGIA PULITA: con questo kit di esperimenti scientifici per bambini, tuo figlio potrà scoprire i principi dell’ecologia, perché i modelli mostrano in modo chiaro come ottenere energia da sole, vento e acqua
-- MODELLINI INTERESSANTI: con 14 affascinanti modellini come turbina ad acqua, pala eolica e veicolo a energia solare, il tuo bambino imparerà come funziona l’energia rinnovabile e come viene immagazzinata
 - DIVERTIMENTO ILLIMITATO: questo gioco creativo si completa alla perfezione con il kit H2 Fuel Cell Car, grazie al quale il tuo bambino potrà costruire altri modellini e farli funzionare con pile a combustibile
+- MODELLINI INTERESSANTI: con 14 affascinanti modellini come turbina ad acqua, pala eolica e veicolo a energia solare, il tuo bambino imparerà come funziona l’energia rinnovabile e come viene immagazzinata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08WHBT2WR{{</world>}}

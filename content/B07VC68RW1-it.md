@@ -28,11 +28,11 @@ average: '11.8566666666667'
 
 ℹ️:
 
-- Nessuna configurazione richiesta, Installazione rapida Plug & Play
 - 5 porte rj45 10/100/1000mbps auto-mdi/mdix
 - Rirmio energetico con tecnologia green ethernet
 - Design innovativo, installazione desktop o a parete
 - Fanless per funzionamento silenzioso
+- Nessuna configurazione richiesta, Installazione rapida Plug & Play
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07VC68RW1{{</world>}}

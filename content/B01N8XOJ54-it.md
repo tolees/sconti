@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Us sport fashion
+- Official licensed product
 - Baseball Cap - berretti da baseball
 - Original new era product
-- Official licensed product
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01N8XOJ54{{</world>}}

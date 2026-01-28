@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- PERONI SENZA GLUTINE: birra lager senza glutine a bassa fermentazione dal colore giallo paglierino, da servire a 4-6° C
 - GUSTO: moderatamente amaro, equilibrato di luppolo e malto
-- GRADAZIONE ALCOLICA: 4.7 % vol
+- PERONI SENZA GLUTINE: birra lager senza glutine a bassa fermentazione dal colore giallo paglierino, da servire a 4-6° C
 - IDEALE CON: pizza senza glutine, pasta senza glutine, piatti della tradizione italiana senza glutine
 - FORMATO: cassa di birra con 24 bottiglie da 33 cl
+- GRADAZIONE ALCOLICA: 4.7 % vol
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B06WRV2S8J{{</world>}}

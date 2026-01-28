@@ -28,11 +28,11 @@ average: '5.23666666666667'
 
 ℹ️:
 
-- Interruttore di sicurezza - scollega l corrente quando l potenza supera il limite di portata
-- Spina piccola 10a - pensata per l maggioranza delle c italiane: rende possibile collegare più spine di varie dimensioni senza bisogno di adattatori
 - Multipresa con 1 presa bivalente (schuko10a) e 2 prese bivalenti 1016a; spina piccola 10a
-- Tutte le prese sono dotate di children safety - impedisce di introdurre corpi estranei nella presa in tensione
+- Interruttore di sicurezza - scollega l corrente quando l potenza supera il limite di portata
 - Cavo ho5 vv-f sezione 3g1 mm² lunghezza 3 metri
+- Spina piccola 10a - pensata per l maggioranza delle c italiane: rende possibile collegare più spine di varie dimensioni senza bisogno di adattatori
+- Tutte le prese sono dotate di children safety - impedisce di introdurre corpi estranei nella presa in tensione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01LXPJHMO{{</world>}}

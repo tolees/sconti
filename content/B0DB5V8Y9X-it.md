@@ -28,9 +28,9 @@ average: '10.08'
 
 ℹ️:
 
-- Orari e calendari del 2025 e del 2026 / Playlist esclusiva / Pagine per segnare contatti / Tabelle dei risparmi / Chiusura con elastico / Planner mensile allinizio di ogni mese / Blocchetti di note adesive con diverse forme / Frasi mensili super motivazionali
-- Agenda stile Office di Mr. Wonderful, un tipo di disegno un po più sobrio e misurato rispetto al nostro stile più classico, per cui piacerà tantissimo a un pubblico più adulto. Con organizzazione settimanale, va da gennaio a dicembre 2025.
 - Questa agenda contiene: 160 pagine di carta da 100 gr con la certificazione FSC / Frasi giornaliere motivazionali / Divisori con linguetta / Tasca interna di cartone / Righello interno di plastica / 8 fogli di adesivi
+- Agenda stile Office di Mr. Wonderful, un tipo di disegno un po più sobrio e misurato rispetto al nostro stile più classico, per cui piacerà tantissimo a un pubblico più adulto. Con organizzazione settimanale, va da gennaio a dicembre 2025.
+- Orari e calendari del 2025 e del 2026 / Playlist esclusiva / Pagine per segnare contatti / Tabelle dei risparmi / Chiusura con elastico / Planner mensile allinizio di ogni mese / Blocchetti di note adesive con diverse forme / Frasi mensili super motivazionali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DB5V8Y9X{{</world>}}

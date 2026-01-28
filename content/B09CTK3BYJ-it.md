@@ -28,8 +28,8 @@ average: '6.74'
 
 ℹ️:
 
-- 3.1A Schnelles Laden & Sync-Geschwindigkeit Sweguard ladekabel USB C unterstützt schnelles Laden mit bis zu 3.1A/20V (40% schneller) im Vergleich zu anderen Kabeln, die 5V/2.4A Ausgang bieten. Velocità di trasferimento dati fino a 480 Mbps.
 - Migliore dei cavi Sweguard cavo di ricarica USB C dispone di certiti di sicurezza elettronici che soddisfano le norme corrispondenti, ed è dotato di una tecnologia di saldatura laser che assicura che la parte metallica non si rompa. Il design SR più lungo aumenta la del cavo. Con 15.000 test di piegatura, il cavo in nylon tipo C flessibile e durevole a doppio intreccio più lunga durata e non si romperà.
+- 3.1A Schnelles Laden & Sync-Geschwindigkeit Sweguard ladekabel USB C unterstützt schnelles Laden mit bis zu 3.1A/20V (40% schneller) im Vergleich zu anderen Kabeln, die 5V/2.4A Ausgang bieten. Velocità di trasferimento dati fino a 480 Mbps.
 - Design esclusivo migliorato ad angolo retto. Entrambe le estremità sono ergonomiche a forma di L. È più comodo e confortevole per giocare, guardare video, leggere libri elettronici quando si ricarica.
 - Contenuto della confezione: 2 cavi di ricarica da 2 x 2 metri ad angolo retto, in nylon intrecciato da USB-A a USB-C. Promemoria. Questo cavo da solo non offre una ricarica rapida, avete bisogno di un blocco di corrente progettato per una ricarica rapida e un telefono che può fare lo stesso
 - Compatibilità universale Sweguard cavo di ricarica USB C può caricare e sincronizzare rapidamente bene con Galaxy S22/S21/S20/S20+ Ultra S10 S10E S9 S8 Note 20 10 9 8, A72 A71 A70 A52 A51 A50 A30 A20 A20 Moto Z/Z. 2, LG G5/G6/V20/V30 e altri dispositivi USB-C.

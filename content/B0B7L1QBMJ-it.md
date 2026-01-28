@@ -30,8 +30,8 @@ average: '39.14'
 
 - MATERIALE DI QUALITÀ: Il portafoglio è realizzato al 51% in poliestere riciclato e al 49% in poliuretano.
 - FORMATO PRATICO: Il portafoglio in pelle sintetica non conquista soltanto per il suo design, ma anche per la dimensione maneggevole. Questo modello da usare tutti i giorni e ti aiuta a mantenere tutto in ordine grazie ai suoi diversi scomparti.
-- ELEGANZA EFFICACE: Il portafoglio minimale è dotato di diversi scomparti per carte, uno scomparto per banconote e uno per monete per custodire tutto in modo sicuro ed elegante.
 - SEMPLICITÀ E FASCINO: Creato nel 1968, il marchio Calvin Klein è famoso per il suo look inconfondibile, che lo ha reso da subito un’ispirazione per il mondo della moda. Il brand americano è caratterizzato da un’estetica minimalista.
+- ELEGANZA EFFICACE: Il portafoglio minimale è dotato di diversi scomparti per carte, uno scomparto per banconote e uno per monete per custodire tutto in modo sicuro ed elegante.
 - ICONICITÀ INTRAMONTABILE: Questo portamonete Calvin Klein originale presenta un design essenziale. Il logo Calvin Klein sulla parte anteriore completa il look elegante.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

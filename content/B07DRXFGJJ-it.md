@@ -29,8 +29,8 @@ average: '17.99'
 ℹ️:
 
 - Cressi è un marchio italiano storico dal 1946, leader nella produzione di attrezzatura subacquea, Questa rashguard donna è progettata per offrire stile, protezione e funzionalità per ogni attività acquatica, Qualità garantita
-- Maglietta donna anti UV pensata per l’uso estivo in spiaggia o piscina, Il taglio sagomato valorizza la figura femminile, mentre il materiale ad asciugatura rapida garantisce comfort durante le attività in acqua o sotto il sole
 - Abbigliamento sportivo donna con cuciture piatte flat-lock che prevengono sfregamenti e irritazioni, utile per nuotare con maschera o costume da bagno, protegge anche da meduse e abrasioni causate dall’attrezzatura subacquea
+- Maglietta donna anti UV pensata per l’uso estivo in spiaggia o piscina, Il taglio sagomato valorizza la figura femminile, mentre il materiale ad asciugatura rapida garantisce comfort durante le attività in acqua o sotto il sole
 - Maglia tecnica donna sportiva adatta per chi pratica snorkeling o immersioni leggere, Design leggero, traspirante e confortevole, consigliata anche per trekking costiero, beach volley o semplicemente come protezione solare in viaggio
 - Maglia Rash Guard donna manica corta realizzata in tessuto elasticizzato da 190 g/m² (92% Nylon, 8% Spandex), pensata per nuoto, snorkeling, surf e sport acquatici, offre protezione solare SPF 50 contro raggi UVA e UVB, indicata per il mare e la piscina
 

@@ -29,10 +29,10 @@ average: '1.39'
 ℹ️:
 
 - SPAGHETTI PROTEIN+: scopri gli Spaghetti Barilla Protein+! Prova il gusto della pasta di sempre con un + di proteine.
+- SOLO DUE INGREDIENTI: realizzata con semola di grano duro selezionata e proteine di piselli, Barilla Protein+ è lalleato perfetto per chi cerca quel plus di proteine.
+- BARILLA: unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola.
 - IL GUSTO DI SEMPRE: Barilla Protein+ è la scelta ideale per le tue ricette di ogni giorno: ingredienti semplici e genuini per non rinunciare al gusto della pasta di sempre, ora con un plus di proteine. Barilla Protein+ è disponibile nei formati più iconici: penne, fusilli e spaghetti. Perfetti per le tue ricette preferite.
 - RICCA DI PROTEINE: Affronta la tua giornata con Barilla Protein+, lalleato ideale per chi cerca il giusto equilibrio tra gusto e proteine. 100g di pasta Barilla Protein+ contengono circa il 40% dellassunzione di riferimento di proteine di un adulto medio (8400 kJ/2000 kcal).
-- BARILLA: unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola.
-- SOLO DUE INGREDIENTI: realizzata con semola di grano duro selezionata e proteine di piselli, Barilla Protein+ è lalleato perfetto per chi cerca quel plus di proteine.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F8J6LCD1{{</world>}}

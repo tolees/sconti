@@ -29,9 +29,9 @@ average: '62.99'
 ℹ️:
 
 - Dopo la rinascita di un antico nemico, una pioggia infinita di miasma incombe su una Tokio futuristica. Il destino della città è nelle mani di Yakumo, un giovane prodigio ninja.
-- Vivi il ritorno allazione intensa e dinamica che ha consacrato NINJA GAIDEN come serie di giochi dazione di livello superiore. Preparati a scoprire una storia classica, rigenerata con uno stile coinvolgente e azione entusiasmante per una nuova generazione di giocatori.
-- Ledizione Deluxe include il gioco base (disco) e diverse esclusive, come skin per i personaggi Yakumo e Ryu, skin per le loro armi, contenuti di gioco futuri, 50.000 NinjaCoin bonus e oggetti aggiuntivi in gioco. Download dei contenuti richiesto.
 - NINJA GAIDEN 4 fonde la temperata filosofia di combattimento di Team Ninja con lelegante e dinamica modalità di gioco dazione di PlatinumGames. Cimentati in combattimenti graficamente straordinari che premiano la precisione e la strategia.
+- Ledizione Deluxe include il gioco base (disco) e diverse esclusive, come skin per i personaggi Yakumo e Ryu, skin per le loro armi, contenuti di gioco futuri, 50.000 NinjaCoin bonus e oggetti aggiuntivi in gioco. Download dei contenuti richiesto.
+- Vivi il ritorno allazione intensa e dinamica che ha consacrato NINJA GAIDEN come serie di giochi dazione di livello superiore. Preparati a scoprire una storia classica, rigenerata con uno stile coinvolgente e azione entusiasmante per una nuova generazione di giocatori.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FCYWXZ5W{{</world>}}

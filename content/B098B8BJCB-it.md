@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - BISCOTTI E DOLCETTI - Morbidi o friabili, unampia varietà per tutti i gusti. Ogni biscotto è una bontà unica, senza olio di palma
 - PER LA TUA COLAZIONE - 5 Batticuori, 1 tazza di caffè, 5 g di zucchero, 1 pesca. Per un totale di calorie pari al 15% del tuo fabbisogno energetico giornaliero
-- MULINO BIANCO - Al Mulino Bianco si ricerca da sempre la qualità. Biscotti, Merende, Pani e Snack per accompagnarti in ogni momento della giornata
 - BATTICUORI - Dalla combinazione di cacao e cioccolato fondente nasce linimitabile gusto dei Batticuori. La loro frolla friabile a forma di cuore li rende perfetti da inzuppare
+- MULINO BIANCO - Al Mulino Bianco si ricerca da sempre la qualità. Biscotti, Merende, Pani e Snack per accompagnarti in ogni momento della giornata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B098B8BJCB{{</world>}}

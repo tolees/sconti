@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Buona resistenza agli agenti chimici e ai raggi UV. Buona resistenza alla muffa, al vapore acqueo, allacqua e ai detersivi.
 - Applicazioni: facciate in ambito edile F EXT-INT CC, lato interno e/o esterno, anche per climi freddi; Vetrate anche per climi freddi; Ambito sanitario S; Giunti dangolo, soggetti a movimento e di connessione in stanze da bagno (lavabi, docce, vasche da bagno, di espansione tra piastrelle, ecc); Giunti di connessione in cucina; Armadietti ed elementi in vetro
-- Sigillante siliconico a base acetica per limpiego in ambienti sanitari. Per la sigillatura di facciate (lato interno e/o esterno, anche per clima freddo), vetrate (anche per clima freddo) e giunti per impieghi sanitari.
+- Buona resistenza agli agenti chimici e ai raggi UV. Buona resistenza alla muffa, al vapore acqueo, allacqua e ai detersivi.
 - Ottima aderenza su piastrelle, superfici vetrose e ceramiche.
+- Sigillante siliconico a base acetica per limpiego in ambienti sanitari. Per la sigillatura di facciate (lato interno e/o esterno, anche per clima freddo), vetrate (anche per clima freddo) e giunti per impieghi sanitari.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00GTVET74{{</world>}}

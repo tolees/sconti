@@ -28,11 +28,11 @@ average: '68.0'
 
 ℹ️:
 
-- PER OGNI OCCASIONE: Questa giacca corta si distingue per la sua funzionalità e il comfort particolarmente elevato. Il discreto branding Tommy Jeans completa il look della giacca stilosa.
-- STREETWEAR RIVISITATO: Per far apprezzare gli amati classici degli anni ‘90 alla generazione successiva, Tommy Jeans strizza locchio alle icone dell’hip hop di quest’epoca. L’attenzione è rivolta alla qualità e ai design di tendenza caratterizzati da tanto denim.
 - VESTIBILITÀ OTTIMALE: Questo piumino minimalista, dal look intramontabile, è leggero e tiene caldo.
-- MATERIALE E LAVAGGIO: Questa giacca è al 100% in poliestere riciclato. È lavabile in lavatrice e adatta all’asciugatrice.
+- PER OGNI OCCASIONE: Questa giacca corta si distingue per la sua funzionalità e il comfort particolarmente elevato. Il discreto branding Tommy Jeans completa il look della giacca stilosa.
 - ICONICITÀ INTRAMONTABILE: L’originale giacca Tommy Jeans con due tasche ad altezza della vita presenta un design essenziale. Grazie al suo tessuto caldo risulta ideale per la mezza stagione.
+- MATERIALE E LAVAGGIO: Questa giacca è al 100% in poliestere riciclato. È lavabile in lavatrice e adatta all’asciugatrice.
+- STREETWEAR RIVISITATO: Per far apprezzare gli amati classici degli anni ‘90 alla generazione successiva, Tommy Jeans strizza locchio alle icone dell’hip hop di quest’epoca. L’attenzione è rivolta alla qualità e ai design di tendenza caratterizzati da tanto denim.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D1RK9V29{{</world>}}

@@ -29,11 +29,11 @@ average: '205.693333333333'
 ℹ️:
 
 - Regalo LEGO da collezione: questo set da costruire LEGO è unidea regalo per un uomo o una donna appassionati di storia, di architettura, di viaggi, di rocche e di iconici monumenti LEGO, ed è ottimo per lesposizione
+- Castello LEGO ricco di dettagli: un modellino da costruire con torri, guglie, scale e un cortile con sentiero, che consente di modificare il paesaggio da estivo a autunnale cambiando il fogliame degli alberi
+- Un pezzo di storia europea: questo kit di modellismo fai da te permette di ricreare il castello bavarese in tutto il suo splendore, con tecniche aggiornate di costruzione LEGO per adulti
 - Castello medievale LEGO per adulti: realizza una dettagliata ricostruzione architettonica di una famosa fortezza bavarese, con il monumento LEGO Architecture Castello di Neuschwanstein da 3.455 mattoncini
 - Attività rilassante: unavvincente decorazione per la casa o per lufficio, dotata di targhetta informativa da posizionare nella parte anteriore del castello LEGO
 - Immergiti nella storia: trova ogni fase della costruzione nel libretto incluso e nell’app LEGO Builder, con cui potrai ingrandire e ruotare i tuoi modelli in 3D, seguire i progressi e salvare tutti i tuoi set in un unico posto
-- Un pezzo di storia europea: questo kit di modellismo fai da te permette di ricreare il castello bavarese in tutto il suo splendore, con tecniche aggiornate di costruzione LEGO per adulti
-- Castello LEGO ricco di dettagli: un modellino da costruire con torri, guglie, scale e un cortile con sentiero, che consente di modificare il paesaggio da estivo a autunnale cambiando il fogliame degli alberi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DWDX63HC{{</world>}}

@@ -29,8 +29,8 @@ average: '229.99'
 ℹ️:
 
 - The laptop is paired with an N4020 processor with 8GB DDR4 RAM and a 512GB solid state drive to ensure fast boot and fast file transfers, so you can access information without lag. In addition, you can expand the storage space with TF card support, so you have plenty of space to create and store more files.
-- FUNYET 15.6 inch large screen laptop with large display and keyboard with separate numeric keypad. Multi-function key combination makes using more convenient and efficient. Supports 180° opening and closing for multi-mode work
 - This Win11 laptop features Wi-Fi and Bluetooth at 2.4G/5G Hz for a dual speed internet experience. Plus, this laptop comes with the necessary ports, including TF card slot, USB 3.0 port, mini HDMI port, DC*1 port and headphone jack, for more convenient and efficient use. This Win 11 laptop also comes with a 5000mAh high capacity battery.
+- FUNYET 15.6 inch large screen laptop with large display and keyboard with separate numeric keypad. Multi-function key combination makes using more convenient and efficient. Supports 180° opening and closing for multi-mode work
 - With a high-resolution 1920 x 1080 pixel IPS display and an ultra-thin 3mm bezel, the laptop delivers rich colors, fine graphics, and crisp detail for a vivid picture. Colour Reproduction and natural expression of colours.
 - We offer a 365 day warranty from the date of purchase. We offer keyboard masks in your local language. If you have a problem, please feel free to contact us. We will reply you within 24 hours to help you solve the problem.
 

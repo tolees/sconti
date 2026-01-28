@@ -28,12 +28,12 @@ average: '78.007'
 
 ℹ️:
 
+- I dettagli di questo kit di modellismo per adulti, includono il logo della Vespa, una classica targa italiana degli anni 60, un cavalletto funzionante e una ruota di scorta
+- Questo set LEGO per adulti è dotato di cavalletto funzionante per mettere in mostra la Vespa 125 LEGO, e include un casco e un cestino porta accessori con un bouquet di fiori; unottima idea regalo per uomo, donna, lui o lei, da collezione
+- Assembla il tuo modellino LEGO di Vespa 125 a 2 posti per adulti: una celebre icona italiana da costruire ed esporre come decorazione di casa o dellufficio
 - Per il 75° anniversario della Vespa i designer LEGO hanno collaborato con il team Piaggio per creare un modello da collezione dedicato agli amanti della cultura italiana
 - Realizzato con speciali mattoncini per modellismo in blu pastello, il colore originale della Vespa; il blu pastello è un colore LEGO raro che stregherà tutti gli appassionati LEGO
-- I dettagli di questo kit di modellismo per adulti, includono il logo della Vespa, una classica targa italiana degli anni 60, un cavalletto funzionante e una ruota di scorta
 - Questa LEGO Vespa è provvista di una ruota anteriore montata su un lato, ha lo sterzo funzionante e una copertura rimovibile per il motore in mattoncini
-- Assembla il tuo modellino LEGO di Vespa 125 a 2 posti per adulti: una celebre icona italiana da costruire ed esporre come decorazione di casa o dellufficio
-- Questo set LEGO per adulti è dotato di cavalletto funzionante per mettere in mostra la Vespa 125 LEGO, e include un casco e un cestino porta accessori con un bouquet di fiori; unottima idea regalo per uomo, donna, lui o lei, da collezione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09BNX43N7{{</world>}}

@@ -29,8 +29,8 @@ average: '5.79'
 ℹ️:
 
 - Defence Hair è la linea per la detersione quotidiana dei capelli e della cute formulata per tutte le esigenze, proteggendo la pelle più sensibile ed esaltando la naturale bellezza della chioma
-- Olio shampoo delicato con Pro-Vitamina B5 per cute sensibile e irritabile, ideale per lavaggi frequenti, lenisce prurito e irritazione, idrata e riequilibra la cute donando capelli leggeri e protetti
 - Applicare sui capelli inumiditi e massaggiare delicatamente anche sul cuoio capelluto, lasciare in posa qualche minuto prima di risciacquare; nickel tested e senza conservanti e glutine
+- Olio shampoo delicato con Pro-Vitamina B5 per cute sensibile e irritabile, ideale per lavaggi frequenti, lenisce prurito e irritazione, idrata e riequilibra la cute donando capelli leggeri e protetti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08KFV2R9M{{</world>}}

@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - 20 accessori per unità con chiave a chiave: Gli accessori da 20 pezzi sono adatti per il fissaggio e lallentamento di tutte le viti per mobili(È necessario utilizzare una punta da 25 mm con prolunga). La chiave a cricchetto è adatta per spazi ristretti, dove non è possibile utilizzare il cacciavite. Lalbero ha una funzione autobloccante, che fornisce una coppia maggiore se usato manualmente
+- Contenuto del pacco: 1 cacciavite elettrico HYCHIKA 3,6V; 20 accessori; 1 cavo USB, 1 manuale duso. Hinweis: Il caricabatterie della vecchia versione è stato aggiornato da un cavo di ricarica, non siamo in grado di aggiornare la foto del prodotto principale. Caricare completamente la batteria almeno una volta ogni 3 mesi se non la si usa per molto tempo
 - Maniglia regolabile e batteria al litio 2000mAh: La maniglia a doppia posizione ti fa avvitare in spazi ristretti. Premi il pulsante "Push" in alto per cambiare facilmente la forma di questo avvitatore a batteria. Batteria al litio ricaricabile integrata da 2000 mAh per unalimentazione sostenibile
 - Mandrino a cambio rapido: La coppia massima è fino a 6.0 N.m per un funzionamento senza sforzo. Il mandrino magnetico da 6,35 mm è facile da installare e sostituire, mentre è compatibile con la maggior parte degli accessori bit. Gli accessori da 20 pezzi sono adatti per serrare e allentare tutte le viti dei mobili
 - Luce a led e manico in gomma ergnomica: La luce a LED anteriore semplifica lavvitamento in un luogo confinato e il design dellimpugnatura in gomma morbida offre una presa più comoda durante il funzionamento
-- Contenuto del pacco: 1 cacciavite elettrico HYCHIKA 3,6V; 20 accessori; 1 cavo USB, 1 manuale duso. Hinweis: Il caricabatterie della vecchia versione è stato aggiornato da un cavo di ricarica, non siamo in grado di aggiornare la foto del prodotto principale. Caricare completamente la batteria almeno una volta ogni 3 mesi se non la si usa per molto tempo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B086SQK2RK{{</world>}}

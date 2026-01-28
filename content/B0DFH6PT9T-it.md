@@ -29,10 +29,10 @@ average: '22.59'
 ℹ️:
 
 - CONTENUTO ESCLUSIVO: Contiene playset unici di 10 carte non disponibili nelle bustine, perfetti per i nuovi giocatori e per i collezionisti.
-- IMPARARE VELOCEMENTE: viene fornito con tutti i componenti necessari, inclusi segnalini, playmats, deckbox e un regolamento quickstart per semplificare il processo di apprendimento.
-- ESPANDERE IL GIOCO: dopo aver imparato a giocare con lo starter set, migliorate le vostre tattiche e la vostra collezione con i booster pack aggiuntivi di Twilight of the Republic (venduti separatamente).
 - TUFFATI NELLAZIONE: include due mazzi pronti per il gioco con Ahsoka Tano e il Generale Grievous per una partita immediata appena tolti dalla scatola.
+- ESPANDERE IL GIOCO: dopo aver imparato a giocare con lo starter set, migliorate le vostre tattiche e la vostra collezione con i booster pack aggiuntivi di Twilight of the Republic (venduti separatamente).
 - RIVIVI LE BATTAGLIE PIÙ ICONICHE: vivi lepoca delle Guerre dei Cloni, al comando della Repubblica Galattica o della Confederazione dei Sistemi Indipendenti.
+- IMPARARE VELOCEMENTE: viene fornito con tutti i componenti necessari, inclusi segnalini, playmats, deckbox e un regolamento quickstart per semplificare il processo di apprendimento.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DFH6PT9T{{</world>}}

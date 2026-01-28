@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Funziona su più piattaforme: è totalmente compatibile con i sistemi operativi Windows, macOS, Linux, ChromeOS, iPadOS e Android e dispone di certificazione Works with Chromebook
-- Scorrimento intelligente: Signature M650 ti offre precisione riga per riga per i documenti e uno scorrimento iperveloce per pagine web lunghe; cambia modalità con il solo tocco della SmartWheel
+- Durata della batteria di 24 mesi: Autonomia fino a 2 anni con una sola pila AA, fornita in dotazione con il mouse per più dispositivi**
 - Tasti laterali personalizzabili: Personalizza facilmente i pulsanti laterali del mouse con Logitech Options+, disponibile per Windows e macOS, in base alle tue scelte rapide preferite, ad esempio indietro/avanti o copia/incolla
 - Meno rumore, più concentrazione: Che tu stia lavorando in ufficio o da casa, Logitech Signature M650 è un mouse silenzioso, la rumorosità dei clic è infatti ridotta del 90% grazie alla tecnologia SilentTouch*
-- Durata della batteria di 24 mesi: Autonomia fino a 2 anni con una sola pila AA, fornita in dotazione con il mouse per più dispositivi**
-- Migliora il comfort: Questo mouse offre molte ore di comfort grazie alla sua forma, allarea morbida per il pollice e agli inserti laterali in gomma che mantengono la mano comoda; disponibili opzioni per dimensioni e mano destra o sinistra
-- Le parti in plastica di Signature M650 includono plastica riciclata certificata post-consumer (Graphite/Black: 64%; materiali plastici Off-White/Rose: 26%****)
+- Funziona su più piattaforme: è totalmente compatibile con i sistemi operativi Windows, macOS, Linux, ChromeOS, iPadOS e Android e dispone di certificazione Works with Chromebook
 - Scegli il metodo di connessione che preferisci: Collega allistante questo mouse cordless per computer tramite Bluetooth Low Energy o il ricevitore USB Logi Bolt
+- Le parti in plastica di Signature M650 includono plastica riciclata certificata post-consumer (Graphite/Black: 64%; materiali plastici Off-White/Rose: 26%****)
+- Scorrimento intelligente: Signature M650 ti offre precisione riga per riga per i documenti e uno scorrimento iperveloce per pagine web lunghe; cambia modalità con il solo tocco della SmartWheel
+- Migliora il comfort: Questo mouse offre molte ore di comfort grazie alla sua forma, allarea morbida per il pollice e agli inserti laterali in gomma che mantengono la mano comoda; disponibili opzioni per dimensioni e mano destra o sinistra
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07W7JR6BZ{{</world>}}

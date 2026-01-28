@@ -29,10 +29,10 @@ average: '59.8333333333333'
 ℹ️:
 
 - Creation of personalized profiles (4 profiles can be saved in the controller)
+- Accessories: 6 additional weights, 6 stick shafts for angle adjustment, 6 stick heads, transport bag
+- 2 joysticks (ALPS) with 44 to 30 amplitude
 - 4 shortcut keys, configurable manually or via software *
 - Standard profile or extended profile with the app * Revolution X (Microsoft Store):
-- 2 joysticks (ALPS) with 44 to 30 amplitude
-- Accessories: 6 additional weights, 6 stick shafts for angle adjustment, 6 stick heads, transport bag
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09GPMCYYN{{</world>}}

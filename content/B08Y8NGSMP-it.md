@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Il set misto da 15 pezzi Mini-X-Line è ottimo per la foratura in muratura, legno e metallo; il set bit avvitamento da 25 pezzi Mini-X-Line è ottimo per lavvitamento; è un set di base di bit avvitamento di due lunghezze diverse per la maggior parte dei tipi di vite comuni
-- Due set misti Mini-X-Line con bit avvitamento e punte elicoidali combinati con un utile avvitatore manuale Bosch gratuito; per ogni applicazione di foratura e avvitamento
-- Dotazione di fornitura: 16 SDB, L= 25 mm, PH 1/2/3, PZ 1/2/3, S 4.5/5.5/8.0, HEX 4/5/6, T 15/20/25/30; 8 bit avvitamento, L=50 mm, PH 1/2/3, S 4.5/5.5, T 15/20/25; 1 portabit universale magnetico; 1x avvitatore manuale, 5 punte per metallo Ø 3/4/5/6/8 mm; 5 punte per muratura Ø 3/4/5/6/8 mm; 5 punte per legno Ø 3/4/5/6/8 mm
-- 5 punte per metallo Ø 3/4/5/6/8 mm; 5 punte per muratura Ø 3/4/5/6/8 mm; 5 punte per legno Ø 3/4/5/6/8 mm
 - 16 SDB, L= 25 mm, PH 1/2/3, PZ 1/2/3, S 4.5/5.5/8.0, HEX 4/5/6, T 15/20/25/30; 8 bit avvitamento, L=50 mm, PH 1/2/3, S 4.5/5.5, T 15/20/25; 1 portabit universale magnetico; 1x avvitatore manuale
+- Dotazione di fornitura: 16 SDB, L= 25 mm, PH 1/2/3, PZ 1/2/3, S 4.5/5.5/8.0, HEX 4/5/6, T 15/20/25/30; 8 bit avvitamento, L=50 mm, PH 1/2/3, S 4.5/5.5, T 15/20/25; 1 portabit universale magnetico; 1x avvitatore manuale, 5 punte per metallo Ø 3/4/5/6/8 mm; 5 punte per muratura Ø 3/4/5/6/8 mm; 5 punte per legno Ø 3/4/5/6/8 mm
+- Due set misti Mini-X-Line con bit avvitamento e punte elicoidali combinati con un utile avvitatore manuale Bosch gratuito; per ogni applicazione di foratura e avvitamento
+- Il set misto da 15 pezzi Mini-X-Line è ottimo per la foratura in muratura, legno e metallo; il set bit avvitamento da 25 pezzi Mini-X-Line è ottimo per lavvitamento; è un set di base di bit avvitamento di due lunghezze diverse per la maggior parte dei tipi di vite comuni
+- 5 punte per metallo Ø 3/4/5/6/8 mm; 5 punte per muratura Ø 3/4/5/6/8 mm; 5 punte per legno Ø 3/4/5/6/8 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08Y8NGSMP{{</world>}}

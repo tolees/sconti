@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- MULINO BIANCO: al Mulino Bianco si ricerca da sempre la qualità. Biscotti, Merende, Pani e Snack per accompagnarti in ogni momento della giornata
-- INGREDIENTI: I biscotti sono realizzati con farina integrale, mirtilli rossi e semi di chia. Ricchi di Vitamina E
-- BISCOTTI E DOLCETTI: morbidi o friabili, unampia varietà per tutti i gusti. Ogni biscotto è una bontà unica, senza olio di palma
+- PER LA TUA COLAZIONE: I biscotti sono ideali a colazione, perfetti anche per una pausa con tutto il gusto che desideri. Confezione da 270g
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
 - MIRTILLINI: Scopri i nuovi frollini Mulino Bianco senza latte e uova in ricetta, ricchi di Vitamina E e ideali per la tua colazione o merenda
-- PER LA TUA COLAZIONE: I biscotti sono ideali a colazione, perfetti anche per una pausa con tutto il gusto che desideri. Confezione da 270g
+- BISCOTTI E DOLCETTI: morbidi o friabili, unampia varietà per tutti i gusti. Ogni biscotto è una bontà unica, senza olio di palma
+- MULINO BIANCO: al Mulino Bianco si ricerca da sempre la qualità. Biscotti, Merende, Pani e Snack per accompagnarti in ogni momento della giornata
+- INGREDIENTI: I biscotti sono realizzati con farina integrale, mirtilli rossi e semi di chia. Ricchi di Vitamina E
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FDWNVB42{{</world>}}

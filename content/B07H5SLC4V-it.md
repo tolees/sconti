@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- SUGHI BARILLA - Tutti i sughi Barilla sono senza glutine e preparati senza aggiungere conservanti. Porta in tavola qualità e gusto con ingredienti semplici per deliziose ricette
+- IDEALE CON - Sugo pronto da versare direttamente sulla pasta appena scolata. Dopo aver aperto il vasetto scaldalo a fuoco lento e concludi il tuo piatto con un filo dolio extravergine di oliva
 - INGREDIENTI - Pomodori datterini italiani e Olio Extra Vergine di Oliva di alta qualità. La dolcezza del pomodoro maturato al sole e un filo di olio
 - CARATTERISTICHE - I Sughi Barilla sono totalmente di provenienza italiana, senza conservanti e gluten free. Questo sugo dal profumo intenso saprà arricchire i tuoi piatti preferiti
 - BARILLA - Unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
-- IDEALE CON - Sugo pronto da versare direttamente sulla pasta appena scolata. Dopo aver aperto il vasetto scaldalo a fuoco lento e concludi il tuo piatto con un filo dolio extravergine di oliva
+- SUGHI BARILLA - Tutti i sughi Barilla sono senza glutine e preparati senza aggiungere conservanti. Porta in tavola qualità e gusto con ingredienti semplici per deliziose ricette
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07H5SLC4V{{</world>}}

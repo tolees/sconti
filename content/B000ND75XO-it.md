@@ -28,11 +28,11 @@ average: '91.99'
 
 ℹ️:
 
+- Numero di ventilatori: 2 | Portata daria: 4,6 m³/min | Portata daria: 276 m³/h
+- Termostato: da 0 °C a +70 °C | Livello di rumorosità: 47 dBm | Grado di protezione: IP20
 - Motageart: Modulo ventola da tetto - sono disponibili fori adatti nellalloggiamento a parete
 - Compatibilità: custodie da parete DIGITUS
 - Potenza nominale: 13,8 W | Tensione di ingresso: AC 50 Hz, 240 V / AC 60 Hz, 220 V / DC, 48 V
-- Termostato: da 0 °C a +70 °C | Livello di rumorosità: 47 dBm | Grado di protezione: IP20
-- Numero di ventilatori: 2 | Portata daria: 4,6 m³/min | Portata daria: 276 m³/h
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000ND75XO{{</world>}}

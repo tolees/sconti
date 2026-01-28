@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Soletta: EVA
+- Suola/Caratteristiche: Gomma 20% riciclata
+- Colore: Nero
 - Fodera: 87% Pelle 10% Tessuto 84% Poliestere Riciclato - 16% Lattice 3% Pelle
 - Tomaia: Pelle
-- Suola/Caratteristiche: Gomma 20% riciclata
-- Soletta: EVA
-- Colore: Nero
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00M28COWU{{</world>}}

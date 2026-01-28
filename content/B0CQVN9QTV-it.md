@@ -28,9 +28,9 @@ average: '349.0'
 
 ℹ️:
 
+- Styling con effetto Coanda avanzato Dyson: Lo styler Dyson Airwrap sfrutta un fenomeno aerodinamico chiamato effetto Coanda. Usa l’aria per attirare e avvolgere i capelli intorno al cono o sulla superficie della spazzola.
 - Ioni negativi: particelle cariche nel flusso d’aria per ridurre l’elettricità statica dei capelli.
 - Controllo intelligente del calore: Misura la temperatura del flusso d’aria oltre 40 volte al secondo, controllando in modo intelligente il termoelemento per evitare i danni da calore.
-- Styling con effetto Coanda avanzato Dyson: Lo styler Dyson Airwrap sfrutta un fenomeno aerodinamico chiamato effetto Coanda. Usa l’aria per attirare e avvolgere i capelli intorno al cono o sulla superficie della spazzola.
 - Alimentato dal motore digitale Dyson V9: La ventola a 13 pale ruota a una velocità di 110.000 giri al minuto, generando una pressione pari a 3,2 kPa, sufficiente per creare l’effetto Coanda.
 - Tre impostazioni di flusso d’aria precise per ottenere lo styling desiderato. Tre impostazioni di calore. Il getto freddo disattiva immediatamente il termoelemento per rilasciare un flusso d’aria più freddo e fissare lo styling.
 

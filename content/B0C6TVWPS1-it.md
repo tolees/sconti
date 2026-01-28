@@ -28,9 +28,9 @@ average: '11.96'
 
 ℹ️:
 
-- Dal 1870, Bolsius produce prodotti di qualità per creare unatmosfera accogliente e accogliente nella vostra casa. Lo facciamo con passione, sapiente artigianalità e amore per le persone e il pianeta. Bolsius ispira, collega e riscalda le persone con la magia del lume di candela e delle fragranze che solleticano i sensi. È così che puoi rendere ogni momento speciale. Per te e per tutti quelli che ti circondano.
 - Bolsius Le candele Essentials in una finitura liscia sono essenziali in qualsiasi interno. Varie dimensioni e tonalità possono essere combinate in base alle tue preferenze personali. Elegante e sottile! Realizzato con passione per le persone e il pianeta, utilizzando cera vegana naturale a base di olio doliva, olio di semi di girasole o olio di colza e olio di palma. Ogni stagione introduciamo nuovi colori di tendenza, in modo da poter mantenere i vostri interni aggiornati.
 - Come un classico senza tempo, Delicate Red è un vero rosso intenso. Intenso, seducente e sensuale!
+- Dal 1870, Bolsius produce prodotti di qualità per creare unatmosfera accogliente e accogliente nella vostra casa. Lo facciamo con passione, sapiente artigianalità e amore per le persone e il pianeta. Bolsius ispira, collega e riscalda le persone con la magia del lume di candela e delle fragranze che solleticano i sensi. È così che puoi rendere ogni momento speciale. Per te e per tutti quelli che ti circondano.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C6TVWPS1{{</world>}}

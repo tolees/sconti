@@ -28,11 +28,11 @@ average: '34.69'
 
 ℹ️:
 
-- VERSATILE - Lo zaino per bambini BIG OUTDOOR ADVENTURE di LÄSSIG è il compagno ideale per escursioni, passeggiate o per lasilo nella foresta. Lo zaino è adatto ai bambini dai 5 anni in su, misura 25 x 13 x 38 cm e ha un volume di 14 litri.
 - COMFORT DI TRASPORTO - La fascia toracica, la sezione dorsale imbottita e gli spallacci imbottiti e regolabili in altezza assicurano che lo zaino da trekking sia comodo da trasportare. Allo stesso tempo, lo zaino è particolarmente leggero e robusto. La parte inferiore dello zaino è realizzata in materiale rivestito e lavabile, in modo che lo zaino possa essere facilmente pulito dopo essere stato allaperto.
-- COMPARTIMENTO - Lampio scomparto principale è facile da aprire con una chiusura a scatto. La tasca a rete sul lato dello zaino asilo offre spazio per una bottiglia dacqua o un ombrello. Sullaltro lato è presente un piccolo scomparto con zip. Linterno dello zaino, organizzato in modo chiaro, rende molto facile tenere in ordine gli oggetti.
 - LÄSSIG - Spinti dalla nostra passione per uno stile di vita responsabile, dal 2006 progettiamo prodotti sostenibili per tutta la famiglia. Con borse fasciatoio, zaini per bambini, stoviglie, contenitori per il pranzo e molti altri prodotti, offriamo soluzioni creative per la vita familiare di tutti i giorni.
+- COMPARTIMENTO - Lampio scomparto principale è facile da aprire con una chiusura a scatto. La tasca a rete sul lato dello zaino asilo offre spazio per una bottiglia dacqua o un ombrello. Sullaltro lato è presente un piccolo scomparto con zip. Linterno dello zaino, organizzato in modo chiaro, rende molto facile tenere in ordine gli oggetti.
 - EXTRAS - Lo zaino include una copertura antipioggia integrata con chiusura, un cuscino di seduta isolato termicamente. Sono inclusi anche passanti elastici e passanti regolabili allesterno per una giacca o per lattrezzatura da esterno. Lo zaino per bambini è inoltre dotato di targhetta interna, moschettone e catarifrangenti.
+- VERSATILE - Lo zaino per bambini BIG OUTDOOR ADVENTURE di LÄSSIG è il compagno ideale per escursioni, passeggiate o per lasilo nella foresta. Lo zaino è adatto ai bambini dai 5 anni in su, misura 25 x 13 x 38 cm e ha un volume di 14 litri.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C9PDG3VQ{{</world>}}

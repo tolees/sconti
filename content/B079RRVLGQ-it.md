@@ -28,11 +28,11 @@ average: '17.954222222222'
 
 ℹ️:
 
+- Alimentazione: batteria; durata della batteria: 45 minuti; numero di impostazioni della lunghezza di taglio: 10
+- Gamma di lunghezza di taglio: 0.5-10 mm; lame da taglio: acciaio inox
+- Il trimmer ha una tensione di alimentazione variabile, quindi e possibile utilizzarlo anche al di fuori della Polonia (nella gamma 100V-240V); questa e una caratteristica molto utile se viaggi molto
 - Una batteria completamente carica consente 45 minuti; lavoro, rendendolo abbastanza tranquillamente per un trattamento completo; non devi preoccuparti di spegnere improvvisamente il trimmer
 - Funzioni aggiuntive: la possibilita di lavare sottacqua, lame che non richiedono oliatura, trimmer di precisione
-- Alimentazione: batteria; durata della batteria: 45 minuti; numero di impostazioni della lunghezza di taglio: 10
-- Il trimmer ha una tensione di alimentazione variabile, quindi e possibile utilizzarlo anche al di fuori della Polonia (nella gamma 100V-240V); questa e una caratteristica molto utile se viaggi molto
-- Gamma di lunghezza di taglio: 0.5-10 mm; lame da taglio: acciaio inox
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B079RRVLGQ{{</world>}}

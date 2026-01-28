@@ -28,10 +28,10 @@ average: '98.795'
 
 ℹ️:
 
-- Decorazione per casa a tema Star Wars da collezione: il set include un supporto e un mattoncino del 25° anniversario LEGO Star Wars; riunisci 2 vecchi amici esponendo C-3PO accanto al droide LEGO R2-D2 (75379, disponibile separatamente)
-- Personaggio LEGO Star Wars da costruire: preparati per unavvincente sfida di costruzione con il set del droide C-3PO LEGO Star Wars da collezione, un hobby creativo per adulti per riprodurre un realistico modellino da esposizione
 - Minifigure LEGO Star Wars di C-3PO: il set comprende una minifigure del personaggio Star Wars di C-3PO, che può essere esposta insieme al modello principale e a una targa con le informazioni sul droide
+- Decorazione per casa a tema Star Wars da collezione: il set include un supporto e un mattoncino del 25° anniversario LEGO Star Wars; riunisci 2 vecchi amici esponendo C-3PO accanto al droide LEGO R2-D2 (75379, disponibile separatamente)
 - Scopri tutti i dettagli originali: questo kit di modellismo permette di ricreare l’aspetto del droide C-3PO in stile LEGO, con testa e braccia mobili per dar vita alle sue classiche pose come nella serie di film di Star Wars
+- Personaggio LEGO Star Wars da costruire: preparati per unavvincente sfida di costruzione con il set del droide C-3PO LEGO Star Wars da collezione, un hobby creativo per adulti per riprodurre un realistico modellino da esposizione
 - Idea regalo LEGO per adulti: regalati o regala questo modello da esposizione a un fan adulto della classica saga di Star Wars, ad un uomo o una donna, o a un appassionato di set LEGO Star Wars da collezione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

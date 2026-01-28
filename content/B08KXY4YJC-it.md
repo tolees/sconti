@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - sintetico
-- girocollo
 - shirt
+- girocollo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08KXY4YJC{{</world>}}

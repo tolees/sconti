@@ -28,10 +28,10 @@ average: '29.99'
 
 ℹ️:
 
-- 🛡️ 𝗖𝗢𝗦𝗧𝗥𝗨𝗭𝗜𝗢𝗡𝗘 𝗗𝗨𝗥𝗘𝗩𝗢𝗟𝗘 – Costruzione cupsole e suole esterne in gomma ricostituita resistono all’usura quotidiana riducendo gli sprechi. Suola esterna con 20% di gomma riciclata.
 - 🌎 SOSTENIBILITÀ – etnies è impegnata per l’ambiente, avendo piantato oltre 2,3 milioni di alberi con il supporto della nostra comunità dedicata e dei nostri partner. Insieme, abbiamo un impatto positivo.
-- ☁ 𝗖𝗢𝗡𝗙𝗢𝗥𝗧𝗢 𝗔𝗠𝗠𝗢𝗥𝗧𝗜𝗭𝗭𝗔𝗧𝗢 – La soletta STI Comfort Level 1 e il colletto imbottito ammorbidiscono ogni atterraggio per sessioni più lunghe o per una passeggiata confortevole.
+- 🛡️ 𝗖𝗢𝗦𝗧𝗥𝗨𝗭𝗜𝗢𝗡𝗘 𝗗𝗨𝗥𝗘𝗩𝗢𝗟𝗘 – Costruzione cupsole e suole esterne in gomma ricostituita resistono all’usura quotidiana riducendo gli sprechi. Suola esterna con 20% di gomma riciclata.
 - 𝗲𝘁𝗻𝗶𝗲𝘀 Jameson 2 Eco - Combina plastica riciclata e gomma con l’estetica classica dello skate, per rider attenti all’ambiente. Stile vegano.
+- ☁ 𝗖𝗢𝗡𝗙𝗢𝗥𝗧𝗢 𝗔𝗠𝗠𝗢𝗥𝗧𝗜𝗭𝗭𝗔𝗧𝗢 – La soletta STI Comfort Level 1 e il colletto imbottito ammorbidiscono ogni atterraggio per sessioni più lunghe o per una passeggiata confortevole.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B074Q9FWYQ{{</world>}}

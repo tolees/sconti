@@ -28,11 +28,11 @@ average: '67.9'
 
 ℹ️:
 
-- Grande potenza di 2000 W per rimuovere lo sporco più difficile in modo rapido ed efficiente. Massima pressione di 150 bar. Ideale per terrazze, balconi, cortili e cordoli della piscina.
-- Raggio di 14 metri per un uso confortevole e totale libertà di movimento. Filtro anti impurità che aiuta a collegare rapidamente e facilmente il tubo dellacqua allidropulitrice.
-- Pompa HardPump in alluminio per una maggiore affidabilità che consente tempi di utilizzo superiori alle pompe di materiali compositi grazie a una minore fatica. Manico di grandi dimensioni per trasportare lidropulitrice senza sforzo ed eseguire comodamente le attività che richiedono spostamento.
 - Collegamento rapido e facile del tubo ad alta pressione e della lancia alla pistola tramite sistema iClick. Trigger con sistema Auto Start-Stop per una maggiore sicurezza e controllo. Protegge il motore e risparmia acqua. Facile da trasportare grazie alla maniglia e alle ruote
 - Portata massima di 450 litri/ora che permette di pulire una superficie più ampia in meno tempo. Pulire lauto o la terrazza è più veloce che mai. Bottiglia regolabile per sapone in schiuma regolabile.
+- Raggio di 14 metri per un uso confortevole e totale libertà di movimento. Filtro anti impurità che aiuta a collegare rapidamente e facilmente il tubo dellacqua allidropulitrice.
+- Pompa HardPump in alluminio per una maggiore affidabilità che consente tempi di utilizzo superiori alle pompe di materiali compositi grazie a una minore fatica. Manico di grandi dimensioni per trasportare lidropulitrice senza sforzo ed eseguire comodamente le attività che richiedono spostamento.
+- Grande potenza di 2000 W per rimuovere lo sporco più difficile in modo rapido ed efficiente. Massima pressione di 150 bar. Ideale per terrazze, balconi, cortili e cordoli della piscina.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BQ1SRVWP{{</world>}}

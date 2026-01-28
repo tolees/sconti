@@ -28,11 +28,11 @@ average: '599.0'
 
 ℹ️:
 
-- QLED Display 144Hz
+- Smart TV Mini-LED 144Hz 4K 55", Risoluzione 3840x2160
 - Mini-LED con Local Dimming
 - Audio Dolby Atmos 2.1
 - Dolby Vision IQ / HDR 10+ / HLG
-- Smart TV Mini-LED 144Hz 4K 55", Risoluzione 3840x2160
+- QLED Display 144Hz
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F1W9J4K7{{</world>}}

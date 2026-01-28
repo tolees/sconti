@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Un sorso di storia: il primo bicchiere di Coca-Cola fu servito ad Atlanta nel 1886, quando il farmacista John S. Pemberton produsse una bevanda “deliziosa e dissetante”
 - Allinterno della confezione: 6 lattine da 330ml di Coca-Cola Zero Zuccheri, da stappare in buona compagnia, durante i pasti o davanti ad un film o ad una partita
 - Sostenibilità: ci impegniamo a creare packaging sostenibili. Tutti i packaging delle bevande a marchio The Coca-Cola Company sono 100% riciclabili
-- Come gustarla: versa Coca-Cola Zero Zuccheri in un bicchiere, per un tocco in più aggiungi 2-3 cubetti di ghiaccio e una fettina di limone per esaltare l’aroma
 - Un gusto unico, senza zuccheri: è la bevanda senza zuccheri dall’inconfondibile gusto Coca-Cola, una formula ugualmente deliziosa, ma con zero calorie
+- Un sorso di storia: il primo bicchiere di Coca-Cola fu servito ad Atlanta nel 1886, quando il farmacista John S. Pemberton produsse una bevanda “deliziosa e dissetante”
+- Come gustarla: versa Coca-Cola Zero Zuccheri in un bicchiere, per un tocco in più aggiungi 2-3 cubetti di ghiaccio e una fettina di limone per esaltare l’aroma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00DQMLUXU{{</world>}}

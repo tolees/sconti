@@ -28,8 +28,8 @@ average: '29.5'
 
 ℹ️:
 
-- Colore: oro
 - Finitura: lucida
+- Colore: oro
 - Tipo di chiusura: a cerchio
 - Materiale: acciaio
 

@@ -28,11 +28,11 @@ average: '20.99'
 
 ℹ️:
 
-- [ NVMe e NGFF ] UGREEN case esterno M.2 SSD è compatibile M-Key e M&B-Key per NVME PCIe e SATA, coprendo dimensioni come 2230/ 2242/ 2260/ 2280, con capacità fino a 2TB. Nota:questo prodotto non supporta linterfaccia B-Key.
-- [ Ampia Compatibilità ] Non cè un bisogno di driver in Windows, Linux e Mac Os. Oltre al laptop, potrebbe utilizzare case esterno M.2 su console di gioco come Xbox, PS4 e PS3 per espandere la memoria e creare più spazio per i giochi.
-- [ Alta Velocità di 10Gbps ] Con linterfaccia USB C 3.2 Gen 2 e UASP pronti, include anche un cavo USB-C to USB-C di 0.3m, UGREEN case esterno hard disk M.2 raggiunge una velocità di 10 Gbps, che è abbastanza da trasferire file da 10GB in 10 secondi.
 - [Funzioni potenti] UGREEN case esterno hard disk M.2 supporta la funzione S.M.A.R.T e di TRIM, oltre ad abilitare lo standby automatico, entrando in modalità di sonno dopo 10 minuti di inattività, al fine di ridurre al minimo lusura del disco, diminuire lusura del disco, prolungare la durata di vita del disco e avere anche un effetto di risparmio energetico.
+- [ Ampia Compatibilità ] Non cè un bisogno di driver in Windows, Linux e Mac Os. Oltre al laptop, potrebbe utilizzare case esterno M.2 su console di gioco come Xbox, PS4 e PS3 per espandere la memoria e creare più spazio per i giochi.
 - [Ottima Dissipazione del Calore] Realizzate in lega di alluminio, associato a un copertura in silicone, case ssd nvme è in grado di dissipare efficacemente il calore, il che rende il raffreddamento più veloce e garantisce prestazioni stabili dellunità. NOTA: quando funzionando, la temperatura 0°C-45°C è normale che non distruggere il dispositivo e disco rigido.
+- [ Alta Velocità di 10Gbps ] Con linterfaccia USB C 3.2 Gen 2 e UASP pronti, include anche un cavo USB-C to USB-C di 0.3m, UGREEN case esterno hard disk M.2 raggiunge una velocità di 10 Gbps, che è abbastanza da trasferire file da 10GB in 10 secondi.
+- [ NVMe e NGFF ] UGREEN case esterno M.2 SSD è compatibile M-Key e M&B-Key per NVME PCIe e SATA, coprendo dimensioni come 2230/ 2242/ 2260/ 2280, con capacità fino a 2TB. Nota:questo prodotto non supporta linterfaccia B-Key.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D9GM3NLV{{</world>}}

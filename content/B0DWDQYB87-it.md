@@ -28,10 +28,10 @@ average: '102.459999999999'
 
 ℹ️:
 
-- Set con barca giocattolo: il grande galeone LEGO è dotato di alberi, vele, polena e timone; al suo interno si trovano la cabina per l’equipaggio, una cucina, un magazzino, unofficina e 4 poster “Ricercato”
-- Nave pirata giocattolo LEGO ONE PIECE: il set play-and-display La Nave Pirata Going Merry è un gioco per bambini e bambine da 10 anni, fan degli anime e dello show live action Netflix ONE PIECE
 - Regalo con nave pirata LEGO: questo set da gioco e da esposizione è un ottimo regalo per i fan degli anime, per gli amanti delle navi giocattolo costruibili, e per gli appassionati della serie live action di Netflix ONE PIECE
+- Nave pirata giocattolo LEGO ONE PIECE: il set play-and-display La Nave Pirata Going Merry è un gioco per bambini e bambine da 10 anni, fan degli anime e dello show live action Netflix ONE PIECE
 - 5 Minifigure LEGO di personaggi ONE PIECE: contiene le minifigure ricche di dettagli di Monkey D. Luffy, Zoro, Nami, Usopp e Sanji
+- Set con barca giocattolo: il grande galeone LEGO è dotato di alberi, vele, polena e timone; al suo interno si trovano la cabina per l’equipaggio, una cucina, un magazzino, unofficina e 4 poster “Ricercato”
 - Giochi da pirati creativi: Luffy può prendere il suo posto sulla polena a forma di pecora (al di sotto della quale si trova uno shooter in stile cannone per respingere i nemici), mentre Zoro si allena sul ponte e Nami controlla il timone
 - Guida alla costruzione in 3D: i bambini possono scaricare l’app LEGO Builder per divertirsi con la costruzione del modello, utilizzando strumenti digitali per ingrandire e ruotare il modellino, per salvare i set e monitorare i progressi
 

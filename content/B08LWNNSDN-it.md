@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - CON INGREDIENTI NATURALI: Prodotto formulato con tensioattivi di origine vegetale, ottenuti da zuccheri e olio di palma da Cocco che, con lazione sinergica dei frutti di Alchechengi, radice di Ginseng, foglie dellalbero del Tè, toniche e vivificanti e proteine di Mandorle dolci, rafforza e migliora il microcircolo nutrendo la cute, mentre svolge sul capello unefficace azione sostantivante
-- USO E APPLICAZIONE: Adatto per uso frequente, applicare poche gocce su una spugna bagnata per creare una morbida schiuma che permane a lungo sulla cute, lasciando un gradevole profumo, frizionare delicatamente su corpo e capelli e risciacquare con cura
+- MICROBIOLOGICAMENTE TESTATO: Prodotto Naturale e Delicato sulla pelle, nel rispetto degli equilibri cutanei, senza Conservanti, Parabeni, Fenossietanolo, SLS e SLES, EDTA e PEG
 - HELAN AMA LA PERSONA E LA NATURA: La Mission dell’azienda è stata, fin dall’inizio, quella di formulare e produrre cosmetici pensati e realizzati in armonia con la Fisiologia cutanea, la Natura, l’Ambiente e il Mondo Animale
 - DELICATO SULLA PELLE: Prodotto in Gel particolarmente delicato che deterge senza aggredire, indicato per una detergenza veloce o per un caldo bagno rilassante
-- MICROBIOLOGICAMENTE TESTATO: Prodotto Naturale e Delicato sulla pelle, nel rispetto degli equilibri cutanei, senza Conservanti, Parabeni, Fenossietanolo, SLS e SLES, EDTA e PEG
+- USO E APPLICAZIONE: Adatto per uso frequente, applicare poche gocce su una spugna bagnata per creare una morbida schiuma che permane a lungo sulla cute, lasciando un gradevole profumo, frizionare delicatamente su corpo e capelli e risciacquare con cura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08LWNNSDN{{</world>}}

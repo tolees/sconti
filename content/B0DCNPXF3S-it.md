@@ -28,11 +28,11 @@ average: '59.49'
 
 ℹ️:
 
-- App ricca di funzionalità: regola il volume dellallarme della stazione base, disattiva un allarme e visualizza la cronologia degli allarmi tramite lapp; tocca "Ricordami più tardi" per disattivare temporaneamente gli avvisi per 10 minuti, 30 minuti, 2 ore, 6 ore o 12 ore; prova il dispositivo, ricevi avvisi di batteria scarica e condividi il sensore dallapp
-- Ultrasottile e facile da posizionare: questo allarme con sensore dacqua si adatta a spazi ristretti e scomodi grazie al suo design compatto; il dispositivo ha uno spessore di soli 17 mm e un diametro di 77 mm
-- Sensori superiori e inferiori: dotato di 2 sonde dacqua ultrasensibili nella parte superiore e 4 nella parte inferiore, questo rilevatore di perdite dacqua è in grado di rilevare strati dacqua di soli 0,4 mm e gocciolamenti dallalto, in modo che tu sia subito al corrente della presenza di acqua e senza dover essere fisicamente sul posto e controllare di persona
 - Non farti mai sfuggire alcuna perdita: quando viene rilevata una perdita dacqua, una luce rossa lampeggia sul sensore di perdite dacqua e la stazione base emette un allarme fino a 100 dB; inoltre, riceverai un avviso tramite app sul telefono per essere al corrente di eventuali perdite anche quando non sei in casa
+- Ultrasottile e facile da posizionare: questo allarme con sensore dacqua si adatta a spazi ristretti e scomodi grazie al suo design compatto; il dispositivo ha uno spessore di soli 17 mm e un diametro di 77 mm
 - Connessione a lungo raggio: puoi posizionare questo sensore in una dependance o in un angolo lontano: la sua portata di connessione wireless fino a 500 m in spazi aperti sta a significare che riceverai gli avvisi sullapp indipendentemente dalla sua ubicazione
+- Sensori superiori e inferiori: dotato di 2 sonde dacqua ultrasensibili nella parte superiore e 4 nella parte inferiore, questo rilevatore di perdite dacqua è in grado di rilevare strati dacqua di soli 0,4 mm e gocciolamenti dallalto, in modo che tu sia subito al corrente della presenza di acqua e senza dover essere fisicamente sul posto e controllare di persona
+- App ricca di funzionalità: regola il volume dellallarme della stazione base, disattiva un allarme e visualizza la cronologia degli allarmi tramite lapp; tocca "Ricordami più tardi" per disattivare temporaneamente gli avvisi per 10 minuti, 30 minuti, 2 ore, 6 ore o 12 ore; prova il dispositivo, ricevi avvisi di batteria scarica e condividi il sensore dallapp
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DCNPXF3S{{</world>}}

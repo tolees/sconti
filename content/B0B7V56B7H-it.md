@@ -28,10 +28,10 @@ average: '19.99'
 
 ℹ️:
 
+- PERCEZIONE - Quanto conosci il tuo partner? Nel livello 1, ottieni una prospettiva su come il tuo altro significativo ti vede e sfida le ipotesi che fai l"uno sull"altro. Cè solo una regola: Sii onesto.
+- WERE NOT REALLY STRANGERS Couples Edition include 150 schede di conversazione con 3 livelli di domande e caratteri jolly accuratamente realizzati. Scopri quanto bene ti conosci già e rivela gli strati che non sapevi esistessero.
 - RIFLESSIONE - Nel livello 3, le coppie riflettono su ciò che hanno imparato luna sullaltra e su se stesse. Cosa ti ha insegnato giocare sul tuo partner? Cosa ti ha insegnato su di te?
 - CONNESSIONE - Chi sei, veramente? Livello 2 è pieno di domande raramente poste che ti aiutano a connetterti a un livello più profondo con il tuo partner per un"esperienza notturna più memorabile.
-- WERE NOT REALLY STRANGERS Couples Edition include 150 schede di conversazione con 3 livelli di domande e caratteri jolly accuratamente realizzati. Scopri quanto bene ti conosci già e rivela gli strati che non sapevi esistessero.
-- PERCEZIONE - Quanto conosci il tuo partner? Nel livello 1, ottieni una prospettiva su come il tuo altro significativo ti vede e sfida le ipotesi che fai l"uno sull"altro. Cè solo una regola: Sii onesto.
 - Cosa cè dentro: 150 carte di conversazione e caratteri jolly per incoraggiare i giocatori ad aprirsi ancora di più. Un gioco a 2 giocatori per coppie in qualsiasi fase della loro relazione, sia che lo abbiano appena reso ufficiale o siano stati insieme per sempre. Età 15+ Attenzione: potrebbe sbloccare risposte oneste.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

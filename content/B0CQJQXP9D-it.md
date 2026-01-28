@@ -28,8 +28,8 @@ average: '64.99'
 
 ℹ️:
 
-- 4 MODALITÀ CON 10 PIATTI PREIMPOSTATI: con questa friggitrice a aria puoi scegliere tra 10 impostazioni one-touch per il massimo della versatilità: cottura al forno, frittura ad aria, arrosto, grill.
 - TECNOLOGIA VORTX: lesclusiva tecnologia Vortx delle Air Fryer Tower fa circolare rapidamente laria calda intorno al cibo, permettendoti di cucinare con pochissimo olio. Più sapore, meno grassi!
+- 4 MODALITÀ CON 10 PIATTI PREIMPOSTATI: con questa friggitrice a aria puoi scegliere tra 10 impostazioni one-touch per il massimo della versatilità: cottura al forno, frittura ad aria, arrosto, grill.
 - FUNZIONE SMART FINISH CON FINESTRA VIZION: la funzione Smart Finish terminerà la cottura in entrambi i cestelli contemporaneamente. La finestra Vizion ti permette di controllare il cibo allinterno.
 - TECNOLOGIA A DOPPIO CESTELLO: completa di due cestelli da 4,5 litri, questa friggitrice ad aria calda offre la massima versatilità e praticità: 1 cestello per porzioni più piccole, 2 per più porzioni.
 

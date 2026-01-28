@@ -28,9 +28,9 @@ average: '6.88'
 
 ℹ️:
 
-- Finiture : Cuciti raddoppiati e bordi rinforzati
 - Aggancio : Occhielli metallici
 - Imballaggio : Envoltorio de plástico
+- Finiture : Cuciti raddoppiati e bordi rinforzati
 - Tessuto : Poliestere 100D
 - Uso : Interno ed esterno moderato
 

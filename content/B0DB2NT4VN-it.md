@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Vitamine: la vitamina C per la riduzione di stanchezza e affaticamento e la vitamina B1 per il normale metabolismo energetico e la normale funzione psicologica.
-- Sustenium Plus Gusto Tropicale è l’integratore energizzante a base di uno specifico complesso di aminoacidi, vitamine, minerali. Vivi al meglio le sfide di ogni giorno con Sustenium Plus!
 - Per lesigenza quotidiana di energia fisica e mentale, ma anche per la stanchezza da cambio di stagione, stress psicofisico e recupero post influenzale.
 - Complesso di aminoacidi: Arginina, aminoacido essenziale che può portare alla produzione di ossido nitrico nell’organismo, e Beta Alanina, precursore della Carnosina. Con aggiunta di Creatina.
-- Minerali: il magnesio per la normale funzione muscolare, lo zinco per il normale metabolismo dei macronutrienti e il ferro per la normale funzione cognitiva.
+- Sustenium Plus Gusto Tropicale è l’integratore energizzante a base di uno specifico complesso di aminoacidi, vitamine, minerali. Vivi al meglio le sfide di ogni giorno con Sustenium Plus!
+- Vitamine: la vitamina C per la riduzione di stanchezza e affaticamento e la vitamina B1 per il normale metabolismo energetico e la normale funzione psicologica.
 - Una bustina al giorno da sciogliere in un bicchiere d’acqua (200 ml). Al gusto tropicale.
+- Minerali: il magnesio per la normale funzione muscolare, lo zinco per il normale metabolismo dei macronutrienti e il ferro per la normale funzione cognitiva.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DB2NT4VN{{</world>}}

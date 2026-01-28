@@ -28,10 +28,10 @@ average: '14.49'
 
 ℹ️:
 
-- Ø 27 cm - 14,5 cm h
-- Dona un tocco di stile e personalità ai tuoi spazi quotidiani con la selezione Tavola firmata THUN con complementi raffinati per impreziosire ogni occasione; dagli accessori eleganti per eventi speciali agli elementi funzionali per l’uso quotidiano, un ottimo equilibrio tra stile e praticità per una mise en place sempre curata in ogni occasione dell’anno
-- Porcellana
 - Idoneo allutilizzo in microonde; idoneo allutilizzo in lavastoviglie; non utilizzare spugne abrasive; ricorda che la porcellana è fragile e va trattata con cura
+- Dona un tocco di stile e personalità ai tuoi spazi quotidiani con la selezione Tavola firmata THUN con complementi raffinati per impreziosire ogni occasione; dagli accessori eleganti per eventi speciali agli elementi funzionali per l’uso quotidiano, un ottimo equilibrio tra stile e praticità per una mise en place sempre curata in ogni occasione dell’anno
+- Ø 27 cm - 14,5 cm h
+- Porcellana
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F7HVZPNM{{</world>}}

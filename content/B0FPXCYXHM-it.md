@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - GIOCO DI SAETTA MCQUEEN: questo gioco per bambini e bambine da 9 anni permette di festeggiare il 20° anniversario del film Disney Pixar Cars, costruendo il modello di auto LEGO Speed Champions Saetta McQueen
+- DESIGN DETTAGLIATO: la macchina giocattolo, in scala di minifigure, è caratterizzata dal fulmine, dagli adesivi per i fari, dal numero 95, dal logo dello sponsor Rust-Eze e dal logo Lightyear stampato sugli pneumatici
 - DISNEY PIXAR CARS DA ESPOSIZONE: il set LEGO da collezione di Saetta McQueen è una simpatica decorazione per la camera da letto, da esporre su uno scaffale o sulla scrivania
 - TELAIO RICCO DI DETTAGLI: lauto da corsa LEGO Saetta McQueen è il primo veicolo giocattolo della serie Speed Champions con un dettagliato telaio, per offrire un valore aggiunto ai piccoli fan
-- DESIGN DETTAGLIATO: la macchina giocattolo, in scala di minifigure, è caratterizzata dal fulmine, dagli adesivi per i fari, dal numero 95, dal logo dello sponsor Rust-Eze e dal logo Lightyear stampato sugli pneumatici
 - SET BUILD TOGETHER CON AUTO ICONICHE PER IL GIOCO E L’ESPOSIZIONE: i set LEGO Speed Champions consentono a grandi e piccini di costruire insieme, le repliche di veicoli iconici provenienti da ogni parte del mondo
 - REGALO DISNEY: unavvincente idea regalo per gli amanti del personaggio e dei gadget Disney, una sorpresa di compleanno che farà felici i giovani fan di Saetta McQueen e delle macchine LEGO da costruire
 

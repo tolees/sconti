@@ -28,11 +28,11 @@ average: '93.31'
 
 ℹ️:
 
-- Dimensioni: 70 x 117-126 cm (Dia x A)
-- Include rotazione a 360 gradi, schienale alto con poggiatesta reclinabile, braccioli regolabili in altezza, rotelle adatte a pavimenti duri e morbidi, schiuma sagomata ad alta densità dai bordi arrotondati per il massimo comfort
 - In precedenza marchio Movian, ora Amazon Basics
 - Realizzata in nylon di alta qualità, schiuma sagomata ad alta densità, plastica leggera e acciaio resistente
+- Include rotazione a 360 gradi, schienale alto con poggiatesta reclinabile, braccioli regolabili in altezza, rotelle adatte a pavimenti duri e morbidi, schiuma sagomata ad alta densità dai bordi arrotondati per il massimo comfort
 - Facile installazione necessaria, tutti gli strumenti e le istruzioni sono inclusi
+- Dimensioni: 70 x 117-126 cm (Dia x A)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09FYPVKHK{{</world>}}

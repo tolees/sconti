@@ -28,11 +28,11 @@ average: '302.41'
 
 ℹ️:
 
-- FACILE DA UTILIZZARE: Già pronto all’uso con computer Mac e Windows, così puoi iniziare subito a trasferire file, salvare ricordi ed eseguire backup. È anche dotato di tutti i software necessari a proteggere i tuoi dati
-- PROTEZION CON PASSWORD: e crittografia hardware. La crittografia hardware integrata AES a 256 bit dell’unità My Book e la protezione con password ti aiutano a proteggere i tuoi contenuti e tenerli al sicuro.
 - BACKUP TOTALE: My Book include il software di backup, per garantire che le tue foto, i tuoi video, la tua musica e i tuoi documenti non vadano persi. È possibile configurarlo per un avvio automatico in base alle tue esigenze
 - My Book è un’unità di storage desktop affidabile che ti offre un’enorme quantità di spazio per archiviare foto, video, musica e documenti. Dotata di protezione tramite password e perfettamente abbinata al software di backup, l’unità di desktop My Book ti permette di tenere i tuoi file al sicuro
 - GRANDE CAPACITÁ: Con una capacità fino a 18 TB mette a disposizione tantissimo spazio per salvare le tue notevoli quantità di foto, video e musica, oltre ai documenti importanti
+- FACILE DA UTILIZZARE: Già pronto all’uso con computer Mac e Windows, così puoi iniziare subito a trasferire file, salvare ricordi ed eseguire backup. È anche dotato di tutti i software necessari a proteggere i tuoi dati
+- PROTEZION CON PASSWORD: e crittografia hardware. La crittografia hardware integrata AES a 256 bit dell’unità My Book e la protezione con password ti aiutano a proteggere i tuoi contenuti e tenerli al sicuro.
 - SUPERSPEED: Cavo USB 3.0, (5 Gbps) compatibile con usb 2.0
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

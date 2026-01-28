@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Resistenza alle alte temperature: da -40°C a + 85°C (temperatura di applicazione: -40 ° C / + 85 ° C, temperatura di installazione: -10 ° C / + 60 ° C, max. Temperatura di funzionamento: +/- 60 ° C, punto di fusione + 256 ° C).
-- Set di fascette di cablaggio (100 pezzi) realizzato in resistente poliammide 66 per uso interno ed esterno.
 - Resistente a: grassi, detergenti, prodotti raffinati, solventi clorurati, alcoli e fenolo.
 - Il prodotto è adatto per luso in meccanica, elettrotecnica, artigianato, edilizia, agricoltura, orticoltura e per tutti gli appassionati del fai da te.
 - Il prodotto è conforme a tutte le norme europee.
+- Set di fascette di cablaggio (100 pezzi) realizzato in resistente poliammide 66 per uso interno ed esterno.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08PQN6BGH{{</world>}}

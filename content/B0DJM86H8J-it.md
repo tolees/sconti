@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- 2 in 1: come mini forno a convezione e friggitrice ad aria calda, potete cuocere, arrostire, grigliare, friggere e persino disidratare i vostri cibi con questa friggitrice ad aria Tristar. Sono inclusi tutti gli accessori necessari per sfruttare appieno il potenziale dellapparecchio.
 - Meno olio: grazie alla tecnologia di convezione ad aria calda, potete fare a meno di grassi aggiuntivi e ottenere comunque risultati perfetti. La vostra cucina rimane più sana, i cibi vengono cotti in modo uniforme, le patatine fritte rimangono croccanti e gli odori sgradevoli di frittura si riducono notevolmente.
 - Facile da pulire: limpugnatura resistente al calore riduce al minimo il rischio di scottature. Il cestello antiaderente impedisce ai cibi di attaccarsi ed è facile da pulire perché lavabile in lavastoviglie, proprio come la griglia. Questo mini forno è inoltre garantito senza BPA.
 - Pratico e facile da usare: il display digitale è facile da usare. La funzione “shake” garantisce una cottura uniforme. Una finestra di visualizzazione consente il controllo, ideale per le famiglie con una capacità di 12 litri.
 - Versatile: 12 programmi preimpostati per una cottura perfetta e piatti variegati, ma grazie al timer e al termostato regolabili è anche possibile regolare individualmente il tempo di cottura e la temperatura.
-- 2 in 1: come mini forno a convezione e friggitrice ad aria calda, potete cuocere, arrostire, grigliare, friggere e persino disidratare i vostri cibi con questa friggitrice ad aria Tristar. Sono inclusi tutti gli accessori necessari per sfruttare appieno il potenziale dellapparecchio.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DJM86H8J{{</world>}}

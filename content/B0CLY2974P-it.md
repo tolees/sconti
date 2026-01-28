@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Ventola PWM inclusa con connettore ventola Pi5
 - Dissipatori di calore inclusi
-- Offre accesso a tutte le principali porte e pin GPIO
 - Design a incastro, non richiede attrezzi
+- Offre accesso a tutte le principali porte e pin GPIO
 - Accesso al pulsante di accensione con visibilità LED per attività
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

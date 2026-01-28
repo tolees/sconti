@@ -28,11 +28,11 @@ average: '26.01'
 
 ℹ️:
 
-- Potere concentrato: Scopri la potente azione smacchiante di Dixan Discs, ora in un formato DISC compatto: dimensioni ridotte, la stessa performance con un minore impatto ambientale
-- Formula: Il detersivo per lavatrice è appositamente formulato per una pulizia davvero profonda: bucato pulito, profumato e igienizzato, e freschezza igienica per la lavatrice
-- Bucato pulito: Il detersivo lavatrice capsule penetra in profondità nelle fibre dei tuoi capi eliminando anche le macchie difficili, e dona al bucato un fresco profumo di pulito
-- Per un mondo sostenibile: Dixan lava biancheria è efficace anche a pieno carico e a basse temperature, contiene il 92% di ingredienti degradabili e la sua confezione è riciclabile
 - Freschezza igienica: Dixan detersivo penetra in profondità nella lavatrice e combatte i cattivi odori, perché solo una lavatrice igienicamente fresca garantisce un bucato pulito
+- Potere concentrato: Scopri la potente azione smacchiante di Dixan Discs, ora in un formato DISC compatto: dimensioni ridotte, la stessa performance con un minore impatto ambientale
+- Bucato pulito: Il detersivo lavatrice capsule penetra in profondità nelle fibre dei tuoi capi eliminando anche le macchie difficili, e dona al bucato un fresco profumo di pulito
+- Formula: Il detersivo per lavatrice è appositamente formulato per una pulizia davvero profonda: bucato pulito, profumato e igienizzato, e freschezza igienica per la lavatrice
+- Per un mondo sostenibile: Dixan lava biancheria è efficace anche a pieno carico e a basse temperature, contiene il 92% di ingredienti degradabili e la sua confezione è riciclabile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C2CCS9QQ{{</world>}}

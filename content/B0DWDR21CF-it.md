@@ -28,12 +28,12 @@ average: '246.611666666666'
 
 ℹ️:
 
-- Regalo creativo LEGO ONE PIECE: questo set build-and-display è un ottimo regalo per gli amanti della serie, un gadget LEGO da collezione per adulti, e una bella sorpresa per gli appassionati di merchandising degli anime
-- Istruzioni per la costruzione: la guida di lusso contiene dettagliate istruzioni per la costruzione, con particolari del design e altro ancora, mentre l’app LEGO Builder include una versione digitale della stessa guida
-- Kit di modellismo LEGO ONE PIECE per adulti Baratie, il Ristorante Galleggiante: un modellino LEGO da costruire con cui ricreare in mattoncini le iconiche scene di ONE PIECE, per gli amanti degli anime e per i fan dei pirati
-- 10 minifigure LEGO prese dal manga: sono inclusi i personaggi ONE PIECE di Luffy, Zoro, Nami, Usopp, Sanji, Zeff, Garp, Helmeppo, Koby e Mihawk
 - Decorazione per la casa o per lufficio: questo ristorante LEGO ONE PIECE include accessori alimentari e bevande, un’iconica chioccia transponder (lumacofono) e la caratteristica barca di Mihawk
+- 10 minifigure LEGO prese dal manga: sono inclusi i personaggi ONE PIECE di Luffy, Zoro, Nami, Usopp, Sanji, Zeff, Garp, Helmeppo, Koby e Mihawk
+- Regalo creativo LEGO ONE PIECE: questo set build-and-display è un ottimo regalo per gli amanti della serie, un gadget LEGO da collezione per adulti, e una bella sorpresa per gli appassionati di merchandising degli anime
+- Kit di modellismo LEGO ONE PIECE per adulti Baratie, il Ristorante Galleggiante: un modellino LEGO da costruire con cui ricreare in mattoncini le iconiche scene di ONE PIECE, per gli amanti degli anime e per i fan dei pirati
 - Interni accessibili: il modello a forma di nave dei pirati LEGO contiene al suo interno numerose stanze, tra cui la cucina con parete apribile e accessori, la sala da pranzo, gli alloggi di Zeff e la stanza del tesoro
+- Istruzioni per la costruzione: la guida di lusso contiene dettagliate istruzioni per la costruzione, con particolari del design e altro ancora, mentre l’app LEGO Builder include una versione digitale della stessa guida
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DWDR21CF{{</world>}}

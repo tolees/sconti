@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Con Call of Duty: Black Ops 7, Treyarch e Raven Software offrono ai giocatori il Black Ops più sconvolgente di sempre.
-- Raduna la squadra o lanciati in solitaria in uninnovativa Campagna in co-op, che offrirà unesperienza Black Ops tutta nuova. Affronta sfide ad alto rischio in una vasta gamma di ambientazioni, da tetti illuminati al neon in Giappone fino alle coste del Mediterraneo... e perfino negli angoli più oscuri della psiche umana.
 - Nella leggendaria modalità Zombi a round di Treyarch, la realtà lascia spazio a un mondo da incubo. Imprigionata nel cuore delletere oscuro, la squadra si trova alle prese con ambienti infernali vasti e in continua mutazione. Questa non è solo una prova di sopravvivenza. È un viaggio nella follia.
-- Include un biglietto da visita bonus - Amazon Exclusive (La carta chiamata è un’immagine digitale che appare accanto al tuo nome utente nelle lobby. Un codice per cliente.)
+- Raduna la squadra o lanciati in solitaria in uninnovativa Campagna in co-op, che offrirà unesperienza Black Ops tutta nuova. Affronta sfide ad alto rischio in una vasta gamma di ambientazioni, da tetti illuminati al neon in Giappone fino alle coste del Mediterraneo... e perfino negli angoli più oscuri della psiche umana.
 - Il Multigiocatore offre unesperienza davvero esplosiva, con 16 emozionanti mappe 6v6 e due mappe 20v20 disponibili al lancio. Ogni ambiente, dalle futuristiche zone di Tokyo fino alla spietata natura dellAlaska, è colmo sia di pericoli che di opportunità. Impara a padroneggiare un arsenale allavanguardia e sconfiggi i tuoi avversari con un rinnovato sistema di movimento assoluto.
+- Con Call of Duty: Black Ops 7, Treyarch e Raven Software offrono ai giocatori il Black Ops più sconvolgente di sempre.
+- Include un biglietto da visita bonus - Amazon Exclusive (La carta chiamata è un’immagine digitale che appare accanto al tuo nome utente nelle lobby. Un codice per cliente.)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FNN8ZCVR{{</world>}}

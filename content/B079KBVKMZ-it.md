@@ -28,9 +28,9 @@ average: '105.0'
 
 ℹ️:
 
-- Fodera: 47% Cotone 36% Tessuto 60% Nylon - 40% PU 14% Pelle suina 3% Tessuto 79% PET riciclato - 21% Lattice
 - Colore: Nero
 - Soletta: Plantare estraibile per una calzata ottima
+- Fodera: 47% Cotone 36% Tessuto 60% Nylon - 40% PU 14% Pelle suina 3% Tessuto 79% PET riciclato - 21% Lattice
 - Tomaia: Pelle Pelle di vitello
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

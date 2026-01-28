@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - STORIA ESTESA Immergetevi in unindagine nuova di zecca che continua dopo gli eventi del libro, assicurando nuove sorprese sia ai fan che ai nuovi arrivati.
-- AMBIENTAZIONE INNOVATIVA Vivete liconica storia ambientata nei ricchi e vivaci anni 70, con tanto di discoteche e personaggi colorati.
 - DUE PROTAGONISTI Gioca nei panni di Hercule Poirot e Jane Royce, ognuno con prospettive e trame uniche che convergono in un epico finale.
+- AMBIENTAZIONE INNOVATIVA Vivete liconica storia ambientata nei ricchi e vivaci anni 70, con tanto di discoteche e personaggi colorati.
 - DIVERSE LOCATION Esplorate una varietà di luoghi straordinari, dallesotica crociera sul Nilo alle strade animate di Maiorca, Londra e Il Cairo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

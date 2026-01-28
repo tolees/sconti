@@ -28,11 +28,11 @@ average: '12.9066666666667'
 
 ℹ️:
 
-- DERMATOLOGICAMENTE TESTATO: I selezionati componenti di questo sapone liquido per il corpo sono delicati sulla pelle, grazie al pH fisiologico.
+- SAPONE: Sapone liquido al profumo delicato di Talco & Iris, ideale da usare in alternativa alla saponetta. Specifico per detergere mani, viso e corpo.
 - PRATICO: Grazie alla pratica confezione in busta dotata di manico il sapone può essere utilizzato per ricaricare senza sforzo flaconi con diversi tipi di chiusura, erogatori flip-top e push-pull.
 - MORBIDEZZA: Pensato e studiato per l’igiene e la pulizia quotidiana, lascia la pelle soffice e piacevolmente morbida.
-- SAPONE: Sapone liquido al profumo delicato di Talco & Iris, ideale da usare in alternativa alla saponetta. Specifico per detergere mani, viso e corpo.
 - FORMATO: Ricarica universale ecologica. Busta Maxirisparmio da 2 L.
+- DERMATOLOGICAMENTE TESTATO: I selezionati componenti di questo sapone liquido per il corpo sono delicati sulla pelle, grazie al pH fisiologico.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C7RKL77T{{</world>}}

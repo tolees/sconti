@@ -29,9 +29,9 @@ average: '11.99'
 ℹ️:
 
 - INGREDIENTI: Colomba realizzata con materie prime selezionate e ingredienti di altissima qualità.
-- CHIOSTRO DI SARONNO: La famiglia Lazzaroni porta avanti una lunga tradizione di artigianalità, producendo dolci di alta qualità come panettoni, amaretti, biscotti e colombe pasquali, utilizzando ricette autentiche e ingredienti pregiati.
 - IL GUSTO DELLA TRADIZIONE: La Colomba pasquale, simbolo della tradizione italiana, si esalta se accompagnata da un vino bianco fruttato e aromatico, dolce e delicatamente fresco, come un Moscato o uno Spumante.
 - CONFEZIONE: Colomba artigianale avvolta a mano in un’elegante carta colorata, rifinita con cura per esaltare la tradizione e renderla perfetta come regalo raffinato.
+- CHIOSTRO DI SARONNO: La famiglia Lazzaroni porta avanti una lunga tradizione di artigianalità, producendo dolci di alta qualità come panettoni, amaretti, biscotti e colombe pasquali, utilizzando ricette autentiche e ingredienti pregiati.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DWMWN4L1{{</world>}}

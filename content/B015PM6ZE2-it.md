@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Programmabile individualmente: le impostazioni possono essere effettuate direttamente sul Comet Plus o, più comodamente, su un PC utilizzando lo stick di programmazione PROGmatic (non incluso).
-- La consegna comprende: Comet Plus, regolatore di risparmio energetico, istruzioni per luso DE (altre lingue su richiesta), 3 adattatori (Danfoss RA, RAV, RAVL), 2 batterie AA Mignon, dimensioni: 65 x 54 x 85 mm, colore: bianco
-- Adattamento ottimale alle condizioni atmosferiche: Il Comet Plus è dotato di funzione vacanze, funzione antigelo e anticalcare e commutazione automatica dellorario estivo e invernale, che consente di risparmiare sui costi di riscaldamento.
-- Ventilazione automatica dellambiente: grazie al rilevamento dellapertura delle finestre, il termostato del radiatore rileva direttamente quando un ambiente viene ventilato e chiude immediatamente la valvola per risparmiare energia.
 - Facile da usare: il programmatore a risparmio energetico Comet Plus è facile da installare e da utilizzare. È delicato sulle valvole grazie alla protezione Eurotronic e si adatta anche a molte altre valvole per radiatori note.
+- Adattamento ottimale alle condizioni atmosferiche: Il Comet Plus è dotato di funzione vacanze, funzione antigelo e anticalcare e commutazione automatica dellorario estivo e invernale, che consente di risparmiare sui costi di riscaldamento.
+- La consegna comprende: Comet Plus, regolatore di risparmio energetico, istruzioni per luso DE (altre lingue su richiesta), 3 adattatori (Danfoss RA, RAV, RAVL), 2 batterie AA Mignon, dimensioni: 65 x 54 x 85 mm, colore: bianco
+- Ventilazione automatica dellambiente: grazie al rilevamento dellapertura delle finestre, il termostato del radiatore rileva direttamente quando un ambiente viene ventilato e chiude immediatamente la valvola per risparmiare energia.
+- Programmabile individualmente: le impostazioni possono essere effettuate direttamente sul Comet Plus o, più comodamente, su un PC utilizzando lo stick di programmazione PROGmatic (non incluso).
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B015PM6ZE2{{</world>}}

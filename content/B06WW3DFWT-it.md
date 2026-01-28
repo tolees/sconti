@@ -28,11 +28,11 @@ average: '152.536666666667'
 
 ℹ️:
 
-- TAGLIA PRATI DI MEDIE DIMENSIONI FINO A 200m² CON UNA SINGOLA CARICA - tutta la potenza e le prestazioni di un tosaerba a benzina senza il disordine, il rumore e limpatto ambientale
-- BATTERIA AL LITIO 40V 2Ah DI NUOVA GENERAZIONE - il taglia erba elettrico senza fili è alimentato da una batteria ultimo modello che può essere usata con qualsiasi attrezzo Greenworks da 40V per ridurre gli sprechi e risparmiare spazio e denaro
-- 5 ALTEZZE DI TAGLIO CON FUNZIONE PACCIAMATURA O RACCOLTA 2-IN-1 - una semplice leva permette di sollevare le lame da 20mm a 70mm, mentre gli sfalci possono essere raccolti nella capiente sacca da 40L o pacciamati per apportare sostanze nutritive al prato
-- 3 ANNI DI GARANZIA CON 2 ANNI DI GARANZIA PER LA BATTERIA - Da Greenworks, leader mondiale negli attrezzi elettrici e della tecnologia a batterie, con una reputazione globale per design intelligente, prestazioni elevate e un servizio clienti eccezionale
 - RASAERBA A BATTERIA FACILE DA MANOVRARE E RIPORRE - le grandi ruote posteriori da 18cm lo rendono facile da spostare su ogni tipo di terreno; il comodo manubrio superiore assicura maneggevolezza e si ripiega per risparmiare spazio quando non in uso
+- BATTERIA AL LITIO 40V 2Ah DI NUOVA GENERAZIONE - il taglia erba elettrico senza fili è alimentato da una batteria ultimo modello che può essere usata con qualsiasi attrezzo Greenworks da 40V per ridurre gli sprechi e risparmiare spazio e denaro
+- TAGLIA PRATI DI MEDIE DIMENSIONI FINO A 200m² CON UNA SINGOLA CARICA - tutta la potenza e le prestazioni di un tosaerba a benzina senza il disordine, il rumore e limpatto ambientale
+- 3 ANNI DI GARANZIA CON 2 ANNI DI GARANZIA PER LA BATTERIA - Da Greenworks, leader mondiale negli attrezzi elettrici e della tecnologia a batterie, con una reputazione globale per design intelligente, prestazioni elevate e un servizio clienti eccezionale
+- 5 ALTEZZE DI TAGLIO CON FUNZIONE PACCIAMATURA O RACCOLTA 2-IN-1 - una semplice leva permette di sollevare le lame da 20mm a 70mm, mentre gli sfalci possono essere raccolti nella capiente sacca da 40L o pacciamati per apportare sostanze nutritive al prato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B06WW3DFWT{{</world>}}

@@ -28,10 +28,10 @@ average: '1.61'
 
 ℹ️:
 
+- ECOLOGICO: i Flaconi di Neutro Roberts Intimo contengono il 30% di bioplastica e sono 100% riciclabili
 - NATURALE: La formula contiene estratto di Aloe di origine 100% naturale. Un detergente che racchiude tutta la gentilezza della natura
 - GENTILE CON LA PELLE: Le nuove nuove formule di Neutro Roberts Intimo sono naturalmente gentili e rispettano il pH intimo fisiologico.
 - TESTATO: sotto controllo ginecologico e pediatrico e adatto alluso quotidiano
-- ECOLOGICO: i Flaconi di Neutro Roberts Intimo contengono il 30% di bioplastica e sono 100% riciclabili
 - FRESCO: grazie alle sue proprietà rinfrescanti, dona piacevole freschezza alligiene intima. Ideale per donne e bambine e adatto alluso quotidiano
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

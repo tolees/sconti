@@ -28,10 +28,10 @@ average: '8.07'
 
 ℹ️:
 
-- Un laboratorio scientifico per conoscere meglio le api
-- Hotel per api in legno da costruire, tubicini di legno, cera dapi, stoppino, stampino per candela, colori, pennello, semi, fiori finti, manuale illustrato
-- Sperimentazione scientifica, caratteristiche animali, osservazione, concentrazione
 - Costruisci una casetta per le api solitarie e aiuta a salvarle, esperimenti sulle api, candele con cera dapi, fiori amici delle api da coltivare, ricco manuale illustrato
+- Un laboratorio scientifico per conoscere meglio le api
+- Sperimentazione scientifica, caratteristiche animali, osservazione, concentrazione
+- Hotel per api in legno da costruire, tubicini di legno, cera dapi, stoppino, stampino per candela, colori, pennello, semi, fiori finti, manuale illustrato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F1BC5PQQ{{</world>}}

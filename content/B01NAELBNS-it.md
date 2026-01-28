@@ -28,12 +28,12 @@ average: '48.172'
 
 ℹ️:
 
-- Un regalo LEGO da costruire per gli amanti della storia: festeggia un compleanno o unaltra occasione con un regalo creativo per un uomo o una donna amanti della storia, e per i fan dell’aviazione e dell’innovazione scientifica
 - Modellino da costruire con ali azionabili: ricrea la macchina volante di Leonardo da Vinci con le sue ali tessili mobili, e con la coda azionata da un intricato meccanismo visibile di corde, cerniere e pulegge
+- Un regalo LEGO da costruire per gli amanti della storia: festeggia un compleanno o unaltra occasione con un regalo creativo per un uomo o una donna amanti della storia, e per i fan dell’aviazione e dell’innovazione scientifica
 - Set di costruzioni LEGO per adulti dell’ornitottero di Da Vinci: immergiti nella storia dell’innovazione aeronautica, con il progetto di costruzione della Macchina Volante di Leonardo da Vinci LEGO Icons da collezione
-- Decorazione per la casa e l’ufficio: decora la tua casa o ufficio con questo modellino da esposizione ricco di dettagli, raffigurante la macchina volante di Leonardo da Vinci
-- Cosa c’è nella scatola: questo kit di modellismo LEGO da costruire, permette di ricreare tutti i dettagli del visionario ornitottero di Da Vinci, e include un espositore e una minifigure di Leonardo da Vinci con una penna e uno schizzo
 - Istruzioni per la costruzione 3D: preparati a costruire con l’app LEGO Builder, uno strumento digitale che ti consente di salvare i set, monitorare i tuoi progressi, ingrandire e ruotare il tuo modello in 3D
+- Cosa c’è nella scatola: questo kit di modellismo LEGO da costruire, permette di ricreare tutti i dettagli del visionario ornitottero di Da Vinci, e include un espositore e una minifigure di Leonardo da Vinci con una penna e uno schizzo
+- Decorazione per la casa e l’ufficio: decora la tua casa o ufficio con questo modellino da esposizione ricco di dettagli, raffigurante la macchina volante di Leonardo da Vinci
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01NAELBNS{{</world>}}

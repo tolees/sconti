@@ -28,11 +28,11 @@ average: '90.59'
 
 ℹ️:
 
-- CON 6 PERSONAGGI LEGO SUPER MARIO: comprende i personaggi di un Martelkoopa giocattolo, un Boom Boom, 2 Goomba e 2 Coccinelli volanti
-- TRENO GIOCATTOLO BOWSER EXPRESS PER I FAN DEI VIDEOGIOCHI: questo gioco LEGO Super Mario per bambini e bambine da 9 anni, include un treno ricco di dettagli, 2 stazioni ferroviarie e un carrello, per tante ore di divertimento
-- REGALO DI COMPLEANNO PER BAMBINI E BAMBINE: un giocattolo LEGO Super Mario che farà felici i fan del videogame, un regalo per gamer e per i collezionisti appassionati di gadget di Super Mario
-- FUNZIONI DIVERTENTI: gioco di ruolo con una locomotiva ferroviaria con piattaforma girevole azionata a leva e un Blocco Super Stella, vagone passeggeri con tetto rimovibile e Blocco ? e un carro cannone con uno shooter a molla
 - GIOCO DIGITALE INTERATTIVO: i piccoli aiutano LEGO Mario, LEGO Luigi o LEGO Peach (personaggi non inclusi) a inseguire il treno con il carrello a mano, a sconfiggere i nemici raggiungendo la stazione del trenino giocattolo
+- REGALO DI COMPLEANNO PER BAMBINI E BAMBINE: un giocattolo LEGO Super Mario che farà felici i fan del videogame, un regalo per gamer e per i collezionisti appassionati di gadget di Super Mario
+- TRENO GIOCATTOLO BOWSER EXPRESS PER I FAN DEI VIDEOGIOCHI: questo gioco LEGO Super Mario per bambini e bambine da 9 anni, include un treno ricco di dettagli, 2 stazioni ferroviarie e un carrello, per tante ore di divertimento
+- CON 6 PERSONAGGI LEGO SUPER MARIO: comprende i personaggi di un Martelkoopa giocattolo, un Boom Boom, 2 Goomba e 2 Coccinelli volanti
+- FUNZIONI DIVERTENTI: gioco di ruolo con una locomotiva ferroviaria con piattaforma girevole azionata a leva e un Blocco Super Stella, vagone passeggeri con tetto rimovibile e Blocco ? e un carro cannone con uno shooter a molla
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CWH1QW3K{{</world>}}

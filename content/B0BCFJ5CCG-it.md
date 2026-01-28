@@ -28,11 +28,11 @@ average: '78.19'
 
 ℹ️:
 
-- 【MINI TORCIA】Solo 161 g, indicatore luminoso rosso / verde per lo stato di carica Grazie alla potente coda magnetica, Perun 2 può essere fissato in molti punti.
 - 【TORCIA IMPERMEABILE】La torcia è impermeabile secondo IPX8 e supera perfettamente il test di caduta da unaltezza di 1,5 m. Se il livello della batteria è inferiore al 10%, la luce vibra una volta ogni 30 secondi (eccetto la modalità chiaro di luna).
-- 【LAMPADA FRONTALE MULTIFUNZIONE】Massima potenza di 2500 lumen e portata di 166 m, super luminosa e potente! Più di 5 livelli di luminosità e funzione （Turbo / SOS / Timer / Basso / Alto / Chiaro di Luna / Medio） per una varietà di occasioni, ad es. Campeggio, pesca, escursionismo, ecc.
-- 【AGGIORNA LA FUNZIONE DI RICARICA】Carica tramite il cavo di ricarica magnetico MCC 3 e può essere ricaricato completamente per 3,5 ore, fino a 12,5 giorni di funzionamento.
 - 【NUOVA LENTE TIR】 Linnovativa lente TIR con sensore di luce nascosto consente al Perun 2 di ridurre automaticamente i lumen quando è vicino a qualsiasi oggetto, proteggendo così persone e proprietà.
+- 【AGGIORNA LA FUNZIONE DI RICARICA】Carica tramite il cavo di ricarica magnetico MCC 3 e può essere ricaricato completamente per 3,5 ore, fino a 12,5 giorni di funzionamento.
+- 【LAMPADA FRONTALE MULTIFUNZIONE】Massima potenza di 2500 lumen e portata di 166 m, super luminosa e potente! Più di 5 livelli di luminosità e funzione （Turbo / SOS / Timer / Basso / Alto / Chiaro di Luna / Medio） per una varietà di occasioni, ad es. Campeggio, pesca, escursionismo, ecc.
+- 【MINI TORCIA】Solo 161 g, indicatore luminoso rosso / verde per lo stato di carica Grazie alla potente coda magnetica, Perun 2 può essere fissato in molti punti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BCFJ5CCG{{</world>}}

@@ -28,12 +28,12 @@ average: '16.9'
 
 ℹ️:
 
-- Noce moscata
-- Applica questa fragranza maschile su una o più punti di pulsazione del corpo, tra cui petto, collo, mascella, polsi e avambracci.
-- Foglia d’alloro
-- Note fumé legnose
 - David Beckham Bold Instinct è una fragranza legnosa aromatica senza compromessi, creata per gli uomini più coraggiosi che non temono le decisioni audaci. La forza potente di David Beckham Eau de Parfum Uomo controbilancia tra loro delle note erbose, speziate e fumé legnose, presentandosi in uno straordinario flacone di profumo nero opaco per un’esperienza profondamente maschile.
+- Foglia d’alloro
+- Applica questa fragranza maschile su una o più punti di pulsazione del corpo, tra cui petto, collo, mascella, polsi e avambracci.
+- Note fumé legnose
 - Il profumo David Beckham Bold Instinct è una fragranza creata per gli uomini che non temono le decisioni audaci.Questo profumo maschile senza compromessi è un equilibrio di note erbose, speziate e fumé legnose.Questa Eau de Parfum Uomo legnosa e aromatica esprime potere e convinzione.Lo straordinario flacone di profumo nero opaco è completato da un’etichetta color rame metallizzato per un look audace e sofisticato.L’Instinct Collection trae ispirazione dall’autenticità di David Beckham, deciso a restare sempre fedele a sé stesso.
+- Noce moscata
 - David Beckham Bold Instinct è una fragranza legnosa aromatica senza compromessi. La composizione offre un equilibrio audace aprendosi sulla freschezza erbosa delle foglie di alloro che svela poi il calore speziato della noce moscata. Il fondo presenta un mix raffinato di note fumé legnose per un’esperienza profondamente maschile.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ average: '48.29'
 
 ℹ️:
 
-- Struttura in neoprene facile da impugnare per una presa più salda
 - Ideale per lezioni di fitness o per allenamenti a casa
-- 3 paia di manubri da 1,5, 3 e 5 kg (6 manubri in totale); include un supporto per manubri
-- Peso del manubrio stampato su ciascuna estremità, con codifica a colori per una rapida identificazione
-- Il corpo contiene ferro riciclato post-consumo al 100% certificato GRS (Global Recycled Standard)
+- Struttura in neoprene facile da impugnare per una presa più salda
 - La forma esagonale impedisce ai manubri di rotolare
+- 3 paia di manubri da 1,5, 3 e 5 kg (6 manubri in totale); include un supporto per manubri
+- Il corpo contiene ferro riciclato post-consumo al 100% certificato GRS (Global Recycled Standard)
+- Peso del manubrio stampato su ciascuna estremità, con codifica a colori per una rapida identificazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DNHY2J5P{{</world>}}

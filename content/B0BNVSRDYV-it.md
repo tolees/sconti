@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- PIRAMIDE OLFATTIVA: Famiglia Olfattiva| Legnosa, Aromatica, Orientale, Ambrata Note di Testa | Note Aromatiche, Mandarino, Bergamotto Note di Cuore | Lavanda, Geranio, Fave di Cacao Note di Fondo| Ambra, Cedro, Vaniglia, Fava Tonka
 - IL REGALO PERFETTO: Il Cofanetto Regalo Uomo, Deo 150 ml + Shower Gel 200 ml Tb
-- MADE IN ITALY: Il cofanetto è prodotto in Italia.
-- DUCATI: Lemozione di essere in sella ad una DUCATI, la forza, il dinamismo e la velocità della moto racchiusa in tre fragranze sportive e alla moda che rappresentano luomo moderno: vivace, dinamico, appassionato di moto e sempre alla ricerca di adrenalina.
 - CARATTERISTICHE: Il deodorante spray Ducati Sport lascia sulla pelle il profumo dell’uomo moderno: veloce, dinamico, alla ricerca di adrenalina in ogni momento della vita quotidiana. Ideale anche come Bagnosciuma.
+- PIRAMIDE OLFATTIVA: Famiglia Olfattiva| Legnosa, Aromatica, Orientale, Ambrata Note di Testa | Note Aromatiche, Mandarino, Bergamotto Note di Cuore | Lavanda, Geranio, Fave di Cacao Note di Fondo| Ambra, Cedro, Vaniglia, Fava Tonka
+- DUCATI: Lemozione di essere in sella ad una DUCATI, la forza, il dinamismo e la velocità della moto racchiusa in tre fragranze sportive e alla moda che rappresentano luomo moderno: vivace, dinamico, appassionato di moto e sempre alla ricerca di adrenalina.
+- MADE IN ITALY: Il cofanetto è prodotto in Italia.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BNVSRDYV{{</world>}}

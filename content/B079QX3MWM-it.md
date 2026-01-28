@@ -28,9 +28,9 @@ average: '92.99'
 
 ℹ️:
 
-- Con HDMI
-- Arc Cec
 - Potenza 180W
+- Arc Cec
+- Con HDMI
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B079QX3MWM{{</world>}}

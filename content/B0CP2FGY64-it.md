@@ -28,16 +28,16 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Schermo da 6,78" Samsung E6 flexible AMOLED a 165Hz con tecnologia LTPO.
-- 16GB di RAM LPDDR5X e 512GB di ROM UFS 4.0.
+- 50MP Sony IMX890 Main Camera, 32MP Telephoto Camera with Optical IS, 13MP Ultrawide Camera, 32MP Front Camera with RGBW.
+- Android 14 con ROG UI.
 - 6-Axis Hybrid Gimbal Stabilizer 3.0.
 - Jack per cuffie da 3,5mm con tecnologia DIRAC Virtuo.
-- Sistema di raffreddamento avanzato GameCool 8.
-- Qualcomm Snapdragon 8 Gen 3 5G mobile platform.
-- Resistenza acqua e polvere IP68.
-- Android 14 con ROG UI.
 - Ampia batteria da 5500mAh con HyperCharge da 65W.
-- 50MP Sony IMX890 Main Camera, 32MP Telephoto Camera with Optical IS, 13MP Ultrawide Camera, 32MP Front Camera with RGBW.
+- Sistema di raffreddamento avanzato GameCool 8.
+- 16GB di RAM LPDDR5X e 512GB di ROM UFS 4.0.
+- Qualcomm Snapdragon 8 Gen 3 5G mobile platform.
+- Schermo da 6,78" Samsung E6 flexible AMOLED a 165Hz con tecnologia LTPO.
+- Resistenza acqua e polvere IP68.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CP2FGY64{{</world>}}

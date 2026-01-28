@@ -28,10 +28,10 @@ average: '33.4'
 
 ℹ️:
 
-- Un vecchio recipiente del mondo farmaceutico, sigillato con un tappo del miglior sughero portoghese che offre una perfetta combinazione tra conservazione e ossidazione
 - Aspetto cristallino
 - Gusto fresco, complesso, pepato, pieno di carattere Finale unico e sorprendente
 - Ricchissimo di aromi, tra cui spiccano ginepro, agrumi, pepe e spezie
+- Un vecchio recipiente del mondo farmaceutico, sigillato con un tappo del miglior sughero portoghese che offre una perfetta combinazione tra conservazione e ossidazione
 - 47 ingredienti per dare vita a un gin moderno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- I DATTERINI GIALLI: di piccole dimensioni, dal gusto ancora più dolce e delicato, sono conservati interi. Ideali per pizze gourmet e per piatti a base di pesce, oppure nelle insalate
 - I ROSSI ARMANDO: una nuova linea esclusivamente a base di datterini 100% italiani di filiera, tra le varietà di pomodori più pregiate e dolci
 - POMODORO DI FILIERA: i datterini Armando sono di filiera tracciata e certificata. I processi di lavorazione e trasformazione avvengono in totale sicurezza e qualità, dalla pianta alla tavola
-- LA COLTIVAZIONE: i pomodori vengono coltivati in Cilento, in terreni vicini al mare con condizioni climatiche favorevoli alla graduale maturazione quando sono al culmine della dolcezza
 - LA LAVORAZIONE: I pomodori sono accuratamente selezionati e lavorati da freschi entro poche ore dalla raccolta per mantenere intatte la freschezza e le proprietà nutrizionali. Senza Glutine
-- I DATTERINI GIALLI: di piccole dimensioni, dal gusto ancora più dolce e delicato, sono conservati interi. Ideali per pizze gourmet e per piatti a base di pesce, oppure nelle insalate
+- LA COLTIVAZIONE: i pomodori vengono coltivati in Cilento, in terreni vicini al mare con condizioni climatiche favorevoli alla graduale maturazione quando sono al culmine della dolcezza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B2SB2MC4{{</world>}}

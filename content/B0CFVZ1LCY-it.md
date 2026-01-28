@@ -28,11 +28,11 @@ average: '21.5625'
 
 ℹ️:
 
-- Un mondo di gare e di competizioni: aumenta la collezione del tuo giovane pilota, con gli altri prodotti della gamma di auto LEGO Speed Champions (disponibili separatamente)
-- Con 1 minifigure: il modellino di auto LEGO è dotato da un tetto rimovibile e include una minifigure del pilota con casco, capigliatura e chiave inglese, che i bambini possono posizionare al volante del veicolo giocattolo
-- Macchina giocattolo rossa e nera ricca di dettagli: questo modellino di auto da costruire replica il design dell’Auto da corsa Audi S1 E-Tron Quattro, con lalettone e il diffusore posteriore, cofano lungo, splitter anteriore e dettagli interni
-- Macchina giocattolo Audi per bambini: questo set LEGO Speed Champions permette di costruire il modellino dellAuto da Corsa Audi S1 E-Tron Quattro, un gioco dazione per bambini e bambine da 9 anni in su, da collezionare e da esporre
 - Auto da regalare: questo modello offre un’esperienza di costruzione e di gioco divertente; unottima idea regalo per i fan delle auto LEGO da 9 anni in su, che amano collezionare i veicoli come gli adulti
+- Macchina giocattolo Audi per bambini: questo set LEGO Speed Champions permette di costruire il modellino dellAuto da Corsa Audi S1 E-Tron Quattro, un gioco dazione per bambini e bambine da 9 anni in su, da collezionare e da esporre
+- Con 1 minifigure: il modellino di auto LEGO è dotato da un tetto rimovibile e include una minifigure del pilota con casco, capigliatura e chiave inglese, che i bambini possono posizionare al volante del veicolo giocattolo
+- Un mondo di gare e di competizioni: aumenta la collezione del tuo giovane pilota, con gli altri prodotti della gamma di auto LEGO Speed Champions (disponibili separatamente)
+- Macchina giocattolo rossa e nera ricca di dettagli: questo modellino di auto da costruire replica il design dell’Auto da corsa Audi S1 E-Tron Quattro, con lalettone e il diffusore posteriore, cofano lungo, splitter anteriore e dettagli interni
 - Modello di auto Audi LEGO da esposizione: dopo aver portato la macchina giocattolo per bambini a fare un giro, il modellino è pronto per essere esposto su uno scaffale o sul comodino della loro camera da letto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

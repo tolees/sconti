@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Seekers Edition include: Gioco base, DLC, Artbook digitale , Colonna Sonora digitale e Steelbok
-- Prendi il controllo di eroi unici, ciascuno contraddistinto da uno stile e da abilità proprie. Per quanto formidabili da sole, le loro abilità creano potenti sinergie se usate in squadra.
-- Il DLC include personaggi giocabili e boss aggiuntivi. Questo DLC sarà disponibile nel corso dell’ultimo trimestre del 2025. I possessori della Standard edition potranno successivamente acquistare questo DLC aggiuntivo separatamente.
 - Unisci le forze con altri giocatori per affrontare i pericoli in agguato nella notte, anche in modalità cooperativa per 3 giocatori.
+- Il DLC include personaggi giocabili e boss aggiuntivi. Questo DLC sarà disponibile nel corso dell’ultimo trimestre del 2025. I possessori della Standard edition potranno successivamente acquistare questo DLC aggiuntivo separatamente.
+- Seekers Edition include: Gioco base, DLC, Artbook digitale , Colonna Sonora digitale e Steelbok
 - Affronta unimplacabile minaccia ambientale che incombe su un mondo di gioco che cambia a ogni sessione e sconfiggi limponente boss di quella notte!
+- Prendi il controllo di eroi unici, ciascuno contraddistinto da uno stile e da abilità proprie. Per quanto formidabili da sole, le loro abilità creano potenti sinergie se usate in squadra.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DWY4TKLS{{</world>}}

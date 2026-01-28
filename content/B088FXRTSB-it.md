@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Docking station USB: ti permetterà di ricaricare i tuoi dispositivi mobili senza bisogno di ulteriori spine. Il ripiano in alluminio (28x8 cm) può ospitare due telefoni cellulari posizionati verticalmente, o posizionare piante, tazze, bottiglie dacqua, carta igienica, decorazioni, ecc.
 - Illuminazione a LED: è possibile controllare la luce di lettura con linterruttore cel applique. La parte interna dellapplique emette una luce ambientale calda con una potenza di 6 W e un basso indice di abbagliamento grazie alla sua copertura opale, la luce viene emessa senza abbagliamento e in modo omogeneo.
 - Basso consumo: le luci LED da 6 W equivalgono a una lampadina alogena da 50 W, ma hanno una durata media di 25000 ore, quasi 10 volte di più. Driver integrato di alta qualità e montaggio molto semplice.
 - Applicazioni: perfetto per illuminare letto a castello, letto, testiera, studio, camera da letto, sala lettura, soggiorno, biblioteca, camera dalbergo, ecc. Solo per uso interno (IP20). Uscita di corrente massima fino a 2 A/10 W, perfetta per la ricarica durante la lettura o tutta la notte.
+- Docking station USB: ti permetterà di ricaricare i tuoi dispositivi mobili senza bisogno di ulteriori spine. Il ripiano in alluminio (28x8 cm) può ospitare due telefoni cellulari posizionati verticalmente, o posizionare piante, tazze, bottiglie dacqua, carta igienica, decorazioni, ecc.
 - Luce orientabile: grazie alla rotazione a 350° puoi ruotare facilmente la luce allangolazione desiderata. Il faretto da 6 W con unintensità luminosa elevata di 520 lumen ti permetterà di leggere di notte senza causare disagio con un angolo di luce di 120° in un piacevole tono caldo (2700K). Offre unatmosfera piacevole e confortevole in ogni stanza.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

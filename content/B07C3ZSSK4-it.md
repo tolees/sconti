@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- SENZA TEST SUGLI ANIMALI: non ci asteniamo dai test sugli animali solo per la nostra lozione per il corpo PURE GREEK OLIVE, ma per tutti i nostri prodotti, per un trattamento rispettoso degli animali e della natura.
 - TRADIZIONE GRECA: come marchio di cosmetici greco, KORRES combina il meglio della natura con la scienza moderna per sviluppare prodotti di bellezza naturali, e lo fa da oltre 25 anni.
 - FRAGRANZA DI SALE MARINO FRESCO: come formula vegana e dermatologicamente testata per luso quotidiano, la crema per il corpo colpisce per i suoi preziosi ingredienti e la sua fragranza piacevolmente delicata.
 - PELLE SECCA: il miglior olio doliva biologico proveniente direttamente dagli uliveti di Creta nutre la pelle con preziosi acidi grassi, vitamine A ed E e rigenera e protegge la pelle con un effetto antiossidante.
 - TEXTURE LEGGERA: Arricchita con olio extra vergine di oliva, questa lozione per il corpo fornisce alla pelle importanti sostanze nutritive, viene assorbita rapidamente e rende la pelle morbida per tutto il giorno
+- SENZA TEST SUGLI ANIMALI: non ci asteniamo dai test sugli animali solo per la nostra lozione per il corpo PURE GREEK OLIVE, ma per tutti i nostri prodotti, per un trattamento rispettoso degli animali e della natura.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07C3ZSSK4{{</world>}}

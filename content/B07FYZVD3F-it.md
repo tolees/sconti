@@ -28,10 +28,10 @@ average: '9.96'
 
 ℹ️:
 
-- Spray raffreddante istantaneo ideale per rilevare i difetti dovuti al surriscaldamento delle schede elettroniche e dei difetti di saldatura
-- Spray da 200 ml
 - Modo duso: applicare la cannuccia e spruzzare a una distanza di 5-10 cm
+- Spray da 200 ml
 - Spegnere i dispositivi elettronici prima della spruzzatura, non spruzzare su superfici calde o attrezzature in tensione
+- Spray raffreddante istantaneo ideale per rilevare i difetti dovuti al surriscaldamento delle schede elettroniche e dei difetti di saldatura
 - Raggiunge -45°c, riduce i danni dovuti alla saldatura o alla brasatura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,14 +28,14 @@ average: '48.05875'
 
 ℹ️:
 
-- Esplora i vasti territori dellaffascinante Giappone feudale e scopri le meravigliose città castello, i porti fiorenti, i santuari silenziosi e i paesaggi segnati dalle guerre.
-- La Limited Edition include: - Il gioco base. - Il Pacchetto personaggio Sekiryū, con set attrezzatura e armi per Naoe, la Bestia Sekiryū e loggettino Dente del drago.
-- Impersona lAssassina shinobi Naoe e il leggendario samurai Yasuke, seguili nelle loro storie avvincenti e adotta i loro stili di gioco complementari. Ricorri alla furtività e allagilità per superare e ingannare i nemici con Naoe. Colpisci gli avversari con potenza e precisione letali con Yasuke.
-- *Sono richiesti una connessione a internet e un account Ubisoft per riscattare il contenuto digitale.
 - Usa le informazioni come unarma mentre esplori il mondo di gioco, crea la tua rete di spie per avere occhi e orecchie ovunque e per scoprire dove si trovano i tuoi bersagli.
+- Esplora i vasti territori dellaffascinante Giappone feudale e scopri le meravigliose città castello, i porti fiorenti, i santuari silenziosi e i paesaggi segnati dalle guerre.
 - Costruisci e personalizza il rifugio della tua lega di shinobi, dove potrai addestrare le nuove reclute, costruire la tua attrezzatura, interagire con personaggi chiave e scegliere aspetto, decorazioni e accessori della tua base.
-- Offerta soggetta a variazioni. Ubisoft può riservarsi di rendere il contenuto disponibile per lacquisto e/o come giveaway separatamente in qualsiasi momento e a sua discrezione.
 - **La missione bonus disponibile al lancio e la prossima espansione sono fornite in veste gratuita come parte di unofferta a tempo limitato riservata ai giocatori che prenoteranno il gioco presso uno dei punti vendita aderenti alliniziativa (espansione non disponibile al momento del lancio, la data di uscita sarà annunciata in seguito). Ubisoft può riservarsi il diritto di rendere il contenuto disponibile anche per lacquisto e/o separatamente come giveaway a sua totale discrezione. Si prega di verificare i requisiti di sistema e le specifiche/restrizioni del prodotto prima dellacquisto e al momento della pubblicazione del gioco.
+- Impersona lAssassina shinobi Naoe e il leggendario samurai Yasuke, seguili nelle loro storie avvincenti e adotta i loro stili di gioco complementari. Ricorri alla furtività e allagilità per superare e ingannare i nemici con Naoe. Colpisci gli avversari con potenza e precisione letali con Yasuke.
+- La Limited Edition include: - Il gioco base. - Il Pacchetto personaggio Sekiryū, con set attrezzatura e armi per Naoe, la Bestia Sekiryū e loggettino Dente del drago.
+- Offerta soggetta a variazioni. Ubisoft può riservarsi di rendere il contenuto disponibile per lacquisto e/o come giveaway separatamente in qualsiasi momento e a sua discrezione.
+- *Sono richiesti una connessione a internet e un account Ubisoft per riscattare il contenuto digitale.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D35Z9XD9{{</world>}}

@@ -28,11 +28,11 @@ average: '4.49'
 
 ℹ️:
 
-- IDRATAZIONE INTENSA PER CAPELLI SECCHI E DANNEGGIATI: Per capelli secchi, tendenti al crespo, e capelli ricci. La nostra formula nutriente aiuta a proteggere i capelli dallumidità, per capelli più morbidi e disciplinati
-- FLACONE RICICLABILE: Flacone realizzato con plastica riciclata (esclusi tappo, coloranti e additivi) e riciclabile
-- CON + DI 5000 PERLE PRO-V: La nostra formula Pro-V altamente concentrata con biotina e complesso protezione cheratina impiega una specifica tecnologia di Pantene che rilascia milioni di nutrienti nella crema
-- CONTROLLA LEFFETTO CRESPO PER TUTTO IL GIORNO: Sfrega la maschera tra le mani e massaggiala sulle lunghezze per dissolvere le perle nutrienti di Pantene Pro-V. Lasciala agire per 2 minuti per avere capelli più morbidi, protetti dall’effetto crespo
 - CREATA DAI NOSTRI ESPERTI: La nostra formula unica e innovativa è il risultato di 75 anni di ricerca in nutrienti Pro-V ed è certificata dallIstituto Svizzero della Vitamina, riconosciuto in tutto il mondo per lo studio sullefficacia delle vitamine
+- CONTROLLA LEFFETTO CRESPO PER TUTTO IL GIORNO: Sfrega la maschera tra le mani e massaggiala sulle lunghezze per dissolvere le perle nutrienti di Pantene Pro-V. Lasciala agire per 2 minuti per avere capelli più morbidi, protetti dall’effetto crespo
+- IDRATAZIONE INTENSA PER CAPELLI SECCHI E DANNEGGIATI: Per capelli secchi, tendenti al crespo, e capelli ricci. La nostra formula nutriente aiuta a proteggere i capelli dallumidità, per capelli più morbidi e disciplinati
+- CON + DI 5000 PERLE PRO-V: La nostra formula Pro-V altamente concentrata con biotina e complesso protezione cheratina impiega una specifica tecnologia di Pantene che rilascia milioni di nutrienti nella crema
+- FLACONE RICICLABILE: Flacone realizzato con plastica riciclata (esclusi tappo, coloranti e additivi) e riciclabile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CRDX8H3M{{</world>}}

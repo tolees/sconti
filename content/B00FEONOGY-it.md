@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- È adatta a tutti i tipi di pelle ed esalta la naturale luminosità della tua pelle, mantenendola idratata e luminosa per 48 ore
 - Modo duso: dopo la detersione, applicala su viso, corpo e mani per una freschezza immediata
+- È adatta a tutti i tipi di pelle ed esalta la naturale luminosità della tua pelle, mantenendola idratata e luminosa per 48 ore
 - Grazie alla sua formula leggera, si assorbe velocemente e non appiccica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

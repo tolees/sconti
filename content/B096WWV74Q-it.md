@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Product 1: Età consigliata: da 10 anni in su
+- Product 2: Età consigliata: da 10 anni in su
+- Product 2: Adatto come regalo
 - Product 2: Durata media: 60 minuti
+- Product 1: Durata media: 60 minuti
 - Product 1: Un gioco di carte collaborativo ispirato alle Escape Room; Unlock! vi consente di vivere questa esperienza a casa vostra, seduti a un tavolo
 - Product 1: Numero di giocatori: 1-6
 - Product 2: Numero di giocatori: 1-6
-- Product 1: Durata media: 60 minuti
-- Product 2: Età consigliata: da 10 anni in su
-- Product 2: Adatto come regalo
+- Product 1: Età consigliata: da 10 anni in su
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B096WWV74Q{{</world>}}

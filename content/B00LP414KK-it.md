@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Applicazione - Disegna un tratto preciso sulla rima superiore o inferiore dellocchio, oppure sfuma la matita con un pennello per usarla come ombretto
 - Contour Clubbing Waterproof - Matita occhi resistente allacqua e alle sbavature. Si sfuma facilmente e può essere usata sia come liner che come ombretto
 - Effetti e benefici - Texture ultra morbida e waterproof che dura tutto il giorno
-- Applicazione - Disegna un tratto preciso sulla rima superiore o inferiore dellocchio, oppure sfuma la matita con un pennello per usarla come ombretto
 - Formula - Arricchita con olio di Jojoba e olio di Cotone per il massimo del comfort. Compatibile con occhi sensibili e uso di lenti a contatto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

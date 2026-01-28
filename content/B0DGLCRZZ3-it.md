@@ -28,11 +28,11 @@ average: '19.05'
 
 ℹ️:
 
-- PERCHÉ SCEGLIERE DR. ALTHEA? I nostri prodotti non contengono coloranti, profumi o parabeni artificiali, il che li rende delicati sulla pelle. Inoltre, sono certificati vegani per soddisfare gli standard etici ed ecologici.
-- Riduci i pori: formulato con niacinamide per aiutare a controllare la produzione di sebo e perfezionare i pori per ammorbidire la consistenza irregolare della pelle senza lasciarla asciutta per dare un tono della pelle più luminoso e uniforme.
 - Cura luminosa intensa: contiene 640.000 ppm di acqua di Hippophae Rhamnoides, ricca di vitamina C e un ingrediente che illumina la pelle e aiuta a ridurre le macchie scure. È assorbito più facilmente rispetto alla pura vitamina C, il che lo rende ideale per tutti i tipi di pelle, anche quella sensibile.
-- FORMULA LEGGERA: Sperimenta una finitura fresca e idratante senza sensazione appiccicosa. Nessun ingiallimento o odori sgradevoli spesso associati ai sieri con vitamina C, il che lo rende perfetto per luso sempre e ovunque.
+- PERCHÉ SCEGLIERE DR. ALTHEA? I nostri prodotti non contengono coloranti, profumi o parabeni artificiali, il che li rende delicati sulla pelle. Inoltre, sono certificati vegani per soddisfare gli standard etici ed ecologici.
 - CALMA LA TUA PELLE: Lacqua delle foglie di centella asiatica aiuta ad alleviare la pelle stressata causata da fattori ambientali. Gli ingredienti naturali favoriscono il recupero della pelle indebolita, migliorando al contempo la compattezza e la resistenza.
+- FORMULA LEGGERA: Sperimenta una finitura fresca e idratante senza sensazione appiccicosa. Nessun ingiallimento o odori sgradevoli spesso associati ai sieri con vitamina C, il che lo rende perfetto per luso sempre e ovunque.
+- Riduci i pori: formulato con niacinamide per aiutare a controllare la produzione di sebo e perfezionare i pori per ammorbidire la consistenza irregolare della pelle senza lasciarla asciutta per dare un tono della pelle più luminoso e uniforme.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DGLCRZZ3{{</world>}}

@@ -28,13 +28,13 @@ average: '285.99'
 
 ℹ️:
 
-- Leggi e scrivi proprio come sulla carta stampata: lasciati sorprendere dal primo schermo al mondo da 10,2 pollici, a 300 ppi, con illuminazione frontale e senza riflessi.
-- Il nostro Kindle con la più lunga durata della batteria: a differenza dei tablet, Kindle Scribe ti offre mesi di lettura e settimane di scrittura con una sola carica.
-- Prendi appunti a mano mentre leggi: crea note su milioni di titoli disponibili nel Kindle Store.
 - Importazione di documenti e appunti: rileggi e prendi appunti direttamente su documenti in formato PDF o crea delle note su documenti Microsoft Word.
-- L’unico Kindle che puoi utilizzare anche come taccuino digitale, con la sua penna dedicata: leggi e scrivi i tuoi pensieri nei libri o in un taccuino separato, senza distrazioni.
-- Scopri i taccuini Kindle: taccuini digitali per annotare qualsiasi cosa desideri. Scrivi il tuo diario personale, disegna, prendi appunti e molto altro.
 - Converti i tuoi appunti scritti a mano in testo: sfoglia e condividi i tuoi appunti con i tuoi contatti, portali sempre con te e consultali sull’app Kindle.
+- Leggi e scrivi proprio come sulla carta stampata: lasciati sorprendere dal primo schermo al mondo da 10,2 pollici, a 300 ppi, con illuminazione frontale e senza riflessi.
+- Scopri i taccuini Kindle: taccuini digitali per annotare qualsiasi cosa desideri. Scrivi il tuo diario personale, disegna, prendi appunti e molto altro.
+- L’unico Kindle che puoi utilizzare anche come taccuino digitale, con la sua penna dedicata: leggi e scrivi i tuoi pensieri nei libri o in un taccuino separato, senza distrazioni.
+- Prendi appunti a mano mentre leggi: crea note su milioni di titoli disponibili nel Kindle Store.
+- Il nostro Kindle con la più lunga durata della batteria: a differenza dei tablet, Kindle Scribe ti offre mesi di lettura e settimane di scrittura con una sola carica.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09BS5XWNS{{</world>}}

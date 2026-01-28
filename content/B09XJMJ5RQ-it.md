@@ -28,10 +28,10 @@ average: '20.29'
 
 ℹ️:
 
-- Al naso delicato ginepro, seguito da note floreali e fresche di agrumi
-- Colore trasparente cristallino
 - Facile da bere, dal carattere delicato ed elegante
+- Colore trasparente cristallino
 - Gin giapponese composto da più di 10 botaniche
+- Al naso delicato ginepro, seguito da note floreali e fresche di agrumi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09XJMJ5RQ{{</world>}}

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Prodotto di qualità
+- Altezza: 14 cm
 - Prodotto realizzato in materiale acrilico dallelevata trasparenza
 - Facile da pulire
-- Altezza: 14 cm
-- Prodotto di qualità
 - Diametro: 36 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Display FHD 2K con LED diretto; diagonale dello schermo da 80 cm (32 pollici); dimensioni esterne (senza supporto): 73,6 x 43,7 x 8,29 cm, norma VESA: 200 x 200 mm
-- Processore: Processore Gel-5 Gen5 AI con AI Brightness Control & AI Sound (Virtual 5.1 Up-mix); caratteristiche gaming: Compatibile con HGiG, Game Optimizer (GameGenre)
-- Immagine e suono: Active HDR con HDR10 Pro (solo 2K) & HLG (solo 2K), HDR Dynamic Tone Mapping, lution Upscaler, riduzione del rumore a due livelli; sistema audio 2.0 da 10 Watt (5 W per c)
-- Smart TV: webOS22 (LG ThinQ AI) con Google Assistant & Amazon Alexa, compatibile con Amazon Echo, Google Home, Apple AirPlay 2 & HomeKit; Home Dashboard, con telecomando LG e 2 batterie AAA (compatibile con telecomando LG Magic MR22)
 - Tipo di sintonizzatore e connettività: Single Triple Tuner (DVB-T2/-C/-S2) con registrazione USB, LAN (Ethernet), WLAN (802.11ac), Bluetooth 5.0, 2 HDMI 1.4 (con eARC e LG SIMPLINK), uscita digitale ottica (S/PDIF, fibra ottica), slot CI+
+- Immagine e suono: Active HDR con HDR10 Pro (solo 2K) & HLG (solo 2K), HDR Dynamic Tone Mapping, lution Upscaler, riduzione del rumore a due livelli; sistema audio 2.0 da 10 Watt (5 W per c)
+- Processore: Processore Gel-5 Gen5 AI con AI Brightness Control & AI Sound (Virtual 5.1 Up-mix); caratteristiche gaming: Compatibile con HGiG, Game Optimizer (GameGenre)
+- Smart TV: webOS22 (LG ThinQ AI) con Google Assistant & Amazon Alexa, compatibile con Amazon Echo, Google Home, Apple AirPlay 2 & HomeKit; Home Dashboard, con telecomando LG e 2 batterie AAA (compatibile con telecomando LG Magic MR22)
+- Display FHD 2K con LED diretto; diagonale dello schermo da 80 cm (32 pollici); dimensioni esterne (senza supporto): 73,6 x 43,7 x 8,29 cm, norma VESA: 200 x 200 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09RQ4C4KX{{</world>}}

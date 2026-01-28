@@ -28,10 +28,10 @@ average: '2.99'
 
 ℹ️:
 
-- CONTIENE 1 VASETTO DA 400G DI CREMA BISCOFF DOLCE LISCIA. Confezionato con cura in un barattolo di plastica leggero. Infrangile, facile da trasportare e totalmente riciclabile.
-- INGREDIENTI DI ORIGINE NATURALE - La nostra crema spalmabile Biscoff non contiene coloranti, aromi o conservanti artificiali - Olio di palma non OGM, certificato RSPO. Vegana. Non contiene frutta a guscio. Prodotto in Belgio in uno stabilimento che non tratta frutta a guscio.
-- DELIZIA AD OGNI MORSO! - Con una consistenza liscia e facile da spalmare. Utilizzare come alternativa deliziosa e unica al burro di frutta secca (ad esempio burro di arachidi, burro di mandorle, ecc.) e alle creme spalmabili al cioccolato.
 - SPALMALA! MISCHIALA! MANGIALA A CUCCHIATE! - La Crema Biscoff può essere gustata in vari modi: su una fetta di pane fresco o tostato, sui pancake, come salsa per fette di mela o altra frutta, in un panino, nelle ricette fatte in casa o direttamente dal barattolo.
+- CONTIENE 1 VASETTO DA 400G DI CREMA BISCOFF DOLCE LISCIA. Confezionato con cura in un barattolo di plastica leggero. Infrangile, facile da trasportare e totalmente riciclabile.
+- DELIZIA AD OGNI MORSO! - Con una consistenza liscia e facile da spalmare. Utilizzare come alternativa deliziosa e unica al burro di frutta secca (ad esempio burro di arachidi, burro di mandorle, ecc.) e alle creme spalmabili al cioccolato.
+- INGREDIENTI DI ORIGINE NATURALE - La nostra crema spalmabile Biscoff non contiene coloranti, aromi o conservanti artificiali - Olio di palma non OGM, certificato RSPO. Vegana. Non contiene frutta a guscio. Prodotto in Belgio in uno stabilimento che non tratta frutta a guscio.
 - FATTI CON BISCOTTI BISCOFF ORIGINALI - Sbriciolando con cura i nostri biscotti Biscoff dopo la cottura, li trasformiamo in questa deliziosa crema spalmabile. Disponibile in due varietà, liscia o croccante. Scegli la tua preferita!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

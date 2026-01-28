@@ -29,10 +29,10 @@ average: '22.1'
 ℹ️:
 
 - CONTENUTO: 1x Columbia Thistletown Hills Short Sleeve Knit Top, da uomo, Dimensioni: XXL, Colore: Greenscape Heather (Verde)
-- MATERIALI ECOLOGICI E FACILE DA CURA: Realizzato in poliestere riciclato al 50% con protezione UV e tecnologia antiodore - lavabile in lavatrice a freddo delicato, asciugabile in asciugatrice
-- Top a maniche corte da uomo progettato per la corsa, lescursionismo o le passeggiate in città, ideale per giornate attive sui sentieri o in città
 - COMFORT AD ALTE PRESTAZIONI: il tessuto elasticizzato con tecnologia Omni-Wick ti mantiene fresco e asciutto, consentendo libertà di movimento e controllo del sudore
+- MATERIALI ECOLOGICI E FACILE DA CURA: Realizzato in poliestere riciclato al 50% con protezione UV e tecnologia antiodore - lavabile in lavatrice a freddo delicato, asciugabile in asciugatrice
 - PERSONALIZZALO A MODO TUO: Abbinalo a pantaloncini o jeans - vestibilità sportiva, motivi ispirati alla natura e sottili dettagli riflettenti per uno stile versatile
+- Top a maniche corte da uomo progettato per la corsa, lescursionismo o le passeggiate in città, ideale per giornate attive sui sentieri o in città
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CLQRP7FT{{</world>}}

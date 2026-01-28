@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Polsini e orlo a coste
-- Vita media
-- Vestibilità regolare
 - 100% poliestere (riciclato)
-- Zip integrale e collo alto
 - Tasche anteriori sulla giacca e sui pantaloni
+- Polsini e orlo a coste
+- Zip integrale e collo alto
+- Vestibilità regolare
+- Vita media
 - Girovita elasticizzato con cordino
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

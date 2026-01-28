@@ -28,13 +28,13 @@ average: '60.69'
 
 ℹ️:
 
-- Video codecs: MPEG2 L1-L2-L3, MPEG1 L2, H.264, H.265 / H.265 Main 10 Profile 5.1. HDR10, HLG
-- Il meglio dello streaming: Scegli tra 400.000 film e programmi dai servizi disponibili sul Google Play Store, come Prime Video, Youtube, Netflix, DAZN, Disney Plus, RaiPlay, Apple TV+ o Mediaset Infinity
 - Audio codecs: Dolby Digital, Dolby Digital Plus, AAC, LC-AAC, HE-AAC, MP3
-- Telecomando telesystem Bluetooth/IR con Google Assistant e tasti diretti per Youtube e Prime Video
+- Trasmetti foto, video e musica dai tuoi dispositivi smart alla TV grazie a Chromecast built-in.
 - Il Decoder Android TV rende più semplice la tua TV. Chiedi a Google di alzare il volume, ricevere suggerimenti su cosa guardare e molto altro, solo con la tua voce.
 - Il meglio del Digitale Terrestre: UP T2 4K è anche un decoder DVB-T2 HEVC
-- Trasmetti foto, video e musica dai tuoi dispositivi smart alla TV grazie a Chromecast built-in.
+- Telecomando telesystem Bluetooth/IR con Google Assistant e tasti diretti per Youtube e Prime Video
+- Video codecs: MPEG2 L1-L2-L3, MPEG1 L2, H.264, H.265 / H.265 Main 10 Profile 5.1. HDR10, HLG
+- Il meglio dello streaming: Scegli tra 400.000 film e programmi dai servizi disponibili sul Google Play Store, come Prime Video, Youtube, Netflix, DAZN, Disney Plus, RaiPlay, Apple TV+ o Mediaset Infinity
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09989PXQV{{</world>}}

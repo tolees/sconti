@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Aroma frutti di bosco
-- Utile per ristabilire lequilibrio della flora batterica intestinale in caso di alterazioni che possono causare diarrea, colite, stipsi, gonfiore addominale
 - Integratore con fermenti lattici vivi (probiotici), prebiotici, vitamine
+- Aroma frutti di bosco
 - 10 miliardi per ogni flaconcino: fermenti lattici vivi (probiotici) ad alta concentrazione
+- Utile per ristabilire lequilibrio della flora batterica intestinale in caso di alterazioni che possono causare diarrea, colite, stipsi, gonfiore addominale
 - 10 flaconcini da 10 ml
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

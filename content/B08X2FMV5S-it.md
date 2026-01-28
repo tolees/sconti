@@ -28,11 +28,11 @@ average: '14.7983333333333'
 
 ℹ️:
 
-- GUSTO: moderatamente amaro, equilibrato di luppolo e malto
-- FORMATO: cassa di birra con 24 bottiglie da 33 cl
 - GRADAZIONE ALCOLICA: 4.7 % vol
-- PERONI 175 ANNIVERSARIO: una veste tutta nuova per birra Peroni, la lager italiana in unedizione limitata in occasione del 175esimo anniversario del brand
+- FORMATO: cassa di birra con 24 bottiglie da 33 cl
 - IDEALE CON: pizza, pasta e piatti della tradizione italiana
+- GUSTO: moderatamente amaro, equilibrato di luppolo e malto
+- PERONI 175 ANNIVERSARIO: una veste tutta nuova per birra Peroni, la lager italiana in unedizione limitata in occasione del 175esimo anniversario del brand
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08X2FMV5S{{</world>}}

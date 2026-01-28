@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Dimensioni (cm): 40x18x28
 - Dotata di tracolla regolabile, doppio tirante e fondello interno. Dispone di una tasca frontale non termica così da poter inserire oggetti personali.
 - Isolamento ad alta densità 10 mm in schiuma di polietilene garantisce ottime performance termiche. Tessuti sicuri e privi di PVC.
-- Dimensioni (cm): 40x18x28
-- Borsa termica Vela+ Extra Large in shiny poliestere 420D dove design, performance, robustezza e praticità si combinando alla perfezione.
 - Capacità di 22 litri circa. Apribottiglie integrato. Disponibile in tre colori assortiti.
+- Borsa termica Vela+ Extra Large in shiny poliestere 420D dove design, performance, robustezza e praticità si combinando alla perfezione.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D5YL12YV{{</world>}}

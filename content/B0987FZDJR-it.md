@@ -28,11 +28,11 @@ average: '13.7071428571428'
 
 ℹ️:
 
-- 2 Avventure incluse: Prigione sullIsola - Manicomio
 - Giocabile in qualsiasi casa.
-- Cooperate per risolvere enigmi e rompicapi, e scoprite gli indizi nascosti per riuscire a fuggire.
-- Escape Room è il gioco investigativo che porta lemozione di una vera Escape Room direttamente a casa tua!
 - Numero di giocatori: 2 | Età consigliata: 14+ | Durata media: 60 min | Edizione in lingua italiana
+- 2 Avventure incluse: Prigione sullIsola - Manicomio
+- Escape Room è il gioco investigativo che porta lemozione di una vera Escape Room direttamente a casa tua!
+- Cooperate per risolvere enigmi e rompicapi, e scoprite gli indizi nascosti per riuscire a fuggire.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0987FZDJR{{</world>}}

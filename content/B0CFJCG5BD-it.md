@@ -29,10 +29,10 @@ average: '41.2'
 ℹ️:
 
 - Dimensioni Altezza: 110 cm Diametro: 6 cm
+- La lampadina LED GU10 in dotazione emette una piacevole luce indiretta calda nella stanza (3000 K, 4,5 W, 345 lm); Il colore bianco caldo della luce del dispositivo LED è adatto ovunque si voglia creare unatmosfera accogliente
+- La lampada da tavolo tubolare a LED dispone di un corpo metallico in acciaio nero, smussato nella parte inferiore, che lascia intravedere lelegante interno con aspetto in foglia doro
 - Questo è un prodotto “contenitore” con una sorgente luminosa con classe di efficienza energetica F; I prodotti “contenitore” sono dispositivi luminosi che possono essere smontati per un controllo separato delle sorgenti luminose che contengono
 - Con il suo design elegante e lineare, la lampada a sospensione per sala da pranzo conferisce una luce suggestiva ed elegante a qualsiasi stanza, sia in sala da pranzo sopra il tavolo, sia in camera da letto o in soggiorno
-- La lampada da tavolo tubolare a LED dispone di un corpo metallico in acciaio nero, smussato nella parte inferiore, che lascia intravedere lelegante interno con aspetto in foglia doro
-- La lampadina LED GU10 in dotazione emette una piacevole luce indiretta calda nella stanza (3000 K, 4,5 W, 345 lm); Il colore bianco caldo della luce del dispositivo LED è adatto ovunque si voglia creare unatmosfera accogliente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CFJCG5BD{{</world>}}

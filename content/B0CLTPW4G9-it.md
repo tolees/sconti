@@ -29,11 +29,11 @@ average: '6.0'
 ℹ️:
 
 - Addio labbra screpolate – Applicato più volte al giorno, il burro cacao labbra dal formato tascabile di Neutrogena previene le screpolature e dona labbra idratate, morbide e lisce come seta
-- Contenuto della confezione – Neutrogena Formula Norvegese Stick Labbra, trattamento labbra secche e screpolate, arricchito con Glicerina concentrata e Bisabolo, 1 confezione da 4.8 g
-- Per tutta la famiglia – Questo balsamo labbra idratante in formato stick incolore e tascabile è adatto per la cura delle labbra secche e screpolate di tutta la famiglia, anche fuori casa
 - Formula Norvegese – La Formula Norvegese del burro di cacao combina Glicerina concentrata, che idrata, protegge e ripara, con agenti emollienti che ammorbidiscono e nutrono la pelle
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
+- Contenuto della confezione – Neutrogena Formula Norvegese Stick Labbra, trattamento labbra secche e screpolate, arricchito con Glicerina concentrata e Bisabolo, 1 confezione da 4.8 g
 - Idratazione profonda – Arricchito con Glicerina e Bisabolo, il burrocacao labbra Formula Norvegese di Neutrogena idrata*, protegge e nutre in profondità le labbra secche e screpolate
+- Per tutta la famiglia – Questo balsamo labbra idratante in formato stick incolore e tascabile è adatto per la cura delle labbra secche e screpolate di tutta la famiglia, anche fuori casa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CLTPW4G9{{</world>}}

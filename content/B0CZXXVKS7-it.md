@@ -28,11 +28,11 @@ average: '109.99'
 
 ℹ️:
 
-- 6 FUNZIONI DI COTTURA: Frittura ad aria, Max Crisp, Cottura arrosto, Cottura al forno, Riscaldamento, Essiccazione. Cucina cibi surgelati in pochi minuti con Max Crisp a 240°C. Piastra per frittura regolabile con 2 posizioni di cottura
 - MAGGIORE CAPACITÀ (rispetto a Ninja AF160). Lo scomparto quadrato da 6,2L può contenere 4 petti di pollo. Ideale per 1-4 persone. Cucina fino al 50% più velocemente rispetto ai forni a ventola* (*Test eseguito con bastoncini di pesce e salsicce)
+- ESCLUSIVA AMAZON: Friggitrice ad Aria in Nero e Rame e Pinze in silicone. Cucina rapidamente piatti unici, contorni, snack usando poco o zero olio. Fino al 75% di grassi in meno (test eseguito con patate tagliate a mano e fritte in modo tradizionale)
+- 6 FUNZIONI DI COTTURA: Frittura ad aria, Max Crisp, Cottura arrosto, Cottura al forno, Riscaldamento, Essiccazione. Cucina cibi surgelati in pochi minuti con Max Crisp a 240°C. Piastra per frittura regolabile con 2 posizioni di cottura
 - DIMENSIONI: A: 30,5 cm x L: 28 cm x P: 36 cm
 - INCLUDE: Friggitrice ad aria Ninja a scomparto singolo (spina UE) con cassetto da 6,2 litri, cestello antiaderente e lavabile in lavastoviglie, piastra per frittura regolabile, pinze in silicone. Ricettario. Colore: Nero/Rame
-- ESCLUSIVA AMAZON: Friggitrice ad Aria in Nero e Rame e Pinze in silicone. Cucina rapidamente piatti unici, contorni, snack usando poco o zero olio. Fino al 75% di grassi in meno (test eseguito con patate tagliate a mano e fritte in modo tradizionale)
 - RISPARMIO ENERGETICO: Risparmia fino al 60% sulla bolletta* (*test e calcoli basati sul tempo di cottura consigliato per le salsicce, utilizzando la funzione air fry rispetto ai forni tradizionali)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

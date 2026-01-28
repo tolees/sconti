@@ -28,11 +28,11 @@ average: '59.47'
 
 ℹ️:
 
+- Codice articolo: 300 041 500
+- Marca: Puma
 - Amazon ProductType: SportingGoods
 - Codice articolo: 377174 001
 - Denominazione: Better Foam Emerge Star
-- Marca: Puma
-- Codice articolo: 300 041 500
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09RB1MPVQ{{</world>}}

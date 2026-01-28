@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Colore: Nero
 - Fodera: 46% Pelle 32% Tessuto 45% Poliestere riciclato - 35% Cotone riciclato - 20% Viscosa 22% Poliestere riciclato
 - Tomaia: Pelle
 - Lacci; Altezza: 3,5 cm
-- Colore: Nero
 - Soletta/Caratteristiche: XL EXTRALIGHT EVA per leggerezza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

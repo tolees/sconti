@@ -28,9 +28,9 @@ average: '37.99'
 
 ℹ️:
 
-- Marca Converse
 - Tomaia in pelle
 - Scarpa bassa
+- Marca Converse
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D1QKC5JS{{</world>}}

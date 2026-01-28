@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Contiene alcune punte magnetiche
-- Rispetta le regole di produzione
 - Contenuto: 103 pezzi
 - Organizzato in una robusta custodia per il trasporto
+- Rispetta le regole di produzione
+- Contiene alcune punte magnetiche
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01NCXCY4L{{</world>}}

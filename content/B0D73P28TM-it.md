@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- PIONI DORATE EMBLEMATICHE: I giocatori camminano sul vassoio con una delle sei pedine dorate sul tema dei trasporti incantate: ippogrifo, Magicobus, Hogwarts Express, moto di HAGRID, Sombral e fulmine di fuoco
-- PIATTO DI GIOCO SUL TEMA DI POUDLARD: I giocatori esplorano le aule, le sale comuni e gli altri luoghi preferiti di Hogwarts e dintorni! Più luoghi esplora un giocatore, più punti casa riceverà da altri giocatori
 - SCEGLIERE UNA CASA: GRYFFONDOR, POUFSOFFLE, SERDEGLE O SERPENTARDI? Ogni giocatore sceglie una carta di casa per la quale riceverà punti durante il gioco.
-- ISPIRATO DI HARRY POTTER: Benvenuto a Hogwart! In Monopoly: edizione HARRY POTTER, i giocatori incarnano gli studenti di Hogwarts. Questo gioco da tavolo combina il classico gioco Monopoly con illustrazioni, luoghi e tematico del MONDO DEI MAGGIORI
 - CARTE E PORTACARTE GUFO EXPRESS: Le carte Gufo Express sostituiscono le carte Chance e Cassa della comunità. I giocatori pescano una mappa sotto la figura del gufo della neve. Ma attenti ai Beuglantes, potrebbero danneggiare il tuo gioco
+- ISPIRATO DI HARRY POTTER: Benvenuto a Hogwart! In Monopoly: edizione HARRY POTTER, i giocatori incarnano gli studenti di Hogwarts. Questo gioco da tavolo combina il classico gioco Monopoly con illustrazioni, luoghi e tematico del MONDO DEI MAGGIORI
+- PIATTO DI GIOCO SUL TEMA DI POUDLARD: I giocatori esplorano le aule, le sale comuni e gli altri luoghi preferiti di Hogwarts e dintorni! Più luoghi esplora un giocatore, più punti casa riceverà da altri giocatori
+- PIONI DORATE EMBLEMATICHE: I giocatori camminano sul vassoio con una delle sei pedine dorate sul tema dei trasporti incantate: ippogrifo, Magicobus, Hogwarts Express, moto di HAGRID, Sombral e fulmine di fuoco
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D73P28TM{{</world>}}

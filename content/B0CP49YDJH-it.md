@@ -28,11 +28,11 @@ average: '399.0'
 
 ℹ️:
 
-- APP hOn, GESTIONE INTUITIVA: grazie alla connettività Wi-Fi e BLE, lapp hOn permette di scattare una foto ai cestelli per ricevere suggerimenti su come ottimizzare il carico; aiuta a scegliere il ciclo più adatto per risultati di lavaggio impeccabili
-- SISTEMA POWERWASH: dotato di sei getti dacqua aggiuntivi, aumenta il flusso dacqua per garantire risultati eccellenti su pentole e padelle; perfetto per rimuovere anche le macchie più ostinate
-- PRESTAZIONI ELEVATE E MASSIMA CAPIENZA: lavastoviglie progettata per gestire facilmente stoviglie di grandi dimensioni; dotata di MAXI-TUB e di un terzo cestello per posate, ottimizza lo spazio e offre cicli rapidi per ogni necessità
 - PARTENZA RITARDATA FINO A 24 ORE: programma lavvio del ciclo di lavaggio in base ai tuoi impegni, consentendo un avvio flessibile e personalizzato che si adatta alle tue esigenze quotidiane
+- PRESTAZIONI ELEVATE E MASSIMA CAPIENZA: lavastoviglie progettata per gestire facilmente stoviglie di grandi dimensioni; dotata di MAXI-TUB e di un terzo cestello per posate, ottimizza lo spazio e offre cicli rapidi per ogni necessità
+- APP hOn, GESTIONE INTUITIVA: grazie alla connettività Wi-Fi e BLE, lapp hOn permette di scattare una foto ai cestelli per ricevere suggerimenti su come ottimizzare il carico; aiuta a scegliere il ciclo più adatto per risultati di lavaggio impeccabili
 - MOTORE INVERTER SPEED-DRIVE: alimentata da un motore innovativo e duraturo, Candy Rapido offre prestazioni di pulizia elevate con un funzionamento silenzioso; progettata per raggiungere la Classe Energetica C, contribuisce al risparmio di elettricità
+- SISTEMA POWERWASH: dotato di sei getti dacqua aggiuntivi, aumenta il flusso dacqua per garantire risultati eccellenti su pentole e padelle; perfetto per rimuovere anche le macchie più ostinate
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CP49YDJH{{</world>}}

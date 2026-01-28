@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- La connettività dual-mode include una connessione wireless a 2,4 GHz e una connessione Bluetooth 5.0 che consentono di associare e connettersi a praticamente qualunque PC tramite la modalità preferita.
-- Lavora fino a 36 mesi* con una singola batteria, per una durata tre volte superiore rispetto ai modelli della generazione precedente, e dimenticati di dover ricaricare il mouse ogni giorno, ogni settimana o addirittura una volta al mese. *Dati basati sullanalisi condotta internamente da Dell sui calcoli del modello di durata della batteria, novembre 2019. I risultati variano in base allutilizzo e alle condizioni di elaborazione.
-- Associa il mouse al tuo notebook Windows tramite Bluetooth istantaneamente usando Microsoft Swift Pair*, in modo da non dover configurare le impostazioni di Windows ogni volta. *Solo a partire da Windows 10 v. 1803
-- In caso di guasti durante i tre anni di validità della garanzia, il Servizio di sostituzione avanzato di Dell fornisce ununità sostitutiva il giorno lavorativo successivo alla chiamata.
 - Un sensore a 1.600 DPI assicura che il mouse senza fili Dell Mobile Pro - MS5120W gestisca facilmente gli schermi ad alta risoluzione.
+- Lavora fino a 36 mesi* con una singola batteria, per una durata tre volte superiore rispetto ai modelli della generazione precedente, e dimenticati di dover ricaricare il mouse ogni giorno, ogni settimana o addirittura una volta al mese. *Dati basati sullanalisi condotta internamente da Dell sui calcoli del modello di durata della batteria, novembre 2019. I risultati variano in base allutilizzo e alle condizioni di elaborazione.
+- In caso di guasti durante i tre anni di validità della garanzia, il Servizio di sostituzione avanzato di Dell fornisce ununità sostitutiva il giorno lavorativo successivo alla chiamata.
+- Associa il mouse al tuo notebook Windows tramite Bluetooth istantaneamente usando Microsoft Swift Pair*, in modo da non dover configurare le impostazioni di Windows ogni volta. *Solo a partire da Windows 10 v. 1803
+- La connettività dual-mode include una connessione wireless a 2,4 GHz e una connessione Bluetooth 5.0 che consentono di associare e connettersi a praticamente qualunque PC tramite la modalità preferita.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B084BYFRYJ{{</world>}}

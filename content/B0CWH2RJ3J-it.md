@@ -28,12 +28,12 @@ average: '63.99'
 
 ℹ️:
 
-- Negozio di bacchette Olivander: dotato di 2 pareti laterali pieghevoli, ripiani costruibili con scatole di bacchette (inclusa una scatola con la bacchetta di Harry Potter), una scala e 2 supporti per bacchette, per un totale di 26 bacchette
-- Regalo divertente per i fan di Harry Potter: questo set giocattolo costruibile è un magico regalo di compleanno per bambini, bambine e i fan del mondo magico da 8 anni in su
+- Include 6 minifigure dei personaggi di LEGO Harry Potter da collezione: Harry Potter, Garrick Ollivander, Madama McClan, Padma Patil, uno studente mago e una strega con un carretto di fiori
 - 2 negozi giocattolo di Diagon Alley LEGO: questo gioco magico LEGO Harry Potter per bambini e bambine 8+, permette di costruire i modellini ricchi di dettagli di Olivander e Madama McClan: Abiti per Tutte le Occasioni, per tanti giochi di fantasia
 - Crea una via dello shopping Diagon Alley in mattoncini LEGO: i 2 negozi in questo playset possono essere collegati tra loro, e ai negozi in altri set Diagon Alley LEGO Harry Potter, disponibili separatamente
+- Negozio di bacchette Olivander: dotato di 2 pareti laterali pieghevoli, ripiani costruibili con scatole di bacchette (inclusa una scatola con la bacchetta di Harry Potter), una scala e 2 supporti per bacchette, per un totale di 26 bacchette
 - Negozio di giocattoli da mago con abiti per tutte le occasioni di Madama McClan: contiene un’area sartoria, 2 manichini costruibili e divertenti elementi accessori tra cui diversi cappelli e mantelli
-- Include 6 minifigure dei personaggi di LEGO Harry Potter da collezione: Harry Potter, Garrick Ollivander, Madama McClan, Padma Patil, uno studente mago e una strega con un carretto di fiori
+- Regalo divertente per i fan di Harry Potter: questo set giocattolo costruibile è un magico regalo di compleanno per bambini, bambine e i fan del mondo magico da 8 anni in su
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CWH2RJ3J{{</world>}}

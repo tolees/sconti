@@ -28,11 +28,11 @@ average: '80.74'
 
 ℹ️:
 
-- POWER FOR ALL ALLIANCE: 1 BATTERIA, 10+ MARCHI, ​150+ PRODOTTI.​
-- Numerosi lavori in casa e in giardino: uso multifunzione grazie alle lame intercambiabili
-- Dotazione: Keo, 1 batteria da 2,0 Ah, caricabatteria AL 18V 20, 1 lama svizzera di precisione per legno, confezione in cartone
-- Agevola l’impiego con una sola mano: grazie al supporto della guida rimovibile «A-Grip» che mantiene fermo il ramo
 - Per tagliare senza fatica: Keo Sega da giardino taglia senza fatica rami fino a 80 mm di diametro grazi alla lama svizzera di precisione
+- Numerosi lavori in casa e in giardino: uso multifunzione grazie alle lame intercambiabili
+- Agevola l’impiego con una sola mano: grazie al supporto della guida rimovibile «A-Grip» che mantiene fermo il ramo
+- POWER FOR ALL ALLIANCE: 1 BATTERIA, 10+ MARCHI, ​150+ PRODOTTI.​
+- Dotazione: Keo, 1 batteria da 2,0 Ah, caricabatteria AL 18V 20, 1 lama svizzera di precisione per legno, confezione in cartone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B097C5RJG9{{</world>}}

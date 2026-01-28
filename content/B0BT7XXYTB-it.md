@@ -30,9 +30,9 @@ average: '459.99'
 
 - Raddoppia la pressione sonora alle ottave più basse: Puoi percepire la nota più bassa del pianoforte (27,5 Hz) o il colpo del tamburo (45-60 Hz) come se ti trovassi lì, nello studio di registrazione
 - Comfort e qualità costruttiva eccezionali: Il design aperto offre uneccezionale traspirabilità e i cuscinetti auricolari offrono unottimo comfort per lunghe sessioni di ascolto
+- Suono naturale, rilassato e ad alta fedeltà con extra bassi secondari: Bobina mobile in alluminio ultraleggera con impedenza di 300 ohm per uneccellente risposta allimpulso, un suono intimo e un timbro eccezionale
 - Qualità eccezionale progettata in Germania, prodotta in Irlanda Con una risposta in frequenza da 8 Hz a 41.500 Hz e cavi lunghi staccabili per un comodo utilizzo da tavolo
 - Trasduttori ad alte prestazioni da 42 mm ottimizzati per il flusso daria: Ventilazione migliorata grazie a un sistema di magneti con sfiato unico e potente, per una distorsione minima e un controllo dello spostamento daria attraverso uno smorzamento a rete in acciaio
-- Suono naturale, rilassato e ad alta fedeltà con extra bassi secondari: Bobina mobile in alluminio ultraleggera con impedenza di 300 ohm per uneccellente risposta allimpulso, un suono intimo e un timbro eccezionale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BT7XXYTB{{</world>}}

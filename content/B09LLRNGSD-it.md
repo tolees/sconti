@@ -28,9 +28,9 @@ average: '20.64'
 
 ℹ️:
 
+- Tecnologia Powered by GaN II: con un miglioramento del 100% della frequenza operativa, un innovativo design minimalista e una struttura migliorata della scala, la tecnologia GaN II consente di presentare sul mercato un innovativo caricabatterie piccolo e compatto, senza rinunciare a nemmeno un elemento di potenza
 - Design compatto: approfittate di una potente potenza di ricarica con un caricabatterie piccolo quanto una custodia di ricarica AirPods Pro
 - Uno per tutti: siete stanchi di usare caricatori pesanti come mattoni? Il compatto PowerPort III a 2 porte da 65 W fornisce carica a sufficienza per i vostri smartphone, tablet e notebook USB-C per quando siete in giro
-- Tecnologia Powered by GaN II: con un miglioramento del 100% della frequenza operativa, un innovativo design minimalista e una struttura migliorata della scala, la tecnologia GaN II consente di presentare sul mercato un innovativo caricabatterie piccolo e compatto, senza rinunciare a nemmeno un elemento di potenza
 - Prestazioni di ricarica ad alta velocità: collegate uno dei vostri dispositivi e godetevi una potenza di ricarica di 65 W, sufficiente per caricare un MacBook Pro 13″ 2020 alla velocità massima. Caricando invece tre dispositivi contemporaneamente, la potenza di ricarica verrà distribuita uniformemente su tre porte
 - Contenuto della confezione: un caricabatterie Anker 735 (Nano II 65W) (ex titolo del prodotto: PowerPort III 3 porte 65 W Pod), manuale di istruzioni (lingua italiana non garantita)
 

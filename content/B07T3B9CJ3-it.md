@@ -28,9 +28,9 @@ average: '23.99'
 
 ℹ️:
 
+- 100% cotone
 - Vestibilità aderente
 - Paillettes reversibili
-- 100% cotone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07T3B9CJ3{{</world>}}

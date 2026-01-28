@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dimensioni: lalimentatore USB C da 65 W di Baseus è più piccolo del 45% rispetto al caricatore USB C originale da 65 W. Risparmia spazio e crea ordine sulla vostra scrivania. Il caricabatterie portatile compatto e leggero si adatta anche al vostro bagaglio e può essere facilmente trasportato quando siete in viaggio.
+- Questo alimentatore da 65 W ricarica un singolo dispositivo tramite PD3.0 con la massima potenza, ad esempio un MacBook Pro 2020 da 13 pollici. Collegando fino a tre dispositivi contemporaneamente, la potenza viene automaticamente suddivisa tra le porte per garantire una velocità di ricarica ottimale per ciascun dispositivo.
 - Accessorio per la ricarica veloce 3 in 1: questo caricabatterie con porta USB C offre una potenza di 65 W e dispone di due uscite USB C e di unuscita USB. È compatibile con tutti i prodotti Apple come iPhone, iPad e dispositivi MacBook e funziona anche con computer portatili, tablet, smartphone, cuffie e altri dispositivi.
 - Il caricabatterie rapido Baseus utilizza i più recenti chip di nitruro di gallio (GaN). I caricabatterie al nitruro di gallio (GaN) offrono unesperienza di ricarica più veloce, più efficace e compatta. Supporta PPS/PD3.0/QC3.0+/SCP/AFC e altri protocolli di ricarica super veloci. Questo alimentatore USB-C è la scelta ottimale per la ricarica di computer portatili, smartphone e strumenti da ufficio.
 - Controllo della temperatura BCT: questo caricabatterie rapido GaN 5 da 65 W è dotato della più recente tecnologia di controllo della temperatura BCT del marchio Baseus per garantire che il dispositivo non si surriscaldi durante la ricarica. Ciò prolunga la durata della batteria.
-- Questo alimentatore da 65 W ricarica un singolo dispositivo tramite PD3.0 con la massima potenza, ad esempio un MacBook Pro 2020 da 13 pollici. Collegando fino a tre dispositivi contemporaneamente, la potenza viene automaticamente suddivisa tra le porte per garantire una velocità di ricarica ottimale per ciascun dispositivo.
+- Dimensioni: lalimentatore USB C da 65 W di Baseus è più piccolo del 45% rispetto al caricatore USB C originale da 65 W. Risparmia spazio e crea ordine sulla vostra scrivania. Il caricabatterie portatile compatto e leggero si adatta anche al vostro bagaglio e può essere facilmente trasportato quando siete in viaggio.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CDCL62MS{{</world>}}

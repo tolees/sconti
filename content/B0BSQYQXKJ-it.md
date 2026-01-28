@@ -29,11 +29,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Un’Edizione speciale per riscoprire i personaggi più amati di sempre
-- Contenuto: 1 regolamento, 90 carte
-- Numero di giocatori: 2-8 | Età consigliata: 6+ | Durata media: 15 min. | Edizione in Lingua Italiana
-- 5 mini giochi per partite sempre diverse ed entusiasmanti! Dobble è semplice, veloce e immediato, capace di far divertire sia grandi che piccini
 - Un gioco di colpo docchio e velocità: per vincere dovrete essere i più rapidi a trovare lunico simbolo in comune tra le carte svelate (ce n’è sempre solo uno!)
 - Festeggia i 100 anni di Magia Disney con Dobble Disney Anniversary: trova i tuoi personaggi Disney e Pixar preferiti e mettiti alla prova con il nuovo mini gioco La Partita Stellare!
+- Contenuto: 1 regolamento, 90 carte
+- 5 mini giochi per partite sempre diverse ed entusiasmanti! Dobble è semplice, veloce e immediato, capace di far divertire sia grandi che piccini
+- Numero di giocatori: 2-8 | Età consigliata: 6+ | Durata media: 15 min. | Edizione in Lingua Italiana
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BSQYQXKJ{{</world>}}

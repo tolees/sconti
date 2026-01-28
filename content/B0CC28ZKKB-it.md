@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Congelatore a pozzo
 - Classe energetica E
-- Hisense
 - Illuminazione Led
 - Rumorosità 39 dB
+- Hisense
+- Congelatore a pozzo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CC28ZKKB{{</world>}}

@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Materiale suola: Sintetico
+- Fodera: Tela
 - Materiale esterno: Pelle
 - Chiusura: Cerniera
 - Tipo di tacco: A blocco
 - Larghezza scarpa: Normale
-- Fodera: Tela
-- Materiale suola: Sintetico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07LFZC6GJ{{</world>}}

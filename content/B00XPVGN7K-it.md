@@ -28,8 +28,8 @@ average: '0.916666666666667'
 
 ℹ️:
 
-- GUSTO LEGGERO, DELICATO E FRESCO: dal gusto leggero, delicato e fresco, è ideale per accompagnare molte ricette e per creare larmonia ottimale tra i diversi ingredienti
 - IDEALE PER INSALATE DI RISO, PASTE FREDDE E INSALATONE: ottima per creare salse fresche e innovative per le tue insalate o per armonizzare tutti i sapori nelle tue insalate di riso e di pasta
+- GUSTO LEGGERO, DELICATO E FRESCO: dal gusto leggero, delicato e fresco, è ideale per accompagnare molte ricette e per creare larmonia ottimale tra i diversi ingredienti
 - FORMATO TUBO 150 ML: disponibile nei formati Vaso 225 ml, Top Down 250 ml e Tubo 150 ml. Senza conservanti, vegetariano
 - MAIONESE CALVÉ FRESCA MA-YÒ: la Maionese Fresca Ma-yò Calvé è preparata con yogurt magro e il 55% in meno di grassi* rispetto alla Maionese Classica Calvé
 - CALVÉ: dai voce alla tua creatività rendendo i tuoi piatti super gustosi. Calvé, perchè buono può diventare buonissimo!

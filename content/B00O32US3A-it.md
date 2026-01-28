@@ -28,11 +28,11 @@ average: '3.9'
 
 ℹ️:
 
-- Formula - Arricchita con burro di Karité e olio di semi duva per una texture morbida e altamente sfumabile
+- Contour Edition - Matita labbra a lunga tenuta con texture morbida e sfumabile dal finish semi-opaco
+- Applicazione - Con la punta della matita, delinea il contorno labbra a partire dallarco di Cupido, poi disegna gli angoli esterni della bocca e unisci le linee tracciate
 - Colore - 07 Cherry Boom Boom è un rosso scuro dai toni caldi
 - Effetti e benefici - Labbra definite e rossetto senza sbavature fino a 12 ore grazie a una matita che non secca e regala un comfort ottimale
-- Applicazione - Con la punta della matita, delinea il contorno labbra a partire dallarco di Cupido, poi disegna gli angoli esterni della bocca e unisci le linee tracciate
-- Contour Edition - Matita labbra a lunga tenuta con texture morbida e sfumabile dal finish semi-opaco
+- Formula - Arricchita con burro di Karité e olio di semi duva per una texture morbida e altamente sfumabile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00O32US3A{{</world>}}

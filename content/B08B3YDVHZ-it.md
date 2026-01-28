@@ -28,11 +28,11 @@ average: '127.98'
 
 ℹ️:
 
-- Soletta/Specialità: XL EXTRALIGHT EVA per leggerezza; Lacci
-- Colore: Nero
-- Sottopiede: OrthoLite Recycled per ammortizzazione
-- Fodera: 100% Poliestere Riciclato
 - Tomaia: Pelle
+- Colore: Nero
+- Fodera: 100% Poliestere Riciclato
+- Sottopiede: OrthoLite Recycled per ammortizzazione
+- Soletta/Specialità: XL EXTRALIGHT EVA per leggerezza; Lacci
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08B3YDVHZ{{</world>}}

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Statuetta da collezione || Molto confortevole
 - Animazione, Fan merch, Film, Serie TV
+- Statuetta da collezione || Molto confortevole
 - Funko Pop! con le seguenti caratteristiche:
 - Materiale: Resistente
 - Non può mancare a casa tua!

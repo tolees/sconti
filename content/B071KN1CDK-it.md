@@ -29,8 +29,8 @@ average: '39.96'
 ℹ️:
 
 - Tomaia: tomaia in tessuto a rete super leggero per una vestibilità ideale. Solido tessuto a rete su punta e tallone per una maggiore stabilità. Design senza lacci con passante sul tallone. Tallone extra imbottito per il massimo comfort. Tomaia in rete traspirante testurizzata quasi un pezzo.
-- Peso: radicalmente leggero 7 1/2 oz. in una taglia da uomo 9.
 - SOLETTA: Soletta con tecnologia Goga Max per il massimo sostegno e ammortizzazione. Dotato di ammortizzazione ad alto rimbalzo con feedback reattivo. Combina un componente proprietario "SQUISH" con il nostro materiale esclusivo.
+- Peso: radicalmente leggero 7 1/2 oz. in una taglia da uomo 9.
 - Intersuola/cuscino: suola 5GEN - mescola brevettata leggera stampata a iniezione con ritenzione di memoria che aiuta ad assorbire gli impatti. Intersuola e suola Skechers GOwalk Max per ammortizzazione e supporto di alto livello.
 - Ottieni il massimo comfort e ammortizzazione per le passeggiate atletiche con Skechers GOwalk Max. Tomaia in tessuto a rete con suola ammortizzata e di supporto. Progettato con tecnologia Skechers Performance e materiali specifici per la camminata atletica. Soletta Goga Max Technology con ammortizzazione ad alto rimbalzo.
 

@@ -29,10 +29,10 @@ average: '21.9'
 ℹ️:
 
 - Gli animali del prato funzionano con un simpatico meccanismo a trascinamento o a scatto grazie agli elastici inclusi nel kit, per un divertimento che non finisce mai!
-- DESCRIZIONE: Inventa, assembla, gioca! Con il nuovo laboratorio di meccanica per i più piccoli tanti componenti facili da montare per creare fantastici animali che si muovono e camminano.
 - Per dare il via al movimento basta azionare il motore e il gorilla camminerà con le proprie gambe, linsetto sbatterà le ali, lo squalo ti inseguirà, la foca avanzerà goffamente e il leone correrà.
 - CONTENUTO DEL GIOCO: barre, tavolette, chiodini, cubetti, pulegge, pezzi speciali e motore per realizzare anche modelli motorizzati. Le istruzioni guidano nellassemblaggio di 7 divertenti animali.
 - SCOPO DEL GIOCO: Potrai assemblare un gorilla, un leone, una foca, uno squalo, un insetto e 3 simpatici animali del prato: il ragno, la lumaca e la cavalletta.
+- DESCRIZIONE: Inventa, assembla, gioca! Con il nuovo laboratorio di meccanica per i più piccoli tanti componenti facili da montare per creare fantastici animali che si muovono e camminano.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09B7THD39{{</world>}}

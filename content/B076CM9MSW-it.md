@@ -28,10 +28,10 @@ average: '10.0629999999999'
 
 ℹ️:
 
-- Il prodotto può essere utilizzato come protezione dalla perdita del calore
-- Il prodotto non contiene solfati
 - Peso del prodotto: 275 ml
+- Il prodotto non contiene solfati
 - Il prodotto è formulato per castano ramati
+- Il prodotto può essere utilizzato come protezione dalla perdita del calore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B076CM9MSW{{</world>}}

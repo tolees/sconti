@@ -28,11 +28,11 @@ average: '269.0'
 
 ℹ️:
 
-- Consumo di acqua del programma eco in litri per ciclo:45
-- Classe di efficienza energetica:A
-- Velocità di rotazione in giri al minuto del programma eco 40-60 a capacità nominale:1151
 - Emissioni di rumore aereo:74
+- Consumo di acqua del programma eco in litri per ciclo:45
 - Consumo energetico ponderato in kWh per 100 cicli di lavaggio del programma eco 40-60:47
+- Velocità di rotazione in giri al minuto del programma eco 40-60 a capacità nominale:1151
+- Classe di efficienza energetica:A
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DJP7XJGV{{</world>}}

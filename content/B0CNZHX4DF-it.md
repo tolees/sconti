@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Impacchettatevi con pop per le vacanze! Loki!
 - Material : Vinile
+- Impacchettatevi con pop per le vacanze! Loki!
 - Material : Vinile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

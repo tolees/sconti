@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- PER UN SONNO RIPOSANTE: Per ridurre il tempo necessario a prendere sonno, assumerne 1 mg poco prima di coricarsi
-- PER ADDORMENTARSI IN POCO TEMPO: Integratore a base di melatonina per ridurre il tempo richiesto per prendere sonno
 - EQUILIBRA: Da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto dellequilibrio tra rispetto, efficacia, benessere e bellezza
-- DA ASSUMERE AL BISOGNO: Assumere 1 compressa al giorno. Le compresse devono essere deglutite con assunzione di un liquido
+- PER ADDORMENTARSI IN POCO TEMPO: Integratore a base di melatonina per ridurre il tempo richiesto per prendere sonno
 - CARATTERISTICHE: L’effetto benefico, in caso di jet lag, si ottiene assumendo 0,5 mg di melatonina prima di coricarsi, il primo giorno di viaggio. Proseguire per alcuni giorni dopo l’arrivo
+- PER UN SONNO RIPOSANTE: Per ridurre il tempo necessario a prendere sonno, assumerne 1 mg poco prima di coricarsi
+- DA ASSUMERE AL BISOGNO: Assumere 1 compressa al giorno. Le compresse devono essere deglutite con assunzione di un liquido
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01724DDSM{{</world>}}

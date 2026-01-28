@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- DELIZIA AD OGNI MORSO! - dalla consistenza croccante e facile da spalmare. Pezzi di biscotti Biscoff fungono da "crunch" in questa croccante crema spalmabile. Utilizzare come deliziosa alternativa al burro di frutta secca (burro di arachidi, burro di mandorle, ecc.) e alle creme spalmabili al cioccolato.
 - SPALMALA! MISCHIALA! MANGIALA A CUCCHIATE! - La Crema Biscoff può essere gustata in vari modi: su una fetta di pane fresco o tostato, sui pancake, come salsa per fette di mela o altra frutta, in un panino, nelle ricette fatte in casa o direttamente dal barattolo.
 - FATTA CON BISCOTTI BISCOFF ORIGINALI - Sbriciolando con cura i nostri biscotti Biscoff dopo la cottura, li trasformiamo in questa deliziosa crema spalmabile, mantenendo allo stesso tempo la croccantezza originaria dei biscotti. Disponibile anche nella versione liscia.
+- DELIZIA AD OGNI MORSO! - dalla consistenza croccante e facile da spalmare. Pezzi di biscotti Biscoff fungono da "crunch" in questa croccante crema spalmabile. Utilizzare come deliziosa alternativa al burro di frutta secca (burro di arachidi, burro di mandorle, ecc.) e alle creme spalmabili al cioccolato.
 - INGREDIENTI DI ORIGINE NATURALE - La nostra crema spalmabile Biscoff non contiene coloranti, aromi o conservanti artificiali - Olio di palma non OGM, certificato RSPO. Vegana. Non contiene frutta a guscio. Prodotto in Belgio in uno stabilimento che non tratta frutta a guscio.
 - CONTIENE 1 VASETTO DA 380GR DI CREMA BISCOFF CROCCANTE. Confezionato con cura in un barattolo di plastica leggero. Infrangile, facile da trasportare e totalmente riciclabile.
 

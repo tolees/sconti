@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Gli interruttori ottici consentono tempi di risposta rapidissimi ai clic, precisione costante e una durata di 100 milioni di clic.
 - La frequenza di polling di 8.000 Hz comunica i clic e i movimenti ogni 0,125 millisecondi, per una reattività senza pari.
-- Il design leggerissimo da 61 grammi migliora la maneggevolezza e il controllo ad elevate velocità, oltre a ridurre l’affaticamento della mano.
-- Il sensore ottico da 26.000 DPI offre prestazioni di tracciamento 1:1 impeccabili a qualsiasi sensibilità e velocità.
 - Forma ergonomica per destrorsi con impugnature testurizzate laterali, per il massimo del comfort e una maneggevolezza sicura. Si adatta in modo ottimale alla presa con palmo.
+- Il sensore ottico da 26.000 DPI offre prestazioni di tracciamento 1:1 impeccabili a qualsiasi sensibilità e velocità.
+- Il design leggerissimo da 61 grammi migliora la maneggevolezza e il controllo ad elevate velocità, oltre a ridurre l’affaticamento della mano.
+- Gli interruttori ottici consentono tempi di risposta rapidissimi ai clic, precisione costante e una durata di 100 milioni di clic.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CSSSBTT6{{</world>}}

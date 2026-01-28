@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Per marcare o segnare metallo, laminati, plastica e altri materiali
 - Precisione ingegnerizzata con punte in acciaio temprato
-- Impugnatura in alluminio zigrinata per bilanciamento e controllo
-- Doppia estremità: 1 x dritto e 1 x 90 °
 - Cromato per resistere alla corrosione
+- Doppia estremità: 1 x dritto e 1 x 90 °
+- Impugnatura in alluminio zigrinata per bilanciamento e controllo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000LFXNOY{{</world>}}

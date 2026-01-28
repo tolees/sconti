@@ -28,11 +28,11 @@ average: '15.71'
 
 ℹ️:
 
+- Temperatura di servizio 10-12° in bicchiere stile pinta classica
 - Confezione da 12 bottiglie da 50cl di Birra del Borgo LISA, data di scadenza di 90 giorni
+- Birra del Borgo LISA è una birra Lager Italiana non filtrata, 5% alcool
 - Ripensiamo il mondo delle Lager tradizionali portando tutto il carattere e il fascino Italiani. Il grano antico la rende morbida e intensa, la scorza d’arancia, ingrediente difficile da trovare in una lager qualsiasi, aggiunge freschezza e leggerezza. Dorata e non filtrata, elegante ma decisa, profumata di cereale e crosta di pane. LISA pesca nella tradizione della bassa fermentazione per regalarvi una nuova, moderna esperienza di Birra Italiana
 - Labbinamento perfetto: Lisa e pizza margherita o anche il più semplice, emozionante piatto di maccheroni pomodoro e basilico
-- Birra del Borgo LISA è una birra Lager Italiana non filtrata, 5% alcool
-- Temperatura di servizio 10-12° in bicchiere stile pinta classica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08WJNH85L{{</world>}}

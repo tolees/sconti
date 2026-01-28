@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- con punta di centraggio e due stampanti per fori precisi ed estrusi
 - Adatto a tutte le perforatrici comuni con registrazione della rotondità
 - Adatto per morbido e legno duro
 - Drill a fasci lunghi di alta qualità
+- con punta di centraggio e due stampanti per fori precisi ed estrusi
 - Per fori profondi in legno di costruzione o travi in ​​legno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

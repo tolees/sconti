@@ -28,11 +28,11 @@ average: '18.99'
 
 ℹ️:
 
-- IL SEGRETO PER CAPELLI* DALLASPETTO SANO: il balsamo Linea Classica è arricchito con il 50% in più di agenti* protettivi dei legami del capello, nutrendoli per lasciarli splendenti e morbidi *rispetto alla formula precedente
 - SENZA OLIO MINERALE E COLORANTI: la nostra formula mirata è stata accuratamente progettata senza luso di olio minerale e coloranti
-- Visita il sito it.pg.com per la composizione della confezione e le modalità di smaltimento
-- PROTEZIONE DEI LEGAMI DEL CAPELLO: questo balsamo, con formula Pro-V e tecnologia Active Nutri-Plex, è stato progettato per proteggere i legami del capello e rendere i capelli fluenti e facili da gestire
 - UNA SANA ROUTINE PER LA CURA DEI CAPELLI: per un’ulteriore efficacia, usalo insieme ai prodotti della Linea Classica Pantene, per capelli fluenti e facili da gestire
+- IL SEGRETO PER CAPELLI* DALLASPETTO SANO: il balsamo Linea Classica è arricchito con il 50% in più di agenti* protettivi dei legami del capello, nutrendoli per lasciarli splendenti e morbidi *rispetto alla formula precedente
+- PROTEZIONE DEI LEGAMI DEL CAPELLO: questo balsamo, con formula Pro-V e tecnologia Active Nutri-Plex, è stato progettato per proteggere i legami del capello e rendere i capelli fluenti e facili da gestire
+- Visita il sito it.pg.com per la composizione della confezione e le modalità di smaltimento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08F79V9NQ{{</world>}}

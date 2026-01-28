@@ -28,13 +28,13 @@ average: '48.6366666666667'
 
 ℹ️:
 
-- Affronta i pericoli di Pandora sfruttando la precisione delle armi tradizionali navi, come larco e lo scaglialance, oppure affidati al tuo addestramento umano per scatenarti con armi ancora più devastanti come i fucili dassalto e gli shotgun.
-- Prenota Avatar: Frontiers of Pandora per ricevere il pacchetto Erede di due mondi, che comprende un set di oggetti estetici per il personaggio e una skin per arma!*
 - Crea un legame con la tua banshee personale, diventa inarrestabile negli scontri aerei ed esplora in volo limmensa frontiera occidentale.
-- Migliora la tua esperienza di gioco con la Gold Edition e il Season Pass, che include due pacchetti Storia e molto altro!
-- Scopri lintera storia del gioco in modalità giocatore singolo, oppure online in modalità coop a due.
-- Fai evolvere il tuo personaggio per sfruttare al meglio lincredibile forza e agilità dei navi; crea nuovo equipaggiamento e potenzia le abilità e le armi più adatte al tuo stile di gioco.
 - *Offerta valida fino a esaurimento scorte. Disponibile in quantità limitate.
+- Prenota Avatar: Frontiers of Pandora per ricevere il pacchetto Erede di due mondi, che comprende un set di oggetti estetici per il personaggio e una skin per arma!*
+- Fai evolvere il tuo personaggio per sfruttare al meglio lincredibile forza e agilità dei navi; crea nuovo equipaggiamento e potenzia le abilità e le armi più adatte al tuo stile di gioco.
+- Affronta i pericoli di Pandora sfruttando la precisione delle armi tradizionali navi, come larco e lo scaglialance, oppure affidati al tuo addestramento umano per scatenarti con armi ancora più devastanti come i fucili dassalto e gli shotgun.
+- Scopri lintera storia del gioco in modalità giocatore singolo, oppure online in modalità coop a due.
+- Migliora la tua esperienza di gioco con la Gold Edition e il Season Pass, che include due pacchetti Storia e molto altro!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C7CNC5DK{{</world>}}

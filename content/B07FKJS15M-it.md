@@ -28,10 +28,10 @@ average: '5.73'
 
 ℹ️:
 
-- Conforme agli standards di performance Class 1 (A1), UHS Speed Class 3 (U3), e UHS Video Speed Class 30 (V30)
 - 3 anni di Garanzia
-- Classe A1 per caricamento e prestazioni delle app più veloci
+- Conforme agli standards di performance Class 1 (A1), UHS Speed Class 3 (U3), e UHS Video Speed Class 30 (V30)
 - Ideale per smartphone e tablet Android, action camera e droni
+- Classe A1 per caricamento e prestazioni delle app più veloci
 - Velocità di lettura fino a 90 MB/sec per trasferimento di contenuti più rapidi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

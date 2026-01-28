@@ -28,9 +28,9 @@ average: '9.53'
 
 ℹ️:
 
-- Ispirato a Naruto Shippuden
-- Personaggio Naruto alto circa 9 cm
 - POP! Vinile
+- Personaggio Naruto alto circa 9 cm
+- Ispirato a Naruto Shippuden
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0198KU5KM{{</world>}}

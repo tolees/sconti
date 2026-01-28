@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Contiene: 1x Columbia CSC Basic Logo, Maglia a maniche corte, Uomo, Colore: Nero, Taglia: L, 1680053
-- Design con logo Columbia
 - T-shirt a maniche corte da uomo, Ideale da usare tutto lanno
 - Disponibile in vari colori alla moda
+- Design con logo Columbia
+- Contiene: 1x Columbia CSC Basic Logo, Maglia a maniche corte, Uomo, Colore: Nero, Taglia: L, 1680053
 - Comfort ottimale grazie al tessuto jersey 100% cotone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

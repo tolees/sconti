@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - 【Monitoraggio dellenergia】 Controllando il consumo energetico cumulativo giornaliero, mensile e annuale, vi aiuterà a risparmiare sulle bollette energetiche.
-- 【App e controllo vocale】Controlla la spina S60 da qualsiasi luogo e in qualsiasi momento tramite lApp eWeLink, o dai comandi vocali ad Alexa o Google.
 - 【Smart Scene】Utilizzabile con il sensore di presenza umana SONOFF SNZB-06P per accendere le luci quando qualcuno è presente e spegnerle quando qualcuno non cè.
 - 【Programmazione e timer】Utilizzate un timer o un conto alla rovescia per impostare la spina S60 in modo che accenda e spenga automaticamente qualsiasi elettrodomestico.
+- 【App e controllo vocale】Controlla la spina S60 da qualsiasi luogo e in qualsiasi momento tramite lApp eWeLink, o dai comandi vocali ad Alexa o Google.
 - 【Sicuro e Affidabile】Ha il più alto ritardo di fiamma, eccellente durata, protezione da sovraccarico, protezione da cortocircuito, protezione da fulmini e sovratensioni. La protezione bambini impedisce ai bambini di inserire dita o altri oggetti nei fori della spina.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

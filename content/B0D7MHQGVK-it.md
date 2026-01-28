@@ -30,9 +30,9 @@ average: '20.19'
 
 - MATERIALE E LAVAGGIO: Questo top bikini è realizzato all’84% in nylon e al 16% in elastan. È lavabile in lavatrice.
 - VERSATILE: Il top bikini essenziale ma alla moda si abbina facilmente a diversi modelli di slip bikini e accessori. In questo modo è possibile creare look sempre nuovi per la spiaggia o la piscina.
-- SEMPLICITÀ E FASCINO: Creato nel 1968, il marchio Calvin Klein è famoso per il suo look inconfondibile, che lo ha reso da subito un’ispirazione per il mondo della moda. Il brand americano è caratterizzato da un’estetica minimalista.
 - DESIGN STILOSO: Il top bikini a triangolo con branding CK sottolinea il seno in modo discreto e grazie alla graziosa scollatura e al taglio che valorizza risulta veramente accattivante. È perfetto per i giorni di sole in spiaggia o in piscina.
 - VESTIBILITÀ OTTIMALE: Per offrirti un supporto ottimale, il capo è dotato di un’imbottitura estraibile. Grazie alle spalline da legare, il top bikini si adatta alla perfezione al corpo.
+- SEMPLICITÀ E FASCINO: Creato nel 1968, il marchio Calvin Klein è famoso per il suo look inconfondibile, che lo ha reso da subito un’ispirazione per il mondo della moda. Il brand americano è caratterizzato da un’estetica minimalista.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D7MHQGVK{{</world>}}

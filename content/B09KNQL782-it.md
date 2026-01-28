@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- DISPONIBILITÀ IN TUTTA EUROPA: Campingaz dispone di una rete di distribuzione europea per le cartucce di gas; panoramica dei rivenditori su campingaz.com/gasfinder
-- COMPATTO E POTENTE: fornello da campeggio con cartuccia di gas (2.200 W), facile utilizzo; accensione piezo; fiamma a regolazione continua; supporto per pentole e padelle fino a 26 cm di diametro
-- DESIGN FUNZIONALE: funzionamento con cartuccia di gas Campingaz CP 250, non a vista grazie al vano cartuccia integrato; la cartuccia può essere rimossa anche se non totalmente svuotata
-- DIMENSIONI: 34 x 28 x 13 cm; consumo gas 160 g/h; durata 1 h 15 min; peso 1,5 kg; adatto per pentole di diametro 12-26 cm; non adatto all’uso in luoghi chiusi; inclusa custodia per il trasporto
 - MASSIMA SICUREZZA: la doppia valvola di sicurezza nel regolatore del gas integrato arresta la fuoriuscita di gas accidentale; la leva di sicurezza fissa all’interno la cartuccia in modo sicuro
+- COMPATTO E POTENTE: fornello da campeggio con cartuccia di gas (2.200 W), facile utilizzo; accensione piezo; fiamma a regolazione continua; supporto per pentole e padelle fino a 26 cm di diametro
+- DIMENSIONI: 34 x 28 x 13 cm; consumo gas 160 g/h; durata 1 h 15 min; peso 1,5 kg; adatto per pentole di diametro 12-26 cm; non adatto all’uso in luoghi chiusi; inclusa custodia per il trasporto
+- DESIGN FUNZIONALE: funzionamento con cartuccia di gas Campingaz CP 250, non a vista grazie al vano cartuccia integrato; la cartuccia può essere rimossa anche se non totalmente svuotata
+- DISPONIBILITÀ IN TUTTA EUROPA: Campingaz dispone di una rete di distribuzione europea per le cartucce di gas; panoramica dei rivenditori su campingaz.com/gasfinder
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09KNQL782{{</world>}}

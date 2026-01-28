@@ -28,9 +28,9 @@ average: '6.64666666666667'
 
 ℹ️:
 
-- BENEFICI: Il Magnesio contribuisce alla normale funzione muscolare, al normale funzionamento del sistema nervoso, alla riduzione della stanchezza e dellaffaticamento, alla funzionalità psicologica;
 - QUANDO UTILIZZARLO: Si consiglia di assumere 1 o 2 cucchiaini da caffè al giorno, sciolti in un bicchiere di acqua calda. Attendere che la soluzione sia diventata trasparente prima di consumare;
 - ALLINTERNO DELLA CONFEZIONE: 1 flacone con sigillo di garanzia da 300gr, con una nuova formulazione più solubile e dal sapore gradevole;
+- BENEFICI: Il Magnesio contribuisce alla normale funzione muscolare, al normale funzionamento del sistema nervoso, alla riduzione della stanchezza e dellaffaticamento, alla funzionalità psicologica;
 - INGREDIENTI: Magnesio Carbonato; Acidificante: Acido Citrico
 - CHE COSE MAGNESIO 2 ACT PURO POLVERE? è un integratore alimentare che contribuisce alla funzione muscolare, al funzionamento del sistema nervoso, riduce stanchezza e affaticamento;
 

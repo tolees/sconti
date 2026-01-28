@@ -28,11 +28,11 @@ average: '136.176666666667'
 
 ℹ️:
 
+- BATTERIA AL LITIO 40V 2Ah DI NUOVA GENERAZIONE - alimentato da una batteria di ultima generazione che può essere usata con qualsiasi attrezzo Greenworks da 40V per ridurre gli sprechi e risparmiare spazio e denaro
 - 3 ANNI DI GARANZIA CON 2 ANNI DI GARANZIA PER LA BATTERIA - Da Greenworks, leader mondiale negli attrezzi elettrici e della tecnologia a batterie, con una reputazione globale per design intelligente, prestazioni elevate e un servizio clienti eccezionale
 - PROTEZIONE PER PIANTE E ALBERI - possibilità di variare la velocità per una rasatura più accurata intorno a piante delicate. La protezione per piante integrata consente di proteggere la corteccia alla base degli alberi posizionandola contro il tronco
-- BATTERIA AL LITIO 40V 2Ah DI NUOVA GENERAZIONE - alimentato da una batteria di ultima generazione che può essere usata con qualsiasi attrezzo Greenworks da 40V per ridurre gli sprechi e risparmiare spazio e denaro
-- FACILE SOSTITUZIONE DEL FILO SENZA INFILATURE - quando il filo è da sostituire, basta staccare la testa e infilare direttamente il nuovo filo. Lavanzamento automatico del filo eroga la giusta quantità di nuovo filo ogni volta che si avvia lapparecchio
 - TAGLIABORDI POTENTE, LEGGERO E BEN BILANCIATO - con maniglia anteriore regolabile per impostare una comoda altezza di lavoro e albero divisibile per riporlo più facilmente - ideale per tagliare lerba lunga dove il tosaerba non può arrivare
+- FACILE SOSTITUZIONE DEL FILO SENZA INFILATURE - quando il filo è da sostituire, basta staccare la testa e infilare direttamente il nuovo filo. Lavanzamento automatico del filo eroga la giusta quantità di nuovo filo ogni volta che si avvia lapparecchio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B06X997WDQ{{</world>}}

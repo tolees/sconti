@@ -29,8 +29,8 @@ average: '7.57'
 ℹ️:
 
 - Innovazione nello sviluppo del prodotto: le nostre invenzioni hanno fatto la storia e cambiato il mercato.
-- Acciaio speciale per utensili
 - Ideale per rimuovere o inserire O-Ring e guarnizioni
+- Acciaio speciale per utensili
 - Passione per strumenti di altissima qualità: da oltre 30 anni non ci poniamo limiti.
 - Qualità assoluta: oltre 45.000 strumenti di altissima qualità nati solo dal desiderio di offrire il meglio.
 

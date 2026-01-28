@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- INGREDIENTI - Pasta senza glutine di mais bianco, mais giallo e riso integrale, dalla consistenza sempre al dente. La porzione consigliata per un adulto medio è di 80-85 g
-- SPAGHETTI SENZA GLUTINE - Ideali per chi deve rinunciare al glutine, ma non al piacere della pasta. Grazie alla nuova ricetta con riso integrale, offrono un gusto ancora più armonioso e bilanciato
 - IDEALI CON - Velocemente conditi con il Sugo al Pomodoro Barilla, olio e basilico, si abbinano ai condimenti con verdure e formaggi
-- CARATTERISTICHE - Una pasta senza glutine dal sapore delicato e bilanciato, buona come la Barilla di sempre. Tempo di cottura 10 minuti
+- INGREDIENTI - Pasta senza glutine di mais bianco, mais giallo e riso integrale, dalla consistenza sempre al dente. La porzione consigliata per un adulto medio è di 80-85 g
 - BARILLA - Unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
+- CARATTERISTICHE - Una pasta senza glutine dal sapore delicato e bilanciato, buona come la Barilla di sempre. Tempo di cottura 10 minuti
+- SPAGHETTI SENZA GLUTINE - Ideali per chi deve rinunciare al glutine, ma non al piacere della pasta. Grazie alla nuova ricetta con riso integrale, offrono un gusto ancora più armonioso e bilanciato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00XUGYMUA{{</world>}}

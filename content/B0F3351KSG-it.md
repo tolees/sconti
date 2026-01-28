@@ -28,11 +28,11 @@ average: '9.31'
 
 ℹ️:
 
-- 9 AZIONI FISIOLOGICHE DEL MAGNESIO: Utile per ridurre la stanchezza e contribuisce al metabolismo energetico, alla normale funzione muscolare e al funzionamento del sistema nervoso
 - EQUILIBRA: Da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto di un perfetto equilibrio tra rispetto, efficacia, benessere e bellezza
-- SENZA ZUCCHERI: Non contiene zuccheri né aromi, dal piacevole sapore naturalmente agrumato e solubile in acqua fredda; senza coloranti artificali, con rosso di barbabietola
-- PER IL BENESSERE DELLA DONNA: 3 Sali di Magnesio (Bisglicinato, Pidolato e Carbonato); Vitamine D3, B6, B12 e Acido Folico, specificificatamente selezionate per il benessere della donna
 - DA ASSUMERE QUOTIDIANAMENTE: Assumere 2,5 g di prodotto (pari a 1 cucchiaino da caffè) 1 o 2 volte al giorno. Sciogliere la polvere in un bicchiere d’acqua non frizzante a temperatura ambiente
+- PER IL BENESSERE DELLA DONNA: 3 Sali di Magnesio (Bisglicinato, Pidolato e Carbonato); Vitamine D3, B6, B12 e Acido Folico, specificificatamente selezionate per il benessere della donna
+- 9 AZIONI FISIOLOGICHE DEL MAGNESIO: Utile per ridurre la stanchezza e contribuisce al metabolismo energetico, alla normale funzione muscolare e al funzionamento del sistema nervoso
+- SENZA ZUCCHERI: Non contiene zuccheri né aromi, dal piacevole sapore naturalmente agrumato e solubile in acqua fredda; senza coloranti artificali, con rosso di barbabietola
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F3351KSG{{</world>}}

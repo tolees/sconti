@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 🧸TRUDI, una lunga storia di affetto. Viene fondata a Tarcento (Udine) nel 1954. I primi peluche vengono creati un po per gioco, ma con tanta passione, da Trudi Müller Patriarca. Da azienda artigiana Trudi si trasforma in realtà industriale, simbolo del Made in Italy in tutto il mondo. Lo stile Trudi è sinonimo di qualità, bellezza e innovazione.
-- 🧸MISURE - 15x25x30 cm, peluche taglia S
 - 🧸UTILIZZO - Morbido gioco in peluche. Adatto sia ai bambini che agli adulti. Ideale regalo per Natale, per il compleanno o per ogni altra occasione speciale.
+- 🧸MISURE - 15x25x30 cm, peluche taglia S
 - 🧸 CONTENUTO - Scoiattolo Ginger peluche. La fauna del Parco dello Stelvio è ricca di animali come rapaci (di cui aquila reale e gipeto), cervi e stambecchi e molte altre specie del clima montano (marmotte, lepre bianca, ermellino)
+- 🧸TRUDI, una lunga storia di affetto. Viene fondata a Tarcento (Udine) nel 1954. I primi peluche vengono creati un po per gioco, ma con tanta passione, da Trudi Müller Patriarca. Da azienda artigiana Trudi si trasforma in realtà industriale, simbolo del Made in Italy in tutto il mondo. Lo stile Trudi è sinonimo di qualità, bellezza e innovazione.
 - 🧸MATERIALE - Materie prime di alta qualità - Poliestere ignifugo. Lavabile in lavatrice a 30°, quando la misura lo consente; in alternativa può essere lavato a mano, utilizzando una spugna e un sapone neutro. Non mettere nellasciugatrice, non stirare.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

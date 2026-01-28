@@ -28,11 +28,11 @@ average: '4.48'
 
 ℹ️:
 
-- Senza conseevanti
-- Integratore alimentare con vitamine b2, b6, b12, niacina e acido pantotenico
-- Bambini (circa 5 ml Vitamina B2 0.45 mg 32% ,Acido Pantotenico 3 mg 50% ,Vitamina B6 0,46 mg 32%, Vitamina B12 0,7 mcg 28%, Niacina 5.5 mg 34% ,Inositolo 5 mg -. Adulti (circa 10 ml Vitamina B2 0,9 mg 64% ,Acido Pantotenico 6 mg 100%,Vitamina B6 0,9 mg 64% ,Vitamina B12 1,4 mg 56%,Niacina 11 mg 68%,Inositolo 10 mg -.
 - Scopri la nostra vasta gamma di prodotti
+- Bambini (circa 5 ml Vitamina B2 0.45 mg 32% ,Acido Pantotenico 3 mg 50% ,Vitamina B6 0,46 mg 32%, Vitamina B12 0,7 mcg 28%, Niacina 5.5 mg 34% ,Inositolo 5 mg -. Adulti (circa 10 ml Vitamina B2 0,9 mg 64% ,Acido Pantotenico 6 mg 100%,Vitamina B6 0,9 mg 64% ,Vitamina B12 1,4 mg 56%,Niacina 11 mg 68%,Inositolo 10 mg -.
+- Senza conseevanti
 - Adatto pe radulti e bambini
+- Integratore alimentare con vitamine b2, b6, b12, niacina e acido pantotenico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07MYPSVRP{{</world>}}

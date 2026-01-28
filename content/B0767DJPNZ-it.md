@@ -28,11 +28,11 @@ average: '56.8'
 
 ℹ️:
 
-- Con il suo design semplice, la lampada a sospensione offre un punto di attrattiva in ogni stanza, che sia in soggiorno, in cucina o nella sala da pranzo sopra il tavolo da pranzo
 - Quando la lampada a sospensione è accesa, il paralume crea un affascinante gioco di luci e ombre
-- La lampadina a filamento nellimmagine non è inclusa nella fornitura ed è disponibile separatamente come EGLO 110051; Adatta a tutte le lampadine con attacco E27, potenza massima per attacco 60 W; Dimmerabile a seconda della lampadina utilizzata
-- Il paralume geometrico a 2 colori si adatta ottimo a tendenze come lo stile vintage, retrò e industriale; La superficie interna è rifinita a mano per un look individuale
 - Dimensioni: altezza: max 150 cm, diametro: 38,5 cm
+- Il paralume geometrico a 2 colori si adatta ottimo a tendenze come lo stile vintage, retrò e industriale; La superficie interna è rifinita a mano per un look individuale
+- Con il suo design semplice, la lampada a sospensione offre un punto di attrattiva in ogni stanza, che sia in soggiorno, in cucina o nella sala da pranzo sopra il tavolo da pranzo
+- La lampadina a filamento nellimmagine non è inclusa nella fornitura ed è disponibile separatamente come EGLO 110051; Adatta a tutte le lampadine con attacco E27, potenza massima per attacco 60 W; Dimmerabile a seconda della lampadina utilizzata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0767DJPNZ{{</world>}}

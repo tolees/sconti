@@ -28,10 +28,10 @@ average: '31.026'
 
 ℹ️:
 
-- Perfetto per: Acer Aspire 5560G | 5733 | 5733Z | 5741 | 5741G | 5742 | 5742G | 5742Z | 5749G | 5749Z | 5749ZG | 5750 | 5750G | 5750Z | 5750ZG | 5755 | 5755G | 7560 | 7741 | 7741G | 7750G | E1-531 | E1-531G | E1-571 | E1-571G | V3-551 | V3-571 | V3-571G | V3-731G | V3-771 | eMachines E730 | G640 | Packard Bell EasyNote P5WS0 | PEW91 e altro. Tutti i modelli compatibili sono elencati nella descrizione
-- Batteria di lunga durata - fino a 500 cicli di ricarica (2-3 anni di funzionamento senza problemi) e lunga durata della batteria per tutta la durata di vita. La batteria mantiene oltre l80% della sua capacità dopo un anno di utilizzo
-- Capacità: 4400mAh (49Wh) | Tensione: 11.1V | Colore: Nero | Tipo di cella: Li-Ion | Numero di celle: 6
 - La sicurezza prima di tutto - Lelettronica avanzata garantisce la sicurezza durante la carica e il funzionamento. Le caratteristiche di sicurezza includono: sovraccarico, scarica profonda, corto circuito e protezioni da surriscaldamento. Ed è tutto racchiuso in un robusto alloggiamento che protegge le celle e lelettronica allinterno. La batteria si adatta al computer portatile proprio come loriginale
+- Perfetto per: Acer Aspire 5560G | 5733 | 5733Z | 5741 | 5741G | 5742 | 5742G | 5742Z | 5749G | 5749Z | 5749ZG | 5750 | 5750G | 5750Z | 5750ZG | 5755 | 5755G | 7560 | 7741 | 7741G | 7750G | E1-531 | E1-531G | E1-571 | E1-571G | V3-551 | V3-571 | V3-571G | V3-731G | V3-771 | eMachines E730 | G640 | Packard Bell EasyNote P5WS0 | PEW91 e altro. Tutti i modelli compatibili sono elencati nella descrizione
+- Capacità: 4400mAh (49Wh) | Tensione: 11.1V | Colore: Nero | Tipo di cella: Li-Ion | Numero di celle: 6
+- Batteria di lunga durata - fino a 500 cicli di ricarica (2-3 anni di funzionamento senza problemi) e lunga durata della batteria per tutta la durata di vita. La batteria mantiene oltre l80% della sua capacità dopo un anno di utilizzo
 - Riporta in vita il tuo portatile con Green Cell - Sostituzione della batteria per notebook di qualità superiore per le batterie Acer AS10D31, AS10D41, AS10D51, AS10D61, AS10D71, AS10D73, AS10D75, AS10D81, AS10D3E, AS10D56, AS10G3E
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

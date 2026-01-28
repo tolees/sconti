@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Ottimo articolo per gli appassionati della console
-- Ha una dimensone di 10 x 30 cm
 - È la luce adatta a qualsiasi stanza, sia nella sala giochi che nella camera da letto
+- Ha una dimensone di 10 x 30 cm
+- Ottimo articolo per gli appassionati della console
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08FHXNT8X{{</world>}}

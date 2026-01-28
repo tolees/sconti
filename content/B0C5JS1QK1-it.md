@@ -28,10 +28,10 @@ average: '25.14'
 
 ℹ️:
 
-- INTENSE CARE: lammorbidente concentrato Coccolino è formulato con la rivoluzionaria tecnologia Pro-Fibre che penetra in profondità nelle fibre e le protegge dai danni causati dai lavaggi
 - COCCOLINO AMMORBIDENTE SANDALO E CAPRIFOGLIO: lAmmorbidente Coccolino concentrato dona una completa protezione dei vestiti
-- COCCOLINO: Coccolino è lammorbidente che si prende cura dei tuoi vestiti da più di 50 anni
+- INTENSE CARE: lammorbidente concentrato Coccolino è formulato con la rivoluzionaria tecnologia Pro-Fibre che penetra in profondità nelle fibre e le protegge dai danni causati dai lavaggi
 - PROFUMAZIONE: una fragranza che dura a lungo al profumo di sandalo e caprifoglio
+- COCCOLINO: Coccolino è lammorbidente che si prende cura dei tuoi vestiti da più di 50 anni
 - FORMATO XXL: utilizza il conveniente formato XXL da 1750 ml fino a 76 lavaggi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

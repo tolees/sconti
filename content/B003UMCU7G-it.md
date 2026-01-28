@@ -28,11 +28,11 @@ average: '0.65'
 
 ℹ️:
 
+- BUCATINI N.9: Nei Bucatini Barilla lo spessore generoso e la consistenza sono studiati per esaltare i sughi più densi ed importanti. Questo formato è la sintesi perfetta tra pasta lunga e corta.
+- BLUE BOX: la nuova confezione di pasta in cartoncino, nata per abbracciare limpegno di Barilla nello sviluppo di soluzioni volte a ridurre il suo impatto sul pianeta
+- BARILLA: unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
 - IDEALI CON: il sugo allAmatriciana a base di polpa di pomodoro, pancetta a dadini e un pizzico di peperoncino, per un piatto rustico e saporito
 - QUALITÀ: pasta lunga sempre al dente grazie alla selezione di grani duri, tempo di cottura di 8 minuti. Poniamo grande attenzione lungo tutta la filiera per garantire qualità e sicurezza alimentare
-- BLUE BOX: la nuova confezione di pasta in cartoncino, nata per abbracciare limpegno di Barilla nello sviluppo di soluzioni volte a ridurre il suo impatto sul pianeta
-- BUCATINI N.9: Nei Bucatini Barilla lo spessore generoso e la consistenza sono studiati per esaltare i sughi più densi ed importanti. Questo formato è la sintesi perfetta tra pasta lunga e corta.
-- BARILLA: unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B003UMCU7G{{</world>}}

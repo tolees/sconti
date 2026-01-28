@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - montaggio sotto il piano di lavoro;
+- fornito con una piletta con tubo di scarico salvaspazio e un filtro a cestello InFino da 3 1/2 ad azionamento manuale;
+- Sistema di svuotamento InFino;
 - con troppopieno C-overflow nascosto;
 - larghezza minima del mobile 600 mm;
-- Sistema di svuotamento InFino;
-- fornito con una piletta con tubo di scarico salvaspazio e un filtro a cestello InFino da 3 1/2 ad azionamento manuale;
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01NBDZQ4X{{</world>}}

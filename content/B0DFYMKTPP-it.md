@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- TimeLight: Indicatore luminoso sul pavimento che mostra lavaggio e tempo rimanente.
 - Cestelli Max Flex Pro: ora puoi caricare qualsiasi tipo di stoviglie in modo semplice e sicuro, e con il sistema di scorrimento migliorato caricare e scaricare la lavastoviglie sarà più agevole e semplice.
 - Home Connect: con la App Home Connect è possibile controllare da remoto la lavastoviglie, accedere ai manuali di istruzioni in formato digitale e consultare utili suggerimenti d’utilizzo direttamente dal proprio smartphone.
+- TimeLight: Indicatore luminoso sul pavimento che mostra lavaggio e tempo rimanente.
 - Con il tuo consenso, lassistenza tecnica Bosch può accedere alla tua lavastoviglie e verificare a distanza lo stato del tuo prodotto, darti consigli su come procedere ed in caso il problema non fosse risolvibile a distanza sarà programmato lintervento a domicilio.
 - Extra Clean Zone: zona nel cestello superiore per una pulizia intensiva delle stoviglie più sporche.
 

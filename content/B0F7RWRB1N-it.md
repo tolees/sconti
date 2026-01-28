@@ -28,11 +28,11 @@ average: '12.52'
 
 ℹ️:
 
-- DETTAGLI: maniche corte e orlo dritto rifiniti con cuciture molto morbide e flessibili. Lo scollo rotondo è rifinito con bordatura per una maggiore resistenza e presenta unetichetta stampata sul retro del collo
+- MODAL SUPER MORBIDO: morbido misto modal. Questo tessuto leggero e traspirante è estremamente piacevole al tatto e la presenza di spandex lo rende elastico e flessibile offrendo ampia libertà di movimento
 - MAGLIETTA INTIMA A MANICHE CORTE: modello di alta qualità, che unisce comfort e funzionalità per luso quotidiano
 - LUNGHEZZA DEL CAPO: 70 cm circa dal lato del collo nella taglia M (IT)
 - VESTIBILITÀ ADERENTE: aderente su spalle, maniche, petto e vita
-- MODAL SUPER MORBIDO: morbido misto modal. Questo tessuto leggero e traspirante è estremamente piacevole al tatto e la presenza di spandex lo rende elastico e flessibile offrendo ampia libertà di movimento
+- DETTAGLI: maniche corte e orlo dritto rifiniti con cuciture molto morbide e flessibili. Lo scollo rotondo è rifinito con bordatura per una maggiore resistenza e presenta unetichetta stampata sul retro del collo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F7RWRB1N{{</world>}}

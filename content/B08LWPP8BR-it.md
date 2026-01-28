@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - CON NOTA DI FONDO AMBRATA: La nota di fondo del profumo racchiude Ambra e Muschio Bianco
-- CON NOTA DI CORPO LEGNOSA: La nota di corpo del profumo racchiude Vaniglia, Agarwood e Oud Dolce
-- FRAGRANZA SPEZIATA, DOLCE E AMBRATA: Lesordio è un tripudio di note floreali dove linedito accordo del delicato Garofano Indiano ben si abbina a note leggermente speziate, attorniate da una miscela di Caffè. Tutto questo, poi, caratterizzato dalla presenza di sentori dolci caramellati. Il cuore inebria con un accordo di legno di Oud più delicato, reso morbido e gentile dalla presenza di dolci note di Vaniglia. Il fondo nobile si espande con Note Ambrate e Muschio bianco
 - HELAN AMA LA PERSONA E LA NATURA: La Mission dell’azienda è stata, fin dall’inizio, quella di formulare e produrre cosmetici pensati e realizzati in armonia con la Fisiologia cutanea, la Natura, l’Ambiente e il Mondo Animale
+- FRAGRANZA SPEZIATA, DOLCE E AMBRATA: Lesordio è un tripudio di note floreali dove linedito accordo del delicato Garofano Indiano ben si abbina a note leggermente speziate, attorniate da una miscela di Caffè. Tutto questo, poi, caratterizzato dalla presenza di sentori dolci caramellati. Il cuore inebria con un accordo di legno di Oud più delicato, reso morbido e gentile dalla presenza di dolci note di Vaniglia. Il fondo nobile si espande con Note Ambrate e Muschio bianco
+- CON NOTA DI CORPO LEGNOSA: La nota di corpo del profumo racchiude Vaniglia, Agarwood e Oud Dolce
 - CON NOTA DI TESTA GOURMAND FLOREALE: La nota di testa del profumo racchiude Caffè Caramellato, Garofano indiano e Rosa damascena
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

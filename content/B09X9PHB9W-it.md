@@ -29,12 +29,12 @@ average: '50.99'
 ℹ️:
 
 - Lampada frontale potente e ricaricabile, di facile utilizzo con illuminazione rossa.
-- Compatibile con gli attacchi HELMET ADAPT e BIKE ADAPT 2 per installare la lampada su qualsiasi tipo di casco o su una bici. Attenzione, questa lampada non è certificata per essere utilizzata su strada.
-- Funzione LOCK per evitare le accensioni involontarie durante il trasporto/stoccaggio.
-- Ricaricabile mediante una porta micro USB di tipo B.
+- Costruzione HYBRID CONCEPT: fornita con la batteria ricaricabile CORE, ACTIK CORE è anche compatibile con tre pile AAA/LR03 (non fornite).
 - Leggera e potente: 600 lumen per soli 88 g.
 - Illuminazione di spostamento polivalente e confortevole per le attività dinamiche. Tre livelli d’illuminazione bianca: MAX BURN TIME (massima autonomia), STANDARD (migliore equilibrio potenza/autonomia) e MAX POWER (massima potenza).
-- Costruzione HYBRID CONCEPT: fornita con la batteria ricaricabile CORE, ACTIK CORE è anche compatibile con tre pile AAA/LR03 (non fornite).
+- Ricaricabile mediante una porta micro USB di tipo B.
+- Funzione LOCK per evitare le accensioni involontarie durante il trasporto/stoccaggio.
+- Compatibile con gli attacchi HELMET ADAPT e BIKE ADAPT 2 per installare la lampada su qualsiasi tipo di casco o su una bici. Attenzione, questa lampada non è certificata per essere utilizzata su strada.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09X9PHB9W{{</world>}}

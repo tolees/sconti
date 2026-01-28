@@ -28,10 +28,10 @@ average: '19.99'
 
 ℹ️:
 
-- The Plucky Squire segue le magiche avventure di Pennino e i suoi amici, personaggi delle fiabe che scoprono lesistenza di un mondo in tre dimensioni fuori dalle pagine del loro libro.
 - Quando il malvagio Brontolomeo capisce di essere il cattivo del libro, condannato per leternità a perdere la sua battaglia contro le forze del bene, decide di scacciare leroico Pennino dalle pagine e cambiare per sempre la storia.
-- Pennino dovrà affrontate sfide inimmaginabili se vuole salvare i suoi amici dalle forze oscure di Brontolomeo e riportare il lieto fine nel reame del libro.
+- The Plucky Squire segue le magiche avventure di Pennino e i suoi amici, personaggi delle fiabe che scoprono lesistenza di un mondo in tre dimensioni fuori dalle pagine del loro libro.
 - Salta tra mondi 2D e 3D in questa incantevole avventura dazione: risolvi enigmi, affronta nel ring i tassi-pugili, vola con un jetpack e divertiti con molte altre deliziose e sorprendenti mini-sfide per diventare leroe di un libro di fiabe animato.
+- Pennino dovrà affrontate sfide inimmaginabili se vuole salvare i suoi amici dalle forze oscure di Brontolomeo e riportare il lieto fine nel reame del libro.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DFD36D5V{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Perfetto in abbinamento alla cucina mediterranea. Per apprezzarlo al meglio si consiglia di servire con acqua tonica, molto ghiaccio e guarnito con arancia e rosmarino
 - Gin Mare nasce in spagna nel XVIII secolo in un piccolo villaggio di pescatori vicino a Barcellona. Oggi viene prodotto con passione dalla famiglia Giro, secondo la ricetta tradizionale
-- Un gin dai tipici sentori mediterranei: il suo gusto esplode in ginepro e coriandolo, per poi lasciare spazio ad amare e speziate note di rosmarino e basilico, che ben si bilanciano con la freschezza degli agrumi
-- Gin Mare Mediterranean Gin è un distillato premium ispirato al Mar Mediterraneo, aromatizzato con 4 botaniche principali: basilico, timo, rosmarino e l’oliva Arbequina
 - Confezione speciale composta da una bottiglia di Gin Mare 70 cl e due bicchieri brandizzati, perfetta come idea regalo
+- Perfetto in abbinamento alla cucina mediterranea. Per apprezzarlo al meglio si consiglia di servire con acqua tonica, molto ghiaccio e guarnito con arancia e rosmarino
+- Gin Mare Mediterranean Gin è un distillato premium ispirato al Mar Mediterraneo, aromatizzato con 4 botaniche principali: basilico, timo, rosmarino e l’oliva Arbequina
+- Un gin dai tipici sentori mediterranei: il suo gusto esplode in ginepro e coriandolo, per poi lasciare spazio ad amare e speziate note di rosmarino e basilico, che ben si bilanciano con la freschezza degli agrumi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DJ141HN8{{</world>}}

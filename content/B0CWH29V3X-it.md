@@ -28,11 +28,11 @@ average: '28.99'
 
 ℹ️:
 
+- Giocattolo magico per bambini: ricrea le affascinanti lezioni del Professor Severus Piton nell’aula sotterranea con il set di giochi di Harry Potter per bambini e bambine da 8 anni in su, il Castello di Hogwarts: Lezione di Pozioni giocattolo
+- 2 dei 14 ritratti di Hogwarts collezionabili: il corso di pozioni giocattolo di Harry Potter da costruire, include 2 dei 14 ritratti casuali del castello di Hogwarts da esporre in classe
+- Giochi creativi ricchi di dettagli: laula da costruire per le lezioni di pozioni di Harry Potter, può essere aperta per facilitare il gioco; include una lavagna, bottiglie di ingredienti da mescolare nel calderone e altri accessori
 - Idea regalo magica per i bambini: questo set è un divertente regalo fantasy LEGO Harry Potter per i bambini creativi e per tutti i fan del mondo magico dagli 8 anni in su, per il loro compleanno o come sorpresa a tema magico
 - Oggetto da collezione LEGO Harry Potter: questo set della lezione di pozioni fa parte di una gamma di set (disponibili a parte) che possono essere collegati tra loro per creare un castello di Hogwarts in mattoncini, ricco di dettagli
-- Giochi creativi ricchi di dettagli: laula da costruire per le lezioni di pozioni di Harry Potter, può essere aperta per facilitare il gioco; include una lavagna, bottiglie di ingredienti da mescolare nel calderone e altri accessori
-- 2 dei 14 ritratti di Hogwarts collezionabili: il corso di pozioni giocattolo di Harry Potter da costruire, include 2 dei 14 ritratti casuali del castello di Hogwarts da esporre in classe
-- Giocattolo magico per bambini: ricrea le affascinanti lezioni del Professor Severus Piton nell’aula sotterranea con il set di giochi di Harry Potter per bambini e bambine da 8 anni in su, il Castello di Hogwarts: Lezione di Pozioni giocattolo
 - 4 personaggi LEGO Harry Potter: sono comprese le minifigure di Severus Piton, Hermione Granger, Pansy Parkinson e Seamus Finnigan
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

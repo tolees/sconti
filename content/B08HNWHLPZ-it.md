@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Versatilità in cucina: Ideale per colazioni, spalmata sul pane o fette biscottate, ma anche come ingrediente per dolci, torte e abbinamenti gourmet con formaggi o carni
 - Vasetto da 360 g
+- Versatilità in cucina: Ideale per colazioni, spalmata sul pane o fette biscottate, ma anche come ingrediente per dolci, torte e abbinamenti gourmet con formaggi o carni
 - Gusto unico e distintivo : Aroma agrumato intenso, tipico del cedro, con un sapore leggermente amaro e fresco, perfetto per chi è alla ricerca di sapori originali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

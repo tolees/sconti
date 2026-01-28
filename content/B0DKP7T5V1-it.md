@@ -29,10 +29,10 @@ average: '179.0'
 ℹ️:
 
 - Processore MediaTek Dimensity 7025-Ultra, tecnologia a 6nm
-- Scatti AI con OIS ad alta risoluzione fino a 108MP
 - Display con protezione degli occhi da 120Hz, picco di luminosità da 2100nits, Corning Gorilla Glass 5
-- Funzionalità AI: Google Gemini
 - Ampia batteria da 5110mAh con turbo-ricarica a 45W
+- Funzionalità AI: Google Gemini
+- Scatti AI con OIS ad alta risoluzione fino a 108MP
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DKP7T5V1{{</world>}}

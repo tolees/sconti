@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Il modo migliore per gustare Jägermeister è nelliconico shot ghiacciato che accompagna le notti più belle della nostra vita
 - Questo Special Pack in Limited Edition si compone di una bottiglia da 70cl del famoso liquore tedesco a base di erbe e due bicchieri dal design unico: 6 design da collezionare per comporre la scritta CHEERS e brindare ai momenti migliori.
-- Jägermeister si apprezza al meglio ghiacciato, ad una temperatura di -18°. Conservare la bottiglia in freezer, da vero Meister
-- Jägermeister nasce da un blend di 56 ingredienti tra erbe, fiori, radici e frutta di altissima qualità, provenienti da tutte le parti del mondo ed elaborati in 4 differenti macerazioni per ottenere il celebre liquore alle erbe
 - Bicchieri reagenti al freddo: mettili in freezer per scoprire l’effetto nascosto! Perfetto come idea regalo per ogni occasione.
+- Jägermeister si apprezza al meglio ghiacciato, ad una temperatura di -18°. Conservare la bottiglia in freezer, da vero Meister
+- Il modo migliore per gustare Jägermeister è nelliconico shot ghiacciato che accompagna le notti più belle della nostra vita
+- Jägermeister nasce da un blend di 56 ingredienti tra erbe, fiori, radici e frutta di altissima qualità, provenienti da tutte le parti del mondo ed elaborati in 4 differenti macerazioni per ottenere il celebre liquore alle erbe
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DLWZLMJK{{</world>}}

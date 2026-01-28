@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- LULTIMO CHE RIMANE VINCE: allinizio della partita i giocatori hanno 10 punti vita sul loro gettone. Gioca una carta che infligge danni a un altro giocatore e questo perderà dei punti vita. Se i suoi punti arrivano a zero, viene eliminato dal gioco
 - MODALITÀ DI GIOCO SEMPLICE E VELOCE: le partite di questo divertente gioco di carte dagli 8 anni in su durano meno di 10 minuti; scelta ideale per una serata giochi in famiglia! Sfidatevi interpretando ogni volta personaggi diversi con abilità diverse
+- USA I SUPER POTERI: ogni supereroe Marvel ha abilità, equipaggiamento e alleati unici che possono essere utilizzati durante il corso della partita per aiutarlo a vincere. Il gioco contiene 4 mazzi di carte, uno per ogni personaggio
 - PRONTI PER LA BATTAGLIA: preparati a una battaglia dei campioni tutti contro tutti con questo divertente gioco di carte da 2 a 4 giocatori! I giocatori usano le carte per infliggere danni agli avversari mentre evitano di subirne
 - GIOCA INTERPRETANDO UN SUPEREROE MARVEL: divertiti coi superpoteri in questo gioco di carte dal ritmo incalzante! Gioca nel ruolo di Iron Man, Captain Marvel, Scarlet o Black Panther in questa battaglia tra campioni
-- USA I SUPER POTERI: ogni supereroe Marvel ha abilità, equipaggiamento e alleati unici che possono essere utilizzati durante il corso della partita per aiutarlo a vincere. Il gioco contiene 4 mazzi di carte, uno per ogni personaggio
-- LULTIMO CHE RIMANE VINCE: allinizio della partita i giocatori hanno 10 punti vita sul loro gettone. Gioca una carta che infligge danni a un altro giocatore e questo perderà dei punti vita. Se i suoi punti arrivano a zero, viene eliminato dal gioco
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09MCZYJ2D{{</world>}}

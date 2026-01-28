@@ -28,9 +28,9 @@ average: '59.0'
 
 ℹ️:
 
-- UTILIZZI il giusto equilibrio tra estetica tradizionale e finiture eleganti rende i coltelli Iceforce adatti a tutte le cucine
-- ACCIAIO INOX TEDESCO la lama assicura unelevata resistenza e prestazioni di taglio di alto livello che si mantengono a lungo nel tempo
 - SET 5 COLTELLI ICEFORCE realizzato in acciaio inox tedesco, il set è composto da un ceppo in legno con 5 coltelli: Coltello da pane 20 cm, Coltello chef 20cm, Coltello Santoku 18 cm, Coltello Multiuso 11cm e Coltello Spelucchino 9cm
+- ACCIAIO INOX TEDESCO la lama assicura unelevata resistenza e prestazioni di taglio di alto livello che si mantengono a lungo nel tempo
+- UTILIZZI il giusto equilibrio tra estetica tradizionale e finiture eleganti rende i coltelli Iceforce adatti a tutte le cucine
 - LAGOSTINA COLTELLI ICEFORCE una collezione must-have di coltelli per tutte le tue esigenze in cucina, per tagliare a dadini, affettare e sminuzzare
 - TECNOLOGIA ICE FORCE set da 5 coltelli con lama raffreddata a -120 °C per restare sempre affilata e per mantenere prestazioni ottimali e durature
 

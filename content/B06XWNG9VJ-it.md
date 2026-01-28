@@ -28,10 +28,10 @@ average: '16.39'
 
 ℹ️:
 
-- DETTAGLI: presenta una robusta struttura a colletto aperto, una pattina centrale anteriore con chiusura sicura a bottone e un orlo classico da camicia.
-- CAMICIE PER TUTTI I GIORNI: con i classici dettagli da camicia, la camicia in popeline a maniche lunghe è il capo perfetto del guardaroba per tutto lanno. Indossala rimboccata per un look elegante o aperta per un look casual e sofisticato. Si abbina facilmente a jeans, pantaloni chino o pantaloncini.
-- POPELINE LAVATO: realizzato in popeline lavato leggero ma resistente, offre comfort e versatilità per ogni stagione.
 - VESTIBILITÀ REGOLARE: vestibilità confortevole e comoda su spalle, torace e vita.
+- DETTAGLI: presenta una robusta struttura a colletto aperto, una pattina centrale anteriore con chiusura sicura a bottone e un orlo classico da camicia.
+- POPELINE LAVATO: realizzato in popeline lavato leggero ma resistente, offre comfort e versatilità per ogni stagione.
+- CAMICIE PER TUTTI I GIORNI: con i classici dettagli da camicia, la camicia in popeline a maniche lunghe è il capo perfetto del guardaroba per tutto lanno. Indossala rimboccata per un look elegante o aperta per un look casual e sofisticato. Si abbina facilmente a jeans, pantaloni chino o pantaloncini.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B06XWNG9VJ{{</world>}}

@@ -28,11 +28,11 @@ average: '59.99'
 
 ℹ️:
 
-- Contenuto: 1x Columbia Konos TRS Scarpa Uomo, Taglia: 42 EU, Colore: Nero
-- Design dinamico con tomaia in mesh tecnico, sovrapposizioni senza cuciture e Navic Fit System che garantisce un bloccaggio naturale del piede centrale.
 - Scarpe da trekking da uomo Columbia Konos TRS ideali per lescursionismo, il trail running, i sentieri di montagna, i terreni accidentati e gli ambienti umidi
-- La suola Adapt Trax garantisce unaderenza superiore con una struttura impermeabile, traspirante e di lunga durata, caratterizzata da profonde scanalature di flessione per migliorare il movimento.
+- Contenuto: 1x Columbia Konos TRS Scarpa Uomo, Taglia: 42 EU, Colore: Nero
 - Sistema Omni-Max Plus con intersuola Techlite+ per lequilibrio e cupole di deflessione per un impatto ammortizzato
+- Design dinamico con tomaia in mesh tecnico, sovrapposizioni senza cuciture e Navic Fit System che garantisce un bloccaggio naturale del piede centrale.
+- La suola Adapt Trax garantisce unaderenza superiore con una struttura impermeabile, traspirante e di lunga durata, caratterizzata da profonde scanalature di flessione per migliorare il movimento.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CLWH2219{{</world>}}

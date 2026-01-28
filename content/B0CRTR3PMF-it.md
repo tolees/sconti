@@ -28,11 +28,11 @@ average: '25.99'
 
 ℹ️:
 
-- Custodia di ricarica e supporto per telefono 2-in-1: guarda i tuoi video senza mani e senza problemi. Basta aprire il pannello posteriore della custodia e posizionare il telefono sul supporto per seguire i tuoi programmi preferiti: accedere allo schermo mentre si viaggia non è mai stato così semplice!
-- Lunga durata: 10 ore di ascolto con una sola ricarica, e fino a 45 ore con la custodia di ricarica. Quando sei di fretta, una ricarica rapida di 10 minuti offre 2 ore di riproduzione.
-- Cancellazione del rumore potente e intelligente: riduce il rumore fino a 42 dB grazie ad un avanzato sistema di cancellazione attiva del rumore. Grazie alla tecnologia adattiva, soundcore P30i rileva i suoni esterni e seleziona automaticamente un livello di cancellazione del rumore adatto a ciò che ti circonda.
-- Modalità trasparenza: lasciati trasportare da ciò che ti circonda o concentrati sulla tua musica, come preferisci. Seleziona la modalità trasparenza per ascoltare ciò che avviene intorno a te, quando vuoi.
 - Bassi potenti: i driver da 10 mm degli auricolari a cancellazione del rumore soundcore P30i, amplificati dallesclusiva tecnologia BassUp, ti offrono bassi profondi e incisivi per unesperienza di ascolto coinvolgente.
+- Custodia di ricarica e supporto per telefono 2-in-1: guarda i tuoi video senza mani e senza problemi. Basta aprire il pannello posteriore della custodia e posizionare il telefono sul supporto per seguire i tuoi programmi preferiti: accedere allo schermo mentre si viaggia non è mai stato così semplice!
+- Modalità trasparenza: lasciati trasportare da ciò che ti circonda o concentrati sulla tua musica, come preferisci. Seleziona la modalità trasparenza per ascoltare ciò che avviene intorno a te, quando vuoi.
+- Cancellazione del rumore potente e intelligente: riduce il rumore fino a 42 dB grazie ad un avanzato sistema di cancellazione attiva del rumore. Grazie alla tecnologia adattiva, soundcore P30i rileva i suoni esterni e seleziona automaticamente un livello di cancellazione del rumore adatto a ciò che ti circonda.
+- Lunga durata: 10 ore di ascolto con una sola ricarica, e fino a 45 ore con la custodia di ricarica. Quando sei di fretta, una ricarica rapida di 10 minuti offre 2 ore di riproduzione.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CRTR3PMF{{</world>}}

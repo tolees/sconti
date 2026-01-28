@@ -28,8 +28,8 @@ average: '5.08583333333334'
 
 ℹ️:
 
-- Con certificato FSC.
 - Set di 8 divisori in cartone da mettere negli schedari e aiutare a mantenere tutte le carte ben classificate.
+- Con certificato FSC.
 - Messaggi dai segnalibri: Oggi potrebbe essere un grande giorno // Sei molto, molto vicino a farcela // Facciamo qualcosa di grande! // Tutto inizia con una grande idea // Aggiungere gioia a ogni giorno // Realizzare sfide e tanti sogni // Passo dopo passo, riuscirò ciò che non è scritto! // Sempre pieno di sogni, sfide e bei momenti
 - Include un foglio di adesivi per identificare i soggetti.
 - Ognuno di loro ha una frase motivazionale divertente e un design diverso.

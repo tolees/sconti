@@ -28,16 +28,16 @@ average: '15.3'
 
 ℹ️:
 
-- Dimensione (L x H x P): 26.5 x 14 x 11
-- Spia di funzionamento, super vapore, regolazione vapore, funzione spray
 - Volume di vapore: 10-20 g/min - Colpo vapore: 90g/min
-- Alimentazione: AC 220-240V ~ 50/60Hz
 - Capacità: 230cc; serbatoio in materiale trasparente per vedere il livello acqua
 - Stiratura: a secco e a vapore
-- Ampia base dappoggio con antiscivolo per maggiore stabilità
-- Piastra in ceramica con asola salvabottoni
-- Termostato per controllo temperatura di stiro
+- Spia di funzionamento, super vapore, regolazione vapore, funzione spray
+- Dimensione (L x H x P): 26.5 x 14 x 11
+- Alimentazione: AC 220-240V ~ 50/60Hz
 - Emissione di vapore anche in verticale
+- Termostato per controllo temperatura di stiro
+- Piastra in ceramica con asola salvabottoni
+- Ampia base dappoggio con antiscivolo per maggiore stabilità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07K7N1PMP{{</world>}}

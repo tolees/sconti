@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- LA MOLISANA: dal 1912 azienda 100% Italiana leader nella produzione di pasta con solo grando italiano da filiera integrata, semole di alta qualità e tenacità certificata
-- PACK ECOSOSTENIBILE: i pack, riciclabili nella carta, sono composti da materiale che proviene da foreste ben gestite, foreste certificate FSC e da altre fonti controllate
-- PASTA CLASSICA LA MOLISANA: gamma di pasta genuina e digeribile che nasce da solo grano italiano decorticato a pietra; La trafilatura al bronzo rende la pasta ruvida e tenace, in grado di catturare perfettamente i condimenti
-- MEZZE MANICHE N.38: formato di pasta corta, caratterizzato da una rigatura leggermente più larga che dilata la superficie e fa spazio al condimento - Confezione da 500 g
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
 - COTTURA: 12 minuti di cottura - Pasta con eccellente tenuta in cottura che non scuoce mai grazie alla trafilatura al bronzo e ad un indice proteico superiore al 14%
+- PACK ECOSOSTENIBILE: i pack, riciclabili nella carta, sono composti da materiale che proviene da foreste ben gestite, foreste certificate FSC e da altre fonti controllate
+- MEZZE MANICHE N.38: formato di pasta corta, caratterizzato da una rigatura leggermente più larga che dilata la superficie e fa spazio al condimento - Confezione da 500 g
+- PASTA CLASSICA LA MOLISANA: gamma di pasta genuina e digeribile che nasce da solo grano italiano decorticato a pietra; La trafilatura al bronzo rende la pasta ruvida e tenace, in grado di catturare perfettamente i condimenti
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
+- LA MOLISANA: dal 1912 azienda 100% Italiana leader nella produzione di pasta con solo grando italiano da filiera integrata, semole di alta qualità e tenacità certificata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DJNS48K4{{</world>}}

@@ -28,12 +28,12 @@ average: '16.87'
 
 ℹ️:
 
-- Ace Detersivo Igienizzante nella ed iconica fragranza Talco e Muschio Bianco è realizzata da grandi maestri profumieri
-- Freschezza morbida e raffinata che avvolgerà i tuoi capi a lungo
-- Per le macchie difficili pretratta per 10/15 minuti
-- Per il lavaggio a mano, versa 40 ml di Ace Detersivo Igienizzante in 10 litri di acqua
-- Rispetta i tuoi capi e dona un gradevole profumo di pulito
 - Per il lavaggio in lavatrice, in caso di sporco normale in acqua dolce-media, utilizza 50 ml di Ace Detersivo Igienizzante (in caso di acqua dura o di sporco ostinato utilizza 75 ml)
+- Ace Detersivo Igienizzante nella ed iconica fragranza Talco e Muschio Bianco è realizzata da grandi maestri profumieri
+- Per le macchie difficili pretratta per 10/15 minuti
+- Freschezza morbida e raffinata che avvolgerà i tuoi capi a lungo
+- Rispetta i tuoi capi e dona un gradevole profumo di pulito
+- Per il lavaggio a mano, versa 40 ml di Ace Detersivo Igienizzante in 10 litri di acqua
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CBBT27VY{{</world>}}

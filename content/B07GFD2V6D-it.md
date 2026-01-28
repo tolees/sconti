@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 💡[Facile installazione]: basta aprire il coperchio, utilizzare le viti per fissare il corpo della lampada in cucina, oppure utilizzare nastro biadesivo per fissare il corpo della lampada nellarmadietto, tutti gli accessori sono inclusi per una facile installazione.
-- 💡[Design delicato]: il corpo leggero in alluminio ha uno spessore di soli 8 mm, indice di resa del colore:>80, angolo di luce: 120°.
-- 💡 [Materiale della luce dellarmadio]: la raffinata led per armadio è realizzata in lega di alluminio, non arrugginisce facilmente, resistente alla corrosione, 60 * 8 mm, DC12V, potenza di 2 watt per lampada, ciascuna lampada con cavo da 2 metri.
 - 💡 [Luce per armadio a luce bianco freddo]: La luci led per armadio è una luce bianco freddo 6000K, dotata di 2 chip MD2835, molto luminosa e uniforme, con buona trasparenza. Ogni lampada illumina fino a 190 lumen, per un totale di 760 lumen, non abbagliante, a basso consumo energetico e senza sfarfallio.
+- 💡[Design delicato]: il corpo leggero in alluminio ha uno spessore di soli 8 mm, indice di resa del colore:>80, angolo di luce: 120°.
 - 💡 [Ampia applicazione]: Questo tipo di luce incassata per armadi può essere utilizzata come luce decorativa per armadi da cucina, piani di lavoro e vetrine o come luce da scaffale, ideale per credenze, vetrine, banconi cucina, cantinette vino, guardaroba, scale, corridoi, ecc.
+- 💡 [Materiale della luce dellarmadio]: la raffinata led per armadio è realizzata in lega di alluminio, non arrugginisce facilmente, resistente alla corrosione, 60 * 8 mm, DC12V, potenza di 2 watt per lampada, ciascuna lampada con cavo da 2 metri.
+- 💡[Facile installazione]: basta aprire il coperchio, utilizzare le viti per fissare il corpo della lampada in cucina, oppure utilizzare nastro biadesivo per fissare il corpo della lampada nellarmadietto, tutti gli accessori sono inclusi per una facile installazione.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07GFD2V6D{{</world>}}

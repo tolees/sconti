@@ -30,10 +30,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Prodotto e confezionato nello stabilimento di Via Cravero, 17/2A - 10088 Volpiano (TO). Distribuito da F&F S.r.l. Via degli Olmetti, 34 00060 (ROMA).
 - Integratore alimentare liquido con estratto di lumaca, estratti vegetali e oli essenziali. Misurino graduato incluso.
-- INFORMAZIONI NUTRIZIONALI: CONTENUTI MEDI PER DOSE GIORNALIERA (20 ml) Estratto di Lumaca 1,2 g Timo estratto idroglicerico 600 mg Malva estratto idroglicerico 100 mg Eucalipto olio essenziale 20 mg Menta olio essenziale 7 mg
 - MODO D’USO: Agitare bene prima delluso, si consiglia lassunzione di 5 ml (1 cucchiaino circa) tre-quattro volte al giorno, puro o diluito in tisane, succhi, latte o altre bevande. La presenza di eventuali precipitati, non è indice di deterioramento ma di naturalità del prodotto.
-- MODALITA DI CONSERVAZIONE: Conservare in luogo fresco e asciutto , al riparo dalla luce diretta. Una volta aperto conservare il flacone, ben chiuso, in frigorifero e consumare entro 30 giorni. La data di fine validità si riferisce al prodotto in confezione integra e correttamente conservato.
+- INFORMAZIONI NUTRIZIONALI: CONTENUTI MEDI PER DOSE GIORNALIERA (20 ml) Estratto di Lumaca 1,2 g Timo estratto idroglicerico 600 mg Malva estratto idroglicerico 100 mg Eucalipto olio essenziale 20 mg Menta olio essenziale 7 mg
 - Formato: 150 ml
+- MODALITA DI CONSERVAZIONE: Conservare in luogo fresco e asciutto , al riparo dalla luce diretta. Una volta aperto conservare il flacone, ben chiuso, in frigorifero e consumare entro 30 giorni. La data di fine validità si riferisce al prodotto in confezione integra e correttamente conservato.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08LB5V4K4{{</world>}}

@@ -28,11 +28,11 @@ average: '22.28'
 
 ℹ️:
 
-- SONAX PASSIONE PER LE AUTOMOBILI – made in Germany - Protezione e cura la tua auto
-- Fornitura: 1x SONAX 02103000 PROFILINE Plastic Protectant Exterior (1 Litro)
-- Gel senza silicone estremamente efficace per il trattamento di parti in plastica non verniciate quali paraurti, coprimozzo, maniglie delle porte ecc..
-- Per una profonda brillantezza e un intenso ripristino del colore
 - Le superfici vengono sigillate e viene creata una protezione eccellente e duratura contro gli influssi ambientali
+- Fornitura: 1x SONAX 02103000 PROFILINE Plastic Protectant Exterior (1 Litro)
+- Per una profonda brillantezza e un intenso ripristino del colore
+- SONAX PASSIONE PER LE AUTOMOBILI – made in Germany - Protezione e cura la tua auto
+- Gel senza silicone estremamente efficace per il trattamento di parti in plastica non verniciate quali paraurti, coprimozzo, maniglie delle porte ecc..
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B001CZKBVA{{</world>}}

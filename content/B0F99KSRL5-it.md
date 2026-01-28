@@ -28,11 +28,11 @@ average: '129.99'
 
 ℹ️:
 
-- UN SOLO DISPOSITIVO, MOLTEPLICI FUNZIONI: frigge, arrostisce, tiene in caldo e rende croccanti i cibi. Servi direttamente dal contenitore e usa il coperchio incluso per conservare gli avanzi. Friggi ad aria con poco olio o senza, riscalda gli avanzi
 - SUPERFICIE DI COTTURA IN VETRO: Cucina senza PFAS*. Contenitori di vetro resistenti agli shock termici. Lavabili in lavastoviglie per una pulizia facile. *(Piastre per frittura anti-aderenti in ceramica)
 - CUCINA CON POCO OLIO O SENZA OLIO AGGIUNTO: Fino al 75% di grassi in meno* con la funzione Air Fry per la frittura ad aria (*Test eseguito con patatine tagliate a mano e fritte in modo tradizionale, in abbondante olio)
-- INCLUSO NELLA CONFEZIONE: base dispositivo da 1700W con spina EU, 2 contenitori in vetro lavabili in lavastoviglie (da 1,4 l e 3,8 l), 2 piastre per frittura antiaderenti, 2 coperchi per la conservazione. A: 34,5cm L: 30,4cm P: 34cm. Colore: pietra
 - DESIGN PORTATILE: La potenza di una friggitrice ad aria di dimensioni standard, ora in un sistema portatile. Cuoci su qualsiasi piano di lavoro, ovunque sia possibile collegarsi alla rete elettrica. Ideale per cucine piccole e alloggi per studenti
+- UN SOLO DISPOSITIVO, MOLTEPLICI FUNZIONI: frigge, arrostisce, tiene in caldo e rende croccanti i cibi. Servi direttamente dal contenitore e usa il coperchio incluso per conservare gli avanzi. Friggi ad aria con poco olio o senza, riscalda gli avanzi
+- INCLUSO NELLA CONFEZIONE: base dispositivo da 1700W con spina EU, 2 contenitori in vetro lavabili in lavastoviglie (da 1,4 l e 3,8 l), 2 piastre per frittura antiaderenti, 2 coperchi per la conservazione. A: 34,5cm L: 30,4cm P: 34cm. Colore: pietra
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F99KSRL5{{</world>}}

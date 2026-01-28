@@ -28,11 +28,11 @@ average: '39.99'
 
 ℹ️:
 
-- MODALITÀ TRASPARENZA: lasciati trasportare da ciò che ti circonda o concentrati sulla tua musica, come preferisci. Seleziona la modalità trasparenza per ascoltare ciò che avviene intorno a te, quando vuoi.
-- LUNGA DURATA: 10 ore di ascolto con una sola ricarica, e fino a 45 ore con la custodia di ricarica. Quando sei di fretta, una ricarica rapida di 10 minuti offre 2 ore di riproduzione.
 - CANCELLAZIONE DEL RUMORE POTENTE E INTELLIGENTE: riduce il rumore fino a 42 dB grazie ad un avanzato sistema di cancellazione attiva del rumore. Grazie alla tecnologia adattiva, soundcore P30i rileva i suoni esterni e seleziona automaticamente un livello di cancellazione del rumore adatto a ciò che ti circonda.
-- BASSI POTENTI: i driver da 10 mm degli auricolari a cancellazione del rumore soundcore P30i, amplificati dallesclusiva tecnologia BassUp, ti offrono bassi profondi e incisivi per unesperienza di ascolto coinvolgente.
 - CUSTODIA DI RICARICA E SUPPORTO PER TELEFONO 2-IN-1: guarda i tuoi video senza mani e senza problemi. Basta aprire il pannello posteriore della custodia e posizionare il telefono sul supporto per seguire i tuoi programmi preferiti: accedere allo schermo mentre si viaggia non è mai stato così semplice!
+- BASSI POTENTI: i driver da 10 mm degli auricolari a cancellazione del rumore soundcore P30i, amplificati dallesclusiva tecnologia BassUp, ti offrono bassi profondi e incisivi per unesperienza di ascolto coinvolgente.
+- LUNGA DURATA: 10 ore di ascolto con una sola ricarica, e fino a 45 ore con la custodia di ricarica. Quando sei di fretta, una ricarica rapida di 10 minuti offre 2 ore di riproduzione.
+- MODALITÀ TRASPARENZA: lasciati trasportare da ciò che ti circonda o concentrati sulla tua musica, come preferisci. Seleziona la modalità trasparenza per ascoltare ciò che avviene intorno a te, quando vuoi.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CRTYZG5C{{</world>}}

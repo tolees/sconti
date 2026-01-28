@@ -28,10 +28,10 @@ average: '145.96'
 
 ℹ️:
 
-- La funzione EasySelect con rotella di selezione consente la regolazione intuitiva del flusso di vernice e l’impostazione continua del volume d’aria, facilitando il lavoro
-- La forma ergonomica del serbatoio assicura una ricarica rapida e una pulizia semplice
 - Dotazione: 1 AdvancedSpray 18V-500, 1 spazzola per la pulizia, 1 recipiente graduato, 1 calotta dell’aria per verniciatura di precisione, 1 contenitore supplementare per la vernice, 1 coperchio per il contenitore della vernice, 1 scatola di cartone
+- La funzione EasySelect con rotella di selezione consente la regolazione intuitiva del flusso di vernice e l’impostazione continua del volume d’aria, facilitando il lavoro
 - Le due calotte dell’aria sono ottimizzate per le diverse prestazioni di spruzzatura: una per una verniciatura precisa e l’altra per un rapido avanzamento del lavoro
+- La forma ergonomica del serbatoio assicura una ricarica rapida e una pulizia semplice
 - Il potente motore brushless dalla lunga autonomia consente di spruzzare tutti i tipi di vernice: smalto, lacca, pittura murale per interni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

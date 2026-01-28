@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- FUNZIONI AI DI ULTIMA GENERAZIONE - Che sia generare testi, prendere appunti, creare un riassunto o eliminare oggetti da una foto, Xiaomi 15 grazie a Xiaomi HyperAI, Powered by Xiaomi HyperOS 2, ti supporta in tutti i momenti del quotidiano.
 - DISPLAY FLUIDO E IMMERSIVO - Disegnato e realizzato per unesperienza visiva superiore, Xiaomi 15 ha una struttura in alluminio micro-curva per unestetica elegante e uneccellente sensazione in mano ultra luminoso fino a 3.200 nits, talmente luminiso che puoi vederlo anche sotto il sole.
-- LENTI LEICA - Xiaomi 15 lenti Leica Summilux. Sensore Light Fusion 900 con fotocamera principale a tripla lunghezza focale. Teleobiettivo flottante Leica da 60mm.
-- ANCORA PIÙ AUTONOMIA - Batteria da 5.410mAh (typ)con chip Xiaomi Surge ad ultra densità, per unautonomia senza precedenti. Ricarica ultras veloce Xiaomi HyperCharge da 90W e wireless HyperCharge da 50W.
 - PRESTAZIONI INIMMAGINABILI - Snapdragon 8 Elite Mobile Platform con processore da 3nm, offre performance sopra a tutti consumando meno energia della generazione precedente.
+- ANCORA PIÙ AUTONOMIA - Batteria da 5.410mAh (typ)con chip Xiaomi Surge ad ultra densità, per unautonomia senza precedenti. Ricarica ultras veloce Xiaomi HyperCharge da 90W e wireless HyperCharge da 50W.
+- FUNZIONI AI DI ULTIMA GENERAZIONE - Che sia generare testi, prendere appunti, creare un riassunto o eliminare oggetti da una foto, Xiaomi 15 grazie a Xiaomi HyperAI, Powered by Xiaomi HyperOS 2, ti supporta in tutti i momenti del quotidiano.
+- LENTI LEICA - Xiaomi 15 lenti Leica Summilux. Sensore Light Fusion 900 con fotocamera principale a tripla lunghezza focale. Teleobiettivo flottante Leica da 60mm.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DP7QBQD6{{</world>}}

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Schienale: Rivestito in tessuto e imbottito; Spallacci: Preformati rivestiti in tessuto. Sotto spallaccio in rete.
 - Zaino monoscomparto con fondo rinforzato. Cinghia a vita e nastro torace regolabili e amovibili. Nastro per alloggiamento asta trolley. Inserti e logo Invicta riflettenti. Zip con finitura idrorepellente. Tirazip in metallo con sistema di sicurezza. Porta USB. Maniglia superiore imbottita.
 - Tasche: Scomparto porta laptop con accesso indipendente fino a 15.6 (fino a 38x26x2 cm). Tasche laterali esterne porta borraccia. Tasca porta tablet, smartphone e occhiali. Tasche porta documenti, taschino con gancio portachiavi, tasca per powerbank. Tasca frontale con zip. Tasche interne rivestite in tessuto antigraffio ed imbottite.
+- Schienale: Rivestito in tessuto e imbottito; Spallacci: Preformati rivestiti in tessuto. Sotto spallaccio in rete.
 - Dimensioni: 30 x 44 x 17 cm Capacità: 20 lt
 - Tessuto: 100% Poliestere riciclato, certificato "GRS"
 

@@ -28,12 +28,12 @@ average: '17.36'
 
 ℹ️:
 
-- Senza tensioattivi, il doppio strato di siero e olio idrata la pelle lasciando una sensazione di freschezza. Agitare bene il siero e lolio prima delluso.
-- Strato di Siero: Estratto di tartufo bianco italiano, niacinamide ed estratto di semi di chia per lenire la pelle e favorirne lelasticità.
+- Certificato vegano dopo meticolosi test da parte del marchio italiano V-label, dermatologicamente testato e ipoallergenico - offre unesperienza vegana lussuosa che gli artisti del trucco e le celebrità adorano.
 - *Profumato - Floreale Agrumato
 - Tartufi bianchi pregiati, accuratamente estratti dal Piemonte, Italia, e infusi con Tocoferolo (vitamina E) creano lingrediente distintivo Trufferol di dAlba, ricco di antiossidanti.
+- Strato di Siero: Estratto di tartufo bianco italiano, niacinamide ed estratto di semi di chia per lenire la pelle e favorirne lelasticità.
 - Un bestseller globale da 30M con oltre 100.000 recensioni sul sito web ufficiale di dAlba.
-- Certificato vegano dopo meticolosi test da parte del marchio italiano V-label, dermatologicamente testato e ipoallergenico - offre unesperienza vegana lussuosa che gli artisti del trucco e le celebrità adorano.
+- Senza tensioattivi, il doppio strato di siero e olio idrata la pelle lasciando una sensazione di freschezza. Agitare bene il siero e lolio prima delluso.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BFQ9RD5B{{</world>}}

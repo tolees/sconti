@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- I puzzle aiutano a migliorare e sviluppare una moltitudine di capacità e abilità: migliorano la concentrazione, losservazione, la memoria e la risoluzione dei problemi; sviluppano percezione spaziale, psicomotricità fine e coordinazione occhio-mano.
 - Consigliato per bambini dai 5 ai 6 anni, anche se letà è molto relativa in termini di puzzle.
-- Puzzle per bambini di animali minacciati, modello Savana, per identificare le specie a rischio di estinzione e per aumentare la consapevolezza nei più piccoli circa limportanza di prendersi cura dellecosistema. Una volta costruito il puzzle, i bambini impareranno a conoscere il mondo marino.
 - Include 200 pezzi di dimensioni 6 x 3 cm e 2 schede con informazioni sulle specie minacciate e le ragioni della loro situazione in 16 lingue diverse. Dimensioni del puzzle montato: 100 x 30 cm.
+- Puzzle per bambini di animali minacciati, modello Savana, per identificare le specie a rischio di estinzione e per aumentare la consapevolezza nei più piccoli circa limportanza di prendersi cura dellecosistema. Una volta costruito il puzzle, i bambini impareranno a conoscere il mondo marino.
+- I puzzle aiutano a migliorare e sviluppare una moltitudine di capacità e abilità: migliorano la concentrazione, losservazione, la memoria e la risoluzione dei problemi; sviluppano percezione spaziale, psicomotricità fine e coordinazione occhio-mano.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DB1Y4JRT{{</world>}}

@@ -28,11 +28,11 @@ average: '15.99'
 
 ℹ️:
 
-- MISCELA FANTASTICA DI OLI: Infuso con una miscela di oli di Jojoba, Cocco e Noci di Macadamia australiane, questo balsamo idrata, rinfresca e dona ai tuoi ricci una naturale elasticità
-- IL METODO AUSSIE: Dopo aver lavato con lo Shampoo Aussie Bouncy Curls, applica una buona quantità di balsamo sui capelli bagnati; massaggia bene, poi risciacqua come una professionista; ta-dah, ricci favolosi!
-- BOOST DIDRATAZIONE QUOTIDIANO PER I TUOI RICCI: Balsamo Aussie leggero e idratante per capelli mossi e ricci, per unidratazione quotidiana senza appesantire
-- CRUELTY-FREE E VEGANO: Aussie è riconosciuto da PETA come un marchio cruelty-free contro i test sugli animali—e indovina un po? Questo balsamo è anche vegano! Dai il benvenuto a capelli nutriti!
 - ICONICHE FRAGRANZE AUSSIE: Profumi deliziosi, lussureggianti ed esotici con note di frutto della passione, arancia e latte di cocco, per capelli che profumano di divino
+- BOOST DIDRATAZIONE QUOTIDIANO PER I TUOI RICCI: Balsamo Aussie leggero e idratante per capelli mossi e ricci, per unidratazione quotidiana senza appesantire
+- MISCELA FANTASTICA DI OLI: Infuso con una miscela di oli di Jojoba, Cocco e Noci di Macadamia australiane, questo balsamo idrata, rinfresca e dona ai tuoi ricci una naturale elasticità
+- CRUELTY-FREE E VEGANO: Aussie è riconosciuto da PETA come un marchio cruelty-free contro i test sugli animali—e indovina un po? Questo balsamo è anche vegano! Dai il benvenuto a capelli nutriti!
+- IL METODO AUSSIE: Dopo aver lavato con lo Shampoo Aussie Bouncy Curls, applica una buona quantità di balsamo sui capelli bagnati; massaggia bene, poi risciacqua come una professionista; ta-dah, ricci favolosi!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FB9MSBYT{{</world>}}

@@ -28,11 +28,11 @@ average: '9.26'
 
 ℹ️:
 
-- ✅ ALLEVIA LA FATICA: Leffetto sollievo, tonificante e benefico dellarnica e noto sia dallantichità, qui abbina al piacevole effetto "fresco" del mentolo che allevia laffaticamento
+- ✅ MASSAGGIO SPORTIVO E DEFATICANTE: Gel massaggi cute del corpo (mani piedi caviglie polso ginocchio spalla cervicale schiena). Applicare il gel arnica rapido 2 volte al giorno, applicare con massaggio fino al completo assorbimento. A differenza dellolio per massaggio il gel massaggi non unge, non macchia, facile da applicare e rapido assorbimento. Dona freschezza e sollievo
 - ✅ INGREDIENTI DI ALTA QUALITÀ: Le infiorescenze dellArnica Montana contengono una ricca miscela di principi attivi che conferisce proprietà benefiche. Il Rosmarino ha azione stimolante e fortificante dovuta ai principi attivi del suo olio essenziale ricco di costituenti chimici. Il Mentolo aiuta a rilassare e alleviare la tensione, utilizzato anche come decongestionante e ha proprietà rinfrescanti. La Canfora produce una sensazione di raffreddamento e funge da leggero freddo locale
+- ✅ ALLEVIA LA FATICA: Leffetto sollievo, tonificante e benefico dellarnica e noto sia dallantichità, qui abbina al piacevole effetto "fresco" del mentolo che allevia laffaticamento
 - ✅ PROFESSIONALITÀ E SICUREZZA: Oltre 40 anni fa, dalla passione per le terapie naturali del Dr. Peter Theiss, farmacista ricercatore tedesco, nasce Naturwaren, azienda capace di realizzare prodotti di alta qualità a prezzi competitivi, secondo natura e salute
 - ✅ NATURA E SALUTE: Le preparazioni a base di arnica per uso locale esterno sulla pelle, sono state da tempo approvate dalle autorità tedesche: nel 1984, la Commissione tedesca ha pubblicato una monografia, nella quale si afferma che i preparati a base di fiori di arnica, sono benefici. Non è arnica per cavalli, ma nasce per esclusivo uso umano
-- ✅ MASSAGGIO SPORTIVO E DEFATICANTE: Gel massaggi cute del corpo (mani piedi caviglie polso ginocchio spalla cervicale schiena). Applicare il gel arnica rapido 2 volte al giorno, applicare con massaggio fino al completo assorbimento. A differenza dellolio per massaggio il gel massaggi non unge, non macchia, facile da applicare e rapido assorbimento. Dona freschezza e sollievo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0168SF5IE{{</world>}}

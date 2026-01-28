@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Con acido ialuronico reticolato che conferisce unidratazione profonda e duratura.
-- Con Syn-Hycan, tripeptide di ultima generazione che stimola la formazione di collagene ed elastina, ridefinendo lovale del viso
 - ISDINCEUTICS A.G.E. Reverse Day trattamento antiage con tripla azione: anti-inquinamento, rimodellante e anti-glicazione. Combatte linvecchiamento del viso e le rughe.
+- Con Syn-Hycan, tripeptide di ultima generazione che stimola la formazione di collagene ed elastina, ridefinendo lovale del viso
 - Con Carnosina che riduce il processo di glicazione delle proteine e restituisce alla pelle la sua naturale tonicità ed elasticità. Combatte linvecchiamento cutaneo e la formazione di rughe.
+- Con acido ialuronico reticolato che conferisce unidratazione profonda e duratura.
 - Con EXO-P: crea uno film protettivo anti-inquinamento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

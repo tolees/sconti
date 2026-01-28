@@ -29,9 +29,9 @@ average: '286.6'
 ℹ️:
 
 - Marca: HP
+- HP 250 G9 Computer portatile 39,6 cm (15.6") 1366 x 768 Pixel Intel N4500 8 GB DDR4-SDRAM 256 GB SSD Wi-Fi Windows 11 Pro
 - Tipo di prodotto: NOTEBOOK_COMPUTER
 - Colore: Nero
-- HP 250 G9 Computer portatile 39,6 cm (15.6") 1366 x 768 Pixel Intel N4500 8 GB DDR4-SDRAM 256 GB SSD Wi-Fi Windows 11 Pro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08T9V1FG9{{</world>}}

@@ -28,12 +28,12 @@ average: '141.193333333333'
 
 ℹ️:
 
-- Un regalo per gli appassionati di macchine LEGO Technic: questo set è un’ottima idea regalo di compleanno per bambini e bambine fan dei modellini di auto telecomandati, e per gli appassionati di costruzioni e di Lamborghini LEGO Technic
-- Macchina giocattolo Lamborghini telecomandata: il set contiene l’app CONTROL+ con cui i piccoli possono azionare lo sterzo, controllare le luci e visualizzare dati di guida in tempo reale, mentre perfezionano la loro tecnica di guida del veicolo LEGO
-- Un divertente modo di costruire: l’app LEGO Builder guida i piccoli in un’avventura di costruzione intuitiva, grazie a strumenti per tenere traccia dei progressi e per ingrandisci e ruota i modelli 3D durante la costruzione
-- Gioco STEM per bambini e bambine da 10 anni in su: questo set di costruzioni, la Super Sports Car Lamborghini Revuelto LEGO Technic telecomandata, offre ai piccoli piloti un entusiasmante progetto di costruzione di unauto da corsa RC in mattoncini
-- Modellino di auto sportiva con caratteristiche divertenti: lascia che i giovani prendano dimestichezza con il veicolo giocattolo guidando avanti e indietro, sterzando e controllando le luci dotate di elementi che si illuminano al buio
 - Macchina LEGO con batteria ricaricabile: il set include una batteria giocattolo ricaricabile (utilizza un cavo USB-C, non incluso) per alimentare l’auto LEGO Technic
+- Un regalo per gli appassionati di macchine LEGO Technic: questo set è un’ottima idea regalo di compleanno per bambini e bambine fan dei modellini di auto telecomandati, e per gli appassionati di costruzioni e di Lamborghini LEGO Technic
+- Un divertente modo di costruire: l’app LEGO Builder guida i piccoli in un’avventura di costruzione intuitiva, grazie a strumenti per tenere traccia dei progressi e per ingrandisci e ruota i modelli 3D durante la costruzione
+- Modellino di auto sportiva con caratteristiche divertenti: lascia che i giovani prendano dimestichezza con il veicolo giocattolo guidando avanti e indietro, sterzando e controllando le luci dotate di elementi che si illuminano al buio
+- Macchina giocattolo Lamborghini telecomandata: il set contiene l’app CONTROL+ con cui i piccoli possono azionare lo sterzo, controllare le luci e visualizzare dati di guida in tempo reale, mentre perfezionano la loro tecnica di guida del veicolo LEGO
+- Gioco STEM per bambini e bambine da 10 anni in su: questo set di costruzioni, la Super Sports Car Lamborghini Revuelto LEGO Technic telecomandata, offre ai piccoli piloti un entusiasmante progetto di costruzione di unauto da corsa RC in mattoncini
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DWDTRG1P{{</world>}}

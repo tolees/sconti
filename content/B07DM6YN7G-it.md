@@ -28,10 +28,10 @@ average: '13.5133333333333'
 
 ℹ️:
 
-- Scegli di giocare nei panni di Leon o di Claire, e vivi la storia attraverso gli occhi di entrambi i personaggi
-- Straordinarie immagini fotorealistiche in 4K grazie al motore proprietario RE
-- Una prospettiva completamente nuova in terza persona e sistema di controllo aggiornato
 - Basato sulla versione originale del 1998, RE2 è stato ridisegnato da zero offrendo unesperienza narrativa molto più profonda
+- Straordinarie immagini fotorealistiche in 4K grazie al motore proprietario RE
+- Scegli di giocare nei panni di Leon o di Claire, e vivi la storia attraverso gli occhi di entrambi i personaggi
+- Una prospettiva completamente nuova in terza persona e sistema di controllo aggiornato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07DM6YN7G{{</world>}}

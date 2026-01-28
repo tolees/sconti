@@ -29,10 +29,10 @@ average: '13.2675'
 ℹ️:
 
 - UVAGGIO: Glera
-- BOUQUET: Inconfondibile profumo fruttato con sentori di mela selvatica, Golden, di fiori dacacia e di miele.
-- GRADAZIONE: 11 Vol%
 - ZONA DI PRODUZIONE: Valdobbiadene
+- BOUQUET: Inconfondibile profumo fruttato con sentori di mela selvatica, Golden, di fiori dacacia e di miele.
 - COLORE: Giallo paglierino chiaro con riflessi dorati. Perlage a grana finissima e persistente.
+- GRADAZIONE: 11 Vol%
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09DZGM8F5{{</world>}}

@@ -28,11 +28,11 @@ average: '16.6466666666667'
 
 ℹ️:
 
-- X FRESCHEZZA PIU DURATURA* *rispetto a Lenor Sensitive
-- PROFUMO RILASSANTE
+- DERMATOLOGICAMENTE TESTATO con test eseguito sulla pelle a contatto con tessuti lavati
 - TECNOLOGIA OLII PROFUMATI
 - STIRATURA FACILE
-- DERMATOLOGICAMENTE TESTATO con test eseguito sulla pelle a contatto con tessuti lavati
+- X FRESCHEZZA PIU DURATURA* *rispetto a Lenor Sensitive
+- PROFUMO RILASSANTE
 - PERFETTO INSIEME A LENOR PROFUMATORE: provalo con le perle profumate Lenor della stessa linea, per una freschezza e una morbidezza irresistibili
 - EFFICACE ANCHE A FREDDO E IN CICLI BREVI: Lammorbidente Lenor offre una freschezza duratura anche dopo cicli brevi e a freddo
 

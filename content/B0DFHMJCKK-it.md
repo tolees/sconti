@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Prepara oltre 100 ricette diverse da tutto il mondo, dai fragranti involtini popiah alla ricca marmellata kaya, dal pollo croccante a doppia frittura con limone, ai dolci ricolmi di frutti di bosco.
 - Metti fuori combattimento mostri e rivali con i poteri Salato, Aspro, Dolce, Amaro, Umami, Ghiacciato e Tostato che scatenano fiamme, veleno, catene di fulmini e altri fantastici effetti.
-- Esplora le Rovine Verdi, il Fiordo Ghiacciato, le Paludi di Konpeito e altri biomi generati proceduralmente che cambiano dimensioni, forma e risorse ogni volta che li visiti.
 - Da Naicha, la venditrice di Bubble Tea, ad Alder, il grande e amichevole fabbro, Paell è piena di cittadini dolci e speziati con cui fare amicizia.
+- Prepara oltre 100 ricette diverse da tutto il mondo, dai fragranti involtini popiah alla ricca marmellata kaya, dal pollo croccante a doppia frittura con limone, ai dolci ricolmi di frutti di bosco.
+- Esplora le Rovine Verdi, il Fiordo Ghiacciato, le Paludi di Konpeito e altri biomi generati proceduralmente che cambiano dimensioni, forma e risorse ogni volta che li visiti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DFHMJCKK{{</world>}}

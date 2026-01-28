@@ -28,11 +28,11 @@ average: '3.69'
 
 ℹ️:
 
-- Crodino nasce a Crodo, in Piemonte ed è preparato con la ricetta originale dal 1965
-- Profilo sensoriale: all’olfatto è caratterizzato da intense note agrumate, con un finale speziato che ricorda estratti di erbe e radici aromatiche; al gusto è piacevolmente frizzante, con note di arancia rossa e frutta, su una base speziata erbacea
 - Metodo di produzione: la produzione di Crodino arancia rossa nasce dallinfusione di un mix di erbe e spezie sapientemente selezionate che viene lasciato riposare fino a 6 mesi, dando origine ad un aperitivo analcolico dal gusto sorprendente
-- Come servirlo: Crodino arancia rossa è ideale da bere in un bicchiere con ghiaccio e fettina darancia per un perfetto aperitivo analcolico a casa come al bar
+- Crodino nasce a Crodo, in Piemonte ed è preparato con la ricetta originale dal 1965
 - Crodino arancia rossa: aperitivo analcolico per eccellenza dal gusto inconfondibile, soprendente e frizzante
+- Profilo sensoriale: all’olfatto è caratterizzato da intense note agrumate, con un finale speziato che ricorda estratti di erbe e radici aromatiche; al gusto è piacevolmente frizzante, con note di arancia rossa e frutta, su una base speziata erbacea
+- Come servirlo: Crodino arancia rossa è ideale da bere in un bicchiere con ghiaccio e fettina darancia per un perfetto aperitivo analcolico a casa come al bar
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0752F1JPC{{</world>}}

@@ -28,11 +28,11 @@ average: '72.67'
 
 ℹ️:
 
-- DUE PACCHI BATTERIA E CARICABATTERIE RAPIDO: Dotato di due batterie da 2,0 Ah, lindicatore di installazione e il caricabatterie rapido possono prolungare la durata della batteria e lorario di lavoro. La batteria può essere caricata completamente in unora
-- INTERRUTTORE DI SICUREZZA E LUCE LED: È dotato del LED che può essere utilizzato in ambienti bui. Con gomma morbida e struttura ammortizzante, può essere antiscivolo e ammortizzante e offre una buona presa
+- COSA RICEVERETE: 1 x HYCHIKA sega a gattuccio, 2 x batterie 18V 2,0 Ah, 1 x caricatore rapido, 2 x lame per sega, 1 x manuale utente. In caso di domande sui nostri prodotti, non esitate a contattarci
 - VELOCITA REGOLABILE E E PROFONDITÀ DI TAGLIO REGOLABILE: Il prodotto permette di regolare la velocità tra 0 e 2800 SPM e garantisce un miglior controllo della lama. 4 marce per la regolazione della profondità di taglio, piedini orientabili per la regolazione dellangolo di supporto per diverse scene di lavoro
 - GOPPIO SISTEMA DI SICUREZZA E SOSTITUZIONE LAMA SENZA ATTREZZI: Grazie al doppio sistema di sicurezza, il seghetto funziona solo se entrambi i pulsanti sono premuti in modo da ridurre il rischio di infortuni. Il sistema di sostituzione della lama e rapido e non richiede strumenti, per una rapida sostituzione della lama stessa
-- COSA RICEVERETE: 1 x HYCHIKA sega a gattuccio, 2 x batterie 18V 2,0 Ah, 1 x caricatore rapido, 2 x lame per sega, 1 x manuale utente. In caso di domande sui nostri prodotti, non esitate a contattarci
+- INTERRUTTORE DI SICUREZZA E LUCE LED: È dotato del LED che può essere utilizzato in ambienti bui. Con gomma morbida e struttura ammortizzante, può essere antiscivolo e ammortizzante e offre una buona presa
+- DUE PACCHI BATTERIA E CARICABATTERIE RAPIDO: Dotato di due batterie da 2,0 Ah, lindicatore di installazione e il caricabatterie rapido possono prolungare la durata della batteria e lorario di lavoro. La batteria può essere caricata completamente in unora
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0811CNVCJ{{</world>}}

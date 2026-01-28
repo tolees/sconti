@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Vassoio riscalda-tazze in acciaio inossidabile. Vaschetta raccogligocce rimovibile per pulizia rapida e sistema di risparmio energetico con spegnimento automatico e stand-by.
-- Erogazione anche acqua calda per infusi. Braccetto porta-filtri con doppia uscita, due filtri per preparare 1 o 2 caffè contemporaneamente. Serbatoio d’acqua estraibile da 1,2 litri. Vassoio riscalda-tazze in acciaio inossidabile. Adatto a tazzine e tazze per la colazione.
 - Include vaporizzatore orientabile con protezione che texturizza il latte per ottenere la migliore schiuma per il tuo caffè.
-- Macchina per caffè espresso dal design elegante e compatto. Permette preparare ogni tipo di caffè con una potenza massima da 1350 W.
+- Erogazione anche acqua calda per infusi. Braccetto porta-filtri con doppia uscita, due filtri per preparare 1 o 2 caffè contemporaneamente. Serbatoio d’acqua estraibile da 1,2 litri. Vassoio riscalda-tazze in acciaio inossidabile. Adatto a tazzine e tazze per la colazione.
 - Il sistema di riscaldamento rapido mediante Thermoblock garantisce che la temperatura si mantenga ad un intervallo ottimale per ottenere il miglior caffè. La sua potente pompa di pressione con tecnologia ForceAroma da 20 bar ottiene la migliore crema e il massimo aroma in ogni caffè.
+- Vassoio riscalda-tazze in acciaio inossidabile. Vaschetta raccogligocce rimovibile per pulizia rapida e sistema di risparmio energetico con spegnimento automatico e stand-by.
+- Macchina per caffè espresso dal design elegante e compatto. Permette preparare ogni tipo di caffè con una potenza massima da 1350 W.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B084Q5F4YR{{</world>}}

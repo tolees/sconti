@@ -28,11 +28,11 @@ average: '0.74'
 
 ℹ️:
 
-- CUBETTO N.63: formato di pasta dalla forma originale e versatile, perfetto sia come pasta corta che come pastina - Confezione da 500 g
-- PACK ECOSOSTENIBILE: i pack, riciclabili nella carta, sono composti da materiale che proviene da foreste ben gestite, foreste certificate FSC e da altre fonti controllate
-- PASTA CLASSICA LA MOLISANA: gamma di pasta genuina e digeribile che nasce da solo grano italiano decorticato a pietra; La trafilatura al bronzo rende la pasta ruvida e tenace, in grado di catturare perfettamente i condimenti
 - LA MOLISANA: dal 1912 azienda 100% Italiana leader nella produzione di pasta con solo grando italiano da filiera integrata, semole di alta qualità e tenacità certificata
+- PACK ECOSOSTENIBILE: i pack, riciclabili nella carta, sono composti da materiale che proviene da foreste ben gestite, foreste certificate FSC e da altre fonti controllate
 - COTTURA: 8 minuti di cottura - Pasta con eccellente tenuta in cottura che non scuoce mai grazie alla trafilatura al bronzo e ad un indice proteico superiore al 14%
+- PASTA CLASSICA LA MOLISANA: gamma di pasta genuina e digeribile che nasce da solo grano italiano decorticato a pietra; La trafilatura al bronzo rende la pasta ruvida e tenace, in grado di catturare perfettamente i condimenti
+- CUBETTO N.63: formato di pasta dalla forma originale e versatile, perfetto sia come pasta corta che come pastina - Confezione da 500 g
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B089QPCRVQ{{</world>}}

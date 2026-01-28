@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Design esclusivo che consente due diversi stili di guida: schema ad “H” (7+1) e sequenziale (+/-).
-- Multipiattaforma: su PC (Windows 7/8/10), il TH8A Add-On Shifter è compatibile con tutti i volanti disponibili sul mercato degli accessori per videogiochi
-- Robusto e preciso, il TH8A è realizzato totalmente in metallo
-- Robusto e preciso, il TH8A è realizzato totalmente in metallo.
-- Multipiattaforma: su PC il TH8A Add-On Shifter è compatibile con tutti i volanti disponibili sul mercato degli accessori per videogiochi. Su PS4, PS5 il TH8A è compatibile con i volanti serie T300 e con i volanti T128/T248 Force Feedback e T-GT (connessioni USB e/o DIN), mentre su Xbox One, X|S è compatibile con i volanti serie TX e con i volanti T128 / T248 Force Feedback e TS-XW (connessione DIN).
-- Dotato di tecnologia H.E.A.R.T HallEffect AccuRate Technology (in attesa di brevetto), la precisione del TH8A rimane costante nel tempo, grazie ai suoi sensori magnetici privi di contatto: niente tact switch né potenziometri, per una durata del prodotto illimitata
-- Design esclusivo che consente due diversi stili di guida: schema ad “H” (7+1) e sequenziale (+/-)
 - Dotato di tecnologia H.E.A.R.T HallEffect AccuRate Technology (in attesa di brevetto), la precisione del TH8A rimane costante nel tempo, grazie ai suoi sensori magnetici privi di contatto: niente tact switch né potenziometri, per una durata del prodotto illimitata.
+- Dotato di tecnologia H.E.A.R.T HallEffect AccuRate Technology (in attesa di brevetto), la precisione del TH8A rimane costante nel tempo, grazie ai suoi sensori magnetici privi di contatto: niente tact switch né potenziometri, per una durata del prodotto illimitata
+- Robusto e preciso, il TH8A è realizzato totalmente in metallo.
+- Design esclusivo che consente due diversi stili di guida: schema ad “H” (7+1) e sequenziale (+/-)
+- Robusto e preciso, il TH8A è realizzato totalmente in metallo
+- Multipiattaforma: su PC (Windows 7/8/10), il TH8A Add-On Shifter è compatibile con tutti i volanti disponibili sul mercato degli accessori per videogiochi
+- Design esclusivo che consente due diversi stili di guida: schema ad “H” (7+1) e sequenziale (+/-).
+- Multipiattaforma: su PC il TH8A Add-On Shifter è compatibile con tutti i volanti disponibili sul mercato degli accessori per videogiochi. Su PS4, PS5 il TH8A è compatibile con i volanti serie T300 e con i volanti T128/T248 Force Feedback e T-GT (connessioni USB e/o DIN), mentre su Xbox One, X|S è compatibile con i volanti serie TX e con i volanti T128 / T248 Force Feedback e TS-XW (connessione DIN).
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B005L0Z2BQ{{</world>}}

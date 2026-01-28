@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- BARILLA: unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola.
-- IL GUSTO DI SEMPRE: Barilla Protein+ è la scelta ideale per le tue ricette di ogni giorno: ingredienti semplici e genuini per non rinunciare al gusto della pasta di sempre, ora con un plus di proteine. Barilla Protein+ è disponibile nei formati più iconici: penne, fusilli e spaghetti. Perfetti per le tue ricette preferite.
 - PENNE PROTEIN+: scopri le Penne Barilla Protein+! Prova il gusto della pasta di sempre con un + di proteine.
+- BARILLA: unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola.
 - RICCA DI PROTEINE: Affronta la tua giornata con Barilla Protein+, lalleato ideale per chi cerca il giusto equilibrio tra gusto e proteine. 100g di pasta Barilla Protein+ contengono circa il 40% dellassunzione di riferimento di proteine di un adulto medio (8400 kJ/2000 kcal).
 - SOLO DUE INGREDIENTI: realizzata con semola di grano duro selezionata e proteine di piselli, Barilla Protein+ è lalleato perfetto per chi cerca quel plus di proteine.
+- IL GUSTO DI SEMPRE: Barilla Protein+ è la scelta ideale per le tue ricette di ogni giorno: ingredienti semplici e genuini per non rinunciare al gusto della pasta di sempre, ora con un plus di proteine. Barilla Protein+ è disponibile nei formati più iconici: penne, fusilli e spaghetti. Perfetti per le tue ricette preferite.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F8J4ZSDX{{</world>}}

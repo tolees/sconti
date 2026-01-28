@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- SCATOLA REGALO: è fornito con scatola di qualità adatta anche come confezione regalo per ogni occasione: natale, compleanno, un invito a cena con amici, colleghi e familiari
-- RICARICA 2026: il Calendario Geniale misura 10 x 14 cm. È compatibile con il supporto in legno del Calendario degli anni precedenti
-- FRASI FILOSOFICHE: acquista il Calendario Geniale 2026 con lo stile originale, arricchito di nuove frasi belle dei grandi autori e inizia ogni giorno con sorriso, felicità e la giusta motivazione
 - BONUS DIGITALI DI VALORE: contiene Bonus digitali in regalo con insegnamenti dei life coach internazionali, li troverai a sorpresa durante l’anno sui fogli del Calendario
+- RICARICA 2026: il Calendario Geniale misura 10 x 14 cm. È compatibile con il supporto in legno del Calendario degli anni precedenti
 - ECO SOSTENIBILE: il Calendario Geniale è stampato su CARTA ECOLOGICA CERTIFICATA con inchiostri vegetali, riflette il nostro impegno verso l’ambiente. È lavorato completamente in Italia
+- FRASI FILOSOFICHE: acquista il Calendario Geniale 2026 con lo stile originale, arricchito di nuove frasi belle dei grandi autori e inizia ogni giorno con sorriso, felicità e la giusta motivazione
+- SCATOLA REGALO: è fornito con scatola di qualità adatta anche come confezione regalo per ogni occasione: natale, compleanno, un invito a cena con amici, colleghi e familiari
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DPLP8HQL{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Per il tuo dispositivo, la potenza di ricarica che merita grazie al caricatore Samsung da 45W
-- Utilizzare solo batterie, caricabatterie e cavi approvati da Samsung e progettati specificamente per il dispositivo; batterie, caricabatterie e cavi non compatibili possono causare gravi lesioni o danni al dispositivo. Non utilizzare cavi il cui rivestimento sia staccato o danneggiato e non utilizzare caricabatterie o batterie danneggiati o non funzionanti
-- Per ottimizzare la velocità di ricarica, utilizza un cavo Samsung USB Type-C
-- Compatibile con tutti i dispositivi che supportano lo standard di carica Power Delivery USB Type-C. Questo alimentatore ti consente di ricaricare qualsiasi dispositivo Samsung che supporta lo standard di carica Power Delivery USB Type-C ma loutput di ricarica cambia in base alla potenza di ricarica supportata dal singolo dispositivo. I dispositivi che supportano la ricarica da 45W, saranno ricaricati a 45W di potenza
 - Caricatore Samsung EP-T4511NWEGEU
+- Per ottimizzare la velocità di ricarica, utilizza un cavo Samsung USB Type-C
+- Utilizzare solo batterie, caricabatterie e cavi approvati da Samsung e progettati specificamente per il dispositivo; batterie, caricabatterie e cavi non compatibili possono causare gravi lesioni o danni al dispositivo. Non utilizzare cavi il cui rivestimento sia staccato o danneggiato e non utilizzare caricabatterie o batterie danneggiati o non funzionanti
+- Compatibile con tutti i dispositivi che supportano lo standard di carica Power Delivery USB Type-C. Questo alimentatore ti consente di ricaricare qualsiasi dispositivo Samsung che supporta lo standard di carica Power Delivery USB Type-C ma loutput di ricarica cambia in base alla potenza di ricarica supportata dal singolo dispositivo. I dispositivi che supportano la ricarica da 45W, saranno ricaricati a 45W di potenza
+- Per il tuo dispositivo, la potenza di ricarica che merita grazie al caricatore Samsung da 45W
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FHBDHML4{{</world>}}

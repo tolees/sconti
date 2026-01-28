@@ -30,8 +30,8 @@ average: '23.5'
 
 - PUNTI DIFFICILI DA RAGGIUNGERE: la Scopa Swiffer grazie alla sua testa che ruota a 360° riesce ad arrivare nei punti più difficili da raggiungere come I punti sotto il letto, il divano o la credenza
 - PULIZIA RAPIDA CON MASSIMI RISULTATI: La pulizia che desideri nel tempo che hai a disposizione efficace per la maggior parte delle superfici; Non lascia alcun residuo
-- EFFICACIA: il panno cattura polvere Swiffer Dry cattura e blocca 3 volte più polvere, sporco e peli di animali rispetto a una scopa tradizionale
 - CONFEZIONE: 216 panni di ricambio per pavimenti (scopa venduta separatamente)
+- EFFICACIA: il panno cattura polvere Swiffer Dry cattura e blocca 3 volte più polvere, sporco e peli di animali rispetto a una scopa tradizionale
 - CONSIGLI DUSO: ripegare allinterno i lembi dei bordi del panno Swiffer premendo gli anogli della scopa sui perni in gomma, passare per pulire il paviemnto, dopo luso rimuovere il panno e smaltirlo adeguatamente
 - Ricariche realizzate con il 100% di fibre sintetiche riciclate; Confezione completamente riciclabile
 

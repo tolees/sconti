@@ -28,11 +28,11 @@ average: '59.99'
 
 ℹ️:
 
-- Ricco di dettagli familiari: questo modello di torre giocattolo contiene il libro degli incantesimi Grimmerie, un supporto con mela candita, la mongolfiera del Mago e la sua gigantesca testa parlante del film
 - I bambini sono i protagonisti della magia: i piccoli possono esplorare i negozi della Città di Smeraldo, guidare la bici del carretto del caffè, scoprire la stanza delle mappe della torre giocattolo e incontrare il mago
-- Idea regalo di compleanno per bambine e bambini fan del musical Wicked: questo set è un regalo per gli amanti delle storie del Mago di Oz, e per gli appassionati di playset con le case delle bambole giocattolo da costruire
 - Un’esperienza di costruzione affascinante: ipiccoli possono evocare la magia cinematografica con gli altri set creativi della gamma LEGO Wicked (disponibili separatamente), tutti presenti nell’intuitiva app LEGO Builder
 - Gioco di fantasia con i personaggi LEGO Wicked: include le mini bamboline di Glinda ed Elphaba, il Mago, Madame Morrible e Fiyero, oltre a una scena della Città di Smeraldo
+- Idea regalo di compleanno per bambine e bambini fan del musical Wicked: questo set è un regalo per gli amanti delle storie del Mago di Oz, e per gli appassionati di playset con le case delle bambole giocattolo da costruire
+- Ricco di dettagli familiari: questo modello di torre giocattolo contiene il libro degli incantesimi Grimmerie, un supporto con mela candita, la mongolfiera del Mago e la sua gigantesca testa parlante del film
 - Gioco da collezione LEGO Wicked Benvenuti nella Città di Smeraldo: questo gioco di ruolo per bambine e bambini da 9 anni in su, permette di ricreare una scena iconica del film Wicked con una torre giocattolo a 3 piani
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

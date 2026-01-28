@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Enorme mondo aperto realistico: esplora la Boemia medievale e immergiti in un mondo di maestosi castelli, campi sconfinati e foreste lussureggianti.
 - Storia non lineare: scegli come risolvere le missioni, affrontando le conseguenze delle tue decisioni.
-- Sviluppo del personaggio: scegli il tuo equipaggiamento, migliora le tue abilità e ottieni nuovi vantaggi.
 - Combattimenti intensi: affronta il nemico a distanza, avvicinandoti in modo furtivo o gettandoti nella mischia.
+- Sviluppo del personaggio: scegli il tuo equipaggiamento, migliora le tue abilità e ottieni nuovi vantaggi.
+- Enorme mondo aperto realistico: esplora la Boemia medievale e immergiti in un mondo di maestosi castelli, campi sconfinati e foreste lussureggianti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CQ2SV8CF{{</world>}}

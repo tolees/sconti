@@ -28,13 +28,13 @@ average: '33.32'
 
 ℹ️:
 
-- CONNESSIONE: affidabilità garantita grazie alla connessione USB-A e al cavo HyperFlex da 1,8 m, in grado di ridurre la resistenza e agevolare i movimenti del mouse
-- DIMENSIONI: mouse con un peso di soli 53 g, che diventano 75 g con il cavo; il mouse misura 12,4 x 6,7 x 3,8 cm (L x P x A)
 - CONTENUTO DELLA CONFEZIONE: Mouse Pulsefire Haste 2, impugnature HyperX, Pattini a basso attrito, Guida rapida alluso
-- DESIGN: il mouse ultraleggero Pulsefire Haste 2 è dotato di un solido guscio superiore, ma pesa appena 53 g, ed è progettato per assicurare movimenti più rapidi, senza sforzi
 - SENSIBILITA: risposta stabile e immediata grazie al sensore ottico HyperX 26K a 26000 DPI che permette di raggiungere una precisione accurata del puntatore e studiato per cogliere ogni movimento del polso
 - COMPATIBILITA: il mouse Pulsefire Haste è adatto per PC, PS5, PS4, Xbox Series X|S e Xbox One, oltre ad essere compatibile con il software HyperX NGENUITY
+- DESIGN: il mouse ultraleggero Pulsefire Haste 2 è dotato di un solido guscio superiore, ma pesa appena 53 g, ed è progettato per assicurare movimenti più rapidi, senza sforzi
 - TECNOLOGIA: lilluminazione RGB a LED, i 6 tasti programmabili, e i pulsanti HyperX garantiti fino a 100 milioni di clic lo rendono il mouse ottimale per ogni tipologia di gamer
+- DIMENSIONI: mouse con un peso di soli 53 g, che diventano 75 g con il cavo; il mouse misura 12,4 x 6,7 x 3,8 cm (L x P x A)
+- CONNESSIONE: affidabilità garantita grazie alla connessione USB-A e al cavo HyperFlex da 1,8 m, in grado di ridurre la resistenza e agevolare i movimenti del mouse
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BX52PCJ5{{</world>}}

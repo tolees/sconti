@@ -28,9 +28,9 @@ average: '33.992'
 
 ℹ️:
 
-- Logo Levis sul petto
 - Materiale aderente
 - Orlo arrotondato
+- Logo Levis sul petto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07TLFMDLB{{</world>}}

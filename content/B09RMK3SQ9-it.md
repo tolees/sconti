@@ -28,9 +28,9 @@ average: '15.6'
 
 ℹ️:
 
-- MAGLIETTA SLIM FIT: con una vestibilità slim che valorizza la figura senza sacrificare la mobilità
-- MATERIALI SOSTENIBILI: Realizzata con almeno il 70% di cotone sostenibile, questa maglietta non è solo comoda, ma anche rispettosa dellambiente
 - DETTAGLI PEPE JEANS: Si distingue per il logo PEPE JEANS stampato sulla destra e il logo della bandiera ricamato sulla manica, che aggiungono un tocco distintivo
+- MATERIALI SOSTENIBILI: Realizzata con almeno il 70% di cotone sostenibile, questa maglietta non è solo comoda, ma anche rispettosa dellambiente
+- MAGLIETTA SLIM FIT: con una vestibilità slim che valorizza la figura senza sacrificare la mobilità
 - MANICHE LUNGE: Le maniche lunghe e lo scollo rotondo offrono un look contemporaneo e versatile per ogni occasione. Disponibile in tinta unita, si abbina facilmente al tuo guardaroba
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

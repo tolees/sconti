@@ -28,11 +28,11 @@ average: '2.89'
 
 ℹ️:
 
-- PER FAVORIRE SONNO E RILASSAMENTO IN CASO DI STRESS: Integratore alimentare a base di valeriana officinalis per favorire il sonno e il rilassamento in caso di stress
 - EQUILIBRA: Da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto dellequilibrio tra rispetto, efficacia, benessere e bellezza
+- PER FAVORIRE SONNO E RILASSAMENTO IN CASO DI STRESS: Integratore alimentare a base di valeriana officinalis per favorire il sonno e il rilassamento in caso di stress
+- DA ASSUMERE AL BISOGNO: Assumere 1 capsula al giorno. Assumere la capsula alla sera prima di dormire o al momento del bisogno
 - PRODOTTO ALTAMENTE CONCENTRATO: Le capsule consentono di avere un prodotto altamente concentrato ed evitano problemi di gusto della polvere
 - CARATTERISTICHE: Ogni capsula contiene 200 mg di Valeriana
-- DA ASSUMERE AL BISOGNO: Assumere 1 capsula al giorno. Assumere la capsula alla sera prima di dormire o al momento del bisogno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07SJ6XWY9{{</world>}}

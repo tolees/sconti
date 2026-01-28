@@ -28,11 +28,11 @@ average: '1.8'
 
 ℹ️:
 
+- CAMOMILLA E PASSIFLORA: Utili contro ansia, stress e dolori mestruali, favoriscono il rilassamento e la distensione, aiutando a ritrovare un buon sonno
+- MODO DUSO: Per unâ€ottima tisana usare un filtro per ogni tazza (200 ml), aggiungere acqua bollente senza versarla direttamente sul filtro, lasciare in infusione per 3-5 minuti e dolcificare a piacere
 - TISANA RILASSANTE: Tisana funzionale ad effetto distensivo e rilassante che favorisce il sonno e il riposo grazie allazione positiva di Camomilla e Passiflora
 - MELISSA E LAVANDA: Il loro ottimo gusto trasforma il consumo della tisana in un rilassante momento di piacere a cui dedicarsi quando si vuole, sia durante la giornata che la sera prima di coricarsi
-- MODO DUSO: Per unâ€ottima tisana usare un filtro per ogni tazza (200 ml), aggiungere acqua bollente senza versarla direttamente sul filtro, lasciare in infusione per 3-5 minuti e dolcificare a piacere
 - LANGELICA: Da oltre 30 anni lAngelica coniuga lantica scienza delle piante officinali con linnovazione e la ricerca scientifica, dando origine a prodotti naturali per prendersi cura di sé
-- CAMOMILLA E PASSIFLORA: Utili contro ansia, stress e dolori mestruali, favoriscono il rilassamento e la distensione, aiutando a ritrovare un buon sonno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B082VSV3G1{{</world>}}

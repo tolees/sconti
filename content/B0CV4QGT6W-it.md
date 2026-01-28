@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- SUPPORTO PER GRANDI RADIATORI — Supporta radiatori fino a 420 mm nella parte anteriore e da 360 mm nella parte superiore, per un potenziale di raffreddamento potente.
-- GESTISCI I CAVI IN TUTTA FACILITÀ — Sistema di gestione dei cavi intuitivo con canali ampi, ganci integrati e cinghie incluse per un instradamento semplice.
-- OTTIMIZZATI PER IL FLUSSO D’ARIA — I pannelli in mesh ad alte prestazioni massimizzano il flusso daria sia in ingresso che in uscita e inoltre filtrano la polvere.
 - PRESTAZIONI IMMEDIATE — È dotato di tre ventole da 120 mm montate anteriormente per un raffreddamento eccellente e immediato.
+- OTTIMIZZATI PER IL FLUSSO D’ARIA — I pannelli in mesh ad alte prestazioni massimizzano il flusso daria sia in ingresso che in uscita e inoltre filtrano la polvere.
+- GESTISCI I CAVI IN TUTTA FACILITÀ — Sistema di gestione dei cavi intuitivo con canali ampi, ganci integrati e cinghie incluse per un instradamento semplice.
+- SUPPORTO PER GRANDI RADIATORI — Supporta radiatori fino a 420 mm nella parte anteriore e da 360 mm nella parte superiore, per un potenziale di raffreddamento potente.
 - RAFFREDDAMENTO MIRATO DELLA GPU — Supporta tre ventole da 120 mm montate sul fondo per un raffreddamento diretto della GPU, pur mantenendo un ingombro ridotto da mid-tower.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

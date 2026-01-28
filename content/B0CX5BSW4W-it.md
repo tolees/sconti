@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Alimentazion: AC200-240V - 50/60Hz
+- 6 velocità di funzionamento + PULSE | Movimento Planetario
+- Possibilità di lavorare impasti di max 3 Kg (a seconda degli alimenti da impastare)
 - Piedini con ventosa per maggiore stabilità
 - Accessori inclusi: Uncino, Impastatore e Mescolatore in alluminio, Frusta sbattitrice in acciaio inox, Coperchio in plastica trasparente
-- Dimensioni (mm): 380 x 345 x 245 cm
-- 6 velocità di funzionamento + PULSE | Movimento Planetario
 - Dispositivo di sicurezza che impedisce uso involontario
-- Possibilità di lavorare impasti di max 3 Kg (a seconda degli alimenti da impastare)
+- Alimentazion: AC200-240V - 50/60Hz
+- Dimensioni (mm): 380 x 345 x 245 cm
 - Contenitore con manici e capienza di 8 litri in acciao INOX con coperchio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

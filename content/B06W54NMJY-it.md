@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- MISCELA ROSSA: Pura energia nel gusto, forte e cremosa ed allo stesso tempo deliziosa; Presenta un carattere deciso e persistente che infonde una profonda sensazione di piacere al palato, per una magica sensazione; Confezionato in atmosfera protettiva, Robusta selezionata
 - FRAGRANZA E AROMA: Una miscela esclusiva e dallequilibrio staordinario, che si presenta con: Corpo: 9.5 - Intensità: 9.5 - Persistenza: 9.5 - Dolcezza: 7 - Acidità: 4
-- *Nespresso è un marchio registrato di Societè des Produits Nestlè S.A; Caffè Borbone Srl è produttore autonomo non collegato alla Societè des Produits Nestlè S.A; La compatibilità delle capsule Caffè Borbone è funzionale allutilizzo con macchine da caffè ad uso domestico *Nespresso
 - FORMATO: Confezione da 100 Capsule
+- MISCELA ROSSA: Pura energia nel gusto, forte e cremosa ed allo stesso tempo deliziosa; Presenta un carattere deciso e persistente che infonde una profonda sensazione di piacere al palato, per una magica sensazione; Confezionato in atmosfera protettiva, Robusta selezionata
 - Capsule Compatibili Nespresso* con i seguenti modelli di macchine da caffè: Delonghi - Essenza, Essenza Mini EN85R, Citiz, Inissia, Lattissima Premium, Pixie, Prodigio Silver, U; Krups - Citiz, Essenza, Essenza Mini, Inissia, Pixie, Prodigio Titan, U; Nespresso - Essenza Mini C30 Matt Black, Lattissima One; Didiesse
+- *Nespresso è un marchio registrato di Societè des Produits Nestlè S.A; Caffè Borbone Srl è produttore autonomo non collegato alla Societè des Produits Nestlè S.A; La compatibilità delle capsule Caffè Borbone è funzionale allutilizzo con macchine da caffè ad uso domestico *Nespresso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B06W54NMJY{{</world>}}

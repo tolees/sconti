@@ -29,8 +29,8 @@ average: '77.2322222222222'
 ℹ️:
 
 - Questo prodotto viene testato prima di essere imballato e commercializzato quindi può presentare residui dacqua
-- Ferro generatore di vapore ad autonomia illimitata con pressione pompa max 6.5 Bar
 - Funzione ECO per ridurre i consumi di energia del 25%* e di acqua del 27%* (*rispetto a funzione Max)
+- Ferro generatore di vapore ad autonomia illimitata con pressione pompa max 6.5 Bar
 - Funzione Calc Cleaning per preservare le prestazioni dellapparecchio nel tempo
 - Serbatoio estraibile da 1.5 L per lunghe sessioni di stiratura e riscaldamento rapido 2 minuti
 

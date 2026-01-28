@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Adatto per lalimentazione dei bambini a partire dal sesto mese, seguendo il parere del pediatra
-- Conservare il prodotto in luogo asciutto e lontano da fonti di calore. Una volta aperta la confezione, consumare entro 2 ore e non conservare leventuale prodotto avanzato
-- Senza zuccheri aggiunti: contiene naturalmente zuccheri, 100% Frutta, ingredienti selezionati e rigorosamente controllati
-- Alimento per la prima infanzia. Merenda pastorizzata a base di purea di frutta. Senza zuccheri aggiunti. Frutta selezionata e controllata
 - Perfetta e facile da portare con te e da consumare anche fuori casa, per una merenda a portata di mano
+- Senza zuccheri aggiunti: contiene naturalmente zuccheri, 100% Frutta, ingredienti selezionati e rigorosamente controllati
+- Conservare il prodotto in luogo asciutto e lontano da fonti di calore. Una volta aperta la confezione, consumare entro 2 ore e non conservare leventuale prodotto avanzato
+- Alimento per la prima infanzia. Merenda pastorizzata a base di purea di frutta. Senza zuccheri aggiunti. Frutta selezionata e controllata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07XMLW6CW{{</world>}}

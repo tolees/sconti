@@ -28,12 +28,12 @@ average: '4.89'
 
 ℹ️:
 
-- PREP Dermoprotezione da 160 anni.
-- PROTEZIONE FINO A 8 ORE: Proteggi te e la tua famiglia dalle punture di Zanzare e Zecche
-- MODO DUSO: Applicare il prodotto uniformemente sulla cute esposta e distribuire sulla mano il liquido spray applicato con la mano sulla cute.
-- limballaggio può variare
-- FORMULA PRONTA ALLUSO: protegge luomo allaperto e in ambienti al chiuso ben ventilati da Zanzare e Zecche.
 - LOZIONE REPELLENTE: Lozione repellente per Adulti e Baby 1+, fino a 8 Ore di protezione dalle Zanzare e dalle Zecche
+- limballaggio può variare
+- PROTEZIONE FINO A 8 ORE: Proteggi te e la tua famiglia dalle punture di Zanzare e Zecche
+- FORMULA PRONTA ALLUSO: protegge luomo allaperto e in ambienti al chiuso ben ventilati da Zanzare e Zecche.
+- MODO DUSO: Applicare il prodotto uniformemente sulla cute esposta e distribuire sulla mano il liquido spray applicato con la mano sulla cute.
+- PREP Dermoprotezione da 160 anni.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C6KBGD91{{</world>}}

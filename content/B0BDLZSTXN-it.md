@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Raggiungi Alamut, la leggendaria residenza degli Assassini che posero le basi del Credo, in un omaggio al gioco che ha dato inizio a tutto
-- Scopri una versione aggiornata del gameplay e delle caratteristiche che hanno caratterizzato la serie per 15 anni, eseguendo corse acrobatiche in giro per la città ed eliminando i nemici furtivamente con assassinii più cruenti che mai
 - Vivi unesperienza avventurosa ricca dazione e di grande profondità narrativa, in cui un giovane ribelle arriva a diventare Maestro Assassino.
 - Esplora una città brulicante di vita, dove gli abitanti reagiscono a ogni tuo movimento, e scopri i segreti di quattro diversi quartieri in una Bagdad allapice dello splendore.
+- Scopri una versione aggiornata del gameplay e delle caratteristiche che hanno caratterizzato la serie per 15 anni, eseguendo corse acrobatiche in giro per la città ed eliminando i nemici furtivamente con assassinii più cruenti che mai
+- Raggiungi Alamut, la leggendaria residenza degli Assassini che posero le basi del Credo, in un omaggio al gioco che ha dato inizio a tutto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BDLZSTXN{{</world>}}

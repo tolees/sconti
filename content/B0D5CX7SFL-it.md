@@ -28,11 +28,11 @@ average: '25.49'
 
 ℹ️:
 
-- Contenuto della Confezione: 1 HYCHIKA Livella Laser Autolivellante, 1 Magnetica Supporto, 2 Batterie AA, 1 Manuale dellutente
-- 3 Luminosità e Modalità Flash: Livella laser autolivellante può essere regolato su 3 livelli di luminosità (50% Modalità di risparmio energetico, 75% Modalità standard, 100% Modalità evidenziazione); In modalità di risparmio energetico, la durata della batteria è la più lunga; Modalità flash ha la massima luminosità, in caso di emergenza, il flash del laser può essere utilizzato come segnale SOS. Non puntare il laser direttamente negli occhi. Classe del laser: Classe 2
 - Ampia Gamma di Applicazioni: La visibilità del laser a croce verde è doppia rispetto alla linea laser rossa, quindi è chiaramente visibile sia allinterno che allesterno. Le livello laser sono spesso utilizzate per piastrellare, applicare carta da parati, appendere foto, falegnameria, ecc. La durata massima della batteria è di 20 ore
 - Auto-Livellamento e Modalità Manuale: Livella laser verde in modalità auto-livellamento quando langolo di inclinazione è ≤4°, la livella laser auto-livellante si livella automaticamente entro 6s. Tenere premuto il pulsante superiore per 2 secondi per avviare la modalità manuale, che blocca la linea laser e può essere utilizzata a qualsiasi angolo
 - Supporto Flessibile e Stabile: Il laser di linea può essere fissato a una superficie metallica con una staffa di montaggio magnetica (inclusa) e può ruotare di 360° quando è in uso. La staffa è dotata anche di fori per appenderla. Il laser da costruzione è dotato di fori filettati da 1/4" sul fondo per lutilizzo sulla maggior parte dei treppiedi (non inclusi)
+- Contenuto della Confezione: 1 HYCHIKA Livella Laser Autolivellante, 1 Magnetica Supporto, 2 Batterie AA, 1 Manuale dellutente
+- 3 Luminosità e Modalità Flash: Livella laser autolivellante può essere regolato su 3 livelli di luminosità (50% Modalità di risparmio energetico, 75% Modalità standard, 100% Modalità evidenziazione); In modalità di risparmio energetico, la durata della batteria è la più lunga; Modalità flash ha la massima luminosità, in caso di emergenza, il flash del laser può essere utilizzato come segnale SOS. Non puntare il laser direttamente negli occhi. Classe del laser: Classe 2
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D5CX7SFL{{</world>}}

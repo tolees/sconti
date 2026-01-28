@@ -29,10 +29,10 @@ average: '24.545'
 ℹ️:
 
 - GRADAZIONE ALCOLICA: 3.5% vol
-- KOZEL DARK LAGER: birra Dark Lager a bassa fermentazione dal colore scuro, da servire a 6-8°C, ricetta originale Ceca
-- FORMATO: cassa di birra con 20 bottiglie da 50 cl
-- GUSTO: morbido e rinfrescante, con note caramellate e tostate con un leggero sapore di luppolo
 - IDEALE CON: arrosto, carni stufate, formaggi stagionati, insalate, dessert
+- FORMATO: cassa di birra con 20 bottiglie da 50 cl
+- KOZEL DARK LAGER: birra Dark Lager a bassa fermentazione dal colore scuro, da servire a 6-8°C, ricetta originale Ceca
+- GUSTO: morbido e rinfrescante, con note caramellate e tostate con un leggero sapore di luppolo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08X2CV3NN{{</world>}}

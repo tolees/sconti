@@ -29,8 +29,8 @@ average: '220.43'
 ℹ️:
 
 - PERCHÉ MAGIC KEYBOARD PER IPAD — Sottile e portatile, la Magic Keyboard per iPad Air è comodissima per scrivere: ha 14 tasti funzione, trackpad integrato, connettore USB-C per la ricarica pass-through e design a inclinazione libera. Non serve ricarica né abbinamento.
-- TASTIERA E CUSTODIA PROTETTIVA — Quando la richiudi protegge il tuo iPad davanti e dietro ovunque vai, e ha un connettore USB C per la ricarica pass through. È disponibile in bianco.
 - COMPATIBILITÀ — Magic Keyboard per iPad Air è compatibile con iPad Air 11" (M2 e M3) e iPad Air (4ª e 5ª generazione)
+- TASTIERA E CUSTODIA PROTETTIVA — Quando la richiudi protegge il tuo iPad davanti e dietro ovunque vai, e ha un connettore USB C per la ricarica pass through. È disponibile in bianco.
 - COMODISSIMA— Magic Keyboard per iPad Air si aggancia magneticamente e il suo design in due pezzi a inclinazione libera ti dà sempre l’angolazione migliore. Ha tasti con meccanismo a forbice e 14 tasti funzione che la rendono comoda e versatile.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- LO SPAGHETTONE INNAMORATO: Ispirato all’abbraccio di due amanti inseparabili, questo formato è doppio nel corpo ma unico nell’anima e con la sua forma speciale cattura tutti i condimenti, da cui non escono più, per far innamorare pure il tuo palato.
 - IDEALI CON: Condimenti cremosi, che si sposano perfettamente con la ruvidità avvolgente della nostra pasta. Tempo di cottura 9 minuti.
-- GRANI 100% ITALIANI: Fatta con semola di Grani 100% italiani che donano alla pasta una consistenza corposa e un gusto equilibrato, per una cottura sempre al dente.
 - VOIELLO: La pasta Voiello è da oltre 140 anni sinonimo di passione, qualità e tradizione legata al territorio. Racchiude storia, cultura e tradizione, per trasmettere un classico italiano senza tempo.
+- GRANI 100% ITALIANI: Fatta con semola di Grani 100% italiani che donano alla pasta una consistenza corposa e un gusto equilibrato, per una cottura sempre al dente.
 - TRAFILATURA AL BRONZO: La trafila al bronzo rende la pasta Voiello estremamente porosa, per poter trattenere il sugo stretto a sé e sprigionare in bocca un piacere eccezionale.
+- LO SPAGHETTONE INNAMORATO: Ispirato all’abbraccio di due amanti inseparabili, questo formato è doppio nel corpo ma unico nell’anima e con la sua forma speciale cattura tutti i condimenti, da cui non escono più, per far innamorare pure il tuo palato.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FP2P66TM{{</world>}}

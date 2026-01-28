@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Gel viso donna clinique cura della pelle 50 millilitri ean 0020714974817 cosmesi viso gel - trattamenti giorno - idratanti donna
 - Cura della pelle gel - trattamenti giorno - idratanti donna
+- Gel viso donna clinique cura della pelle 50 millilitri ean 0020714974817 cosmesi viso gel - trattamenti giorno - idratanti donna
 - Cosmesi viso gel - trattamenti giorno - idratanti donna
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,15 +28,15 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- AUTONOMIA: fino a 26 ore di carica con HP Fast Charge e lalimentatore Type-C da 65 W incluso; ricarichi il 50% della batteria in soli 30 minuti per unenergia sempre disponibile
+- SCHERMO: Display Multitouch da 16", risoluzione 2,8K+ da 2880 x 1800p OLED, UWVA , 48-120Hz, Vetro Corning Gorilla NBT Antiriflesso, Bassa emissione Luce Blu, Luminosità 400 Nits, 100% DCI-P3
+- SISTEMA OPERATIVO: Il tuo assistente basato sullIA; lavora ovunque senza rinunciare alle prestazioni con Windows 11 e la tecnologia di collaborazione, sicurezza e connettività di HP
+- PROCESSORE INTEL CORE ULTRA: offre unesperienza desktop premium con funzionalità AI avanzate, una GPU Intel Arc integrata e un equilibrio ottimale tra qualità e prestazioni
 - TASTIERA: Full Size con Retroilluminazione, Tasti di scelta rapida per la navigazione multimediale, Tasto controllo Privacy e Sicurezza, Touchpad con sensore Multi-Touch, Colore Nightfall Black Nero
 - INTELLIGENZA ARTIFICIALE AL TUO SERVIZIO: I notebook HP dotati di AI migliorano le prestazioni in tempo reale, adattandosi alle esigenze per un’esperienza di utilizzo efficiente e senza interruzioni
-- SISTEMA OPERATIVO: Il tuo assistente basato sullIA; lavora ovunque senza rinunciare alle prestazioni con Windows 11 e la tecnologia di collaborazione, sicurezza e connettività di HP
-- DESIGN: Chassis in alluminio nero, 1 HDMI 2.1, 2 USB Type-C Thunderbolt 4, 1 USB Type-A ,Wi-Fi 6E, Bluetooth 5.3, 1 Jack Audio cuffia/microfono, Peso 1,95 kg, Spessore 1,98 cm
-- SCHERMO: Display Multitouch da 16", risoluzione 2,8K+ da 2880 x 1800p OLED, UWVA , 48-120Hz, Vetro Corning Gorilla NBT Antiriflesso, Bassa emissione Luce Blu, Luminosità 400 Nits, 100% DCI-P3
-- PROCESSORE INTEL CORE ULTRA: offre unesperienza desktop premium con funzionalità AI avanzate, una GPU Intel Arc integrata e un equilibrio ottimale tra qualità e prestazioni
-- HP AI COMPANION: è lassistente personale sul PC che apprende e cresce con lAI grazie a una raccolta di strumenti e funzionalità AI che aumentano lefficienza e la produttività
 - MEMORIA: è dotato di 16 GB LPDDR5x di RAM da 6400 MHz integrata e non espandibile; per un avvio istantaneo è equipaggiato con un SSD PCIe Gen4 NVMe TLC M.2 da 1 TB
+- DESIGN: Chassis in alluminio nero, 1 HDMI 2.1, 2 USB Type-C Thunderbolt 4, 1 USB Type-A ,Wi-Fi 6E, Bluetooth 5.3, 1 Jack Audio cuffia/microfono, Peso 1,95 kg, Spessore 1,98 cm
+- AUTONOMIA: fino a 26 ore di carica con HP Fast Charge e lalimentatore Type-C da 65 W incluso; ricarichi il 50% della batteria in soli 30 minuti per unenergia sempre disponibile
+- HP AI COMPANION: è lassistente personale sul PC che apprende e cresce con lAI grazie a una raccolta di strumenti e funzionalità AI che aumentano lefficienza e la produttività
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CNWGJ6RW{{</world>}}

@@ -28,11 +28,11 @@ average: '1.91'
 
 ℹ️:
 
-- Contenuto: 1x Garnier Fructis Shampoo Purificante, Per Capelli Cute Grassa e Punte Secche, Azione Seboregolatrice, Con Estratto di Acqua di Cocco e Acido Salicilico, Pure Non-Stop Cocconato Water, 250 ml
 - Per capelli freschi e puliti più a lungo grazie a una cute purificata, Rimuove il sebo in eccesso
-- Shampoo purificante per capelli con cute grassa e punte secche, Idrata in profondità grazie alla formula arricchita con acqua di cocco, Non appesantisce
-- Formula arricchita con acqua di cocco che idrata i capelli dalle radici alle punte e acido salicilico che rimuove le impurità dal cuoio capelluto
 - Applicare sui capelli bagnati e risciacquare abbondantemente
+- Formula arricchita con acqua di cocco che idrata i capelli dalle radici alle punte e acido salicilico che rimuove le impurità dal cuoio capelluto
+- Contenuto: 1x Garnier Fructis Shampoo Purificante, Per Capelli Cute Grassa e Punte Secche, Azione Seboregolatrice, Con Estratto di Acqua di Cocco e Acido Salicilico, Pure Non-Stop Cocconato Water, 250 ml
+- Shampoo purificante per capelli con cute grassa e punte secche, Idrata in profondità grazie alla formula arricchita con acqua di cocco, Non appesantisce
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BZSZZG75{{</world>}}

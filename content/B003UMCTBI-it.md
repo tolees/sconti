@@ -28,10 +28,10 @@ average: '0.97'
 
 ℹ️:
 
-- INGREDIENTI: farina integrale di grano tenero con crusca a foglia larga. Senza aromi, olio di palma, additivi coloranti e conservanti, grassi idrogenati e ingredienti OGM
 - FETTE BISCOTTATE MULINO BIANCO: friabili e croccanti, preparate con materie prime accuratamente selezionate e controllate. Semplici e genuine: così buone e facili da spalmare, perfette da inzuppare
-- LE INTEGRALI: semplici, genuine e ricche di fibra: 100% Integrali 100% Buone, ideali per una colazione ricca di fibre
+- INGREDIENTI: farina integrale di grano tenero con crusca a foglia larga. Senza aromi, olio di palma, additivi coloranti e conservanti, grassi idrogenati e ingredienti OGM
 - PER LA TUA COLAZIONE: 4 fette biscottate integrali, 4 cucchiaini di marmellata di albicocche, una tazza di tè, mandorle. Per un totale di calorie pari al 18% del tuo fabbisogno energetico giornaliero
+- LE INTEGRALI: semplici, genuine e ricche di fibra: 100% Integrali 100% Buone, ideali per una colazione ricca di fibre
 - MULINO BIANCO: al Mulino Bianco si ricerca da sempre la qualità. Biscotti, Dolcetti, Merende, Pani e Snack per accompagnarti in ogni momento della giornata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

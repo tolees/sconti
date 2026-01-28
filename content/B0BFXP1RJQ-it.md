@@ -28,8 +28,8 @@ average: '9.99'
 
 ℹ️:
 
-- Le ombre di Rose: disponibile un nuovo scenario che vede come protagonista Rose cresciuta, lamata figlia di Ethan, il cui rapimento da bambina ha dato il via alla trama di Village.
 - Visuale in terza persona: gioca la storia principale da una prospettiva del tutto nuova.
+- Le ombre di Rose: disponibile un nuovo scenario che vede come protagonista Rose cresciuta, lamata figlia di Ethan, il cui rapimento da bambina ha dato il via alla trama di Village.
 - Mercenari - Missioni aggiuntive: tre nuovi personaggi scendono in campo, inclusa la scultorea Lady Dimitrescu, per la prima volta giocabile.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

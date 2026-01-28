@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- SEGA AD ASTA E TAGLIASIEPI ADTA PER GRANDI GIARDINI - la sega ad asta 2 in 1 ti permette di passare facilmente da un attrezzo allaltro per tagliare, modellare e potare siepi e alberi con unasta fino a 2,4m di estensione
 - BATTERIA AL LITIO DI NUOVA GENERAZIONE 40V 2Ah - alimentato da una batteria evoluta che può essere utilizzata in qualsiasi apparecchio Greenworks da 40V
-- 3 ANNI DI GARANZIA CON 2 ANNI DI GARANZIA PER LA BATTERIA - Da Greenworks , leader mondiale negli attrezzi elettrici e della tecnologia a batterie, con una reputazione globale per design intelligente, prestazioni elevate e un servizio clienti eccezionale
 - Nota si prega di non tagliare i rami oltre i 15 mm o anche troppo duri, in questo caso il cliente deve fermare immediatamente gli strumenti e pulire i rami. Si consiglia di non tagliare i rami forti e duri in modo che ciò non accada.
 - SEGA AD ASTA CON ALBERO DIVISIBILE E OLIATORE AUTOMATICO - grazie alla lama lunga 20cm e la velocità di 8m/s questa sega ad asta è perfetta per tagliare rami alti. Inoltre, il pratico oliatore automatico eroga sempre la quantità di lubrificante necessaria
+- 3 ANNI DI GARANZIA CON 2 ANNI DI GARANZIA PER LA BATTERIA - Da Greenworks , leader mondiale negli attrezzi elettrici e della tecnologia a batterie, con una reputazione globale per design intelligente, prestazioni elevate e un servizio clienti eccezionale
 - TAGLIO DI ALTO LIVELLO CON LAME A DOPPIA AZIONE - entrambe le lame si muovono allo stesso tempo per tagli più puliti e veloci rispetto a una singola lama
-- SEGA AD ASTA E TAGLIASIEPI ADTA PER GRANDI GIARDINI - la sega ad asta 2 in 1 ti permette di passare facilmente da un attrezzo allaltro per tagliare, modellare e potare siepi e alberi con unasta fino a 2,4m di estensione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B06WWBJ8DR{{</world>}}

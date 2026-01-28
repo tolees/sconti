@@ -28,10 +28,10 @@ average: '221.658333333334'
 
 ℹ️:
 
-- 27 Giorni di Durata della Batteria: LAmazfit T-Rex 3 può durare 27 giorni con un uso tipico, 42 ore in modalità GPS accurata e fino a 114 ore in modalità GPS Long Battery Life. Con alcune impostazioni disattivate, lutilizzo del GPS può durare fino a 180 ore per lunghe escursioni.
 - Pagamento NFC Senza Contatto: Zepp Pay consente di associare fino a otto carte bancarie alla volta allAmazfit T-Rex 3, per pagamenti contactless protetti da password direttamente dal polso.
 - Mappe Gratuite e GPS Avanzato: Scaricate gratuitamente mappe globali, curve di livello e mappe della neve. Seguite le vostre avventure con precisione grazie al posizionamento a doppia banda, supportato da 6 sistemi satellitari per una connessione veloce. Importa file di percorso e ottieni indicazioni sulle svolte mentre vai.
 - Display Ampio e Luminoso: Il display AMOLED può raggiungere una luminosità massima di 2000 nit; leggi facilmente le tue mappe e i dati dellallenamento in qualsiasi luce. La modalità notturna riduce laffaticamento degli occhi al buio e la modalità guanti mantiene lo schermo reattivo quando indossi guanti spessi 2 mm.
+- 27 Giorni di Durata della Batteria: LAmazfit T-Rex 3 può durare 27 giorni con un uso tipico, 42 ore in modalità GPS accurata e fino a 114 ore in modalità GPS Long Battery Life. Con alcune impostazioni disattivate, lutilizzo del GPS può durare fino a 180 ore per lunghe escursioni.
 - Costruito per lAvventura: Affronta qualsiasi sfida grazie alla lunetta e ai pulsanti in acciaio inossidabile 316L. Il corpo di grado militare resiste al calore di 70℃ e al freddo di -30℃. Impermeabile fino a 100 metri, lorologio è ideale per il surf e può essere utilizzato per le immersioni in apnea fino a 45 metri di profondità.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

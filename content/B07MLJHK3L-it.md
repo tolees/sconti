@@ -28,8 +28,8 @@ average: '16.553846153846'
 
 ℹ️:
 
-- IMPARARE GIOCANDO: oltre 200 componenti, tra cui differenziale e sterzo a cremagliera, per costruire 10 diversi modelli, permettendo ai bambini di comprendere come funzionano gli ingranaggi e le leve, trasformando lapprendimento in unavventura
 - LABORATORIO MONSTER TRUCK: un set completo per costruire potenti Monster Trucks e veicoli esplorando i principi della meccanica e dellingegneria e stimolando creatività, logica e abilità manuali
+- IMPARARE GIOCANDO: oltre 200 componenti, tra cui differenziale e sterzo a cremagliera, per costruire 10 diversi modelli, permettendo ai bambini di comprendere come funzionano gli ingranaggi e le leve, trasformando lapprendimento in unavventura
 - COME GIOCARE: i bambini possono assemblare i veicoli seguendo il manuale distruzioni o lapp dedicata, esplorando le dinamiche della meccanica con attività pratiche che sviluppano la capacità di risolvere problemi e la loro creatività ingegneristica
 - COSA CONTIENE: gioco scientifico Made in Italy, per bambini dagli 8 anni in su, include oltre 200 componenti per costruire Monster Trucks e altri 10 modelli di veicoli
 - CLEMENTONI SCIENZA E GIOCO BUILD: una serie di modellini in scala da costruire, smontare e ricostruire, stimolando la fantasia e imparando importanti concetti di ingegneria e meccanica; tanti kit spettacolari per unire progettazione, manualità e ingegno

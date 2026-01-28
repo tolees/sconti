@@ -28,11 +28,11 @@ average: '972.57'
 
 ℹ️:
 
-- Audio Dolby Atmos Multi Channel Surround 4.1.2
-- Mini-LED PRO con Local Dimming
 - QLED Display 165Hz
 - Smart TV Mini-LED 165Hz 4K 65", Risoluzione 3840x2160
+- Audio Dolby Atmos Multi Channel Surround 4.1.2
 - Dolby Vision IQ / HDR 10+ / HLG
+- Mini-LED PRO con Local Dimming
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F1WBGQBM{{</world>}}

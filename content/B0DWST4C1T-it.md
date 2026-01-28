@@ -28,11 +28,11 @@ average: '0.99'
 
 ℹ️:
 
-- Facile da prepare: Sono pronte in 1 minuto nel microoonde o in padella
+- Modalità di preparazione in padella: Versa il riso in una padella, aggiungi 1 cucchiaio di acqua e scalda per 1 minuto. Mescola, servi
 - Modalità di preparazione Microonde: Scalda in microonde 1 min con la confezione leggermente aperta. Per più morbidezza, aggiungi 1 cucchiaio d’acqua prima. Apri e servi
 - Apri Scalda e Gusta sono pratiche cup di riso da consumare a casa, a scuola e in ufficio
+- Facile da prepare: Sono pronte in 1 minuto nel microoonde o in padella
 - Si conserva a temperatura ambiente. L’incarto della confezione è stato realizzato con carta da FONTI RESPONSABILI FSC
-- Modalità di preparazione in padella: Versa il riso in una padella, aggiungi 1 cucchiaio di acqua e scalda per 1 minuto. Mescola, servi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DWST4C1T{{</world>}}

@@ -28,11 +28,11 @@ average: '78.24'
 
 ℹ️:
 
+- Coppia di serraggio max 17 nm, preselazione n° di giri, 50-3000 giri/min, n° 45.000 colpi/min
 - Con kickback control, linnovazione mondiale che previene il rischio di torsione accidentale
+- Diametro foro: 30 mm/legno, 12 mm/acciaio, 14 mm/calcestruzzo
 - Trapano battente da 800 watt
 - Mandrino autoserrante da 13 mm Press&Lock
-- Coppia di serraggio max 17 nm, preselazione n° di giri, 50-3000 giri/min, n° 45.000 colpi/min
-- Diametro foro: 30 mm/legno, 12 mm/acciaio, 14 mm/calcestruzzo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B06XR5FVW3{{</world>}}

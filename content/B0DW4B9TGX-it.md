@@ -28,8 +28,8 @@ average: '11.63'
 
 ℹ️:
 
-- Sunsilk Shampoo Ricci da Sogno 400ml
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
+- Sunsilk Shampoo Ricci da Sogno 400ml
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DW4B9TGX{{</world>}}

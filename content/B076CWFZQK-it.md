@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Questo siero idratante in gel rimpolpa, rinforza e ripara la barriera cutanea difendendo la pelle da inquinamento, stress e aggressioni ambientali. Formulato con acido ialuronico e acqua vulcanica di Vichy arricchita con 15 minerali essenziali, dona alla pelle un aspetto sano e luminoso.
 - Applica mattina e sera sul volto deterso massaggiando delicatamente fino al completo assorbimento. Per una routine completa, usa con i prodotti skincare della linea Minéral 89.
+- Questo siero idratante in gel rimpolpa, rinforza e ripara la barriera cutanea difendendo la pelle da inquinamento, stress e aggressioni ambientali. Formulato con acido ialuronico e acqua vulcanica di Vichy arricchita con 15 minerali essenziali, dona alla pelle un aspetto sano e luminoso.
 - Idrata e protegge a fondo per una pelle immediatamente tonica, rimpolpata e il 71% più rinforzata. Dermatologicamente testato e adatto alle pelli sensibili.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

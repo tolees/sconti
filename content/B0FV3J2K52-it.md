@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- REGALO: il cofanetto Perlier Mandorla è il dono perfetto per chi ha cura della propria pelle: due prodotti essenziali da 250 ml in un’elegante box, fragranza calda e avvolgente. Ideale per compleanni, ricorrenze, feste e piccoli pensieri
 - CONTENUTO: cofanetto regalo con Bagno Doccia Mandorla 250 ml e Latte Corpo Mandorla 250 ml. 2 ricette da usare in sinergia; texture avvolgenti e profumo di mandorla. Pensato per una pelle subito più morbida, elastica e piacevolmente vellutata
 - QUALITÀ PERLIER: Marchio italiano da oltre 50 anni fonde natura e scienza per creare prodotti efficaci e delicati sulla pelle. Il nostro impegno per la qualità ci permette di sviluppare soluzioni cosmetiche che sono un piacere per tutti i sensi
 - CARATTERISTICHE: con olio di mandorle dolci italiane spremuto a freddo, ricco in lipidi nutrienti. Deterge con delicatezza e idrata intensamente, aiutando a migliorare tono ed elasticità. Fragranza gourmand di mandorla per un’esperienza sensoriale unica
+- REGALO: il cofanetto Perlier Mandorla è il dono perfetto per chi ha cura della propria pelle: due prodotti essenziali da 250 ml in un’elegante box, fragranza calda e avvolgente. Ideale per compleanni, ricorrenze, feste e piccoli pensieri
 - MODI D’USO: Bagno/Doccia—massaggiare su pelle umida e risciacquare. Latte Corpo—applicare dopo la doccia con movimenti circolari: si assorbe rapidamente, non unge. Routine semplice per pelle più elastica, setosa e luminosa fin dal primo utilizzo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

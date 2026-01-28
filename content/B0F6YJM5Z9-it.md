@@ -28,10 +28,10 @@ average: '99.9'
 
 ℹ️:
 
-- IDEA REGALO: vivo Y19s è lo smartphone ideale da donare, grazie al design elegante e leggero, alle funzioni avanzate e alla potenza della batteria. Un dono tecnologico che sorprende e conquista subito chi lo riceve
 - BATTERIA SUPER POTENTE: 5.150 mAh con ricarica rapida FlashCharge 44W, autonomia prolungata per ogni utilizzo.
-- FOTOCAMERA AI 50MP: sensore principale da 50 MP per immagini nitide, ottimizzazione intelligente delle foto, funzione Foto nascoste per proteggere i tuoi ricordi e modalità Schermo diviso per multitasking senza sforzo.
 - AUDIO IMMERSIVO: doppio altoparlante con volume fino al 300%, per un suono cristallino e potente anche in ambienti rumorosi.
+- FOTOCAMERA AI 50MP: sensore principale da 50 MP per immagini nitide, ottimizzazione intelligente delle foto, funzione Foto nascoste per proteggere i tuoi ricordi e modalità Schermo diviso per multitasking senza sforzo.
+- IDEA REGALO: vivo Y19s è lo smartphone ideale da donare, grazie al design elegante e leggero, alle funzioni avanzate e alla potenza della batteria. Un dono tecnologico che sorprende e conquista subito chi lo riceve
 - DESIGN SOTTILE E LEGGERO e DISPLAY BRILLANTE: corpo da soli 8,1 mm e 198 g, ergonomico e minimal, facile da impugnare e confortevole da impugnare; schermo da 6.68" con frequenza di aggiornamento a 90 Hz e luminosità fino a 1.000 nits, perfetto anche sotto la luce del sole.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

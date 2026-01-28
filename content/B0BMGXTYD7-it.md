@@ -28,10 +28,10 @@ average: '16.8'
 
 ℹ️:
 
-- TESSUTO MAXFIT ECO: Il tessuto arena MaxFit Eco è resistente a cloro e sale e stretch a 4 vie; ha una protezione UV UPF 50+ integrata e, oltre ad una asciugatura rapida, offre il giusto equilibrio tra vestibilità e comfort; realizzato in poliammide riciclato
-- COMODO: Il morbido tessuto foderato sul davanti garantisce un comfort elevato, mentre il cordino interno regolabile offre unottima vestibilità; lunghezza laterale: 7 cm
-- COSTUME PISCINA E MARE: Gli slip da bagno uomo arena Dynamo R, parte della linea arena Feel, sono ottimi sia per la piscina che per il mare, pensati per i nuotatori occasionali che vogliono allenarsi in comodità
 - COMPOSIZIONE: Costume da nuoto uomo realizzato in 80% Poliammide e 20% Elastam (tessuto ecologico: il 100% del Poliammide è riciclato); tessuto adatto alla pelle con certificazione STANDARD 100 by OEKO-TEX
+- COMODO: Il morbido tessuto foderato sul davanti garantisce un comfort elevato, mentre il cordino interno regolabile offre unottima vestibilità; lunghezza laterale: 7 cm
+- TESSUTO MAXFIT ECO: Il tessuto arena MaxFit Eco è resistente a cloro e sale e stretch a 4 vie; ha una protezione UV UPF 50+ integrata e, oltre ad una asciugatura rapida, offre il giusto equilibrio tra vestibilità e comfort; realizzato in poliammide riciclato
+- COSTUME PISCINA E MARE: Gli slip da bagno uomo arena Dynamo R, parte della linea arena Feel, sono ottimi sia per la piscina che per il mare, pensati per i nuotatori occasionali che vogliono allenarsi in comodità
 - COSTUME DA NUOTO: Lo slip nuoto da uomo arena Dynamo R è un comodo e resistente costume da bagno dal taglio classico realizzato in tessuto MaxFit Eco, che assicura massimo comfort e vestibilità elevata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ average: '528.49'
 
 ℹ️:
 
-- Batteria da 5300mAh
 - HONOR Eye Comfort Display
+- Batteria da 5300mAh
 - Fotocamera AI da 200 MP con 50x Ai Super Zoom
 - IP68
 - AI intelligence Experience

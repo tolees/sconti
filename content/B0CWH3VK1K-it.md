@@ -28,12 +28,12 @@ average: '72.99'
 
 ℹ️:
 
-- Mech giocattolo da costruire: il gioco davventura per bambini e bambine da 12 anni, il set LEGO NINJAGO Mech Drago Titanio di Cole, permette ai piccoli di vivere le battaglie della Stagione 2 del programma TV La rivolta dei draghi NINJAGO
-- 1 minifigure delleroe giocattolo per bambini: il set contiene il personaggio Mech Cole con 2 spade katana dorate, per tanti giochi da battaglia tra ninja
-- Mech LEGO NINJAGO snodabile: questo grande mech titanio LEGO NINJAGO è dotato di braccia, gambe, testa, corpo e punti di rotazione e articolazioni snodabili, che gli consentono di assumere pose dinamiche da battaglia
 - Regalo LEGO NINJAGO per bambini: questo mech offre una divertente esperienza di costruzione, ed è una divertente idea regalo di compleanno per i bambini e le bambine che amano vivere l’azione con i loro eroi ninja
-- Ali e spada giocattolo di drago: questo gioco d’azione include anche un paio di ali di drago sulla schiena, una grande spada e una cabina per la minifigure LEGO NINJAGO di Cole sotto la testa
 - Avventure ninja emozionanti: altri giocattoli LEGO NINJAGO aspettano i piccoli ninja (set disponibili separatamente), per ricreare l’azione con il Mech drago titanio di Cole
+- Ali e spada giocattolo di drago: questo gioco d’azione include anche un paio di ali di drago sulla schiena, una grande spada e una cabina per la minifigure LEGO NINJAGO di Cole sotto la testa
+- Mech LEGO NINJAGO snodabile: questo grande mech titanio LEGO NINJAGO è dotato di braccia, gambe, testa, corpo e punti di rotazione e articolazioni snodabili, che gli consentono di assumere pose dinamiche da battaglia
+- 1 minifigure delleroe giocattolo per bambini: il set contiene il personaggio Mech Cole con 2 spade katana dorate, per tanti giochi da battaglia tra ninja
+- Mech giocattolo da costruire: il gioco davventura per bambini e bambine da 12 anni, il set LEGO NINJAGO Mech Drago Titanio di Cole, permette ai piccoli di vivere le battaglie della Stagione 2 del programma TV La rivolta dei draghi NINJAGO
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CWH3VK1K{{</world>}}

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Uniscono la delicatezza del miele con la bontà del latte
-- Il gusto genuino e delizioso delle cose semplici
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
+- Uniscono la delicatezza del miele con la bontà del latte
 - Racchiudono un golosissimo ripieno per uneplosione di sapore
+- Il gusto genuino e delizioso delle cose semplici
 - Pratica confezione da portare ovunque
 - Ottime per uno spuntino pomeridiano
 

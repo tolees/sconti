@@ -28,11 +28,11 @@ average: '15.33'
 
 ℹ️:
 
+- ROTAZIONE A 360 GRADI: la testa panoramica a tre vie consente una rotazione orizzontale di 360 gradi e uninclinazione verticale di 180 gradi per inquadrature versatili
+- DESIGN PORTATILE: leggero e facile da trasportare ovunque; include una borsa protettiva per il trasporto
+- COMPATIBILE CON TELEFONO E FOTOCAMERA: treppiede per fotocamera con custodia; compatibile con telefoni larghi fino a 8,4cm e con la maggior parte delle fotocamere digitali
 - CONTROLLO WIRELESS: telecomando estraibile con portata di 9,1m; compatibile con dispositivi Android e iOS
 - ALTEZZA REGOLABILE: altezza regolabile da 41,4cm a 127cm con gambe telescopiche a quattro sezioni in lega di alluminio, con blocchi di sicurezza per un posizionamento stabile
-- DESIGN PORTATILE: leggero e facile da trasportare ovunque; include una borsa protettiva per il trasporto
-- ROTAZIONE A 360 GRADI: la testa panoramica a tre vie consente una rotazione orizzontale di 360 gradi e uninclinazione verticale di 180 gradi per inquadrature versatili
-- COMPATIBILE CON TELEFONO E FOTOCAMERA: treppiede per fotocamera con custodia; compatibile con telefoni larghi fino a 8,4cm e con la maggior parte delle fotocamere digitali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DZ5GJ9VC{{</world>}}

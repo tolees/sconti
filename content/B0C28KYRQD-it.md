@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Formato: 10 confezioni da 3 lattine, ciascuna da 70gr.
-- Valori nutrizionali: fonte di proteine
 - Consigli duso: ideale per preparare primi piatti, da provare anche in uninsalata di cous cous con una grattuggiata di parmigiano
 - Sostenibilità: Nostromo si impegna da tempo per fornire prodotti rispettosi delle politiche di sostenibilità grazie alle flotte che pescano rispettando le zone FAO e seguendo le linee guida in materia ittica
 - Tonno allOlio di Oliva, immancabile classico, una scelta buona, sana e responsabile in formato scorta
+- Formato: 10 confezioni da 3 lattine, ciascuna da 70gr.
+- Valori nutrizionali: fonte di proteine
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C28KYRQD{{</world>}}

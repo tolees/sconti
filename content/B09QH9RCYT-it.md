@@ -28,12 +28,12 @@ average: '90.0'
 
 ℹ️:
 
-- La costruzione senza cuciture ECCO FLUIDFORM garantisce una calzata naturale e un legame resistente tra la tomaia e la suola
-- Realizzati in tradizionale pelle nabuk oliata o pelle liscia come la seta prodotte da ECCO
-- Le robuste suole con dentellatura in gomma forniscono trazione in diversi tipi di condizioni meteorologiche e superfici
-- Costruzione impermeabile ECCO WATERPROOF
 - Pelle prodotta utilizzando il metodo ECCO DriTan per ridurre l’acqua e le sostanze chimiche comunemente utilizzate durante il processo di concia
 - Collare imbottito confortevole con interno in tessuto e soletta interna in tessuto rimovibile per una maggiore ammortizzazione
+- La costruzione senza cuciture ECCO FLUIDFORM garantisce una calzata naturale e un legame resistente tra la tomaia e la suola
+- Costruzione impermeabile ECCO WATERPROOF
+- Realizzati in tradizionale pelle nabuk oliata o pelle liscia come la seta prodotte da ECCO
+- Le robuste suole con dentellatura in gomma forniscono trazione in diversi tipi di condizioni meteorologiche e superfici
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09QH9RCYT{{</world>}}

@@ -28,8 +28,8 @@ average: '21.99'
 
 ℹ️:
 
-- DIMENSIONI - Ø 9,5 cm; 16,5 cm h
 - CURA DEL PRODOTTO - pulire esclusivamente con un panno morbido asciutto; evita che vengano a contatto con liquidi o prodotti aggressivi; non idoneo al contatto con alimenti
+- DIMENSIONI - Ø 9,5 cm; 16,5 cm h
 - MATERIALI - ceramica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

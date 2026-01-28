@@ -28,9 +28,9 @@ average: '15.74'
 
 ℹ️:
 
-- Caramella con zucchero a forma di fischietto e al gusto cola
 - Chupa Chups Melody Pops è il Lollipop fischietto che suona davvero
 - Allinterno dei pack puoi trovare un QR code: scannerizzalo e esercitati a suonare Melody Pops
+- Caramella con zucchero a forma di fischietto e al gusto cola
 - Formato da 48 Lollipop
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

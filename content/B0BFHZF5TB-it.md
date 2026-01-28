@@ -28,14 +28,14 @@ average: '71.84'
 
 ℹ️:
 
-- Prodotto 2: Sistema Bialetti: capsule compatibili con macchine espresso Bialetti sistema chiuso (Gioia, Super, Break)
-- Prodotto 1: Sistema Bialetti: capsule compatibili con macchine espresso Bialetti sistema chiuso (Gioia, Super, Break)
 - Prodotto 2: Multipack: 128 Capsule (8 Box da 16 Capsule)
-- Prodotto 1: Multipack: 128 Capsule (8 Box da 16 Capsule)
-- Prodotto 1: Capsula in alluminio: per mantenere al meglio laroma del caffè nel tempo e proteggerlo dalla luce e dagli agenti esterni; Il caffè conserva così un’inconfondibile sensazione di freschezza, come se fosse appena macinato
 - Prodotto 2: Capsula in alluminio: per mantenere al meglio laroma del caffè nel tempo e proteggerlo dalla luce e dagli agenti esterni; Il caffè conserva così un’inconfondibile sensazione di freschezza, come se fosse appena macinato
+- Prodotto 1: Sistema Bialetti: capsule compatibili con macchine espresso Bialetti sistema chiuso (Gioia, Super, Break)
 - Prodotto 1: 7 gr di caffè per un espresso a regola darte
 - Prodotto 2: 7 gr di caffè per un espresso a regola darte
+- Prodotto 1: Capsula in alluminio: per mantenere al meglio laroma del caffè nel tempo e proteggerlo dalla luce e dagli agenti esterni; Il caffè conserva così un’inconfondibile sensazione di freschezza, come se fosse appena macinato
+- Prodotto 1: Multipack: 128 Capsule (8 Box da 16 Capsule)
+- Prodotto 2: Sistema Bialetti: capsule compatibili con macchine espresso Bialetti sistema chiuso (Gioia, Super, Break)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BFHZF5TB{{</world>}}

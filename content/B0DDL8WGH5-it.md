@@ -29,12 +29,12 @@ average: '143.0'
 ℹ️:
 
 - Connessione diretta allecosistema DJI - Con DJI OsmoAudio, un trasmettitore può connettersi a Osmo Action 5 Pro, Osmo Action 4 o Osmo Pocket 3 senza il ricevitore, offrendo audio premium attraverso un setup compatto di microfono wireless.
+- Suono ricco e dettagliato - Mic Mini è un microfono wireless che offre un audio di alta qualità. La distanza di trasmissione massima di 400 m [2] garantisce una registrazione stabile, anche in ambienti rumorosi come le strade affollate.
+- Cancellazione del rumore efficace - Sono disponibili 2 livelli di cancellazione del rumore: Base è ideale per gli ambienti interni silenziosi, mentre Alto eccelle in ambienti rumorosi per fornire registrazioni vocali chiare con un microfono lavalier. [8]
+- Piccolo ma potente - Il trasmettitore DJI Mic Mini è piccolo e ultraleggero, con un peso di soli 10 g [1], rendendolo un comodo microfono lavalier da indossare, discreto e esteticamente piacevole in video.
+- Batteria prolungata, più tempo per registrare - Mic Mini con custodia di ricarica offre fino a 48 ore di autonomia operativa, [3] rendendolo un microfono lavalier ideale per viaggi lunghi, interviste, dirette streaming e altri scenari di uso intensivo.
 - Include due DJI Mic Mini TX, un RX, una custodia di ricarica e altri accessori, rendendolo una configurazione di microfono wireless ideale per scenari prolungati come interviste, dirette streaming, creazione di contenuti e altro.
 - Audio sempre impeccabile - DJI Mic Mini è dotato di una funzione di limitazione automatica per ridurre il volume se laudio in ingresso è troppo alto, prevenendo il clipping e garantendo una qualità audio affidabile come un ottimo microfono wireless in ogni situazione.
-- Batteria prolungata, più tempo per registrare - Mic Mini con custodia di ricarica offre fino a 48 ore di autonomia operativa, [3] rendendolo un microfono lavalier ideale per viaggi lunghi, interviste, dirette streaming e altri scenari di uso intensivo.
-- Cancellazione del rumore efficace - Sono disponibili 2 livelli di cancellazione del rumore: Base è ideale per gli ambienti interni silenziosi, mentre Alto eccelle in ambienti rumorosi per fornire registrazioni vocali chiare con un microfono lavalier. [8]
-- Suono ricco e dettagliato - Mic Mini è un microfono wireless che offre un audio di alta qualità. La distanza di trasmissione massima di 400 m [2] garantisce una registrazione stabile, anche in ambienti rumorosi come le strade affollate.
-- Piccolo ma potente - Il trasmettitore DJI Mic Mini è piccolo e ultraleggero, con un peso di soli 10 g [1], rendendolo un comodo microfono lavalier da indossare, discreto e esteticamente piacevole in video.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DDL8WGH5{{</world>}}

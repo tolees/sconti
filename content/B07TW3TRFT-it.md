@@ -28,9 +28,9 @@ average: '3.49'
 
 ℹ️:
 
+- Flusso luminoso senza tempi di preaccensione
 - Potenza 2,5 W
 - Lampada a forma di goccia
-- Flusso luminoso senza tempi di preaccensione
 - Base della lampadina E14
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

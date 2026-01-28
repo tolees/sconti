@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Il caricabatterie per auto 24 watt 2 porte USB si collega alladattatore DC dellauto e può ricaricare fino a 2 dispositivi contemporaneamente. Ideale per cellulari, tablet e altri dispositivi
 - Input 12/24 Volt; un LED discreto conferma il collegamento senza distrarre; cavo di ricarica non incluso;
 - Il sistema di sicurezza integrato include la protezione da corto-circuito, sovraccarico e sovratensione (certificato CE, FCC e RoHS); leggero e compatto per la massima comodità di trasporto
 - Grazie alla funzione di rilevamento del dispositivo, è possibile caricare alla massima velocità consentita, fino a 2,4 A per porta o 4,8 A totali (non compatibile con la ricarica Qualcomm Quick)
-- Il caricabatterie per auto 24 watt 2 porte USB si collega alladattatore DC dellauto e può ricaricare fino a 2 dispositivi contemporaneamente. Ideale per cellulari, tablet e altri dispositivi
 - Compatibile con iPhone 16/15/14/13/12/11/X/8/7/6/5/SE, iPad Mini, AirPods, Apple Watch, iPod Touch, iPod Touch, iPod nano, Beats Pill; Samsung Galaxy S24/S23/S22/S20/S10/S9/S8/S7/S5/S4; Huawei P60; Xiaomi 14; LG G8, LG V60, LG Velvet; Google Pixel, Nexus; HTC Desire, Wildfire; Motorola; Asus; Blackberry; Nokia; Sony e altri dispositivi compatibili con USB. Nota: il cavo non è incluso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

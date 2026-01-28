@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Nota di base: la potente nota di cuore della fragranza, che nasce dalleredità della fragranza di base ARMANI CODE, è caratterizzata da una potente assoluta di fava tonka del Brasile. Insieme al cuore di legno di cedro della Virginia, negli Stati Uniti, le note di fondo di ARMANI CODE PARFUME sottolineano la firma dominante della fragranza ARMANI CODE
 - Nota di cuore: la nota di cuore della fragranza è costituita da un cuore di salvia sclarea proveniente dalla Provenza, nel sud della Francia. Lelegante nota di cuore della fragranza si basa sulla fusione di note naturali e tecnologiche di iris. Questa miscela di resinoide naturale di iris del Marocco e di aldeidi sintetiche di iris conferisce alla firma aromatica di ARMANI CODE delicatezza
 - Nota di testa: si apre con radiose note di testa ricche di Vert de Bergamote e Cuore di Bergamotto, entrambi provenienti dalla regione italiana della Calabria. Vert de Bergamote è ottenuto mediante distillazione molecolare, che consente al profumiere di selezionare accuratamente uno specifico segmento molecolare di bergamotto. Questa tecnica per dare forma alla fragranza cattura la nota di testa fresca e verde del bergamotto e crea una freschezza di lunga durata
-- Nota di base: la potente nota di cuore della fragranza, che nasce dalleredità della fragranza di base ARMANI CODE, è caratterizzata da una potente assoluta di fava tonka del Brasile. Insieme al cuore di legno di cedro della Virginia, negli Stati Uniti, le note di fondo di ARMANI CODE PARFUME sottolineano la firma dominante della fragranza ARMANI CODE
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B946ZKHN{{</world>}}

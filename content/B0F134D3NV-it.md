@@ -32,8 +32,8 @@ average: '14.6'
 - Lo iodio contribuisce alla crescita normale dei bambini.
 - Senza coloranti, aromi artificiali e senza gelatina animale
 - Ad alto contenuto di fibre
-- La vitamina D è necessaria per la normale crescita e per lo sviluppo osseo nei bambini.
 - Vegetariane
+- La vitamina D è necessaria per la normale crescita e per lo sviluppo osseo nei bambini.
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

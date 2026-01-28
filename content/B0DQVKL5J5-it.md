@@ -28,10 +28,10 @@ average: '7.95'
 
 ℹ️:
 
-- ENERVIT: Formuliamo e produciamo soluzioni nutrizionali e di integrazione innovative con un preciso obiettivo: aiutare tutte le persone a migliorare la qualità della propria vita
 - BENEFICI: 2 gelatine di Pre Sport forniscono circa 50 g di carboidrati assumendole non oltre le 2h antecedenti la partenza, e mantengono alti i livelli di energia durante lattività fisica
-- PRE SPORT: Pre Sport è un integratore energetico altamente tecnico a base di carboidrati. Pratico da assumere, è ideale per avere la giusta determinazione prima dellattività sportiva
+- ENERVIT: Formuliamo e produciamo soluzioni nutrizionali e di integrazione innovative con un preciso obiettivo: aiutare tutte le persone a migliorare la qualità della propria vita
 - PROPRIETA: Al gusto arancia e senza glutine, questo pre sport è arricchito con isomaltulosio e Vitamina B1. Ti aiuta nei momenti di massimo sforzo, contribuendo al normale metabolismo energetico
+- PRE SPORT: Pre Sport è un integratore energetico altamente tecnico a base di carboidrati. Pratico da assumere, è ideale per avere la giusta determinazione prima dellattività sportiva
 - MODO DUSO: Assumere 2 gelatine da 45 g 1-2 ore prima dell’esercizio fisico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

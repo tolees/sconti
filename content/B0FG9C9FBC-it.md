@@ -28,12 +28,12 @@ average: '22.39'
 
 ℹ️:
 
-- LUNGHEZZA DEL CAPO: 67,3cm dal lato del collo nella taglia M (IT)
-- VESTIBILITÀ COMODA: vestibilità comoda e rilassata su spalle, petto e vita
-- MISTO COTONE DI PESO MEDIO LAVORATO: molto morbido, con una sensazione piacevole di calore al tatto
 - DETTAGLI: scollo a V profondo, abbottonatura frontale, polsini e orlo inferiore a costine
+- VESTIBILITÀ COMODA: vestibilità comoda e rilassata su spalle, petto e vita
+- LUNGHEZZA DEL CAPO: 67,3cm dal lato del collo nella taglia M (IT)
 - CARDIGAN A COSTINE: unopzione scelta raffinata per un look a strati, realizzato nella classica lavorazione a coste inglesi
 - SCELTO DA DEMI: questo prodotto della nostra nuova collezione Amazon Essentials è stato scelto da Demi Lovato
+- MISTO COTONE DI PESO MEDIO LAVORATO: molto morbido, con una sensazione piacevole di calore al tatto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FG9C9FBC{{</world>}}

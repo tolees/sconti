@@ -28,9 +28,9 @@ average: '10.0338461538462'
 
 ℹ️:
 
-- Contrassegno: Revlon Make Up
-- Genere: donna
 - Prodotto di ottima qualità
+- Genere: donna
+- Contrassegno: Revlon Make Up
 - Testura: liquido
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

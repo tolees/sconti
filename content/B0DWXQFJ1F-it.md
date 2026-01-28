@@ -28,11 +28,11 @@ average: '13.64'
 
 ℹ️:
 
-- SHAMPOO ANTICADUTA DONNA: shampoo ristrutturante specifico per la detersione di capelli fragili e sfibrati, che tendono a diradarsi
 - PROGRAMMA IN & OUT: BIOMINERAL e BIOTHYMUS, combinano i benefici di nutrienti specifici per il benessere del capello, agendo dall’interno e dall’esterno per risultati concreti visibili
-- MODALITÀ DUSO: utilizzare come un normale shampoo 2/3 volte alla settimana; applicare su capelli bagnati e massaggiare accuratamente, lasciare in posa qualche minuto e risciacquare
-- AVVERTENZE: trattamento anticaduta capelli solo per uso esterno, evitare il contatto con gli occhi; non utilizzare il prodotto in caso di ipersensibilità a uno degli ingredienti
+- SHAMPOO ANTICADUTA DONNA: shampoo ristrutturante specifico per la detersione di capelli fragili e sfibrati, che tendono a diradarsi
 - INGREDIENTI ATTIVI: il SH-Polypeptide-9 favorisce il microcircolo, la Condramina sostiene la vitalità dei capelli e le lattoglobuline prolungano la fase di crescita
+- AVVERTENZE: trattamento anticaduta capelli solo per uso esterno, evitare il contatto con gli occhi; non utilizzare il prodotto in caso di ipersensibilità a uno degli ingredienti
+- MODALITÀ DUSO: utilizzare come un normale shampoo 2/3 volte alla settimana; applicare su capelli bagnati e massaggiare accuratamente, lasciare in posa qualche minuto e risciacquare
 - BIOTHYMUS ACTIVE: linea energizzante contro la caduta dei capelli causata da stress e stanchezza per donne inclini a diradamento e fragilità dei capelli
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

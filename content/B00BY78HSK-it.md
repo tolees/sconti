@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Combatte le zanzare con leggerezza: Autan Family Care Spray Secco è la soluzione perfetta per proteggerti dalle zanzare senza lasciare residui untuosi. La sua formula leggera e veloce si assorbe rapidamente sulla pelle, garantendo una protezione fino a 4 ore dallapplicazione. E adatto anche ai bambini che abbiano compiuto i 2 anni di età;
-- Libertà senza preoccupazioni: vivi ogni momento allaria aperta con fiducia grazie a Autan Family Care Spray Secco. Proteggi te stesso e la tua famiglia dalle fastidiose punture di zanzara e dagli insetti molesti, godendo appieno dellestate senza compromettere il comfort della tua pelle;
 - Versatile in ogni situazione: adatto a varie attività estive, dallesplorazione in spiaggia al relax in giardino, Autan Family Care Spray Secco è il compagno perfetto per le tue avventure allaperto. La formula resistente allacqua permette di proteggere anche in caso di sudorazione o di ambienti umidi;
+- Libertà senza preoccupazioni: vivi ogni momento allaria aperta con fiducia grazie a Autan Family Care Spray Secco. Proteggi te stesso e la tua famiglia dalle fastidiose punture di zanzara e dagli insetti molesti, godendo appieno dellestate senza compromettere il comfort della tua pelle;
+- Combatte le zanzare con leggerezza: Autan Family Care Spray Secco è la soluzione perfetta per proteggerti dalle zanzare senza lasciare residui untuosi. La sua formula leggera e veloce si assorbe rapidamente sulla pelle, garantendo una protezione fino a 4 ore dallapplicazione. E adatto anche ai bambini che abbiano compiuto i 2 anni di età;
 - Sensazione piacevole sulla pelle: grazie alle microparticelle di amido di mais, Autan Family Care Spray Secco si asciuga rapidamente, lasciando una sensazione piacevole senza alcun residuo appiccicoso, mentre il suo contenuto di DEET al 15% offre una protezione affidabile;
 - Facile da applicare, comfort istantaneo: basta agitare bene il flacone e spruzzare uniformemente il prodotto sulla pelle per godere di una protezione efficace. Evita il contatto con occhi e labbra e, per lapplicazione sul viso, spruzzalo prima sul palmo della mano e stendilo delicatamente;
 

@@ -28,11 +28,11 @@ average: '407.0'
 
 ℹ️:
 
-- Prestazioni da flagship con Snapdragon 8s Gen 3 – Esegui facilmente app pesanti, giochi AAA e multitasking con la piattaforma Qualcomm Snapdragon 8s Gen 3 e GPU Adreno 735, che offrono velocità di punta e efficienza energetica.
-- Smartphone camera 4K con funzioni video avanzate – Realizza video straordinari in 4K (60/30 fps), slow motion a 1080p 120 fps o 720p 240 fps e time‑lapse in 4K/1080p. Ideale per creator, vlogger e filmmaker in mobilità.
+- Fotocamera ultra‑nitida da 50 MP per ogni momento – Cattura tutto, dai paesaggi ampi ai dettagli più minuti, con la fotocamera principale da 50 MP con zoom digitale da 0,6× a 20×. Perfetto per gli appassionati di fotografia che vogliono qualità professionale.
 - Smartphone a ricarica rapida e autonomia per tutta la giornata – Alimentato da una batteria da 5.200 mAh ad alta capacità, questo smartphone con lunga durata supporta ricarica rapida 80 W SUPERVOOC, USB‑PD 18 W e PPS 55 W. La ricarica bypass evita il surriscaldamento durante sessioni intense come giochi o videochiamate.
 - Display AMOLED sorprendente – Vivi immagini ultra‑fluide e colori realistici sullo schermo Swift AMOLED da 6.x pollici con supporto Ultra HDR, frequenza di aggiornamento adattiva 144 Hz e risoluzione da 450 PPI — ideale per gaming, streaming e social browsing.
-- Fotocamera ultra‑nitida da 50 MP per ogni momento – Cattura tutto, dai paesaggi ampi ai dettagli più minuti, con la fotocamera principale da 50 MP con zoom digitale da 0,6× a 20×. Perfetto per gli appassionati di fotografia che vogliono qualità professionale.
+- Prestazioni da flagship con Snapdragon 8s Gen 3 – Esegui facilmente app pesanti, giochi AAA e multitasking con la piattaforma Qualcomm Snapdragon 8s Gen 3 e GPU Adreno 735, che offrono velocità di punta e efficienza energetica.
+- Smartphone camera 4K con funzioni video avanzate – Realizza video straordinari in 4K (60/30 fps), slow motion a 1080p 120 fps o 720p 240 fps e time‑lapse in 4K/1080p. Ideale per creator, vlogger e filmmaker in mobilità.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FB98HM79{{</world>}}

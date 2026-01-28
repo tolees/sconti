@@ -28,12 +28,12 @@ average: '20.5963636363635'
 
 ℹ️:
 
-- Macchina giocattolo del team Mercedes-AMG PETRONAS F1 W 15: questo gioco per bambini e bambine da 10 anni, permette di costruire il modello di Auto da Corsa Mercedes-AMG F1 W15, un veicolo LEGO Speed Champions da esposizione e per le gare dei piccoli
-- Idea regalo per amanti delle auto: questo set con macchina da costruire offre una divertente esperienza di costruzione e di gioco, ed è unottima idea regalo di compleanno per bambini e bambine, e per gli adulti che amano le auto LEGO da collezione
 - Modello di auto LEGO F1 da esposizione: dopo che i piccoli si sono divertiti a inventare storie di corse con il veicolo giocattolo, la macchina da Formula 1 diventa un elegante decorazione di casa o un elemento da esporre nella loro camera da letto
+- Idea regalo per amanti delle auto: questo set con macchina da costruire offre una divertente esperienza di costruzione e di gioco, ed è unottima idea regalo di compleanno per bambini e bambine, e per gli adulti che amano le auto LEGO da collezione
 - Dettagli autentici dal mondo delle macchina da Formula 1: il modellino da costruire di auto da corsa di F1 presenta dettagli di design della versione reale del 2024, inclusi adesivi degli sponsor e pneumatici posteriori larghi con stampa “Pirelli”
-- Auto LEGO Mercedes con 1 minifigure di pilota: questo playset con auto giocattolo include una minifigure del pilota con tuta del Team Mercedes-AMG PETRONAS F1 e casco, posizionabile allinterno dell’abitacolo per ore di giochi di ruolo
 - Divertimento da Formula 1 per tutta la famiglia: taglia per primo il traguardo insieme a tutta la famiglia con gli altri set di costruzione (disponibili separatamente) della gamma LEGO F1
+- Macchina giocattolo del team Mercedes-AMG PETRONAS F1 W 15: questo gioco per bambini e bambine da 10 anni, permette di costruire il modello di Auto da Corsa Mercedes-AMG F1 W15, un veicolo LEGO Speed Champions da esposizione e per le gare dei piccoli
+- Auto LEGO Mercedes con 1 minifigure di pilota: questo playset con auto giocattolo include una minifigure del pilota con tuta del Team Mercedes-AMG PETRONAS F1 e casco, posizionabile allinterno dell’abitacolo per ore di giochi di ruolo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DHS9Y433{{</world>}}

@@ -28,11 +28,11 @@ average: '999.0'
 
 ℹ️:
 
-- Schermo LuxPixel AGLR da 31,5 pollici 4K HDR (3840 x 2160) con pannello IPS grandangolare da 178° e ampia gamma cromatica DCI-P3 (98%) e spazio colore sRGB (100%) per avere sempre la massima precisione del colore
-- Frequenza di aggiornamento variabile da 60 Hz (VRR) per una riproduzione sempre fluida e veloce e unesperienza visiva confortevole
 - Il colorimetro incorporato supporta la calibrazione automatica, e i software di calibrazione Calman e Light Illusion ColourSpace CMS; la tecnologia ASUS Light Sync con sensore di luce ambientale e retroilluminazione garantisce prestazioni cromatiche affidabili
+- Schermo LuxPixel AGLR da 31,5 pollici 4K HDR (3840 x 2160) con pannello IPS grandangolare da 178° e ampia gamma cromatica DCI-P3 (98%) e spazio colore sRGB (100%) per avere sempre la massima precisione del colore
 - Connettività estesa, grazie alla DisplayPort 1.4, alla porta USB-C con Power Delivery da 96 watt, alle due HDMI 2.0 e allhub USB con due porte USB-A 3.2 Gen 1 e una porta USB-C 3.2 Gen 1
 - Il KVM incorporato consente di passare facilmente da un laptop o PC allaltro con ununica tastiera e un unico mouse
+- Frequenza di aggiornamento variabile da 60 Hz (VRR) per una riproduzione sempre fluida e veloce e unesperienza visiva confortevole
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09K393VQR{{</world>}}

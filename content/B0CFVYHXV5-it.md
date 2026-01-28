@@ -28,11 +28,11 @@ average: '63.99'
 
 ℹ️:
 
-- Include mesi e fasi lunari: questo gioco del sistema solare comprende uno stampato con il mese e le fasi lunari, per aiutare i bambini a capire come l’orbita terrestre influenza le nostre stagioni
-- Modello spaziale interattivo: ispira i giochi spaziali da costruire dei bambini e delle bambine da 10 anni, con il set LEGO Technic il Pianeta Terra e Luna in Orbita, unottima rappresentazione della Terra, del Sole e della Luna in orbita
-- Istruzioni intuitive: l’app LEGO Builder guida i piccoli in un’avventura di costruzione intuitiva con strumenti che consentono di ingrandire e ruotare i modelli 3D, salvare i set e tenere traccia dei progressi compiuti
 - Gioco educativo con sistema solare per bambini: i fan dei pianeti, dellastronomia, della galassia e delle costruzioni LEGO Technic, possono girare la manovella per vedere come la Terra e la Luna orbitano nello spazio attorno al Sole
 - Un regalo spaziale per i bambini: questo set è un regalo divertente per i bambini da 10 anni in su che amano i pianeti giocattolo, e vogliono conoscere meglio il nostro sistema solare, il cosmo e il funzionamento delluniverso
+- Include mesi e fasi lunari: questo gioco del sistema solare comprende uno stampato con il mese e le fasi lunari, per aiutare i bambini a capire come l’orbita terrestre influenza le nostre stagioni
+- Istruzioni intuitive: l’app LEGO Builder guida i piccoli in un’avventura di costruzione intuitiva con strumenti che consentono di ingrandire e ruotare i modelli 3D, salvare i set e tenere traccia dei progressi compiuti
+- Modello spaziale interattivo: ispira i giochi spaziali da costruire dei bambini e delle bambine da 10 anni, con il set LEGO Technic il Pianeta Terra e Luna in Orbita, unottima rappresentazione della Terra, del Sole e della Luna in orbita
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CFVYHXV5{{</world>}}

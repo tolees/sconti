@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - CLEMENTONI SCIENZA E GIOCO ROBOTICS: giochi per un divertimento che diventa apprendimento, stimolando logica e manualità per assemblare tanti robot e scoprire STEM, coding e robotica; con contenuti digitali per moltiplicare le modalità di gioco
-- AIRO: un innovativo robot con intelligenza artificiale, che riconosce gesti e comandi vocali, da assemblare e allenare a distinguere i gesti e le voci per ore di divertimento
 - COME GIOCARE: il bambino, posizionandosi davanti alla fotocamera del telefono, compie movimenti che AIRO impara e ripete; successivamente, i movimenti possono essere richiamati in modalità gioco per giocare, fare sport, afferrare oggetti
-- COSA CONTIENE: gioco ideato, progettato e sviluppato in Italia, per bambine e bambini dai 9 anni in su, con applicazione dedicata per giocare in tutte le modalità; necessita di batterie (4 AA)
 - IMPARARE GIOCANDO: il bambino esplora il mondo dellintelligenza artificiale con un robot da costruire, personalizzare e codificare, insegnando al robot a riconoscere azioni e voci ed eseguire i comandi
+- AIRO: un innovativo robot con intelligenza artificiale, che riconosce gesti e comandi vocali, da assemblare e allenare a distinguere i gesti e le voci per ore di divertimento
+- COSA CONTIENE: gioco ideato, progettato e sviluppato in Italia, per bambine e bambini dai 9 anni in su, con applicazione dedicata per giocare in tutte le modalità; necessita di batterie (4 AA)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D6GRV4RC{{</world>}}

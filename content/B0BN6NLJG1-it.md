@@ -28,11 +28,11 @@ average: '85.5'
 
 ℹ️:
 
-- Materiale esterno: sintetico
-- Tipo di tacco: piatto
 - Chiusura: stringata
+- Tipo di tacco: piatto
 - Materiale interno: sintetico
 - Suola: gomma
+- Materiale esterno: sintetico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BN6NLJG1{{</world>}}

@@ -28,11 +28,11 @@ average: '12.73'
 
 ℹ️:
 
-- PROTEZIONE IP20 per i componenti sotto tensione: adatto per interni in case, centri commerciali, ristoranti; Il prodotto non è protetto contro lacqua o lumidità
 - DURATA ESTREMAMENTE LUNGA: con una durata fino a 30;000 ore, la lampada sostitutiva LED dura tre volte di una tradizionale fluorescente compatta; Senza mercurio e conforme alla direttiva RoHS
+- UTILIZZO FLESSIBILE: sostituzione LED per lampade fluorescenti compatte con attacco GR8 a 2 pin per il funzionamento con CCG o tensione di rete; Può funzionare direttamente con tensione di rete 230V
 - USO IMMEDIATO: la lampada sostitutiva LED può essere installata rapidamente e facilmente; Il design compatto rende la sostituzione della lampada molto semplice
 - RISPARMIO ENERGETICO: la lampada LED consuma il 50% in meno di energia rispetto ad una lampada fluorescente; Risparmio economico notevole grazie alla sostenibilità e allefficienza energetica
-- UTILIZZO FLESSIBILE: sostituzione LED per lampade fluorescenti compatte con attacco GR8 a 2 pin per il funzionamento con CCG o tensione di rete; Può funzionare direttamente con tensione di rete 230V
+- PROTEZIONE IP20 per i componenti sotto tensione: adatto per interni in case, centri commerciali, ristoranti; Il prodotto non è protetto contro lacqua o lumidità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CBSFBT77{{</world>}}

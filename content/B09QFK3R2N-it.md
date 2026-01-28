@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Il modello in mattoncini LEGO del Re dei Koopa è dotato di braccia, mani, gambe e coda snodabili, per creare pose diverse; ha una testa rotante e la bocca si apre premendo un pulsante sotto il guscio
 - La piattaforma da battaglia ha 2 torri che possono essere abbattute da Bowser e un blocco POW nascosto con Action Tag, con cui i personaggi LEGO Super Mario (figure non incluse) possono interagire
 - Per giocare in modo interattivo con il potente Bowser sono necessari i set Starter Pack con le figure di LEGO Mario (71360), LEGO Luigi (71387) o LEGO Peach (71403) (venduti separatamente)
-- Liconico cattivo di Super Mario ha occhi rotanti, è dotato di lanciafiamme dalla bocca, ed è costruito con i nuovi elementi e mattoncini LEGO di ottobre 2022, ideati per ricrearne gli spuntoni
-- Il potente Bowser è alto 32 cm, largo 41 cm e profondo 28 cm, e include semplici istruzioni per far divertire con le costruzioni LEGO anche i fan di Super Mario alle prime armi
 - Questo kit di modellismo per adulti LEGO Super Mario, include Il Potente Bowser; un modellino da costruire 3D di grandi dimensioni che celebra il famoso boss finale, ricco di dettagli, ottimo da esporre e per giocare
-- Il modello in mattoncini LEGO del Re dei Koopa è dotato di braccia, mani, gambe e coda snodabili, per creare pose diverse; ha una testa rotante e la bocca si apre premendo un pulsante sotto il guscio
+- Il potente Bowser è alto 32 cm, largo 41 cm e profondo 28 cm, e include semplici istruzioni per far divertire con le costruzioni LEGO anche i fan di Super Mario alle prime armi
 - Questo modellino da costruire fa parte di una serie di set LEGO Super Mario da collezione, può essere esposto con orgoglio in salotto, ed è una fantastica idea regalo di compleanno o Natale per adulti
+- Liconico cattivo di Super Mario ha occhi rotanti, è dotato di lanciafiamme dalla bocca, ed è costruito con i nuovi elementi e mattoncini LEGO di ottobre 2022, ideati per ricrearne gli spuntoni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09QFK3R2N{{</world>}}

@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Questo set di mobili è composto da una base/mobile porta TV con 2 ante e 3 cassetti, da un mobile contenitore con 1 anta e 4 cassetti e da una base multiuso con 2 ante e 4 cassetti
-- Il grigio titanio laccato e il Rovere Mielato si combinano in modo armonioso, creando un contrasto elegante e versatile che si adatta a una varietà di stili di interni.
 - Mobili realizzati in PANNELLO ECOLOGICO e certificato FSC 100% legno riciclato. É il pannello con la minore emissione di Co2 al mondo. Le sue straordinarie qualità lo rendono pratico e resistente, adatto dunque ad essere il componente base dei mobili Composad.
+- Il grigio titanio laccato e il Rovere Mielato si combinano in modo armonioso, creando un contrasto elegante e versatile che si adatta a una varietà di stili di interni.
 - Made in Italy. Questo mobile è stato progettato e prodotto in Italia.
 - Con questa composizione è possibile arredare in modo raffinato e mderno sia lingresso che il salotto
 

@@ -28,11 +28,11 @@ average: '0.99'
 
 ℹ️:
 
+- IDEALI CON: sughi corposi e con condimenti cremosi. Preparale con ragù di salsiccia e funghi porcini, un classico pieno di gusto oppure con ragù bianco di zucchine, per un sugo più delicato
+- CARATTERISTICHE: la larghezza della fettuccia è pensata per esaltare il sapore della sfoglia, ruvida e corposa come vuole la migliore tradizione emiliana
 - INGREDIENTI: semola e uova fresche di categoria A di provenienza italiana da galline allevate a terra
 - PAPPARDELLE ALL UOVO: le Pappardelle Barilla Le Emiliane si presentano come il formato più maestoso della pasta alluovo lunga
 - BARILLA: unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
-- CARATTERISTICHE: la larghezza della fettuccia è pensata per esaltare il sapore della sfoglia, ruvida e corposa come vuole la migliore tradizione emiliana
-- IDEALI CON: sughi corposi e con condimenti cremosi. Preparale con ragù di salsiccia e funghi porcini, un classico pieno di gusto oppure con ragù bianco di zucchine, per un sugo più delicato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B003UMCUDA{{</world>}}

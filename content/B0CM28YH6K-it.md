@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 2560x1440 (QHD 2K), Pannello VA, 16:9, HDR10
 - 1 HDMI, 1 Display Port, Ingresso Audio, Eye Saver Mode, Flicker Free
-- Contenuto: 1x Samsung Monitor Gaming Odyssey G5 27", Include cavo di alimentazione, cavo HDMI e cavo DP, Dimensioni con stand (LxAxP): 61,66 x 47,74 x 27,26 cm
-- Samsung Monitor Gaming Odyssey G5, 27", Curvo (1000R)
 - Refresh Rate 165Hz, Response Time 1ms (MPRT), AMD FreeSync
+- Samsung Monitor Gaming Odyssey G5, 27", Curvo (1000R)
+- 2560x1440 (QHD 2K), Pannello VA, 16:9, HDR10
+- Contenuto: 1x Samsung Monitor Gaming Odyssey G5 27", Include cavo di alimentazione, cavo HDMI e cavo DP, Dimensioni con stand (LxAxP): 61,66 x 47,74 x 27,26 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CM28YH6K{{</world>}}

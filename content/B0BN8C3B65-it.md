@@ -28,11 +28,11 @@ average: '6.16'
 
 ℹ️:
 
-- UN SOSTITUTO PERFETTO：le lampadine a filamento LED G125 consumano solo il 15% di energia, Luminosa come una lampadina alogena da 75W, ma forniscono unemissione luminosa di 2600 Lumen e un colore bianco caldo accurato di 3000K. Con un angolo del raggio di 200 gradi, queste lampadine, possono proiettare una luce uniforme per lilluminazione generale. Non dimmerabile.
-- LUCE: 3000K Bianca Calda
-- APPLICAZIONE AMPIA： Base E27 standard, facile da montare su tutte le lampade base E27. Adatto per lilluminazione di interni, come lampadari, lampade a sospensione, ventilatore da soffitto, illuminazione di finestre, applique, lampade da scrivania ecc. Eccellente bianco caldo per soggiorno, sala da pranzo, ufficio e ristorante.
-- RISPARMIO ENERGETICO： questa lampadina LED da 10W sostituisce le Lampadine a Incandescenza e Alogene da 75W, risparmiando fino al 85% sulla bolletta dellilluminazione elettrica. Il ciclo di vita di 20.000 ore, il che riduce i costi riducendo la frequenza di sostituzione. CRI (indice di resa cromatica) >80 garantisce un piacere visivo vivido con colori originali.
 - ILLUMINAZIONE ISTANTANEA： Niente attese per arrivare alla massima luminosità una volta acceso! Luce senza sfarfallio e zero riflessi intensi prevengono laffaticamento degli occhi e offrono unatmosfera confortevole e senza stress. Le lampadine a LED V-TAC sono certificate CE, ROHS, sicure per la tua famiglia e lambiente.
+- LUCE: 3000K Bianca Calda
+- RISPARMIO ENERGETICO： questa lampadina LED da 10W sostituisce le Lampadine a Incandescenza e Alogene da 75W, risparmiando fino al 85% sulla bolletta dellilluminazione elettrica. Il ciclo di vita di 20.000 ore, il che riduce i costi riducendo la frequenza di sostituzione. CRI (indice di resa cromatica) >80 garantisce un piacere visivo vivido con colori originali.
+- UN SOSTITUTO PERFETTO：le lampadine a filamento LED G125 consumano solo il 15% di energia, Luminosa come una lampadina alogena da 75W, ma forniscono unemissione luminosa di 2600 Lumen e un colore bianco caldo accurato di 3000K. Con un angolo del raggio di 200 gradi, queste lampadine, possono proiettare una luce uniforme per lilluminazione generale. Non dimmerabile.
+- APPLICAZIONE AMPIA： Base E27 standard, facile da montare su tutte le lampade base E27. Adatto per lilluminazione di interni, come lampadari, lampade a sospensione, ventilatore da soffitto, illuminazione di finestre, applique, lampade da scrivania ecc. Eccellente bianco caldo per soggiorno, sala da pranzo, ufficio e ristorante.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BN8C3B65{{</world>}}

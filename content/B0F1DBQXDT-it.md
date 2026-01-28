@@ -29,8 +29,8 @@ average: '206.91'
 ℹ️:
 
 - Soundbar Samsung Serie B con 6 speaker, Dolby Atmos wireless sui TV Samsung e DTS Virtual:X per un suono 3D super immersivo, Compatibile con il telecomando TV Samsung, Collegamento tramite Bluetooth
-- Audio a 5.1 canali: suono surround potenziato dai diffusori laterali integrati e da 1 subwoofer che supporta la modalità Bass Boost, Audio perfettamente bilanciato per regalarti un’esperienza di ascolto da cinema
 - Q-Symphony: totale armonia tra la soundbar e TV, Compatibile con Wireless Surround Sound: espandi il suono grazie al kit di diffusori posteriori wireless, Adaptive Sound per un suono ottimizzato in base alla scena
+- Audio a 5.1 canali: suono surround potenziato dai diffusori laterali integrati e da 1 subwoofer che supporta la modalità Bass Boost, Audio perfettamente bilanciato per regalarti un’esperienza di ascolto da cinema
 - SpaceFit Sound Pro: audio chiaro e calibrato con bassi ottimizzati in base allo spazio, Game Mode Pro per effetti sonori 3D durante il gioco, HDMI eARC con qualità audio invariata
 - Contenuto: 1x Samsung Soundbar HW-B750F/ZF Serie B, Include telecomando e staffa da muro, Dimensioni speaker principale (LxAxP): 103 x 5,9 x 10,5 cm, Peso: 2,2 kg, Colore: Black
 

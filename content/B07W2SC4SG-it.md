@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Colore: Nero
 - Lacci elastici
-- Tomaia: Pelle
 - Fodera: Poliestere riciclato al 100
+- Colore: Nero
 - Sottopiede: Soletta in PU
+- Tomaia: Pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07W2SC4SG{{</world>}}

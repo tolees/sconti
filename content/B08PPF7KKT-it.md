@@ -29,10 +29,10 @@ average: '24.6769999999999'
 ℹ️:
 
 - 🔍 Sensore di movimento e funzione "seguimi": La videocamera Wi-Fi Beghelli è dotata di un sensore di movimento che invia notifiche in tempo reale al tuo smartphone in caso di rilevamento di movimenti. La funzione "seguimi" attiva la rotazione automatica per seguire il soggetto in movimento
-- 🔊 Audio bi-direzionale e registrazione su smartphone/scheda SD: Comunica e ascolta in tempo reale grazie allaudio in/out e al microfono con vivavoce integrati. Registra i video in diretta su smartphone o su micro SD (fino a 128 GB, non inclusa) e archiviazione in cloud opzionale con abbonamento
-- 📷 Risoluzione Full HD e visione notturna: La telecamera Dom-e Beghelli offre immagini nitide e dettagliate con una risoluzione di 1080p - 2 Megapixel. La funzione di visione notturna con LED IR permette di monitorare lambiente anche al buio, fino a 10 metri di distanza
 - 🔄 Rotazione completa a 355° e 85°: La telecamera Beghelli offre unampia copertura dellarea grazie alla rotazione manuale da App con angolo di 355° orizzontale e 85° verticale. Monitora ogni punto della tua casa o ufficio per una maggiore sicurezza e controllo
+- 🔊 Audio bi-direzionale e registrazione su smartphone/scheda SD: Comunica e ascolta in tempo reale grazie allaudio in/out e al microfono con vivavoce integrati. Registra i video in diretta su smartphone o su micro SD (fino a 128 GB, non inclusa) e archiviazione in cloud opzionale con abbonamento
 - 📱 App dedicata Dom-e Beghelli: Controlla la tua telecamera Wi-Fi in qualsiasi momento e luogo attraverso lApp Dom-e Beghelli, compatibile con smartphone e tablet. Personalizza le impostazioni e gestisci i dispositivi del sistema Dom-e Beghelli per una sicurezza smart e domotica completa
+- 📷 Risoluzione Full HD e visione notturna: La telecamera Dom-e Beghelli offre immagini nitide e dettagliate con una risoluzione di 1080p - 2 Megapixel. La funzione di visione notturna con LED IR permette di monitorare lambiente anche al buio, fino a 10 metri di distanza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08PPF7KKT{{</world>}}

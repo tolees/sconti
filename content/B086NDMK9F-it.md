@@ -29,10 +29,10 @@ average: '23.6814285714286'
 ℹ️:
 
 - Grazie alla presenza dei Robusta asiatici, l’acidità è sfumata e le delicate note si arricchiscono di dolci sentori di caramello e cioccolato al latte
-- Una miscela esclusiva, delle migliori origini Arabica lavate dell’America Latina e dellAfrica, libera in tazza aromi di frutta gialla e vaniglia
 - CAPSULA COMPOSTABILE: La capsula deve essere recuperata, senza separarla dal caffè, nella raccolta differenziata dellorganico
-- 100 capsule compatibili con le macchine ad uso domestico a marchio Nespresso* Inissia, Pixie, Citiz, Citiz&milk, Lattissima, Lattissima Pro, Lattissima&milk, MiniEssenza, Essenza, Prodigio, U e con le macchine Èspresso1882 TRÈ di Caffè Vergnano
+- Una miscela esclusiva, delle migliori origini Arabica lavate dell’America Latina e dellAfrica, libera in tazza aromi di frutta gialla e vaniglia
 - Conservabilità: 24 mesi dalla data di produzione. Modalità di conservazione: conservare in luogo fresco e asciutto, lontano da fonti di calore e umidità
+- 100 capsule compatibili con le macchine ad uso domestico a marchio Nespresso* Inissia, Pixie, Citiz, Citiz&milk, Lattissima, Lattissima Pro, Lattissima&milk, MiniEssenza, Essenza, Prodigio, U e con le macchine Èspresso1882 TRÈ di Caffè Vergnano
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B086NDMK9F{{</world>}}

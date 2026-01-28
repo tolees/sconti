@@ -28,8 +28,8 @@ average: '14.94'
 
 ℹ️:
 
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
 - Sunsilk Shampoo Cocco e Aloe Vera 400ml Switch
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DW4BBW79{{</world>}}

@@ -28,11 +28,11 @@ average: '51.6520833333333'
 
 ℹ️:
 
-- Modulo luci e suoni con messaggio di benvenuto e addio e altre 6 sequenze di suoni, per riprodurre i dialoghi originali della serie knight rider
-- Contenuto, 1x playmobil knight rider - k.i.t.t., set di personaggi di gioco da 53 pezzi con istruzioni, 1 auto playmobil, 3 personaggi del film knight rider, 49 accessori, necessarie 2 micro batterie aaa da 1,5 v per il veicolo, non incluse , materiale, plastica, lxlxa, circa 28 x 12 x 7,5 cm, scala, modellino auto knight rider , 1, 17, peso, 462 g, 70923
-- Auto giocattolo k.i.t.t. per bambini a partire da 5 anni o auto da collezione per adulti, alta qualità e design robusto, pulizia delle parti, senza adesivi sotto acqua corrente senza agenti chimici
 - Liconico veicolo della famosa serie degli anni 80,, playmobil knight rider - k.i.t.t. con funzioni elettroniche, 3 personaggi della serie e accessori
+- Auto giocattolo k.i.t.t. per bambini a partire da 5 anni o auto da collezione per adulti, alta qualità e design robusto, pulizia delle parti, senza adesivi sotto acqua corrente senza agenti chimici
 - Tetto removibile, targa girevole, fari a scomparsa e molto altro, con il protagonista michael knight, devon miles e bonnie barstow
+- Contenuto, 1x playmobil knight rider - k.i.t.t., set di personaggi di gioco da 53 pezzi con istruzioni, 1 auto playmobil, 3 personaggi del film knight rider, 49 accessori, necessarie 2 micro batterie aaa da 1,5 v per il veicolo, non incluse , materiale, plastica, lxlxa, circa 28 x 12 x 7,5 cm, scala, modellino auto knight rider , 1, 17, peso, 462 g, 70923
+- Modulo luci e suoni con messaggio di benvenuto e addio e altre 6 sequenze di suoni, per riprodurre i dialoghi originali della serie knight rider
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09KHGQRM3{{</world>}}

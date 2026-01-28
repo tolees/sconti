@@ -28,11 +28,11 @@ average: '25.99'
 
 ℹ️:
 
-- Tagli precisi: la microlama è utilizzabile con la banco sega o la sega NanoBlade, per tagli precisi e senza vibrazioni fino a 65 mm di profondità
-- Utilizzabile in diversi materiali: per vati tipi di legno, legno tenero, truciolati, laminati, legno verde, e per materiali sintetici, vetro acrilico, policarbonato, PVC
-- Per utensili NanoBlade: la microlama NanoBlade Wood Basic 65 è utilizzabile con gli utensili EasyCut 12, EasyCut 50, AdvancedCut 18, AdvancedCut 50 e AdvancedTableCut 52
-- Tecnologia NanoBlade, per tagli senza vibrazioni; sostituzione della microlama senza attrezzi; sistema esente da manutenzione: non richiede tensionamento, né oliature o riaffilature
 - Sostituzione della microlama semplice, in pochi secondi e senza attrezzi, grazie al sistema SDS
+- Tecnologia NanoBlade, per tagli senza vibrazioni; sostituzione della microlama senza attrezzi; sistema esente da manutenzione: non richiede tensionamento, né oliature o riaffilature
+- Per utensili NanoBlade: la microlama NanoBlade Wood Basic 65 è utilizzabile con gli utensili EasyCut 12, EasyCut 50, AdvancedCut 18, AdvancedCut 50 e AdvancedTableCut 52
+- Utilizzabile in diversi materiali: per vati tipi di legno, legno tenero, truciolati, laminati, legno verde, e per materiali sintetici, vetro acrilico, policarbonato, PVC
+- Tagli precisi: la microlama è utilizzabile con la banco sega o la sega NanoBlade, per tagli precisi e senza vibrazioni fino a 65 mm di profondità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07X1KNRHP{{</world>}}

@@ -28,9 +28,9 @@ average: '1.75'
 
 ℹ️:
 
-- A causa di una superficie irregolare, i capelli risultano sciupato e spenti; gliss Seta Luminosa dona Perfetta pettinabilità, Morbidezza straordinaria e Luminosità naturale
-- Per rispondere ai bisogni dei capelli spenti, la linea Seta Luminosa grazie alla formula con Ceramidi + Seta, dona morbidezza, lasciandoli incredibilmente setosi
 - Da applicare dopo lo shampoo, lasciare agire e poi sciacquare
+- Per rispondere ai bisogni dei capelli spenti, la linea Seta Luminosa grazie alla formula con Ceramidi + Seta, dona morbidezza, lasciandoli incredibilmente setosi
+- A causa di una superficie irregolare, i capelli risultano sciupato e spenti; gliss Seta Luminosa dona Perfetta pettinabilità, Morbidezza straordinaria e Luminosità naturale
 - Il prodotto è delicato sul cuoio capelluto, permettendo un utilizzo frequente e assicurando idratazione quotidiana
 - 95% Ingredienti di origine naturale
 

@@ -28,11 +28,11 @@ average: '38.14'
 
 ℹ️:
 
-- Aggiunta di 4 pulsanti posteriori in metallo ergonomici programmabili. I tasti posteriori in metallo sono in materiale metallico di alta qualità, più resistente e pratico, i pulsanti K1 K2 K3 K4 richiedono più pressione per attivarsi evitando di fare clic in modo errato per alcuni giocatori
 - Il RISE4 remap kit trasforma il tuo controller attuale per ps5 in un controller elite professionale di eSport. Compatibile con ps5 controller BDM-010 & BDM-020. Controlla come riconoscere il modello BDM del tuo controller su YouTube cercando “extremerate check bdm for ps5 controller” o “fiE4BWSlBRI”
-- Sono richieste elevate capacità pratiche, saldatura opzionale; puoi ottenere video tutorial d’installazione su Youtube cercando “eXtremeRate RMB Version RISE4 Remap Kit for ps5” o "VopiY2k0to4".
+- Aggiunta di 4 pulsanti posteriori in metallo ergonomici programmabili. I tasti posteriori in metallo sono in materiale metallico di alta qualità, più resistente e pratico, i pulsanti K1 K2 K3 K4 richiedono più pressione per attivarsi evitando di fare clic in modo errato per alcuni giocatori
 - È possibile assegnare al massimo 15 pulsanti ai tasti posteriori.
 - Compatibile con eXtremeRate Led Kit, Clicky Trigger Kit e Face Clicky Kit per ps5 controller BDM-010/020
+- Sono richieste elevate capacità pratiche, saldatura opzionale; puoi ottenere video tutorial d’installazione su Youtube cercando “eXtremeRate RMB Version RISE4 Remap Kit for ps5” o "VopiY2k0to4".
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BQW1YXTT{{</world>}}

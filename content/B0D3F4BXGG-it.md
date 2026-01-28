@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- PADRONEGGIA LA FORZA: impara rapidamente il gioco e affronta duelli epici con i personaggi iconici di Star Wars.
-- MAZZI PRONTI PER GIOCARE: Progettato per i nuovi giocatori, questo set iniziale fornisce tutto ciò di cui hai bisogno per iniziare a giocare immediatamente, permettendoti di sconfiggere i tuoi nemici o sopraffarli con facilità.
-- CONFRONTO GALATTICO: tuffati in emozionanti battaglie testa a testa con due mazzi completamente costruiti e pronti per giocare con personaggi iconici di Star Wars: il Mandalorian e Moff Gideon!
 - EDIZIONE IN ITALIANO
+- CONFRONTO GALATTICO: tuffati in emozionanti battaglie testa a testa con due mazzi completamente costruiti e pronti per giocare con personaggi iconici di Star Wars: il Mandalorian e Moff Gideon!
+- PADRONEGGIA LA FORZA: impara rapidamente il gioco e affronta duelli epici con i personaggi iconici di Star Wars.
 - OGGETTI DA COLLEZIONE ESCLUSIVI: ogni mazzo include 10 carte che non possono essere ottenute dalle buste, aggiungendo strategie e sorprese uniche alla tua esperienza di gioco.
 - STARTER KIT COMPLETO: contiene tutto il necessario per giocare velocemente. 2 mazzi completi, 2 portamazzi, 1 libretto delle regole, 40 segnalini, 2 tappetini da gioco/poster e 10 carte speciali.
+- MAZZI PRONTI PER GIOCARE: Progettato per i nuovi giocatori, questo set iniziale fornisce tutto ciò di cui hai bisogno per iniziare a giocare immediatamente, permettendoti di sconfiggere i tuoi nemici o sopraffarli con facilità.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D3F4BXGG{{</world>}}

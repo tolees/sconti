@@ -30,9 +30,9 @@ average: '27.2'
 
 - Garanzia: La garanzia del gioiello è di 2 anni. Morellato garantisce assistenza semplicemente presentando la ricevuta dacquisto in uno dei punti vendita presenti in tutta Italia.
 - Caratteristiche: il gioiello misura 16 + 3 cm. Dispone di una pratica chiusura a moschettone. Il gioiello è un idea regalo perfetta da realizzare in diverse occasioni come compleanni, anniversari o come regalo per maestre o insegnanti.
+- Packaging: Il gioiello viene spedito con confezione originale Morellato.
 - Materiali: Acciaio, pietra, Agata naturale
 - Brand: Morellato è la fusione perfetta tra armonia delle proporzioni, preziosità dei materiali e raffinato gusto italiano a connotare il marchio Morellato in modo unico e distintivo.
-- Packaging: Il gioiello viene spedito con confezione originale Morellato.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08VWH29T3{{</world>}}

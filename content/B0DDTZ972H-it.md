@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Svela uno dei più grandi misteri della storia in Indiana Jones e lAntico Cerchio, unavventura in prima persona per giocatore singolo ambientata tra gli eventi de I predatori dellarca perduta e Lultima crociata
-- Vivi lavventura con lEdizione Premium, che include un accesso anticipato di 3 giorni e Indiana Jones e l’Antico Cerchio: LOrdine dei Giganti (alluscita). Riceverai anche un artbook digitale e il costume de Il Tempio Maledetto, il look iconico di Indiana Jones visto ne Il Tempio Maledetto
-- La frusta, marchio di fabbrica di Indiana Jones, rimane al centro del suo equipaggiamento e può essere utilizzata per distrarre, disarmare e attaccare i nemici
-- Viaggia passando dalle sale del Marshall College al cuore del Vaticano, alle Piramidi dEgitto, ai templi sommersi di Sukhothai e oltre ancora
 - Vivi lavventura nei panni di Indiana Jones: troverai unemozionante storia ricca di esplorazione, azione coinvolgente e intriganti enigmi
+- Svela uno dei più grandi misteri della storia in Indiana Jones e lAntico Cerchio, unavventura in prima persona per giocatore singolo ambientata tra gli eventi de I predatori dellarca perduta e Lultima crociata
+- Viaggia passando dalle sale del Marshall College al cuore del Vaticano, alle Piramidi dEgitto, ai templi sommersi di Sukhothai e oltre ancora
 - Avventurati in un mix dinamico di gameplay lineare e narrativo e di mappe aperte
+- La frusta, marchio di fabbrica di Indiana Jones, rimane al centro del suo equipaggiamento e può essere utilizzata per distrarre, disarmare e attaccare i nemici
+- Vivi lavventura con lEdizione Premium, che include un accesso anticipato di 3 giorni e Indiana Jones e l’Antico Cerchio: LOrdine dei Giganti (alluscita). Riceverai anche un artbook digitale e il costume de Il Tempio Maledetto, il look iconico di Indiana Jones visto ne Il Tempio Maledetto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DDTZ972H{{</world>}}

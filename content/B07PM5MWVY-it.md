@@ -28,11 +28,11 @@ average: '49.118'
 
 ℹ️:
 
-- Adattabilità: Polar OH1 si adatta agli atleti di qualsiasi sport e livello; rileva la frequenza cardiaca e permette di visualizzarla in tempo reale o trasferire i dati
+- Connettività: trasmette la frequenza cardiaca alle fitness app al tuo sportwatch o bike computer, alle attrezzature fitness, tramite Bluetooth o ANT+ contemporaneamente
+- Comfort: si indossa sul braccio o avambraccio con il comodo elastico in morbido tessuto; la pratica clip per occhialini inclusa nella confezione Polar OH1 + lo rende ottimo per il nuoto
 - Versatilità: Polar OH1 rileva la frequenza cardiaca in qualsiasi sport, offrendo libertà di movimento; indossabile sul braccio durante tutti gli allenamenti; rileva la frequenza cardiaca dalla tempia
 - Praticità: sensore di frequenza cardiaca a lettura ottica con 6 LED, ha la batteria ricaricabile ed una memoria interna che permette di utilizzarlo da solo durante lallenamento
-- Comfort: si indossa sul braccio o avambraccio con il comodo elastico in morbido tessuto; la pratica clip per occhialini inclusa nella confezione Polar OH1 + lo rende ottimo per il nuoto
-- Connettività: trasmette la frequenza cardiaca alle fitness app al tuo sportwatch o bike computer, alle attrezzature fitness, tramite Bluetooth o ANT+ contemporaneamente
+- Adattabilità: Polar OH1 si adatta agli atleti di qualsiasi sport e livello; rileva la frequenza cardiaca e permette di visualizzarla in tempo reale o trasferire i dati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07PM5MWVY{{</world>}}

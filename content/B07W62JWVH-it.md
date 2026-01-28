@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Il tessuto per tutti i giorni è morbido e confortevole
-- Grafica stampata
 - La vestibilità è rilassata e facile da indossare
+- Grafica stampata
 - Colletto a costine
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

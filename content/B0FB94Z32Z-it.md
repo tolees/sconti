@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- 💾 【520KB + 4MB Flash】：Rasp-Pi Pico 2 offre una memoria sufficiente per lo sviluppo embedded avanzato e la programmazione Python/C++.
 - 📚【 Facile da avviare】：Pi Pico 2 Plug-and-play con MicroPython o C SDK, tutorial completi disponibili per principianti, studenti e maker.
-- 🧩【 26 GPIO multifunzione + PIO】：Rasp-Pi Pico 2 con 12 macchine di stato I/O programmabili, supporto completo per periferiche personalizzate.
 - 🖥️【 Interfacce multiple】：Pi Pico 2 include 2x UART, 2x SPI, 2x I2C, 3x ADC, 24 canali PWM e supporto USB 1.1 host/device.
 - 🔧 【Chip Rasp-Pi RP2350】: alimentato dal microcontrollore dual-core di nuova concezione di Rasp-Pi, che combina ARM Cortex-M33 e Hazard3 RISC-V, funzionante a 150 MHz.
-- 💾 【520KB + 4MB Flash】：Rasp-Pi Pico 2 offre una memoria sufficiente per lo sviluppo embedded avanzato e la programmazione Python/C++.
+- 🧩【 26 GPIO multifunzione + PIO】：Rasp-Pi Pico 2 con 12 macchine di stato I/O programmabili, supporto completo per periferiche personalizzate.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FB94Z32Z{{</world>}}

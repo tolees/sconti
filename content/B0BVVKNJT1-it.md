@@ -28,11 +28,11 @@ average: '111.19'
 
 ℹ️:
 
-- La impugnatura in gomma rende ottima la presa e il controllo della motosega, ottenendo un equilibrio ottimo con un elevato rendimento di taglio; la motosega elettrica pesa solo 1,25 kg, riducendo la fatica del braccio durante il taglio
 - La piccola dimensione consente anche alla motosega a batteria di adattarsi a spazi stretti o difficili dove le seghe più grandi non possono arrivare, come tra i rami degli alberi o i cumuli di rami.
-- La motosega alimentata a batteria aggiornata presenta un deflettore superiore rotante e un deflettore inferiore della impugnatura, un pulsante di blocco e impugnature ergonomiche e in gomma per la sicurezza dellutente; premere contemporaneamente il pulsante di sicurezza e linterruttore per avviare la motosega e evitare che la catena si ingaggi accidentalmente
-- La mini motosega Greenworks offre un lavoro di taglio senza inceppamenti, con poco rumore ed elevata efficienza; con una velocità della catena di 7,8 m/s e una barra guida di 10 cm, bastano solo pochi secondi per tagliare tronchi con un diametro di circa 4 pollici
+- La impugnatura in gomma rende ottima la presa e il controllo della motosega, ottenendo un equilibrio ottimo con un elevato rendimento di taglio; la motosega elettrica pesa solo 1,25 kg, riducendo la fatica del braccio durante il taglio
 - Il pacchetto della mini motosega include 1 x mini motosega, 1 x batteria da 2,0 ah, 1 x caricabatterie, 1 x bottiglia di olio, 1 x manuale utente e 1 x borsa in nylon
+- La mini motosega Greenworks offre un lavoro di taglio senza inceppamenti, con poco rumore ed elevata efficienza; con una velocità della catena di 7,8 m/s e una barra guida di 10 cm, bastano solo pochi secondi per tagliare tronchi con un diametro di circa 4 pollici
+- La motosega alimentata a batteria aggiornata presenta un deflettore superiore rotante e un deflettore inferiore della impugnatura, un pulsante di blocco e impugnature ergonomiche e in gomma per la sicurezza dellutente; premere contemporaneamente il pulsante di sicurezza e linterruttore per avviare la motosega e evitare che la catena si ingaggi accidentalmente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BVVKNJT1{{</world>}}

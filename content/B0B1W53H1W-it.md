@@ -28,9 +28,9 @@ average: '26.2233333333333'
 
 ℹ️:
 
+- I doppi connettori supportano porte USB Type-C e Type-A
 - Elevata capacità di storage fino a 256 GB²
 - Elevate velocità di trasferimento dati, fino a 200 MB/s³ in lettura
-- I doppi connettori supportano porte USB Type-C e Type-A
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B1W53H1W{{</world>}}

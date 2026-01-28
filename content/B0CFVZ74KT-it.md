@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Prova lo sterzo della supercar: il modello di macchina Mercedes monoposto F1, è dotato di pneumatici slick e di sterzo che può essere controllato utilizzando il volante o la manopola sulla parte superiore dell’auto
+- Istruzioni per la costruzione 3D: preparati a costruire come mai prima d’ora con l’app LEGO Builder, che ti consente di salvare i set, monitorare i tuoi progressi, ingrandire e ruotare il tuo modello in 3D
+- Un pezzo da esposizione emozionante: un kit auto di modellismo da costruire, che offre caratteristiche e design ispirate al modello originale, ottimo come elemento per decorare la casa o lufficio
 - Caratteristiche e dettagli originali: le funzioni di questo modellino di auto in scala 1:8, includono il differenziale e il motore a 6 cilindri con pistoni mobili, oltre allalettone mobile ispirato al DRS della vera Mercedes monoposto F1
 - Un progetto con auto da corsa LEGO per adulti: questo set Mercedes-AMG F1 W14 E Performance è unottima idea regalo per i fan delle macchine Mercedes monoposto, e per gli amanti dei sport motoristici e dei progetti stimolanti
-- Un pezzo da esposizione emozionante: un kit auto di modellismo da costruire, che offre caratteristiche e design ispirate al modello originale, ottimo come elemento per decorare la casa o lufficio
-- Istruzioni per la costruzione 3D: preparati a costruire come mai prima d’ora con l’app LEGO Builder, che ti consente di salvare i set, monitorare i tuoi progressi, ingrandire e ruotare il tuo modello in 3D
 - Modellino di auto monoposto: questo kit di auto da costruire, il set Mercedes-AMG F1 W14 E Performance LEGO Technic per adulti e fan dei sport motoristici, offre caratteristiche e funzioni come il modello di macchina del 2023
+- Prova lo sterzo della supercar: il modello di macchina Mercedes monoposto F1, è dotato di pneumatici slick e di sterzo che può essere controllato utilizzando il volante o la manopola sulla parte superiore dell’auto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CFVZ74KT{{</world>}}

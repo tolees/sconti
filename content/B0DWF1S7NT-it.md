@@ -28,12 +28,12 @@ average: '21.59'
 
 ℹ️:
 
-- Con 1 minifigure: include la minifigure di un pilota Porsche dotato di casco e tuta rossa, che i bambini possono posizionare al volante della macchina LEGO per organizzare gare mozzafiato
-- Iconici veicoli da mettere in mostra: i set costruibili LEGO Speed Champions consentono ai piccoli e agli appassionati di auto di costruire versioni replica di alcuni dei mezzi stradali che hanno fatto la storia delle 4 ruote
 - Piccolo regalo di compleanno per bambini e bambine: una divertente idea regalo per bambini e bambine fan delle auto da corsa sportive e dei veicoli giocattolo, che farà felici anche gli adulti collezionisti di modellini di macchine
+- Con 1 minifigure: include la minifigure di un pilota Porsche dotato di casco e tuta rossa, che i bambini possono posizionare al volante della macchina LEGO per organizzare gare mozzafiato
 - Veicolo LEGO da collezione per il gioco e per l’esposizione: dopo aver fatto un giro in pista con il modello di auto Porsche 911 LEGO, i bambini possono esporlo su una mensola o sul comodino
-- LEGO Porsche 911 GT3 RS: l’auto giocattolo presenta l’iconica silhouette del veicolo reale, compresi l’alettone posteriore, le prese d’aria sul cofano e i nuovi cerchioni
 - Macchina giocattolo per bambini costruibile: il modello di auto LEGO Speed Champions Super Car Porsche 911 GT3 RS è un gioco per bambini e bambine da 9 anni in su, con cui replicare liconica auto Porsche in mattoncini
+- Iconici veicoli da mettere in mostra: i set costruibili LEGO Speed Champions consentono ai piccoli e agli appassionati di auto di costruire versioni replica di alcuni dei mezzi stradali che hanno fatto la storia delle 4 ruote
+- LEGO Porsche 911 GT3 RS: l’auto giocattolo presenta l’iconica silhouette del veicolo reale, compresi l’alettone posteriore, le prese d’aria sul cofano e i nuovi cerchioni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DWF1S7NT{{</world>}}

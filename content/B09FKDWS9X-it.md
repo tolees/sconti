@@ -29,9 +29,9 @@ average: '29.97'
 ℹ️:
 
 - I prodotti Lindt nascono da passione e dedizione dei Maîtres Chocolatiers, che da più di 175 anni incantano il mondo con capolavori di cioccolato
+- Lindt LINDOR è liconica pralina con guscio croccante e ripieno dallirresistibile scioglievolezza, nata nel 1949, in confezione assortita maxi formato da 1kg
 - Cacao pregiatissimo, tostatura e macinazione inimitabili, i migliori ingredienti: questo è il segreto del finissimo cioccolato Lindt
 - Irresistibile scioglievolezza da condividere, una coccola quotidiana per il tuo momento di estasi
-- Lindt LINDOR è liconica pralina con guscio croccante e ripieno dallirresistibile scioglievolezza, nata nel 1949, in confezione assortita maxi formato da 1kg
 - Le celebri praline Lindor dallincarto con doppio fiocco: nei gusti assortiti latte, extra fondente 70%, bianco e nocciole, con un morbido ripieno racchiuso da un guscio croccante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

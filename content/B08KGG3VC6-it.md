@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Temperatura di colore: 3.000 K (Warm White)
-- Questo prodotto è un apparato di illuminazione che può essere smontato per controllare separatamente le fonti di illuminazione presenti al suo interno
-- Staffa di montaggio per inclinazione fino a 180°
-- Controllabile tramite lapp Ledvance Smart + (con Android 8.0 / iOS 14.0 e versioni successive)
 - Controllo RGB del colore, circa 16 milioni di opzioni di colore regolabili
+- Staffa di montaggio per inclinazione fino a 180°
 - Dimmerabile
+- Questo prodotto è un apparato di illuminazione che può essere smontato per controllare separatamente le fonti di illuminazione presenti al suo interno
+- Controllabile tramite lapp Ledvance Smart + (con Android 8.0 / iOS 14.0 e versioni successive)
+- Temperatura di colore: 3.000 K (Warm White)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08KGG3VC6{{</world>}}

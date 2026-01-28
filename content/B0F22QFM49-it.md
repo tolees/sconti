@@ -28,10 +28,10 @@ average: '41.99'
 
 ℹ️:
 
-- La Standard Edition presenta una rinnovata modalità Carriera scuderia e lemozionante terzo capitolo di Braking Point
-- Fai brillare la Konnersport al di là di Braking Point: Per la prima volta, puoi vivere la tua esperienza alla Konnersport anche in altre modalità di gioco; Una volta terminato Braking Point, porta la scuderia in Carriera pilota o Carriera scuderia
 - EA SPORTS F1 25 è il videogioco ufficiale del FIA Formula One World Championship del 2025. Ledizione standard per PC viene fornita tramite un codice di download. Giocabile solo su PC.
+- La Standard Edition presenta una rinnovata modalità Carriera scuderia e lemozionante terzo capitolo di Braking Point
 - Scopri il nuovo ed emozionante capitolo di Braking Point: Scegli il tuo percorso vivendo lemozionante terzo capitolo di Braking Point, che include obiettivi diversi per ogni pilota nei momenti chiave della storia
+- Fai brillare la Konnersport al di là di Braking Point: Per la prima volta, puoi vivere la tua esperienza alla Konnersport anche in altre modalità di gioco; Una volta terminato Braking Point, porta la scuderia in Carriera pilota o Carriera scuderia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F22QFM49{{</world>}}

@@ -28,10 +28,10 @@ average: '23.0'
 
 ℹ️:
 
-- Al palato, le note di vaniglia conducono a un finale leggermente secco.
 - Perfetto per la preparazione di long drink e per essere gustato in gruppo.
-- Diplomático Mantuano ricco di note avvolgenti. Questo rum complesso e versatile è perfetto per essere miscelato in long drink o in rivisitazioni di cocktail classici.
 - Un rum straordinariamente equilibrato, ricco e complesso, con aromi di frutta secca e quercia.
+- Al palato, le note di vaniglia conducono a un finale leggermente secco.
+- Diplomático Mantuano ricco di note avvolgenti. Questo rum complesso e versatile è perfetto per essere miscelato in long drink o in rivisitazioni di cocktail classici.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01MXDFCKT{{</world>}}

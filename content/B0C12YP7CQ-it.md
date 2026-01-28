@@ -28,11 +28,11 @@ average: '23.91'
 
 ℹ️:
 
+- ✿ 【Tastiera Mini 60%】La tastiera da gioco Mini 60% è un layout ultracompatto con 61 tasti che ti rende un desktop ordinato con i tuoi ingranaggi organizzati. la tastiera senza tastierino numerico è la scelta della maggior parte dei giocatori di FPS, più spazi lasciati per i movimenti del mouse.
+- ✿ 【Compatibilità tastiera】Compatibile con Windows / Mac OS / PC, viene fornito con un cavo USB di tipo C.
 - ✿ 【Retroilluminazione RGB】Tastiera meccanica RGB al 60% con 16,8 milioni di combinazioni di colori, effetti di illuminazione multipli integrati e modalità di retroilluminazione a tinta unita, retroilluminazione a colori, nessun driver necessario.
 - ✿ 【Interruttore rosso lineare】Interruttore lineare che significa che la forza allinizio e alla fine di ogni corsa è quasi identica. "più fluido" e "più veloce" che li rende particolarmente popolari tra gli appassionati di giochi. Quiet Red Switch è linterruttore più adatto alluso in Office.
 - ✿ 【Cappucci in PBT e copritasti Extra Dye-sub】La resistenza allusura e la durezza del PBT sono molto più elevate rispetto ai copritasti in ABS e sono resistenti allolio, offrendo la migliore esperienza di digitazione e gioco. Cambiali a piacimento grazie al keypuller incluso nella confezione.
-- ✿ 【Tastiera Mini 60%】La tastiera da gioco Mini 60% è un layout ultracompatto con 61 tasti che ti rende un desktop ordinato con i tuoi ingranaggi organizzati. la tastiera senza tastierino numerico è la scelta della maggior parte dei giocatori di FPS, più spazi lasciati per i movimenti del mouse.
-- ✿ 【Compatibilità tastiera】Compatibile con Windows / Mac OS / PC, viene fornito con un cavo USB di tipo C.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C12YP7CQ{{</world>}}

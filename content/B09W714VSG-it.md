@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - IL FUSILLO: formato di pasta tipico dellItalia Meridionale, dalla forma avvolgente e arricciata dona allegria alle insalate di pasta
-- PASTA ARMANDO: Pasta di Semola di Grano Duro 100% Italiano, Trafila al Bronzo ed Essiccata Lentamente, lavorata secondo il Metodo Tradizionale. Il suo sapore speciale è riconoscibile tra mille
 - COTTURA: 9 minuti per una pasta "al dente" e 10 minuti per una cottura completa. La Trafila al Bronzo e laccurata selezione dei grani duri garantiscono una pasta sempre al dente, buona e sana. Con un contenuto proteico del 14%
-- FILIERA CONTROLLATA: il grano è coltivato solo dagli agricoltori della filiera Armando che garantisce zero residui di pesticidi e glifosato, utilizzati nella coltivazione e nella conservazione del grano
 - PACK ECOSOSTENIBILE: Armando si prende cura dellambiente, grazie al pack completamente riciclabile con la carta
+- PASTA ARMANDO: Pasta di Semola di Grano Duro 100% Italiano, Trafila al Bronzo ed Essiccata Lentamente, lavorata secondo il Metodo Tradizionale. Il suo sapore speciale è riconoscibile tra mille
+- FILIERA CONTROLLATA: il grano è coltivato solo dagli agricoltori della filiera Armando che garantisce zero residui di pesticidi e glifosato, utilizzati nella coltivazione e nella conservazione del grano
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09W714VSG{{</world>}}

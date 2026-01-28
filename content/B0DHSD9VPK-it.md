@@ -29,11 +29,11 @@ average: '20.24'
 ℹ️:
 
 - Dettagli dal Team Williams Racing: il modellino da costruire di auto F1 è caratterizzato da design e dettagli reali come nella versione 2024: barra Halo, ala posteriore, adesivi dello sponsor e pneumatici posteriori larghi con stampa “Pirelli”
-- Comprende 1 minifigure LEGO da collezione: il set include una minifigure del pilota con tuta Williams Racing e casco, posizionabile allinterno dellauto da corsa per ricreare emozionanti gare
-- Le monoposto LEGO da costruire in famiglia: espandi il tuo garage di auto LEGO, con gli altri modelli della gamma (disponibili separatamente) da costruire
-- Veicolo LEGO Williams da costruire per bambini e bambine da 10 anni in su: il modello di Auto da Corsa Williams Racing FW46 F1, permette di realizzare una macchina giocattolo LEGO Speed Champions, da costruire e da esporre
 - Macchina LEGO da esposizione: al termine delle gare i piccoli possono posizionare il veicolo giocattolo come elemento decorativo nella loro cameretta, o in salotto come decorazione di casa
+- Veicolo LEGO Williams da costruire per bambini e bambine da 10 anni in su: il modello di Auto da Corsa Williams Racing FW46 F1, permette di realizzare una macchina giocattolo LEGO Speed Champions, da costruire e da esporre
+- Le monoposto LEGO da costruire in famiglia: espandi il tuo garage di auto LEGO, con gli altri modelli della gamma (disponibili separatamente) da costruire
 - Idea regalo per gli amanti delle auto da corsa: questa macchina LEGO Speed Champions è una simpatica idea regalo per bambini e bambine fan della Formula 1, un regalo LEGO da collezione per gli adulti con la passione per le costruzioni
+- Comprende 1 minifigure LEGO da collezione: il set include una minifigure del pilota con tuta Williams Racing e casco, posizionabile allinterno dellauto da corsa per ricreare emozionanti gare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DHSD9VPK{{</world>}}

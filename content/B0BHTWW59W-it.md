@@ -28,11 +28,11 @@ average: '526.15'
 
 ℹ️:
 
-- VLOGGING IN SEMPLICITÃ€: Funzioni per vlog con schermo touch orientabile, sistema Eye AF per video nitidi, funzioni per le recensioni dei prodotti e selettore bokeh per la sfocatura dello sfondo
 - CONDIVIDI I TUOI CONTENUTI CON IL MONDO: Associa la vlog camera allo smartphone utilizzando la nuova app Imaging Edge Mobilee trasferisci clip in pochi attimi
+- QUALITÃ€ AUDIO STRAORDINARIA: Fai sentire la tua voce nitidamente grazie al microfono direzionale integrato (con filtro antivento incluso) o collega uno dei microfoni esterni di Sony
 - VLOGGING CON STILE: Lobiettivo da 20 mm e i filtri assicurano una straordinaria qualità di registrazione video in 4K e slow motion in Full HD, per creare unesperienza video più coinvolgente
 - UN FUTURO PIÃ SOSTENIBILE: Nel rispetto del piano ambientale Road to Zero di Sony, ZV-1F è parzialmente realizzata con materiali riciclati, e le fibre del filtro antivento sono in poliestere riciclato
-- QUALITÃ€ AUDIO STRAORDINARIA: Fai sentire la tua voce nitidamente grazie al microfono direzionale integrato (con filtro antivento incluso) o collega uno dei microfoni esterni di Sony
+- VLOGGING IN SEMPLICITÃ€: Funzioni per vlog con schermo touch orientabile, sistema Eye AF per video nitidi, funzioni per le recensioni dei prodotti e selettore bokeh per la sfocatura dello sfondo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BHTWW59W{{</world>}}

@@ -28,12 +28,12 @@ average: '605.79'
 
 ℹ️:
 
-- CONNETTIVITÀ SMART – CONTROLLO A DISTANZA E CONSIGLI PERSONALIZZATI: Collega l’asciugatrice all’app Electrolux per gestirla da remoto, ricevere aggiornamenti in tempo reale e ottenere suggerimenti per risparmiare energia e prolungare la vita dei tuoi capi.
-- MIXCARE – ASCIUGATURA UNIFORME E DELICATA PER COTONE E SINTETICI: Il programma MixCare assicura prestazioni ottimali e un’asciugatura uniforme per carichi misti di cotone e tessuti sintetici, evitando la necessità di separare i capi.
-- DELICATECARE – ASCIUGA LA LANA SENZA RESTRINGIMENTI: La tecnologia DelicateCare con pompa di calore regola temperatura e movimenti del cestello per asciugare anche i capi più delicati, come seta e lana, mantenendoli in perfetta forma. Certificazione Woolmark.
 - SENSICARE – TECNOLOGIA INTELLIGENTE PER LA CURA DEI TESSUTI: Grazie ai sensori di temperatura e umidità, SensiCare regola automaticamente tempo e consumo energetico, proteggendo i tessuti dal calore eccessivo, preservandone la qualità nel tempo.
-- BONUS ELETTRODOMESTICI: Il seguente prodotto rientra tra quelli idonei agli incentivi statali previsti dal Bonus Elettrodomestici 2025.
+- CONNETTIVITÀ SMART – CONTROLLO A DISTANZA E CONSIGLI PERSONALIZZATI: Collega l’asciugatrice all’app Electrolux per gestirla da remoto, ricevere aggiornamenti in tempo reale e ottenere suggerimenti per risparmiare energia e prolungare la vita dei tuoi capi.
 - IGIENE GARANTITA – RIMUOVE IL 99.9% DI VIRUS E BATTERI: Il ciclo Hygiene, certificato Swissatest, lavora sopra i 60°C per asciugare e igienizzare, eliminando più del 99.9% di virus e batteri dai tessuti.*Testato su Candida albicans, MS2 Bacteriophage e Escherichia coli in test esterno condotto da Swissatest Testmaterialien AG nel 2021 (Test Report No. 20212038)
+- MIXCARE – ASCIUGATURA UNIFORME E DELICATA PER COTONE E SINTETICI: Il programma MixCare assicura prestazioni ottimali e un’asciugatura uniforme per carichi misti di cotone e tessuti sintetici, evitando la necessità di separare i capi.
+- BONUS ELETTRODOMESTICI: Il seguente prodotto rientra tra quelli idonei agli incentivi statali previsti dal Bonus Elettrodomestici 2025.
+- DELICATECARE – ASCIUGA LA LANA SENZA RESTRINGIMENTI: La tecnologia DelicateCare con pompa di calore regola temperatura e movimenti del cestello per asciugare anche i capi più delicati, come seta e lana, mantenendoli in perfetta forma. Certificazione Woolmark.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FB91JSW7{{</world>}}

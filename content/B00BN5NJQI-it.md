@@ -28,10 +28,10 @@ average: '13.19'
 
 ℹ️:
 
-- DETTAGLI PEPE JEANS: Distinguiti con il maxi logo PEPE JEANS stampato sul davanti, che aggiunge un tocco distintivo al tuo stile
-- MANICHE CORTE: Il collo rotondo e la tinta unita offrono un look versatile e facile da abbinare
-- MATERIALI SOSTENIBILI: Realizzata con almeno il 70% di cotone sostenibile, questa T-shirt non solo ti fa fare bella figura, ma è anche rispettosa dellambiente
 - T-SHIRT SLIM FIT: il tessuto in cotone e lycra offre una sensazione di morbidezza ed elasticità, ottimo per labbigliamento quotidiano. Con una vestibilità slim che mette in risalto la figura in modo elegante e contemporaneo
+- MATERIALI SOSTENIBILI: Realizzata con almeno il 70% di cotone sostenibile, questa T-shirt non solo ti fa fare bella figura, ma è anche rispettosa dellambiente
+- MANICHE CORTE: Il collo rotondo e la tinta unita offrono un look versatile e facile da abbinare
+- DETTAGLI PEPE JEANS: Distinguiti con il maxi logo PEPE JEANS stampato sul davanti, che aggiunge un tocco distintivo al tuo stile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00BN5NJQI{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- EFFICACIA PROVATA² & FORMATO TASCABILE : l’azione dello Stick è immediata e duratura³, donando un effetto freddo lenitivo. Testato sotto controllo dermatologico, la formula non unge, non è comedogena e non lascia tracce.
+- MODO D’USO : dai 7 anni - Applicare lo stick direttamente sulle zone soggette a tensione: massaggiando sulla fronte, sulle tempie e lungo il collo, su entrambi i lati della colonna cervicale. Max 3 volte al giorno. Uso frequente
 - ALLEVIA LE SENSAZIONI DI TENSIONE E DI TESTA PESANTE : grazie al suo effetto freddo lenitivo che si associa al massaggio ed al profumo lenitivo, questo Stick sarà il tuo alleato preferito nei momenti difficili da usare su fronte, tempie, nuca
 - UN LABORATORIO FAMILIARE E INDIPENDENTE: Puressentiel nasce nel 2005 dalla passione di Isabelle e Marco Pacchioni per laromaterapia e i principi attivi naturali, rivoluzionando il mercato degli oli essenziali e rendendo laromaterapia accessibile a tutti, grazie ai suoi prodotti "pronti alluso". Una gamma di prodotti sicuri, efficaci e facili da usare!
-- MODO D’USO : dai 7 anni - Applicare lo stick direttamente sulle zone soggette a tensione: massaggiando sulla fronte, sulle tempie e lungo il collo, su entrambi i lati della colonna cervicale. Max 3 volte al giorno. Uso frequente
 - FORMULA 100% DI ORIGINE NATURALE - BIO : l’effetto freddo lenitivo è ottenuto grazie la formula naturale a base di 8 oli essenziali OEBBD (Oli Essenziali Botanicamente e Biochimicamente Definiti) e Mentolo Bio. Privo di parabeni, conservanti o profumi di sintesi
-- EFFICACIA PROVATA² & FORMATO TASCABILE : l’azione dello Stick è immediata e duratura³, donando un effetto freddo lenitivo. Testato sotto controllo dermatologico, la formula non unge, non è comedogena e non lascia tracce.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DM2HTZKJ{{</world>}}

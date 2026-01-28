@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Platform: windows_11
-- Wattage: 65.0 watts
-- 1 anno di supporto tecnico
 - Secondary cache: 8.0 MB
+- 1 anno di supporto tecnico
+- Wattage: 65.0 watts
+- Platform: windows_11
 - Cpu model speed: 3.7 GHz
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

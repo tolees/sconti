@@ -28,10 +28,10 @@ average: '13.99'
 
 ℹ️:
 
-- LE BIGLIE SI RICARICANO SUBITO: per unazione senza sosta, le biglie ingoiate si ricaricano istantaneamente nella mangiatoia dellippopotamo, pronte per essere lanciate nella prossima partita! Il gioco non finisce mai
+- UN AMATO GIOCO IN FAMIGLIA: ricordi di aver giocato a Mangia Ippo da bambino? Presenta questo fantastico gioco alla nuova generazione di bambini e bambine per pomeriggi di gioco, serate in famiglia e giorni di pioggia. Da 2 a 4 giocatori
 - FACILE DA RIPORRE: nessuna biglia che rotola per casa! Riponile nella comoda custodia. Per conservare il gioco o portarlo con te, basta alzare le leve su ciascun ippopotamo e il gioco si inserisce perfettamente nella sua scatola
 - IL GIOCO DELLA SCORPACCIATA DI BIGLIE: divertiti con il classico gameplay Mangia Ippo che i bambini e le bambine in età prescolare conoscono e amano, con ricarica istantanea delle biglie, configurazione rapida e conservazione facile
-- UN AMATO GIOCO IN FAMIGLIA: ricordi di aver giocato a Mangia Ippo da bambino? Presenta questo fantastico gioco alla nuova generazione di bambini e bambine per pomeriggi di gioco, serate in famiglia e giorni di pioggia. Da 2 a 4 giocatori
+- LE BIGLIE SI RICARICANO SUBITO: per unazione senza sosta, le biglie ingoiate si ricaricano istantaneamente nella mangiatoia dellippopotamo, pronte per essere lanciate nella prossima partita! Il gioco non finisce mai
 - GIOCO FACILE PER LETÀ PRESCOLARE: in questo gioco facile da imparare, si sceglie 1 ippopotamo su 4, si lanciano le biglie nello stagno centrale e si cerca di far inghiottire il maggior numero di biglie al proprio ippopotamo per vincere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

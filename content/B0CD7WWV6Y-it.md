@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Il gioco che mette alla prova il tuo cervello stimolando memoria, riflessi e velocità
-- Contenuto: 90 carte, 6 puzzle-cervello, 1 regolamento.
-- Una nuova edizione di Cortex Kids a tema Disney!
-- Sfidate i vostri amici e mettete alla prova il vostro cervello in questo divertente gioco che stimolerà la vostra velocità di pensiero, la logica, la concentrazione, la memoria e le reazioni rapide!
 - Numero di giocatori: 2-6 | Età consigliata: 6+| Durata media: 15 min | Edizione in lingua italian
+- Contenuto: 90 carte, 6 puzzle-cervello, 1 regolamento.
+- Sfidate i vostri amici e mettete alla prova il vostro cervello in questo divertente gioco che stimolerà la vostra velocità di pensiero, la logica, la concentrazione, la memoria e le reazioni rapide!
+- Una nuova edizione di Cortex Kids a tema Disney!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CD7WWV6Y{{</world>}}

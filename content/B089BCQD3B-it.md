@@ -28,10 +28,10 @@ average: '21.3114285714286'
 
 ℹ️:
 
-- Mafia III: Definitive Edition: include tutti i contenuti aggiuntivi rilasciati precedentemente: DLC 1: Corri dolcezza!, DLC 2: faccende in sospeso, DLC 3: segno dei tempi. Pacchetto armi giudice, giuria e carnefice e pacchetto riunione familiare
-- Mafia II: Definitive Edition: rimasterizzato con C E presentato in HD (compatibile 4K), disponibile per la prima volta su console current‐gen e nuovo motion capture facciale e texture aggiornate.
 - Bonus preordine: Prenota mafia Trilogy e ottieni il pacchetto bonus Chicago Outfit, che comprende l’outfit esclusivo il Don, la limousine Smith v12 e la Skin per pistola Gold semiautomatica
+- Mafia II: Definitive Edition: rimasterizzato con C E presentato in HD (compatibile 4K), disponibile per la prima volta su console current‐gen e nuovo motion capture facciale e texture aggiornate.
 - Mafia: Definitive Edition: remake completo del gioco originale, grafica e dinamiche di gioco notevolmente migliorate e nuove funzionalità tra cui moto e oggetti di gioco collezionabili.
+- Mafia III: Definitive Edition: include tutti i contenuti aggiuntivi rilasciati precedentemente: DLC 1: Corri dolcezza!, DLC 2: faccende in sospeso, DLC 3: segno dei tempi. Pacchetto armi giudice, giuria e carnefice e pacchetto riunione familiare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B089BCQD3B{{</world>}}

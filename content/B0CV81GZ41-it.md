@@ -28,11 +28,11 @@ average: '7.8'
 
 ℹ️:
 
-- ADATTO A TUTTI I TIPI DI PELLE: il gel doccia detergente è dermatologicamente testato e privo di parabeni, siliconi, oli minerali e coloranti sintetici.
 - LA FRAGRANZA DELLUVA SANTORINI: un aroma fresco e fruttato di bacche succose, uva e violette con delicate note di lime.
-- GEL DOCCIA RIVITALIZZANTE: il gel doccia con la fresca fragranza “ Santorini Grape” si trasforma in un cremoso doccia schiuma. Previene la secchezza della pelle, la idrata e le dona una piacevole sensazione di freschezza. La formulazione multifunzionale rende il gel doccia perfetto per la doccia, il bagno e la rasatura.
-- FATTO CON AMORE PER LA NATURA: il gel doccia per uomo e donna prodotto in Grecia è privo di test sugli animali e vegano. KORRES sostiene inoltre oltre 1000 famiglie di agricoltori biologici nella produzione dei suoi prodotti.
 - CON INGREDIENTI NATURALI DALLA GRECIA: il gel doccia nutriente nel flacone extra large idrata la pelle con estratti attivi di aloe vera e proteine del grano.
+- ADATTO A TUTTI I TIPI DI PELLE: il gel doccia detergente è dermatologicamente testato e privo di parabeni, siliconi, oli minerali e coloranti sintetici.
+- FATTO CON AMORE PER LA NATURA: il gel doccia per uomo e donna prodotto in Grecia è privo di test sugli animali e vegano. KORRES sostiene inoltre oltre 1000 famiglie di agricoltori biologici nella produzione dei suoi prodotti.
+- GEL DOCCIA RIVITALIZZANTE: il gel doccia con la fresca fragranza “ Santorini Grape” si trasforma in un cremoso doccia schiuma. Previene la secchezza della pelle, la idrata e le dona una piacevole sensazione di freschezza. La formulazione multifunzionale rende il gel doccia perfetto per la doccia, il bagno e la rasatura.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CV81GZ41{{</world>}}

@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tipo CPU: Octa-Core; Interfaccia USB: USB Tipo-C
 - 120 Hz: 8GB; Spazio di Archiviazione (GB): 256GB. Parte dello spazio di memoria indicato è occupato da contenuti preinstallati. Per questo dispositivo lo spazio disponibile all’utente è approssimativamente pari al 91% della capacità di memoria totale indicata
-- Numero di SIM: Dual-SIM; Tipo scheda SIM: Nano-SIM (4FF), SIM integrata; Tipo di slot SIM; SIM 1 + Hybrid (SIM or MicroSD) or Embedded SIM; Tipo rete: 2G GSM, 3G WCDMA, 4G LTE FDD, 4G LTE TDD, 5G Sub6 FDD, 5G Sub6 TDD
-- Risoluzione (Schermo Principale): 1080 x 2340 (FHD+); Risoluzione riproduzione video: UHD 4K (3840 x 2160) @30fps; Formati riproduzione video: MP4, M4V, 3GP, 3G2, AVI, FLV, MKV, WEBM; Supporto Stereo; Formati riproduzione audio: MP3, M4A, 3GA, AAC, OGG, OGA, WAV, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA
 - Spazio di Archiviazione disponibile (GB): 234GB; Supporto Archiviazione esterna; microSD (fino a 1TB). Le applicazioni possono essere trasferite sulla MicroSD solo dopo che siano state installate sulla memoria interna del dispositivo. Alcune applicazioni potrebbero non consentire il loro trasferimento sulla MicroSD o consentirne trasferimenti parziali in funzione delle configurazioni adottate dagli sviluppatori
-- Dimensioni (Schermo Principale): 168,3mm (6,6”, intera superficie del display) / 163,7mm (6,4”, superficie del display senza gli angoli stondati). Dimensioni: 161.7 A x 78.0 L x 8.2 P mm. Peso (g): 209 g
 - Freq. max di aggiornamento (Schermo Principale): 120 Hz
+- Numero di SIM: Dual-SIM; Tipo scheda SIM: Nano-SIM (4FF), SIM integrata; Tipo di slot SIM; SIM 1 + Hybrid (SIM or MicroSD) or Embedded SIM; Tipo rete: 2G GSM, 3G WCDMA, 4G LTE FDD, 4G LTE TDD, 5G Sub6 FDD, 5G Sub6 TDD
+- Dimensioni (Schermo Principale): 168,3mm (6,6”, intera superficie del display) / 163,7mm (6,4”, superficie del display senza gli angoli stondati). Dimensioni: 161.7 A x 78.0 L x 8.2 P mm. Peso (g): 209 g
+- Tipo CPU: Octa-Core; Interfaccia USB: USB Tipo-C
+- Risoluzione (Schermo Principale): 1080 x 2340 (FHD+); Risoluzione riproduzione video: UHD 4K (3840 x 2160) @30fps; Formati riproduzione video: MP4, M4V, 3GP, 3G2, AVI, FLV, MKV, WEBM; Supporto Stereo; Formati riproduzione audio: MP3, M4A, 3GA, AAC, OGG, OGA, WAV, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZHXJS2M{{</world>}}

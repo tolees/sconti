@@ -30,8 +30,8 @@ average: '113.654285714286'
 
 - SOLUZIONE UNICA: crea gustosi piatti con questo robot da cucina con una struttura compatta in metallo e finitura in colore silver; facile da utilizzare
 - SISTEMA ALL-IN-ONE ORIGINALE: con l’originale sistema all-in-one di Kenwood potrai tritare, grattugiare, affettare, frullare, impastare, montare e perfino spremere; Fai tutto con un’unica base, risparmiando tempo e spazio
-- COMPATTO: il Multipro Compact FDM301SS include una ciotola in plastica da 2.1 litri ottimale per le piccole quantità. Sia la ciotola che il frullatore si collegano alla stessa base, risparmiando spazio sul piano di lavoro
 - VERSATILE: il potente motore da 800W con due diverse velocità 2 di lavorazione piu la funzione Pulse, vi offriranno il controllo totale, per raggiungere i risultati desiderati in ogni occasione
+- COMPATTO: il Multipro Compact FDM301SS include una ciotola in plastica da 2.1 litri ottimale per le piccole quantità. Sia la ciotola che il frullatore si collegano alla stessa base, risparmiando spazio sul piano di lavoro
 - ACCESSORI INCLUSI: gruppo lame in acciaio inox, lama impastatrice, spatola, 3 dischi in acciaio inox per tritare le erbe, noci e formaggio, sbattitore a doppia frusta a filo in metallo, spremiagrumi con cono staccabile e frullatore in plastica da 1.2 L
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

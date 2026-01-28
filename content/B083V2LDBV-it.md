@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 【I LED Indicano Il Design】La luce rossa indica che i Joy-Contro si stanno caricando, quando la batteria è completamente carica o in modalità standby, lindicatore luminoso è verde.Non esaurire più la batteria e avere i controller pronti per il gioco, caricando fino a 4 Joy-Cons contemporaneamente. Carica rapidamente tutti e 4 i tuoi controller e preparati per una fantastica azione di gioco multiplayer con amici e familiari!
-- 【Ricarica Simultanea】Non esaurire più la batteria e avere i controller pronti per il gioco, caricando fino a 4 Joy-Cons contemporaneamente. Carica rapidamente tutti e 4 i tuoi controller e preparati per una fantastica azione di gioco multiplayer con un amico
-- 【Nuovo Design】Un supporto di ricarica appositamente progettato per i controller Joy-Con Nintendo Switch, che può caricare contemporaneamente 4 maniglie
 - 【Connettore Di Tipo C】Supporta la ricarica della maniglia originale Nintendo Switch. La capacità di trasmissione della potenza è maggiore, la velocità di trasmissione è maggiore e linserimento su due lati è supportato (non è più diviso in due lati quando è collegato) ed è conveniente ed efficiente
+- 【I LED Indicano Il Design】La luce rossa indica che i Joy-Contro si stanno caricando, quando la batteria è completamente carica o in modalità standby, lindicatore luminoso è verde.Non esaurire più la batteria e avere i controller pronti per il gioco, caricando fino a 4 Joy-Cons contemporaneamente. Carica rapidamente tutti e 4 i tuoi controller e preparati per una fantastica azione di gioco multiplayer con amici e familiari!
+- 【Nuovo Design】Un supporto di ricarica appositamente progettato per i controller Joy-Con Nintendo Switch, che può caricare contemporaneamente 4 maniglie
+- 【Ricarica Simultanea】Non esaurire più la batteria e avere i controller pronti per il gioco, caricando fino a 4 Joy-Cons contemporaneamente. Carica rapidamente tutti e 4 i tuoi controller e preparati per una fantastica azione di gioco multiplayer con un amico
 - 【Design Sicuro E Resistente】Sicurezza con protezione da sovraccarico o cortocircuito, il circuito intelligente può interrompere automaticamente lalimentazione per sicurezza, corpo in acrilico e ABS resistente garantisce affidabilità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

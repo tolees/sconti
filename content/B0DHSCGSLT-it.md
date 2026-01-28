@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Cosa troviamo nella confezione? I piccoli possono costruire un camion LEGO con un rimorchio ribassato, 2 veicoli giocattolo monoposto e le minifigure di 2 piloti e 3 membri dell’equipaggio, oltre al trofeo del vincitore
-- Regalo a tema automobilistico per i fan della F1: questo set è una grande idea regalo di compleanno per bambini e bambine da 8 anni in su, pensato anche per gli adulti amanti delle auto da corsa e dei modelli di macchine giocattolo da collezione
 - Come nel mondo reale: il rimorchio è dotato di un simulatore di Formula 1 e di doppio vano per veicoli con pannelli laterali apribili, un portello posteriore e rampe per caricare i modelli di auto Red Bull LEGO e lAston Martin giocattolo
+- Divertimento con la costruzione digitale: questo playset con veicoli LEGO contiene istruzioni digitali nell’app LEGO Builder, dove è possibile salvare i set, monitorare i progressi, ingrandire e ruotare i modelli F1 mentre vengono costruiti
 - Scopri il mondo della Formula 1 a tutta velocità: cerca le altre costruzioni LEGO City a tema F1 (disponibili separatamente), per tante gare con la famiglia e gli amici
 - Playset con camion giocattolo LEGO F1: i giovani fan delle auto da corsa adoreranno questo set LEGO City Autotrasportatore F1 con Monoposto RB20 e AMR24 F1, un gioco per bambini e bambine da 8 anni in su fan delle macchine giocattolo da Formula 1
-- Divertimento con la costruzione digitale: questo playset con veicoli LEGO contiene istruzioni digitali nell’app LEGO Builder, dove è possibile salvare i set, monitorare i progressi, ingrandire e ruotare i modelli F1 mentre vengono costruiti
+- Cosa troviamo nella confezione? I piccoli possono costruire un camion LEGO con un rimorchio ribassato, 2 veicoli giocattolo monoposto e le minifigure di 2 piloti e 3 membri dell’equipaggio, oltre al trofeo del vincitore
+- Regalo a tema automobilistico per i fan della F1: questo set è una grande idea regalo di compleanno per bambini e bambine da 8 anni in su, pensato anche per gli adulti amanti delle auto da corsa e dei modelli di macchine giocattolo da collezione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DHSCGSLT{{</world>}}

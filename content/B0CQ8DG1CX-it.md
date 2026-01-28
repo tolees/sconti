@@ -28,13 +28,13 @@ average: '328.881176470587'
 
 ℹ️:
 
-- Leggero e compatto: Mini 3 pesa meno di 249 g. Perfetto da portare con te nelle tue avventure, da escursioni, viaggi on the road e giornate in spiaggia
-- Include il radiocomando DJI RC-N1, che ti consente di viaggiare leggero e goderti ogni esperienza creativa
+- Durata della batteria estesa: con un’autonomia fino a 38 minuti, puoi portare Mini 3 ovunque durante il tuo viaggio o effettuare lunghi voli senza preoccuparti della batteria
 - Immagini straordinarie: Riprendi in 4K HDR per riprese aeree cristalline. Cattura i dettagli nelle luci e nelle ombre, sia di giorno che di notte
 - Cattura laltezza, sii social: con la funzione Riprese verticali, potrai facilmente riprendere soggetti alti come grattacieli e cascate. Dopo aver scattato, le immagini avranno lorientamento perfetto per postarle su Instagram o TikTok
-- Durata della batteria estesa: con un’autonomia fino a 38 minuti, puoi portare Mini 3 ovunque durante il tuo viaggio o effettuare lunghi voli senza preoccuparti della batteria
-- Volare è un gioco da ragazzi: non lasciarti ostacolare dal vento. Mini 3 è resistente ai venti fino a 38 km/h (livello 5) e rimane stabile garantendo scatti perfetti
+- Leggero e compatto: Mini 3 pesa meno di 249 g. Perfetto da portare con te nelle tue avventure, da escursioni, viaggi on the road e giornate in spiaggia
 - Concentrati sul momento: scatti epici sono sempre a portata di mano. Usa QuickShots per scegliere modelli di volo dinamici o catturare una vista mozzafiato con la funzione Panorama
+- Volare è un gioco da ragazzi: non lasciarti ostacolare dal vento. Mini 3 è resistente ai venti fino a 38 km/h (livello 5) e rimane stabile garantendo scatti perfetti
+- Include il radiocomando DJI RC-N1, che ti consente di viaggiare leggero e goderti ogni esperienza creativa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CQ8DG1CX{{</world>}}

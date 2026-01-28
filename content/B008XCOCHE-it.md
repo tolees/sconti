@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dotate con un passepartout
 - Con vetro trasparente lavato
-- Profilo rettangolare in plastica
+- Dotate con un passepartout
 - Disponibile in molti colori e formati
+- Profilo rettangolare in plastica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B008XCOCHE{{</world>}}

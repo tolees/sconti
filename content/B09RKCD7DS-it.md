@@ -29,11 +29,11 @@ average: '279.99'
 ℹ️:
 
 - Risultati rapidi: Trattamenti solo ogni 2 settimane durante la fase iniziale di 6 settimane, ovvero la metà dei trattamenti rispetto ad altre marche
-- Goditi una pelle liscia più a lungo*: studi clinici dimostrano che Lumea IPL può ridurre efficacemente i peli non solo per 12 mesi, ma fino a 18 mesi! Riduce fino al 92% dei peli dopo sole 3 sedute** e mantiene la pelle liscia per 18 mesi*. La confezione potrebbe ancora riportare lindicazione di 12 mesi
-- Il set include: 1 dispositivo di epilazione Philips Lumea IPL Serie 8000 (BRI944/00), 2 accessori per viso e corpo, 1 custodia, 1 adattatore, 1 panno per la pulizia
+- Basato sulla tecnologia utilizzata nei centri estetici: Philips Lumea IPL è stato sviluppato in collaborazione con scienziati dermatologi esperti ed è stato testato su oltre 3.000 donne
 - Dotato di 2 accessori per viso e corpo: si adattano perfettamente alle curve del tuo corpo e attivano i programmi più efficaci per ogni zona una volta collegati
 - Personalizzato con SenseIQ: il sensore SmartSkin rileva il tono della pelle e indica lintensità luminosa da utilizzare, mentre la nostra app gratuita ti guida passo dopo passo nelle tue sessioni
-- Basato sulla tecnologia utilizzata nei centri estetici: Philips Lumea IPL è stato sviluppato in collaborazione con scienziati dermatologi esperti ed è stato testato su oltre 3.000 donne
+- Goditi una pelle liscia più a lungo*: studi clinici dimostrano che Lumea IPL può ridurre efficacemente i peli non solo per 12 mesi, ma fino a 18 mesi! Riduce fino al 92% dei peli dopo sole 3 sedute** e mantiene la pelle liscia per 18 mesi*. La confezione potrebbe ancora riportare lindicazione di 12 mesi
+- Il set include: 1 dispositivo di epilazione Philips Lumea IPL Serie 8000 (BRI944/00), 2 accessori per viso e corpo, 1 custodia, 1 adattatore, 1 panno per la pulizia
 - Esclusiva formula brevettata Lumea IPL Smart Pulse: bilanciamento della potenza luminosa, del colore della luce e della durata degli impulsi, per una rimozione dei peli sicura, efficace e delicata; basato su oltre 20 anni di ricerca e sviluppo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

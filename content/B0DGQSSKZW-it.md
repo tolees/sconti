@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- NUOVO FORMATO DA 500G: Barilla Al Bronzo si rinnova con una confezione premium in cello con finestra, in un nuovo formato da 500g
 - TRAFILATA AL BRONZO: una pasta estrusa, ottenuta dalla lavorazione grezza con trafile in bronzo con microincisioni, per aumentare la resistenza al passaggio dellimpasto e creare unintensa ruvidità
-- ECCELLENTE TENUTA DEL SUGO: Barilla Al Bronzo è una pasta dai tratti grintosi e dalla ruvidità intensa, ad alta tenuta di sugo e cottura, grazie alla lavorazione grezza e alla miscela di pregiati grani italiani
-- BARILLA MEZZE PENNE RIGATE AL BRONZO: le mezze penne rigate Al Bronzo offrono un’esperienza di gusto avvolgente e intensa. Una pasta spessa e corposa, trafilata al bronzo con il metodo di lavorazione al bronzo grezzo
 - BARILLA: unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
+- BARILLA MEZZE PENNE RIGATE AL BRONZO: le mezze penne rigate Al Bronzo offrono un’esperienza di gusto avvolgente e intensa. Una pasta spessa e corposa, trafilata al bronzo con il metodo di lavorazione al bronzo grezzo
+- ECCELLENTE TENUTA DEL SUGO: Barilla Al Bronzo è una pasta dai tratti grintosi e dalla ruvidità intensa, ad alta tenuta di sugo e cottura, grazie alla lavorazione grezza e alla miscela di pregiati grani italiani
+- NUOVO FORMATO DA 500G: Barilla Al Bronzo si rinnova con una confezione premium in cello con finestra, in un nuovo formato da 500g
 - GRANI DURI PREGIATI COLTIVATI IN ITALIA: pasta dal gusto di grano con note rotonde e leggermente tostate, realizzata con una miscela Barilla di grani duri pregiati 100% italiani
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

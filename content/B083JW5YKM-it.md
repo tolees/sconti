@@ -28,11 +28,11 @@ average: '226.63'
 
 ℹ️:
 
-- Esclusiva funzione pieghevole per riporla facilmente quando non in uso
-- Compatibile con PlayStation, Xbox, Wii, PC e Mac
-- Mozzi durevoli e regolabili che consentono un cambio di posizione facile e veloce
 - Compatibile con tutte le principali ruote e pedali, inclusi Thrustmaster, Logitech e Fanatic
+- Mozzi durevoli e regolabili che consentono un cambio di posizione facile e veloce
+- Compatibile con PlayStation, Xbox, Wii, PC e Mac
 - Adatto a utenti di 120 cm/47 pollici e fino a 200 cm/79 pollici. Limite utente di 150 kg/330 libbre
+- Esclusiva funzione pieghevole per riporla facilmente quando non in uso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B083JW5YKM{{</world>}}

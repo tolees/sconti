@@ -28,10 +28,10 @@ average: '11.99'
 
 ℹ️:
 
-- COME AVVIENE LA MAGIA - A differenza dei prodotti 2 in 1 tradizionali, che contengono molti detergenti duri sul capello e poco balsamo, il nostro Cowash contiene poco detergente. Niente schiuma, solo idratazione!
-- DETERGE & IDRATA - Il Conditioning Wash, prodotto che funge sia da shampoo che balsamo. Non solo deterge i tuoi capelli ma li nutrisce anche. Non avrai bisogno di applicare lo shampoo e poi il balsamo di seguito!
 - SENZA ADDITIVI NASCOSTI - Tutti i nostri prodotti non contengono solfati, siliconi, olii minerali e ftalati. Inoltre sono compatibili con le capigliature curly, sono 100% vegani e cruelty free.
 - COSA CI RENDE DIFFERENTI - Ispirata da generazioni di rimedi per capelli fatti in casa, Curlsmith mescola ingredienti specifici per capelli ricci con altri rari di origine naturale per realizzare prodotti che funzionano davvero. Ingredienti salubri, risultati professionali, nessun compromesso.
+- DETERGE & IDRATA - Il Conditioning Wash, prodotto che funge sia da shampoo che balsamo. Non solo deterge i tuoi capelli ma li nutrisce anche. Non avrai bisogno di applicare lo shampoo e poi il balsamo di seguito!
+- COME AVVIENE LA MAGIA - A differenza dei prodotti 2 in 1 tradizionali, che contengono molti detergenti duri sul capello e poco balsamo, il nostro Cowash contiene poco detergente. Niente schiuma, solo idratazione!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07D7CBBPC{{</world>}}

@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Per una dieta sana
-- Pepite croccanti
-- Con aggiunta di vitamine e ferro
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
-- Paese di origine: ‎Polonia
 - Kelogg Italia Spa,Via Torri Bianche 6,Vimercate ,MB 20871 ,Italia.
+- Paese di origine: ‎Polonia
+- Con aggiunta di vitamine e ferro
+- Pepite croccanti
+- Per una dieta sana
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
 - Croccante nel latte caldo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

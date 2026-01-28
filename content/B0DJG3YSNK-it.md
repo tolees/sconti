@@ -28,11 +28,11 @@ average: '1.35'
 
 ℹ️:
 
-- FORMATO: 160gr
-- HARRY POTTER: Immergiti nel magico mondo di Harry Potter con queste deliziose caramelle alla frutta caratterizzate dalle forme dei tuoi personaggi preferiti: Harry, Hermione e Ron. Un must per ogni fan!
-- FESTE: Deliziose e colorate per ogni situazione. Sono perfette per feste di tutti i tipi o semplicemente per concedersi un momento di dolcezza.
 - HARIBO: in Italia dai primi anni 70 oggi è presente in 120 paesi La vasta gamma di prodotti viene ampliata continuamente per offrire alla clientela qualsiasi tipologia di caramelle gommose, frizzanti e miste.
+- FORMATO: 160gr
+- FESTE: Deliziose e colorate per ogni situazione. Sono perfette per feste di tutti i tipi o semplicemente per concedersi un momento di dolcezza.
 - INGREDIENTI: Haribo seleziona con cura ogni singolo ingrediente per creare un piacevole mix di sapori da gustare in diverse occasioni.
+- HARRY POTTER: Immergiti nel magico mondo di Harry Potter con queste deliziose caramelle alla frutta caratterizzate dalle forme dei tuoi personaggi preferiti: Harry, Hermione e Ron. Un must per ogni fan!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DJG3YSNK{{</world>}}

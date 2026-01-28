@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Le nuove Sfoglie Cuore offrono un supporto proteico e contengono tutto il buono dei legumi e delle fibre. Le proteine contribuiscono alla crescita e al mantenimento della massa muscolare
+- Le Sfoglie Cuore ai Ceci contengono farina di ceci, di orzo e di avena, proteine di piselli e semi di chia, ricchi di Omega 3 e minerali
+- Le nostre Sfoglie croccanti e gustose contengono Olio Cuore, naturalmente ricco di Polinsaturi Omega 6, fra cui lAcido Linoleico che aiuta a mantenere i normali livelli di colesterolo
 - Cuore è lalleato del tuo mangiar bene per sentirti in forma e offre prodotti che ti aiutano a proteggere e rafforzare lorganismo
 - Perfette per accompagnare il pranzo o la cena, ottime per i tuoi spuntini o per gli aperitivi con gli amici
-- Le nuove Sfoglie Cuore offrono un supporto proteico e contengono tutto il buono dei legumi e delle fibre. Le proteine contribuiscono alla crescita e al mantenimento della massa muscolare
-- Le nostre Sfoglie croccanti e gustose contengono Olio Cuore, naturalmente ricco di Polinsaturi Omega 6, fra cui lAcido Linoleico che aiuta a mantenere i normali livelli di colesterolo
-- Le Sfoglie Cuore ai Ceci contengono farina di ceci, di orzo e di avena, proteine di piselli e semi di chia, ricchi di Omega 3 e minerali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BYJZV8LZ{{</world>}}

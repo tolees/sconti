@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Laila DormiBene è un integratore alimentare a base di Melatonina e di 5 estratti botanici: Camomilla, Valeriana, Ashwaganda, Melissa e Lavanda. Laila DormiBene per favorire il tuo sonno
-- Melatonina: per un rapido addormentamento. La Melatonina contribuisce alla riduzione del tempo necessario per prendere sonno
-- Herbal 5 Complex: Mix di 5 estratti botanici, Camomilla, Melissa, Ashwaganda, Valeriana, Lavanda per favorire il rilassamento e il sonno
 - Per favorire il sonno. Senza gelatina di origine animale. Non crea abitudine. Non dà sonnolenza al risveglio. Adatto a una dieta vegana
+- Herbal 5 Complex: Mix di 5 estratti botanici, Camomilla, Melissa, Ashwaganda, Valeriana, Lavanda per favorire il rilassamento e il sonno
+- Melatonina: per un rapido addormentamento. La Melatonina contribuisce alla riduzione del tempo necessario per prendere sonno
 - 1 pastiglia gommosa, 30 minuti prima di coricarsi e in previsione di un periodo di sonno prolungato. Al gusto di frutti di bosco. Senza zuccheri
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

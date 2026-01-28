@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- COLORE NERO
-- CARICATORE USB ULTRAPIATTO 20W EMILIA FLAT
 - 1 PRESA USB TIPOC 5V/3A, 9V/2A, 12V/1.67A PD20W
-- 1 PRESA USB TIPO A 5V/3A, 9V/2A, 12V/1.5A QC18W
 - SPINA 10A
+- 1 PRESA USB TIPO A 5V/3A, 9V/2A, 12V/1.5A QC18W
+- CARICATORE USB ULTRAPIATTO 20W EMILIA FLAT
+- COLORE NERO
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FJRMVKMD{{</world>}}

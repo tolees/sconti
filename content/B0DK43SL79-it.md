@@ -28,10 +28,10 @@ average: '11.8'
 
 ℹ️:
 
-- MATERIALE E LAVAGGIO: Questa canotta è realizzata al 95% in cotone e al 5% in elastan. È lavabile in lavatrice.
-- VESTIBILITÀ OTTIMALE: Questa canotta senza tempo con scollo quadrato presenta un design alla moda e veste morbida.
-- ESSENZIALE E CASUAL: La maglietta basic con struttura a costine è perfetta per il tuo look per il tempo libero. Il logo Calvin Klein sul petto completa l’outfit.
 - PER OGNI OCCASIONE: Il capo minimalista regala una sensazione piacevole sulla pelle e conquista per il suo elevato comfort. Che si tratti di jeans, shorts o un pantalone elegante, si adatta perfettamente a ogni outfit o look da ufficio.
+- ESSENZIALE E CASUAL: La maglietta basic con struttura a costine è perfetta per il tuo look per il tempo libero. Il logo Calvin Klein sul petto completa l’outfit.
+- VESTIBILITÀ OTTIMALE: Questa canotta senza tempo con scollo quadrato presenta un design alla moda e veste morbida.
+- MATERIALE E LAVAGGIO: Questa canotta è realizzata al 95% in cotone e al 5% in elastan. È lavabile in lavatrice.
 - SEMPLICITÀ E FASCINO: Creato nel 1968, il marchio Calvin Klein è famoso per il suo look inconfondibile, che lo ha reso da subito un’ispirazione per il mondo della moda. Il brand americano è caratterizzato da un’estetica minimalista.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

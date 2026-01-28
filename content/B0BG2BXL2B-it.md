@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - NOTE DEGUSTATIVE: Profumi floreali fragranti ed equilibrati. Al palato è ricco, ampio, pieno, sapido ed equilibrato.
 - LEONARDO DA VINCI VERMENTINO TOSCANA IGT: Vino Vermentino Toscana IGT dal colore giallo paglierino, gradazione alcolica 12.5% Vol. Prodotto in Toscana
-- ABBINAMENTO: Ideale con primi piatti a base di sughi leggeri, secondi di pesce al forno e fritture. Temperatura di servizio: 10-12 °C
 - FORMATO: confezione con 6 bottiglie da 750 ml ciascuna
 - LEONARDO DA VINCI: Ununione di cantine italiane che valorizza la storia e le eccellenze vitivinicole del territorio, combinando progetti enologici e cultura, raccontando ogni giorno il Genio del vino
+- ABBINAMENTO: Ideale con primi piatti a base di sughi leggeri, secondi di pesce al forno e fritture. Temperatura di servizio: 10-12 °C
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BG2BXL2B{{</world>}}

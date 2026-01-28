@@ -28,11 +28,11 @@ average: '4.49'
 
 ℹ️:
 
-- ARRICCHITO CON NUTRIENTI: Arricchito con biotina, complesso protezione cheratina e la nostra miscela di nutrienti Pro-V
+- CREATA DAI NOSTRI ESPERTI: La nostra formula unica e innovativa è il risultato di 75 anni di ricerca in nutrienti Pro-V ed è certificata dallIstituto Svizzero della Vitamina, riconosciuto in tutto il mondo per lo studio sullefficacia delle vitamine
 - NUTRIMENTO PROFONDO PER CAPELLI CRESPI: Per capelli secchi, tendenti al crespo, e capelli ricci. La nostra formula nutriente aiuta a proteggere i capelli dallumidità, per capelli più morbidi e disciplinati
 - FLACONE RICICLABILE: Flacone realizzato con plastica riciclata (esclusi tappo, coloranti e additivi) e riciclabile
 - FLACONE RICICLABILE: Flacone realizzato con plastica riciclata (esclusi tappo, coloranti e additivi) e riciclabile
-- CREATA DAI NOSTRI ESPERTI: La nostra formula unica e innovativa è il risultato di 75 anni di ricerca in nutrienti Pro-V ed è certificata dallIstituto Svizzero della Vitamina, riconosciuto in tutto il mondo per lo studio sullefficacia delle vitamine
+- ARRICCHITO CON NUTRIENTI: Arricchito con biotina, complesso protezione cheratina e la nostra miscela di nutrienti Pro-V
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CRYZB89C{{</world>}}

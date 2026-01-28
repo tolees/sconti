@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - I bambini possono lanciare elementi acqua LEGO dallestintore della barca giocattolo dei vigili del fuoco o dal jetpack, per spegnere le fiamme e salvare il pilota del gommone in difficoltà
 - I bambini possono giocare ai soccorritori con questo fantastico set LEGO City, che comprende un gommone, una nave giocattolo dei vigili del fuoco che galleggia sullacqua, e un jetpack
-- Include una guida digitale nellapp gratuita LEGO Builder per smartphone e tablet, dove i bambini possono zoomare, ruotare e vedere questo set da tutte le angolazioni mentre costruiscono
 - Sia il motoscafo che la nave giocattolo dei pompieri galleggiano davvero: con queste sorprendenti imbarcazioni dai colori vivaci i bambini possono vivere le loro avventure in acqua
 - Con questo set multiveicolo di giochi da costruire per bambini dai 5 anni in su, i piccoli possono unirsi alle 3 minifigure LEGO dei pompieri e partecipare a fantastiche missioni acquatiche
+- Include una guida digitale nellapp gratuita LEGO Builder per smartphone e tablet, dove i bambini possono zoomare, ruotare e vedere questo set da tutte le angolazioni mentre costruiscono
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BBRXB8S8{{</world>}}

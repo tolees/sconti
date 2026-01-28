@@ -28,12 +28,12 @@ average: '103.0'
 
 ℹ️:
 
-- Festeggia un importante anniversario: questo set LEGO | Disney include il personaggio di Simba da costruire, che può essere messo in varie pose grazie alla testa mobile; un set per celebrare il 30° anniversario de Il Re Leone
-- Regalo Disney per adulti: il personaggio di Simba con testa mobile, è unidea regalo per gli amanti del film, un pensiero per se stessi, per lui o per lei, o per qualsiasi altro fan Disney adulto
-- Modellino da costruire LEGO | Disney per adulti: regala a te stesso o ad un fan adulto del film Il Re Leone, questo set costruibile con il personaggio del Giovane Simba, il Re Leone LEGO | Disney, unidea creativa da collezione
-- Modellino da esposizione: questo set LEGO da collezione consente ai fan di rilassarsi con una costruzione impegnativa, e permette di creare un elemento da esposizione per la camera da letto o una decorazione per la casa
 - Costruzione creativa: il personaggio di Simba LEGO | Disney può essere costruito insieme al set Simba, il Simba, il Cucciolo del Re Leone (43243) (disponibile separatamente), per condividere il divertimento creativo con i propri bambini
+- Festeggia un importante anniversario: questo set LEGO | Disney include il personaggio di Simba da costruire, che può essere messo in varie pose grazie alla testa mobile; un set per celebrare il 30° anniversario de Il Re Leone
+- Modellino da esposizione: questo set LEGO da collezione consente ai fan di rilassarsi con una costruzione impegnativa, e permette di creare un elemento da esposizione per la camera da letto o una decorazione per la casa
+- Regalo Disney per adulti: il personaggio di Simba con testa mobile, è unidea regalo per gli amanti del film, un pensiero per se stessi, per lui o per lei, o per qualsiasi altro fan Disney adulto
 - Immergiti nella costruzione: goditi ogni fase della costruzione con l’app LEGO Builder, dove potrai monitorare i tuoi progressi, ingrandire e ruotare il modello in 3D e salvare i set in un unico posto
+- Modellino da costruire LEGO | Disney per adulti: regala a te stesso o ad un fan adulto del film Il Re Leone, questo set costruibile con il personaggio del Giovane Simba, il Re Leone LEGO | Disney, unidea creativa da collezione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CWH1WZVH{{</world>}}

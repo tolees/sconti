@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - NOTE DEGUSTATIVE: Il Prosecco Rosé si presenta rivelando delle nuance che ricordano il melograno con tenui riflessi rosati; Al naso è sottile e fresco, richiama sentori di piccoli frutti rossi; Note di rosa e melograno completano questo profilo aromatico elegante ed intenso
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
-- Al palato si presenta setoso e pieno, creando un equilibrio molto piacevole tra le note fruttate e quelle floreali
 - Ottimo aperitivo; Ottimale con stuzzichini e primi piatti della cucina Mediterranea
+- Al palato si presenta setoso e pieno, creando un equilibrio molto piacevole tra le note fruttate e quelle floreali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DJNRGYHN{{</world>}}

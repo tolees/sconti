@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Le pellicole sono vendute separatamente
-- Esci dalle solite cornici con instax SQUARE Link, la stampante per smartphone a sviluppo istantaneo che lascia spazio alla fantasia e rende indelebili i momenti più indimenticabili della tua vita
-- Connettiti via bluetooth a SQUARE Link, scorri verso l’alto sul tuo smartphone e stampa facilmente ovunque ti trovi immagini o frame video in formato quadrato, arricchiti con la tua creatività
+- Piccola, leggera e adatta a ogni situazione, instax SQUARE Link offre un raffinato design arrotondato arricchito sul fronte da una striscia LED che evidenzia la modalità e lo stato dell’app
 - Utilizza la funzione AR Print scansionando il QR code presente sulla tua pellicola: divertiti a creare una dimensione extra alle immagini aggiungendo testi, sfondi, foto o doodle tridimensionali
 - Da un angolo all’altro della Terra, gli istanti migliori meritano di essere condivisi con i tuoi amici inviando tramite instax Connect immagini personalizzate, pronte per essere stampate e conservate
-- Piccola, leggera e adatta a ogni situazione, instax SQUARE Link offre un raffinato design arrotondato arricchito sul fronte da una striscia LED che evidenzia la modalità e lo stato dell’app
+- Connettiti via bluetooth a SQUARE Link, scorri verso l’alto sul tuo smartphone e stampa facilmente ovunque ti trovi immagini o frame video in formato quadrato, arricchiti con la tua creatività
+- Esci dalle solite cornici con instax SQUARE Link, la stampante per smartphone a sviluppo istantaneo che lascia spazio alla fantasia e rende indelebili i momenti più indimenticabili della tua vita
+- Le pellicole sono vendute separatamente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BGY52ZF4{{</world>}}

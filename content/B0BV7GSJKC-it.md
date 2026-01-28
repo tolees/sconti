@@ -28,12 +28,12 @@ average: '77.6327272727273'
 
 ℹ️:
 
-- Il set include anche 4 personaggi LEGO Super Mario del mondo di Donkey Kong: Funky Kong e Diddy Kong, uno Sgranocchio da eliminare e un Minatore grottalpa da sconfiggere
 - Questo gioco Super Mario costruibile include un aereo giocattolo con 2 Action Tag che attivano le reazioni dei personaggi LEGO Mario, LEGO Luigi o LEGO Peach (non inclusi) quando comprano i palloncini e quando volano in aereo
 - Ricrea le sfide di Donkey Kong con i carrelli da miniera, gli aerei e le rocce da far esplodere, con questo set di giocattoli LEGO Super Mario da costruire per bambini da 8 anni in su
+- Il set include anche 4 personaggi LEGO Super Mario del mondo di Donkey Kong: Funky Kong e Diddy Kong, uno Sgranocchio da eliminare e un Minatore grottalpa da sconfiggere
 - Questo set modulare è ricostruibile e si combina con altri set LEGO Super Mario; nellapp LEGO Super Mario sono disponibili le istruzioni per la costruzione e molto altro
-- Questo gioco da costruire di Super Mario è un divertente regalo di compleanno per bambini e bambine da abbinare ad un set LEGO Super Mario Starter Pack (71360, 71387 o 71403), necessario per il gioco interattivo
 - I giocatori possono riparare la sezione rotta del binario, superare lo Sgranocchio, sconfiggere il Minatore Grottatalpa e far esplodere la roccia per ottenere banane da regalare a Funky Kong o Diddy Kong
+- Questo gioco da costruire di Super Mario è un divertente regalo di compleanno per bambini e bambine da abbinare ad un set LEGO Super Mario Starter Pack (71360, 71387 o 71403), necessario per il gioco interattivo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BV7GSJKC{{</world>}}

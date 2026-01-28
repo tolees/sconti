@@ -28,10 +28,10 @@ average: '68.95'
 
 ℹ️:
 
-- Calzata facile da regolare grazie alla chiusura con lacci
-- Calzatura leggera per unottima libertà di movimento
-- Il sistema Zero-Shock con sfere ammortizzanti aumenta lammortizzazione e assiucura un maggior assorbimento di impatti e sollecitazioni
 - Sottopiede estraibile
+- Calzata facile da regolare grazie alla chiusura con lacci
+- Il sistema Zero-Shock con sfere ammortizzanti aumenta lammortizzazione e assiucura un maggior assorbimento di impatti e sollecitazioni
+- Calzatura leggera per unottima libertà di movimento
 - I sistemi brevettati Geox assicurano traspirabilità della suola e benessere del piede
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

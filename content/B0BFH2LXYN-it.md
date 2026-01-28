@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Prodotto 1: ITALA PILSEN: la Pils di Puro Malto non pastorizzata che proviene dal cuore di Padova, Veneto. Birra dal colore biondo dorato, da servire a 7-8°C
 - Prodotto 2: GRADAZIONE ALCOLICA: 4.7 % vol
-- Prodotto 2: IDEALE CON: pizza, pasta e piatti della tradizione italiana
-- Prodotto 1: GRADAZIONE ALCOLICA: 4.8% Vol
-- Prodotto 1: NON PASTORIZZATA: le basse temperature a cui viene mantenuta durante il processo produttivo le permettono di conservare intatti gli aromi e i gusti degli ingredienti accuratamente selezionati
 - Prodotto 2: PERONI 175 ANNIVERSARIO: una veste tutta nuova per birra Peroni, la lager italiana in unedizione limitata in occasione del 175esimo anniversario del brand
+- Prodotto 1: NON PASTORIZZATA: le basse temperature a cui viene mantenuta durante il processo produttivo le permettono di conservare intatti gli aromi e i gusti degli ingredienti accuratamente selezionati
+- Prodotto 1: GRADAZIONE ALCOLICA: 4.8% Vol
+- Prodotto 2: IDEALE CON: pizza, pasta e piatti della tradizione italiana
 - Prodotto 2: GUSTO: moderatamente amaro, equilibrato di luppolo e malto
+- Prodotto 1: ITALA PILSEN: la Pils di Puro Malto non pastorizzata che proviene dal cuore di Padova, Veneto. Birra dal colore biondo dorato, da servire a 7-8°C
 - Prodotto 1: GUSTO: autentico, ricco e distintivo, grazie ai luppoli aromatici altamente selezionati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

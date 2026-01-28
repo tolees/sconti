@@ -28,11 +28,11 @@ average: '45.9'
 
 ℹ️:
 
-- LO STILE JOHN RICHMOND: Un brand iconico che fonde moda e fragranze in un universo rock, provocante e fuori dagli schemi – per chi non ha paura di esprimere la propria identità
-- DESIGN ICONICO E GRINTOSO: Design rosso intenso con cuore spezzato e borchie argentate – un simbolo visivo di amore, forza e ribellione
-- FORMATI DISPONIBILI: Scegli tra il formato da 30 ml, perfetto da portare sempre con te, e quello da 100 ml per un utilizzo quotidiano che dura nel tempo
 - FRAGRANZA SENSUALE E RIBELLE: Never Forever è un Eau de Parfum da donna che incarna un’anima provocante e passionale, pensata per chi ama lasciare il segno
+- DESIGN ICONICO E GRINTOSO: Design rosso intenso con cuore spezzato e borchie argentate – un simbolo visivo di amore, forza e ribellione
+- LO STILE JOHN RICHMOND: Un brand iconico che fonde moda e fragranze in un universo rock, provocante e fuori dagli schemi – per chi non ha paura di esprimere la propria identità
 - NOTE AVVOLGENTI E INEBRIANTI: Limone, arancia amara e caramello aprono la fragranza, seguiti da un cuore di gelsomino e spezie, fino a una scia calda di muschio di quercia e ambra grigia
+- FORMATI DISPONIBILI: Scegli tra il formato da 30 ml, perfetto da portare sempre con te, e quello da 100 ml per un utilizzo quotidiano che dura nel tempo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CQH7JZGT{{</world>}}

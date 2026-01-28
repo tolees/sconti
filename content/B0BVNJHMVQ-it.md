@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- POLAROID NOW+ : Its the Polaroid camera you love PLUS so much more. Our Bluetooth-connected app features full manual control - double exposure - light painting - noise trigger - and more! Now+ Generation 2 is now made with 40% recycled plastic.
 - FULL FEATURED: Tripod mount ready, USB-C powered rechargeable battery, auto-focus dual lens system, Accurate Flash, Bluetooth connected App and bonus 5 lens filter kit. Plus, the original Polaroid square format compatible with both i-Type films and 600 films.
-- BONUS GIFT: The Polaroid Now+ includes a bonus lens filter kit. Includes 5 creative lens filters – Starburst, Red Vignette, Orange, Yellow and Blue.
 - DUAL LENS AUTOFOCUS: Get the perfect shot, automatically. The Polaroid Now+ feature a dual zone (Close-Up & Standard) auto-switching hyperfocal optical lens system.
+- POLAROID NOW+ : Its the Polaroid camera you love PLUS so much more. Our Bluetooth-connected app features full manual control - double exposure - light painting - noise trigger - and more! Now+ Generation 2 is now made with 40% recycled plastic.
 - CONNECTED ANALOG CAMERA: The Polaroid Now+ is our most creative camera yet. Unlock even more creative tools with the Polaroid App and easy to use Bluetooth connection. App available for iOS and Android.
+- BONUS GIFT: The Polaroid Now+ includes a bonus lens filter kit. Includes 5 creative lens filters – Starburst, Red Vignette, Orange, Yellow and Blue.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BVNJHMVQ{{</world>}}

@@ -28,11 +28,11 @@ average: '249.9'
 
 ℹ️:
 
-- Memoria interna da 256 GB con anni di aggiornamenti. Ottieni spazio in abbondanza per foto, film e app, insieme a cinque anni di aggiornamenti software.
 - Ricarica TurboPower da 68 W. Ottieni autonomia per lintera giornata con soli pochi minuti di ricarica, per esprimere la tua creatività senza interruzioni, o scegli la ricarica wireless (fino a 15 W).
-- Design minimale, massimo comfort. Design eccezionalmente sottile e leggero con materiale premium vegano e bordi curvi uniformi.
-- Fotocamera Sony - LYTIA 700C e teleobiettivo con zoom. Esprimi la tua personalità con disinvoltura realizzando foto e video bellissimi, anche in movimento e da qualsiasi distanza.
 - Schermo Super HD (1220p) pOLED da 6,36". Visualizza, modifica e condividi foto e video con qualità cinematografica su uno schermo nitido e luminoso.
+- Fotocamera Sony - LYTIA 700C e teleobiettivo con zoom. Esprimi la tua personalità con disinvoltura realizzando foto e video bellissimi, anche in movimento e da qualsiasi distanza.
+- Design minimale, massimo comfort. Design eccezionalmente sottile e leggero con materiale premium vegano e bordi curvi uniformi.
+- Memoria interna da 256 GB con anni di aggiornamenti. Ottieni spazio in abbondanza per foto, film e app, insieme a cinque anni di aggiornamenti software.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DB2FF9BX{{</world>}}

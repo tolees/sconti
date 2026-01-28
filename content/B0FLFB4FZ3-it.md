@@ -29,10 +29,10 @@ average: '10.93'
 ℹ️:
 
 - Materiale: 80% cotone riciclato, 20% poliestere riciclato
+- Misura ferri da maglia consigliati: UK 5 / Uncinetto: 4 – 5 mm
+- Certificato Oeko-Tex Standard 100, testato per sostanze nocive
 - 300 g (ogni gomitolo 100 g, 150 m circa)
 - 10 x 10 cm. 26 righe. WPI: 15. Spessore del filato: 2 mm.
-- Certificato Oeko-Tex Standard 100, testato per sostanze nocive
-- Misura ferri da maglia consigliati: UK 5 / Uncinetto: 4 – 5 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FLFB4FZ3{{</world>}}

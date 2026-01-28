@@ -28,12 +28,12 @@ average: '340.350322580646'
 
 ℹ️:
 
+- Questo veicolo LEGO da costruire, è ottimo da esporre come decorazione per la casa, e ha una confezione esclusiva che include un libretto sulla collaborazione tra i designer LEGO e Ferrari
 - Questo set LEGO per adulti da 3.778 pezzi, presenta un modello di auto sportiva da costruire in scala 1:8, che ricrea con dettagli accattivanti la Ferrari Daytona SP3
 - Questo iconico modellino da costruire include lapertura delle porte a farfalla, lo sterzo, il motore V12, il cambio sequenziale a 8 velocità con palette, il tetto rimovibile e gli ammortizzatori
-- Questo veicolo LEGO da costruire, è ottimo da esporre come decorazione per la casa, e ha una confezione esclusiva che include un libretto sulla collaborazione tra i designer LEGO e Ferrari
-- Il set è il quarto di una serie di costruzioni LEGO supercar, chiamata LEGO Technic Ultimate Car Concept: una gamma di modelli di auto da collezione, ispirati ai veicoli più lussuosi del mondo
-- Un set LEGO Technic progettato in collaborazione con Ferrari, che comprende una targhetta decorata da esposizione e un numero di serie unico per sbloccare contenuti e premi online
 - Scopri il mondo dellingegneria con questo kit di costruzione Ferrari LEGO Technic per adulti; unidea regalo per il compleanno, per Natale o per qualunque altra occasione, per un uomo o una donna fan delle super car sportive
+- Un set LEGO Technic progettato in collaborazione con Ferrari, che comprende una targhetta decorata da esposizione e un numero di serie unico per sbloccare contenuti e premi online
+- Il set è il quarto di una serie di costruzioni LEGO supercar, chiamata LEGO Technic Ultimate Car Concept: una gamma di modelli di auto da collezione, ispirati ai veicoli più lussuosi del mondo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09QFSCWD9{{</world>}}

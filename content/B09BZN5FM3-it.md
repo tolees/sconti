@@ -28,11 +28,11 @@ average: '6.14'
 
 ℹ️:
 
-- RISULTATI: queste salviettine struccanti rimuovono trucco e impurità da viso, occhi e labbra senza lasciare residui; formula idratante e che dona freschezza quotidiana
 - TIPO DI PELLE: Adatte a tutti i tipi di pelle; passare delicatamente la salvietta su viso, contorno occhi e labbra; senza risciacquo
+- RISULTATI: queste salviettine struccanti rimuovono trucco e impurità da viso, occhi e labbra senza lasciare residui; formula idratante e che dona freschezza quotidiana
+- AZIONE: Laloe del Salento, unita a una lavorazione a freddo entro due ore dalla raccolta, garantisce il doppio dei polisaccaridi, per un maggiore potere idratante
 - FORMULA: Omia salviettine micellari struccanti sono realizzate con uno speciale tessuto di origine naturale 100% biodegradabile; formula a base di aloe vera del Salento da agricoltura biologica certificata
 - TESTATO: Il prodotto non contiene parabeni (paraben free), oli minerali, siliconi e coloranti sintetici; il prodotto è testato dermatologicamente e al Nichel Cobalto e Cromo valori <0,0001%
-- AZIONE: Laloe del Salento, unita a una lavorazione a freddo entro due ore dalla raccolta, garantisce il doppio dei polisaccaridi, per un maggiore potere idratante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09BZN5FM3{{</world>}}

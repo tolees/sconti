@@ -28,12 +28,12 @@ average: '62.3215384615384'
 
 ℹ️:
 
-- Ambientato nellimmaginario mondo di Eora, presentato per la prima volta ai giocatori nella serie Pillars of Eternity, Avowed è un gioco di ruolo in prima persona di azione fantasy prodotto dal pluripremiato team di Obsidian Entertainment
 - Il gioco è incluso come codice digitale nella scatola
-- Sei linviato di Aedyr, una terra lontana, incaricato di indagare sulle voci riguardo alla diffusione di una piaga nelle Terre viventi, unisola ricca di misteri e segreti, pericoli e avventure, scelte e conseguenze e... natura selvaggia
 - splora unisola con molti ambienti e paesaggi diversi, ciascuno con il proprio ecosistema
+- Sei linviato di Aedyr, una terra lontana, incaricato di indagare sulle voci riguardo alla diffusione di una piaga nelle Terre viventi, unisola ricca di misteri e segreti, pericoli e avventure, scelte e conseguenze e... natura selvaggia
 - Combina e abbina spade, incantesimi, armi e scudi per farti strada combattendo. Scoprirai un legame personale con le Terre viventi e un antico segreto che minaccia di distruggere tutto
 - LEdizione Premium SteelBook include: gioco base Avowed, accesso anticipato fino a 5 giorni, Avowed SteelBook, mappa delle Terre viventi e laccesso allart book digitale di Avowed e alla colonna sonora originale
+- Ambientato nellimmaginario mondo di Eora, presentato per la prima volta ai giocatori nella serie Pillars of Eternity, Avowed è un gioco di ruolo in prima persona di azione fantasy prodotto dal pluripremiato team di Obsidian Entertainment
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DMWR617J{{</world>}}

@@ -28,11 +28,11 @@ average: '599.0'
 
 ℹ️:
 
-- Proietta le tue app preferite: linterfaccia utente integrata di Android TV semplifica enormemente il funzionamento di Horizon. Ti piacciono i contenuti in streaming? Trova facilmente app popolari come HBO Max e Prime Video. Con Chromecast integrato, puoi anche proiettare i tuoi video e giochi preferiti da qualsiasi smartphone.
+- HORIZON è pronto a partire con lavvio super veloce, la messa a fuoco automatica e la correzione trapezoidale, e il nuovo rilevamento degli oggetti AI. Tieniti pronto a usare il tuo schermo più grande come faresti con qualsiasi altro dispositivo: istantaneamente e intuitivamente.
 - Potente suono che riempie la stanza: il suono surround cinematografico è un must per qualsiasi home theater. Fortunatamente Horizon ha due altoparlanti full-range Harman Kardon da 8 W integrati e la tecnologia DTS Studio Sound, che ti offre il suono da cinema di cui hai bisogno per le tue serate cinematografiche.
 - La tecnologia di proiezione super luminosa di HORIZON supera la concorrenza; ciò significa che non dovrai più preoccuparti di scegliere una stanza diversa o un angolo dello schermo durante il giorno o in ambienti luminosi. HORIZON è il proiettore più luminoso nella sua classe di quasi il 30%, mettendo fuori uno stellare 1500 ISO Lumen. HORIZON offre costantemente colori elevati e immagini super nitide, anche in ambienti luminosi.
+- Proietta le tue app preferite: linterfaccia utente integrata di Android TV semplifica enormemente il funzionamento di Horizon. Ti piacciono i contenuti in streaming? Trova facilmente app popolari come HBO Max e Prime Video. Con Chromecast integrato, puoi anche proiettare i tuoi video e giochi preferiti da qualsiasi smartphone.
 - Horizon ti porta la qualità dellimmagine cristallina 1080P, fino a una dimensione gigantesca dello schermo di 200". Con una risoluzione fino a 1920x1080P, è possibile portare la serata di gioco al livello successivo, o avere un appuntamento ultra HD con il vostro film preferito. Non dovrai più scegliere tra portabilità e dimensioni dello schermo o qualità dellimmagine;
-- HORIZON è pronto a partire con lavvio super veloce, la messa a fuoco automatica e la correzione trapezoidale, e il nuovo rilevamento degli oggetti AI. Tieniti pronto a usare il tuo schermo più grande come faresti con qualsiasi altro dispositivo: istantaneamente e intuitivamente.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B095CBLT23{{</world>}}

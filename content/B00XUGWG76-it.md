@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- QUALITÀ: pasta corta sempre al dente grazie alla selezione di grani duri, tempo di cottura di 12 minuti. Poniamo grande attenzione lungo tutta la filiera per garantire qualità e sicurezza alimentare
-- IDEALI CON: i condimenti più raffinati, a base di salse dense alla panna con formaggio o prosciutto. Molto apprezzati ancora come ingrediente di piatti freschi e primaverili
 - BLUE BOX: la nuova confezione di pasta in cartoncino, nata per abbracciare limpegno di Barilla nello sviluppo di soluzioni volte a ridurre il suo impatto sul pianeta
 - BARILLA: unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
+- IDEALI CON: i condimenti più raffinati, a base di salse dense alla panna con formaggio o prosciutto. Molto apprezzati ancora come ingrediente di piatti freschi e primaverili
 - SEDANINI RIGATI: i Sedanini Rigati Barilla sono caratterizzati da una leggera curvatura a gomito. Il loro punto di forza sta nella classica rigatura che permette di trattenere i sapori più nascosti
+- QUALITÀ: pasta corta sempre al dente grazie alla selezione di grani duri, tempo di cottura di 12 minuti. Poniamo grande attenzione lungo tutta la filiera per garantire qualità e sicurezza alimentare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00XUGWG76{{</world>}}

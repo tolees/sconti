@@ -29,8 +29,8 @@ average: '238.371684210527'
 ℹ️:
 
 - Carica le bombe attraverso il portello superiore e premi il pulsante per sganciarle
-- Dotanto di funzione di sgancio delle bombe con 6 bombe, 2 shooter a molla, 2 torrette posteriori apribili con spazio per mini figure, cannoni posteriori sollevabili, cabina di pilotaggio anteriore
 - Include 5 mini figure Poe Dameron, Ammiraglio Holdo, Fuciliere della Resistenza Paige, Pilota del Bombardiere della Resistenza e Bombardiere della Resistenza
+- Dotanto di funzione di sgancio delle bombe con 6 bombe, 2 shooter a molla, 2 torrette posteriori apribili con spazio per mini figure, cannoni posteriori sollevabili, cabina di pilotaggio anteriore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B06W2KC4J5{{</world>}}

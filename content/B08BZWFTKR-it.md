@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Massimo flusso luminoso immediato, senza tempi di pre-accensione. Semplice sostituzione delle lampade standard, perfetta sostituzione di una lampada da 125 W (utilizzo in ambienti esterni solo per le lampade adatte)
-- Di durata maggiore, fino a 15000 ore e 100000 cicli di accensione/spegnimento. La luce calda crea unatmosfera perfetta per il comfort e il relax in tutta la casa, specialmente in soggiorno
 - Consumo di energia 15 kWh/1000h per 2000 lm
+- Massimo flusso luminoso immediato, senza tempi di pre-accensione. Semplice sostituzione delle lampade standard, perfetta sostituzione di una lampada da 125 W (utilizzo in ambienti esterni solo per le lampade adatte)
 - Ridotta emissione di calore (rispetto alla lampada tradizionale equivalente).
+- Di durata maggiore, fino a 15000 ore e 100000 cicli di accensione/spegnimento. La luce calda crea unatmosfera perfetta per il comfort e il relax in tutta la casa, specialmente in soggiorno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08BZWFTKR{{</world>}}

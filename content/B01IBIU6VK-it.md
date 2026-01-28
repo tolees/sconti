@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Capacità: 750ml
-- Tappo in sughero
-- Materiale: vetro flint
 - Lavare a mano
+- Tappo in sughero
 - Non adatto a micro onde e lavastoviglie
+- Materiale: vetro flint
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01IBIU6VK{{</world>}}

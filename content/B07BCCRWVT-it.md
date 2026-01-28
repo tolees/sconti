@@ -28,9 +28,9 @@ average: '20.8675'
 
 ℹ️:
 
-- Shampoo anti-metallo per capelli colorati, schiariti e danneggiati. Formula in crema senza solfati con glicoammina che elimina i residui metallici depositati sulla fibra capillare che possono compromettere il colore e laspetto sano del capello. Per un colore vibrante e una chioma rinforzata.
-- Applicare due noci di shampoo sui capelli bagnati. Massaggiare la cute per 2 minuti. Risciacquare accuratamente. Ideale per capelli colorati, da usare dopo qualsiasi servizio di colorazione, balayage o schiaritura.
 - Purifica i capelli dai residui di metallo per colore e riflessi estremamente brillanti. Nutre in profondità per capelli dall’aspetto sano. Riduzione della rottura dei capelli.
+- Applicare due noci di shampoo sui capelli bagnati. Massaggiare la cute per 2 minuti. Risciacquare accuratamente. Ideale per capelli colorati, da usare dopo qualsiasi servizio di colorazione, balayage o schiaritura.
+- Shampoo anti-metallo per capelli colorati, schiariti e danneggiati. Formula in crema senza solfati con glicoammina che elimina i residui metallici depositati sulla fibra capillare che possono compromettere il colore e laspetto sano del capello. Per un colore vibrante e una chioma rinforzata.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07BCCRWVT{{</world>}}

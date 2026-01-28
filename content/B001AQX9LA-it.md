@@ -28,9 +28,9 @@ average: '11.53'
 
 ℹ️:
 
-- Senza sali in alluminio
 - Adatto anche per pelli sensibili
 - Il pacchetto può variare
+- Senza sali in alluminio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B001AQX9LA{{</world>}}

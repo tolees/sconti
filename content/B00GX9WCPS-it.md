@@ -28,10 +28,10 @@ average: '152.99'
 
 ℹ️:
 
-- Resistente allacqua fino a 50 m: indossabile durante il nuoto in acque poco profonde
-- Custodia in acciaio inossidabile rotondo, con quadrante nero
 - Cassa da 45 mm, larghezza della banda 22 mm, cristallo minerale, movimento al quarzo con display analogico cronografo, importato
 - Bracciale in acciaio inox colore nero
+- Custodia in acciaio inossidabile rotondo, con quadrante nero
+- Resistente allacqua fino a 50 m: indossabile durante il nuoto in acque poco profonde
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00GX9WCPS{{</world>}}

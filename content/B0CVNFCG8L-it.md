@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Il benessere degli animali è la nostra massima priorità; per questo motivo, evitiamo deliberatamente: coloranti e attrattivi, zucchero, glutine, cereali e soia, sottoprodotti vegetali e conservanti sintetici
-- Composizione: carne di pollo, stomaco e collo 56%, brodo di carne 24%, trota 14%, zucchine 4%, minerali, farina di alghe
-- Alimento naturale per cani senza cereali con un elevato contenuto di carne
 - Gli alimenti completi per cani MjAMjAM offrono una dieta per cani adeguata alla specie, naturale e vicina alla natura; il nostro fornitore importante, la natura, ci fornisce tutti gli ingredienti importanti per soddisfare la nostra filosofia e le esigenze del vostro animale
+- Alimento naturale per cani senza cereali con un elevato contenuto di carne
 - Per i nostri pasti utilizziamo principalmente ingredienti provenienti da aziende agricole regionali; allevati o coltivati con amore, sono sottoposti ai severi controlli di qualità; utilizziamo solo ingredienti di qualità alimentare al 100%
+- Composizione: carne di pollo, stomaco e collo 56%, brodo di carne 24%, trota 14%, zucchine 4%, minerali, farina di alghe
+- Il benessere degli animali è la nostra massima priorità; per questo motivo, evitiamo deliberatamente: coloranti e attrattivi, zucchero, glutine, cereali e soia, sottoprodotti vegetali e conservanti sintetici
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CVNFCG8L{{</world>}}

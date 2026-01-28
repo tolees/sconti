@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Chiusura: stringata
 - Materiale esterno: pelle
+- Chiusura: stringata
 - Fodera: tessuto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

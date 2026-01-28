@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- CLEAN COTTON: Cotone asciugato al sole con note verdi e fiori bianchi, e un accenno di limone
-- UNA COMBUSTIONE PULITA E UNIFORME: Lo stoppino in fibra naturale di cotone al 100% della candela profumata è dritto e centrato
 - AROMA CHE INONDA L’AMBIENTE: Gli ingredienti autentici e la cera di prima qualità garantiscono una fragranza costante e di lunga durata
 - CANDELE PROFUMATE A COMBUSTIONE LUNGA: Fino a 150 ore; 17 cm altezza x 10 cm larghezza (623 g)
 - DESIGN SENZA TEMPO: Contenuta nella classica giara in vetro con coperchio per preservare la fragranza; etichetta rimovibile per un look personalizzato
+- UNA COMBUSTIONE PULITA E UNIFORME: Lo stoppino in fibra naturale di cotone al 100% della candela profumata è dritto e centrato
+- CLEAN COTTON: Cotone asciugato al sole con note verdi e fiori bianchi, e un accenno di limone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00W8NNH34{{</world>}}

@@ -28,8 +28,8 @@ average: '8.98'
 
 ℹ️:
 
-- Ricco e dorato, loriginale rum venezuelano invecchiato e il primo ad essere definito añejo
 - Il processo di invecchiamento del Pampero è un alto standard di qualità del rum venezuelano
+- Ricco e dorato, loriginale rum venezuelano invecchiato e il primo ad essere definito añejo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B004EAMG5E{{</world>}}

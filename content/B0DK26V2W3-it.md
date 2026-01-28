@@ -28,9 +28,9 @@ average: '65.8'
 
 ℹ️:
 
+- VESTIBILITÀ OTTIMALE: Questa giacca a vento versatile dal look minimalista è adatta a ogni outfit e tiene caldo. Il capo intramontabile ha un collo a listino e protegge dal vento.
 - ICONICITÀ INTRAMONTABILE: L’originale giacca Tommy Jeans con due tasche ad altezza della vita presenta un design essenziale. Grazie al suo tessuto caldo risulta ideale per la mezza stagione.
 - PER OGNI OCCASIONE: La giacca da uomo trendy è un compagno versatile. Si distingue per la sua funzionalità e il comfort particolarmente elevato ed è ideale da indossare tutti i giorni, ma anche per occasioni speciali.
-- VESTIBILITÀ OTTIMALE: Questa giacca a vento versatile dal look minimalista è adatta a ogni outfit e tiene caldo. Il capo intramontabile ha un collo a listino e protegge dal vento.
 - MATERIALE E LAVAGGIO: Questa giacca è al 100% in nylon riciclato. È lavabile in lavatrice e adatta all’asciugatrice.
 - STREETWEAR RIVISITATO: Per far apprezzare gli amati classici degli anni ‘90 alla generazione successiva, Tommy Jeans strizza locchio alle icone dell’hip hop di quest’epoca. L’attenzione è rivolta alla qualità e ai design di tendenza caratterizzati da tanto denim.
 

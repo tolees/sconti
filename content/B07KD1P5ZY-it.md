@@ -28,11 +28,11 @@ average: '422.955'
 
 ℹ️:
 
+- Design robusto ma leggero in lega di alluminio aeronautico di alta qualità e elementi in vetro Schott prodotti in Germania
 - Crea effetti cineastici come riflessi Sci-Fi orizzontali, effetti di luce impressionanti e un bokeh ovale
 - Attacco obiettivo: E-Mount (ad esempio per Sony NEX e Alpha). Campo visivo più ampio del 33% rispetto agli obiettivi tradizionali da 50 mm. Equivalente a circa un campo visivo di 37,5 mm
-- Lunghezza focale: 50 mm (equivalente a 75 mm) | Diaframma: f/1. 8 - F/16. Distanza ravvicinata: 0. 85 m fino allinfinito. Messa a fuoco: manuale. Copertura del sensore: fino allAPS-C.
-- Design robusto ma leggero in lega di alluminio aeronautico di alta qualità e elementi in vetro Schott prodotti in Germania
 - Il primo obiettivo anamorfo a prezzi accessibili per tutti. Per film widescreen in formato cinema 2.4:1
+- Lunghezza focale: 50 mm (equivalente a 75 mm) | Diaframma: f/1. 8 - F/16. Distanza ravvicinata: 0. 85 m fino allinfinito. Messa a fuoco: manuale. Copertura del sensore: fino allAPS-C.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07KD1P5ZY{{</world>}}

@@ -28,11 +28,11 @@ average: '1.58'
 
 ℹ️:
 
-- SENZA SALI DI ALLUMINIO: scopri il potere di un deodorante senza alluminio e senza alcool che rispetta e profuma anche le pelli più delicate con una fragranza che conquista
-- SENSITIVE ME AND YOU: il deodorante roll on creato con rispetto e delicatezza per le pelli sensibili e per il pianeta, con una fresca fragranza a base di Melissa e Fiori dAcqua in un flacone riciclato
-- SCOPRI LYCIA: Lycia nasce da una ricerca attenta e minuziosa, pensata per valorizzare il corpo con ingredienti e materie prime di origine controllata, e formulazioni efficaci e delicate Made in Italy
-- ANTIODORE, ANTIMACCHIA: grazie ad uno speciale ingrediente di origine naturale ha azione anti odore, e non lascia residui, macchie o aloni gialli sui tessuti chiari
 - EFFICACE FINO A 48H: garantisce una protezione asciutta che dura fino a 48 ore, assicurando comfort e freschezza prolungati per affrontare la giornata con sicurezza e tranquillità
+- ANTIODORE, ANTIMACCHIA: grazie ad uno speciale ingrediente di origine naturale ha azione anti odore, e non lascia residui, macchie o aloni gialli sui tessuti chiari
+- SCOPRI LYCIA: Lycia nasce da una ricerca attenta e minuziosa, pensata per valorizzare il corpo con ingredienti e materie prime di origine controllata, e formulazioni efficaci e delicate Made in Italy
+- SENSITIVE ME AND YOU: il deodorante roll on creato con rispetto e delicatezza per le pelli sensibili e per il pianeta, con una fresca fragranza a base di Melissa e Fiori dAcqua in un flacone riciclato
+- SENZA SALI DI ALLUMINIO: scopri il potere di un deodorante senza alluminio e senza alcool che rispetta e profuma anche le pelli più delicate con una fragranza che conquista
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BBRJX61P{{</world>}}

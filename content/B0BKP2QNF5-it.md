@@ -28,11 +28,11 @@ average: '332.382500000001'
 
 ℹ️:
 
+- CONNETTIVITÀ VERSATILE - Le opzioni di interfaccia video includono DisplayPort 1.2a e USB Type-C (WQHD/170Hz) e porte HDMI 2.0b (WQHD/144Hz); altre porte includono USB 2.0 Type-A e -C, porta di uscita per auricolari e navigatore joystick a 5 direzioni
 - DESIGN E UTILITÀ SMART - La cornice del monitor vanta una cornice stretta, lilluminazione ambientale Mystic Light RGB, la tecnologia anti-sfarfallio e di riduzione della luce blu e un supporto regolabile in 3 posizioni
+- 31,5" WQHD, 170HZ IPS - Un pannello IPS quad ad alta definizione da 2560 x 1440 (16:9) è dotato di unottima frequenza di aggiornamento di 170 Hz (AMD FreeSync, compatibile con G-SYNC)
 - LESPERIENZA DI GIOCO - MSI Gaming Intelligence offre un vantaggio competitivo,supporta la modalità console 1440p VRR (PS5); la tecnologia KVM consente di collegare simultaneamente 2 sistemi a un unico monitor
 - INTENSITÀ DI COLORE QUANTUM DOT - MPG321QR-QD supporta impostazioni di gioco realistiche con una gamma ottima di 1,07 miliardi di colori (140% sRGB, 97% DCI-P3), luminosità VESA DisplayHDR 400
-- 31,5" WQHD, 170HZ IPS - Un pannello IPS quad ad alta definizione da 2560 x 1440 (16:9) è dotato di unottima frequenza di aggiornamento di 170 Hz (AMD FreeSync, compatibile con G-SYNC)
-- CONNETTIVITÀ VERSATILE - Le opzioni di interfaccia video includono DisplayPort 1.2a e USB Type-C (WQHD/170Hz) e porte HDMI 2.0b (WQHD/144Hz); altre porte includono USB 2.0 Type-A e -C, porta di uscita per auricolari e navigatore joystick a 5 direzioni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BKP2QNF5{{</world>}}

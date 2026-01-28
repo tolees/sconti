@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Abbinalo a un alimentatore da 30W per ricaricare ancora più velocemente con una potenza fino a 25W.
 - Puoi usarlo per caricare in wireless il tuo iPhone 8 o successivo e i modelli di AirPods con custodia di ricarica wireless, come faresti con una qualsiasi base certificata Qi o Qi2.
 - Con l’alimentatore MagSafe la ricarica wireless è comodissima, perché i magneti incorporati si allineano alla perfezione con il tuo iPhone 12 o successivo.
-- Puoi sceglierlo nella versione con cavo da 1 metro o da 2 metri. L’allineamento magnetico funziona solo con i modelli di iPhone 12, iPhone 13, iPhone 14, iPhone 15 e iPhone 16.
 - L’alimentatore MagSafe è compatibile con la ricarica Qi2 e Qi.
+- Puoi sceglierlo nella versione con cavo da 1 metro o da 2 metri. L’allineamento magnetico funziona solo con i modelli di iPhone 12, iPhone 13, iPhone 14, iPhone 15 e iPhone 16.
+- Abbinalo a un alimentatore da 30W per ricaricare ancora più velocemente con una potenza fino a 25W.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DGHXKNVD{{</world>}}

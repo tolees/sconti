@@ -28,11 +28,11 @@ average: '7.41'
 
 ℹ️:
 
-- Il modulo keystone Cat-6A con schermatura a 360° supporta velocità di trasmissione fino a 10 Gbit/s e 500 MHz in connessione con cavi di installazione di rete di categoria Cat 6A o superiore
-- Il fissaggio del cavo mediante chiusure rapide richiudibili consente lapertura successiva e quindi lutilizzo multiplo del modulo keystone, ad esempio per applicazioni sul campo
+- Il jack Keystone con presa RJ45 è certificato GHMT - Robusta leva a scatto in plastica sulla parte superiore - Design compatibile con le comuni prese di rete - Le strisce LSA sono codificate a colori secondo EIA/TIA 568 A&B
 - Il connettore di montaggio del modulo keystone di categoria 6A / classe EA consente linstallazione senza attrezzi di cavi di rete con sezioni di filo comprese tra AWG 26/7 e 22/1
 - In combinazione con un patch panel modulare e con scatole di connessione di rete modulari, i moduli Keystone Cat.6A sono ideali per il cablaggio strutturato contemporaneo degli edifici
-- Il jack Keystone con presa RJ45 è certificato GHMT - Robusta leva a scatto in plastica sulla parte superiore - Design compatibile con le comuni prese di rete - Le strisce LSA sono codificate a colori secondo EIA/TIA 568 A&B
+- Il fissaggio del cavo mediante chiusure rapide richiudibili consente lapertura successiva e quindi lutilizzo multiplo del modulo keystone, ad esempio per applicazioni sul campo
+- Il modulo keystone Cat-6A con schermatura a 360° supporta velocità di trasmissione fino a 10 Gbit/s e 500 MHz in connessione con cavi di installazione di rete di categoria Cat 6A o superiore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CCDHYC1W{{</world>}}

@@ -28,10 +28,10 @@ average: '21.0'
 
 ℹ️:
 
-- Nel corso dei decenni, GUESS ha fatto sognare il mondo intero con le sue campagne pubblicitarie iconiche e ha costruito un vero impero internazionale di profumi iconici.
-- Seductive Homme di GUESS è la fragranza pensata per l’uomo sicuro di sé, elegante, affascinante e raffinato. Libero nello stile, irresistibile nel fascino, unico nella sua essenza.
-- GUESS Seductive si apre con note di testa speziate di cardamomo, mandarino e pepe rosa, rivelando un cuore floreale raffinato prima di un fondo caldo di ambra, sandalo, muschio e patchouli.
 - LEau de Toilette per uomo GUESS Seductive è una fragranza seducente ed elegante, creata per luomo sicuro di sé, pronto a conquistarti con il suo carisma e la sua fiducia.
+- Seductive Homme di GUESS è la fragranza pensata per l’uomo sicuro di sé, elegante, affascinante e raffinato. Libero nello stile, irresistibile nel fascino, unico nella sua essenza.
+- Nel corso dei decenni, GUESS ha fatto sognare il mondo intero con le sue campagne pubblicitarie iconiche e ha costruito un vero impero internazionale di profumi iconici.
+- GUESS Seductive si apre con note di testa speziate di cardamomo, mandarino e pepe rosa, rivelando un cuore floreale raffinato prima di un fondo caldo di ambra, sandalo, muschio e patchouli.
 - Il profumo per uomo Guess Seductive è racchiuso in un flacone dallaspetto lussuoso, realizzato in vetro trasparente.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

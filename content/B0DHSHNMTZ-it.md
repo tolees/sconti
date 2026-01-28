@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Gioco Super Mario interattivo: posiziona LEGO Mario, LEGO Luigi o LEGO Peach (personaggi non inclusi) nel kart per effetti sonori/visivi e salta sul’Action Tag della postazione di lavoro per altre reazioni digitali
 - Set con macchina giocattolo Mario Kart da costruire: unisciti a Toad giocattolo (pit stop) per corse, derapate e planate con il modello in mattoncini del Mario Kart : Kart Standard LEGO Super Mario, oltre alla postazione da lavoro
 - Set da costruzione collezionabili Nintendo: esplora la gamma LEGO Mario Kart Super Mario e scopri altri veicoli (disponibili separatamente), su cui montare il Superplani e con cui gareggiare
-- Idea regalo di compleanno Nintendo LEGO Super Mario per bambini: questo set di giochi per bambini e bambine da 7 anni in su, è un ottimo regalo da gamer; per il gioco interattivo è necessario uno dei set 71439, 71440 o 71441 (disponibili a parte)
 - Personaggio Mario Kart di Toad giocattolo (pit stop): questo gioco davventura Mario Kart in mattoncini LEGO contiene un personaggio di Toad (pit stop) con la tuta rossa da meccanico, oltre ad un elemento banana con volto decorato
-- Gioco Super Mario interattivo: posiziona LEGO Mario, LEGO Luigi o LEGO Peach (personaggi non inclusi) nel kart per effetti sonori/visivi e salta sul’Action Tag della postazione di lavoro per altre reazioni digitali
 - Set Nintendo Mario Kart da collezione: il Kart standard è dotato di un Superplani staccabile, ruote da drifting e una funzione di lancio per sparare gusci contro il bersaglio nella postazione di lavoro
+- Idea regalo di compleanno Nintendo LEGO Super Mario per bambini: questo set di giochi per bambini e bambine da 7 anni in su, è un ottimo regalo da gamer; per il gioco interattivo è necessario uno dei set 71439, 71440 o 71441 (disponibili a parte)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DHSHNMTZ{{</world>}}

@@ -29,9 +29,9 @@ average: '40.9'
 ℹ️:
 
 - Shadow the Hedgehog è tornato insieme a Sonic classico e alla sua variante contemporanea in SONIC X SHADOW GENERATIONS, una nuova collezione con due speciali esperienze!
+- Sfreccia attraverso le iconiche fasi della storia di Shadow, scopri segreti nascosti in un mondo vastissimo e sblocca nuovi poteri per sconfiggere Black Doom e salvare il mondo.
 - Vesti i panni di Shadow in una nuovissima campagna, con poteri e abilità mai visti prima degni del suo nome: lessere supremo!
 - Versione Nintendo Switch 2 su Scheda con Chiave di Gioco
-- Sfreccia attraverso le iconiche fasi della storia di Shadow, scopri segreti nascosti in un mondo vastissimo e sblocca nuovi poteri per sconfiggere Black Doom e salvare il mondo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F67D75JV{{</world>}}

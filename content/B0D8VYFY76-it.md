@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- IMPEGNO PER AMBIENTE: Amica Chips si preoccupa della salvaguardia dell’ambiente e del suo futuro, e lo fa attraverso vari progetti sostenibili.
 - OLIO DOLIVA: Realizzate con patate selezionate e aggiunta di olio di oliva, queste chips sono croccanti e saporite, ma anche leggere e nutrienti. Scopri il loro sapore unico! e in più hanno il 30% di grassi in meno rispetto alle patatine fritte classiche.
 - ELDORADA: Queste patatine sono gustose, estremamente croccanti…sono d’oro! Non ci credete? Provatele voi stessi e lasciate che il sapore vi conquisti, come ha conquistato gli antichi cercatori d’oro.
-- IMPEGNO PER AMBIENTE: Amica Chips si preoccupa della salvaguardia dell’ambiente e del suo futuro, e lo fa attraverso vari progetti sostenibili.
 - SNACK LEGGERO con il 30% di grassi in meno rispetto alle patatine fritte tradizionali: Le Patatine Eldorada all’Olio di Oliva sono un prodotto di alta qualità, perfetto per chi cerca uno spuntino gustoso e salutare.
 - AMICA CHIPS: Una storia tutta italiana. Ci impegniamo tutti i giorni per proporre gusti nuovi e migliorare il sistema produttivo garantendo sempre la qualità del prodotto.
 

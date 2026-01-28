@@ -29,8 +29,8 @@ average: '7.75'
 ℹ️:
 
 - p.s.: la crema solare Sapore di Aloe è resistente all’acqua!
-- La sua texture fresca e leggera è ideale per le pelli più sensibili e la sua formula con Filtri Fotostabili UVA/UVB di ultima generazione aiuta a proteggere anche le pelli più delicate.
 - E le pelli sensibili ringraziano!
+- La sua texture fresca e leggera è ideale per le pelli più sensibili e la sua formula con Filtri Fotostabili UVA/UVB di ultima generazione aiuta a proteggere anche le pelli più delicate.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DTZ7J13Y{{</world>}}

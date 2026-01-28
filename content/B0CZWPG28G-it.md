@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Wattage: 6.0 kilowatt_hours
 - Voltage: 240.0 volts
 - Display size: 32.0 inches
-- Item dimensions: 28.58 inches
 - Video encoding: HEVC Main 10
+- Item dimensions: 28.58 inches
 - Total usb ports: 2
+- Wattage: 6.0 kilowatt_hours
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZWPG28G{{</world>}}

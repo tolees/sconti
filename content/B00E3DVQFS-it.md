@@ -28,13 +28,13 @@ average: '10.99'
 
 ℹ️:
 
-- ASSICURATI ORE DI FUNZIONAMENTO IN DISPOSITIVI AD ALTE PRESTAZIONI: fino a 100 ricariche, ottieni ore di energia in controller da gioco wireless, giocattoli, fotocamere digitali, adatte per apparecchi alimentati da batterie AA in base alle raccomandazioni del produttore.
-- *per il formato AA ricaricabile, per carica nello stesso dispositivo, fino alle prime 300 ricariche, **Le batterie non utilizzate sono ancora ricaricabili dopo 10 anni di stoccaggio. Garanzia commerciale*** Mantengono fino all’80% della carica dopo 12 mesi quando non usate
 - RIMANGONO CARICHE FINO A 12 MESI quando non usate*** Sono vendute pre-caricate e pronte all’uso
-- Articoli inclusi: 1 confezione da 4 batterie ricaricabili Duracell, Formato: AA, Capacità: 2500 mAh, Voltaggio: 1,2 V, Tipo: NiMH, Lunghezza: 50,5 mm, Diametro: 14,5 mm
-- DURATA DI 10 ANNI GARANTITA NELL’AMBIENTE DI STOCCAGGIO**
 - CONFEZIONE SOSTENIBILE: la confezione contiene lo 0% di plastica ed è riciclabile al 100%
+- ASSICURATI ORE DI FUNZIONAMENTO IN DISPOSITIVI AD ALTE PRESTAZIONI: fino a 100 ricariche, ottieni ore di energia in controller da gioco wireless, giocattoli, fotocamere digitali, adatte per apparecchi alimentati da batterie AA in base alle raccomandazioni del produttore.
+- Articoli inclusi: 1 confezione da 4 batterie ricaricabili Duracell, Formato: AA, Capacità: 2500 mAh, Voltaggio: 1,2 V, Tipo: NiMH, Lunghezza: 50,5 mm, Diametro: 14,5 mm
+- *per il formato AA ricaricabile, per carica nello stesso dispositivo, fino alle prime 300 ricariche, **Le batterie non utilizzate sono ancora ricaricabili dopo 10 anni di stoccaggio. Garanzia commerciale*** Mantengono fino all’80% della carica dopo 12 mesi quando non usate
 - LE NOSTRE BATTERIE RICARICABILI N.1 PER LUNGA DURATA A OGNI CARICA*: ottieni prestazioni di lunga durata per i dispositivi ad alto consumo con le potenti batterie Duracell AA 2500 mAh NiMH
+- DURATA DI 10 ANNI GARANTITA NELL’AMBIENTE DI STOCCAGGIO**
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00E3DVQFS{{</world>}}

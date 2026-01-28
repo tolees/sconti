@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Switch Gigabit Plug and Play con 8 porte, di cui 8 con PoE+
 - Risparmio energetico grazie al minor consumo energetico e design senza ventola e senza rumore. Garanzia Lifetime
-- 60 Watt in totale per 8 porte Gigabit PoE+
 - Supporto di 802.3af/802.3at per un budget di potenza totale di 30 Watt per porta
+- 60 Watt in totale per 8 porte Gigabit PoE+
 - Comoda gestione del budget PoE con indicatore LED per budget esaurito (PoE MAX)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

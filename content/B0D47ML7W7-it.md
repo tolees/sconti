@@ -29,10 +29,10 @@ average: '633.772222222222'
 ℹ️:
 
 - Liconico smartphone pieghevole motorola reinventato con un display interno flessibile pOLED da 6.9", brevettato per piegarsi perfettamente senza lasciare alcun segno. Smartphone realizzato con materiali super resistenti che ne facilita lapertura, certificato SGS low blue light e SGS log motion blur e certificato Pantone per la precisione dei colori.
-- Processore Qualcomm Snapdragon 8s Gen 3 e connessione 5G ultrarapida - Scarica ciò che vuoi in pochi secondi e guarda video in streaming senza tempi di attesa grazie alla velocità della rete 5G e Wi-Fi 7. La RAM da 12GB e lampia memoria interna da 512GB consentono di salvare sul tuo smartphone tutti i tuoi contenuti preferiti.
-- Scatta foto e gira video definiti e dettagliati con la doppia fotocamera 50+50MP con OIS e teleobiettivo 2x per scatti nitidi in qualsiasi condizione. Realizza selfie pronti da postare grazie alla fotocamera interna da 32MP.
-- Potenziato con tecnologia AI, offre prestazioni straordinarie grazie al supporto dellintelligenza artificiale, disponibili per la prima volta anche sullo schermo esterno di uno smartphone.
 - Svolgi le tue azioni quotidiane anche a telefono chiuso grazie allampio display esterno pOLED da 4.0" migliorato e con nuove funzionalità. Scatta selfie, rispondi ai messaggi e alle chiamate, guarda video e serie tv ad alta qualità, ottieni indicazioni stradali e molto altro ancora a smartphone chiuso.
+- Processore Qualcomm Snapdragon 8s Gen 3 e connessione 5G ultrarapida - Scarica ciò che vuoi in pochi secondi e guarda video in streaming senza tempi di attesa grazie alla velocità della rete 5G e Wi-Fi 7. La RAM da 12GB e lampia memoria interna da 512GB consentono di salvare sul tuo smartphone tutti i tuoi contenuti preferiti.
+- Potenziato con tecnologia AI, offre prestazioni straordinarie grazie al supporto dellintelligenza artificiale, disponibili per la prima volta anche sullo schermo esterno di uno smartphone.
+- Scatta foto e gira video definiti e dettagliati con la doppia fotocamera 50+50MP con OIS e teleobiettivo 2x per scatti nitidi in qualsiasi condizione. Realizza selfie pronti da postare grazie alla fotocamera interna da 32MP.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D47ML7W7{{</world>}}

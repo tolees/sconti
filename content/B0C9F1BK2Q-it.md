@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- This formula contains a studied Tasmanian Pepperberry derivative to help reduce irritation associated with acid use.
-- This derivative is of plant origin and varies in colour seasonally and this colour variation may be apparent in the formula from time to time. This formula is further supported with a crosspolymer form of hyaluronic acid for comfort, Vitamin B5 to assist healing and black carrot as an antioxidant.
-- With 30% Alpha Hydroxyl Acids (Glycolic/Lactic/Tartaric/Citric), 2% Beta Hydroxyl Acid (Salicylic Acid), Hyaluronic Acid Crosspolymer, Vitamin B5, Black Carrot and Tasmanian Pepperberry.
 - This combined 32% AHA/BHA solution offers deeper exfoliation to help fight visible blemishes and for improved skin radiance. The formula also improves the appearance of skin texture and reduces the look of fine lines with continued use.
 - Alpha hydroxyl acids (AHA) exfoliate the skins topmost surface for a brighter and more even appearance. Beta hydroxyl acids (BHA) also exfoliate the skin with an extended function to help clear pore congestion. This combined 32% AHA/BHA solution offers deeper exfoliation to help fight visible blemishes and for improved skin radiance. The formula also improves the appearance of skin texture and reduces the look of fine lines with continued use.
+- With 30% Alpha Hydroxyl Acids (Glycolic/Lactic/Tartaric/Citric), 2% Beta Hydroxyl Acid (Salicylic Acid), Hyaluronic Acid Crosspolymer, Vitamin B5, Black Carrot and Tasmanian Pepperberry.
+- This formula contains a studied Tasmanian Pepperberry derivative to help reduce irritation associated with acid use.
+- This derivative is of plant origin and varies in colour seasonally and this colour variation may be apparent in the formula from time to time. This formula is further supported with a crosspolymer form of hyaluronic acid for comfort, Vitamin B5 to assist healing and black carrot as an antioxidant.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C9F1BK2Q{{</world>}}

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Löse ein tödliches Rätsel: Was als Mordermittlung in einer Kleinstadt beginnt, entwickelt sich schnell zu einem Albtraum. Entdecke in dieser Psycho-Horrorgeschichte voll intensiver Spannung und unerwarteter Wendungen den Ursprung der übernatürlichen Dunkelheit
 - Erkunde zwei Welten: Entdecke zwei wunderschöne und gleichzeitig entsetzliche Welten, beide mit ihren eigenen Charaktere und tödlichen Bedrohungen. Bestaune die herrlichen Landschaften des Cauldron Lake und die idyllischen Städtchen Bright Falls und Watery der pazifischen Nordwestküste, und kämpfe gleichzeitig darum, aus der alptraumhaften Stadtlandschaft des Dunklen Ortes zu fliehen
+- Löse ein tödliches Rätsel: Was als Mordermittlung in einer Kleinstadt beginnt, entwickelt sich schnell zu einem Albtraum. Entdecke in dieser Psycho-Horrorgeschichte voll intensiver Spannung und unerwarteter Wendungen den Ursprung der übernatürlichen Dunkelheit
 - Spiele als zwei Charaktere: Erlebe die Geschichten von Alan Wake und Saga Anderson und beobachte die Entwicklung der Ereignisse aus verschiedenen Perspektiven. Wechsle zwischen Andersons Wettlauf um Leben und Tod, um den Fall aufzuklären, und Wakes verzweifelten Versuchen, seine Realität umzugestalten, um den Tiefen des Dunklen Ortes zu entkommen
 - Überlebe mit Licht: Tritt mit begrenzten Ressourcen in verzweifelten Nahkämpfen gegen mächtige übernatürliche Feinde an. Kugeln können dein Leben nicht retten: Im Kampf gegen die Dunkelheit ist das Licht die ultimative Waffe – und deine Zuflucht, wenn Feinde drohen, dich zu überwältigen
 

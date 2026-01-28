@@ -28,10 +28,10 @@ average: '4.66166666666666'
 
 ℹ️:
 
-- Regina di Cuori è la carta cucina super assorbente a 2 veli, con trama a forma di cuore e decorata con un’ampia varietà di raffinati disegni, per portare un tocco d’amore nella tua cucina ogni giorno
-- La carta cucina Regina rispetta lambiente perché è prodotta con materie prime provenienti da foreste gestite responsabilmente e fonti controllate e garantite dalla certificazione forestale FSC
-- Regina di Cuori è un prodotto 100% italiano, creato con pura cellulosa, comodo e pratico da usare, pensato per aiutarti a mantenere pulita la tua cucina e utilizzabile anche a contatto con gli alimenti
 - Il pacco, realizzato con il 50% di plastica riciclata, contiene 6 rotoli di carta cucina da 50 fogli ciascuno e può essere aperto con un semplice gesto grazie all’apertura facilitata presente sulla confezione
+- La carta cucina Regina rispetta lambiente perché è prodotta con materie prime provenienti da foreste gestite responsabilmente e fonti controllate e garantite dalla certificazione forestale FSC
+- Regina di Cuori è la carta cucina super assorbente a 2 veli, con trama a forma di cuore e decorata con un’ampia varietà di raffinati disegni, per portare un tocco d’amore nella tua cucina ogni giorno
+- Regina di Cuori è un prodotto 100% italiano, creato con pura cellulosa, comodo e pratico da usare, pensato per aiutarti a mantenere pulita la tua cucina e utilizzabile anche a contatto con gli alimenti
 - Regina di Cuori è un prodotto Sofidel, la prima azienda italiana nel comparto della carta che fa parte, dal 2008, del WWF Climate Savers, il programma per ridurre le emissioni di gas serra
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

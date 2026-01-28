@@ -31,8 +31,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 - Versatile: con i 12 programmi preimpostati di questa friggitrice ad aria, potete preparare facilmente molti piatti o personalizzare le vostre ricette impostando manualmente il timer e la temperatura. Consultate anche il ricettario in dotazione per trarre ispirazione
 - Familiale: grazie alla sua generosa capacità di 6,5 l, prepara fino a 1,5 kg di patatine fritte alla volta. Questa friggitrice ad aria calda è adatta per un massimo di 9 persone
 - Cucina sana e golosa: grazie alla tecnologia di convezione ad aria calda è possibile utilizzare fino all85 percent di grassi in meno senza che i piatti perdano consistenza o sapore
-- Separatore incluso: un separatore incluso consente di inserire il cestino della friggitrice senza olio. In questo modo è possibile preparare 2 tipi di piatti contemporaneamente
 - Pratico: controlla il tuo Airfryer facilmente grazie al touch screen digitale. Riponi il cavo di alimentazione nello spazio dedicato. Senza BPA e PFOAS, dotato di un manico "Cool Touch" e di un involucro resistente al calore per limitare i rischi di scottature
+- Separatore incluso: un separatore incluso consente di inserire il cestino della friggitrice senza olio. In questo modo è possibile preparare 2 tipi di piatti contemporaneamente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09TRV4VCC{{</world>}}

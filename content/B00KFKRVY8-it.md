@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Formato 50 ml
-- Per capelli: Asciutto
 - Indicazioni e caratteristiche: attenuare i primi segni di invecchiamento, migliorando il tono, lelasticità e la levigatezza della pelle secca e nei periodi più freddi dellanno
+- Per capelli: Asciutto
 - Ottima base per il make-up
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

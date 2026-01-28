@@ -29,10 +29,10 @@ average: '99.99'
 ℹ️:
 
 - Ampia gamma di accessori: laspiratore solidi liquidi ha un contenitore di raccolta in plastica da 20 litri, un tubo da 2,2 m, un cavo da 5 m e un vano per accessori, cavo e tubo
+- Filtro piatto plissettato: è possibile passare dallaspirazione a umido a quella a secco senza sostituire il filtro. Il filtro si può sostituire rapidamente e senza entrare in contatto con lo sporco
+- Pratica funzione soffiante: se non è possibile aspirare, ad esempio quando si puliscono i vialietti di ghiaia, lo sporco può essere semplicemente soffiato via con la funzione apposita
 - Bidone Aspiratutto solidi liquidi: Kärcher WD 4 V-20/5/22 aspira lo sporco secco e umido in casa, in giardino, in officina e pulisce gli interni dellauto
 - La confezione include: bidone aspiratutto aspiratore solidi liquidi WD 4 V-20/5/22, 2 tubi di aspirazione, tubo 2,2 m, bocchetta per pavimenti e fessure, filtro piatto plissettato e sacchetto filtro
-- Pratica funzione soffiante: se non è possibile aspirare, ad esempio quando si puliscono i vialietti di ghiaia, lo sporco può essere semplicemente soffiato via con la funzione apposita
-- Filtro piatto plissettato: è possibile passare dallaspirazione a umido a quella a secco senza sostituire il filtro. Il filtro si può sostituire rapidamente e senza entrare in contatto con lo sporco
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CRVV3SST{{</world>}}

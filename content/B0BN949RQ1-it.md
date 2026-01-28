@@ -29,9 +29,9 @@ average: '339.83'
 ℹ️:
 
 - CANON: Questa stampante Canon è pensata per offrirti sempre stampe di alta qualità con un occhio al risparmio
-- CARATTERISTICHE: Le nostre stampanti sono dotate di schermo LCD inclinabile, luce di stato, interfaccia intuitiva, alimentatore a 3 vie per diversi tipi di carta, ADF da 35 fogli, stampa fronte/retro automatica e una cassetta frontale da 250 fogli per ridurre le ricariche
-- STAMPANTE WIRELESS: Scansiona e trasferisci direttamente su rete ed e-mail per una produttività continua - con la nostra stampante compatta puoi stampare rapidamente documenti aziendali a 18 ipm in bianco e nero e a 13 ipm a colori
 - ECONOMICA: Perfetta per volumi di stampa mensili bassi o medi, questa stampante compatta è dotata di serbatoi dinchiostro MegaTank - alta resa a un costo molto conveniente
+- STAMPANTE WIRELESS: Scansiona e trasferisci direttamente su rete ed e-mail per una produttività continua - con la nostra stampante compatta puoi stampare rapidamente documenti aziendali a 18 ipm in bianco e nero e a 13 ipm a colori
+- CARATTERISTICHE: Le nostre stampanti sono dotate di schermo LCD inclinabile, luce di stato, interfaccia intuitiva, alimentatore a 3 vie per diversi tipi di carta, ADF da 35 fogli, stampa fronte/retro automatica e una cassetta frontale da 250 fogli per ridurre le ricariche
 - STAMPANTE COMPATTA: Ottieni stampe professionali ad alta efficienza con le stampanti Canon, ideali per la casa e i piccoli uffici – testi nitidi e colori brillanti a ogni stampa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

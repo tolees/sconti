@@ -29,10 +29,10 @@ average: '4.26'
 ℹ️:
 
 - BURTS BEES LIP CARE: lottimo balsamo per labbra secche dal 1991
-- IDRATAZIONE PER TUTTO IL GIORNO: idrata e nutre intensamente le labbra secche con unidratazione che dura tutto il giorno ed evita che le labbra si secchino
-- RIPARAZIONE LABBRA: con una finitura opaca e una consistenza idratante, questi balsami per labbra Chapstick lasciano le labbra morbide, lisce, sane ed elastiche
-- BALSAMO PER LABBRA MULTICONFEZIONE MULTIPLA: idrata le labbra secche e risparmia con questa confezione doppia di balsamo per labbra Burts Bees, contenente due balsami per labbra naturalmente nutrienti e aromatizzati: cera dapi e vaniglia
 - INGREDIENTI NUTRIENTI E DURI: arricchito con ingredienti potenti di origine naturale al 100%, tra cui cera dapi di provenienza responsabile, olio di cocco e burro di karité per nutrire e ammorbidire le labbra in profondità
+- RIPARAZIONE LABBRA: con una finitura opaca e una consistenza idratante, questi balsami per labbra Chapstick lasciano le labbra morbide, lisce, sane ed elastiche
+- IDRATAZIONE PER TUTTO IL GIORNO: idrata e nutre intensamente le labbra secche con unidratazione che dura tutto il giorno ed evita che le labbra si secchino
+- BALSAMO PER LABBRA MULTICONFEZIONE MULTIPLA: idrata le labbra secche e risparmia con questa confezione doppia di balsamo per labbra Burts Bees, contenente due balsami per labbra naturalmente nutrienti e aromatizzati: cera dapi e vaniglia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B017NMJPTY{{</world>}}

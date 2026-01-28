@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Marca: Pandora.
 - Motivo: amore.
+- Marca: Pandora.
 - Colore: argento.
 - Stile: anello a fascia.
 

@@ -28,11 +28,11 @@ average: '1.75'
 
 ℹ️:
 
-- BARILLA - Unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
 - CARATTERISTICHE - Un gustosissimo intreccio di colori e di sapori che dona allegria alla tavola di tutti i giorni
 - INRGEDIENTI - Semola di grano duro e uova fresche di categoria A, di provenienza italiana e da galline allevate a terra, spinaci disidratati
-- PAGLIA E FIENO - Nasce dallunione di tagliatelle gialle e verdi, preparate aggiungendo gli spinaci allimpasto della sfoglia tradizionale
 - IDEALI CON - Tutti i tipi di condimento, sia i ragù più corposi che i sughi più leggeri, di pesce o verdure
+- PAGLIA E FIENO - Nasce dallunione di tagliatelle gialle e verdi, preparate aggiungendo gli spinaci allimpasto della sfoglia tradizionale
+- BARILLA - Unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B003UMK3RA{{</world>}}

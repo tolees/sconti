@@ -28,11 +28,11 @@ average: '74.1875'
 
 ℹ️:
 
-- Antenna e predisposizioni per dissipazione del calore eccellenti per montaggio su scrivania/parete/soffitto.
-- Grazie alla funzione di gestione tramite Nebula Cloud, non esiste più il rischio di perdere l’indirizzo IP o la password.
-- Alimentato da PoE+ o DC12V, adattatore di alimentazione incluso nella confezione.
 - Tagging VLAN supportato per una maggiore sicurezza e segmentazione del traffico, garantendo prestazioni e controllo ottimali della rete.
+- Grazie alla funzione di gestione tramite Nebula Cloud, non esiste più il rischio di perdere l’indirizzo IP o la password.
 - Wi-Fi super veloce da 6 a 1,8 Gpbs (AX1800, Dual 2x2 MU-MIMO).
+- Antenna e predisposizioni per dissipazione del calore eccellenti per montaggio su scrivania/parete/soffitto.
+- Alimentato da PoE+ o DC12V, adattatore di alimentazione incluso nella confezione.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09925PHCZ{{</world>}}

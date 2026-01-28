@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Questo set include anche un libretto di qualità, con dettagli sulla Disney e sulla telecamera, oltre alle istruzioni per la costruzione del modellino
-- Include anche un ciak da regista con spazio per 3 personaggi Disney e una cinepresa multipiano con 3 schermi stampati, che mostrano come è stato realizzato il cortometraggio Disney The Old Mill
-- Questo set ricco di cimeli composto da 811 pezzi, permette di costruire una cinepresa vintage con pannello posteriore apribile con sorpresa, e una striscia di pellicola che mostra fotogrammi di 20 storici film Disney
 - Questo set LEGO Disney per adulti, è unottima idea regalo per il compleanno o per lanniversario di un uomo o di una donna, e un pensiero simpatico per un fan della Disney
+- Questo set ricco di cimeli composto da 811 pezzi, permette di costruire una cinepresa vintage con pannello posteriore apribile con sorpresa, e una striscia di pellicola che mostra fotogrammi di 20 storici film Disney
+- Include anche un ciak da regista con spazio per 3 personaggi Disney e una cinepresa multipiano con 3 schermi stampati, che mostrano come è stato realizzato il cortometraggio Disney The Old Mill
 - In questo set Disney ricco di gadget, sono presenti 3 minifigure LEGO Disney (Topolino, Minnie e Walt Disney), oltre alle figure degli animali LEGO di Bambi e Dumbo
+- Questo set include anche un libretto di qualità, con dettagli sulla Disney e sulla telecamera, oltre alle istruzioni per la costruzione del modellino
 - Il set LEGO Disney da collezione, la Cinepresa Omaggio a Walt Disney, permette di costruire una “cinepresa” in stile vintage, e include la minifigure di Walt Disney e alcuni degli adorabili personaggi dei suoi film danimzione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

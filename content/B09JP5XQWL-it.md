@@ -28,11 +28,11 @@ average: '2.45'
 
 ℹ️:
 
-- Flessibili e traspiranti - I cerotti grandi per medicazioni sono flessibili e traspiranti, per un maggiore comfort senza che lacqua penetri allinterno della ferita
-- Contenuto - Hansaplast Cerotti AQUA PROTECT XL, cerotti grandi per primo soccorso trasparenti ed extra resistenti allacqua, 1 confezione da 5 pezzi 6 x 7 cm, numero articolo: 48627
-- Copertura e protezione - I cerotti Hansaplast sono progettati per la copertura e protezione delle ferite quotidiane medio-grandi come tagli, graffi ed escoriazioni
 - Resistenti allacqua - I cerotti waterproof con elevato potere adesivo sono ideali a contatto con lacqua, per una protezione sicura mentre si nuota, sotto la doccia e durante il bagno
 - Ferita protetta - La particolare compressa dei cerotti resistenti allacqua e sterili aderisce correttamente, senza lasciare residui, è altamente assorbente e non si attacca alla ferita
+- Flessibili e traspiranti - I cerotti grandi per medicazioni sono flessibili e traspiranti, per un maggiore comfort senza che lacqua penetri allinterno della ferita
+- Copertura e protezione - I cerotti Hansaplast sono progettati per la copertura e protezione delle ferite quotidiane medio-grandi come tagli, graffi ed escoriazioni
+- Contenuto - Hansaplast Cerotti AQUA PROTECT XL, cerotti grandi per primo soccorso trasparenti ed extra resistenti allacqua, 1 confezione da 5 pezzi 6 x 7 cm, numero articolo: 48627
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09JP5XQWL{{</world>}}

@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Punta trapano muro a quattro taglienti adatta ai comuni trapani domestici con attacco cilindrico
-- Placchetta realizzata in carburo di tungsteno HVA 1650 con angolo a 130° resistente alle alte temperature, saldobrasatura placchetta a 1000°
-- La punta a 4 taglienti garantisce l’esecuzione di fori perfettamente circolari con più facilità, più precisione e più velocità
-- Kit completo di punte. Misure 5 mm, 6 mm, 8 mm, 10 mm, 12 mm
-- Maggior comfort di utilizzo e maggiore durata: La geometria a “U” delle 4 spirali di scarico dei canali permette la rimozione di grandi volumi di polvere generando meno vibrazioni e meno attriti durante la foratura
 - Punta cilindrica in acciaio rettificata che permette grande stabilità durante la foratura
+- Maggior comfort di utilizzo e maggiore durata: La geometria a “U” delle 4 spirali di scarico dei canali permette la rimozione di grandi volumi di polvere generando meno vibrazioni e meno attriti durante la foratura
+- Placchetta realizzata in carburo di tungsteno HVA 1650 con angolo a 130° resistente alle alte temperature, saldobrasatura placchetta a 1000°
+- Kit completo di punte. Misure 5 mm, 6 mm, 8 mm, 10 mm, 12 mm
+- La punta a 4 taglienti garantisce l’esecuzione di fori perfettamente circolari con più facilità, più precisione e più velocità
+- Punta trapano muro a quattro taglienti adatta ai comuni trapani domestici con attacco cilindrico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07YDY4DZT{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Completa il tuo sistema: Il potente software CORSAIR iCUE ti consente di controllare e sincronizzare l’illuminazione RGB del sistema di raffreddamento con tutti i dispositivi compatibili iCUE, monitorare le temperature della CPU e del liquido refrigerante e regolare la velocità della ventola e della pompa.
-- Sistema di raffreddamento completo avanzato per CPU: Garantisce le massime prestazioni per le CPU Intel o AMD di ultima generazione e consente di dissipare il calore dei processori più avanzati.
-- Testata della pompa con design ricercato e 16 LED RGB : Testata della pompa con design moderno e 16 LED RGB regolabili singolarmente che forniscono un’illuminazione diffusa, per un look unico ed effetti luminosi stupefacenti.
-- Modalità di raffreddamento dedicate per la massima silenziosità : Grazie alla modalità Zero RPM per le ventole e quella dedicata per la regolazione dinamica della velocità di rotazione della pompa, entrambe selezionabili tramite il software iCUE, è possibile mantenere al minimo il livello di rumorosità quando il sistema è inattivo o sotto carichi limitati.
 - Prestazioni di raffreddamento all’avanguardia: Ottimizza le prestazioni della CPU con il raffreddamento a liquido azionato da due ventole CORSAIR AF ELITE Series AirGuide da 120 mm con controllo PWM, che fornisce un potente flusso d’aria compreso tra 450 e 1.850 giri/min.
+- Testata della pompa con design ricercato e 16 LED RGB : Testata della pompa con design moderno e 16 LED RGB regolabili singolarmente che forniscono un’illuminazione diffusa, per un look unico ed effetti luminosi stupefacenti.
+- Completa il tuo sistema: Il potente software CORSAIR iCUE ti consente di controllare e sincronizzare l’illuminazione RGB del sistema di raffreddamento con tutti i dispositivi compatibili iCUE, monitorare le temperature della CPU e del liquido refrigerante e regolare la velocità della ventola e della pompa.
+- Modalità di raffreddamento dedicate per la massima silenziosità : Grazie alla modalità Zero RPM per le ventole e quella dedicata per la regolazione dinamica della velocità di rotazione della pompa, entrambe selezionabili tramite il software iCUE, è possibile mantenere al minimo il livello di rumorosità quando il sistema è inattivo o sotto carichi limitati.
+- Sistema di raffreddamento completo avanzato per CPU: Garantisce le massime prestazioni per le CPU Intel o AMD di ultima generazione e consente di dissipare il calore dei processori più avanzati.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09YC9FZ8M{{</world>}}

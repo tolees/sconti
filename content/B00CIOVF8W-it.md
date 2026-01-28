@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Indice di acidità: 35 mg/ml.
 - Flux specificatamente sviluppato per riparare circuiti e componenti di saldatura.
 - Liquido a base di acqua.
-- Indice di acidità: 35 mg/ml.
 - Si presenta in una boccetta da 15 ml con pennello per applicazione.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

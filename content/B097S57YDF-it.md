@@ -28,9 +28,9 @@ average: '19.846'
 
 ℹ️:
 
-- Con i semi, la torba, il terriccio, la sabbia e le pietre i bambini si potranno divertire a far crescere il paesaggio naturale ricco di piante intorno a Hogwarts
-- Un gioco per far divertire i bambini e insegnare loro limportanza del prendersi cura delle proprie piantine
 - Contiene gesso, sottovuoto e tempere per creare la fantastica capanna di Hagrid e le sue caratteristiche zucche
+- Un gioco per far divertire i bambini e insegnare loro limportanza del prendersi cura delle proprie piantine
+- Con i semi, la torba, il terriccio, la sabbia e le pietre i bambini si potranno divertire a far crescere il paesaggio naturale ricco di piante intorno a Hogwarts
 - Un fantastico scientifico per creare il proprio ecosistema in miniatura con unambientazione davvero magica, in perfetto stile Harry Potter
 - Un gioco personalizzabile e tutto da decorare per abbellire la propria cameretta. Un gioco scientifico consigliato per bambini a partire dai 7 anni. Made in Italy
 

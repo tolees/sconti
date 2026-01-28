@@ -28,8 +28,8 @@ average: '13.7'
 
 ℹ️:
 
-- Camicetta da donna danese
 - Tipo di dettaglio: camicia in popeline, chiusura/patta: chiusura con bottoni. Dettagli extra: piega sul retro. Manica: spalla scesa. Tessuto: popeline. Occasione: camicia di qualità per tutti i giorni. Vestibilità: vestibilità comoda. Manica: maniche lunghe (L/S)
+- Camicetta da donna danese
 - Realizzato in cotone biologico. Questo prodotto è realizzato con cotone biologico. Il cotone biologico viene coltivato senza luso di sostanze chimiche nocive. Quando si coltiva cotone biologico, le risorse naturali e gli agricoltori sono protetti.
 - Lavabile in lavatrice
 

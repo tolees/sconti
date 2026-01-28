@@ -28,11 +28,11 @@ average: '100.344'
 
 ℹ️:
 
+- Dimensioni: Base: 168 x 143 x 24 mm. Contenuto della confezione: Stazione base, sensore professionale per esterni 7 in 1, compresi accessori di montaggio, adattatore di rete e cavo, manuale istruzioni (lingua italiana non garantita).
 - Stazione meteorologica radio con display a colori da 7" (14,5 cm) chiaramente strutturato con retroilluminazione a LED, funzione WLAN e multisensore 7-in-1
+- La funzione WLAN consente di condividere i dati locali tramite applicazioni come Weather Underground o Weather Cloud. Inoltre la funzione WLAN consente la sincronizzazione dellora su Internet e laggiornamento del firmware. Questa stazione può anche essere collegata al portale in lingua tedesca AWEKAS.
 - Sensore esterno multifunzionale 7 in 1 per il rilevamento tramite frequenza 868 MHz, della velocità e della direzione del vento, umidità, temperatura, precipitazioni, livello UV e intensità della luce.
 - Altre caratteristiche della stazione meteo sono: Visualizzazione delle precipitazioni con valori storici in memoria, allerta per valori massimi e minimi, avviso di gelo/ghiaccio, indicatore del clima interno, visualizzazione della pressione atmosferica, indice meteorologico per punto di rugiada, fattore di raffreddamento del vento (Windchill), indice di calore, fasi lunari, sveglia con opzione snooze
-- Dimensioni: Base: 168 x 143 x 24 mm. Contenuto della confezione: Stazione base, sensore professionale per esterni 7 in 1, compresi accessori di montaggio, adattatore di rete e cavo, manuale istruzioni (lingua italiana non garantita).
-- La funzione WLAN consente di condividere i dati locali tramite applicazioni come Weather Underground o Weather Cloud. Inoltre la funzione WLAN consente la sincronizzazione dellora su Internet e laggiornamento del firmware. Questa stazione può anche essere collegata al portale in lingua tedesca AWEKAS.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08M3XKCMJ{{</world>}}

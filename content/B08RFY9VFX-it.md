@@ -28,12 +28,12 @@ average: '81.34'
 
 ℹ️:
 
-- La batteria di alta qualità resiste alleffetto memoria e alla normale autoscarica della batteria per unalta potenza costante; la batteria da 2,5 Ah è il modello ottimale della famiglia Power X-Change idoneo anche per luso TWIN-PACK in applicazioni a 36 V
-- Appartenendo alla potente gamma power x-change, lavvitatore a percussione funziona con le batterie agli ioni di litio ad alte prestazioni di questa stessa gamma einhell, che sono sempre pronte alluso, senza il rischio comunemente di autoscarica
-- Trapano avvitatore a percussione a batteria
-- Lavvitatore a percussione senza fili einhell te-cd 18/50 li-i bl solo rilascia la potenza adatta ad ogni applicazione, per forare materiali duri come pietra o mattoni durante lavori di rifezione e ristrutturazione
 - Il sistema di gestione della batteria attivo e controllato dal processo ABS monitora costantemente i parametri della batteria utilizzando il microprocessore; di conseguenza, garantisce massima sicurezza, prestazioni ottimali dellapparecchio, massima autonomia e massima durata
+- La batteria di alta qualità resiste alleffetto memoria e alla normale autoscarica della batteria per unalta potenza costante; la batteria da 2,5 Ah è il modello ottimale della famiglia Power X-Change idoneo anche per luso TWIN-PACK in applicazioni a 36 V
 - Lo Starter Kit 18V 2,5 Ah PXC, comprendente una batteria Power X-Change da 18V 2,5 Ah e il caricabatterie rapido fa parte del sistema di batterie multifunzionali e illimitatamente combinabili Power X-Change di Einhell
+- Trapano avvitatore a percussione a batteria
+- Appartenendo alla potente gamma power x-change, lavvitatore a percussione funziona con le batterie agli ioni di litio ad alte prestazioni di questa stessa gamma einhell, che sono sempre pronte alluso, senza il rischio comunemente di autoscarica
+- Lavvitatore a percussione senza fili einhell te-cd 18/50 li-i bl solo rilascia la potenza adatta ad ogni applicazione, per forare materiali duri come pietra o mattoni durante lavori di rifezione e ristrutturazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08RFY9VFX{{</world>}}

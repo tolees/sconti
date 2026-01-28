@@ -28,12 +28,12 @@ average: '25.92'
 
 ℹ️:
 
-- Red Bull Energy Drink, Gusto Juneberry, 250 ml (24 Lattine)
+- Acqua, Saccarosio, Glucosio, Acidificante (acido citrico), Anidride carbonica, Taurina (0,4%), Correttore di acidità (citrati di sodio), Caffeina (0,03%), Vitamine (niacina, acido pantotenico, B6, B12), Aromi, Coloranti (antociani, blu brillante FCF)
 - La formula speciale di Red Bull Blue Edition contiene ingredienti di altissima qualità: Caffeina, Taurina, Vitamine del gruppo B, Zuccheri e Acqua Alpina
 - Una lattina da 250 ml di Red Bull Blue Edition contiene 80 mg di caffeina, circa la stessa quantità contenuta in una tazzina di caffè
-- Acqua, Saccarosio, Glucosio, Acidificante (acido citrico), Anidride carbonica, Taurina (0,4%), Correttore di acidità (citrati di sodio), Caffeina (0,03%), Vitamine (niacina, acido pantotenico, B6, B12), Aromi, Coloranti (antociani, blu brillante FCF)
 - La quantità di zuccheri contenuta in Red Bull Blue Edition equivale circa a quella contenuta in un succo d’arancia o di mela di pari quantità - 11 g/100ml
 - Confezione da 24 lattine da 250 ml di Red Bull Energy Drink
+- Red Bull Energy Drink, Gusto Juneberry, 250 ml (24 Lattine)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BZQC1RB9{{</world>}}

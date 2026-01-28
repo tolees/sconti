@@ -28,11 +28,11 @@ average: '58.9'
 
 ℹ️:
 
-- Include vaporizzatore orientabile con protezione per luso, per schiumare latte, emettere acqua calda per infusioni, riscaldare liquidi e preparare cappuccini. Braccio portafiltri con doppia uscita e due filtri per preparare uno o due caffè alla volta.
-- Caffettiera espressa per caffè espresso e cappuccino da 1350 W con design vintage. Pompa a pressione italiana con tecnologia ForceAroma da 20 bar che ottiene la migliore crema e il massimo aroma.
+- Sistema di riscaldamento rapido da Thermoblock. Manometro di controllo PressurePro per controllare la pressione in tempo reale.
 - Serbatoio dellacqua rimovibile con capacità di 1,5 litri. Include cucchiaino dosatore con pressatore per caffè. Vassoio antigoccia rimovibile per una facile pulizia.
 - Sistema di risparmio energetico con spegnimento automatico e stand-by. Indicatori luminosi di ogni funzione. Finitura in acciaio inox.
-- Sistema di riscaldamento rapido da Thermoblock. Manometro di controllo PressurePro per controllare la pressione in tempo reale.
+- Include vaporizzatore orientabile con protezione per luso, per schiumare latte, emettere acqua calda per infusioni, riscaldare liquidi e preparare cappuccini. Braccio portafiltri con doppia uscita e due filtri per preparare uno o due caffè alla volta.
+- Caffettiera espressa per caffè espresso e cappuccino da 1350 W con design vintage. Pompa a pressione italiana con tecnologia ForceAroma da 20 bar che ottiene la migliore crema e il massimo aroma.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BHTQDD7G{{</world>}}

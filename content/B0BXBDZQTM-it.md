@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- [1] - UPS Line Interactive con riproduzione dellOnda Sinusoidale Pura in versione Tower
-- [5] - Software di management incluso permette lo spegnimento controllato del sistema e di controllare lo stato di funzionamento dell’UPS // Backup Time: alcuni secondi a 100% - 4,2 min a 50% - 17,4 min a 25% // Peso 4,5 Kg
-- [4] - Include 1 batteria da 12V 9Ah // Display LCD multifunzione per indicazione di stato dellUPS e delle batterie
-- [2] - Potenza duscita 800VA - 480W
 - [3] - Integra 2 uscite Shuko // Cavo alimentazione integrato // 1 Porta USB-HID per collegamento PC e per controllare NAS // Porta In/OUT RJ11/45 per protezione LAN/telefono.
+- [2] - Potenza duscita 800VA - 480W
+- [5] - Software di management incluso permette lo spegnimento controllato del sistema e di controllare lo stato di funzionamento dell’UPS // Backup Time: alcuni secondi a 100% - 4,2 min a 50% - 17,4 min a 25% // Peso 4,5 Kg
+- [1] - UPS Line Interactive con riproduzione dellOnda Sinusoidale Pura in versione Tower
+- [4] - Include 1 batteria da 12V 9Ah // Display LCD multifunzione per indicazione di stato dellUPS e delle batterie
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BXBDZQTM{{</world>}}

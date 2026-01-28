@@ -29,12 +29,12 @@ average: '99.0'
 ℹ️:
 
 - IL NUOVO DESIGN DELLA SPIRALE RIDUCE AL MINIMO GLI INTASAMENTI*: Il design a nove segmenti estrae succo e polpa durante la spremitura a freddo (*Rispetto alla precedente versione JC100EU)
-- IL NUOVO DESIGN DELLA SPIRALE RIDUCE AL MINIMO GLI INTASAMENTI*: Il design a nove segmenti estrae succo e polpa durante la spremitura a freddo (*Rispetto alla precedente versione JC100EU)
 - SILENZIOSO E FACILE DA USARE: Prepara succhi, shot salutari e bevande in tre semplici passi. Questo estrattore, con il suo motore potente e silenzioso, è lideale per preparare succhi, shot e bevande ogni mattina, senza svegliare tutta la casa
-- SISTEMA TOTAL PULP CONTROL: Consente di eliminare la polpa per una spremitura ottimale** (**Testato su carote da 320 g.) Include 2 filtri per bevande con meno polpa o più polpa.
 - INCLUDE: Base con motore Estrattore Succo a Freddo Ninja Cold Press, Caraffa da 700 ml, Contenitore Polpa da 1,1 l, Pressino, 2 Filtri per la polpa, spazzola per la pulizia e Ricettario. Peso: 3,6 kg. Colore: Grigio
-- TECNOLOGIA DI SPREMITURA A FREDDO: Il motore a coppia elevata spinge gli ingredienti in una spirale a 9 segmenti che estrae lentamente succo e polpa per ottenere bevande nutrienti e ricche di vitamine
+- SISTEMA TOTAL PULP CONTROL: Consente di eliminare la polpa per una spremitura ottimale** (**Testato su carote da 320 g.) Include 2 filtri per bevande con meno polpa o più polpa.
+- IL NUOVO DESIGN DELLA SPIRALE RIDUCE AL MINIMO GLI INTASAMENTI*: Il design a nove segmenti estrae succo e polpa durante la spremitura a freddo (*Rispetto alla precedente versione JC100EU)
 - DIMENSIONI: A: 40,46 cm x L: 18,16 cm x P: 30,75 cm
+- TECNOLOGIA DI SPREMITURA A FREDDO: Il motore a coppia elevata spinge gli ingredienti in una spirale a 9 segmenti che estrae lentamente succo e polpa per ottenere bevande nutrienti e ricche di vitamine
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DP7TT5HW{{</world>}}

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Girovita elasticizzato con cordino
-- Tessuto Infinitex
 - 78% poliammide (riciclato) / 22% elastan
 - Vestibilità attillata
+- Tessuto Infinitex
+- Girovita elasticizzato con cordino
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZ4GKBYD{{</world>}}

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Miglioramenti alla qualità della vita (dei non morti): Sono state aggiunte al gioco numerose correzioni e funzionalità molto richieste
+- Character Models aggiornati: Dead Rising Deluxe Remaster introduce una nuova personalizzazione dei personaggi di alto livello per Frank West, gli Psicopatici scatenati, gli NPC come Brad, Jessie, Isabela e lamata Madonna, i sopravvissuti allepidemia e le orde di zombie apparentemente infinite!
 - Ola! Bonjour! Ciao! Per la prima volta in assoluto, Dead Rising Deluxe Remaster è dotato di doppiaggio per tutti i personaggi in nove lingue diverse, tra cui inglese, giapponese, francese, italiano, tedesco, spagnolo castigliano e russo! Il gioco avrà anche sottotitoli in 14 lingue
 - Grafica migliorata: Scopri Willamette Parkview Mall invaso da orde di zombie come mai prima dora con una risoluzione fino a 4K e un frame rate di 60 FPS!
-- Character Models aggiornati: Dead Rising Deluxe Remaster introduce una nuova personalizzazione dei personaggi di alto livello per Frank West, gli Psicopatici scatenati, gli NPC come Brad, Jessie, Isabela e lamata Madonna, i sopravvissuti allepidemia e le orde di zombie apparentemente infinite!
-- Miglioramenti alla qualità della vita (dei non morti): Sono state aggiunte al gioco numerose correzioni e funzionalità molto richieste
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DCP36TGC{{</world>}}

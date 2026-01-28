@@ -28,11 +28,11 @@ average: '17.1824999999999'
 
 ℹ️:
 
-- IMPARARE GIOCANDO: oltre 200 componenti per costruire un modellino di shuttle con alettoni regolabili e cargo apribile, scoprendo i segreti della tensegrità e imparando i fondamenti della meccanica e dellingegneria
-- SHUTTLE FLUTTUANTE: un kit di costruzione per giovani astronauti, con un modellino di shuttle che sfrutta il principio della tensegrità per fluttuare, offrendo unesperienza educativa unica e coinvolgente
 - COME GIOCARE: assemblare lo shuttle seguendo le istruzioni del manuale o dellapp, sperimentare leffetto della tensegrità che lo fa sembrare fluttuare, e sganciare il modellino dalla base per un gioco creativo e libero
-- CLEMENTONI SCIENZA E GIOCO BUILD: una serie di modellini in scala da costruire, smontare e ricostruire, stimolando la fantasia e imparando importanti concetti di ingegneria e meccanica; tanti kit spettacolari per unire progettazione, manualità e ingegno
+- SHUTTLE FLUTTUANTE: un kit di costruzione per giovani astronauti, con un modellino di shuttle che sfrutta il principio della tensegrità per fluttuare, offrendo unesperienza educativa unica e coinvolgente
 - COSA CONTIENE: gioco scientifico Made in Italy adatto per bambini da 8 anni in su, include oltre 200 componenti, un modellino di shuttle con alettoni regolabili e cargo, e un manuale distruzioni
+- IMPARARE GIOCANDO: oltre 200 componenti per costruire un modellino di shuttle con alettoni regolabili e cargo apribile, scoprendo i segreti della tensegrità e imparando i fondamenti della meccanica e dellingegneria
+- CLEMENTONI SCIENZA E GIOCO BUILD: una serie di modellini in scala da costruire, smontare e ricostruire, stimolando la fantasia e imparando importanti concetti di ingegneria e meccanica; tanti kit spettacolari per unire progettazione, manualità e ingegno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09RSPLZKR{{</world>}}

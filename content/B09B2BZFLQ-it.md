@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- DIMENSIONE COMPATTA, POSSIBILITÀ INFINITE: questo versatile multicooker da 4,7L è perfetto per cucinare 1-2 porzioni. Adatto per un pollo da 1,5 kg
-- COTTURA A PRESSIONE E DELICATA CROCCANTEZZA: prepara cibi prelibati, perfettamente cotti e irresistibilmente croccanti, grazie alla tecnologia TenderCrisp. Passa dal coperchio per la cottura a pressione al coperchio per la croccantezza.
-- 6 FUNZIONI DI COTTURA: cottura a pressione, frittura ad aria, cottura lenta, al vapore, al forno/arrosto e rosolatura
 - Dimensioni: H31 x L39,5 x P32 cm. Peso: 9.07 kg
+- 6 FUNZIONI DI COTTURA: cottura a pressione, frittura ad aria, cottura lenta, al vapore, al forno/arrosto e rosolatura
 - INCLUDE: Ninja Foodi Mini Multicooker (spina UE), pentola antiaderente lavabile in lavastoviglie da 4,7 l, piastra per frittura Cook & Crisp, griglia in acciaio inox, guida alle ricette creata da chef. Colore Grigio/Nero
+- COTTURA A PRESSIONE E DELICATA CROCCANTEZZA: prepara cibi prelibati, perfettamente cotti e irresistibilmente croccanti, grazie alla tecnologia TenderCrisp. Passa dal coperchio per la cottura a pressione al coperchio per la croccantezza.
+- DIMENSIONE COMPATTA, POSSIBILITÀ INFINITE: questo versatile multicooker da 4,7L è perfetto per cucinare 1-2 porzioni. Adatto per un pollo da 1,5 kg
 - COTTURA A PRESSIONE: fino al 70% più veloce dei metodi di cottura tradizionali* (*rispetto alla cottura lenta, alla cottura a fuoco basso o alla brasatura)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

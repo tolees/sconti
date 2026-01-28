@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dotazione di fornitura: 32 bit di avvitamento lunghezza 25 mm (4 con testa a croce PH 0123, 4 Pozidriv PZ 0123, 8 con testa a intaglio S 344,556789, 8 Torx T 810152025273040, 8 esagonali H 1,522,53455,56), 12 giradadi Ã˜ 316", 14", 516", 1132", 38", 716" pollici Ã˜ 678101113 mm, 1 portabit magnetico universale, 1 cacciavite con funzione cricchetto in senso orarioantiorario e portabit nellimpugnatura
-- Disposti comodamente nella pratica custodia
-- 32 bit di avvitamento L = 25 mm (PH 0123, PZ 0123, S 344,556789, HEX 1,522,53455,56, T 810152025273040)
 - Set Bosch da 46 pz. Set di bit di avvitamento e giradadi di Bosch - Con codolo esagonale esterno da 14 di pollice: ideale per lavori generici con cacciaviti e trapani avvitatori
+- 32 bit di avvitamento L = 25 mm (PH 0123, PZ 0123, S 344,556789, HEX 1,522,53455,56, T 810152025273040)
+- Disposti comodamente nella pratica custodia
+- Dotazione di fornitura: 32 bit di avvitamento lunghezza 25 mm (4 con testa a croce PH 0123, 4 Pozidriv PZ 0123, 8 con testa a intaglio S 344,556789, 8 Torx T 810152025273040, 8 esagonali H 1,522,53455,56), 12 giradadi Ã˜ 316", 14", 516", 1132", 38", 716" pollici Ã˜ 678101113 mm, 1 portabit magnetico universale, 1 cacciavite con funzione cricchetto in senso orarioantiorario e portabit nellimpugnatura
 - Include una pratica custodia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

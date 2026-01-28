@@ -28,12 +28,12 @@ average: '26.99'
 
 ℹ️:
 
-- LA CONFEZIONE: La confezione contiene XX Napisan Spray Disinfettante Superfici Limone e Menta/Classico da 740 ml
-- ISTRUZIONI DUSO: Posizionare l’erogatore su ON per aprirlo e su OFF per richiuderlo; spruzzare direttamente sulla superficie da disinfettare fino a coprirla e lasciare agire per almeno 15 minuti; passare un panno pulito e lasciare asciugare; non serve risciacquare; solo nel caso di superfici a contatto con gli alimenti, risciacquare con abbondante acqua; per la pulizia di apparecchiature elettriche spruzzare il prodotto su un panno; ripetere l’applicazione quando serve
-- NON UTILIZZARE SU: legno, tessuti, peluche, finestre, specchi e tutte le superfici porose, dipinte o verniciate; non utilizzare insieme a detergenti o altri disinfettanti, quando viene utilizzato insieme al sapone non ha un’azione disinfettante perchè la sostanza attiva viene disattivata dai comuni saponi, prima dell’uso testare il prodotto su un’area nascosta
-- DOVE USARLO: La formula di Napisan Spray Disinfettante Superfici è adatta per la disinfezione di tutte le superfici della tua casa, comprese quelle a contatto con gli alimenti, in caso di superfici a contatto con gli alimenti risciaquare con abbondante acqua; adatto anche per la disinfezione di fasciatoi e lettini, vasche per bagnetto, giocattoli e taglieri
 - PRESIDIO MEDICO CHIRURGICO: Napisan Spray Disinfettante Superfici è un Presidio Medico Chirurgico, Reg. N. 20319; Leggere attentamente le avvertenze o le istruzioni per l’uso. Aut. Min. del 22/01/2025
 - PERCHÈ UTILIZZARE NAPISAN SPRAY DISINFETTANTE SUPERFICI: elimina fino al 99,9% dei batteri presenti sulle superfici lavabili della tua casa
+- NON UTILIZZARE SU: legno, tessuti, peluche, finestre, specchi e tutte le superfici porose, dipinte o verniciate; non utilizzare insieme a detergenti o altri disinfettanti, quando viene utilizzato insieme al sapone non ha un’azione disinfettante perchè la sostanza attiva viene disattivata dai comuni saponi, prima dell’uso testare il prodotto su un’area nascosta
+- DOVE USARLO: La formula di Napisan Spray Disinfettante Superfici è adatta per la disinfezione di tutte le superfici della tua casa, comprese quelle a contatto con gli alimenti, in caso di superfici a contatto con gli alimenti risciaquare con abbondante acqua; adatto anche per la disinfezione di fasciatoi e lettini, vasche per bagnetto, giocattoli e taglieri
+- LA CONFEZIONE: La confezione contiene XX Napisan Spray Disinfettante Superfici Limone e Menta/Classico da 740 ml
+- ISTRUZIONI DUSO: Posizionare l’erogatore su ON per aprirlo e su OFF per richiuderlo; spruzzare direttamente sulla superficie da disinfettare fino a coprirla e lasciare agire per almeno 15 minuti; passare un panno pulito e lasciare asciugare; non serve risciacquare; solo nel caso di superfici a contatto con gli alimenti, risciacquare con abbondante acqua; per la pulizia di apparecchiature elettriche spruzzare il prodotto su un panno; ripetere l’applicazione quando serve
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CVLDCY83{{</world>}}

@@ -28,11 +28,11 @@ average: '148.99'
 
 ℹ️:
 
-- VISIERA: Visiera resistente a graffi e UV, realizzata con bordi in pelle sintetica e supporti in fibra di carbonio, dotata di nottolino nero con logo Momodesign
-- CALOTTA: Disponibile in tre dimensioni per una vestibilità perfetta; XS (53-54 cm), S (55-56 cm), M (57-58 cm), L (59-60 cm), XL (61 cm); PESO: Solo 1.220 g per la dimensione XS
+- SISTEMA DI RITENZIONE: Chiusura micrometrica per unadattabilità rapida e sicura, con anello anti-rapina per una maggiore sicurezza
 - MATERIALI: Calotta realizzata in ABS 100%, per un casco jet leggero ma resistente
 - INTERNI: Bordo base cucito a mano per un tocco di eleganza, interni rimovibili e lavabili, sottogola adattabile e rimovibile, tessuto DrySpeed per assorbimento rapido, ottimizzati per chi porta occhiali
-- SISTEMA DI RITENZIONE: Chiusura micrometrica per unadattabilità rapida e sicura, con anello anti-rapina per una maggiore sicurezza
+- CALOTTA: Disponibile in tre dimensioni per una vestibilità perfetta; XS (53-54 cm), S (55-56 cm), M (57-58 cm), L (59-60 cm), XL (61 cm); PESO: Solo 1.220 g per la dimensione XS
+- VISIERA: Visiera resistente a graffi e UV, realizzata con bordi in pelle sintetica e supporti in fibra di carbonio, dotata di nottolino nero con logo Momodesign
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D17MRBTH{{</world>}}

@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Ultra Mini & Portatile: Baseus Magsafe Mini Powerbank Dimensioni: 10 x 6,9 x 1,2 cm. Peso: ≈ 207 g. Il piccolo design si adatta facilmente in una borsa o in una borsa per un facile viaggio e lavoro. Il pacchetto viene fornito anche con un cavo USB C, tramite il quale possono essere ricaricati diversi dispositivi.
 - 9 precauzioni di sicurezza: il powerbank magnetico certificato FCC è dotato di diverse precauzioni di sicurezza, tra cui protezione da sovraccarico, protezione da sovracorrente, protezione da sovratensione in uscita, controllo della temperatura, protezione da cortocircuito, ecc.
 - Snap per la ricarica con forte impugnatura magnetica: i magneti al rubidio N52 integrati forniscono una forza magnetica di 3500GS e garantiscono un facile allineamento automatico per una ricarica rapida e stabile. *Per la funzione di attrazione magnetica, il telefono cellulare stesso deve supportare lattrazione magnetica o utilizzare una custodia magnetica.
 - Capacità di 10000 mAh Scheda portatile: con un design compatto, la powerbank Magsafe dispone di una capacità di 10.000 mAh per la sicurezza quotidiana della corrente. Ha abbastanza potenza per caricare un iPhone 16 Pro 1,7 volte. Niente più paura della batteria scarica, anche quando sei in viaggio. Mantieni il tuo telefono carico durante gli spostamenti.
 - Eccellente dissipazione del calore per una ricarica più sicura: il chip AI integrato monitora la temperatura più volte allora. Il materiale grafene conduttivo aiuta anche a mantenere il dispositivo a bassa temperatura per consentire una ricarica più veloce e sicura.
 - Ricarica cablata e wireless: Baseus powerbank usb c supporta la ricarica wireless da 15 W per telefoni Android e 7,5 W per iPhone; 20 W di ricarica cablata per iPhone e 22,5 W per Android. Scegli il modo in cui desideri ravvivare il tuo dispositivo.
+- Ultra Mini & Portatile: Baseus Magsafe Mini Powerbank Dimensioni: 10 x 6,9 x 1,2 cm. Peso: ≈ 207 g. Il piccolo design si adatta facilmente in una borsa o in una borsa per un facile viaggio e lavoro. Il pacchetto viene fornito anche con un cavo USB C, tramite il quale possono essere ricaricati diversi dispositivi.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DZ6V6QJK{{</world>}}

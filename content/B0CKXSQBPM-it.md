@@ -28,16 +28,16 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Intersuola in EVA
-- Calzata regolare
 - Chiusura con lacci
-- Drop intersuola: 10 mm (tallone: 27 mm / 17 mm)
 - Almeno il 20% del materiale proviene da fonti riciclate e rinnovabili
+- RAIN.RDY
 - Peso: 390 g (misura 42 2/3)
+- Intersuola in EVA
 - Suola Traxion
 - Linguetta rinforzata
-- RAIN.RDY
+- Drop intersuola: 10 mm (tallone: 27 mm / 17 mm)
 - Tomaia in tessuto con punta rinforzata
+- Calzata regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CKXSQBPM{{</world>}}

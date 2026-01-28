@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Un forte colpo d’occhio – l’attenzione per i dettagli e l’amore per la bottiglia in stile art nouveau completano la presentazione raffinata di questo Gin Germanico
-- Questo gin è distillato con 16 sostanze botaniche selezionate a mano; il gin, di colore blu intenso, cambia colore in un rosa tenue con laggiunta di acqua tonica o altre bevande acide
 - Ogni piccolo dettaglio conta – un esclusivo Dry Gin, fatto a mano per assicurare la più alta qualità possibile; tutti gli ingredienti vengono selezionati a mano, per poi essere distillati tutti insieme per favorire un sapore bilanciato e aromatico
-- Sapore armonico – una magica miscela di calorosi gusci di noce moscata ed elementi agrumati; combinati, questi ingredienti offrono una delicata e una non invasiva finitura, nonostante i 45 gradi alcolici
+- Questo gin è distillato con 16 sostanze botaniche selezionate a mano; il gin, di colore blu intenso, cambia colore in un rosa tenue con laggiunta di acqua tonica o altre bevande acide
 - Molto più di un semplice regalo – aspettatevi l’inaspettato, tutte le bottiglie di Illusionist Dry Gin sono numerate e hanno la data di distillazione, ogni bottiglia è unica
+- Un forte colpo d’occhio – l’attenzione per i dettagli e l’amore per la bottiglia in stile art nouveau completano la presentazione raffinata di questo Gin Germanico
+- Sapore armonico – una magica miscela di calorosi gusci di noce moscata ed elementi agrumati; combinati, questi ingredienti offrono una delicata e una non invasiva finitura, nonostante i 45 gradi alcolici
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01MU6O42P{{</world>}}

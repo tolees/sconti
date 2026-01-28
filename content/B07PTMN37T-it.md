@@ -28,10 +28,10 @@ average: '18.67'
 
 ℹ️:
 
-- Il primo fotoprotettore bifasico che protegge e abbronza la pelle
-- Ci prendiamo cura dei mari e degli oceani
 - Lozione bifasica idratnate, ad assorbimento immediato. Senza residui sulla pella pelle
 - Alta Protezione UVB/UVA SPF30
+- Ci prendiamo cura dei mari e degli oceani
+- Il primo fotoprotettore bifasico che protegge e abbronza la pelle
 - Grazie alla Pro-Melanin Tehcnology(TM)aumenta del +43% labbronzatura naturale della pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

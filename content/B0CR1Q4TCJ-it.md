@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Questa versione è stata localizzata e editata direttamente da Asmodee Italia.
-- Durante la partita dovrete selezionare strategicamente le varie tessere così da costruire un bellissimo mosaico sulla vostra plancia personale. Guadagnerete punti in base alla posizione delle varie tessere, anche in relazione a eventuali pattern specifici e verrete invece penalizzati per le tessere avanzate.
 - Numero di giocatori: 2-4 | Età consigliata: 8+ | Durata media: 30-45 min. | Edizione in lingua italiana
-- Lo scopo del gioco è essere il giocatore con più punti al termine della partita. La partita termina dopo il round in cui almeno un giocatore ha completato una linea orizzontale di 5 piastrelle consecutive sulla sua parete.
+- Durante la partita dovrete selezionare strategicamente le varie tessere così da costruire un bellissimo mosaico sulla vostra plancia personale. Guadagnerete punti in base alla posizione delle varie tessere, anche in relazione a eventuali pattern specifici e verrete invece penalizzati per le tessere avanzate.
 - In questo gioco astratto di piazzamento tessere, sarete degli artisti della ceramica incaricati di decorare le pareti del Palazzo Reale di Evora.
+- Lo scopo del gioco è essere il giocatore con più punti al termine della partita. La partita termina dopo il round in cui almeno un giocatore ha completato una linea orizzontale di 5 piastrelle consecutive sulla sua parete.
+- Questa versione è stata localizzata e editata direttamente da Asmodee Italia.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CR1Q4TCJ{{</world>}}

@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Quattro trame diverse per quattro fantasie originali, ognuna con un tema unico: pirati, spazio, animali e dinosauri; ogni rotolo racconta una storia, aggiungendo un tocco di allegria a ogni utilizzo
-- Tre veli colorati disegnano qualsiasi storia tu abbia in mente, strappo dopo strappo
 - La carta igienica Nicky Kids rispetta lambiente perché è prodotta esclusivamente con materie prime provenienti da foreste gestite responsabilmente e garantite dalla certificazione forestale FSC
+- Tre veli colorati disegnano qualsiasi storia tu abbia in mente, strappo dopo strappo
 - Nicky Kids è la carta igienica soffice e delicata al tatto pensata per i bambini che amano viaggiare con la fantasia e divertirsi strappo dopo strappo
 - La confezione contiene 42 rotoli di carta igienica con 170 strappi; grazie alla comoda apertura facilitata basta un solo gesto per aprirla in modo semplice e veloce
 - Nicky Kids è un prodotto Sofidel, prima azienda italiana nel ramo della carta per uso igienico e domestico, aderente dal 2008 a WWF Climate Savers, programma per ridurre le emissioni di gas serra

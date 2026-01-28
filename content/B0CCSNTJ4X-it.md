@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Chiusura regolabile per personalizzare il fit
 - Logo Nike Futura
+- Chiusura regolabile per personalizzare il fit
 - Occhielli ricamati per una maggiore traspirabilità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

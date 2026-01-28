@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Questo stile è stato prodotto in modo sostenibile
 - Comodo da indossare
 - Si tratta di un prodotto originale e originale Geox
-- Questo stile è stato prodotto in modo sostenibile
 - assicura una vestibilità ottimale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

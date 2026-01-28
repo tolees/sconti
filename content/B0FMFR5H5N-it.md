@@ -29,10 +29,10 @@ average: '7.78'
 ℹ️:
 
 - Caricabatterie rapido per iPhone Il caricabatterie rapido originale del marchio Newbetelas per iPhone è in grado di fornire una potenza di uscita di ricarica rapida ed è compatibile con iPhone 17, 16, 15, 14, 13, 12 e 11
-- Compatto e portatile, questo caricabatterie USB-C per iPhone è realizzato in materiale ABS di alta qualità. Le sue dimensioni eccezionalmente compatte e la struttura leggera garantiscono la massima portabilità, consentendo di trasportarlo senza limiti ovunque tu vada. Che tu sia in viaggio, in ufficio o a casa, si rivela la scelta ideale.
-- Contenuto della confezione: un caricabatterie USB-C a ricarica rapida per iPhone, garanzia di 12 mesi.
-- Compatibilità universale Newbetelas USB C fast charger supports power delivery fast charge, compatible with apple iPhone air /iPhone 17/iPhone 17 Pro max/iPhone 17 Pro/iPhone 16e/ iPhone 16 /iPhone 16 Pro max/iPhone 16 Pro/iPhone 16 plus/ iPhone 15 /iPhone 15 Pro max/iPhone 15 Pro/iPhone 15 plus/iPhone 14 /iPhone14 Pro max/iPhone14 Pro/iPhone 14 plus/13/13Pro/13ProMax/13Mini/12/12Pro/12Max/12Mini/11/11Pro/11Pro MAX/XS/XS MAX/XR/X/8/8Plus/per iPad 8th/2020/Pro 12. 9“ gen1/Pro 12,9” gen2/Pro 10,5“/Air3 10,5”/mini 5 7,9”
 - Ricarica rapida sicura Caricabatterie rapido USB C con esclusivo sistema di sicurezza, conforme alle certificazioni standard. Il design intelligente del circuito protegge da cortocircuiti, surriscaldamento, sovracorrente e sovraccarico. La ricarica si interrompe quando la batteria del cellulare è carica. Realizzato con materiali ignifughi per la sicurezza del cellulare.
+- Contenuto della confezione: un caricabatterie USB-C a ricarica rapida per iPhone, garanzia di 12 mesi.
+- Compatto e portatile, questo caricabatterie USB-C per iPhone è realizzato in materiale ABS di alta qualità. Le sue dimensioni eccezionalmente compatte e la struttura leggera garantiscono la massima portabilità, consentendo di trasportarlo senza limiti ovunque tu vada. Che tu sia in viaggio, in ufficio o a casa, si rivela la scelta ideale.
+- Compatibilità universale Newbetelas USB C fast charger supports power delivery fast charge, compatible with apple iPhone air /iPhone 17/iPhone 17 Pro max/iPhone 17 Pro/iPhone 16e/ iPhone 16 /iPhone 16 Pro max/iPhone 16 Pro/iPhone 16 plus/ iPhone 15 /iPhone 15 Pro max/iPhone 15 Pro/iPhone 15 plus/iPhone 14 /iPhone14 Pro max/iPhone14 Pro/iPhone 14 plus/13/13Pro/13ProMax/13Mini/12/12Pro/12Max/12Mini/11/11Pro/11Pro MAX/XS/XS MAX/XR/X/8/8Plus/per iPad 8th/2020/Pro 12. 9“ gen1/Pro 12,9” gen2/Pro 10,5“/Air3 10,5”/mini 5 7,9”
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FMFR5H5N{{</world>}}

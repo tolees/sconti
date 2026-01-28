@@ -28,11 +28,11 @@ average: '135.92'
 
 ℹ️:
 
-- Prodotto 2: Linnovativa texture rugosa di Artech Stone Ultra rende ancora più resistente la superficie
-- Prodotto 2: Rivestimento Artech Stone Ultra, effetto pietra rinforzato con particelle minerali, per una eccezionale antiaderenza e resistenza
-- Prodotto 1: Il corpo alto spessore con fondo di 4.0 mm permette una ottimale diffusione del calore, rivestimento antiaderente Artech Stone Ultra
 - Prodotto 2: Alluminio alto spessore fondo 4 mm, per una cottura uniforme.
 - Prodotto 1: Prodotta da Alluflon spa e 100% made in Italy, lavabile in lavastoviglie
+- Prodotto 1: Il corpo alto spessore con fondo di 4.0 mm permette una ottimale diffusione del calore, rivestimento antiaderente Artech Stone Ultra
+- Prodotto 2: Rivestimento Artech Stone Ultra, effetto pietra rinforzato con particelle minerali, per una eccezionale antiaderenza e resistenza
+- Prodotto 2: Linnovativa texture rugosa di Artech Stone Ultra rende ancora più resistente la superficie
 - Prodotto 1: IL nuovo rivestimento Artech Stone Ultra effetto pietra rinforzato con particelle minerali garantisce grande antiaderenza e resistenza
 - Prodotto 1: Batteria 8 pezzi Moneta Etnea: una composizione completa di pentole, padelle, tegami e coperchi per cucinare per tutta la famiglia: padella 20, padella 26, pentolino 1manico 16 cm, pentola grande 24 cm 2 manici, tegame 28 cm, coperchio 16, 24 e 28 bordo inox
 - Prodotto 2: Facile da pulire, anche in lavastoviglie

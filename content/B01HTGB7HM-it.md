@@ -29,10 +29,10 @@ average: '70.04'
 ℹ️:
 
 - La giacca possiede la tecnologia riflettente Omni-Heat, che fornisce un migliore isolamento per tenervi al caldo, anche nelle giornate più fredde
-- Giaccone invernale classico da uomo con cappuccio, Ideale per passeggiate in città o per scoprire nuovi sentieri in montagna
 - Le tasche con la zip offrono maggiore versatilità. Tieni le mani calde e i tuoi oggetti di valore come smartphone, ecc. al sicuro e protetto senza paura di perderli
-- Tessuto idro-resistente per proteggervi da leggeri rovesci e nebbia, Vestibilità ottimale grazie allorlo regolabile con cordino
 - Contiene: 1x Columbia Powder Lite, Giacca con cappuccio da uomo, Shell: Storm-Lite DP II 100% poliestere; Fodera: Omni-Heat fodera riflettente 100% poliestere; Isolamento: Thermarator 100% poliestere, Colore: Nero, Taglia: S, Art. nr 1693931
+- Giaccone invernale classico da uomo con cappuccio, Ideale per passeggiate in città o per scoprire nuovi sentieri in montagna
+- Tessuto idro-resistente per proteggervi da leggeri rovesci e nebbia, Vestibilità ottimale grazie allorlo regolabile con cordino
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01HTGB7HM{{</world>}}

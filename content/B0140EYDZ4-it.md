@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- BARILLA - Unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
-- INGREDIENTI - Pasta senza glutine di mais bianco, mais giallo e riso integrale, dalla consistenza sempre al dente. La porzione consigliata per un adulto medio è di 80-85 g
-- IDEALI CON - Sposano il tradizionale taglio obliquo "a pennino" con un gusto bilanciato e sono ideali con sughi dai sapori delicati
-- CARATTERISTICHE - Una pasta senza glutine dal sapore delicato e bilanciato, buona come la Barilla di sempre. Tempo di cottura 9 minuti
 - PENNE RIGATE SENZA GLUTINE - Grazie alla nuova ricetta con riso integrale, da oggi le Penne Rigate Senza Glutine offrono un gusto ancora più armonioso e bilanciato
+- BARILLA - Unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
+- CARATTERISTICHE - Una pasta senza glutine dal sapore delicato e bilanciato, buona come la Barilla di sempre. Tempo di cottura 9 minuti
+- IDEALI CON - Sposano il tradizionale taglio obliquo "a pennino" con un gusto bilanciato e sono ideali con sughi dai sapori delicati
+- INGREDIENTI - Pasta senza glutine di mais bianco, mais giallo e riso integrale, dalla consistenza sempre al dente. La porzione consigliata per un adulto medio è di 80-85 g
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0140EYDZ4{{</world>}}

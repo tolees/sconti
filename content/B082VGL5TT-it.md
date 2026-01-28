@@ -28,11 +28,11 @@ average: '4.2'
 
 ℹ️:
 
-- 100% del makeup rimosso, Impurità e residui di inquinamento eliminati, Idratazione per 12H*, Pelle detersa senza sfregare grazie alle micelle che catturano impurità, *Test strumentale su 24 soggetti
 - Versa lacqua micellare su un dischetto di cotone, Detergi il viso, le labbra e gli occhi senza risciacquare, Utilizzala con gli Eco Pads lavabili di Garnier per ridurre i tuoi rifiuti quotidiani
+- Formula adatta a pelli sensibili, Arricchita con glicerina idratante e lentiiva, Texture che non lascia residui visibili, Dermatologicamente e oftalmologicamente provata
 - Acqua micellare Tutto in 1 per una pelle delicatamente struccata e lenita in un solo gesto, Appositamente studiata per le pelli sensibili, Adatta allutilizzo sul viso e sugli occhi
 - Contenuto: 1x Garnier SkinActive Acqua Micellare Tutto in 1, Per Pelli Sensibili, 100% del Trucco Rimosso, Pelle Detersa e Idratata per 12H, Senza Residui e Senza Risciacquo, Con Micelle e Glicerina, 700 ml
-- Formula adatta a pelli sensibili, Arricchita con glicerina idratante e lentiiva, Texture che non lascia residui visibili, Dermatologicamente e oftalmologicamente provata
+- 100% del makeup rimosso, Impurità e residui di inquinamento eliminati, Idratazione per 12H*, Pelle detersa senza sfregare grazie alle micelle che catturano impurità, *Test strumentale su 24 soggetti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B082VGL5TT{{</world>}}

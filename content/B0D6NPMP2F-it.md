@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Realizzati con materiali sostenibili
-- Sneaker del marchio Geox
 - Suola morbida per movimenti fluidi
+- Sneaker del marchio Geox
+- Realizzati con materiali sostenibili
 - Adatto per: tutte le stagioni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

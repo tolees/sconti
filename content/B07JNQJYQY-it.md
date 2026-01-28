@@ -28,11 +28,11 @@ average: '14.25'
 
 ℹ️:
 
-- PREVIENE E RIDUCE I DANNI DELLESPOSIZIONE AL SOLE: Arricchita con questi due ingredienti dalle proprietà addolcenti ed emollienti, riduce i danni derivanti dall’esposizione al sole e al vento, lasciando la pelle piacevolmente morbida e vellutata
 - TRATTAMENTO PER TUTTI I TIPI DI PELLE: Senza Parabeni, Fenossietanolo, Edta. Senza petrolati, Siliconi, Oli Minerali, Lanoline e peg. Testata lassenza dei 6 principali metalli pesanti (Nichel, Cromo, Mercurio, Antimonio, Piombo, Cadmio)
 - SI ASSORBE RAPIDAMENTE E NON UNGE: Per trarre dal sole quanto di meglio può dare alla nostra bellezza. Ideale per un’azione nutriente dopobagno, si assorbe immediatamente senza lasciare la minima traccia di untuosità
-- HELAN AMA LA PERSONA E LA NATURA: La Mission dell’azienda è stata, fin dall’inizio, quella di formulare e produrre cosmetici pensati e realizzati in armonia con la Fisiologia cutanea, la Natura, l’Ambiente e il Mondo Animale
 - USO E AVVERTENZE: Applicare sul corpo alla sera e ogniqualvolta se ne senta la necessità. Lenisce e attenua l’irritazione della cute donando una piacevole sensazione di freschezza. Non unge e non macchia
+- PREVIENE E RIDUCE I DANNI DELLESPOSIZIONE AL SOLE: Arricchita con questi due ingredienti dalle proprietà addolcenti ed emollienti, riduce i danni derivanti dall’esposizione al sole e al vento, lasciando la pelle piacevolmente morbida e vellutata
+- HELAN AMA LA PERSONA E LA NATURA: La Mission dell’azienda è stata, fin dall’inizio, quella di formulare e produrre cosmetici pensati e realizzati in armonia con la Fisiologia cutanea, la Natura, l’Ambiente e il Mondo Animale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07JNQJYQY{{</world>}}

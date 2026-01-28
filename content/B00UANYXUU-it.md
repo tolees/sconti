@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Potenza massima quando il cavo è avvolto: 1100w potenza massima quando il cavo è svolto: 1200w
-- Prolunga elettrica con avvolgicavo 4 prese polivalenti (schuko 10/16a) spina grande 16a
-- Cavo ho5 vv-f sezione 3g1 mm² lunghezza 4 metri
-- Protettore di sicurezza - scollega l corrente quando l potenza supera il limite di portata
 - Tutte le prese sono dotate di children safety - impedisce di introdurre corpi estranei nella presa in tensione
+- Prolunga elettrica con avvolgicavo 4 prese polivalenti (schuko 10/16a) spina grande 16a
+- Protettore di sicurezza - scollega l corrente quando l potenza supera il limite di portata
+- Cavo ho5 vv-f sezione 3g1 mm² lunghezza 4 metri
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00UANYXUU{{</world>}}

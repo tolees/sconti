@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- APPORTO COMPLETO DI NUTRIENTI DALLA A ALLO ZINCO: Multicentrum Donna 50+ multivitaminico è appositamente formulato per supportare le esigenze delle donne dopo i 50 anni; le specifiche esigenze della donna over 50 sono principalmente correlate ai cambiamenti dovuti al calo di estrogeni tipico della MENOPAUSA, che può provocare diversi disturbi quali: diminuzione della densità ossea, calo della concentrazione, irritabilità e umore instabile, secchezza vaginale
-- Conservare il prodotto in un luogo asciutto e ad una temperatura non superiore a 25 °C
+- Prodotto in Italia. Confezione da 60 compresse deglutibili; senza glutine e zuccheri
 - MULTIVITAMINICO COMPLETO PER DONNE OLTRE I 50 ANNI: Integratore alimentare multivitaminico con formula completa e bilanciata appositamente formulato per supportare le esigenze nutrizionali delle donne dopo i 50 anni
 - NUOVA COLORAZIONE COMPRESSE: il cambio è dovuto ad una modifica nel rivestimento della compressa osservabile solo nell’aspetto; tutti i prodotti Multicentrum continueranno ad avere la stessa composizione nutrizionale e continueranno ad aderire così agli elevati standard di qualità di cui il marchio è conosciuto
-- QUALITA E RICERCA: Da sempre, qualità e sicurezza sono i principi base di Multicentrum; Guidata da una lunga tradizione, la ricerca Multicentrum si basa sulle conoscenze attuali in materia di scienza dell’alimentazione; Gli ingredienti di qualità sono da sempre il fulcro di tutte le formulazioni Multicentrum
-- Prodotto in Italia. Confezione da 60 compresse deglutibili; senza glutine e zuccheri
+- Conservare il prodotto in un luogo asciutto e ad una temperatura non superiore a 25 °C
+- APPORTO COMPLETO DI NUTRIENTI DALLA A ALLO ZINCO: Multicentrum Donna 50+ multivitaminico è appositamente formulato per supportare le esigenze delle donne dopo i 50 anni; le specifiche esigenze della donna over 50 sono principalmente correlate ai cambiamenti dovuti al calo di estrogeni tipico della MENOPAUSA, che può provocare diversi disturbi quali: diminuzione della densità ossea, calo della concentrazione, irritabilità e umore instabile, secchezza vaginale
 - ASSUNZIONE: Una compressa al giorno da deglutire con acqua anche lontano dai pasti; la compressa deglutibile può essere comodamente divisa in due parti per facilitarne l’assunzione servendosi del pratico invito al taglio; Multicentrum Donna 50+ multivitaminico può essere assunto anche per periodi prolungati;
+- QUALITA E RICERCA: Da sempre, qualità e sicurezza sono i principi base di Multicentrum; Guidata da una lunga tradizione, la ricerca Multicentrum si basa sulle conoscenze attuali in materia di scienza dell’alimentazione; Gli ingredienti di qualità sono da sempre il fulcro di tutte le formulazioni Multicentrum
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07V1Q6CVZ{{</world>}}

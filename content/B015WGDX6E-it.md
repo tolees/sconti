@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Elevata sicurezza: la protezione elettronica delle celle Bosch (ECP) protegge la batteria da sovraccarico, surriscaldamento e scarica profonda
-- In dotazione Amazon Exclusive: GSR 12V-15, batteria 2x2.0 Ah, set di accessori in 39 pezzi (25x punta di cacciavite, 7x trapano per legno, 7x trapano per metallo), caricabatterie, sacchetto
-- Prestazioni potenti: il cambio a 2 velocità fornisce una potenza di 30 Nm durante la foratura (fino a 19 mm) e lavvitamento (fino a 7 mm)
-- Professional 12V system; potenza e compattezza; ottima libertà; tutte le nostre batterie sono compatibili con gli utensili Bosch Professional e preesistenti della stessa categoria di tensione
 - Compatto: con una lunghezza della testa di soli 169 mm, il GSR 12V-15 offre unottima maneggevolezza, specialmente per applicazioni di foratura e avvitamento in alto e in spazi ristretti
+- Professional 12V system; potenza e compattezza; ottima libertà; tutte le nostre batterie sono compatibili con gli utensili Bosch Professional e preesistenti della stessa categoria di tensione
+- Prestazioni potenti: il cambio a 2 velocità fornisce una potenza di 30 Nm durante la foratura (fino a 19 mm) e lavvitamento (fino a 7 mm)
+- In dotazione Amazon Exclusive: GSR 12V-15, batteria 2x2.0 Ah, set di accessori in 39 pezzi (25x punta di cacciavite, 7x trapano per legno, 7x trapano per metallo), caricabatterie, sacchetto
+- Elevata sicurezza: la protezione elettronica delle celle Bosch (ECP) protegge la batteria da sovraccarico, surriscaldamento e scarica profonda
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B015WGDX6E{{</world>}}

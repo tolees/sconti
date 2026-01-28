@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Batterie richieste
 - Età minima: 4 anni
+- Batterie richieste
 - Descrizione del prodotto: colleziona gli Avengers - una statuetta dettagliata di Capitan America alta 30 centimetri
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

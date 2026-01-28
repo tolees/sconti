@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tomaia a doppia cucitura per una lunga durata
-- Occhielli in metallo
 - Linguetta e colletto imbottiti
-- Colletto imbottito
 - Chiusura: Stringata
+- Occhielli in metallo
+- Tomaia a doppia cucitura per una lunga durata
+- Colletto imbottito
 - Costruzione vulcanizzata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

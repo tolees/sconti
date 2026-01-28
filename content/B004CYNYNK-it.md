@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- È lunico whiskey al mondo filtrato due volte per garantire una morbidezza eccezionale.
+- Recipe suggestion: Gentlemans Sour, Gentleman Jack on the Rocks
+- Gusto e Finale: Dolci note di pera, mela, banana, vaniglia, ciliegia e miele con un finale di media lunghezza.
 - Gentleman Jack di Jack Daniels è un whiskey super premium a doppia distillazione della Jack Daniel Distillery; In altre parole è il lato gentile di Jack.
 - Aroma: Vaniglia, caramella mou, quercia tostata, marshmallow.
-- È lunico whiskey al mondo filtrato due volte per garantire una morbidezza eccezionale.
-- Gusto e Finale: Dolci note di pera, mela, banana, vaniglia, ciliegia e miele con un finale di media lunghezza.
-- Recipe suggestion: Gentlemans Sour, Gentleman Jack on the Rocks
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B004CYNYNK{{</world>}}

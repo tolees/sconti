@@ -28,11 +28,11 @@ average: '28.3'
 
 ℹ️:
 
+- Avrai a disposizione team ufficiali, piloti, livree e sponsor IoM TT 2022
 - Percorso Mountain Course fedelmente ricreato e i percorsi storici di St. Johns e Clypse
 - Eventi multigiocatore creati dai giocatori per gareggiare online con gli amici e tantissime opzioni di personalizzazione
-- Un gioco open world assolutamente da scoprire! Una libertà senza precedenti di poter esplorare le vaste aree ricreate dallIsola di Man
 - Un numero incredibile di gare sullIsola di Man e unesperienza di gioco carriera completamente nuova!
-- Avrai a disposizione team ufficiali, piloti, livree e sponsor IoM TT 2022
+- Un gioco open world assolutamente da scoprire! Una libertà senza precedenti di poter esplorare le vaste aree ricreate dallIsola di Man
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BW9MDDLF{{</world>}}

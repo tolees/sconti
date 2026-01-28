@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- CARATTERISTICHE - Pasta lunga con consistenza sempre al dente grazie ad unaccurata selezione di grani duri, con tempo di cottura di 5 minuti
 - BARILLA - Unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
-- INGREDIENTI - Pasta di semola integrale di grano duro e acqua. Alla base della dieta mediterranea, la pasta è una fonte di cereali ed è povera di sodio e grassi
 - SPAGHETTINI INTEGRALI - Sottili e leggeri, sono una naturale fonte di fibre. Per chi ama la consistenza di questo antico formato di pasta lunga, senza rinunciare al piacere della pasta al dente
+- INGREDIENTI - Pasta di semola integrale di grano duro e acqua. Alla base della dieta mediterranea, la pasta è una fonte di cereali ed è povera di sodio e grassi
+- CARATTERISTICHE - Pasta lunga con consistenza sempre al dente grazie ad unaccurata selezione di grani duri, con tempo di cottura di 5 minuti
 - IDEALI CON - Condimenti tipici mediterranei, a base di verdure, pesce ed erbe aromatiche. Provali con il tonno, i pomodorini e i capperi per unarmonia di sapori e colori tipici italiani
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

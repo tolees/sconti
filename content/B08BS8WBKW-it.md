@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Polizziotto indistruttibile che protegge Detroit
-- Un tutto adrenalina e tecnologia
 - Robocop vuole vendetta
+- Un tutto adrenalina e tecnologia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08BS8WBKW{{</world>}}

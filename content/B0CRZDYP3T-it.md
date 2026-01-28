@@ -28,11 +28,11 @@ average: '115.19'
 
 ℹ️:
 
-- 🔲HDMI CEC CONNECTIVITY - PC, Mac, console & laptop interface options include DisplayPort 1.2a (FHD/180Hz max.) & HDMI 2.0b CEC ports (FHD/180Hz max.); The monitor rear features a 5-Way Joystick Navigator & a 4-way adjustable stand
-- 🔲24.5" FHD, 180HZ - Il pannello IPS Rapid ad alta definizione 1920x1080 (formato 16:9) dispone di unalta refresh rate di 180 Hz (Adaptive-Sync) per un tracciamento fluidissimo. Il tempo di risposta di 1 ms (GtG) è ideale per gli eventi sportivi.
-- 🔲AMPIA GAMMA DI COLORI – G255PF E2 supporta fino a 16,7 mio di colori al 99% di sRGB. Filtri hardware Less Blue Light PRO per alta fedeltà cromatica e tecnologia anti-sfarfallio che riduce laffaticamento degli occhi
 - 🔲CONTRASTO DINAMICO E VISIONE NOTTURNA - Il pannello IPS ha un contrasto nativo di 1000:1 e supporta il contrasto dinamico (100M:1). MSI Night Vision è in grado di migliorare i dettagli chiave negli ambienti di gioco più bui.
+- 🔲AMPIA GAMMA DI COLORI – G255PF E2 supporta fino a 16,7 mio di colori al 99% di sRGB. Filtri hardware Less Blue Light PRO per alta fedeltà cromatica e tecnologia anti-sfarfallio che riduce laffaticamento degli occhi
+- 🔲24.5" FHD, 180HZ - Il pannello IPS Rapid ad alta definizione 1920x1080 (formato 16:9) dispone di unalta refresh rate di 180 Hz (Adaptive-Sync) per un tracciamento fluidissimo. Il tempo di risposta di 1 ms (GtG) è ideale per gli eventi sportivi.
 - 🔲QUALITÀ DELLIMMAGINE RAPID IPS, GIOCO SENZA BORDI - I monitor MSI con pannello IPS offrono uneccezionale intensità di colore e supportano ampi angoli di visione di 178°. Il design "senza bordi" riduce le linee tra più schermi.
+- 🔲HDMI CEC CONNECTIVITY - PC, Mac, console & laptop interface options include DisplayPort 1.2a (FHD/180Hz max.) & HDMI 2.0b CEC ports (FHD/180Hz max.); The monitor rear features a 5-Way Joystick Navigator & a 4-way adjustable stand
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CRZDYP3T{{</world>}}

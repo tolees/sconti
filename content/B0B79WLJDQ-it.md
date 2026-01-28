@@ -30,8 +30,8 @@ average: '19.9'
 
 - ✅ Specifiche di base Interfaccia USB 3.0 (compatibile con Typce-C) Velocità di trasferimento massima Circa 5,0 Gbit/s File systemNTFS (MS Windows) Necessaria riformattazione per utilizzarlo con sistema Mac OS
 - ✅ Contenuto della confezione Cavo USB/Type-C Kit Hard disk con SSD interno da 256 Gb Nvme, la ricevuta o la fattura del prodotto valida per la garanzia viene inviata in automatico in formato pdf sul proprio account nella sezione fatturazione
-- ✅ Ogni singolo prodotto prima della spedizione viene sempre testato 48 ore per offrire unalto standard di qualità, garanzia Italiana, assistenza tecnica in caso di richiesta sempre garantita
 - ✅ Realizzato in plastica ABS resistente, con SSD Nvme da 256 Gb da utilizzare come memoria di archiviazione esterna. L’apertura del box è facilitata grazie alla scocca superiore a scorrimento che agevola l’installazione dell’SSD. Dotato di LED di stato che ne indica il corretto funzionamento, l’alimentazione e il trasferimento dei dati. Prodotto provvisto di certificati CE e RoHS da normativa CEE.
+- ✅ Ogni singolo prodotto prima della spedizione viene sempre testato 48 ore per offrire unalto standard di qualità, garanzia Italiana, assistenza tecnica in caso di richiesta sempre garantita
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B79WLJDQ{{</world>}}

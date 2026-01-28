@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Kidsmenu è un seggiolone multifunzione con struttura solida in legno; si trasforma facilmente in sdraietta, grazie alla base (non inclusa)
-- Testato a Normativa Europea
-- La seduta è comoda e confortevole, dotato di poggiapiedi regolabile in due posizioni; il vassoio è regolabile e può essere rimosso facilitando le operazioni di pulizia
 - Utilizzo: versione sdraietta dalla nascita - versione seggiolone da 6 a 36 mesi circa (max 15 kg); il semplice meccanismo di aggancio rende facilmente interscambiabile lsuo
+- Kidsmenu è un seggiolone multifunzione con struttura solida in legno; si trasforma facilmente in sdraietta, grazie alla base (non inclusa)
+- La seduta è comoda e confortevole, dotato di poggiapiedi regolabile in due posizioni; il vassoio è regolabile e può essere rimosso facilitando le operazioni di pulizia
+- Testato a Normativa Europea
 - Chiusura salvaspazio; base in legno con funzione dondolo (non inclusa)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

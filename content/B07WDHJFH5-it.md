@@ -28,11 +28,11 @@ average: '82.9'
 
 ℹ️:
 
-- Coperchio pieghevole per emettere calore uniformemente sulla griglia mista e sulla superficie del ferro, come in un forno a convezione omogeneo.
-- Facilità di pulizia grazie alla piastra rimovibile e alla vaschetta del grasso per un uso più confortevole e pulito; Adatto per la pulizia in lavastoviglie.
 - Barbecue elettrico con tecnologia PowerGrill e piastra in alluminio pressofuso con rivestimento RockStone per evitare che il cibo si attacchi.
-- Termostato regolabile in 5 livelli di potenza e distribuzione uniforme del calore su tutta la superficie della griglia (43 x 38 cm)
 - Abbassamento del supporto per aumentare larea di lavoro, robuste gambe in acciaio, impugnatura fredda e lampada operativa.
+- Coperchio pieghevole per emettere calore uniformemente sulla griglia mista e sulla superficie del ferro, come in un forno a convezione omogeneo.
+- Termostato regolabile in 5 livelli di potenza e distribuzione uniforme del calore su tutta la superficie della griglia (43 x 38 cm)
+- Facilità di pulizia grazie alla piastra rimovibile e alla vaschetta del grasso per un uso più confortevole e pulito; Adatto per la pulizia in lavastoviglie.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07WDHJFH5{{</world>}}

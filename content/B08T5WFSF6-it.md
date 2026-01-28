@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - GIOCATTOLO STEM: durante la costruzione di questo set Meccano si sviluppano conoscenze dei principi STEM e si rafforzano la coordinazione occhi-mano e le capacità di risoluzione dei problemi.
 - KIT DI COSTRUZIONE MECCANO si possono creare fino a 25 veicoli motorizzati diversi, uno alla volta. E possibile costruire 3 modelli seguendo le istruzioni o cercare nuovi modelli sul sito meccano.com
-- Include: 347 pezzi, motore elettrico da 6 V con LED, 2 attrezzi e 1 guida per luso (per 3 modelli)
 - MOTORE E LUCI FUNZIONANTI: Grazie a un motore da 6 V, il veicolo prende vita e i tubi LED attivano i fari e luci posteriori. Questo kit Meccano include 2 attrezzi e 347 pezzi in plastica e metallo
 - REGALO PER APPASSIONATI COSTRUTTORI: il set Supercar 25 in 1 di Meccano è adatto ai bambini dai 10 anni in su e richiede 4 pile AAA (non incluse).
+- Include: 347 pezzi, motore elettrico da 6 V con LED, 2 attrezzi e 1 guida per luso (per 3 modelli)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08T5WFSF6{{</world>}}

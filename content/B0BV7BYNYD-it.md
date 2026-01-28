@@ -28,12 +28,12 @@ average: '129.884545454545'
 
 ℹ️:
 
-- Immergiti nella magia: costruisci il Castello di Hogwarts LEGO e le aree circostanti, tra cui la Torre principale, la Torre astronomica, i cortili, la Sala grande, la rimessa delle barche, ponti e serre
 - Ammira i dettagli facilmente riconoscibili del paesaggio roccioso, del Lago Nero, della Camera dei Segreti, della stanza della Chiave Alata, dellAula della lezione di pozioni e della Camera della Scacchiera
-- In questo set LEGO sono presenti anche la Nave di Durmstrang, la Carrozza di Beauxbatons con i cavalli alati che "volano" su un supporto traslucido, e la Ford Anglia tra i rami del Platano Picchiatore
+- Immergiti nella magia: costruisci il Castello di Hogwarts LEGO e le aree circostanti, tra cui la Torre principale, la Torre astronomica, i cortili, la Sala grande, la rimessa delle barche, ponti e serre
 - Ricrea i luoghi iconici del Wizarding World con il dettagliatissimo set LEGO Harry Potter Castello e Parco di Hogwarts, per fan e adulti, composto da 2.660 pezzi
-- Per rendere lesposizione ancor più magica e creare un incantevole decorazione per la casa o per lufficio, posiziona la statua dellarchitetto di Hogwarts color oro accanto alla targa "Castello di Hogwarts"
+- In questo set LEGO sono presenti anche la Nave di Durmstrang, la Carrozza di Beauxbatons con i cavalli alati che "volano" su un supporto traslucido, e la Ford Anglia tra i rami del Platano Picchiatore
 - Il modellino del Castello di Hogwarts misura oltre 21 cm di altezza e 35 cm di larghezza; un regalo di Natale, di compleanno o una sorpresa speciale per i fan adulti e i collezionisti di Harry Potter, o per sé stessi
+- Per rendere lesposizione ancor più magica e creare un incantevole decorazione per la casa o per lufficio, posiziona la statua dellarchitetto di Hogwarts color oro accanto alla targa "Castello di Hogwarts"
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BV7BYNYD{{</world>}}

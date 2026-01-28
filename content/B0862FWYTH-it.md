@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Per uso interno ed esterno: Resistente alle intemperie. Usa e getta: batterie incluse non sostituibili
-- Istruzioni duso: per accendere il lumino, spostare la levetta alla base // Avvertenze: Conservare il prodotto in ambienti con temperature non eccessivamente elevate, lontano da fonti di calore. Non disperdere nellambiente dopo luso
 - Composizione: ossimo di metallo, diodo, PVC, polipropilene, batterie alcaline
+- Istruzioni duso: per accendere il lumino, spostare la levetta alla base // Avvertenze: Conservare il prodotto in ambienti con temperature non eccessivamente elevate, lontano da fonti di calore. Non disperdere nellambiente dopo luso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0862FWYTH{{</world>}}

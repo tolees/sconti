@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 【Batteria potente da 6000mAh (typ), Presetazioni della batteria di nuova generazione】POCO C85 è dotato di una batteria potente da 6.000 mAh, racchiusa in un corpo elegante. Potenza di lunga durata e prestazioni straordinarie.
-- 【Coperchio posteriore curvo sui quattro lati, Design elegante e raffinato】Progettato per il massimo comfort, il corpo sottile di POCO C85 offre una presa comoda e una maneggevolezza semplice, ideale per chi viaggia.
 - 【Display 6,9", AdaptiveSync a 120 Hz】Lo schermo da 6,9" offre unesperienza nitida e luminosa. Godi lutilizzo fluido e coinvolgente alla navigazione e alla visione con la frequenza di aggiornamento fino a 120 Hz.
+- 【Coperchio posteriore curvo sui quattro lati, Design elegante e raffinato】Progettato per il massimo comfort, il corpo sottile di POCO C85 offre una presa comoda e una maneggevolezza semplice, ideale per chi viaggia.
+- 【Batteria potente da 6000mAh (typ), Presetazioni della batteria di nuova generazione】POCO C85 è dotato di una batteria potente da 6.000 mAh, racchiusa in un corpo elegante. Potenza di lunga durata e prestazioni straordinarie.
 - 【Processore octa-core, Affidabile e stabile】Basato su MediaTek Helio G81-Ultra, POCO C85 offre prestazioni fluide per le app quotidiane, il multitasking e i giochi. È efficiente, reattivo e a basso consumo di batteria.
 - 【Doppia fotocamera AI da 50MP, Modalità Ultra HD Scopri dettagli nitidi】Si adatta a diversi scenari di ripresa, catturando texture ricche e luci e ombre realistiche, per immortalare con facilità i momenti più belli.
 

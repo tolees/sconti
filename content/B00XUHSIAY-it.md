@@ -29,11 +29,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - FORNO BONOMI è un brand dal carattere autentico, determinato e in sintonia con il territorio e le persone, definita da valori sani e genuini, quelli da cui prendono forma i nostri migliori prodotti
-- in SINTONIA con il TERRITORIO; biscotti prodotti con ingredienti di qualità
-- NUOVA CONFEZIONE. La confezione è cambiata, ma il gusto e le tradizioni sono gli stessi di sempre.
-- FEDERAZIONE ITALIANA CUOCHI ha scelto e approvato unicamente i nostri biscotti savoiardi
 - LENTA COTTURA; i nostri biscotti vengono confezionati ancora caldi per garantirvi sempre un piacevole snack dalla massima fragranza
 - per GLI AMANTI del BUON CIBO e delle TRADIZIONI; ideali per la preparazione di un tiramisù originale o per una colazione a base di biscotti
+- FEDERAZIONE ITALIANA CUOCHI ha scelto e approvato unicamente i nostri biscotti savoiardi
+- NUOVA CONFEZIONE. La confezione è cambiata, ma il gusto e le tradizioni sono gli stessi di sempre.
+- in SINTONIA con il TERRITORIO; biscotti prodotti con ingredienti di qualità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00XUHSIAY{{</world>}}

@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - MACCHINA DEL CAFFE’ ESPRESSO MANUALE ICONA VINTAGE dalla finitura azzurro con dettagli cromati e caldaia in acciaio inox per una lunga durata; Unisce tradizione italiana nel caffè espresso e la semplicità di utilizzo; fai emergere la tua natura da barista: dai caffè espresso, ai caffelatte, ai Cappuccini, De’Longhi renderà l’esperienza ogni volta facile e semplice
-- FACILE DA USARE: con una sola manopola si accede a tutte le funzioni: accendere/spegnere, preparare espresso o cappuccino; FACILE DA PULIRE: serbatoio d’acqua da 1,4L trasparente ed estraibile per agevolare il riempimento e la pulizia; vassoio raccogli gocce smontabile; scaldatazze
+- SPEGNIMENTO AUTOMATICO: dopo 9 minuti di inutilizzo si spegne automaticamente risparmiando energia
 - PORTA FILTRO: La macchina del caffè espresso De’Longhi è dotata di un porta filtro solido e robusto, con dispositivo crema per preparare deliziosi caffè sia con caffè macinato che in cialde; Compatibile con le cialde E.S.E
 - CAPPUCCINO SYSTEM: puoi miscelare manualmente vapore e latte per creare la densità ottimale della schiuma per la tua bevanda al latte preferita; regola il vapore e prepara una schiuma ricca e cremosa
-- SPEGNIMENTO AUTOMATICO: dopo 9 minuti di inutilizzo si spegne automaticamente risparmiando energia
+- FACILE DA USARE: con una sola manopola si accede a tutte le funzioni: accendere/spegnere, preparare espresso o cappuccino; FACILE DA PULIRE: serbatoio d’acqua da 1,4L trasparente ed estraibile per agevolare il riempimento e la pulizia; vassoio raccogli gocce smontabile; scaldatazze
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00S4U4W4I{{</world>}}

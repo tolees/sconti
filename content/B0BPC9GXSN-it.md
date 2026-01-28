@@ -29,10 +29,10 @@ average: '28.13'
 ℹ️:
 
 - Laction figure da costruire di Batman è dotata di articolazioni mobili per spalle, braccia, fianchi e gambe, e include il caratteristico mantello del personaggio, realizzato in tessuto
-- Alta oltre 26 cm, questa action figure multiarticolata e portatile di Batman consente ai piccoli supereroi di portare ovunque le proprie avventure
 - Questo giocattolo di Batman LEGO DC, tratto dal film del 1989, è una perfetta idea regalo di compleanno per bambini e bambine da 8 anni in su, ideale per ampliare una collezione di supereroi LEGO
-- Un classico dei supereroi dazione attende i fan di DC da 8 anni in su, con laction figure LEGO di Batman basata sul film Batman del 1989, ricca di dettagli e completamente snodabile
+- Alta oltre 26 cm, questa action figure multiarticolata e portatile di Batman consente ai piccoli supereroi di portare ovunque le proprie avventure
 - Il personaggio del cavaliere di Gotham può essere facilmente messo in posa, consentendo ai bambini di ricreare le scene preferite del film e di dar vita a infinite storie con la fantasia
+- Un classico dei supereroi dazione attende i fan di DC da 8 anni in su, con laction figure LEGO di Batman basata sul film Batman del 1989, ricca di dettagli e completamente snodabile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BPC9GXSN{{</world>}}

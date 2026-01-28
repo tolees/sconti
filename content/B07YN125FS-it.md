@@ -28,11 +28,11 @@ average: '71.27'
 
 ℹ️:
 
-- COVERS 144 SQ FT: Each tile measures 24 in x 24 in x ½ in - thick from the highest point of the texture; Includes 36 tiles with end borders for a polished look. Care: Apply warm water and dish soap with a soft cloth or towel and air dry
-- PROTECTIVE GYM FLOOR MAT: Durable, non-skid gym flooring for home gym that covers and protects your floor or carpet while creating a comfortable workout room or play mat
-- EASY ASSEMBLY: Lightweight interlocking foam floor mats connect easily, and can be disassembled just as fast for quick storage of your home gym equipment; Foam may compress slightly under heavy objects causing minor surface variation
-- HIGH QUALITY FOAM: High-density EVA foam mat provides excellent support and cushion; Contains NO toxic phthalates; Excellent alternative to rubber gym mats; Color and texture may vary slightly by production batch
 - VERSATILE: The water-resistant, noise-reducing design is easy to clean, great for indoor purposes including your garage floor mat, carpet tiles protector, gyms, a home fitness room, and more; Best results on flat, hard surfaces
+- HIGH QUALITY FOAM: High-density EVA foam mat provides excellent support and cushion; Contains NO toxic phthalates; Excellent alternative to rubber gym mats; Color and texture may vary slightly by production batch
+- PROTECTIVE GYM FLOOR MAT: Durable, non-skid gym flooring for home gym that covers and protects your floor or carpet while creating a comfortable workout room or play mat
+- COVERS 144 SQ FT: Each tile measures 24 in x 24 in x ½ in - thick from the highest point of the texture; Includes 36 tiles with end borders for a polished look. Care: Apply warm water and dish soap with a soft cloth or towel and air dry
+- EASY ASSEMBLY: Lightweight interlocking foam floor mats connect easily, and can be disassembled just as fast for quick storage of your home gym equipment; Foam may compress slightly under heavy objects causing minor surface variation
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07YN125FS{{</world>}}

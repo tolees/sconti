@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Lobiettivo del gioco è scartare tutte le carte della propria mano ed essere il primo giocatore o la prima squadra a totalizzare 500 punti.
 - Altre carte azione includono le classiche Salto, Inverti, Pesca 2, Jolly e Jolly Pesca 4.
+- Ora puoi giocare a UNO in compagnia dei tuoi personaggi di Harry Potter preferiti! Il gioco è lo stesso del classico UNO, ma con le immagini di Hermione, Harry, Ron e degli altri personaggi del magico mondo di Harry Potter!
 - Con la carta Cappello Parlante, puoi scegliere un altro giocatore e farlo continuare a pescare le carte fino a quando non trova la carta Grifondoro!
 - Un magnifico regalo per i fan di Harry Potter, dai 7 anni in su. Contiene 112 carte e le istruzioni. I colori e le decorazioni possono variare.
-- Ora puoi giocare a UNO in compagnia dei tuoi personaggi di Harry Potter preferiti! Il gioco è lo stesso del classico UNO, ma con le immagini di Hermione, Harry, Ron e degli altri personaggi del magico mondo di Harry Potter!
+- Lobiettivo del gioco è scartare tutte le carte della propria mano ed essere il primo giocatore o la prima squadra a totalizzare 500 punti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B079KJLDF2{{</world>}}

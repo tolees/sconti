@@ -29,13 +29,13 @@ average: '12.39'
 ℹ️:
 
 - Prodotto 2: Applicazione semplice – La colla per plastica e molti altri materiali è dotata di un applicatore a pennellino per incollaggi semplici e precisi, oltre che duraturi. Mai più dita incollate!
-- Prodotto 2: Tripla resistenza – La colla attaccatutto forte Super Attak è facile da usare e ha una tripla resistenza: resiste alle alte temperature, allacqua e agli shock da urto
-- Prodotto 1: Incollatutto – La colla liquida trasparente è adatta a incollare diversi materiali: gomma, metallo, ceramica, legno, cuoio, pelle e vari tipi di plastica (tranne PE, PP, PTFE)
-- Prodotto 1: Incollaggi multipli – Ripara più volte grazie a questa super colla per plastica in formato 8g con beccuccio extra lungo per applicazioni sempre precise. Mai più senza!
-- Prodotto 2: Multi-materiale – Super Attak Brush è ideale come colla legno, colla metallo, colla per gomma, ceramica, alluminio, porcellana, pelle e plastica (tranne PE, PP, PTFE)
-- Prodotto 2: Lunga durata – Loctite Super Attak Brush è la colla trasparente che non si secca grazie alla pratica chiusura, permettendo incollaggi multipli per diverse occasioni
-- Prodotto 1: Ottimo design – La colla per legno e altri materiali è dotata di un beccuccio extra-lungo creato appositamente per garantire applicazioni precise, anche per superfici difficili da raggiungere
 - Prodotto 1: Durevole – La colla forte per tutto Super Attak combina la tecnologia del cianoacrilato per offrire una tripla resistenza: resiste ad acqua, shock e temperature estreme
+- Prodotto 1: Ottimo design – La colla per legno e altri materiali è dotata di un beccuccio extra-lungo creato appositamente per garantire applicazioni precise, anche per superfici difficili da raggiungere
+- Prodotto 1: Incollatutto – La colla liquida trasparente è adatta a incollare diversi materiali: gomma, metallo, ceramica, legno, cuoio, pelle e vari tipi di plastica (tranne PE, PP, PTFE)
+- Prodotto 2: Tripla resistenza – La colla attaccatutto forte Super Attak è facile da usare e ha una tripla resistenza: resiste alle alte temperature, allacqua e agli shock da urto
+- Prodotto 2: Lunga durata – Loctite Super Attak Brush è la colla trasparente che non si secca grazie alla pratica chiusura, permettendo incollaggi multipli per diverse occasioni
+- Prodotto 2: Multi-materiale – Super Attak Brush è ideale come colla legno, colla metallo, colla per gomma, ceramica, alluminio, porcellana, pelle e plastica (tranne PE, PP, PTFE)
+- Prodotto 1: Incollaggi multipli – Ripara più volte grazie a questa super colla per plastica in formato 8g con beccuccio extra lungo per applicazioni sempre precise. Mai più senza!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C2CVKY5W{{</world>}}

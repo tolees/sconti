@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - GUIDA TAGLIE: fitting overall, vestibilità regular. Modello unisex, pensato sia come tuta moto donna che come antipioggia moto uomo. Taglie disponibili dalla 2XS alla 5XL. Per la scelta della taglia corretta si rimanda alla tabella taglie visibile nella sezione immagini di questa scheda.
+- Sovrapantalone 100% poliestere con spalmatura a elevata colonna d’acqua.
 - Pantalone con imbottitura termica e cuciture nastrate. Inserti rifrangenti per la massima visibilità in condizioni di bassa luminosità.
 - Cerniera laterale con trappola impermeabile, apribile su tutta la lunghezza della gamba fino in vita. Regolazione alle caviglie.
-- Sovrapantalone 100% poliestere con spalmatura a elevata colonna d’acqua.
 - TUCANO URBANO, IN MOTO SEMPRE IN MOTO: rende da decenni la vita più semplice, più sicura e più coinvolgente per chi si sposta in città. Con ogni mezzo, con ogni clima, sempre e comunque con stile. Nato a Milano alla fine degli anni 90, TUCANO URBANO è il brand di abbigliamento, caschi moto jet e accessori ciclo, moto e scooter urban contemporary specifici per la mobilità urbana.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '9.99'
 
 ℹ️:
 
-- Mousse labbra idratante, che dura fino a otto ore
+- Formula cremosa e allo stesso tempo opaca
 - Morbido applicatore
 - Prodotto di ottima qualità
-- Formula cremosa e allo stesso tempo opaca
+- Mousse labbra idratante, che dura fino a otto ore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07GDJS9YW{{</world>}}

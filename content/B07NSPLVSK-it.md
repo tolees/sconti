@@ -28,11 +28,11 @@ average: '5.39'
 
 ℹ️:
 
-- Per il collegamento di dispositivi atipici
-- Baud rate: alta velocità 480 Mbit/s
-- Doppia schermatura, materiale conduttore: rame AWG28, custodia stampata, colore: grigio, lunghezza: 5 m
-- Cavo di collegamento ad alta velocità da USB tipo A a USB tipo A (USB 2.0, 480 Mbit/s)
 - Connessioni: USB 2.0 tipo A maschio / USB 2.0 tipo A maschio
+- Per il collegamento di dispositivi atipici
+- Cavo di collegamento ad alta velocità da USB tipo A a USB tipo A (USB 2.0, 480 Mbit/s)
+- Doppia schermatura, materiale conduttore: rame AWG28, custodia stampata, colore: grigio, lunghezza: 5 m
+- Baud rate: alta velocità 480 Mbit/s
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07NSPLVSK{{</world>}}

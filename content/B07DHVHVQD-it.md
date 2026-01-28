@@ -28,11 +28,11 @@ average: '17.674'
 
 ℹ️:
 
-- Ogni fragranza è stata accuratamente selezionata e testata per diffondere un profumo a lunga durata in tutta la stanza
-- La miscela di cere di qualità premium produce una meravigliosa fiamma senza residui
-- Mentre brucia, lo stoppino in legno brevettato delle candele Pluswick Innovation scoppietta per ricreare una sofisticata atmosfera che ricorda il camino
 - La nostra caratteristica fragranza, che regala un equilibrio di note ispirate all’ambra, al vetiver e al muschio per catturare alla perfezione l’essenza di una avvolgente serata davanti al calore del camino.
 - La forma a clessidra del vaso crea un’apertura più ampia per lo scioglimento completo della cera, diffondendo in modo costante la fragranza
+- La miscela di cere di qualità premium produce una meravigliosa fiamma senza residui
+- Mentre brucia, lo stoppino in legno brevettato delle candele Pluswick Innovation scoppietta per ricreare una sofisticata atmosfera che ricorda il camino
+- Ogni fragranza è stata accuratamente selezionata e testata per diffondere un profumo a lunga durata in tutta la stanza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07DHVHVQD{{</world>}}

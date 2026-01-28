@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Full colour instructions included
 - Sluban 055 DESTROYER 1:450
-- 617 pieces
-- Fully compatible
+- Full colour instructions included
 - children 3+
+- Fully compatible
+- 617 pieces
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07TY1T4XJ{{</world>}}

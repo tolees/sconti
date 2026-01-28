@@ -28,10 +28,10 @@ average: '1.89'
 
 ℹ️:
 
-- Sgombro grigliato* e preparato con olio di oliva, per preservarne il sapore e le proprietà nutrizionali. Ricco di Omega 3. *La grigliatura è una delle fasi del processo di cottura.
-- Sgombri di altissima qualità pescati in mare aperto e lavorati a mano uno ad uno entro poche ore dalla pesca.
-- Ideali come ingrediente per insalate, primi e secondi piatti, per chi ama cibi sani e genuini.
 - Garanzia di totale tracciabilità del prodotto e rispetto di altissimi standard qualitativi in materia di sicurezza alimentare. Confezione 100% riciclabile.
+- Sgombro grigliato* e preparato con olio di oliva, per preservarne il sapore e le proprietà nutrizionali. Ricco di Omega 3. *La grigliatura è una delle fasi del processo di cottura.
+- Ideali come ingrediente per insalate, primi e secondi piatti, per chi ama cibi sani e genuini.
+- Sgombri di altissima qualità pescati in mare aperto e lavorati a mano uno ad uno entro poche ore dalla pesca.
 - DELICIUS, PARMA DAL 1974 - Azienda leader nel settore delle conserve di pesce, da oltre 40 anni offre prodotti di alta qualità realizzati con la passione e lesperienza di chi il mare lo conosce davvero. Se senti il mare, è Delicius.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

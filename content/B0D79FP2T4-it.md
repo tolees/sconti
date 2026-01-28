@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Materiale esterno: 100% tessuto (100% PET riciclato)
-- Fodera: 63% pelle di maiale - 37% tessuto (100% poliestere riciclato)
 - Suola: 80% EVA - 20% EVA riciclata
 - Colore: verde medio
+- Fodera: 63% pelle di maiale - 37% tessuto (100% poliestere riciclato)
+- Materiale esterno: 100% tessuto (100% PET riciclato)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D79FP2T4{{</world>}}

@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- TESSUTO E LAVAGGIO: data la natura delicata del tessuto in viscosa, lavare in acqua fredda e asciugare allaria per evitare il restringimento e le pieghe causate dal calore. Per un aspetto più raffinato, stirare delicatamente o passare al vapore secondo necessità.
-- LUNGHEZZA: misura 98 cm dal lato del collo su una taglia S americana, e scende circa fino al ginocchio.
 - DETTAGLI: vanta un classico colletto a camicia, una semplice chiusura frontale a bottoni, un elastico in vita e un lusinghiero orlo svasato per maggiore movimento e drappeggio.
-- VESTIBILITÀ RILASSATA: progettato con un vestibilità rilassata e confortevole su tutto il corpo.
 - TWILL LEGGERO DRAPPEGGIATO: realizzato al 100% in viscosa, questo tessuto non elasticizzato è estremamente traspirante e leggero. Vanta un bellissimo drappeggio e una finitura morbida e liscia, ed è comodo da indossare tutto lanno.
 - ABITO A CAMICIA SENZA MANICHE: un abito elegante e comodo per tutti i giorni. Abbinalo alle tue sneaker preferite per un look casual e informale o con un paio di sandali per un aspetto estivo, fresco e disinvolto.
+- VESTIBILITÀ RILASSATA: progettato con un vestibilità rilassata e confortevole su tutto il corpo.
+- LUNGHEZZA: misura 98 cm dal lato del collo su una taglia S americana, e scende circa fino al ginocchio.
+- TESSUTO E LAVAGGIO: data la natura delicata del tessuto in viscosa, lavare in acqua fredda e asciugare allaria per evitare il restringimento e le pieghe causate dal calore. Per un aspetto più raffinato, stirare delicatamente o passare al vapore secondo necessità.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B082ZTM2SS{{</world>}}

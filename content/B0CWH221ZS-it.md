@@ -28,12 +28,12 @@ average: '30.49'
 
 ℹ️:
 
-- 4 minifigure dei personaggi LEGO Star Wars: The Mandalorian da collezione: il set comprende le action figure di Paz Vizsla, Moff Gideon e 2 Guardie Pretoriane imperiali per tanti giochi creativi
-- Un grande aiuto: utilizzando l’app LEGO Builder, i bambini possono ingrandire, ruotare e visualizzare una versione digitale di questo modello mentre costruiscono, tenendo traccia dei progressi e salvando i set
-- Idea regalo fantasy di Star Wars: The Mandalorian per bambini da 7 anni in su: regala questo gioco LEGO Star Wars in mattoncini per il compleanno o per le festività, ai bambini creativi e a qualsiasi giovane fan di Star Wars: The Mandalorian
-- Accessori divertenti: sono inclusi un blaster pesante in mattoncini per Paz Vizsla, un jetpack per Moff Gideon, armi per le guardie pretoriane, oltre a una scatola contenente un elemento detonatore termico
 - Set di giochi LEGO Star Wars: The Mandalorian per bambini: rivivi il drammatico confronto della terza stagione di Star Wars: The Mandalorian con il set di giochi per bambini e bambine da 7 anni in su, la Battaglia tra Paz Vizsla e Moff Gideon
+- Idea regalo fantasy di Star Wars: The Mandalorian per bambini da 7 anni in su: regala questo gioco LEGO Star Wars in mattoncini per il compleanno o per le festività, ai bambini creativi e a qualsiasi giovane fan di Star Wars: The Mandalorian
+- Un grande aiuto: utilizzando l’app LEGO Builder, i bambini possono ingrandire, ruotare e visualizzare una versione digitale di questo modello mentre costruiscono, tenendo traccia dei progressi e salvando i set
 - Giochi davventura Star Wars costruibile: la base mandaloriana di questo set è dotata di una porta pesantemente corazzata con meccanismo a chiusura rapida, di pannelli di controllo e di una torretta rotante spara-bottoncini
+- Accessori divertenti: sono inclusi un blaster pesante in mattoncini per Paz Vizsla, un jetpack per Moff Gideon, armi per le guardie pretoriane, oltre a una scatola contenente un elemento detonatore termico
+- 4 minifigure dei personaggi LEGO Star Wars: The Mandalorian da collezione: il set comprende le action figure di Paz Vizsla, Moff Gideon e 2 Guardie Pretoriane imperiali per tanti giochi creativi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CWH221ZS{{</world>}}

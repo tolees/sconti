@@ -28,11 +28,11 @@ average: '29.5'
 
 ℹ️:
 
+- Odour control system: le naturali proprietà dell’estratto di yucca contribuiscono a ridurre l’odore delle feci, aiutando a limitare le fermentazioni proteiche intestinali
 - Natural trainer adult mini è prodotto con pollo fresco e riso, con i benefici della yucca e dell’alga spirulina come ingredienti funzionali; un alimento ideale per prendervi cura del vostro cane di taglia mini
 - Vitality support: la naturale azione rivitalizzante e rigenerante dei principi nutritivi dell’alga spirulina, che insieme con le proteine, minerali e vitamine, aiutano a supportare la vitalità dell’organismo
-- Odour control system: le naturali proprietà dell’estratto di yucca contribuiscono a ridurre l’odore delle feci, aiutando a limitare le fermentazioni proteiche intestinali
-- Oral care: la forma speciale di vitamina c aiuta a prevenire la formazione di tartaro e alito cattivo
 - Con carne fresca italiana: favorisce il regolare mantenimento della muscolatura del tuo cane, conferendo appetibilità ed elevata digeribilità grazie al valore nutrizionale della carne fresca di pollo e tacchino 100% italiana, disossata e non congelata
+- Oral care: la forma speciale di vitamina c aiuta a prevenire la formazione di tartaro e alito cattivo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0745YYKVP{{</world>}}

@@ -28,8 +28,8 @@ average: '67.38'
 
 ℹ️:
 
-- Grazie al display a LED con retroilluminazione bianca la temperatura impostata può essere letta con facilità; il contenuto del display viene visualizzato durante il funzionamento e può essere ruotato verso sinistra o destra in base alla posizione di montaggio; grazie al design minimale ed elegante della scatola esterna questo termostato per radiatori si abbina a tutti gli ambienti della casa
 - I profili di temperatura personalizzati possono essere facilmente configurati tramite una app – con la possibilità di impostare fino a 3 profili di riscaldamento e 13 variazioni al giorno; così il riscaldamento si attiva solo se è necessario; le finestre e le porte aperte sono riconosciute da un sensore che ne rileva lapertura o con ottima precisione se collegate a un dispositivo Homematic IP Contatto per Finestre e Porta; in questo modo la temperatura del riscaldamento si abbassa automaticamente e non si spreca energia
+- Grazie al display a LED con retroilluminazione bianca la temperatura impostata può essere letta con facilità; il contenuto del display viene visualizzato durante il funzionamento e può essere ruotato verso sinistra o destra in base alla posizione di montaggio; grazie al design minimale ed elegante della scatola esterna questo termostato per radiatori si abbina a tutti gli ambienti della casa
 - Indesiderato tramite app
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ average: '46.99'
 
 ℹ️:
 
-- Punta arrotondata
 - Comfort
+- Punta arrotondata
 - Suola flessibile di trazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

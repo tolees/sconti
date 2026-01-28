@@ -28,8 +28,8 @@ average: '122.0'
 
 ℹ️:
 
-- Display Eye Comfort a 120 Hz: 6.67" il display supporta fino a un massimo di 120 Hz, offrendo unesperienza visiva fluida. Abbinato a 10 strategie di protezione degli occhi, si prende cura della salute dei tuoi occhi per tutto il giorno.
 - Efficienza di 6 GB + 12 GB di RAM: fornisce un passaggio fluido tra più app e mantiene attive fino a 17 app in background. Con 128 GB di spazio di archiviazione e 2 TB di spazio di espansione, puoi dire addio allo spazio di archiviazione in esaurimento.
+- Display Eye Comfort a 120 Hz: 6.67" il display supporta fino a un massimo di 120 Hz, offrendo unesperienza visiva fluida. Abbinato a 10 strategie di protezione degli occhi, si prende cura della salute dei tuoi occhi per tutto il giorno.
 - Chipset Dimensity 6300 5G: il potente chipset 5G, con processo avanzato da 6 nm, offre sia prestazioni elevate che un segnale 5G più veloce e più efficiente dal punto di vista energetico, raggiungendo fino a 3,3 Gb/s di downlink 5G. Goditi unesperienza fluida senza preoccuparti del ritardo.
 - Batteria a lunga durata da 5000 mAh: dotato di una massiccia batteria da 5000 mAh, il telefono può durare fino a 2 giorni quando è completamente carico e in modalità DOU. Con una batteria che dura quattro anni, il dispositivo mantiene oltre l80% di salute.
 - IP69 Waterproof: realme 14x ha protezione da spruzzi dacqua ad alta pressione e temperatura. Con SonicWave Water Ejection, il telefono utilizza la vibrazione dellaltoparlante per scaricare lacqua in eccesso, fornendo una soluzione senza preoccupazioni allaccumulo di acqua imprevisto.
