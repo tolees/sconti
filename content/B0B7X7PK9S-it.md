@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'SteelSeries Arctis Nova 1 - Cuffie da gaming multisistema - Driver Hi-Fi - Audio spaziale a 360° - Cuscinetti auricolari in memory foam - Ultra leggere - PC PS5 PS4 Switch Xbox - Nero'
+date: 2025-12-26 18:58:28
+image: 'https://m.media-amazon.com/images/I/41Kt-zgiDsL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0B7X7PK9S-it SteelSeries Arctis Nova 1 - Cuffie da gaming multisistema...'
+sku: 'B0B7X7PK9S-it'
+tags: [ '4fc48982-1533-4f34-b83d-7260b28c9fff_0','4fc48982-1533-4f34-b83d-7260b28c9fff_8201','4fc48982-1533-4f34-b83d-7260b28c9fff_9501','4fc48982-1533-4f34-b83d-7260b28c9fff_9701','Accessori di gioco per PC','Accessori gaming','Accessori per Nintendo Switch','Arborist Merchandising Root','CML-Gaming','Componenti PC gaming','Cuffie gaming per Nintendo Switch','Cuffie gaming per PC','Dragon Quest Builders','Elettronica','Giochi e accessori per PC','Giochi, console e accessori per Nintendo Switch','I prodotti più amati dai nostri clienti: Elettronica','Informatica','Monitors','PC Accessori','Pre-ordini di Videogiochi','Self Service','Special Features Stores','Tennis World Tour','Top Brands Headphones Selection','Top brands in Electronics','Videogiochi','b7ae1c52-e027-4490-992d-f30d67f9fe70_0','b7ae1c52-e027-4490-992d-f30d67f9fe70_201','b7ae1c52-e027-4490-992d-f30d67f9fe70_4401','b7ae1c52-e027-4490-992d-f30d67f9fe70_6501','d3117859-d259-46cc-99fa-0d9c70adffdd_0','d3117859-d259-46cc-99fa-0d9c70adffdd_5701','d3117859-d259-46cc-99fa-0d9c70adffdd_6301','d3117859-d259-46cc-99fa-0d9c70adffdd_7101','d3117859-d259-46cc-99fa-0d9c70adffdd_8601','steelseries','🇮🇹', ]
+actualPrice: 39.99 EUR
+currency: EUR
+price: 39.99
+comparePrice: 69.99 EUR
+prodname: 'SteelSeries Arctis Nova 1 - Cuffie da gaming multisistema - Driver Hi-Fi - Audio spaziale a 360° - Cuscinetti auricolari in memory foam - Ultra leggere - PC PS5 PS4 Switch Xbox - Nero'
+country: 'it'
+flag: '🇮🇹'
+brand: 'SteelSeries'
+buyurl: 'https://www.amazon.it/dp/B0B7X7PK9S/?tag=tolees00-21'
+descuento: '42.86'
+average: '44.99'
+---
+
+[{{< param title >}}]({{< param buyurl >}}) qui:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Microfono a cancellazione di rumore - Il microfono ClearCast Gen 2 silenzia i rumori di fondo fino a 25 dB su qualsiasi piattaforma per offrire comunicazioni cristalline. Il microfono rientra completamente nel padiglione per un look più elegante.
+- Audio spaziale a 360° - Il suono surround immersivo ti trasporta nel mondo del gaming, permettendoti di sentire ogni passo, ricarica o indizio vocale per avvantaggiarti nel gioco. *Compatibilità completa con Tempest 3D Audio per PS5 / Microsoft Spatial Sound
+- Supporto multipiattaforma - Si collegano facilmente a qualsiasi console di gioco con un jack da 3,5 mm, ad es. PC, Mac, PlayStation, Xbox o Switch. Perfettamente adatte anche ai dispositivi mobili.
+- Regolabili per una vestibilità perfetta - Il ComfortMAX System comprende padiglioni rotanti e regolabili in altezza con cuscinetti in memory foam AirWeave e una fascia elastica. La struttura leggera delle cuffie garantisce il massimo comfort, indipendentemente dalla durata del gioco. Con cavo audio da 1.2m e estensione da 1.5m
+
+[🛒 Acquista qui!!]({{< param buyurl >}})
+{{<world>}}B0B7X7PK9S{{</world>}}
