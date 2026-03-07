@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'Redmi A5 Smartphone 4+128GB Verde dual camera con AI da 32MP ampia batteria da 5200mAh typ potente processore octa-core display immersivo da 6 88" a 120Hz caricatore non incluso'
+date: 2026-03-06 20:07:34
+image: 'https://m.media-amazon.com/images/I/41020nfy-hL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0F1G9N37B-it Redmi A5 Smartphone 4+128GB Verde dual camera con AI da...'
+sku: 'B0F1G9N37B-it'
+tags: [ '🇮🇹', ]
+actualPrice: 76.99 EUR
+currency: EUR
+price: 76.99
+comparePrice: 95.99 EUR
+prodname: 'Redmi A5 Smartphone 4+128GB Verde dual camera con AI da 32MP ampia batteria da 5200mAh typ potente processore octa-core display immersivo da 6 88" a 120Hz caricatore non incluso'
+country: 'it'
+flag: '🇮🇹'
+brand: ''
+buyurl: 'https://www.amazon.it/dp/B0F1G9N37B/?tag=tolees00-21'
+descuento: '19.79'
+average: '76.99'
+---
+
+[{{< param title >}}]({{< param buyurl >}}) qui:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- [Display con elevata frequenza di aggiornamento da 6,88"): unesperienza più fluida e immersiva. Immergiti in film, libri e documenti grazie allampio display. Supporta una frequenza di aggiornamento adattiva fino a 120Hz.
+- [Batteria a lunga durata da 5200mAh (typ)] La capacità estremamente elevata della batteria rende il dispositivo ideale per leggere e guardare video per molto tempo senza preoccuparsi di rimanere senza batteria.
+- [32MP super-clear images] AI all-around dual camera.A new AI dual-camera imaging system for clearer images and an enhanced photography experience.
+- [Design rinnovato] Aspetto migliorato. Unelegante cornice piatta con un design della fotocamera diverso che restituisce un aspetto tanto moderno quanto funzionale.
+
+[🛒 Acquista qui!!]({{< param buyurl >}})
+{{<world>}}B0F1G9N37B{{</world>}}
