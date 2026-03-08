@@ -28,11 +28,11 @@ average: '15.3'
 
 ℹ️:
 
-- Formulazione: shampodoccia con estratti di legni pregiati che deterge delicatamente pelle e capelli lasciandoli morbidi e lucenti con scia fresca e ambrata, formula vegana e dermatologicamente testata
-- Confezione Regalo Nero d’Ambra: un’idea energizzante per lui con shampodoccia pelle e capelli e boccale in vetro, profumo intenso con freschezza di agrumi di Sicilia accordi di legni pregiati e calde note ambrate
 - I set regalo Bottega Verde sono ideali per chi ama prendersi cura di sé in modo naturale: la selezione di prodotti Made in Italy riflette limpegno per la qualità e la sostenibilità, offrendo trattamenti di bellezza efficaci e rispettosi dellambiente
 - Formato: 1 shampodoccia Uomo Nero d’Ambra 200 ml, 1 boccale birra in vetro
+- Confezione Regalo Nero d’Ambra: un’idea energizzante per lui con shampodoccia pelle e capelli e boccale in vetro, profumo intenso con freschezza di agrumi di Sicilia accordi di legni pregiati e calde note ambrate
 - Modo d’uso: applicare su pelle bagnata e capelli massaggiando per creare schiuma quindi risciacquare abbondantemente, usare il boccale per le bevande preferite per un brindisi di festa o un momento di relax
+- Formulazione: shampodoccia con estratti di legni pregiati che deterge delicatamente pelle e capelli lasciandoli morbidi e lucenti con scia fresca e ambrata, formula vegana e dermatologicamente testata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FWCZBDN1{{</world>}}

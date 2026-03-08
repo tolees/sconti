@@ -28,14 +28,14 @@ average: '37.9'
 
 ℹ️:
 
-- Tomaia in tessuto
-- Calzata regolare
-- Drop intersuola: 6 mm (tallone 34 mm / avampiede 28 mm)
-- Peso: 278 g (misura 38 2/3)
-- Fodera in tessuto
-- Suola in TPU
 - Intersuola Cloudfoam
+- Calzata regolare
+- Tomaia in tessuto
+- Fodera in tessuto
 - Chiusura con lacci
+- Peso: 278 g (misura 38 2/3)
+- Suola in TPU
+- Drop intersuola: 6 mm (tallone 34 mm / avampiede 28 mm)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CKY41SP7{{</world>}}

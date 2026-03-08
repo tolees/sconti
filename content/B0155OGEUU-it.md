@@ -28,11 +28,11 @@ average: '20.1566666666667'
 
 ℹ️:
 
-- VIGILIA DI NATALE: I tradizionali profumi delle feste: note profumate che richiamano il caminetto acceso, le prugne zuccherate, e la frutta candita.
 - UNA COMBUSTIONE PULITA E UNIFORME: lo stoppino di cotone al 100% in fibra naturale è raddrizzato e centrato
-- AROMA CHE RIEMPIE LAMBIENTE: Gli ingredienti autentici e la cera di prima qualità garantiscono una fragranza costante e duratura.
-- DESIGN SENZA TEMPO: contenuto nel classico barattolo di vetro con coperchio per preservare la fragranza; etichetta rimovibile per un look personalizzato
 - CANDELE A LUNGA DURATA: fino a 150 ore; 17 cm di altezza x 10 cm di larghezza (623 g)
+- DESIGN SENZA TEMPO: contenuto nel classico barattolo di vetro con coperchio per preservare la fragranza; etichetta rimovibile per un look personalizzato
+- VIGILIA DI NATALE: I tradizionali profumi delle feste: note profumate che richiamano il caminetto acceso, le prugne zuccherate, e la frutta candita.
+- AROMA CHE RIEMPIE LAMBIENTE: Gli ingredienti autentici e la cera di prima qualità garantiscono una fragranza costante e duratura.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0155OGEUU{{</world>}}

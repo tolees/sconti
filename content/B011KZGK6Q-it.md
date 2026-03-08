@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dimensioni: altezza 130 cm (la catena della lampada è accorciabile), diametro: 70 cm
-- Le lampadine a LED non sono incluse nella confezione e sono disponibili separatamente sotto Eglo 11497
-- La lampada a sospensione decorativa in acciaio cromato con bracci ricurvi in vetro bianco e cristalli di vetro scintillanti si integra con le tendenze come vintage e shabby chic
 - Adatto per qualsiasi lampadina con attacco E14. massimo 40 Watt per attacco; dimmerabile a seconda della lampadina utilizzata
+- La lampada a sospensione decorativa in acciaio cromato con bracci ricurvi in vetro bianco e cristalli di vetro scintillanti si integra con le tendenze come vintage e shabby chic
 - La lampada a sospensione con il suo particolare design è un punto forte in ogni stanza, sia in cucina, in soggiorno o in sala da pranzo sopra il tavolo da pranzo
+- Le lampadine a LED non sono incluse nella confezione e sono disponibili separatamente sotto Eglo 11497
+- Dimensioni: altezza 130 cm (la catena della lampada è accorciabile), diametro: 70 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B011KZGK6Q{{</world>}}

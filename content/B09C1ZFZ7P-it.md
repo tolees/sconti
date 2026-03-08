@@ -28,11 +28,11 @@ average: '38.155'
 
 ℹ️:
 
+- Prosecco Frattina: vino spumante brut dal colore giallo paglierino e riflessi verdi, rilascia al palato un gusto armonico e fresco
+- Campari: aperitivo alcolico italiano ottimale come base per il classico e contemporaneo Spritz, dallaroma intenso, piacevole gusto amaro e dal colore rosso vibrante
+- Vivi la Red Passion: accendi la fotocamera del telefono, inquadra il QR code e richiudi il kit per vivere unesperienza immersiva nel mondo del cinema Red Passion e delle sue arti; solo con Campari Red Cinema
 - Contenuto: esclusivo set regalo contenente 1 bottiglia di Campari 70 cl, 1 bottiglia di Prosecco Frattina da 70 cl, 2 bottiglie di soda Thomas Henry e 2 calici Campari Spritz
 - Kit Campari Spritz: ottimale da regalare per le occasioni speciali, contiene tutto il necessario per realizzare un ottimo Campari Spritz a casa da degustare negli esclusivi calici in dotazione
-- Campari: aperitivo alcolico italiano ottimale come base per il classico e contemporaneo Spritz, dallaroma intenso, piacevole gusto amaro e dal colore rosso vibrante
-- Prosecco Frattina: vino spumante brut dal colore giallo paglierino e riflessi verdi, rilascia al palato un gusto armonico e fresco
-- Vivi la Red Passion: accendi la fotocamera del telefono, inquadra il QR code e richiudi il kit per vivere unesperienza immersiva nel mondo del cinema Red Passion e delle sue arti; solo con Campari Red Cinema
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09C1ZFZ7P{{</world>}}

@@ -28,10 +28,10 @@ average: '24.99'
 
 ℹ️:
 
-- Esplora un vasto mondo attraversato da autostrade dimenticate, fatto di terre selvagge e città in rovina
 - Inclusa in-pack l’esclusiva copertina reversibile
-- Oltre 140 nemici! 30 epici boss! Affronta feroci bestie e sconfiggi antichi cavalieri
+- Esplora un vasto mondo attraversato da autostrade dimenticate, fatto di terre selvagge e città in rovina
 - Include tutti i DLC/Espansioni del gioco rilasciati fino ad oggi con nuovi personaggi e combattimenti;
+- Oltre 140 nemici! 30 epici boss! Affronta feroci bestie e sconfiggi antichi cavalieri
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07TDFZ67V{{</world>}}

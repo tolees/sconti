@@ -28,12 +28,12 @@ average: '32.5'
 
 ℹ️:
 
-- Chiusura con lacci
 - Iconica silhouette con punta a T
-- Suola in gomma
-- Fodera in tessuto
-- Calzata regolare
 - Tomaia in materiale sintetico e suede
+- Suola in gomma
+- Chiusura con lacci
+- Calzata regolare
+- Fodera in tessuto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DK6Q7MSJ{{</world>}}

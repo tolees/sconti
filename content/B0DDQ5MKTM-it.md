@@ -28,10 +28,10 @@ average: '17.8'
 
 ℹ️:
 
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
-- Integratore alimentare a base di Vitamina B12, B6 e Zinco
 - Integratore alimentare Senza Glutine
 - 15 flaconcini per confezione al gusto lampone
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
+- Integratore alimentare a base di Vitamina B12, B6 e Zinco
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DDQ5MKTM{{</world>}}

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Temperatura 30-200°C con incrementi di 5°C, 1700 W con cavo lungo 90 cm
-- Indicatore di aggiunta cibo per assistere quando si impostano i cassetti su tempi di cottura diversi: il ciclo metterà in pausa il primo cassetto al momento opportuno e indicherà di aggiungere cibo al secondo cassetto, prima di continuare il tempo di cottura rimanente. Display digitale touch con LED bianchi
-- 4,25 litri per cestello (x2 = capacità totale 8,5 litri)
 - Due cestelli separati che possono essere utilizzati per cuocere due diversi tipi di cibo contemporaneamente
+- Indicatore di aggiunta cibo per assistere quando si impostano i cassetti su tempi di cottura diversi: il ciclo metterà in pausa il primo cassetto al momento opportuno e indicherà di aggiungere cibo al secondo cassetto, prima di continuare il tempo di cottura rimanente. Display digitale touch con LED bianchi
+- Temperatura 30-200°C con incrementi di 5°C, 1700 W con cavo lungo 90 cm
+- 4,25 litri per cestello (x2 = capacità totale 8,5 litri)
 - 8 programmi preimpostati: patatine fritte, pesce, uova, pollo, cuocere al forno, bistecca, essiccatore, verdure. Promemoria agitazione per gli alimenti che necessitano di essere agitati o girati, possibilità di utilizzare o meno il promemoria.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

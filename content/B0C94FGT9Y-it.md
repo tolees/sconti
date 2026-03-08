@@ -29,9 +29,9 @@ average: '4.01'
 ℹ️:
 
 - punta 0,7 mm
-- roller Energel realizzata con il 96% di materiale riciclato post-consumer ( escluso parti consumabili e/o di ricambio)
-- scrittura ultrascorrevole, asciuga subito, ideale per mancini
 - ricaricabile con refill LR7
+- scrittura ultrascorrevole, asciuga subito, ideale per mancini
+- roller Energel realizzata con il 96% di materiale riciclato post-consumer ( escluso parti consumabili e/o di ricambio)
 - massima precisione nel tratto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

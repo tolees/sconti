@@ -28,10 +28,10 @@ average: '35.0286111111111'
 
 ℹ️:
 
-- Padroneggia nuove tecniche, equipaggiamenti e abilità che potenziano il modo in cui esplori, combatti e ti muovi
 - Esplora una galassia selvaggia: Scopri nuovi pianeti e confini familiari nella galassia di Star Wars, ognuno con biomi, sfide e nemici unici
 - Vai oltre il tuo addestramento: Il sistema di combattimento cinematografico torna con abilità della forza aggiuntive e nuovi stili di combattimento con la spada laser
 - Prosegui il viaggio di Cal: Ormai non più un padawan, Cal è maturato e diventato un potente cavaliere Jedi
+- Padroneggia nuove tecniche, equipaggiamenti e abilità che potenziano il modo in cui esplori, combatti e ti muovi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BLZJ9QSM{{</world>}}

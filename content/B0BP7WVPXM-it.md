@@ -28,9 +28,9 @@ average: '6.99'
 
 ℹ️:
 
-- Confezione da tre paia
-- Lunghezza al polpaccio
 - Orli a coste
+- Lunghezza al polpaccio
+- Confezione da tre paia
 - 75% cotone / 22% poliestere riciclato / 2% elastane / 1% nylon riciclato
 - Ammortizzazione della suola in punta e sul tallone
 

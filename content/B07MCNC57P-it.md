@@ -28,13 +28,13 @@ average: '6.3'
 
 ℹ️:
 
+- BASTANO 3 CUCCHIAI: per un consumo regolare di Lecinova lecitina di soia vi basta aggiungere 3 cucchiai colmi di prodotto, cioè 12 gr, alle vostre preparazioni, la confezione una volta aperta si conserva chiusa in frigo
+- SI ADATTA A OGNI PIATTO: la lecitina di soia Lecinova può essere consumata secondo le proprie preferenze, aggiunta a minestre, impasti, insalate, latte, yogurt e molto altro, per il pieno di benessere in qualsiasi momento della giornata
+- CON SOIA NON OGM: la lecitina di soia Lecinova è realizzata con soia proveniente da agricolture non OGM, per un prodotto naturale e di qualità che soddisfi tutti
 - SENZA GLUTINE: questa lecitina di soia non contiene glutine e può essere quindi consumata anche dalle persone celiache e da chi deve o vuole seguire una dieta gluten free
 - LECITINA DI SOIA: la lecitina di soia è una sostanza che si ottiene dai fagioli della soia e che può avere diversi benefici per lorganismo, grazie ai nutrienti che contiene
-- SI ADATTA A OGNI PIATTO: la lecitina di soia Lecinova può essere consumata secondo le proprie preferenze, aggiunta a minestre, impasti, insalate, latte, yogurt e molto altro, per il pieno di benessere in qualsiasi momento della giornata
-- BASTANO 3 CUCCHIAI: per un consumo regolare di Lecinova lecitina di soia vi basta aggiungere 3 cucchiai colmi di prodotto, cioè 12 gr, alle vostre preparazioni, la confezione una volta aperta si conserva chiusa in frigo
-- SENZA CONTROINDICAZIONI: la lecitina di soia Lecinova della linea colesterolo di Céréal non ha controindicazioni
-- CON SOIA NON OGM: la lecitina di soia Lecinova è realizzata con soia proveniente da agricolture non OGM, per un prodotto naturale e di qualità che soddisfi tutti
 - CON OMEGA 6: la lecitina Lecinova contiene acido linoleico, cioè Omega 6, un acido grasso polinsaturo indispensabile per il benessere dellorganismo
+- SENZA CONTROINDICAZIONI: la lecitina di soia Lecinova della linea colesterolo di Céréal non ha controindicazioni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07MCNC57P{{</world>}}

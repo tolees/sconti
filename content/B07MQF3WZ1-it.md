@@ -28,9 +28,9 @@ average: '18.68'
 
 ℹ️:
 
-- Realizzato con materiali sostenibili
 - Adatto per: situazioni formali
 - Design chic per uneleganza extra
+- Realizzato con materiali sostenibili
 - Blazer del marchio PIECES
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

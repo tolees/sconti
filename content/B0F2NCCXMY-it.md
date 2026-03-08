@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Nuovissimo gioco dazione platform 3D con Donkey Kong
 - Un’avventura di Donkey Kong tutta da demolire
 - Nuovissimo design di Donkey Kong
-- Aiuta il re della giungla a recuperare il suo preziosissimo tesoro rubato, le sue meravigliose banane. Spacca, sfonda e scala praticamente tutto quel che si trova sulla via di DK
 - Più cose demolisci con i tuoi potenti pugni, più aree riuscirai a scoprire.In aggiunta, in questa nuova avventura, DK trova un nuovo amico
+- Aiuta il re della giungla a recuperare il suo preziosissimo tesoro rubato, le sue meravigliose banane. Spacca, sfonda e scala praticamente tutto quel che si trova sulla via di DK
+- Nuovissimo gioco dazione platform 3D con Donkey Kong
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F2NCCXMY{{</world>}}

@@ -28,11 +28,11 @@ average: '47.2'
 
 ℹ️:
 
-- Adatto per cartucce da 150 ml, 300 ml, 360 ml e 390 ml
-- ERGONOMICA e STABILE: Il design ergonomico della FIS DM S Pro assicura un ottimo bilanciamento dei pesi e permette di lavorare riducendo la fatica; lalloggiamento in plastica rinforzata con fibra di vetro conferisce al FIS DM S Pro lottima stabilità
-- ROBUSTA: FIS DM S Pro è una pistola professionale realizzata in nylon rinforzato con fibra di vetro; la struttura molto robusta garantisce una lunga duratura anche nelle condizioni di cantiere più impegnative e difficili
-- FACILE UTILIZZO: Facile da maneggiare per una lavorazione rapida; design del prodotto con distribuzione ottimale del peso per un lavoro ergonomico
 - RESISTENTE: Le 3 aste di spinta distribuiscono la forza in maniera regolare sul fondello delle cartuccie prevenendo rotture alla cartuccia anche quando la resina è più viscosa perchè estrusa a basse temperature (temperatura minima resina +5 °C)
+- Adatto per cartucce da 150 ml, 300 ml, 360 ml e 390 ml
+- FACILE UTILIZZO: Facile da maneggiare per una lavorazione rapida; design del prodotto con distribuzione ottimale del peso per un lavoro ergonomico
+- ROBUSTA: FIS DM S Pro è una pistola professionale realizzata in nylon rinforzato con fibra di vetro; la struttura molto robusta garantisce una lunga duratura anche nelle condizioni di cantiere più impegnative e difficili
+- ERGONOMICA e STABILE: Il design ergonomico della FIS DM S Pro assicura un ottimo bilanciamento dei pesi e permette di lavorare riducendo la fatica; lalloggiamento in plastica rinforzata con fibra di vetro conferisce al FIS DM S Pro lottima stabilità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BZS81JDF{{</world>}}

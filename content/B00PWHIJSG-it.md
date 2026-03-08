@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Con verniciatura UV; Con viti di fissaggio
 - Equivalente allOE; Conforme alla normativa ECE-R90
-- La confezione contiene due dischi
 - Diametro: 247 mm; Spessore: 20.4 mm; Spessore minimo: 18.5 mm
+- La confezione contiene due dischi
+- Con verniciatura UV; Con viti di fissaggio
 - Disco freno baffato: frenata rapida ed efficace, elevata resistenza al fading e massimo controllo dellusura Massime prestazioni in accoppiata con le Pastiglie Brembo Xtra
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

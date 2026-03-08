@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- PERIODO: GLI ANNI 60 UNA BATTAGLIA DI IDEOLOGIE: Rivivi la storia e assisti ai mutamenti della guerra fredda e dello scenario geopolitico
 - AMBIENTAZIONE: LA GIUNGLA UNA BATTAGLIA DI RETTILI: Immergiti in un ambiente pieno di trappole in grado di catturare nemici e prede, dove le minacce si nascondono nellombra e i rumori allertano i predatori
+- PERIODO: GLI ANNI 60 UNA BATTAGLIA DI IDEOLOGIE: Rivivi la storia e assisti ai mutamenti della guerra fredda e dello scenario geopolitico
 - AZIONE DI GIOCO: SOPRAVVIVENZA UNA BATTAGLIA DISTINTI: Supera il nemico con tecniche mimetiche, combattimento ravvicinato, appostamenti, interrogatori, arrampicate, tecniche di caccia e cura delle ferite
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

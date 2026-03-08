@@ -28,16 +28,16 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Controllo vocale: funziona con lAssistente Google e Amazon Alexa per avere le mani libere
-- Archiviazione sicura locale o sul cloud: salva i filmati in modo continuo su una scheda microSD fino a 512 GB o iscriviti a Tapo Care per larchiviazione sul cloud.
 - Condivisione dispositivo: visualizza il feed della videocamera Wi-Fi da due diversi dispositivi smartphone. Ora mamma e papà possono vedere cosa succede a casa con ununica telecamera.
 - Rilevamento e notifica istantanea: ricevi notifiche push istantanee quando viene rilevato un movimento o una persona, iscriviti a Tapo Care per il rilevamento del pianto del bambino.
+- Visione notturna fino a 30 piedi: non perdere mai nulla di ciò che accade, anche di notte.
 - Su, giù, tuttintorno: guarda tutto attraverso unintera stanza o passaggio con il campo visivo pan/tilt con intervallo orizzontale di 360° e verticale di 114°
 - Zona privacy: imposta zone di blocco personalizzabili per impedire la registrazione di determinati spazi, così non dovrai mai preoccuparti che i tuoi momenti personali vengano divulgati.
 - Alta definizione 2K 3MP: cattura ogni dettaglio allinterno della tua casa con video ad alta definizione 2K cristallini con questa telecamera di sicurezza per interni.
-- Visione notturna fino a 30 piedi: non perdere mai nulla di ciò che accade, anche di notte.
-- Audio bidirezionale: consente la comunicazione conversazionale in tempo reale tramite un microfono e un altoparlante integrati. Non uscire mai veramente di casa con laudio a 2 vie integrato.
 - Tracciamento preciso del movimento: traccia e segue il soggetto per mantenerlo nel tuo campo visivo per tenere docchio lazione.
+- Archiviazione sicura locale o sul cloud: salva i filmati in modo continuo su una scheda microSD fino a 512 GB o iscriviti a Tapo Care per larchiviazione sul cloud.
+- Controllo vocale: funziona con lAssistente Google e Amazon Alexa per avere le mani libere
+- Audio bidirezionale: consente la comunicazione conversazionale in tempo reale tramite un microfono e un altoparlante integrati. Non uscire mai veramente di casa con laudio a 2 vie integrato.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CHFG8XBZ{{</world>}}

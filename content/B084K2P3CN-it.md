@@ -28,9 +28,9 @@ average: '3.99'
 
 ℹ️:
 
-- Prodotti di bellezza
-- Comodo e facile da utilizzare
 - Prodotti di ottima qualita
+- Comodo e facile da utilizzare
+- Prodotti di bellezza
 - Formula migliorata e completa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

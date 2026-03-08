@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Prodotti in offerta: Sconto dal 30% al 40%
 - dermocosmetica: acne
-- bestcosmesi: viso
 - Formato: Flacone
+- bestcosmesi: viso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09T6TCFCW{{</world>}}

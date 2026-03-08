@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Braccio a J, modellato ispirandosi ai design classici di Audio-Technica degli anni 60 e 70, progettato per mitigare l’errore di tracking
-- Testina a doppio magnete mobile AT-VM95E (di colore nero) con stilo sostituibile
 - Motore a trazione diretta, silenzioso
+- Testina a doppio magnete mobile AT-VM95E (di colore nero) con stilo sostituibile
 - Funzionamento completamente manuale a tre velocità: 331/3, 45 e 78 giri
 - Portatestina AT-HS6 leggera
 

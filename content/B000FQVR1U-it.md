@@ -28,11 +28,11 @@ average: '3.9'
 
 ℹ️:
 
-- Valore di abrasivita (RDA): ca. 20
 - Test clinici confermano la riduzione della formazione di tartaro
-- Gel dentifricio con sale marino e bicarbonato di sodio
-- Larticolo contiene 1X Weleda Dentifricio Salino (75 ml), dentifricio a base di sale marino per neutralizzare acidi dannosi e proteggere da carie e palla.
+- Valore di abrasivita (RDA): ca. 20
 - Riduce la placca batterica, svolge una profonda pulizia rispettando lo smalto dentale, neutralizza gli acidi dannosi, stimola il processo autopulente della salivazione, rinforza le gengive e rinfresca lalito
+- Larticolo contiene 1X Weleda Dentifricio Salino (75 ml), dentifricio a base di sale marino per neutralizzare acidi dannosi e proteggere da carie e palla.
+- Gel dentifricio con sale marino e bicarbonato di sodio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000FQVR1U{{</world>}}

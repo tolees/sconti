@@ -28,10 +28,10 @@ average: '87.99'
 
 ℹ️:
 
-- Fino a 250 ore di autonomia per prestazioni che durano nel tempo: Con fino a 400* ore con il Bluetooth e 250* ore di gioco fluido a bassa latenza con Razer HyperSpeed Wireless, puoi continuare a combattere più a lungo prima di dover sostituire la batteria *misurazione con una batteria AA alcalina
-- 19 pulsanti programmabili in posizione ergonomica per un controllo perfetto: Dalle impostazioni di base alle macro più avanzate, avrai tutti i comandi che ti servono direttamente sulla punta delle dita, grazie ai comandi in posizione ergonomica di questo mouse
 - Con tecnologia Razer HyperScroll per una rotella a rotazione libera o tattile: Esegui comandi ripetuti o esplora rapidamente i contenuti con la rotazione libera Attiva la modalità tattile per una precisione e un feedback maggiori, perfetta per scegliere armi o abilità
+- 19 pulsanti programmabili in posizione ergonomica per un controllo perfetto: Dalle impostazioni di base alle macro più avanzate, avrai tutti i comandi che ti servono direttamente sulla punta delle dita, grazie ai comandi in posizione ergonomica di questo mouse
 - Switch meccanici per mouse Razer di 2a generazione per una maggiore precisione e più clic di durata: Con i punti di contatto placcati in oro, gli switch si usurano meno e hanno una maggiore durata, fino a 60 milioni di clic: goditi unesecuzione precisa e omogenea
+- Fino a 250 ore di autonomia per prestazioni che durano nel tempo: Con fino a 400* ore con il Bluetooth e 250* ore di gioco fluido a bassa latenza con Razer HyperSpeed Wireless, puoi continuare a combattere più a lungo prima di dover sostituire la batteria *misurazione con una batteria AA alcalina
 - Sensore ottico 30K Razer Focus Pro per una precisione allavanguardia: Il nuovissimo sensore di Razer assicura un tracciamento perfetto su una più ampia varietà di superfici, incluso il vetro, supportato da funzioni intelligenti per una mira e un controllo avanzati
 - Razer HyperSpeed Wireless (2,4 GHz) e Bluetooth per una latenza ultra bassa o unautonomia prolungata: Sfrutta prestazioni fluide, a bassa latenza e il 25% più veloci di altre tecnologie wireless, passa al Bluetooth per giocare più ore Semplifica il tuo setup grazie al supporto per più dispositivi
 

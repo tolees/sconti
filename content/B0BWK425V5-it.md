@@ -28,8 +28,8 @@ average: '8.52'
 
 ℹ️:
 
-- Tracolla regolabile
 - Dimensioni:-28 x 23 x 4 cm (1 L)
+- Tracolla regolabile
 - Materiale: poliestere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

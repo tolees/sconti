@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Betulla, zenzero, te’ verde, ananas e ciliegio favoriscono l’eliminazione dei liquidi e la funzione urinaria e digestiva
-- GUSTO GREEN: drenante al gusto di zenzero e limone da bere nell’arco della giornata, utile per una funzione digestiva e depurativa dell’organismo
 - INTEGRATORE GREEN: integratore con estratti vegetali, utili a favorire la depurazione dell’organismo e l’eliminazione dei liquidi in eccesso
-- SENZA GLUTINE: il drenante non contiene glutine, adatto anche ai celiaci attenti alla propria forma fisica, per un sano stile di vita
-- PENSATO PER LE TUE ESIGENZE: Per contrastare la cellulite drenando i liquidi corporei, per ritrovare una migliore forma fisica
 - RICCO DI ESTRATTI VEGETALI: formula a base di estratti vegetali fito-attivi
+- PENSATO PER LE TUE ESIGENZE: Per contrastare la cellulite drenando i liquidi corporei, per ritrovare una migliore forma fisica
+- GUSTO GREEN: drenante al gusto di zenzero e limone da bere nell’arco della giornata, utile per una funzione digestiva e depurativa dell’organismo
+- Betulla, zenzero, te’ verde, ananas e ciliegio favoriscono l’eliminazione dei liquidi e la funzione urinaria e digestiva
+- SENZA GLUTINE: il drenante non contiene glutine, adatto anche ai celiaci attenti alla propria forma fisica, per un sano stile di vita
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01MTFCOW6{{</world>}}

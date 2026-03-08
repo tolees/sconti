@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Compatibile con tutte le fotocamere e stampanti Fujifilm instax SQUARE
 - Dimensioni pellicola: 86 x 72 x 62 mm (altezza x larghezza)
+- Pellicola ad alta velocità ISO 800
+- Compatibile con tutte le fotocamere e stampanti Fujifilm instax SQUARE
 - La tecnologia instax Real Film garantisce riproduzioni nitide, chiare, brillanti e di tonalità della pelle per anni e anni
 - Sviluppo rapido delle immagini
-- Pellicola ad alta velocità ISO 800
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B084S4JF2G{{</world>}}

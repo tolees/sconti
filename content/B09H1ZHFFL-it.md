@@ -28,11 +28,11 @@ average: '38.99'
 
 ℹ️:
 
-- TREPPIEDE A PORTATA DI MANO: Cinghia di fissaggio frontale per treppiedi compatti compatibile con GorillaPod di Joby quando hai bisogno di sostegno extra per le tue idee creative
 - NON PERDERE GLI ACCESSORI IMPORTANTI: 2 Tasche interne modulari per batterie e memory card per evitare di perdere accessori importanti
+- TREPPIEDE A PORTATA DI MANO: Cinghia di fissaggio frontale per treppiedi compatti compatibile con GorillaPod di Joby quando hai bisogno di sostegno extra per le tue idee creative
+- NON PERDERE MAI UNO SCATTO: Raggiungi facilmente la tua attrezzatura grazie all’apertura superiore della fondina che si apre verso l’esterno per non intralciare i tuoi movimenti
 - INDOSSALA COME PREFERISCI: Tracolla imbottita rimovibile compatibile con passanti per cintura a seconda del tuo stile e delle esigenze di comfort durante le riprese di progetti impegnativi
 - CAPIENTE: Adatta a reflex con obiettivo 70-200 mm f/2.8 o una combinazione di dimensioni equivalenti per riprese che richiedono una varietà di modelli
-- NON PERDERE MAI UNO SCATTO: Raggiungi facilmente la tua attrezzatura grazie all’apertura superiore della fondina che si apre verso l’esterno per non intralciare i tuoi movimenti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09H1ZHFFL{{</world>}}

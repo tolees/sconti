@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Cotti al forno
-- Sfizioni mini crackers salati
-- Multipack di 6 porzioni
 - Non fritti
+- Multipack di 6 porzioni
+- Sfizioni mini crackers salati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00SX9PVF4{{</world>}}

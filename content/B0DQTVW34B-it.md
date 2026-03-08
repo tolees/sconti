@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 🍝 SOSTENIBILITÀ GARANTITA – Realizzata con energia verde e nuovo pack in carta riciclabile. Il farro utilizzato è 100% italiano e tracciabile, selezionato con cura per garantire una pasta buona, giusta e trasparente.
 - 🍝 PENNE RIGATE – 16 Pack da 500 g di pasta preparata con Sfarinato (prodotto intermedio tra semola bianca e semola integrale) di Farro Biologico, La Selezione Sgambaro include solo farro 100% italiano, tracciabile e selezionato con criteri rigorosi.
 - 🍝 ALTA DIGERIBILITÀ – Pasta farro a basso contenuto di grassi e sale, fonte di fibre, proteine, zinco, ferro e selenio. Ideale per chi pratica attività sportive o segue una dieta sana, grazie alla qualità costante garantita da un’attenta selezione della materia prima.
-- 🍝 TEMPO DI COTTURA – Pronta in 8 minuti, la pasta garantisce una consistenza ottimale, combinando praticità e gusto per piatti sani e deliziosi da portare in tavola ogni giorno.
 - 🍝 ECCELLENZA ITALIANA – Pasta bio realizzata con farro proveniente da coltivazioni italiane selezionate che rispettano i nostri impegni in termini di sostenibilità, filiera controllata e gusto autentico. Una scelta dettata dalla volontà di mantenere standard qualitativi elevati e costanti.
+- 🍝 SOSTENIBILITÀ GARANTITA – Realizzata con energia verde e nuovo pack in carta riciclabile. Il farro utilizzato è 100% italiano e tracciabile, selezionato con cura per garantire una pasta buona, giusta e trasparente.
+- 🍝 TEMPO DI COTTURA – Pronta in 8 minuti, la pasta garantisce una consistenza ottimale, combinando praticità e gusto per piatti sani e deliziosi da portare in tavola ogni giorno.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DQTVW34B{{</world>}}

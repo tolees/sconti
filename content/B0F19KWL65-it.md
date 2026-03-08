@@ -28,11 +28,11 @@ average: '30.535'
 
 ℹ️:
 
+- Un poster con limmagine chiave del gioco, Un voucher per la colonna sonora digitale e i singoli, Una scatola da collezione, che contiene il gioco fisico e tutti i contenuti della Deluxe Edition.
 - Yasha: Legends of the Demon Blade – Deluxe Edition include il gioco fisico per PlayStation 5 o Nintendo Switch, insieme ai seguenti contenuti esclusivi: Un artbook con copertina morbida che mette in risalto lo stile artistico distintivo del gioco, i personaggi, i nemici, la storia e gli ambienti demoniaci, 3 cartoline con splendide illustrazioni dei personaggi principali del gioco,
+- Pieno di rigiocabilità – Scenari specifici per ogni personaggio: Un ninja immortale, il lugubre mietitore infernale, un samurai yokai... Ogni personaggio offre stili di combattimento completamente distinti e trame indipendenti. Goditi armi uniche ed esclusive, una narrativa profonda e coinvolgente, e un mondo riccamente variegato centrato su tre protagonisti.
 - Partecipa al Festival dei Demoni – Durante il tuo viaggio per cacciare demoni, scopri un festival nascosto in un regno alternativo, dove incontrerai demoni amichevoli, guadagnerai abbondanti risorse e acquisirai vari oggetti di potenziamento. Raccogli materiali per evolvere le tue armi, ingredienti per soddisfare la tua fame e addirittura assapora il leggendario ramen che conferisce un potere immenso!
 - Azione spettacolare e dinamica – Sfrutta le proprietà in continua evoluzione delle lame mistiche per affrontare creature soprannaturali furiose! Combina liberamente le armi, raccogli centinaia di "Orbe" impregnati di poteri misteriosi e ricevi le benedizioni del Dio Gatto mentre crei il tuo build unico.
-- Un poster con limmagine chiave del gioco, Un voucher per la colonna sonora digitale e i singoli, Una scatola da collezione, che contiene il gioco fisico e tutti i contenuti della Deluxe Edition.
-- Pieno di rigiocabilità – Scenari specifici per ogni personaggio: Un ninja immortale, il lugubre mietitore infernale, un samurai yokai... Ogni personaggio offre stili di combattimento completamente distinti e trame indipendenti. Goditi armi uniche ed esclusive, una narrativa profonda e coinvolgente, e un mondo riccamente variegato centrato su tre protagonisti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F19KWL65{{</world>}}

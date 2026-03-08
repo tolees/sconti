@@ -28,11 +28,11 @@ average: '18.0'
 
 ℹ️:
 
-- CRASTAN - Crastan porta a casa tua le migliori alternative al caffè, ponendo al primo posto la selezione delle materie prime, il gusto e la qualità: questo per fare di ogni tua piccola pausa un autentico e piacevole momento da ripetere sicurament
 - SOSTENIBILITÀ - CRASTAN è tra le prime aziende biologiche italiane dal 1991, usando solo orzo biologico. Per la produzione dellorzo solubile garantisce assenza di prodotti chimici e OGM, e i residui delle materie prime possono avere una nuova vita grazie al loro processo naturale
 - CARATTERISTICHE: Gusto intenso di limone con un aroma avvolgente e già zuccherato, pronto da bere. Perfetto per chi ama il tè caldo ma cerca una soluzione semplice e veloce, senza rinunciare alla qualità e alla comodità
-- UTILIZZO: Basta inserire una capsula nella macchina Nespresso per ottenere subito una tazza di tè caldo e profumato. Ideale per colazione, pausa pomeridiana o serata rilassante, è sempre pronto da gustare
 - Le capsule Crastan al Tè al Limone permettono di preparare in pochi istanti una bevanda calda e zuccherata dal gusto fresco e deciso. Ogni confezione include 15 capsule compatibili con macchine Nespresso per una preparazione veloce e pratica
+- CRASTAN - Crastan porta a casa tua le migliori alternative al caffè, ponendo al primo posto la selezione delle materie prime, il gusto e la qualità: questo per fare di ogni tua piccola pausa un autentico e piacevole momento da ripetere sicurament
+- UTILIZZO: Basta inserire una capsula nella macchina Nespresso per ottenere subito una tazza di tè caldo e profumato. Ideale per colazione, pausa pomeridiana o serata rilassante, è sempre pronto da gustare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F7M1KX7R{{</world>}}

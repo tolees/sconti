@@ -30,12 +30,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - ADDITIVO DISINFETTANTE: Napisan Extra Protection. Additivo smacchiante disinfettante per bucato
 - Disponibile nei formati 500g e 1100g
-- ISTRUZIONI D’USO: AZIONE IGIENIZZANTE: - IN LAVATRICE: aggiungere al normale detersivo: per sporco difficile 60g; per sporco normale 30g - IN AMMOLLO: aggiungere 60 g di prodotto a 4 L di acqua tiepida (max 40°C); Per capi colorati massimo un’ora. Per capi bianchi massimo 6 ore; Per migliori risultati sullo sporco ostinato strofinare prima di risciacquare. Dopo l’ammollo lavare come d’abitudine e risciacquare abbondantemente
-- Leggere attentamente le avvertenze o le istruzioni per luso. Aut. Min. del 18/11/2025.
 - AZIONE DISINFETTANTE:
 - PERCHE UTILIZZARE UN ADDITIVO DISINFETTANTE: Grazie alla sua formula, disinfetta e smacchia i capi rispettando tessuti e colori
 - PRESIDIO MEDICO CHIRURGICO: Napisan Extra Protection è un Presidio Medico Chirurgico Reg. N. 18132.
 - CONFEZIONE: 6 confezioni Additivo Disinfettante Polvere da 1100g
+- Leggere attentamente le avvertenze o le istruzioni per luso. Aut. Min. del 18/11/2025.
+- ISTRUZIONI D’USO: AZIONE IGIENIZZANTE: - IN LAVATRICE: aggiungere al normale detersivo: per sporco difficile 60g; per sporco normale 30g - IN AMMOLLO: aggiungere 60 g di prodotto a 4 L di acqua tiepida (max 40°C); Per capi colorati massimo un’ora. Per capi bianchi massimo 6 ore; Per migliori risultati sullo sporco ostinato strofinare prima di risciacquare. Dopo l’ammollo lavare come d’abitudine e risciacquare abbondantemente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CGHL4CRH{{</world>}}

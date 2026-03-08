@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
 - Con 6 pratiche bustine monoporzionate da 27g luna da portare sempre con te, per una pausa golosa!
+- Oro Ciok Barretta: la sfiziosa barretta marcata Ciok dove un biscotto fragrante viene avvolto dal cioccolato al latte e ripieno di riso soffiato e cacao. Gusta la tua nuova merenda!
 - Oro Ciok Barretta è la merenda sfiziosa che rende golosa la parte più divertente della giornata! Ricoperto di cioccolato al latte e con cereali croccanti!
 - Senza conservanti e coloranti, fonte naturale di fibre
 - Con il programma Harmony ci impegniamo per un’agricoltura sostenibile.
-- Oro Ciok Barretta: la sfiziosa barretta marcata Ciok dove un biscotto fragrante viene avvolto dal cioccolato al latte e ripieno di riso soffiato e cacao. Gusta la tua nuova merenda!
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CFZYCCLC{{</world>}}

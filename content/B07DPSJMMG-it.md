@@ -28,11 +28,11 @@ average: '0.69'
 
 ℹ️:
 
-- SOSTENIBILITÀ: San Benedetto è impegnata nella produzione sostenibile, utilizzando confezioni riciclabili in PET e promuovendo pratiche di riduzione dellimpatto ambientale. Le sue bevande sono prodotte con acqua oligominerale pura​.
-- CARATTERISTICHE: Con vitamine B e C, supporta il metabolismo energetico e il sistema immunitario. Il gusto fresco del Frutti Rossi rende questa bevanda ideale per uno stile di vita attivo e salutare.
 - BENEFICI: I prodotti San Benedetto offrono freschezza e benessere a basso contenuto calorico . Combinano gusto dissetante e purezza, senza conservanti né coloranti, garantendo unesperienza sana e adatta a tutta la famiglia
-- CONTENUTO: San Benedetto Acquavitamin Frutti Rossi, arricchito con vitamine del gruppo B e vitamina C è una bevanda rinfrescante con il gusto naturale del Frutti Rossi, perfetta per idratarsi e reintegrare vitamine essenziali.
 - SAN BENEDETTO: qualità, sicurezza e capacità innovativa, uniti a un forte rispetto del territorio e orientati verso la sostenibilità ambientale, sono valori che San Benedetto garantisce ai suoi consumatori per offrire uno standard di qualità elevato.
+- SOSTENIBILITÀ: San Benedetto è impegnata nella produzione sostenibile, utilizzando confezioni riciclabili in PET e promuovendo pratiche di riduzione dellimpatto ambientale. Le sue bevande sono prodotte con acqua oligominerale pura​.
+- CONTENUTO: San Benedetto Acquavitamin Frutti Rossi, arricchito con vitamine del gruppo B e vitamina C è una bevanda rinfrescante con il gusto naturale del Frutti Rossi, perfetta per idratarsi e reintegrare vitamine essenziali.
+- CARATTERISTICHE: Con vitamine B e C, supporta il metabolismo energetico e il sistema immunitario. Il gusto fresco del Frutti Rossi rende questa bevanda ideale per uno stile di vita attivo e salutare.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07DPSJMMG{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Preparazione macchina caffè completamente automatica
 - Caffè in grani per macchina espresso
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
 - Confezione da 500 grammi
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
 - Qualità oro è la prima miscela Lavazza, nata nel 1956 e tramandata di padre in figlio da oltre 60 anni
+- Preparazione macchina caffè completamente automatica
 - 100% Arabica, tostatura media, intensità 5 (delicato)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

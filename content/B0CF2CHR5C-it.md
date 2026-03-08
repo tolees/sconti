@@ -29,9 +29,9 @@ average: '139.49'
 ℹ️:
 
 - AMPIA SUPERFICIE DI COTTURA: Nonostante le dimensioni compatte, il grill elettrico offre una superficie di cottura di 45x30 cm, piastra in ghisa smaltata per grigliate a ridotto contenuto di grassi
-- ALTE PRESTAZIONI: Piastra grill in ghisa con 1 bruciatore in acciaio alluminato (2,5 kW); accensione elettronica piezoelettrica per una facile accensione
-- FACILE DA PULIRE: La piastra elettrica viene consegnata completamente assemblata; la pulizia dopo luso è facile e veloce grazie al serbatoio raccogli grasso rimovibile e lavabile in lavastoviglie
 - PIASTRA elettrica: Dimensioni (LxLxA) 39x52x19 cm, peso 15 kg; potenza 2.500 W, regolazione continua della temperatura, cavo sufficientemente lungo con spina euro
+- FACILE DA PULIRE: La piastra elettrica viene consegnata completamente assemblata; la pulizia dopo luso è facile e veloce grazie al serbatoio raccogli grasso rimovibile e lavabile in lavastoviglie
+- ALTE PRESTAZIONI: Piastra grill in ghisa con 1 bruciatore in acciaio alluminato (2,5 kW); accensione elettronica piezoelettrica per una facile accensione
 - PER INTERNO ED ESTERNO: Per grigliare insieme a tavola; il barbecue elettronico da tavolo può essere utilizzato allaperto sul balcone, sulla terrazza, in campeggio o in casa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '147.433333333333'
 
 ℹ️:
 
-- CAFFÈ PERSONALIZZATO: grazie alla Funzione Flow Stop per personalizzare la lunghezza del proprio caffè e al pannello elettronico, lespresso a casa tua come al bar; riscaldamento in soli 40 secondi
-- SPEGNIMENTO AUTOMATICO dopo 9 minuti di inutilizzo e serbatoio dacqua da 1 l, trasparente ed estraibile per agevolare riempimento e pulizia; raccogli gocce regolabile in altezza; scaldatazze passivo.
-- Macchina del caffè espresso a pompa DEDICA: interamente in metallo e compatta nelle dimensio, solo 15 cm
 - CAPPUCCINATORE: grazie al cappuccinatore regolabile puoi schiumare facilmente il latte per un cappuccino ottimale o aggiungere vapore per un ottimo latte macchiato
+- Macchina del caffè espresso a pompa DEDICA: interamente in metallo e compatta nelle dimensio, solo 15 cm
+- SPEGNIMENTO AUTOMATICO dopo 9 minuti di inutilizzo e serbatoio dacqua da 1 l, trasparente ed estraibile per agevolare riempimento e pulizia; raccogli gocce regolabile in altezza; scaldatazze passivo.
+- CAFFÈ PERSONALIZZATO: grazie alla Funzione Flow Stop per personalizzare la lunghezza del proprio caffè e al pannello elettronico, lespresso a casa tua come al bar; riscaldamento in soli 40 secondi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B06X3Z9MF3{{</world>}}

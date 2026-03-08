@@ -28,12 +28,12 @@ average: '18.99'
 
 ℹ️:
 
-- Navigazione semplice: usa il pulsante Guida per cercare e vedere tutte le app della TV in diretta, in un unico posto.
 - Comandi per la TV integrati: usa gli appositi pulsanti per controllare TV, soundbar e ricevitori compatibili. Puoi accenderli e spegnerli, regolare il volume oppure disattivarlo.
-- Non compatibile con Fire TV (1ª e 2ª gen.), Fire TV Stick (1ª e 2ª gen.), Fire TV Cube (1ª gen.), Fire TV (3ª gen., modello pendente), le smart TV Fire TV o con le smart TV Fire TV Edition.
 - Premi e chiedi ad Alexa: usa la voce per cercare e avviare contenuti su varie app, in tutta facilità.
-- Trova ancora più rapidamente i tuoi contenuti preferiti: utilizza i pulsanti preimpostati per le app, per accedere rapidamente ai tuoi contenuti.
+- Non compatibile con Fire TV (1ª e 2ª gen.), Fire TV Stick (1ª e 2ª gen.), Fire TV Cube (1ª gen.), Fire TV (3ª gen., modello pendente), le smart TV Fire TV o con le smart TV Fire TV Edition.
+- Navigazione semplice: usa il pulsante Guida per cercare e vedere tutte le app della TV in diretta, in un unico posto.
 - Compatibile con Fire TV Stick Lite, Fire TV Stick (3ª gen. e successive), Fire TV Stick 4K (1ª gen. e successive), Fire TV Stick 4K Max (1ª gen. e successive), Fire TV Cube (2ª gen. e successive) ed Echo Show 15.
+- Trova ancora più rapidamente i tuoi contenuti preferiti: utilizza i pulsanti preimpostati per le app, per accedere rapidamente ai tuoi contenuti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CK1971VB{{</world>}}

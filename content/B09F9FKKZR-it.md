@@ -28,16 +28,16 @@ average: '39.78'
 
 ℹ️:
 
-- Attacco: E14
-- Lampade LED professionali a tensione di rete
-- Non adatta per luso con dimmer
 - Lampade prive di mercurio
-- Lampade prive di mercurio
-- Ridotta generazione di calore (rispetto al prodotto di riferimento standard)
 - Attacco: E14
+- Lampade prive di mercurio
 - Lampade LED professionali a tensione di rete
 - Ridotta generazione di calore (rispetto al prodotto di riferimento standard)
+- Ridotta generazione di calore (rispetto al prodotto di riferimento standard)
 - Non adatta per luso con dimmer
+- Attacco: E14
+- Non adatta per luso con dimmer
+- Lampade LED professionali a tensione di rete
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09F9FKKZR{{</world>}}

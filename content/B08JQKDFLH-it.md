@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Un gioco dalle regole semplici ma, grazie al suo stile scacchistico, sa essere anche molto profondo.
 - Grazie alla sua pratica custodia-astuccio e alle ridotte dimensioni, puoi portare il gioco sempre con te per divertirti ovunque!
 - Materiali ottimi e molto resistenti: le pedine sono realizzate in bachelite!
-- Hive è un gioco scacchistico per due giocatori in cui lo scopo del gioco è circondare completamente l’Ape Regina dell’avversario.
-- Un gioco dalle regole semplici ma, grazie al suo stile scacchistico, sa essere anche molto profondo.
-- Il gioco perfetto per le coppie che amano gli scacchi e… gli insetti!
 - Le pedine raffigurano diverse tipologie di insetti, ognuna di queste si muove sul tavolo con modalità differenti: la Cavalletta salta sopra le altre pedine, il Ragno si sposta di ben tre spazi avanti in un solo turno, la Formica Soldato può muovere verso ogni altra posizione libera attorno all’alveare… scopri come si muovono il Coleottero e l’Ape Regina!
+- Il gioco perfetto per le coppie che amano gli scacchi e… gli insetti!
+- Hive è un gioco scacchistico per due giocatori in cui lo scopo del gioco è circondare completamente l’Ape Regina dell’avversario.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08JQKDFLH{{</world>}}

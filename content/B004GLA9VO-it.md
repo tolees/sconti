@@ -28,11 +28,11 @@ average: '12.96'
 
 ℹ️:
 
-- Clip per luce di sicurezza
-- Attacco f25 incluso per un rapido montaggio/smontaggio
-- Banda catarifrangente
-- Materiale: nylon 1000 d
 - Capacità: 0.8 l
+- Materiale: nylon 1000 d
+- Attacco f25 incluso per un rapido montaggio/smontaggio
+- Clip per luce di sicurezza
+- Banda catarifrangente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B004GLA9VO{{</world>}}

@@ -28,12 +28,12 @@ average: '15.49'
 
 ℹ️:
 
-- AEROREADY
 - Girocollo
-- Design New Lift
-- Acquista 1 taglia più piccola
+- AEROREADY
 - Jersey, 92% poliestere riciclato / 8% elastane
 - Struttura traspirante
+- Design New Lift
+- Acquista 1 taglia più piccola
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BQW3HYZK{{</world>}}

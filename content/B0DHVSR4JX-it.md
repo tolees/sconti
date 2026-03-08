@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Vestibilità regolare
-- Peso: 440 g (misura 38 2/3)
-- intersuola in EVA LIGHTMOTION
-- Suola in gomma Continental
 - Chiusura con lacci
-- Soletta OrthoLite e membrana GORE-TEX
+- Vestibilità regolare
+- Suola in gomma Continental
+- intersuola in EVA LIGHTMOTION
 - Drop intersuola: 10 mm (tallone: 32 mm/avampiede: 22 mm)
+- Soletta OrthoLite e membrana GORE-TEX
 - Tomaia in Ripstop con rivestimenti.
+- Peso: 440 g (misura 38 2/3)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DHVSR4JX{{</world>}}

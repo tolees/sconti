@@ -28,10 +28,10 @@ average: '100.123333333333'
 
 ℹ️:
 
-- Con remi in alluminio e pompa manuale (cod. 68614), portata massima 400 kg, a norma ISO 6185-1 nmma-abyc, supporto per montaggio motore,
-- Valvole boston nelle due camere daria principali, corda perimetrale, sedili gonfiabili con schienale, maniglia nella parte frontale per facile movimentazione
 - Set canotto escursioni 4 persone 315 x 165 x 43 cm
+- Valvole boston nelle due camere daria principali, corda perimetrale, sedili gonfiabili con schienale, maniglia nella parte frontale per facile movimentazione
 - 2 porta remi, sacchetto porta attrezzi, 2 porta canne, fondo gonfiabile per maggiore confort, 3 camere daria inclusa quella interna per maggiore galleggiabilità
+- Con remi in alluminio e pompa manuale (cod. 68614), portata massima 400 kg, a norma ISO 6185-1 nmma-abyc, supporto per montaggio motore,
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00137UGIA{{</world>}}

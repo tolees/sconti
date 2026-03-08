@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - CLASSICO PASSE-PARTOUT: Con questa camicia nell’armadio hai un capo che si abbina facilmente e valorizza qualsiasi outfit. Risulta perfetta da abbinare a un pantalone da completo per l’ufficio o a un jeans casual per tutti i giorni.
-- COMFORT E DETTAGLI: Grazie al materiale di qualità, questa camicia relaxed fit regala una sensazione confortevole sulla pelle tutto il giorno. I polsini con bottoni e il logo Calvin Klein sul taschino sul petto gli conferiscono un tocco particolare.
-- ICONICITÀ INTRAMONTABILE: L’originale camicia Calvin Klein presenta un taglio classico e un colletto button-down. Il suo design pulito ed essenziale la rende un capo classico che non può mancare in un guardaroba.
 - MATERIALE E LAVAGGIO: Questa camicia è realizzata al 98% in cotone e al 2% in elastan. È lavabile in lavatrice.
 - SEMPLICITÀ E FASCINO: Creato nel 1968, il marchio Calvin Klein è famoso per il suo look inconfondibile, che lo ha reso da subito un’ispirazione per il mondo della moda. Il brand americano è caratterizzato da un’estetica minimalista.
+- COMFORT E DETTAGLI: Grazie al materiale di qualità, questa camicia relaxed fit regala una sensazione confortevole sulla pelle tutto il giorno. I polsini con bottoni e il logo Calvin Klein sul taschino sul petto gli conferiscono un tocco particolare.
+- ICONICITÀ INTRAMONTABILE: L’originale camicia Calvin Klein presenta un taglio classico e un colletto button-down. Il suo design pulito ed essenziale la rende un capo classico che non può mancare in un guardaroba.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DSWMVMXQ{{</world>}}

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Consigli uso: da provare con un contorno di broccoli spadellati
-- Ingredienti: SGOMBRO* 84%, olio di oliva 10%, peperoncino 5%, sale, aroma. *Scomber scombrus
 - Formato: confezione da 1 lattina da 120 g
+- Ingredienti: SGOMBRO* 84%, olio di oliva 10%, peperoncino 5%, sale, aroma. *Scomber scombrus
+- Consigli uso: da provare con un contorno di broccoli spadellati
 - Rio Mare. Qualità Responsabile dal mare alla tua tavola
 - Filetti di sgombro lavorati accuratamente a mano. cotti alla griglia e conditi con pezzetti di peperoncino per un gusto intenso e sfizioso
 

@@ -28,12 +28,12 @@ average: '47.99'
 
 ℹ️:
 
-- Ricco di dettagli e di caratteristiche come il modello cinematografico: il personaggio di Tony Stark degli Avengers è dotato di 2 alette regolabili sulla schiena, 2 cannoni a spalla retrattili e di testa girevole
 - Istruzioni dettagliate: la guida inclusa contiene istruzioni dettagliate per la costruzione, particolari di design e altro ancora; inoltre, l’app LEGO Builder offre una versione digitale della stessa guida
-- Completo di espositore per il supereroe: la solida base presenta una targhetta con il nome stampato e una minifigure LEGO | Marvel di Iron Man che può essere rimossa; una decorazione per la casa o per lufficio che non ha bisogno di presentazioni
+- Modellino da costruire di Iron Man LEGO: questo set replica con le costruzioni LEGO l’armatura di Iron Man MK4 indossata nel film Iron Man 3, e nasce per celebrare uno dei personaggi Marvel del Cinematic Universe
 - Personaggio di Iron Man LEGO | Marvel per adulti: il kit di modellismo in mattoncini Busto di Iron Man MK4 è un set LEGO da collezione, da costruire e da esporre, pensato per i modellisti esperti e per gli appassionati di supereroi Marvel
 - Regalo Marvel per i fan dei supereroi: questo gratificante progetto build-and-display per gli appassionati di gadget LEGO da collezione è unottima idea regalo per un uomo o per una donna fan dei film e dei fumetti dedicati ai personaggi Avengers
-- Modellino da costruire di Iron Man LEGO: questo set replica con le costruzioni LEGO l’armatura di Iron Man MK4 indossata nel film Iron Man 3, e nasce per celebrare uno dei personaggi Marvel del Cinematic Universe
+- Ricco di dettagli e di caratteristiche come il modello cinematografico: il personaggio di Tony Stark degli Avengers è dotato di 2 alette regolabili sulla schiena, 2 cannoni a spalla retrattili e di testa girevole
+- Completo di espositore per il supereroe: la solida base presenta una targhetta con il nome stampato e una minifigure LEGO | Marvel di Iron Man che può essere rimossa; una decorazione per la casa o per lufficio che non ha bisogno di presentazioni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DHZ5X3K3{{</world>}}

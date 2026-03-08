@@ -28,12 +28,12 @@ average: '197.258529411765'
 
 ℹ️:
 
-- Questo set LEGO Icons per adulti comprende i modellini da costruire dello Space Shuttle Discovery e del telescopio spaziale Hubble, direttamente dalla missione NASA STS-31 del 1990
 - Lo shuttle LEGO appartiene a una serie di set pensati per costruttori adulti, ed è una fantastica idea regalo per tutti gli amanti dello spazio e delle costruzioni LEGO impegnative
-- Lo shuttle LEGO presenta una stiva apribile, un carrello di atterraggio retrattile, una cabina di pilotaggio, elevoni mobili, un braccio robotico e 5 sedili per lequipaggio
-- La cabina di pilotaggio dello shuttle LEGO si apre sul ponte di volo e su quello intermedio, mentre il telescopio ha pannelli solari mobili e un portellone apribile, proprio come nella realtà
-- Sono incluse 2 targhette con le specifiche e i dati tecnici della missione, ed entrambi i modellini da costruire sono dotati di supporti per essere esposti come decorazioni di casa o dellufficio
 - Gli appassionati delle missioni spaziali adoreranno scoprire i misteri del nostro Sistema solare con questo stimolante progetto da 2.354 pezzi, ricco di dettagli autentici
+- Lo shuttle LEGO presenta una stiva apribile, un carrello di atterraggio retrattile, una cabina di pilotaggio, elevoni mobili, un braccio robotico e 5 sedili per lequipaggio
+- Sono incluse 2 targhette con le specifiche e i dati tecnici della missione, ed entrambi i modellini da costruire sono dotati di supporti per essere esposti come decorazioni di casa o dellufficio
+- La cabina di pilotaggio dello shuttle LEGO si apre sul ponte di volo e su quello intermedio, mentre il telescopio ha pannelli solari mobili e un portellone apribile, proprio come nella realtà
+- Questo set LEGO Icons per adulti comprende i modellini da costruire dello Space Shuttle Discovery e del telescopio spaziale Hubble, direttamente dalla missione NASA STS-31 del 1990
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B091GY3FLG{{</world>}}

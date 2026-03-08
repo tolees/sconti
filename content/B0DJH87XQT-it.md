@@ -28,12 +28,12 @@ average: '9.885'
 
 ℹ️:
 
-- MATERIALE: plastica, plexiglass
-- DIMENSIONI: 27 x 17.5 x 8 cm; lunghezza del cavo: 1.8 m; per uso interno
-- CARATTERISTICHE: Alimentazione tramite cavo USB incluso; Base dappoggio removibile e fori di fissaggio per appendere linsegna al muro; tasto di accensione on-off
 - Creiamo oggetti di qualità sempre diversi, colorati, positivi e divertenti, per ognuno e per ogni stato d’animo; in Legami puoi sempre trovare il tuo mondo, da scoprire ed esplorare giorno per giorno: un mondo di felicità per quando sei un po’ giù, un mondo di sorprese per quando ti annoi, un mondo di ispirazioni per quando sei a corto di idee, un mondo di emozioni diverse in continua evoluzione
-- Se tu e l’Insegna Luminosa Led a Effetto Neon, Its a Sign, Heart di Legami vi siete incontrati, è chiaramente un segno; sì, è il segno che sei pronto per l’amore; tienila sul tuo tavolo per dare un messaggio o regalala a chi ami e vuoi che la appenda sulla parete; donala a San Valentino o usala per dire “ti amo” nel resto dell’anno; scegli tu quale momento e stanza illuminare; l’importante è metterci il cuore
 - AVVERTENZE: Non adatto per lilluminazione di ambienti domestici, prodotto con scopo unicamente decorativo. Il prodotto è una lampada decorativa con batterie ricaricabili alimentate tramite cavo USB di tipo C. Questo prodotto non è un giocattolo. Istruzioni incluse.
+- DIMENSIONI: 27 x 17.5 x 8 cm; lunghezza del cavo: 1.8 m; per uso interno
+- MATERIALE: plastica, plexiglass
+- Se tu e l’Insegna Luminosa Led a Effetto Neon, Its a Sign, Heart di Legami vi siete incontrati, è chiaramente un segno; sì, è il segno che sei pronto per l’amore; tienila sul tuo tavolo per dare un messaggio o regalala a chi ami e vuoi che la appenda sulla parete; donala a San Valentino o usala per dire “ti amo” nel resto dell’anno; scegli tu quale momento e stanza illuminare; l’importante è metterci il cuore
+- CARATTERISTICHE: Alimentazione tramite cavo USB incluso; Base dappoggio removibile e fori di fissaggio per appendere linsegna al muro; tasto di accensione on-off
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DJH87XQT{{</world>}}

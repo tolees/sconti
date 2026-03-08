@@ -30,9 +30,9 @@ average: '11.045'
 
 - MULTIPACK: 8 confezioni da 750 ml
 - Bevanda Alpro alla mandorla senza zuccheri è 100% vegetale, povera di Grassi e Calorie
+- NATURALMENTE SENZA LATTOSIO: Ideale se sei intollerante al lattosio o se sei allergico alle proteine del latte. Naturalmente povero di grassi. Senza zuccheri né edulcoranti aggiunti
 - Questa bevanda è LALTERNATIVA VEGETALE AL LATTE perfetta, calda o fredda, dal bicchiere alla merenda, con i cereali a colazione, insieme al caffè o come ingrediente per le tue ricette preferite!
 - FONTE DI VITAMINE E DI CALCIO: Contiene vitamina B2, D2,B12,E. La vitamina B12 contribuisce a ridurre la stanchezza e la fatica
-- NATURALMENTE SENZA LATTOSIO: Ideale se sei intollerante al lattosio o se sei allergico alle proteine del latte. Naturalmente povero di grassi. Senza zuccheri né edulcoranti aggiunti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DTYZX9NJ{{</world>}}

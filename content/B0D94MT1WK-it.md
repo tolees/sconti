@@ -28,11 +28,11 @@ average: '4.99'
 
 ℹ️:
 
-- MORBIDEZZA AVVOLGENTE – Arricchita con Acido Ialuronico Puro, Burro di Karité e Siero Nutrimento Intenso, questa crema corpo NIVEA rende la pelle visibilmente sana e bella a ogni utilizzo
 - PER LA PELLE E IL PIANETA – NIVEA si prende cura della pelle e del pianeta con il flacone di questo latte corpo realizzato al 50% con plastica riciclata* e minore quantità di plastica rispetto a prima
 - ADDIO SECCHEZZA – La crema NIVEA corpo dalla compatibilità cutanea dermatologicamente comprovata è appositamente formulata per la pelle secca e la sua texture leggera non unge e si assorbe rapidamente
-- 72H DI IDRATAZIONE – La nuova formula migliorata della crema corpo idratante dona 72h di idratazione clinicamente testata e nutre in profondità, per una pelle subito morbida e vellutata al tatto
 - CONTENUTO DELLA CONFEZIONE – NIVEA Crema Corpo Vellutante, body lotion idratante per pelle secca, crema corpo uomo e donna nutriente, 1 confezione da 500 ml, numero articolo: 83824
+- MORBIDEZZA AVVOLGENTE – Arricchita con Acido Ialuronico Puro, Burro di Karité e Siero Nutrimento Intenso, questa crema corpo NIVEA rende la pelle visibilmente sana e bella a ogni utilizzo
+- 72H DI IDRATAZIONE – La nuova formula migliorata della crema corpo idratante dona 72h di idratazione clinicamente testata e nutre in profondità, per una pelle subito morbida e vellutata al tatto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D94MT1WK{{</world>}}

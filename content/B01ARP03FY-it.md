@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Call of Duty: Black Ops III - Xbox One'
-date: 2026-02-26 08:26:11
+date: 2026-03-07 15:04:00
 image: 'https://m.media-amazon.com/images/I/51MGYJ8v9KL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B01ARP03FY/?tag=tolees00-21'
 descuento: '25.46'
-average: '19.364'
+average: '18.7355555555556'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,8 +28,8 @@ average: '19.364'
 
 ℹ️:
 
-- Una campagna di Call of Duty diversa da ogni altra
 - Gioco cinematografico ed in stile arena
+- Una campagna di Call of Duty diversa da ogni altra
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01ARP03FY{{</world>}}

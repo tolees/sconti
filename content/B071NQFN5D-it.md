@@ -28,8 +28,8 @@ average: '20.99'
 
 ℹ️:
 
-- Semplice da installare
 - Filtro per purificatore daria, rimuove particelle da 20 nm
+- Semplice da installare
 - Per purificatore daria Philips AC1215
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ average: '119.3'
 
 ℹ️:
 
+- Suola/Caratteristiche: TPU 20% riciclato
 - Tomaia: Pelle
 - Fodera: 95% Tessile 80% Lana, 20% Lyocell TENCEL , 4% Pelle 1% Poliestere Riciclato
-- Suola/Caratteristiche: TPU 20% riciclato
 - Colore: Marrone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

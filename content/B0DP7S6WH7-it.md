@@ -28,9 +28,9 @@ average: '69.3'
 
 ℹ️:
 
-- Traspirante
-- Sottopiede estraibile
 - Chiusura con lacci
+- Sottopiede estraibile
+- Traspirante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DP7S6WH7{{</world>}}

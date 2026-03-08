@@ -28,12 +28,12 @@ average: '15.9133333333333'
 
 ℹ️:
 
-- Battle Pack LEGO Star Wars collezionabili: non perdere gli altri Battle Pack LEGO Star Wars (disponibili separatamente), con cui realizzare dei veri plotoni per le battaglie spaziali e vivere tante avventure fantasy
-- Battle Pack Death Trooper e Night Trooper: questo set di giochi per bambini e bambine da 6 anni in su permette di costruire unastronave giocattolo LEGO Star Wars che trasporta un vero plotone, come nelle avventure di Star Wars: Ahsoka
 - Piccolo regalo di compleanno per bambini, bambine e fan: fai una bella sorpresa ai giovani Jedi appassionati di set e di oggetti da collezione LEGO Star Wars, e a tutti gli amanti della serie di Ahsoka
-- Piccolo modello di astronave LEGO Star Wars dropship costruibile: la dropship ha spazio per 4 minifigure LEGO nella parte posteriore, ed è dotata di 2 shooter e di una cabina di pilotaggio con tettuccio rimovibile
+- Battle Pack LEGO Star Wars collezionabili: non perdere gli altri Battle Pack LEGO Star Wars (disponibili separatamente), con cui realizzare dei veri plotoni per le battaglie spaziali e vivere tante avventure fantasy
 - 4 personaggi LEGO Star Wars: il giocattolo comprende le minifigure di 2 Death Trooper e 2 Night Trooper, ciascuno dotato di un casco e di un blaster, pronti a scatenare battaglie spaziali
+- Piccolo modello di astronave LEGO Star Wars dropship costruibile: la dropship ha spazio per 4 minifigure LEGO nella parte posteriore, ed è dotata di 2 shooter e di una cabina di pilotaggio con tettuccio rimovibile
 - Posiziona i blaster LEGO Star Wars: aggancia i blaster dei trooper a fianco dei soldati nella parte posteriore del veicolo giocattolo, e tieniti pronto a dar vita a giochi di ruolo creativi ricchi di fantasia
+- Battle Pack Death Trooper e Night Trooper: questo set di giochi per bambini e bambine da 6 anni in su permette di costruire unastronave giocattolo LEGO Star Wars che trasporta un vero plotone, come nelle avventure di Star Wars: Ahsoka
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DWF1N45H{{</world>}}

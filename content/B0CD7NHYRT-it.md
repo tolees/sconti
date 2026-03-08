@@ -28,11 +28,11 @@ average: '1.19'
 
 ℹ️:
 
-- È SPECIALE PERCHÈ: Con la linea Pasta Venere di Riso Scotti, oggi la pasta ha un gusto in più, il gusto inconfondibile del riso venere
-- CONOSCI IL RISO VENERE? Il riso Venere è coltivato solo in Italia, nelle floride terre della Pianura Padana e della Sardegna e lavorato con cura e attenzione, per esaltarne il gusto e il profumo
-- VIVERE BENE CON GUSTO: Tutta la bontà della pasta, unita ai benefici e al colore unico del riso Venere. Naturalmente integrale, fonte di fibre, fosforo e proteine, la nuova Pasta Venere è l’alleata del tuo benessere
-- SUGGERIMENTI D’USO: Dai grandi classici alle ricette regionali, ogni condimento è quello giusto con i Rigatoni Pasta Venere. In ogni momento e in ogni occasione, Pasta Venere è la scelta migliore
 - I prodotti Riso Scotti ti accompagnano con Gusto e Benessere in ogni momento della giornata. Con la stessa attenzione con cui tu scegli prodotti sani, noi ci impegniamo a offrirti la miglior qualità per un’alimentazione equilibrata
+- SUGGERIMENTI D’USO: Dai grandi classici alle ricette regionali, ogni condimento è quello giusto con i Rigatoni Pasta Venere. In ogni momento e in ogni occasione, Pasta Venere è la scelta migliore
+- È SPECIALE PERCHÈ: Con la linea Pasta Venere di Riso Scotti, oggi la pasta ha un gusto in più, il gusto inconfondibile del riso venere
+- VIVERE BENE CON GUSTO: Tutta la bontà della pasta, unita ai benefici e al colore unico del riso Venere. Naturalmente integrale, fonte di fibre, fosforo e proteine, la nuova Pasta Venere è l’alleata del tuo benessere
+- CONOSCI IL RISO VENERE? Il riso Venere è coltivato solo in Italia, nelle floride terre della Pianura Padana e della Sardegna e lavorato con cura e attenzione, per esaltarne il gusto e il profumo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CD7NHYRT{{</world>}}

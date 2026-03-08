@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Una gustosa avventura per tutta la famiglia
-- Condividila con i tuoi amici o con chi vuoi
-- Materie prime di prima classe
 - Caramelle gommose uniche, originali, travolgenti e colorate
+- Una gustosa avventura per tutta la famiglia
+- Materie prime di prima classe
+- Condividila con i tuoi amici o con chi vuoi
 - Senza coloranti artificiali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

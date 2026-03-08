@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- NAPISAN SGRASSATORE IGIENIZZANTE UNIVERSALE SUPERFICI: rimuove germi e batteri, agisce rapidamente contro sporco e macchie di cibo e rimuove fino al 100% del grasso bruciato e incrostato da 24 ore su più superfici
-- ADATTO A: griglie e fornelli, piastrelle e superfici in vetro, superfici in acciaio e cerchioni veicoli - NON ADATTO A: tessuti, moquette, ottone e rame; in caso di contatto con queste superfici, sciacquare immediatamente con acqua; il contatto prolungato con metallo, vecchia porcellana, plastica laminata può causare scolorimento
 - LA CONFEZIONE: contiene 12 Spray Napisan Sgrassatore Igienizzante Universale Superfici da 740 ml
+- NAPISAN SGRASSATORE IGIENIZZANTE UNIVERSALE SUPERFICI: rimuove germi e batteri, agisce rapidamente contro sporco e macchie di cibo e rimuove fino al 100% del grasso bruciato e incrostato da 24 ore su più superfici
 - ISTRUZIONI DUSO: posizionare lerogatore su "ON" per aprirlo; mantenere la bottiglia in posizione verticale, spruzzare a 20-25 cm dalla superficie da pulire; lasciare agire per 5 minuti, risciacquare con acqua o pulire con una spugna umida; prima dell’uso testare sempre il prodotto su un’area nascosta per 5 minuti; In caso di utilizzo su superfici a contatto con alimenti, risciacquare le superfici con acqua dopo l’uso; Posizionare l’erogatore su “OFF” per richiuderlo, dopo l’uso
+- ADATTO A: griglie e fornelli, piastrelle e superfici in vetro, superfici in acciaio e cerchioni veicoli - NON ADATTO A: tessuti, moquette, ottone e rame; in caso di contatto con queste superfici, sciacquare immediatamente con acqua; il contatto prolungato con metallo, vecchia porcellana, plastica laminata può causare scolorimento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CVLBYRSZ{{</world>}}

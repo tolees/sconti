@@ -28,8 +28,8 @@ average: '52.1893333333333'
 
 ℹ️:
 
-- Larghezza scarpa: Normale
 - Materiale esterno: Pelle
+- Larghezza scarpa: Normale
 - Materiale suola: Gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

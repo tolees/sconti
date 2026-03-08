@@ -28,11 +28,11 @@ average: '28.8'
 
 ℹ️:
 
-- Confezione Regalo Barberia Toscana: un set maschile completo per corpo e viso, ideale prima e dopo la rasatura, con fragranze e texture morbide per un rituale di cura quotidiano elegante e confortevole
+- Formato: il set comprende shampodoccia 50 ml, schiuma da barba 200 ml e balsamo dopobarba 75 ml, alloggiati in una beauty
 - Formulazione: arricchita con proteine del Grano, olio d’Oliva di Tenuta Massaini e cera d’Api, deterge, nutre e protegge pelle e capelli, prevenendo secchezza e irritazioni e donando morbidezza e comfort
 - I set regalo Bottega Verde sono ideali per chi ama prendersi cura di sé in modo naturale: la selezione di prodotti Made in Italy riflette limpegno per la qualità e la sostenibilità, offrendo trattamenti di bellezza efficaci e rispettosi dellambiente
 - Modo d’uso: usare lo shampodoccia per corpo e capelli, applicare la schiuma per una rasatura confortevole e il balsamo dopobarba per idratare e rigenerare la pelle, lasciando una sensazione di freschezza e benessere
-- Formato: il set comprende shampodoccia 50 ml, schiuma da barba 200 ml e balsamo dopobarba 75 ml, alloggiati in una beauty
+- Confezione Regalo Barberia Toscana: un set maschile completo per corpo e viso, ideale prima e dopo la rasatura, con fragranze e texture morbide per un rituale di cura quotidiano elegante e confortevole
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FPGFT7MM{{</world>}}

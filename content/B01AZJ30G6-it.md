@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Per interpretare l’attualità dello stile sovrapposto indossatelo con un pendente lungo
+- Il pendente misura 1,5 x 2 cm ed è abbinato ad una catena di 38 cm
 - Dal 1895 il taglio di precisione del cristallo introdotto dal fondatore Daniel Swarovski connota l’azienda. La sua passione per l’innovazione e il design ne ha fatto il marchio leader del comparto gioielli e accessori a livello globale
 - Una rivisitazione raffinata e contemporanea di un classico intramontabile: il pendente tondo, Il gioiello è proposto nella brillantezza del pavé di Clear Crystal, a cui il metallo rodiato aggiunge una nota contemporanea
-- Il pendente misura 1,5 x 2 cm ed è abbinato ad una catena di 38 cm
 - I gioielli Swarovski sono prodotti delicati creati e lavorati nel rispetto della tradizione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

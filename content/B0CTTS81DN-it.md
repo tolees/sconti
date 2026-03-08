@@ -28,10 +28,10 @@ average: '19.9'
 
 ℹ️:
 
-- DESTINAZIONE D’USO - Per tutta la cucina (rubinetteria, forni, cappe, grill, piani cottura, piani di lavoro, piastrelle, lavandini, grill, frigoriferi) e per tessuti bianchi.
-- RIMUOVE GERMI E BATTERI - Dalle superfici della casa tramite azione meccanica. *Non è un prodotto disinfettante. Rimuove germi e batteri tramite azione meccanica.
-- PIU’ VELOCE DA RISCIACQUARE - Rispetto alla formula precedente.
 - PROFUMO DI ROSA E LAVANDA - Diffonde nellambiente un fresco ed inebriante profumo.
+- PIU’ VELOCE DA RISCIACQUARE - Rispetto alla formula precedente.
+- RIMUOVE GERMI E BATTERI - Dalle superfici della casa tramite azione meccanica. *Non è un prodotto disinfettante. Rimuove germi e batteri tramite azione meccanica.
+- DESTINAZIONE D’USO - Per tutta la cucina (rubinetteria, forni, cappe, grill, piani cottura, piani di lavoro, piastrelle, lavandini, grill, frigoriferi) e per tessuti bianchi.
 - SPRAY SGRASSATORE CON CANDEGGINA - Efficace contro lo sporco più ostinato.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

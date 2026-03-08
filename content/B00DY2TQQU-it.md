@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Materiale esterno: Pelle scamosciata
 - Fodera: Sintetico
 - Tipo di tacco: Senza tacco
 - Chiusura: Senza chiusura
-- Materiale esterno: Pelle scamosciata
 - Materiale suola: Gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

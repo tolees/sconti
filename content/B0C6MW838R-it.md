@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Il Kit Limited Edition "Open Colors" di Averna comprende, insieme alla bottiglia e i bicchieri firmati, l’esclusivo runner in lino disegnato e stampato a mano dalla realtà artigianale Colori del Sole
-- Kit Averna Limited Edition "Open Colors": pensato per rendere speciale la tua tavola attraverso un viaggio alla scoperta dei colori della Sicilia
-- Metodo di produzione: la produzione avviene ancora a Caltanissetta; questo liquore è realizzato secondo la ricetta tradizionale, che è rimasta inalterata dal 1868 e che prevede un processo di infusione lento, senza dubbio uno dei più unici ed autentici
-- Come servirlo: amaro Averna è consigliato degustarlo con ghiaccio e scorza di arancia
 - Profilo sensoriale: si caratterizza per il suo sapore intenso dolce-amaro, con note di arancia e liquirizia bilanciate da mirtillo, ginepro, rosmarino e salvia
+- Metodo di produzione: la produzione avviene ancora a Caltanissetta; questo liquore è realizzato secondo la ricetta tradizionale, che è rimasta inalterata dal 1868 e che prevede un processo di infusione lento, senza dubbio uno dei più unici ed autentici
+- Kit Averna Limited Edition "Open Colors": pensato per rendere speciale la tua tavola attraverso un viaggio alla scoperta dei colori della Sicilia
+- Il Kit Limited Edition "Open Colors" di Averna comprende, insieme alla bottiglia e i bicchieri firmati, l’esclusivo runner in lino disegnato e stampato a mano dalla realtà artigianale Colori del Sole
+- Come servirlo: amaro Averna è consigliato degustarlo con ghiaccio e scorza di arancia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C6MW838R{{</world>}}

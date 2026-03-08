@@ -28,11 +28,11 @@ average: '36.75'
 
 ℹ️:
 
-- 100% Polyester
-- Idrorepellente
+- 0.33 kg
 - Borsetta a Tracolla con Scomparti Multipli
 - 22 Altezza x 29 Larghezza x 16.5 Profondità cm
-- 0.33 kg
+- 100% Polyester
+- Idrorepellente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B083YBXSM7{{</world>}}

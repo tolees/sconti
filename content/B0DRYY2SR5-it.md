@@ -28,11 +28,11 @@ average: '8.99'
 
 ℹ️:
 
-- Dotazione: 1 livella a bolla da 12 cm
-- Livella robusta grazie alle calotte protettive di estremità con elemento antiscivolo Softgrip
 - Livella in alluminio da 12 cm robusta, leggera, compatta da utilizzare in spazi ristretti
-- Misurazioni precise su superfici piane o curve, grazie alla scanalatura a V e al fondo con fresatura a spianare
+- Livella robusta grazie alle calotte protettive di estremità con elemento antiscivolo Softgrip
+- Dotazione: 1 livella a bolla da 12 cm
 - Misurazioni precise e ad alta visibilità, grazie alla bolla orizzontale fluorescente
+- Misurazioni precise su superfici piane o curve, grazie alla scanalatura a V e al fondo con fresatura a spianare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DRYY2SR5{{</world>}}

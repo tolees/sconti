@@ -28,13 +28,13 @@ average: '14.22'
 
 ℹ️:
 
-- Spia di funzionamento, Funzioni spray e self-clean
+- Termostato per controllo temperatura di stiro
+- Volume di vapore 10-20 g/min
+- Capacità: 200 ml
 - Piastra in ceramica per una maggiore scorrevolezza nello stiro
+- Spia di funzionamento, Funzioni spray e self-clean
 - Colpo vapore 80 g/min
 - Potenza: 2000 W
-- Volume di vapore 10-20 g/min
-- Termostato per controllo temperatura di stiro
-- Capacità: 200 ml
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D5R5XHZP{{</world>}}

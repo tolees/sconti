@@ -29,10 +29,10 @@ average: '9.5'
 ℹ️:
 
 - Il set contiene: N.1 SNOW-KISSED HOLIDAY UNLIMITED DOUBLE TOUCH LIMITED EDITION Un vero e proprio rituale per le labbra in 2 step: liconico rossetto liquido a lunga tenuta fino a 16 ore no transfer da un lato, e gloss trasparente dallaltro, per accendere le labbra di colore e una lucentezza a specchio
-- Il set contiene: N.1 CREAMY COLOUR COMFORT LIP LINER Texture cremosa che scivola come seta, precisione da makeup artist: questa matita labbra dalla formula ultra-comfort delinea, definisce e perfeziona il contorno con un tratto morbido e modulabile
 - Perfetto per: regalare o regalarsi la combinazione perfetta tra colore intenso, lucentezza e definizione. La lip combo KIKO per eccellezza, impossibile resistere
 - Un Gift Set Makeup per truccare le labbra con: rossetto e lucidalabbra 2IN1 in edizione limitata e una matita labbra, tutto in una pochette super cool in tessuto
 - UNLIMITED DOUBLE TOUCH Dermatologicamente testato MATITA LABBRA Dermatologicamente testato
+- Il set contiene: N.1 CREAMY COLOUR COMFORT LIP LINER Texture cremosa che scivola come seta, precisione da makeup artist: questa matita labbra dalla formula ultra-comfort delinea, definisce e perfeziona il contorno con un tratto morbido e modulabile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FN8C9WKV{{</world>}}

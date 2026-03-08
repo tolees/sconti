@@ -28,10 +28,10 @@ average: '1.0'
 
 ℹ️:
 
-- Finish lucido con brillantezza dorata
-- Delizioso, dolce profumo di caramello
 - Risultato istantaneo; lucida; brillante
 - Diciamo no ai test sugli animali; cosnova è accreditata a livello internazionale con essence e CATRICE presso PETA Germania e PETA
+- Finish lucido con brillantezza dorata
+- Delizioso, dolce profumo di caramello
 - Texture morbida e non appiccicosa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

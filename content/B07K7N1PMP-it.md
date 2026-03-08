@@ -28,16 +28,16 @@ average: '15.3'
 
 ℹ️:
 
-- Termostato per controllo temperatura di stiro
-- Emissione di vapore anche in verticale
 - Stiratura: a secco e a vapore
-- Alimentazione: AC 220-240V ~ 50/60Hz
-- Piastra in ceramica con asola salvabottoni
-- Volume di vapore: 10-20 g/min - Colpo vapore: 90g/min
 - Capacità: 230cc; serbatoio in materiale trasparente per vedere il livello acqua
+- Volume di vapore: 10-20 g/min - Colpo vapore: 90g/min
+- Termostato per controllo temperatura di stiro
 - Ampia base dappoggio con antiscivolo per maggiore stabilità
+- Alimentazione: AC 220-240V ~ 50/60Hz
 - Spia di funzionamento, super vapore, regolazione vapore, funzione spray
+- Piastra in ceramica con asola salvabottoni
 - Dimensione (L x H x P): 26.5 x 14 x 11
+- Emissione di vapore anche in verticale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07K7N1PMP{{</world>}}

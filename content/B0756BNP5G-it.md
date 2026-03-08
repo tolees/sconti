@@ -28,9 +28,9 @@ average: '31.9'
 
 ℹ️:
 
+- Mumm Cordon Rouge Cl.75. Prodotto di alta qualita. Realizzato con molta attenzione e dedizione. E una bevanda per i tuoi gusti.
 - MUMM CORDON ROUGE CL.75
 - G.H. MUMM
-- Mumm Cordon Rouge Cl.75. Prodotto di alta qualita. Realizzato con molta attenzione e dedizione. E una bevanda per i tuoi gusti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0756BNP5G{{</world>}}

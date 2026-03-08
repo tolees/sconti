@@ -29,10 +29,10 @@ average: '41.36'
 ℹ️:
 
 - Vestibilità elasticizzata
-- Lavabile in lavatrice
+- Memory foam raffreddato ad aria
 - Vegano
 - Slip-in
-- Memory foam raffreddato ad aria
+- Lavabile in lavatrice
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DDTJLCJ9{{</world>}}

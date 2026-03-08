@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Dotazione di fornitura: 11 x punte per metallo Ø 1,5-6,5 mm (per metallo, plexiglas e plastica dura), 6 x punte per pietra Ø 4-10 mm (per muratura, pietra calcarea, naturale e artificiale), 5 x punte per legno Ø 4-10 mm (per legno duro, legno dolce e plastica), 2 x mecchie a spada in titanio Ø 16/22 mm
+- Punte e bit avvitamento X-Line adatti a perforare legno, pietra e metallo
 - Compatibilità: Adatto per tutti i trapani per utilizzo portatile e fisso Pratica valigia Bosch X-Line con disposizione chiara del contenuto
 - Dimensioni: 236 x 259 x 64 mm
-- Punte e bit avvitamento X-Line adatti a perforare legno, pietra e metallo
 - Dotazione di fornitura: 18 bit di avvitamento L = 25 mm (PH 1/2/2/3, PZ 1/2/2/3, S 4/6/7, HEX 3/4/5/6, T 15/20/25), 3 giradadi Ø 7/8/10 mm, 1 raccordo per giradadi, 1 calibro per diametri, 1 coltello, 1 portabit universale, 1 svasatore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

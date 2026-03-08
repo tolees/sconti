@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Modalità duso: introdurre il beccuccio nella narice superiore e premere lerogatore per 1-2 secondi, lasciare agire la soluzione per qualche secondo, ripetere con laltra narice, soffiare il naso
 - Salimar ti aiuta a ripristinare una sana respirazione nasale; Utilizzabile tutti i giorni, più volte al giorno;
 - Da utilizzare in caso di raffreddore, e riniti allergiche
-- Modalità duso: introdurre il beccuccio nella narice superiore e premere lerogatore per 1-2 secondi, lasciare agire la soluzione per qualche secondo, ripetere con laltra narice, soffiare il naso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08VFZ72PZ{{</world>}}

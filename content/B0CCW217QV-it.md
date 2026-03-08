@@ -29,12 +29,12 @@ average: '79.99'
 ℹ️:
 
 - Facile sostituzione – La barra e la catena possono essere sostituite senza attrezzi. In un vano dellalloggiamento è rinchiusa una chiave a brugola per il tensionamento della catena.
-- Lunghezza di taglio – Questa maneggevole sega è dotata di un set di lame/catene di alta qualità con una lunghezza di taglio di 12,5 cm e funziona con una velocità della catena fino a 4,8 m/s.
-- Power X-Change - La fresatrice verticale a batteria GE-PS 18/15 Li-Solo fa parte della famiglia Power X-Change di Einhell, in cui batterie, caricabatteria e apparecchi sono tutti compatibili tra loro.
 - PurePOWER brushless – Il potente motore brushless con scarsa manutenzione garantisce massime prestazioni con autonomia superiore. Dopo la registrazione, il motore è coperto da garanzia per 10 anni.
-- Uso sicuro – La sega è dotata di protezione per le mani, copertura per catena pieghevole e piano di appoggio per entrambe le mani per un uso sicuro.
 - Accessori – La motosega viene fornita con una copertura per una conservazione sicura e di pratico dosatore per loliatura manuale della catena.
+- Power X-Change - La fresatrice verticale a batteria GE-PS 18/15 Li-Solo fa parte della famiglia Power X-Change di Einhell, in cui batterie, caricabatteria e apparecchi sono tutti compatibili tra loro.
+- Lunghezza di taglio – Questa maneggevole sega è dotata di un set di lame/catene di alta qualità con una lunghezza di taglio di 12,5 cm e funziona con una velocità della catena fino a 4,8 m/s.
 - Fornitura senza batteria - La motosega a batteria GE-PS 18/15 Li BL-Solo viene fornita senza batteria Power X-Change né caricabatterie, Acquistabili separatamente.
+- Uso sicuro – La sega è dotata di protezione per le mani, copertura per catena pieghevole e piano di appoggio per entrambe le mani per un uso sicuro.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CCW217QV{{</world>}}

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tanti quiz divertenti e istruttivi, regolamento di gioco facile e divertente, trasforma la scuola in un gioco, scopri chi è il campione
-- Attenzione, lessico, leggere e scrivere, raggiungere obiettivi, rapporto con gli altri, rispetto delle regole, Geografia, Terra e Universo, luomo e lambiente
-- Il gioco di carte dei piccoli geni
 - 55 Carte
+- Il gioco di carte dei piccoli geni
+- Attenzione, lessico, leggere e scrivere, raggiungere obiettivi, rapporto con gli altri, rispetto delle regole, Geografia, Terra e Universo, luomo e lambiente
+- Tanti quiz divertenti e istruttivi, regolamento di gioco facile e divertente, trasforma la scuola in un gioco, scopri chi è il campione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09RSH16NL{{</world>}}

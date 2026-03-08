@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Set caratterizzato da unelevata qualità estetica e una notevole durata nel tempo
 - Bicchieri colorati capienti e pratici
+- Set caratterizzato da unelevata qualità estetica e una notevole durata nel tempo
 - Resistenti e durevoli, sono adatte alluso quotidiano
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

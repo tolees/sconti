@@ -28,11 +28,11 @@ average: '47.0'
 
 ℹ️:
 
-- Grazie ai magneti che si allineano alla perfezione con iPhone 17 Pro, la custodia si aggancia come per magia, e anche la ricarica wireless diventa più veloce
-- Disegnata da Apple per iPhone 17 Pro, la custodia MagSafe in silicone lo protegge con eleganza e si aggancia saldamente alla tracolla, comodissima per portare con te il tuo iPhone e avere le mani libere
+- Quando è il momento di ricaricare non devi nemmeno toglierla: ti basta appoggiare l’iPhone direttamente sull’alimentatore MagSafe o su una base certificata Qi2
 - Funziona alla perfezione con il Controllo fotocamera, che riconosce i movimenti precisi del dito come la pressione o lo scorrimento
 - L’esterno in silicone riciclato al 45% è liscio e piacevole al tatto, mentre la fodera interna in soffice microfibra protegge ogni millimetro del tuo iPhone
-- Quando è il momento di ricaricare non devi nemmeno toglierla: ti basta appoggiare l’iPhone direttamente sull’alimentatore MagSafe o su una base certificata Qi2
+- Disegnata da Apple per iPhone 17 Pro, la custodia MagSafe in silicone lo protegge con eleganza e si aggancia saldamente alla tracolla, comodissima per portare con te il tuo iPhone e avere le mani libere
+- Grazie ai magneti che si allineano alla perfezione con iPhone 17 Pro, la custodia si aggancia come per magia, e anche la ricarica wireless diventa più veloce
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FQFJH747{{</world>}}

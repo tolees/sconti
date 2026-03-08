@@ -28,8 +28,8 @@ average: '35.99'
 
 ℹ️:
 
-- Materiale rifinito in materiale misto.
 - Suola intermedia in EVA con inserto colorato.
+- Materiale rifinito in materiale misto.
 - PCF = Pro Comfort Foam Insock.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

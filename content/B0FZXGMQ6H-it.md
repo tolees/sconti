@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- IL NIDO CHE CONDIVIDIAMO racchiude limpegno del Gruppo Nestlé. Ramo dopo ramo, ogni iniziativa di sostenibilità contribuisce a diffondere il Buono. Scopri di più sul sito Nestlé
 - Barretta di cereali FITNESS con saporiti pezzi di mirtilli rossi
-- Barretta di cereali ricca di avena integrale, che dona croccantezza ed un gusto rustico
-- Visita il sito Nestlé per scoprire come le nostre marche sono scese in campo e contribuiscono al raggiungimento degli obiettivi di sostenibilità del Gruppo Nestlé con progetti concreti
-- La barretta di cereali FITNESS Granola, fonte di fibre, è perfetta per una ricarica di gusto in ogni momento della giornata
 - 20 Confezioni da 2 Barrette ciascuna da 38g (40 Barrette totali, 760g)
+- Visita il sito Nestlé per scoprire come le nostre marche sono scese in campo e contribuiscono al raggiungimento degli obiettivi di sostenibilità del Gruppo Nestlé con progetti concreti
+- Barretta di cereali ricca di avena integrale, che dona croccantezza ed un gusto rustico
+- La barretta di cereali FITNESS Granola, fonte di fibre, è perfetta per una ricarica di gusto in ogni momento della giornata
+- IL NIDO CHE CONDIVIDIAMO racchiude limpegno del Gruppo Nestlé. Ramo dopo ramo, ogni iniziativa di sostenibilità contribuisce a diffondere il Buono. Scopri di più sul sito Nestlé
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FZXGMQ6H{{</world>}}

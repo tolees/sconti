@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- scrittura ultrascorrevole e massima precisione nel tratto
+- Ricaricabile con refill lr7
 - Punta 0,7 mm
 - Adatto per le persone mancine
-- Ricaricabile con refill lr7
+- scrittura ultrascorrevole e massima precisione nel tratto
 - Asciuga subito e non macchia
 - Realizzato con il 50% di materiale riciclato
 

@@ -28,11 +28,11 @@ average: '29.99'
 
 ℹ️:
 
-- Archivio flessibile & massima privacy: scegli tra salvataggio su scheda SD (fino a 256GB) o cloud criptato, per proteggere i tuoi dati dalle telecamere wifi da esterno o dalla telecamera wifi interno batteria. Compatibile anche con Alexa, le telecamere a batteria virtavo offrono la massima flessibilità per ogni esigenza di video camera wifi per esterno o interno.
 - Rilevamento PIR intelligente & notifiche rapide: Il sensore PIR rileva movimenti fino a 10 metri e invia notifiche istantanee sull’app. L’audio bidirezionale permette di comunicare facilmente con chi è vicino a casa, offrendo maggiore sicurezza all’esterno.
 - Batteria lunga durata per uso esterno: la telecamera wifi esterno senza fili è dotata di batteria ricaricabile ad alta capacità (4400 mAh) per un’autonomia fino a 3 mesi con una sola carica. Dimentica le ricariche frequenti! Progettata per funzionare in modo affidabile all’aperto tutto l’anno. (Nota: non supporta la registrazione continua 24/7.)
 - Visione 2K Starlight giorno e notte: la nostra telecamera wi-fi esterno senza fili offre immagini 2K QHD con dettagli nitidi e colori vivaci sia di giorno che di notte. Grazie all’obiettivo Starlight F1.6 e ai 2 LED IR 850nm, questa telecamera a batteria garantisce visione notturna di alta qualità anche con poca luce, ideale per la videosorveglianza esterno e la protezione di casa e giardino.
 - Installazione semplice & controllo remoto: l’installazione delle telecamere senza fili da esterno è rapida e senza necessità di tecnici. Tramite l’app HOME V puoi monitorare la telecamera interno senza fili, la telecamera wi-fi esterno a batteria o la videocamera sorveglianza interno wifi direttamente dal tuo smartphone, ovunque e in qualsiasi momento.
+- Archivio flessibile & massima privacy: scegli tra salvataggio su scheda SD (fino a 256GB) o cloud criptato, per proteggere i tuoi dati dalle telecamere wifi da esterno o dalla telecamera wifi interno batteria. Compatibile anche con Alexa, le telecamere a batteria virtavo offrono la massima flessibilità per ogni esigenza di video camera wifi per esterno o interno.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CQNY5PNL{{</world>}}

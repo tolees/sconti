@@ -28,10 +28,10 @@ average: '108.393333333333'
 
 ℹ️:
 
-- Tipo di tacco: senza tacco
 - Grado di resistenza allacqua: non impermeabile
-- Larghezza scarpa: media
 - Materiale esterno: pelle
+- Tipo di tacco: senza tacco
+- Larghezza scarpa: media
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B3KST765{{</world>}}

@@ -28,15 +28,15 @@ average: '149.99'
 
 ℹ️:
 
-- CONTENUTO: 1x Telecamera Arlo Floodlight con cavo, 1x Scatola di derivazione, 1x Gancio a S, 2x Kit di viti e cappucci, 1x Videocitofono Arlo, 1x Cavo di ricarica USB, 1x Kit di prolunga per cavi, 1x Piastra di montaggio, 1x Staffa angolata, 1x Pernetto di rilascio, 2x Guide rapide all’installazione.
-- SENZA COSTI MENSILI: Goditi rilevamento del movimento, streaming live e audio bidirezionale senza abbonamento; inclusa prova gratuita del servizio Arlo Secure per testare le funzionalità premium
-- NUOVA APP ARLO SECURE: Risposta più rapida; impostazioni personalizzate e un maggiore controllo della sicurezza con l’amatissima app Arlo Secure
-- RISOLUZIONE 2K CON HDR PER UN VIDEO NITIDO E DEFINITO: Ingrandisci gli elementi nel video senza distorsioni; per poterti concentrare sui dettagli importanti come gli animali nel giardino o le persone sul vialetto
 - COMPATIBILE CON LA TUA SMART HOME: La telecamera Arlo Floodlight cablata supporta i tuoi dispositivi per smart home preferiti; per la massima comodità e facilità d’uso
-- ABBONAMENTO ARLO SECURE: Ricevi notifiche intelligenti basate su intelligenza artificiale (persone, pacchi, animali); zone di attività personalizzabili, archiviazione cloud e protezione antifurto della telecamera; puoi annullare in qualsiasi momento
-- AMPIA VISUALE DI 160°: Controlla un’area più ampia della tua casa; così saprai subito quando qualcuno si sta avvicinando per poter agire tempestivamente
-- ADATTABILE ALLE TUE ESIGENZE DI SICUREZZA: Luci e telecamera regolabili, più abbonamenti Arlo Secure, offrono la personalizzazione ideale; ad esempio, accendi le luci del vialetto per i bambini che rientrano o per il cane in giardino
+- NUOVA APP ARLO SECURE: Risposta più rapida; impostazioni personalizzate e un maggiore controllo della sicurezza con l’amatissima app Arlo Secure
 - VISIONE NOTTURNA A COLORI: La visione notturna a colori 2K ti consente di vedere distintamente e con precisione ciò che accade a casa tua; anche al buio
+- CONTENUTO: 1x Telecamera Arlo Floodlight con cavo, 1x Scatola di derivazione, 1x Gancio a S, 2x Kit di viti e cappucci, 1x Videocitofono Arlo, 1x Cavo di ricarica USB, 1x Kit di prolunga per cavi, 1x Piastra di montaggio, 1x Staffa angolata, 1x Pernetto di rilascio, 2x Guide rapide all’installazione.
+- RISOLUZIONE 2K CON HDR PER UN VIDEO NITIDO E DEFINITO: Ingrandisci gli elementi nel video senza distorsioni; per poterti concentrare sui dettagli importanti come gli animali nel giardino o le persone sul vialetto
+- AMPIA VISUALE DI 160°: Controlla un’area più ampia della tua casa; così saprai subito quando qualcuno si sta avvicinando per poter agire tempestivamente
+- SENZA COSTI MENSILI: Goditi rilevamento del movimento, streaming live e audio bidirezionale senza abbonamento; inclusa prova gratuita del servizio Arlo Secure per testare le funzionalità premium
+- ADATTABILE ALLE TUE ESIGENZE DI SICUREZZA: Luci e telecamera regolabili, più abbonamenti Arlo Secure, offrono la personalizzazione ideale; ad esempio, accendi le luci del vialetto per i bambini che rientrano o per il cane in giardino
+- ABBONAMENTO ARLO SECURE: Ricevi notifiche intelligenti basate su intelligenza artificiale (persone, pacchi, animali); zone di attività personalizzabili, archiviazione cloud e protezione antifurto della telecamera; puoi annullare in qualsiasi momento
 - FARETTO CON LUCE POTENTE: Illumina la tua proprietà fino a 8 metri grazie ai LED da 2000 lumen; con potenza e tonalità cromatica regolabili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

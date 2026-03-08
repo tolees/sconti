@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- INGREDIENTI 100% NATURALI: Lestratto biologico di genziana blu stimola la produzione di collagene e rende la pelle soda; lestratto biologico di stella alpina rafforza la barriera cutanea e aiuta a rallentare linvecchiamento cutaneo
 - Tollerabilità oftalmologicamente e dermatologicamente testata, anche per i portatori di lenti a contatto
 - IL TUO COLLAGENE NATURALMENTE POTENZIATO: Collagen+ Active Complex, che combina genziana blu biologica e stella alpina biologica, aumenta la quantità di collagene nella pelle; la pelle è nutrita, rimpolpata e acquista elasticità; lincarnato è radioso e la pelle è morbida come il velluto; non comedogenico; tollerabilità cutanea testata sotto controllo clinico e dermatologico
 - CONTORNO OCCHI E LABBRA RIDENSIFICANTE: Formula Lenitiva per una pelle visibilmente compatta; il Collagen+ Active Complex migliora il contenuto di collagene nella pelle
-- INGREDIENTI 100% NATURALI: Lestratto biologico di genziana blu stimola la produzione di collagene e rende la pelle soda; lestratto biologico di stella alpina rafforza la barriera cutanea e aiuta a rallentare linvecchiamento cutaneo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CBBVBVX2{{</world>}}

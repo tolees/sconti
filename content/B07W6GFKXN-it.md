@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Ultra leggero: linnovativo endoscheletro del mouse crea un guscio esterno ultrasottile ma resistente, consentendo al corpo di pesare solo 80 g
 - Sensore HERO 25K: alte prestazioni a qualsiasi sensibilità, con zero smoothing, accelerazione o filtraggio; il mouse per PC è ottimizzato per tracciare movimenti audaci a velocità oltre i 400 IPS
+- Design ergonomico ambidestro: un mouse gaming subito pronto per luso durante i tornei e sviluppato con professionisti e giocatori di eSport per offrire comfort, controllo e durata
 - Wireless LIGHTSPEED: una tecnologia che supera le limitazioni di latenza, connettività e potenza per offrire una connessione costante, senza ritardi e veloce con una frequenza di aggiornamento di 1 ms
 - Progettato per ispirare, scelto per i campioni: porta il tuo gioco al livello successivo con la precisione del Mouse da Gaming Wireless Logitech G PRO, creato per ispirare i gamer di League of Legends
-- Design ergonomico ambidestro: un mouse gaming subito pronto per luso durante i tornei e sviluppato con professionisti e giocatori di eSport per offrire comfort, controllo e durata
+- Ultra leggero: linnovativo endoscheletro del mouse crea un guscio esterno ultrasottile ma resistente, consentendo al corpo di pesare solo 80 g
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07W6GFKXN{{</world>}}

@@ -28,11 +28,11 @@ average: '15.8'
 
 ℹ️:
 
-- COTTURA: 13 minuti per una pasta "al dente" e 14 minuti per una cottura completa. La trafilatura al bronzo e laccurata selezione dei grani duri garantiscono una pasta sempre al dente, buona e sana. Con un contenuto proteico del 14%
-- PACK ECOSOSTENIBILE: Armando si prende cura dellambiente, grazie al pack completamente riciclabile con la carta
-- PASTA ARMANDO: Pasta di Semola di Grano Duro 100% Italiano, Trafila al Bronzo ed Essiccata Lentamente, lavorata secondo il Metodo Tradizionale. Il suo sapore speciale è riconoscibile tra mille
 - FILIERA CONTROLLATA: il grano è coltivato solo dagli agricoltori della filiera Armando che garantisce zero residui di pesticidi e glifosato, utilizzati nella coltivazione e nella conservazione del grano
+- PASTA ARMANDO: Pasta di Semola di Grano Duro 100% Italiano, Trafila al Bronzo ed Essiccata Lentamente, lavorata secondo il Metodo Tradizionale. Il suo sapore speciale è riconoscibile tra mille
+- PACK ECOSOSTENIBILE: Armando si prende cura dellambiente, grazie al pack completamente riciclabile con la carta
 - LO SPAGHETTONE: formato di pasta pensato dallo Chef Alessandro Borghese, dalla perfetta tenuta in cottura e al morso. Il più grosso tra gli spaghetti Armando
+- COTTURA: 13 minuti per una pasta "al dente" e 14 minuti per una cottura completa. La trafilatura al bronzo e laccurata selezione dei grani duri garantiscono una pasta sempre al dente, buona e sana. Con un contenuto proteico del 14%
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09W6RDT35{{</world>}}

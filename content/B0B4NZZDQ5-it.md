@@ -28,17 +28,17 @@ average: '39.5475'
 
 ℹ️:
 
+- Design compatto, ideale per luso a casa, in ufficio o durante gli spostamenti
+- Accedi ad una potenza di 65 W quando usi solo una porta USB-C o a 45 W + 20 W quando le usi entrambe
+- Accedi ad una potenza di 65 W quando usi solo una porta USB-C o a 45 W + 20 W quando le usi entrambe
+- Ricarica rapidamente due dispositivi compatibili nello stesso istante con le 2 porte USB-C*
+- Con tecnologia USB-C PD 3.0 per ricaricare un iPhone 13 dallo 0 al 50% in 28 minuti e un Samsung Galaxy S21+ dallo 0 al 50% in 27 minuti
+- Ottimizzato per Apple, Samsung, Nintendo Switch e altri dispositivi compatibili
 - La tecnologia PPS fornisce in modo dinamico unalimentazione ottimale ai dispositivi compatibili
 - La tecnologia GaN integrata garantisce una ricarica efficace e ad alta potenza, senza creare surriscaldamento
-- Con tecnologia USB-C PD 3.0 per ricaricare un iPhone 13 dallo 0 al 50% in 28 minuti e un Samsung Galaxy S21+ dallo 0 al 50% in 27 minuti
-- Accedi ad una potenza di 65 W quando usi solo una porta USB-C o a 45 W + 20 W quando le usi entrambe
-- Con tecnologia USB-C PD 3.0 per ricaricare un iPhone 13 dallo 0 al 50% in 28 minuti e un Samsung Galaxy S21+ dallo 0 al 50% in 27 minuti
 - Ricarica rapidamente due dispositivi compatibili nello stesso istante con le 2 porte USB-C*
-- Accedi ad una potenza di 65 W quando usi solo una porta USB-C o a 45 W + 20 W quando le usi entrambe
+- Con tecnologia USB-C PD 3.0 per ricaricare un iPhone 13 dallo 0 al 50% in 28 minuti e un Samsung Galaxy S21+ dallo 0 al 50% in 27 minuti
 - Ottimizzato per Apple, Samsung, Nintendo Switch e altri dispositivi compatibili
-- Ottimizzato per Apple, Samsung, Nintendo Switch e altri dispositivi compatibili
-- Ricarica rapidamente due dispositivi compatibili nello stesso istante con le 2 porte USB-C*
-- Design compatto, ideale per luso a casa, in ufficio o durante gli spostamenti
 - La tecnologia GaN integrata garantisce una ricarica efficace e ad alta potenza, senza creare surriscaldamento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- FACILE E PRATICO DA USARE: Scegliere la compressa del formato adatto al peso del cane; aprire la scatola e rimuovere una compressa masticabile dal confezionamento; porgere la compressa al cane, assicurandosi che la mastichi e la ingerisca; è una compressa masticabile e gustosa al sapore di carne; somministrabile con o senza cibo
 - DURATA: Una sola compressa di FRONTPRO elimina le pulci entro 8 ore e le zecche entro 48 ore; prodotto insetticida e acaricida, azione mirata fino a 1 mese
-- FORMATO PRODOTTO: Confezione da 3 compresse per cani di taglia XL, con un peso compreso tra 25 e 50 kg
 - DATA SCADENZA E ULTERIORI DETTAGLI: FRONTPRO è somministrabile ai cuccioli a partire dalle 8 settimane di vita e/o di peso superiore ai 2 kg; scadenza riportata sulla confezione; non utilizzare il prodotto per altri animali; tenere fuori dalla vista e dalla portata dei bambini; per ogni ulteriore informazione consultare il foglietto illustrativo
 - TRATTAMENTO OTTIMALE: FRONTPRO è una gustosa compressa masticabile, elimina pulci e zecche, azione mirata fino a 30 giorni; il prodotto elimina le pulci prima che producano le uova prevenendo quindi la contaminazione della casa
+- FORMATO PRODOTTO: Confezione da 3 compresse per cani di taglia XL, con un peso compreso tra 25 e 50 kg
+- FACILE E PRATICO DA USARE: Scegliere la compressa del formato adatto al peso del cane; aprire la scatola e rimuovere una compressa masticabile dal confezionamento; porgere la compressa al cane, assicurandosi che la mastichi e la ingerisca; è una compressa masticabile e gustosa al sapore di carne; somministrabile con o senza cibo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BSL8JYCZ{{</world>}}

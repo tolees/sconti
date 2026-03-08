@@ -29,11 +29,11 @@ average: '176.33'
 ℹ️:
 
 - Puoi scegliere rapidamente se goderti un espresso singolo o doppio. La macchina può essere utilizzata anche con tamponi ESE
-- Il contenitore per il latte rimovibile è facile da riempire e pulire e consente di conservare il latte rimasto in frigorifero
-- La termocoppia riscalda lacqua in modo uniforme per preparare bevande calde.
-- Il montalatte automatico frusta il latte in una schiuma leggera e cremosa
-- Caffè di qualità da barista nel comfort di casa tua La pompa italiana da 19 bar fornisce la pressione perfetta per estrarre deliziosi sapori di caffè
 - Nota Non pulire il serbatoio dellacqua e il coperchio del serbatoio in lavastoviglie.
+- Caffè di qualità da barista nel comfort di casa tua La pompa italiana da 19 bar fornisce la pressione perfetta per estrarre deliziosi sapori di caffè
+- La termocoppia riscalda lacqua in modo uniforme per preparare bevande calde.
+- Il contenitore per il latte rimovibile è facile da riempire e pulire e consente di conservare il latte rimasto in frigorifero
+- Il montalatte automatico frusta il latte in una schiuma leggera e cremosa
 - Il semplice controllo con un solo pulsante garantisce un funzionamento intuitivo durante la preparazione di cappuccini, latte macchiato e altro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ average: '176.1975'
 
 - Design elegante e resistente con certificazione MIL810H e Gorilla Glass 7i.
 - Dai vita allintrattenimento con uno schermo pOLED da 6,67” sorprendentemente nitido e luminoso.
-- Batteria da 5200 mAh e ricarica rapida da33W. Approfitta di una durata della batteria maggiore e di ore e ore di autonomia in pochi minuti di ricarica.
 - Sistema fotografico da 50 MP con sensore luce ambiente. Scatta foto straordinariamente dettagliate sia di giorno che di notte e cattura una porzione più grande della scena con lobiettivo ultragrandangolare.
+- Batteria da 5200 mAh e ricarica rapida da33W. Approfitta di una durata della batteria maggiore e di ore e ore di autonomia in pochi minuti di ricarica.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F7RTGCKM{{</world>}}

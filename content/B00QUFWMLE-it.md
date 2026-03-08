@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Colore: bianco
 - Qtà supporti in dotazione: 25
 - Max; velocità di scrittura: 6x
-- Colore: bianco
 - Tipo: bd-r
 - Capacità di memoria: 50.0
 

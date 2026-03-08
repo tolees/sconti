@@ -28,9 +28,9 @@ average: '3.86333333333333'
 
 ℹ️:
 
+- Da applicare sulla zona T
 - La sua azione purificante rimuove le impurità
 - Maschera Garnier per rimuovere i punti neri
-- Da applicare sulla zona T
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07FXQV773{{</world>}}

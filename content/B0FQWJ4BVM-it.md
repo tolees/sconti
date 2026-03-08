@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Un nuovo capitolo per la famosa saga in prima persona di Metroid
-- Edizione migliorata per Nintendo Switch 2
 - Modalità Performance: 1080p e 120 FPS docked/720p e 120 FPS in modalità portatile/da tavolo
-- Modalità Qualità: 4k e 60 FPS nella base/1080p e60 FPS in modalità portatile/da tavolo
+- Edizione migliorata per Nintendo Switch 2
 - Supporto ai comandi stile mouse dei Joy-Con 2; Azione, Sparatutto in prima persona
+- Modalità Qualità: 4k e 60 FPS nella base/1080p e60 FPS in modalità portatile/da tavolo
+- Un nuovo capitolo per la famosa saga in prima persona di Metroid
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FQWJ4BVM{{</world>}}

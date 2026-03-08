@@ -29,11 +29,11 @@ average: '23.34'
 ℹ️:
 
 - CARATTERI DISTINTIVI: Semplicità e piacevolezza fanno di questo vino spumante un ottimo aperitivo, di assoluta finezza e dai freschi e distinti aromi fruttati e floreali.
-- BRAND: Esperienza umana, tradizione, ricerca, innovazione: grazie ai valori fondanti dell’azienda vitivinicola Batasiolo, l’arte millenaria della produzione del vino diventa eccellenza contemporanea.
 - VINIFICAZIONE: Tale tipologia di vino, secondo il metodo Charmat, è soggetta inoltre ad una seconda fermentazione a temperatura controllata in autoclave per almeno tre mesi, al fine di ottenere il perlage adeguato in bottiglia. Questo processo di vinificazione permette di ottenere una cuvée ottimale.
-- VITIGNI: Pinot Bianco e Chardonnay sono la combinazione vincente per una bollicina conviviale, fresca e leggera. Le uve raccolte da questi vitigni a fine estate preservano la naturale acidità e profumi floreali e citrici, producendo un vino giovane da bere nei primi anni di età.
 - ABBINAMENTI GASTRONOMICI: Questo spumante è l’accompagnamento ideale per antipasti e aperitivi. I profumi e i sapori che le varietà a bacca bianca destinate alla spumantizzazione si sposano armoniosamente con fritti di pesce, piatti di carne bianca.
 - ALLERGENI: Contiene solfiti
+- VITIGNI: Pinot Bianco e Chardonnay sono la combinazione vincente per una bollicina conviviale, fresca e leggera. Le uve raccolte da questi vitigni a fine estate preservano la naturale acidità e profumi floreali e citrici, producendo un vino giovane da bere nei primi anni di età.
+- BRAND: Esperienza umana, tradizione, ricerca, innovazione: grazie ai valori fondanti dell’azienda vitivinicola Batasiolo, l’arte millenaria della produzione del vino diventa eccellenza contemporanea.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CHMXYZ9Y{{</world>}}

@@ -28,12 +28,12 @@ average: '22.92'
 
 ℹ️:
 
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
-- Ingredienti cucinati al vapore per mantenere intatte le proprietà organolettiche e non disperdere i minerali e le vitamine aumentando così il valore nutrizionale dellalimento. Il brodo di cottura contribuisce in maniera naturale a migliorare l’apporto giornaliero di liquidi, importanti per la corretta idratazione dell’organismo del gatto.
-- Lumido ha una funzione idratante indispensabile perché il gatto beve poco spontaneamente. Inoltre, quando lumido è di qualità HFC, oltre a idratare, apporta proteine nobili e altamente digeribili in quantità significative.
-- Almo Nature é il brand attivista 100% di proprietà della Fondazione Capellino: Ogni volta che acquisti i nostri alimenti, sostieni l’attivismo generato dalla Reintegration Economy e contribuisci alla salvaguardia della biodiversità.
 - Le ricette HFC sono preparate con ingredienti in origine idonei al consumo umano, ora alimento per il tuo gatto per una naturale appetibilità senza additivi chimici o aromatizzanti.
+- Lumido ha una funzione idratante indispensabile perché il gatto beve poco spontaneamente. Inoltre, quando lumido è di qualità HFC, oltre a idratare, apporta proteine nobili e altamente digeribili in quantità significative.
 - Gluten Free: lunico cereale presente nella ricetta é il riso, naturalmente privo di glutine
+- Ingredienti cucinati al vapore per mantenere intatte le proprietà organolettiche e non disperdere i minerali e le vitamine aumentando così il valore nutrizionale dellalimento. Il brodo di cottura contribuisce in maniera naturale a migliorare l’apporto giornaliero di liquidi, importanti per la corretta idratazione dell’organismo del gatto.
+- Almo Nature é il brand attivista 100% di proprietà della Fondazione Capellino: Ogni volta che acquisti i nostri alimenti, sostieni l’attivismo generato dalla Reintegration Economy e contribuisci alla salvaguardia della biodiversità.
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F131TND5{{</world>}}

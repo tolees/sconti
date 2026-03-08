@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Detersivo liquido per pavimenti
-- 1250 ml
 - Profumazione brillante
+- 1250 ml
+- Detersivo liquido per pavimenti
 - Questo prodotto rispetta le regole di produzione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

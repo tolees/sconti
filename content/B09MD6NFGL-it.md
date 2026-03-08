@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tutti gli accessori sono riposti in modo compatto: il tubo di aspirazione può essere agganciato alla testa del WD, gli accessori riposti nel Vano porta accessori e il cavo sul porta cavo integrato. E disponibile anche una posizione parking per le pause dal lavoro.
-- Nella confezione: WD 2 Plus V-12/4/18/C, 1 Filtro a Cartuccia, 1 Sacchetto in Vello, 1 Bocchetta per pavimenti, 1 Bocchetta per fessure, Tubo di Aspirazione 1,8m con impugnatura, Tubo Rigido di Aspirazione in Plastica, Rotelle.
-- Filtro a cartuccia: Facile da montare e con gancio a rotazione che non necessita di ulteriori elementi di bloccaggio. Possibilità di aspirare liquidi senza cambiare il filtro. Sacchetto in Vello resistente, antistrappo, con un alto grado di ritenzione della polvere e dura tre volte di più rispetto ai normali sacchetti in carta.
 - Aspirazione Professionale: Risultati di pulizia efficienti sia per lo sporco solido (come polvere, terra o residui grossolani) che per laspirazione di liquidi (acqua, olio, fango). Funzione Soffiante: La funzione soffiante è disponibile su tutta la gamma ed è ideale ad esempio per raggruppare le foglie secche o altro sporco difficilmente aspirabile senza sforzo.
+- Filtro a cartuccia: Facile da montare e con gancio a rotazione che non necessita di ulteriori elementi di bloccaggio. Possibilità di aspirare liquidi senza cambiare il filtro. Sacchetto in Vello resistente, antistrappo, con un alto grado di ritenzione della polvere e dura tre volte di più rispetto ai normali sacchetti in carta.
 - Caratteristiche tecniche: gli Aspiratori solidi-liquidi Kärcher sono indicati per aspirare soldi e liquidi in qualsiasi situazione di sporco estremo in aree esterne, terrazzi e giardini, garage e allinterno della casa. Perfetti per la pulizia degli interni Auto grazie agli accessori dedicati e alle bocchette multifunzione. Con fusto in Plastica da 12 litri con elevata resistenza agli urti, Cavo elettrico da 4m e un Tubo di Aspirazione da 1,8m.
+- Nella confezione: WD 2 Plus V-12/4/18/C, 1 Filtro a Cartuccia, 1 Sacchetto in Vello, 1 Bocchetta per pavimenti, 1 Bocchetta per fessure, Tubo di Aspirazione 1,8m con impugnatura, Tubo Rigido di Aspirazione in Plastica, Rotelle.
+- Tutti gli accessori sono riposti in modo compatto: il tubo di aspirazione può essere agganciato alla testa del WD, gli accessori riposti nel Vano porta accessori e il cavo sul porta cavo integrato. E disponibile anche una posizione parking per le pause dal lavoro.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09MD6NFGL{{</world>}}

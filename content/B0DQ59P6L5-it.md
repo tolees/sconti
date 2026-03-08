@@ -29,8 +29,8 @@ average: '5.97'
 ℹ️:
 
 - Sulla copertina ci sono due elastici: uno per fissare il telefono cellulare e laltro per inserire una penna, rendendolo un quaderno ideale per partecipare alle riunioni.
-- Con 120 pagine a righe con certificazione FSC, che garantisce che è stato realizzato con carta proveniente da foreste gestite in modo responsabile.
 - Quaderno formato A5 con rilegatura cucita e copertine rigide.
+- Con 120 pagine a righe con certificazione FSC, che garantisce che è stato realizzato con carta proveniente da foreste gestite in modo responsabile.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DQ59P6L5{{</world>}}

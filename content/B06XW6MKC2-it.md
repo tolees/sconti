@@ -29,11 +29,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - 100% RICICLABILE: senza plastica e certificata PEFC per la gestione sostenibile delle foreste
-- FORMATO TRASPORTABILE: un senza tempo
 - SPIRALATURA RINFORZATA: permette unapertura a 360°, ideale per lutilizzo fronte/retro dei fogli.
 - DUREVOLE E RESISTENTE: copertina in carta lustrée che imita la trama del cuoio, dallo stile semplice e autentico!
-- DOLCE SCRITTURA: Carta Clairefontaine Bianca pergamena vellutata al tatto 90g/m² di QUALITA SUPERIORE con unopacità e una resistenza straordinari
+- FORMATO TRASPORTABILE: un senza tempo
 - Prodotto in FRANCIA
+- DOLCE SCRITTURA: Carta Clairefontaine Bianca pergamena vellutata al tatto 90g/m² di QUALITA SUPERIORE con unopacità e una resistenza straordinari
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B06XW6MKC2{{</world>}}

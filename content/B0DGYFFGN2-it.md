@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Le torri cambiano continuamente posizione mentre i maghi competono per arrivare per primi al Castello del Corvo: saranno i tuoi oppure quelli degli avversari?
-- Muovi i tuoi maghi lungo il percorso e imprigiona gli avversari grazie alle torri volanti!
 - Gestisci una squadra di giovani maghi e cerca di arrivare per primo al Castello del Corvo.
+- Muovi i tuoi maghi lungo il percorso e imprigiona gli avversari grazie alle torri volanti!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DGYFFGN2{{</world>}}

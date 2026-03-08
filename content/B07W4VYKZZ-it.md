@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Passanti per cintura
-- Composizione: 64% viscosa; 31% poliestere; 5% elastan
-- Tinta unita
-- Pantaloni classici skinny
-- Chiusura lampo e bottone
 - Chino con tasche laterali
+- Pantaloni classici skinny
+- Composizione: 64% viscosa; 31% poliestere; 5% elastan
+- Passanti per cintura
+- Tinta unita
+- Chiusura lampo e bottone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07W4VYKZZ{{</world>}}

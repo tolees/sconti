@@ -28,9 +28,9 @@ average: '13.89'
 
 ℹ️:
 
-- AEROREADY
-- 100% poliestere (riciclato)
 - Girocollo a coste
+- 100% poliestere (riciclato)
+- AEROREADY
 - Spazio vuoto personalizzabile
 - Vestibilità regolare
 

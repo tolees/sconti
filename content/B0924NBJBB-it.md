@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- COMPATIBILITÀ: la borsa Prelude è adatta per tutti i notebook e i dispositivi mobili con diagonale fino a 15,6"
+- MATERIALE: realizzata interamente in poliestere impermeabile, il suo tessuto la rende adatta per spostarsi sempre con il massimo comfort
 - DIMENSIONI: la borsa misura 40 x 6 x 28,5 cm (L x P x A) e ha un peso di 300 grammi
 - FUNZIONALITÀ: la borsa, dotata di spallacci imbottiti e un tocco di colore blu sulla cerniera, è elegante, leggera e resistente, ideale per essere utilizzata nel corso di viaggi; è fissabile al trolley
-- MATERIALE: realizzata interamente in poliestere impermeabile, il suo tessuto la rende adatta per spostarsi sempre con il massimo comfort
-- COMPATIBILITÀ: la borsa Prelude è adatta per tutti i notebook e i dispositivi mobili con diagonale fino a 15,6"
 - TASCHE: la borsa Prelude è dotata di una tasca interna dedicata ai PC con diagonale fino a 39,6 cm (15,6 pollici) e di numerose tasche organizer per penne, dispositivi mobili e accessori
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ average: '104.95'
 ℹ️:
 
 - Cappuccio regolabile
-- Il nostro nuovo softshell WindWall combina una bassa permeabilità allaria con un tessuto interno in pile super caldo
 - Tasca sul petto
+- Il nostro nuovo softshell WindWall combina una bassa permeabilità allaria con un tessuto interno in pile super caldo
 - Polsini elastici legati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

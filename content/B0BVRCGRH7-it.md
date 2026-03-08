@@ -28,11 +28,11 @@ average: '19.965'
 
 ℹ️:
 
-- PER UNA TISANA ANCORA PIÙ DOLCE: Per rendere ogni tisana ancora più dolce, prova ad aggiungere lo sciroppo dAgave Biologico Equilibra
-- UNA TISANA AL GIORNO: Mettere 1 filtro in 1 tazza di acqua bollente (200 ml) e lasciare in infusione per circa 5 minuti. Per ogni tisana si consigliano massimo 2 filtri al giorno
 - CARATTERISTICHE: Include filtri delle seguenti tisane: Tisana Digestiva, Tisana Relax e Riposo, Tisana Detox, Tisana Pancia Piatta, Tisana Energia e Vitalità, Tisana Snella e in Linea
-- EQUILIBRA: Da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto di un perfetto equilibrio tra rispetto, efficacia, benessere e bellezza
 - SELEZIONE DI DIVERSE TISANE: Cofanetto di tisane Equilibra. Contiene 10 filtri di una selezione di 6 tisane con 100% ingredienti funzionali
+- EQUILIBRA: Da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto di un perfetto equilibrio tra rispetto, efficacia, benessere e bellezza
+- UNA TISANA AL GIORNO: Mettere 1 filtro in 1 tazza di acqua bollente (200 ml) e lasciare in infusione per circa 5 minuti. Per ogni tisana si consigliano massimo 2 filtri al giorno
+- PER UNA TISANA ANCORA PIÙ DOLCE: Per rendere ogni tisana ancora più dolce, prova ad aggiungere lo sciroppo dAgave Biologico Equilibra
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BVRCGRH7{{</world>}}

@@ -28,11 +28,11 @@ average: '5.99'
 
 ℹ️:
 
+- Risultato: grazie ad Omino Bianco Salva i Colori i fogli catturano il colore prima che si depositi sui vestiti avendo come risultato un bucato con bianchi splendenti e colori più brillanti senza incidenti durante il lavaggio
+- Uso: il prodotto è indicato per tutti i tipo di tessuti e a tutte le temperature; Adatto anche per capi dai colori intensi (in questo caso utilizzare minimo 3 fogli)
 - Dosaggio: inserire sul fondo del cestello Omino Bianco Salva i Colori dopo aver accuratamente aperto, nella misura di 1 foglio per mezzo carico e 2 fogli per un carico completo; Aggiungere la biancheria nella lavatrice e dosare il detersivo come d’abitudine; Gettare il foglio Salva i Colori alla fine del lavaggio
 - Azione: con la tecnologia Color AttrActive System, grazie allo speciale sistema che combina il tessuto con cuscinetti assorbi-colore e la formula con molecole cattura-colore, il foglio intrappola il grigio e i colori dispersi nel lavaggio per impedirne il trasferimento
 - Prodotto: Omino Bianco fogli salva colore in tessuto con cuscinetti assorbi-colore e formula cattura-colore per un’azione mirata
-- Uso: il prodotto è indicato per tutti i tipo di tessuti e a tutte le temperature; Adatto anche per capi dai colori intensi (in questo caso utilizzare minimo 3 fogli)
-- Risultato: grazie ad Omino Bianco Salva i Colori i fogli catturano il colore prima che si depositi sui vestiti avendo come risultato un bucato con bianchi splendenti e colori più brillanti senza incidenti durante il lavaggio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07V6KQP53{{</world>}}

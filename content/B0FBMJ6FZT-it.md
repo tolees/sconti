@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- CAPELLI SECCHI e DANNEGGIATI in DIFFICOLTÀ? Ti lanciamo una corda australiana per capelli incredibilmente idratati; datti una bella riparata!
 - RIPARA & RIVITALIZZA: il balsamo districante Aussie aiuta a riparare e rivitalizzare i capelli stressati, proteggendoli dai danni futuri
-- LA FILOSOFIA AUSSIE: "Nella vita cè molto oltre i capelli, ma sono un buon punto di partenza
-- DONATI CAPELLI INCREDIBILMENTE IDRATATI; dal primo lavaggio, i capelli saranno morbidi, lisci e incredibilmente idratati
+- CAPELLI SECCHI e DANNEGGIATI in DIFFICOLTÀ? Ti lanciamo una corda australiana per capelli incredibilmente idratati; datti una bella riparata!
 - FORMULA VEGANA CON SUPERFOOD AUSTRALIANI: La gamma Aussie SOS è vegana, priva di ingredienti o sottoprodotti di origine animale e arricchita con superfood australiani
+- DONATI CAPELLI INCREDIBILMENTE IDRATATI; dal primo lavaggio, i capelli saranno morbidi, lisci e incredibilmente idratati
+- LA FILOSOFIA AUSSIE: "Nella vita cè molto oltre i capelli, ma sono un buon punto di partenza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FBMJ6FZT{{</world>}}

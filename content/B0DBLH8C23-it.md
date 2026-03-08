@@ -28,10 +28,10 @@ average: '4.14'
 
 ℹ️:
 
-- Sviluppato da esperti nutrizionisti del cibo per animali domestici
 - Con vitamina D3 per aiutare a mantenere ossa e denti sani, vitamina E per aiutare a mantenere una buona funzione immunitaria e taurina per sostenere un cuore forte
-- Un alimento completo per gatti adulti
 - Confezionato nei Paesi Bassi
+- Sviluppato da esperti nutrizionisti del cibo per animali domestici
+- Un alimento completo per gatti adulti
 - Senza zuccheri aggiunti
 - Ricetta senza cereali
 

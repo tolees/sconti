@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- custodia in rete
 - Con chiusura a cerniera.
-- Misure: 24 x 0,5 x 18 cm
 - Materiali: PP + carta + PVC
 - Allinterno troviamo: · 1 foglio di adesivi in ​​rilievo · 1 penna · 1 quaderno con rilegatura a spirale · 3 mini segnalibri magnetici
+- Misure: 24 x 0,5 x 18 cm
+- custodia in rete
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BS1MDPM6{{</world>}}

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- CONTROLLO ASSOLUTO – Basta armeggiare con i pulsanti! Accedi facilmente al controllo del volume e del microfono tramite la ghiera on-ear, oppure solleva il microfono per disattivarlo in un istante
 - RIUNIONI SENZA VINCOLI – Goditi la massima libertà di movimento grazie al cavo da ben 1,8 m delle cuffie: non sarai più bloccato alla scrivania!
-- 5 ANNI DI SERENITÀ – Goditi i tuoi prodotti senza pensieri grazie alla nostra garanzia di 5 anni. Realizzati per durare e supportati dalla qualità che ci distingue, vivi unesperienza senza stress
 - LAVORO FLESSIBILE – Con Roha II potrai farti sentire in tutta chiarezza. Grazie al microfono direzionale flessibile, la tua voce online risulterà nitida proprio come dal vivo
+- CONTROLLO ASSOLUTO – Basta armeggiare con i pulsanti! Accedi facilmente al controllo del volume e del microfono tramite la ghiera on-ear, oppure solleva il microfono per disattivarlo in un istante
+- 5 ANNI DI SERENITÀ – Goditi i tuoi prodotti senza pensieri grazie alla nostra garanzia di 5 anni. Realizzati per durare e supportati dalla qualità che ci distingue, vivi unesperienza senza stress
 - PLUG & PLAY: FACILE, DIREI! – La configurazione? Facilissima! Basta collegare le cuffie tramite il connettore USB in dotazione per essere subito pronti a unirsi alla videochiamata
 - LEGGERE COME LARIA – Grazie al design leggero, all’archetto regolabile e ai cuscinetti on-ear, le cuffie Roha II sono perfette anche per le chiamate più lunghe. Non ti accorgerai nemmeno di indossarle!
 

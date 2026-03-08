@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Hair type: Crespi
+- Liquid volume: 400.0 milliliters
 - Senza siliconi, senza solfati e senza oli minerali, è delicato per i capelli e il cuoio capelluto. Arricchito con Aloe Vera e Burro di Mango
 - Item form: Liquido
-- Liquid volume: 400.0 milliliters
-- Hair type: Crespi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D1D9P2ZC{{</world>}}

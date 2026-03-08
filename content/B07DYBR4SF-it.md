@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Semplice sostituzione delle lampadine tradizionali, ricambio per una lampadina da 28 W (applicazioni solo in adeguato luci)
-- Lunga durata - fino a 15000 ore e fino a 100000 cicli
-- Consumo energetico 5.kWh/1000h a 300.LM
 - Luce bianca calda per benessere e relax in salotto, camera da letto, e ragazzi
 - Piena luce immediata, nessun tempo di riscaldamento
+- Consumo energetico 5.kWh/1000h a 300.LM
+- Lunga durata - fino a 15000 ore e fino a 100000 cicli
+- Semplice sostituzione delle lampadine tradizionali, ricambio per una lampadina da 28 W (applicazioni solo in adeguato luci)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07DYBR4SF{{</world>}}

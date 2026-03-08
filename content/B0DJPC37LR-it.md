@@ -28,11 +28,11 @@ average: '119.99'
 
 ℹ️:
 
+- MODALITÀ SLEEP ULTRA-SILENZIOSA a soli 20,5 dB, più silenziosa di un sussurro. In modalità Sleep, la luce del display digitale viene attenuata, riducendo al minimo il disturbo della luce.
+- CERTIFICATO PER CHI SOFFRE DI ALLERGIA da ECARF, il purificatore rimuove il 99,99% dei pollini, acari della polvere o allergeni di animali domestici - noti fattori scatenanti dei sintomi di allergia o febbre da fieno.
+- GRANDE COPERTURA FINO A 65 m²: con CADR 250 m³/h, può purificare 20 m² in meno di 12 min.
 - FILTRAZIONE HEPA A 3 STRATI: cattura il 99,97% delle particelle fino a 0,003 micron - per proteggere da pollini, polvere, acari, acari della polvere, forfora di animali domestici, smog o gas. Rimuove il 99,9% dei virus e dei batteri presenti nellaria.
 - BASSO CONSUMO ENERGETICO: Alla massima potenza, il purificatore daria consuma solo 23W, meno energia di una lampadina tradizionale.
-- CERTIFICATO PER CHI SOFFRE DI ALLERGIA da ECARF, il purificatore rimuove il 99,99% dei pollini, acari della polvere o allergeni di animali domestici - noti fattori scatenanti dei sintomi di allergia o febbre da fieno.
-- MODALITÀ SLEEP ULTRA-SILENZIOSA a soli 20,5 dB, più silenziosa di un sussurro. In modalità Sleep, la luce del display digitale viene attenuata, riducendo al minimo il disturbo della luce.
-- GRANDE COPERTURA FINO A 65 m²: con CADR 250 m³/h, può purificare 20 m² in meno di 12 min.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DJPC37LR{{</world>}}

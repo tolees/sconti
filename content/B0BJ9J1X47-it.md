@@ -28,10 +28,10 @@ average: '13.99'
 
 ℹ️:
 
+- Design specifico per la massima libertà di movimento
+- Lavorazione effetto traforato, 100% poliestere riciclato
 - AEROREADY
 - Girocollo
-- Lavorazione effetto traforato, 100% poliestere riciclato
-- Design specifico per la massima libertà di movimento
 - Vestibilità regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

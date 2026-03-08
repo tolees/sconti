@@ -28,16 +28,16 @@ average: '45.88'
 
 ℹ️:
 
-- Filtro con adattatore per 1 o 3 tazze di caffè
-- Termostato interno per autospegnimento
-- Potenza: 400w
-- Alimentazione: ac 220-240v ~ 50hz
-- Timer programmabile
 - Mantenimento in caldo 30 minuti
-- Display led
+- Alimentazione: ac 220-240v ~ 50hz
+- Potenza: 400w
 - Base dappoggio fredda con rotazione 360
-- Colonnina espulsione caffè dotata di paraschizzi
+- Display led
 - Controllo elettronico
+- Timer programmabile
+- Colonnina espulsione caffè dotata di paraschizzi
+- Termostato interno per autospegnimento
+- Filtro con adattatore per 1 o 3 tazze di caffè
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B011IOPOUW{{</world>}}

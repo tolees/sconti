@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 4 azioni contro il reflusso: protegge le pareti dellesofago, favorisce la rigenerazione della mucosa, blocca il reflusso, neutralizza liperacidità. Senza glutine, senza lattosio
-- Alginato di sodio: ostacola la risalita degli acidi gastrici verso l’esofago. Contiene anche carbonato di calcio e bicarbonato di sodio che riducono l’acidità
 - Adatto ad adulti e bambini (sopra i 12 anni di età). Può essere utilizzato anche in gravidanza e in caso di reflusso notturno. Prodotto a basso contenuto di sodio
-- Può iniziare ad agire in 3 minuti contro: reflusso acido, pirosi gastrica in gravidanza, esofagite da reflusso, rigurgito acido, cattiva digestione, tosse da reflusso e infiammazione laringofaringea
+- Alginato di sodio: ostacola la risalita degli acidi gastrici verso l’esofago. Contiene anche carbonato di calcio e bicarbonato di sodio che riducono l’acidità
 - Confezione da 40 bustine monodose: le bustine sono al gradevole gusto menta da 10 ml ciascuna. Assumere 1 o 2 bustine dopo i pasti principali e prima di coricarsi, senza acqua.
+- 4 azioni contro il reflusso: protegge le pareti dellesofago, favorisce la rigenerazione della mucosa, blocca il reflusso, neutralizza liperacidità. Senza glutine, senza lattosio
+- Può iniziare ad agire in 3 minuti contro: reflusso acido, pirosi gastrica in gravidanza, esofagite da reflusso, rigurgito acido, cattiva digestione, tosse da reflusso e infiammazione laringofaringea
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09GZ216ZJ{{</world>}}

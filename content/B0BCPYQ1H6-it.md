@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Fotocamera: 8 MP, AI Camera
 - Memoria: 32 GB espandibile con MicroSD da 32 GB
-- Sistema Operativo: Android 11 (Go Edition)
 - Display 6.5 Pollici
+- Sistema Operativo: Android 11 (Go Edition)
 - Batteria 5000 mAh
+- Fotocamera: 8 MP, AI Camera
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BCPYQ1H6{{</world>}}

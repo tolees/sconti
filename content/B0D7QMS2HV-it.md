@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- *Lavazza, *A Modo Mio, *Lavazza A Modo Mio sono marchi di proprietà di Luigi Lavazza S.p.A; Caffè Borbone Srl è produttore autonomo non collegato alla Luigi Lavazza S.p.A; La compatibilità delle capsule Caffè Borbone è funzionale all’utilizzo con macchine da caffè ad uso domestico *Lavazza *A Modo Mio
-- Capsule Compatibili Lavazza* A Modo Mio* con i seguenti modelli di macchina da caffè: Espressgo, Espria, Extra, Fantasia, Favola Electrolux, Idola, Jolie, Magia, Minù, Minù Caffè Latte,Simpla, Tiny
-- FRAGRANZA E AROMA: Una miscela esclusiva e dallequilibrio staordinario, che si presenta con: Corpo: 9.5 - Intensità: 9.5 - Persistenza: 9.5 - Dolcezza: 7 - Acidità: 4
-- MISCELA ROSSA: Pura energia nel gusto, forte e cremosa ed allo stesso tempo deliziosa; Presenta un carattere deciso e persistente che infonde una profonda sensazione di piacere al palato, per una magica sensazione; Confezionato in atmosfera protettiva, Robusta selezionata
 - FORMATO: Confezione da 50 Capsule
+- Capsule Compatibili Lavazza* A Modo Mio* con i seguenti modelli di macchina da caffè: Espressgo, Espria, Extra, Fantasia, Favola Electrolux, Idola, Jolie, Magia, Minù, Minù Caffè Latte,Simpla, Tiny
+- MISCELA ROSSA: Pura energia nel gusto, forte e cremosa ed allo stesso tempo deliziosa; Presenta un carattere deciso e persistente che infonde una profonda sensazione di piacere al palato, per una magica sensazione; Confezionato in atmosfera protettiva, Robusta selezionata
+- FRAGRANZA E AROMA: Una miscela esclusiva e dallequilibrio staordinario, che si presenta con: Corpo: 9.5 - Intensità: 9.5 - Persistenza: 9.5 - Dolcezza: 7 - Acidità: 4
+- *Lavazza, *A Modo Mio, *Lavazza A Modo Mio sono marchi di proprietà di Luigi Lavazza S.p.A; Caffè Borbone Srl è produttore autonomo non collegato alla Luigi Lavazza S.p.A; La compatibilità delle capsule Caffè Borbone è funzionale all’utilizzo con macchine da caffè ad uso domestico *Lavazza *A Modo Mio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D7QMS2HV{{</world>}}

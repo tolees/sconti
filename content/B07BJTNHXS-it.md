@@ -28,9 +28,9 @@ average: '15.8'
 
 ℹ️:
 
+- VESTIBILITÀ DRITTA: veste con leggermente maggiore ampiezza su fianchi e cosce, con gamba dritta. Vita regolare.
 - DETTAGLI: presenta una patta con zip e chiusura a bottone, tasche anteriori oblique, un quinto taschino in vita e le classiche tasche posteriori a filetto con bottone.
 - STILE CHINO CACHI: classici pantaloni chino color cachi, in un tessuto leggero sottoposto a lavaggio. Sufficientemente versatili da indossare ogni giorno, in look sia casual sia business casual.
-- VESTIBILITÀ DRITTA: veste con leggermente maggiore ampiezza su fianchi e cosce, con gamba dritta. Vita regolare.
 - SGAMBATURA: 20,3 cm nella taglia US 32.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

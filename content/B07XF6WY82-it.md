@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Girocollo
+- Logo Levis pipistrello sul petto
 - Mantieni il classico con stile con questa maglietta a pipistrello giovanile di Levis
 - Tessuto a maglia jersey
+- Girocollo
 - Maniche corte
-- Logo Levis pipistrello sul petto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07XF6WY82{{</world>}}

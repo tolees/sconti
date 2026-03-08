@@ -28,10 +28,10 @@ average: '419.94181818182'
 
 ℹ️:
 
+- Modello: iPhone 12
 - Memoria: 256 GB
 - Quantità confezione articolo -1
 - Tipologia Prodotto -TELEFONO CELLULARE
-- Modello: iPhone 12
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08PCD1YDK{{</world>}}

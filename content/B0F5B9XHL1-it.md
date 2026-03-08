@@ -28,11 +28,11 @@ average: '15.41'
 
 ℹ️:
 
-- Ecologico e duraturo - Garanzia 24 mesi​.Realizzato in alluminio riciclato e ABS ignifugo, riduce i rifiuti elettronici. Garanzia 24 mesi e assistenza clienti 24/7 per una performance sostenibile.
-- Carica ultra-rapida per i tuoi viaggi​.Con il cavo USB-C Turbo 30W (compatibile con iPhone 16 Pro / Samsung S25 Ultra / Xiaomi 15), ricarichi il 80% in soli 30 minuti ! 2 porte aggiuntive (15W USB-C + 12W USB-A) permettono di caricare 3 dispositivi contemporaneamente - ideale per i roadtrip in famiglia.
-- Rotazione 180° e fissaggio ultra-stabile​.Cappuccio rotante a 180° si adatta a tutti gli abitacoli. Doppio blocco mantiene lapparecchio saldo anche su strade tortuose. Compatibile con tutti i veicoli (SUV, berline compatte come Fiat 500 / Renault Clio / Volkswagen Golf).
 - Cavo magico retrattile - Soluzione anti-disordine​.Estendibile da 0 a 75 cm come per magia ! Elimina i fili intrecciati negli spazi ristretti (abitacolo o portabagagli). Ritorna automaticamente alla posizione di riposo appena lo rilasci - funziona senza pulsanti grazie al suo innovativo meccanismo.
+- Ecologico e duraturo - Garanzia 24 mesi​.Realizzato in alluminio riciclato e ABS ignifugo, riduce i rifiuti elettronici. Garanzia 24 mesi e assistenza clienti 24/7 per una performance sostenibile.
+- Rotazione 180° e fissaggio ultra-stabile​.Cappuccio rotante a 180° si adatta a tutti gli abitacoli. Doppio blocco mantiene lapparecchio saldo anche su strade tortuose. Compatibile con tutti i veicoli (SUV, berline compatte come Fiat 500 / Renault Clio / Volkswagen Golf).
 - 75% più compatto - Design rivoluzionario "matita lipstick"​​!Il primo caricatore auto retrattile era ingombrante? La nostra nuova versione è ora piccola quanto una matita per labbra (75% più compatta)! Adatta a tutti i veicoli (compresi gli sportivi) senza bloccare la leva del cambio - perfetto per abitacoli angusti.
+- Carica ultra-rapida per i tuoi viaggi​.Con il cavo USB-C Turbo 30W (compatibile con iPhone 16 Pro / Samsung S25 Ultra / Xiaomi 15), ricarichi il 80% in soli 30 minuti ! 2 porte aggiuntive (15W USB-C + 12W USB-A) permettono di caricare 3 dispositivi contemporaneamente - ideale per i roadtrip in famiglia.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F5B9XHL1{{</world>}}

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Punta 1,5mm
 - Colore: nero
+- Punta 1,5mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000NJUT8Q{{</world>}}

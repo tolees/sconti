@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 50 attività didattiche
-- Con il libro dei giochi, ricco di consigli didattici
-- Leggere e decodificare le immagini, memoria, classificare e raggruppare, manualità fine, attenzione e concentrazione
-- Pratica guida per i giochi
 - Carotina parlante e luminosa e poster gigante 50 x70 cm
+- Leggere e decodificare le immagini, memoria, classificare e raggruppare, manualità fine, attenzione e concentrazione
+- Con il libro dei giochi, ricco di consigli didattici
+- 50 attività didattiche
+- Pratica guida per i giochi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07SRH8VZ4{{</world>}}

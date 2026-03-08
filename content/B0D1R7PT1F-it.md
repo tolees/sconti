@@ -28,11 +28,11 @@ average: '4.75'
 
 ℹ️:
 
-- ALLINTERNO DELLA CONFEZIONE: Confezione con 10 pratiche bustine, da sciogliere in acqua. SENZA GLUTINE e SENZA LATTOSIO. Non superare la dose giornaliera consigliata;
 - BENEFICI: i probiotici favoriscono lequilibrio della flora intestinale. La menta piperita e lo zenzero aiutano la regolare motilità gastrointestinale e leliminazione dei gas;
-- CHE COSE PROBIOTICO ACT GONFIORE? È un integratore alimentare che aiuta la regolare motilità gastrointestinale e leliminazione dei gas, favorendo anche lequilibrio della flora intestinale;
 - AVVERTENZE: Tenere fuori dalla portata dei bambini. Gli integratori alimentari non vanno intesi come sostituti di una dieta variata ed equilibrata e di un sano stile di vita;
+- ALLINTERNO DELLA CONFEZIONE: Confezione con 10 pratiche bustine, da sciogliere in acqua. SENZA GLUTINE e SENZA LATTOSIO. Non superare la dose giornaliera consigliata;
 - MODO DUSO: Si consiglia di assumere una bustina al giorno, preferibilmente prima del pasto principale. Sciogliere il contenuto in un bicchiere dacqua da circa 250ml;
+- CHE COSE PROBIOTICO ACT GONFIORE? È un integratore alimentare che aiuta la regolare motilità gastrointestinale e leliminazione dei gas, favorendo anche lequilibrio della flora intestinale;
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D1R7PT1F{{</world>}}

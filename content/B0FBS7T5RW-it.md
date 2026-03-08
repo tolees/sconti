@@ -28,11 +28,11 @@ average: '4.78'
 
 ℹ️:
 
-- RITORNELLI - La delicatezza delle mandorle si unisce ad una croccante granella di biscotto e al gusto intenso del cacao, dando vita al profumo e sapore unico dei Ritornelli
-- BISCOTTI E DOLCETTI - Morbidi o friabili, unampia varietà per tutti i gusti. Ogni biscotto è una bontà unica, senza olio di palma
 - PER LA TUA COLAZIONE - 4 Ritornelli, 1 cappuccino, 1 coppetta di frutti di bosco. Per un totale di calorie pari al 19% del tuo fabbisogno energetico giornaliero
-- MULINO BIANCO - Al Mulino Bianco si ricerca da sempre la qualità. Biscotti, Merende, Pani e Snack per accompagnarti in ogni momento della giornata
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
+- MULINO BIANCO - Al Mulino Bianco si ricerca da sempre la qualità. Biscotti, Merende, Pani e Snack per accompagnarti in ogni momento della giornata
+- BISCOTTI E DOLCETTI - Morbidi o friabili, unampia varietà per tutti i gusti. Ogni biscotto è una bontà unica, senza olio di palma
+- RITORNELLI - La delicatezza delle mandorle si unisce ad una croccante granella di biscotto e al gusto intenso del cacao, dando vita al profumo e sapore unico dei Ritornelli
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FBS7T5RW{{</world>}}

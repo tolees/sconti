@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Confezione e Bobine Rimovibili: ogni bobina di filamento viene accuratamente asciugata e ispezionata a mano, sigillata sottovuoto e include un essiccante. La bobina rimovibile è compatibile con la maggior parte dei modelli di stampante sul mercato e può essere riutilizzata più volte
-- Resistenza e Rigidità: il filamento PETG Matte possiede unelevata resistenza e rigidità, mantenendo la facilità di stampa associata al PLA e offrendo al contempo unelevata resistenza e durata simili allABS, rendendolo la scelta ideale per stampe di alta qualità
 - Nota: Il filamento PETG opaco ha unadesione molto forte. Prima della stampa: Non è consigliato luso di agenti adesivi come colla stick. Dopo la stampa: Attendere che il piano di stampa e il pezzo stampato si raffreddino completamente a temperatura ambiente, quindi piegare delicatamente la piastra di stampa o utilizzare un utensile per rimuovere il pezzo
+- Resistenza e Rigidità: il filamento PETG Matte possiede unelevata resistenza e rigidità, mantenendo la facilità di stampa associata al PLA e offrendo al contempo unelevata resistenza e durata simili allABS, rendendolo la scelta ideale per stampe di alta qualità
 - Eccellente Adesione Degli Strati e Resistenza Chimica: leccellente adesione degli strati garantisce la solidità strutturale delle parti stampate. Grazie alla resistenza a una varietà di sostanze chimiche, le parti stampate possono resistere allesposizione a oli, detergenti e ambienti esterni
 - Effetto Soft Matte: il filamento PETG Kexcelled presenta una bassa riflettività, offrendo una texture morbida, perfetta per prototipi estetici, decorazioni e oggetti da esposizione che richiedono un aspetto e una sensazione al tatto di alta qualità. Disponibile in una varietà di colori per soddisfare diverse esigenze di stampa
 

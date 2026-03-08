@@ -28,10 +28,10 @@ average: '8.5'
 
 ℹ️:
 
-- TONALITÀ COMPLEMENTARI: Finish vellutato riccamente pigmentato e finitura glowy modulabile; stick dalla consistenza burrosa dotati di due tonalità complementari per labbronzatura, il contouring, il blush, il colore delle labbra o lombretto
-- SEMPLICE APPLICAZIONE: questo trucco cremoso per il corpo scorre con facilità e si fonde con la pelle per donarle un finish che perfeziona e sfuma la pelle
 - INGREDIENTI NUTRIENTI: Miscela di Burro di Murumuru, Burro di Cupuaçu e Burro di Tucuma provenienti dallAmazzonia, ricchi di sostanze nutritive e ricchi di acidi grassi essenziali e pro-vitamine noti per ammorbidire, condizionare e idratare la pelle
 - OCCHI, GUANCE E LABBRA: facili da portare con sé, con una formula nutriente che consente di ottenere una routine di bellezza anche in movimento; si possono applicare su occhi, guance e labbra
+- SEMPLICE APPLICAZIONE: questo trucco cremoso per il corpo scorre con facilità e si fonde con la pelle per donarle un finish che perfeziona e sfuma la pelle
+- TONALITÀ COMPLEMENTARI: Finish vellutato riccamente pigmentato e finitura glowy modulabile; stick dalla consistenza burrosa dotati di due tonalità complementari per labbronzatura, il contouring, il blush, il colore delle labbra o lombretto
 - DOVE LA NATURA INCONTRA LA SCIENZA: Physicians Formula seleziona ingredienti puri ed efficaci per dare alla pelle il benessere che merita
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

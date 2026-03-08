@@ -28,10 +28,10 @@ average: '50.20125'
 
 ℹ️:
 
-- La modalità multiplayer richiede un controller compatibile per ogni giocatore. Il gioco online richiede una connessione a Internet e un abbonamento a Nintendo Switch on line.
 - Supera i vari piani uno alla volta, risolvendo enigmi e vedendotela con torme di spettri dispettosi
-- Dai la caccia ai fantasmi insieme a un amico in locale o online in "La Torre del caos", o scatenati insieme ad altri giocatori (fino a sette) sulla stessa console.
 - Aiuta Luigi a salvare Mario e amici in unavventura da brividi
+- Dai la caccia ai fantasmi insieme a un amico in locale o online in "La Torre del caos", o scatenati insieme ad altri giocatori (fino a sette) sulla stessa console.
+- La modalità multiplayer richiede un controller compatibile per ogni giocatore. Il gioco online richiede una connessione a Internet e un abbonamento a Nintendo Switch on line.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07NBZ17SS{{</world>}}

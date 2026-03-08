@@ -29,8 +29,8 @@ average: '13.232'
 ℹ️:
 
 - Dispositivo a pulsante
-- Punta 4,0 mm
 - Inchiostro liquido
+- Punta 4,0 mm
 - Colori brillanti
 - Disponibile in vari colori
 

@@ -28,8 +28,8 @@ average: '3.95'
 
 ℹ️:
 
-- Il detergente per capi sportivi non aggredisce la loro particolare struttura, lasciando inalterati filtri UV e film impermeabilizzanti
 - Adatto per lavare capi sportivi
+- Il detergente per capi sportivi non aggredisce la loro particolare struttura, lasciando inalterati filtri UV e film impermeabilizzanti
 - Tutto labbigliamento sportivo risulta pulito e perfettamente igienizzato già alle basse temperature grazie alla sua formula efficace sulle macchie tipiche dello sport e contro l’odore sgradevole del sudore, inoltre elimina i batteri igienizzando i tessuti e li mantiene elastici
 - Studiato per lavare e rigenerare gli indumenti e gli accessori sportivi in fibre sintetiche e tecniche
 

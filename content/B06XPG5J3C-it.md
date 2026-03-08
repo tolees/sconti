@@ -28,10 +28,10 @@ average: '12.4866666666667'
 
 ℹ️:
 
-- Senza conservanti come per legge
-- Senza sale aggiunto
 - Con pesci selezionati e controllati
 - Omogeneizzato con filetto di pesce e verdure, alimento per linfanzia, indicato dal sesto mese compiuto
+- Senza sale aggiunto
+- Senza conservanti come per legge
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B06XPG5J3C{{</world>}}

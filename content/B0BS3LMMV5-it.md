@@ -29,8 +29,8 @@ average: '83.99'
 ℹ️:
 
 - Riscaldatore da fissaggio regolabile fino a 3 impostazioni di potenza possibili: 750 W, 1500 W e 2000 W.
-- Calore radiante a infrarossi sicuro e piacevole
 - Grado di protezione IP 55. Misure del riscaldatore elettrico: H 10,5 x B 72,5 x T 20 cm.
+- Calore radiante a infrarossi sicuro e piacevole
 - Con telecomando e supporto da parete, angolo di inclinazione del riscaldatore regolabile.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

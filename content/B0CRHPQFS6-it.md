@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Per una pelle del viso levigata e tonica, utilizza i prodotti del kit in abbinamento nella tua routine.
 - La ROSA CENTIFOLIA è una Rosa Nobile dal profumo inebriante. Ha spiccate proprietà idratanti, antirughe e tonificanti.
 - La linea nutre la pelle in profondità, riempiendo e levigando efficacemente le rughe di viso e contorni.
-- Per una pelle del viso levigata e tonica, utilizza i prodotti del kit in abbinamento nella tua routine.
 - Contiene Estratto Nutriente di ROSA CENTIFOLIA, con proprietà idratanti e tonificanti per unazione levigante.
 - TONICO: 300ml; CREMA VISO ANTIRUGHE LEVIGANTE: 50ml; SALVIETTINE STRUCCANTI LENITIVE: 20 Salviettine struccanti.
 

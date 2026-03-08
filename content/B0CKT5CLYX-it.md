@@ -28,8 +28,8 @@ average: '19.95'
 
 ℹ️:
 
-- Classico stile pullover con design racer back e foro della serratura per una maggiore ventilazione e facile on / off
 - Morbida fascia inferiore elastica con dettaglio wordmark per una vestibilità stabile
+- Classico stile pullover con design racer back e foro della serratura per una maggiore ventilazione e facile on / off
 - UA HG Mid - Nero / Bianco - MD
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

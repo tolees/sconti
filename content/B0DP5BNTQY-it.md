@@ -28,10 +28,10 @@ average: '29.5'
 
 ℹ️:
 
-- Dimensioni: 29 x 24,5 x 15cm
+- Due tasche laterali aperte
 - Rivestimento interno con tasca per organizzare le tue cose
 - Zainetto urbano per tutti i giorni
-- Due tasche laterali aperte
+- Dimensioni: 29 x 24,5 x 15cm
 - Scomparto principale e tasca anteriore con cerniera
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

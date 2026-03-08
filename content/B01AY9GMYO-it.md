@@ -28,9 +28,9 @@ average: '4.74'
 
 ℹ️:
 
+- BENEFICI: Il nostro thè è disponibile nei classici gusti Pesca e Limone, i più apprezzati e conosciuti. Con infuso di thè, in acqua minerale naturale e solo 24 calorie. Un thè rinfrescante, gustoso e leggero.
 - Nata nel 1956, Acqua Minerale San Benedetto S.p.A. è presente commercialmente in cento Paesi nei cinque continenti ed è il primo player in Italia del beverage analcolico (fonte GlobalData 2024, dati 2023). Azienda “totale”, multispecialista e multicanale.
 - CONTENUTO: San Benedetto Thè alla Pesca in formato da 6x1,5 L. Un thè dal gusto ricco e naturale di pesca, senza conservanti né coloranti artificiali, ideale per chi cerca una bevanda rinfrescante e leggera, perfetta per tutta la famiglia.
-- BENEFICI: Il nostro thè è disponibile nei classici gusti Pesca e Limone, i più apprezzati e conosciuti. Con infuso di thè, in acqua minerale naturale e solo 24 calorie. Un thè rinfrescante, gustoso e leggero.
 - CARATTERISTICHE: Con poche calorie, questo Tè alla pesca offre unesperienza gustativa leggera e dissetante. Il pratico "Tappo Click" richiudibile consente di mantenere la freschezza a lungo, rendendolo perfetto per ogni occasione, dai pasti alle pause.
 - SOSTENIBILITÀ: Da 40 anni ci occupiamo di Sostenibilità Ambientale grazie a una politica volta alla tutela dell’ambiente con limpegno di ridurre le emissioni di gas effetto serra.
 

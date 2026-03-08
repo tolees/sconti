@@ -28,10 +28,10 @@ average: '0.84'
 
 ℹ️:
 
-- GRANI 100% ITALIANI: Fatta con semola di Grani 100% italiani che donano alla pasta una consistenza corposa e un gusto equilibrato, per una cottura sempre al dente.
-- IDEALI CON: Preparazioni di mare o sughi ricchi, perfetti per esaltare la ruvidità avvolgente della nostra pasta. Tempo di cottura 13 minuti.
-- IL PACCARIELLO CAPRICCIOSO: Che è piccirillo si vede, ma per accorgersi del suo carattere capriccioso bisogna guardare come si ripiega su se stesso per rubare tutto il sugo e per non lasciarlo a nessun altro, se non a te.
 - TRAFILATURA AL BRONZO: La trafila al bronzo rende la pasta Voiello estremamente porosa, per poter trattenere il sugo stretto a sé e sprigionare in bocca un piacere eccezionale.
+- IL PACCARIELLO CAPRICCIOSO: Che è piccirillo si vede, ma per accorgersi del suo carattere capriccioso bisogna guardare come si ripiega su se stesso per rubare tutto il sugo e per non lasciarlo a nessun altro, se non a te.
+- IDEALI CON: Preparazioni di mare o sughi ricchi, perfetti per esaltare la ruvidità avvolgente della nostra pasta. Tempo di cottura 13 minuti.
+- GRANI 100% ITALIANI: Fatta con semola di Grani 100% italiani che donano alla pasta una consistenza corposa e un gusto equilibrato, per una cottura sempre al dente.
 - VOIELLO: La pasta Voiello è da oltre 140 anni sinonimo di passione, qualità e tradizione legata al territorio. Racchiude storia, cultura e tradizione, per trasmettere un classico italiano senza tempo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

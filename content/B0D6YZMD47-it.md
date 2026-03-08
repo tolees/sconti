@@ -29,10 +29,10 @@ average: '8.3'
 ℹ️:
 
 - Palette con 9 ombretti multi finish, mat, perlati e metallici, in polvere compatta
-- Oftalmologicamente testato
-- Ideale per creare sofisticati look occhi, naturali da giorno o intensi da sera
-- Packaging realizzato con bioplastica derivata dalla fermentazione del mais e con vernici naturali a base d’acqua
 - La formula green degli ombretti, con il 93% di ingredienti derivati da Materie Prime di Origine Naturale, è arricchita con Olio di Argan Biologico, Olio di Semi di Cotone e Olio di Avocado; è Vegan
+- Ideale per creare sofisticati look occhi, naturali da giorno o intensi da sera
+- Oftalmologicamente testato
+- Packaging realizzato con bioplastica derivata dalla fermentazione del mais e con vernici naturali a base d’acqua
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D6YZMD47{{</world>}}

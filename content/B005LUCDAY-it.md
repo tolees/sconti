@@ -28,8 +28,8 @@ average: '5.95'
 
 ℹ️:
 
-- Qualità originale BGS
 - Chiavi combinate, 1/2 "
+- Qualità originale BGS
 - Strumenti in Profi – qualitä
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

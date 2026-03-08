@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Ready To Drink: goditi il gusto fresco e inconfondibile di Jack Daniel’s & Coca-Cola in lattina, perfettamente miscelato, ovunque tu sia;
+- Mix Perfetto: combina la morbidezza del whisky Jack Daniels, le note del caramello, la legnosità della botte di rovere e le note speziate dolci della Coca-Cola;
+- Preparazione: Versa il contenuto della lattina in un bicchiere con ghiaccio, mescola delicatamente e goditi il perfetto equilibrio di Jack Daniels e Coca-Cola;
 - Allinterno della confezione: 1 lattina di Jack Daniel’s & Coca-Cola, bevanda alcolica (5% Vol.), ispirata ad uno dei più famosi drink da bar;
 - BEVI RESPONSABILMENTE: consumare le bevande alcoliche con moderazione e responsabilità. Vietata la vendita ai minori di 18 anni;
-- Preparazione: Versa il contenuto della lattina in un bicchiere con ghiaccio, mescola delicatamente e goditi il perfetto equilibrio di Jack Daniels e Coca-Cola;
-- Mix Perfetto: combina la morbidezza del whisky Jack Daniels, le note del caramello, la legnosità della botte di rovere e le note speziate dolci della Coca-Cola;
-- Ready To Drink: goditi il gusto fresco e inconfondibile di Jack Daniel’s & Coca-Cola in lattina, perfettamente miscelato, ovunque tu sia;
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CMR34RZT{{</world>}}

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Tipo di tacco: piatto
 - Tipo di punta: arrotondata
 - Larghezza: normale
-- Tipo di tacco: piatto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DK994XMB{{</world>}}

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dettagli traforati sulla punta
-- Sneacker con applicazione logo sulla linguetta
 - Intersuola in EVA
 - Profilo e linguetta imbottiti alla caviglia
+- Sneacker con applicazione logo sulla linguetta
+- Dettagli traforati sulla punta
 - Stampa logo sul tallone e sul pannello laterale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ average: '33.965'
 
 ℹ️:
 
-- GRIMBERGEN BLONDE: birra ad alta fermentazione dal colore dorato, dalla schiuma fine, compatta e persistente con un gusto ricco ed equilibrato. Lolfatto è dominato da note di frutta matura (ananas), spezie dolci e miele, mentre il gusto è perfettamente in equilibrio tra dolce e amaro.
 - GRADAZIONE ALCOLICA: 6.7% Vol.
-- IL GUSTO DELLA RINASCITA: le birre Grimbergen sono caratterizzate da una molteplicità di aromi e sapori avvolgenti, che la rendono perfetta per creare abbinamenti durante i pasti. In abbinamento a ricette di “comfort food” danno vita a momenti gratificanti e speciali.
-- IDEALE CON: primi piatti strutturati, formaggi di media stagionatura e carni bianche al forno.
-- FORMATO: cassa di birra con 6 Bottiglie da 75cl.
 - BIRRE DABBAZIA: prodotte con passione fin dal 1128, le birre di Grimbergen, intense e avvolgenti, sono il risultato di storiche tecniche di produzione e di uninstancabile innovazione. Il birrificio dellAbbazia di Grimbergen è il nuovo capitolo che segue i 900 anni di storia della birra di Grimbergen, combinando secoli di conoscenze birrarie con la sperimentazione e i migliori ingredienti per produrre birre deliziose.
+- FORMATO: cassa di birra con 6 Bottiglie da 75cl.
+- GRIMBERGEN BLONDE: birra ad alta fermentazione dal colore dorato, dalla schiuma fine, compatta e persistente con un gusto ricco ed equilibrato. Lolfatto è dominato da note di frutta matura (ananas), spezie dolci e miele, mentre il gusto è perfettamente in equilibrio tra dolce e amaro.
+- IDEALE CON: primi piatti strutturati, formaggi di media stagionatura e carni bianche al forno.
+- IL GUSTO DELLA RINASCITA: le birre Grimbergen sono caratterizzate da una molteplicità di aromi e sapori avvolgenti, che la rendono perfetta per creare abbinamenti durante i pasti. In abbinamento a ricette di “comfort food” danno vita a momenti gratificanti e speciali.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08R1CG6T3{{</world>}}

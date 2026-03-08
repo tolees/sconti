@@ -28,11 +28,11 @@ average: '3.2'
 
 ℹ️:
 
-- Balsamo che idrata, fortifica e ripara i capelli secchi e danneggiati
-- Districa lasciando i capelli morbidi e voluminosi
 - Fortifica i capelli prevenendone la rottura e migliora l’aspetto delle doppie punte
 - Balsamo che idrata, fortifica e ripara i capelli secchi e danneggiati
+- Districa lasciando i capelli morbidi e voluminosi
 - Infuso con olio di argan naturale certificato del Marocco
+- Balsamo che idrata, fortifica e ripara i capelli secchi e danneggiati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B005XP3UMW{{</world>}}

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Entra nel Regno dei Funghi con Top Trumps Match Super Mario! Gioca con i tuoi eroi preferiti in questo entusiasmante gioco da tavola per due. Salta, corri e vinci in unavventura senza fine.
 - Giochi da tavolo adulti e giochi da tavolo bambini, Super Mario è perfetto per tutti gli appassionati. La sua forma portatile rende possibile giocare ovunque.
 - Perfetto per i bambini di 4 anni e più, adulti e amanti di Super Mario. Un regalo che garantisce divertimento per tutti.
 - Giochi tavolo Match consistono nellallineare 5 cubi in orizzontale, verticale o diagonale spingendoli verso lavversario. Ogni giocatore ha 2 carte. Allineare cubi diversi dalle carte vale 1 punto, allineare cubi uguali a una carta vale 2 punti.
+- Entra nel Regno dei Funghi con Top Trumps Match Super Mario! Gioca con i tuoi eroi preferiti in questo entusiasmante gioco da tavola per due. Salta, corri e vinci in unavventura senza fine.
 - Questi giochi da tavolo famiglia divertenti contengono 1 Griglia di Gioco, 25 Cubi dei Personaggi, 15 Carte dei Personaggi e istruzioni, offrendo ore di divertimento per tutti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

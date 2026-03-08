@@ -28,8 +28,8 @@ average: '98.3'
 
 ℹ️:
 
-- KIT COMPLETO INCLUSO - Dotato di accessorio di lavaggio extra large 2 in 1 con accessori multiuso e per pavimenti duri, laccessorio per le fessure, laccessorio per la pulizia delle macchie e un flacone da 500 ml di soluzione lavamacchie.
 - IDEALE PER PAVIMENTI, SCALE E ALTRO - Un detergente per vax lavatappeti, perfetto per scale, pavimenti duri, interni di auto e un ottimo detergente per divani per pulizie veloci e frequenti.
+- KIT COMPLETO INCLUSO - Dotato di accessorio di lavaggio extra large 2 in 1 con accessori multiuso e per pavimenti duri, laccessorio per le fessure, laccessorio per la pulizia delle macchie e un flacone da 500 ml di soluzione lavamacchie.
 - FRESCA DOPO OGNI USO - La funzione di autopulizia e il detergente per tappeti da 500 ml inclusi puliscono il tubo, contribuendo a mantenere la macchina pulita, igienizzata e pronta per luso successivo.
 - PRESTAZIONI POTENTI PER LE MACCHIE DI OGNI GIORNO - Potenza di aspirazione in grado di rimuovere sporco e macchie in profondità da tappeti, moquette, divani e tappezzerie per una pulizia fresca e igienica.
 

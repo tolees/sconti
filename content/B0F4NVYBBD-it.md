@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Vestibilità regolare
 - Cotone jersey per utilizzo giornaliero
+- Vestibilità regolare
 - Grafica monogramma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

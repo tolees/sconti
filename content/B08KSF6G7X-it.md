@@ -28,11 +28,11 @@ average: '10.26'
 
 ℹ️:
 
-- Modalità duso: Si consiglia lassunzione da 2 a 4 volte al giorno di: - 5 ml per bambini da 1 a 6 anni; - 10 ml per bambini di età superiore a 6 anni. Agitare bene prima delluso. Chiudere accuratamente il flacone dopo luso.
-- Formato: Flacone da 180 g di sciroppo
 - Avvertenze: Non utilizzare se presente ipersensibilità o allergia individuale verso uno o più componenti. Tenere fuori dalla portata dei bambini. Consultare il medico se i sintomi persistono. Per bambini da un anno di età.
 - Dispositivo medico con effetto calmante della tosse secca e grassa, grazie alla presenza di componenti naturali mucoadesivi, come il miele, le mucillagini e i polisaccaridi. Crea un film protettivo sulla mucosa di faringe e laringe, limitando il contatto con gli agenti esterni e riducendo il processo irritativo.
+- Modalità duso: Si consiglia lassunzione da 2 a 4 volte al giorno di: - 5 ml per bambini da 1 a 6 anni; - 10 ml per bambini di età superiore a 6 anni. Agitare bene prima delluso. Chiudere accuratamente il flacone dopo luso.
 - Senza glutine. Senza alcol. Senza aromi artificiali. Naturalmente privo di lattosio.
+- Formato: Flacone da 180 g di sciroppo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08KSF6G7X{{</world>}}

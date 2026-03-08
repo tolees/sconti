@@ -29,10 +29,10 @@ average: '2.19'
 ℹ️:
 
 - ADATTA A TUTTI: indicata per qualsiasi tipo di pelle, la sua formulazione senza alcool, coloranti e conservanti rispetta anche le pelli più sensibili
-- ANTITRASPIRANTE: Dalla competenza scientifica di PREP nasce la nuova linea di Deodoranti Antitraspiranti. Grazie alla loro formula innovativa i cattivi odori sono per sempre sconfitti
-- RISPETTA I TESSUTI: non unge, non macchia i tessuti, dal profumo delicato
 - PROTEZIONE EFFICACE: formulazione super efficace che garantisce protezione totale per 48 ore
+- ANTITRASPIRANTE: Dalla competenza scientifica di PREP nasce la nuova linea di Deodoranti Antitraspiranti. Grazie alla loro formula innovativa i cattivi odori sono per sempre sconfitti
 - PREP: Prep è sinonimo di garanzia ed efficacia. Dal 1860 PREP rappresenta la soluzione per tutte le esigenze della nostra pelle
+- RISPETTA I TESSUTI: non unge, non macchia i tessuti, dal profumo delicato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00Q4J21EY{{</world>}}

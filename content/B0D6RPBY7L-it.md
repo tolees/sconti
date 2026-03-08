@@ -28,10 +28,10 @@ average: '19.98'
 
 ℹ️:
 
-- Tipo elasticizzato: non elasticizzato
-- Composizione: 100% cotone
-- Vestibilità: regolare
 - Istruzioni di lavaggio: lavabile in lavatrice
+- Composizione: 100% cotone
+- Tipo elasticizzato: non elasticizzato
+- Vestibilità: regolare
 - Polo casual
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

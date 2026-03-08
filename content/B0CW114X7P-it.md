@@ -28,9 +28,9 @@ average: '434.9'
 
 ℹ️:
 
+- Dimensioni: 128 GB
 - Tipo di prodotto: Telefono cellulare
 - Colore rosa
-- Dimensioni: 128 GB
 - Apple Iphone 15 Rosa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

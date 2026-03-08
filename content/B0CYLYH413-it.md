@@ -29,9 +29,9 @@ average: '10.0'
 ℹ️:
 
 - Materiali ad asciugatura rapida
-- Suola e fodera sintetiche
-- Fascia in materiale sintetico
 - Calzata regolare
+- Fascia in materiale sintetico
+- Suola e fodera sintetiche
 - Modello slip-on
 - Morbido plantare Cloudfoam
 

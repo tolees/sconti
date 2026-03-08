@@ -28,12 +28,12 @@ average: '39.0'
 
 ℹ️:
 
-- Fodera in tessuto
 - Almeno il 20% del materiale proviene da fonti riciclate
+- Suola in gomma preformata
+- Chiusura in pizzo
+- Fodera in tessuto
 - Tomaia in suede
 - Vestibilità regolare
-- Chiusura in pizzo
-- Suola in gomma preformata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D321HT9L{{</world>}}

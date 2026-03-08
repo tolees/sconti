@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Come ogni custodia progettata da Apple, ha superato migliaia di ore di test in fase di produzione: è bella da vedere e in più protegge il tuo iPhone da graffi e cadute.
-- L’esterno in silicone riciclato al 55% è liscio e piacevole al tatto, mentre la fodera interna in soffice microfibra protegge ogni millimetro del tuo iPhone.
 - Disegnata da Apple per iPhone 16e, la custodia in silicone lo protegge con eleganza.
+- L’esterno in silicone riciclato al 55% è liscio e piacevole al tatto, mentre la fodera interna in soffice microfibra protegge ogni millimetro del tuo iPhone.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DXQHCK6T{{</world>}}

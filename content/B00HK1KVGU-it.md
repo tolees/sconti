@@ -28,11 +28,11 @@ average: '1.895'
 
 ℹ️:
 
-- Il pacchetto può variare
-- CARATTERISTICHE - Con una sfolgia porosa e ruvida per catturare al massimo i sapori dei sughi di accompagnamento. Tempo di cottura di 6/7 minuti
 - BARILLA - Barilla è unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
-- INGREDIENTI - Semola di Grano Duro, Uova Fresche di Provenienza Italiana. Tutti ingredienti di alta qualità senza conservanti aggiunti e glutine
 - PAPPARDELLE - Le Pappardelle Barilla Emiliane si presentano come il formato più maestoso della pasta alluovo lunga. La larghezza della fettuccia è pensata per esaltare il sapore della sfoglia, ruvida e corposa come vuole la migliore tradizione emiliana
+- INGREDIENTI - Semola di Grano Duro, Uova Fresche di Provenienza Italiana. Tutti ingredienti di alta qualità senza conservanti aggiunti e glutine
+- CARATTERISTICHE - Con una sfolgia porosa e ruvida per catturare al massimo i sapori dei sughi di accompagnamento. Tempo di cottura di 6/7 minuti
+- Il pacchetto può variare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00HK1KVGU{{</world>}}

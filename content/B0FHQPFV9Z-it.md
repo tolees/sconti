@@ -28,13 +28,13 @@ average: '252.99'
 
 ℹ️:
 
-- 𝐕𝐞𝐥𝐨𝐜𝐢𝐭à 𝟓𝐆 𝐬𝐞𝐧𝐳𝐚 𝐫𝐢𝐯𝐚𝐥𝐢: Sperimenta velocità di download fulminee fino a 4,67 Gbps con la tecnologia 5G.
-- 𝐀𝐥𝐢𝐦𝐞𝐧𝐭𝐚𝐭𝐨𝐫𝐞 𝐏𝐨𝐄: Supporta PoE passivo e PoE 802.3af/802.3at, consentendo un facile deploy.
+- 𝐈𝐧𝐯𝐨𝐥𝐮𝐜𝐫𝐨 𝐞𝐬𝐭𝐞𝐫𝐧𝐨 𝐝𝐮𝐫𝐞𝐯𝐨𝐥𝐞: connettività e affidabilità robuste per esterni con protezione IP66 contro le intemperie e protezione contro fulmini di ±6kV e protezione ESD di ±15kV.
 - 𝐏𝐨𝐫𝐭𝐚 𝟐.𝟓𝐆𝐄 𝐩𝐞𝐫 𝐥𝐚𝐜𝐜𝐞𝐬𝐬𝐨 𝐚 𝐈𝐧𝐭𝐞𝐫𝐧𝐞𝐭: La porta 2.5GE offre una velocità eccezionale, garantendo unesperienza di rete migliorata.
 - 𝐂𝐨𝐥𝐥𝐞𝐠𝐚 𝐞 𝐠𝐢𝐨𝐜𝐚: inserisci una scheda SIM per avere accesso immediato a Internet ovunque.
-- 𝐈𝐧𝐯𝐨𝐥𝐮𝐜𝐫𝐨 𝐞𝐬𝐭𝐞𝐫𝐧𝐨 𝐝𝐮𝐫𝐞𝐯𝐨𝐥𝐞: connettività e affidabilità robuste per esterni con protezione IP66 contro le intemperie e protezione contro fulmini di ±6kV e protezione ESD di ±15kV.
-- 𝐋𝐓𝐄-𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐂𝐚𝐭𝟏𝟗: Offre velocità di download mobile fino a 1,6 Gbps per prestazioni senza pari.
 - 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐳𝐢𝐨𝐧𝐞 𝐦𝐮𝐥𝐭𝐢-𝐦𝐨𝐧𝐭𝐚𝐠𝐠𝐢𝐨: Installa facilmente ovunque con montaggio su palo, parete o finestra per un uso flessibile e conveniente.
+- 𝐕𝐞𝐥𝐨𝐜𝐢𝐭à 𝟓𝐆 𝐬𝐞𝐧𝐳𝐚 𝐫𝐢𝐯𝐚𝐥𝐢: Sperimenta velocità di download fulminee fino a 4,67 Gbps con la tecnologia 5G.
+- 𝐋𝐓𝐄-𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐂𝐚𝐭𝟏𝟗: Offre velocità di download mobile fino a 1,6 Gbps per prestazioni senza pari.
+- 𝐀𝐥𝐢𝐦𝐞𝐧𝐭𝐚𝐭𝐨𝐫𝐞 𝐏𝐨𝐄: Supporta PoE passivo e PoE 802.3af/802.3at, consentendo un facile deploy.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FHQPFV9Z{{</world>}}

@@ -28,9 +28,9 @@ average: '3.98'
 
 ℹ️:
 
-- FACILE PREPARAZIONE: versa sul prodotto acqua calda salata o brodo bollente, lascialo riposare qualche minuto ed otterrai un prodotto dalla consistenza ideale
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
 - BARILLA: unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877; i nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
+- FACILE PREPARAZIONE: versa sul prodotto acqua calda salata o brodo bollente, lascialo riposare qualche minuto ed otterrai un prodotto dalla consistenza ideale
 - IDEALE PER: preparazioni asciutte come vuole la tradizione mediterranea. Prova la ricetta con verdure rosolate in padella, ceci e pomodorini caramellati
 - COUS COUS: il cous cous nasce da una antica lavorazione della semola in granuli, che abbiamo ripreso per farti scoprire tutto il sapore della cucina mediterranea
 

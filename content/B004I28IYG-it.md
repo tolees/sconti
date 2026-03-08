@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Simboli di colore rosso per rinforzare la segmentazione
-- Filo robusto galvanizzato
 - Capacità: 1.000 punti
+- Filo robusto galvanizzato
+- Simboli di colore rosso per rinforzare la segmentazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B004I28IYG{{</world>}}

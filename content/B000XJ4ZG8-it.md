@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Giravite Kraftform Micro per viti a taglio
+- Con protezione antirotolamento e cappuccio girevole per una rotazione rapida
 - La punta Wera Black Point offre precisione di accoppiamento e protezione anticorrosiva ottimizzata
 - Impugnatura Kraftform Micro multicomponente per avvitamenti rapidi ed ergonomici
-- Con protezione antirotolamento e cappuccio girevole per una rotazione rapida
+- Giravite Kraftform Micro per viti a taglio
 - P.es. per lelettronica, lottica, meccanica fine, gioielleria o installatori di sistemi informatici
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

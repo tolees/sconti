@@ -28,10 +28,10 @@ average: '10.0'
 
 ℹ️:
 
-- Design slip-on
-- Taglio regolare
-- Morbido plantare Cloudfoam
 - Fascia monopezzo sagomata in EVA
+- Morbido plantare Cloudfoam
+- Taglio regolare
+- Design slip-on
 - Struttura leggera
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

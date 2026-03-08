@@ -29,13 +29,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Ampia maniglia termoisolante
-- Telaio in nylon rinforzato con fibre di vetro
-- Vaschetta per la raccolta dei grassi
 - Cavo elettrico 1,80 m
-- 2 griglie di cottura smaltate in ghisa di acciaio
-- Braciere e coperchio in ghisa di alluminio
-- Manopola di regolazione della temperatura
+- Vaschetta per la raccolta dei grassi
 - Potenza: 2,2 Kw
+- Telaio in nylon rinforzato con fibre di vetro
+- 2 griglie di cottura smaltate in ghisa di acciaio
+- Manopola di regolazione della temperatura
+- Braciere e coperchio in ghisa di alluminio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00HUNCX82{{</world>}}

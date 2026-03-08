@@ -28,11 +28,11 @@ average: '12.03'
 
 ℹ️:
 
-- TORTILLA BARBEQUE: Unaltra ricetta originale Pata per portare un sapore unico dritto al tuo palato e a quello dei tuoi amici. La versione B.B.Q. aggiunge un pizzico di atmosfera in più al tuo aperitivo.
-- QUALITÀ PATA: Ci assicuriamo che ogni patatina abbia preservato le sue migliori qualità. Ogni passo della filiera PATA è soggetto a controlli minuziosi da parte di tecnologie all’avanguardia, gestite da professionisti altamente formati che hanno permesso allazienda di ottenere certificazioni secondo standards riconosciuti a livello globale. Ora sai perché le nostre patatine sono così buone!
 - SOSTENIBILITÀ: Da sempre PATA lavora nel rispetto delle norme ambientali per offrire anche una ricerca di innovazione e rispetto dell’ambiente.
+- QUALITÀ PATA: Ci assicuriamo che ogni patatina abbia preservato le sue migliori qualità. Ogni passo della filiera PATA è soggetto a controlli minuziosi da parte di tecnologie all’avanguardia, gestite da professionisti altamente formati che hanno permesso allazienda di ottenere certificazioni secondo standards riconosciuti a livello globale. Ora sai perché le nostre patatine sono così buone!
 - PAQUITA: Corn Chips e Tortillas da tuffare in salse piccanti.
 - OLIO DI SEMI DI GIRASOLE: Usiamo olio di semi di girasole, ma non ci accontentiamo di fare le cose bene, le vogliamo al meglio.
+- TORTILLA BARBEQUE: Unaltra ricetta originale Pata per portare un sapore unico dritto al tuo palato e a quello dei tuoi amici. La versione B.B.Q. aggiunge un pizzico di atmosfera in più al tuo aperitivo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CQPC27XN{{</world>}}

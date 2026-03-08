@@ -28,10 +28,10 @@ average: '29.99'
 
 ℹ️:
 
-- PUMA Catch Suede Sneaker da Uomo, 38.5, Nero
-- Larghezza: normale
 - Tipo di punta: arrotondata
 - Tipo di tacco: piatto
+- Larghezza: normale
+- PUMA Catch Suede Sneaker da Uomo, 38.5, Nero
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DK98K2X9{{</world>}}

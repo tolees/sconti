@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Immergiti in un mondo fantasy mitologico ispirato allantica Persia per vivere una storia originale e intrigante. Usa lastuzia per risolvere gli enigmi, trovare i tesori nascosti e completare le missioni, in modo da scoprire di più su questo mondo corrotto.
 - Scopri un mondo maledetto ispirato allantica Persia colmo di incredibili attrazioni ed esplora una serie di biomi altamente dettagliati, ognuno caratterizzato da una precisa identità e popolato dalle proprie insidie e meraviglie.
 - Con riserva di condizioni e restrizioni. Per aggiornare le copie su disco fisico ammissibili, è richiesta una console con lettore di dischi.
 - Sfrutta i poteri temporali con le abilità di combattimento e acrobatiche per eseguire combo letali e sconfiggere le creature mitologiche e i nemici corrotti dal tempo.
-- Immergiti in un mondo fantasy mitologico ispirato allantica Persia per vivere una storia originale e intrigante. Usa lastuzia per risolvere gli enigmi, trovare i tesori nascosti e completare le missioni, in modo da scoprire di più su questo mondo corrotto.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C7CPD6B4{{</world>}}

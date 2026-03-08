@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - La freschezza del ginepro viene esaltata dal limone; note delicate di fiori di ciliegio e dello yuzu, simile al limone, con un tocco finale di sake
-- Jinzu è distillato nel tradizionale recipiente di rame e completato con un tocco di sake distillato
-- Creato dalla bartender Dee Davies, le è valso la vittoria di "Show your Spirit", un concorso in cui i bartender sono invitati a creare un drink e un marchio personali
 - Ãˆ una creazione della bartender Dee Davies e celebra la sua passione per la sperimentazione con i sapori
+- Creato dalla bartender Dee Davies, le è valso la vittoria di "Show your Spirit", un concorso in cui i bartender sono invitati a creare un drink e un marchio personali
 - Jinzu è ottimo in un gin tonic guarnito con una fettina di mela verde
+- Jinzu è distillato nel tradizionale recipiente di rame e completato con un tocco di sake distillato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00PA8YFL2{{</world>}}

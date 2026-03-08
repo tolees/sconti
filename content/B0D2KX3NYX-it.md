@@ -28,8 +28,8 @@ average: '35.99'
 
 ℹ️:
 
-- Pannelli laterali in rete e base in PU.
 - FILA Logo ricamato sul pannello laterale.
+- Pannelli laterali in rete e base in PU.
 - Morbida bandiera lucida sul lato.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

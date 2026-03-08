@@ -28,11 +28,11 @@ average: '128.03'
 
 ℹ️:
 
+- Questa coloratissima pista è lunga ben 2,4 metri e alta 60 cm, per emozioni senza pari, ed è dotata di luci e suoni spettacolari!
 - Dai vita allinconfondibile Pista Arcobaleno delliconica pista di Mario Kart con la Pista Arcobaleno Hot Wheels Mario Kart!
 - Le colonne di supporto della pista accolgono dei posti auto, che così da rendere i veicoli facili da riporre!
 - Inizia subito a gareggiare con i due veicoli Mario Kart die-cast in scala 1.64: un esclusivo Re Boo e, ovviamente, Mario!
 - La pista è dotata di un rotante Box con funzione a comparsa casuale, figure scolpite in 3D e decorazioni che la rendono ancora più sensazionale la corsa delle macchinine!
-- Questa coloratissima pista è lunga ben 2,4 metri e alta 60 cm, per emozioni senza pari, ed è dotata di luci e suoni spettacolari!
 - Crea due diversi tracciati (dritto o curvo) per gare sempre diverse, con una linea di partenza elettronica e un traguardo che mostra il vincitore!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

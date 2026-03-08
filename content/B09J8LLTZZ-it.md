@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Controllabile tramite lapp LEDVANCE SMART+ (con Android 8.0 o iOS 14.0 minimo)
 - Protocollo di rete: WiFi
-- Controllabile tramite lapp Ledvance Smart + (con Android 8.0 / iOS 14.0 e versioni successive)
 - Controllo tramite Google Assistant o Amazon Alexa possibile
+- Controllabile tramite lapp LEDVANCE SMART+ (con Android 8.0 o iOS 14.0 minimo)
+- Controllabile tramite lapp Ledvance Smart + (con Android 8.0 / iOS 14.0 e versioni successive)
 - Colore della luce regolabile tramite Tunable White: Da bianco caldo a bianco freddo (2.700...6.500 K)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

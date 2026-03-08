@@ -28,12 +28,12 @@ average: '88.49'
 
 ℹ️:
 
-- !!!ATTENZIONE!!!: Questo è un Router e non è un Modem; è compatibile con FTTC, FTTH (fibra-rame) se collegato al modem o all’ONT dell’operatore; è compatibile con ADSL, EVDSL se collegato al modem dell’operatore; non compatibile con Cavi RJ11; non ha porte VOIP
 - Le funzionalità VPN, complete, si attivano con un solo tocco e supportano più protocolli, fino a 30 provider di servizi e VPN site-to-site; la sicurezza di rete a triplo livello con AiProtection, DNS over TLS lo rende adatto allutilizzo anche in pubblico
-- Semplice configurazione in 3 fasi e gestione centralizzata tramite lapprezzata app mobile ASUS Router
-- WiFi dual-band ad alta velocità fino a 3600 Mbps con Multi-Link Operation (MLO) e 4K-QAM, adatto per viaggi, lavoro e casa con tethering mobile 4G LTE e 5G e hotspot privato su WiFi pubblico (modalità WISP) e ricarica rapida USB-C 18W Power Delivery
-- Il WiFi 7 potenziato con AiMesh consente una rete mesh estendibile più affidabile, con una serie di funzioni di sicurezza e di rete
+- !!!ATTENZIONE!!!: Questo è un Router e non è un Modem; è compatibile con FTTC, FTTH (fibra-rame) se collegato al modem o all’ONT dell’operatore; è compatibile con ADSL, EVDSL se collegato al modem dell’operatore; non compatibile con Cavi RJ11; non ha porte VOIP
 - Guest Network Pro semplifica la creazione di una sottorete funzionale (fino a 5 SSID) o di VLAN per dispositivi IoT, VPN e un comodo portale per gli ospiti
+- WiFi dual-band ad alta velocità fino a 3600 Mbps con Multi-Link Operation (MLO) e 4K-QAM, adatto per viaggi, lavoro e casa con tethering mobile 4G LTE e 5G e hotspot privato su WiFi pubblico (modalità WISP) e ricarica rapida USB-C 18W Power Delivery
+- Semplice configurazione in 3 fasi e gestione centralizzata tramite lapprezzata app mobile ASUS Router
+- Il WiFi 7 potenziato con AiMesh consente una rete mesh estendibile più affidabile, con una serie di funzioni di sicurezza e di rete
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FGDRP3VZ{{</world>}}

@@ -28,11 +28,11 @@ average: '58.07'
 
 ℹ️:
 
+- Slip-in
+- Vegano
+- Ultra Go
 - Lavabile in lavatrice
 - Memory foam raffreddato ad aria
-- Slip-in
-- Ultra Go
-- Vegano
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DW9FXPWR{{</world>}}

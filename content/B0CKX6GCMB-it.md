@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Numero giri - La regolazione elettronica dei giri permette di adattarne il funzionamento al tipo di materiale e lavoro da eseguire. Il limitatore di coppia impedisce il serraggio eccessivo delle viti.
+- Coppia elevata – La coppia regolabile su 20 livelli fino a 80 Nm consente un dosaggio preciso della potenza durante lavvitatura e la foratura.
 - Fornitura senza batteria – Il trapano a percussione a batteria Einhell Professional TP-CD 18/80 Li-i BL-Solo si consegna senza batteria Power X-Change e senza caricabatteria. Acquistabili separatamente.
+- Power X-Change - Il trapano a percussione a batteria Einhell Professional TP-CD 18/80 Li-i BL fa parte della famiglia Power X-Change in cui batterie e caricabatterie sono liberamente intercambiabili.
 - Perforazione a percussione – Avvita, perfora e con la funzione a percussione consente di lavorare su pietra e muratura. Limpugnatura supplementare tutela le articolazioni delloperatore.
 - PurePOWER brushless – Il potente motore brushless con scarsa manutenzione garantisce massime prestazioni con autonomia superiore. Dopo la registrazione, il motore è coperto da garanzia per 10 anni.
-- Coppia elevata – La coppia regolabile su 20 livelli fino a 80 Nm consente un dosaggio preciso della potenza durante lavvitatura e la foratura.
-- Power X-Change - Il trapano a percussione a batteria Einhell Professional TP-CD 18/80 Li-i BL fa parte della famiglia Power X-Change in cui batterie e caricabatterie sono liberamente intercambiabili.
-- Numero giri - La regolazione elettronica dei giri permette di adattarne il funzionamento al tipo di materiale e lavoro da eseguire. Il limitatore di coppia impedisce il serraggio eccessivo delle viti.
 - Mandrino autoserrante in metallo – Il mandrino autoserrante di alta qualità da 13 mm in metallo permette la sostituzione dellutensile rapida e semplice.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ average: '202.9'
 
 ℹ️:
 
-- Dispone di due sistemi di riscaldamento rapido da THERMOBLOCK, che garantisce che la temperatura rimanga nel suo intervallo ottimale per un caffè e permette allo stesso tempo di utilizzare il vaporizzatore. La sua potente pompa a pressione con tecnologia ForceAroma da 20 bar offre la migliore crema e il massimo aroma in ogni caffè.
-- Vassoio antigoccia rimovibile per una facile pulizia. Sistema di risparmio energetico con spegnimento automatico e stand-by. Adatto per tazze espresso e tazze da colazione. Indicatori luminosi di ogni funzione. Finitura in acciaio inox.
 - Braccio portafiltri con doppia uscita e due filtri per preparare uno o due caffè alla volta. Serbatoio dellacqua rimovibile con capacità di 2,4 litri. Con vassoio riscaldatore in acciaio inox. Include uno spremiagrumi premium per ottenere la massima qualità del profumo nel caffè.
 - Caffettiera espresso con autentico design barista che permette di preparare tutti i tipi di caffè con una potenza massima di 2250 W e emette anche acqua calda per le infusioni. Dispone di un serbatoio di caffè in grani da 250 g di capacità e un macinino con 20 livelli di macinazione. Goditi il caffè appena macinato con il miglior aroma e gusto.
 - MANOMETRO di controllo Pressure Pro per controllare la pressione in tempo reale. Vaporizzatore orientabile alimentato da uno speciale Thermoblock per testurizzare il latte secondo i tuoi gusti e ottenere la migliore schiuma per il tuo caffè. Dispone di uno speciale condotto per emettere acqua calda alla temperatura ideale per le infusioni.
+- Vassoio antigoccia rimovibile per una facile pulizia. Sistema di risparmio energetico con spegnimento automatico e stand-by. Adatto per tazze espresso e tazze da colazione. Indicatori luminosi di ogni funzione. Finitura in acciaio inox.
+- Dispone di due sistemi di riscaldamento rapido da THERMOBLOCK, che garantisce che la temperatura rimanga nel suo intervallo ottimale per un caffè e permette allo stesso tempo di utilizzare il vaporizzatore. La sua potente pompa a pressione con tecnologia ForceAroma da 20 bar offre la migliore crema e il massimo aroma in ogni caffè.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FJF8B71Y{{</world>}}

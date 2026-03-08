@@ -28,8 +28,8 @@ average: '20.645294117647'
 
 ℹ️:
 
-- Assassins Creed II + Assassins Creed Brotherhood + Assassins Creed Revelation
 - Rimasterizzati per la prima volta su console PS4 e Xbox One
+- Assassins Creed II + Assassins Creed Brotherhood + Assassins Creed Revelation
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01LCF27MU{{</world>}}

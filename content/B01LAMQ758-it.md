@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Il prodotto viene venduto nella window box originale
-- Le riproduzioni misurano circa 10 cm, ma esistono anche versioni over-sized
 - I Funko Pop sono riproduzioni stilizzate di personaggi iconici di film, serie televisive, serie animate, fumetti, videogiochi e tanto altro
+- Le riproduzioni misurano circa 10 cm, ma esistono anche versioni over-sized
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01LAMQ758{{</world>}}

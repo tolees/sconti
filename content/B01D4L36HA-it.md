@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - 50 capsule compatibili con le macchine ad uso domestico a marchio e con le macchine Èspresso1882 TRÈ di Caffè Vergnano
-- Una miscela esclusiva, aromatica, complessa, con sentori di agrumi e di fiori, dal sapore delicato e persistente
 - CAPSULA COMPOSTABILE: La capsula deve essere recuperata, senza separarla dal caffè, nella raccolta differenziata dellorganico.
-- Una miscela ottenuta unendo i migliori caffè Arabica del Centro-Sudamerica e dell’Africa. Adatta per chi ricerca un sapore dolce, delicato ed equilibrato
 - Conservabilità: 24 mesi dalla data di produzione. Modalità di conservazione: conservare in luogo fresco e asciutto, lontano da fonti di calore e umidità
+- Una miscela esclusiva, aromatica, complessa, con sentori di agrumi e di fiori, dal sapore delicato e persistente
+- Una miscela ottenuta unendo i migliori caffè Arabica del Centro-Sudamerica e dell’Africa. Adatta per chi ricerca un sapore dolce, delicato ed equilibrato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01D4L36HA{{</world>}}

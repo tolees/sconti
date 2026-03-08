@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- DELICATO: Dermatologicamente testato, formulato per detergere la pelle rispettandola
+- PROFUMO: Una vivace freschezza! Menta ghiacciata e vibranti note agrumate sono avvolte dagli accenti floreali di Gardenia e Gelsomino. Lascia una scia luminosa grazie allAmbra e al Muschio Bianco
 - FORMATO: Il Sapone Liquido Felce Azzurra Antibatterico è disponibile nel formato erogatore da 300ml e nel formato ecoricarica da 500ml
 - FORMULA: La formula arricchita di agenti idratanti e di Tea Tree Oil deterge delicatamente rispettando il pH della pelle e svolgento unazione antibatterica ed igienizzante
-- PROFUMO: Una vivace freschezza! Menta ghiacciata e vibranti note agrumate sono avvolte dagli accenti floreali di Gardenia e Gelsomino. Lascia una scia luminosa grazie allAmbra e al Muschio Bianco
 - PRODOTTO: Il Sapone Liquido Felce Azzurra Antibatterico è il prodotto ideale per ligiene quotidiana di mani e viso
+- DELICATO: Dermatologicamente testato, formulato per detergere la pelle rispettandola
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00XI3VRE4{{</world>}}

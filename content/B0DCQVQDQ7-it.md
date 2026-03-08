@@ -28,9 +28,9 @@ average: '303.9'
 
 ℹ️:
 
+- Slo-Mo in sequenza: HERO13 Black presenta il nostro Slo-Mo più lento di sempre con la possibilità di registrare clip video con l’azione rallentata fino a 13 volte la velocità normale. Potrai anche registrare brevi clip in Slo-Mo 4x utilizzando il video in 5,3K, la nostra massima risoluzione, per catturare dettagli epici invisibili a occhio nudo.
 - Obiettivi serie HB con rilevamento automatico: Il Mod per obiettivo ultra-grandangolare è l’obiettivo per riprese in soggettiva ideale per scene ricche di azione e paesaggi epici. Il Mod per obiettivo macro realizza primi piani con dettagli straordinari. I filtri a densità neutra aggiungono la sfocatura del movimento alle riprese e consentono di regolare l’illuminazione delle immagini con risultati professionali. Prova il Mod per obiettivo anamorfico per riprese cinematografiche di livello professionale. HERO13 Black rileva inoltre quando un obiettivo o un filtro è fissato e di conseguenza ne regola automaticamente le impostazioni.
 - In dotazione: Fotocamera HERO13 Black, Batteria Enduro, Supporto adesivo curvo, Fibbia di montaggio + vite di fissaggio, Cavo USB-C
-- Slo-Mo in sequenza: HERO13 Black presenta il nostro Slo-Mo più lento di sempre con la possibilità di registrare clip video con l’azione rallentata fino a 13 volte la velocità normale. Potrai anche registrare brevi clip in Slo-Mo 4x utilizzando il video in 5,3K, la nostra massima risoluzione, per catturare dettagli epici invisibili a occhio nudo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DCQVQDQ7{{</world>}}

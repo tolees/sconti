@@ -28,11 +28,11 @@ average: '14.1'
 
 ℹ️:
 
-- AZIONE IGIENE: la sua esclusiva formula svolge unazione igienizzante e una pulizia profonda, rimuovendo ad ogni lavaggio germi, batteri e macchie ed eliminando anche gli odori
-- SOSTENIBILITÀ: detersivo con >96% di ingredienti biodegradabili
-- RACCOMANDAZIONI: non utilizzare per lana e seta, non utilizzare per prelavaggio e lavaggio a mano, non premere, agitare, forare, tagliare le dosi e conservare in luogo fresco e asciutto, tenere fuori dalla portata dei bambini
 - AZIONE ANTI ODORE: arricchito da una fresca fragranza di oli essenziali di Eucalipto che dona ai capi un profumo che dura a lungo
+- RACCOMANDAZIONI: non utilizzare per lana e seta, non utilizzare per prelavaggio e lavaggio a mano, non premere, agitare, forare, tagliare le dosi e conservare in luogo fresco e asciutto, tenere fuori dalla portata dei bambini
 - IDROCAPS: efficaci già a basse temperature, le nuove Idrocaps di Omino Bianco smacchiano a fondo, lasciando i capi profumati a lungo per avvolgerti in una piacevole sensazione di pulito
+- SOSTENIBILITÀ: detersivo con >96% di ingredienti biodegradabili
+- AZIONE IGIENE: la sua esclusiva formula svolge unazione igienizzante e una pulizia profonda, rimuovendo ad ogni lavaggio germi, batteri e macchie ed eliminando anche gli odori
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FKHFNT33{{</world>}}

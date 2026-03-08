@@ -28,12 +28,12 @@ average: '4.4'
 
 ℹ️:
 
+- Unità: 40.0
+- Sono inoltre dotati di: soffietti laterali - etichetta prestampata per contenuto e data - fondo a saldatura multipla rinforzata per una migliore tenuta - laccetti metallici di chiusura
+- Ideali per la conservazione e la protezione dei cibi in frigorifero, nel congelatore e durante lasporto
 - I Sacchetti Cuki GELOPIÙ sono prodotti in polietilene PE, una materia plastica altamente sostenibile poichè riciclabile al 100%. Vanno smaltiti nella raccolta differenziata della plastica
 - I Sacchetti Cuki GELPIÙ sono realizzati con lesclusiva formula in polietilene a 7 strati differenziati per offrire: protezione dal gelo, isolamento dagli odori, ultra resistenza, trasparenza
-- Sono inoltre dotati di: soffietti laterali - etichetta prestampata per contenuto e data - fondo a saldatura multipla rinforzata per una migliore tenuta - laccetti metallici di chiusura
 - Per garantire i più elevati standard di sicurezza alimentare sono igienizzati internamente attraverso lesclusivo processo di sterilizzazione dellaria Stery System
-- Unità: 40.0
-- Ideali per la conservazione e la protezione dei cibi in frigorifero, nel congelatore e durante lasporto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B081QWDFJR{{</world>}}

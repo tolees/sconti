@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - INGREDIENTI NUTRIENTI – La formula del burro di cacao labbra arricchito con Burro di Karité, Oli Naturali e Vitamine dona alle tue labbra unidratazione profonda fino a 24 ore clinicamente testata
 - DEAR LIP LOVER – Sei cordialmente invitata a lasciarti deliziare da una deliziosa esperienza: il balsamo labbra Blackberry Pie del set burrocacao labbra della collezione Bridgerton Limited Edition
-- BURROCACAO COLORATO – Celebra la bellezza delleleganza con il balsamo labbra idratante Blackberry Pie, che avvolge le tue labbra con un irresistibile aroma di Mora e un tocco di colore
 - CONTENUTO DELLA CONFEZIONE – Labello Colorato Bridgerton Limited Edition Blackberry Pie, balsamo labbra riparatore con Kate e Anthony, 1 stick labbra da 4.8 g, numero articolo: 85285
+- BURROCACAO COLORATO – Celebra la bellezza delleleganza con il balsamo labbra idratante Blackberry Pie, che avvolge le tue labbra con un irresistibile aroma di Mora e un tocco di colore
 - COLLEZIONALI TUTTI – Daphne e Simon, Anthony e Kate, Penelope e Colin o Benedict e Sophia: ogni burro cacao labbra celebra la bellezza delle tue labbra in tutte le stagioni dellamore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

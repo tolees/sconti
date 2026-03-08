@@ -28,11 +28,11 @@ average: '3.93'
 
 ℹ️:
 
+- Ricci visibilmente trasformati e sani, Ricci definiti e idratati fino a 4 giorni*, * Test strumentale dopo l’applicazione di pre-shampoo, shampoo e maschera
+- Contenuto: 1x Garnier Fructis, Pre Shampoo Idratante, Per Capelli Ricci, Ricci Morbidi, Idratati e Definiti, Con Acido Ialuronico e Burro di Karité, Metodo Ricci, 200 ml
+- Formula efficace, Complesso con Acido Ialuronico Idratante e il Burro di Karitè per recuperare lidratazione persa, Riccio rinforzato in profondità*, *Test strumentale dopo 6 applicazioni
 - Inizia la routine Metodo Ricci con il pre-shampoo senza siliconi e solfati, Applica sulle lunghezze umide, Lascia agire per 5 minuti per creare una barriera di protezione, Infine risciacqua
 - Trattamento pre shampoo Metodo Ricci adatto a ogni tipo di riccio* come onde, boccoli e ricci, Capelli idratati e detersi, Ricci definiti ed elastici *Testato su ricci da tipo 2 a 6
-- Formula efficace, Complesso con Acido Ialuronico Idratante e il Burro di Karitè per recuperare lidratazione persa, Riccio rinforzato in profondità*, *Test strumentale dopo 6 applicazioni
-- Contenuto: 1x Garnier Fructis, Pre Shampoo Idratante, Per Capelli Ricci, Ricci Morbidi, Idratati e Definiti, Con Acido Ialuronico e Burro di Karité, Metodo Ricci, 200 ml
-- Ricci visibilmente trasformati e sani, Ricci definiti e idratati fino a 4 giorni*, * Test strumentale dopo l’applicazione di pre-shampoo, shampoo e maschera
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DPMXGJR3{{</world>}}

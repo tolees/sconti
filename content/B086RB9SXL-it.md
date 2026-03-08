@@ -28,11 +28,11 @@ average: '17.73'
 
 ℹ️:
 
-- Al naso propone un aroma intenso di malto con note di caffè tostato e di agrumi canditi
-- Servire ad una temperatura tra 9-12°C preferibilmente nel tradizionale calice Leffe
 - Leffe Rouge è una birra che sprizza vitalità, si presenta con un bel colore ambrato, sormontata da una schiuma discretamente densa e persistente
+- Al naso propone un aroma intenso di malto con note di caffè tostato e di agrumi canditi
 - Confezione da 6 bottiglie da 75 cl di Leffe Rouge, birra dabbazia Belga 6.6% alcool
 - Si abbina a paste speziate o saporite, carni bianche, carni rosse, con salse saporite o speziate
+- Servire ad una temperatura tra 9-12°C preferibilmente nel tradizionale calice Leffe
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B086RB9SXL{{</world>}}

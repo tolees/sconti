@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- VERSIONE ECOLOGICA PER LIGIENE QUOTIDIANA DI MANI E VISO: Ideale per ligiene quotidiana, lascia la pelle morbida e profumata. Il formato Ecoricarica utilizza l’83% in meno di plastica rispetto ad un normale flacone con pompetta di pari volume
 - IGIENIZZA IDRATANDO LA PELLE: La sua formula ricca di agenti idratanti avvolge la pelle con un piacevole profumo
 - DELICATO SULLA PELLE PER LA MASSIMA TOLLERABILITÀ CUTANEA: Dermatologicamente testato, deterge delicatamente rispettando il pH naturale della pelle
-- FELCE AZZURRA, PROFUMO INCONFONDIBILE: Dal 1923, porta nelle case il fascino di fragranze uniche tramandate nel tempo. Sinonimo di qualità e artigianalità, offre prodotti per la cura del corpo e della casa, regalando un’autentica esperienza sensoriale
+- VERSIONE ECOLOGICA PER LIGIENE QUOTIDIANA DI MANI E VISO: Ideale per ligiene quotidiana, lascia la pelle morbida e profumata. Il formato Ecoricarica utilizza l’83% in meno di plastica rispetto ad un normale flacone con pompetta di pari volume
 - RICARICA SAPONE LIQUIDO CON FRAGRANZA CLASSICA INCONFONDIBILE: Le prime note di Arancia, Rosa e Pino lasciano spazio a un cuore di Lavanda, Petit Grain e Patchouli. Il fondo si inebria dei toni profondi di Muschio e Citronella, regalando un profumo unico
+- FELCE AZZURRA, PROFUMO INCONFONDIBILE: Dal 1923, porta nelle case il fascino di fragranze uniche tramandate nel tempo. Sinonimo di qualità e artigianalità, offre prodotti per la cura del corpo e della casa, regalando un’autentica esperienza sensoriale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09L1P8L6C{{</world>}}

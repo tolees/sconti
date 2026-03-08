@@ -28,11 +28,11 @@ average: '11.77'
 
 ℹ️:
 
-- DESIGN ITALIANO: Ferplast è unAzienda Italiana e questa Cuccia per Cani è stata progettata interamente in Italia con quella cura e attenzione ai dettagli che contraddistinguono il Made in Italy.
 - ANTIGRAFFIO: Il cuscino perfetto per il tuo amico a quattro zampe! Con il suo tessuto resistente, il cuscino offre un comfort superiore al tuo cane. Realizzato con materiali di alta qualità, è anche Impermeabile, e antigraffio. Non dovrai preoccuparti se il tuo cane è appena tornato dalla passeggiata sotto la pioggia, perché il cuscino rimane asciutto e si pulisce facilmente. La sua resistenza ai graffi garantisce che rimanga in ottima condizione anche dopo un uso prolungato.
-- PRATICO E FACILE DA PULIRE: Semplifica la tua routine di pulizia con il nostro cuscino per cani e gatti. Grazie al suo design intelligente, è facile da pulire: basta un semplice panno per rimuovere eventuali macchie o peli indesiderati. Inoltre questo cuscino è lavabile in lavatrice a 30°C. Goditi un cuscino sempre fresco e pulito, pronto per coccolare il tuo cane.
+- DESIGN ITALIANO: Ferplast è unAzienda Italiana e questa Cuccia per Cani è stata progettata interamente in Italia con quella cura e attenzione ai dettagli che contraddistinguono il Made in Italy.
 - DIMENSIONI: 57 x 38 x h 3,5 cm, DIMENSIONIDisponibile in vari colori e misure.
 - RESISTENTE E DUREVOLE: Offri al tuo amico peloso un cuscino resistente che supera le aspettative. Il nostro cuscino per cani e gatti è caratterizzato da un rivestimento in tessuto poliestere 100% Oxford, resistente ai graffi grazie alla sua struttura e alle cuciture rinforzate a coda di topo. Con un rivestimento di impermeabilizzazione poliuretanica al 5%, il cuscino rimane asciutto e privo di macchie. Un comfort durevole nel tempo che accompagnerà il tuo amico peloso.
+- PRATICO E FACILE DA PULIRE: Semplifica la tua routine di pulizia con il nostro cuscino per cani e gatti. Grazie al suo design intelligente, è facile da pulire: basta un semplice panno per rimuovere eventuali macchie o peli indesiderati. Inoltre questo cuscino è lavabile in lavatrice a 30°C. Goditi un cuscino sempre fresco e pulito, pronto per coccolare il tuo cane.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00BEF0W1C{{</world>}}

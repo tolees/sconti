@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Supporta luscita simultanea via cavo e wireless per caricare due dispositivi contemporaneamente; il power bank continua a funzionare con la ricarica wireless durante la ricarica; è una power bank e una base di ricarica wireless in uno solo
-- Costruito con sicurezza: protezioni multiple per garantire la sicurezza, come protezione da sovraccarico, protezione dalle alte temperature e protezione da corto circuito
-- Sistema di controllo della temperatura NTC: controllo intelligente della temperatura per evitare danni al dispositivo; due termistori NTC di ultima tecnologia con software integrato per un sistema di controllo della temperatura altamente affidabile; il dispositivo monitora le variazioni di temperatura e regola automaticamente la potenza per garantire che la carica non danneggi il dispositivo
 - Conforme agli standard internazionali di aviazione, sicuro da trasportare in aereo
+- Sistema di controllo della temperatura NTC: controllo intelligente della temperatura per evitare danni al dispositivo; due termistori NTC di ultima tecnologia con software integrato per un sistema di controllo della temperatura altamente affidabile; il dispositivo monitora le variazioni di temperatura e regola automaticamente la potenza per garantire che la carica non danneggi il dispositivo
+- Costruito con sicurezza: protezioni multiple per garantire la sicurezza, come protezione da sovraccarico, protezione dalle alte temperature e protezione da corto circuito
+- Supporta luscita simultanea via cavo e wireless per caricare due dispositivi contemporaneamente; il power bank continua a funzionare con la ricarica wireless durante la ricarica; è una power bank e una base di ricarica wireless in uno solo
 - Ricarica wireless con rilevamento automatico senza pulsanti: basta collegarlo per ricaricare; utilizzando la tecnologia di ricarica MagSafe, i magneti si allineano per una connessione senza sforzo e una ricarica istantanea; con una forte forza magnetica di 10 N*, funziona perfettamente anche con una custodia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

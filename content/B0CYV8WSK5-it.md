@@ -28,16 +28,16 @@ average: '57.59'
 
 ℹ️:
 
+- Drop intersuola: 10 mm (tallone: 30 mm / avampiede: 20 mm)
 - Peso: 347 g (misura 42 2/3)
+- Ammortizzazione LIGHTMOTION
 - Chiusura con lacci
 - Soletta OrthoLite
-- Questo prodotto contiene almeno il 20% di materiali riciclati
-- Drop intersuola: 10 mm (tallone: 30 mm / avampiede: 20 mm)
-- Fodera in tessuto
-- Suola Traxion
 - Calzata regolare
-- Ammortizzazione LIGHTMOTION
+- Fodera in tessuto
 - Tomaia in mesh con rivestimenti in materiale sintetico
+- Suola Traxion
+- Questo prodotto contiene almeno il 20% di materiali riciclati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CYV8WSK5{{</world>}}

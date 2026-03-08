@@ -28,8 +28,8 @@ average: '39.0'
 
 ℹ️:
 
-- Intersuola in Techlite per unammortizzazione confortevole e un elevato ritorno di energia
 - Linguetta rinforzata e puntale di protezione
+- Intersuola in Techlite per unammortizzazione confortevole e un elevato ritorno di energia
 - Tomaia in mesh e pelle scamosciata con sovralaminature in pelle sintetica
 - Struttura traspirante e impermeabile Omni-Tech
 

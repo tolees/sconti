@@ -29,8 +29,8 @@ average: '40.74'
 ℹ️:
 
 - Rovista, saccheggia, sopravvivi: Dovrai cercare provviste, fabbricare armi e oggetti e combattere disperatamente per sopravvivere!
-- Esplora una terra desolata: La pittoresca campagna britannica, con dolci colline, valli verdeggianti e villaggi rurali nasconde terribili pericoli.
 - Mistero che mette al centro il giocatore: Scopri una serie di storie intrecciate attraverso lesplorazione, la conversazione, linvestigazione e il combattimento, dove ogni scelta che fai ha delle conseguenze.
+- Esplora una terra desolata: La pittoresca campagna britannica, con dolci colline, valli verdeggianti e villaggi rurali nasconde terribili pericoli.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DM629P7C{{</world>}}

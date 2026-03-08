@@ -29,12 +29,12 @@ average: '54.1781818181819'
 ℹ️:
 
 - Il Drago Trasportatore Trasformabile Hot Wheels raddoppia lazione dei draghi con due draghi che divorano, lanciano, sfrecciano e trasportano le macchinine Hot Wheels!
-- Torna al grande drago e rilascia 2 veicoli nel lanciatore, poi falli sfrecciare in un testa a testa!
-- Fai divorare le macchinine al secondo drago! Premi un pulsante per fargli sbattere le ali e poi vola sui veicoli ignari. Lancia la bestia affamata verso di loro e guardala mentre li divora.
 - Muoviti o lasciati trasportare dal drago di grandi dimensioni che sputa fuoco dalla bocca e distrugge le macchinine e i truck che gli ostacolano il cammino!
-- Sblocca il secondo drago per trasformare quello più grande in unenorme circuito a due corsie.
 - I bambini possono collegare la pista Hot Wheels alla parte anteriore del drago per direzionare i piloti su percorsi specifici o per lanciarli in libertà. (Pista Hot Wheels in vendita separatamente.)
+- Fai divorare le macchinine al secondo drago! Premi un pulsante per fargli sbattere le ali e poi vola sui veicoli ignari. Lancia la bestia affamata verso di loro e guardala mentre li divora.
 - Include due veicoli Hot Wheels die-cast in scala 1:64 e i draghi possono trasportarne oltre 20. (Veicoli aggiuntivi in vendita separatamente).
+- Torna al grande drago e rilascia 2 veicoli nel lanciatore, poi falli sfrecciare in un testa a testa!
+- Sblocca il secondo drago per trasformare quello più grande in unenorme circuito a due corsie.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DMW9LHGX{{</world>}}

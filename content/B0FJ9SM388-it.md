@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Materiale corpo: alluminio; Materiale manico e pomolo: termoplastico;
+- La Moka Express si veste di un nuovo pomolo, innovativo e straordinario. Dalla forma raffinata, il pomolo musicale rende la Moka Express un oggetto straordinario. Allinterno del pomolo è presente una batteria ricaricabile. Mentre il caffè sta salendo, il calore innesca la batteria da cui comincia a diffondersi la celebre sigla di Stranger Things. La batteria del pomolo è ricaricabile. Nella confezione è presente il cavo USB-C.
 - Caffettiera da 3 tazze (130ml); E consigliato NON mettere la moka sotto un getto dacqua forte e/o diretto. Si consiglia di lavare la Moka con acqua tiepida dopo lutilizzo, senza lutilizzo di detersivi. Non mettere in lavastoviglie poiché potrebbe causare un danneggiamento della moka stessa, alternandone il gusto, e del pomolo.
 - Come preparare il caffè: riempire con acqua la caldaia fino alla valvola di sicurezza, inserire limbuto e aggiungere il caffè macinato per Moka senza pressare, chiudere la Moka e posizionarla sul piano cottura. Attendere la fine dellerogazione allinterno del raccoglietore, spegnere il fuoco. Ora godetevi una nuova avventura, tutta da vivere.
-- La Moka Express si veste di un nuovo pomolo, innovativo e straordinario. Dalla forma raffinata, il pomolo musicale rende la Moka Express un oggetto straordinario. Allinterno del pomolo è presente una batteria ricaricabile. Mentre il caffè sta salendo, il calore innesca la batteria da cui comincia a diffondersi la celebre sigla di Stranger Things. La batteria del pomolo è ricaricabile. Nella confezione è presente il cavo USB-C.
+- Materiale corpo: alluminio; Materiale manico e pomolo: termoplastico;
 - Valvola di sicurezza easy-clean;Non lavabile in lavastoviglie;Compatibile con fornello a gas;Idonea alluso su piastra induzione solo ed esclusivamente se usata con il piattello per induzione Bialetti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

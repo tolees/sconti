@@ -28,10 +28,10 @@ average: '5.9'
 
 ℹ️:
 
-- CONSIGLI D’USO: le ciliegie con la loro croccantezza sono perfette da gustare al meglio dopo cena, per dolci o semifreddi, fino a diventare la guarnizione ideale per cocktails.
-- CILIEGE FABBRI: le “Easy Cherry” di Fabbri rappresentative delizie sotto spirito, interpretate in chiave low alcool, mantengono intatto tutto linconfondibile gusto delle “Ciliegie Fabbri” al liquore con il 50% di alcol in meno. Con la loro ricetta a base di aromi naturali e senza coloranti artificiali, presentano una bassa gradazione alcolica (12% volume alcolico) che le rende gradevoli da mangiare.
 - PREMIATA DISTILLERIA FABBRI 1905: il legame tra la Fabbri e il mondo degli spirits ha origini antiche. Nel 1905 il capostipite dell’azienda Gennaro rileva una vecchia drogheria con tinaia a Portomaggiore e fonda la “Premiata Distilleria Liquori G. Fabbri”. I primi prodotti targati Fabbri coincidono infatti con una gamma di liquori che ottengono un crescente successo!
+- CONSIGLI D’USO: le ciliegie con la loro croccantezza sono perfette da gustare al meglio dopo cena, per dolci o semifreddi, fino a diventare la guarnizione ideale per cocktails.
 - INFORMAZIONI UTILI: Ciliegie in cocktail alcolico. Peso frutto sgocciolato 260g, liquido alcolico idrato 210ml. Anidro totale 61ml. 12% volume alcolico; eccellente spirito la cui ricetta è segreta; senza glutine.
+- CILIEGE FABBRI: le “Easy Cherry” di Fabbri rappresentative delizie sotto spirito, interpretate in chiave low alcool, mantengono intatto tutto linconfondibile gusto delle “Ciliegie Fabbri” al liquore con il 50% di alcol in meno. Con la loro ricetta a base di aromi naturali e senza coloranti artificiali, presentano una bassa gradazione alcolica (12% volume alcolico) che le rende gradevoli da mangiare.
 - FABBRI 1905: da ormai più di 100 anni Fabbri seleziona le migliori materie prime per dare alle tue preparazioni di casa un inconfondibile sapore genuino e ricco di tradizione. Oggi, dopo più di un secolo di sviluppo ed evoluzione, sono sempre quelli i sapori che cerca e porta in ogni preparazione: quelli genuini, autentici, “di una volta”. I sapori della buona tradizione italiana.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

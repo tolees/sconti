@@ -29,8 +29,8 @@ average: '9.015'
 ℹ️:
 
 - FONTE DI VITAMINE E DI CALCIO: Contiene vitamina B2, D2 e B12. La vitamina B12 contribuisce a ridurre la stanchezza e la fatica
-- Bevanda Alpro alla soia, il classico gusto originale della bontà 100% vegetale. Naturalmente povero di Grassi Saturi e Zuccheri.
 - NATURALMENTE SENZA LATTOSIO: Ideale se sei intollerante al lattosio o se sei allergico alle proteine del latte
+- Bevanda Alpro alla soia, il classico gusto originale della bontà 100% vegetale. Naturalmente povero di Grassi Saturi e Zuccheri.
 - MULTIPACK: 8 confezioni da 750 ml. Con questo prodotto stai contribuendo a un futuro più sostenibile per il nostro PIANETA. Questo pack è composto da 88% di materiale di origine vegetale
 - Questa bevanda è LALTERNATIVA VEGETALE AL LATTE perfetta, calda o fredda, dal bicchiere alla merenda, con i cereali a colazione, insieme al caffè o come ingrediente per le tue ricette preferite!
 

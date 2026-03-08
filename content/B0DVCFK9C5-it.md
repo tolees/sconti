@@ -29,8 +29,8 @@ average: '11.99'
 ℹ️:
 
 - FRESCO PROFUMO DI MENTOLO: Arricchito con un delizioso profumo di mentolo, questo shampoo lascia il cuoio capelluto rivitalizzato e rinfrescato dopo ogni lavaggio
-- ARRICCHITO CON L1% DI SOLFURO DI SELENIO: La massima protezione antiforfora di Head & Shoulders, potenziata da un ingrediente attivo che interrompe il ciclo della forfora ostinata
 - DELICATO E INDICATO PER LUSO QUOTIDIANO: Progettato con una formula delicata, il nostro shampoo antiforfora al selenio assicura unesperienza rinfrescante per il cuoio capelluto, rendendolo perfetto per luso quotidiano, senza irritare
+- ARRICCHITO CON L1% DI SOLFURO DI SELENIO: La massima protezione antiforfora di Head & Shoulders, potenziata da un ingrediente attivo che interrompe il ciclo della forfora ostinata
 - PROTEZIONE MIRATA PER IL CUOIO CAPELLUTO PRURIGINOSO: Specificamente formulato per alleviare il prurito causato dalla forfora, questo shampoo è efficace sin dal primo lavaggio
 - DERMATOLOGICAMENTE TESTATO: Il nostro shampoo di ultima generazione è studiato per combattere anche la forfora più ostinata e il prurito* al cuoio capelluto, fin dal primo lavaggio. (*prurito legato alla forfora)
 

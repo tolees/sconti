@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Indicatore luminoso di funzionamento
-- Doppia resistenza riscaldante in acciaio corazzato
-- Termostato regolabile fino a 400°C
-- Timer 5 minuti con segnale acustico
-- Palette in Alluminio per pizza e ricettario inclusi
-- Alimentazione: AC 230V ~ 50 Hz
 - Piatto in pietra refrattaria (ø 31 cm)
+- Timer 5 minuti con segnale acustico
 - Potenza: 1200W
+- Termostato regolabile fino a 400°C
+- Alimentazione: AC 230V ~ 50 Hz
+- Palette in Alluminio per pizza e ricettario inclusi
+- Doppia resistenza riscaldante in acciaio corazzato
+- Indicatore luminoso di funzionamento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07P1D1ZC4{{</world>}}

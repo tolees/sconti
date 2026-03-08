@@ -28,12 +28,12 @@ average: '29.99'
 
 ℹ️:
 
-- Questa telecamera di sicurezza è dotata di conversazione bidirezionale full duplex (ascolto e risposta) e ha un attraente design ""black pearl""
-- Grazie alla risoluzione da 5 megapixel, Rex 3D - 3K offre uneccellente qualità dellimmagine
-- Quando non è necessario sorvegliare, Rex 3D può essere messo in modalità privacy, quindi lobiettivo ruota allinterno dellalloggiamento
-- Grazie al faretto e alla sirena integrati, i visitatori indesiderati vengono tenuti a debita distanza
 - Imou Rex 3D - 3K è la telecamera di sicurezza per interni ideale, con funzione PT(Z) (rotazione di 355 gradi, inclinazione di 90 gradi e zoom digitale 8x)
 - Rex 3D è dotata di intelligenza artificiale avanzata grazie a Imou Sense: questa funzione non rileva solo le persone, ma anche animali domestici, veicoli, pacchi e rumori anomali
+- Quando non è necessario sorvegliare, Rex 3D può essere messo in modalità privacy, quindi lobiettivo ruota allinterno dellalloggiamento
+- Grazie alla risoluzione da 5 megapixel, Rex 3D - 3K offre uneccellente qualità dellimmagine
+- Questa telecamera di sicurezza è dotata di conversazione bidirezionale full duplex (ascolto e risposta) e ha un attraente design ""black pearl""
+- Grazie al faretto e alla sirena integrati, i visitatori indesiderati vengono tenuti a debita distanza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08BXZ3MNL{{</world>}}

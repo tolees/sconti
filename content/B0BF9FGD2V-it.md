@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Prodotto 1: Aroma e Gusto: Corposo e ben bilanciato nel gusto e nellintensità dellaroma per un espresso italiano deciso
-- Prodotto 2: Prodotto: Caffè in grani Pellini Espresso Bar No.9 Cremoso
-- Prodotto 1: Prodotto: Caffè in grani Pellini Espresso Bar No.82 Vivace; confezione da 1 kg
-- Prodotto 2: Miscela di caffè in grani
-- Prodotto 1: Composizione Miscela: Caffè Arabica lavati e naturali, Caffè Robusta naturale; livello di Tostatura: Medio
-- Prodotto 1: Descrizione Miscela: Miscela di caffè in grani; la selezione dei chicchi è fatta direttamente nei paesi di origine, confezionato in atmosfera protettiva
 - Prodotto 2: La selezione dei chicchi è fatta direttamente nei paesi di origine, confezionato in atmosfera protettiva
+- Prodotto 1: Descrizione Miscela: Miscela di caffè in grani; la selezione dei chicchi è fatta direttamente nei paesi di origine, confezionato in atmosfera protettiva
+- Prodotto 2: Miscela di caffè in grani
 - Prodotto 2: Confezione da 1 kg
+- Prodotto 1: Prodotto: Caffè in grani Pellini Espresso Bar No.82 Vivace; confezione da 1 kg
+- Prodotto 2: Prodotto: Caffè in grani Pellini Espresso Bar No.9 Cremoso
+- Prodotto 1: Composizione Miscela: Caffè Arabica lavati e naturali, Caffè Robusta naturale; livello di Tostatura: Medio
+- Prodotto 1: Aroma e Gusto: Corposo e ben bilanciato nel gusto e nellintensità dellaroma per un espresso italiano deciso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BF9FGD2V{{</world>}}

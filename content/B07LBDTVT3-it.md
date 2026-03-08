@@ -29,10 +29,10 @@ average: '95.0'
 ℹ️:
 
 - Primaloft Black Eco 60g quilted synthetic insulation coat offers thermal properties and water repellency - a great alternative to using down
-- The hood can pack into the collar for when its not raining
 - Helly Tech Protection - fully waterproof, windproof and breathable
-- Total protection from the elements whilst being comfortable on the inside
 - Multiple external chest and hand pockets
+- Total protection from the elements whilst being comfortable on the inside
+- The hood can pack into the collar for when its not raining
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07LBDTVT3{{</world>}}

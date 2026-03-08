@@ -28,8 +28,8 @@ average: '104.80294117647'
 
 ℹ️:
 
-- Sottopiede: Soletta in PU
 - Tomaia: Pelle
+- Sottopiede: Soletta in PU
 - Lacci elastici
 - Fodera: Poliestere riciclato al 100
 - Colore: Nero

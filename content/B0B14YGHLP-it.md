@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- La bobina di filo Greenworks è COMPATIBILE con i tagliabordi G24LT, G24LTK2, G24LT30M e G24LT30MK2 della serie Tool da 24 Volt di Greenworks
-- FUNZIONE BORDATURA: Dotato di ruota di supporto che permette di passare in poche mosse alla funzione bordatura.
 - FACILE DA AVVIARE: Inserire la batteria 24 V e avviare: con il decespugliatore a batteria potete iniziare subito a tosare il vostro prato liberamente senza cavo, batteria 2 Ah e caricatore sono forniti
-- GREENWORKS - Offriamo un vasto assortimento nel settore giardinaggio e manifattura e puntiamo su un’attività ecologica e senza gas di scarico
+- FACILE UTILIZZO: Il tagliabordi a batteria da 24 V della è dotato di testina a filo automatico da 1.65 mm così non dovete tirare a mano continuamente il filo dal rullo.
+- La bobina di filo Greenworks è COMPATIBILE con i tagliabordi G24LT, G24LTK2, G24LT30M e G24LT30MK2 della serie Tool da 24 Volt di Greenworks
 - ACCESSORI per decespugliatore - filo di nylon con 1,65 mm di diametro - 4,8 metri per bobina
 - CONSEGNA - 3 bobine rocchetti di filo per decespugliatore sono incluse - lunghezza totale 14,4 metri
-- FACILE UTILIZZO: Il tagliabordi a batteria da 24 V della è dotato di testina a filo automatico da 1.65 mm così non dovete tirare a mano continuamente il filo dal rullo.
+- FUNZIONE BORDATURA: Dotato di ruota di supporto che permette di passare in poche mosse alla funzione bordatura.
 - COMPATTO E BILANCIATO: La doppia impugnatura e il manico telescopico permettono di avere il ottimo controllo e comfort in uso. Dotato di protezione per fiori e ornamenti
+- GREENWORKS - Offriamo un vasto assortimento nel settore giardinaggio e manifattura e puntiamo su un’attività ecologica e senza gas di scarico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B14YGHLP{{</world>}}

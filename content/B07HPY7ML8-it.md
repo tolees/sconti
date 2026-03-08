@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Senza glutine
-- Confezione da 85 g
 - Ottimo per la degustazione e per abbinamenti con cibi e bevande
-- Tavoletta di cioccolato fondente extra con 85% di cacao
 - Gusto rotondo e robusto
+- Confezione da 85 g
+- Tavoletta di cioccolato fondente extra con 85% di cacao
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07HPY7ML8{{</world>}}

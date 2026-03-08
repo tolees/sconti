@@ -30,9 +30,9 @@ average: '4.52333333333333'
 
 - Un sorso di storia: il primo bicchiere di Coca-Cola fu servito ad Atlanta nel 1886, quando il farmacista John S. Pemberton produsse una bevanda “deliziosa e dissetante”
 - Come gustarla: versa Coca-Cola in un bicchiere, per un tocco in più aggiungi 2-3 cubetti di ghiaccio e una fettina di limone per esaltare l’aroma
+- Sostenibilità: ci impegniamo a creare packaging sostenibili. Tutti i packaging delle bevande a marchio The Coca-Cola Company sono 100% riciclabili
 - Un gusto unico, come te: prova il gusto originale e rinfrescante di Coca-Cola e lasciati conquistare da una delle bevande analcoliche più bevute al mondo
 - Allinterno della confezione: 4 bottiglie 1,5L di Coca-Cola Original Taste, da stappare in buona compagnia, durante i pasti o davanti ad un film o ad una partita
-- Sostenibilità: ci impegniamo a creare packaging sostenibili. Tutti i packaging delle bevande a marchio The Coca-Cola Company sono 100% riciclabili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DJH1H45Q{{</world>}}

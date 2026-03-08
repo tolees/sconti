@@ -28,14 +28,14 @@ average: '79.99'
 
 ℹ️:
 
-- PROTEZIONE DAGLI IMPATTI LATERALI G-CELL: una protezione extra integrata nel seggiolino allontana dal bambino le forze di un eventuale impatto laterale e riduce le lesioni alla testa, al collo e alle spalle
-- SEGGIOLINO AUTO GRUPPO 2-3: questo seggiolino auto 15 36 kg offre comfort, sicurezza e praticità in viaggio ed è consigliato a partire dai 100 cm - circa 3,5 anni per un uso prolungato fino ai 150 cm- 12 anni
 - VIAGGIA IN TUTTA COMODITÀ: il tuo bambino potrà viaggiare comodo e sicuro fino ai 12 anni grazie alla seduta imbottita e alla posizione rialzata che gli consente di avere una migliore visuale
-- CRESCE CON IL TUO BAMBINO: il poggiatesta del seggiolino auto i-Size Tanza può essere regolato su 10 altezze diverse, così il tuo piccolo potrà sedere comodamente anche quando è più grande
-- OMOLOGATO I-SIZE (R129): seggiolino auto isofix costruito in base ai più alti standard di sicurezza UE (ECE R129/03) - gli attacchi ISOFIX garantiscono uninstallazione sicura e stabile nella tua auto
 - PRODUZIONE ECO-SOSTENIBILE: i tessuti Eco Care sono realizzati con 13 bottiglie di plastica riciclate e senza sostanze pericolose, quindi la pelle del tuo bambino non è esposta ad alcun rischio
-- TESSUTO RICICLATO AL 100%: il rivestimento del seggiolino auto è progettata con tecnologia Eco Care - tessuto 100% riciclato, amovibile e lavabile in lavatrice
+- CRESCE CON IL TUO BAMBINO: il poggiatesta del seggiolino auto i-Size Tanza può essere regolato su 10 altezze diverse, così il tuo piccolo potrà sedere comodamente anche quando è più grande
+- PROTEZIONE DAGLI IMPATTI LATERALI G-CELL: una protezione extra integrata nel seggiolino allontana dal bambino le forze di un eventuale impatto laterale e riduce le lesioni alla testa, al collo e alle spalle
+- OMOLOGATO I-SIZE (R129): seggiolino auto isofix costruito in base ai più alti standard di sicurezza UE (ECE R129/03) - gli attacchi ISOFIX garantiscono uninstallazione sicura e stabile nella tua auto
 - SEGGIOLINO AUTO PIEGHEVOLE: Tanza i-Size è il seggiolino auto da viaggio ideale - leggero, pieghevole e compatto per portarlo con te, spostarlo da unauto allaltra o riporlo comodamente quando non in uso (pesa solo 5,32 kg, dimensioni da chiuso 59,5x28x45 cm)
+- TESSUTO RICICLATO AL 100%: il rivestimento del seggiolino auto è progettata con tecnologia Eco Care - tessuto 100% riciclato, amovibile e lavabile in lavatrice
+- SEGGIOLINO AUTO GRUPPO 2-3: questo seggiolino auto 15 36 kg offre comfort, sicurezza e praticità in viaggio ed è consigliato a partire dai 100 cm - circa 3,5 anni per un uso prolungato fino ai 150 cm- 12 anni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZ47FKZL{{</world>}}

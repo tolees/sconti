@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Il regalo adatto- Un bundle di due esemplari classici, pronti per ogni occasione e versatili per natura
+- 100% BIOLOGICI - Illusionist Dry Gin e Sentinel Rum sono entrambi creati da ingredienti 100% biologici e realizzati a mano per garantire la qualità più alta possibile
+- L’apparenza inganna - Insieme ad ogni bottiglia di Sentinel Scented Rum cè uno di sei aromi per cocktail
+- 2 Premium Spirits - Questo pacchetto combina il meglio della Illusionist Distillery in un singolo bundle offrendo il famoso Illusionist Dry Gin che cambia colore insieme al Sentinel Scented Rum
 - Una esperienza da ricordare- Scoprite la magica miscela di sapori che racchiude The Illusionist Dry Gin e gli aromi sfaccettati del Sentinel Scented Rum per un gusto ed un’esperienza mai vissute prima
 - Un Calssico - Il Sentinel Scented Rum e Illusionist Dry Gin esplorano i confini della tradizione e innovazione per un’esperienza classica
-- 100% BIOLOGICI - Illusionist Dry Gin e Sentinel Rum sono entrambi creati da ingredienti 100% biologici e realizzati a mano per garantire la qualità più alta possibile
-- Il regalo adatto- Un bundle di due esemplari classici, pronti per ogni occasione e versatili per natura
-- 2 Premium Spirits - Questo pacchetto combina il meglio della Illusionist Distillery in un singolo bundle offrendo il famoso Illusionist Dry Gin che cambia colore insieme al Sentinel Scented Rum
-- L’apparenza inganna - Insieme ad ogni bottiglia di Sentinel Scented Rum cè uno di sei aromi per cocktail
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BMM4QQJB{{</world>}}

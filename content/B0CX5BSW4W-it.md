@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dimensioni (mm): 380 x 345 x 245 cm
 - Contenitore con manici e capienza di 8 litri in acciao INOX con coperchio
-- 6 velocità di funzionamento + PULSE | Movimento Planetario
+- Dispositivo di sicurezza che impedisce uso involontario
 - Possibilità di lavorare impasti di max 3 Kg (a seconda degli alimenti da impastare)
 - Alimentazion: AC200-240V - 50/60Hz
-- Dispositivo di sicurezza che impedisce uso involontario
+- 6 velocità di funzionamento + PULSE | Movimento Planetario
 - Piedini con ventosa per maggiore stabilità
+- Dimensioni (mm): 380 x 345 x 245 cm
 - Accessori inclusi: Uncino, Impastatore e Mescolatore in alluminio, Frusta sbattitrice in acciaio inox, Coperchio in plastica trasparente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '30.0'
 
 ℹ️:
 
-- Misura: 5, 6, 7, 8, 9
-- Materiale: acciaio
 - Finitura: lucida
 - Colore: tricolore
+- Materiale: acciaio
+- Misura: 5, 6, 7, 8, 9
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DFFY7BYF{{</world>}}

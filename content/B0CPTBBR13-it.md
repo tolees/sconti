@@ -28,11 +28,11 @@ average: '6.99'
 
 ℹ️:
 
-- La speciale regola Ohana consente ai giocatori con più di 4 carte in mano di scartare le carte in eccesso e rimanere con 4 carte in mano, mentre i giocatori con meno di 4 carte ne pescano altre fino ad arrivare a 4.
-- Quando vi resta solo una carta in mano, ricordate di gridare UNO!
-- I giocatori di UNO adoreranno la grafica ispirata ai personaggi del film Disney Lilo e Stitch.
 - Progettato per coinvolgere dai 2 ai 10 giocatori di età pari o superiore ai 7 anni, questo gioco di carte da collezione è un regalo fantastico per i fan del film Disney Liloe Stitch!
+- La speciale regola Ohana consente ai giocatori con più di 4 carte in mano di scartare le carte in eccesso e rimanere con 4 carte in mano, mentre i giocatori con meno di 4 carte ne pescano altre fino ad arrivare a 4.
+- I giocatori di UNO adoreranno la grafica ispirata ai personaggi del film Disney Lilo e Stitch.
 - La modalità di gioco rispecchia quella del gioco di carte classico, in cui i giocatori abbinano colori e numeri per scartare tutte le carte.
+- Quando vi resta solo una carta in mano, ricordate di gridare UNO!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CPTBBR13{{</world>}}

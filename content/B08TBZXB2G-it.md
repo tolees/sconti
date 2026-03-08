@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Robusta scocca in metallo, guidaa trazione, sacco di raccolta lavabile con acqua, facile da rimuovere e da svuotare tramite la maniglia superiore antiscivolo, con pettine frontale che solleva l’erba prima del taglio
-- Potente tagliaerba a scoppio con larghezza taglio di 51 cm, robusto e maneggevole, per giardini con superfici massime di 1800 m², sacco di raccolta da 60 l, trazione posteriore
-- Motore Honda da 166 cc con sistema auto-choke per avviamento facilitato, a trazione posteriore, guidaa trazione, sistema di taglio 4 in 1 con funzione mulching
 - Contenuto: 1 Rasaerba a scoppio AL5 51 SHQ Alpina, larghezza taglio 51 cm, motore a trazione posteriore da 166 cc (3300 W), 1 Dispositivo di taglio, dimensioni in cm (LxPxA): 159,5 x 56,5 x 122,5 cm, sacco da 60 l, peso: 33 kg, Art. n. 2L0536934/A21
+- Motore Honda da 166 cc con sistema auto-choke per avviamento facilitato, a trazione posteriore, guidaa trazione, sistema di taglio 4 in 1 con funzione mulching
+- Robusta scocca in metallo, guidaa trazione, sacco di raccolta lavabile con acqua, facile da rimuovere e da svuotare tramite la maniglia superiore antiscivolo, con pettine frontale che solleva l’erba prima del taglio
 - Facile e pratico da usare: Avvio a strappo, altezza di taglio regolabile in 6 posizioni (22-80 mm), manico con impugnatura ergonomica, altezza manico regolabile, ruote scolpite da 200/280 mm dotate di cuscinetti con battistrada morbido
+- Potente tagliaerba a scoppio con larghezza taglio di 51 cm, robusto e maneggevole, per giardini con superfici massime di 1800 m², sacco di raccolta da 60 l, trazione posteriore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08TBZXB2G{{</world>}}

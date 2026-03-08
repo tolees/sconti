@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Collabora per creare file ordinate di carte, per numero e per colore.
-- Al terzo errore, si perde!
-- Tieni le carte in mano rivolte verso gli altri giocatori, ricevi indizi di cosa hai in mano e gioca la cata corretta.
 - Gioco di carte cooperativo in cui tu sarai lunico a non poter vedere le tue carte.
+- Collabora per creare file ordinate di carte, per numero e per colore.
+- Tieni le carte in mano rivolte verso gli altri giocatori, ricevi indizi di cosa hai in mano e gioca la cata corretta.
 - Riuscirai a capire quale giocare per rispettare la sequenza?
+- Al terzo errore, si perde!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CVL88MZN{{</world>}}

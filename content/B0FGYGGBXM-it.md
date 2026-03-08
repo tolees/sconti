@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Capacità: 500 ml
+- Grazie alla doppia parete è in grado di mantenere la temperatura per circa 10 ore
 - Solo per veri tifosi laziali!
 - Borraccia/thermos in acciaio inox doppio strato
-- Grazie alla doppia parete è in grado di mantenere la temperatura per circa 10 ore
-- Capacità: 500 ml
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FGYGGBXM{{</world>}}

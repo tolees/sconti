@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- TECNOLOGIA WHIRLTECH – Il sistema a doccia WhirlTech distribuisce l’acqua in modo uniforme con un movimento a vortice sul caffè macinato, estraendo al massimo l’aroma per un gusto intenso e bilanciato.
 - FUNZIONE PAUSA E SERVI – Non serve attendere che la caraffa sia piena: grazie alla funzione pausa e servi puoi versare una tazza durante l’erogazione senza perdite.
 - CAPACITÀ 1,25L – La caraffa in vetro da 1,25 litri ti permette di servire fino a 10 tazze di caffè, ideale per famiglia e amici.
 - FUNZIONE MANTENIMENTO IN CALDO – Il caffè rimane caldo fino a 40 minuti dopo la preparazione grazie alla funzione di mantenimento in temperatura.
-- TECNOLOGIA WHIRLTECH – Il sistema a doccia WhirlTech distribuisce l’acqua in modo uniforme con un movimento a vortice sul caffè macinato, estraendo al massimo l’aroma per un gusto intenso e bilanciato.
 - DESIGN DISTINTIVO – Il design effetto pietra con dettagli in acciaio inox spazzolato color oro dona alla macchina da caffè filtro Russell Hobbs Brontë Matte Stone un tocco di classe ed eleganza.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '7.99'
 
 ℹ️:
 
-- Trattamento Piedi di Bottega Verde: gamma specifica per il benessere e la cura dei piedi, formulata con ingredienti naturali per idratare, proteggere e contrastare la secchezza, garantendo piedi sempre morbidi e nutriti
-- Formato: 1 confezione di sali pediluvio defaticante da 250 g
 - Modo duso: sciogli un cucchiaio di sali in acqua tiepida, immergi i piedi per dieci minuti sciacqua ed asciuga per completare il trattamento
 - Pediluvio Defaticante: ideale per alleviare il senso di stanchezza di piedi, caviglie e gambe, dona sollievo immediato e una pausa di relax grazie alla fragranza balsamica dell’olio essenziale di Timo
+- Formato: 1 confezione di sali pediluvio defaticante da 250 g
+- Trattamento Piedi di Bottega Verde: gamma specifica per il benessere e la cura dei piedi, formulata con ingredienti naturali per idratare, proteggere e contrastare la secchezza, garantendo piedi sempre morbidi e nutriti
 - Formulazione: sali arricchiti con olio essenziale di Timo dalle proprietà aromatiche e rilassanti, ideali per un pediluvio rigenerante, che riduce la sensazione di gambe pesanti e stanche
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

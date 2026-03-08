@@ -28,11 +28,11 @@ average: '88.0'
 
 ℹ️:
 
-- SET PENTOLE da 12 pezzi: 2 padelle, 3 pentole con coperchi, 3 utensili, 1 caffettiera da 1 tazza (non adatta allinduzione)
-- PFOA e Nichel free, le pentole della linea KASANOVA sono ideali anche per chi ha allergie
-- COTTURA VELOCE grazie al cuore in alluminio pressofuso che distribuisce il calore in modo uniforme
-- PIANO COTTURA: adatta a piano a induzione, alogeno, elettrico, gas, vetroceramica
 - Dimensioni prodotto: L. 40.00 cm x H. 35.00 cm x P. 40.00 cm
+- PFOA e Nichel free, le pentole della linea KASANOVA sono ideali anche per chi ha allergie
+- PIANO COTTURA: adatta a piano a induzione, alogeno, elettrico, gas, vetroceramica
+- COTTURA VELOCE grazie al cuore in alluminio pressofuso che distribuisce il calore in modo uniforme
+- SET PENTOLE da 12 pezzi: 2 padelle, 3 pentole con coperchi, 3 utensili, 1 caffettiera da 1 tazza (non adatta allinduzione)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DB5GMWCM{{</world>}}

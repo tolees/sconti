@@ -28,9 +28,9 @@ average: '5.0'
 
 ℹ️:
 
-- Parte ricambio regolabile
-- Realizzato in silicone
 - Cinturino di ricambio per maschere
+- Realizzato in silicone
+- Parte ricambio regolabile
 - Anatomico e confortevole
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

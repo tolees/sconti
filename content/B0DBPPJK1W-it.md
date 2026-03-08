@@ -29,11 +29,11 @@ average: '13.76'
 ℹ️:
 
 - DIMENSIONI DEL PRODOTTO: 4,3cm x 4,1cm x 4,1cm (L x P x A)
-- SICUREZZA AFFIDABILE: protegge i dispositivi collegati da sovraccarico, sovratensione, sovracorrente e cortocircuito
-- ADATTO AI VIAGGI: design piccolo e ultracompatto; supporta una tensione di ingresso universale di 100-240V
-- RICARICA RAPIDA: caricabatterie da parete GaN USB-C a 2 porte (Nano 35W), colore bianco, per ricaricare 2 dispositivi contemporaneamente. Uscita in dettaglio: uscita massima a porta singola: 35W, uscita massima a due porte (uso simultaneo: C1+C2 = 20W+15W, la porta C1 è sul bordo e la porta C2 è al centro)
-- CONTENUTO DELLA CONFEZIONE: solo Amazon Basics caricabatterie da parete da 35W. Cavo di ricarica venduto separatamente
 - COMPATIBILITÀ: smartphone, tablet, inclusi iPhone, Samsung, iPad/iPad Pro, MacBook Air e altro
+- ADATTO AI VIAGGI: design piccolo e ultracompatto; supporta una tensione di ingresso universale di 100-240V
+- CONTENUTO DELLA CONFEZIONE: solo Amazon Basics caricabatterie da parete da 35W. Cavo di ricarica venduto separatamente
+- RICARICA RAPIDA: caricabatterie da parete GaN USB-C a 2 porte (Nano 35W), colore bianco, per ricaricare 2 dispositivi contemporaneamente. Uscita in dettaglio: uscita massima a porta singola: 35W, uscita massima a due porte (uso simultaneo: C1+C2 = 20W+15W, la porta C1 è sul bordo e la porta C2 è al centro)
+- SICUREZZA AFFIDABILE: protegge i dispositivi collegati da sovraccarico, sovratensione, sovracorrente e cortocircuito
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DBPPJK1W{{</world>}}

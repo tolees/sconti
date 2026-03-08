@@ -29,8 +29,8 @@ average: '55.2'
 ℹ️:
 
 - Realizzato al 100% in poliestere con finiture rosse a contrasto
-- Altezza: 25,5 cm, larghezza: 32 cm, profondità: 42 cm
 - Custodia stile trolley, con impugnature imbottite leggeri da trasportare e ruote lisce
+- Altezza: 25,5 cm, larghezza: 32 cm, profondità: 42 cm
 - Schienale imbottito e spallacci regolabili
 - Due scomparti principali con tasca frontale con chiusura a zip
 - Clip portachiavi attaccata

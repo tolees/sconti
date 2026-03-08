@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- RICCO PATRIMONIO: Fondata negli anni ’70, la firma Roberto Cavalli è un’icona del glamour italiano nel mondo; con i nostri profumi da donna potrai esprimere te stessa
-- FASCINO FEMMINILE: L’eau de parfum da donna Paradiso , con la sua fragranza estiva che emerge a ogni nota, ti trasporterà in una villa mediterranea baciata dal sole
-- ESPRIMI LA TUA PERSONALITÀ: Con note fresche e solari, il profumo da donna Paradiso è pensato per donne sofisticate che vedono la vita come un paradiso terrestre
 - FRAGRANZA ESTIVA DA DONNA: Scopri la rigenerante unione di neroli e mandarino, seguita poi da delicate note di gelsomino, e prova una paradisiaca sensazione di leggerezza
+- ESPRIMI LA TUA PERSONALITÀ: Con note fresche e solari, il profumo da donna Paradiso è pensato per donne sofisticate che vedono la vita come un paradiso terrestre
+- FASCINO FEMMINILE: L’eau de parfum da donna Paradiso , con la sua fragranza estiva che emerge a ogni nota, ti trasporterà in una villa mediterranea baciata dal sole
+- RICCO PATRIMONIO: Fondata negli anni ’70, la firma Roberto Cavalli è un’icona del glamour italiano nel mondo; con i nostri profumi da donna potrai esprimere te stessa
 - DESIGN MERAVIGLIOSO: La boccetta elegante e scultorea, con un tappo scintillante e dettagliato come una gemma, sarà un’aggiunta lussuosa alla tua collezione di profumi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

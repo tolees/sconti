@@ -28,10 +28,10 @@ average: '28.9'
 
 ℹ️:
 
-- Design simmetrico e sottile: una forma simmetrica è adatta sia per utenti mancini che destrimani; impugnature antiscivolo con motivo a diamante e pattini in PTFE puro aiutano a migliorare la maneggevolezza
-- CONNETTIVITÀ WIRELESS - VERSA 300 WIRELESS WHITE utilizza il più recente wireless RF a 2,4 GHz per una latenza minima. Include anche la tecnologia Bluetooth 5.3 e un cavo FriXionFree da 2 metri (da USB-C a A).
 - 50 ore di gioco per ricarica: il mouse leggero (60 g) offre fino a 50 ore di gioco con una carica completa; dispone di resistenti interruttori Kailh Micro (30 m + clic)
+- CONNETTIVITÀ WIRELESS - VERSA 300 WIRELESS WHITE utilizza il più recente wireless RF a 2,4 GHz per una latenza minima. Include anche la tecnologia Bluetooth 5.3 e un cavo FriXionFree da 2 metri (da USB-C a A).
 - Illuminazione RGB: un logo MSI Dragon illuminato mostra una serie di colori e effetti di luce predefiniti che possono essere comodamente ciclati utilizzando un pulsante dedicato
+- Design simmetrico e sottile: una forma simmetrica è adatta sia per utenti mancini che destrimani; impugnature antiscivolo con motivo a diamante e pattini in PTFE puro aiutano a migliorare la maneggevolezza
 - 8000 DPI e 1 MS LATENCY - Sensore ottico PixArt PAW3104 con 8 livelli DPI selezionabili (400/800/1600/2400/3200/4000/6400/8000)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

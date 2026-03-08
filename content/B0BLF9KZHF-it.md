@@ -28,11 +28,11 @@ average: '54.99'
 
 ℹ️:
 
-- Cavo e piedini di alta qualità: il nostro cavo paracord "Ascended" è così leggero da consentire un utilizzo senza impedimenti. Il mouse cablato definitivo che dà la stessa sensazione di un mouse da gaming wireless. I Glorious G-Skates sono fatti in PTFE al 100% vergine e permettono un controllo perfetto anche alle velocità più elevate.
-- Design ottimizzato: il Model O 2 è stato migliorato con fori ancora più piccoli, per un comfort e una resistenza maggiori. Ha inoltre una nuova texture antiscivolo che contribuisce al mantenimento del controllo sul mouse. La forma ambidestra lo rende versatile e adatto agli stili di presa ad artiglio, palmare e in punta di dita per giocatori con mani di medie e grandi dimensioni.
 - Sensore di nuova generazione: costruito per raggiungere velocità incredibili, il sensore BAMF 2.0 ha un tracciamento di 650 IPS, unaccelerazione di 50 g e una risoluzione fino a 26.000 DPI per garantirti il massimo dellaffidabilità e del controllo. Con Motion Sync hai a disposizione un tracciamento del mouse estremamente preciso e i movimenti del mouse e del cursore sono sincronizzati alla perfezione.
-- 59 g di leggerezza e velocità: progettato per essere ancora più leggero del Model O originale, il Model O 2 pesa solo 59 g e facilita più che mai il tracciamento preciso dei bersagli. Peso minore, controllo maggiore.
 - Clic affidabili: con il nuovo design a tasti separati, unito ai nostri Glorious Switches personalizzati da 80 milioni di clic, garantisce pressioni nette e affidabili dei tasti in ogni posizione. Progettato per evitare i movimenti pre e post-corsa dei tasti: le tue dita proveranno una sensazione al tatto nitida e una reattività massima.
+- Cavo e piedini di alta qualità: il nostro cavo paracord "Ascended" è così leggero da consentire un utilizzo senza impedimenti. Il mouse cablato definitivo che dà la stessa sensazione di un mouse da gaming wireless. I Glorious G-Skates sono fatti in PTFE al 100% vergine e permettono un controllo perfetto anche alle velocità più elevate.
+- 59 g di leggerezza e velocità: progettato per essere ancora più leggero del Model O originale, il Model O 2 pesa solo 59 g e facilita più che mai il tracciamento preciso dei bersagli. Peso minore, controllo maggiore.
+- Design ottimizzato: il Model O 2 è stato migliorato con fori ancora più piccoli, per un comfort e una resistenza maggiori. Ha inoltre una nuova texture antiscivolo che contribuisce al mantenimento del controllo sul mouse. La forma ambidestra lo rende versatile e adatto agli stili di presa ad artiglio, palmare e in punta di dita per giocatori con mani di medie e grandi dimensioni.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BLF9KZHF{{</world>}}

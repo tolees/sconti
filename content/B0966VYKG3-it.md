@@ -29,10 +29,10 @@ average: '45.99'
 ℹ️:
 
 - SWITCH DI NUOVA GENERAZIONE - Gli switch Golden Micro IP54 durano più di una vita e garantiscono un clic nitido, con una maggiore resistenza alla polvere e allacqua
+- RGB ECCEZIONALE - Il luminosissimo PrismSync RGB a 3 zone risplende in 16,8 milioni di colori configurabili
 - FORMA TESTATA IN COMBATTIMENTO - Ogni componente è stato accuratamente ottimizzato e modellato per ottenere il minimo peso, il massimo comfort e una lunga durata
 - ULTRALEGGERO - Il guscio esterno traforato appositamente progettato riduce il peso a 59 g per una giocabilità rapida e senza fatica
 - AQUABARRIER - L’interni del mouse sono protetti da spruzzi dacqua, polvere e sporcizia, grazie alla protezione di grado IP54
-- RGB ECCEZIONALE - Il luminosissimo PrismSync RGB a 3 zone risplende in 16,8 milioni di colori configurabili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0966VYKG3{{</world>}}

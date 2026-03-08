@@ -28,12 +28,12 @@ average: '12.9'
 
 ℹ️:
 
-- Grazie allassenza di sali di alluminio garantisce zero macchie sui vestiti. Dermatologicamente testato.
-- Neutro Roberts da più di 100 anni si prende cura della pelle, ogni giorno. Neutro Roberts. Restituire, ogni giorno
 - Una fragranza storica: il profumo iconico della saponetta Neutro Roberts racchiuso in un bouquet di fiori bianchi.
-- Con puro olio di glicerina, studiato per restituire alla pelle la sua naturale idratazione e proteggerla ogni giorno.
+- Grazie allassenza di sali di alluminio garantisce zero macchie sui vestiti. Dermatologicamente testato.
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
+- Con puro olio di glicerina, studiato per restituire alla pelle la sua naturale idratazione e proteggerla ogni giorno.
 - Formula deodorante senza sali di alluminio, per lasciare la pelle libera di respirare. Formato stick. Efficacia 48h.
+- Neutro Roberts da più di 100 anni si prende cura della pelle, ogni giorno. Neutro Roberts. Restituire, ogni giorno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DZHQMB93{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Gioca una carta con il simbolo pass e i giocatori possono passare una carta a loro scelta al proprio compagno di squadra.
 - Carte speciali come Gioco Squadra Jolly e Squadra Jolly Pesca 4 aiutano le squadre a vincere insieme.
+- Non dimenticare: chi resta con una sola carta in mano deve gridare UNO!
 - Se uno dei due esce, prende metà delle carte dalla mano del proprio compagno e continua a giocare.
 - UNO Teams resta il gioco classico che i fan conoscono e amano, ma si gioca in squadre di due!
-- Non dimenticare: chi resta con una sola carta in mano deve gridare UNO!
+- Gioca una carta con il simbolo pass e i giocatori possono passare una carta a loro scelta al proprio compagno di squadra.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D6X9T62X{{</world>}}

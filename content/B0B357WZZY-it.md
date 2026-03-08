@@ -29,10 +29,10 @@ average: '7.56333333333333'
 ℹ️:
 
 - Note di Cuore - Note speziate del cardamomo si uniscono a un sentore pulito e fresco di muschio
-- Note di Fondo - La sensualità orientale e mascolina del legno di cedro
-- Note di Testa - La freschezza del mandarino, delle foglie di menta e del limone
 - Per chi crede nel potere della squadra e nella forza dellindividuo. Con olio essenziale naturale di mandarino. Profumo a lunga durata e formula vegana
 - Realizzato con il 25% di vetro riciclato e il tappo con il 50% di plastica riciclata. Con olio essenziale naturale di cardamomo e mandarino
+- Note di Testa - La freschezza del mandarino, delle foglie di menta e del limone
+- Note di Fondo - La sensualità orientale e mascolina del legno di cedro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B357WZZY{{</world>}}

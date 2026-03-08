@@ -28,11 +28,11 @@ average: '16.99'
 
 ℹ️:
 
-- Include 1 cubo del personaggio, pezzo con orecchie, 1 base, 1 corpo, 1 piastra di aggancio per la testa
-- RISOLVI ED ESPONI: una volta risolto il rompicapo, fissa il pezzo con la testa del personaggio e quello con le orecchie di Batman al corpo e al supporto inclusi per mostrare con orgoglio la tua passione su una scrivania o uno scaffale
-- IL CUBO RUBIKS CLASSICO: una combinazione di matematica, arte e scienza, liconico Cubo Rubiks metterà alla prova la mente e le abilità di problem solving. Il classico cubo 3x3 è un famosissimo rompicapo sin dal 1980
-- CUBER BATMAN: ruota, gira e mostra le tue mosse in un modo diverso con il cuber Batman. È liconico Cubo Rubiks 3x3 che ami, ispirato al personaggio con una modalità di esposizione diversa
 - IMPERDIBILE PER GLI AMANTI DEI ROMPICAPO: colleziona tutti i tuoi personaggi preferiti di Marvel, DC Comics e molti altri, tra cui Black Panther, Iron Man e Spiderman, con i cuber del Cubo Rubiks
+- RISOLVI ED ESPONI: una volta risolto il rompicapo, fissa il pezzo con la testa del personaggio e quello con le orecchie di Batman al corpo e al supporto inclusi per mostrare con orgoglio la tua passione su una scrivania o uno scaffale
+- CUBER BATMAN: ruota, gira e mostra le tue mosse in un modo diverso con il cuber Batman. È liconico Cubo Rubiks 3x3 che ami, ispirato al personaggio con una modalità di esposizione diversa
+- IL CUBO RUBIKS CLASSICO: una combinazione di matematica, arte e scienza, liconico Cubo Rubiks metterà alla prova la mente e le abilità di problem solving. Il classico cubo 3x3 è un famosissimo rompicapo sin dal 1980
+- Include 1 cubo del personaggio, pezzo con orecchie, 1 base, 1 corpo, 1 piastra di aggancio per la testa
 - RUOTA, GIRA, RIPETI: i cuber sono dotati di 6 lati, ciascuno composto da 9 caselle. Una volta mescolato, ruota e gira il cubo fino ad allineare su ciascuna faccia ogni lato della testa di Batman
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

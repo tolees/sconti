@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Capacità di carico: 200 kg
 - Accessori: remi francesi da 48 pollici (59623) e pompa manuale ad alta potenza (68612)
-- Dimensioni approssimative gonfiato: 236 x 114 x 41 cm
 - Capacità persone: 2
+- Dimensioni approssimative gonfiato: 236 x 114 x 41 cm
+- Capacità di carico: 200 kg
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FPBHNGSJ{{</world>}}

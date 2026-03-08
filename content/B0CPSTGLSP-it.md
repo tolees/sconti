@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Costruite insediamenti, reclutate seguaci, esplorate pianeti e cercate di conquistare Atlantide e i suoi immensi tesori!
 - Numero di giocatori: 1-4 | Età consigliata: 13+ | Durata media: 90 min | Edizione in lingua italiana
-- Anunnaki - LAlba degli Dèi è un gioco 4X, ambientato in un passato distopico dove mitologia e fantascienza si uniscono. Ogni giocatore rappresenta una Casata i cui rappresentanti sono visti come divinità dalla popolazione terrestre.
 - Con una grande varietà di elementi di gioco, come le fazioni con abilità uniche, il setup casuale delle azioni sulla stella e un bassissimo impatto della fortuna, Anunnaki - L’Alba degli Dèi rappresenta un’esperienza incredibilmente immersiva e profonda.
 - Ottima scelta anche per giocatori singoli appassionati di wargame complessi e profondi.
+- Costruite insediamenti, reclutate seguaci, esplorate pianeti e cercate di conquistare Atlantide e i suoi immensi tesori!
+- Anunnaki - LAlba degli Dèi è un gioco 4X, ambientato in un passato distopico dove mitologia e fantascienza si uniscono. Ogni giocatore rappresenta una Casata i cui rappresentanti sono visti come divinità dalla popolazione terrestre.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CPSTGLSP{{</world>}}

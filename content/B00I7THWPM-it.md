@@ -29,10 +29,10 @@ average: '0.99'
 ℹ️:
 
 - FORMULA: La formula arricchita di agenti idratanti deterge delicatamente rispettando il pH della pelle
-- FORMATO: Il Sapone Liquido Felce Azzurra Classico è disponibile nel formato erogatore da 300ml e nel formato ecoricarica da 500ml
 - DELICATO: Dermatologicamente testato, formulato per detergere la pelle rispettandola
 - PROFUMO: Il profumo Classico è unico e inconfondibile, composto da più di 100 ingredienti provenienti da tutto il mondo
 - PRODOTTO: Il Sapone Liquido Felce Azzurra Classico è il prodotto ideale per ligiene quotidiana di mani e viso
+- FORMATO: Il Sapone Liquido Felce Azzurra Classico è disponibile nel formato erogatore da 300ml e nel formato ecoricarica da 500ml
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00I7THWPM{{</world>}}

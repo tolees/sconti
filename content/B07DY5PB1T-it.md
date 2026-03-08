@@ -28,10 +28,10 @@ average: '36.95'
 
 ℹ️:
 
-- Articolo per tutto lanno
 - Graceful Get Connected
-- Canna bassa
 - Da donna
+- Articolo per tutto lanno
+- Canna bassa
 - Tessuto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

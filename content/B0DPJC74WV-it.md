@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- 1 HDMI 2.1, 1 Micro HDMI, 1 Display Port, Ingresso Audio
 - Contenuto: 1x Monitor Gaming Odyssey OLED G9 49, Include cavo di alimentazione, cavo DP, cavo da USB Type-C a USB Type-A, Dimensioni con base (LxAxP): 119,47 x 52,93 x 28,41 cm
-- 5120x1440 (DQHD), Pannello QD-OLED, 32:9, HDR10+
 - Refresh Rate 240Hz, Tempo di risposta 0,03ms (GtG), Compatibilità G-Sync
 - Samsung Monitor Gaming Odyssey OLED G9, 49, Curvo
-- 1 HDMI 2.1, 1 Micro HDMI, 1 Display Port, Ingresso Audio
+- 5120x1440 (DQHD), Pannello QD-OLED, 32:9, HDR10+
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DPJC74WV{{</world>}}

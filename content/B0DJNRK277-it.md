@@ -29,11 +29,11 @@ average: '9.54'
 ℹ️:
 
 - I prodotti Lindt nascono da passione e dedizione dei Maîtres Chocolatiers, che da più di 175 anni incantano il mondo con capolavori di cioccolato
-- Lindt Excellence 70% cacao, tavoletta di finissimo cioccolato extra fondente 70% cacao, in formato tavoletta da 100g
-- Lindt Excellence 70% cacao è una tavoletta di finissimo cioccolato Lindt extra fondente: equilibrio perfetto, una persistenza eccezionale, che svela tutta l’intensità e gli aromi del cacao; Formato 100g
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
 - Gli aromi più ricchi, il cacao più pregiato: Lindt Excellence è la gamma di tavolette con alte percentuali di cacao, per il tuo momento personale di degustazione
 - Cacao pregiatissimo, tostatura e macinazione inimitabili, i migliori ingredienti: questo è il segreto del finissimo cioccolato Lindt
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
+- Lindt Excellence 70% cacao, tavoletta di finissimo cioccolato extra fondente 70% cacao, in formato tavoletta da 100g
+- Lindt Excellence 70% cacao è una tavoletta di finissimo cioccolato Lindt extra fondente: equilibrio perfetto, una persistenza eccezionale, che svela tutta l’intensità e gli aromi del cacao; Formato 100g
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DJNRK277{{</world>}}

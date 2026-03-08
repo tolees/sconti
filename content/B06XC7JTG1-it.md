@@ -29,9 +29,9 @@ average: '75.92'
 ℹ️:
 
 - Il Jeans 3301 Slim è un classico jeans a 5 tasche che offre una vestibilità stretta dalla coscia in giù.
-- Questo paio di jeans 3301 a vita media è ispirato al pantalone robusto delloperaio occidentale, ridotto al suo essenziale.
-- Fitted waist
 - Regular rise
+- Fitted waist
+- Questo paio di jeans 3301 a vita media è ispirato al pantalone robusto delloperaio occidentale, ridotto al suo essenziale.
 - Narrow from thigh to hem
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '18.0'
 
 ℹ️:
 
-- Favorisce il recupero
 - Nutre i muscoli, dà energia
-- 33% proteine con 26 vitamine, minerali e un aminoacido
+- Favorisce il recupero
 - Barretta con energia istantanea e che dura nel tempo; 33% proteine con 26 Vitamine, Minerali e un aminoacido
+- 33% proteine con 26 vitamine, minerali e un aminoacido
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01HHWD5UA{{</world>}}

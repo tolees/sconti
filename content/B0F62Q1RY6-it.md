@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Spallacci imbottiti regolabili
 - EK30Y, 30 anni
+- Spallacci imbottiti regolabili
 - Tessuto resistente allacqua
 - Organizer integrato con portachiavi, tasca nascosta e tasca in rete con cerniera
 - Tessuto idrorepellente

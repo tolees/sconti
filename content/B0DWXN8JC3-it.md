@@ -28,11 +28,11 @@ average: '449.9'
 
 ℹ️:
 
-- FILTRO SEMPLICE DA PULIRE: manutenzione semplice e veloce grazie al filtro Easy Clean in spugna che cattura la lanugine. Quando ricevi la notifica, basta rimuoverlo, sciacquarlo sotto l’acqua e reinserirlo eliminando così la necessità di pulire il condensatore.
-- DIMENSIONI: 84 cm x 60 cm x 60 cm (oblò escluso), questa asciugatrice, con capacità di carico di 8 kg, si adatta facilmente a ogni spazio della tua casa e ad ogni esigenza.
 - ASCIUGATURA AUTOMATICA controllata da sensori intelligenti per raggiunge il livello di asciugatura desiderato, senza surriscaldare i capi e limitando i consumi.
+- FILTRO SEMPLICE DA PULIRE: manutenzione semplice e veloce grazie al filtro Easy Clean in spugna che cattura la lanugine. Quando ricevi la notifica, basta rimuoverlo, sciacquarlo sotto l’acqua e reinserirlo eliminando così la necessità di pulire il condensatore.
 - CONSUMI RIDOTTI: il filtro sempre pulito assicura un’asciugatura efficiente con consumi ridotti e capi sempre perfettamente asciutti.
 - SERVIZI AMAZON: scegli la qualità e l’efficienza delle lavatrici Bosch e scopri i servizi Amazon di consegna, installazione e smaltimento. La tua vita, più semplice con Bosch e Amazon.
+- DIMENSIONI: 84 cm x 60 cm x 60 cm (oblò escluso), questa asciugatrice, con capacità di carico di 8 kg, si adatta facilmente a ogni spazio della tua casa e ad ogni esigenza.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DWXN8JC3{{</world>}}

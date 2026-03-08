@@ -28,9 +28,9 @@ average: '4.0'
 
 ℹ️:
 
-- Shampoo della marca Flex. Prodotti di Cura dei capelli
-- Flex Keratin Shampoo Oily Hair 650 Ml
 - 650 ml
+- Flex Keratin Shampoo Oily Hair 650 Ml
+- Shampoo della marca Flex. Prodotti di Cura dei capelli
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00CZA5RBA{{</world>}}

@@ -28,11 +28,11 @@ average: '14.245'
 
 ℹ️:
 
-- UN GIOCO EMOZIONANTE DA GIOCARE IN COMPAGNIA O DA SOLI: Jenga è ideale per adulti e bambini, famiglia e amici, è il gioco di equilibrio con i mattoncini in legno che anima le feste. Niente amici in vista? Nessun problema: gioca in solitaria per battere il tuo record personale
 - 6 MODALITÀ DI GIOCO IN PIÙ: lancia il dado digitale per nuove sfide. Affronta questo gioco da tavolo solo con i pollici, gareggia contro il tempo e molto altro ancora! Basta scansionare il codice QR o visitare l’app sul web per scaricare il dado (nessun acquisto aggiuntivo richiesto)
-- MATTONCINI IN VERO LEGNO: uno dei giochi da tavolo classici più divertenti e impegnativi, Jenga include 54 mattoncini in legno finemente realizzati. Sfila un mattoncino e posizionalo in cima, ma non far crollare la torre in questo gioco che richiede mano ferma, fortuna e tanta concentrazione
+- UN GIOCO EMOZIONANTE DA GIOCARE IN COMPAGNIA O DA SOLI: Jenga è ideale per adulti e bambini, famiglia e amici, è il gioco di equilibrio con i mattoncini in legno che anima le feste. Niente amici in vista? Nessun problema: gioca in solitaria per battere il tuo record personale
 - TI PRESENTIAMO IL DADO DIGITALE: più tensione, più sorprese e tante risate! In questa versione di Jenga puoi divertirti con il gioco classico amato da tutti i fan, oppure rendere la sfida ancora più intensa usando il dado digitale per sfide ancora più imprevedibili
 - SFIDE ESILARANTI: nuove modalità come “Squadra” portano il divertimento di questo gioco di strategia a un livello superiore! Il giocatore scelto dovrà farsi guidare da un compagno che può solo dirigere i movimenti... senza mai toccare la torre, né farla cadere
+- MATTONCINI IN VERO LEGNO: uno dei giochi da tavolo classici più divertenti e impegnativi, Jenga include 54 mattoncini in legno finemente realizzati. Sfila un mattoncino e posizionalo in cima, ma non far crollare la torre in questo gioco che richiede mano ferma, fortuna e tanta concentrazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D87PKYYK{{</world>}}

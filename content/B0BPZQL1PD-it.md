@@ -28,8 +28,8 @@ average: '58.9'
 
 ℹ️:
 
-- Testina motorizzata Dual Brush, con Jalisco e spazzola multifunzione, che consente movimenti laterali e circolari per una pulizia a 360º.
 - Design ultraleggero 2 in 1 che ne consente lutilizzo come aspirapolvere verticale e portatile (0,73 kg nella mano e 1,55 kg nel suo insieme) per pulire ogni angolo nel modo più comodo.
+- Testina motorizzata Dual Brush, con Jalisco e spazzola multifunzione, che consente movimenti laterali e circolari per una pulizia a 360º.
 - Sistema a batteria da 16,8 V con batteria rimovibile agli ioni di litio da 2500 mAh e 16,8 V che raggiunge unautonomia fino a 45 minuti*.
 - Aspirapolvere a scopa omnidirezionale con un design ultraleggero e un motore digitale brushless allavanguardia che offre maggiore velocità, minore rumorosità e prolunga la durata dellaspirapolvere. Tecnologia ForceSonic con una potenza massima di 210 W. Aspira tutti i tipi di sporco e mantiene la casa sempre pulita massimizzando la potenza di aspirazione di 20 kPa. Garantisci la massima efficienza con il sistema multifasico.
 - Due modalità operative, Eco e Turbo, per adattare il loro utilizzo a ciascuna circostanza. Massima efficienza per tutta la sua durata grazie alla tecnologia Cyclonic System. Incorpora gli ultimi progressi nellaspirazione per separare le particelle mediante la forza centrifuga.

@@ -28,11 +28,11 @@ average: '21.22'
 
 ℹ️:
 
-- ELETTRONICAMENTE TESTATI: ogni nostro preservativo è testato elettronicamente.
-- *comparato con i normali preservativi in lattice Durex
-- DUREX SURPRISE MIX è un mix pensato per il divertimento e per provare qualcosa di nuovo. La confezione include un assortimento di preservativi di diverse larghezze e forme
-- 10 PRESERVATIVI SUPERSOTTILE* EXTRA LUBRIFICATO: per un’elevata sensibilità e per conservare le sensazioni del contatto «pelle contro pelle» durante il rapporto sessuale. 10 PRESERVATIVI SETTEBELLO EXTRA SICURO: con maggiore spessore ed extra lubrificazione
 - SICUREZZA E PRIVACY: assicuriamo al 100% la tua privacy, il pacco è anonimo e non ci sono riferimenti al brand nel mittente. Il prodotto è originale Durex: è venduto da un rivenditore autorizzato.
+- *comparato con i normali preservativi in lattice Durex
+- ELETTRONICAMENTE TESTATI: ogni nostro preservativo è testato elettronicamente.
+- 10 PRESERVATIVI SUPERSOTTILE* EXTRA LUBRIFICATO: per un’elevata sensibilità e per conservare le sensazioni del contatto «pelle contro pelle» durante il rapporto sessuale. 10 PRESERVATIVI SETTEBELLO EXTRA SICURO: con maggiore spessore ed extra lubrificazione
+- DUREX SURPRISE MIX è un mix pensato per il divertimento e per provare qualcosa di nuovo. La confezione include un assortimento di preservativi di diverse larghezze e forme
 - 10 PRESERVATIVI PLEASURE MAX, con rilievi e nervature stimolanti per una maggiore stimolazione. 10 PRESERVATIVI AROUSE ME: stimolanti con nervature per sensazioni amplificate.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

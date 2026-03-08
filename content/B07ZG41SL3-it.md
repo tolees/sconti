@@ -31,8 +31,8 @@ average: '3.125'
 - Ideale per tutte le applicazioni quotidiane, come giocattoli, orologi, calcolatrici, dispositivi abbronzanti, telecomandi, bilance personali e da cucina, chiavi dellauto, ecc
 - Intenso Dimensioni delle pile a bottone disponibili in: CR2016, CR2025, CR2032, CR2430, CR2450, LR43, LR44, LR54
 - Massime prestazioni e durata
-- Solitamente alta e affidabile qualità Intenso
 - 20 mm di diametro x 3,2 mm di altezza, 3 V, tecnologia al litio per prestazioni energetiche ideali
+- Solitamente alta e affidabile qualità Intenso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07ZG41SL3{{</world>}}

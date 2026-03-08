@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Prodotto in Italia. Maxi formato da 100 compresse deglutibili (200g) per più di 3 mesi di utilizzo (1 compressa al giorno), SENZA GLUTINE, SENZA ZUCCHERI
-- MULTIVITAMINICO COMPLETO PER UOMINI FINO AI 50 ANNI: Integratore alimentare multivitaminico con formula completa e bilanciata appositamente formulato per supportare le esigenze nutrizionali degli uomini fino ai 50 anni
-- NUOVA COLORAZIONE COMPRESSE: il cambio è dovuto ad una modifica nel rivestimento della compressa osservabile solo nell’aspetto; tutti i prodotti Multicentrum continueranno ad avere la stessa composizione nutrizionale e continueranno ad aderire così agli elevati standard di qualità di cui il marchio è conosciuto
-- APPORTO COMPLETO DI NUTRIENTI DALLA A ALLO ZINCO: Multicentrum Uomo multivitaminico contiene i nutrienti fondamentali per supportare le specifiche necessità delluomo: ACIDO PANTOTENICO, ZINCO e FERRO, per caiutare a mantenere una mente in salute; VITAMINA B1 e TIAMINA, essenziali per mantenere in salute la funzione cardiaca, VITAMINA C, RAME E SELENIO, per supportare il normale funzionamento del sistema immunitario e CALCIO per la salute delle ossa.
 - ASSUNZIONE: Una compressa al giorno da deglutire con acqua anche lontano dai pasti; la compressa deglutibile può essere comodamente divisa in due parti per facilitarne l’assunzione servendosi del pratico invito al taglio; Multicentrum Uomo multivitaminico può essere assunto anche per periodi prolungati;
+- MULTIVITAMINICO COMPLETO PER UOMINI FINO AI 50 ANNI: Integratore alimentare multivitaminico con formula completa e bilanciata appositamente formulato per supportare le esigenze nutrizionali degli uomini fino ai 50 anni
 - Conservare il prodotto in un luogo asciutto e ad una temperatura non superiore a 25 °C
+- NUOVA COLORAZIONE COMPRESSE: il cambio è dovuto ad una modifica nel rivestimento della compressa osservabile solo nell’aspetto; tutti i prodotti Multicentrum continueranno ad avere la stessa composizione nutrizionale e continueranno ad aderire così agli elevati standard di qualità di cui il marchio è conosciuto
 - QUALITA E RICERCA: Da sempre, qualità e sicurezza sono i principi base di Multicentrum; Guidata da una lunga tradizione, la ricerca Multicentrum si basa sulle conoscenze attuali in materia di scienza dell’alimentazione; Gli ingredienti di qualità sono da sempre il fulcro di tutte le formulazioni Multicentrum
+- APPORTO COMPLETO DI NUTRIENTI DALLA A ALLO ZINCO: Multicentrum Uomo multivitaminico contiene i nutrienti fondamentali per supportare le specifiche necessità delluomo: ACIDO PANTOTENICO, ZINCO e FERRO, per caiutare a mantenere una mente in salute; VITAMINA B1 e TIAMINA, essenziali per mantenere in salute la funzione cardiaca, VITAMINA C, RAME E SELENIO, per supportare il normale funzionamento del sistema immunitario e CALCIO per la salute delle ossa.
+- Prodotto in Italia. Maxi formato da 100 compresse deglutibili (200g) per più di 3 mesi di utilizzo (1 compressa al giorno), SENZA GLUTINE, SENZA ZUCCHERI
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CDBWQC12{{</world>}}

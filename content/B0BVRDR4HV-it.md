@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - PER LA REGOLARITÀ DEL TRANSITO INTESTINALE: La fibra di Psyllio agisce su regolarità transito intestinale, sistema digerente (azione lenitiva ed emolliente), normale volume e consistenza delle feci
+- CARATTERISTICHE: La fibra di Psyllio è nota per un’azione di modulazione/limitazione dell’assorbimento dei nutrienti per il metabolismo dei lipidi e dei carboidrati e per l’effetto prebiotico
 - EQUILIBRA: Da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto dellequilibrio tra rispetto, efficacia, benessere e bellezza
 - PER LEQUILIBRIO DELLA FLORA BATTERICA: La fibra di Psyllio è nota anche per l’effetto prebiotico che favorisce lequilibrio della flora batterica
 - DA ASSUMERE QUOTIDIANAMENTE: 1 bustina al giorno. La polvere va disciolta in un abbondante bicchiere d’acqua (200 ml) oppure in un succo di frutta, yogurt o centrifugato, mescolando
-- CARATTERISTICHE: La fibra di Psyllio è nota per un’azione di modulazione/limitazione dell’assorbimento dei nutrienti per il metabolismo dei lipidi e dei carboidrati e per l’effetto prebiotico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BVRDR4HV{{</world>}}

@@ -30,8 +30,8 @@ average: '6.17'
 
 - Capacità: 380 ml
 - Una giornata meravigliosa inizia con un ricco caffè in questa tazza.
-- Materiali: borosilicato
 - Misure: 8 x 8 x 9,5 cm
+- Materiali: borosilicato
 - Coppa in vetro, trasparente e dal design diverso e originale.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

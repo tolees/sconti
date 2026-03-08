@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - 8h di durata, idratazione immediata
 - Finish soft luminoso, effetto seconda pelle
+- Dermatologicamente testato Non comedogenico
 - Formula avanzata infusa con acido ialuronico, niacinamide ed acqua di rosa
 - La sensorialità di un siero unita alle performance uniformanti di un fondotinta per una pelle sublime. Aiuta a migliorare la compattezza e lelasticità della pelle
-- Dermatologicamente testato Non comedogenico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DZPG4T18{{</world>}}

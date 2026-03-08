@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Maglione, Felpa Uomo Collo Alto Zip
 - Maniche lunghe, vestibilità comoda, polsini a coste
+- Maglione, Felpa Uomo Collo Alto Zip
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CKVLJ8CJ{{</world>}}

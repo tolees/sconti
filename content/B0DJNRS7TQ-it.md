@@ -28,11 +28,11 @@ average: '5.55'
 
 ℹ️:
 
-- SENZA DOSATORE, CON IL -30% DI PLASTICA*: questo prodotto è senza dosatore, riducendo così lutilizzo di plastica del 30% rispetto ai componenti in plastica della confezione
-- CON POCHI GRASSI: il Granulare Classico Knorr è ideale per tante preparazioni, ed è un prodotto con pochi grassi per un brodo comunque ricco di sapore!
 - KNORR: Noi di Knorr ci impegnamo per il nostro pianeta e aiutiamo le persone a preparare piatti gustosi in modo facile e veloce
+- SENZA DOSATORE, CON IL -30% DI PLASTICA*: questo prodotto è senza dosatore, riducendo così lutilizzo di plastica del 30% rispetto ai componenti in plastica della confezione
 - CON VERDURE DA AGRICOLTURA SOSTENIBILE: il Granulare Classico Knorr è realizzato con verdure provenienti da agricoltura sostenibile, garantendo un sapore autentico e di qualità.
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
+- CON POCHI GRASSI: il Granulare Classico Knorr è ideale per tante preparazioni, ed è un prodotto con pochi grassi per un brodo comunque ricco di sapore!
 - SENZA GLUTINE, SENZA LATTOSIO, SENZA CONSERVANTI: il Granulare Classico Knorr è adatto a tutti i piatti senza glutine, lattosio e conservanti; offrendo unopzione gustosa per tutti i palati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

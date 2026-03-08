@@ -28,11 +28,11 @@ average: '469.495'
 
 ℹ️:
 
-- Refresh rate 240 Hz e tempo di risposta ultra basso 0,03 ms (GtG) per VESA ClearMR 13000. Dissipatore in grafene d’élite senza ventole migliora la durata del pannello
-- GAMING INTELLIGENCE – MSI GI include OLED Care 2.0 anti burn-in, AI Smart Crosshair, modalità console, assistenza gioco, PiP/PbP e supporta stand regolabile 4 vie (VESA 100 mm)
-- CONNETTIVITÀ AVANZATA – Interfacce per PC, Mac, console e laptop (tutte WQHD/240Hz) con DisplayPort 1.4a e porte HDMI 2.1 CEC
-- MSI MAG 273QP QD-OLED X24 combina Quantum Dot 10-bit e pixel OLED autoemissivi per neri profondi e risposta ultra rapida. La disposizione avanzata dei sub-pixel migliora la nitidezza dell’immagine
 - Pannello Quantum Dot OLED 26,5" WQHD con 1,07 miliardi di colori (10-bit, 99% DCI-P3) e precisione ΔE ≤ 2. Certificato VESA DisplayHDR True Black 400, contrasto nativo 1.500.000:1 e picco di luminosità fino a 1000 nit
+- MSI MAG 273QP QD-OLED X24 combina Quantum Dot 10-bit e pixel OLED autoemissivi per neri profondi e risposta ultra rapida. La disposizione avanzata dei sub-pixel migliora la nitidezza dell’immagine
+- CONNETTIVITÀ AVANZATA – Interfacce per PC, Mac, console e laptop (tutte WQHD/240Hz) con DisplayPort 1.4a e porte HDMI 2.1 CEC
+- GAMING INTELLIGENCE – MSI GI include OLED Care 2.0 anti burn-in, AI Smart Crosshair, modalità console, assistenza gioco, PiP/PbP e supporta stand regolabile 4 vie (VESA 100 mm)
+- Refresh rate 240 Hz e tempo di risposta ultra basso 0,03 ms (GtG) per VESA ClearMR 13000. Dissipatore in grafene d’élite senza ventole migliora la durata del pannello
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BSLK4RX3{{</world>}}

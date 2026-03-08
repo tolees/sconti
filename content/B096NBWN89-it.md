@@ -28,10 +28,10 @@ average: '2.15'
 
 ℹ️:
 
-- TESTATO: sotto controllo ginecologico e pediatrico e adatto alluso quotidiano
 - NATURALE: La formula contiene estratto di TeaTree di origine 100% naturale. Aiuta a proteggere il tuo intimo
-- ECOLOGICO: i Flaconi di Neutro Roberts Intimo contengono il 30% di bioplastica e sono 100% riciclabili
 - ANTIBATTERICO: racchiude le proprietà naturali del tea tree per aiutarti a proteggere il tuo intimo da aggressioni esterne. Ideale per uso quotidiano
+- ECOLOGICO: i Flaconi di Neutro Roberts Intimo contengono il 30% di bioplastica e sono 100% riciclabili
+- TESTATO: sotto controllo ginecologico e pediatrico e adatto alluso quotidiano
 - GENTILE CON LA PELLE: Le nuove nuove formule di Neutro Roberts Intimo sono naturalmente gentili e rispettano il pH intimo fisiologico.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

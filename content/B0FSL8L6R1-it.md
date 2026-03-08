@@ -28,10 +28,10 @@ average: '209.99'
 
 ℹ️:
 
+- 【Aspirazione da 10000Pa + Sistema di Pulizia 2 in 1】 Con la sua potenza di aspirazione da 10000Pa, il M2S Pro rimuove efficacemente polvere, peli e briciole da pavimenti duri e tappeti. Il serbatoio da 300 ml con controllo elettronico dell’acqua consente di lavare in modo uniforme con tre livelli di umidità, garantendo pavimenti sempre brillanti e privi di aloni.
 - 【Navigazione Laser dToF + Evitamento Ostacoli PSD】 Il Lefant M2S Pro utilizza un sistema di navigazione dToF di ultima generazione che crea mappe precise in tempo reale, anche al buio. Grazie alla tecnologia PSD a 9 gruppi di sensori, riconosce e aggira in modo intelligente ostacoli come mobili, giocattoli o ciotole, evitando urti e interruzioni durante la pulizia.
 - 【Controllo Intelligente e Personalizzazione Avanzata】 Gestisci tutto dall’app Lefant: crea mappe, imposta zone vietate, scegli stanze specifiche o pianifica pulizie personalizzate per area. Compatibile con Alexa e Google Home, offre un’esperienza di controllo vocale fluida e intuitiva, integrandosi perfettamente nella tua smart home.
 - 【Stazione di Svuotamento Automatico 2.5L: Senza Sacchetto o Con Sacchetto】 Goditi una pulizia completamente a mani libere. La base da 2.5L può essere usata senza sacchetto per ridurre sprechi e costi, oppure con i sacchetti sigillati (venduti separatamente) per uno svuotamento igienico e inodore. Una soluzione flessibile per ogni esigenza domestica.
-- 【Aspirazione da 10000Pa + Sistema di Pulizia 2 in 1】 Con la sua potenza di aspirazione da 10000Pa, il M2S Pro rimuove efficacemente polvere, peli e briciole da pavimenti duri e tappeti. Il serbatoio da 300 ml con controllo elettronico dell’acqua consente di lavare in modo uniforme con tre livelli di umidità, garantendo pavimenti sempre brillanti e privi di aloni.
 - 【Batteria da 5200mAh: Fino a 240 Minuti di Pulizia】 Grazie alla batteria ad alta capacità, il robot copre fino a 240 m² con una sola ricarica. Se l’energia si esaurisce durante la pulizia, ritorna automaticamente alla base per ricaricarsi e riprende da dove aveva interrotto. Ideale per grandi abitazioni o appartamenti su più piani.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

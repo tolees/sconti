@@ -28,11 +28,11 @@ average: '99.99'
 
 ℹ️:
 
+- Design ad alta efficienza energetica conforme a IEEE802.3az
 - Supporta il montaggio su scrivania, a parete con standard VESA o su rack
+- 24 porte Gigabit Ethernet
 - Funzionamento silenzioso
 - Semplice configurazione plug-and-play senza necessità di installare software o aggiungere configurazioni
-- Design ad alta efficienza energetica conforme a IEEE802.3az
-- 24 porte Gigabit Ethernet
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01KJ5AHXK{{</world>}}

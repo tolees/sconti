@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- CALVÉ: dai voce alla tua creatività rendendo i tuoi piatti super gustosi. Calvé, perchè buono può diventare buonissimo!
+- IDEALE PER TUTTI I PIATTI A BASE DI CARNE: dal gusto dolce ma deciso, arricchisce perfettamente tutti i piatti a base di carne, alla griglia e non
+- GUSTO DOLCE E DECISO: aroma deciso di legna e fumo. Con pomodori da agricoltura sostenibile
 - FORMATO TOP DOWN 250 ML: disponibile nei formati Top Down 250 ml e 430 ml. Scopri anche la versione al miele
 - SALSA BARBECUE CALVÉ: la Salsa Barbecue Calvé ha il sentore dolce della melassa. Con un aroma deciso di legna e fumo è ideale per esaltare il gusto della carne alla brace
-- IDEALE PER TUTTI I PIATTI A BASE DI CARNE: dal gusto dolce ma deciso, arricchisce perfettamente tutti i piatti a base di carne, alla griglia e non
-- CALVÉ: dai voce alla tua creatività rendendo i tuoi piatti super gustosi. Calvé, perchè buono può diventare buonissimo!
-- GUSTO DOLCE E DECISO: aroma deciso di legna e fumo. Con pomodori da agricoltura sostenibile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00XUI966I{{</world>}}

@@ -28,11 +28,11 @@ average: '1.89'
 
 ℹ️:
 
-- Estratti naturali di agrumi
-- Funziona anche a lavastoviglie spenta
-- Astuccio in carta riciclabile
-- Formato convenienza: 140 Lavaggi totali
 - Neutralizza i cattivi odori
+- Formato convenienza: 140 Lavaggi totali
+- Estratti naturali di agrumi
+- Astuccio in carta riciclabile
+- Funziona anche a lavastoviglie spenta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B25ST91C{{</world>}}

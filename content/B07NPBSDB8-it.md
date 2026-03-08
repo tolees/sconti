@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Nike
-- Grigio
 - Tshirt
+- Grigio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07NPBSDB8{{</world>}}

@@ -28,11 +28,11 @@ average: '153.78'
 
 ℹ️:
 
-- VELOCITÀ DI FORATURA: Massima velocità di foratura della sua classe grazie al set di carcassa ingranaggi ottimizzato
-- DUREVOLEZZA: Maggiore durevolezza e lavoro duro grazie al potente motore da 790 W
+- DESIGN INTELLIGENTE: Intercambiabilità dei pezzi di ricambio e manutenzione semplice grazie al design intelligente
 - IDEALE PER: foratura nel calcestruzzo!
 - Dotazione: GBH 240, impugnatura supplementare, asta di profondità 210 mm, mandrino, valigetta
-- DESIGN INTELLIGENTE: Intercambiabilità dei pezzi di ricambio e manutenzione semplice grazie al design intelligente
+- VELOCITÀ DI FORATURA: Massima velocità di foratura della sua classe grazie al set di carcassa ingranaggi ottimizzato
+- DUREVOLEZZA: Maggiore durevolezza e lavoro duro grazie al potente motore da 790 W
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09P3XVK83{{</world>}}

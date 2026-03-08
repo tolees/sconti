@@ -28,10 +28,10 @@ average: '7.59181818181819'
 
 ℹ️:
 
-- Materiale: ceramica
+- Capacità: 37 cl.
 - Adatta per il microonde e la lavastoviglie.
 - La nostre tazze motivazionali danno una carica di energia addirittura più potente del caffé. Tazze ideali da regalare o autoregalarsi in qualsiasi occasione e qualsiasi persona.
-- Capacità: 37 cl.
+- Materiale: ceramica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B973Q3QH{{</world>}}

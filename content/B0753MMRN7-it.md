@@ -28,11 +28,11 @@ average: '25.08'
 
 ℹ️:
 
-- Robusta struttura in acciaio con rivestimento antiruggine; capacità di carico di facile lettura
-- Coppia di supporti per jack da 2,7 tonnellate con capacità di 2721,55 kg
-- Altezza minima: 263 mm. Altezza massima: 404 mm
 - Per stabilizzare un veicolo sollevato: ideale quando si eseguono riparazioni del sottoscocca
+- Robusta struttura in acciaio con rivestimento antiruggine; capacità di carico di facile lettura
 - Il cavalletto può essere alzato o abbassato allaltezza desiderata; con cricchetto autobloccante per una maggiore facilità duso
+- Altezza minima: 263 mm. Altezza massima: 404 mm
+- Coppia di supporti per jack da 2,7 tonnellate con capacità di 2721,55 kg
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0753MMRN7{{</world>}}

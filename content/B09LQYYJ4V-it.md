@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- GENERALE: Volante da corsa modello Track originale e di qualità di OCC Motorsport progettato per fornire grande eleganza alla vostra auto. Questa decorazione extra renderà la vostra auto più attraente. Si tratta di un volante semi-disassato con 6 impugnature a bullone.
-- RIFERIMENTO: OCCVOL013
-- MATERIALE E COLORE: Volante in pelle con finitura in pelle per una sensazione di morbidezza e comfort quando si appoggiano le mani sul volante. Volante nero per auto con finiture e cuciture gialle. È dotato di 3 bracci in alluminio nero. È un volante sportivo antiscivolo. Questa caratteristica è essenziale per un maggiore comfort, perché le mani non scivoleranno e si otterrà un migliore controllo durante la guida!
 - MISURE: Volante con diametro di 350 mm. È la dimensione ideale dei volanti per auto, in quanto vi aiuterà a guidare in modo più sicuro e confortevole. Inoltre, sarete in grado di fare le curve con molto meno sforzo. Questo volante da corsa ha uno spessore di 32 mm: ideale per una presa più efficace. È un volante semidislocante con una profondità di 63 mm.
+- GENERALE: Volante da corsa modello Track originale e di qualità di OCC Motorsport progettato per fornire grande eleganza alla vostra auto. Questa decorazione extra renderà la vostra auto più attraente. Si tratta di un volante semi-disassato con 6 impugnature a bullone.
 - INSTALLAZIONE: volante di facile installazione, anche se si consiglia uninstallazione professionale. Importante: per linstallazione è necessario il mozzo del volante. Volante da corsa compatibile con i mozzi dei volanti Occ Motorsport, Sparco e OMP, tra gli altri
+- MATERIALE E COLORE: Volante in pelle con finitura in pelle per una sensazione di morbidezza e comfort quando si appoggiano le mani sul volante. Volante nero per auto con finiture e cuciture gialle. È dotato di 3 bracci in alluminio nero. È un volante sportivo antiscivolo. Questa caratteristica è essenziale per un maggiore comfort, perché le mani non scivoleranno e si otterrà un migliore controllo durante la guida!
+- RIFERIMENTO: OCCVOL013
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09LQYYJ4V{{</world>}}

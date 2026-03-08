@@ -28,8 +28,8 @@ average: '21.95'
 
 ℹ️:
 
-- Rolling
 - It
+- Rolling
 - Let
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

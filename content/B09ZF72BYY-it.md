@@ -28,15 +28,15 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dimensioni (L x H x P): 16.5 x 26 x 14.5
-- Autospegnimento per risparmio enegetico
-- Caraffa in vetro / Capacità tè o tisane: 200ml
-- AC 200-240V - 50/60Hz
-- Fino a 6 tazze di caffè
 - Capacità : 600cc
-- Filtro in nylon riutilizzabile incluso, ottimo anche per caffè dorzo, tè o tisane
-- Mantenimento in caldo 40 minuti
+- Autospegnimento per risparmio enegetico
+- AC 200-240V - 50/60Hz
+- Dimensioni (L x H x P): 16.5 x 26 x 14.5
 - Potenza: 550W
+- Filtro in nylon riutilizzabile incluso, ottimo anche per caffè dorzo, tè o tisane
+- Caraffa in vetro / Capacità tè o tisane: 200ml
+- Mantenimento in caldo 40 minuti
+- Fino a 6 tazze di caffè
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09ZF72BYY{{</world>}}

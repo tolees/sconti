@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Essenza di delicatezza
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
 - Prodotto di qualita
-- Essenza di delicatezza
 - Pelle morbida e profumata
 - Bagnodoccia muschio bianco
 

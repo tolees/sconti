@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Per prendere il controllo di Spirit Island, ne sconvolgono l’equilibrio: uccidono i Dahan e minacciano l’esistenza degli Spiriti man mano che avanzano. Questi Spiriti siete voi!
-- I Dahan, nativi dell’isola, hanno imparato a coesistere con essi, temendoli e rispettandoli allo stesso tempo.
 - Sin dalla notte dei tempi, potenti Spiriti della Natura dimorano su Spirit Island.
-- Dovrete cooperare per diventare sempre più potenti e scacciare così gli invasori dall’isola… prima che sia troppo tardi!
 - Ma ora popoli stranieri, provenienti da terre sconosciute, hanno scoperto l’isola e vogliono colonizzarla.
+- I Dahan, nativi dell’isola, hanno imparato a coesistere con essi, temendoli e rispettandoli allo stesso tempo.
+- Dovrete cooperare per diventare sempre più potenti e scacciare così gli invasori dall’isola… prima che sia troppo tardi!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08C9JR8TX{{</world>}}

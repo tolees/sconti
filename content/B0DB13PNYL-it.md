@@ -28,11 +28,11 @@ average: '9.38'
 
 ℹ️:
 
-- ETÀ CONSIGLIATA: Modello in scala perfetto per collezionisti di tutte le età. Si raccomanda di tenerlo fuori dalla portata dei bambini sotto i 3 anni
-- IDEALE COME REGALO: Stai cercando un regalo originale e raffinato per un appassionato di moto? Un modello in scala è la scelta perfetta! Che si tratti di un collezionista esperto o di un neofita, questo must-have saprà conquistarlo, aggiungendo alla collezione una scarica di adrenalina e alimentando il sogno di sfrecciare in pista come un vero campione
 - DUCATI LENOVO TEAM 2023: Fedele riproduzione in scala 1:18 della Desmosedici GP del Lenovo Team con cui “Pecco” Bagnaia ha portato ancora una volta il titolo mondiale in casa Ducati. Il modello die cast con brand Maisto di Bburago Italia è progettato per riprodurre in modo estremamente autentico i dettagli e per celebrare così una vittoria entrata a far parte della storia del motociclismo. Il prodotto possiede la licenza ufficiale Ducati
-- CARATTERISTICHE TECNICHE: Scopri lemozione dellautenticità con il nostro prodotto da collezione! Con il modello in scala 1:18 della Ducati Lenovo del team 2023 puoi apprezzare laccuratezza dei dettagli della moto originale
+- IDEALE COME REGALO: Stai cercando un regalo originale e raffinato per un appassionato di moto? Un modello in scala è la scelta perfetta! Che si tratti di un collezionista esperto o di un neofita, questo must-have saprà conquistarlo, aggiungendo alla collezione una scarica di adrenalina e alimentando il sogno di sfrecciare in pista come un vero campione
 - MAISTO: marchio di veicoli die-cast in scala, nato per soddisfare il mercato americano e distribuito poi in tutto il mondo. La variegata gamma dei veicoli die-cast di Maisto (auto, moto, camion, trattori, etc.) sono realizzati in molteplici scale e possiedono le licenze delle maggiori case automobilistiche mondiali
+- CARATTERISTICHE TECNICHE: Scopri lemozione dellautenticità con il nostro prodotto da collezione! Con il modello in scala 1:18 della Ducati Lenovo del team 2023 puoi apprezzare laccuratezza dei dettagli della moto originale
+- ETÀ CONSIGLIATA: Modello in scala perfetto per collezionisti di tutte le età. Si raccomanda di tenerlo fuori dalla portata dei bambini sotto i 3 anni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DB13PNYL{{</world>}}

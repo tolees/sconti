@@ -28,9 +28,9 @@ average: '83.99'
 
 ℹ️:
 
-- Collo medio
 - Tomaia in pelle
 - Suola sintetica
+- Collo medio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C85ZQG7Z{{</world>}}

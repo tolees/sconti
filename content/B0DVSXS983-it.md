@@ -28,10 +28,10 @@ average: '5.58'
 
 ℹ️:
 
+- FAVORISCE LA FUNZIONE DIGESTIVA: DigestivAid A.R.Flux è l’integratore alimentare dalle proprietà lenitive ed emollienti che sostiene il benessere del sistema digerente
+- MOTILITÀ GASTROINTESTINALE: gli estratti di Camomilla e Finocchio favoriscono la funzione digestiva, aiutano a regolare la motilità intestinale e contribuiscono all’eliminazione naturale dei gas per un benessere quotidiano
 - MODO DUSO: si consiglia l’assunzione di 1 pocket drink (20 ml), dopo i pasti principali o all’occorrenza; un consumo eccessivo può avere effetti lassativi
 - ESI BENESSERE NATURALE: dal 1975 lazienda italiana ESI offre prodotti fitoterapici, dietetici e integratori alimentari dallelevato standard qualitativo
-- MOTILITÀ GASTROINTESTINALE: gli estratti di Camomilla e Finocchio favoriscono la funzione digestiva, aiutano a regolare la motilità intestinale e contribuiscono all’eliminazione naturale dei gas per un benessere quotidiano
-- FAVORISCE LA FUNZIONE DIGESTIVA: DigestivAid A.R.Flux è l’integratore alimentare dalle proprietà lenitive ed emollienti che sostiene il benessere del sistema digerente
 - EMOLLIENTE E LENITIVO: ingredienti come la Camomilla e il Gel di Aloe hanno anche azione emolliente e lenitiva sul sistema digerente, mentre la Liquirizia favorisce la normale funzione del sistema digerente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

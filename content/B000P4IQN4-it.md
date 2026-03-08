@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Pratica custodia Bosch X-Line (236 x 259 x 64 mm) con contenuti chiaramente organizzati
-- 24 inserti a vite L = 25 mm (PH 011223, PZ 011223, S 467, HEX 3456, T 1015202540), 10 inserti a vite L = 50 mm (PH 123, S 46, T 2025), 7 bussole Ø 45678910 mm, 1 adattatore per prese
-- Compatibilità: per tutti i trapani portatili e fissi
-- Set trapano e cacciavite X-Line adatto per molteplici applicazioni su legno, pietra e metallo
 - 11 punte in metallo Ø 1,5-6,5 mm (per metallo, plexiglas e plastica dura). 6 punte per pietra Ø 4-10 mm (per muratura, pietra calcarea, pietra naturale e artificiale) 5 punte per legno Ø 4-10 mm (per legno duro, legno tenero e plastica) 3 punte piatte, titanio, − Ø 162232 mm
+- 24 inserti a vite L = 25 mm (PH 011223, PZ 011223, S 467, HEX 3456, T 1015202540), 10 inserti a vite L = 50 mm (PH 123, S 46, T 2025), 7 bussole Ø 45678910 mm, 1 adattatore per prese
+- Set trapano e cacciavite X-Line adatto per molteplici applicazioni su legno, pietra e metallo
+- Compatibilità: per tutti i trapani portatili e fissi
+- Pratica custodia Bosch X-Line (236 x 259 x 64 mm) con contenuti chiaramente organizzati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000P4IQN4{{</world>}}

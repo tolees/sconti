@@ -29,9 +29,9 @@ average: '749.0'
 ℹ️:
 
 - 🔦 TORCIA LED 🔦 La torcia integrata con intensità di luce variabile e la luce rossa di sicurezza offrono maggiore visibilità al buio e forniscono una pratica sorgente luminosa quando ne hai bisogno. La modalità stroboscopica può anche adattarsi alla tua cadenza di corsa.
+- 🤿 IMMERSIONI RICREATIVE 🤿 Una novità introdotta con la serie fēnix 8 è la possibilità di immergersi fino a 40 metri monitorando la propria discesa e risalita. I pulsanti induttivi in metallo a tenuta ermetica consentono di immergersi senza preoccupazioni sia in apnea che a gas singolo. Scarica poi tutti i dati sullapp Garmin Dive.
 - 🗺️ NAVIGAZIONE DYNAMIC ROUND-TRIP 🗺️ Con la funzione di calcolo dynamic round-trip, basta inserire la distanza che desideri coprire per visualizzare i possibili percorsi di ritorno suggeriti e rientrare a casa in orario perfetto.
 - 🎤 CASSA E MICROFONO INTEGRATI 🎤 Se associato a uno smartphone, consente di effettuare e ricevere telefonate. Inoltre, puoi controllare le funzioni dellorologio con i comandi vocali o utilizzare lassistente vocale dello smartphone per rispondere ai messaggi di testo e molto altro ancora.
-- 🤿 IMMERSIONI RICREATIVE 🤿 Una novità introdotta con la serie fēnix 8 è la possibilità di immergersi fino a 40 metri monitorando la propria discesa e risalita. I pulsanti induttivi in metallo a tenuta ermetica consentono di immergersi senza preoccupazioni sia in apnea che a gas singolo. Scarica poi tutti i dati sullapp Garmin Dive.
 - 💪 ALLENAMENTI DI FORZA AVANZATI 💪 Sei un runner? Un ciclista? Migliora le prestazioni del tuo corpo con programmi di allenamento mirati per la forza e workout specifici per poterti esprimere al meglio nel tuo sport preferito.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

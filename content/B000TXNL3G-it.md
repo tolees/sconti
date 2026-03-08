@@ -28,9 +28,9 @@ average: '167.54'
 
 ℹ️:
 
-- 4 persone 328 x 145 x 48 cm, accessori inclusi pompa manuale (cod. 68605) e remi in alluminio
 - Portata massima 400 kg. A norma iso 6185-1 nmma-abyc, supporto per montaggio motore, custodia batteria, 2 porta canne da pesca su entrambi i lati, sacchetto porta attrezzi, 3 cuscini gonfiabili
 - Colorato
+- 4 persone 328 x 145 x 48 cm, accessori inclusi pompa manuale (cod. 68605) e remi in alluminio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000TXNL3G{{</world>}}

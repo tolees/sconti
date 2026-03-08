@@ -28,11 +28,11 @@ average: '3.355'
 
 ℹ️:
 
-- RISULTATI: Giorno dopo giorno la pelle del viso appare idratata, tonica, morbida e fresca. Pronta per affrontare al meglio la giornata.
-- CLINIANS: Clinians è un marchio cosmetico italiano che, grazie alla sua consolidata esperienza in ambito della cura della pelle, offre ai consumatori prodotti di qualità, studiati appositamente per soddisfare tutte le esigenze. Da anni ci prendiamo cura della pelle di milioni di donne, valorizzandone la bellezza ed accompagnandole quotidianamente nella loro beauty routine.
-- INGREDIENTI: Succo di Aloe Vera, dalle proprietà idratanti ed emollienti, «disseta» la pelle. Tè Bianco, per una piacevole sensazione rinfrescante. Hydracomplex, un complesso idratante composto da estratti di Calendula, Riso ed Avena che agisce in maniera sinergica con gli altri attivi idratanti presenti in formula (Inositolo e Derivato Zuccherino).
 - MODALITÀ DUSO: Applica mattina e sera poche gocce di prodotto sul viso perfettamente deterso e asciutto, massaggiando fino a completo assorbimento. Per risultati ottimali se ne consiglia luso in abbinamento agli altri prodotti della linea.
+- RISULTATI: Giorno dopo giorno la pelle del viso appare idratata, tonica, morbida e fresca. Pronta per affrontare al meglio la giornata.
+- INGREDIENTI: Succo di Aloe Vera, dalle proprietà idratanti ed emollienti, «disseta» la pelle. Tè Bianco, per una piacevole sensazione rinfrescante. Hydracomplex, un complesso idratante composto da estratti di Calendula, Riso ed Avena che agisce in maniera sinergica con gli altri attivi idratanti presenti in formula (Inositolo e Derivato Zuccherino).
 - IDRATANTE, LEGGERA: Clinians Hydra Plus Crema Idratante Leggera è un trattamento ideale per aiutare a rivitalizzare la pelle del viso e mantenere il naturale livello di idratazione, indipendentemente dall’età. La texture è leggera e non grassa, con un tocco cremoso e vellutato, ideale come base per il trucco.
+- CLINIANS: Clinians è un marchio cosmetico italiano che, grazie alla sua consolidata esperienza in ambito della cura della pelle, offre ai consumatori prodotti di qualità, studiati appositamente per soddisfare tutte le esigenze. Da anni ci prendiamo cura della pelle di milioni di donne, valorizzandone la bellezza ed accompagnandole quotidianamente nella loro beauty routine.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D52F2KY5{{</world>}}

@@ -28,11 +28,11 @@ average: '3.96'
 
 ℹ️:
 
+- SEMOLE LA MOLISANA: un assortimento di semole di solo grano duro italiano macinate nel Mulino La Molisana e decorticate a pietra; eccellenti per la lunga lievitazione, ideali per chi ricerca la fragranza e i buoni sapori della tradizione.
+- PACK ECOSOSTENIBILE: pack in cellophane, pratico igienico e 100% riciclabile
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
 - SEMOLA DI GRANO DURO INTEGRALE RIMACINATA: è ricca di fibre e rappresenta un’alternativa sana per tutte le preparazioni dolci e salate; Ideale per pane, pasta fresca, pizza, dolci e rustici - Confezione da 1 kg
 - UTILIZZO: grazie allutilizzo della semola di grano duro integrale sarà possibile ottenere un pane dallelevato potere saziante, una pasta fresca tenace e digeribile, dei dolci e rustici più fragranti e salutari ed una pizza dal gusto nuovo e dalla piacevole leggerezza
-- SEMOLE LA MOLISANA: un assortimento di semole di solo grano duro italiano macinate nel Mulino La Molisana e decorticate a pietra; eccellenti per la lunga lievitazione, ideali per chi ricerca la fragranza e i buoni sapori della tradizione.
-- PACK ECOSOSTENIBILE: pack in cellophane, pratico igienico e 100% riciclabile
 - LA MOLISANA: dal 1912 azienda 100% Italiana leader nella produzione di pasta con solo grando italiano da filiera integrata, semole di alta qualità e tenacità certificata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

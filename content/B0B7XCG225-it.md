@@ -28,13 +28,13 @@ average: '80.58'
 
 ℹ️:
 
-- Nuovo pannello di stato: Controlla in modo rapido e conveniente il livello della batteria, lo stato dellindicatore del sistema e la modalità di stabilizzazione; seleziona la modalità tra Follow, Tilt Lock, FPV e SpinShot per ottenere scatti dinamici
-- Orizzontale e verticale: Potrai realizzare riprese drammatiche degne di un teatro o contenuti social leggeri e casual grazie alla selezione rapida tra orientamento orizzontale o verticale
-- Modifiche senza sforzo: Che si tratti dellassistenza alle riprese con ShotGuides di DJI Mimo o della moltitudine di modelli tra cui scegliere nell’app LightCut, spingiti oltre e ottieni risultati degni di ispirazione
 - Filmati fluidi: Migliora i tuoi scatti grazie alla stabilizzazione a 3 assi; con un algoritmo di controllo di nuova generazione, Osmo Mobile SE compensa la stabilizzazione in tempo reale generando filmati fluidi di livello cinematografico
-- ActiveTrack 6.0 aggiornato: Lultimissima tecnologia di tracciamento consente a chiunque di selezionare un soggetto e fare in modo che lo stabilizzatore lo segua automaticamente anche durante movimenti rapidi e dinamici o con ostacoli di mezzo
-- Portatile, pieghevole e magneticamente veloce: Porta questo stabilizzatore compatto in tutte le tue avventure; agganciati istantaneamente con il morsetto magnetico per catturare quell’attimo che vuoi immortalare
 - Controllo remoto con Watch: Installa lapp DJI Mimo sul tuo Apple Watch e trasformalo in un telecomando smart per Osmo Mobile SE; guarda le immagini riprese dalla fotocamera, regola linclinazione dello stabilizzatore, fai foto e video, tutto dal tuo polso
+- Orizzontale e verticale: Potrai realizzare riprese drammatiche degne di un teatro o contenuti social leggeri e casual grazie alla selezione rapida tra orientamento orizzontale o verticale
+- Portatile, pieghevole e magneticamente veloce: Porta questo stabilizzatore compatto in tutte le tue avventure; agganciati istantaneamente con il morsetto magnetico per catturare quell’attimo che vuoi immortalare
+- ActiveTrack 6.0 aggiornato: Lultimissima tecnologia di tracciamento consente a chiunque di selezionare un soggetto e fare in modo che lo stabilizzatore lo segua automaticamente anche durante movimenti rapidi e dinamici o con ostacoli di mezzo
+- Modifiche senza sforzo: Che si tratti dellassistenza alle riprese con ShotGuides di DJI Mimo o della moltitudine di modelli tra cui scegliere nell’app LightCut, spingiti oltre e ottieni risultati degni di ispirazione
+- Nuovo pannello di stato: Controlla in modo rapido e conveniente il livello della batteria, lo stato dellindicatore del sistema e la modalità di stabilizzazione; seleziona la modalità tra Follow, Tilt Lock, FPV e SpinShot per ottenere scatti dinamici
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B7XCG225{{</world>}}

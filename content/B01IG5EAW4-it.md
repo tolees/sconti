@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Tomaia: Pelle
-- Lacci elastici
-- Fodera: 100% Poliestere Riciclato
 - Colore: Nero
+- Fodera: 100% Poliestere Riciclato
+- Lacci elastici
 - Suola/Caratteristiche: XL EXTRALIGHT EVA 51% riciclato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

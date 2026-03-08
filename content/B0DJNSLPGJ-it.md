@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- PESTI BARILLA: tutti i pesti Barilla sono senza glutine e preparati senza aggiungere conservanti. Porta in tavola qualità e gusto con ingredienti semplici per deliziose ricette
-- IDEALE CON: dal gusto ricco e dalla consistenza cremosa, questo pesto Barilla 100% Vegetale è ideale sia per piatti caldi che freddi. Lasciati guidare dalla fantasia e provalo anche con i cereali
-- PESTO 100% VEGETALE: con basilico italiano dal profumo intenso e dal colore brillante, per una ricetta senza aglio cremosa e ricca di gusto
 - BARILLA: unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
-- CARATTERISTICHE: preparato senza formaggi, il Pesto al Basilico Barilla 100% Vegetale è naturalmente senza lattosio; essere buoni ci viene naturale
+- PESTO 100% VEGETALE: con basilico italiano dal profumo intenso e dal colore brillante, per una ricetta senza aglio cremosa e ricca di gusto
+- IDEALE CON: dal gusto ricco e dalla consistenza cremosa, questo pesto Barilla 100% Vegetale è ideale sia per piatti caldi che freddi. Lasciati guidare dalla fantasia e provalo anche con i cereali
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
+- PESTI BARILLA: tutti i pesti Barilla sono senza glutine e preparati senza aggiungere conservanti. Porta in tavola qualità e gusto con ingredienti semplici per deliziose ricette
+- CARATTERISTICHE: preparato senza formaggi, il Pesto al Basilico Barilla 100% Vegetale è naturalmente senza lattosio; essere buoni ci viene naturale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DJNSLPGJ{{</world>}}

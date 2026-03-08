@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - FORMULA ACTIVE FUSION: la Formula Active Fusion è arricchita da Olio di Macadamia, Elastina e Biotina per capelli visibilmente sani
-- SHAMPOO RICCI DA SOGNO: questo Shampoo idrata i tuoi ricci e li rende definiti, vivaci ed elastici* grazie alla formula Active Fusion con Biotina
-- MODO DUSO: applica uniformemente sui capelli bagnati, massaggia delicatamente e poi risciacqua con cura. In caso di contatto con gli occhi, sciacquare immediatamente
 - FORMULA CON BIOTINA: la Biotina è una vitamina del Gruppo B e aiuta a costruire una cheratina più forte, rafforza i capelli, dona luminosità e li rende visibilmente sani
 - SUNSILK LINEA RICCI DA SOGNO: luso combinato dello Shampoo e Balsamo Sunsilk Linea Ricci è ideale per ricci da sogno e capelli ancora più incredibili!
+- SHAMPOO RICCI DA SOGNO: questo Shampoo idrata i tuoi ricci e li rende definiti, vivaci ed elastici* grazie alla formula Active Fusion con Biotina
+- MODO DUSO: applica uniformemente sui capelli bagnati, massaggia delicatamente e poi risciacqua con cura. In caso di contatto con gli occhi, sciacquare immediatamente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BMW46WMR{{</world>}}

@@ -28,10 +28,10 @@ average: '49.0166666666667'
 
 ℹ️:
 
-- 3 megapixel poe
-- 2 LED array fino al 15 metri
-- Outdoor IP66
 - Focale fissa 3.6 mm
+- Outdoor IP66
+- 2 LED array fino al 15 metri
+- 3 megapixel poe
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B084Q1XFJK{{</world>}}

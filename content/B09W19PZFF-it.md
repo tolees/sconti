@@ -28,11 +28,11 @@ average: '52.49'
 
 ℹ️:
 
-- BATTLE- TESTED SHAPE - Ogni componente è stato accuratamente ottimizzato e modellato per ottenere il minimo peso, il massimo comfort e una lunga durata
-- 9 PULSANTI PROGRAMMABILI - Comfort naturale con i pulsanti completamente personalizzabili che includono un pannello laterale e un interruttore a scatto su/giù
-- RGB ECCEZIONALE - Il luminosissimo PrismSync RGB a 3 zone risplende in 16,8 milioni di colori configurabili
 - ULTRA LEGGERO - Il guscio forato appositamente progettato riduce il peso a 66 g per una giocabilità rapida e senza fatica
 - AQUABARRIER - L’interni del mouse sono protetti da spruzzi dacqua, polvere e sporcizia, grazie alla protezione di grado IP54
+- RGB ECCEZIONALE - Il luminosissimo PrismSync RGB a 3 zone risplende in 16,8 milioni di colori configurabili
+- 9 PULSANTI PROGRAMMABILI - Comfort naturale con i pulsanti completamente personalizzabili che includono un pannello laterale e un interruttore a scatto su/giù
+- BATTLE- TESTED SHAPE - Ogni componente è stato accuratamente ottimizzato e modellato per ottenere il minimo peso, il massimo comfort e una lunga durata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09W19PZFF{{</world>}}

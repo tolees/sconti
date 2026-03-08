@@ -28,9 +28,9 @@ average: '237.0'
 
 ℹ️:
 
-- APP STARSENSE EXPLORER: genera automaticamente un elenco di oggetti visibili in cielo Osservate pianeti, nebulose e galassie più luminose, ammassi stellari e stelle doppie dalla città Oppure portate il telescopio nei cieli più bui per osservare gli oggetti più deboli e profondi del cielo
 - TELESCOPIO RIFLETTORE STARSENSE EXPLORER LT: Riflettore newtoniano da 127 mm (5”) con rivestimento altamente riflettente e capacità di raccolta della luce sufficiente a visualizzare tutti i migliori oggetti celesti
 - TECNOLOGIA BREVETTATA DI RICONOSCIMENTO DEL CIELO STARSENSE: utilizza lo smartphone per analizzare landamento delle stelle sopra la testa, calcolando la posizione in tempo reale tramite un "algoritmo Lost in space" (LISA)
+- APP STARSENSE EXPLORER: genera automaticamente un elenco di oggetti visibili in cielo Osservate pianeti, nebulose e galassie più luminose, ammassi stellari e stelle doppie dalla città Oppure portate il telescopio nei cieli più bui per osservare gli oggetti più deboli e profondi del cielo
 - ACCESSORI INCLUSI: Oculari 25 mm e 10 mm, lente di Barlow 2x, dock StarSense per smartphone, cercatore a punto rosso (per utilizzare il telescopio senza il telefono) e treppiede a tutta altezza
 - CONTROLLO STABILE AL RALLENTATORE: La montatura altazimutale manuale con comandi al rallentatore a doppio asse rende facile seguire le frecce sullo schermo Quando il cilindro è verde, si può osservare nelloculare del telescopio
 

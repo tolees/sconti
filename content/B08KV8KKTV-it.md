@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Solo con pre-order incluse Cavalcatura Ippogrifo d’Ossidiana e Felix Felicis
+- Vivi a Hogwarts nel 1800
 - Scopri la sensazione di vivere a Hogwarts mentre forgi alleanze, combatti i Maghi Oscuri e infine determini il fato del mondo magico
+- Solo con pre-order incluse Cavalcatura Ippogrifo d’Ossidiana e Felix Felicis
 - Leredità che lascerai è solo tua da plasmare; scrivi la tua storia
 - Il tuo personaggio è uno studente, il cui talento potrebbe essere la chiave di un antico segreto che minaccia di distruggere il mondo magico
-- Vivi a Hogwarts nel 1800
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08KV8KKTV{{</world>}}

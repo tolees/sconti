@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- KNORR: Noi di Knorr ci impegnamo a portare a tavola dei piatti buoni, ricchi di gusto e sempre più sostenibili
-- ISTRUZIONI PER LUSO: 1. Agita, 2. Versa, 3. Scalda, senza bollire, 4. Gusta! Non introdurre il brick direttamente nel microonde, non necessita di aggiunta di sale
-- INGREDIENTI DI QUALITÀ: zuppa pronta Knorr senza conservanti aggiunti, senza coloranti e vegetariana
 - PER UNA DIETA SANA ED EQUILIBRATA: un piatto di questa zuppa equivale ad 1 delle 5 porzioni giornaliere di frutta e verdura (80g) raccomandate dalla Organizzazione Mondiale della Sanità
 - PASSATO DI VERDURE KNORR: con 100% ingredienti naturali, ricco di fibre e fonte di proteine. Noi di Knorr creiamo ricette con verdure da agricoltura sostenibile e coltivate al sole
+- INGREDIENTI DI QUALITÀ: zuppa pronta Knorr senza conservanti aggiunti, senza coloranti e vegetariana
+- ISTRUZIONI PER LUSO: 1. Agita, 2. Versa, 3. Scalda, senza bollire, 4. Gusta! Non introdurre il brick direttamente nel microonde, non necessita di aggiunta di sale
+- KNORR: Noi di Knorr ci impegnamo a portare a tavola dei piatti buoni, ricchi di gusto e sempre più sostenibili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00XUNL6UW{{</world>}}

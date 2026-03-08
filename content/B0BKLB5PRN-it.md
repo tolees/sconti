@@ -28,8 +28,8 @@ average: '12.5'
 
 ℹ️:
 
-- Confezione da 2 slip hipster moderni e comodi
 - Classico elastico in vita
+- Confezione da 2 slip hipster moderni e comodi
 - Taglio con lati larghi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

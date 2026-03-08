@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Ognuno contiene 100 pagine di carta da 80 gsm, rispettivamente a righe, bianche e a puntini.
-- Con certificazione FSC, che garantisce che sono stati realizzati con carta proveniente da foreste gestite in modo responsabile.
 - Set di 3 quaderni formato A5 con rilegatura cucita.
+- Con certificazione FSC, che garantisce che sono stati realizzati con carta proveniente da foreste gestite in modo responsabile.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DQ5B1ZP8{{</world>}}

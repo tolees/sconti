@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - 75 ml
 - Informazioni su questo articolo
-- EDT
 - Uomo
+- EDT
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B001D64YXY{{</world>}}

@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Formula iper concentrata arricchita con Bacche di Goji e Olio di Semi per capelli nutriti e lucenti
-- Deterge, nutre a fondo e ripara la fibra capillare, per capelli 2x più luminosi*, +95%* di nutrimenti e con colore preservato fino a 10 settimane, *Test strumentali
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
-- Shampoo Professionale per capelli nutriti e lucenti ideale per capelli colorati, Senza siliconi con Bacche di Goji antiossidanti e Olio di Semi d’Uva che lava delicatamente
 - Contenuto: 1x Franck Provost, Expert Couleur, Shampoo Professionale Per Capelli Colorati, Per Capelli Nutriti e Lucenti, Con Bacche di Goji e Olio di Semi, 500 ml
+- Shampoo Professionale per capelli nutriti e lucenti ideale per capelli colorati, Senza siliconi con Bacche di Goji antiossidanti e Olio di Semi d’Uva che lava delicatamente
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
+- Formula iper concentrata arricchita con Bacche di Goji e Olio di Semi per capelli nutriti e lucenti
 - Applica sulle radici, massaggia per detergere capelli e cute creando una schiuma leggera e risciacqua, Per una routine completa, usa con i prodotti della gamma Expert Couleur
+- Deterge, nutre a fondo e ripara la fibra capillare, per capelli 2x più luminosi*, +95%* di nutrimenti e con colore preservato fino a 10 settimane, *Test strumentali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0G544Z2HS{{</world>}}

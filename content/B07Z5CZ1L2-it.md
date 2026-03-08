@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Forma a MANDORLA
-- Confetti con cioccolato bianco, fondente e al LATTE ai gusti assortiti. SENZA GLUTINE.
-- 1000 gr
 - Sfumato rosa
 - Assortito
+- Confetti con cioccolato bianco, fondente e al LATTE ai gusti assortiti. SENZA GLUTINE.
+- Forma a MANDORLA
+- 1000 gr
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07Z5CZ1L2{{</world>}}

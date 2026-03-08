@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Certificato FSC, che garantisce che è stato realizzato con carta proveniente da foreste gestite in modo responsabile.
+- Calendario da tavolo, con una sfida per ogni mese dellanno.
 - Dimensioni pratiche da portare sempre con te
 - Include anche 2 fogli di adesivi, 1 blocco note adesivi e 7 segnalibri adesivi.
-- Calendario da tavolo, con una sfida per ogni mese dellanno.
+- Certificato FSC, che garantisce che è stato realizzato con carta proveniente da foreste gestite in modo responsabile.
 - Ideale come regalo o autore-regalo irresistibile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

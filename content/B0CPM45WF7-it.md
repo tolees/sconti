@@ -28,11 +28,11 @@ average: '100.9925'
 
 ℹ️:
 
+- CONTRASTO DINAMICO E VISIONE NOTTURNA - Il pannello Rapid IPS è dotato di un contrasto nativo di 1000:1 e supporta il Contrastoo Dinamico (100M:1); la Night Vision di MSI può migliorare i dettagli chiave negli ambienti di gioco più bui
 - GAMMA COLORI AMPI - Offre una precisione cromatica elevata con fino a 16,7 milioni di colori al 99% sRGB. Include filtri software Less Blue Light per una migliore accuratezza cromatica e tecnologia Anti-Flicker per ridurre laffaticamento degli occhi
+- 24.5” FHD, 180HZ - Pannello IPS Rapido in alta risoluzione 1920 x 1080 (16:9) presenta una frequenza di aggiornamento elevata di 180 Hz (Adaptive-Sync) e tempo di risposta di 1 ms (GtG) è ideale per gli eventi esports
 - QUALITÀ DELLIMMAGINE IPS, GAMING SENZA CORNICI - I monitor MSI con pannello IPS Rapid offrono unintensità cromatica eccezionale e supportano angoli di visione ampi fino a 178°
 - CONNETTIVITÀ HDMI CEC - Le opzioni di interfaccia per PC, Mac, console e laptop includono porte DisplayPort 1.2a (FHD/180Hz max.) e porte HDMI 2.0b CEC (FHD/180Hz max.)
-- CONTRASTO DINAMICO E VISIONE NOTTURNA - Il pannello Rapid IPS è dotato di un contrasto nativo di 1000:1 e supporta il Contrastoo Dinamico (100M:1); la Night Vision di MSI può migliorare i dettagli chiave negli ambienti di gioco più bui
-- 24.5” FHD, 180HZ - Pannello IPS Rapido in alta risoluzione 1920 x 1080 (16:9) presenta una frequenza di aggiornamento elevata di 180 Hz (Adaptive-Sync) e tempo di risposta di 1 ms (GtG) è ideale per gli eventi esports
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CPM45WF7{{</world>}}

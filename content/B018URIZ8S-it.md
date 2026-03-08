@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Colore: multicolore
-- Dimensioni: 15 x 10 x 8 cm
 - Materiale: pluricomposto
+- Dimensioni: 15 x 10 x 8 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B018URIZ8S{{</world>}}

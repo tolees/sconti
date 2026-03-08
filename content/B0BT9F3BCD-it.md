@@ -28,11 +28,11 @@ average: '11.14'
 
 ℹ️:
 
-- 【Alta compatibilità】 Temperatura di estrusione / matrice consigliata 210-230℃, temperatura del letto 45-60℃. PLA Lite è compatibile con la maggior parte delle stampanti 3D FDM, come: Bamboo Lab Bamboo Lab X1 and X1C, AnkerMake M5, Raise3D, Prusa, Voron 2.4, Creality Ender 7 and K1 K1 MAX. Ampiamente utilizzato in accessori, arti e mestieri, decorazioni per la casa, giocattoli, sculture, conchiglie e COSPLAY. Scelta conveniente.
-- 【Tolleranza dimensionale stabile】Tolleranza minima e bassa deformazione per garantire unalimentazione costante e stampe stabili, buon incollaggio degli strati, meno filettature, nessuna bolla, nessuna crepa, nessuna deformazione, facile manipolazione, con conseguente eccellente finitura superficiale e molto accurata.
 - 【Senza grovigli e senza intasamenti】 Bobina di filamento per stampante 3D da 1 kg, perfetta rotondità e tolleranza di diametro molto stretta, buon avvolgimento, nessuna sovrapposizione o groviglio. Fonde bene, disegna in modo fluido e costante senza intasare lugello o lestrusore, con un alto tasso di stampa di successo.
-- 【PLA Lite】eSUN PLA Lite è modificato sulla base del PLA ordinario, mantiene le proprietà del PLA, è facile da stampare, a basso odore e irritazione, ecologico e non tossico; migliora anche le prestazioni di stampa e la resistenza fisica, elevata tenacità e non facile da rompere.
+- 【Alta compatibilità】 Temperatura di estrusione / matrice consigliata 210-230℃, temperatura del letto 45-60℃. PLA Lite è compatibile con la maggior parte delle stampanti 3D FDM, come: Bamboo Lab Bamboo Lab X1 and X1C, AnkerMake M5, Raise3D, Prusa, Voron 2.4, Creality Ender 7 and K1 K1 MAX. Ampiamente utilizzato in accessori, arti e mestieri, decorazioni per la casa, giocattoli, sculture, conchiglie e COSPLAY. Scelta conveniente.
 - 【Pacchetto sigillato sottovuoto】Peso netto del filamento: 1KG. eSUN Filament viene fornito in un sacchetto sigillato sottovuoto con un sacchetto essiccante, basta mantenere i filamenti della stampante 3D in condizioni ottimali di conservazione e privi di polvere o sporcizia prima di aprire il pacchetto sigillato sottovuoto.
+- 【PLA Lite】eSUN PLA Lite è modificato sulla base del PLA ordinario, mantiene le proprietà del PLA, è facile da stampare, a basso odore e irritazione, ecologico e non tossico; migliora anche le prestazioni di stampa e la resistenza fisica, elevata tenacità e non facile da rompere.
+- 【Tolleranza dimensionale stabile】Tolleranza minima e bassa deformazione per garantire unalimentazione costante e stampe stabili, buon incollaggio degli strati, meno filettature, nessuna bolla, nessuna crepa, nessuna deformazione, facile manipolazione, con conseguente eccellente finitura superficiale e molto accurata.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BT9F3BCD{{</world>}}

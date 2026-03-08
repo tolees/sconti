@@ -28,9 +28,9 @@ average: '1.2'
 
 ℹ️:
 
-- GALLETTI - I Galletti sono sempre più buoni grazie alla nuova ricetta. Sottile pasta frolla con latte fresco italiano, leggeri e delicati, si sciolgono in bocca. Un gusto nuovo da mangiare da soli o da inzuppare
-- I BISCOTTI MULINO BIANCO - Scopri tutta la gamma di Biscotti di Mulino Bianco: semplici e leggeri buoni da inzuppare, golosi con un delizioso ripieno, integrali e con fibre, senza glutine o zuccheri aggiunti. Unampia varietà per tutti i gusti
 - MULINO BIANCO - Al Mulino Bianco si ricerca da sempre la qualità. Grazie ai nostri macchinari e ai nostri ingredienti viene riprodotto lesatto ciclo casalingo con un accurato controllo della qualità. Biscotti, Dolcetti, Merendine, Pani e Snack per accompagnarti in ogni momento della giornata
+- I BISCOTTI MULINO BIANCO - Scopri tutta la gamma di Biscotti di Mulino Bianco: semplici e leggeri buoni da inzuppare, golosi con un delizioso ripieno, integrali e con fibre, senza glutine o zuccheri aggiunti. Unampia varietà per tutti i gusti
+- GALLETTI - I Galletti sono sempre più buoni grazie alla nuova ricetta. Sottile pasta frolla con latte fresco italiano, leggeri e delicati, si sciolgono in bocca. Un gusto nuovo da mangiare da soli o da inzuppare
 - PER LA TUA COLAZIONE - Ideale per la tua colazione: 5 galletti, una spremuta di pompelmo e uno yogurt ai frutti di bosco. Per un totale di calorie pari al 17% del tuo fabbisogno energetico giornaliero
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Prodotto con licenza ufficiale Maisto International
 - Modello di precisione pressofuso altamente dettagliato per oggetti da collezione o da gioco
-- Modello dettagliato di precisione pressofuso
 - Veicolo dettagliato di qualità da collezione su scala reale
+- Prodotto con licenza ufficiale Maisto International
+- Modello dettagliato di precisione pressofuso
 - Corpo in metallo fuso con parti in plastica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

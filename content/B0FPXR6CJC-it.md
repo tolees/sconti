@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Scegli tra un’ampia gamma di vetture ispirate alle leggende del passato, ognuna con caratteristiche e prestazioni uniche.
 - Sfreccia su tracciati di rally da ogni angolo del pianeta, affrontando superfici diverse come sterrato, asfalto e neve per mettere alla prova le tue abilità.
+- Scegli tra un’ampia gamma di vetture ispirate alle leggende del passato, ognuna con caratteristiche e prestazioni uniche.
+- Uno stile visivo curato nei minimi dettagli, ispirato ai giochi di rally degli anni ’90, pieno di nostalgia e fascino. Un titolo imperdibile per ogni appassionato.
 - Questa edizione include carte collezionabili delle auto.
 - Sfida piloti da tutto il mondo e scala le classifiche globali. Vuoi un’ulteriore sfida? Sblocca tutti gli obiettivi durante il gioco
-- Uno stile visivo curato nei minimi dettagli, ispirato ai giochi di rally degli anni ’90, pieno di nostalgia e fascino. Un titolo imperdibile per ogni appassionato.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FPXR6CJC{{</world>}}

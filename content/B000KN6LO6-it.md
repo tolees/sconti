@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Disponibile in vari colori
+- Punta 0,7 mm
 - Meccanismo a scatto
 - Scrittura ultrascorrevole
-- Punta 0,7 mm
 - Asciugatura istantanea, indicato per i mancini
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

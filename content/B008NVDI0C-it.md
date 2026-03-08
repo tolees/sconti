@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Senza aromi e senza coloranti
 - Fonte di fibre; con vitamine e minerali
-- Confezione da 625g, equivalente a circa 21 porzioni da 30g
+- I cereali FITNESS Original contengono vitamine, Calcio e Ferro
 - Visita il sito Nestlé per scoprire come le nostre marche sono scese in campo e contribuiscono al raggiungimento degli obiettivi di sostenibilità del Gruppo Nestlé con progetti concreti
 - Deliziosi cereali FITNESS Original con frumento 100% integrale
-- I cereali FITNESS Original contengono vitamine, Calcio e Ferro
-- Senza aromi e senza coloranti
+- Confezione da 625g, equivalente a circa 21 porzioni da 30g
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B008NVDI0C{{</world>}}

@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Pensato come integratore pre e post-allenamento: ottimo prima e dopo le sessioni di CrossFit, le sedute di atletica, i workout in palestra ad alta intensità; ideale sia per i dilettanti sia per i professionisti
-- *Fonte: Euromonitor International Limited; Consumer Health 2023 Edition, Categoria Proteine in Polvere per lo Sport, % RETAILER VALUE SHARE, DATI del 2022
-- Questo integratore in polvere di creatina monoidrato pura al 100% aumenta le prestazioni fisiche* durante gli allenamenti ad alta intensità e fornisce 3 g di creatina per porzione
-- Non aromatizzato, perfetto per fare scorta di creatina in polvere, inoltre si mescola facilmente e, a differenza di molti integratori di creatina, è insapore e non ha una consistenza difficile da mischiare
 - Per ottenere un gustoso frullato, aggiungere un misurino raso a 240 ml di acqua fredda, succo di frutta o frullato post-allenamento o pre-allenamento, mescolare e servire
-- *La creatina aumenta le prestazioni fisiche quando si praticano esercizi successivi di breve durata e ad alta intensità. Fonte: REGOLAMENTO (UE) N. 432/2012 DELLA COMMISSIONE del 16 maggio 2012
 - Creatina micronizzata in polvere di Optimum Nutrition, il marchio di nutrizione sportiva numero 1 al mondo** che offre prodotti della massima qualità per il recupero post-allenamento, lenergia pre-allenamento e l’integrazione nel corso della giornata, in ogni luogo e in ogni momento
+- *Fonte: Euromonitor International Limited; Consumer Health 2023 Edition, Categoria Proteine in Polvere per lo Sport, % RETAILER VALUE SHARE, DATI del 2022
+- Pensato come integratore pre e post-allenamento: ottimo prima e dopo le sessioni di CrossFit, le sedute di atletica, i workout in palestra ad alta intensità; ideale sia per i dilettanti sia per i professionisti
+- *La creatina aumenta le prestazioni fisiche quando si praticano esercizi successivi di breve durata e ad alta intensità. Fonte: REGOLAMENTO (UE) N. 432/2012 DELLA COMMISSIONE del 16 maggio 2012
+- Non aromatizzato, perfetto per fare scorta di creatina in polvere, inoltre si mescola facilmente e, a differenza di molti integratori di creatina, è insapore e non ha una consistenza difficile da mischiare
+- Questo integratore in polvere di creatina monoidrato pura al 100% aumenta le prestazioni fisiche* durante gli allenamenti ad alta intensità e fornisce 3 g di creatina per porzione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00T7L20EC{{</world>}}

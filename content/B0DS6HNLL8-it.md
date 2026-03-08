@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 240 HZ FREQUENZA DI AGGIORNAMENTO, 0,03MS TEMPO DI RISPOSTA - Unalta frequenza di aggiornamento di 240 Hz è supportata da un incredibile tempo di risposta di 0,03 ms (GtG) per una valutazione VESA ClearMR 13000 eccezionale
-- 31,5" UHD, COLORE 10-BIT - Pannello Quantum Dot OLED che visualizza 1,07 miliardi di colori (10-bit, 99% DCI-P3) con precisione Delta E ≤2; certificato VESA DisplayHDR True Black 400 (contrasto nativo 1500000:1) e luminosità fino a 1000 nits.
 - GAMING INTELLIGENCE - Il software MSI GI include OLED Care 2.0 per prevenire il burn-in, AI (Smart Crosshair), modalità console e assistenza al gioco; supporta KVM 1.0, PiP/PbP; con illuminazione RGB e supporto regolabile su 4 direzioni (VESA 100mm).
+- 240 HZ FREQUENZA DI AGGIORNAMENTO, 0,03MS TEMPO DI RISPOSTA - Unalta frequenza di aggiornamento di 240 Hz è supportata da un incredibile tempo di risposta di 0,03 ms (GtG) per una valutazione VESA ClearMR 13000 eccezionale
 - GAMING INTELLIGENCE - MSI GI software features OLED Care 2.0 to help prevent burn-in, AI supported software (Smart Crosshair), Console modes & Game Assistance; KVM 1.0, PiP/PbP supported; Features RGB illumination & a 4-way adjustable stand (VESA 100mm)
+- 31,5" UHD, COLORE 10-BIT - Pannello Quantum Dot OLED che visualizza 1,07 miliardi di colori (10-bit, 99% DCI-P3) con precisione Delta E ≤2; certificato VESA DisplayHDR True Black 400 (contrasto nativo 1500000:1) e luminosità fino a 1000 nits.
 - QUANTUM DOT OLED - Il monitor MSI MPG 322URX QD-OLED unisce colori a 10 bit Quantum Dot e pixel auto-emittenti OLED per neri perfetti e tempo di risposta ultra-basso. La disposizione avanzata dei sub-pixel migliora la nitidezza dellimmagine.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

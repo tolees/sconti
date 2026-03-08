@@ -28,10 +28,10 @@ average: '52.2028571428571'
 
 ℹ️:
 
+- Ergonomiche e impermeabili IPX4, le cuffiette sono resistenti ad acqua e sudore, quindi adatte alla palestra anche grazie agli inserti auricolari in 3 misure per una vestibilità sicura e confortevole
+- Articolo consegnato: 1 x JBL Tune Flex TWS Auricolari Wireless In Ear Bluetooth, Custodia Ricarica, Cavo Ricarica USB-C, 3 Misure di Inserti Auricolari, Guida Rapida, Scheda Sicurezza, App JBL
 - Con la cancellazione attiva del rumore puoi concentrarti sulla musica, mentre con Ambient Aware rimani connesso al mondo circostante e con lopzione TalkThru potrai conversare senza togliere le cuffie
 - Gli auricolari Tune Flex sono dotati di 4 microfoni per parlare sempre forte e chiaro, con unautonomia di 8 ore, fino a 24 ore di ascolto nella custodia e 2 ore aggiuntive con 10 minuti di ricarica
-- Articolo consegnato: 1 x JBL Tune Flex TWS Auricolari Wireless In Ear Bluetooth, Custodia Ricarica, Cavo Ricarica USB-C, 3 Misure di Inserti Auricolari, Guida Rapida, Scheda Sicurezza, App JBL
-- Ergonomiche e impermeabili IPX4, le cuffiette sono resistenti ad acqua e sudore, quindi adatte alla palestra anche grazie agli inserti auricolari in 3 misure per una vestibilità sicura e confortevole
 - Le cuffie Bluetooth senza fili JBL Tune Flex TWS offrono unesperienza immersiva con il suono potente e i bassi profondi di JBL Pure Bass, grazie a driver da 12 mm che ti faranno sentire ogni battito
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ average: '25.15'
 
 ℹ️:
 
+- Long Sleeves
 - Synthetic leather jacket
 - materialFabricComposition: Outer: 100% Polyester; Lining: 100% Polyester
-- Long Sleeves
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D3LCFRBH{{</world>}}

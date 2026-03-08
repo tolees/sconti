@@ -28,11 +28,11 @@ average: '73.8881250000001'
 
 ℹ️:
 
-- Antenna e predisposizioni per dissipazione del calore eccellenti per montaggio su scrivania/parete/soffitto.
-- Tagging VLAN supportato per una maggiore sicurezza e segmentazione del traffico, garantendo prestazioni e controllo ottimali della rete.
-- Grazie alla funzione di gestione tramite Nebula Cloud, non esiste più il rischio di perdere l’indirizzo IP o la password.
-- Wi-Fi super veloce da 6 a 1,8 Gpbs (AX1800, Dual 2x2 MU-MIMO).
 - Alimentato da PoE+ o DC12V, adattatore di alimentazione incluso nella confezione.
+- Tagging VLAN supportato per una maggiore sicurezza e segmentazione del traffico, garantendo prestazioni e controllo ottimali della rete.
+- Wi-Fi super veloce da 6 a 1,8 Gpbs (AX1800, Dual 2x2 MU-MIMO).
+- Grazie alla funzione di gestione tramite Nebula Cloud, non esiste più il rischio di perdere l’indirizzo IP o la password.
+- Antenna e predisposizioni per dissipazione del calore eccellenti per montaggio su scrivania/parete/soffitto.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09925PHCZ{{</world>}}

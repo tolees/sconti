@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Productos de belleza y el cuidado personal
 - Marca: Clinique
 - Tipo de producto: Agua de perfume
+- Productos de belleza y el cuidado personal
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00QN5CEQ4{{</world>}}

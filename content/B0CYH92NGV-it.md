@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- BIOREPAIR: Le tecnologie Biorepair nascono dalla ricerca avanzata Coswell per offrire soluzioni all’avanguardia per contrastare e trattare le principali patologie del cavo orale
-- ESTRATTI NATURALI DI AMAMELIDE, CALENDULA E SPIRULINA: Dalle proprietà astringenti e lenitive
 - CON ACIDO IALURONICO: Grazie alle proprietà idratanti e protettive, rinforza le gengive delicate
-- FORMULA POTENZIATA: Con ancora più microRepairBIOMA, un attivo ripara-smalto che protegge la placca gengivale, e probiotici per mantenere le gengive sane per un equilibrato microbiota orale
+- ESTRATTI NATURALI DI AMAMELIDE, CALENDULA E SPIRULINA: Dalle proprietà astringenti e lenitive
+- BIOREPAIR: Le tecnologie Biorepair nascono dalla ricerca avanzata Coswell per offrire soluzioni all’avanguardia per contrastare e trattare le principali patologie del cavo orale
 - DENTIFRICIO PERIBIOMA PROTEZIONE GENGIVE: Aiuta a combattere le cause dei problemi gengivali e a favorire lequilibrio del microbiota orale contrastando lo sviluppo dei batteri cattivi
+- FORMULA POTENZIATA: Con ancora più microRepairBIOMA, un attivo ripara-smalto che protegge la placca gengivale, e probiotici per mantenere le gengive sane per un equilibrato microbiota orale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CYH92NGV{{</world>}}

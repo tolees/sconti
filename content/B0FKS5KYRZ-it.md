@@ -28,11 +28,11 @@ average: '54.59'
 
 ℹ️:
 
-- Gioco online: Partecipa a battaglie online migliorate dal rollback netcode — progettato per mantenere la precisione di ogni attacco, anche con giocatori a grandi distanze
-- La Mortal Kombat: Legacy Kollection – Deluxe Edition includerà una Steelbook e altri contenuti esclusivi che saranno confermati a breve
-- Documentario interattivo: Contenuti approfonditi dietro le quinte raccontano la storia della saga, con interviste esclusive e inedite agli sviluppatori originali di Mortal Kombat Ed Boon, John Tobias, Dan Forden, John Vogel e molti altri
 - La storia completa: Storie dettagliate dei personaggi e linee temporali tracciano l’epica narrazione di Earthrealm, Outworld ed Edenia attraverso l’era arcade
+- La Mortal Kombat: Legacy Kollection – Deluxe Edition includerà una Steelbook e altri contenuti esclusivi che saranno confermati a breve
+- Gioco online: Partecipa a battaglie online migliorate dal rollback netcode — progettato per mantenere la precisione di ogni attacco, anche con giocatori a grandi distanze
 - Più edizioni iconiche: Vivi le origini leggendarie di Mortal Kombat con gli iconici classici arcade, insieme alle amate versioni casalinghe per Super NES e Sega Genesis. Approfondisci l’esperienza con uscite rare e amatissime dai fan su Game Boy, Game Gear, Sega 32X, Game Boy Advance e altro ancora
+- Documentario interattivo: Contenuti approfonditi dietro le quinte raccontano la storia della saga, con interviste esclusive e inedite agli sviluppatori originali di Mortal Kombat Ed Boon, John Tobias, Dan Forden, John Vogel e molti altri
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FKS5KYRZ{{</world>}}

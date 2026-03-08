@@ -28,10 +28,10 @@ average: '23.88'
 
 ℹ️:
 
+- Elimina fino al 99,9% di muffe, lieviti e batteri, inclusa Salmonella
 - Questo detersivo pavimenti rimuove facilmente il grasso per superfici brillanti
 - Senza candeggina, lascia una gradevole freschezza
 - Il detersivo pavimenti Ajax Disinfettante Multisuperficie, grazie alla sua azione 2 in 1, disinfetta e pulisce in profondità
-- Elimina fino al 99,9% di muffe, lieviti e batteri, inclusa Salmonella
 - Flacone (in plastica 100% riciclata) e tappo riciclabili. Si prega di rimuovere letichetta prima del riciclaggio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

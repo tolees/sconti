@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Scopri il Thedas, terra di natura selvaggia, insidiosi labirinti e città scintillanti; Il mondo è in bilico sul filo di una lama mentre le divinità corrotte scatenano il caos in tutto il continente; Le nazioni vanno in guerra e le fazioni si sfaldano
 - Raduna una squadra di sette compagni, ognuno con una vita piena e un passato complesso; Tra questi, un assassino, un negromante e uninvestigatrice, ciascuno con la sua esperienza e le sue capacità uniche
 - Scegli tra diverse razze e classi di combattimento, personalizza il tuo aspetto, scegli il passato del tuo personaggio e inizia la tua avventura nei panni di Rook, la nuova incarnazione eroica in Dragon Age; La scelta è tua
-- Scopri il Thedas, terra di natura selvaggia, insidiosi labirinti e città scintillanti; Il mondo è in bilico sul filo di una lama mentre le divinità corrotte scatenano il caos in tutto il continente; Le nazioni vanno in guerra e le fazioni si sfaldano
 - Questo videogioco è un coinvolgente GDR (Gioco di Ruolo) per giocatore singolo in cui potrai diventare il leader in cui gli altri credono. Unisci lEgida del Velo e sfida gli dei in Dragon Age:The Veilguard
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ average: '228.65'
 
 ℹ️:
 
-- ELEGANTE, SOTTILE E DUREVOLE: zaino fotografico grande con rinforzo strutturale della base in memory foam viscoelastico SAS-TEC per resistenza multi-impatto e protezione extra dagli urti
 - NUOVO STANDARD DI PROTEZIONE DELL’ATTREZZATURA FOTOGRAFICA: M-Guard fornisce massima protezione dell’attrezzatura con divisori imbottiti personalizzabili per migliore vestibilità e assorbimento urti
+- ELEGANTE, SOTTILE E DUREVOLE: zaino fotografico grande con rinforzo strutturale della base in memory foam viscoelastico SAS-TEC per resistenza multi-impatto e protezione extra dagli urti
 - CAPIENZA FLESSIBILE: tasca imbottita posteriore espandibile per stabilizzatore Gimbal a 3 assi per fotocamera mirrorless e altri accessori di simili dimensioni; Spazio extra senza compromessi
 - SUPPORTO SENZA COMPROMESSI: zaino imbottito con sistema di cinghie per treppiedi professionali o supporti per attrezzatura; Tasca per piccoli accessori
 - IL COMFORT È UNA PRIORITÀ: cinghia toracica con lunghezza busto regolabile per distribuzione ottimale del peso e cintura girevole

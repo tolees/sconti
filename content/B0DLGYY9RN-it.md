@@ -28,10 +28,10 @@ average: '11.1633333333334'
 
 ℹ️:
 
-- Bourjois Healthy Mix BB Cream unisce la copertura di un fondotinta e l’idratazione di una crema. Uniforma la pelle e minimizza i pori, nascondendo i segni della stanchezza e riducendo imperfezioni, macchie scure e rossori. La texture leggera e setosa è facile da stendere e dona una copertura uniforme e un comfort che dura tutto il giorno. Formula vegana e clean con l’81% di ingredienti naturali Con Schisandra per levigare la pelle, Lenticchia Verde per minimizzare i pori e assorbire il sebo in eccesso, e Vitamina C, E e B5 per un effetto antiossidante.
+- Bourjois continua a elevare i suoi standard con Healthy Mix BB Cream. Questa BB cream sarà la tua perfetta alleata per un incarnato impeccabile e naturalmente uniforme, garantendo una copertura omogenea dal finish radioso con i benefici della skincare. Uniforma facilmente la pelle e minimizza i pori, nascondendo i segni della stanchezza e riducendo imperfezioni, macchie scure e rossori. Con l’81% di ingredienti di origine naturale, la formula vegana e clean dona e un comfort che dura tutto il giorno.
 - Colore: 02 Vanilla
 - Eroga una piccola quantità di prodotto sul dorso della mano. Poi tampona delicatamente su fronte, guance, naso e mento per assicurare una copertura uniforme.|Con una spugna, un pennello o le dita, stendi la crema con delicati movimenti circolari.
-- Bourjois continua a elevare i suoi standard con Healthy Mix BB Cream. Questa BB cream sarà la tua perfetta alleata per un incarnato impeccabile e naturalmente uniforme, garantendo una copertura omogenea dal finish radioso con i benefici della skincare. Uniforma facilmente la pelle e minimizza i pori, nascondendo i segni della stanchezza e riducendo imperfezioni, macchie scure e rossori. Con l’81% di ingredienti di origine naturale, la formula vegana e clean dona e un comfort che dura tutto il giorno.
+- Bourjois Healthy Mix BB Cream unisce la copertura di un fondotinta e l’idratazione di una crema. Uniforma la pelle e minimizza i pori, nascondendo i segni della stanchezza e riducendo imperfezioni, macchie scure e rossori. La texture leggera e setosa è facile da stendere e dona una copertura uniforme e un comfort che dura tutto il giorno. Formula vegana e clean con l’81% di ingredienti naturali Con Schisandra per levigare la pelle, Lenticchia Verde per minimizzare i pori e assorbire il sebo in eccesso, e Vitamina C, E e B5 per un effetto antiossidante.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DLGYY9RN{{</world>}}

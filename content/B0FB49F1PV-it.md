@@ -28,11 +28,11 @@ average: '529.0'
 
 ℹ️:
 
-- DISPLAY FHD+ DA 16" CON FORMATO 16:10 PER MAGGIORE SPAZIO VISIVO: Goditi immagini nitide su un pannello WVA/IPS FHD+ da 16" (1920x1200) con trattamento antiriflesso, ComfortView e proporzioni 16:10 – ideale per fogli di calcolo, navigazione e multitasking.
-- PROGETTATO PER LA SOSTENIBILITÀ E LUSO PROLUNGATO:Realizzato con materiali riciclati, certificazione EPEAT Silver, imballaggio 100% riciclato e conforme agli standard ENERGY STAR 8.0/9.0 – per un impatto ambientale ridotto e una lunga durata.
-- CONNETTIVITÀ MODERNA PER OGNI ESIGENZA: Dotato di porte USB-C (DP 1.4, PD), USB 3.2, HDMI 1.4, Wi-Fi 6, Bluetooth, lettore microSD e jack audio – perfetto per collegare periferiche e dispositivi in mobilità o in ufficio.
 - PRESTAZIONI EFFICIENTI CON INTEL CORE 5 SERIES 1: Il processore Intel Core 5 120U (10 core, fino a 5.0GHz) e la grafica integrata Intel UHD offrono fluidità e velocità per attività quotidiane, produttività e videoconferenze.
+- CONNETTIVITÀ MODERNA PER OGNI ESIGENZA: Dotato di porte USB-C (DP 1.4, PD), USB 3.2, HDMI 1.4, Wi-Fi 6, Bluetooth, lettore microSD e jack audio – perfetto per collegare periferiche e dispositivi in mobilità o in ufficio.
+- DISPLAY FHD+ DA 16" CON FORMATO 16:10 PER MAGGIORE SPAZIO VISIVO: Goditi immagini nitide su un pannello WVA/IPS FHD+ da 16" (1920x1200) con trattamento antiriflesso, ComfortView e proporzioni 16:10 – ideale per fogli di calcolo, navigazione e multitasking.
 - COMFORT E SICUREZZA IN MOVIMENTO: Tastiera italiana QWERTY retroilluminata con tastierino numerico, lettore di impronte digitali integrato per accesso rapido e sistema termico adattivo che regola le prestazioni in base all’ambiente.
+- PROGETTATO PER LA SOSTENIBILITÀ E LUSO PROLUNGATO:Realizzato con materiali riciclati, certificazione EPEAT Silver, imballaggio 100% riciclato e conforme agli standard ENERGY STAR 8.0/9.0 – per un impatto ambientale ridotto e una lunga durata.
 - 16GB DI RAM DDR5 E SSD DA 512GB PER VELOCITÀ E AFFIDABILITÀ: Dotato di 16GB di RAM DDR5 (5200 MT/s) e di un SSD PCIe NVMe da 512GB, garantisce avvio rapido del sistema, caricamento fluido delle app e spazio sufficiente per file e progetti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

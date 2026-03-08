@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Il cavo ad alta precisione DisplayPort 1.4 offre uno speciale design A.I.S. (anti-interference shielding), con schermatura multistrato nel connettore e rivestimento aggiuntivo dei connettori in rame – per una protezione ottimale dalle interferenze
-- Nessun rischio: 36 mesi di garanzia del produttore
-- Con una larghezza di banda di 32,4 Gbit/s (HBR3) , questo cavo DisplayPort supporta risoluzioni UHD (Ultra HD) fino a 8K (7680×4320), frequenze gaming ready fino a 144 Hz, 165 Hz, e persino 240 Hz a 1440p, video HDR10 e segnale audio surround 7.1
-- Questo cavo monitor DisplayPort (maschio-maschio) opera bidirezionalmente con PC, laptop/notebook, monitor e proiettori. Con il supporto G-Sync/FreeSync, la frequenza di refresh del monitor è perfettamente sincronizzata con il segnale video
 - Questo cavo DisplayPort KabelDirekt offre una qualità premium per una trasmissione dati senza perdite. Come da specifiche VESA, la spina 20 non è connessa per evitare danni in caso di cortocircuiti. Il sistema di blocco mantiene il cavo in posizione
+- Nessun rischio: 36 mesi di garanzia del produttore
+- Questo cavo monitor DisplayPort (maschio-maschio) opera bidirezionalmente con PC, laptop/notebook, monitor e proiettori. Con il supporto G-Sync/FreeSync, la frequenza di refresh del monitor è perfettamente sincronizzata con il segnale video
+- Con una larghezza di banda di 32,4 Gbit/s (HBR3) , questo cavo DisplayPort supporta risoluzioni UHD (Ultra HD) fino a 8K (7680×4320), frequenze gaming ready fino a 144 Hz, 165 Hz, e persino 240 Hz a 1440p, video HDR10 e segnale audio surround 7.1
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07P6Y6T6H{{</world>}}

@@ -28,11 +28,11 @@ average: '386.66'
 
 ℹ️:
 
-- Memoria: 16GB RAM, 512GB SSD
-- Sistema Operativo: Windows 11 Home
-- Scheda grafica: Intel Iris Xe
 - Processore: Intel Core i5 1334U
+- Memoria: 16GB RAM, 512GB SSD
+- Scheda grafica: Intel Iris Xe
 - Schermo: 17.3" FHD Antiriflesso IPS 300 nits
+- Sistema Operativo: Windows 11 Home
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FPG3RVTS{{</world>}}

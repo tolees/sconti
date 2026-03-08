@@ -28,8 +28,8 @@ average: '6.5'
 
 ℹ️:
 
-- MAXI Confezione di clip in filo n°3 (40 mm) con finitura zincata/argento, che gli conferisce un aspetto più brillante.
 - Formato pratico e ideale per uffici, scuole, biblioteche, officine.
+- MAXI Confezione di clip in filo n°3 (40 mm) con finitura zincata/argento, che gli conferisce un aspetto più brillante.
 - Alta qualità e resistenza. Superfici lisce che evitano di attaccare o segni sui cartoncini.
 - Include 10 scatole da 100 clip ciascuna, per un totale di 1000 pezzi.
 - Ideale per tenere tutti i documenti ben saldi e la scrivania ben organizzata.

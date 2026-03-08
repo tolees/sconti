@@ -28,8 +28,8 @@ average: '9.99'
 
 ℹ️:
 
-- Libertà ai tuoi movimenti in modo da poter correre in totale comfort e sicurezza
 - Maglietta da corsa da uomo leggera, elastica e traspirante
+- Libertà ai tuoi movimenti in modo da poter correre in totale comfort e sicurezza
 - Ha dettagli distintivi del marchio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

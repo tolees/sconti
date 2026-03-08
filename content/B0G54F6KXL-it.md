@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
-- PAVESI: i nostri prodotti contengono solo ingredienti di qualità. Ti accompagniamo in tutti i momenti della giornata: biscotti per la colazione, snack dolci e salati e crackers
 - RINGO GAMMA: scopri un universo di sapori con i biscotti Ringo e vivi unesperienza di gusto unica
 - RINGO CHEESECAKE BOOOM: due biscotti croccanti — uno ai frutti di bosco e uno al malto dorzo — racchiudono una golosa crema dolce al formaggio per unesplosione di gusto originale e irresistibile
+- PAVESI: i nostri prodotti contengono solo ingredienti di qualità. Ti accompagniamo in tutti i momenti della giornata: biscotti per la colazione, snack dolci e salati e crackers
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0G54F6KXL{{</world>}}

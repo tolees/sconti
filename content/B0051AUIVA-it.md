@@ -28,11 +28,11 @@ average: '32.46'
 
 ℹ️:
 
-- Manuale duso in inglese incluso
-- Elevata coppia di spunto, basso numero di giri
 - Coppia: 70 Nm (6 m/kg)
 - Pressione di esercizio: 6-8 bar
 - 1/2"
+- Manuale duso in inglese incluso
+- Elevata coppia di spunto, basso numero di giri
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0051AUIVA{{</world>}}

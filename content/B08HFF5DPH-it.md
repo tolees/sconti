@@ -28,8 +28,8 @@ average: '16.89'
 
 ℹ️:
 
-- 19NXST00083A-001
 - Leggera, taglio classico, maniche con doppia cucitura e orlo inferiore
+- 19NXST00083A-001
 - Officially Licensed Stranger Things Apparel
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

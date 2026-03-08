@@ -28,14 +28,14 @@ average: '99.99'
 
 ℹ️:
 
+- Copritasti in PBT: i copritasti in PBT bicomponente offrono resistenza per i momenti di gioco più intensi e sono tanto belli quanto performanti grazie al design anti-unto e a una qualità palpabile
+- LIGHTSYNC RGB: accedi a ~16,8M di colori per personalizzare la tua tastiera gaming RGB per giocare, creare temi e sincronizzare altri dispositivi Logitech G in G HUB
 - Switch GL Brown Tactile con feedback percepibile: gli switch meccanici GL a profilo ribassato di questa tastiera gaming compatta sono lubrificati in fabbrica per una sensazione più morbida, un’attivazione rapida e una digitazione precisa
 - Approfitta dell’incredibile e imbattibile velocità di trasmissione di 1 ms con il wireless LIGHTSPEED e l’associazione 2:1 con un mouse da gioco wireless compatibile su una singola porta USB
-- LIGHTSYNC RGB: accedi a ~16,8M di colori per personalizzare la tua tastiera gaming RGB per giocare, creare temi e sincronizzare altri dispositivi Logitech G in G HUB
-- Personalizzazione di livello superiore: con KEYCONTROL, i giocatori possono programmare fino a 15 funzioni per tasto per personalizzare la propria esperienza di gioco e creare un centro di controllo personalizzato.
-- Tastiera gaming meccanica: Logitech G515 LIGHTSPEED TKL offre un profilo sottile e un design senza tastierino numerico con triplice connettività tramite wireless LIGHTSPEED, Bluetooth o trasferimento dati via cavo
 - Controllo a portata di dita: tre tasti di scelta rapida consentono di accedere rapidamente al wireless LIGHTSPEED, alla connettività Bluetooth e alla modalità di gioco
-- Copritasti in PBT: i copritasti in PBT bicomponente offrono resistenza per i momenti di gioco più intensi e sono tanto belli quanto performanti grazie al design anti-unto e a una qualità palpabile
+- Personalizzazione di livello superiore: con KEYCONTROL, i giocatori possono programmare fino a 15 funzioni per tasto per personalizzare la propria esperienza di gioco e creare un centro di controllo personalizzato.
 - 36 ore di gioco: continua a giocare in modalità wireless con un’autonomia fino a 36 ore; la durata della batteria varia a seconda delle condizioni di utilizzo
+- Tastiera gaming meccanica: Logitech G515 LIGHTSPEED TKL offre un profilo sottile e un design senza tastierino numerico con triplice connettività tramite wireless LIGHTSPEED, Bluetooth o trasferimento dati via cavo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D3HJ73GT{{</world>}}

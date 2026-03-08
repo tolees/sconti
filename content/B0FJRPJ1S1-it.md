@@ -28,11 +28,11 @@ average: '8.78'
 
 ℹ️:
 
+- Regalo perfetto: i cofanetti Bottega Verde sono ideali per chi ama la qualità Made in Italy e desidera prendersi cura di sé in modo naturale, con trattamenti efficaci e rispettosi della pelle e dell’ambiente
 - Modo d’uso: applicare la crema mani per nutrire e ammorbidire la pelle, mentre il set caffè consente di godersi una pausa rilassante e condivisa con stile
+- Confezione Regalo Karitè dAfrica: il regalo ideale per chi ama coccolare le proprie mani e godersi un momento di relax con il caffè, grazie alla crema nutriente e un elegante set di bicchierini da caffè per due
 - Formato: il set contiene 1 crema mani Karitè dAfrica 75 ml, ricca di burro di Karitè e olio di Karitè, e 1 set caffè per 2 in ceramica stoneware, perfetto per le pause caffè in compagnia
 - Formulazione: la crema mani è un trattamento intensivo che nutre e protegge la pelle secca e screpolata, grazie al potere emolliente del burro di Karitè bio, offrendo una protezione contro le aggressioni esterne
-- Regalo perfetto: i cofanetti Bottega Verde sono ideali per chi ama la qualità Made in Italy e desidera prendersi cura di sé in modo naturale, con trattamenti efficaci e rispettosi della pelle e dell’ambiente
-- Confezione Regalo Karitè dAfrica: il regalo ideale per chi ama coccolare le proprie mani e godersi un momento di relax con il caffè, grazie alla crema nutriente e un elegante set di bicchierini da caffè per due
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FJRPJ1S1{{</world>}}

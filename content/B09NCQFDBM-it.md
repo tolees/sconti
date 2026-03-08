@@ -28,9 +28,9 @@ average: '7.9'
 
 ℹ️:
 
+- Il film è prodotto da Kevin Feige e Nate Moore e diretto da Chloé Zhao, che ha vinto l’Academy Award per la miglior regia grazie a Nomadland
 - Eternals è il 25esimo film dellUniverso Cinematografico Marvel, unavventura completamente nuova che introduce 10 super eroi mai visti prima sullo schermo
 - I fumetti Marvel de “Gli Eterni”, creati da Jack Kirby e pubblicati per la prima volta nel 1976, hanno fornito lispirazione per il film
-- Il film è prodotto da Kevin Feige e Nate Moore e diretto da Chloé Zhao, che ha vinto l’Academy Award per la miglior regia grazie a Nomadland
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09NCQFDBM{{</world>}}

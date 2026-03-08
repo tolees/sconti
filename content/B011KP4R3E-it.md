@@ -28,10 +28,10 @@ average: '58.99'
 
 ℹ️:
 
-- Quando la lampada a sospensione è accesa, i paralumi in filo creano un affascinante gioco di luci e ombre
 - Dimensioni: altezza: max 110 cm, lunghezza: 79 cm, larghezza: 17,5 cm
-- Le lampadine a filamento mostrate non sono comprese nella fornitura e sono disponibili separatamente come EGLO 110055; Adatta a tutte le lampadine con attacco E27, potenza massima per attacco 60 W; Dimmerabile a seconda della lampadina utilizzata
+- Quando la lampada a sospensione è accesa, i paralumi in filo creano un affascinante gioco di luci e ombre
 - I paralumi geometrici delle lampade, realizzati con una rete metallica, si adattano ottimo a tendenze quali gli stili vintage, retrò e industrial
+- Le lampadine a filamento mostrate non sono comprese nella fornitura e sono disponibili separatamente come EGLO 110055; Adatta a tutte le lampadine con attacco E27, potenza massima per attacco 60 W; Dimmerabile a seconda della lampadina utilizzata
 - Con il suo design semplice, la lampada a sospensione offre un punto di attrattiva in ogni stanza, che sia in soggiorno, in cucina o nella sala da pranzo sopra il tavolo da pranzo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

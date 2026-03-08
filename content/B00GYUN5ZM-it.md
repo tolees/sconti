@@ -28,8 +28,8 @@ average: '88.99'
 
 ℹ️:
 
-- Un regalo per qualsiasi griglia o cuoco appassionato
 - Barbecue facile da trasportare
+- Un regalo per qualsiasi griglia o cuoco appassionato
 - Sicuro e facile da utilizzare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

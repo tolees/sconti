@@ -28,11 +28,11 @@ average: '213.569354838711'
 
 ℹ️:
 
-- Protezione della vista quando serve; attenuazione PWM a 2.160 Hz; picco di luminosità 950 nit
-- Lucentezza ottima; display curvo da 120Hz; esperienza visiva con risultati da flagship; Pro-XDR
 - Fotocamera Telescopica per ritratto; fotocamera Sony IMX882 OIS; algoritmo MasterShot omnifocale; una vera e propria esperienza fotografica di ultima generazione
 - Lavorazione magistrale; design ispirato agli orologi di lusso
 - Una combinazione vincente; batteria di lunga durata da 5.000mAh, ricarica SUPERVOOC da 67W
+- Protezione della vista quando serve; attenuazione PWM a 2.160 Hz; picco di luminosità 950 nit
+- Lucentezza ottima; display curvo da 120Hz; esperienza visiva con risultati da flagship; Pro-XDR
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CTHYMB3H{{</world>}}

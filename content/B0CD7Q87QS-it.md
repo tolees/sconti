@@ -28,13 +28,13 @@ average: '104.495'
 
 ℹ️:
 
-- Controllo elettronico della quantità di caffè erogata: erogazione del caffè programmabile per ottenere un caffè espresso lungo o corto
-- Per assaporare un caffè mai bevuto prima, utilizza Polti Coffea con SOLO Caffè monorigine e scopri gusti unici provenienti dalle varie regioni del mondo, 100% arabica o 100% robusta
-- Funzione auto spegnimento: la macchina si spegne in automatico dopo 25 minuti di inutilizzo, consentendo un risparmio energetico
 - Esplusione automatica delle cialde E.S.E.: la cialda viene inserita nel vano superiore ed espulsa automaticamente allinterno dellapposito cassetto di raccolta; in questo modo le mani non vengono a contatto con la cialda usata
-- Temperatura regolabile: è possibile personalizzare la temperatura del caffè su tre differenti livelli
-- La vaschetta raccogli gocce è collocata allinterno del cassetto raccogli cialde.
 - Serbatoio estraibile da 0.85 L: facile da ricaricare con acqua di rubinetto
+- La vaschetta raccogli gocce è collocata allinterno del cassetto raccogli cialde.
+- Per assaporare un caffè mai bevuto prima, utilizza Polti Coffea con SOLO Caffè monorigine e scopri gusti unici provenienti dalle varie regioni del mondo, 100% arabica o 100% robusta
+- Temperatura regolabile: è possibile personalizzare la temperatura del caffè su tre differenti livelli
+- Funzione auto spegnimento: la macchina si spegne in automatico dopo 25 minuti di inutilizzo, consentendo un risparmio energetico
+- Controllo elettronico della quantità di caffè erogata: erogazione del caffè programmabile per ottenere un caffè espresso lungo o corto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CD7Q87QS{{</world>}}

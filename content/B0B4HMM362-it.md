@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 𝗖𝗼𝗻𝘁𝗮𝘁𝘁𝗶 𝗣𝘂𝗹𝗶𝘁𝗶: Uscite potenzialmente libere per controllare una vasta gamma di circuiti a bassa o alta tensione come cancelli, luci o sistemi di riscaldamento
 - 𝗙𝘂𝗻𝘇𝗶𝗼𝗻𝗮𝗺𝗲𝗻𝘁𝗼 𝘃𝗶𝗮 𝗟𝗔𝗡 & 𝗪𝗶-𝗙𝗶 + 𝗖𝗼𝗻𝗳𝗶𝗴𝘂𝗿𝗮𝘇𝗶𝗼𝗻𝗲 𝗥𝗮𝗽𝗶𝗱𝗮: Controllo completo tramite reti LAN e Wi-Fi; Bluetooth incluso per semplificare l’inclusione e la configurazione
-- 𝗥𝗲𝗹è 𝗗𝗜𝗡 𝗥𝗮𝗶𝗹 𝗮 𝟭 𝗖𝗮𝗻𝗮𝗹𝗲: Controlla un singolo circuito fino a 16 A a 110-240 V AC; ideale per montaggio su guida DIN in quadri elettrici per automazione professionale
-- 𝗙𝘂𝗻𝘇𝗶𝗼𝗻𝗶 𝗱𝗶 𝗦𝗶𝗰𝘂𝗿𝗲𝘇𝘇𝗮 𝗔𝘃𝗮𝗻𝘇𝗮𝘁𝗲: Include protezioni contro sovratemperatura, sovraccarico e sovratensione per la massima sicurezza dei dispositivi
-- 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗮𝘇𝗶𝗼𝗻𝗲 𝗲 𝗧𝗶𝗺𝗲𝗿: Imposta timer e orari personalizzati per ogni canale o crea scenari per lautomazione completa della casa
 - 𝗔𝘂𝘁𝗼𝗺𝗮𝘇𝗶𝗼𝗻𝗲 𝗱𝗮 𝗔𝗽𝗽 𝗲 𝗖𝗼𝗺𝗮𝗻𝗱𝗶 𝗩𝗼𝗰𝗮𝗹𝗶: Controlla da ovunque tramite l’app Shelly Smart Control o assistenti vocali come Alexa, Google Home o SmartThings – 𝗻𝗲𝘀𝘀𝘂𝗻 𝗵𝘂𝗯 𝗿𝗶𝗰𝗵𝗶𝗲𝘀𝘁𝗼
+- 𝗙𝘂𝗻𝘇𝗶𝗼𝗻𝗶 𝗱𝗶 𝗦𝗶𝗰𝘂𝗿𝗲𝘇𝘇𝗮 𝗔𝘃𝗮𝗻𝘇𝗮𝘁𝗲: Include protezioni contro sovratemperatura, sovraccarico e sovratensione per la massima sicurezza dei dispositivi
+- 𝗥𝗲𝗹è 𝗗𝗜𝗡 𝗥𝗮𝗶𝗹 𝗮 𝟭 𝗖𝗮𝗻𝗮𝗹𝗲: Controlla un singolo circuito fino a 16 A a 110-240 V AC; ideale per montaggio su guida DIN in quadri elettrici per automazione professionale
+- 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗮𝘇𝗶𝗼𝗻𝗲 𝗲 𝗧𝗶𝗺𝗲𝗿: Imposta timer e orari personalizzati per ogni canale o crea scenari per lautomazione completa della casa
+- 𝗖𝗼𝗻𝘁𝗮𝘁𝘁𝗶 𝗣𝘂𝗹𝗶𝘁𝗶: Uscite potenzialmente libere per controllare una vasta gamma di circuiti a bassa o alta tensione come cancelli, luci o sistemi di riscaldamento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B4HMM362{{</world>}}

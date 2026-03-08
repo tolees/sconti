@@ -28,10 +28,10 @@ average: '9.45'
 
 ℹ️:
 
-- CLINICAMENTE TESTATO: La pelle è più radiosa, uniforme e le macchie sono ridotte, Utilizzare al mattino come idratante oppure dopo la crema giorno prima del make up, Adatto per le pelli sensibili
 - Formula illuminante colorata che si fonde perfettamente con diversi tipi e toni di pelle, senza lasciare residui bianchi, Non unge, non appiccica, non comedogeno, Offre idratazione tutta la giornata
-- Fluido anti-macchie leggero e illuminante, Combina il potere della Vitamina C* con una PROTEZIONE MOLTO ALTA SPF50+ contro raggi UVB, UVA e UVA lunghi e PIGMENTI MINERALI, *Derivativo della Vitamina C
+- CLINICAMENTE TESTATO: La pelle è più radiosa, uniforme e le macchie sono ridotte, Utilizzare al mattino come idratante oppure dopo la crema giorno prima del make up, Adatto per le pelli sensibili
 - Contenuto: 1x Garnier Fluido Anti-UV Quotidiano Anti-Macchie Glow, Arricchito con Vitamina C*, SPF 50+, Protegge Dai Raggi UV, Riduce Le Macchie, Uniforma e Illumina, Per Tutti i Tipi di Pelle
+- Fluido anti-macchie leggero e illuminante, Combina il potere della Vitamina C* con una PROTEZIONE MOLTO ALTA SPF50+ contro raggi UVB, UVA e UVA lunghi e PIGMENTI MINERALI, *Derivativo della Vitamina C
 - Grazie alle proprietà illuminanti e uniformanti della Vitamina C, e una texture leggermente colorata, lincarnato risulta uniformato e con un glow istantaneo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

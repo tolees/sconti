@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- REGOLE SEMPLICI. Il regolamento è veloce e semplice, ma le regole nascondono una notevole profondità strategica.
-- GIOCO A BASSO IMPATTO AMBIENTALE. In collaborazione con Trees for The Future, per ridurre al minimo l’impatto ambientale di questo gioco.
-- VIVI LESPERIENZA DEI MAESTRI BONSAISTI. Questo gioco da tavolo ti porta a vivere lesperienza di veder crescere un bonsai.
-- FAI CRESCERE IL TUO BONSAI. Raccogli e posiziona tessere e vedi il tuo albero fiorire.
 - INCLUDE LA VARIANTE "TOKONAMA". 5 scenari aggiuntivi e una modalità in solitario.
+- REGOLE SEMPLICI. Il regolamento è veloce e semplice, ma le regole nascondono una notevole profondità strategica.
+- FAI CRESCERE IL TUO BONSAI. Raccogli e posiziona tessere e vedi il tuo albero fiorire.
+- VIVI LESPERIENZA DEI MAESTRI BONSAISTI. Questo gioco da tavolo ti porta a vivere lesperienza di veder crescere un bonsai.
+- GIOCO A BASSO IMPATTO AMBIENTALE. In collaborazione con Trees for The Future, per ridurre al minimo l’impatto ambientale di questo gioco.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CJRJB7V2{{</world>}}

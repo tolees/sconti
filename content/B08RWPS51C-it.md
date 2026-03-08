@@ -28,11 +28,11 @@ average: '12.5'
 
 ℹ️:
 
-- 【SENSIBILITÀ ALLINCLINAZIONE & PRECISIONE】 Grazie al preciso controllo dellinclinazione, puoi creare spessori di linea e sfumature diverse semplicemente cambiando langolo di utilizzo, rendendola perfetta per disegni artistici e schizzi, proprio come una matita tradizionale.
-- 【COMPATIBILITÀ】 Compatibile con: iPad Pro M4/M2/M1 (13/11 pollici), iPad Air M2/M3 (13/11 pollici), iPad Pro (12.9 pollici, 3a-6a generazione), iPad Pro (11 pollici, 1a-4a generazione), iPad Air (3a-5a generazione), iPad (6a-11a generazione), iPad mini (5a & 6a &A17Pro generazione).
-- 【CONTENUTO DELLA CONFEZIONE & GARANZIA】 Contenuto: 1 x Penna stilo per iPad, 2 x Punte di ricambio, 1 x Cavo di ricarica USB-C, 1 x Manuale utente (lingua non specificata, disponibile in italiano su richiesta). Garanzia del produttore di 12 mesi: contattaci per una risoluzione immediata in caso di problemi!
-- 【PROTEZIONE DAI CONTATTI ACCIDENTALI & PRESA MAGNETICA】 Protezione dai contatti accidentali: Scrittura e disegno senza preoccupazioni, poiché i tocchi accidentali del palmo della mano vengono ignorati dal dispositivo. Adesione magnetica: Grazie ai magneti integrati, la penna stilo si attacca saldamente al tuo iPad (non abilitata alla ricarica wireless).
 - 【RICARICA RAPIDA USB-C】 La nostra penna per iPad si ricarica velocemente. Raggiunge la carica completa in circa 30 minuti e offre unautonomia di lavoro fino a 8-15 ore. Ideale per luso in mobilità, in ufficio, a scuola o a casa. Dopo 10 minuti di inattività, la penna si spegne automaticamente per risparmiare energia.
+- 【COMPATIBILITÀ】 Compatibile con: iPad Pro M4/M2/M1 (13/11 pollici), iPad Air M2/M3 (13/11 pollici), iPad Pro (12.9 pollici, 3a-6a generazione), iPad Pro (11 pollici, 1a-4a generazione), iPad Air (3a-5a generazione), iPad (6a-11a generazione), iPad mini (5a & 6a &A17Pro generazione).
+- 【PROTEZIONE DAI CONTATTI ACCIDENTALI & PRESA MAGNETICA】 Protezione dai contatti accidentali: Scrittura e disegno senza preoccupazioni, poiché i tocchi accidentali del palmo della mano vengono ignorati dal dispositivo. Adesione magnetica: Grazie ai magneti integrati, la penna stilo si attacca saldamente al tuo iPad (non abilitata alla ricarica wireless).
+- 【SENSIBILITÀ ALLINCLINAZIONE & PRECISIONE】 Grazie al preciso controllo dellinclinazione, puoi creare spessori di linea e sfumature diverse semplicemente cambiando langolo di utilizzo, rendendola perfetta per disegni artistici e schizzi, proprio come una matita tradizionale.
+- 【CONTENUTO DELLA CONFEZIONE & GARANZIA】 Contenuto: 1 x Penna stilo per iPad, 2 x Punte di ricambio, 1 x Cavo di ricarica USB-C, 1 x Manuale utente (lingua non specificata, disponibile in italiano su richiesta). Garanzia del produttore di 12 mesi: contattaci per una risoluzione immediata in caso di problemi!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08RWPS51C{{</world>}}

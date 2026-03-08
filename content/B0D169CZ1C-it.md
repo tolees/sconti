@@ -28,9 +28,9 @@ average: '18.75'
 
 ℹ️:
 
+- Adatto per: clima caldo
 - Realizzati con materiali sostenibili
 - Infradito del marchio Under Armour
-- Adatto per: clima caldo
 - Design traspirante per movimenti fluidi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

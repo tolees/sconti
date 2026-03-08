@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Create endless custom effects and animations. Play and customize preset effects and animations or create your own from a palette of over 16 million colors including warm white. You can even draw effects from scratch using the FX Wizard.
 - Smart home integration. Twinkly smart lights are compatible with Amazon Alexa and Google Assistant for hands-free voice control.
-- High density lighting. Strings HD feature more smart LEDs per foot than any other mappable string lights. Each LED acts like a pixel in your display for brighter, smoother, high definition animations.
-- Mappable, screen-like display. The Twinkly App uses your smartphone camera to locate each LED and create a virtual map your lights, no matter how you position them, giving you full control of a screen-like display.
 - Expandable light system. Virtually connect to any other indoor and outdoor Twinkly lights for an extended 3D layout. Map them together to shine as a single display or sync them to play the same animations.
+- Mappable, screen-like display. The Twinkly App uses your smartphone camera to locate each LED and create a virtual map your lights, no matter how you position them, giving you full control of a screen-like display.
+- High density lighting. Strings HD feature more smart LEDs per foot than any other mappable string lights. Each LED acts like a pixel in your display for brighter, smoother, high definition animations.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F2FL996D{{</world>}}

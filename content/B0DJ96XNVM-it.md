@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Pronazione: neutra
-- Marca dellintersuola in pezzo gioiello
 - Ammortizzazione: bassa
+- Marca dellintersuola in pezzo gioiello
+- Pronazione: neutra
 - Gabbia in TPU
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

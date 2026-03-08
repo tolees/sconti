@@ -28,12 +28,12 @@ average: '7.56'
 
 ℹ️:
 
-- Esperienza Italiana di Qualità: Da oltre 50 anni, Mafra si impegna nella produzione di soluzioni di alta qualità per la cura dell’auto. Con un forte impegno verso l’innovazione e la sostenibilità, ogni prodotto è il risultato di una ricerca avanzata e di una passione autentica per l’eccellenza del Made in Italy.
-- MODI E CONSIGLI DUSO: nebulizzare da una distanza di 20cm e lasciare agire per circa 30 secondi. Su sporco ostinato utilizzare un pennello a setole morbide. Pulire con un panno in microfibra e rimuovere leccesso di prodotto dalla zona trattata.
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
-- VERSATILE: HP12 è uno sgrassatore universale multisuperficie versatile ideale per la pulizia di veicoli come auto, moto, camper e barche, oltre che per utensili, arredi domestici e motori, rendendolo perfetto sia in ambito domestico che professionale
-- PER OGNI AMBIENTE: ideale per officine, carrozzerie, casa, ufficio, garage o palestra, HP12 è lo sgrassatore multiuso che offre prestazioni eccellenti in qualsiasi situazione, perfetto per la rimozione di macchie ostinate da qualsiasi superficie.
+- MODI E CONSIGLI DUSO: nebulizzare da una distanza di 20cm e lasciare agire per circa 30 secondi. Su sporco ostinato utilizzare un pennello a setole morbide. Pulire con un panno in microfibra e rimuovere leccesso di prodotto dalla zona trattata.
 - CONTENUTO: a casa riceverai una confezione da 125ml di HP12, sgrassatore universale multiuso professionale progettato per rimuovere lo sporco ostinato da ogni tipo di superficie senza danneggiarle. Rilascia sulla superficie un fresco aroma di limone.
+- PER OGNI AMBIENTE: ideale per officine, carrozzerie, casa, ufficio, garage o palestra, HP12 è lo sgrassatore multiuso che offre prestazioni eccellenti in qualsiasi situazione, perfetto per la rimozione di macchie ostinate da qualsiasi superficie.
+- Esperienza Italiana di Qualità: Da oltre 50 anni, Mafra si impegna nella produzione di soluzioni di alta qualità per la cura dell’auto. Con un forte impegno verso l’innovazione e la sostenibilità, ogni prodotto è il risultato di una ricerca avanzata e di una passione autentica per l’eccellenza del Made in Italy.
+- VERSATILE: HP12 è uno sgrassatore universale multisuperficie versatile ideale per la pulizia di veicoli come auto, moto, camper e barche, oltre che per utensili, arredi domestici e motori, rendendolo perfetto sia in ambito domestico che professionale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FXXWJ1ZC{{</world>}}

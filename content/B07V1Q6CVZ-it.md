@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Multicentrum Donna 50+ è un integratore alimentare multivitaminico e multiminerale completo, appositamente formulato per le donne dopo i 50 anni.
-- Integratore per donna 50+: con livelli bilanciati di MAGNESIO e VITAMINA A per supportare i cambiamenti nel periodo post menopausa. In particolare la VITAMINA A contribuisce al mantenimento della pelle e delle mucose normali e il MAGNESIO contribuisce alla normale funzione psicologica
-- Prodotto in Italia. Confezione da 60 compresse
 - Difese naturali: con VITAMINA C che, in associazione a minerali quali RAME, ZINCO e SELENIO, aiuta a supportare il normale funzionamento del sistema immunitario favorendo le difese naturali.
-- Funzione cognitiva: con ACIDO PANTOTENICO che contribuisce a mantenere prestazioni mentali normali. Con FERRO e ZINCO che contribuiscono alla normale funzione cognitiva come attenzione e concentrazione.
+- Integratore per donna 50+: con livelli bilanciati di MAGNESIO e VITAMINA A per supportare i cambiamenti nel periodo post menopausa. In particolare la VITAMINA A contribuisce al mantenimento della pelle e delle mucose normali e il MAGNESIO contribuisce alla normale funzione psicologica
 - Conservare il prodotto in un luogo asciutto e ad una temperatura non superiore a 25 °C
+- Multicentrum Donna 50+ è un integratore alimentare multivitaminico e multiminerale completo, appositamente formulato per le donne dopo i 50 anni.
+- Prodotto in Italia. Confezione da 60 compresse
 - Salute delle ossa: con CALCIO e VITAMINA D per mantenere le ossa in salute
+- Funzione cognitiva: con ACIDO PANTOTENICO che contribuisce a mantenere prestazioni mentali normali. Con FERRO e ZINCO che contribuiscono alla normale funzione cognitiva come attenzione e concentrazione.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07V1Q6CVZ{{</world>}}

@@ -28,10 +28,10 @@ average: '20.99'
 
 ℹ️:
 
+- Include tutti i contenuti digitali rilasciati
+- Affronta il luogo più letale del pianeta Terra: domina la spietata natura della giungla per cercare di sopravvivere
 - Scopri tombe oscure e terrificanti: raggiungere questi antichi sepolcri pieni di trappole letali sarà una sfida ardua anche per lesploratore più abile
 - Diventa una cosa sola con la giungla: opposta a un nemico più numeroso e meglio armato, Lara dovrà trasformare lambiente in un suo alleato
-- Affronta il luogo più letale del pianeta Terra: domina la spietata natura della giungla per cercare di sopravvivere
-- Include tutti i contenuti digitali rilasciati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CJG3TYMZ{{</world>}}

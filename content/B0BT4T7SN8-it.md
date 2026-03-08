@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Temperatura di servizio 6-8°
 - Beck’s, la birra tedesca rinomata per la sua qualità senza compromessi, in oltre 85 paesi; da più di 140 anni, Becks viene prodotta con soli 4 ingredienti, in conformità con la legge tedesca sulla purezza: acqua, malto, luppolo e lievito; fondata da Heinrich Beck nel 1873 sulle rive del fiume Weser nella libera città Brema, Becks è una Pilsner di carattere, per i pionieri ed esploratori del mondo
 - Becks è una birra Pilsner tedesca, ha un colore dorato con un gusto deciso e distintivo piacevolmente amaro, un aroma fresco e luppolato, 5% alcool
-- Temperatura di servizio 6-8°
 - Al naso ritroviamo i profumi freschi e pungenti del luppolo di Hallertau usati proveniente dalla stessa regione tedesca, ben nota per la qualità e tradizione birraia tedesca
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '289.9'
 
 ℹ️:
 
-- Design compatto e colori Pantone, con finiture in materiale premium vegano. Protezione certificata Military Standard e resistenza IP68 e IP69.
-- Display da 6,36” pOLED con refresh rate da 120Hz, per unesperienza visiva immersiva con colori vividi, dettagli perfetti e un contrasto incredibile.
-- Moto AI, sensore Sony LYTIA 700C, obiettivo ultragrandangolare e zoom teleobiettivo 3x. Scatta foto professionali, catturando ogni dettaglio sotto ogni condizione di luce per foto chiare e brillanti e ritratti perfetti a qualsiasi distanza.
 - Potenza e prestazioni leader nel settore con il processore MediaTek Dimensity 7400, memoria da 256GB e RAM dinamica fino a 24GB, per una performance fluida e creativa.
+- Moto AI, sensore Sony LYTIA 700C, obiettivo ultragrandangolare e zoom teleobiettivo 3x. Scatta foto professionali, catturando ogni dettaglio sotto ogni condizione di luce per foto chiare e brillanti e ritratti perfetti a qualsiasi distanza.
+- Display da 6,36” pOLED con refresh rate da 120Hz, per unesperienza visiva immersiva con colori vividi, dettagli perfetti e un contrasto incredibile.
+- Design compatto e colori Pantone, con finiture in materiale premium vegano. Protezione certificata Military Standard e resistenza IP68 e IP69.
 - Ricarica rapida TurboPower da 68W e ampia batteria da 5000mAh. Supporta anche la ricarica wireless da 15W.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

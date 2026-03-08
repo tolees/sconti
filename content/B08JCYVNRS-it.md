@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- A partire dal 2015 sei esperti mastri birrai hanno dato vita a questa nuova referenza partendo dal lievito originale Guinness
-- Grazie all’utilizzo di 3 diverse varietà di luppolo, il Galaxy e il Topaz dell’Australia e il Mosaic, Hop House 13 è caratterizzata da un delicato aroma fruttato con sentori di pesca e albicocca
 - Il nome Hop House 13 deriva da Hop Store n° 13, il magazzino in cui sono contenuti i luppoli necessari per la sua preparazione
-- Rinfrescante alla bevuta, presenta sottili note di malto e luppolo; il finale è secco
+- Grazie all’utilizzo di 3 diverse varietà di luppolo, il Galaxy e il Topaz dell’Australia e il Mosaic, Hop House 13 è caratterizzata da un delicato aroma fruttato con sentori di pesca e albicocca
 - Birra lager in bottiglia creata all’interno dell’ Open Gate Brewery nel cuore della birreria di St; james Gate a Dublino
+- Rinfrescante alla bevuta, presenta sottili note di malto e luppolo; il finale è secco
+- A partire dal 2015 sei esperti mastri birrai hanno dato vita a questa nuova referenza partendo dal lievito originale Guinness
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08JCYVNRS{{</world>}}

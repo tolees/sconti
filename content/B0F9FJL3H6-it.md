@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Illuminazione ottimale – Per poter lavorare in aree buie e inaccessibili, la luce a LED integrata assicura sempre una perfetta visibilità e unilluminazione ottimale.
-- Motore Brushless – Il potente motore Brushless con scarsa manutenzione garantisce massime prestazioni con autonomia superiore. Dopo la registrazione, il motore è coperto da garanzia per 10 anni.
-- Potenza – Giri e coppia regolabili fino a un massimo di 260 Nm (coppia di rilascio di 500 Nm) in 3 fasi e nella fase di arresto automatico aggiuntiva.
-- Incl. accessori – Lavvitatore a percussione a batteria con attacco quadro femmina da 1/2" viene fornito con un adattatore inserti e set di bussole per la sostituzione degli pneumatici.
+- Design compatto - Lavvitatore a batteria, rispetto agli avvitatori a percussione di simile potenza, è circa il 30% più compatto e quindi offre la massima flessibilità duso.
 - Power X-Change – Lavvitatore a percussione Einhell Professional TP-CW 18/260-C Li BL-Solo fa parte della serie Power X-Change, in cui batterie, caricabatterie e apparecchi sono intercambiabili.
 - Fornitura senza batteria – Il trapano avvitatore a batteria Einhell Professional TP-CW 18/260-C Li BL-Solo si consegna senza batteria Power X-Change e senza caricabatteria.
-- Design compatto - Lavvitatore a batteria, rispetto agli avvitatori a percussione di simile potenza, è circa il 30% più compatto e quindi offre la massima flessibilità duso.
+- Illuminazione ottimale – Per poter lavorare in aree buie e inaccessibili, la luce a LED integrata assicura sempre una perfetta visibilità e unilluminazione ottimale.
+- Potenza – Giri e coppia regolabili fino a un massimo di 260 Nm (coppia di rilascio di 500 Nm) in 3 fasi e nella fase di arresto automatico aggiuntiva.
+- Incl. accessori – Lavvitatore a percussione a batteria con attacco quadro femmina da 1/2" viene fornito con un adattatore inserti e set di bussole per la sostituzione degli pneumatici.
+- Motore Brushless – Il potente motore Brushless con scarsa manutenzione garantisce massime prestazioni con autonomia superiore. Dopo la registrazione, il motore è coperto da garanzia per 10 anni.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F9FJL3H6{{</world>}}

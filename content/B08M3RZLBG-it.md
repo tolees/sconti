@@ -28,9 +28,9 @@ average: '200.08'
 
 ℹ️:
 
+- USER-FRIENDLY: pratico utilizzo con avviamento a strappo facilitato, manegevolezza aumentata grazie alle doppie maniglie, ricoperte con guaina soft touch per una potautra comoda e sicura, comodo tensore della catena posizionato lateralmente
 - POTENTE: robusta motosega Alpina ACS 50 a scoppio, motore da 49.3cc (2.2 kW), barra da 50cm, la più performante della gamma adatta anche alle sessioni di lavoro più impegnative
 - CONTENUTO: 1x motosega a benzina Alpina ACS 50 (20"), cacciavite, chiave candela e lima tonda per catena, Dimensioni: 885 x 285 x 320 mm, Peso: 7,8 kg, Art. Nr. 205020004/A20
-- USER-FRIENDLY: pratico utilizzo con avviamento a strappo facilitato, manegevolezza aumentata grazie alle doppie maniglie, ricoperte con guaina soft touch per una potautra comoda e sicura, comodo tensore della catena posizionato lateralmente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08M3RZLBG{{</world>}}

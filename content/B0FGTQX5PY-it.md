@@ -28,16 +28,16 @@ average: '16.99'
 
 ℹ️:
 
+- ⑨【Ampia compatibilità】Il filamento PETG SUNLU è compatibile con la maggior parte delle stampanti FDM, temperatura ugello consigliata: 230-240 °C, velocità di stampa consigliata: 50-100 mm/s.
+- ⑦【Traslucenza cristallina】Grazie allelevata trasparenza, il filamento PETG da 1,75 mm può stampare paralumi trasparenti o traslucidi, vetrine e opere darte.
 - ①【Durata e Semplicità】Il filamento SUNLU PETG combina la stampa senza problemi del PLA con lelevata resistenza dellABS, consentendo di realizzare facilmente stampe resistenti e durevoli.
 - ⑤【Bassa umidità 】Progettato con proprietà idrofobiche, il PETG Sunlu riduce al minimo lassorbimento di umidità durante la stampa, riducendo la fragilità e garantendo prestazioni costanti nel tempo.
-- ⑧【Colori vivaci】Scegli tra oltre 20 colori con una finitura professionale. Non è necessaria alcuna post-elaborazione: le tue creazioni appariranno perfette fin dal primo momento.
-- ⑦【Traslucenza cristallina】Grazie allelevata trasparenza, il filamento PETG da 1,75 mm può stampare paralumi trasparenti o traslucidi, vetrine e opere darte.
-- ⑨【Ampia compatibilità】Il filamento PETG SUNLU è compatibile con la maggior parte delle stampanti FDM, temperatura ugello consigliata: 230-240 °C, velocità di stampa consigliata: 50-100 mm/s.
-- ⑥【Resistenza ad acidi e alcali】Resistente a oli e solventi, il nostro filamento PETG supera le prestazioni del normale PLA in condizioni difficili come officine o ambienti esterni.
 - ⑩【Affidabilità comprovata SUNLU】 Sigillato sottovuoto con essiccante per prevenire lassorbimento di umidità. Scelto da ingegneri, hobbisti e insegnanti per applicazioni industriali e fai da te.
+- ④【Stampa fluida】Il filamento PETG da 1,75 mm garantisce un flusso di estrusione costante, consentendo miniature dettagliate, ingranaggi e prototipazione ad alta velocità.
 - ③【Bassa deformazione e restringimento】La stabilità termica progettata riduce al minimo la separazione e la deformazione degli strati.
 - ②【Elevata resistenza al calore】Resiste al calore meglio del PLA tradizionale, il nostro filamento per stampa 3D PETG è ideale per raccordi per autoveicoli e alloggiamenti per componenti elettronici.
-- ④【Stampa fluida】Il filamento PETG da 1,75 mm garantisce un flusso di estrusione costante, consentendo miniature dettagliate, ingranaggi e prototipazione ad alta velocità.
+- ⑧【Colori vivaci】Scegli tra oltre 20 colori con una finitura professionale. Non è necessaria alcuna post-elaborazione: le tue creazioni appariranno perfette fin dal primo momento.
+- ⑥【Resistenza ad acidi e alcali】Resistente a oli e solventi, il nostro filamento PETG supera le prestazioni del normale PLA in condizioni difficili come officine o ambienti esterni.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FGTQX5PY{{</world>}}

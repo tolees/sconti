@@ -29,10 +29,10 @@ average: '135.21'
 ℹ️:
 
 - Fodera: 100% Poliestere Riciclato
-- Suola/Caratteristiche: EVA XL EXTRALIGHT 51% riciclato
-- Colore: Nero
-- Lacci
 - Tomaia: Pelle
+- Suola/Caratteristiche: EVA XL EXTRALIGHT 51% riciclato
+- Lacci
+- Colore: Nero
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B001ACU1II{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Difesa Contro le Arti Oscure è un’espansione per Hogwarts Battle: l’aumento di eventi misteriosi e pericolosi ha portato il Preside Albus Silente ad autorizzare le lezioni pratiche di Difesa Contro le Arti Oscure, affinché gli studenti siano preparati a difendersi
 - I Malvagi lanceranno attacchi contro di voi per cercare di conquistare il mondo magico un Luogo alla volta
 - Iniziando con un mazzo di carte personale, userete le vostre abilità e la vostra influenza per costruire un mazzo sempre più potente con i personaggi, gli incantesimi e gli oggetti dell’iconico Mondo Magico
 - Sotto la supervisione degli insegnanti di Hogwarts, gli studenti lanceranno Incantesimi, useranno Oggetti e otterranno Alleati per stordire i loro avversari e imparare a proteggersi dalle forze del male
 - Hogwarts Battle è un gioco cooperativo in cui i giocatori interpretano il ruolo degli eroici Harry Potter, Ron Weasley, Hermione Granger o Neville Paciock allo scopo di sconfiggere una serie di perfide minacce
+- Difesa Contro le Arti Oscure è un’espansione per Hogwarts Battle: l’aumento di eventi misteriosi e pericolosi ha portato il Preside Albus Silente ad autorizzare le lezioni pratiche di Difesa Contro le Arti Oscure, affinché gli studenti siano preparati a difendersi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08HVDMK4J{{</world>}}

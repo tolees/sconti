@@ -28,10 +28,10 @@ average: '239.0'
 
 ℹ️:
 
-- Stampa fino a 18 pagine al minuto; stampa fronte retro automatica, fino a 7 pagine al minuto
 - Viene fornito con 500 pag toner nero, 500 pag; ciascun colore
-- Pannello di controllo LCD a 2 righe
 - Vassoio carta da 250 fogli
+- Stampa fino a 18 pagine al minuto; stampa fronte retro automatica, fino a 7 pagine al minuto
+- Pannello di controllo LCD a 2 righe
 - USB e WiFi a 5 GHz; memoria interna da 512 MB
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

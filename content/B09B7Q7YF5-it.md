@@ -28,8 +28,8 @@ average: '29.47'
 
 ℹ️:
 
-- Compatibilità: Osmo Mobile 7P, Osmo Mobile 7, Osmo Mobile 6, Osmo Mobile SE, DJI OM 5, DJI OM 4 SE, DJI OM 4
 - Le luci a LED integrate con più opzioni di luminosità e 3 livelli di temperatura del colore ti consentono di evidenziare i soggetti con la perfetta illuminazione in qualunque situazione.
+- Compatibilità: Osmo Mobile 7P, Osmo Mobile 7, Osmo Mobile 6, Osmo Mobile SE, DJI OM 5, DJI OM 4 SE, DJI OM 4
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09B7Q7YF5{{</world>}}

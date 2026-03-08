@@ -28,12 +28,12 @@ average: '15.99'
 
 ℹ️:
 
-- Stile scollo: Collo a U
 - Girocollo
+- Maniche corte
+- Stile scollo: Collo a U
+- Tessuto traspirante
 - T-shirt per uomo Nike Sportswear Just Do It Swoosh
 - Composizione materiale: 100% cotone
-- Tessuto traspirante
-- Maniche corte
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07GXBBJF9{{</world>}}

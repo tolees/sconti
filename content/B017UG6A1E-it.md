@@ -28,8 +28,8 @@ average: '25.04'
 
 ℹ️:
 
-- Combinazione di vaschette (6 piccole + 6 medie) nella parte superiore e scomparti nella parte inferiore - altamente personalizzabile
 - Possibilità di accedere ad ogni livello separatamente
+- Combinazione di vaschette (6 piccole + 6 medie) nella parte superiore e scomparti nella parte inferiore - altamente personalizzabile
 - In polipropilene, con coperchio trasparente e maniglia per il trasporto
 - Può essere sovrapposto ed agganciato ad un organizer Sort Master Junior
 

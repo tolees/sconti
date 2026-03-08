@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Nuova grafica: Il nuovo gioco offre uno splendido stile isometrico 3D. Armati di una scorta infinita di palline di ghiaccio, i giocatori possono trasformare i mostri in palle di neve, che possono essere calciate per distruggere intere orde di nemici!
-- Custimazione: Personalizza il tuo avatar innevato con cappelli, occhiali, sciarpe e tutti i tipi di oggetti divertenti. Tanti nuovi tesori nascosti. Trova il tuo stile!
 - Nuova modalità Co-Op: In precedenza, Snow Bros. era sempre un gioco per due giocatori (il che ha perfettamente senso visto il nome), ma questa volta il numero di giocatori è raddoppiato! Ora è possibile avere fino a quattro giocatori contemporaneamente, rendendo lavventura ancora più divertente.
+- Custimazione: Personalizza il tuo avatar innevato con cappelli, occhiali, sciarpe e tutti i tipi di oggetti divertenti. Tanti nuovi tesori nascosti. Trova il tuo stile!
+- Nuova grafica: Il nuovo gioco offre uno splendido stile isometrico 3D. Armati di una scorta infinita di palline di ghiaccio, i giocatori possono trasformare i mostri in palle di neve, che possono essere calciate per distruggere intere orde di nemici!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DL64RRXP{{</world>}}

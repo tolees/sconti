@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- CONQUISTA LA GALASSIA: Competi per energia e potere in un futuro distopico dove solo il più forte prevale. Un grande classico tra i giochi da tavolo e amatissimo come gioco da tavolo adulti.
 - DA 1 A 4 GIOCATORI: Giocabile in solitaria o in gruppo per esperienze sempre nuove. Una scelta eccellente tra i giochi per bambini più grandi e i migliori giochi da tavolo bambini strategici.
-- QUALITÀ ALEA BY RAVENSBURGER: Materiali curati e meccaniche innovative per un titolo di grande spessore. Un must-have per collezionisti di giochi da tavolo e appassionati di profondi giochi da tavola.
 - ETÀ CONSIGLIATA 14+: Un titolo profondo e strategico pensato per appassionati di boardgame. Perfetto tra i migliori giochi da tavolo adulti e sempre apprezzato come moderni giochi in scatola.
+- CONQUISTA LA GALASSIA: Competi per energia e potere in un futuro distopico dove solo il più forte prevale. Un grande classico tra i giochi da tavolo e amatissimo come gioco da tavolo adulti.
+- QUALITÀ ALEA BY RAVENSBURGER: Materiali curati e meccaniche innovative per un titolo di grande spessore. Un must-have per collezionisti di giochi da tavolo e appassionati di profondi giochi da tavola.
 - PARTITE DA 60 A 90 MINUTI: Sfide intense e ricche di tattica per giocatori esperti. Ideale tra i più avvincenti giochi da tavola e i premiati giochi da tavolo internazionali.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

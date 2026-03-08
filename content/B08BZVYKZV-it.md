@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Altezza: 29 mm; Lunghezza: 78 mm; Larghezza: 29 mm; Diametro: 29 mm; Peso: 51 g
-- Colore luce: Bianco caldo. Temperatura di colore: 2700K. Luminosità: 1521 lm. Tensione: 220…240 V. Classe di protezione: IP20
 - Consumo di energia 12 kWh/1000h per 1521 lm
 - Tempo di operatività: 15000 ore. Alimentazione elettrica: Corrente alternata (AC). Forma della lampada: tubo
+- Colore luce: Bianco caldo. Temperatura di colore: 2700K. Luminosità: 1521 lm. Tensione: 220…240 V. Classe di protezione: IP20
+- Altezza: 29 mm; Lunghezza: 78 mm; Larghezza: 29 mm; Diametro: 29 mm; Peso: 51 g
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08BZVYKZV{{</world>}}

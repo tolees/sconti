@@ -28,9 +28,9 @@ average: '69.9'
 
 ℹ️:
 
+- Realizzati con materiali sostenibili
 - Adatto per: tutte le stagioni
 - Sneaker del marchio Geox
-- Realizzati con materiali sostenibili
 - Suola morbida per movimenti fluidi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

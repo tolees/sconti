@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- STREETWEAR RIVISITATO: Per far apprezzare gli amati classici degli anni ‘90 alla generazione successiva, Tommy Jeans strizza locchio alle icone dell’hip hop di quest’epoca. L’attenzione è rivolta alla qualità e ai design di tendenza caratterizzati da tanto denim.
+- MATERIALE E LAVAGGIO: Questa giacca è realizzata al 70% in cotone bio e al 30% in poliammide. È lavabile in lavatrice e adatta all’asciugatrice.
+- VESTIBILITÀ OTTIMALE: Il look intramontabile di questa giacca da mezza stagione minimalista è leggero e tiene caldo.
 - PER OGNI OCCASIONE: Questa giacca leggera si distingue per la sua funzionalità e il comfort particolarmente elevato. Il discreto branding Tommy Jeans completa il look della giacca stilosa.
 - ICONICITÀ INTRAMONTABILE: L’originale giacca Tommy Jeans con due tasche con chiusura a zip presenta un design essenziale. Questo capo è molto pratico per il suo caldo tessuto e si ripone facilmente.
-- VESTIBILITÀ OTTIMALE: Il look intramontabile di questa giacca da mezza stagione minimalista è leggero e tiene caldo.
-- MATERIALE E LAVAGGIO: Questa giacca è realizzata al 70% in cotone bio e al 30% in poliammide. È lavabile in lavatrice e adatta all’asciugatrice.
-- STREETWEAR RIVISITATO: Per far apprezzare gli amati classici degli anni ‘90 alla generazione successiva, Tommy Jeans strizza locchio alle icone dell’hip hop di quest’epoca. L’attenzione è rivolta alla qualità e ai design di tendenza caratterizzati da tanto denim.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D7HTMKL8{{</world>}}

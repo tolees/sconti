@@ -28,11 +28,11 @@ average: '13.09'
 
 ℹ️:
 
-- Caratteristiche: set di vini rossi Nebbiolo, dal gusto piacevolmente secco, Chianti, dal gusto fruttato, e Nero dAvola dal gusto equilibrato
 - Vitigno: il Nebbiolo è unuva del Piemonte, dalle note floreali, mentre il Chianti è un tipo di uva toscana tannica e corposa; il Nero dAvola, vite siciliana, ha un gusto equilibrato e speziato
 - Colore: Barolo rosso granato con riflessi arancio, Chianti rosso rubino e Nero dAvola rosso intenso con riflessi granati
-- Gusto: un corpo rotondo e morbido accompagna note di liquirizia nel Barolo, viole e lampone nel Chianti e un palato equilibrato e speziato nel Nero dAvola
 - Casa SantOrsola è un mondo di stile, tradizione e gioia di vivere: ciascuna bottiglia di vino Casa SantOrsola esprime litalianità a tavola in ogni occasione speciale
+- Gusto: un corpo rotondo e morbido accompagna note di liquirizia nel Barolo, viole e lampone nel Chianti e un palato equilibrato e speziato nel Nero dAvola
+- Caratteristiche: set di vini rossi Nebbiolo, dal gusto piacevolmente secco, Chianti, dal gusto fruttato, e Nero dAvola dal gusto equilibrato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09TTN3HVD{{</world>}}

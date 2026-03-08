@@ -28,11 +28,11 @@ average: '111.46'
 
 ℹ️:
 
-- Grazie alla più recente tecnologia UHS-II, e a velocità di scrittura fino a 180 MB/s permette di scattare in facilità foto anche a scatto continuo
+- La scheda SDXC UHS-II Lexar Professional 1800x Serie GOLD è progettata per macchine fotografiche mirrorless o DSLR
 - Permette di registrare e trasferire foto in alta qualità e video in Full-HD e 4K grazie alla classe di velocità V60 e UHS 3 (U3)
 - Velocità di lettura fino a 270 MB/s1 e di scrittura fino a 180 MB/s per accelerare il flusso di lavoro in post-produzione
-- La scheda SDXC UHS-II Lexar Professional 1800x Serie GOLD è progettata per macchine fotografiche mirrorless o DSLR
 - La scheda SDXC Lexar Professional 1800x UHS-II è impermeabile, e resistente a temperature estreme, urti, vibrazioni e raggi X3
+- Grazie alla più recente tecnologia UHS-II, e a velocità di scrittura fino a 180 MB/s permette di scattare in facilità foto anche a scatto continuo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09MMYNLWP{{</world>}}

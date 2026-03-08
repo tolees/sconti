@@ -28,9 +28,9 @@ average: '13.93'
 
 ℹ️:
 
-- Rilastil Xerolact olio protettivo per pelli secche, 1000 ml
 - Formato: 1,00 l (confezione da 1)
 - Marca: Rilastil
+- Rilastil Xerolact olio protettivo per pelli secche, 1000 ml
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CBKDC7JY{{</world>}}

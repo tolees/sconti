@@ -28,11 +28,11 @@ average: '20.9'
 
 ℹ️:
 
-- Tomaia in materiale sintetico
-- Calzata regolare
-- Fodera in tessuto
 - Chiusura a strappo
+- Calzata regolare
 - Suola in gomma non-marking
+- Fodera in tessuto
+- Tomaia in materiale sintetico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B2WYD5ZV{{</world>}}

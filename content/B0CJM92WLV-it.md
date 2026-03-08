@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Carrear GO
 - GO!!!
 - Divertimento da corsa a casa
+- Carrear GO
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CJM92WLV{{</world>}}

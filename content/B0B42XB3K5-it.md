@@ -28,10 +28,10 @@ average: '3.59'
 
 ℹ️:
 
-- AZIONE IGIENIZZANTE
+- AZIONE ANTICALCARE
 - SGRASSA A FONDO GIA A BASSE TEMPERATURE
 - FINO A 50 LAVAGGI
-- AZIONE ANTICALCARE
+- AZIONE IGIENIZZANTE
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B42XB3K5{{</world>}}

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- CARATTERISTICHE: Con zero zuccheri e calorie, Tè Zero Verde è lopzione ideale per una bevanda fresca e salutare. Il pratico "Tappo Click" richiudibile permette di conservare la freschezza della bevanda più a lungo, ideale per un consumo quotidiano.
+- SOSTENIBILITÀ: San Benedetto è impegnata nella produzione sostenibile, utilizzando confezioni riciclabili in PET e promuovendo pratiche di riduzione dellimpatto ambientale. Le sue bevande sono prodotte con acqua oligominerale pura​.
 - CONTENUTO: San Benedetto Thè Verde Matcha è un thè dal gusto unico e naturale, senza conservanti, coloranti artificiali e zuccheri. Perfetto per chi cerca una bevanda rinfrescante e salutare, ideale per ogni momento.
 - SAN BENEDETTO: qualità, sicurezza e capacità innovativa, uniti a un forte rispetto del territorio e orientati verso la sostenibilità ambientale, sono valori che San Benedetto garantisce ai suoi consumatori per offrire uno standard di qualità elevato.
-- SOSTENIBILITÀ: San Benedetto è impegnata nella produzione sostenibile, utilizzando confezioni riciclabili in PET e promuovendo pratiche di riduzione dellimpatto ambientale. Le sue bevande sono prodotte con acqua oligominerale pura​.
+- CARATTERISTICHE: Con zero zuccheri e calorie, Tè Zero Verde è lopzione ideale per una bevanda fresca e salutare. Il pratico "Tappo Click" richiudibile permette di conservare la freschezza della bevanda più a lungo, ideale per un consumo quotidiano.
 - LA NOSTRA ACQUA: Il nostro tè è una bevanda a base di Acqua San Benedetto, ricco di minerali e oligoelementi che la rendono equilibrata e adatta al consumo quotidiano, mentre la nostra frutta è coltivata in Italia in modo da offrire un sapore autentico.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

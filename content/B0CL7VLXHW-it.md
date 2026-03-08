@@ -28,10 +28,10 @@ average: '16.9866666666667'
 
 ℹ️:
 
+- Maglione basic lavorato a maglia con collo alto
+- Facile da indossare
 - Realizzato in morbida fibra di misto cotone
 - Ottimo per luso quotidiano
-- Facile da indossare
-- Maglione basic lavorato a maglia con collo alto
 - Collo a costine
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

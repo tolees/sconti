@@ -28,10 +28,10 @@ average: '39.56'
 
 ℹ️:
 
-- Istruzioni chiare
 - Non corrosivo/non tossico
-- Contiene un compressore
 - Colma istantaneamente le perforazioni fino a 6 mm
+- Istruzioni chiare
+- Contiene un compressore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0085LOMSM{{</world>}}

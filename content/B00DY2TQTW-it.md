@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Tipo di tacco: Senza tacco
+- Chiusura: Senza chiusura
 - Materiale suola: Gomma
 - Fodera: Sintetico
 - Materiale esterno: Pelle scamosciata
-- Chiusura: Senza chiusura
-- Tipo di tacco: Senza tacco
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00DY2TQTW{{</world>}}

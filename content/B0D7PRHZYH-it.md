@@ -29,10 +29,10 @@ average: '9.99000000000003'
 ℹ️:
 
 - FUNZIONE: Grazie alla sua formulazione può essere di aiuto nei casi di digestione lenta e faticosa, anche associata ad acidità di stomaco
-- FORMATO: La confezione contiene 2x18 compresse masticabili; la dose raccomandata è di 2-4 compresse al bisogno
-- BIOCHETASI POCKET DIGESTIVO: Integratore alimentare per trovare sollievo allo stomaco in caso di difficoltà digestive, è pratico da portare con sé e comodo da usare in ogni occasione
 - POSOLOGIA: E adatto ad adulti e bambini sopra i 12 anni; il dosaggio consigliato è di 2/4 compresse al bisogno
+- FORMATO: La confezione contiene 2x18 compresse masticabili; la dose raccomandata è di 2-4 compresse al bisogno
 - PLUS: Biochetasi Pocket Digestivo è un integratore alimentare in comode compresse masticabili, da tenere sempre con sé e adatto a tutta la famiglia, anche per bambini e donne in gravidanza
+- BIOCHETASI POCKET DIGESTIVO: Integratore alimentare per trovare sollievo allo stomaco in caso di difficoltà digestive, è pratico da portare con sé e comodo da usare in ogni occasione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D7PRHZYH{{</world>}}

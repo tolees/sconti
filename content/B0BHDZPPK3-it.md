@@ -28,11 +28,11 @@ average: '23.17'
 
 ℹ️:
 
-- MELATONINA E VITAMINA B6: la melatonina contribuisce alla riduzione del tempo necessario per addormentarsi, mentre la vitamina B6 alla riduzione della stanchezza e dellaffaticamento
-- INGREDIENTI NATURALI: caramelle gommose gusto fragola formulate esclusivamente con gelatina di origine vegetale senza coloranti e aromi artificiali
-- MODALITÀ DUSO: assumere 1 pastiglia gommosa mezzora prima di andare a dormire; una volta aperto consumare entro 3 mesi
-- AVVERTENZE: gli integratori alimentari non vanno intesi quali sostituti di una dieta varia, equilibrata e di un sano stile di vita
 - SENZA GLUTINE E LATTOSIO: integratore privo di glutine e lattosio, indicato per chi segue diete particolari o ha intolleranze alimentari, prodotto analcolico e Vegano
+- AVVERTENZE: gli integratori alimentari non vanno intesi quali sostituti di una dieta varia, equilibrata e di un sano stile di vita
+- MODALITÀ DUSO: assumere 1 pastiglia gommosa mezzora prima di andare a dormire; una volta aperto consumare entro 3 mesi
+- INGREDIENTI NATURALI: caramelle gommose gusto fragola formulate esclusivamente con gelatina di origine vegetale senza coloranti e aromi artificiali
+- MELATONINA E VITAMINA B6: la melatonina contribuisce alla riduzione del tempo necessario per addormentarsi, mentre la vitamina B6 alla riduzione della stanchezza e dellaffaticamento
 - VALDISPERT GOMMOSE SONNO RAPIDO: integratore in pastiglie gommose formulato per addormentarsi più rapidamente grazie al rilascio della melatonina nei primi 5 minuti dopo lassunzione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

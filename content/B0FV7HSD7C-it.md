@@ -28,10 +28,10 @@ average: '5.41'
 
 ℹ️:
 
+- 【Allarme Dimenticanza】Notifica immediata sullo smartphone quando oggetti (portafoglio, chiavi) escono dal raggio Bluetooth - il tuo Localizzatore intelligente.
 - 【Protezione Privacy】Crittografia end-to-end: dati anonimi e nessuna memorizzazione della cronologia posizioni. Conforme agli standard Apple - né terze parti né produttori accedono ai tuoi dati.
 - 【Rete di Tracciamento Globale e Localizzazione Precisa】 Nel network « Find My » di Apple (miliardi di dispositivi). Entro 60 m (196 ft), attiva un allarme sonoro. Fuori portata, navigazione sulla mappa.
 - 【Protezione Intelligente】Monitora in tempo reale: portafogli, chiavi, valigie, bici/moto (Tracker integrato), zaini bambini e collari per animali. Condividi con familiari usando il Smart Tag per dispositivi comuni.
-- 【Allarme Dimenticanza】Notifica immediata sullo smartphone quando oggetti (portafoglio, chiavi) escono dal raggio Bluetooth - il tuo Localizzatore intelligente.
 - 【Modalità Perso】Attivala per inviare la posizione crittografata ai dispositivi Apple vicini e mostrare anonimamente i tuoi contatti.
 - 【Design Affidabile】Autonomia 1 anno: batteria CR2032 sostituibile + avviso batteria scarica. Reset immediato: un tasto scollega lApple ID precedente per un nuovo Localizzatore.
 

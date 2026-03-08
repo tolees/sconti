@@ -28,9 +28,9 @@ average: '20.131935483871'
 
 ℹ️:
 
-- Tessuto leggero e resistente.
 - Dimensione: 51 x 35,5 x 5 cm Capacità 18 Litri
 - Tasca anteriore con zip per avere gli oggetti indispensabili a portata di mano.
+- Tessuto leggero e resistente.
 - Scomparto principale con chiusura a laccetto per accedere facilmente ai tuoi oggetti.
 - Mesh sulla parte inferiore per una migliore traspirabilità.
 

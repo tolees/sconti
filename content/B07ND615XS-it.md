@@ -28,12 +28,12 @@ average: '19.15'
 
 ℹ️:
 
-- Mix di cibo per gatti accuratamente cotto con pollo, manzo, trota e merluzzo marino.
-- Somministrazione consigliata: cibo per gatti adulti (4 kg) 3-4 bustine al giorno, suddivise in almeno 2 pasti.
-- Cibo per gatti di alta qualità: senza aggiunta di coloranti artificiali, conservanti e aromi.
 - Contenuto della confezione: confezione multipla con 60 bustine singole in confezione da 60 (60 x 85 g).
-- Completo ed equilibrato: ideale come alimento completo.
 - Cibo umido per gatti adulti – creazioni uniche da chef
+- Cibo per gatti di alta qualità: senza aggiunta di coloranti artificiali, conservanti e aromi.
+- Somministrazione consigliata: cibo per gatti adulti (4 kg) 3-4 bustine al giorno, suddivise in almeno 2 pasti.
+- Mix di cibo per gatti accuratamente cotto con pollo, manzo, trota e merluzzo marino.
+- Completo ed equilibrato: ideale come alimento completo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07ND615XS{{</world>}}

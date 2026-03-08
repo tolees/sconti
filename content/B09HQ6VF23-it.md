@@ -28,11 +28,11 @@ average: '9.26333333333333'
 
 ℹ️:
 
-- Casa SantOrsola è un mondo di stile, tradizione e gioia di vivere: ciascuna bottiglia di vino Casa SantOrsola esprime litalianità a tavola in ogni occasione speciale
-- Colore: Blanc de Blancs dal tono giallo con riflessi verdognoli, perlage fine e persistente; cuvèe rosè dai toni rosa brillanti
 - Gusto: Blanc de Blancs dal palato extra secco, fresco, di carattere, con note fruttate; Cuvèe rosè dal sapore avvolgente e morbido con note delicatamente aromatiche
-- Vitigno: proveniente da una pregiata selezione di uve di origine italiana
+- Colore: Blanc de Blancs dal tono giallo con riflessi verdognoli, perlage fine e persistente; cuvèe rosè dai toni rosa brillanti
+- Casa SantOrsola è un mondo di stile, tradizione e gioia di vivere: ciascuna bottiglia di vino Casa SantOrsola esprime litalianità a tavola in ogni occasione speciale
 - Caratteristiche: set di vino cuvèe Blanc de Blancs, ottenuto da prestigiosa uva italiana, ottimo accompagnato da primi e frittate, e cuvèe rosato, gustoso con primi e crostacei
+- Vitigno: proveniente da una pregiata selezione di uve di origine italiana
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09HQ6VF23{{</world>}}

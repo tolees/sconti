@@ -29,10 +29,10 @@ average: '11.59'
 ℹ️:
 
 - 📜Numero di giocatori: 2-8, Età consigliata: 6, Durata media: 15 min, Edizione in lingua italiana
-- ✈️La scatola di latta di dimensioni contenute permette di portare il gioco ovunque
-- 👀Dobble è un gioco di colpo docchio e velocità: per vincere dovrete essere i più rapidi a trovare lunico simbolo in comune tra le carte svelate (ce n’è sempre uno)
 - 👨‍👩‍👧‍👦Dobble è semplice, veloce e immediato: farà divertire giocatori piccoli e grandi con delle colorate carte da gioco
 - 🎲5 mini giochi per partite sempre diverse ed entusiasmanti
+- 👀Dobble è un gioco di colpo docchio e velocità: per vincere dovrete essere i più rapidi a trovare lunico simbolo in comune tra le carte svelate (ce n’è sempre uno)
+- ✈️La scatola di latta di dimensioni contenute permette di portare il gioco ovunque
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CL4PR63X{{</world>}}

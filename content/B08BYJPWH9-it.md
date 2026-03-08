@@ -29,10 +29,10 @@ average: '17.8'
 ℹ️:
 
 - FRAGRANZA SPEZIATA E FRESCA: Questo Eau de Toilette presenta una combinazione maschile di note fresche e agrumate, completata da raffinati accenti orientali di pepe nero, legno di cashmere e corteccia di limone nella base legnosa e terrosa.
-- COMPOSIZIONE RAFFINATA E MASCHILE: Con il suo carattere speziato, terroso e legnoso, questo profumo incarna una composizione maschile che lascia unimpressione raffinata e potente grazie alle note agrumate e speziate.
-- CARATTERISTICHE DEL PROFUMO: Una miscela legnosa e agrumata con note di testa di limone, mandarino e lime, note di cuore di lavanda, pepe nero e fresche note marine, e note di base di legno di cedro, legno di cashmere, ambra, muschio e corteccia di limone.
-- PRIVO DI SOSTANZE NOCIVE: Questo EDT è privo di muschi policiclici (PCM), ftalati, propilene glicole e etanolamine. È vegano e dermatologicamente testato.
 - USO QUOTIDIANO: Questo Eau de Toilette di KORRES offre unesperienza sensoriale ideale per luso quotidiano, grazie alla sua miscela legnosa e agrumata e agli accenti maschili di pepe nero e legno di cashmere.
+- PRIVO DI SOSTANZE NOCIVE: Questo EDT è privo di muschi policiclici (PCM), ftalati, propilene glicole e etanolamine. È vegano e dermatologicamente testato.
+- CARATTERISTICHE DEL PROFUMO: Una miscela legnosa e agrumata con note di testa di limone, mandarino e lime, note di cuore di lavanda, pepe nero e fresche note marine, e note di base di legno di cedro, legno di cashmere, ambra, muschio e corteccia di limone.
+- COMPOSIZIONE RAFFINATA E MASCHILE: Con il suo carattere speziato, terroso e legnoso, questo profumo incarna una composizione maschile che lascia unimpressione raffinata e potente grazie alle note agrumate e speziate.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08BYJPWH9{{</world>}}

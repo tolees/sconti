@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Questo e-scooter è dotato di freni su entrambe le ruote, di un cicalino, di indicatori di direzione e di luci anteriori bianche o gialle e di luci posteriori rosse
-- Pneumatici da 8,5
-- SICURO: Doppia leva freno anteriore e posteriore
 - EASY FOLDABLE SYSTEM: Facile da chiudere
+- SICURO: Doppia leva freno anteriore e posteriore
+- Pneumatici da 8,5
 - LEGGERO: Pesa solo 12 Kg
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ average: '138.32'
 
 ℹ️:
 
-- ANIMALE LEGO E 3 PERSONAGGI HARRY POTTER: costruisci Edvige, la civetta delle nevi, al centro del modellino fai da te, e aggiungi le minifigure LEGO di Harry Potter, Hermione Granger e Ron Weasley
-- ISTRUZIONI 3D: costruisci come mai prima dora con lapp LEGO Builder, uno strumento per salvare i set, tenere traccia dei progressi fatti, ingrandire e ruotare il modellino durante il montaggio
-- SCENE ICONICHE E MOLTO ALTRO: ricrea scene in microscala da Harry Potter e la Pietra Filosofale, una figurina della Cioccorana con Albus Silente, la Pietra Filosofale, 2 Galeoni e altro ancora
-- KIT DI MODELLISMO CON FUNZIONI: usa le 3 manopole per girare la testa di Edvige, spostare la Regina sulla scacchiera e aprire il baule di Harry, dove cè la scena in microscala dell’attacco al bagno del troll di montagna
 - LEGO HARRY POTTER DA COLLEZIONE: festeggia il 25° anniversario del primo film di Harry Potter con il set di costruzione LEGO per adulti Pietra Filosofale – Edizione del Collezionista
+- ANIMALE LEGO E 3 PERSONAGGI HARRY POTTER: costruisci Edvige, la civetta delle nevi, al centro del modellino fai da te, e aggiungi le minifigure LEGO di Harry Potter, Hermione Granger e Ron Weasley
+- KIT DI MODELLISMO CON FUNZIONI: usa le 3 manopole per girare la testa di Edvige, spostare la Regina sulla scacchiera e aprire il baule di Harry, dove cè la scena in microscala dell’attacco al bagno del troll di montagna
+- ISTRUZIONI 3D: costruisci come mai prima dora con lapp LEGO Builder, uno strumento per salvare i set, tenere traccia dei progressi fatti, ingrandire e ruotare il modellino durante il montaggio
 - REGALO FESTA DEL PAPA: un ottimo pensiero per una donna o un uomo amanti degli elementi da arredo e delle magiche decorazioni per la casa o lufficio, e appassionati di gadget LEGO Harry Potter da collezione
+- SCENE ICONICHE E MOLTO ALTRO: ricrea scene in microscala da Harry Potter e la Pietra Filosofale, una figurina della Cioccorana con Albus Silente, la Pietra Filosofale, 2 Galeoni e altro ancora
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FPXHC19W{{</world>}}

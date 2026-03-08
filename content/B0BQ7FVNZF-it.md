@@ -28,9 +28,9 @@ average: '31.1'
 
 ℹ️:
 
+- Adatti per climi caldi
 - Pantaloni leggeri e traspiranti
 - Progettati per escursioni e attività outdoor
-- Adatti per climi caldi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BQ7FVNZF{{</world>}}

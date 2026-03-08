@@ -28,11 +28,11 @@ average: '17.99'
 
 ℹ️:
 
-- ECOLOGICHE E SICURE: proteggi lambiente e i tuoi cari: le nostre lampadine LED ad alta efficienza sono prive di mercurio e altre sostanze nocive, garantendo un futuro più sicuro e più verde
-- ELEVATA EFFICIENZA ENERGETICA E RISPARMIO SUI COSTI: Risparmia fino all85% dei costi energetici con le nostre lampadine LED ad alta efficienza. Con una potenza di soli 4 W, le nostre lampade sostituiscono le tradizionali lampadine da 60 W senza perdere luminosità
-- LUNGA DURATA: goditi una durata eccezionale fino a 50.000 ore con le nostre lampade a LED particolarmente efficienti grazie alla tecnologia più recente. Una sostituzione meno frequente significa meno sprechi e più risparmi per te e per il pianeta
-- FACILE INSTALLAZIONE E ADATTAMENTO IDEALE: Le nostre lampadine LED si adattano a tutte le prese E27 standard, rendendole il sostituto perfetto per le lampadine tradizionali: installazione semplice per un risparmio energetico immediato
 - LA LUCE È OSRAM: Con oltre 100 anni di esperienza nel settore dellilluminazione, offriamo la migliore e più moderna qualità per un futuro sostenibile e pulito
+- LUNGA DURATA: goditi una durata eccezionale fino a 50.000 ore con le nostre lampade a LED particolarmente efficienti grazie alla tecnologia più recente. Una sostituzione meno frequente significa meno sprechi e più risparmi per te e per il pianeta
+- ECOLOGICHE E SICURE: proteggi lambiente e i tuoi cari: le nostre lampadine LED ad alta efficienza sono prive di mercurio e altre sostanze nocive, garantendo un futuro più sicuro e più verde
+- FACILE INSTALLAZIONE E ADATTAMENTO IDEALE: Le nostre lampadine LED si adattano a tutte le prese E27 standard, rendendole il sostituto perfetto per le lampadine tradizionali: installazione semplice per un risparmio energetico immediato
+- ELEVATA EFFICIENZA ENERGETICA E RISPARMIO SUI COSTI: Risparmia fino all85% dei costi energetici con le nostre lampadine LED ad alta efficienza. Con una potenza di soli 4 W, le nostre lampade sostituiscono le tradizionali lampadine da 60 W senza perdere luminosità
 - ALTA QUALITÀ DELLA LUCE: sperimenta subito la massima luminosità senza tempi di riscaldamento: le nostre lampadine a LED forniscono una piacevole luce bianca calda/bianca fredda, ideale per qualsiasi ambiente, sia a casa che in ufficio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
-- Le miscele in grani sono pensate per le famiglie che vivono il piacere del caffè preparato sul momento
-- Un caffè rotondo, con note di cacao, crosta di pane, caramello, frutta a guscio, tabacco, biscotti, combinate in armonia
-- Una miscela corposa e profumata, ottenuta dal giusto equilibrio tra caffè Arabica e Robusta, che donano a questo caffè rotondità e pienezza
-- Conservabilità: 24 mesi dalla data di produzione. Modalità di conservazione: conservare in un luogo fresco e asciutto, lontano da fonti di calore e umidità
 - La ricchezza dei caffè Arabica e Robusta rende la miscela corposa e profumata
+- Le miscele in grani sono pensate per le famiglie che vivono il piacere del caffè preparato sul momento
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
+- Un caffè rotondo, con note di cacao, crosta di pane, caramello, frutta a guscio, tabacco, biscotti, combinate in armonia
+- Conservabilità: 24 mesi dalla data di produzione. Modalità di conservazione: conservare in un luogo fresco e asciutto, lontano da fonti di calore e umidità
+- Una miscela corposa e profumata, ottenuta dal giusto equilibrio tra caffè Arabica e Robusta, che donano a questo caffè rotondità e pienezza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DJNR96TZ{{</world>}}

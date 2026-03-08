@@ -28,9 +28,9 @@ average: '34.47'
 
 ℹ️:
 
+- Dimensioni compatte, portatili e versatili: Disponibile nei formati Letter (21 cm x 29,7 cm) ed Executive (15 cm x 22,4 cm), Rocketbook Fusion entra facilmente in valigette o zaini, diventando il compagno ottimale per la pianificazione personale e aziendale.
 - Abilitato all’app per l’organizzazione digitale: Usa l’app Rocketbook per scansionare piani e liste e caricarli direttamente su piattaforme cloud come Google Drive, Dropbox e OneNote. La connessione con l’app rende i tuoi appunti accessibili ovunque.
 - Pianifica, digitalizza, cancella, ripianifica: Scrivi liste di cose da fare, appunti e obiettivi su pagine riutilizzabili con la penna gel cancellabile. Digitalizza i tuoi piani con l’app Rocketbook e organizzali nel cloud. Quando hai finito, pulisci le pagine con un panno umido e riutilizzale.
-- Dimensioni compatte, portatili e versatili: Disponibile nei formati Letter (21 cm x 29,7 cm) ed Executive (15 cm x 22,4 cm), Rocketbook Fusion entra facilmente in valigette o zaini, diventando il compagno ottimale per la pianificazione personale e aziendale.
 - Materiali resistenti di alta qualità: Pagine premium riutilizzabili, rilegatura a spirale resistente e copertina impermeabile. Il design flessibile resta piatto per sessioni di scrittura e pianificazione confortevoli, a casa, a scuola o in ufficio.
 - 7 modelli di pagina versatili: Pianifica la tua vita e il tuo lavoro con il calendario mensile e settimanale, la to-do list giornaliera, il tracciatore di obiettivi, le liste di idee e le pagine a righe e puntinate. Uso versatile: dalla gestione dei progetti al monitoraggio del fitness, fino alla pianificazione delle attività domestiche.
 

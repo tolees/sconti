@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Per pelli grasse o con imperfezioni
+- Formula con carbone vegetale purificante
+- Dì addio ai punti neri
 - Purifica, esfolia, opacizza
 - Può essere utilizzato in 3 modi diversi
-- Per pelli grasse o con imperfezioni
-- Dì addio ai punti neri
-- Formula con carbone vegetale purificante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01K6UVGIS{{</world>}}
