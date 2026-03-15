@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Funko Bitty Pop! The Nightmare Before Christmas - Santa Jack 4PK - Santa Jack Sandy Claws Vampire Teddy With Duck E una Mini Figura Misteriosa a Sorpresa - 0.9 Inch 2.2 Cm da Collezione'
+date: 2026-03-10 09:44:55
+image: 'https://m.media-amazon.com/images/I/51xYELY8XZL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0BS27RGPX-it Funko Bitty Pop! The Nightmare Before Christmas - Santa...'
+sku: 'B0BS27RGPX-it'
+tags: [ '🇮🇹', ]
+actualPrice: 10.57 EUR
+currency: EUR
+price: 10.57
+comparePrice: 16.0 EUR
+prodname: 'Funko Bitty Pop! The Nightmare Before Christmas - Santa Jack 4PK - Santa Jack Sandy Claws Vampire Teddy With Duck E una Mini Figura Misteriosa a Sorpresa - 0.9 Inch 2.2 Cm da Collezione'
+country: 'it'
+flag: '🇮🇹'
+brand: ''
+buyurl: 'https://www.amazon.it/dp/B0BS27RGPX/?tag=tolees00-21'
+descuento: '33.94'
+average: '14.1675'
+---
+
+[{{< param title >}}]({{< param buyurl >}}) qui:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- REGALO PERFETTO PER GLI APPASSIONATI - Ideali per gli appassionati di fumetti, film e serie, questi Bitty Pops! da collezione regalano emozioni e gioia in ogni occasione, affascinando sia i bambini che gli adulti.
+- MINI FIGURA MISTERIOSA - Possibilità di scartare un Hyper Rare (1/6) Mayor (smiling), Hyper Rare (1/6) Snowman Jack, Rare (1/3) Oogie Boogie (with bugs), and Rare (1/3) Harlequin Demon; abbraccia lemozione di collezionare minifigure uniche.
+- ESSENZIALI VERSATILI PER LE FESTE - Utilizzabili come riempitivi di sacchetti per le feste dei bambini, sorprese per le calze di Natale e accattivanti cake topper, aggiungono un tocco speciale a compleanni ed eventi.
+- PICCOLI MA DETTAGLIATI - Godetevi 0,9 pollici (2,3 cm) Merchandise con licenza ufficiale; Attenzione: non per i bambini sotto i 3 anni, pericolo di soffocamento.
+- CAKE TOPPERS ACCATTIVANTI - trasformano i vostri momenti speciali utilizzandoli come accattivanti cake toppers, sono perfetti per compleanni ed eventi speciali, rendendo ogni occasione magica e memorabile per grandi e piccini.
+
+[🛒 Acquista qui!!]({{< param buyurl >}})
+{{<world>}}B0BS27RGPX{{</world>}}

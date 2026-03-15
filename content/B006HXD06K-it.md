@@ -1,0 +1,40 @@
+---
+layout: post
+title: 'LAICA Stream Line Caraffa Filtrante - 2 3L - Blu - Timer Digitale - 1 Filtro bi-flux Incluso Preserva i Sali Minerali Utili all Organismo e Riduce Cloro e Metalli Pesanti - Made in Italy'
+date: 2026-02-18 10:42:24
+image: 'https://m.media-amazon.com/images/I/31Hx925YFYL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B006HXD06K-it LAICA Stream Line Caraffa Filtrante - 2 3L - Blu - Timer...'
+sku: 'B006HXD06K-it'
+tags: [ '🇮🇹', ]
+actualPrice: 17.89 EUR
+currency: EUR
+price: 17.89
+comparePrice: 22.9 EUR
+prodname: 'LAICA Stream Line Caraffa Filtrante - 2 3L - Blu - Timer Digitale - 1 Filtro bi-flux Incluso Preserva i Sali Minerali Utili all Organismo e Riduce Cloro e Metalli Pesanti - Made in Italy'
+country: 'it'
+flag: '🇮🇹'
+brand: ''
+buyurl: 'https://www.amazon.it/dp/B006HXD06K/?tag=tolees00-21'
+descuento: '21.88'
+average: '17.89'
+---
+
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Contenuto confezione: 1 Caraffa + 1 cartuccia filtrante Bi-flux
+- Capacità totale: 2.3 L - Acqua filtrata: 1.2 L
+- Colore: Azzurro
+- Coperchio e hopper caraffa colorati
+- Made in Italy
+- Indicatore elettronico rimovibile
+- Sportello per il riempimento rapido "QuickFill"
+
+[🛒 Acquista qui!!]({{< param buyurl >}})
+{{<world>}}B006HXD06K{{</world>}}
