@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Mandragora: Whispers of the Witch Tree - PS5'
+date: 2026-05-01 23:25:30
+image: 'https://m.media-amazon.com/images/I/51KVyzfX8uL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0F8VYSTVM-it Mandragora: Whispers of the Witch Tree - PS5'
+sku: 'B0F8VYSTVM-it'
+tags: [ '🇮🇹', ]
+actualPrice: 25.99 EUR
+currency: EUR
+price: 25.99
+comparePrice: 39.99 EUR
+prodname: 'Mandragora: Whispers of the Witch Tree - PS5'
+country: 'it'
+flag: '🇮🇹'
+brand: ''
+buyurl: 'https://www.amazon.it/dp/B0F8VYSTVM/?tag=tolees00-21'
+descuento: '35.01'
+average: '25.99'
+---
+
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Esplora un mondo dark fantasy: Lasciati trasportare in un intenso mondo suggestivo portato in vita da una direzione artistica pittorica e dalla musica epica e distorta di Christos Antoniou
+- Un arduo soulslike a scorrimento laterale: Gioca una combinazione di livelli a scorrimento laterale in 2.5D e sfrutta le tue abilità in scontri che garantiscono punizioni e ricompense in egual misura
+- Fatti strada a suon di colpi: DallAvanguardia allEretico, padroneggia una delle tante classi uniche e personalizza abilità e poteri
+- Un’avvincente storia di umanità perduta: Ottieni la leggendaria Lanterna delle streghe ed entra nel piano ultraterreno dellEntropia attraverso gli squarci nel tessuto della realtà
+- Trova degli Artigiani da aggiungere alla tua carovana, sblocca nuovi potenziamenti e crea potenti armi, armature e accessori
+
+[🛒 Acquista qui!!]({{< param buyurl >}})
+{{<world>}}B0F8VYSTVM{{</world>}}

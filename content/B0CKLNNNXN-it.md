@@ -1,0 +1,39 @@
+---
+layout: post
+title: 'Airwick Active Fresh Deodorante per Ambienti Confezione con 1 Diffusore Automatico senza gas 1 Ricarica alla Fragranza Brezza Marina e Magnolia 228ml 2 Pile AA Neutralizza Odori 24/7'
+date: 2026-05-05 16:49:19
+image: 'https://m.media-amazon.com/images/I/41vZoSj0ucL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0CKLNNNXN-it Airwick Active Fresh Deodorante per Ambienti Confezione...'
+sku: 'B0CKLNNNXN-it'
+tags: [ '🇮🇹', ]
+actualPrice: 5.34 EUR
+currency: EUR
+price: 5.34
+comparePrice: 9.99 EUR
+prodname: 'Airwick Active Fresh Deodorante per Ambienti Confezione con 1 Diffusore Automatico senza gas 1 Ricarica alla Fragranza Brezza Marina e Magnolia 228ml 2 Pile AA Neutralizza Odori 24/7'
+country: 'it'
+flag: '🇮🇹'
+brand: ''
+buyurl: 'https://www.amazon.it/dp/B0CKLNNNXN/?tag=tolees00-21'
+descuento: '46.55'
+average: '5.43'
+---
+
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- CONTROLLO DELL’INTENSITA’: scegli e controlla lintensità della fragranza come preferisci.
+- CONFEZIONE: Contiene 1 diffusore automatico, 1 ricarica alla fragranza Brezza Marina e Magnolia e 2 pile AA.
+- NEUTRALIZZA GLI ODORI 24/7: Realizzato con potenti molecole che neutralizzano gli odori per combattere i cattivi odori.
+- 95% FORMULA DI ORIGINALE NATURALE: senza ftalati, propellenti e coloranti.
+- FRAGRANZA: Infusa con oli essenziali naturali. La tua casa avrà un profumo incredibilmente fresco e accogliente.
+- IL NOSTRO PRIMO SPRAY AUTOMATICO SENZA GAS: la sua formula a base dacqua è il risultato di unaccurata selezione di ingredienti.
+
+[🛒 Acquista qui!!]({{< param buyurl >}})
+{{<world>}}B0CKLNNNXN{{</world>}}

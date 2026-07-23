@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'XIAOMI 15T Pro Smartphone 12+512GB Display Eye-care da 6 83" 144Hz MediaTek Dimensity 9400+ Teleobiettivo Leica 5x Pro da 50MP 5500mAh Garanzia 2 Anni Nero Caricabatterie non incluso'
+date: 2026-03-17 23:24:33
+image: 'https://m.media-amazon.com/images/I/41iaaUy-i0L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B08NB7FCTC-it XIAOMI 15T Pro Smartphone 12+512GB Display Eye-care da 6...'
+sku: 'B08NB7FCTC-it'
+tags: [ '🇮🇹', ]
+actualPrice: 727.0 EUR
+currency: EUR
+price: 727.0
+comparePrice: 899.9 EUR
+prodname: 'XIAOMI 15T Pro Smartphone 12+512GB Display Eye-care da 6 83" 144Hz MediaTek Dimensity 9400+ Teleobiettivo Leica 5x Pro da 50MP 5500mAh Garanzia 2 Anni Nero Caricabatterie non incluso'
+country: 'it'
+flag: '🇮🇹'
+brand: ''
+buyurl: 'https://www.amazon.it/dp/B08NB7FCTC/?tag=tolees00-21'
+descuento: '19.21'
+average: '727.0'
+---
+
+[{{< param title >}}]({{< param buyurl >}}) qui:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- 【Cornici ultrasottili su tutti i lati, immagini più coinvolgenti】Con la tecnologia LIPO, cornice da 1,5 mm e rapporto schermo-corpo del 94,5% per un’esperienza visiva e tattile superiore.
+- 【Dimensity 9400+, processo produttivo a 3nm di punta】MediaTek Dimensity 9400+, garantisce reattività fluida in app e giochi intensi. Con efficienza termica e stabilità costante, offre prestazioni di punta senza compromessi.
+- 【Ottica Leica professionale, avvicina i capolavori】Il primo teleobiettivo 5x della serie Xiaomi T con zoom ottico 5x, zoom ottico 10x, Ultra Zoom 20x e oltre, combinato con lottica Leica, avvicina le storie umane lontane.
+- 【Display immersivo da 6,83", Visione ridefinita】Nuovo display ultra-large da 6,83" con design piatto a cornice ultra-sottile e risoluzione 1,5K: campo visivo più ampio e dettagli straordinari.
+- 【5500 mAh (tipico) Autonomia leader】La più grande batteria della serie Xiaomi T assicura lunga autonomia in un design sottile, con Xiaomi Surge Battery Management System e 64 strati di protezione per sicurezza e affidabilità.
+
+[🛒 Acquista qui!!]({{< param buyurl >}})
+{{<world>}}B08NB7FCTC{{</world>}}

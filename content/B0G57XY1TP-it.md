@@ -1,0 +1,41 @@
+---
+layout: post
+title: 'ECOVACS GOAT O800 RTK Care Kit Robot Tagliaerba Senza Filo Perimetrale 800m² RTK+Vision Potenziata da LiDAR Rasaerba Robot Mappatura Automatica Passa percorso di 0 7 m Taglio dei bordi'
+date: 2026-06-24 14:46:36
+image: 'https://m.media-amazon.com/images/I/41xJswIvf+L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0G57XY1TP-it ECOVACS GOAT O800 RTK Care Kit Robot Tagliaerba Senza Filo...'
+sku: 'B0G57XY1TP-it'
+tags: [ '🇮🇹', ]
+actualPrice: 549.0 EUR
+currency: EUR
+price: 549.0
+comparePrice: 799.0 EUR
+prodname: 'ECOVACS GOAT O800 RTK Care Kit Robot Tagliaerba Senza Filo Perimetrale 800m² RTK+Vision Potenziata da LiDAR Rasaerba Robot Mappatura Automatica Passa percorso di 0 7 m Taglio dei bordi'
+country: 'it'
+flag: '🇮🇹'
+brand: ''
+buyurl: 'https://www.amazon.it/dp/B0G57XY1TP/?tag=tolees00-21'
+descuento: '31.29'
+average: '549.0'
+---
+
+[{{< param title >}}]({{< param buyurl >}}) qui:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Più parti di ricambio per una durata prolungata: La versione GOAT O800 del kit di manutenzione include 72 lame extra e un adattatore RTK CA ad alta precisione per prestazioni superiori. Per ottenere una falciatura stabile e di lunga durata con il minimo sforzo.
+- Navigazione Precisa RTK + Vision Potenziata da Lidar: Il robot raggiunge un posizionamento ad altissima precisione entro soli 2 cm. Rispetto ad altre tecnologie RTK, può ricevere fino a 40 satelliti in un 80% di bande di segnale aggiuntive, offrendo una velocità di connessione 4 volte maggiore e una stabilità incrementata del 30% in ombra. Nelle aree con interferenze di ombra (alberi o tetti), il sistema di posizionamento visivo garantisce percorsi di taglio continui e precisi per un’esperienza di cura del prato senza interruzioni.
+- Rileva più di 200 Tipi di Ostacoli: Rispetto ai tradizionali sensori a ultrasuoni o paraurti, lAIVI 3D di ECOVACS, combinando una fotocamera fisheye a 150° alimentata da algoritmi avanzati di IA e un Lidar 3D-ToF, può rilevare oltre 200 oggetti comuni nei giardini ed evitare tutto ciò che supera il limite di altezza preimpostato. Inoltre, il Lidar 3D-ToF misura accuratamente la distanza dagli ostacoli per fermarsi estremamente vicino. Questa tecnologia migliora evitamento degli ostacoli e sicurezza minimizzando le aree di taglio mancanti.
+- Naviga senza problemi su percorsi larghi 0,7 metri. Supera pendenze fino al 45 %: Il GOAT presenta un corpo ultra-stretto di 40cm, che gli consente di passare senza sforzo attraverso percorsi larghi solo 70cm senza bloccarsi. Può affrontare pendenze con inclinazioni fino al 45% e superare ostacoli alti fino a 3cm. Inoltre, laltezza di taglio è regolabile, variando da 3cm a 8cm, per adattarsi a diversi tipi di erba, dimostrando la sua eccezionale adattabilità a diversi ambienti esterni.
+- Efficienza di taglio: 180 m²/h.Dotato di una batteria da 4000 mAh, questo robot può coprire fino a 180 m² allora, raggiungendo una velocità di 0,5 m/s, mantenendo una larghezza di taglio di 220 mm.
+- Mappe Modificabili, Taglio Personalizzabile: Collegandosi allapp ECOVACS HOME, il GOAT offre modalità di taglio personalizzabili e mappe modificabili. Gli utenti possono regolare la velocità, laltezza di taglio e laltezza di evitamento degli ostacoli. La direzione di taglio può essere modificata per adattarsi a diversi paesaggi, garantendo una copertura uniforme e riducendo lusura del prato.
+- Mappatura Completamente Automatica: Linnovativo tosaerba GOAT rileva e definisce automaticamente tutti i tipi di confini, mappando il tuo giardino senza la necessità di marcatori fisici. Gli utenti possono personalizzare facilmente larea mappata tramite il controllo remoto dellapp, ottenendo un controllo completo sullarea di taglio. Questa integrazione fluida consente una configurazione rapida e facile, garantendo una mappa del giardino precisa e personalizzata per risultati di taglio ottimali.
+- Taglio con trattorino tosaerba: Grazie al LiDAR 3D-ToF e a una telecamera AI, distingue facilmente tra aree erbose e non erbose, anche in presenza di differenze di altezza, garantendo un taglio continuo. Questa tecnologia avanzata, alimentata dallapprendimento profondo AI, consente al GOAT di identificare con precisione i confini da tagliare.
+
+[🛒 Acquista qui!!]({{< param buyurl >}})
+{{<world>}}B0G57XY1TP{{</world>}}

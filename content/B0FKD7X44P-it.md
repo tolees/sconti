@@ -1,0 +1,39 @@
+---
+layout: post
+title: 'Funko POP! Disney: Supreme Edizione Limitata - Toy Story 5 - Snappy - Statuina da collezione in vinile - Merchandising ufficiale - Giocattoli per bambini e adulti - Statuina per collezionisti'
+date: 2026-06-30 11:32:05
+image: 'https://m.media-amazon.com/images/I/41Ksib0QIAL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0FKD7X44P-it Funko POP! Disney: Supreme Edizione Limitata - Toy Story 5...'
+sku: 'B0FKD7X44P-it'
+tags: [ '🇮🇹', ]
+actualPrice: 17.57 EUR
+currency: EUR
+price: 17.57
+comparePrice: 24.99 EUR
+prodname: 'Funko POP! Disney: Supreme Edizione Limitata - Toy Story 5 - Snappy - Statuina da collezione in vinile - Merchandising ufficiale - Giocattoli per bambini e adulti - Statuina per collezionisti'
+country: 'it'
+flag: '🇮🇹'
+brand: ''
+buyurl: 'https://www.amazon.it/dp/B0FKD7X44P/?tag=tolees00-21'
+descuento: '29.69'
+average: '17.57'
+---
+
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- MATERIALE VINILICO PREMIUM - Realizzato in vinile resistente e di alta qualità, questo oggetto da collezione è costruito per durare e resistere allusura quotidiana, garantendo un divertimento duraturo per fan e collezionisti.
+- REGALO PERFETTO PER I FAN DI TOY STORY 5 - Ideale per vacanze, compleanni o occasioni speciali e come regalo questa statuetta è unaggiunta imperdibile a qualsiasi collezione di merchandising di Toy Story 5
+- EDIZIONE LIMITATA - 9500 pezzi
+- DIMENSIONE COLLEZIONABILE IDEALE - Alta circa 3,75 pollici (9,5 cm), questa mini statuetta in vinile completa altri articoli da collezione e si adatta perfettamente alla tua vetrina o alla tua scrivania.
+- MARCHIO LEADER DELLA CULTURA POP - Affidati allesperienza di Funko, il principale creatore di merchandising della cultura pop che include figure in vinile, action toys, peluche, abbigliamento, giochi da tavolo e altro ancora.
+- ESPANDI LA TUA COLLEZIONE - Aggiungi questo pezzo da esposizione in vinile unico di al tuo assortimento crescente di figure Funko Pop! e cerca altri oggetti da collezione rari ed esclusivi per un set completo
+
+[🛒 Acquista qui!!]({{< param buyurl >}})
+{{<world>}}B0FKD7X44P{{</world>}}

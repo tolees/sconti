@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'Brandit US Shirt Long Sleeve Uomo Navy 4XL'
+date: 2026-05-28 11:04:09
+image: 'https://m.media-amazon.com/images/I/31zT4As5dKL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B00EO326FQ-it Brandit US Shirt Long Sleeve Uomo Navy 4XL'
+sku: 'B00EO326FQ-it'
+tags: [ '🇮🇹', ]
+actualPrice: 17.99 EUR
+currency: EUR
+price: 17.99
+comparePrice: 34.9 EUR
+prodname: 'Brandit US Shirt Long Sleeve Uomo Navy 4XL'
+country: 'it'
+flag: '🇮🇹'
+brand: ''
+buyurl: 'https://www.amazon.it/dp/B00EO326FQ/?tag=tolees00-21'
+descuento: '48.45'
+average: '17.99'
+---
+
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Chiusura: bottoni
+- Maniche lunghe
+- Taglio dritto
+- Qualità robusta
+
+[🛒 Acquista qui!!]({{< param buyurl >}})
+{{<world>}}B00EO326FQ{{</world>}}

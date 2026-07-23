@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'SUUNTO Race Orologio Sportivo Digitale per Uomo Schermo AMOLED GPS Activity Tracker Smartwatch Impermeabile Monitoraggio Salute Cardiofrequenzimetro Contapassi Autonomia 26 Giorni'
+date: 2026-05-28 13:07:15
+image: 'https://m.media-amazon.com/images/I/41n61dAXsPL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0CC3MW7TB-it SUUNTO Race Orologio Sportivo Digitale per Uomo Schermo...'
+sku: 'B0CC3MW7TB-it'
+tags: [ '🇮🇹', ]
+actualPrice: 309.14 EUR
+currency: EUR
+price: 309.14
+comparePrice: 399.0 EUR
+prodname: 'SUUNTO Race Orologio Sportivo Digitale per Uomo Schermo AMOLED GPS Activity Tracker Smartwatch Impermeabile Monitoraggio Salute Cardiofrequenzimetro Contapassi Autonomia 26 Giorni'
+country: 'it'
+flag: '🇮🇹'
+brand: ''
+buyurl: 'https://www.amazon.it/dp/B0CC3MW7TB/?tag=tolees00-21'
+descuento: '22.52'
+average: '309.14'
+---
+
+[{{< param title >}}]({{< param buyurl >}}) qui:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- OLTRE 95 MODALITÀ SPORTIVE ABBONDANTI - Soddisfa le esigenze di registrazione della maggior parte degli appassionati di sport; Le schermate sportive personalizzabili mostrano solo le informazioni di cui hai più bisogno; Le nuove funzioni di "Profilo altitudinale", "Tempo di gara", "Promemoria nutrizionale" e "Sezioni di gara" ti tengono informato sulle tue ultime prestazioni al polso
+- SCHERMO PIÙ LUMINOSO - Dotato di display AMOLED da 1,43" (466x466) ad alta risoluzione e vetro zaffiro, offre una visione luminosa in condizioni di scarsa illuminazione fornendo allo stesso tempo una solida protezione dello schermo; La cassa dellorologio è realizzata in acciaio inossidabile, pesa 83 g, misura 13,6 mm di altezza ed ha un diametro di 49 mm
+- POSIZIONE PRECISA - Lavanzata tecnologia GPS dual-band fornisce una posizione precisa in tempo reale per le attività allaperto; Puoi vedere il percorso e i punti chiave sulla mappa; Le mappe del mondo possono essere scaricate sul tuo orologio
+- AUTONOMIA DI LUNGA DURATA - Fino a 50 ore di GPS con la massima precisione, nessuna preoccupazione durante le tue maratone e trail; In modalità giornaliera, puoi indossare lorologio per registrare la frequenza cardiaca e dormire fino a 12 giorni senza doverlo ricaricare; La ricarica rapida completa richiede solo 2 ore
+- FUNZIONAMENTO RAPIDO - Oltre al touch screen, la combinazione di corona digitale e pulsanti facilita la visualizzazione delle prestazioni e lutilizzo preciso durante le gare e gli allenamenti; Lintervallo di temperature operative da -20 a 55°C e limpermeabilità fino a 100 metri rendono lorologio la scelta ideale per le avventure
+
+[🛒 Acquista qui!!]({{< param buyurl >}})
+{{<world>}}B0CC3MW7TB{{</world>}}

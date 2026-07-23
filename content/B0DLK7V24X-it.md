@@ -1,0 +1,39 @@
+---
+layout: post
+title: 'Lefant M1 Robot Aspirapolvere Lavapavimenti con Mappatura Navigazione LDS 5500 Pa Potente Aspirazione 200 min Zona Vietata Aspirapolvere Robot Sottile da Diam 32 cm Controllo App/Alexa Nero'
+date: 2026-04-15 21:00:57
+image: 'https://m.media-amazon.com/images/I/41g5Xf4CAkL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0DLK7V24X-it Lefant M1 Robot Aspirapolvere Lavapavimenti con Mappatura...'
+sku: 'B0DLK7V24X-it'
+tags: [ '🇮🇹', ]
+actualPrice: 119.98 EUR
+currency: EUR
+price: 119.98
+comparePrice: 299.99 EUR
+prodname: 'Lefant M1 Robot Aspirapolvere Lavapavimenti con Mappatura Navigazione LDS 5500 Pa Potente Aspirazione 200 min Zona Vietata Aspirapolvere Robot Sottile da Diam 32 cm Controllo App/Alexa Nero'
+country: 'it'
+flag: '🇮🇹'
+brand: ''
+buyurl: 'https://www.amazon.it/dp/B0DLK7V24X/?tag=tolees00-21'
+descuento: '60.01'
+average: '139.985'
+---
+
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- 【5500 Pa Potenza di Aspirazione Aspira & Lava】 Laspirapolvere robot è dotato di un serbatoio dellacqua da 160 ml e di un secchio per la raccolta della polvere da 520 ml. Ha tre livelli di potenza di aspirazione per accogliere diversi tipi di detriti. Può anche regolare il flusso dacqua su tre livelli grazie alla sua pompa peristaltica, che rilascia lacqua in modo uniforme e ne impedisce laccumulo.
+- 【Corpo Compatto】 M1 misura solo 32 cm di larghezza, il che lo rende più piccolo del 20% rispetto ad altri aspirapolvere robot LDS. Le sue dimensioni ridotte facilitano la pulizia di ambienti stretti ed è ideale per piccoli spazi tra letti, divani e angoli.
+- 【Navigazione LDS & Algoritmo SLAM】 LRobot Aspirapolvere Lavapavimenti con Mappatura M1 con scopa utilizza la tecnologia di navigazione LIDAR e può scansionare e salvare una mappa della stanza. Dotato di un accurato algoritmo AI per pianificare la pulizia di tutta la casa e un posizionamento più preciso.
+- 【Molteplici Modalità di Pulizia】 Sono disponibili temporizzazione, area selezionata, punto fisso, zona vietata virtuale e telecomando manuale. È possibile selezionare larea e la posizione da pulire sulla mappa tramite il telefono cellulare per scopi di pulizia. Inoltre, è possibile selezionare aree riservate come aree giochi per bambini e servizi igienici per evitare di pulire queste aree.
+- 【App Intelligente e Controlli Vocali】 I robot aspirapolvere possono essere controllati tramite lapp e i comandi vocali utilizzando Alexa o Google Home. Lapp Lefant può essere utilizzata per monitorare il percorso di pulizia, programmare i piani di pulizia, regolare i livelli di aspirazione, modificare le modalità di pulizia e altro ancora. Nota: supporta solo Wi-Fi a 2,4 GHz.
+- 【Batterie a Bassa Attenuazione】 Il lidar aspirapolvere robot è dotato di una batteria al fosfato di ferro da 4000 mAh che può coprire unarea di pulizia massima di 200 metri quadrati o fornire 200 minuti di tempo di pulizia quando è completamente carica. Quando il livello della batteria scende al di sotto del 15%, il robot aspirapolvere si ricarica automaticamente.
+
+[🛒 Acquista qui!!]({{< param buyurl >}})
+{{<world>}}B0DLK7V24X{{</world>}}

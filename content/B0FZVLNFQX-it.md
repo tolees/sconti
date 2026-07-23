@@ -1,0 +1,39 @@
+---
+layout: post
+title: 'Nostromo - Filetti di Tonno all Olio di Oliva Qualità Superiore Lavorati a Mano 1 Vasetto in Vetro da 180 gr Confezione da 2'
+date: 2026-03-30 11:40:35
+image: 'https://m.media-amazon.com/images/I/51UKu61pHgL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0FZVLNFQX-it Nostromo - Filetti di Tonno all Olio di Oliva Qualità...'
+sku: 'B0FZVLNFQX-it'
+tags: [ '🇮🇹', ]
+actualPrice: 5.98 EUR
+currency: EUR
+price: 5.98
+comparePrice: 8.78 EUR
+prodname: 'Nostromo - Filetti di Tonno all Olio di Oliva Qualità Superiore Lavorati a Mano 1 Vasetto in Vetro da 180 gr Confezione da 2'
+country: 'it'
+flag: '🇮🇹'
+brand: ''
+buyurl: 'https://www.amazon.it/dp/B0FZVLNFQX/?tag=tolees00-21'
+descuento: '31.89'
+average: '5.98'
+---
+
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
+- Consigli duso: ottimi per condire piatti caldi come la pasta o per insaporire piatti freddi come le insalate integrando nella dieta pesce di qualità
+- Sostenibilità: Nostromo si impegna da tempo per fornire prodotti rispettosi delle politiche di sostenibilità grazie alle flotte che pescano rispettando le zone FAO e seguendo le linee guida in materia ittica
+- Formato: 1 vasetto in vetro da 180 gr
+- Filetti di Tonno allOlio di Oliva provenienti da materia prima selezionata e lavorata secondo tradizione ed esperienzaper un prodotto gustoso, dallaspetto compatto e dalla consistenza tenera
+- Valori nutrizionali: filetti di tonno in vetro a basso contenuto di grassi e carboidrati e con 22g di proteine per 100g di prodotto sgocciolato, aiuta a rimanere in forma grazie ai suoi benefici nutrizionali e il sapore fresco del pesce azzurro
+
+[🛒 Acquista qui!!]({{< param buyurl >}})
+{{<world>}}B0FZVLNFQX{{</world>}}

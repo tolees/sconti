@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'San Benedetto Thè Freddo al Limone Zero 12x500 ml Bevanda Dissetante Analcolica Gusto Fruttato Tappo Click Senza Zuccheri Conservanti e Coloranti'
+date: 2026-05-30 11:23:25
+image: 'https://m.media-amazon.com/images/I/41qSFNhd-kL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0CT3MYFHY-it San Benedetto Thè Freddo al Limone Zero 12x500 ml Bevanda...'
+sku: 'B0CT3MYFHY-it'
+tags: [ '🇮🇹', ]
+actualPrice: 4.92 EUR
+currency: EUR
+price: 4.92
+comparePrice: 7.08 EUR
+prodname: 'San Benedetto Thè Freddo al Limone Zero 12x500 ml Bevanda Dissetante Analcolica Gusto Fruttato Tappo Click Senza Zuccheri Conservanti e Coloranti'
+country: 'it'
+flag: '🇮🇹'
+brand: ''
+buyurl: 'https://www.amazon.it/dp/B0CT3MYFHY/?tag=tolees00-21'
+descuento: '30.51'
+average: '4.92'
+---
+
+[{{< param title >}}]({{< param buyurl >}}) qui:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- CARATTERISTICHE: Con zero zuccheri, questo Tè al limone offre tutta la freschezza e il gusto della versione classica, ma con meno calorie. Il pratico formato da 0,50 L è ideale per essere portato con sé, mantenendo freschezza e leggerezza.
+- SOSTENIBILITÀ: Da 40 anni ci occupiamo di Sostenibilità Ambientale grazie a una politica volta alla tutela dell’ambiente con limpegno di ridurre le emissioni di gas effetto serra.
+- Nata nel 1956, Acqua Minerale San Benedetto S.p.A. è presente commercialmente in cento Paesi nei cinque continenti ed è il primo player in Italia del beverage analcolico (fonte GlobalData 2024, dati 2023). Azienda “totale”, multispecialista e multicanale.
+- CONTENUTO: Thè Limone Zero San Benedetto in formato 12x500 ml. Bevanda rinfrescante a base di thè al limone, zero zuccheri, ideale per chi cerca una soluzione light ma gustosa. Perfetta per una pausa dissetante e salutare durante la giornata.
+- BENEFICI: Il classico thè San Benedetto nella versione zero zuccheri e zero calorie. Con infuso di thè in acqua minerale naturale, rinfrescante, leggero e gustoso. Due varianti classiche, le più apprezzate di sempre: Pesca e Limone.
+
+[🛒 Acquista qui!!]({{< param buyurl >}})
+{{<world>}}B0CT3MYFHY{{</world>}}

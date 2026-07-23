@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'FUNYET Computer Portatile 2026 Nuovo Laptop da 15 6 pollici 16 GB RAM 512 GB SSD Pentium 4425Y PC Portatil IPS FHD 1920 * 1080 Notebook Laptop apertura a 180° 5000 mAh supporta TF card Type-C'
+date: 2026-03-15 19:16:10
+image: 'https://m.media-amazon.com/images/I/41dhUPKHHWL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0GQB5W9GR-it FUNYET Computer Portatile 2026 Nuovo Laptop da 15 6...'
+sku: 'B0GQB5W9GR-it'
+tags: [ '🇮🇹', ]
+actualPrice: 341.99 EUR
+currency: EUR
+price: 341.99
+comparePrice: 999.99 EUR
+prodname: 'FUNYET Computer Portatile 2026 Nuovo Laptop da 15 6 pollici 16 GB RAM 512 GB SSD Pentium 4425Y PC Portatil IPS FHD 1920 * 1080 Notebook Laptop apertura a 180° 5000 mAh supporta TF card Type-C'
+country: 'it'
+flag: '🇮🇹'
+brand: ''
+buyurl: 'https://www.amazon.it/dp/B0GQB5W9GR/?tag=tolees00-21'
+descuento: '65.80'
+average: '341.99'
+---
+
+[{{< param title >}}]({{< param buyurl >}}) qui:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Il dispositivo è dotato di una vasta gamma di porte pratiche, tra cui: 2 porte USB 3.0, che supportano il trasferimento dati ad alta velocità 1 porta Mini HDMI, per il collegamento a un monitor esterno 1 porta di alimentazione CC 1 jack da 3,5 mm per cuffie e microfono 1 lettore di schede TF (MicroSD) Grazie a questa dotazione completa di porte, non sono necessari adattatori aggiuntivi per soddisfare le esigenze di connessione delle periferiche e dei dispositivi esterni più comuni
+- Computer Per quanto riguarda la connettività wireless, il notebook supporta la rete wireless ad alta velocità Wi-Fi 5, garantendo unesperienza di navigazione stabile e veloce; è inoltre dotato di Bluetooth 5.0, che consente di collegare in modalità wireless periferiche quali mouse, tastiera, cuffie e altoparlanti, liberandosi dai vincoli dei cavi e creando un ambiente di utilizzo ordinato e libero.
+- Lo schermo è un IPS Full HD da 15,6 pollici con risoluzione 1920×1080, che offre colori vivaci, immagini nitide e unesperienza visiva eccellente durante la visione di film. Lo schermo supporta unapertura di 180°, per condividere facilmente i contenuti con gli altri; il dispositivo è inoltre dotato di una fotocamera HD e di un microfono integrati, che garantiscono videochiamate chiare e stabili, conciliando produttività e intrattenimento.
+- Laptop è dotato di 16 GB di RAM e un disco a stato solido (SSD) da 512 GB. Lampia capacità di memoria consente di gestire facilmente lesecuzione simultanea di più attività, migliorando notevolmente la fluidità del sistema; rispetto ai tradizionali dischi rigidi meccanici, lSSD riduce significativamente i tempi di avvio e la velocità di caricamento dei software, rendendo il sistema più reattivo e aumentando lefficienza nel trasferimento dei file.
+- Per quanto riguarda lautonomia, è dotato di una batteria integrata da 5000 mAh ad alta capacità, che garantisce una durata prolungata. Che si tratti di studenti a scuola, professionisti che viaggiano spesso per lavoro o utenti che desiderano guardare film o serie TV in viaggio o allaperto, non dovranno preoccuparsi dellesaurimento della batteria e potranno utilizzarlo in tutta tranquillità, ovunque si trovino.
+
+[🛒 Acquista qui!!]({{< param buyurl >}})
+{{<world>}}B0GQB5W9GR{{</world>}}

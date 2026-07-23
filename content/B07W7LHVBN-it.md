@@ -1,0 +1,42 @@
+---
+layout: post
+title: 'Logitech Pebble Mouse 2 M350s wireless Bluetooth sottile portatile leggero personalizzabile clic discreti Easy-Switch per Windows macOS iPadOS Android Chrome OS - Grafite'
+date: 2026-07-16 17:44:33
+image: 'https://m.media-amazon.com/images/I/21v6+-HiIpL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B07W7LHVBN-it Logitech Pebble Mouse 2 M350s wireless Bluetooth sottile...'
+sku: 'B07W7LHVBN-it'
+tags: [ '🇮🇹', ]
+actualPrice: 14.99 EUR
+currency: EUR
+price: 14.99
+comparePrice: 19.99 EUR
+prodname: 'Logitech Pebble Mouse 2 M350s wireless Bluetooth sottile portatile leggero personalizzabile clic discreti Easy-Switch per Windows macOS iPadOS Android Chrome OS - Grafite'
+country: 'it'
+flag: '🇮🇹'
+brand: ''
+buyurl: 'https://www.amazon.it/dp/B07W7LHVBN/?tag=tolees00-21'
+descuento: '25.01'
+average: '19.4465714285715'
+---
+
+[{{< param title >}}]({{< param buyurl >}}) qui:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Compatibili con i laptop MacBook Neo: connessione Bluetooth istantanea, semplicissimi e con abbinamento cromatico
+- Sconfiggi la noia: Design sottile, diversi colori e tecnologia più intelligente: questo mouse Bluetooth della collezione Pebble 2 soddisfa al meglio le tue esigenze ed esprime la tua personalità
+- Un design che ti fa sentire bene: Le parti in plastica del mouse Bluetooth Pebble 2 M350s includono almeno il 58% di plastica riciclata post-consumo certificata (1)
+- Alterna facilmente fra 3 dispositivi: Usa Bluetooth per connettere fino a 3 dispositivi wireless su diversi sistemi operativi (Windows, macOS, iPadOS, ChromeOS) e passa da uno allaltro con un solo clic del pulsante Easy-Switch
+- Risparmia tempo: Personalizza il pulsante centrale con lapp Logi Options+ (2) per sfruttare al meglio Pebble Mouse 2; aggiungi scelte rapide per le tue app preferite, tra cui WhatsApp e Spotify
+- Imballaggio proveniente da fonti sostenibili: Il packaging di Pebble Mouse 2 M350s (inclusa la confezione del prodotto) proviene da foreste con certificazione FSC e da altre fonti controllate
+- Impressiona il tuo pubblico con discrezione: Lascia che il tuo lavoro faccia più rumore dei tuoi clic; Pebble Mouse 2 M350s è un mouse discreto, con tecnologia Silent Touch che elimina il 90% del rumore dei clic (3)
+- Fuori dallordinario, per seguirti ovunque: Il design arrotondato e minimalista di Pebble Mouse 2 M350 è realizzato con plastica riciclata (1): un mouse sottile, leggero e portatile
+- Resta attivo più a lungo: Il mouse wireless ti offre ore di utilizzo, 2 anni di durata della batteria (4) e la modalità di risparmio energetico con spegnimento automatico per un utilizzo senza problemi; batteria inclusa
+
+[🛒 Acquista qui!!]({{< param buyurl >}})
+{{<world>}}B07W7LHVBN{{</world>}}

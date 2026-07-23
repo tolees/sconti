@@ -1,0 +1,41 @@
+---
+layout: post
+title: 'EA SPORTS FC 26 Standard Edition XBOX Series X / XBOX One - Disco | Videogiochi | Italiano'
+date: 2026-06-07 21:10:11
+image: 'https://m.media-amazon.com/images/I/51csryoS2UL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0FGK33DCX-it EA SPORTS FC 26 Standard Edition XBOX Series X / XBOX One...'
+sku: 'B0FGK33DCX-it'
+tags: [ '🇮🇹', ]
+actualPrice: 29.99 EUR
+currency: EUR
+price: 29.99
+comparePrice: 49.99 EUR
+prodname: 'EA SPORTS FC 26 Standard Edition XBOX Series X / XBOX One - Disco | Videogiochi | Italiano'
+country: 'it'
+flag: '🇮🇹'
+brand: ''
+buyurl: 'https://www.amazon.it/dp/B0FGK33DCX/?tag=tolees00-21'
+descuento: '40.01'
+average: '40.7499999999999'
+---
+
+[{{< param title >}}]({{< param buyurl >}}) qui:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- COMPETI NEGLI EVENTI LIVE A TEMA: Gioca per conto tuo o in compagnia negli eventi Live Rush Club, che introducono nuovi entusiasmanti tornei a eliminazione diretta per Club in EA SPORTS FC 26
+- EA SPORTS FC 26 Standard Edition per XBOX Series X / XBOX One (disco) contiene il gioco completo FC 26
+- SVILUPPA LE TUE ABILITÀ: Archetipi ispirati ai grandi del calcio introducono nuove classi per Club e Carriera professionista, esaltando le individualità nella loro personalizzazione e nei progressi
+- Gioca con gli amici su piattaforme diverse; La funzionalità Cross-Play** per EA SPORTS FC 26 è disponibile su PC, PlayStation e Xbox; **Il cross-play sarà attivo in certe modalità sulle piattaforme della stessa generazione
+- VIVI LA CARRIERA TECNICO COME MAI PRIMA D’ORA: Affronta una varietà di scenari reali e trame alternative durante la nuova stagione, ottenendo premi tra cui Punti stagione, oggetti di personalizzazione, ICONE ed Eroi
+- GIOCA A MODO TUO: La nuova impostazione Gameplay realistico offre lesperienza calcistica più autentica mai vista nella Carriera, mentre limpostazione Gameplay competitivo, è fatta su misura per giocare a Football Ultimate Team e Club
+- METTI ALLA PROVA LA SQUADRA DEI TUOI SOGNI: I tornei metteranno alla prova le tue abilità con fino a quattro turni a eliminazione diretta, mentre gli eventi Live aggiungono varietà con competizioni a tema e contenuti per tutta la stagione
+- EA SPORTS FC 26 include i migliori calciatori dei club e delle competizioni più importanti del Gioco Più Bello del Mondo, con oltre 20.000 giocatori, più di 750 tra club e nazionali, oltre 120 stadi e più di 35 campionati
+
+[🛒 Acquista qui!!]({{< param buyurl >}})
+{{<world>}}B0FGK33DCX{{</world>}}

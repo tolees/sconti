@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'Puma Karmen II - Scarpe da Ginnastica Femmina Alpine Snow-Alpine Snow'
+date: 2026-03-17 21:17:57
+image: 'https://m.media-amazon.com/images/I/318uNmTQVDL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0D2KSBZXZ-it Puma Karmen II - Scarpe da Ginnastica Femmina Alpine Snow-...'
+sku: 'B0D2KSBZXZ-it'
+tags: [ '🇮🇹', ]
+actualPrice: 34.95 EUR
+currency: EUR
+price: 34.95
+comparePrice: 74.95 EUR
+prodname: 'Puma Karmen II - Scarpe da Ginnastica Femmina Alpine Snow-Alpine Snow'
+country: 'it'
+flag: '🇮🇹'
+brand: ''
+buyurl: 'https://www.amazon.it/dp/B0D2KSBZXZ/?tag=tolees00-21'
+descuento: '53.37'
+average: '34.95'
+---
+
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Stivali del marchio PUMA
+- Realizzato con materiali sostenibili
+- Design robusto per un facile spostamento
+- Adatto per: clima freddo
+
+[🛒 Acquista qui!!]({{< param buyurl >}})
+{{<world>}}B0D2KSBZXZ{{</world>}}

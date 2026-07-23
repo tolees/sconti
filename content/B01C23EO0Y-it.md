@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Supradyn Ricarica Multivitaminico Completo Vitamine e Minerali per Adulti Integratore Vitamine A B C D3 E K Magnesio Calcio Zinco Selenio e CoEnzima Q10 35 Compresse Rivestite'
+date: 2026-05-15 14:31:42
+image: 'https://m.media-amazon.com/images/I/41lwYf01qNL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B01C23EO0Y-it Supradyn Ricarica Multivitaminico Completo Vitamine e...'
+sku: 'B01C23EO0Y-it'
+tags: [ '🇮🇹', ]
+actualPrice: 12.49 EUR
+currency: EUR
+price: 12.49
+comparePrice: 19.4 EUR
+prodname: 'Supradyn Ricarica Multivitaminico Completo Vitamine e Minerali per Adulti Integratore Vitamine A B C D3 E K Magnesio Calcio Zinco Selenio e CoEnzima Q10 35 Compresse Rivestite'
+country: 'it'
+flag: '🇮🇹'
+brand: ''
+buyurl: 'https://www.amazon.it/dp/B01C23EO0Y/?tag=tolees00-21'
+descuento: '35.62'
+average: '12.49'
+---
+
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- MULTIVITAMINICO COMPLETO - Lintegratore multivitaminico multiminerale fornisce un apporto quotidiano di micronutrienti in 1 sola compressa, la quale contiene vitamine effervescenti utili per contrastare la stanchezza e reintegrare le carenze vitaminiche
+- 13 VITAMINE E 9 MINERALI – Ricaricati con la formula completa di Vitamine B1, B2, B6, B12 e Niacina, Vitamina A, C, D, E, K + Minerali come Magnesio, Zinco, Selenio, Calcio e Coenzima Q10 che aiuta a rifornire le cellule di energia
+- TRIPLA AZIONE - Multivitaminico uomo e multivitaminico donna per rifornire il corpo di energia, combattere la stanchezza fisica e mentale e reintegrare le carenze vitaminiche - Adatto per adulti dai 18 anni in su
+- FORMULATO CON ALTI STANDARD QUALITATIVI - I multivitaminici Supradyn Ricarica sono senza glutine e naturalmente privi di lattosio, con un contenuto di zucchero di 0,10g per compressa
+- LA TUA ROUTINE DI VITAMINE E MINERALI COMPLEX - Con la dose giornaliera consigliata di 1 compressa al giorno, da deglutire con un po dacqua, la confezione da 35 compresse dura per oltre un mese
+
+[🛒 Acquista qui!!]({{< param buyurl >}})
+{{<world>}}B01C23EO0Y{{</world>}}

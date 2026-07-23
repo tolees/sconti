@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Rimmel London Cipria Compatta Stay Matte - Polvere Opacizzante a Lunga Tenuta per Pelli Grasse e Miste - Trasparente - 14 g'
+date: 2026-07-11 15:51:46
+image: 'https://m.media-amazon.com/images/I/41mLwH6uNOL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B004M9L0WW-it Rimmel London Cipria Compatta Stay Matte - Polvere...'
+sku: 'B004M9L0WW-it'
+tags: [ '🇮🇹', ]
+actualPrice: 2.17 EUR
+currency: EUR
+price: 2.17
+comparePrice: 3.1 EUR
+prodname: 'Rimmel London Cipria Compatta Stay Matte - Polvere Opacizzante a Lunga Tenuta per Pelli Grasse e Miste - Trasparente - 14 g'
+country: 'it'
+flag: '🇮🇹'
+brand: ''
+buyurl: 'https://www.amazon.it/dp/B004M9L0WW/?tag=tolees00-21'
+descuento: '30.00'
+average: '2.69833333333333'
+---
+
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Live the London Look! Rimmel London è la certezza di avere sempre uno stile cool, irriverente, imprevedibile e in continua evoluzione. Rimmel non aspira alla perfezione e non vuole intimidire. È come Londra: giovane, eclettico, metropolitano e allavanguardia. Unespressione senza regole, reale e accessibile
+- Applicazione - Stendila direttamente sulla pelle del viso o sopra il fondotinta con un pennello o con una spugnetta per un effetto opacizzante immediato
+- Stay Matte - Una cipria trasparente compatta opacizzante e anti lucido che fissa il trucco e dona anche alle pelli grasse un effetto matte che dura a lungo
+- Fomula - Polvere compatta dermatologicamente testata con texture ultra sottile e leggera. Arricchita con minerali naturali che assorbono gli oli della pelle e creano un look opaco duraturo
+- Effetti e benefici - Fissa il trucco e minimizza pori dilatiti ed imperfezioni fino a 6 ore
+
+[🛒 Acquista qui!!]({{< param buyurl >}})
+{{<world>}}B004M9L0WW{{</world>}}

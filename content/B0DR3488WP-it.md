@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Clarks Berwick Lace Mens Brown Leather 6.5'
+date: 2026-07-11 03:40:32
+image: 'https://m.media-amazon.com/images/I/31JV7pQeWHL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0DR3488WP-it Clarks Berwick Lace Mens Brown Leather 6.5'
+sku: 'B0DR3488WP-it'
+tags: [ '🇮🇹', ]
+actualPrice: 41.95 EUR
+currency: EUR
+price: 41.95
+comparePrice: 71.43 EUR
+prodname: 'Clarks Berwick Lace Mens Brown Leather 6.5'
+country: 'it'
+flag: '🇮🇹'
+brand: ''
+buyurl: 'https://www.amazon.it/dp/B0DR3488WP/?tag=tolees00-21'
+descuento: '41.27'
+average: '41.95'
+---
+
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- - Sistema di allacciatura a 5 occhielli per una calzata sicura
+- Colletto imbottito per un maggiore comfort
+- La suola leggera EXTRALIGHT garantisce trazione e durata senza sforzo
+- Il plantare imbottito in schiuma offre comfort per tutto il giorno
+- La tomaia in pelle di alta qualità offre un look elegante
+
+[🛒 Acquista qui!!]({{< param buyurl >}})
+{{<world>}}B0DR3488WP{{</world>}}

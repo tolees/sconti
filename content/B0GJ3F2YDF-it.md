@@ -1,0 +1,39 @@
+---
+layout: post
+title: 'Cassa Bluetooth Portatili senza fili con luce LED Display Digitale Intelligente+Smart EQ Altoparlante Bluetooth Bassi Potente Bluetooth 5.4 Speaker da Esterno per Viaggi Sport Feste Ciclismo'
+date: 2026-04-20 12:51:16
+image: 'https://m.media-amazon.com/images/I/511BsxYBJ8L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0GJ3F2YDF-it Cassa Bluetooth Portatili senza fili con luce LED Display...'
+sku: 'B0GJ3F2YDF-it'
+tags: [ '🇮🇹', ]
+actualPrice: 24.99 EUR
+currency: EUR
+price: 24.99
+comparePrice: 79.99 EUR
+prodname: 'Cassa Bluetooth Portatili senza fili con luce LED Display Digitale Intelligente+Smart EQ Altoparlante Bluetooth Bassi Potente Bluetooth 5.4 Speaker da Esterno per Viaggi Sport Feste Ciclismo'
+country: 'it'
+flag: '🇮🇹'
+brand: ''
+buyurl: 'https://www.amazon.it/dp/B0GJ3F2YDF/?tag=tolees00-21'
+descuento: '68.76'
+average: '24.99'
+---
+
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- 【Bassi Potenti】lCassa Bluetooth wireless è dotato di un altoparlante full-range ad alta potenza e di un cono per bassi in metallo a grana CD, che offre bassi profondi e potenti, facendovi sentire come se foste nel bel mezzo di una scena musicale dal vivo.
+- 【Illuminazione RGB e funzione di accoppiamento】Laltoparlante portatile è dotato di sette tipi di abbaglianti effetti luminosi colorati, molteplici effetti di illuminazione ambientale, le luci danzano al ritmo della musica, in modo che ogni basso, medio e alto nella musica abbia un eccellente ritmo di illuminazione, e supporta anche la modalità TWS, quando si gioca, si ascolta la musica o si guardano i film, si può godere della vera funzione stereo wireless per godere davvero del suono surround del cinema, e si possono spegnere le luci ogni volta che è necessario.
+- 【Durata della batteria di 15 ore】Batteria ricaricabile agli ioni di litio da 2000 mAh incorporata, lCassa Bluetooth portatile offre più di 15 ore di autonomia per carica (la durata della batteria dipende dalla luce dei led, dal volume e dai tipi di musica). Microfono incorporato per chiamate in vivavoce.
+- 【Impermeabile e durevole IPX7】Questo altoparlante impermeabile è certificato IPX7, resistente alla pioggia, alla polvere, alla neve, agli spruzzi, alla sabbia e al fango e può essere immerso in acqua per un breve periodo. È possibile portare con sé laltoparlante bluetooth portatile per godersi lequitazione, il campeggio, la spiaggia, lescursionismo e altri scenari in qualsiasi momento e ovunque, senza preoccuparsi del tempo e delle condizioni esterne. La custodia ASB iniettata è resistente e flessibile, permettendoti di goderti il tempo libero allaperto con serenità.
+- 【Bluetooth 5.4 e ampia compatibilità】LCassa Bluetooth wireless da esterno adotta la tecnologia avanzata Bluetooth 5.4. Offre una connessione veloce e stabile, 1 S per completare la connessione. Ampia compatibilità, si abbina alla maggior parte dei dispositivi abilitati al Bluetooth, come telefoni cellulari, MP3, TV, tablet, dispositivi laptop. Supporta la decodifica di più file audio digitali, TF, scheda SD.
+- 【Display Digitale Intelligente+Smart EQ Mode】Schermo digitale intelligente ad alta definizione, con informazioni come stato della batteria, parametri audio e volume visibili a colpo docchio, interazione visiva intuitiva e comoda. Dotato della modalità di equalizzazione Smart EQ intelligente con IA, offre due modalità tra musica e voci, adattandosi a diversi stili musicali, bilanciando in tempo reale lo spettro audio e ottimizzando con precisione le prestazioni degli alti e dei bassi, garantendo un campo sonoro professionale uniforme e pieno in ogni spazio, per unesperienza audio ancora più elevata!
+
+[🛒 Acquista qui!!]({{< param buyurl >}})
+{{<world>}}B0GJ3F2YDF{{</world>}}

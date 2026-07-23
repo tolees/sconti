@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'TCL 75C6K 75" QD-Mini LED TV 4K HDR Premium 1000nits Smart TV con tecnologia Google TV Dolby Vision IQ e Atmos sistema audio Onkyo 2.1 Motion Clarity Pro a 144 Hz Game Master'
+date: 2026-04-24 17:42:56
+image: 'https://m.media-amazon.com/images/I/517Ixupu8nL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0F94DQTQH-it TCL 75C6K 75" QD-Mini LED TV 4K HDR Premium 1000nits Smart...'
+sku: 'B0F94DQTQH-it'
+tags: [ '🇮🇹', ]
+actualPrice: 696.0 EUR
+currency: EUR
+price: 696.0
+comparePrice: 899.9 EUR
+prodname: 'TCL 75C6K 75" QD-Mini LED TV 4K HDR Premium 1000nits Smart TV con tecnologia Google TV Dolby Vision IQ e Atmos sistema audio Onkyo 2.1 Motion Clarity Pro a 144 Hz Game Master'
+country: 'it'
+flag: '🇮🇹'
+brand: ''
+buyurl: 'https://www.amazon.it/dp/B0F94DQTQH/?tag=tolees00-21'
+descuento: '22.66'
+average: '696.0'
+---
+
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- La tecnologia TCL All-domain Halo Control copre lintero percorso, dalla generazione della luce allimaging, offrendo unesperienza visiva di qualità superiore.
+- QLED: Grazie alla più recente tecnologia QLED, questa TV TCL offre colori autentici realizzati con oltre un miliardo di colori e sfumature. Sperimenta una qualità delle immagini realistica e una gamma cromatica ultra-ampia con colori vividi e ampi e un contrasto sorprendente.
+- Pannello HVA: HVA rappresenta la prossima generazione di pannelli VA. I pannelli HVA offrono un contrasto elevato, un consumo energetico inferiore e un angolo di visione più ampio. Inoltre, i modelli da 85 e 98 sono dotati di una speciale finitura dello schermo opaco: pannello HVA opaco.
+- QD-Mini LED: la tecnologia di retroilluminazione unica è un capolavoro visivo che presenta immagini sorprendentemente vivide con colori realistici e un rapporto di contrasto ultra-elevato. Presenta inoltre una luminosità di picco più elevata, una gamma di colori più ampia, uno schermo più grande e una durata maggiore, rendendolo una tecnologia di visualizzazione allavanguardia.
+
+[🛒 Acquista qui!!]({{< param buyurl >}})
+{{<world>}}B0F94DQTQH{{</world>}}
