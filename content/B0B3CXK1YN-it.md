@@ -28,10 +28,10 @@ average: '0.99'
 
 ℹ️:
 
-- GUSTO IRRESISTIBILE DI SEMPRE: il suo gusto irresistibile accompagna piatti, momenti e occasioni degli italiani da più di 50 anni
-- CALVÉ: dai voce alla tua creatività rendendo i tuoi piatti super gustosi. Calvé, perchè buono può diventare buonissimo!
 - OTTIMA PER OGNI PIATTO: preparata con ingredienti semplici e di qualità, la Maionese Calvé è perfetta per golosi sandwich, tartine e ricette con le uova
 - MAIONESE CALVÉ: la Maionese Classica Calvé torna alla sua tradizionale ricetta, quella amata da sempre, fatta con olio di semi di girasole
+- GUSTO IRRESISTIBILE DI SEMPRE: il suo gusto irresistibile accompagna piatti, momenti e occasioni degli italiani da più di 50 anni
+- CALVÉ: dai voce alla tua creatività rendendo i tuoi piatti super gustosi. Calvé, perchè buono può diventare buonissimo!
 - FORMATO TUBO 150 ML: disponibile nei formati Vaso 225 ml, 450 ml, 650 ml, 825ml, Top Down 250 ml, 430ml e Tubo 150 ml. Senza conservanti e senza zuccheri, senza glutine, vegetariano. Vaso in vetro riciclabile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

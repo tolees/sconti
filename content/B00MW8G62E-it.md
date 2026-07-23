@@ -29,11 +29,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Include 100 tappetini di dimensione standard, con assorbenza standard per cani
-- Superficie ad asciugatura rapida con sostanza attrattiva integrata che aiuta nelladdestramento; rivestimento in plastica a prova di perdite per evitare danni al pavimento
-- Struttura a 5 strati; il nucleo ultra assorbente trasforma i liquidi in gel al contatto
+- Tappetini Igienici da Addestramento CERTIFICATI FSC (FSC N004130): realizzati con materiali provenienti da foreste gestite in modo responsabile, materiali riciclati e/o altre fonti di legno controllate
 - Da utilizzare in casa/allaria aperta/in auto; ideali per addestrare i cuccioli, per assistere i cani più anziani o come soluzione alternativa nei casi in cui non sia possibile portare allesterno il proprio animale domestico
 - Dimensioni: I tappetini di dimensioni regolari misurano 56 x 56 cm (L x P); limbottitura centrale misura 48 x 48 cm (L x P) con un bordo in plastica da 4 cm su tutti i lati per prevenire le fuoriuscite
-- Tappetini Igienici da Addestramento CERTIFICATI FSC (FSC N004130): realizzati con materiali provenienti da foreste gestite in modo responsabile, materiali riciclati e/o altre fonti di legno controllate
+- Struttura a 5 strati; il nucleo ultra assorbente trasforma i liquidi in gel al contatto
+- Superficie ad asciugatura rapida con sostanza attrattiva integrata che aiuta nelladdestramento; rivestimento in plastica a prova di perdite per evitare danni al pavimento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00MW8G62E{{</world>}}

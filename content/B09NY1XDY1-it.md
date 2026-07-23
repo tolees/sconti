@@ -28,11 +28,11 @@ average: '107.235'
 
 ℹ️:
 
-- NOTA: questo tipo di tosaerba è progettato per giardini di piccole dimensioni, pertanto il kit è dotato di una sola batteria da 2Ah.
+- TAGLIA PRATI DI PICCOLE DIMENSIONI FINO A 140m² CON UNA SINGOLA CARICA - Stessa potenza e prestazioni di un tosaerba a benzina ma senza disordine, scarichi e rumore. Il motore brushless assicura affidabilità, bassa manutenzione e maggiore durata
 - BATTERIA AL LITIO 24V 2Ah DI NUOVA GENERAZIONE E MOTORE BRUSHLESS - tagliaerba elettrico alimentato da una batteria allavanguardia che potrai utilizzare con qualsiasi altro attrezzo Greenworks da 24V per ridurre i rifiuti e risparmiare spazio e denaro
 - 5 ALTEZZE DI TAGLIO CON FUNZIONE PACCIAMATURA O RACCOLTA 2-IN-1 - una semplice leva permette di sollevare le lame da 25mm a 75mm, mentre gli sfalci possono essere raccolti nella capiente sacca da 30L o pacciamati per apportare sostanze nutritive al prato
 - RASAERBA A BATTERIA FACILE DA MANOVRARE E RIPORRE - le grandi ruote posteriori da 14cm lo rendono facile da spostare su ogni tipo di terreno; il comodo manubrio superiore assicura maneggevolezza e si ripiega per risparmiare spazio quando non in uso
-- TAGLIA PRATI DI PICCOLE DIMENSIONI FINO A 140m² CON UNA SINGOLA CARICA - Stessa potenza e prestazioni di un tosaerba a benzina ma senza disordine, scarichi e rumore. Il motore brushless assicura affidabilità, bassa manutenzione e maggiore durata
+- NOTA: questo tipo di tosaerba è progettato per giardini di piccole dimensioni, pertanto il kit è dotato di una sola batteria da 2Ah.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09NY1XDY1{{</world>}}

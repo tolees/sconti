@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Formato 1000 ml
-- Prodotto professionale
 - Con proteine del latte apporta idratazione e nutrimento ai capelli secchi, sfibrati e stressati
+- Prodotto professionale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07C44VPWH{{</world>}}

@@ -28,8 +28,8 @@ average: '13.24'
 
 ℹ️:
 
-- ✔️ Grilletto scorrevole e sigillato per la massima durata.
 - ✔️ Avviamento graduale e freno a piastra, per lavori senza graffi.
+- ✔️ Grilletto scorrevole e sigillato per la massima durata.
 - ✔️ Levigatrice orbitale con potenza 440 W e disco da 150 mm
 - ✔️ Sistema di presa della carta.
 - ✔️ Aspirazione con sacco raccoglipolvere o aspirapolvere. Costruzione in metallo per una maggiore resistenza e durata.

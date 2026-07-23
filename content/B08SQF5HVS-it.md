@@ -28,11 +28,11 @@ average: '335.6725'
 
 ℹ️:
 
-- FLESSIBILITA: Lo Scanner A4 Wireless ad alta velocità permette lacquisizione in vari formati (dai biglietti da visita ai documenti A4) con un peso compreso tra 27 e 413 g/m²
-- FUNZIONI INTELLIGENTI: Il modello WorkForce ES-500WII ha delle funzioni automatiche di ritaglio e rimozione di pagine bianche o sfondi, per agevolarti in modo intelligente
-- SOFTWARE INTUITIVO: Il Software Intuitivo dello Scanner WorkForce ES-500WII ha le funzioni di anteprima, invio via e-mail, caricamento e creazione di file modificabili
 - EFFICIENZA: La scansione fronte/retro in un solo passaggio a 35 ppm - 70 ipm1 offre delle ottime prestazioni di efficienza
+- FLESSIBILITA: Lo Scanner A4 Wireless ad alta velocità permette lacquisizione in vari formati (dai biglietti da visita ai documenti A4) con un peso compreso tra 27 e 413 g/m²
+- SOFTWARE INTUITIVO: Il Software Intuitivo dello Scanner WorkForce ES-500WII ha le funzioni di anteprima, invio via e-mail, caricamento e creazione di file modificabili
 - SCANSIONE WIRELESS: Lo Scanner WorkForce ES-500WII permette una scansione ad alta velocità su smartphone, tablet, PC o Mac
+- FUNZIONI INTELLIGENTI: Il modello WorkForce ES-500WII ha delle funzioni automatiche di ritaglio e rimozione di pagine bianche o sfondi, per agevolarti in modo intelligente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08SQF5HVS{{</world>}}

@@ -28,8 +28,8 @@ average: '15.26'
 
 ℹ️:
 
-- Esplora la città, diventa un maestro dei travestimenti, più di 100 veicoli
 - Diventa il migliore di lego city
+- Esplora la città, diventa un maestro dei travestimenti, più di 100 veicoli
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01MZDDLTF{{</world>}}

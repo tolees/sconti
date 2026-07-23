@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- QUANDO USARLO: detersivo per capi delicati a mano e in lavatrice, Adatto anche ai capi colorati
 - PERCHÉ: CAPI COME NUOVI PIÙ A LUNGO
-- LIP WOOLITE CAPI SCURI, NERI E JEANS – Mantiene i tuoi capi scuri come nuovi più a lungo grazie alla formula con cheratina, che mantiene l’intensità dei colori, evita il trasferimento di colore e si prende cura dei tessuti
-- LA CONFEZIONE: flacone da 1500 ml di Lip Woolite Detersivo Capi Scuri, Neri e Jeans 25 Lavaggi
 - ISTRUZIONI D’USO: consulta letichetta dei tuoi capi e segui le istruzioni di lavaggio, Dosa il detersivo Lip Woolite nel tappo seguendo le indicazioni di dosaggio e versalo nella vaschetta della lavatrice, Riempi la lavatrice con i tuoi capi e scegli il ciclo di lavaggio per completare il processo
+- LIP WOOLITE CAPI SCURI, NERI E JEANS – Mantiene i tuoi capi scuri come nuovi più a lungo grazie alla formula con cheratina, che mantiene l’intensità dei colori, evita il trasferimento di colore e si prende cura dei tessuti
+- QUANDO USARLO: detersivo per capi delicati a mano e in lavatrice, Adatto anche ai capi colorati
+- LA CONFEZIONE: flacone da 1500 ml di Lip Woolite Detersivo Capi Scuri, Neri e Jeans 25 Lavaggi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00E4L0SWG{{</world>}}

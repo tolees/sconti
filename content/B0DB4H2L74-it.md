@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Essenza di Patchouli
-- Accordo Cuoio
 - Questo profumo maschile si fa più intenso con il calore del corpo.|Applica questo profumo BOSS dietro le ginocchia e all’interno dei gomiti per una scia legnosa e decisa che dura tutto il giorno.
+- Accordo Cuoio
+- Essenza di Patchouli
 - Essenza di Legno di Cedro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ average: '11.695'
 
 ℹ️:
 
-- Protegge – Anti-età EFFICACIA DIMOSTRATA* Risultati confermati dalle donne: 100% Pelle luminosa 100% Pelle senza nuove macchie 95% Pelle nutrita e idratata Un’esperienza sensoriale unica: 100% Applicazione uniforme, senza lasciare tracce 100% Utilizzo facile e pratico 90% Texture invisibile Studio clinico su 20 volontarie, 28 giorni, % di soddisfazione
 - Applicare generosamente su viso e zone sensibili (labbra, spalle, cicatrici, nei, tatuaggi) prima di ogni esposizione al sole. Riapplicare ogni 2 ore o dopo il bagno, la sudorazione o essersi asciugati.
+- Protegge – Anti-età EFFICACIA DIMOSTRATA* Risultati confermati dalle donne: 100% Pelle luminosa 100% Pelle senza nuove macchie 95% Pelle nutrita e idratata Un’esperienza sensoriale unica: 100% Applicazione uniforme, senza lasciare tracce 100% Utilizzo facile e pratico 90% Texture invisibile Studio clinico su 20 volontarie, 28 giorni, % di soddisfazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0G2T7RKJD{{</world>}}

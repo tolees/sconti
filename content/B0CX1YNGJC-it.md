@@ -28,11 +28,11 @@ average: '17.9'
 
 ℹ️:
 
-- QUALITA’ PREMIUM E MADE IN ITALY: Prodotto realizzato interamente in Italia, seguendo i più rigorosi e rigidi standard di QUALITA’ e SICUREZZA che contraddistinguono il Made in Italy. Privo di agenti chimici, glutine e lattosio, 100% naturale.
 - BROMELINA GASTROPROTETTA: grazie alla gastro-protezione, la nostra Bromelina 5000 GDU/g, sarà notevolmente più efficace rispetto ad altre bromeline non gastro-protette, con un maggiore assorbimento.
-- Con 5000 GDU/g DI BROMELINA GASTROPROTETTA: assumendo la dose massima di 2 compresse al giorno, è possibile integrare 1600mg di Bromelina Forte
 - 180 COMPRESSE – FINO A 6 MESI DI FORNITURA: Una Confezione contiene ben 180 Compresse, Adatte ai Vegani che ti garantiranno fino a 6 Mesi di Fornitura. Non dovrai preoccuparti di pensare ad acquistare in breve tempo una nuova confezione.
 - ALTO DOSAGGIO: 1600mg di Bromelina Pura in 2 compresse, ti garantiranno una dose elevata di Bromelina. La Bromelina è un enzima estratto naturalmente dal gambo dell’ananas, ma si trova anche nella polpa e nella buccia del frutto. Le popolazioni indigene lo utilizzavano da secoli e oggi è impiegato anche nella tradizione ayurvedica.
+- QUALITA’ PREMIUM E MADE IN ITALY: Prodotto realizzato interamente in Italia, seguendo i più rigorosi e rigidi standard di QUALITA’ e SICUREZZA che contraddistinguono il Made in Italy. Privo di agenti chimici, glutine e lattosio, 100% naturale.
+- Con 5000 GDU/g DI BROMELINA GASTROPROTETTA: assumendo la dose massima di 2 compresse al giorno, è possibile integrare 1600mg di Bromelina Forte
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CX1YNGJC{{</world>}}

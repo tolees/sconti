@@ -28,11 +28,11 @@ average: '9.63'
 
 ℹ️:
 
+- Il set contiene: N.2 SNOW-KISSED HOLIDAY MINI LIPGLOSS Splendore senza fine per labbra incantevoli con questo duo di lucidalabbra super sensoriali in formato mini size, arricchiti con oli di mirtillo e maracuja. Zero compromessi sulla brillantezza, massima praticità, infinite possibilità di look
+- Perfetto per: sfoggiare lip look sempre diversi giocando con finish e colori, dove e quando vuoi. Da un trucco labbra nude e romantico per il giorno ad uno rosso più bold e audace per la sera, nessun limite, solo divertimento
 - MINI ROSSETTO E MINI LUCIDALABBRA Dermatologicamente testato
 - Un Gift Set Makeup per truccare le labbra con: 2 mini rossetti dal finish mat e 2 mini lucidalabbra abbinati, tutto in una pochette super cool in tessuto
 - Il set contiene: N.2 SNOW-KISSED HOLIDAY MINI MAT LIPSTICK Una texture morbida al profumo di neve e sale, leggera, confortevole e dal finish vellutato che scivola a meraviglia sulle labbra, fondendosi allistante. Una coppia di mini gioelli, impreziositi da un design accattivante, per vestire le labbra di colore ricco fin dalla prima passata
-- Il set contiene: N.2 SNOW-KISSED HOLIDAY MINI LIPGLOSS Splendore senza fine per labbra incantevoli con questo duo di lucidalabbra super sensoriali in formato mini size, arricchiti con oli di mirtillo e maracuja. Zero compromessi sulla brillantezza, massima praticità, infinite possibilità di look
-- Perfetto per: sfoggiare lip look sempre diversi giocando con finish e colori, dove e quando vuoi. Da un trucco labbra nude e romantico per il giorno ad uno rosso più bold e audace per la sera, nessun limite, solo divertimento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FND9JPPH{{</world>}}

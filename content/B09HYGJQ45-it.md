@@ -28,8 +28,8 @@ average: '10.34'
 
 ℹ️:
 
-- Armi autentiche della seconda guerra mondiale & 20 nuove mappe
 - Integrazione con call of duty: warzone
+- Armi autentiche della seconda guerra mondiale & 20 nuove mappe
 - Combattimenti mozzafiato e scontri adrenalinici
 - Trama coinvolgente e in alta definizione
 

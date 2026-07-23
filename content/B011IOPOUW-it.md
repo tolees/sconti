@@ -28,16 +28,16 @@ average: '45.88'
 
 ℹ️:
 
-- Colonnina espulsione caffè dotata di paraschizzi
-- Mantenimento in caldo 30 minuti
-- Base dappoggio fredda con rotazione 360
-- Potenza: 400w
 - Filtro con adattatore per 1 o 3 tazze di caffè
 - Alimentazione: ac 220-240v ~ 50hz
+- Mantenimento in caldo 30 minuti
+- Controllo elettronico
+- Termostato interno per autospegnimento
+- Colonnina espulsione caffè dotata di paraschizzi
+- Base dappoggio fredda con rotazione 360
+- Potenza: 400w
 - Timer programmabile
 - Display led
-- Termostato interno per autospegnimento
-- Controllo elettronico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B011IOPOUW{{</world>}}

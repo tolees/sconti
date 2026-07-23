@@ -28,11 +28,11 @@ average: '4.99'
 
 ℹ️:
 
-- POWER DELIVERY (PD): grazie alla tecnologia Power Delivery (PD 3.0 PPS) puoi ricaricare il tuo dispositivo con una potenza di 20W, assicurando una ricarica veloce; uno smartphone, ad esempio, può essere ricaricato in circa 45 minuti ed un tablet in 90
 - RICARICA RAPIDA: il caricatore GaN USB-C da 20 Watt ricarica velocemente smartphone, MacBook Neo, tablet, smartwatch, auricolari TWS, speaker di molte marche come Apple, Samsung, Pixel, Xiaomi, Oppo. Un accessorio immancabile in casa ed ufficio.
 - RICARICA SICURA: i prodotti dotati tecnologia Power Delivery sono progettati per comunicare direttamente con il dispositivo per controllare la corretta quantità di energia da erogare; in questo modo, surriscaldamenti e cortocircuiti e sovratensioni saranno sempre evitati
 - TECNOLOGIA GAN: realizzato con semiconduttori in nitruro di gallio (GaN). Gli accessori con questa caratteristica sono più compatti ma, allo stesso tempo, molto potenti. La scocca del caricatore da rete GaN misura solamente 30x30mm e può essere facilmente riposto in una borsetta o uno zainetto. Portalo sempre con te nei tuoi viaggi: la spina europea garantisce la compatibilità in molti paesi del mondo.
 - COMPATTO E DA VIAGGIO: la spina europea a due poli è utilizzata in molti paesi del mondo; porta il caricatore UNIQO ovunque mettendolo facilmente in una borsetta, uno zaino o in valigia
+- POWER DELIVERY (PD): grazie alla tecnologia Power Delivery (PD 3.0 PPS) puoi ricaricare il tuo dispositivo con una potenza di 20W, assicurando una ricarica veloce; uno smartphone, ad esempio, può essere ricaricato in circa 45 minuti ed un tablet in 90
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FSF1LCZQ{{</world>}}

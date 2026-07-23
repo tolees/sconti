@@ -28,11 +28,11 @@ average: '19.99'
 
 ℹ️:
 
-- QUALITÀ MATERIALE - Realizzato in tecnopolimero di alta qualità, il nostro avvolgicavo è progettato per durare nel tempo. È resistente agli urti e agli agenti atmosferici, quindi può affrontare qualsiasi sfida
 - AVVOLGICAVO ELETTRICO - Liberati dalla frustrazione dei cavi in disordine. Con il nostro avvolgicavo, organizzare i tuoi cavi diventa un gioco da ragazzi. Goditi la comodità di avere tutto sotto controllo, senza grovigli né intoppi!
+- POLY POOL - Da 40 anni partner di assoluta affidabilità per professionisti e amanti del fai da te. Produciamo materiale elettrico e piccoli elettrodomestici per soddisfare clienti sia in Italia che in tutto il mondo
 - SICUREZZA - Dotata di interruttore di sicurezza che interrompe lalimentazione in caso sia prelevata potenza maggiore a 2300W per poi ripristinarla entro pochi secondi. Dotato anche di un disgiuntore termico integrato, che protegge contro il surriscaldamento
 - CARATTERISTICHE TECNICHE - Lavvolgicavo ha 4 prese polivalenti (Schuko + 10/16A 2P+T), una spina salvaspazio piccola 10A 2P+T e un cavo HO5VV-F di sezione 3x1mm². Ha manico per il trasporto, un cavalletto di supporto in acciaio zincato e la bobina portacavo in tecnopolimero
-- POLY POOL - Da 40 anni partner di assoluta affidabilità per professionisti e amanti del fai da te. Produciamo materiale elettrico e piccoli elettrodomestici per soddisfare clienti sia in Italia che in tutto il mondo
+- QUALITÀ MATERIALE - Realizzato in tecnopolimero di alta qualità, il nostro avvolgicavo è progettato per durare nel tempo. È resistente agli urti e agli agenti atmosferici, quindi può affrontare qualsiasi sfida
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D26GP1GJ{{</world>}}

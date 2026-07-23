@@ -28,10 +28,10 @@ average: '139.99'
 
 ℹ️:
 
-- POTENTE BATTERIA AL LITIO DA 40V 5Ah DI NUOVA GENERAZIONE - studiata appositamente con tecnologia al litio avanzata per offrire potenza, durata e prestazioni eccezionali
-- RICARICA FACILE E VELOCE - basta inserire la batteria in un caricabatterie Greenworks per ricaricarla completamente in 160 minuti. Inoltre, la batteria è dotata di un indicatore LED a tre livelli che visualizza il livello di carica raggiunto
-- 2 ANNI DI GARANZIA PER LA BATTERIA - Da Greenworks, leader mondiale negli attrezzi elettrici e della tecnologia a batterie, con una reputazione globale per design intelligente, prestazioni elevate e un servizio clienti eccezionale
 - ALIMENTAZIONE DURATURA E PRESTAZIONI COSTANTI - la batteria 40V mantiene la carica anche quando non è in uso, in modo da essere sempre pronta ad alimentare i tuoi attrezzi ogni volta che ne hai bisogno
+- 2 ANNI DI GARANZIA PER LA BATTERIA - Da Greenworks, leader mondiale negli attrezzi elettrici e della tecnologia a batterie, con una reputazione globale per design intelligente, prestazioni elevate e un servizio clienti eccezionale
+- RICARICA FACILE E VELOCE - basta inserire la batteria in un caricabatterie Greenworks per ricaricarla completamente in 160 minuti. Inoltre, la batteria è dotata di un indicatore LED a tre livelli che visualizza il livello di carica raggiunto
+- POTENTE BATTERIA AL LITIO DA 40V 5Ah DI NUOVA GENERAZIONE - studiata appositamente con tecnologia al litio avanzata per offrire potenza, durata e prestazioni eccezionali
 - COMPATIBILE CON TUTTI GLI ATTREZZI GREENWORKS 40V - robusta e affidabile, questa batteria di ultima generazione può alimentare tutti gli attrezzi della gamma Greenworks da 40V, consentendoti di ridurre gli sprechi e di risparmiare spazio e denaro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

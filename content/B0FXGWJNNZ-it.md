@@ -28,16 +28,16 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Osmo 360 Combo Essenziale con kit manico telescopico invisibile da 1,2 m e altro - Scopri gli accessori più richiesti! Con il manico telescopico invisibile e una batteria extra da 1950 mAh non ti perderai mai un momento.
-- Grandi panorami, qualità straordinaria – Le rivoluzionarie immagini a 360° da 1 pollice offrono scatti eccellenti. Ora con video a 360° 8K/30fps, perfetto per gli sport all’aperto e i viaggi.
-- Crea di più, ritocca di meno – La nuovissima app DJI Mimo semplifica il montaggio post‑editing con Riallinea Panorama, Gradazione del colore Pro Panorama e Movimento fotocamera Panorama, permettendoti di ottenere risultati cinematografici con facilità.
-- Azione sempre pronta – La memoria integrata da 105 GB e fino a 190 minuti [4] di registrazione continua ti permettono di girare in qualsiasi momento senza scheda di memoria. Dalle avventure epiche agli eventi live, la tua Osmo 360 non perde mai un colpo.
-- A causa di problemi di compatibilità della piattaforma, lapp DJI Mimo è stata rimossa da Google Play. Per una migliore esperienza di utilizzo del prodotto, visita il sito Web ufficiale di DJI per scaricare lultima versione dellapp DJI Mimo.
-- Nessun palo, solo azione: il manico telescopico invisibile da 1,2 m trasforma la tua Osmo 360 in un cameraman che ti segue. Riprendi video ultra fluidi in 4K/120fps da magiche angolazioni in terza persona. Perfetta per lo sci: carva, salta e rivivi ogni discesa.
-- Immagini straordinarie, sia di giorno che di notte - Cattura ogni singolo dettaglio con video a 360° in 8K. La tua fotocamera 360 ti consente di immortalare panorami nitidi e vividi, anche in condizioni di scarsa illuminazione.
-- Foto a 360° a risoluzione ultra alta - Cattura il tuo mondo con dettagli mozzafiato con questa fotocamera 360. Scatta foto a 360° da 120 MP con un solo tocco per viste immersive e realistiche da rivivere in qualsiasi momento.
-- Registrazione stereo, suono realistico - Quattro microfoni sulla fotocamera a 360 gradi catturano laudio da tutte le direzioni. Può collegare direttamente fino a due trasmettitori microfonici DJI [3] tramite OsmoAudio: non serve alcun ricevitore!
 - Massima libertà - Il sistema magnetico a sgancio rapido funziona con il supporto per adattatore a sgancio rapido per Osmo Action; la filettatura da 1/4″ è compatibile con le attrezzature classiche.
+- Foto a 360° a risoluzione ultra alta - Cattura il tuo mondo con dettagli mozzafiato con questa fotocamera 360. Scatta foto a 360° da 120 MP con un solo tocco per viste immersive e realistiche da rivivere in qualsiasi momento.
+- Azione sempre pronta – La memoria integrata da 105 GB e fino a 190 minuti [4] di registrazione continua ti permettono di girare in qualsiasi momento senza scheda di memoria. Dalle avventure epiche agli eventi live, la tua Osmo 360 non perde mai un colpo.
+- Crea di più, ritocca di meno – La nuovissima app DJI Mimo semplifica il montaggio post‑editing con Riallinea Panorama, Gradazione del colore Pro Panorama e Movimento fotocamera Panorama, permettendoti di ottenere risultati cinematografici con facilità.
+- Registrazione stereo, suono realistico - Quattro microfoni sulla fotocamera a 360 gradi catturano laudio da tutte le direzioni. Può collegare direttamente fino a due trasmettitori microfonici DJI [3] tramite OsmoAudio: non serve alcun ricevitore!
+- Nessun palo, solo azione: il manico telescopico invisibile da 1,2 m trasforma la tua Osmo 360 in un cameraman che ti segue. Riprendi video ultra fluidi in 4K/120fps da magiche angolazioni in terza persona. Perfetta per lo sci: carva, salta e rivivi ogni discesa.
+- Grandi panorami, qualità straordinaria – Le rivoluzionarie immagini a 360° da 1 pollice offrono scatti eccellenti. Ora con video a 360° 8K/30fps, perfetto per gli sport all’aperto e i viaggi.
+- Osmo 360 Combo Essenziale con kit manico telescopico invisibile da 1,2 m e altro - Scopri gli accessori più richiesti! Con il manico telescopico invisibile e una batteria extra da 1950 mAh non ti perderai mai un momento.
+- Immagini straordinarie, sia di giorno che di notte - Cattura ogni singolo dettaglio con video a 360° in 8K. La tua fotocamera 360 ti consente di immortalare panorami nitidi e vividi, anche in condizioni di scarsa illuminazione.
+- A causa di problemi di compatibilità della piattaforma, lapp DJI Mimo è stata rimossa da Google Play. Per una migliore esperienza di utilizzo del prodotto, visita il sito Web ufficiale di DJI per scaricare lultima versione dellapp DJI Mimo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FXGWJNNZ{{</world>}}

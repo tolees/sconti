@@ -29,10 +29,10 @@ average: '5.96'
 ℹ️:
 
 - EQUILIBRA: da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto dellequilibrio tra rispetto, efficacia, benessere e bellezza
+- COSA CONTIENE: con Burro di Aloe ad azione lenitiva e idratante, Acido Ialuronico idratante, Centella Asiatica ad azione lenitiva, Olio di Mandorle Dolci ad azione emolliente e lenitiva
+- NUTRE MENTRE STRUCCA: prodotto dalla texture fondente, è ideale per struccare occhi, viso e labbra. Prelevare con la palettina e scaldarlo tra le mani, passare delicatamente sul viso e risciacquare
 - ALOE IALURONICA BURRO STRUCCANTE: rappresenta il primo step di una skincare routine completa - rimuove efficacemente anche il trucco waterproof, senza lasciare residui oleosi
 - LA TUA SKINCARE ROUTINE: il Burro Struccante Aloe Ialuronica rappresenta lo step ideale di detersione oleosa viso all’interno di una beauty routine completa. Ideale per la doppia detersione
-- NUTRE MENTRE STRUCCA: prodotto dalla texture fondente, è ideale per struccare occhi, viso e labbra. Prelevare con la palettina e scaldarlo tra le mani, passare delicatamente sul viso e risciacquare
-- COSA CONTIENE: con Burro di Aloe ad azione lenitiva e idratante, Acido Ialuronico idratante, Centella Asiatica ad azione lenitiva, Olio di Mandorle Dolci ad azione emolliente e lenitiva
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GKQ9DHVJ{{</world>}}

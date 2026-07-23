@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Curiosità: Malfy prende il nome dalla Malfi, il soprannome storico della Costiera Amalfitana.
+- Acqua pura del Monte Monviso e distillazione artigianale: Malfy usa lacqua delle sorgenti alpine piemontesi come ingrediente fondamentale, che con la sua mineralità contribuisce alla pulizia del profilo aromatico.
 - Gin Tonic classico con tonica premium, ghiaccio abbondante e fetta di limone: la combinazione perfetta. Base affidabile per Martini secco, Negroni e tutti i cocktail gin della tradizione.
 - Ginepro italiano raccolto a mano: la botanica principale di Malfy Originale proviene da coltivazioni selezionate italiane, per un profilo juniper-forward autentico che rispetta la tradizione del London Dry Gin.
-- Acqua pura del Monte Monviso e distillazione artigianale: Malfy usa lacqua delle sorgenti alpine piemontesi come ingrediente fondamentale, che con la sua mineralità contribuisce alla pulizia del profilo aromatico.
 - Profilo sensoriale: cristallino; naso secco e fresco di ginepro con coriandolo e spezie dolci; palato asciutto ed elegante; finale pulito con persistenza di ginepro e angelica.
-- Curiosità: Malfy prende il nome dalla Malfi, il soprannome storico della Costiera Amalfitana.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B076PMHRFR{{</world>}}

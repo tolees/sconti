@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- RICETTE CONSIGLIATE: si abbina in maniera sorprendente a brasati o spezzatini di carne rossa, ma anche fritta è un contorno molto gustoso e duttile.
-- SENZA GLUTINE: lintera produzione dellazienda è orientata al senza glutine per rispondere ai bisogni di un mercato in continua crescita che ha bisogno di certezze. Oggi produciamo solo farina senza glutine bio da coltivazioni convenzionali di differenti varietà. Farina per polenta per celiaci e per intolleranze alimentari.
-- FORMATO: 4 confezioni da 1000g in polipropilene colorato con finestra trasparente.
 - LA VERONESE, BONTÀ SENZA GLUTINE: La storia del Molino inizia dal 1930. È una storia fatta di tradizione, passione e innovazione. Buoni, sani, innovativi, da agricoltura biologica o da coltivazione convenzionale, e tutti senza glutine: pensati per te.
 - FARINA PER POLENTA TRADIZIONALE: proponiamo al consumatore un prodotto gustoso e di prima qualità, fedele alla tradizione, buono, anallergico e senza glutine. La farina per polenta tradizionale “basic” de La Veronese, ricavata dalla lavorazione di mais italiano bianco o giallo, è prodotta in diversi tipi di macinazione a seconda della polenta che si vuole ottenere.
+- FORMATO: 4 confezioni da 1000g in polipropilene colorato con finestra trasparente.
+- RICETTE CONSIGLIATE: si abbina in maniera sorprendente a brasati o spezzatini di carne rossa, ma anche fritta è un contorno molto gustoso e duttile.
+- SENZA GLUTINE: lintera produzione dellazienda è orientata al senza glutine per rispondere ai bisogni di un mercato in continua crescita che ha bisogno di certezze. Oggi produciamo solo farina senza glutine bio da coltivazioni convenzionali di differenti varietà. Farina per polenta per celiaci e per intolleranze alimentari.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CN6Z8KTY{{</world>}}

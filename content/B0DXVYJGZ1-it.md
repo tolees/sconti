@@ -28,11 +28,11 @@ average: '830.39'
 
 ℹ️:
 
+- ESPERIENZA AUTENTICA DI SONY Ghiera di apertura con clic disattivabili per controllo preciso, slow motion a 120p e integrazione con le tecnologie delle fotocamere Sony per riprese video da cinema.
+- QUALITÀ OTTICA G PREMIUM Il design ottico dellobiettivo serie G offre nitidezza anche a f/1.8. Elementi asferici ed ED riducono le aberrazioni per immagini ad alta risoluzione con colori naturali.
+- IDEALE PER CREARE CONTENUTI VIDEO Autofocus veloce e preciso, splendido bokeh di sfondo e stabilizzazione avanzata per riprese fluide e cinematografiche. Cattura ogni momento con precisione e stile.
 - RIPRENDI TUTTA LA SCENA Fotografa paesaggi, elementi architettonici e crea video con un campo visivo ultra ampio di 16 mm. Lapertura f/1.8 offre prestazioni uniche in condizioni poco luminose.
 - LEGGERO, COMPATTO E RESISTENTE Tra gli obiettivi ultragrandangolari a focale fissa più leggeri, ottima portabilità. Protezione da agenti atmosferici ed elemento anteriore in fluoro per uso prolungato.
-- ESPERIENZA AUTENTICA DI SONY Ghiera di apertura con clic disattivabili per controllo preciso, slow motion a 120p e integrazione con le tecnologie delle fotocamere Sony per riprese video da cinema.
-- IDEALE PER CREARE CONTENUTI VIDEO Autofocus veloce e preciso, splendido bokeh di sfondo e stabilizzazione avanzata per riprese fluide e cinematografiche. Cattura ogni momento con precisione e stile.
-- QUALITÀ OTTICA G PREMIUM Il design ottico dellobiettivo serie G offre nitidezza anche a f/1.8. Elementi asferici ed ED riducono le aberrazioni per immagini ad alta risoluzione con colori naturali.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DXVYJGZ1{{</world>}}

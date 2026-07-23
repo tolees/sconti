@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Stimola il pensiero logico: tra i migliori giochi da tavolo per adulti per allenare la logica e la concentrazione, RisiKo Alleanze Segrete permette di riflettere usando la pazienza e la strategia
-- 1 tabellone di gioco, 100 torri in 5 colori, 1 campo di battaglia, 12 gettoni punti territorio, 6 pedine giocatori, 20 carte alleanze, 10 carte conflitto, 40 carte armate
-- Nuove componenti: addio dadi, bandierine e carte obiettivo. In questa nuova versione il campo di battaglia cambia ad ogni turno, le casate sono rappresentate da torri e il valore dei territori è stabilito con delle monete
-- Alleanze Segrete: il gioco in cui le alleanze sono mutevoli e bisogna ingannare gli avversari - e non solo - per vincere e conquistare lisola
 - 3-6 Giocatori: fino a 6 partecipanti per questa epica sfida tra casate. Con RisiKo Alleanze Segrete puoi elaborare le migliori strategie. Perfetto per gli appassionati dei giochi da tavolo e dei giochi di astuzia
+- Alleanze Segrete: il gioco in cui le alleanze sono mutevoli e bisogna ingannare gli avversari - e non solo - per vincere e conquistare lisola
+- Stimola il pensiero logico: tra i migliori giochi da tavolo per adulti per allenare la logica e la concentrazione, RisiKo Alleanze Segrete permette di riflettere usando la pazienza e la strategia
+- Nuove componenti: addio dadi, bandierine e carte obiettivo. In questa nuova versione il campo di battaglia cambia ad ogni turno, le casate sono rappresentate da torri e il valore dei territori è stabilito con delle monete
+- 1 tabellone di gioco, 100 torri in 5 colori, 1 campo di battaglia, 12 gettoni punti territorio, 6 pedine giocatori, 20 carte alleanze, 10 carte conflitto, 40 carte armate
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DTHYJBC4{{</world>}}

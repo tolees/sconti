@@ -28,11 +28,11 @@ average: '4.92'
 
 ℹ️:
 
-- CARATTERISTICHE: Con zero zuccheri, questo Tè al limone offre tutta la freschezza e il gusto della versione classica, ma con meno calorie. Il pratico formato da 0,50 L è ideale per essere portato con sé, mantenendo freschezza e leggerezza.
-- SOSTENIBILITÀ: Da 40 anni ci occupiamo di Sostenibilità Ambientale grazie a una politica volta alla tutela dell’ambiente con limpegno di ridurre le emissioni di gas effetto serra.
-- Nata nel 1956, Acqua Minerale San Benedetto S.p.A. è presente commercialmente in cento Paesi nei cinque continenti ed è il primo player in Italia del beverage analcolico (fonte GlobalData 2024, dati 2023). Azienda “totale”, multispecialista e multicanale.
 - CONTENUTO: Thè Limone Zero San Benedetto in formato 12x500 ml. Bevanda rinfrescante a base di thè al limone, zero zuccheri, ideale per chi cerca una soluzione light ma gustosa. Perfetta per una pausa dissetante e salutare durante la giornata.
 - BENEFICI: Il classico thè San Benedetto nella versione zero zuccheri e zero calorie. Con infuso di thè in acqua minerale naturale, rinfrescante, leggero e gustoso. Due varianti classiche, le più apprezzate di sempre: Pesca e Limone.
+- SOSTENIBILITÀ: Da 40 anni ci occupiamo di Sostenibilità Ambientale grazie a una politica volta alla tutela dell’ambiente con limpegno di ridurre le emissioni di gas effetto serra.
+- Nata nel 1956, Acqua Minerale San Benedetto S.p.A. è presente commercialmente in cento Paesi nei cinque continenti ed è il primo player in Italia del beverage analcolico (fonte GlobalData 2024, dati 2023). Azienda “totale”, multispecialista e multicanale.
+- CARATTERISTICHE: Con zero zuccheri, questo Tè al limone offre tutta la freschezza e il gusto della versione classica, ma con meno calorie. Il pratico formato da 0,50 L è ideale per essere portato con sé, mantenendo freschezza e leggerezza.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CT3MYFHY{{</world>}}

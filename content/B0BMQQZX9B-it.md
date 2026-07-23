@@ -28,11 +28,11 @@ average: '25.0'
 
 ℹ️:
 
+- Contenuto confezione: Caricabatterie, istruzioni
+- Tecnologia GaN: Questa tecnologia si basa sul nitruro di gallio (GaN) un materiale innovativo che costituisce unalternativa ai tradizionali materiali utilizzati nei dispositivi di ricarica. Questo materiale permette di creare un caricabatterie con dimensioni molto ridotte, ma con elevate performance di carica.
 - Velocità di carica: MULTIPOWER MICRO 65W è in grado di caricare alla massima velocità tutti i dispositivi compatibili con la carica Power delivery 65W e inferiori, compresi iPhone e i device Samsung compatibili con la carica Ultrarapida 2.0 da 45W. Inoltre, è in grado di caricare alla massima velocità tutti i laptop e i MacBook compatibili con la carica 65W e inferiori.
 - Compatibilità: Ideato per caricare diverse tipologie di dispositivi: smartphone, iPhone, tablet, iPad, laptop e MacBook compatibili con la carica PD 65W e inferiori.
-- Tecnologia GaN: Questa tecnologia si basa sul nitruro di gallio (GaN) un materiale innovativo che costituisce unalternativa ai tradizionali materiali utilizzati nei dispositivi di ricarica. Questo materiale permette di creare un caricabatterie con dimensioni molto ridotte, ma con elevate performance di carica.
 - MULTIPOWER MICRO 65W è il caricabatterie di Cellularline potente e compatto, che permette di ricaricare tre dispositivi contemporaneamente.
-- Contenuto confezione: Caricabatterie, istruzioni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BMQQZX9B{{</world>}}

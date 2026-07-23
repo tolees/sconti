@@ -29,10 +29,10 @@ average: '1.76666666666667'
 ℹ️:
 
 - MULINO BIANCO: al Mulino Bianco si ricerca da sempre la qualità. Biscotti, Merende, Pani e Snack per accompagnarti in ogni momento della giornata
+- CUOR DI MELA: i Cuor di Mela sono scrigni di fragrante pasta frolla ripieni di confettura di mele 100% italiane impreziosita da mele a cubetti raccolte esclusivamente in Emilia Romagna
+- INGREDIENTI: mele a cubetti 100% italiane, pasta frolla morbida, confettura di mele 100% italiane. Senza olio di palma, additivi coloranti e conservanti, grassi idrogenati e ingredienti OGM
 - PER LA TUA COLAZIONE: 4 Cuor di Mela, 1 tazza di tè, 1 yogurt magro alla fragola. Per un totale di calorie pari al 16% del tuo fabbisogno energetico giornaliero
 - BISCOTTI E DOLCETTI: morbidi o friabili, unampia varietà per tutti i gusti. Ogni biscotto è una bontà unica, senza olio di palma
-- INGREDIENTI: mele a cubetti 100% italiane, pasta frolla morbida, confettura di mele 100% italiane. Senza olio di palma, additivi coloranti e conservanti, grassi idrogenati e ingredienti OGM
-- CUOR DI MELA: i Cuor di Mela sono scrigni di fragrante pasta frolla ripieni di confettura di mele 100% italiane impreziosita da mele a cubetti raccolte esclusivamente in Emilia Romagna
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09F6LH73M{{</world>}}

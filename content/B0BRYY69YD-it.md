@@ -29,9 +29,9 @@ average: '106.0'
 ℹ️:
 
 - Illuminazione Aura Sync RGB: Header Addressable Gen 2 a bordo e header Aura RGB per strisce LED RGB, facilmente sincronizzabili con lhardware compatibile con Aura Sync
-- Connettività ultraveloce: PCIe 5.0, tre PCIe 4.0 M.2, Realtek 2.5Gb Ethernet, USB 3.2 Gen 2x2 Type-C, supporto frontale USB 3.2 Gen 1 Type-C e Thunderbolt USB4
 - Raffreddamento completo: dissipatori VRM, dissipatore M.2, dissipatore PCH, header per ventole ibride e Fan Xpert 2+
 - Socket Intel LGA 1700: pronto per i processori Intel di 13a e 12a generazione
+- Connettività ultraveloce: PCIe 5.0, tre PCIe 4.0 M.2, Realtek 2.5Gb Ethernet, USB 3.2 Gen 2x2 Type-C, supporto frontale USB 3.2 Gen 1 Type-C e Thunderbolt USB4
 - Tecnologia di memoria esclusiva: ASUS Enhanced Memory Profile II e ASUS OptiMem II
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

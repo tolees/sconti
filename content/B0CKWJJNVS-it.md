@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Ampio logo N
 - Intersuola in EVA
+- Ampio logo N
 - Tomaia in mesh e suede senza struttura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

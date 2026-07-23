@@ -29,11 +29,11 @@ average: '8.99'
 ℹ️:
 
 - Visita il sito Nestlé per scoprire come le nostre marche sono scese in campo e contribuiscono al raggiungimento degli obiettivi di sostenibilità del Gruppo Nestlé con progetti concreti
-- Deliziose barrette di cereali integrali FITNESS con Frutti Rossi
-- Meno di 100 kcal per barretta, pratiche da portare sempre con te, per una colazione dove e quando vuoi
+- Confezione da 24 barrette da 23,5g ciascuna: 564g totali
 - Frumento e avena 100% integrale e deliziosi frutti rossi
 - Le barrette di cereali integrali FITNESS sono fonte di fibre, contengono vitamine, calcio e ferro; solo aromi naturali e nessun colorante
-- Confezione da 24 barrette da 23,5g ciascuna: 564g totali
+- Meno di 100 kcal per barretta, pratiche da portare sempre con te, per una colazione dove e quando vuoi
+- Deliziose barrette di cereali integrali FITNESS con Frutti Rossi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D91ZXLGK{{</world>}}

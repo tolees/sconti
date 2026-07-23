@@ -28,11 +28,11 @@ average: '19.5'
 
 ℹ️:
 
-- POTENZA MAX 2200W – 230VA: la prolunga supporta una potenza massima di 3200W con il cavo completamente svolto, mentre la potenza massima supportata scende a 1100W con il cavo avvolto.
-- LUNGHEZZA 10MT: cavo multipolare tipo 3G di 10 metri di lunghezza, sezione 1 mm² .
 - ROBUSTA E VERSATILE: progettata per essere robusta e resistente, questa prolunga è ideale per luso domestico.
-- DISGIUNTORE TERMICO INTEGRATO: il disgiuntore termico integrato interviene automaticamente in caso di surriscaldamento, garantendo una maggiore sicurezza. Si raccomanda di utilizzare la prolunga completamente srotolata e di evitare di collegare carichi che superino la potenza massima supportata per prevenire il surriscaldamento e garantire un funzionamento sicuro.
 - 4 PRESE MULTI STANDARD: questa prolunga è dotata di quattro prese multi standard, che offrono la massima versatilità. Le prese sono compatibili con spine Schuko e spine italiane sia di grande che di piccolo formato (10/16A). Questa caratteristica consente di utilizzare una vasta gamma di dispositivi senza bisogno di adattatori aggiuntivi.
+- DISGIUNTORE TERMICO INTEGRATO: il disgiuntore termico integrato interviene automaticamente in caso di surriscaldamento, garantendo una maggiore sicurezza. Si raccomanda di utilizzare la prolunga completamente srotolata e di evitare di collegare carichi che superino la potenza massima supportata per prevenire il surriscaldamento e garantire un funzionamento sicuro.
+- LUNGHEZZA 10MT: cavo multipolare tipo 3G di 10 metri di lunghezza, sezione 1 mm² .
+- POTENZA MAX 2200W – 230VA: la prolunga supporta una potenza massima di 3200W con il cavo completamente svolto, mentre la potenza massima supportata scende a 1100W con il cavo avvolto.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08VNPQYQ7{{</world>}}

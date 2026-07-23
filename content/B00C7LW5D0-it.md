@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Agitare bene ed erogare uniformemente, a circa 15 cm, sui capelli asciutti e pettinati, lasciare agire qualche minuto e spazzolare; nickel tested e senza conservanti e glutine
-- Shampoo secco purificante con Pro-Vitamina B5, assorbe impurità e sebo in eccesso tra un lavaggio e laltro, assorbendo gli odori e donando leggerezza e idratazione ai capelli
 - Defence Hair è la linea per la detersione quotidiana dei capelli e della cute formulata per tutte le esigenze, proteggendo la pelle più sensibile ed esaltando la naturale bellezza della chioma
+- Shampoo secco purificante con Pro-Vitamina B5, assorbe impurità e sebo in eccesso tra un lavaggio e laltro, assorbendo gli odori e donando leggerezza e idratazione ai capelli
+- Agitare bene ed erogare uniformemente, a circa 15 cm, sui capelli asciutti e pettinati, lasciare agire qualche minuto e spazzolare; nickel tested e senza conservanti e glutine
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00C7LW5D0{{</world>}}

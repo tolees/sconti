@@ -28,11 +28,11 @@ average: '8.735'
 
 ℹ️:
 
-- Costruito per durare: in lega di zinco di alta qualità, con rivestimento resistente ai raggi UV liscio e con design integrato che rende questo cavo resistente all’ossidazione e allo sbiadimento. Il cavo intrecciato in nylon di alta qualità non si consuma con un uso prolungato.
-- Contenuto della confezione: cavo Baseus USB Tipo-C da 100 W. Siamo fiduciosi nelle prestazioni di lunga durata del nostro prodotto.
 - Alta potenza da 100 W: la tecnologia PD da 5 A/20 V 100 W porta la velocità di ricarica a un livello superiore. La ricarica rapida consente di caricare completamente un Samsung S20, da 0 a 100%, in 50 minuti. Può anche caricare un MacBook Pro da 16 pollici fino al 75% in 1 ora - 58% più veloce.
-- Chip E-Marker certificato: il chip intelligente certificato regola la corrente e la tensione, assicurando una ricarica rapida da 100 W in totale sicurezza. Puoi usarlo per caricare qualsiasi dispositivo in tutta tranquillità.
 - Ampia compatibilità: questo cavo supporta la maggior parte dei protocolli di ricarica rapida presenti sul mercato. Può caricare tutti i dispositivi dotati di USB Tipo-C, come telefoni, tablet, laptop e anche i più recenti MacBook Pro/Air e iPad Pro alla massima velocità.
+- Contenuto della confezione: cavo Baseus USB Tipo-C da 100 W. Siamo fiduciosi nelle prestazioni di lunga durata del nostro prodotto.
+- Costruito per durare: in lega di zinco di alta qualità, con rivestimento resistente ai raggi UV liscio e con design integrato che rende questo cavo resistente all’ossidazione e allo sbiadimento. Il cavo intrecciato in nylon di alta qualità non si consuma con un uso prolungato.
+- Chip E-Marker certificato: il chip intelligente certificato regola la corrente e la tensione, assicurando una ricarica rapida da 100 W in totale sicurezza. Puoi usarlo per caricare qualsiasi dispositivo in tutta tranquillità.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08M5PSFWF{{</world>}}

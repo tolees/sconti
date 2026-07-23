@@ -28,11 +28,11 @@ average: '25.0'
 
 ℹ️:
 
-- DOPPIA CONNETTIVITÀ – Connetti il telecomando R500s al computer tramite ricevitore USB o Bluetooth; Un comodo dock integrato consente di riporre il piccolo ricevitore USB allinterno del telecomando quando non viene utilizzato
 - COMPATIBILITÀ UNIVERSALE – Il telecomando laser di classe 1 R500s è ottimizzato per il funzionamento con Windows, macOS, iOS e Android, oltre che con i maggiori software per presentazioni, tra cui PowerPoint, Keynote, PDF, Google Slides e Prezi
-- RAGGIO DAZIONE DI 20 METRI* – Muoviti e presenta con la massima libertà fino a 20 metri di distanza. Perfetto per sale riunioni di medie e grandi dimensioni;*Può variare a seconda del tipo di utilizzo
 - GESTIONE INTELLIGENTE DELLA BATTERIA – Il telecomando R500s funziona per 12 mesi* con ununica batteria AAA. Quando la carica rimanente è ridotta, il telecomando R500s attiva la modalità di risparmio energetico disattivando il laser per aumentare la durata della batteria in modo da garantirti una settimana extra di presentazioni;*Può variare a seconda del tipo di utilizzo
 - PERSONALIZZAZIONE** - Il telecomando R500s funziona con la potente app Logitech Presentation, così da consentirti di personalizzare le funzioni dei pulsanti, monitorare la durata della batteria e impostare un timer su schermo per la presentazione **Richiede linstallazione del software Logitech Presentation, disponibile per il download su logitech.com.
+- DOPPIA CONNETTIVITÀ – Connetti il telecomando R500s al computer tramite ricevitore USB o Bluetooth; Un comodo dock integrato consente di riporre il piccolo ricevitore USB allinterno del telecomando quando non viene utilizzato
+- RAGGIO DAZIONE DI 20 METRI* – Muoviti e presenta con la massima libertà fino a 20 metri di distanza. Perfetto per sale riunioni di medie e grandi dimensioni;*Può variare a seconda del tipo di utilizzo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07W5JK27G{{</world>}}

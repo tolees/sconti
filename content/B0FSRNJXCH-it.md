@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - 1 moneta Pokémon di Mega Lucario
-- 6 buste di espansione del Gioco di Carte Collezionabili Pokémon
-- Contenuto Esclusivo della Valigetta Pokémon Autunno 2025:
 - 3 carte olografiche: 1 di Ralts, 1 di Kirlia e 1 di Riolu
 - Un mini album e 4 fogli di adesivi per una collezione délite
+- Contenuto Esclusivo della Valigetta Pokémon Autunno 2025:
+- 6 buste di espansione del Gioco di Carte Collezionabili Pokémon
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FSRNJXCH{{</world>}}

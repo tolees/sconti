@@ -28,10 +28,10 @@ average: '77.85'
 
 ℹ️:
 
-- CERNIERA - Pagina intera
 - CAPPUCCIO - regolabile con coulisse
-- Articoli consegnati: 1 giacca da uomo Helly Hansen HP Ocean Fz 2.0 - Felpa con cappuccio Grey Melange M
+- CERNIERA - Pagina intera
 - OPERE DARTE - STAMPA Logo HH
+- Articoli consegnati: 1 giacca da uomo Helly Hansen HP Ocean Fz 2.0 - Felpa con cappuccio Grey Melange M
 - TASCA - Tasche per le mani con cerniera
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

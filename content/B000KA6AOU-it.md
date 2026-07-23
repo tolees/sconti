@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Nalgene
 - Bottiglia
 - Bianco
+- Nalgene
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000KA6AOU{{</world>}}

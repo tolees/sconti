@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - DESIGN SENZA TEMPO: contenuto nel classico barattolo di vetro con coperchio per preservare la fragranza; etichetta rimovibile per un look personalizzato
+- CANDELE A LUNGA DURATA: fino a 150 ore; 17 cm di altezza x 10 cm di larghezza (623 g)
 - AROMA CHE RIEMPIE LAMBIENTE: Gli ingredienti autentici e la cera di prima qualità garantiscono una fragranza costante e duratura
 - UNA COMBUSTIONE PULITA E UNIFORME: lo stoppino di cotone al 100% in fibra naturale è raddrizzato e centrato
 - BALSAMO & CEDRO: Un accento profumato ispirato al balsamo di pino si fonde con le vivaci note di legno di cedro, evocando una passeggiata nel bosco, mentre le sfumate note di fondo che richiamano lambra calda offrono una sensazione di comfort e tranquillità.
-- CANDELE A LUNGA DURATA: fino a 150 ore; 17 cm di altezza x 10 cm di larghezza (623 g)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B017KPIFL8{{</world>}}

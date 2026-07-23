@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- SENZA FLUORO, ALCOL E CLOREXIDINA: La Clorexidina può causare macchie sui denti. Questo collutorio è formulato per prevenirle e ridurre il rischio di effetti indesiderati
 - SENSIBILITÀ E PLACCA: Collutorio pensato per contrastare lipersensibilità dentinale, donando sollievo dal dolore in 30 secondi (test in vitro), con azione antibatterica e anticarie
-- COLLUTORIO AD ALTA DENSITÀ: La particolare densità è stata appositamente studiata per avere una maggiore aderenza al dente, aumentando l’efficacia dei microRepair e per una difesa smalto prolungata
 - CON MICROREPAIR: I microRepair remineralizzano lo smalto proteggendo i denti da carie, placca e tartaro
+- SENZA FLUORO, ALCOL E CLOREXIDINA: La Clorexidina può causare macchie sui denti. Questo collutorio è formulato per prevenirle e ridurre il rischio di effetti indesiderati
+- COLLUTORIO AD ALTA DENSITÀ: La particolare densità è stata appositamente studiata per avere una maggiore aderenza al dente, aumentando l’efficacia dei microRepair e per una difesa smalto prolungata
 - ARRICCHITO CON ZINCO PCA: Noto per le sue proprietà antibatteriche, impedisce e protegge dalla formazione di placca, tartaro e carie
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

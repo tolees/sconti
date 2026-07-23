@@ -28,9 +28,9 @@ average: '16.75'
 
 ℹ️:
 
-- Capiente
 - Resistente
 - Leggero
+- Capiente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07XGRYZTJ{{</world>}}

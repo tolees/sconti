@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Un’esplosione di gusto per ogni momento della giornata: dalla merenda allaperitivo
+- Gigapack: ideale per essere condiviso durante laperitivo con gli amici
 - Scopri il godimento in tutti i suoi formati...ce nè uno per ogni occasione!
 - Fonzies original: irresistibili croccantini di mais al formaggio cotti al forno
-- Gigapack: ideale per essere condiviso durante laperitivo con gli amici
 - Prenditi una pausa e ricorda, se non ti lecchi le dita godi solo a metà
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

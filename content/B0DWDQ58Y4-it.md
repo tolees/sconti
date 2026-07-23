@@ -29,11 +29,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Istruzioni per la costruzione in 3D: l’app LEGO Builder offre una guida digitale per la costruzione del modello, con strumenti intuitivi per ingrandire e ruotare una versione digitale 3D della figura mentre viene assemblata
-- Giocattolo LEGO Star Wars personalizzabile: posiziona il Battle Droid in sella allo speeder STAP sul supporto, o cambia la scena mettendo laction figure da sola accanto al veicolo LEGO STAP e al supporto
-- Decorazione da scrivania: il supporto espositivo è dotato di targhetta informativa e di spazio per la versione piccola del personaggio LEGO del Battle Droid, con il suo veicolo giocattolo speeder STAP incluso
-- Droide da battaglia con STAP Speeder build-and-display: questo gioco per bambini e bambine da 12 anni in su permette di costruire laction figure LEGO Star Wars del Battle Droid con STAP, con cui creare unesposizione di grande effetto
 - Regalo di compleanno LEGO Star Wars per bambini e bambine: regala questo set a un fan della saga stellare o a un appassionato di gadget e oggetti LEGO Star Wars da collezione di qualsiasi età
+- Decorazione da scrivania: il supporto espositivo è dotato di targhetta informativa e di spazio per la versione piccola del personaggio LEGO del Battle Droid, con il suo veicolo giocattolo speeder STAP incluso
 - Robot giocattolo costruibile e snodabile: il Battle Droid può essere messo in posa in vari modi ed è dotato di blaster in mattoncini, che può essere posizionato sulla sua schiena o tenuto in mano
+- Giocattolo LEGO Star Wars personalizzabile: posiziona il Battle Droid in sella allo speeder STAP sul supporto, o cambia la scena mettendo laction figure da sola accanto al veicolo LEGO STAP e al supporto
+- Droide da battaglia con STAP Speeder build-and-display: questo gioco per bambini e bambine da 12 anni in su permette di costruire laction figure LEGO Star Wars del Battle Droid con STAP, con cui creare unesposizione di grande effetto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DWDQ58Y4{{</world>}}

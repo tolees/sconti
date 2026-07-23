@@ -29,10 +29,10 @@ average: '55.5'
 ℹ️:
 
 - Contents: 1x Columbia Powder Lite II, Giacca da Uomo, Colore: Blu (Collegiate Navy), Taglia: L, Articolo: 2086964
+- Ottima vestibilità grazie ai polsini elasticizzati e al cordoncino regolabile sullorlo
 - Giacca invernale idrorepellente da uomo, Ideale per giornate fredde in città, lungo i sentieri e per altre attività allaperto, Taglio moderno
 - Particolarmente calda grazie alla tecnologia Omni-Heat con fodera termoriflettente, Materiale idrorepellente per una protezione ottimale dallumidità
 - Pratica cerniera a tutta lunghezza, 2 tasche con cerniera per mani al caldo e al sicuro
-- Ottima vestibilità grazie ai polsini elasticizzati e al cordoncino regolabile sullorlo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CN3W7FQ9{{</world>}}

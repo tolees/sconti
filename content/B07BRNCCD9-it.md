@@ -28,9 +28,9 @@ average: '235.04'
 
 ℹ️:
 
-- Lubrificazione automatica
 - Barra da 30 cm Oregon
 - Motore Brushless fino a 70 tagli per carica con una batteria 18V 5Ah
+- Lubrificazione automatica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07BRNCCD9{{</world>}}

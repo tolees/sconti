@@ -29,9 +29,9 @@ average: '18.99'
 ℹ️:
 
 - Occhiali da sole categoria filtro 3, colorazione sufficientemente scura per ambienti esterni con luce diretta del sole; Assorbono tra l82% e il 92% della luce solare; Materiale lenti: Lenti TR18 con sigillo Eastman, gran qualità ottica e buona resistenza; Materiali eco-sostenibili; Protezione 100% UV; Colore lenti: Beige; Aspetto lenti: A specchio
-- Modello unisex
-- Materiale montatura: TR90; Colore montatura: Arancione; Colore asta: Arancione
 - Original Hawkers product; Package includes microfiber pouch and box
+- Materiale montatura: TR90; Colore montatura: Arancione; Colore asta: Arancione
+- Modello unisex
 - Modello di occhiali da sole in stile urban-sport a mascherina con montatura rimless, visione panoramica, ponte nasale e aste in TR90; Forme comode e leggere che ricordano la moda degli anni 2000, molto di tendenza negli outfit di tutti i giorni o per gli Après Ski; Disponibile in vari colori di lenti e montatura in finitura lucida e opaca
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

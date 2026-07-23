@@ -28,10 +28,10 @@ average: '14.56'
 
 ℹ️:
 
-- Chiusura lampo invisibile, bella apparenza, Fondo parte contraibile da una corda.
-- Per riferimento: riceverai una fattura con IVA via e-mail dopo lacquisto. Per altre preoccupazioni correlate, si prega di contattare il nostro servizio clienti.
 - Dimensioni:175 × 30.5 / 36.5cm; rivestimento in :100% poliestere; Altamente impermeabile; UV-assorbente.
 - Quando non in uso, lasta può essere popolare e memorizzata facilmente. Lasta può essere memorizzata nel caso protettivo quando si utilizza la custodia protettiva.
+- Chiusura lampo invisibile, bella apparenza, Fondo parte contraibile da una corda.
+- Per riferimento: riceverai una fattura con IVA via e-mail dopo lacquisto. Per altre preoccupazioni correlate, si prega di contattare il nostro servizio clienti.
 - Con asta e cerniera per una facile apertura dellombrellone.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

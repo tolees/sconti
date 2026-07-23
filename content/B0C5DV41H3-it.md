@@ -28,11 +28,11 @@ average: '3.49'
 
 ℹ️:
 
-- Un brick da 550g per circa 7 porzioni; La Crema Fredda Caffè Borbone è subito pronta e non necessita di catena del freddo per la conservazione; Da gustare quando vuoi e dove vuoi
-- Crema Fredda Caffè di Caffè Borbone per offrire un break fresco e veloce al gusto caffè; Si conserva a temperatura ambiente nel suo pratico brick da circa sette porzioni; Bastano poche ore in frigorifero prima di servirla, la Crema Fredda Caffè è subito pronta da versare e gustare
-- NOVITA: Da gustare sia Fredda che Calda!Scaldala in micronde per 50 secondi o mettila in frigo per qualche ora, per gustarla in ogni stagione, nel modo in cui preferisci
-- Ingredienti: Latte 60%, panna 23%, zucchero, caffè solubile 1,2%, amido modificato di mais, amido modificato di tapioca, addensante carragenina; Lattosio inferiore a 0,1% in conseguenza della sua scissione in glucosio e galattosio
 - Senza lattosio e senza glutine è adatta a tutti, prodotta con latte e panna 100% italiani, questa crema al cucchiaio è golosa e buona come al bar
+- Ingredienti: Latte 60%, panna 23%, zucchero, caffè solubile 1,2%, amido modificato di mais, amido modificato di tapioca, addensante carragenina; Lattosio inferiore a 0,1% in conseguenza della sua scissione in glucosio e galattosio
+- NOVITA: Da gustare sia Fredda che Calda!Scaldala in micronde per 50 secondi o mettila in frigo per qualche ora, per gustarla in ogni stagione, nel modo in cui preferisci
+- Crema Fredda Caffè di Caffè Borbone per offrire un break fresco e veloce al gusto caffè; Si conserva a temperatura ambiente nel suo pratico brick da circa sette porzioni; Bastano poche ore in frigorifero prima di servirla, la Crema Fredda Caffè è subito pronta da versare e gustare
+- Un brick da 550g per circa 7 porzioni; La Crema Fredda Caffè Borbone è subito pronta e non necessita di catena del freddo per la conservazione; Da gustare quando vuoi e dove vuoi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C5DV41H3{{</world>}}

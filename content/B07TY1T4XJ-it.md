@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- children 3+
-- Fully compatible
 - Full colour instructions included
+- Fully compatible
 - 617 pieces
+- children 3+
 - Sluban 055 DESTROYER 1:450
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

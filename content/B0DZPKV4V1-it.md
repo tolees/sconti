@@ -28,11 +28,11 @@ average: '9.94'
 
 ℹ️:
 
-- In questo gioco collaborativo di piazzamento dadi, impersonate pilota e co-pilota nell’atto di far atterrare un aereo di linea in diversi aeroporti in tutto il mondo.
-- Assumete il controllo di un aeroplano con il vostro compagno di volo, coordinate gli sforzi e atterrate in diversi aeroporti in tutto il mondo!
-- Dovrete comunicare con la Torre di Controllo per assicurarvi che la rotta di avvicinamento sia sgombra dal traffico aereo, regolare la velocità in modo da non mancare la pista di atterraggio, bilanciare l’aereo così da poterlo mantenere parallelo al suolo, azionare i flap per aumentare la portanza e consentire una discesa più ripida, estrarre il carrello di atterraggio per attutire il contatto con la terra e infine utilizzare i freni per rallentare l’aereo una volta atterrato.
-- Numero di giocatori: 2 | età consigliata: 12+ | durata media: 20 min | Edizione in lingua italiana
 - Benvenuti a Sky Team Turbulence. Questa è un’espansione del gioco base Sky Team che offre nuovi moduli e 20 nuovi scenari per nuove destinazioni.
+- Dovrete comunicare con la Torre di Controllo per assicurarvi che la rotta di avvicinamento sia sgombra dal traffico aereo, regolare la velocità in modo da non mancare la pista di atterraggio, bilanciare l’aereo così da poterlo mantenere parallelo al suolo, azionare i flap per aumentare la portanza e consentire una discesa più ripida, estrarre il carrello di atterraggio per attutire il contatto con la terra e infine utilizzare i freni per rallentare l’aereo una volta atterrato.
+- In questo gioco collaborativo di piazzamento dadi, impersonate pilota e co-pilota nell’atto di far atterrare un aereo di linea in diversi aeroporti in tutto il mondo.
+- Numero di giocatori: 2 | età consigliata: 12+ | durata media: 20 min | Edizione in lingua italiana
+- Assumete il controllo di un aeroplano con il vostro compagno di volo, coordinate gli sforzi e atterrate in diversi aeroporti in tutto il mondo!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DZPKV4V1{{</world>}}

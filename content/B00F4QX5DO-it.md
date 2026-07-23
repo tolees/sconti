@@ -28,11 +28,11 @@ average: '13.39'
 
 ℹ️:
 
-- TRASFORMATORE SICURO IN CORRENTE ALTERNATA: Progettato per uso discontinuo, riduce la tensione della rete elettrica (230V AC) a livelli sicuri per dispositivi a bassa tensione come campanelli, citofoni e segnali acustici
-- POTENZA 15VA E INSTALLAZIONE MODULARE: Trasformatore su barra DIN da 2 moduli, facile e veloce da montare in quadri elettrici standard
 - ALIMENTAZIONE SECONDARIA 4-8-12V AC: Fornisce corrente stabile e sicura, compatibile con piccoli impianti domestici e sistemi di allarme a intermittenza
-- ISOLAMENTO E SICUREZZA: Gli avvolgimenti primario e secondario sono separati elettricamente da un doppio isolamento, riducendo i rischi derivanti da contatti accidentali con parti attive o masse in caso di guasto
+- POTENZA 15VA E INSTALLAZIONE MODULARE: Trasformatore su barra DIN da 2 moduli, facile e veloce da montare in quadri elettrici standard
+- TRASFORMATORE SICURO IN CORRENTE ALTERNATA: Progettato per uso discontinuo, riduce la tensione della rete elettrica (230V AC) a livelli sicuri per dispositivi a bassa tensione come campanelli, citofoni e segnali acustici
 - MADE IN ITALY: Prodotto affidabile e certificato, progettato per garantire lunga durata e prestazioni sicure negli impianti domestici
+- ISOLAMENTO E SICUREZZA: Gli avvolgimenti primario e secondario sono separati elettricamente da un doppio isolamento, riducendo i rischi derivanti da contatti accidentali con parti attive o masse in caso di guasto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00F4QX5DO{{</world>}}

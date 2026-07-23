@@ -29,8 +29,8 @@ average: '12.35'
 ℹ️:
 
 - T-shirt a maniche corte
-- Illustrazione stampata sul davanti
 - Jersey 100% cotone
+- Illustrazione stampata sul davanti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DY1PQYBQ{{</world>}}

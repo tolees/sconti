@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Calzata regolare
-- Suola in gomma
-- Tomaia in materiale sintetico e suede
 - Iconica silhouette con punta a T
+- Tomaia in materiale sintetico e suede
+- Suola in gomma
+- Calzata regolare
 - Chiusura con lacci
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

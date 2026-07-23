@@ -28,12 +28,12 @@ average: '8.21'
 
 ℹ️:
 
-- NOTE AGGIUNTIVE SUL TESSUTO E CONSIGLI PER LA CURA: a causa della natura delicata del tessuto in viscosa, si raccomanda il lavaggio a bassa temperatura e lasciugatura allaria, per evitare il restringimento e la formazione di pieghe dovute al calore eccessivo. Per un aspetto ancora più curato e rifinito, stirare delicatamente o utilizzare il vapore. Prima di selezionare la taglia, si raccomanda di consultare la guida alle taglie e di prendere le misure
-- DETTAGLI: presenta un semplice collo a fascia con scollo a V, maniche corte, chiusura anteriore a bottoni e unincrespatura sul davanti per un look femminile.
-- TWILL DRAPPEGGIATO: realizzata in 100% viscosa, questa viscosa non elasticizzata è estremamente traspirante e leggera. Con un drappeggio bellissimo e una finitura morbida e uniforme, questo tessuto è confortevole, da indossare in tutte le stagioni.
-- VESTIBILITÀ RILASSATA: vestibilità comoda e rilassata su tutto il corpo.
-- CAMICETTA PER TUTTI I GIORNI: questa camicetta versatile è un caposaldo del guardaroba, perfetta per il lavoro, per le uscite o i fine settimana.
 - Nota: si prega di controllare e misurare con la tabella delle taglie prima di selezionare la taglia
+- TWILL DRAPPEGGIATO: realizzata in 100% viscosa, questa viscosa non elasticizzata è estremamente traspirante e leggera. Con un drappeggio bellissimo e una finitura morbida e uniforme, questo tessuto è confortevole, da indossare in tutte le stagioni.
+- NOTE AGGIUNTIVE SUL TESSUTO E CONSIGLI PER LA CURA: a causa della natura delicata del tessuto in viscosa, si raccomanda il lavaggio a bassa temperatura e lasciugatura allaria, per evitare il restringimento e la formazione di pieghe dovute al calore eccessivo. Per un aspetto ancora più curato e rifinito, stirare delicatamente o utilizzare il vapore. Prima di selezionare la taglia, si raccomanda di consultare la guida alle taglie e di prendere le misure
+- VESTIBILITÀ RILASSATA: vestibilità comoda e rilassata su tutto il corpo.
+- DETTAGLI: presenta un semplice collo a fascia con scollo a V, maniche corte, chiusura anteriore a bottoni e unincrespatura sul davanti per un look femminile.
+- CAMICETTA PER TUTTI I GIORNI: questa camicetta versatile è un caposaldo del guardaroba, perfetta per il lavoro, per le uscite o i fine settimana.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B082ZTNR3V{{</world>}}

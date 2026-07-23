@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Includes: Cross-Gen Bundle of Call of Duty: Modern Warfare III, PS4 and PS5 versions of the game;
 - ADAPT OR DIE IN A FIGHT AGAINST THE ULTIMATE THREAT
 - One of the greatest collections of Multiplayer maps ever. Launching with new Ground War maps boasting innovative play spaces and the epic return and evolution of the popular War Mode
-- AMAZON EXCLUSIVE BONUS - Call of Duty Endowment Direct Action Pack Bundle included. Bundle includes 3 Call of Duty Endowment (C.O.D.E.) themed in-game items including; Calling Card, Animated Emblem and Weapon Sticker***
+- Includes: Cross-Gen Bundle of Call of Duty: Modern Warfare III, PS4 and PS5 versions of the game;
 - Combat means making choices — different loadouts, different paths through the mission. Combat missions that provide more player choice. There is no one-size-fits-all solution – it is your choice whether to take the stealthy approach or go loud taking on any and all foes.
+- AMAZON EXCLUSIVE BONUS - Call of Duty Endowment Direct Action Pack Bundle included. Bundle includes 3 Call of Duty Endowment (C.O.D.E.) themed in-game items including; Calling Card, Animated Emblem and Weapon Sticker***
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CFQWD8DW{{</world>}}

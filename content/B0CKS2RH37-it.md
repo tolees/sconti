@@ -28,12 +28,12 @@ average: '30.0'
 
 ℹ️:
 
-- Tomaia in tessuto e materiale sintetico
-- Calzata regolare
-- Struttura leggera
 - Intersuola Cloudfoam
 - Modello slip-on
+- Tomaia in tessuto e materiale sintetico
 - Suola in gomma
+- Struttura leggera
+- Calzata regolare
 - Fodera in tessuto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

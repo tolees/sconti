@@ -28,11 +28,11 @@ average: '107.24'
 
 ℹ️:
 
+- Lunghezza cavo: 2 m
 - Potente: il sistema ottimizzato di cambio velocità della lama da 1200 w aumenta la durata del motore e della lama stessa, consentendo di tagliare con facilità una grande varietà di materiali
 - Lama multi-materiale r210-tct (24 denti) inclusa
-- Lunghezza cavo: 2 m
-- Accurata: precisione di taglio con impostazioni di angoli di smusso 0°-45° e di bisello 45°-45°, capacità massima di taglio trasversale 125 x 55
 - Multi-materiale: inclusa lama giapponese con punte in carburo di tungsteno (tct) per effettuare tagli su acciaio, alluminio, legno con chiodi, plastica e molto altro
+- Accurata: precisione di taglio con impostazioni di angoli di smusso 0°-45° e di bisello 45°-45°, capacità massima di taglio trasversale 125 x 55
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07S5VWY9M{{</world>}}

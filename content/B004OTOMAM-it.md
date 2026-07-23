@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Finitura fosfatata nera
-- Apertura mm 29
 - Lunghezza mm 200
+- Apertura mm 29
 - Chiave regolabile a rullino
+- Finitura fosfatata nera
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B004OTOMAM{{</world>}}

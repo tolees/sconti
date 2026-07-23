@@ -28,10 +28,10 @@ average: '55.85'
 
 ℹ️:
 
-- MATERIALE ROBUSTO E DUREVOLE: Realizzata in plastica HDPE resistente, questa base per ombrellone è progettata per resistere ai raggi UV, alla corrosione e alle intemperie. Anche dopo un’esposizione prolungata al sole o alla pioggia, la struttura mantiene la sua forma e funzionalità. Grazie a questa scelta di materiali di alta qualità, il supporto per ombrellone decentrato è ideale per un uso all’aperto tutto l’anno e garantisce una lunga durata.
-- IDEALE PER OMBRELLONI DECENTRATI: Compatibile con tutti gli ombrelloni decentrati standard con base a croce. Disponibile in tre eleganti colori: nero, antracite e grigio, si abbina perfettamente alla maggior parte dei mobili da esterno, creando un’atmosfera armoniosa. Scegliete il colore ideale e abbinate la base ai nostri ombrelloni decentrati versatili del marchio tillvex.
 - OPZIONI DI RIEMPIMENTO VERSATILI: La base per ombrellone in plastica tillvex può essere riempita con 90L di acqua o 120kg di sabbia, garantendo un’eccellente stabilità. Questa flessibilità permette di adattare la stabilità in base alle condizioni meteo e alla dimensione dell’ombrellone. Che si tratti di brezze leggere o vento forte, questo supporto mantiene l’ombrellone fermo e sicuro.
+- IDEALE PER OMBRELLONI DECENTRATI: Compatibile con tutti gli ombrelloni decentrati standard con base a croce. Disponibile in tre eleganti colori: nero, antracite e grigio, si abbina perfettamente alla maggior parte dei mobili da esterno, creando un’atmosfera armoniosa. Scegliete il colore ideale e abbinate la base ai nostri ombrelloni decentrati versatili del marchio tillvex.
 - DESIGN COMPATTO: Grazie al suo design intelligente e salvaspazio, questa base per ombrellone può essere facilmente riposta quando non in uso. I quattro moduli possono essere impilati per ridurre l’ingombro. Inoltre, le maniglie ergonomiche permettono di spostare facilmente le piastre anche quando sono piene, rendendole perfette per l’uso su balconi, terrazze o giardini.
+- MATERIALE ROBUSTO E DUREVOLE: Realizzata in plastica HDPE resistente, questa base per ombrellone è progettata per resistere ai raggi UV, alla corrosione e alle intemperie. Anche dopo un’esposizione prolungata al sole o alla pioggia, la struttura mantiene la sua forma e funzionalità. Grazie a questa scelta di materiali di alta qualità, il supporto per ombrellone decentrato è ideale per un uso all’aperto tutto l’anno e garantisce una lunga durata.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DZ3311KR{{</world>}}

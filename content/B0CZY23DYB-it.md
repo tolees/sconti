@@ -28,13 +28,13 @@ average: '209.983333333333'
 
 ℹ️:
 
-- ESCLUSIVA AMAZON: Friggitrice ad aria in nero/rame con pinze. 30% più compatta (rispetto a AF400). Capacità extra-large di 9,5L per 8 persone. Cuoce fino al 55% più velocemente rispetto ai forni a ventola (testata con bastoncini di pesce e salsicce)
 - RISPARMIO ENERGETICO: Cuoci utilizzando fino al 55% in meno di energia rispetto a un forno* (*test e calcoli basati sul tempo di cottura consigliato per le salsicce, utilizzando la funzione air fry, rispetto ai forni tradizionali)
-- CUCINARE SU 4 LIVELLI CONTEMPORANEAMENTE: Include 2 scomparti e 2 griglie per cucinare su 4 livelli nello stesso momento, raddoppiando così la quantità di cibo. Le ventole posteriori assicurano una cottura uniforme e croccantezza su tutti i livelli
 - 6 FUNZIONI DI COTTURA: max crisp, frittura ad aria, cottura arrosto, al forno, riscaldamento, essicazione. Fino al 75% di grassi in meno* con la funzione Air Fry (*Test con patate fritte in modo tradizionale). Funzioni SYNC & MATCH per i 2 scomparti
-- CUCINARE SU 4 LIVELLI CONTEMPORANEAMENTE: Include 2 scomparti e 2 griglie per cucinare su 4 livelli nello stesso momento, raddoppiando così la quantitÃ di cibo. Le ventole posteriori assicurano una cottura uniforme e croccantezza su tutti i livelli
+- ESCLUSIVA AMAZON: Friggitrice ad aria in nero/rame con pinze. 30% più compatta (rispetto a AF400). Capacità extra-large di 9,5L per 8 persone. Cuoce fino al 55% più velocemente rispetto ai forni a ventola (testata con bastoncini di pesce e salsicce)
 - INCLUDE: Friggitrice ad aria Ninja Double Stack 9,5L (spina UE), 2 scomparti da 4,75L, 2 piastre antiaderenti, 2 griglie, pinze in silicone. Parti lavabili in lavastoviglie. Dimensioni: A 38,5cm x L 28cm x P 47cm. Peso: 10,3kg. Colore: Nero/Rame
+- CUCINARE SU 4 LIVELLI CONTEMPORANEAMENTE: Include 2 scomparti e 2 griglie per cucinare su 4 livelli nello stesso momento, raddoppiando così la quantitÃ di cibo. Le ventole posteriori assicurano una cottura uniforme e croccantezza su tutti i livelli
 - ESCLUSIVA AMAZON: Friggitrice ad aria in nero/rame con pinze. 30% piÃ1 compatta (rispetto a AF400). CapacitÃ extra-large di 9,5L per 8 persone. Cuoce fino al 55% piÃ1 velocemente rispetto ai forni a ventola (testata con bastoncini di pesce e salsicce)
+- CUCINARE SU 4 LIVELLI CONTEMPORANEAMENTE: Include 2 scomparti e 2 griglie per cucinare su 4 livelli nello stesso momento, raddoppiando così la quantità di cibo. Le ventole posteriori assicurano una cottura uniforme e croccantezza su tutti i livelli
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZY23DYB{{</world>}}

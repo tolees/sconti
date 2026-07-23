@@ -28,9 +28,9 @@ average: '31.91'
 
 ℹ️:
 
-- Una versatile camicia con bottoni da indossare con jeans o chino
 - Disegnata con un taglio aderente e slanciato
 - Rifinita con un logo discreto sul petto
+- Una versatile camicia con bottoni da indossare con jeans o chino
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CBNDSG5X{{</world>}}

@@ -28,11 +28,11 @@ average: '34.504864864865'
 
 ℹ️:
 
-- Confezione da 24 bottiglie da 33cl di Leffe Blonde
-- Leffe Blonde è unautentica birra bionda d´abbazia con una leggera punta di amaro e un aroma pieno, gradevole e fruttato, a cui fa seguito un retrogusto forte e sorprendente. 6,6 Percentuale alcool
-- PERFETTA PER ESALTARE IL GUSTO DI: farinacei, cereali, pizze semplici, pesce bianco, pollame, carni bianche magre, uova e derivati, latticini freschi o di media stagionatura, fritture leggere, dolci con vaniglia, macedonie con frutta a pasta gialla
 - Delicata ma caratteristica, Leffe Blonde è la birra da degustazione per eccellenza: regala un tocco di sapore in più ai piatti semplici e accompagna con leggerezza anche i tuoi fritti
+- PERFETTA PER ESALTARE IL GUSTO DI: farinacei, cereali, pizze semplici, pesce bianco, pollame, carni bianche magre, uova e derivati, latticini freschi o di media stagionatura, fritture leggere, dolci con vaniglia, macedonie con frutta a pasta gialla
+- Confezione da 24 bottiglie da 33cl di Leffe Blonde
 - AROMA: floreale e speziato con note di vaniglia e chiodi di garofano SAPORE: dolce, con un retrogusto leggermente speziato, caratterizzato da note di frutta a pasta gialla e scorza d’arancia nel finale Fermentazione: alta fermentazione, filtrata
+- Leffe Blonde è unautentica birra bionda d´abbazia con una leggera punta di amaro e un aroma pieno, gradevole e fruttato, a cui fa seguito un retrogusto forte e sorprendente. 6,6 Percentuale alcool
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B086RFJ5BV{{</world>}}

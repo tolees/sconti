@@ -28,11 +28,11 @@ average: '73.99'
 
 ℹ️:
 
+- Nessun montaggio e facile da riporre: Ogni sedia a sdraio da esterno è già preassemblata; da chiusa misura 94 x 65 x 9 cm e, grazie alla cinghia di trasporto, è facile da portare con sé durante gli spostamenti
+- Vassoio pratico: Ogni lettino da giardino è dotato di un vassoio laterale con 2 portabicchieri, 1 fessura per telefono e 1 spazio per tablet o libro, per tenere gli oggetti a portata di mano
+- Posizione a gravità zero: Ogni sedia a sdraio si regola in modo continuo da 100° a 145°. La leva di regolazione consente di bloccare l’angolo e trovare la posizione più comoda, favorendo la circolazione sanguigna
 - Resistenti: La seduta dei lettini è realizzata in tessuto sintetico traspirante e resistente allo strappo. I cordini di collegamento di qualità aiutano a evitare che la seduta si allenti o ceda, offrendo un sostegno stabile
 - Struttura robusta: Queste poltrone relax da giardino hanno una struttura in acciaio di qualità; ogni poltrona supporta fino a 110 kg, così persone con corporature diverse possono utilizzarle comodamente
-- Posizione a gravità zero: Ogni sedia a sdraio si regola in modo continuo da 100° a 145°. La leva di regolazione consente di bloccare l’angolo e trovare la posizione più comoda, favorendo la circolazione sanguigna
-- Vassoio pratico: Ogni lettino da giardino è dotato di un vassoio laterale con 2 portabicchieri, 1 fessura per telefono e 1 spazio per tablet o libro, per tenere gli oggetti a portata di mano
-- Nessun montaggio e facile da riporre: Ogni sedia a sdraio da esterno è già preassemblata; da chiusa misura 94 x 65 x 9 cm e, grazie alla cinghia di trasporto, è facile da portare con sé durante gli spostamenti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FZG73LS1{{</world>}}

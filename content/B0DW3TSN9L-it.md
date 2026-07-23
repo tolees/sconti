@@ -28,8 +28,8 @@ average: '8.94'
 
 ℹ️:
 
-- Sunsilk Shampoo Cocco e Aloe Vera 250ml
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
+- Sunsilk Shampoo Cocco e Aloe Vera 250ml
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DW3TSN9L{{</world>}}

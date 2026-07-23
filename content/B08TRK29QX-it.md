@@ -28,11 +28,11 @@ average: '17.1'
 
 ℹ️:
 
+- DESIGN COMPATTO: Mini tastiera senza larea del tastierino numerico per avere più spazio sulla scrivania e meno distanza dalla tastiera al mouse
 - REQUISITI DI SISTEMA: Windows 7, 8, 10 e successivi. Il pacchetto include: PERIBOARD-326 e manuale di istruzioni. Garanzia di 24 mesi.
 - FACILE INSTALLAZIONE PLUG AND PLAY: cavo USB lungo circa 1,5 m, in modo da poter raggiungere facilmente il retro del computer; è sufficiente collegare il cavo USB e iniziare a digitare
-- TASTI LUMINOSI PER LAVORARE DI NOTTE: Luce tuttintorno alla tastiera per facilitare il lavoro e la digitazione con meno luce nella stanza
-- DESIGN COMPATTO: Mini tastiera senza larea del tastierino numerico per avere più spazio sulla scrivania e meno distanza dalla tastiera al mouse
 - DESIGN ELEGANTE: Tastiera dal design minimale con tasti a basso profilo, ma robusti e confortevoli adatti a lunghe ore di digitazione
+- TASTI LUMINOSI PER LAVORARE DI NOTTE: Luce tuttintorno alla tastiera per facilitare il lavoro e la digitazione con meno luce nella stanza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08TRK29QX{{</world>}}

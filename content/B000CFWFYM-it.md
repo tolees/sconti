@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Questo gioco di carte classico invita da due a dieci giocatori a sfidarsi tra loro singolarmente o in squadre.
-- Lobiettivo è quello di scartare tutte le proprie carte e, quando ve ne resterà solo una, non dimenticate di gridare UNO!
 - UNO è un gioco amato da tutte le età! Facilissimo iniziare... impossibile smettere!
+- Lobiettivo è quello di scartare tutte le proprie carte e, quando ve ne resterà solo una, non dimenticate di gridare UNO!
 - Il gioco viene fornito con un coloratissimo e robusto barattolo di latta per riporre tutti i pezzi.
+- Questo gioco di carte classico invita da due a dieci giocatori a sfidarsi tra loro singolarmente o in squadre.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000CFWFYM{{</world>}}

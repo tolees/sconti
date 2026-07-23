@@ -28,11 +28,11 @@ average: '89.2933333333333'
 
 ℹ️:
 
-- Solo struttura, impianto di filtrazione non incluso
-- Capacità di riempimento (90%): 4.678 L
-- Dimensioni: 305 cm x 76 cm
-- Il liner in Tritech migliorato a 3 strati è del 15% più resistente agli strappi, del 33% più resistente allo stiramento e dell83% più resistente alle forature rispetto al PVC standard
 - Contenuto: 1 piscina, 1 toppa di riparazione
+- Dimensioni: 305 cm x 76 cm
+- Capacità di riempimento (90%): 4.678 L
+- Solo struttura, impianto di filtrazione non incluso
+- Il liner in Tritech migliorato a 3 strati è del 15% più resistente agli strappi, del 33% più resistente allo stiramento e dell83% più resistente alle forature rispetto al PVC standard
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08CB1R1BK{{</world>}}

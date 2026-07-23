@@ -28,11 +28,11 @@ average: '21.2805263157893'
 
 ℹ️:
 
-- Ingredienti: farina di FRUMENTO, zucchero, cioccolato 14,6% [zucchero, pasta di cacao, burro di cacao, cacao magro, emulsionante: lecitine (SOIA)], olio di girasole, BURRO, sciroppo di glucosio, amido di FRUMENTO, agenti lievitanti (carbonato acido di sodio, carbonato acido dammonio), sale, aroma vanillina; Percentuali espresse sul prodotto finito; Può contenere tracce di FRUTTA A GUSCIO, SENAPE, SESAMO e UOVA
 - PER LA COLAZIONE - Ottimi per la tua colazione o per una merenda ricca di energia
 - GOCCIOLE - Comincia al meglio la giornata con tutto il gusto e lenergia delle Gocciole Pavesi; Una pioggia di cioccolato in una squisita pastafrolla friabile
-- GOCCIOLE - Gocce di cioccolato in una pastafrolla friabile, frollini ottimi da inzuppare nel latte al mattino per avere la giusta carica per affrontare la giornata; Svegliati con gusto ed energia
 - PAVESI - I nostri prodotti contengono solo ingredienti di qualità; Ti accompagniamo in tutti i momenti della giornata: biscotti per la colazione, snack dolci e salati e crackers
+- GOCCIOLE - Gocce di cioccolato in una pastafrolla friabile, frollini ottimi da inzuppare nel latte al mattino per avere la giusta carica per affrontare la giornata; Svegliati con gusto ed energia
+- Ingredienti: farina di FRUMENTO, zucchero, cioccolato 14,6% [zucchero, pasta di cacao, burro di cacao, cacao magro, emulsionante: lecitine (SOIA)], olio di girasole, BURRO, sciroppo di glucosio, amido di FRUMENTO, agenti lievitanti (carbonato acido di sodio, carbonato acido dammonio), sale, aroma vanillina; Percentuali espresse sul prodotto finito; Può contenere tracce di FRUTTA A GUSCIO, SENAPE, SESAMO e UOVA
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B071RKQ6D9{{</world>}}

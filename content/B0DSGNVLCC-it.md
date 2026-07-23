@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- PROTEZIONE COMPLETA: grazie alla sua formulazione a base di Icaridina, offre 4 ore di protezione affidabile contro le punture di zanzara e altri insetti molesti
+- Liberta senza limitI: vivi sereno ogni momento allaria aperta grazie ai nuovi repellenti Autan, che proteggono la tua pelle, consentendoti di goderti appieno ogni avventura senza preoccupazioni
+- PROTEZIONE DALLE ZANZARE DELICATA SULLA PELLE: Autan Pelli Sensibili e un repellente per insetti adatto anche alle pelli sensibili, grazie anche allassenza di profumi, coloranti e conservanti
 - DEDICATO ALLA TUA PELLE: testato dermatologicamente anche per le pelli sensibili, e approvato dalla Skin Health Alliance, ente di accreditamento mondiale per la salute della pelle
 - PRATICO FORMATO LOZIONE, per essere spalmato con precisione sulle zone esposte alle zanzare
-- Liberta senza limitI: vivi sereno ogni momento allaria aperta grazie ai nuovi repellenti Autan, che proteggono la tua pelle, consentendoti di goderti appieno ogni avventura senza preoccupazioni
-- PROTEZIONE COMPLETA: grazie alla sua formulazione a base di Icaridina, offre 4 ore di protezione affidabile contro le punture di zanzara e altri insetti molesti
-- PROTEZIONE DALLE ZANZARE DELICATA SULLA PELLE: Autan Pelli Sensibili e un repellente per insetti adatto anche alle pelli sensibili, grazie anche allassenza di profumi, coloranti e conservanti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DSGNVLCC{{</world>}}

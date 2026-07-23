@@ -28,12 +28,12 @@ average: '109.82'
 
 ℹ️:
 
-- Veloce da riporre – Il manubrio pieghevole e la maniglia di trasporto incorporata permettono di riporre il tosaerba elettrico in poco spazio e di trasportarlo facilmente.
 - Cesto raccoglierba – Il robusto cesto in plastica e nylon può contenere fino a 38 litri di erba tagliata. Lindicatore di livello permette di sapere quando è giunto il momento di svuotare il cesto.
-- Taglio perfetto – La regolazione dellaltezza di taglio centrale a 5 livelli, laltezza del prato desiderata può essere regolata facilmente e rapidamente tra 20 e 60 mm.
 - Potenza elettrica – Il tosaerba è dotato di un potente motore con un elevato regime di giri al minimo ed è perfetto per un prato fino a 700 m².
-- Regolazione flessibile – Il manubrio regolabile in altezza e la robusta staffa di spinta a sgancio rapido, permettono di mantenere la postura di lavoro a lungo.
 - Highwheeler – I grandi pneumatici posteriori in plastica non solo proteggono il prato, ma consentono anche una maggiore maneggevolezza.
+- Taglio perfetto – La regolazione dellaltezza di taglio centrale a 5 livelli, laltezza del prato desiderata può essere regolata facilmente e rapidamente tra 20 e 60 mm.
+- Veloce da riporre – Il manubrio pieghevole e la maniglia di trasporto incorporata permettono di riporre il tosaerba elettrico in poco spazio e di trasportarlo facilmente.
+- Regolazione flessibile – Il manubrio regolabile in altezza e la robusta staffa di spinta a sgancio rapido, permettono di mantenere la postura di lavoro a lungo.
 - Ampio raggio dazione – Grazie alla larghezza di taglio di 37 cm, i prati di grandi dimensioni non sono un problema.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

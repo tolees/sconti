@@ -28,11 +28,11 @@ average: '80.866'
 
 ℹ️:
 
+- SOSTITUZIONE FACILE E VELOCE DEI DISCHI PER SMERIGLIATRICE - Basta inserire il blocco del mandrino per tenere fermo il disco, quindi rimuoverlo con la chiave in dotazione e montare il nuovo disco in pochi secondi
 - TRAPANO AVVITATORE BATTERIA AL LITIO 24V 4Ah DI NUOVA GENERAZIONE - Il trapano e avvitatore Greenworks è dotato di una batteria evoluta utilizzabile in qualsiasi utensile Greenworks da 24V per ridurre gli sprechi e risparmiare spazio e denaro
 - SMERIGLIATRICE ANGOLARE POTENTE E ROBUSTA CON VELOCITÀ VARIABILE FINO A 10500 GIRI/MIN - Comoda da impugnare e studiata per rimuovere la ruggine, lisciare metallo e punti di saldatura, smerigliare metallo e pietra e preparare le superfici da verniciare
-- 3 ANNI DI GARANZIA CON 2 ANNI DI GARANZIA PER LA BATTERIA - Da Greenworks, leader mondiale negli attrezzi elettrici e della tecnologia a batterie, con una reputazione globale per design intelligente, prestazioni elevate e un servizio clienti eccezionale
-- SOSTITUZIONE FACILE E VELOCE DEI DISCHI PER SMERIGLIATRICE - Basta inserire il blocco del mandrino per tenere fermo il disco, quindi rimuoverlo con la chiave in dotazione e montare il nuovo disco in pochi secondi
 - MOTORE BRUSHLESS PER UNA MAGGIORE POTENZA - Progettato per offrire autonomia, potenza e durata, il motore della smerigliatrice a batteria eroga una velocità di rotazione di 10500 giri/minuto per risultati eccezionali su tutti i tipi di metallo e pietra
+- 3 ANNI DI GARANZIA CON 2 ANNI DI GARANZIA PER LA BATTERIA - Da Greenworks, leader mondiale negli attrezzi elettrici e della tecnologia a batterie, con una reputazione globale per design intelligente, prestazioni elevate e un servizio clienti eccezionale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09WGX57C5{{</world>}}

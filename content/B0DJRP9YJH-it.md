@@ -28,11 +28,11 @@ average: '69.0'
 
 ℹ️:
 
-- Suola: 100% gomma vulcanizzata
-- Sintetici riciclati
-- Materiale superiore: 52% PET riciclato 48% pelle bovina
-- Fodera: 63% pelle di maiale - 37% tessuto (100% poliestere riciclato)
 - Colore: nero
+- Sintetici riciclati
+- Suola: 100% gomma vulcanizzata
+- Fodera: 63% pelle di maiale - 37% tessuto (100% poliestere riciclato)
+- Materiale superiore: 52% PET riciclato 48% pelle bovina
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DJRP9YJH{{</world>}}

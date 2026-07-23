@@ -28,11 +28,11 @@ average: '41.99'
 
 ℹ️:
 
-- Invincible VS include varie modalità di gioco, tra cui unavvincente modalità storia scritta da uno degli autori della serie animata.
 - Sferra combo devastanti con rapidi attacchi e astute tattiche difensive per lasciare una scia di sangue e distruzione.
-- Riceverai inoltre una scheda stampata Guida al controller per immergerti subito in Invincible VS e padroneggiarne il combattimento veloce e ricco di combo.
 - Questa edizione fisica include un set di quattro carte da collezione Keepsake, con alcuni combattenti giocabili del roster 3 vs 3 del gioco.
+- Invincible VS include varie modalità di gioco, tra cui unavvincente modalità storia scritta da uno degli autori della serie animata.
 - Invincible VS è un brutale picchiaduro di supereroi 3 vs 3 ambientato nelluniverso di Invincible, in cui potrai combattere letali battaglie con una squadra di popolari personaggi in luoghi caratteristici.
+- Riceverai inoltre una scheda stampata Guida al controller per immergerti subito in Invincible VS e padroneggiarne il combattimento veloce e ricco di combo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0G5ZP7V7H{{</world>}}

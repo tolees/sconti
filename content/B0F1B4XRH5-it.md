@@ -28,9 +28,9 @@ average: '5.0'
 
 ℹ️:
 
-- Tabellone, 56 carte, 8 pedine, spinner, regolamento
 - Autonomia, creatività, rapporto con gli altri
 - Pronti ad arrossire, ridere e divertirvi da matti
+- Tabellone, 56 carte, 8 pedine, spinner, regolamento
 - Il famoso gioco con ottimo design, carte realizzate in modo ottimale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

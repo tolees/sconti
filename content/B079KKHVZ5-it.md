@@ -28,11 +28,11 @@ average: '0.803333333333333'
 
 ℹ️:
 
-- SPAGHETTO QUADRATO N.1: formato di pasta lunga, carnoso, che dà un piacere intenso e appagante - Confezione da 500 g
 - PASTA CLASSICA LA MOLISANA: gamma di pasta genuina e digeribile che nasce da solo grano italiano decorticato a pietra, la trafilatura al bronzo rende la pasta ruvida e tenace, in grado di catturare perfettamente i condimenti
 - PACK ECOSOSTENIBILE: i Pack, riciclabili nella carta, sono composti da materiale che proviene da foreste ben gestite, foreste certificate FSC e da altre fonti controllate
-- LA MOLISANA: dal 1912 azienda 100% Italiana leader nella produzione di pasta con solo grando italiano da filiera integrata, semole di alta qualità e tenacità certificata
 - COTTURA: 13 minuti di cottura - Pasta con eccellente tenuta in cottura che non scuoce mai grazie alla trafilatura al bronzo e ad un indice proteico superiore al 14%
+- LA MOLISANA: dal 1912 azienda 100% Italiana leader nella produzione di pasta con solo grando italiano da filiera integrata, semole di alta qualità e tenacità certificata
+- SPAGHETTO QUADRATO N.1: formato di pasta lunga, carnoso, che dà un piacere intenso e appagante - Confezione da 500 g
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B079KKHVZ5{{</world>}}

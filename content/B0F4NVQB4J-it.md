@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Finitura a costine
-- Cappuccio con coulisse e maniche lunghe
 - Tasca a marsupio
+- Cappuccio con coulisse e maniche lunghe
+- Finitura a costine
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F4NVQB4J{{</world>}}

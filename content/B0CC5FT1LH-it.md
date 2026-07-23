@@ -29,10 +29,10 @@ average: '72.39'
 ℹ️:
 
 - ⚪️POMPA A 2 CAMERE, SPLIT-FLOW - Pompa a 2 camere separa i flussi caldi e freddi. La differenza di temperatura (ΔT) per un cooling più rapido. Alimentata da un motore trifase durevole. Radiatore e split-flow (277x119x27 mm) con lo stesso principio ΔT.
-- ⚪️2 VENTOLE ARGB FDB - 2 ventole ARGB (120mm) con cuscinetti fluidodinamici (600-1800 giri/min, PWM) per alta pressione statica (0,31-2,52 mmH2O) e flusso daria (25,5-75,04 CFM) e rumore di soli 11,2-32,5dBA.
-- ⚪️ILLUMINAZIONE & PRESTAZIONE PERSONALIZZABILI– Blockhead (ruotabile di 270°) e ventole del radiatore personalizzabili con Mystic Light (con header ARGB a 3pin da 5V sulla scheda madre). Profili di ventilazione/pompa assegnabili via software MSI Center
 - ⚪️COMPATIBILE CON AMD & INTEL – Al 100% compatibile con i socket AMD (AM5, AM4) e Intel (LGA 1700, 1200, 1156, 1155, 1151, 1150). Con pasta termica.
 - ⚪️OTTIMO COOLING DELLA CPU - La serie MAG CORELIQUID E BIANCO è dotata di una piastra di raffreddamento in rame allargata. Ideale per i punti caldi della CPU decentrati, più microcanali interni che migliorano il rapporto superficie/volume per la dissipazione del calore
+- ⚪️2 VENTOLE ARGB FDB - 2 ventole ARGB (120mm) con cuscinetti fluidodinamici (600-1800 giri/min, PWM) per alta pressione statica (0,31-2,52 mmH2O) e flusso daria (25,5-75,04 CFM) e rumore di soli 11,2-32,5dBA.
+- ⚪️ILLUMINAZIONE & PRESTAZIONE PERSONALIZZABILI– Blockhead (ruotabile di 270°) e ventole del radiatore personalizzabili con Mystic Light (con header ARGB a 3pin da 5V sulla scheda madre). Profili di ventilazione/pompa assegnabili via software MSI Center
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CC5FT1LH{{</world>}}

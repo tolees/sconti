@@ -28,10 +28,10 @@ average: '2.32'
 
 ℹ️:
 
-- MODALITÀ DUSO: Dosare direttamente sul viso o su un dischetto di cotone e procedere con la pulizia del viso.
 - BENEFICI: Grazie ai suoi principi naturali, l’Olio di Argan viene considerato un vero tesoro della natura: Ricchissimo di Vitamina E, Vitamina A, Omega 3, Omega 6 e di Acidi grassi Insaturi, è un ingrediente naturale dalle mille qualità. Le sue proprietà sono molteplici: Antietà, Elasticizzante, Idratante, Protettiva, Riparatrice, Tonificante ed è efficace su viso, corpo, capelli, mani e unghie.
-- I PROVENZALI: Cosmetici naturali e biologici pensati per il tuo benessere, realizzati con ingredienti selezionati e filiera tracciata. Rispettiamo la natura e gli animali, offrendo prodotti che si prendono cura di te e della tua pelle in modo etico e sostenibile.
 - INGREDIENTI: Il 99,15% degli ingredienti è naturale o di origine naturale; il 98,79% degli ingredienti certificabili è biologico.
+- I PROVENZALI: Cosmetici naturali e biologici pensati per il tuo benessere, realizzati con ingredienti selezionati e filiera tracciata. Rispettiamo la natura e gli animali, offrendo prodotti che si prendono cura di te e della tua pelle in modo etico e sostenibile.
+- MODALITÀ DUSO: Dosare direttamente sul viso o su un dischetto di cotone e procedere con la pulizia del viso.
 - LATTE DETERGENTE: Deterge delicatamente eliminando le impurità di trucco e agenti ambientali esterni dal viso, collo e décolleté. Indicato per tutti i tipi di pelle, in particolare quelle secche.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Veicoli Mario Kart LEGO da collezione: il Discocabrio e il Quad orsetto sono dotati di funzione lancio gusci e derapata; laliante del Discocabrio può essere montato sul Quad orsetto
-- Regali per gamer con personaggi: regala questo set di giochi LEGO Super Mario ai fan del videogioco: per il gioco interattivo è necessario uno dei set 71439, 71440, 71441 o 72043 (disponibili a parte)
+- Gioco interattivo: guida il Discocabrio o il Quad orsetto con LEGO Mario, LEGO Luigi o LEGO Peach (personaggi non inclusi) per attivare gli effetti sonori/visivi di Mario Kart, come il clacson o il suono della derapata
 - 2 personaggi LEGO Super Mario: un gioco di ruolo con le figure di Wario e di Re Boo, e i kart Discocabrio e Quad orsetto; i kart sono intercambiabili tra i personaggi e includono 2 gusci verdi e 1 guscio rosso
+- Regali per gamer con personaggi: regala questo set di giochi LEGO Super Mario ai fan del videogioco: per il gioco interattivo è necessario uno dei set 71439, 71440, 71441 o 72043 (disponibili a parte)
+- Veicoli Mario Kart LEGO da collezione: il Discocabrio e il Quad orsetto sono dotati di funzione lancio gusci e derapata; laliante del Discocabrio può essere montato sul Quad orsetto
 - Set da collezione LEGO: esplora la gamma Mario Kart LEGO Super Mario (altri set disponibili separatamente) e trova altri veicoli e personaggi giocattolo con cui gareggiare e creare storie
 - LEGO Super Mario Kart giocattolo: il gioco per bambini e bambine da 8 anni in su Mario Kart – Wario e Re Boo consente di costruire 2 veicoli giocattolo per divertenti battaglie
-- Gioco interattivo: guida il Discocabrio o il Quad orsetto con LEGO Mario, LEGO Luigi o LEGO Peach (personaggi non inclusi) per attivare gli effetti sonori/visivi di Mario Kart, come il clacson o il suono della derapata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DWDDNVRR{{</world>}}

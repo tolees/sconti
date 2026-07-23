@@ -28,8 +28,8 @@ average: '18.69'
 
 ℹ️:
 
-- Cotone/spandex: misto cotone morbido e liscio. Questo tessuto naturale leggero e traspirante è morbido sulla pelle, mentre l’aggiunta di spandex offre una vestibilità flessibile che si muove con te.
 - Boxer a gamba lunga aderenti: un modello casual di boxer che offre comfort e funzionalità per l’uso quotidiano.
+- Cotone/spandex: misto cotone morbido e liscio. Questo tessuto naturale leggero e traspirante è morbido sulla pelle, mentre l’aggiunta di spandex offre una vestibilità flessibile che si muove con te.
 - VESTIBILITÀ ADERENTE: sottili su fianchi, cosce e apertura delle gambe. Altezza sotto la vita.
 - Dettagli: progettati con una tasca sagomata con pattina anteriore e morbido elastico in vita per offrire supporto e una vestibilità sicura. Cuciture super morbide e flessibili sull’apertura della gamba per offrire comfort ed elasticità.
 

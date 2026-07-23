@@ -28,9 +28,9 @@ average: '33.98'
 
 ℹ️:
 
+- Scollo rotondo
 - Vestibilità aderente
 - Stampa logo
-- Scollo rotondo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B3VL77GW{{</world>}}

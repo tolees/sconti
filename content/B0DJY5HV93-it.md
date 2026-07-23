@@ -30,8 +30,8 @@ average: '3.7'
 
 - UN SOSTITUTO PERFETTO: le lampadine a LED A80 consumano solo il 15% di energia, Luminosa come una lampadina alogena da 150W, ma forniscono unemissione luminosa di 2452 Lumen e un colore bianco naturale accurato di 4000K; con un angolo del raggio di 200 gradi, queste lampadine, possono proiettare una luce uniforme per lilluminazione generale; non dimmerabile
 - ILLUMINAZIONE ISTANTANEA: Niente attese per arrivare alla massima luminosità una volta acceso! Luce senza sfarfallio e zero riflessi intensi prevengono laffaticamento degli occhi e offrono unatmosfera confortevole e senza stress; le lampadine a LED V-TAC sono certificate CE, ROHS, sicure per la tua famiglia e lambiente
-- RISPARMIO ENERGETICO: La lampadina LED A80 da 20W sostituisce le Lampadine a Incandescenza e Alogene da 150W, risparmiando fino al 85% sulla bolletta dellilluminazione elettrica; il ciclo di vita di 20.000 ore, il che riduce I costi riducendo la frequenza di sostituzione; cRI indice di resa cromatica >80 garantisce un piacere visivo vivido con colori originali
 - APPLICAZIONE AMPIA: Base E27 standard, facile da montare su tutte le lampade base E27; adatto per lilluminazione di interni, come lampadari, lampade a sospensione, ventilatore da soffitto, illuminazione di finestre, applique, lampade da scrivania ecc; eccellente bianco naturale per soggiorno, sala da pranzo, ufficio e ristorante
+- RISPARMIO ENERGETICO: La lampadina LED A80 da 20W sostituisce le Lampadine a Incandescenza e Alogene da 150W, risparmiando fino al 85% sulla bolletta dellilluminazione elettrica; il ciclo di vita di 20.000 ore, il che riduce I costi riducendo la frequenza di sostituzione; cRI indice di resa cromatica >80 garantisce un piacere visivo vivido con colori originali
 - COLORE DELLA LUCE: 4000K Bianco Naturale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

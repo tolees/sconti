@@ -28,10 +28,10 @@ average: '750.9'
 
 ℹ️:
 
-- 【Display Eye-Care da 6,59" a 120Hz】Frequenza di aggiornamento fino a 120Hz, Super Sunlight Display, Wet Touch 2.0 e certificazione low blue light. Protezione visiva intelligente adattata ad ambiente, orario e utilizzo.
 - 【Batteria Silicio-Carbonio da 6500mAh (typ)】Compatta ma potente, offre fino a 17,2 ore di utilizzo continuo. L’elevato contenuto di silicio aumenta la densità energetica per prestazioni durature in un design compatto.
-- 【67W HyperCharge】Ricarica ultra rapida: 100% in soli 58 minuti. Supporta ricarica rapida 50W PD/PPS, più protocolli di terze parti e ricarica inversa cablata fino a 22,5W per la massima flessibilità.
+- 【Display Eye-Care da 6,59" a 120Hz】Frequenza di aggiornamento fino a 120Hz, Super Sunlight Display, Wet Touch 2.0 e certificazione low blue light. Protezione visiva intelligente adattata ad ambiente, orario e utilizzo.
 - 【Teleobiettivo Leica 5x】Zoom AI Ultra fino a 120x per scatti nitidi da vicino e da lontano. Dotato di zoom ottico 5x e zoom lossless di livello ottico 10x per un’esperienza telefoto versatile in ogni situazione.
+- 【67W HyperCharge】Ricarica ultra rapida: 100% in soli 58 minuti. Supporta ricarica rapida 50W PD/PPS, più protocolli di terze parti e ricarica inversa cablata fino a 22,5W per la massima flessibilità.
 - 【Prestazioni All-Big-Core】Realizzato con processo TSMC a 4nm, CPU ad alte prestazioni e GPU 8-core per maggiore potenza ed efficienza. Garantisce multitasking fluido e gaming intenso senza compromessi.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

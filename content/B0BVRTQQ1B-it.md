@@ -29,10 +29,10 @@ average: '20.9075'
 ℹ️:
 
 - FORMATO: cassa di birra con 24 bottiglie da 33 cl
-- PERONI NASTRO AZZURRO STILE CAPRI: Birra lager a bassa fermentazione con fresche note di limone e foglie di ulivo dal colore giallo paglierino; da servire a 3-5° C
 - GRADAZIONE ALCOLICA: 4.2 % vol
 - GUSTO RINFRESCANTE: La presenza delle note di ulivo e limone conferisce un gusto leggero e fragrante, con un finale pulito
 - IDEALE CON: Peroni Nastro Azzurro Stile Capri è la birra ottima per accompagnare laperitivo
+- PERONI NASTRO AZZURRO STILE CAPRI: Birra lager a bassa fermentazione con fresche note di limone e foglie di ulivo dal colore giallo paglierino; da servire a 3-5° C
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BVRTQQ1B{{</world>}}

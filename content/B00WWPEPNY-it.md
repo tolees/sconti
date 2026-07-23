@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Cintura larga
 - Elasticizzato
-- Boxer: Set di boxer
 - Confezione tripla
+- Cintura larga
+- Boxer: Set di boxer
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00WWPEPNY{{</world>}}

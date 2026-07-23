@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Chiusura con cerniera, 2 tasche basse, 1 tasca bomber sulla manica, 2 tasche interne
+- Taglio: aderente
+- Manutenzione: lavaggio lavatrice a 30°
 - 68% poliestere/32% cotone
 - Schott Nyc Giacca casual da uomo
-- Manutenzione: lavaggio lavatrice a 30°
-- Taglio: aderente
-- Chiusura con cerniera, 2 tasche basse, 1 tasca bomber sulla manica, 2 tasche interne
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01MYC2FJH{{</world>}}

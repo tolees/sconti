@@ -28,9 +28,9 @@ average: '97.52'
 
 ℹ️:
 
+- 13 zone di illuminazione Chroma con underglow completo: Personalizza ciascuna zona con più di 16,8 milioni di colori e infiniti effetti di luce, che reagiscono in modo dinamico con più di 150 giochi integrati con Chroma
 - Forma ergonomica e iconica con 10+1 pulsanti programmabili: Scelta da milioni di giocatori, la forma distintiva del mouse sostiene perfettamente la tua mano in varie prese, con tasti facili da raggiungere per una combinazione infinita di comandi e macro
 - Rotella inclinabile Razer HyperScroll: Scorri rapidamente i contenuti con una rotella che scorre liberamente finché non la fermi o passa allappagante modalità tattile per una maggior precisione, ideale per scegliere armi e abilità
-- 13 zone di illuminazione Chroma con underglow completo: Personalizza ciascuna zona con più di 16,8 milioni di colori e infiniti effetti di luce, che reagiscono in modo dinamico con più di 150 giochi integrati con Chroma
 - Sensore ottico 30K Razer Focus Pro: Il nuovissimo sensore di Razer assicura un tracciamento perfetto su una più ampia varietà di superfici, incluso il vetro, supportato da funzioni intelligenti per una mira e un controllo avanzati
 - Tecnologia Razer HyperSpeed Wireless: Gioca in modo ultra-responsivo, con velocità 25% maggiori rispetto ad altre tecnologie wireless - Passa a un polling rate effettivo di 8 KHz con il dock pro per mouse Razer o con il dongle wireless HyperPolling (entrambi venduti separatamente)
 

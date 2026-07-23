@@ -28,16 +28,16 @@ average: '78.745'
 
 ℹ️:
 
-- FACILE SOSTITUZIONE DELLA BATTERIA: Sostituzione rapida e sicura della batteria per lavorare ininterrottamente su progetti come i mobili a scatola piatta.
-- MIGLIORE VISIBILITÀ: Il faro da lavoro a LED illumina le aree buie per facilitare le operazioni come appendere gli scaffali.
-- CONTROLLO PRECISO: 11 posizioni della frizione per una foratura accurata.
-- USO COMODO: Impugnatura morbida e antiscivolo per ridurre laffaticamento durante i lavori di ristrutturazione.
-- SISTEMA COMPATIBILE: Funziona con tutti i prodotti a batteria BLACK+DECKER 18V della gamma POWERCONNECT.
-- POTENTE PERFORAZIONE PER MURATURA: Lazione del martello affronta la muratura e il calcestruzzo più difficili per lavori come il montaggio a parete.
-- INCLUDE: (2) batterie da 1,5Ah, (1) caricatore da 400mA.
-- POTENZA DI LUNGA DURATA: La batteria agli ioni di litio mantiene la carica per 90 giorni, sempre pronta quando lo siete.
-- IDEALE PER: Praticare fori per tasselli, assemblare librerie, appendere binari per tende, installare apparecchi di illuminazione e fissare recinzioni.
 - FORATURA EFFICIENTE: Alta velocità per forare legno e acciaio, bassa velocità per avvitare con precisione.
+- INCLUDE: (2) batterie da 1,5Ah, (1) caricatore da 400mA.
+- MIGLIORE VISIBILITÀ: Il faro da lavoro a LED illumina le aree buie per facilitare le operazioni come appendere gli scaffali.
+- POTENTE PERFORAZIONE PER MURATURA: Lazione del martello affronta la muratura e il calcestruzzo più difficili per lavori come il montaggio a parete.
+- SISTEMA COMPATIBILE: Funziona con tutti i prodotti a batteria BLACK+DECKER 18V della gamma POWERCONNECT.
+- USO COMODO: Impugnatura morbida e antiscivolo per ridurre laffaticamento durante i lavori di ristrutturazione.
+- POTENZA DI LUNGA DURATA: La batteria agli ioni di litio mantiene la carica per 90 giorni, sempre pronta quando lo siete.
+- CONTROLLO PRECISO: 11 posizioni della frizione per una foratura accurata.
+- IDEALE PER: Praticare fori per tasselli, assemblare librerie, appendere binari per tende, installare apparecchi di illuminazione e fissare recinzioni.
+- FACILE SOSTITUZIONE DELLA BATTERIA: Sostituzione rapida e sicura della batteria per lavorare ininterrottamente su progetti come i mobili a scatola piatta.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07PRS5CQY{{</world>}}

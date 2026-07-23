@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Consumo di energia 12 kWh/1000h per 1521 lm
 - Colore luce: Bianco caldo. Temperatura di colore: 2700K. Luminosità: 1521 lm. Tensione: 220…240 V. Classe di protezione: IP20
 - Tempo di operatività: 15000 ore. Alimentazione elettrica: Corrente alternata (AC). Forma della lampada: tubo
 - Altezza: 29 mm; Lunghezza: 78 mm; Larghezza: 29 mm; Diametro: 29 mm; Peso: 51 g
+- Consumo di energia 12 kWh/1000h per 1521 lm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08BZVYKZV{{</world>}}

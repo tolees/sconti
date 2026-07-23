@@ -28,10 +28,10 @@ average: '2.99'
 
 ℹ️:
 
+- Per pelli miste
 - Subito dopo luso la pelle è detersa delicatamente e purificata
 - 0% sapone, SLES, PEG
 - Certificato COSMOS ORGANIC. Approvato dai dermatologi AIDECO.
-- Per pelli miste
 - Formula vegan, prodotto testato Nichel, Cobalto, Cromo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

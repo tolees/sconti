@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Compatibile con tutti i sedili Playseat (Playseat F1 escluso)
 - Il dispositivo di scorrimento per sedile Playseat consente di regolare con precisione e semplicità il sedile da gara
 - Playseat seat slider - regolatore sedile
-- Compatibile con tutti i sedili Playseat (Playseat F1 escluso)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00124UKJY{{</world>}}

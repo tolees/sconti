@@ -28,11 +28,11 @@ average: '29.9'
 
 ℹ️:
 
-- AVVENTURA VELOCE E DIVERTENTE: adatta a bambini e adulti, questa avventura per 2-4 giocatori ha un tempo di gioco medio di mezzora, per un rapido e semplice divertimento
-- GIOCHI DI SOCIETÀ EDITRICE GIOCHI: Editrice Giochi offre una varietà di puzzle e giochi da tavolo per bambini, ragazzi e adulti, giochi di società e di strategia, carte e giochi da tavolo classici come domino, mahjong o scacchi. Giochi da tavolo ideali per le famiglie e le serate con gli amici per il massimo del divertimento
 - GIOCO DA TAVOLO COOPERATIVO: collabora con famiglia e amici, affrontando le sfide e gli obiettivi dellisola di Jumanji per raccogliere i cinque cristalli magici prima che Draven vi sconfigga
-- ISOLA DI JUMANJI 3D: affronta sei reali pericoli nella giungla di Jumanji con elementi interattivi in tre dimensioni, cercando di sopravvivere mentre lisola prende vita e portando a termine la missione
+- AVVENTURA VELOCE E DIVERTENTE: adatta a bambini e adulti, questa avventura per 2-4 giocatori ha un tempo di gioco medio di mezzora, per un rapido e semplice divertimento
 - CONTENUTO DEL GIOCO DA TAVOLO: 4 sezioni del tabellone, 2 parti dellisola 3D, 34 segnalini, 4 pedine giocatore, 1 pedina cattivo, 6 tessere potenziamento, 4 plance giocatore, 20 carte, 4 dadi, 1 biglia in metallo, 2 palline di plastica, 6 elementi 3D, istruzioni
+- ISOLA DI JUMANJI 3D: affronta sei reali pericoli nella giungla di Jumanji con elementi interattivi in tre dimensioni, cercando di sopravvivere mentre lisola prende vita e portando a termine la missione
+- GIOCHI DI SOCIETÀ EDITRICE GIOCHI: Editrice Giochi offre una varietà di puzzle e giochi da tavolo per bambini, ragazzi e adulti, giochi di società e di strategia, carte e giochi da tavolo classici come domino, mahjong o scacchi. Giochi da tavolo ideali per le famiglie e le serate con gli amici per il massimo del divertimento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CSP3L2F7{{</world>}}

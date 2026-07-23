@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tipo di prodotto - Fondotinta
 - Genere - Unisex
 - Marca - Clinique
+- Tipo di prodotto - Fondotinta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B002SPWPOE{{</world>}}

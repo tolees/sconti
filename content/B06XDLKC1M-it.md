@@ -28,11 +28,11 @@ average: '19.9855555555556'
 
 ℹ️:
 
-- Corona e una international lager ed ha un gusto fine e rinfrescante.
-- Da sempre Corona invita le persone a disconnettersi dalla routine quotidiana per godersi quei momenti di relax, in casa propria o alaria aperta
-- Confezione da 24 bottiglie da 21cl di Corona Extra
 - Nessuna Corona e completa senza lime. Il rituale del lime aggiunge a Corona carattere, sapore e freschezza in modo naturale: E" parte integrante di unesperienza davvero unica
 - Per trovare il proprio angolo di paradiso in realta basta poco.Alla fine di una lunga giornata quando torni a casa o quando ti ritrovi con gli amici, basta una Corona, una fetta di lime, i tuoi snack preferiti, e puoi avere il tuo magico momento di relax
+- Confezione da 24 bottiglie da 21cl di Corona Extra
+- Da sempre Corona invita le persone a disconnettersi dalla routine quotidiana per godersi quei momenti di relax, in casa propria o alaria aperta
+- Corona e una international lager ed ha un gusto fine e rinfrescante.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B06XDLKC1M{{</world>}}

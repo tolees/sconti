@@ -28,9 +28,9 @@ average: '7.9'
 
 ℹ️:
 
-- Non lavabile in lavastoviglie
 - Fornito con due lame di ricambio
 - Raschietto per pulire il piano cottura a induzione e in vetroceramica
+- Non lavabile in lavastoviglie
 - Con una comoda impugnatura e una lama che aiuta a raschiare lo sporco incrostato dal piano cottura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

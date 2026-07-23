@@ -31,8 +31,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 - 【Rullo lavapavimenti da 20 cm per superfici ampie】 Questo robot aspirapolvere e lavapavimenti utilizza un rullo da 20 cm, più largo rispetto allo standard, per una copertura superiore ad ogni passaggio. Il sistema ad acqua pulita con recupero immediato dello sporco garantisce pavimenti visibilmente più puliti.
 - 【Sistema Zero-Groviglio per uso continuo】 La spazzola principale a V con doppio pettine e la spazzola laterale curva sono progettate per ridurre l’accumulo di capelli. Questo sistema consente una pulizia continua con meno interventi manuali, ideale per famiglie con animali domestici.
 - 【Pulizia efficace con aspirazione da 18.000 Pa】 L’aspirapolvere robot lavapavimenti offre una potente aspirazione da 18.000 Pa, adatta a pavimenti duri e tappeti. Polvere, briciole e peli di animali vengono rimossi in modo rapido e uniforme, anche in abitazioni di grandi dimensioni.
-- 【Lavaggio del rullo a 75 °C e asciugatura controllata】 La base lava il rullo con acqua calda fino a 75 °C per una pulizia più profonda rispetto al semplice risciacquo. L’asciugatura ad aria fredda limita l’umidità residua e contribuisce a mantenere il rullo in condizioni ottimali.
 - 【Navigazione laser dToF e PSD 2.0 per movimenti precisi】 Il robottino lavapavimenti crea mappe dettagliate grazie alla navigazione laser dToF. Il sistema PSD 2.0 individua ostacoli bassi fino a 25 ± 5 mm, assicurando movimenti più fluidi e meno interruzioni durante la pulizia.
+- 【Lavaggio del rullo a 75 °C e asciugatura controllata】 La base lava il rullo con acqua calda fino a 75 °C per una pulizia più profonda rispetto al semplice risciacquo. L’asciugatura ad aria fredda limita l’umidità residua e contribuisce a mantenere il rullo in condizioni ottimali.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GFD3J28Y{{</world>}}

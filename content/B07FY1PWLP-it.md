@@ -28,12 +28,12 @@ average: '109.334'
 
 ℹ️:
 
-- Crea la giusta atmosfera grazie a Hue Play. Sincronizza le tue luci con film, musica e giochi
 - Barra luminosa, colore nero. Collegala al bridge Philips (venduto separatamente) e controlla la luce con il tuo smartphone o tablet
-- Libera la tua creatività con 16 milioni di colori. Soluzione compatta e versatile. Dimmerabile solo con dispositivi compatibili con Hue. Semplice montaggio dietro alla TV
 - Questo prodotto è un prodotto contenitore. I prodotti contenitori gli apparecchi di illuminazione che possono essere smontati per consentire la verifica separata della o delle sorgenti luminose ivi contenute.
-- Unità base con alimentatore incluso. Allalimentatore si possono collegare fino a 3 lampade Hue Play
 - Philips Hue Play Lampada LED connessa, unità base con alimentatore, 2 pezzi, Bianco
+- Crea la giusta atmosfera grazie a Hue Play. Sincronizza le tue luci con film, musica e giochi
+- Unità base con alimentatore incluso. Allalimentatore si possono collegare fino a 3 lampade Hue Play
+- Libera la tua creatività con 16 milioni di colori. Soluzione compatta e versatile. Dimmerabile solo con dispositivi compatibili con Hue. Semplice montaggio dietro alla TV
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07FY1PWLP{{</world>}}

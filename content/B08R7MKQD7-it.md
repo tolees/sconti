@@ -28,8 +28,8 @@ average: '21.48'
 
 ℹ️:
 
-- Capacità: 90 ml
 - Lavabile in lavastoviglie e adatto al microonde
+- Capacità: 90 ml
 - Confezione da 6 tazzine da caffè in porcellana con piattino
 - Dimensioni: Ø5 x H 5,5 cm, piattini Ø11 cm
 

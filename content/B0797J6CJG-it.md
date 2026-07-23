@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- TAGLIO A DOPPIA AZIONE - progettato affinché le 2 lame si muovano contemporaneamente per tagliare in modo più rapido e pulito rispetto a una singola lama, con un sistema anti-inceppamento per evitare che il fogliame rimanga incastrato tra le lame
-- 3 ANNI DI GARANZIA CON 2 ANNI DI GARANZIA PER LA BATTERIA - Da Greenworks, leader mondiale negli attrezzi elettrici e della tecnologia a batterie, con una reputazione globale per design intelligente, prestazioni elevate e un servizio clienti eccezionale
-- TAGLIASIEPI LEGGERO E COMPATTO PER SIEPI MEDIE - on soli 2,8kg di peso e una lama da 61cm, questo tagliasiepi taglia, rifila e pota le siepi in modo rapido e semplice per mantenerle sempre in ordine
 - LA TESTA DEL TAGLIASIEPI RUOTA PER UNA RASATURA COMODA E PRECISA - la testa può essere spostata fino a 125° per tagliare le siepi orizzontalmente e verticalmente con la massima precisione
+- 3 ANNI DI GARANZIA CON 2 ANNI DI GARANZIA PER LA BATTERIA - Da Greenworks, leader mondiale negli attrezzi elettrici e della tecnologia a batterie, con una reputazione globale per design intelligente, prestazioni elevate e un servizio clienti eccezionale
+- TAGLIO A DOPPIA AZIONE - progettato affinché le 2 lame si muovano contemporaneamente per tagliare in modo più rapido e pulito rispetto a una singola lama, con un sistema anti-inceppamento per evitare che il fogliame rimanga incastrato tra le lame
+- TAGLIASIEPI LEGGERO E COMPATTO PER SIEPI MEDIE - on soli 2,8kg di peso e una lama da 61cm, questo tagliasiepi taglia, rifila e pota le siepi in modo rapido e semplice per mantenerle sempre in ordine
 - BATTERIA AL LITIO DI NUOVA GENERAZIONE 40V 2Ah - alimentato da una batteria evoluta che può essere utilizzata in qualsiasi apparecchio Greenworks da 40V
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

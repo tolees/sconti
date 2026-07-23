@@ -28,8 +28,8 @@ average: '7.0'
 
 ℹ️:
 
-- Formula con acido ialuronico ed estratto di melograno appositamente per pelli che necessitano di idratazione
 - Dopo solo una settimana, le linee sottili sono ammorbidite e la pelle appare più rivitalizzata
+- Formula con acido ialuronico ed estratto di melograno appositamente per pelli che necessitano di idratazione
 - La formula vegana idrata intensamente la pelle e dona una maggiore morbidezza
 - Più sostenibile che mai: la confezione della maschera in tessuto è stata realizzata con cartone al 50%
 - La maschera in tessuto offre un effetto idratante in soli 15 minuti e garantisce una carnagione più fresca e rivitalizzata

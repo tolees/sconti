@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- DETTAGLI: Bottoni con gambo sulla placca frontale. Tasche applicate sul petto con patta e chiusura a bottone. Linguette laterali per una vestibilità regolabile. Tasche a filetto oblique
-- VESTIBILITÀ CLASSICA: vestibilità comoda e rilassata su spalle, petto e vita
 - LUNGHEZZA DEL CAPO: 69,9cm dal lato del collo nella taglia M (IT)
-- GIACCA IN DENIM: un capo essenziale per i look a strati. Stile trucker classico dal comfort moderno
 - DENIM A BASSA ELASTICITÀ E PESANTE: denim resistente e durevole con un pizzico di elasticizzazione per garantire comfort e facilità di movimento. Il tessuto strutturato e consistente mantiene la forma anche dopo numerosi lavaggi.
+- VESTIBILITÀ CLASSICA: vestibilità comoda e rilassata su spalle, petto e vita
+- DETTAGLI: Bottoni con gambo sulla placca frontale. Tasche applicate sul petto con patta e chiusura a bottone. Linguette laterali per una vestibilità regolabile. Tasche a filetto oblique
+- GIACCA IN DENIM: un capo essenziale per i look a strati. Stile trucker classico dal comfort moderno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DX22R2YF{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- SCELTA CONSAPEVOLE: Le capsule compatibili in alluminio illy abbracciano i principi di sostenibilità ambientale e sociale per garantire al consumatore unesperienza dacquisto più consapevole a partire della scelta dei prodotti
 - GUSTO: Il caffè è 100% arabica, adatto per gli amanti del caffè dal gusto morbido
-- CAPSULE COMPATIBILI: Scopri le capsule compatibili con le macchine *Nespresso Original: dosaggio ottimale per una tazzina di caffè, preparazione rapida e semplice, ideali per gustare ogni giorno il piacere di un espresso. *illy non è affiliata con il marchio Nespresso
-- CLASSICO: ll profilo di tostatura CLASSICO si caratterizza per delicate note di caramello, fiori darancio, gelsomino e un retrogusto dolce
 - FORMATO: Ciascuna confezione contiene 10 capsule monodose confezionate singolarmente. Le capsule in alluminio illy sono specificamente progettate per essere utilizzate con le macchine da caffè Nespresso Original
+- SCELTA CONSAPEVOLE: Le capsule compatibili in alluminio illy abbracciano i principi di sostenibilità ambientale e sociale per garantire al consumatore unesperienza dacquisto più consapevole a partire della scelta dei prodotti
+- CLASSICO: ll profilo di tostatura CLASSICO si caratterizza per delicate note di caramello, fiori darancio, gelsomino e un retrogusto dolce
+- CAPSULE COMPATIBILI: Scopri le capsule compatibili con le macchine *Nespresso Original: dosaggio ottimale per una tazzina di caffè, preparazione rapida e semplice, ideali per gustare ogni giorno il piacere di un espresso. *illy non è affiliata con il marchio Nespresso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F29Z14XN{{</world>}}

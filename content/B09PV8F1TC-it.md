@@ -28,11 +28,11 @@ average: '29.4'
 
 ℹ️:
 
+- Veicolo die cast con porte e cofano apribili, dinosauro incluso
+- Riproduzione in metallo della Jeep Wrangler del film Jurassic Park, scala 1:24
+- garanzia del prodotto 2 anni
 - Realizzato in metallo pressofuso con pneumatici in gomma
 - Per bambini e bambine dagli 8 anni in su
-- garanzia del prodotto 2 anni
-- Riproduzione in metallo della Jeep Wrangler del film Jurassic Park, scala 1:24
-- Veicolo die cast con porte e cofano apribili, dinosauro incluso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09PV8F1TC{{</world>}}

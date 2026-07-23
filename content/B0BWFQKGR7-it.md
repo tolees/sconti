@@ -28,10 +28,10 @@ average: '6.54'
 
 ℹ️:
 
-- 2, 4 giocatori, Basato sui programmi ministeriali, 3 livelli di difficoltà, Giocano grandi e piccoli insieme, Tanti quiz stimolanti, Lessico, ortografia e grammatica, Sinonimi e contrari, Definizioni e aree lessicali, Minigiochi "forma, parole", Co
-- Gioco educativo in scatola, 1 plancia di gioco, 4 birilotti, 1 spinner, 48 carte quiz, Gettoni e coccarde, Carte
-- Arricchimento del lessico, Ortografia, Grammatica, Sintassi, Pensiero logico, Autonomia e rispetto delle regole, Rapporto con gli altri
 - La lingua italiana non è stata mai così divertente
+- Gioco educativo in scatola, 1 plancia di gioco, 4 birilotti, 1 spinner, 48 carte quiz, Gettoni e coccarde, Carte
+- 2, 4 giocatori, Basato sui programmi ministeriali, 3 livelli di difficoltà, Giocano grandi e piccoli insieme, Tanti quiz stimolanti, Lessico, ortografia e grammatica, Sinonimi e contrari, Definizioni e aree lessicali, Minigiochi "forma, parole", Co
+- Arricchimento del lessico, Ortografia, Grammatica, Sintassi, Pensiero logico, Autonomia e rispetto delle regole, Rapporto con gli altri
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BWFQKGR7{{</world>}}

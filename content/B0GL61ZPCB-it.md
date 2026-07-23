@@ -28,11 +28,11 @@ average: '13.92'
 
 ℹ️:
 
-- 【Pulisci Orecchie 1920P · Visione Chiara】Questo otoscopio è dotato di telecamera 1920P HD con lente grandangolare a 360°, per una pulizia delle orecchie precisa e sicura. I 6 LED regolabili offrono immagini luminose e dettagliate, con trasmissione dati fluida tramite WiFi a 20 fps.
 - 【Connessione Immediata e Versatile】Scarica lapp EarVision, accendi lotoscopio e connettiti al Wi-Fi direttamente dallapp.Compatibile con iPhone, iPad e Android, garantisce una connessione veloce, stabile e immediata, senza configurazioni complesse. Perfetto per orecchie, naso, gola e cute, per tutta la famiglia e animali domestici.
 - 【Pulitore Orecchie IP67 · 3,5 mm】Lotoscopio per la pulizia delle orecchie è dotato di una sonda ultrasottile da 3,5 mm, adatta alla maggior parte dei canali uditivi, ideale per bambini, adulti e animali domestici. Testina impermeabile IP67, lavabile con acqua o alcool per garantire igiene dopo ogni utilizzo.
-- 【USB-C e 70 Minuti di Autonomia】Lotoscopio si collega allapp per iPhone, iPad e Android. La batteria integrata da 230 mAh si ricarica con USB-C e garantisce fino a 70 minuti di uso continuo, con 30 giorni in standby. Pratico e sempre pronto alluso.
 - 【Kit Completo · Subito Pronto】Set pulisci orecchie completo con 8 testine in silicone, 8 strumenti per la pulizia, custodia, cavo USB-C e manuale. Include 2 anni di garanzia e assistenza clienti.
+- 【USB-C e 70 Minuti di Autonomia】Lotoscopio si collega allapp per iPhone, iPad e Android. La batteria integrata da 230 mAh si ricarica con USB-C e garantisce fino a 70 minuti di uso continuo, con 30 giorni in standby. Pratico e sempre pronto alluso.
+- 【Pulisci Orecchie 1920P · Visione Chiara】Questo otoscopio è dotato di telecamera 1920P HD con lente grandangolare a 360°, per una pulizia delle orecchie precisa e sicura. I 6 LED regolabili offrono immagini luminose e dettagliate, con trasmissione dati fluida tramite WiFi a 20 fps.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GL61ZPCB{{</world>}}

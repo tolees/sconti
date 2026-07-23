@@ -28,8 +28,8 @@ average: '29.99'
 
 ℹ️:
 
-- Colletto a punta
 - Vestibilità regolare
+- Colletto a punta
 - Scollo con bottoni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

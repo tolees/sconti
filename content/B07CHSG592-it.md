@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Jersey morbido
 - Taglio regolare
+- Jersey morbido
 - Piccolo logo Levis ricamato sul petto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ average: '10.26'
 
 ℹ️:
 
-- Livello di nutrimento equilibrato
 - Shampoo micellare per capelli ricci che rimuove delicatamente le impurità
 - Rende onde e ricci definiti, elastici e leggeri, riducendo l’effetto crespo
+- Livello di nutrimento equilibrato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CJ2M9MFP{{</world>}}

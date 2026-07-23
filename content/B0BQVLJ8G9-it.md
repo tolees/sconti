@@ -28,9 +28,9 @@ average: '78.65'
 
 ℹ️:
 
-- Cassa rotonda in acciaio inossidabile riciclato per almeno il 50%, quadrante bianco argento
-- Cassa 36 mm, larghezza fascia 18 mm, vetro minerale, movimento al quarzo con indicazione analogica a tre lancette, importato
 - Resistente all’acqua fino a 30 m: resiste agli schizzi d’acqua
+- Cassa 36 mm, larghezza fascia 18 mm, vetro minerale, movimento al quarzo con indicazione analogica a tre lancette, importato
+- Cassa rotonda in acciaio inossidabile riciclato per almeno il 50%, quadrante bianco argento
 - Oro rosa, bracciale in acciaio inossidabile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

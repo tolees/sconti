@@ -28,9 +28,9 @@ average: '27.95'
 
 ℹ️:
 
-- Logo goffrato Calvin Klein
 - Fibbia con monogramma in metallo
 - Bordi a punta
+- Logo goffrato Calvin Klein
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F4DBS2T1{{</world>}}

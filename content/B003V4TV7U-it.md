@@ -28,11 +28,11 @@ average: '9.94'
 
 ℹ️:
 
-- CAVO DISPLAYPORT A DVI: 1,8 m -Il cavo DisplayPort 1.2 (HBR2) a DVI-D single-link consente di collegare un display, un monitor o un proiettore DVI 1080p 60 Hz o 4K 30 Hz; HDCP 1.4 - La tecnologia EDID garantisce compatibilità tra sorgente e display
-- CONNETTORE DISPLAYPORT TIPO LATCH E CONNETTORE DVI CON FERMO A VITE: il connettore DP tipo latch e il connettore DVI placcato in oro assicurano un collegamento stabile; il chip integrato nel connettore DVI riduce al minimo la perdita di segnale
-- COMPATIBILITÀ: il convertitore video passivo supporta sorgenti DP++, tra cui workstation, desktop (AMD/Nvidia), laptop, computer con fattore di forma ridotto e docking station
-- CAVO PER DISPLAY INTEGRATO: il cavo DisplayPort a DVI dispone di un design sottile e flessibile con chip adattatore integrato nel connettore DVI per ridurre lingombro e consentire uninstallazione ordinata in ufficio, nella sala riunioni o nellhome office
 - FACILE DA USARE: Senza bisogno di software o driver, il cavo DP a DVI funziona con qualsiasi sistema operativo, compresi Windows, Ubuntu e macOS; cavo DisplayPort maschio a DVI maschio; Sostituisce il prodotto: DP2DVIMM6
+- CONNETTORE DISPLAYPORT TIPO LATCH E CONNETTORE DVI CON FERMO A VITE: il connettore DP tipo latch e il connettore DVI placcato in oro assicurano un collegamento stabile; il chip integrato nel connettore DVI riduce al minimo la perdita di segnale
+- CAVO DISPLAYPORT A DVI: 1,8 m -Il cavo DisplayPort 1.2 (HBR2) a DVI-D single-link consente di collegare un display, un monitor o un proiettore DVI 1080p 60 Hz o 4K 30 Hz; HDCP 1.4 - La tecnologia EDID garantisce compatibilità tra sorgente e display
+- CAVO PER DISPLAY INTEGRATO: il cavo DisplayPort a DVI dispone di un design sottile e flessibile con chip adattatore integrato nel connettore DVI per ridurre lingombro e consentire uninstallazione ordinata in ufficio, nella sala riunioni o nellhome office
+- COMPATIBILITÀ: il convertitore video passivo supporta sorgenti DP++, tra cui workstation, desktop (AMD/Nvidia), laptop, computer con fattore di forma ridotto e docking station
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B003V4TV7U{{</world>}}

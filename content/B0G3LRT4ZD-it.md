@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 1 capsula effervescente al giorno, sciolta in un bicchiere dacqua da 250 ml, preferibilmente al mattino durante un pasto. Si consiglia di seguire 2 cicli di tre mesi allanno: uno in autunno e uno in primavera.
-- 2 OLIGOELEMENTI ESSENZIALI: Zinco (50% VNR*) + Selenio (50% VNR*): contribuiscono al mantenimento di capelli e unghie normali. VITAMINE MIRATE: Vitamine B6 (100% VNR*) e B8 (100% VNR*): coinvolte nella sintesi degli aminoacidi che compongono la cheratina. Vitamine C e E (100% VNR*): antiossidanti. UN ESTRATTO BOTANICO: Estratto di foglie di ortica: contribuisce al rafforzamento di capelli e unghie. VNR: Valori Nutritivi di Riferimento
 - FORZA (1), CRESCITA (2), VOLUME. Dona forza, crescita e volume ai capelli devitalizzati e alle unghie fragili. Capelli e unghie diventano più resistenti e più belli. Fornisce il 100% della dose giornaliera raccomandata di vitamine C, E, B1, B3, B5, B6, B8 e B9.
+- 2 OLIGOELEMENTI ESSENZIALI: Zinco (50% VNR*) + Selenio (50% VNR*): contribuiscono al mantenimento di capelli e unghie normali. VITAMINE MIRATE: Vitamine B6 (100% VNR*) e B8 (100% VNR*): coinvolte nella sintesi degli aminoacidi che compongono la cheratina. Vitamine C e E (100% VNR*): antiossidanti. UN ESTRATTO BOTANICO: Estratto di foglie di ortica: contribuisce al rafforzamento di capelli e unghie. VNR: Valori Nutritivi di Riferimento
+- 1 capsula effervescente al giorno, sciolta in un bicchiere dacqua da 250 ml, preferibilmente al mattino durante un pasto. Si consiglia di seguire 2 cicli di tre mesi allanno: uno in autunno e uno in primavera.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0G3LRT4ZD{{</world>}}

@@ -28,10 +28,10 @@ average: '7.81380952380952'
 
 ℹ️:
 
+- Ridotta emissione di calore (rispetto alla lampada tradizionale equivalente)
 - Semplice sostituzione delle lampade standard, perfetta sostituzione di una lampada da 100 W (utilizzo in ambienti esterni solo per le lampade adatte)
 - OSRAM Lampada LED | Attacco: E27 | Cool White | 4000 K | 13 W | sostituzione per 100 W Incandescent bulb | opaco | LED BASE CLASSIC a [Classe di efficienza energetica A+]
 - Massimo flusso luminoso immediato, senza tempi di pre-accensione
-- Ridotta emissione di calore (rispetto alla lampada tradizionale equivalente)
 - La luce è OSRAM; forniamo la giusta luce alla tua vita!Da più di cento anni, il marchio OSRAM è sinonimo di innovazione, prodotti di eccellente qualità e straordinaria efficienza energetica.Le lampade e i sistemi di illuminazione a marchio OSRAM sono utilizzati dai consumatori di tutto il mondo per unampia gamma di applicazioni e da sempre si confermano prodotti di massima qualità.Scegli i prodotti sempre innovativi e la qualità garantita del marchio OSRAM.Affida la tua casa a mani esperte!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

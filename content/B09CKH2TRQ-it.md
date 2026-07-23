@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 【PRATICO E COMPATTO】 Ogni moschettone misura circa 11.55x7.5x1.1 cm; Peso: 90 g; È così leggero che quasi non lo senti quando lo metti in mano. Il design compatto lo rende pratico e facile da trasportare. Con una capacità massima di circa 25KN / 2500KG, ogni moschettone a forma di D per impieghi gravosi supporta fino a 5620 libbre di peso.
-- 【BLOCCO DADO DI SICUREZZA】 Basta girare il tubo del dado e spingere il carico della molla per aprirlo, quindi ribloccare automaticamente quando la pressione viene rilasciata. Il design della funzione di blocco automatico della porta impedisce lapertura accidentale del moschettone e garantisce la tua sicurezza.
 - 【DESIGN LEGGERO】 Realizzato con materiale aeronautico in alluminio 7075 premium, Il design compatto lo rende maneggevole e facile da trasportare. Grazie a questa molla di bloccaggio migliorata, i moschettoni a D non staccarti o lasciare che nessun oggetto scivoli via.
-- 【CERTIFICAZIONE CE】 La moschettone arrampicata ha superato la certificazione standard CE EN362. Lalbero lungo di ogni serratura ha una forza di rottura nominale di 25KN (5644lb), una forza di rottura dellalbero corto di 7KN (1575lb) e una forza di rottura di sblocco di 8KN (1800lb).
+- 【PRATICO E COMPATTO】 Ogni moschettone misura circa 11.55x7.5x1.1 cm; Peso: 90 g; È così leggero che quasi non lo senti quando lo metti in mano. Il design compatto lo rende pratico e facile da trasportare. Con una capacità massima di circa 25KN / 2500KG, ogni moschettone a forma di D per impieghi gravosi supporta fino a 5620 libbre di peso.
 - 【MULTIFUNZIONE】 Questo moschettone arrampicata con blocco è molto facile da riporre e trasportare per tutte le attività, come arrampicata, discesa in corda doppia, amaca, campeggio, altalene e yoga aereo, ecc.
+- 【CERTIFICAZIONE CE】 La moschettone arrampicata ha superato la certificazione standard CE EN362. Lalbero lungo di ogni serratura ha una forza di rottura nominale di 25KN (5644lb), una forza di rottura dellalbero corto di 7KN (1575lb) e una forza di rottura di sblocco di 8KN (1800lb).
+- 【BLOCCO DADO DI SICUREZZA】 Basta girare il tubo del dado e spingere il carico della molla per aprirlo, quindi ribloccare automaticamente quando la pressione viene rilasciata. Il design della funzione di blocco automatico della porta impedisce lapertura accidentale del moschettone e garantisce la tua sicurezza.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09CKH2TRQ{{</world>}}

@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Suola in gomma riciclata
 - Soletta in poliuretano Helium
-- Costruzione vulcanizzata
 - Cementi a base acqua
+- Costruzione vulcanizzata
 - Tomaia e lacci in cotone organico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

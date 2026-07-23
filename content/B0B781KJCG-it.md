@@ -29,9 +29,9 @@ average: '12.54'
 ℹ️:
 
 - *Nespresso è un marchio registrato di Societè des Produits Nestlè S.A; Caffè Borbone Srl è produttore autonomo non collegato alla Societè des Produits Nestlè S.A; La compatibilità delle capsule Caffè Borbone è funzionale allutilizzo con macchine da caffè ad uso domestico *Nespresso
+- Capsule Borbone Nocciolino per bevanda solubile al gusto cappuccino alla nocciola, compatibili con macchine ad uso domestico Nespresso* Le capsule compatibili Nocciolino al gusto cappuccino alla nocciola fanno parte della linea Capriccio, la più sfiziosa delle 4 nuove linee di bevande aromatizzate in capsula “Nuove emozioni di gusto”, dedicata a chi vuole gustare una pausa diversa dal solito, ma sempre golosa
 - Un delizioso cappuccino alla nocciola, da gustare a casa tua: con le capsule Borbone Nocciolino puoi concederti una pausa dal sapore inconfondibile, quando vuoi; Sono arrivate le “Nuove emozioni di gusto” Caffè Borbone: per ogni occasione, un’esplosione di gusto; Regalati un momento unico e goloso con i prodotti della linea Capriccio: tanti gusti sfiziosi per un break ogni volta diverso, ma sempre speciale
 - FORMATO: 60 Capsule - 6 Confezioni da 10
-- Capsule Borbone Nocciolino per bevanda solubile al gusto cappuccino alla nocciola, compatibili con macchine ad uso domestico Nespresso* Le capsule compatibili Nocciolino al gusto cappuccino alla nocciola fanno parte della linea Capriccio, la più sfiziosa delle 4 nuove linee di bevande aromatizzate in capsula “Nuove emozioni di gusto”, dedicata a chi vuole gustare una pausa diversa dal solito, ma sempre golosa
 - Capsule Compatibili Nespresso* con i seguenti modelli di macchine da caffè: Delonghi - Essenza, Essenza Mini EN85R, Citiz, Inissia, Lattissima Premium, Pixie, Prodigio Silver, U; Krups - Citiz, Essenza, Essenza Mini, Inissia, Pixie, Prodigio Titan, U; Nespresso - Essenza Mini C30 Matt Black, Lattissima One; Didiesse
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

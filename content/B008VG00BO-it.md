@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- GUSTO: piacevoli note di mango evidenziano l’età avanzata, il risultato di una lunga maturazione in botti di rovere francese
-- COMPOSIZIONE: invecchiato alle Barbados da 8 a 15 anni, e successivamente invecchiato in Francia da 2 a 10 anni, per un rum con un gusto complesso al palato e un finish a lunga persistenza
-- PLANTERAY RUM: dalla Giamaica a Barbados via Panama, Trinidad, Guyana fino alle Isole Fiji, i rum Planteray possiedono i sapori locali che rispecchiano tradizioni e identità di ciascun territorio
 - IL RUM DELLE BARBADOS PIÙ PREMIATO: con oltre 50 medaglie ottenute in numerose competizioni internazionali, Planteray XO 20th Anniversary è il rum più premiato delle Barbados
+- PLANTERAY RUM: dalla Giamaica a Barbados via Panama, Trinidad, Guyana fino alle Isole Fiji, i rum Planteray possiedono i sapori locali che rispecchiano tradizioni e identità di ciascun territorio
+- GUSTO: piacevoli note di mango evidenziano l’età avanzata, il risultato di una lunga maturazione in botti di rovere francese
 - AROMA: in apertura un sorprendente aroma fruttato e floreale seguito da fragranze di vaniglia, cacao e cioccolato al latte
+- COMPOSIZIONE: invecchiato alle Barbados da 8 a 15 anni, e successivamente invecchiato in Francia da 2 a 10 anni, per un rum con un gusto complesso al palato e un finish a lunga persistenza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B008VG00BO{{</world>}}

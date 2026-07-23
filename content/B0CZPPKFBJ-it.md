@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Tasche anteriori sulla giacca e sui pantaloni
+- Vestibilità regolare
+- Girovita elasticizzato con cordino
+- 100% poliestere (riciclato)
 - Zip integrale e collo alto
 - Vita media
-- Tasche anteriori sulla giacca e sui pantaloni
-- Girovita elasticizzato con cordino
-- Vestibilità regolare
-- 100% poliestere (riciclato)
 - Polsini e orlo a coste
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Solari
-- Made in Italy
 - Prodotto della casa collistar
+- Made in Italy
+- Solari
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00B3S6KSE{{</world>}}

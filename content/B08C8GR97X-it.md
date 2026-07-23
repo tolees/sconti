@@ -28,9 +28,9 @@ average: '19.67'
 
 ℹ️:
 
-- MAGLIONE CON COLLO A LUPETTO: un modello moderno e classico da indossare a strati, perfetto per look eleganti e anche casual.
 - VESTIBILITÀ CLASSICA: vestibilità aderente ma confortevole con facilità di movimento
 - FILATO LEGGERO PER MAGLIONI IN MISTO COTONE: filato morbido e leggero per maglioni con una splendida decorazione.
+- MAGLIONE CON COLLO A LUPETTO: un modello moderno e classico da indossare a strati, perfetto per look eleganti e anche casual.
 - DETTAGLI: modello caratterizzato da collo a lupetto, maniche lunghe e dettagli a coste su collo, polsini e orlo. Bellissimo motivo a treccia testurizzato integrale.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

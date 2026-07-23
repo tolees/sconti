@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Jersey stretch
-- Pack 3 pezzi
 - Vita elastica logata
+- Pack 3 pezzi
+- Jersey stretch
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DQTNCYCN{{</world>}}

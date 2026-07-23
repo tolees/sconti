@@ -28,11 +28,11 @@ average: '3.0'
 
 ℹ️:
 
-- I prodotti Lindt nascono da passione e dedizione dei Maîtres Chocolatiers, che da più di 175 anni incantano il mondo con capolavori di cioccolato
 - Un guscio croccante di finissimo cioccolato al latte racchiude un morbido ripieno al caramello salato dallirresistibile scioglievolezza
+- I prodotti Lindt nascono da passione e dedizione dei Maîtres Chocolatiers, che da più di 175 anni incantano il mondo con capolavori di cioccolato
+- Lindt LINDOR è liconica pralina con guscio croccante al latte e ripieno al caramello salato dallirresistibile scioglievolezza, nata nel 1949, formato 200g
 - Cacao pregiatissimo, tostatura e macinazione inimitabili, i migliori ingredienti: questo è il segreto del finissimo cioccolato Lindt
 - Irresistibile scioglievolezza al pistacchio da condividere, una coccola quotidiana per il tuo momento di estasi
-- Lindt LINDOR è liconica pralina con guscio croccante al latte e ripieno al caramello salato dallirresistibile scioglievolezza, nata nel 1949, formato 200g
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B8D1JN7X{{</world>}}

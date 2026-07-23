@@ -30,9 +30,9 @@ average: '11.34'
 
 - LAMPADA LED RICARICABILE VIA USB, SENZA FILI: La luce da tavolo ricaricabile funziona senza cavi fissi ed è facilmente ricaricabile tramite cavo USB incluso, per la massima libertà di utilizzo.
 - 3 TONALITÀ DI LUCE REGOLABILI: La lampada da tavolo consente di scegliere tra luce calda, naturale o fredda e di regolare l’intensità luminosa con una semplice pressione.
-- LAMPADA DECORATIVA DA TAVOLO: La lampada da tavolo decorativa FLORA è perfetta come centrotavola, luce d’atmosfera, decorazione per mensole, ingressi e zone living (protezione IP22).
-- LAMPADA RICARICABILE CON AUTONOMIA FINO A 24 ORE: La lampada da tavolo ricaricabile FLORA è dotata di batteria ad alta capacità che garantisce oltre 24 ore di utilizzo alla minima intensità.
 - CONTENITORE INTERNO IMPERMEABILE: La lampada LED FLORA unisce luce e design grazie al contenitore interno impermeabile, ideale per fiori freschi o composizioni decorative.
+- LAMPADA RICARICABILE CON AUTONOMIA FINO A 24 ORE: La lampada da tavolo ricaricabile FLORA è dotata di batteria ad alta capacità che garantisce oltre 24 ore di utilizzo alla minima intensità.
+- LAMPADA DECORATIVA DA TAVOLO: La lampada da tavolo decorativa FLORA è perfetta come centrotavola, luce d’atmosfera, decorazione per mensole, ingressi e zone living (protezione IP22).
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GL3TNF1B{{</world>}}

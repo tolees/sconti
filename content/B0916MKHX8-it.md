@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Rifiniti con la nostra iconica cucitura ad arco
-- I jeans slim definitivi
 - Un look slanciato disegnato per sembrare su misura per te
+- I jeans slim definitivi
 - Capo fabbricato con Levis flex eco performance; la nostra tecnologia advanced stretch studiata per offrire un’ottima flessibilità e un ottimo comfort
 - Aderente, ma non tanto da evitarti di correre alla fermata dell’autobus o di ballare in terrazza
 

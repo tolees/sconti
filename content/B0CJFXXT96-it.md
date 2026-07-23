@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Confezione da 24 Snack di wafer da 40g incartati singolarmente (960g totali)
+- LION Brownie è uno Snack con wafer al cacao con ripieno al gusto brownie con caramello e cereali, ricoperto di cioccolato al latte
 - Visita il sito Nestlé per scoprire come le nostre marche sono scese in campo e contribuiscono al raggiungimento degli obiettivi di sostenibilità del Gruppo Nestlé con progetti concreti
+- Confezione da 24 Snack di wafer da 40g incartati singolarmente (960g totali)
+- LION aderisce al progetto NESTLÉ Cocoa Plan utilizza cacao approvvigionato in maniera responsabile, certificato Rainforest Alliance
 - Snack ottimo per una carica di gusto e grinta allo stato puro, per i veri amanti del gusto brownie
 - LION brownie è una barretta extra croccante in edizione limitata
-- LION aderisce al progetto NESTLÉ Cocoa Plan utilizza cacao approvvigionato in maniera responsabile, certificato Rainforest Alliance
-- LION Brownie è uno Snack con wafer al cacao con ripieno al gusto brownie con caramello e cereali, ricoperto di cioccolato al latte
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CJFXXT96{{</world>}}

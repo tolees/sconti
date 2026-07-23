@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- COMODA DA USARE | La prolunga elettrica Poly Pool è facile e pratica da utilizzare. la qualità dei materiali, il design (salvaspazio e antiscivolo) permettono l’utilizzo di questo prodotto con la maggior parte dei dispositivi elettrici presenti in ambienti domestici
-- POLY POOL | Da 40 anni partner di assoluta affidabilità. Leader nella produzione di materiale elettrico e piccoli elettrodomestici nel mercato Italiano e Internazionale.
-- SICURA E RESISTENTE | La prolunga Poly Pool è sicura e resistente, spine e prese sono dotate di spinotti ed alveoli attivi protetti da contatti diretti accidentali e/o volontari. La nostra prolunga è conforme alle vigenti norme di legge e certificata dall’Istituto Italiano del marchio di qualità (IMQ)
 - ROBUSTA E VERSATILE | La prolunga elettrica Polypool si adatta perfettamente ai diversi usi domestici. Robusta e versatile, si presta a molti utilizzi, permettendo di sfruttare anche la presa elettrica più lontana. La prolunga infatti ha un cavo elettrico lungo 5 metri.
+- COMODA DA USARE | La prolunga elettrica Poly Pool è facile e pratica da utilizzare. la qualità dei materiali, il design (salvaspazio e antiscivolo) permettono l’utilizzo di questo prodotto con la maggior parte dei dispositivi elettrici presenti in ambienti domestici
+- SICURA E RESISTENTE | La prolunga Poly Pool è sicura e resistente, spine e prese sono dotate di spinotti ed alveoli attivi protetti da contatti diretti accidentali e/o volontari. La nostra prolunga è conforme alle vigenti norme di legge e certificata dall’Istituto Italiano del marchio di qualità (IMQ)
+- POLY POOL | Da 40 anni partner di assoluta affidabilità. Leader nella produzione di materiale elettrico e piccoli elettrodomestici nel mercato Italiano e Internazionale.
 - CARATTERISTICHE TECNICHE | La prolunga elettrica è dotata di spina e presa italiana 10A 2P+T. cavo da 5 metri H05VV-F 3x0,75mmq, colore bianco
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

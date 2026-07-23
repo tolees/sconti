@@ -28,11 +28,11 @@ average: '34.98'
 
 ℹ️:
 
-- [ Tecnologia GaN ] Caricabatterie USB C dotata di GaN per ottimizzare lesperienza di ricarica. La tecnologia GaN consente al caricabatterie di offrire maggiore efficienza, maggiore potenza in uscita, migliore gestione termica e maggiore durata.
-- [ Stazione di Ricarica con Maggiore Potenza ] UGREEN Stazione di Ricarica USB-C, dotata di un totale di 6 porte (4 USB-C e 2 USB-A) e una potenza totale di 100W, è unopzione professionale e potente per il desk. Risparmia tempo e fatica a casa, in ufficio o in mobilità con questa stazione di ricarica progettata per più dispositivi.
-- [ Caricatore 100W ] UGREEN caricatore usb c offre una ricarica massima di 65W su una singola porta. Dotato di più protocolli di ricarica rapida (PD/PPS/QC/AFC), il MacBook Air può essere ricaricato da 0% a 51% in soli 30 minuti, il che maximizza lefficienza di lavoro e lo rende unottima opzione per luso quotidiano.
-- [ 6 Iin 1 Caricabatterie ] Caricatore USB-C ricarica fino a 6 dispositivi contemporaneamente grazie alle 6 porte, permettendoti di ricaricare tutto, dai telefoni ai tablet e ai laptop, contemporaneamente. Inoltre, è inclusa una base che garantisce un desk ordinato e risparmia spazio, senza ingarbugli di cavi. Potente, spazio-saving ed efficiente.
 - [ Compatibilità Universale ] Caricatore USB C compatibile con con iPhone 17 Air Pro Max 16 15 14 ;Galaxy S26/ S26+/ S26 Ultra/ S25/ S24/ S23;Pixel 10 Pro 9a/ 8/ 7/ 6, MacBook Air/ Pro M5 M4 M3 M2 M1, iPad Pro/Air/mini, Thinkpad, Steam Deck.
+- [ Stazione di Ricarica con Maggiore Potenza ] UGREEN Stazione di Ricarica USB-C, dotata di un totale di 6 porte (4 USB-C e 2 USB-A) e una potenza totale di 100W, è unopzione professionale e potente per il desk. Risparmia tempo e fatica a casa, in ufficio o in mobilità con questa stazione di ricarica progettata per più dispositivi.
+- [ 6 Iin 1 Caricabatterie ] Caricatore USB-C ricarica fino a 6 dispositivi contemporaneamente grazie alle 6 porte, permettendoti di ricaricare tutto, dai telefoni ai tablet e ai laptop, contemporaneamente. Inoltre, è inclusa una base che garantisce un desk ordinato e risparmia spazio, senza ingarbugli di cavi. Potente, spazio-saving ed efficiente.
+- [ Tecnologia GaN ] Caricabatterie USB C dotata di GaN per ottimizzare lesperienza di ricarica. La tecnologia GaN consente al caricabatterie di offrire maggiore efficienza, maggiore potenza in uscita, migliore gestione termica e maggiore durata.
+- [ Caricatore 100W ] UGREEN caricatore usb c offre una ricarica massima di 65W su una singola porta. Dotato di più protocolli di ricarica rapida (PD/PPS/QC/AFC), il MacBook Air può essere ricaricato da 0% a 51% in soli 30 minuti, il che maximizza lefficienza di lavoro e lo rende unottima opzione per luso quotidiano.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DP1ZCWXK{{</world>}}

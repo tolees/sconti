@@ -28,11 +28,11 @@ average: '49.09'
 
 ℹ️:
 
+- Limpostazione della profondità di taglio e dellangolo di inclinazione della sega circolare manuale avviene senza la necessità di ricorrere ad attrezzi. Il blocco del mandrino agevola le operazioni di sostituzione della lama.
+- La guida di scorrimento compatibile di Einhell incrementa ulteriormente la precisione della sega manuale circolare, per la realizzazione di tagli assolutamente precisi e puliti, senza bordi sfilacciati.
 - Nella dotazione è inclusa una lama dentata in metallo rigido per un taglio netto e preciso. La sega manuale è compatibile con lame dentate con 16 mm di diametro foro interno. Un cuneo divisore contribuisce anche a incrementare la sicurezza di esercizio.
 - La grande impugnatura supplementare attenua lo sforzo anche durante le sessioni di lavoro più prolungate. La sega circolare manuale dispone di attacco per aspirapolvere compatibile che permette di mantenere la pulizia dellarea di lavoro.
-- La guida di scorrimento compatibile di Einhell incrementa ulteriormente la precisione della sega manuale circolare, per la realizzazione di tagli assolutamente precisi e puliti, senza bordi sfilacciati.
 - La sega manuale circolare Einhell TC-CS 1250 eccelle per la facilità di manipolazione e una potenza di 1.250 Watt. La profondità di taglio massima a 45º di inclinazione raggiunge i 38 mm, a 90º di inclinazione la profondità di taglio raggiunge i 55 mm.
-- Limpostazione della profondità di taglio e dellangolo di inclinazione della sega circolare manuale avviene senza la necessità di ricorrere ad attrezzi. Il blocco del mandrino agevola le operazioni di sostituzione della lama.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08J3T9MQT{{</world>}}

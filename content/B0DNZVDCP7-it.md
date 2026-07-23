@@ -29,9 +29,9 @@ average: '12.27'
 ℹ️:
 
 - BENEFICI: La particolare formulazione del fertilizzante con nutrienti di origine completamente organica e biologica garantisce una crescita sana e vigorosa degli ortaggi, migliorandone sapore e qualità.
-- IL PAESE VERDE: Qualità, innovazione e sostenibilità al servizio di tutti gli appassionati di giardinaggio e orticoltura. Il nostro obiettivo è offrire le migliori soluzioni di domani a un consumatore consapevole e sensibile al rispetto dell’ambiente, grazie a un’offerta completa e costantemente arricchita di prodotti innovativi, efficaci e sostenibili.
-- PERIODO DUTILIZZO: Il periodo ideale d’uso del prodotto va da marzo ad ottobre, compresi. Le dosi dipendono dal tipo di ortaggio e vanno dagli 80 ai 200 g/m².
 - ELEMENTI PRESENTI: Tra le componenti (tutte 100% organiche) spiccano il potassio, utile nelle ultime fasi di sviluppo dei frutti, e il calcio che aiuta il nutrimento della pianta durante il ciclo produttivo e previene il marciume apicale.
+- PERIODO DUTILIZZO: Il periodo ideale d’uso del prodotto va da marzo ad ottobre, compresi. Le dosi dipendono dal tipo di ortaggio e vanno dagli 80 ai 200 g/m².
+- IL PAESE VERDE: Qualità, innovazione e sostenibilità al servizio di tutti gli appassionati di giardinaggio e orticoltura. Il nostro obiettivo è offrire le migliori soluzioni di domani a un consumatore consapevole e sensibile al rispetto dell’ambiente, grazie a un’offerta completa e costantemente arricchita di prodotti innovativi, efficaci e sostenibili.
 - DESCRIZIONE: CONCIME PER POMODORI BIO è un concime organo minerale specifico per il nutrimento di pomodori e altre solanacee, come peperoni e melanzane.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

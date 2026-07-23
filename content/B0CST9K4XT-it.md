@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Le mappe e gli ingranaggi dellinnovazione consentono treni combinati.
+- Lespansione per il gioco degli intenditori Anno 1800 per maggiori possibilità strategiche e complessità.
+- Ulteriori carte di ordine aprono strategie completamente nuove.
 - Giocabile anche da solo con campagna in sei sezioni.
 - Espansione per gioco da tavolo per 1-4 persone dai 12 anni
-- Ulteriori carte di ordine aprono strategie completamente nuove.
-- Lespansione per il gioco degli intenditori Anno 1800 per maggiori possibilità strategiche e complessità.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CST9K4XT{{</world>}}

@@ -28,11 +28,11 @@ average: '18.23'
 
 ℹ️:
 
-- CAPACITÀ 20000mAh: può ricaricare i tuoi dispositivi offrendo energia affidabile per ogni esigenza; ricarica simultaneamente fino a 2 dispositivi: 1x USB-C da 20W (PD) e 1x USB-A da 18W (AFC)
-- DESIGN SLIM: portabile, leggero, sottile e compatto, ti consente di averlo sempre con te nella tasca della giacca, dei pantaloni o in borsa; potrai così avere sempre i tuoi dispositivi carichi e pronti alluso. Trasportabile in aereo
-- USB-C IN&OUT: potrai utilizzare la porta USB-C sia per ricaricare il PowerBank che per alimentare i tuoi dispositivi
 - STATUS LED: monitora facilmente il livello di carica residua, utilizzabile appena estratto dalla confezione
+- DESIGN SLIM: portabile, leggero, sottile e compatto, ti consente di averlo sempre con te nella tasca della giacca, dei pantaloni o in borsa; potrai così avere sempre i tuoi dispositivi carichi e pronti alluso. Trasportabile in aereo
+- CAPACITÀ 20000mAh: può ricaricare i tuoi dispositivi offrendo energia affidabile per ogni esigenza; ricarica simultaneamente fino a 2 dispositivi: 1x USB-C da 20W (PD) e 1x USB-A da 18W (AFC)
 - SICUREZZA: la tecnologia Power Delivery (PD) e Adaptive Fast Charge (AFC) proteggono i tuoi dispositivi da surriscaldamenti e cortocircuiti, garantendo una ricarica veloce e sicura
+- USB-C IN&OUT: potrai utilizzare la porta USB-C sia per ricaricare il PowerBank che per alimentare i tuoi dispositivi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DSJ8B93C{{</world>}}

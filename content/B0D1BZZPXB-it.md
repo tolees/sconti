@@ -28,9 +28,9 @@ average: '25.0'
 
 ℹ️:
 
+- Chiusura a zip e tasche frontali
 - Il tessuto leggero è delicato e sottile, per una sensazione traspirante e confortevole
 - Adotta uno stile informale con una giacca di qualità da usare nel quotidiano
-- Chiusura a zip e tasche frontali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D1BZZPXB{{</world>}}

@@ -28,8 +28,8 @@ average: '45.59'
 
 ℹ️:
 
-- Resistenza al riscaldamento
 - Confortevole
+- Resistenza al riscaldamento
 - Tasca a canguro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

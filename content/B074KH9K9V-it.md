@@ -28,10 +28,10 @@ average: '6.99'
 
 ℹ️:
 
-- *E.S.E; dm 44 ed *E.S.E sono marchi registrati dal consorzio EASY SERVING ESPRESSO La produzione di queste cialde è autonoma non collegata né direttamente e né indirettamente alla EASY SERVING ESPRESSO
 - MISCELA NERA: Cremosa dal gusto intenso e dal sapore marcato; Un carattere fermo che evoca la tipica tradizione del vero caffè napoletano; Frutto di una pregiata selezione di miscele, create per un espresso di grande corpo; Ricca e cremosa come quella del bar; Confezionato in atmosfera protettiva, un sapiente e selezionato mix di Robusta
-- Le Cialde ESE Caffè Borbone da 44 mm in carta filtro sono compatibili al 100% con tutte le macchine da caffè che utilizzano il sistema Easy Serving Espresso; Fai la scelta giusta per un mondo migliore: scegli un prodotto 100% ecocompatibile
+- *E.S.E; dm 44 ed *E.S.E sono marchi registrati dal consorzio EASY SERVING ESPRESSO La produzione di queste cialde è autonoma non collegata né direttamente e né indirettamente alla EASY SERVING ESPRESSO
 - FRAGRANZA E AROMA: Una miscela raffinata e persistente, che si presenta con: Corpo: 9.8 - Intensità: 10 - Persistenza: 10 - Dolcezza: 6 - Acidità: 4
+- Le Cialde ESE Caffè Borbone da 44 mm in carta filtro sono compatibili al 100% con tutte le macchine da caffè che utilizzano il sistema Easy Serving Espresso; Fai la scelta giusta per un mondo migliore: scegli un prodotto 100% ecocompatibile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B074KH9K9V{{</world>}}

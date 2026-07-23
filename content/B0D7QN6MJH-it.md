@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Capsule Compatibili Lavazza* A Modo Mio* con i seguenti modelli di macchina da caffè: Espressgo, Espria, Extra, Fantasia, Favola Electrolux, Idola, Jolie, Magia, Minù, Minù Caffè Latte,Simpla, Tiny
 - A volte nel corso della giornata un caffè tira l’altro; si inizia al mattino, ci si concede una pausa con i colleghi e una tazzina dopo pranzo; La dose di caffeina assunta giornalmente potrebbe essere troppa, ma grazie allesclusiva Miscela Ligt non dovrai più preoccuparti
-- MISCELA LIGHT: Una Miscela Leggera e Delicata, 50% Miscela Blu e 50% Miscela Dek, Oggi finalmente si può avere lo stesso gusto unico dell’inconfondibile Miscela Blu Caffè Borbone, con il 50% di caffeina in meno; contenuto di caffeina inferiore al 1.2%
+- Capsule Compatibili Lavazza* A Modo Mio* con i seguenti modelli di macchina da caffè: Espressgo, Espria, Extra, Fantasia, Favola Electrolux, Idola, Jolie, Magia, Minù, Minù Caffè Latte,Simpla, Tiny
 - *Lavazza, *A Modo Mio, *Lavazza A Modo Mio sono marchi di proprietà di Luigi Lavazza S.p.A; Caffè Borbone Srl è produttore autonomo non collegato alla Luigi Lavazza S.p.A; La compatibilità delle capsule Caffè Borbone è funzionale all’utilizzo con macchine da caffè ad uso domestico *Lavazza *A Modo Mio
 - FORMATO: Confezione da 50 Capsule
+- MISCELA LIGHT: Una Miscela Leggera e Delicata, 50% Miscela Blu e 50% Miscela Dek, Oggi finalmente si può avere lo stesso gusto unico dell’inconfondibile Miscela Blu Caffè Borbone, con il 50% di caffeina in meno; contenuto di caffeina inferiore al 1.2%
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D7QN6MJH{{</world>}}

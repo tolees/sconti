@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Esplora un mondo dark fantasy: Lasciati trasportare in un intenso mondo suggestivo portato in vita da una direzione artistica pittorica e dalla musica epica e distorta di Christos Antoniou
-- Un arduo soulslike a scorrimento laterale: Gioca una combinazione di livelli a scorrimento laterale in 2.5D e sfrutta le tue abilità in scontri che garantiscono punizioni e ricompense in egual misura
-- Fatti strada a suon di colpi: DallAvanguardia allEretico, padroneggia una delle tante classi uniche e personalizza abilità e poteri
 - Un’avvincente storia di umanità perduta: Ottieni la leggendaria Lanterna delle streghe ed entra nel piano ultraterreno dellEntropia attraverso gli squarci nel tessuto della realtà
+- Un arduo soulslike a scorrimento laterale: Gioca una combinazione di livelli a scorrimento laterale in 2.5D e sfrutta le tue abilità in scontri che garantiscono punizioni e ricompense in egual misura
 - Trova degli Artigiani da aggiungere alla tua carovana, sblocca nuovi potenziamenti e crea potenti armi, armature e accessori
+- Esplora un mondo dark fantasy: Lasciati trasportare in un intenso mondo suggestivo portato in vita da una direzione artistica pittorica e dalla musica epica e distorta di Christos Antoniou
+- Fatti strada a suon di colpi: DallAvanguardia allEretico, padroneggia una delle tante classi uniche e personalizza abilità e poteri
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F8VYSTVM{{</world>}}

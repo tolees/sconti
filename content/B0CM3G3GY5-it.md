@@ -29,10 +29,10 @@ average: '29.8'
 ℹ️:
 
 - Miscela prodotta con i migliori caffè del Sud America. Tostatura media che conferisce dolcezza e intensità al tempo stesso. Note di miele e caramello
-- Capsule compatibili con i seguenti modelli di macchine da caffè Nescafé* Dolce Gusto*. De Longhi: Stelia, Piccolo, Mini ME, Melody 3, Jovia, Genio, Circolo, Infinissima; Krups: Piccolo, Oblo, Movenza, Mini ME, Melody, Lumio, KP 2000, Fontana, Drop, Creativa, Circolo, Infinissima
 - Il packaging dei prodotti Segafredo Zanetti è riciclabile e può essere differenziato nei contenitori della carta. Le capsule di caffè si smaltiscono nell’indifferenziata
-- Intensità alta: caffè dal corpo consistente con un gusto ricco e armonioso. La confezione contiene 180 capsule divise in 6 scatole da 30 pezzi ciascuna
 - I marchi Nescafé* e Dolce Gusto* non sono di proprietà di Segafredo Zanetti S.p.A. né di aziende collegate ad essa. La compatibilità delle capsule Segafredo Zanetti è funzionale allutilizzo con macchine da caffè ad uso domestico Nescafé* Dolce Gusto*
+- Intensità alta: caffè dal corpo consistente con un gusto ricco e armonioso. La confezione contiene 180 capsule divise in 6 scatole da 30 pezzi ciascuna
+- Capsule compatibili con i seguenti modelli di macchine da caffè Nescafé* Dolce Gusto*. De Longhi: Stelia, Piccolo, Mini ME, Melody 3, Jovia, Genio, Circolo, Infinissima; Krups: Piccolo, Oblo, Movenza, Mini ME, Melody, Lumio, KP 2000, Fontana, Drop, Creativa, Circolo, Infinissima
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CM3G3GY5{{</world>}}

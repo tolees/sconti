@@ -29,8 +29,8 @@ average: '58.47'
 ℹ️:
 
 - Tomaia in Durabuck.
-- Intersuola Air Heel.
 - Soletta in memory foam raffreddata ad aria.
+- Intersuola Air Heel.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09L5GWKT7{{</world>}}

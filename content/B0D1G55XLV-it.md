@@ -30,8 +30,8 @@ average: '13.3'
 
 - BRADIPO: Goditi la vita come un bradipo con Slobby! Il suo simpatico musetto e il soffice peluche NICI lo rendono un esperto del dolce far niente. Grazie alle chiusure a strappo, è un maestro nello stare appeso
 - SLOBBY: Rilassati come un bradipo con Slobby, lesperto di relax! Con il suo viso adorabile e il soffice peluche, ama osservare il mondo dallalto. Scopri i nuovi bradipi e gli accessori per completare la tendenza
-- NICI GREEN: La collezione NICI Green è sostenibile e rispettosa dellambiente, in quanto quasi tutti i peluche e i materiali di riempimento sono realizzati con materiali riciclati, principalmente da bottiglie in PET
 - CON AMORE, NICI: Da oltre 30 anni, NICI porta gioia a bambini con prodotti di alta qualità, curati nei dettagli. Perfetti come regali, offrono benessere e allegria nelle coccole
+- NICI GREEN: La collezione NICI Green è sostenibile e rispettosa dellambiente, in quanto quasi tutti i peluche e i materiali di riempimento sono realizzati con materiali riciclati, principalmente da bottiglie in PET
 - REGALI PERFETTI: I nostri peluche non sono solo regali per compleanni, Pasqua o Natale, ma anche momenti di felicità. Immergiti in un mondo di abbracci morbidi e dolci sorprese
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

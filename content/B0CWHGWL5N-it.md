@@ -28,11 +28,11 @@ average: '1.89'
 
 ℹ️:
 
+- PER PELLI DELICATE: questo prodotto è testato dermatologicamente sotto controllo pediatrico, assicurando protezione e cura per la pelle sensibile dei bambini
+- SCOPRI LYCIA: Lycia nasce da una ricerca attenta e minuziosa, pensata per valorizzare il corpo con ingredienti e materie prime di origine controllata, e formulazioni efficaci e delicate Made in Italy
+- DEODORANTE BAMBINA: Lycia Girl è il deodorante per bambini appositamente formulato per essere efficace contro il cattivo odore dovuto alle prime sudorazioni di bambine e ragazze
 - SENZA ALLUMINIO: un deodorante senza alluminio né alcool, presentato in una confezione vivace e colorata che conquista al primo sguardo, garantendo protezione e freschezza in totale sicurezza
 - EFFICACIA 48H: la sua formula è delicata ed è arricchita da uno speciale ingrediente attivo per garantire fino a 48 ore di azione anti-odore
-- PER PELLI DELICATE: questo prodotto è testato dermatologicamente sotto controllo pediatrico, assicurando protezione e cura per la pelle sensibile dei bambini
-- DEODORANTE BAMBINA: Lycia Girl è il deodorante per bambini appositamente formulato per essere efficace contro il cattivo odore dovuto alle prime sudorazioni di bambine e ragazze
-- SCOPRI LYCIA: Lycia nasce da una ricerca attenta e minuziosa, pensata per valorizzare il corpo con ingredienti e materie prime di origine controllata, e formulazioni efficaci e delicate Made in Italy
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CWHGWL5N{{</world>}}

@@ -28,11 +28,11 @@ average: '7.116'
 
 ℹ️:
 
-- Formula - Le polveri compatte di questa palette sono tutte leggere, facili da sfumare e a lunga tenuta
-- Rimmel London è la certezza di avere sempre uno stile cool, irriverente, imprevedibile e in continua evoluzione; rimmel non aspira alla perfezione e non vuole intimidire; è come Londra: giovane, eclettico, metropolitano; unespressione senza regole, reale e accessibile
-- Applicazione - Usa lilluminante sulle zone del viso che vengono naturalmente illuminate di più dalla luce (es; zigomi e punta del naso) e la terra su quelle che stanno più in ombra; infine stendi il fard sulle gote per un effetto ancora più naturale
 - Sculpting Palette by Kate - Palette 3in1 ideata da Kate Moss, contiene tutto il necessario per realizzare un effetto contouring viso impeccabile: polvere illuminante, terra e fard
 - Effetti e benefici - Un pratico set compatto da portare sempre con te per mettere in risalto i tuoi lineamenti in qualsiasi momento
+- Rimmel London è la certezza di avere sempre uno stile cool, irriverente, imprevedibile e in continua evoluzione; rimmel non aspira alla perfezione e non vuole intimidire; è come Londra: giovane, eclettico, metropolitano; unespressione senza regole, reale e accessibile
+- Formula - Le polveri compatte di questa palette sono tutte leggere, facili da sfumare e a lunga tenuta
+- Applicazione - Usa lilluminante sulle zone del viso che vengono naturalmente illuminate di più dalla luce (es; zigomi e punta del naso) e la terra su quelle che stanno più in ombra; infine stendi il fard sulle gote per un effetto ancora più naturale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01D1HFFFI{{</world>}}

@@ -28,8 +28,8 @@ average: '35.0'
 
 ℹ️:
 
-- Dettagli traforati sulla punta
 - Intersuola in EVA Suola dentellata in gomma
+- Dettagli traforati sulla punta
 - Stampa del logo sul tallone e sul pannello laterale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

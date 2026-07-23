@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Cerniera passante regolabile in 25 posizioni
 - Per allentare con cura i tubi flessibili su bocchettoni e di cartucce filtro
 - Adesione ottimale su superfici prive di sporco, olio e grasso
-- Cerniera passante regolabile in 25 posizioni
 - Geometria ergonomica dei manici
 - Per connettori e raccordi con chiusura a vite, ad es. raccordi tipo Cannon
 

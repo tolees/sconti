@@ -28,11 +28,11 @@ average: '18.99'
 
 ℹ️:
 
-- Complesso antiossidante ACTIFUL composto da Bioflavonoidi, Citrus Sinensis L. e melograno, che ha proprietà antiossidanti.
-- Sustenium Plus 50+ integratore alimentare energizzante per adulti 50+ a base di vitamine (tra cui la B12 ad alto contenuto), magnesio e complesso antiossidante Actiful. Da oggi in pratici flaconcini.
 - Si consiglia l’assunzione di 1 flaconcino al giorno, agitandolo bene prima dell’uso. Pronto da bere. Senza Zuccheri | Adatto a una dieta vegana | Senza glutine | Naturalmente privo di lattosio.
-- Per il supporto quotidiano di energia fisica e mentale degli adulti 50+ o per periodi di particolare impegno lavorativo o personale.
+- Complesso antiossidante ACTIFUL composto da Bioflavonoidi, Citrus Sinensis L. e melograno, che ha proprietà antiossidanti.
 - Vitamina B12 ad alto contenuto, B3 (Niacina) e B6 che contribuiscono alla riduzione di stanchezza e affaticamento. Vitamina B2 che contribuisce alla protezione delle cellule dallo stress ossidativo.
+- Sustenium Plus 50+ integratore alimentare energizzante per adulti 50+ a base di vitamine (tra cui la B12 ad alto contenuto), magnesio e complesso antiossidante Actiful. Da oggi in pratici flaconcini.
+- Per il supporto quotidiano di energia fisica e mentale degli adulti 50+ o per periodi di particolare impegno lavorativo o personale.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DK3NGLR3{{</world>}}

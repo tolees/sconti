@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - 3 ANNI DI GARANZIA – Offerti da Greenworks, leader mondiale negli strumenti senza fili e nella tecnologia a batterie con una reputazione a livello globale per design smart, prestazioni elevate e un servizio clienti eccezionale
 - CAMBIO LAMA FACILE E RAPIDO - Il seghetto alternativo è dotato di due lame, facili da sostituire senza bisogno di attrezzi
+- FUNZIONA CON QUALSIASI BATTERIA GREENWORKS DA 24V - Trapano avvitatore a batteria in speciale confezione “solo attrezzo” senza batteria, così se già possiedi un attrezzo Greenworks da 24V puoi usare la stessa batteria risparmiando spazio e costi
 - LAVORA SENZA POLVERE CON LATTACCO ASPIRAPOLVERE INTEGRATO - Basta collegare il tubo dellaspirapolvere al seghetto elettrico affinché la segatura venga immediatamente aspirata per migliore visibilità e meno polvere
 - SEGHETTO A BATTERIA POTENTE E ROBUSTO CON BASE REGOLABILE - La lama seghetto alternativo taglia rapidamente e con facilità legname fino a 100mm di spessore, metallo fino a 8mm, alluminio, plastica e cartongesso, con tagli dritti, curvi o inclinati
-- FUNZIONA CON QUALSIASI BATTERIA GREENWORKS DA 24V - Trapano avvitatore a batteria in speciale confezione “solo attrezzo” senza batteria, così se già possiedi un attrezzo Greenworks da 24V puoi usare la stessa batteria risparmiando spazio e costi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08CC1F4MS{{</world>}}

@@ -29,10 +29,10 @@ average: '2.72333333333333'
 ℹ️:
 
 - PER LA TUA COLAZIONE: 5 rigoli, 1 tazza di tè, 20 g di nocciole. Per un totale di energie pari al 15% del tuo fabbisogno energetico giornaliero
-- RIGOLI: delicati frollini con latte e miele, ottimi da intingere nel latte o nel tè ma anche da gustare da soli. Uno tira l’altro, per un risveglio dolce come il miele
+- INGREDIENTI: 100% miele italiano Millefiori, uova fresche da galline allevate a terra, farina di frumento. Senza olio di palma, additivi coloranti e conservanti, grassi idrogenati e ingredienti OGM
 - MULINO BIANCO: al Mulino Bianco si ricerca da sempre la qualità. Biscotti, Dolcetti, Merende, Pani e Snack per accompagnarti in ogni momento della giornata
 - BISCOTTI E DOLCETTI: morbidi o friabili, unampia varietà per tutti i gusti. Ogni biscotto è una bontà unica, senza olio di palma
-- INGREDIENTI: 100% miele italiano Millefiori, uova fresche da galline allevate a terra, farina di frumento. Senza olio di palma, additivi coloranti e conservanti, grassi idrogenati e ingredienti OGM
+- RIGOLI: delicati frollini con latte e miele, ottimi da intingere nel latte o nel tè ma anche da gustare da soli. Uno tira l’altro, per un risveglio dolce come il miele
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01NCHIT47{{</world>}}

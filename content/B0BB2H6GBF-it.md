@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - adatti al Layering
-- Pennello con inchiostro a pigmenti dai colori pastello, ideale per decorazione, lettering, illustrazione e calligrafia
 - punta con setole in nylon di qualità Pentel, resistenti e sempre "in forma"
-- scrive perfettamente su carta chiara, scura e kraft
 - sfumabile prima dellasciugatura per ottenere svariate tonalità di colore
+- scrive perfettamente su carta chiara, scura e kraft
+- Pennello con inchiostro a pigmenti dai colori pastello, ideale per decorazione, lettering, illustrazione e calligrafia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BB2H6GBF{{</world>}}

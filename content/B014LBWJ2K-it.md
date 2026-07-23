@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Una volta giunte in officina erboristica, le erbe aromatiche selezionate passano attraverso tre principali modalità di estrazione: bollitura, macerazione e distillazione
+- Da questo lungo e articolato processo, si ottengono dodici essenze madre le quali, sapientemente miscelate, danno vita alle sei note aromatiche che caratterizzano il prodotto
 - L’ultima nota, nonché la più importante, è il "premio", risultato della micro-distillazione di cinque erbe aromatiche che sugella la perfetta sinfonia degli aromi
 - La ricetta di Amaro Montenegro prevede l’utilizzo di 40 erbe aromatiche e un complesso procedimento di estrazione e miscelazione che rendono il prodotto unico e inimitabile
-- Una volta giunte in officina erboristica, le erbe aromatiche selezionate passano attraverso tre principali modalità di estrazione: bollitura, macerazione e distillazione
 - Amaro Montenegro, dal 1885 icona della tradizione liquoristica italiana
-- Da questo lungo e articolato processo, si ottengono dodici essenze madre le quali, sapientemente miscelate, danno vita alle sei note aromatiche che caratterizzano il prodotto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B014LBWJ2K{{</world>}}

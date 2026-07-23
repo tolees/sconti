@@ -28,10 +28,10 @@ average: '36.3566666666667'
 
 ℹ️:
 
-- Gioca nei panni di Naoe, una shinobi dallo spirito arguto, e sfrutta luci, rumori e ombre per confondere i nemici. Infiltrati nelle roccaforti nemiche sfruttando il nuovo rampino e le numerose possibilità offerte dalla corsa acrobatica, distrai le guardie utilizzando shuriken e fumogeni, poi assassina i tuoi obiettivi grazie alla lama celata.
 - Contenuti finali e data di lancio soggetti a modifiche. È necessario scaricare il gioco completo da internet. Visita nintendo.com ugame-key-cards per maggiori dettagli.
-- Passa da un personaggio allaltro per adattare la tua strategia e vivi il Giappone feudale con due filosofie di gioco diametralmente opposte: furtività e potenza, ombre e acciaio.
 - Nei panni del samurai Yasuke, esegui eliminazioni silenziose con larco o scatena combo corpo a corpo devastanti usando la katana o la naginata.
+- Gioca nei panni di Naoe, una shinobi dallo spirito arguto, e sfrutta luci, rumori e ombre per confondere i nemici. Infiltrati nelle roccaforti nemiche sfruttando il nuovo rampino e le numerose possibilità offerte dalla corsa acrobatica, distrai le guardie utilizzando shuriken e fumogeni, poi assassina i tuoi obiettivi grazie alla lama celata.
+- Passa da un personaggio allaltro per adattare la tua strategia e vivi il Giappone feudale con due filosofie di gioco diametralmente opposte: furtività e potenza, ombre e acciaio.
 - Che tu sia a casa o in movimento, scopri lesperienza di Assassins Creed Shadows in un modo del tutto nuovo e unico con Nintendo Switch 2.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

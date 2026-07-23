@@ -29,9 +29,9 @@ average: '40.99'
 ℹ️:
 
 - DARK TIES Segui la nuovissima storia del personaggio di Yakuza 3, Yoshitaka Mine, in un nuovo gioco incluso. Fondatore di una startup di successo, questuomo si è tuffato volontariamente nel mondo oscuro della yakuza dopo aver perso ogni cosa.
-- Ritrova Kazuma Kiryu Segui la storia di Kazuma Kiryu mentre combatte per proteggere coloro che ama in un remake totale di Yakuza 3 che migliora ogni aspetto di questo gioco amatissimo.
 - Questa edizione contiene scheda con chiave di gioco
 - Scopri Okinawa Le vie di Okinawa e Tokyo prendono vita con dettagli incredibili e un sistema di combattimento rinnovato che porta le brutali risse a un livello superiore. Nuove scene aggiungono più profondità ed emozione alla storia tanto amata, con nuove esperienze aggiuntive che ti fanno immergere come mai prima.
+- Ritrova Kazuma Kiryu Segui la storia di Kazuma Kiryu mentre combatte per proteggere coloro che ama in un remake totale di Yakuza 3 che migliora ogni aspetto di questo gioco amatissimo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FVGC7LYV{{</world>}}

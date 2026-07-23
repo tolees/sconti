@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- IDEALE CON: le tagliatelle, è pronto da versare sulla pasta appena scolata. Per una migliore condibilità, puoi diluire il Pesto con un cucchiaino di acqua di cottura della pasta a porzione
-- PESTI BARILLA: tutti i pesti Barilla sono senza glutine e preparati senza aggiungere conservanti. Porta in tavola qualità e gusto con ingredienti semplici per deliziose ricette
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
-- PESTO BASILICO E RUCOLA: il pesto con Basilico e Rucola Barilla è un pesto profumato e cremoso
 - BARILLA: unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
+- PESTO BASILICO E RUCOLA: il pesto con Basilico e Rucola Barilla è un pesto profumato e cremoso
+- PESTI BARILLA: tutti i pesti Barilla sono senza glutine e preparati senza aggiungere conservanti. Porta in tavola qualità e gusto con ingredienti semplici per deliziose ricette
+- IDEALE CON: le tagliatelle, è pronto da versare sulla pasta appena scolata. Per una migliore condibilità, puoi diluire il Pesto con un cucchiaino di acqua di cottura della pasta a porzione
 - CARATTERISTICHE: preparato senza laggiunta di conservanti, questo pesto è pronto per far scoprire alla tua pasta la pienezza dei sapori della nostra terra
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

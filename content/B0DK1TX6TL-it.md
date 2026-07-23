@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Esterno in ecopelle leggermente martellata
 - Tracolla incrociata regolabile opzionale
+- Esterno in ecopelle leggermente martellata
 - Tasca interna con fessura per carte
 - Chiusura con zip superiore
 

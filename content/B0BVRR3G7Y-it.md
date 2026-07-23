@@ -28,10 +28,10 @@ average: '4.19'
 
 ℹ️:
 
-- I CONCENTRATI CHANTECLAIR è anche: Ammorbidenti Concentrati e Sacchetti profumati. Scopri tutta la gamma!
-- CONSIGLI DI UTILIZZO: Per il bucato in lavatrice, versa un tappo di Profuma Biancheria nella vaschetta dellammorbidente prima del ciclo di lavaggio. Adatto anche per il bucato a mano.
 - ANCHE PER ASCIUGATRICE: Adatto anche per lutilizzo in asciugatrice: dosa un tappo su un panno in cotone ed inseriscilo nellasciugatrice
 - ORCHIDEA E FICO: lasciati avvolgere dalle intense note della Orchidea e Fico per riscoprire una sensazione di romantica eleganza senza tempo. Scopri tutte le fragranze e scegli quella che fa per te!
+- I CONCENTRATI CHANTECLAIR è anche: Ammorbidenti Concentrati e Sacchetti profumati. Scopri tutta la gamma!
+- CONSIGLI DI UTILIZZO: Per il bucato in lavatrice, versa un tappo di Profuma Biancheria nella vaschetta dellammorbidente prima del ciclo di lavaggio. Adatto anche per il bucato a mano.
 - PROFUMO INTENSO E PERSISTENTE: Profumatore bucato creato con una formula esclusiva che assicura un profumo di lunga durata per donarti una sensazione di piacevole freschezza tutta da indossare.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

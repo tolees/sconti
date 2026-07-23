@@ -28,12 +28,12 @@ average: '16.545'
 
 ℹ️:
 
-- Molteplici possibilità di gioco: i piccoli possono inscenare avventure intergalattiche con 3 diversi set (i modelli non possono essere costruiti contemporaneamente): un robot LEGO spaziale, un cane spaziale e un razzo giocattolo
-- Robot in regalo: il giocattolo LEGO Creator 3 in 1 offre una divertente esperienza di costruzione; unottima idea regalo di compleanno per bambini, bambine e appassionati di set LEGO spazio, che offre tante ore di gioco creativo
-- Costruzioni LEGO 3 in 1 con mattoncino luminoso: tutti e 3 i modelli spaziali LEGO si illuminano quando i giovani premono il mattoncino luminoso compreso nel set (batterie incluse)
-- Robot giocattolo da costruire: il gioco per bambini e bambine da 8 anni in su, il set LEGO Creator 3 n 1 Robot Spaziale, offre ai giovani fan della scienza e dello spazio tante opzioni creative, da ricostruire con gli stessi mattoncini
 - Personaggi spaziali snodabili: il robot giocattolo è dotato di braccia e dita snodabili e di testa e corpo girevoli, mentre il cane giocattolo ha una testa girevole e 4 gambe snodabili
+- Robot giocattolo da costruire: il gioco per bambini e bambine da 8 anni in su, il set LEGO Creator 3 n 1 Robot Spaziale, offre ai giovani fan della scienza e dello spazio tante opzioni creative, da ricostruire con gli stessi mattoncini
+- Robot in regalo: il giocattolo LEGO Creator 3 in 1 offre una divertente esperienza di costruzione; unottima idea regalo di compleanno per bambini, bambine e appassionati di set LEGO spazio, che offre tante ore di gioco creativo
 - Giocattoli 3 in 1 trasformabili: espandi le avventure dei piccoli con altri set della gamma LEGO Creator 3 in 1 (disponibili separatamente), per dar vita a storie senza tempo
+- Molteplici possibilità di gioco: i piccoli possono inscenare avventure intergalattiche con 3 diversi set (i modelli non possono essere costruiti contemporaneamente): un robot LEGO spaziale, un cane spaziale e un razzo giocattolo
+- Costruzioni LEGO 3 in 1 con mattoncino luminoso: tutti e 3 i modelli spaziali LEGO si illuminano quando i giovani premono il mattoncino luminoso compreso nel set (batterie incluse)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DHSBVRR7{{</world>}}

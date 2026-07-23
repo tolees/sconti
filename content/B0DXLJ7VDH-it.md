@@ -28,11 +28,11 @@ average: '99.55'
 
 ℹ️:
 
-- FACILE DA MANIPOLARE: la speciale tecnica di piegatura consente un montaggio e uno smontaggio rapido in pochi secondi. Grazie alla manovella, lombrellone quadrato a manovella è facile da chiudere e può essere riposto per risparmiare spazio - ideale per balconi, patii o giardini!
-- LUCI IDRATANTI: Grande ombrellone con 32 lampade LED (luce calda e accogliente) e Ø 330 cm per unampia zona dombra. Il potente pannello solare fornisce energia sufficiente. Controllata da un interruttore on/off.
 - FACILE DA REGOLARE: questo ombrellone rettangolare a sbalzo in alluminio può essere ruotato di 360° e offre la massima flessibilità per regolare in modo ottimale lombra necessaria a seconda della posizione del sole. Grazie alla sua forma angolare, può essere posizionato in modo particolarmente efficiente. Inoltre, la protezione antivento integrata garantisce una maggiore stabilità, anche in condizioni di vento.
-- ELEVATA PROTEZIONE UV: il tessuto dellombrellone in poliestere da 180 g/m² non solo è durevole e resistente alle intemperie, ma offre anche unefficace protezione UV fino a UPF 50+. Con una superficie di 235 x 235 cm, lombrellone rettangolare offre unampia ombra e blocca fino al 98% dei raggi UV.
+- LUCI IDRATANTI: Grande ombrellone con 32 lampade LED (luce calda e accogliente) e Ø 330 cm per unampia zona dombra. Il potente pannello solare fornisce energia sufficiente. Controllata da un interruttore on/off.
 - QUALITÀ CONVINCENTE: grazie allangolo di inclinazione regolabile in continuo (90-135°), lombrellone quadrato da giardino può essere posizionato esattamente come richiesto tramite una leva di bloccaggio. In questo modo si ottiene sempre la zona dombra perfetta senza dover spostare lintero ombrellone.
+- FACILE DA MANIPOLARE: la speciale tecnica di piegatura consente un montaggio e uno smontaggio rapido in pochi secondi. Grazie alla manovella, lombrellone quadrato a manovella è facile da chiudere e può essere riposto per risparmiare spazio - ideale per balconi, patii o giardini!
+- ELEVATA PROTEZIONE UV: il tessuto dellombrellone in poliestere da 180 g/m² non solo è durevole e resistente alle intemperie, ma offre anche unefficace protezione UV fino a UPF 50+. Con una superficie di 235 x 235 cm, lombrellone rettangolare offre unampia ombra e blocca fino al 98% dei raggi UV.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DXLJ7VDH{{</world>}}

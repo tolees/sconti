@@ -28,16 +28,16 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Caraffa con finestra graduata
 - Base di alimentazione ad incastro / Avvolgicavo nella base /
-- Filtro removibile
-- Capacità 1.2 Lt
-- Potenza: 1370-1630 W
-- Alimentazione: AC 220-240V – 50/60 Hz
-- Corpo in acciaio inossidabile
 - Luce di funzionamento
+- Potenza: 1370-1630 W
+- Capacità 1.2 Lt
+- Filtro removibile
 - Rotazione 360°
 - Sistema di sicurezza anti surriscaldamento / Interruttore di accensione a rilascio automatico
+- Caraffa con finestra graduata
+- Alimentazione: AC 220-240V – 50/60 Hz
+- Corpo in acciaio inossidabile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07NJM8QZG{{</world>}}

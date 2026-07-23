@@ -28,8 +28,8 @@ average: '24.51'
 
 ℹ️:
 
-- Design moderno
 - BCI: acquistando prodotti PUMA in cotone, promuovi unâ€industria del cotone più sostenibile attraverso la Better Cotton Initiative. Per saperne di più vai su bettercotton.orgmassbalance
+- Design moderno
 - Contiene materiale riciclato: realizzato con fibre riciclate. Una delle soluzioni adottate da PUMA per ridurre il proprio impatto ambientale
 - Vestibilità regolare
 

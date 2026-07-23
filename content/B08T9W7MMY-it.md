@@ -28,9 +28,9 @@ average: '44.96'
 
 ℹ️:
 
+- Standard fit per un comfort rilassato
 - Tasca anteriore
 - Cappuccio con laccetto per regolare la copertura
-- Standard fit per un comfort rilassato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08T9W7MMY{{</world>}}

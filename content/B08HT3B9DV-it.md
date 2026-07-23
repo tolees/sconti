@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips LED Faretto 50W attacco GU5.3 Luce Bianca Calda'
-date: 2026-07-22 00:31:01
+date: 2026-07-23 01:39:05
 image: 'https://m.media-amazon.com/images/I/41Z-cZBd57L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,8 +30,8 @@ average: '6.45'
 
 - Tecnologia LED allavanguardia: durata lunga fino a 15 anni
 - Con un design pulito ed elegante, è la soluzione ottima per la sostituzione delle lampadine tradizionali
-- Luce immediata allaccensione, lampadina non dimmerabile, fascio 36°
 - Basso consumo energetico: fino al 90% di risparmio energetico rispetto alle lampade convenzionali
+- Luce immediata allaccensione, lampadina non dimmerabile, fascio 36°
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08HT3B9DV{{</world>}}

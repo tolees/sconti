@@ -30,8 +30,8 @@ average: '5.09'
 
 - Glow radiante: il NIVEA Luminous630 Skin Glow Liquid Refiner conferisce un bagliore radioso grazie alla formula altamente efficace con 4% AHA, 1% PHA e aloe vera.
 - Rifinisce i pori: la formula altamente efficace raffina i pori entro 7 giorni e leviga la pelle. La formula leggera si assorbe rapidamente e garantisce una piacevole sensazione sulla pelle
-- Contenuto della confezione e dettagli: NIVEA Luminous630 Skin Glow Liquid Refiner, 100 ml, Leave-on Peeling per un bagliore luminoso, adatto per tutti i tipi di pelle, anche le pelli sensibili, articolo n. 99392
 - Aspetto della pelle uniforme: la delicata cura della pelle è un peeling Leave-on, che garantisce efficacemente una pelle uniforme e liscia in 7 giorni, per 4 x Glow Power*.
+- Contenuto della confezione e dettagli: NIVEA Luminous630 Skin Glow Liquid Refiner, 100 ml, Leave-on Peeling per un bagliore luminoso, adatto per tutti i tipi di pelle, anche le pelli sensibili, articolo n. 99392
 - ROUTINE PER RISULTATI OTTIMI: lapplicazione combinata del siero Instant Glow e Liquid Refiner garantisce 4 volte più bagliore: pelle uniforme, perfezionamento dei pori, esfoliazione delicata e idratazione rinfrescante.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

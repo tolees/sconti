@@ -28,16 +28,16 @@ average: '29.0774329501918'
 
 ℹ️:
 
-- Contiene 18 pneumatici e 18 cerchioni
-- Gli elementi speciali stimolano attività di costruzione
-- Gli elementi speciali includono una base 8 x 16 cm verde, una finestra con telaio e 3 set di occhi
-- Tutti i modelli raffigurati possono essere costruiti con questo set contemporaneamente
-- Include tantissimi mattoncini LEGO in 35 colori diversi
-- Le idee incluse nel set e online su LEGO.com/classic aiutano ad avviare le attività
-- Il grande numero di ruote facilita la creazione dei veicoli e stimola il gioco
-- La base verde misura 8 cm di lunghezza e 16 cm di larghezza
 - LEGO Classic è ideale per ispirare la creatività con i mattoncini LEGO
+- Include tantissimi mattoncini LEGO in 35 colori diversi
+- Gli elementi speciali includono una base 8 x 16 cm verde, una finestra con telaio e 3 set di occhi
+- Gli elementi speciali stimolano attività di costruzione
+- La base verde misura 8 cm di lunghezza e 16 cm di larghezza
+- Il grande numero di ruote facilita la creazione dei veicoli e stimola il gioco
 - Pratica scatola in plastica riutilizzabile
+- Tutti i modelli raffigurati possono essere costruiti con questo set contemporaneamente
+- Le idee incluse nel set e online su LEGO.com/classic aiutano ad avviare le attività
+- Contiene 18 pneumatici e 18 cerchioni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00NVDP3ZU{{</world>}}

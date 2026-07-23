@@ -29,10 +29,10 @@ average: '28.9442857142857'
 ℹ️:
 
 - Colore pannelli: arancione, rosso, viola
-- Sfere metalliche (non magnetiche)
+- Sistema di costruzione magnetico
 - Colore barrette: giallo
 - Possibilità infinite di costruzione
-- Sistema di costruzione magnetico
+- Sfere metalliche (non magnetiche)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01MT3PWOA{{</world>}}

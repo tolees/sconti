@@ -28,11 +28,11 @@ average: '716.146153846154'
 
 ℹ️:
 
-- AUTOFOCUS VELOCE: il motore lineare XD sfrutta appieno il potenziale di velocità della fotocamera, mettendo a fuoco e inseguendo anche soggetti in rapido movimento con velocità e precisione ottimi
-- ERGONOMICO: facile da utilizzare grazie ad un interruttore della modalità di messa a fuoco, che consente il passaggio istantaneo tra messa a fuoco automatica e manuale, e al pulsante di blocco della messa a fuoco personalizzabile per riprese efficienti e versatili
-- SFONDI SFOCATI: apertura circolare a 7 lamelle per meravigliosi bokeh
 - AFFIDABILE: un design resistente alla polvere e allumidità fornisce laffidabilità necessaria per luso allaperto in condizioni sfidanti
+- ERGONOMICO: facile da utilizzare grazie ad un interruttore della modalità di messa a fuoco, che consente il passaggio istantaneo tra messa a fuoco automatica e manuale, e al pulsante di blocco della messa a fuoco personalizzabile per riprese efficienti e versatili
+- AUTOFOCUS VELOCE: il motore lineare XD sfrutta appieno il potenziale di velocità della fotocamera, mettendo a fuoco e inseguendo anche soggetti in rapido movimento con velocità e precisione ottimi
 - NITIDEZZA DEI DETTAGLI: un elemento asferico e tre elementi in vetro ED in un design ottico di precisione eliminano laberrazione su tutta la gamma di zoom dellobiettivo
+- SFONDI SFOCATI: apertura circolare a 7 lamelle per meravigliosi bokeh
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07X5DGGMQ{{</world>}}

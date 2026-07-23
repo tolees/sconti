@@ -28,12 +28,12 @@ average: '70.365'
 
 ℹ️:
 
-- REGALO DI COMPLEANNO PER BAMBINI E BAMBINE: unottima idea regalo per i gamer fan del supereroe, e per tutti gli amanti dei gadget e dei giocattoli di Batman LEGO DC che potranno mettere in mostra la loro passione
 - COSTRUISCI ED ESPONI: posiziona questo kit di modellismo LEGO da collezione sul suo stand, o esponilo come decorazione da parete utilizzando il supporto integrato
-- GIOCATTOLO DI BATMAN COSTRUIBILE: celebra il 20° anniversario di LEGO DC Batman con il Logo di Batman in mattoncini, un elemento da esposizione per i fan del noto supereroe
-- UN DIVERTENTE MODO DI COSTRUIRE: l’app LEGO Builder guida i piccoli lungo un processo di costruzione facile ed intuitivo, con strumenti per ingrandire e ruotare il modello in 3D durante le fasi di montaggio
-- 2 MINIFIGURE LEGO DI BATMAN: include il personaggio di Batman d’oro e una moneta d’oro per l’anniversario, oltre alla funzione bonus di sblocco digitale con cui ottenere il personaggio d’oro del videogioco LEGO Batman - Legacy of the Dark Knight
 - SET LEGO BATMAN CON ACCESSORI: il Bat-segnale ha una finitura greeble con accessori dell’Universo DC che possono essere rimossi e riposizionati, tra cui Batarang e il martello giocattolo di Harley Quinn
+- GIOCATTOLO DI BATMAN COSTRUIBILE: celebra il 20° anniversario di LEGO DC Batman con il Logo di Batman in mattoncini, un elemento da esposizione per i fan del noto supereroe
+- 2 MINIFIGURE LEGO DI BATMAN: include il personaggio di Batman d’oro e una moneta d’oro per l’anniversario, oltre alla funzione bonus di sblocco digitale con cui ottenere il personaggio d’oro del videogioco LEGO Batman - Legacy of the Dark Knight
+- UN DIVERTENTE MODO DI COSTRUIRE: l’app LEGO Builder guida i piccoli lungo un processo di costruzione facile ed intuitivo, con strumenti per ingrandire e ruotare il modello in 3D durante le fasi di montaggio
+- REGALO DI COMPLEANNO PER BAMBINI E BAMBINE: unottima idea regalo per i gamer fan del supereroe, e per tutti gli amanti dei gadget e dei giocattoli di Batman LEGO DC che potranno mettere in mostra la loro passione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FPXD2Y9T{{</world>}}

@@ -28,9 +28,9 @@ average: '7.08'
 
 ℹ️:
 
-- ALTO DOSAGGIO, RAPIDO ASSORBIMENTO: la compressa va posizionata sotto la lingua o tra le gengive e le gunce, in modo da essere assorbita direttamente nei piccoli vasi sanguigni che si trovano in quella sede. Questo permette un RAPIDO ASSORBIMENTO. Alto dosaggio.
 - COLOURS OF LIFE, PER OFFRIRTI IL MEGLIO SEMPRE: Colours Of Life nasce in Italia nei primi anni duemila e si dedica allo sviluppo di integratori alimentari e prodotti di skin care naturali. Con più di 20 anni di esperienza, basa le sue formule su ingredienti naturali e certificati, basandosi sulle direttive stabilite dagli organismi europei e italiani. Colours Of Life è un brand di Optima Naturals.
 - METIL B12: Vitamina B12 in forma di metilcobalamina, quella maggiormente assorbita ed impiegata dalle nostre cellule. Contribuisce al normale metabolismo energetico, al normale funzionamento del sistema nervoso e del sistema immunitario.
+- ALTO DOSAGGIO, RAPIDO ASSORBIMENTO: la compressa va posizionata sotto la lingua o tra le gengive e le gunce, in modo da essere assorbita direttamente nei piccoli vasi sanguigni che si trovano in quella sede. Questo permette un RAPIDO ASSORBIMENTO. Alto dosaggio.
 - MODO DUSO: assumere una compressa al giorno, da posizionare sotto la lingua o tra le gengive e le guance. Senza glutine. Senza lattosio. Vegano.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

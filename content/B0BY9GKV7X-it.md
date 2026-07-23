@@ -28,11 +28,11 @@ average: '37.16'
 
 ℹ️:
 
-- Il concept e i valori che il nuovo nato in casa Masi porta con sé sono racchiusi nel nome “Fresco di Masi”, scelto per indicare la massima naturalità e integrità di un vino genuino prodotto da uve biologiche vendemmiate nelle ore più fresche e vinificate immediatamente, senza appassimento, senza passaggio in legno, solo con i lieviti selvaggi dell’uva, decantato e non filtrato.
-- Ottenuto da uve raccolte nelle ore più fresche e immediatamente vinifi cate, Fresco di Masi Rosso ha una spiccata fragranza e piacevoli note di frutta fresca: dalla melagrana al ribes all’immancabile nota di ciliegia che ne lascia distinguere l’origine veronese.
-- NOTE DI DEGUSTAZIONE | Aspetto, rosso cerasuolo chiaro Olfatto, frutta fresca Palato, ciliegia, melagrana e ribes
-- Fresco di Masi è una nuova linea di vini biologici lavorati artigianalmente, dal grado alcolico contenuto, per un’esperienza dal sapore autentico. Vini fatti “in modo semplice come una volta ma buoni come ci si aspetta oggi”.
 - ABBINAMENTO | sorprendente come aperitivo e con cibi semplici della cucina mediterranea come pasta, piatti vegetariani, taglieri di salumi e formaggi.
+- Fresco di Masi è una nuova linea di vini biologici lavorati artigianalmente, dal grado alcolico contenuto, per un’esperienza dal sapore autentico. Vini fatti “in modo semplice come una volta ma buoni come ci si aspetta oggi”.
+- Ottenuto da uve raccolte nelle ore più fresche e immediatamente vinifi cate, Fresco di Masi Rosso ha una spiccata fragranza e piacevoli note di frutta fresca: dalla melagrana al ribes all’immancabile nota di ciliegia che ne lascia distinguere l’origine veronese.
+- Il concept e i valori che il nuovo nato in casa Masi porta con sé sono racchiusi nel nome “Fresco di Masi”, scelto per indicare la massima naturalità e integrità di un vino genuino prodotto da uve biologiche vendemmiate nelle ore più fresche e vinificate immediatamente, senza appassimento, senza passaggio in legno, solo con i lieviti selvaggi dell’uva, decantato e non filtrato.
+- NOTE DI DEGUSTAZIONE | Aspetto, rosso cerasuolo chiaro Olfatto, frutta fresca Palato, ciliegia, melagrana e ribes
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BY9GKV7X{{</world>}}

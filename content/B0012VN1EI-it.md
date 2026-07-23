@@ -28,11 +28,11 @@ average: '6.48'
 
 ℹ️:
 
-- Flacone 100% riciclato
-- PRODOTTO ETICAMENTE - Vegano e contro i test sugli animali
-- CON ALOE VERA
 - LENISCE E RINFRESCA LA PELLE
 - FRAGRANZA RINFRESCANTE
+- PRODOTTO ETICAMENTE - Vegano e contro i test sugli animali
+- Flacone 100% riciclato
+- CON ALOE VERA
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0012VN1EI{{</world>}}

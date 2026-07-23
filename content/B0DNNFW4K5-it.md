@@ -28,10 +28,10 @@ average: '13.28'
 
 ℹ️:
 
-- Controlla e automatizza facilmente i prodotti SMART+ WiFi compatibili in base al movimento rilevato
 - Con IP65 adatto per uso esterno, protetto contro i getti dacqua
-- Notifica di movimento
+- Controlla e automatizza facilmente i prodotti SMART+ WiFi compatibili in base al movimento rilevato
 - Registra la cronologia dei movimenti
+- Notifica di movimento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DNNFW4K5{{</world>}}

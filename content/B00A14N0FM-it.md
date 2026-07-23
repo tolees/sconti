@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- I prodotti Riso Scotti ti accompagnano con Gusto e Benessere in ogni momento della giornata. Con la stessa attenzione con cui tu scegli prodotti sani, noi ci impegniamo a offrirti la miglior qualità per un’alimentazione equilibrata
 - SUGGERIMENTI D’USO: Non rinunciare al gusto, provale posto del pane; nutrimento equilibrato a colazione con la marmellata o il miele, a pranzo al posto del pane, oppure utilizzate come base per sfiziose tartine
 - VIVERE BENE CON GUSTO: Le gallette di riso si ottengono attraverso un processo di soffiatura del riso che sfrutta calore e pressione. Il risultato è un prodotto naturale, che conserva inalterate tutte le proprietà nutrizionali del chicco
-- È SPECIALE PERCHÉ: Le gallette si accompagnano perfettamente a tantissimi ingredienti, dolci o salati
 - RISETTE 100% RISO: Gallette di riso biologiche, senza glutine. Non rinunciare al gusto, provale posto del pane
+- È SPECIALE PERCHÉ: Le gallette si accompagnano perfettamente a tantissimi ingredienti, dolci o salati
+- I prodotti Riso Scotti ti accompagnano con Gusto e Benessere in ogni momento della giornata. Con la stessa attenzione con cui tu scegli prodotti sani, noi ci impegniamo a offrirti la miglior qualità per un’alimentazione equilibrata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00A14N0FM{{</world>}}

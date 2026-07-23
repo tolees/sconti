@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Gli elettroutensili universali di Bosch – flessibili e potenti per un ampia gamma di impieghi
 - Cambio semplice dellaccessorio: il mandrino SDS plus universale garantisce una sostituzione semplice, senza luso di attrezzi delle punte e degli scalpelli
+- Gli elettroutensili universali di Bosch – flessibili e potenti per un ampia gamma di impieghi
 - POWER FOR ALL ALLIANCE: 1 BATTERIA, 10+ MARCHI, ​150+ PRODOTTI
-- Dotazione: UniversalHammer 18V, impugnatura supplementare, 1 pacco batteria PBA 18V 2.5Ah W-B, caricabatteria AL 18V-20, boccola di profondità, custodia per il trasporto
 - Utensile 4 in 1: il meccanismo a martello pneumatico 2.0 J consente di forare nel calcestruzzo fino a 16 mm di ∅ ed eseguire lavori di scalpellatura, senza funzione di percussione, praticare fori nel legno oppure piantare viti
+- Dotazione: UniversalHammer 18V, impugnatura supplementare, 1 pacco batteria PBA 18V 2.5Ah W-B, caricabatteria AL 18V-20, boccola di profondità, custodia per il trasporto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BBRPJVQJ{{</world>}}

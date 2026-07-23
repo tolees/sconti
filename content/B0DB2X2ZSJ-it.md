@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Yu-Gi-Oh! EARLY DAYS COLLECTION include: Yu-Gi-Oh! Duel Monsters (1998/GAME BOY), Yu-Gi-Oh! Duel Monsters II: Dark Duel Stories (1999/GAME BOY, GAME BOY COLOR), Yu-Gi-Oh! Dark Duel Stories (2000 JP, 2002 US, 2003 EU/GAME BOY COLOR), Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist (2000/GAME BOY COLOR. Inklusive Unterstützung für Online-Kämpfe), Yu-Gi-Oh! Monster Capsule GB (2000 JP/GAME BOY COLOR)
 - Avventuratevi indietro nel tempo con una vasta collezione di giochi retrò degli albori di Yu-Gi-Oh! Con una selezione iconica di titoli, tra cui giochi precedentemente pubblicati solo in Giappone.
 - Yu-Gi-Oh! Worldwide Edition: Stairway to the Destined Duel (2003 JP, US, EU/GAME BOY ADVANCE), Yu-Gi-Oh! World Championship Tournament 2004 (2004 JP, US, EU/GAME BOY ADVANCE), Yu-Gi-Oh! Destiny Board Traveler (2004 JP, 2005 US/GAME BOY ADVANCE), Yu-Gi-Oh! Day of the Duelist: World Championship Tournament 2005 (Yu-Gi-Oh! 7 Trials to Glory: World Championship Tournament 2005) (2004 JP, 2005 US/GAME BOY ADVANCE)
-- CARTA BONUS ESCLUSIVA “RARO SEGRETO DEL QUARTO DI SECOLO
 - Yu-Gi-Oh! Dungeon Dice Monsters (2001 JP, 2003 US and EU/GAME BOY ADVANCE), Yu-Gi-Oh Duel Monsters 6, Expert 2 (2001/GAME BOY ADVANCE), Yu-Gi-Oh! The Eternal Duelist Soul (2001 JP, 2002 US, 2003 EU/GAME BOY ADVANCE), Yu-Gi-Oh! The Sacred Cards (2002 JP, 2003 US, 2004 EU/GAME BOY ADVANCE), Yu-Gi-Oh! Reshef of Destruction (2003 JP, 2004 US and EU/GAME BOY ADVANCE)
 - Duellate con i vecchi amici grazie al ritorno delle superstar dellanime originale Yu-Gi-Oh! Duel Monsters. Questa classica compilation comprende giochi di carte strategici, giochi di ruolo e molto altro. In arrivo su Nintendo Switch.
+- Yu-Gi-Oh! EARLY DAYS COLLECTION include: Yu-Gi-Oh! Duel Monsters (1998/GAME BOY), Yu-Gi-Oh! Duel Monsters II: Dark Duel Stories (1999/GAME BOY, GAME BOY COLOR), Yu-Gi-Oh! Dark Duel Stories (2000 JP, 2002 US, 2003 EU/GAME BOY COLOR), Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist (2000/GAME BOY COLOR. Inklusive Unterstützung für Online-Kämpfe), Yu-Gi-Oh! Monster Capsule GB (2000 JP/GAME BOY COLOR)
+- CARTA BONUS ESCLUSIVA “RARO SEGRETO DEL QUARTO DI SECOLO
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DB2X2ZSJ{{</world>}}

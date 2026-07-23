@@ -28,11 +28,11 @@ average: '13.3133333333333'
 
 ℹ️:
 
-- Lee T-shirt Regular girocollo da uomo in diversi colori: una maglia elegante e trendy
+- Un classico che fa una bella impressione anche in combinazione con un paio di pantaloni
 - T-shirt da uomo girocollo e manica corta
 - In questo modo si può dimostrare: la maglietta in 100% cotone è facile da indossare in molte occasioni
+- Lee T-shirt Regular girocollo da uomo in diversi colori: una maglia elegante e trendy
 - Produttore: Lee - Taglio: regular - Genere: uomo - Colore: vari - Scollatura: girocollo - Lunghezza braccio: manica corta
-- Un classico che fa una bella impressione anche in combinazione con un paio di pantaloni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07V12Y9NP{{</world>}}

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Applicare da 3 a 6 ml per kg di peso corporeo.
-- Trattamento delle infestazioni da pidocchi masticatori nel cane (Trichodectes canis) e nel gatto (Felicola subrostratus)
 - Il prodotto, a seconda del livello di carica ambientale, ha un’efficacia insetticida persistente contro le pulci adulte fino a 2 mesi nel gatto e fino a 3 mesi nel cane ed un’efficacia acaricida contro le zecche fino ad un mese
+- Trattamento delle infestazioni da pidocchi masticatori nel cane (Trichodectes canis) e nel gatto (Felicola subrostratus)
 - Trattamento e prevenzione delle infestazioni da pulci (Ctenocephalides spp.) e zecche (Ixodes spp., compresa Ixodes ricinus) nel cane e nel gatto
+- Applicare da 3 a 6 ml per kg di peso corporeo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07D6LDHRC{{</world>}}

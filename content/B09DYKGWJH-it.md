@@ -28,12 +28,12 @@ average: '8.9675'
 
 ℹ️:
 
-- AUTONOMIA: con la batteria AA inclusa già nella confezione, la durata della sua batteria è assicurata fino a 10 mesi
-- COMPATIBILITÀ: il Mouse HP 150 è compatibile con i PC dotati di porta USB-A e con i sistemi operativi Windows 7, Windows 8 e Windows 10
-- SENSIBILITÀ: risposta immediata grazie al Sensore Ottico ad alta risoluzione fino a 1600 DPI, per garantire movimenti precisi su unampia gamma di superfici
-- CONNETTIVITÀ: grazie al dongle a 2,4 GHz, basterà inserire la USB-A nel tuo PC per poter usare il mouse quando e dove vuoi, con un raggio di 10 m allarea aperta
 - ERGONOMIA e DESIGN: il profilo sagomato, elegante ed ergonomico è stato progettato per un comfort duraturo per entrambe le mani, rendendolo adatto anche per i mancini
+- AUTONOMIA: con la batteria AA inclusa già nella confezione, la durata della sua batteria è assicurata fino a 10 mesi
+- SENSIBILITÀ: risposta immediata grazie al Sensore Ottico ad alta risoluzione fino a 1600 DPI, per garantire movimenti precisi su unampia gamma di superfici
 - CONTENUTO DELLA CONFEZIONE: HP 150 Mouse wireless; Dongle; Batteria AA; Guida rapida; Avviso relativo al prodotto; Documento di garanzia; R.E.D. Scheda RTF
+- COMPATIBILITÀ: il Mouse HP 150 è compatibile con i PC dotati di porta USB-A e con i sistemi operativi Windows 7, Windows 8 e Windows 10
+- CONNETTIVITÀ: grazie al dongle a 2,4 GHz, basterà inserire la USB-A nel tuo PC per poter usare il mouse quando e dove vuoi, con un raggio di 10 m allarea aperta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09DYKGWJH{{</world>}}

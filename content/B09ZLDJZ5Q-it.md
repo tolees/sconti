@@ -28,11 +28,11 @@ average: '47.03'
 
 ℹ️:
 
-- Riducono il bagliore dellobiettivo: i filtri a densità neutra riducono la luce per ridurre la possibilità di sovraesposizione. Il filtro polarizzatore aumenta il contrasto eliminando riflessi e abbagliamento. Il filtro CPL è a un livello preimpostato e può impedire che i riflessi non necessari superfici (come acqua, neve e persino finestre in vetro) senza rotazione
 - 【Compatibilità】 Questo kit di filtri ND è compatibile con Hero Black 13 / 12 / 11 / 10 / 9.
 - Facile da usare: svitare i filtri originali in senso antiorario, quindi ruotare il filtro in senso orario per consentire una rapida sostituzione con un altro filtro. Questo kit di filtri aiuta a ottenere immagini e video cristallini in modo efficiente durante larrampicata, il ciclismo, il paracadutismo, ecc
-- Vetro multistrato: 18 strati di rivestimenti multi resistenti di alta qualità per un aspetto impeccabile per ridurre il bagliore delle lenti ed evitare la vignettatura
 - Contenuto della confezione: la confezione include filtri CPL, ND8, ND16, ND32, ND64, ND1000 in una piccola custodia protettiva in plastica rigida. Nota: solo la superficie in vetro è resistente allacqua; il filtro non può essere utilizzato in acqua.
+- Riducono il bagliore dellobiettivo: i filtri a densità neutra riducono la luce per ridurre la possibilità di sovraesposizione. Il filtro polarizzatore aumenta il contrasto eliminando riflessi e abbagliamento. Il filtro CPL è a un livello preimpostato e può impedire che i riflessi non necessari superfici (come acqua, neve e persino finestre in vetro) senza rotazione
+- Vetro multistrato: 18 strati di rivestimenti multi resistenti di alta qualità per un aspetto impeccabile per ridurre il bagliore delle lenti ed evitare la vignettatura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09ZLDJZ5Q{{</world>}}

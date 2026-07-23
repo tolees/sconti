@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Certificato audio HiRes, supporta segnali audio digitali con velocità di campionamento fino a 24BIT/216KHZ.
-- Tensione in uscita (RMS): 2x 25W (tweeter) + 2x 35W (midrange/woofer); porta bass reflex posteriore per una riproduzione dei bassi intensa.
 - Attacchi: 2 x Line IN (RCA), ottico (TOSLINK), coassiale, Bluetooth.
-- Altoparlante attivo con controlli per volume, potenza dei bassi e alti. Coperture rimovibili per altoparlanti.
+- Certificato audio HiRes, supporta segnali audio digitali con velocità di campionamento fino a 24BIT/216KHZ.
 - Sistema di altoparlanti da scaffale ad alte prestazioni con Bluetooth (versione 5.0 con aptX), telecomando, ingressi digitali e analogici.
+- Tensione in uscita (RMS): 2x 25W (tweeter) + 2x 35W (midrange/woofer); porta bass reflex posteriore per una riproduzione dei bassi intensa.
+- Altoparlante attivo con controlli per volume, potenza dei bassi e alti. Coperture rimovibili per altoparlanti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07XZK1GK6{{</world>}}

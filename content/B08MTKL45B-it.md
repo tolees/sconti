@@ -28,13 +28,13 @@ average: '8.67'
 
 ℹ️:
 
-- PER ADULTI E RAGAZZI: Ribes nigrum è adatto a adulti e ragazzi sopra gli 8 anni. Si consiglia di assumere 5 ml 1-3 volte al giorno, diluiti in un po’ d’acqua, utilizzando il bicchiere dosatore. Conservare il prodotto al riparo da luce, calore e umidità.
-- UNA PIANTA, DIVERSI EFFETTI BENEFICI: La pianta officinale di ribes nero apporta vitamine essenziali, come la vitamina C: questa possiede una proprietà antiossidante che si traduce in un’azione di “anti-invecchiamento” cellulare. Il Ribes nigrum è noto anche per le sue proprietà tonificanti e adattogene.
-- LINEA ESTRATTI DI PIANTE DI BOIRON: Con le sue formule essenziali, offre rimedi per supportare il benessere quotidiano. Dal drenaggio dei liquidi corporei all’azione digestiva e depurativa, fino ai disturbi della menopausa.
-- 100% INGREDIENTI DI ORIGINE NATURALE: L’integratore alimentare Ribes nigrum ha una formula essenziale a base di gemme di ribes nero. È 100% di origine naturale, prodotto da un’azienda farmaceutica di consolidata esperienza che ne garantisce la qualità.
-- L’ESTRATTO DI PIANTE PER LA PRIMAVERA: La pianta di Ribes nigrum ha effetti benefici su allergie e infiammazioni, risultando particolarmente utile sia prima che durante i sintomi stagionali.
 - PERCHÉ RIBES NIGRUM: Ribes nigrum è un integratore alimentare formulato in macerato glicerinato di gemme, a base di ribes nero.
+- 100% INGREDIENTI DI ORIGINE NATURALE: L’integratore alimentare Ribes nigrum ha una formula essenziale a base di gemme di ribes nero. È 100% di origine naturale, prodotto da un’azienda farmaceutica di consolidata esperienza che ne garantisce la qualità.
+- UNA PIANTA, DIVERSI EFFETTI BENEFICI: La pianta officinale di ribes nero apporta vitamine essenziali, come la vitamina C: questa possiede una proprietà antiossidante che si traduce in un’azione di “anti-invecchiamento” cellulare. Il Ribes nigrum è noto anche per le sue proprietà tonificanti e adattogene.
 - UN USO PRATICO E QUOTIDIANO: L’estratto di piante Ribes nigrum è disponibile in un flacone in vetro da 60 ml e un bicchiere dosatore, ideati per garantire una pratica assunzione quotidiana. Un utilizzo agevole e anti-spreco è garantito anche dalla presenza di un dispositivo anti-goccia.
+- PER ADULTI E RAGAZZI: Ribes nigrum è adatto a adulti e ragazzi sopra gli 8 anni. Si consiglia di assumere 5 ml 1-3 volte al giorno, diluiti in un po’ d’acqua, utilizzando il bicchiere dosatore. Conservare il prodotto al riparo da luce, calore e umidità.
+- L’ESTRATTO DI PIANTE PER LA PRIMAVERA: La pianta di Ribes nigrum ha effetti benefici su allergie e infiammazioni, risultando particolarmente utile sia prima che durante i sintomi stagionali.
+- LINEA ESTRATTI DI PIANTE DI BOIRON: Con le sue formule essenziali, offre rimedi per supportare il benessere quotidiano. Dal drenaggio dei liquidi corporei all’azione digestiva e depurativa, fino ai disturbi della menopausa.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08MTKL45B{{</world>}}

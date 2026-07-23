@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Supporto per la gestione dei cavi CORSAIR RapidRoute: nascondi i cavi alla vista grazie al generoso supporto in grado di ospitare prese multiple e provvisto di numerosi punti di ancoraggio
-- Altezza regolabile con doppi motori elettrici: premi semplicemente un pulsante per regolare l’altezza utilizzando un controller LCD e le preimpostazioni di memoria, per sederti o restare in piedi all’altezza desiderata. Inoltre, la rumorosità è così bassa che puoi regolare l’altezza anche durante una conference call e nessuno se ne accorgerà
-- Supporto per monitor incluso: compatibile con i supporti per monitor VESA da 75x75 mm o da 100x100 mm, per un peso massimo di 12,5 kg (27 lbs)
-- Sistema di guide modulari con barra a T: per una postazione sempre ben ordinata, affidati al sistema modulare che utilizza una traversa con barra a T in alluminio 3060 standard, oltre a una guida nella parte superiore, per assicurare la compatibilità con centinaia di attacchi e accessori esistenti. Concepita con ingegno per tenere conto di possibili ampliamenti futuri, CORSAIR Platform:4 è la scrivania che cresce con te
 - Scomparto interno con alimentazione USB: un pratico spazio con un sistema di gestione dei cavi integrato nella scrivania e progettato per instradare senza fatica e nascondere i cavi dei tuoi dispositivi. Conserva i tuoi componenti di piccole dimensioni in sicurezza e ricarica i dispositivi con le apposite porte USB Type-A e Type-C, tutte comodamente alloggiate sotto una copertura di facile accesso che, una volta chiusa, si allinea perfettamente con la struttura
+- Altezza regolabile con doppi motori elettrici: premi semplicemente un pulsante per regolare l’altezza utilizzando un controller LCD e le preimpostazioni di memoria, per sederti o restare in piedi all’altezza desiderata. Inoltre, la rumorosità è così bassa che puoi regolare l’altezza anche durante una conference call e nessuno se ne accorgerà
+- Supporto per la gestione dei cavi CORSAIR RapidRoute: nascondi i cavi alla vista grazie al generoso supporto in grado di ospitare prese multiple e provvisto di numerosi punti di ancoraggio
+- Sistema di guide modulari con barra a T: per una postazione sempre ben ordinata, affidati al sistema modulare che utilizza una traversa con barra a T in alluminio 3060 standard, oltre a una guida nella parte superiore, per assicurare la compatibilità con centinaia di attacchi e accessori esistenti. Concepita con ingegno per tenere conto di possibili ampliamenti futuri, CORSAIR Platform:4 è la scrivania che cresce con te
+- Supporto per monitor incluso: compatibile con i supporti per monitor VESA da 75x75 mm o da 100x100 mm, per un peso massimo di 12,5 kg (27 lbs)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DN2K3J2F{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 12 MESI: Inizia lanno con lagenda settimanale 2026, che copre lintero anno da gennaio a dicembre
-- DESIGN ICONICO: Lagenda presenta gli angoli arrotondati, la chiusura elastica, il segnalibro a nastro e lavviso "in caso di smarrimento" sul frontespizio. Carta acid-free color avorio da 70 g/m²
-- CONFEZIONE: include unagenda settimanale, disponibile in diversi formati e colori, e degli adesivi per personalizzare i tuoi programmi
 - FUNZIONALITÀ: Tra gli strumenti di pianificazione utili, troverai il calendario, una sezione per il planning di viaggi, idee e obiettivi, e delle pagine a righe per prendere degli appunti sparsi
 - LAYOUT SETTIMANALE: sulla sinistra troverai una pagina con i giorni per gli appuntamenti della settimana e, sulla destra, una pagina a righe per prendere appunti e organizzare le idee
+- 12 MESI: Inizia lanno con lagenda settimanale 2026, che copre lintero anno da gennaio a dicembre
+- CONFEZIONE: include unagenda settimanale, disponibile in diversi formati e colori, e degli adesivi per personalizzare i tuoi programmi
+- DESIGN ICONICO: Lagenda presenta gli angoli arrotondati, la chiusura elastica, il segnalibro a nastro e lavviso "in caso di smarrimento" sul frontespizio. Carta acid-free color avorio da 70 g/m²
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DP1BH2JN{{</world>}}

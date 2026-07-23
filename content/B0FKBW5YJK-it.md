@@ -28,11 +28,11 @@ average: '24.19'
 
 ℹ️:
 
-- PERFETTA PER ESALTARE IL GUSTO DI: carni stagionate o affumicate, salumi stagionati, formaggi stagionati, piatti a base di avocado, insalate con vinaigrette, fritti salati e dolci, dolci complessi, cioccolato
 - AROMA: cereali tostati, note di torrefazione e caffè SAPORE: complesso e armonico, tra tostato e dolce, con note di frutta secca e caffè. Finale piacevolmente alcolico e lievemente amaro Fermentazione: alta fermentazione, filtrata
-- Leffe Rituel 9° è un’autentica birra d’Abbazia doppio malto, ad alta fermentazione, dal colore ambrato. 9% alcool
-- Confezione da 8 bottiglie da 75cl di Leffe Rituel
 - La classica birra “da meditazione” di Leffe. Leffe Rituel 9° viene prodotta con luppoli aggiuntivi che le conferiscono un lungo e intenso retrogusto: per questo, degustarla è un vero e proprio rituale
+- PERFETTA PER ESALTARE IL GUSTO DI: carni stagionate o affumicate, salumi stagionati, formaggi stagionati, piatti a base di avocado, insalate con vinaigrette, fritti salati e dolci, dolci complessi, cioccolato
+- Confezione da 8 bottiglie da 75cl di Leffe Rituel
+- Leffe Rituel 9° è un’autentica birra d’Abbazia doppio malto, ad alta fermentazione, dal colore ambrato. 9% alcool
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FKBW5YJK{{</world>}}

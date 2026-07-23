@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Adatto per: situazioni informali
-- Design traspirante per movimenti fluidi
-- Realizzati con materiali sostenibili
 - Maglietta del marchio JACK & JONES
+- Adatto per: situazioni informali
+- Realizzati con materiali sostenibili
+- Design traspirante per movimenti fluidi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08MV9GQ78{{</world>}}

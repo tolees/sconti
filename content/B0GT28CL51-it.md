@@ -30,8 +30,8 @@ average: '69.0'
 
 - Inchiostro FINE: Dotata della nuova tecnologia di ottimizzazione dellinchiostro FINE per risultati più rapidi e dettagli più fini - stampa codici QR, mappe, diagrammi colorati e altri documenti dettagliati
 - Stampante compatta: Stampante compatta e semplificata con display OLED da 1,42” perfetta per il tuo ufficio domestico - veloce e facile da usare, ideale per compiti scolastici, foto e progetti creativi
-- Stampante: Canon PIXMA TS6550I è una stampante wireless ad alta velocità e di alta qualità con design compatto e connettività intelligente con lo smartphone - la stampante domestica perfetta. Include Carta Fotografica A4 SG-201, 5 Fogli
 - Connettività: Collega il tuo smartphone o tablet scansionando il codice QR sullo schermo - stampa, scansiona e copia documenti o foto vivaci con facilità - velocità di stampa di 14 ipm in bianco e nero e 9 ipm a colori
+- Stampante: Canon PIXMA TS6550I è una stampante wireless ad alta velocità e di alta qualità con design compatto e connettività intelligente con lo smartphone - la stampante domestica perfetta. Include Carta Fotografica A4 SG-201, 5 Fogli
 - PIXMA PRINT PLAN: Ricevi automaticamente linchiostro a casa tua quando la tua stampante è in esaurimento con PIXMA Print Plan. Scegli tra diversi piani mensili flessibili adatti a te
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

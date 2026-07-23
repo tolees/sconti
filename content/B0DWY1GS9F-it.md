@@ -28,10 +28,10 @@ average: '29.99'
 
 ℹ️:
 
-- Unisci le forze con altri giocatori per affrontare i pericoli in agguato nella notte, anche in modalità cooperativa per 3 giocatori.
-- Affronta unimplacabile minaccia ambientale che incombe su un mondo di gioco che cambia a ogni sessione e sconfiggi limponente boss di quella notte!
 - Prendi il controllo di eroi unici, ciascuno contraddistinto da uno stile e da abilità proprie. Per quanto formidabili da sole, le loro abilità creano potenti sinergie se usate in squadra.
 - ELDEN RING NIGHTREIGN è unavventura standalone ambientata nelluniverso di ELDEN RING, creata per offrire una nuova esperienza di gioco reinventando il design originale
+- Affronta unimplacabile minaccia ambientale che incombe su un mondo di gioco che cambia a ogni sessione e sconfiggi limponente boss di quella notte!
+- Unisci le forze con altri giocatori per affrontare i pericoli in agguato nella notte, anche in modalità cooperativa per 3 giocatori.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DWY1GS9F{{</world>}}

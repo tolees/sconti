@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Profilo sensoriale: ambrato chiaro; naso di vaniglia, frutti gialli e cereali; palato morbido ed equilibrato con spezie dolci; finale pulito.
-- Il bicchiere Highball è pensato per il Jameson & Ginger Ale, il cocktail simbolo della tradizione pub irlandese. Aggiungere Ginger Ale, ghiaccio abbondante e lime: semplicità e piacere immediato.
-- Il whiskey irlandese più venduto al mondo, tripla distillato a Midleton: morbido, bilanciato, con note di vaniglia, frutta e cereali che lo rendono immediatamente accessibile a chiunque.
 - Set completo: Jameson Original 70 CL + bicchiere Highball ufficiale — un regalo che insegna anche come gustare il whiskey nel modo più soddisfacente, nel cocktail simbolo della cultura pub irlandese.
 - Curiosità: il Jameson & Ginger Ale è il cocktail più ordinato nei pub irlandesi dopo la pinta di Guinness, una combinazione così radicata nella cultura dellisola che in molti locali viene servita spontaneamente come Irish standard senza doverla specificare.
+- Il whiskey irlandese più venduto al mondo, tripla distillato a Midleton: morbido, bilanciato, con note di vaniglia, frutta e cereali che lo rendono immediatamente accessibile a chiunque.
+- Il bicchiere Highball è pensato per il Jameson & Ginger Ale, il cocktail simbolo della tradizione pub irlandese. Aggiungere Ginger Ale, ghiaccio abbondante e lime: semplicità e piacere immediato.
+- Profilo sensoriale: ambrato chiaro; naso di vaniglia, frutti gialli e cereali; palato morbido ed equilibrato con spezie dolci; finale pulito.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FRFVKKX2{{</world>}}

@@ -28,10 +28,10 @@ average: '64.88'
 
 ℹ️:
 
+- PER OGNI OCCASIONE: Questa giacca leggera si distingue per la sua funzionalità e il comfort particolarmente elevato. Il discreto branding Tommy Hilfiger completa il look della giacca stilosa.
+- MATERIALE E LAVAGGIO: Questa giacca è al 100% in poliestere. Sono lavabili in lavatrice.
 - QUALITÀ GARANTITA: Dal 1985, questo marchio di moda si distingue in tutto il mondo per qualità e semplicità, oltre che per gli stili che propone nei rinomati colori blu scuro, bianco e rosso.
 - ICONICITÀ INTRAMONTABILE: L’originale giacca Tommy Hilfiger con due tasche ad altezza della vita e colletto in stile baseball si distingue per il design essenziale. Grazie al suo tessuto caldo risulta ideale per la mezza stagione.
-- MATERIALE E LAVAGGIO: Questa giacca è al 100% in poliestere. Sono lavabili in lavatrice.
-- PER OGNI OCCASIONE: Questa giacca leggera si distingue per la sua funzionalità e il comfort particolarmente elevato. Il discreto branding Tommy Hilfiger completa il look della giacca stilosa.
 - VESTIBILITÀ OTTIMALE: Il look intramontabile della giacca bomber minimale è leggero e tiene caldo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

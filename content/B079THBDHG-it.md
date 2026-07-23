@@ -28,9 +28,9 @@ average: '71.93'
 
 ℹ️:
 
-- Caratteristiche tecniche: tecnologia Bluetooth 4.2; comunicazione di gruppo fino a 2 citofoni; durata della batteria di 20 ore; portata della connessione intercomunicante fino a 300 m
 - Utilità: adatto per gli spostamenti urbani o per le escursioni fuori città, perché permette di rimanere in contatto con il proprio compagno di viaggio, condividendo emozioni e informazioni sul percorso in tempo reale
 - Contenuto della confezione: adesivo: velcro per il montaggio sul casco; staffa di montaggio a clip; altoparlanti HD da 32 mm; microfono a braccio (per caschi jet e modulari); microfono adesivo (per caschi integrali); cavo USB di tipo C per dati e ricarica
+- Caratteristiche tecniche: tecnologia Bluetooth 4.2; comunicazione di gruppo fino a 2 citofoni; durata della batteria di 20 ore; portata della connessione intercomunicante fino a 300 m
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B079THBDHG{{</world>}}

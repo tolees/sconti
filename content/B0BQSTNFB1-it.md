@@ -28,9 +28,9 @@ average: '149.0'
 
 ℹ️:
 
-- LHF8 è controllato tramite software PC plug-and-play, senza bisogno di schede audio o amplificatori aggiuntivi.
 - *I singoli motori e la loro intensità sono controllati tramite il software HFS e un PC. Il software HFS non è richiesto per i dispositivi console, poiché gli otto motori sono controllati insieme tramite luscita audio.
 - ** Si prega di notare che i giocatori console non necessitano del software HFS poiché gli otto motori funzioneranno collettivamente tramite luscita audio in giochi, musica o film.
+- LHF8 è controllato tramite software PC plug-and-play, senza bisogno di schede audio o amplificatori aggiuntivi.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BQSTNFB1{{</world>}}

@@ -28,10 +28,10 @@ average: '24.3'
 
 ℹ️:
 
-- Diventa un agente itinerante: calati nei panni di Daniel McGovern e utilizza una combinazione di strumenti investigativi, interrogatori e acuto intelletto per risolvere gli enigmi e svelare la verità.
-- Apri la tua mente: immergiti nei ricordi dei sospetti per ripercorrere i loro passi e mettere insieme i pezzi delle tue indagini, ma fai attenzione: la mente umana è un luogo pericoloso dove emozioni, volontà e desiderio detengono il potere.
 - Effetti visivi next-gen: esplora un mondo meticolosamente dettagliato con immagini ed effetti mozzafiato, il tutto alimentato da Unreal Engine 5.
+- Apri la tua mente: immergiti nei ricordi dei sospetti per ripercorrere i loro passi e mettere insieme i pezzi delle tue indagini, ma fai attenzione: la mente umana è un luogo pericoloso dove emozioni, volontà e desiderio detengono il potere.
 - Scopri la verità: mantieni la tua sanità mentale e il tuo ingegno mentre scopri una storia oscura di amore, perdita e inganno, dove nulla è come sembra e ogni svolta porta un altro colpo di scena da svelare.
+- Diventa un agente itinerante: calati nei panni di Daniel McGovern e utilizza una combinazione di strumenti investigativi, interrogatori e acuto intelletto per risolvere gli enigmi e svelare la verità.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F3NZB5QX{{</world>}}

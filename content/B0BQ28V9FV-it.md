@@ -30,9 +30,9 @@ average: '19.9'
 
 - 5in1. Per tagliare i capelli della testa, della barba e dei peli del naso e delle orecchie, oltre a eseguire una rasatura perfetta del corpo. Progettato con un IPX7, che consente di utilizzarlo sotto la doccia senza problemi, resistendo perfettamente e facilitando la rimozione dei peli.
 - Le lame sono in acciaio rivestito in titanio di alta qualità, incorpora una batteria al litio da 500 mAh. con carica di 90 minuti e unautonomia di 60 minuti.
-- Dispone di 1 pettine regolabile per capelli con 9 misure da 1 a 16 mm e 4 pettini da 3-6-9-12 mm. Oltre a 1 pettine regolabile per barba con 4 misure da 3 a 6 mm.
-- Con display digitale che indica lo stato della batteria, sia la percentuale di carica quando la stiamo utilizzando, sia la percentuale che sottrae per essere completamente carica durante la ricarica. Dotato di blocco di sicurezza per un trasporto molto più facile e sicuro.
 - Funzione NonStop. Consente luso in modalità wireless e cablata, consentendo di non perdere mai potenza e di essere sempre pronto alluso.
+- Con display digitale che indica lo stato della batteria, sia la percentuale di carica quando la stiamo utilizzando, sia la percentuale che sottrae per essere completamente carica durante la ricarica. Dotato di blocco di sicurezza per un trasporto molto più facile e sicuro.
+- Dispone di 1 pettine regolabile per capelli con 9 misure da 1 a 16 mm e 4 pettini da 3-6-9-12 mm. Oltre a 1 pettine regolabile per barba con 4 misure da 3 a 6 mm.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BQ28V9FV{{</world>}}

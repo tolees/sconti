@@ -28,10 +28,10 @@ average: '21.7233333333333'
 
 ℹ️:
 
-- 【Dati storici】Supporto massimo di 6 mesi di query di dati storici, puoi conoscere il consumo di riscaldamento giornaliero/settimanale/mensile interrogando la cronologia di utilizzo.
 - 【La valvola supporta lapertura percentuale】Supporta rapporti di apertura dallo 0% al 100%, con una precisione dell1%. Il rapporto di apertura può essere utilizzato come azione di esecuzione per scene manuali e scene automatiche.
-- 【Compatibile con la maggior parte delle valvole】 Il termostato per radiatore TRVZB si adatta alle valvole per radiatori esistenti "M30 x 1,5 mm" e può essere montato direttamente o con i nostri adattatori sulla maggior parte delle valvole per radiatori. (Gli adattatori RA/RAV/RAVL/CAL/GIA/M28 sono inclusi)
+- 【Dati storici】Supporto massimo di 6 mesi di query di dati storici, puoi conoscere il consumo di riscaldamento giornaliero/settimanale/mensile interrogando la cronologia di utilizzo.
 - 【Controllo intelligente】 Il termostato per radiatore SONOFF Zigbee è dotato di una varietà di funzioni intelligenti, tra cui il telecomando dellAPP ewelink, limpostazione della programmazione, il controllo di gruppo, la query dei dati storici, ecc.
+- 【Compatibile con la maggior parte delle valvole】 Il termostato per radiatore TRVZB si adatta alle valvole per radiatori esistenti "M30 x 1,5 mm" e può essere montato direttamente o con i nostri adattatori sulla maggior parte delle valvole per radiatori. (Gli adattatori RA/RAV/RAVL/CAL/GIA/M28 sono inclusi)
 - 【Compatibile con la maggior parte delle valvole】 Il termostato per radiatore TRVZB si adatta alle valvole per radiatori esistenti "M30 x 1,5 mm" e può essere montato direttamente o con i nostri adattatori sulla maggior parte delle valvole per radiatori. (Gli adattatori RA/RAV/RAVL/CAL/GIA/M28 sono inclusi)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

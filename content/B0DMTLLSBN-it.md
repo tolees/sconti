@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Progettato con Xbox - ispirato alla console Xbox originale. Compatibile con Windows 10(1903) o superiore e Android 9.0 o superiore. (Non per le console Xbox)
-- Retroilluminazione RGB con 8 modalità di illuminazione
+- Keycaps in ABS a doppio strato con rivestimento UV opaco. Altezza simile a quella di un MDA. Stile di montaggio superiore.
 - 87 tasti. Tasti funzione di scelta rapida e blocco Fn. Tasto Xbox integrato per attivare la Game Bar. Interruttori Kailh Jellyfish X. PCB sostituibile a caldo. Supporto per il rollover di n tasti.
 - Mappatura rapida dei supertasti (non è necessario alcun software).
-- Keycaps in ABS a doppio strato con rivestimento UV opaco. Altezza simile a quella di un MDA. Stile di montaggio superiore.
+- Retroilluminazione RGB con 8 modalità di illuminazione
+- Progettato con Xbox - ispirato alla console Xbox originale. Compatibile con Windows 10(1903) o superiore e Android 9.0 o superiore. (Non per le console Xbox)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DMTLLSBN{{</world>}}

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- [Ricarica wireless portatile] Viene fornito con una custodia di ricarica wireless ricaricabile tramite cavo USB-C; la custodia di ricarica progettata su misura include una batteria integrata, che permette al torcia Baton3 di essere completamente ricaricata fino a 3,7 volte
+- [Clip per Tasca Bidirezionale] La torcia texture antiscivolo del corpo migliora la presa per prevenire scivolamenti accidentali, può essere attaccata a cinture, tasche e zaini per un trasporto pratico, o anche fissata al visiere dei cappelli per luso
 - [Ricarica Magnetica MCC Facoltativa] Il torcia singola offre una durata massima di funzionamento fino a 20 giorni (0,5 lumen), è facoltativamente ricaricabile tramite un cavo di ricarica magnetico MCC, mentre la copertura posteriore magnetica piatta può stare saldamente in piedi o essere fissata a oggetti di ferro
 - [Output] La piccola torcia Baton3 può fornire potenza massima di 1200 lumen e un fascio di 166 metri, scegliere tra 6 modalità di emissione luminosa (dai massimi 1200 lumen ai minimi 0.5 lumen)
-- [Clip per Tasca Bidirezionale] La torcia texture antiscivolo del corpo migliora la presa per prevenire scivolamenti accidentali, può essere attaccata a cinture, tasche e zaini per un trasporto pratico, o anche fissata al visiere dei cappelli per luso
-- [Ricarica wireless portatile] Viene fornito con una custodia di ricarica wireless ricaricabile tramite cavo USB-C; la custodia di ricarica progettata su misura include una batteria integrata, che permette al torcia Baton3 di essere completamente ricaricata fino a 3,7 volte
 - [Contenuto della confezione] Torcia (con batteria e clip per tasca incluse) x1; Ricaricatore wireless Baton3 x1; Cavo di ricarica USB Type-C x1; Panno di pulizia in microfibra x1; Manuale utente x1
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

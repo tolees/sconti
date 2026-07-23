@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Torcia 100% indipendente dalle batterie con carica a mano
-- Fascio luminoso: 24M, durata: 1.3 h, capacità luminosa: 28 Lumen, icl. 1 batteria ricaricabile agli ioni di litio (120 mAh)
 - Corpo in plastica ABS resistente agli urti e idrorepellente (IPX4)
 - 1 minute crank provides light for at least 5 min
+- Fascio luminoso: 24M, durata: 1.3 h, capacità luminosa: 28 Lumen, icl. 1 batteria ricaricabile agli ioni di litio (120 mAh)
 - 3 LED da 5 mm a luce bianca per un ottimo fascio di luce
+- Torcia 100% indipendente dalle batterie con carica a mano
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B004QP7JR2{{</world>}}

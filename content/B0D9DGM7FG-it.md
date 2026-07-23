@@ -28,11 +28,11 @@ average: '12.1'
 
 ℹ️:
 
-- Colore: Nero.
 - MULTIPRESA V-TAC: Ciabatta Multipresa con 6 Prese 10A/16A Schuko con Cavo da 1 ,5 Metri e Spina 16A dotata di 6 interrutorri indipendenti + interruttore generico.
-- DETTAGLI: Il cavo di alimentazione è altamente isolante e resistente in PVC all’esterno e migliora la resistenza e la durata nel tempo. Il suo design lo rende perfettamente adatto a qualsiasi ambiente.
 - APPLICAZIONI: Multipresa ideale per uso domestico, ufficio negozio, garage, azienda. Grazie allinterruttore ON/OFF illuminato e posto nella parte superiore, è possibile evitare inutili sprechi di energia togliendo corrente a tutte le spine connesse alla Multipresa.
+- Colore: Nero.
 - DESCRIZIONE: Robusta ciabatta elettrica multipresa completa di interruttori luminosi indipendenti e dotata di occhielli per il fissaggio alla parete e alle superfici orizzontali.
+- DETTAGLI: Il cavo di alimentazione è altamente isolante e resistente in PVC all’esterno e migliora la resistenza e la durata nel tempo. Il suo design lo rende perfettamente adatto a qualsiasi ambiente.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D9DGM7FG{{</world>}}

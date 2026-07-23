@@ -28,9 +28,9 @@ average: '19.99'
 
 ℹ️:
 
+- Nastro iconico sul retro del collo
 - Jersey di cotone stretch a girocollo
 - Logo Tommy Hilfiger in corsivo ricamato sul petto; bandierina Tommy Hilfiger ricamata sulla manica
-- Nastro iconico sul retro del collo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F4QLQK5D{{</world>}}

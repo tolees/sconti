@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Tecnologia: 4MP 2K QHD, angolo di visione 92°, sensore PIR 7m, batteria 5200mAh, WiFi 2.4 GHz, ricarica solare + USB-C, durata della batteria 4-6 mesi
 - Efficienza energetica: alimentazione solare per uso continuo, durata della batteria da 4 a 6 mesi, registrazione controllata da PIR, autosufficienza energetica
+- Questo prodotto è un prodotto di illuminazione. I prodotti di illuminazione sono apparecchi che possono essere smontati per verificare separatamente la o le sorgenti luminose che contengono. Questo prodotto contiene una sorgente luminosa di classe energetica G
 - Installazione: montaggio su pannello solare, installazione resistente alle intemperie, configurazione tramite app, nessun cablaggio richiesto, pronto alluso
 - Design: alloggiamento in policarbonato bianco resistente alle intemperie, protezione IP66, pannello solare da 5 W incluso, design autosufficiente per uso esterno
-- Tecnologia: 4MP 2K QHD, angolo di visione 92°, sensore PIR 7m, batteria 5200mAh, WiFi 2.4 GHz, ricarica solare + USB-C, durata della batteria 4-6 mesi
 - Applicazione: sorveglianza esterna autosufficiente senza collegamento elettrico, protezione della proprietà, rilevatori di movimento PIR, posizioni remote
-- Questo prodotto è un prodotto di illuminazione. I prodotti di illuminazione sono apparecchi che possono essere smontati per verificare separatamente la o le sorgenti luminose che contengono. Questo prodotto contiene una sorgente luminosa di classe energetica G
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FGD6BCVH{{</world>}}

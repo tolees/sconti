@@ -28,9 +28,9 @@ average: '74.99'
 
 ℹ️:
 
+- STREETWEAR RIVISITATO: Per far apprezzare gli amati classici degli anni ‘90 alla generazione successiva, Tommy Jeans strizza locchio alle icone dell’hip hop di quest’epoca. L’attenzione è rivolta alla qualità e ai design di tendenza caratterizzati da tanto denim.
 - ICONICITÀ INTRAMONTABILE: L’originale giacca Tommy Jeans con due tasche ad altezza della vita presenta un design essenziale. Grazie al suo tessuto caldo risulta ideale per la mezza stagione.
 - PER OGNI OCCASIONE: Questo piumino si distingue per la sua funzionalità e ti protegge dal vento e dalle intemperie. È il compagno perfetto per i giorni freddi e autunnali e invernali ed è adatto da indossare tutti i giorni o in viaggio.
-- STREETWEAR RIVISITATO: Per far apprezzare gli amati classici degli anni ‘90 alla generazione successiva, Tommy Jeans strizza locchio alle icone dell’hip hop di quest’epoca. L’attenzione è rivolta alla qualità e ai design di tendenza caratterizzati da tanto denim.
 - VESTIBILITÀ OTTIMALE: Questo piumino minimalista, dal look intramontabile, è leggero e tiene caldo.
 - MATERIALE E LAVAGGIO: Questa giacca è al 100% in poliestere riciclato. È lavabile in lavatrice e adatta all’asciugatrice.
 

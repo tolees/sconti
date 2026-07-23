@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Spina Piccola Italiana Salvaspazio 10A a 90°
-- Cavo 2m, H05VV-F, Sezione, 3G1.0 mm², spina piccola 10A
 - Multipresa Scrivania/Tavolo 4 prese P40 (10/16A, Schuko), spina piccola 10A, + 3Porte USB: 2 porte USB A 3.0 QC, + 1 porta di tipo C Power Delivery ( PD 20W ) max 20W con interruttore on/off
+- Cavo 2m, H05VV-F, Sezione, 3G1.0 mm², spina piccola 10A
 - Inclusi 2 supporti per fissaggio alla scrivania + 2 pad bioadesivi
 - Protezione contro sovratensioni
+- Spina Piccola Italiana Salvaspazio 10A a 90°
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CH8G4W8N{{</world>}}

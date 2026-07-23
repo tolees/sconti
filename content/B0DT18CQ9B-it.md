@@ -28,10 +28,10 @@ average: '4.95'
 
 ℹ️:
 
-- GIOCHI DA TAVOLO: Un omaggio al Ragioniere più famoso d’Italia interpretato da Paolo Villaggio. Celebra il 50° anniversario di Fantozzi con questo giochi di carte esclusivo che rivisita il classico memory in un’edizione italiana unica.
-- 36 CARTE DA GIOCO: Carte illustrate con scene iconiche e dialoghi celebri della saga di Fantozzi, perfette per un’esperienza di gioco da tavola nostalgica e coinvolgente.
 - GIOCHI DA TAVOLA PER 2-5 GIOCATORI: Le partite veloci, con una durata da 15 a 20 minuti, lo rendono un gioco da tavolo perfetto per passare serate in famiglia e con amici.
+- 36 CARTE DA GIOCO: Carte illustrate con scene iconiche e dialoghi celebri della saga di Fantozzi, perfette per un’esperienza di gioco da tavola nostalgica e coinvolgente.
 - GIOCHI DI SOCIETA +14 ANNI: Uno fra i migliori giochi in scatola, adatto per ragazzi ed adulti dai 14 anni in su. Questo gioco garantisce ore di risate e divertimento per tutta la famiglia.
+- GIOCHI DA TAVOLO: Un omaggio al Ragioniere più famoso d’Italia interpretato da Paolo Villaggio. Celebra il 50° anniversario di Fantozzi con questo giochi di carte esclusivo che rivisita il classico memory in un’edizione italiana unica.
 - GIOCHI DA VIAGGIO: Questo gioco da tavolo è perfetto anche per viaggiare. Grazie alle sue dimensioni compatte potrai giocare dove vuoi e quando vuoi.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

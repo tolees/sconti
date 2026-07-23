@@ -28,10 +28,10 @@ average: '9.32'
 
 ℹ️:
 
-- Lo Shampoo Seboregolatore Defence Hair ha proprietà astringenti e sebonormalizzanti, con estratti di Ortica e Serenoa serrulata, e Peptide Undecilenico con azione purificante per donare ai capelli volume e leggerezza più a lungo
 - Applicare su capelli umidi, massaggiare delicatamente e lasciare in posa qualche minuto, poi risciacquare; utilizzare 2/3 volte a settimana
-- Riequilibra la secrezione sebacea del cuoio capelluto e limita la diffusione del sebo sulla fibra capillare
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
+- Lo Shampoo Seboregolatore Defence Hair ha proprietà astringenti e sebonormalizzanti, con estratti di Ortica e Serenoa serrulata, e Peptide Undecilenico con azione purificante per donare ai capelli volume e leggerezza più a lungo
+- Riequilibra la secrezione sebacea del cuoio capelluto e limita la diffusione del sebo sulla fibra capillare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0G54B8T1V{{</world>}}

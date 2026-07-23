@@ -28,11 +28,11 @@ average: '43.95'
 
 ℹ️:
 
-- Polsini e orli a coste
+- Zip integrale e collo alto
+- Vita media e vestibilità regolare
 - 100% poliestere (riciclato)
 - Tasche anteriori sulla giacca e sui pantaloni
-- Vita media e vestibilità regolare
-- Zip integrale e collo alto
+- Polsini e orli a coste
 - Girovita elasticizzato con cordino
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

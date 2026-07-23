@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Contenuto - 50 ml
-- Marca - Calvin Klein
 - Ref - 100-07402
+- Marca - Calvin Klein
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000JCDV2S{{</world>}}

@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - The Plucky Squire segue le magiche avventure di Pennino e i suoi amici, personaggi delle fiabe che scoprono lesistenza di un mondo in tre dimensioni fuori dalle pagine del loro libro.
-- Un magnifico artbook di 108 pagine con copertina morbida.
-- La colonna sonora ufficiale del gioco su un CD.
-- Una scatola da collezione che contiene tutti i contenuti.
 - The Plucky Squire – Devolver Deluxe includerà i seguenti articoli esclusivi, oltre al gioco fisico:
+- La colonna sonora ufficiale del gioco su un CD.
+- Un magnifico artbook di 108 pagine con copertina morbida.
+- Una scatola da collezione che contiene tutti i contenuti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DFD4C1G6{{</world>}}

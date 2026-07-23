@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Le Busta Pollen trovano il proprio spazio in tutte le circostanze: matrimoni, nascite, compleanni, corrispondenza...
+- Le kraft marrone est un matériau chaleureux et simple qui saccorde à de nombreuses thématiques dans lair du temps : champêtre/rustique, graphique/moderne, nature/végétal, vintage…
+- La carta è prodotta in Francia nei nostri laboratori a Etival-Clairefontaine nei Vosgi, con un know-how ineguagliabile dal 1880.
+- Très tendance, la Colore kraft apporte un aspect naturel et élégant à vos écrits et à toutes vos envies créatives.
+- La certificazione FSC della carta garantisce lutilizzo di prodotti provenienti da fonti controllate e prelevate in modo responsabile per una gestione sostenibile delle foreste.
 - Clairefontaine Rhodia è una società francese che propone prodotti di corrispondenza e per hobby creativo di grande qualità. Vicini ai vostri bisogni e alle vostre esigenze, i nostri prodotti innovativi, di alta qualità e rispettosi dellambiente sono al servizio della vostra immaginazione e creatività.
 - Senza acidi (PH NEUTRO) la carta si conserva più a lungo.
-- La certificazione FSC della carta garantisce lutilizzo di prodotti provenienti da fonti controllate e prelevate in modo responsabile per una gestione sostenibile delle foreste.
-- Le Busta Pollen trovano il proprio spazio in tutte le circostanze: matrimoni, nascite, compleanni, corrispondenza...
-- Très tendance, la Colore kraft apporte un aspect naturel et élégant à vos écrits et à toutes vos envies créatives.
-- La carta è prodotta in Francia nei nostri laboratori a Etival-Clairefontaine nei Vosgi, con un know-how ineguagliabile dal 1880.
-- Le kraft marrone est un matériau chaleureux et simple qui saccorde à de nombreuses thématiques dans lair du temps : champêtre/rustique, graphique/moderne, nature/végétal, vintage…
 - La chiusura delle Busta si fa inumidendo la banda gommata.
 - Dotata di uneccellente tinta unita, la carta è liscia, compatibile per la scrittura e la stampa a getto dinchiostro o laser. Può essere anche goffrata (stampata in rilievo), forata, tamponata, tagliata...per rispondere a tutte le vostre necessità.
 

@@ -28,13 +28,13 @@ average: '6.2025'
 
 ℹ️:
 
+- Profumazione tropicale
 - Flacone 100% riciclato
 - Contiene vitamina C
 - PRODOTTO ETICAMENTE - Vegano e contro i test sugli animali
-- Olio abbronzante
-- Profumazione tropicale
-- senza SPF
 - per unabbronzatura meravigliosa
+- Olio abbronzante
+- senza SPF
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0012VN1DE{{</world>}}

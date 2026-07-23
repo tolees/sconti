@@ -28,10 +28,10 @@ average: '19.68'
 
 ℹ️:
 
-- SHAMPOO RINFORZANTE: Questo shampoo professionale ha proprietà nutrienti e rinforzanti - lalleato ideale per rinforzare e riparare i capelli danneggiati
 - CONSIGLI PER LUTILIZZO: Massaggialo sui capelli bagnati e risciacqua - capelli fino a 20 volte più forti* e nutriti in profondità per creare qualsiasi tipo di acconciatura (*Rispetto alla rottura con uno shampoo classico, utilizzando lintera linea)
 - AZIONE ANTICRESPO: Grazie al bilanciamento del pH, i capelli rimangono morbidi, lisci e resistenti - utilizza lintero trattamento ristrutturante per riparare i legami capillari e mantenere i capelli senza crespo fino a 72 ore
 - TRATTAMENTO PER CAPELLI DANNEGGIATI: Favorisce la riparazione dei legami capellari nutrendo intensamente e in profondità i capelli - ne riduce la rottura fino al 99%* (*rispetto a uno shampoo poco nutriente)
+- SHAMPOO RINFORZANTE: Questo shampoo professionale ha proprietà nutrienti e rinforzanti - lalleato ideale per rinforzare e riparare i capelli danneggiati
 - LA LINEA IDEALE PER CAPELLI DANNEGGIATI: Prenditi cura dei tuoi capelli senza rinunciare allo stile - provalo insieme al pre shampoo NO.BREAKER, la maschera per capelli Melting, lo spray rinforzante e la crema senza risciacquo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- IDEALE PER ACCOMPAGNARE BOCCONCINI DI POLLO E SPIEDINI: la Salsa Hot Chicken Calvé è ideale per dare vitalità e gusto a bocconcini di pollo e spiedini
-- SALSA HOT CHICKEN CALVÉ: la Salsa Hot Chicken Calvé è una salsa dal sapore delicato, resa leggermente piccante dai toni della cayenna e del peperoncino, che arricchiscono la base di maionese e senape
 - GUSTO E SAPORE DELICATO: a base di maionese e senape, con toni di cayenna e peperoncino
 - CALVÉ: dai voce alla tua creatività rendendo i tuoi piatti super gustosi. Calvé, perchè buono può diventare buonissimo!
+- SALSA HOT CHICKEN CALVÉ: la Salsa Hot Chicken Calvé è una salsa dal sapore delicato, resa leggermente piccante dai toni della cayenna e del peperoncino, che arricchiscono la base di maionese e senape
 - FORMATO TOP DOWN 250 ML: Disponibile nel comodo formato Top Down 250 ml. Vegetariano, senza glutine
+- IDEALE PER ACCOMPAGNARE BOCCONCINI DI POLLO E SPIEDINI: la Salsa Hot Chicken Calvé è ideale per dare vitalità e gusto a bocconcini di pollo e spiedini
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00XUI9JA6{{</world>}}

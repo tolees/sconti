@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Idrata ed esfolia delicatamente la pelle
 - Gel detergente per il viso
-- Azione levigante
+- Idrata ed esfolia delicatamente la pelle
 - Con acido ialuronico e acido salicilico
+- Azione levigante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DPMXCJNC{{</world>}}

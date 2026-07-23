@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- DESIGN ERGONOMICO: morbido al tatto con rivestimento in silicone per una sensazione soft-touch
 - PROTEZIONE COMPLETA: avvolge il tuo Samsung S25 proteggendolo da graffi e urti
 - Sicurezza: protezione contro urti e graffi grazie al materiale TPU e microfibra
 - RICARICA WIRELESS: ricarica il tuo smartphone senza cavi e e senza togliere la cover (no aggancio magnetico)
+- DESIGN ERGONOMICO: morbido al tatto con rivestimento in silicone per una sensazione soft-touch
 - COMPATIBILITA: progettata specificamente per Samsung S25
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

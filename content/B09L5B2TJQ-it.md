@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Lettino culla trasformabile in divanetto con sponda regolabile a due posizioni che facilita il riordino. Utilizzabile dalla nascita ai 36 mesi circa.
-- Il Materasso è incluso nella confezione. Dotato di 4 ruote piroettanti di cui due con sistema frenante.
 - Può essere comodamente affiancato al letto dei genitori, occupando lo spazio di una culla.
+- Il Materasso è incluso nella confezione. Dotato di 4 ruote piroettanti di cui due con sistema frenante.
+- Lettino culla trasformabile in divanetto con sponda regolabile a due posizioni che facilita il riordino. Utilizzabile dalla nascita ai 36 mesi circa.
 - In vendita separatamente i coordinati tessili che completano il lettino. Testato a Normativa Europea.
 - La rete a doghe è regolabile a tre altezze e dispone della posizione anti-reflusso. Struttura in legno massiccio di faggio verniciato con colori atossici.
 

@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - EFFETTO ANTICALCARE e ANTIALONE: Mafra Tergy Cristalvetro previene lotturazione e intasamento degli ugelli e non lascia striature sul parabrezza garantendo una visibilità perfetta durante la guida
+- CONTENUTO: a casa riceverai una confezione di Tergy Cristalvetro, da 4500 ml, di Ma-Fra.
 - EFFETTO ANTISALTELLAMENTO: garantisce la massima scorrevolezza delle spazzole tergicristallo sul parabrezza e lunotto posteriore, evitando così quei fastidiosi saltelli
 - MIGLIORA LA VISIBILITA DURANTE LA GUIDA: è il prodotto ideale per eliminare ogni traccia di smog, sporchi ostinati, insetti e moscerini, pulendo a fondo parabrezza e lunotto posteriore. Non lascia striature o aloni sul parabrezza garantendo una visibilità perfetta durante la guida.
-- CONTENUTO: a casa riceverai una confezione di Tergy Cristalvetro, da 4500 ml, di Ma-Fra.
 - Esperienza Italiana di Qualità: da oltre 50 anni, Mafra si impegna nella produzione di soluzioni di alta qualità per la cura dell’auto. Con un forte impegno verso l’innovazione e la sostenibilità, ogni prodotto è il risultato di una ricerca avanzata e di una passione autentica per l’eccellenza del Made in Italy.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

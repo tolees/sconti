@@ -29,10 +29,10 @@ average: '177.0'
 ℹ️:
 
 - 【Garanzia e Supporto】BINGI offre 3 anni di garanzia sul compressore e 1 anno su tutti gli accessori, con assistenza clienti dedicata tramite Amazon entro 24 ore. Il pacchetto completo include: frigorifero auto 18L, cavo CA 220V (2m), cavo CC 12/24V (2.5m), pannello divisorio e manuale in italiano.
-- 【Raffreddamento Rapido e Design Silenzioso】Con compressore silenzioso di alta qualità (≤45dB), che lavora praticamente senza rumore né vibrazioni, raggiunge 0℃ in soli 15 minuti e arriva a -18℃ in 50 minuti (temperatura ambiente ≤25℃). Ideale per conservare gelati in viaggio, carne durante il picnic o bevande fresche in spiaggia. Mantiene il freddo per oltre 12 ore anche dopo lo spegnimento.
 - 【Protezione Batteria Automatica e Basso Consumo】Funzione di protezione batteria integrata: si spegne automaticamente se la tensione scende sotto 11,5V. Consumo giornaliero ≤1,3kWh (55W di potenza), cavi CC/CA inclusi per auto, camper o uso domestico.
-- 【Resistenza e Portabilità Ottimizzate】Guscio in ABS rinforzato antiurto e antivibrazioni, testato per viaggi su strade sconnesse. Maniglie ergonomiche e base antiscivolo per trasporto sicuro in spiaggia o escursioni.
 - 【Design Intelligente per Uso Multifunzionale】Display touch LED con regolazione precisa (-18℃~15℃) e funzione memoria. Van interno in HIPS facilmente lavabile, adatto a cibo, bevande o oggetti personali. Formato compatto per bagagliaio o sedile posteriore, fissabile con cinture di sicurezza.
+- 【Resistenza e Portabilità Ottimizzate】Guscio in ABS rinforzato antiurto e antivibrazioni, testato per viaggi su strade sconnesse. Maniglie ergonomiche e base antiscivolo per trasporto sicuro in spiaggia o escursioni.
+- 【Raffreddamento Rapido e Design Silenzioso】Con compressore silenzioso di alta qualità (≤45dB), che lavora praticamente senza rumore né vibrazioni, raggiunge 0℃ in soli 15 minuti e arriva a -18℃ in 50 minuti (temperatura ambiente ≤25℃). Ideale per conservare gelati in viaggio, carne durante il picnic o bevande fresche in spiaggia. Mantiene il freddo per oltre 12 ore anche dopo lo spegnimento.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DRVDM69H{{</world>}}

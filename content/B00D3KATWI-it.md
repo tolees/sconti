@@ -28,9 +28,9 @@ average: '3.49'
 
 ℹ️:
 
-- Supporto universale per mini pompe
-- Colore: nero
 - La soluzione più semplice per un fissaggio efficiente e universale
+- Colore: nero
+- Supporto universale per mini pompe
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00D3KATWI{{</world>}}

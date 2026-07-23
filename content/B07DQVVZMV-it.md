@@ -28,10 +28,10 @@ average: '15.87'
 
 ℹ️:
 
-- Meccanismo di fuoriuscita della punta a rotazione
 - elegante fusto in metallo
-- Ricaricabile con refill lr7
 - Fornita in elegante astuccio
+- Ricaricabile con refill lr7
+- Meccanismo di fuoriuscita della punta a rotazione
 - Inchiostro energel, asciuga subito e non macchia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

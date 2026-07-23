@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Gestione Multizona o Multi abitazione; sezione energia su APP che permette una maggior consapevolezza energetica fornendo il tempo di funzionamento del termostato
-- Istruzioni e tutorial su vimar website
 - Configurazione e controllo tramite APP View; interfaccia utente intuitiva e minimale, ma dal design moderno (display a matrice di led animato ben visibile e visualizzazioni di stato laterali); regolazione con basculamento frontale per ottenere un feedback meccanico ˝intramontabile˝
-- Integrabile con assistenti vocali Alexa, Google e con il protocollo IFTTT
 - Ingresso personalizzabile per segnalazione di Allarme tramite notifica Push; uscita ausiliaria
+- Integrabile con assistenti vocali Alexa, Google e con il protocollo IFTTT
+- Istruzioni e tutorial su vimar website
+- Gestione Multizona o Multi abitazione; sezione energia su APP che permette una maggior consapevolezza energetica fornendo il tempo di funzionamento del termostato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09S3V2ZNK{{</world>}}

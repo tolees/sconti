@@ -28,8 +28,8 @@ average: '39.99'
 
 ℹ️:
 
-- Esplora lHotel Miramostri, risalendone i piani ricchi di strani marchingegni e spaventosi nemici.
 - Passa da Luigi a Gommiluigi quando giochi da solo, o lascia che sia un amico a controllare uno dei due.
+- Esplora lHotel Miramostri, risalendone i piani ricchi di strani marchingegni e spaventosi nemici.
 - Rimane sempre un fifone, ma questa volta Luigi può contare su ancora più strumenti e abilità, come il colpo ventosa, il sobbalzo e la possibilità di sbatacchiare i fantasmi.
 - Fai squadra con lultima creazione del prof. Strambic, Gommiluigi, un sosia verdissimo di Luigi in grado di passare per spazi angusti, camminare sugli spuntoni e aiutare il nostro eroe a superare ostacoli fuori dalla sua portata.
 - Gioca insieme a un massimo di altri sette giocatori nella modalità Torre del caos, completando obiettivi su una serie di piani prima che scada il tempo.

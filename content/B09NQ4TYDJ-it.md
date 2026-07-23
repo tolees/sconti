@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Occhiali da sole polarizzati: Riduce i riflessi superficiali e la stanchezza oculare e offre nitidezza e contrasti superiori; Occhiali da sole categoria filtro 3, colorazione sufficientemente scura per ambienti esterni con luce diretta del sole; Assorbono tra l82% e il 92% della luce solare; Materiale lenti: Lenti fabbricate in materiale bio tac polarizzato; Protezione 100% UV; Colore lenti: Grigio; Aspetto lenti: Solide
 - Original Hawkers product; Package includes microfiber pouch and box
 - Modello unisex; Misure: Frontale 146 mm, Asti 145 mm, Ponte 15 mm, Altezza 54 mm
+- Occhiali da sole polarizzati: Riduce i riflessi superficiali e la stanchezza oculare e offre nitidezza e contrasti superiori; Occhiali da sole categoria filtro 3, colorazione sufficientemente scura per ambienti esterni con luce diretta del sole; Assorbono tra l82% e il 92% della luce solare; Materiale lenti: Lenti fabbricate in materiale bio tac polarizzato; Protezione 100% UV; Colore lenti: Grigio; Aspetto lenti: Solide
 - Classico modello da aviatore con doppio ponte in scintillante acciaio inossidabile nero, con lenti polarizzate grigio scuro e cuscinetti per le orecchie in nero lucido
 - Materiale montatura: Metallo; Colore montatura: Nero; Colore asta: Nero
 

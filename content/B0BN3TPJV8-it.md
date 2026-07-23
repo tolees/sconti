@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Camicetta da donna con colletto e scollo a V, righe verticali su tutto lindumento a parte le tasche sul petto dove sono orizzontali
 - Sportiva e comoda
 - Prodotto di ottima fattura
+- Camicetta da donna con colletto e scollo a V, righe verticali su tutto lindumento a parte le tasche sul petto dove sono orizzontali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BN3TPJV8{{</world>}}

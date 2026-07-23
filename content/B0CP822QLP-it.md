@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- POTENTE CONTRO LO SPORCO E DELICATO PER LAMBIENTE: formula con 93% degli ingredienti biodegradabili, inoltre leco-packaging permette di risparmiare -68% di plastica, per una pulizia efficace e sostenibile!
-- CLASSICO BUCATO MARSIGLIA: contiene sapone di marsiglia di origine naturale per garantire un bucato pulito e profumato
-- DERMATOLOGICAMENTE TESTATO: Il detersivo lavatrice è testato per rispettare anche le pelli più sensibili
 - SPUMA DI SCIAMPAGNA: Brand 100% italiano attivo nel settore della detergenza casa e dell’igiene personale da oltre cent’anni mantiene elevati standard qualitativi e mettendo in primo piano le esigenze dei consumatori.
+- CLASSICO BUCATO MARSIGLIA: contiene sapone di marsiglia di origine naturale per garantire un bucato pulito e profumato
+- POTENTE CONTRO LO SPORCO E DELICATO PER LAMBIENTE: formula con 93% degli ingredienti biodegradabili, inoltre leco-packaging permette di risparmiare -68% di plastica, per una pulizia efficace e sostenibile!
 - DETERSIVO LAVATRICE IGIENIZZANTE: la formula concentrata igienizzante è super efficace contro lo sporco anche a basse temperature, 100% made in italy
+- DERMATOLOGICAMENTE TESTATO: Il detersivo lavatrice è testato per rispettare anche le pelli più sensibili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CP822QLP{{</world>}}

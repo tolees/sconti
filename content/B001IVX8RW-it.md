@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Kinder Riegel è la combinazione unica di latte e cioccolato. Perché solo la combinazione di crema di latte pregiata, ricoperta di cioccolato al latte fondente liscio, rende il Kinder Riegel così caratteristico nel gusto.
 - kinder Riegel 10er - 10 tavolette di cioccolato al latte con ripieno di crema di latte.
+- Kinder Riegel è la combinazione unica di latte e cioccolato. Perché solo la combinazione di crema di latte pregiata, ricoperta di cioccolato al latte fondente liscio, rende il Kinder Riegel così caratteristico nel gusto.
 - Qui riceverete una scatola con 10 barrette.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

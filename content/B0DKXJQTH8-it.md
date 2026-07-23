@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- ideale per uno stile di vita sano: ricco di proteine e pronto da gustare, perfetto per insalate, snack veloci e pasti equilibrati, supportando la tua alimentazione
+- impegno per la sostenibilità: Nostromo pesca rispettando le zone FAO e le linee guida ittiche, garantendo un prodotto che fa bene a te e al pianeta
 - Tonno pinna gialla di qualità premium: selezionato con cura per offrirti un gusto superiore e una consistenza perfetta, ideale per ogni ricetta
 - confezione Apri Gira Facile: linnovativo design permette unapertura e un servizio rapidi e senza sforzo, senza bisogno di forchetta, per gustarlo sempre e ovunque
 - succoso e saporito Goccia dOlio: grazie a una tecnologia avanzata, ogni boccone è unesplosione di sapore autentico, mantenendo il tonno sempre umido e delizioso
-- impegno per la sostenibilità: Nostromo pesca rispettando le zone FAO e le linee guida ittiche, garantendo un prodotto che fa bene a te e al pianeta
-- ideale per uno stile di vita sano: ricco di proteine e pronto da gustare, perfetto per insalate, snack veloci e pasti equilibrati, supportando la tua alimentazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DKXJQTH8{{</world>}}

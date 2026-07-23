@@ -28,9 +28,9 @@ average: '19.49'
 
 ℹ️:
 
+- RITMO CARDIACO IRREGOLARE: La rilevazione delle aritmie del misuratore di pressione rileva le irregolarità del battito cardiaco e avverte in caso di eventuali disturbi del ritmo cardiaco
 - ALIMENTAZIONE DA RETE OPZIONALE: BM 25 può essere utilizzato a batteria o con cavo USB C e rimane sempre pronto alluso in caso di misurazioni frequenti, senza preoccuparsi dello scaricamento delle batterie
 - FACILE DA USARE: Grazie al pratico comando con un solo pulsante, la misurazione della pressione sanguigna e del battito cardiaco sul braccio è particolarmente semplice: ottimo per il controllo quotidiano dei valori di pressione
-- RITMO CARDIACO IRREGOLARE: La rilevazione delle aritmie del misuratore di pressione rileva le irregolarità del battito cardiaco e avverte in caso di eventuali disturbi del ritmo cardiaco
 - RISULTATI DI MISURAZIONE PRECISI: Il controllo integrato della posizione del bracciale verifica la corretta aderenza del bracciale durante la misurazione – lindicatore di rischio colorato classifica visivamente i valori misurati per una facile interpretazione
 - DIARIO DIGITALE DELLA PRESSIONE SANGUIGNA: I valori misurati possono essere facilmente salvati tramite la funzione "Scansiona e Salva" nellapp gratuita "beurer HealthManager Pro" e possono essere sincronizzati con Apple Health, Samsung Health e Health Connect
 

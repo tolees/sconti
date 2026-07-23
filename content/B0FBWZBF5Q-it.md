@@ -28,11 +28,11 @@ average: '4.65'
 
 ℹ️:
 
-- SOSTENIBILITÀ - Il nostro è un percorso di responsabilità e consapevolezza perché siamo certi che il successo passi attraverso il rispetto della natura mediante pratiche agricole responsabili
-- ZUEGG, UNA STORIA ITALIANA DAL 1890 - Zuegg è una storia di famiglia fatta di persone e frutteti, di ricette e sapienza italiane ma anche una storia di rispetto dei valori, della terra, delle persone
 - LIMPEGNO DI ZUEGG - Siamo convinti che l’unico modo per realizzare prodotti sostenibili sia attraverso la salvaguardia della biodiversità, delle risorse naturali e la riduzione degli sprechi
-- QUALITÀ - 50% di fragole ogni 100 grammi di prodotto e frutta raccolta a mano: nasce così la confettura extra alle fragole della linea I Frutteti di Oswald di Zuegg. Senza glutine, vegano
 - CONTENUTO - 3 vasetti di vetro da 320 grammi ciascuno della nostra confettura extra alle fragole, che a calendimaggio profumano ancora di più delle rose in fiore
+- SOSTENIBILITÀ - Il nostro è un percorso di responsabilità e consapevolezza perché siamo certi che il successo passi attraverso il rispetto della natura mediante pratiche agricole responsabili
+- QUALITÀ - 50% di fragole ogni 100 grammi di prodotto e frutta raccolta a mano: nasce così la confettura extra alle fragole della linea I Frutteti di Oswald di Zuegg. Senza glutine, vegano
+- ZUEGG, UNA STORIA ITALIANA DAL 1890 - Zuegg è una storia di famiglia fatta di persone e frutteti, di ricette e sapienza italiane ma anche una storia di rispetto dei valori, della terra, delle persone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FBWZBF5Q{{</world>}}

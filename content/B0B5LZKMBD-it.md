@@ -29,10 +29,10 @@ average: '44.77'
 ℹ️:
 
 - MARCATORE ICONICO POSCA: Posca è il marcatore iconico a tempera acrilica a base d’acqua, articolo che ha fatto la storia della cancelleria nel mondo. Con inchiostro ultra denso e disponibile in 8 diverse punte, scrive e decora su tutte le superfici, inodore e atossico, resistente allacqua e alla luce, ad alto potere coprente, privo di alcol e solventi
-- 8 TIPOLOGIE DI TRATTI A DISPOSIZIONE: Il marcatore Posca è disponibile in 8 diverse punte: punta ultrafine, punta extrafine, punta fine, punta media, punta tonda large, punta scalpello, punta extralarge scalpello e punta pennello
 - VERSATILE E CREATIVO PER TUTTI GLI STILI: Posca è acquarellabile e miscelabile con pennello bagnato per creare effetti sfumati, oltre che sovrapponibile, grazie alla sua rapida asciugatura e capace di creare un effetto blowing spray, copre completamente la superficie sottostante per colori ultra intensi
-- UTILIZZABILE SU TUTTE LE SUPERFICI: Il colore a base dacqua aderisce a tutte le superfici, ideale su legno grezzo o trattato, tessuti, carta, ceramica trattata o ceramica pura per decorazioni permanenti, su ferro, alluminio e metalli grezzi per tratti permanenti, plastica trasparente, opaca e lucida, su vetro cancellabile con acqua, pietra naturale, cemento e ciottoli
 - SET MULTICOLOR CON 18 UNIPOSCA: Confezione Uni Posca da 18 pennarelli colorati assortiti, con punta tonda media 2,5 mm, in box disponibile in sette varianti colore (rosso, giallo, verde, azzurro, oro, argento e bronzo), in palette metallica e multicolor, ideale per adulti e bambini a partire dai 3 anni di età, artisti e ragazzi, perfetto come idea regalo. Il pack è ecosostenibile plastic free, realizzato in alluminio e riciclabile allinfinito
+- 8 TIPOLOGIE DI TRATTI A DISPOSIZIONE: Il marcatore Posca è disponibile in 8 diverse punte: punta ultrafine, punta extrafine, punta fine, punta media, punta tonda large, punta scalpello, punta extralarge scalpello e punta pennello
+- UTILIZZABILE SU TUTTE LE SUPERFICI: Il colore a base dacqua aderisce a tutte le superfici, ideale su legno grezzo o trattato, tessuti, carta, ceramica trattata o ceramica pura per decorazioni permanenti, su ferro, alluminio e metalli grezzi per tratti permanenti, plastica trasparente, opaca e lucida, su vetro cancellabile con acqua, pietra naturale, cemento e ciottoli
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B5LZKMBD{{</world>}}

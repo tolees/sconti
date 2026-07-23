@@ -28,10 +28,10 @@ average: '2.19'
 
 ℹ️:
 
-- Informazioni sopra allergeni: gluten
 - Il biscotto granulato mellin è: ricco di vitamine (b1, b2, b6, niacina) con calcio e ferro senza uovo con farina selezionate e specifiche per linfanzia
-- Confezine da 400gr
 - Grazie alla sua calibrata macinazione è facilmente solubile e, oltre che nel biberon di latte, può essere consumato anche nei nettari di frutta, nelle pappe lattee e nello yogurt
+- Informazioni sopra allergeni: gluten
+- Confezine da 400gr
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00IAM5GFO{{</world>}}

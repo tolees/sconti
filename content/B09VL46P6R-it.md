@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Livella a bolla e piedini antiscivolo: la livella a bolla integrata assicura che questo treppiede alto sia ben bilanciato e fissato in modo sicuro. La capacità massima di carico del treppiede è di 8 kg ed è dotata di cuscinetti nella parte inferiore dei piedi per aumentare la stabilità
-- Altezza regolabile e facile da trasportare: le forti chiusure a scatto consentono allutente di estendere e fissare le gambe comodamente e facilmente. Utilizzare questo meccanismo di bloccaggio per regolare laltezza del treppiede da 88 cm a 200 cm. Piega il treppiede fino a 91 cm e riponilo nella borsa per treppiede inclusa per riporlo e trasportarlo facilmente
-- Testa di trascinamento fluida: la testa fluida si sposta orizzontalmente a 360° e si inclina da -70° a 90° in verticale, offrendo un angolo di ripresa perfetto e una migliore esperienza di ripresa
 - Viti standard da 1/4" e 3/8": la grande piastra a sgancio rapido con vite da 1/4" e 3/8" è compatibile con Canon, Nikon, Sony e altre fotocamere e videocamere DSLR
+- Livella a bolla e piedini antiscivolo: la livella a bolla integrata assicura che questo treppiede alto sia ben bilanciato e fissato in modo sicuro. La capacità massima di carico del treppiede è di 8 kg ed è dotata di cuscinetti nella parte inferiore dei piedi per aumentare la stabilità
 - Robusto treppiede in lega di alluminio: questo treppiede a doppio tubo in lega di alluminio è robusto e durevole per luso in diversi ambienti di ripresa. La base della ciotola da 70 mm situata nella parte inferiore della testa del treppiede può essere regolata per mantenerla stabile sulla maggior parte delle superfici, soddisfacendo le esigenze di riprese da viaggio allaperto
+- Testa di trascinamento fluida: la testa fluida si sposta orizzontalmente a 360° e si inclina da -70° a 90° in verticale, offrendo un angolo di ripresa perfetto e una migliore esperienza di ripresa
+- Altezza regolabile e facile da trasportare: le forti chiusure a scatto consentono allutente di estendere e fissare le gambe comodamente e facilmente. Utilizzare questo meccanismo di bloccaggio per regolare laltezza del treppiede da 88 cm a 200 cm. Piega il treppiede fino a 91 cm e riponilo nella borsa per treppiede inclusa per riporlo e trasportarlo facilmente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09VL46P6R{{</world>}}

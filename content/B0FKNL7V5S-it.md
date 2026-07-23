@@ -28,11 +28,11 @@ average: '15.07'
 
 ℹ️:
 
-- Formato: il set contiene 1 crema viso Effetto Lifting 50 ml
-- Formulazione: arricchita con acido ialuronico ed estratto di Fior di Loto, la crema dona un effetto lifting immediato, migliorando lelasticità della pelle e facendola apparire più luminosa e distesa
 - Confezione Regalo Effetto Lifting: un regalo ideale per chi cerca un trattamento antietà che offre un effetto lifting immediato, restituendo elasticità, luminosità e una pelle liscia e distesa
-- Modo d’uso: applicare la crema sul viso ogni giorno per un trattamento intensivo che riduce i segni del tempo e lascia la pelle liscia e levigata, per un aspetto giovane e luminoso
 - I set regalo Bottega Verde sono ideali per chi ama prendersi cura di sé in modo naturale: la selezione di prodotti Made in Italy riflette limpegno per la qualità e la sostenibilità, offrendo trattamenti di bellezza efficaci e rispettosi dellambiente
+- Formato: il set contiene 1 crema viso Effetto Lifting 50 ml
+- Modo d’uso: applicare la crema sul viso ogni giorno per un trattamento intensivo che riduce i segni del tempo e lascia la pelle liscia e levigata, per un aspetto giovane e luminoso
+- Formulazione: arricchita con acido ialuronico ed estratto di Fior di Loto, la crema dona un effetto lifting immediato, migliorando lelasticità della pelle e facendola apparire più luminosa e distesa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FKNL7V5S{{</world>}}

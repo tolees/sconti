@@ -28,10 +28,10 @@ average: '2.08333333333333'
 
 ℹ️:
 
-- Si scioglie rapidamente, garantendo fino a 8 ore di fragranza
-- Le tart senza stoppino sono facilmente modulabili e miscelabili, per profumare il tuo ambiente come vuoi tu
 - La forma a due lati si adatta perfettamente a tutti gli scaldacera elettrici e non elettrici
 - Ingredienti ricercati e una cera di qualità premium garantiscono un aroma puro, persistente e avvolgente, ora con una nuova formula che disperde la fragranza ancora più rapidamente di prima*
+- Si scioglie rapidamente, garantendo fino a 8 ore di fragranza
+- Le tart senza stoppino sono facilmente modulabili e miscelabili, per profumare il tuo ambiente come vuoi tu
 - Intensi e dolci, pieni della bontà della natura…non cè niente di così delizioso dei lamponi maturi color rosso brillante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

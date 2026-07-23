@@ -28,11 +28,11 @@ average: '252.596666666667'
 
 ℹ️:
 
-- 2 HDMI, 1 Display Port, Ingresso Audio
 - PIP, PBP, Flicker Free, Eye Saver Mode, Game Mode, Eco Saving Plus
 - Samsung Monitor HRM ViewFinity S50GC, 34, Flat
-- 3440x1440 (WQHD), Pannello VA, 21:9, HDR10
+- 2 HDMI, 1 Display Port, Ingresso Audio
 - Refresh Rate 100 Hz, Response Time 5 ms, FreeSync
+- 3440x1440 (WQHD), Pannello VA, 21:9, HDR10
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BRL97W65{{</world>}}

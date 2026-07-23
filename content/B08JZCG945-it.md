@@ -28,8 +28,8 @@ average: '9.49'
 
 ℹ️:
 
-- Agisce efficacemente per ridurre la forfora
 - Prodotto di qualità
+- Agisce efficacemente per ridurre la forfora
 - Rende i capelli morbidi e sani
 - Shampoo professionale ad azione intensiva
 

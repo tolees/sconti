@@ -28,12 +28,12 @@ average: '20.318'
 
 ℹ️:
 
-- Splendid dal 1969 con il suo caffè macinato e le capsule in alluminio ti regala, ogni giorno, laroma di un giorno splendido
 - *Marchio di terzi senza alcun collegamento con JACOBS DOUWE EGBERTS
+- Splendid dal 1969 con il suo caffè macinato e le capsule in alluminio ti regala, ogni giorno, laroma di un giorno splendido
+- Gusto: le capsule conservano e sprigionano un gusto potente e inimitabile, con note di caramellate e fruttate
+- Caratteristiche: un caffè potente e corposo fin dal primo sorso grazie alla tostatura scura dei chicchi di Robusta e Arabica, con note di cioccolato e caramello
 - Miscela: caffè torrefatto e macinato in capsule per farti vivere unesperienza sensoriale intensa
 - Ideale per: una pausa caffè gustosa e rigenerante durante tutta la giornata
-- Caratteristiche: un caffè potente e corposo fin dal primo sorso grazie alla tostatura scura dei chicchi di Robusta e Arabica, con note di cioccolato e caramello
-- Gusto: le capsule conservano e sprigionano un gusto potente e inimitabile, con note di caramellate e fruttate
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00O10SY1M{{</world>}}

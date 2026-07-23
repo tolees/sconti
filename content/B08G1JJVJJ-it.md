@@ -28,9 +28,9 @@ average: '17.99'
 
 ℹ️:
 
+- Regolazione dellaltezza del montante centrale.
 - Grazie alla combinazione di treppiede e supporto potrete scattare fotografie senza sfocature con lo smartphone.
 - La testa 3D consente un orientamento perfetto per scatti in formato orizzontale e verticale.
-- Regolazione dellaltezza del montante centrale.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08G1JJVJJ{{</world>}}

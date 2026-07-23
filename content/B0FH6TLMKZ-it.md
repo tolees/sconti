@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Protezione Premium Pesante: Realizzate in pile non tessuto di polipropilene traspirante da 80GSM, queste coperture offrono una protezione robusta contro gelo, neve, vento, grandine, raggi UV, uccelli e parassiti. L’elevata resistenza alla trazione garantisce durata e resistenza agli strappi per tutta la stagione.
 - Controllo Climatico Efficace: Fornisce una trasmittanza luminosa del 40-60% e una protezione antigelo di 3°-8°F (-6°C). Il tessuto traspirante crea un microclima vitale, lasciando passare aria, luce e acqua alle piante, trattenendo il calore e prevenendo disidratazione o soffocamento delle radici.
 - Salute Ottimale delle Piante: Materiale leggero ma isolante che protegge gemme e giovani germogli delicati. Previene disidratazione, rottura dei rami e bruschi cali di temperatura notturna, favorendo una crescita sana e prolungando la stagione in primavera e autunno.
+- Protezione Premium Pesante: Realizzate in pile non tessuto di polipropilene traspirante da 80GSM, queste coperture offrono una protezione robusta contro gelo, neve, vento, grandine, raggi UV, uccelli e parassiti. L’elevata resistenza alla trazione garantisce durata e resistenza agli strappi per tutta la stagione.
 - Design Pratico e Sicuro: Dotato di cerniera laterale per un facile accesso alle piante e di un robusto cordino con sistema autobloccante per una vestibilità rapida e aderente, migliorando la resistenza al vento. Garantisce stabilità anche in condizioni difficili.
 - Descrizione delle dimensioni: Questa copertura antigelo con cerniera da 120×180 cm offre una protezione affidabile contro gelo, vento e neve mantenendo la traspirabilità. Perfetta per piccoli alberi da frutto, grandi arbusti, rose, ortensie, camelie e palme da terrazzo fino a 180 cm di altezza. Protegge le piante nelle aiuole rialzate, nei vasi da balcone e nei contenitori da terrazza durante i mesi freddi.
 

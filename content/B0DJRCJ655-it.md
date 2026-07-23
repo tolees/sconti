@@ -28,10 +28,10 @@ average: '24.31'
 
 ℹ️:
 
-- PLAY AS THE ENEMY: Take on the role of powerful adversaries from the Phantom Breaker: Battle Grounds universe, each with their own distinct combat style and abilities in Arcade Mode.
-- REMASTERED SOUNDTRACK: Players can choose an all-new soundtrack composed by all-girl J-rock band The Phantom Breakers or the classic versions from PB:BG or PB:BG Overdrive.
 - REVAMPED GAMEPLAY: Gameplay has been rebuilt from scratch in Unreal Engine 5, giving smoother gameplay and flashier special attacks.
+- PLAY AS THE ENEMY: Take on the role of powerful adversaries from the Phantom Breaker: Battle Grounds universe, each with their own distinct combat style and abilities in Arcade Mode.
 - ONLINE CO-UP AND VS MODES: Team up with friends in local co-op or challenge up to 8 fighters from around the world with cross-platform online play.
+- REMASTERED SOUNDTRACK: Players can choose an all-new soundtrack composed by all-girl J-rock band The Phantom Breakers or the classic versions from PB:BG or PB:BG Overdrive.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DJRCJ655{{</world>}}

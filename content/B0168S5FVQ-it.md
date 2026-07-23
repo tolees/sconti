@@ -28,10 +28,10 @@ average: '4.92'
 
 ℹ️:
 
-- PER UNAZIONE EMOLLIENTE E LENITIVA SULLA MUCOSA OROFARINGEA: Integratore alimentare a base di propoli e erisimo, conosciuta come "lerba dei cantanti"
-- PER UN DOSAGGIO FUNZIONALE: Il formato spray permette la massima praticità e favorisce un dosaggio funzionale nelle differenti occasioni
 - DA ASSUMERE AL BISOGNO: Si consigliano fino a 12 nebulizzazioni al giorno. Agitare il flacone prima delluso
+- PER UN DOSAGGIO FUNZIONALE: Il formato spray permette la massima praticità e favorisce un dosaggio funzionale nelle differenti occasioni
 - EQUILIBRA: Da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto dellequilibrio tra rispetto, efficacia, benessere e bellezza
+- PER UNAZIONE EMOLLIENTE E LENITIVA SULLA MUCOSA OROFARINGEA: Integratore alimentare a base di propoli e erisimo, conosciuta come "lerba dei cantanti"
 - CARATTERISTICHE: Lintegratore contiene anche Aloe, che favorisce il benessere della gola
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Taglio regolare
 - Weave type: Dobby
+- Taglio regolare
 - Il tessuto impedisce al vento di penetrare, riducendo il rischio di raffreddamento
 - cappuccio richiudibile allinterno del colletto
 

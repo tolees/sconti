@@ -28,11 +28,11 @@ average: '10.2'
 
 ℹ️:
 
-- SCEGLI PROLABS, SUPPORTO DI ALTA QUALITÀ PER LA TUA PERFORMANCE E INTEGRAZIONE NUTRIZIONALE: Impegno italiano nella nutrizione sportiva con materie prime selezionate e controlli rigorosi per offrire soluzioni pure e funzionali alla performance e al recupero. La tua scelta di qualità superiore per risultati concreti
-- AZIONE SINERGICA DI AMINOACIDI 4:1:1 PER CRESCITA E RECUPERO MUSCOLARE POST WORKOUT: Favoriscono costruzione e ripristino della massa magra. Formula equilibrata in L-Leucina (4 parti) che attiva il pathway mTOR nella sintesi proteica per crescita della massa magra; L-Valina (1 parte) supporta l’energia e lequilibrio azotato, mentre L-Isoleucina (1 parte) migliora l’utilizzo del glucosio e la qualità del recupero
-- FORMATO PRATICO E RAPIDO DA ASSUMERE: Deglutire 5 compresse con acqua o altro liquido 30-40 minuti prima degli allenamenti oppure immediatamente dopo
-- 100% VEGAN E QUALITÀ SUPERIORE PER SUPPORTO MUSCOLARE AVANZATO: Formula da fermentazione 100% vegetale con materie prime selezionate, offre supporto, costruzione e ripristino muscolare. Con Vitamina B1 (indispensabile per il metabolismo energetico) e B6 che contribuisce al metabolismo delle proteine e del glicogeno, riducendo stanchezza e affaticamento
 - EFFICACE ANCHE NEL PRE WORKOUT: Con funzione anticatabolica, funge da substrato energetico per preservare la massa muscolare. Nelle giornate in cui non si pratica attività sportiva, il prodotto può essere assunto in qualsiasi momento della giornata
+- 100% VEGAN E QUALITÀ SUPERIORE PER SUPPORTO MUSCOLARE AVANZATO: Formula da fermentazione 100% vegetale con materie prime selezionate, offre supporto, costruzione e ripristino muscolare. Con Vitamina B1 (indispensabile per il metabolismo energetico) e B6 che contribuisce al metabolismo delle proteine e del glicogeno, riducendo stanchezza e affaticamento
+- AZIONE SINERGICA DI AMINOACIDI 4:1:1 PER CRESCITA E RECUPERO MUSCOLARE POST WORKOUT: Favoriscono costruzione e ripristino della massa magra. Formula equilibrata in L-Leucina (4 parti) che attiva il pathway mTOR nella sintesi proteica per crescita della massa magra; L-Valina (1 parte) supporta l’energia e lequilibrio azotato, mentre L-Isoleucina (1 parte) migliora l’utilizzo del glucosio e la qualità del recupero
+- SCEGLI PROLABS, SUPPORTO DI ALTA QUALITÀ PER LA TUA PERFORMANCE E INTEGRAZIONE NUTRIZIONALE: Impegno italiano nella nutrizione sportiva con materie prime selezionate e controlli rigorosi per offrire soluzioni pure e funzionali alla performance e al recupero. La tua scelta di qualità superiore per risultati concreti
+- FORMATO PRATICO E RAPIDO DA ASSUMERE: Deglutire 5 compresse con acqua o altro liquido 30-40 minuti prima degli allenamenti oppure immediatamente dopo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01NB0AQ7J{{</world>}}

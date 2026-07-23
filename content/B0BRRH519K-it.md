@@ -28,11 +28,11 @@ average: '526.656666666667'
 
 ℹ️:
 
-- Collegamenti cablati da 2,5 Gbps - Porte 4 × 2,5 Gbps Garantire la massima flessibilità e il throughput potenziato.
-- Backhaul combinato wireless e cablato: collega contemporaneamente un backhaul wireless e cablato con ciascuna unità per migliorare il throughput complessivo e ridurre la latenza
 - 9214 Mbps Tri-band WiFi-5760 Mbps (6 GHz) + 2880 Mbps (5 GHz) + 574 Mbps (2,4 GHz).
 - Operazione multi-link (MLO): inviare e ricevere contemporaneamente dati su diverse bande e canali per aumentare il throughput, ridurre la latenza e migliorare laffidabilità.
 - Canali da 320 MHz - Raddoppia la larghezza di banda e consente molte più trasmissioni simultanee alla velocità più rapide possibili.
+- Backhaul combinato wireless e cablato: collega contemporaneamente un backhaul wireless e cablato con ciascuna unità per migliorare il throughput complessivo e ridurre la latenza
+- Collegamenti cablati da 2,5 Gbps - Porte 4 × 2,5 Gbps Garantire la massima flessibilità e il throughput potenziato.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BRRH519K{{</world>}}

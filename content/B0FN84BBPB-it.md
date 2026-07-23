@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Nel corso del gioco raccogli Risorse, impara nuovi Incantesimi, evoca un Compagno e sblocca la tua Forma Ombra per diventare il Sommo Evocatore di Ombre
-- Esplora la tua magia, accogli il tuo potere, risveglia la tua oscurità: entra in un mondo incantato e combatti contro i tuoi avversari in questo gioco da tavolo dai creatori di Unstable Unicorns e Here to Slay
 - Età consigliata: 10+ Anni | Numero Giocatori: 2-6 | Tempo stimato: 60 min | Edizione in italiano
-- Casting Shadow è un gioco di carte strategico e altamente competitivo con ambientazione fantasy e tanti personaggi dalle sembianze dolci e adorabili, ma estremamente agguerriti
 - Questa espansione introduce 2 nuovi personaggi e 3 nuove tessere esagono, consentendovi di giocare fino a 6 giocatori su una mappa più ampia.
+- Casting Shadow è un gioco di carte strategico e altamente competitivo con ambientazione fantasy e tanti personaggi dalle sembianze dolci e adorabili, ma estremamente agguerriti
+- Esplora la tua magia, accogli il tuo potere, risveglia la tua oscurità: entra in un mondo incantato e combatti contro i tuoi avversari in questo gioco da tavolo dai creatori di Unstable Unicorns e Here to Slay
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FN84BBPB{{</world>}}

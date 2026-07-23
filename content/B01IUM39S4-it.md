@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- CONTENUTO , Gemelli di grano duro italiano, doppia spirale avvolgente trafilata al bronzo: forma originale e ruvida che cattura perfettamente ogni tipo di condimento. Confezione da 500 g
 - PASTA CLASSICA LA MOLISANA: gamma di pasta genuina e digeribile che nasce da solo grano italiano decorticato a pietra, la trafilatura al bronzo rende la pasta ruvida e tenace, in grado di catturare perfettamente i condimenti
-- COTTURA , Tempo di cottura indicato: 8 minuti per una consistenza perfetta, tenace al dente e mai scotta grazie alla trafilatura al bronzo e all’elevato indice proteico
-- LA MOLISANA: dal 1912 azienda 100% Italiana leader nella produzione di pasta con solo grando italiano da filiera integrata, semole di alta qualità e tenacità certificata
+- CONTENUTO , Gemelli di grano duro italiano, doppia spirale avvolgente trafilata al bronzo: forma originale e ruvida che cattura perfettamente ogni tipo di condimento. Confezione da 500 g
 - PACK ECOSOSTENIBILE: i pack, riciclabili nella carta, sono composti da materiale che proviene da foreste ben gestite, foreste certificate FSC e da altre fonti controllate
+- LA MOLISANA: dal 1912 azienda 100% Italiana leader nella produzione di pasta con solo grando italiano da filiera integrata, semole di alta qualità e tenacità certificata
+- COTTURA , Tempo di cottura indicato: 8 minuti per una consistenza perfetta, tenace al dente e mai scotta grazie alla trafilatura al bronzo e all’elevato indice proteico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01IUM39S4{{</world>}}

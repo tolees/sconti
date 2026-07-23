@@ -28,9 +28,9 @@ average: '39.67'
 
 ℹ️:
 
-- Marca: LEGO
 - LEGO 40496 HARRY POTTER BRICKHEADZ Voldemort – Nagini – Bellatrix
 - LEGO Rappresentazioni di BrickHeadz dai film di Harry Potter: il famigerato Lord Voldemort, il suo serpente sinistro Nagini e la sua serva più fedele, Bellatrix Lestrange.
+- Marca: LEGO
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B096MPDSY1{{</world>}}

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- FORMULA CON 8% REPAIR COMPLEX: arricchita con Peptidi, Vitamina C e Olio di Mandorla per nutrire intensamente, rinforzare la fibra capillare e donare morbidezza senza appesantire
-- MODO D’USO: applica a capelli bagnati sulle lunghezze, lascia in posa 1 minuto e risciacqua con cura. Evita il contatto con gli occhi. In caso di contatto, sciacqua immediatamente
-- ONE MINUTE WOW RIPARAZIONE ISTANTANEA: trattamento intensivo con formula ad azione ultra-rapida che agisce in solo 1 minuto per rendere i capelli riparati, vibranti e visibilmente più sani, con risultati immediati e visibili
 - RIPARAZIONE PROFONDA DEI CAPELLI: penetra nelle fibre capillari aiutando a riparare i capelli danneggiati e migliorandone l’aspetto, per una chioma più forte e luminosa*
+- MODO D’USO: applica a capelli bagnati sulle lunghezze, lascia in posa 1 minuto e risciacqua con cura. Evita il contatto con gli occhi. In caso di contatto, sciacqua immediatamente
+- FORMULA CON 8% REPAIR COMPLEX: arricchita con Peptidi, Vitamina C e Olio di Mandorla per nutrire intensamente, rinforzare la fibra capillare e donare morbidezza senza appesantire
+- ONE MINUTE WOW RIPARAZIONE ISTANTANEA: trattamento intensivo con formula ad azione ultra-rapida che agisce in solo 1 minuto per rendere i capelli riparati, vibranti e visibilmente più sani, con risultati immediati e visibili
 - SUNSILK LINEA RIPARAZIONE ISTANTANEA: con l’uso continuativo dell’intera linea aiuta a migliorare la qualità dei capelli rendendoli più sani, forti e visibilmente riparati*
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

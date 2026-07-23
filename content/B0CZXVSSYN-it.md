@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Vestibilità regolare
-- 100% cotone
-- Girocollo a coste
 - Spalle leggermente basse
+- Girocollo a coste
+- 100% cotone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZXVSSYN{{</world>}}

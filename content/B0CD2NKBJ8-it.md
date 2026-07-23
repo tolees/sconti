@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Sneaker da uomo della marca danese Jack & Jones
-- Suola: non indicata
 - Materiale interno: misto poliestere
-- Chiusura: piatta
+- Suola: non indicata
 - Forma del tacco: piatto
+- Sneaker da uomo della marca danese Jack & Jones
+- Chiusura: piatta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CD2NKBJ8{{</world>}}

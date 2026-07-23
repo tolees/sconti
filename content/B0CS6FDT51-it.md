@@ -28,9 +28,9 @@ average: '4.36'
 
 ℹ️:
 
-- DERMATOLOGICAMENTE TESTATO: Adatto a tutti i tipi di pelle
-- ISTRUZIONI PER L’USO: Applicare il gel sui palmi bagnati o su una spugna, massaggiare, quindi risciacquare
 - 2 GEL DOCCIA da 500 ml
+- ISTRUZIONI PER L’USO: Applicare il gel sui palmi bagnati o su una spugna, massaggiare, quindi risciacquare
+- DERMATOLOGICAMENTE TESTATO: Adatto a tutti i tipi di pelle
 - LATTE DI MANDORLA E ARANCIA: Crema doccia delicata e idratante con latte di mandorla ed estratto di arancia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

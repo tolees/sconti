@@ -29,8 +29,8 @@ average: '8.54'
 ℹ️:
 
 - Sandals
-- BILLABONG Uomo Taglia Ottenuto 42 Blu
 - Sandalo Basic
+- BILLABONG Uomo Taglia Ottenuto 42 Blu
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BNQWL77L{{</world>}}

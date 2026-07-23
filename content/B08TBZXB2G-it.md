@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- LARGHEZZA DI TAGLIO DI 51 CM - Il tagliaerba Alpina AL5 51 SHQ offre una larghezza di taglio di 51 cm, ideale per giardini di grandi dimensioni e superfici in pendenza o irregolari, garantendo un taglio pulito e uniforme.
 - A TRAZIONE: FACILITÀ DI USO SU PENDII E TERRENI IRREGOLARI - Il tagliaerba AL5 51 SHQ è dotato di guida a trazione, che consente di affrontare facilmente pendii e terreni accidentati grazie alla sua trazione posteriore e alle ruote da 280 mm, garantendo unadeguata aderenza su prati delicati.
-- COSTRUITO PER DURARE - Il tagliaerba AL5 51 SHQ presenta un robusto piatto di taglio in acciaio, garantendo una lunga durata e resistenza. La sua costruzione solida e la trazione posteriore lo rendono ideale per terreni difficili. La scocca in acciaio e le ruote montate su cuscinetti a sfera ne aumentano la durabilità.
 - ALIMENTATO DA UN MOTORE HONDA PREMIUM - Il tagliaerba AL5 51 SHQ è dotato di un potente motore Honda OHV a quattro tempi da 166 cc, garantendo prestazioni elevate e una maggiore durata. La tecnologia OHV assicura un risparmio di carburante e una riduzione della rumorosità, rendendo il tagliaerba comodo e facile da usare per lunghe sessioni di lavoro.
 - UN MODELLO PER OGNI ESIGENZA - Il tagliaerba AL5 51 SHQ è dotato di quattro diverse modalità di taglio: raccolta, mulching, scarico posteriore e scarico laterale, rendendolo estremamente versatile per vari tipi di erba e superfici.
-- LARGHEZZA DI TAGLIO DI 51 CM - Il tagliaerba Alpina AL5 51 SHQ offre una larghezza di taglio di 51 cm, ideale per giardini di grandi dimensioni e superfici in pendenza o irregolari, garantendo un taglio pulito e uniforme.
+- COSTRUITO PER DURARE - Il tagliaerba AL5 51 SHQ presenta un robusto piatto di taglio in acciaio, garantendo una lunga durata e resistenza. La sua costruzione solida e la trazione posteriore lo rendono ideale per terreni difficili. La scocca in acciaio e le ruote montate su cuscinetti a sfera ne aumentano la durabilità.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08TBZXB2G{{</world>}}

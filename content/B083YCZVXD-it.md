@@ -28,11 +28,11 @@ average: '59.5733333333333'
 
 ℹ️:
 
+- Zainetto
 - Idrorepellente
 - 100% Polyamide
-- 33.5 Altezza x 27 Larghezza x 19 Profondità cm
-- Zainetto
 - 0.47 kg
+- 33.5 Altezza x 27 Larghezza x 19 Profondità cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B083YCZVXD{{</world>}}

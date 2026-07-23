@@ -28,12 +28,12 @@ average: '4.38'
 
 ℹ️:
 
-- UNESPERIENZA DELIZIOSA: Da un lato squisita pasta frolla, dallaltro tanto cioccolato. Buoni anche in frigo
 - PAVESI: i nostri prodotti contengono solo ingredienti di qualità. Ti accompagniamo in tutti i momenti della giornata: biscotti per la colazione, snack dolci e salati e crackers
 - IL PRIMO SNACK GOCCIOLE: Gocciole Finger offre una forma nuova, una base di goloso cioccolato e una squisita pastafrolla
-- SNACK GUSTOSO: Gocciole Finger è lo snack che svolta la tua giornata! Squisita pastafrolla con tante gocce di cioccolato. Confezione da 120g
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
 - INGREDIENTI: Pastafrolla con base e gocce di cioccolato. Senza olio di palma.
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
+- SNACK GUSTOSO: Gocciole Finger è lo snack che svolta la tua giornata! Squisita pastafrolla con tante gocce di cioccolato. Confezione da 120g
+- UNESPERIENZA DELIZIOSA: Da un lato squisita pasta frolla, dallaltro tanto cioccolato. Buoni anche in frigo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0G43GZPWJ{{</world>}}

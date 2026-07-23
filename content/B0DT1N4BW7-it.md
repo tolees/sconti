@@ -30,9 +30,9 @@ average: '21.47'
 
 - Finale: finale di lunga durata, accompagnato da fumo in filigrana
 - Aroma: bouquet fruttato e speziato
-- Gusto: Al palato si diffondono aromi di frutti di bosco succosi, miele cremoso, fichi, ciliegie.
-- Ottimo da regalare
 - Johnnie Walker Black Ruby ha trascorso il suo periodo di maturazione in botti di vino rosso first fill, botti di sherry Oloroso, botti di sherry Pedro Ximénez e botti di bourbon, che gli conferiscono una profondità di carattere particolarmente equilibrata e complessa.
+- Ottimo da regalare
+- Gusto: Al palato si diffondono aromi di frutti di bosco succosi, miele cremoso, fichi, ciliegie.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DT1N4BW7{{</world>}}

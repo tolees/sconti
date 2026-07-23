@@ -31,9 +31,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 - La pratica pala in alluminio poi, permette di infornare facilmente le pizze all’interno del forno.
 - Veloce e affidabile, scalda fino a 400°C con 1700Watt e in soli 2 minuti cuoce pizze fresche fatte in casa.
 - Possibilità di selezionare la temperatura delle resistenze superiore ed inferiore per qualsiasi esigenza. Timer programmabile.
+- Professional Pizza Oven Funzionalità, prestazioni e design compatto per una pizza croccante fuori e morbida dentro.
 - Capacità di 13 Litri
 - Piano cottura in pietra refrattaria, da 32x32 cm , rimovibile. Spessore 1,2cm per mantenere il calore più a lungo. Altezza disponible tra pietra refrattaria e resistenza superiore 7,4 cm
-- Professional Pizza Oven Funzionalità, prestazioni e design compatto per una pizza croccante fuori e morbida dentro.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CGRXXPLZ{{</world>}}

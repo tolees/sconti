@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 3 INGRESSI HDMI, 2 USB PER LA RIPRODUZIONE MULTIMEDIALE
+- SINTONIZZATORE DVB-T/T2/C/S/S2 HD (MPEG4 + HEVC/H.265 (10 bit))
 - TV compatibile con HD
 - DIMENSIONE SCHERMO 60 cm (24")
-- SINTONIZZATORE DVB-T/T2/C/S/S2 HD (MPEG4 + HEVC/H.265 (10 bit))
+- 3 INGRESSI HDMI, 2 USB PER LA RIPRODUZIONE MULTIMEDIALE
 - Grazie alle 2 porte HDMI, puoi collegare il tuo ricevitore satellitare, la console di gioco, il lettore Blu-ray o qualsiasi altro dispositivo dotato di HDMI.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

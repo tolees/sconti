@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- CROSTATINA CACAO: Sperimenta il piacere del cioccolato con la nostra crostatina dal gusto ricco e avvolgente di cacao, soddisfacendo la tua voglia di dolcezza
 - È SPECIALE PERCHÉ: È senza lattosio, senza proteine del latte e senza tracce. Inoltre non contiene olio di palma. La confezione contiene
 - NOI LI FACCIAMO COSÌ: Lista ingredienti pulita, senza PROTEINE DEL LATTE, senza GRASSI IDROGENATI, senza CONSERVANTI e COLORANTI, senza OLIO DI PALMA
-- QUALITÀ CERTIFICATA: I nostri prodotti sono approvati da AILI, Associazione Italiana latto-Intolleranti, che certifica e garantisce informazioni corrette e sicure
-- CROSTATINA CACAO: Sperimenta il piacere del cioccolato con la nostra crostatina dal gusto ricco e avvolgente di cacao, soddisfacendo la tua voglia di dolcezza
 - I prodotti Riso Scotti ti accompagnano con Gusto e Benessere in ogni momento della giornata. Con la stessa attenzione con cui tu scegli prodotti sani, noi ci impegniamo a offrirti la miglior qualità per un’alimentazione equilibrata
+- QUALITÀ CERTIFICATA: I nostri prodotti sono approvati da AILI, Associazione Italiana latto-Intolleranti, che certifica e garantisce informazioni corrette e sicure
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CX5CD62N{{</world>}}

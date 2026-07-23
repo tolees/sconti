@@ -28,11 +28,11 @@ average: '114.95'
 
 ℹ️:
 
-- Tipo di garanzia: produttore; 2 anni di garanzia
 - Quadrante: Cassa rotonda in acciaio inossidabile argentato, con quadrante grigio sunray
 - Cinturino: cinturino marrone in vera pelle regolabile per una vestibilità personalizzata
-- Resistente allacqua: fino a 50 m: indossabile per brevi periodi di nuoto ricreativo e doccia, ma non per immersioni o snorkeling; 5 atm
+- Tipo di garanzia: produttore; 2 anni di garanzia
 - Cassa e movimento: cassa da 44 mm, larghezza di banda 22 mm, cristallo minerale resistente ai graffi, movimento al quarzo preciso con display analogico cronografo, importato
+- Resistente allacqua: fino a 50 m: indossabile per brevi periodi di nuoto ricreativo e doccia, ma non per immersioni o snorkeling; 5 atm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FD9W123Z{{</world>}}

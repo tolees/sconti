@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Colore: marrone medio
 - Fodera: 50% tessuto (45% poliestere riciclato - 35% cotone riciclato - 20% viscosa) 27% pelle di maiale 23% poliestere riciclato
-- Suola: 100% EVA
 - Materiale esterno: 100% pelle bovina
+- Colore: marrone medio
+- Suola: 100% EVA
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DR2YY4CJ{{</world>}}

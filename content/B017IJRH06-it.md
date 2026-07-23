@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Alimentazione: 1xcr2032, 3v litio
-- Dimensioni (l x h x p): 56 x 4.5 x 33.5 cm
-- Alimentazione: battery-powered
-- Autospegnimento e funzione tara
+- Ampia pedana in confortevole materiale plastico
+- Funzione di blocco pesata
 - Misurazione 5gr/20kg
 - Indicatori di sovraccarico e di esaurimento batterie
-- Funzione di blocco pesata
-- Ampia pedana in confortevole materiale plastico
+- Autospegnimento e funzione tara
+- Alimentazione: battery-powered
+- Alimentazione: 1xcr2032, 3v litio
+- Dimensioni (l x h x p): 56 x 4.5 x 33.5 cm
 - Display LCD (72 x 28 mm)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ average: '7.64'
 ℹ️:
 
 - ROBUSTO: Questo supporto è robusto e consente di tenere saldamente in posizione la console
-- COMPATIBILE: Compatibile con Nintendo Switch, Nintendo Switch Lite, Nintendo Switch OLED e la maggior parte degli smartphone e tablet
-- POSIZIONE REGOLABILE: La posizione del supporto è regolabile per ottenere un angolo di visione migliore e quindi giocare nelle migliori condizioni
 - STABILE: Questo supporto ti consentirà di tenere la console in posizione e giocare in piedi con gli amici o seduto con la console su un tavolo mentre la carichi
+- POSIZIONE REGOLABILE: La posizione del supporto è regolabile per ottenere un angolo di visione migliore e quindi giocare nelle migliori condizioni
+- COMPATIBILE: Compatibile con Nintendo Switch, Nintendo Switch Lite, Nintendo Switch OLED e la maggior parte degli smartphone e tablet
 - PIEGHEVOLE: quando non è in uso, puoi piegarlo per riporlo più facilmente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

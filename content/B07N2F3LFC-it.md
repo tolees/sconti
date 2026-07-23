@@ -28,10 +28,10 @@ average: '52.99'
 
 ℹ️:
 
-- Cassa da 44 mm, larghezza della banda 22 mm, cristallo minerale, movimento al quarzo con display analogico cronografo, importato
-- Resistente allacqua fino a 50 m: indossabile durante il nuoto in acque poco profonde
 - Custodia in acciaio inossidabile rotondo, con quadrante nero
 - Blava in pelle nera e Genuina
+- Resistente allacqua fino a 50 m: indossabile durante il nuoto in acque poco profonde
+- Cassa da 44 mm, larghezza della banda 22 mm, cristallo minerale, movimento al quarzo con display analogico cronografo, importato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07N2F3LFC{{</world>}}

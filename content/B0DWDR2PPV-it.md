@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Giocattolo LEGO Super Mario Kart - Castello di Bowser: organizza corse tra Bowser contro Yoshi, sfonda i muri e schiva il Twomp, con questo gioco per bambini e bambine da 9 anni in su con 2 veicoli giocattolo
-- Gioco interattivo: usa i personaggi di LEGO Mario, LEGO Luigi o LEGO Peach (non inclusi) nei veicoli, per attivare gli effetti sonori/visivi di Mario Kart e suonare il clacson, derapare e altro
-- Possibilità di gioco infinite: esplora la gamma completa di set Mario Kart LEGO Super Mario (altri set disponibili separatamente) e scopri altri veicoli con cui gareggiare e personaggi Mario Kart costruibili in mattoncini
-- 4 personaggi LEGO Super Mario: set ispirato ai videogiochi con le figure di Bowser, Yoshi, un Twomp e un Fiammetto; inoltre, include un elemento Banana ed elementi fiamma rimovibili
 - Set con pista e veicoli LEGO Mario Kart: lancia i gusci dal Quad standard e dal kart Mach 8, corri intorno al castello giocattolo LEGO con pareti regolabili, schiva la barra di fuoco rotante e molto altro
+- Possibilità di gioco infinite: esplora la gamma completa di set Mario Kart LEGO Super Mario (altri set disponibili separatamente) e scopri altri veicoli con cui gareggiare e personaggi Mario Kart costruibili in mattoncini
 - Regalo per gamer: un giocattolo LEGO Super Mario ottimo come regalo per bambini e fan di LEGO Mario Bowser; per il gioco interattivo è necessario uno dei set 71439, 71440, 71441 o 72043 (disponibili separatamente)
+- Giocattolo LEGO Super Mario Kart - Castello di Bowser: organizza corse tra Bowser contro Yoshi, sfonda i muri e schiva il Twomp, con questo gioco per bambini e bambine da 9 anni in su con 2 veicoli giocattolo
+- 4 personaggi LEGO Super Mario: set ispirato ai videogiochi con le figure di Bowser, Yoshi, un Twomp e un Fiammetto; inoltre, include un elemento Banana ed elementi fiamma rimovibili
+- Gioco interattivo: usa i personaggi di LEGO Mario, LEGO Luigi o LEGO Peach (non inclusi) nei veicoli, per attivare gli effetti sonori/visivi di Mario Kart e suonare il clacson, derapare e altro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DWDR2PPV{{</world>}}

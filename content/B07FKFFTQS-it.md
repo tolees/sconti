@@ -28,8 +28,8 @@ average: '18.2639999999999'
 
 ℹ️:
 
-- Tessuto traspirante
 - T-shirt per uomo che vanta la tecnologia Dri Fit
+- Tessuto traspirante
 - Stile scollo: Collo a U
 - Composizione materiale: 100% cotone
 

@@ -31,8 +31,8 @@ average: '24.8'
 - Supporta la funzione cardiaca e il cambio di grassi: la taurina supporta la funzione cardiaca del tuo amico a quattro zampe, la L-carnitina e il metabolismo dei grassi. I gusci di semi di psillio regolano anche la digestione.
 - Per una forte costruzione di ossa e articolazioni sane: la formula equilibrata con la giusta quantità di minerali e vitamine supporta le articolazioni e la costruzione delle ossa del vostro cane
 - Qualità tedesca e senza test sugli animali: prodotto da unazienda tedesca di medie dimensioni a conduzione familiare con il proprio laboratorio alimentare
-- Ingredienti controllati e di alta qualità – senza laggiunta di grano, soia e zucchero, nonché coloranti e aromi artificiali
 - Ideale per il controllo del peso in caso di cani che tendono ad essere troppo pesanti: un basso contenuto di grassi e proteine e fibre dietetiche garantiscono poche calorie e rendono il vostro cane adulto di tutte le taglie e razze ancora pieno
+- Ingredienti controllati e di alta qualità – senza laggiunta di grano, soia e zucchero, nonché coloranti e aromi artificiali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F9X8F9L5{{</world>}}

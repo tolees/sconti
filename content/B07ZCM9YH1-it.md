@@ -28,11 +28,11 @@ average: '61.19'
 
 ℹ️:
 
-- [Seduta comoda] La gommapiuma di qualità spessa 6 cm, non troppo morbida, non troppo solida; la morbida imbottitura del sedile largo 53 cm allevia la pressione quando si è seduto a lungo; il tessuto premium è comodo e traspirante
-- [Cosa ricevi] Una sedia da ufficio SONGMICS perfetta per i sedentari, un facile montaggio con le istruzioni chiare e le parti numerati, e braccioli a ribalta che si possono scivolare per scivolare la sedia sotto il tavolo per risparmiare spazio
 - [Sicuro e stabile] La sedia può reggere fino a 120 kg. Il pistone a gas e la base sono resistenti
 - [Sedia da ufficio ergonomica] Lo schienale a forma di S abbraccia comodamente la schiena, con il supporto lombare imbottito regolabile, la schiena è ben supportata, e riduce laffaticamento
+- [Seduta comoda] La gommapiuma di qualità spessa 6 cm, non troppo morbida, non troppo solida; la morbida imbottitura del sedile largo 53 cm allevia la pressione quando si è seduto a lungo; il tessuto premium è comodo e traspirante
 - [Regolazione e oscillazione] Le altezze del sedile e del supporto lombare sono regolabili; i braccioli sono pieghevoli, puoi scorrere la sedia sotto la scrivania quando non in uso; puoi anche attivare la funzione oscillante (90°-105°) per rilassarti
+- [Cosa ricevi] Una sedia da ufficio SONGMICS perfetta per i sedentari, un facile montaggio con le istruzioni chiare e le parti numerati, e braccioli a ribalta che si possono scivolare per scivolare la sedia sotto il tavolo per risparmiare spazio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07ZCM9YH1{{</world>}}

@@ -29,8 +29,8 @@ average: '8.26'
 ℹ️:
 
 - La sua formula con Filtri Fotostabili UVA/UVB di ultima generazione aiuta a proteggere la tua pelle e riduce il rischio di scottature e danni solari
-- p.s.: la crema solare Ohi Vita-mina è resistente allacqua
 - Una Vita-mina al giorno e ti godi il sole a tutto tondo!
+- p.s.: la crema solare Ohi Vita-mina è resistente allacqua
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DTZ65HQC{{</world>}}

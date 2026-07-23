@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- BURTS BEES LIP CARE: lottimo balsamo per labbra secche dal 1991
-- BALSAMO PER LABBRA MULTICONFEZIONE: idrata le labbra secche e ripara con questo set di balsamo per labbra Burts Bees che include quattro gusti naturalmente nutrienti: cera dapi, fragola, cocco e pera e vaniglia
 - IDRATAZIONE PER TUTTO IL GIORNO: idrata e nutre le labbra secche idratandole tutto il giorno ed evita che le labbra si secchino con i balsami per labbra Burts Bees
-- INGREDIENTI NUTRIENTI E DURI: arricchito con ingredienti potenti di origine naturale al 100%, tra cui cera dapi di provenienza responsabile, olio di cocco e burro di karité per nutrire e ammorbidire le labbra in profondità
 - RIPARAZIONE LABBRA: con una finitura opaca e una consistenza idratante, questi balsami per labbra lasciano le labbra morbide, lisce, sane ed elastiche
+- BALSAMO PER LABBRA MULTICONFEZIONE: idrata le labbra secche e ripara con questo set di balsamo per labbra Burts Bees che include quattro gusti naturalmente nutrienti: cera dapi, fragola, cocco e pera e vaniglia
+- BURTS BEES LIP CARE: lottimo balsamo per labbra secche dal 1991
+- INGREDIENTI NUTRIENTI E DURI: arricchito con ingredienti potenti di origine naturale al 100%, tra cui cera dapi di provenienza responsabile, olio di cocco e burro di karité per nutrire e ammorbidire le labbra in profondità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B06XWDGDRN{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- TAVERNELLO VINO BIANCO DITALIA: Tavernello Vino Bianco d’Italia è un vino secco, fragrante e armonico, con delicati profumi fruttati, gradazione alcolica 10.5% vol
-- NOTE DEGUSTATIVE: vino secco, fragrante e armonico, dai delicati profumi fruttati; un blend fresco, dalla piacevole sapidità
 - ABBINAMENTO: ideale con antipasti, primi piatti, carni bianche e pietanze a base di pesce; da servire fresco, tra 10-12 °C
-- TAVERNELLO: dal 1983, il vino più scelto dagli italiani; tavernello è il buon vino della tradizione, prodotto da Caviro, la più grande filiera vitivinicola nazionale
 - FORMATO: confezione tris, 3 brick da 250 ml ciascuno; il brick permette un ottima conservazione del vino e una riduzione di emissioni di CO2 dell81%, grazie ad un trasporto più efficiente
+- TAVERNELLO VINO BIANCO DITALIA: Tavernello Vino Bianco d’Italia è un vino secco, fragrante e armonico, con delicati profumi fruttati, gradazione alcolica 10.5% vol
+- TAVERNELLO: dal 1983, il vino più scelto dagli italiani; tavernello è il buon vino della tradizione, prodotto da Caviro, la più grande filiera vitivinicola nazionale
+- NOTE DEGUSTATIVE: vino secco, fragrante e armonico, dai delicati profumi fruttati; un blend fresco, dalla piacevole sapidità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00Q8TTTUY{{</world>}}

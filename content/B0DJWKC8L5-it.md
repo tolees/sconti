@@ -28,9 +28,9 @@ average: '23.49'
 
 ℹ️:
 
-- LA COLLEZIONE DEDICATO A TE - La collezione di bijoux THUN racconta emozioni profonde attraverso le icone classiche e più conosciute del brand come la primula, la coccinella, il fiocco e la campanula. I colori, vibranti e fortemente femminili, si esprimono attraverso le tecniche di verniciatura opaca, regalando al gioiello un’eleganza raffinata. Legati alla stagione autunnale e alla collezione AbbracciAMI, questi colori dai toni caldi richiamano emozioni intense.
 - MATERIALI PREZIOSI E RIFINITURE ELEGANTI: Realizzati in ottone e ceramica, con dettagli in bronzo galvanizzato, questi gioielli sono rifiniti con verniciatura opaca, donando loro un’eleganza sofisticata e una durata nel tempo.
 - CURA DEL PRODOTTO: Per mantenere la bellezza dei bijoux della collezione Dedicato a Te, puliscili delicatamente con un panno umido e detergenti delicati, evitando il contatto diretto con superfici abrasive o umide.
+- LA COLLEZIONE DEDICATO A TE - La collezione di bijoux THUN racconta emozioni profonde attraverso le icone classiche e più conosciute del brand come la primula, la coccinella, il fiocco e la campanula. I colori, vibranti e fortemente femminili, si esprimono attraverso le tecniche di verniciatura opaca, regalando al gioiello un’eleganza raffinata. Legati alla stagione autunnale e alla collezione AbbracciAMI, questi colori dai toni caldi richiamano emozioni intense.
 - DESIGN ISPIRATO ALLE ICONE CLASSICHE: La collezione Dedicato a Te celebra simboli iconici come la primula, la coccinella, il fiocco e la campanula, con colori caldi che richiamano l’autunno e trasmettono un’eleganza raffinata e senza tempo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

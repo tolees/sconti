@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Controllabile tramite lapp Ledvance Smart + (con Android 8.0 / iOS 14.0 e versioni successive)
-- Dimmerabile
-- Protocollo di rete: WiFi
 - Facile da installare e utilizzare
+- Dimmerabile
 - Controllabile tramite Google Assistant e Amazon Alexa
+- Protocollo di rete: WiFi
+- Controllabile tramite lapp Ledvance Smart + (con Android 8.0 / iOS 14.0 e versioni successive)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09F3C6SGF{{</world>}}

@@ -29,11 +29,11 @@ average: '28.8778571428571'
 ℹ️:
 
 - Gioco con app scaricabile gratuitamente per iOS e Android per rendere l’esperienza ancora più immersiva
-- Numero di giocatori: 1-6, Età consigliata: 10+, Durata media: 60 min., Edizione in lingua italiana
-- Un gioco di carte collaborativo ispirato alle Escape Room: Unlock. vi consente di vivere questa esperienza comodamente a casa vostra
 - 3 diverse ambientazioni, 3 casi diversi: tante sfide, emozioni e colpi di scena
-- I giocatori devono esplorare le diverse ambientazioni per svelare indizi, risolvere rebus ed enigmi e raggiungere così la vittoria
 - In The Escape Game Star Wars tre avventure intergalattiche tra ribelli, contrabbandieri o agenti imperiali: Ritardo inaspettato, Fuga da Hoth, Missione segreta su Jedha
+- Numero di giocatori: 1-6, Età consigliata: 10+, Durata media: 60 min., Edizione in lingua italiana
+- I giocatori devono esplorare le diverse ambientazioni per svelare indizi, risolvere rebus ed enigmi e raggiungere così la vittoria
+- Un gioco di carte collaborativo ispirato alle Escape Room: Unlock. vi consente di vivere questa esperienza comodamente a casa vostra
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08P7XCS55{{</world>}}

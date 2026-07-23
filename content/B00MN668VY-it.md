@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- CI PRENDIAMO CURA DELLE PERSONE E DEL PIANETA: ora siamo orgogliosamente unazienda a zero emissioni di carbonio e a zero emissioni di plastica. Misuriamo la nostra impronta di carbonio e plastica complessiva e la compensiamo attraverso i nostri investimenti in iniziative di sostenibilità ambientale in India.
-- PROVENIENTE DA PIANTAGIONI – Tè in foglie sfuse proveniente da piantagioni in India. Le foglie di tè vengono confezionate sottovuoto entro 24-72 ore dalla raccolta.
-- Etico, diretto e del commercio equo e solidale: la nostra filiera garantisce che tu riceva il tè più fresco e che i coltivatori ricevano prezzi equi. Reinvestiamo l1% del nostro fatturato nellistruzione dei figli dei nostri coltivatori di tè attraverso la nostra iniziativa Teach Me, onorando le loro aspirazioni e sostenendo il loro futuro.
-- SET REGALO DI 10 TÈ VERDI IN FOGLIE SFUSE – Questo set include 10 varietà di tè verde in foglie sfuse, miscelate internamente. Lassortimento comprende Lemon Ginger, Himalayan Pearl, Mint Melody, Earl Grey e Himalayan Green Tea. Include anche Chamomile Mint Citrus, Vanilla Matcha, Kashmiri Kahwa e Ginger Mint, offrendo una vasta gamma di profili aromatici.
 - Un marchio con un miliardo di sogni: sentiti vivo con i tè premium di VAHDAM India. Marchio leader a livello mondiale, spediamo a oltre 3 milioni di clienti in oltre 130 paesi. Orgogliosamente a zero emissioni di carbonio e a zero plastica, investiamo nella sostenibilità ambientale con il nostro marchio di produzione locale sostenibile.
+- SET REGALO DI 10 TÈ VERDI IN FOGLIE SFUSE – Questo set include 10 varietà di tè verde in foglie sfuse, miscelate internamente. Lassortimento comprende Lemon Ginger, Himalayan Pearl, Mint Melody, Earl Grey e Himalayan Green Tea. Include anche Chamomile Mint Citrus, Vanilla Matcha, Kashmiri Kahwa e Ginger Mint, offrendo una vasta gamma di profili aromatici.
+- PROVENIENTE DA PIANTAGIONI – Tè in foglie sfuse proveniente da piantagioni in India. Le foglie di tè vengono confezionate sottovuoto entro 24-72 ore dalla raccolta.
+- CI PRENDIAMO CURA DELLE PERSONE E DEL PIANETA: ora siamo orgogliosamente unazienda a zero emissioni di carbonio e a zero emissioni di plastica. Misuriamo la nostra impronta di carbonio e plastica complessiva e la compensiamo attraverso i nostri investimenti in iniziative di sostenibilità ambientale in India.
+- Etico, diretto e del commercio equo e solidale: la nostra filiera garantisce che tu riceva il tè più fresco e che i coltivatori ricevano prezzi equi. Reinvestiamo l1% del nostro fatturato nellistruzione dei figli dei nostri coltivatori di tè attraverso la nostra iniziativa Teach Me, onorando le loro aspirazioni e sostenendo il loro futuro.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00MN668VY{{</world>}}

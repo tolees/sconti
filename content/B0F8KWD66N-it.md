@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Vestibilità : Regular Fit
-- Stile di vita : Tradizionale
-- Collo : Polo
-- Tipologia di prodotto : Polo
 - Dettagli : Badge
+- Stile di vita : Tradizionale
+- Tipologia di prodotto : Polo
 - Manica : Maniche corte
+- Collo : Polo
+- Vestibilità : Regular Fit
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F8KWD66N{{</world>}}

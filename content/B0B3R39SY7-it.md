@@ -28,9 +28,9 @@ average: '13.3233333333333'
 
 ℹ️:
 
-- CONTROLLO TRAMITE CAM: personalizzazione delle combinazioni di illuminazione tramite NZXT CAM. È possibile sincronizzarlo con tutti gli accessori di illuminazione compatibili.
 - RAFFREDDAMENTO SILENZIOSO: il design delle pale della ventola offre un equilibrio eccezionale tra pressione statica e flusso daria, consentendo un funzionamento silenzioso.
 - ARMONIA DI ILLUMINAZIONE: illuminate la vostra configurazione di gioco con 18 LED RGB personalizzabili individualmente per effetti di illuminazione armonizzati.
+- CONTROLLO TRAMITE CAM: personalizzazione delle combinazioni di illuminazione tramite NZXT CAM. È possibile sincronizzarlo con tutti gli accessori di illuminazione compatibili.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B3R39SY7{{</world>}}

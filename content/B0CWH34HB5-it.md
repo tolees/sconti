@@ -28,11 +28,11 @@ average: '38.49'
 
 ℹ️:
 
-- Porta il gioco al livello successivo: eseguendo la scansione del codice QR nascosto nel set, i fan delle terre di Oz potranno accedere alla canzone “Defying Gravity” e ai contenuti LEGO Wicked
-- Magia del film: le bambine costruiscono i personaggi Wicked di Elphaba e Glinda aggiungendo gli accessori come la scopa giocattolo, la corona e la borsa, e li mettono in posa alla finestra per ricreare le scende del musical
-- Gioco di fantasia per bambine e bambini da 10 anni: porta la magia del film Wicked nelle camerette dei piccoli fan del Mago di Oz, con il set LEGO Wicked Personaggi di Elphaba e Glinda con 2 figure snodabili
-- Idea regalo di compleanno a tema Mago di Oz: questo set è un divertente regalo per le bambine e i bambini 10+ che amano inventare storie di amicizia, e per i fan del film e del musical Wicked
 - Tante passioni da scoprire: altri set LEGO Wicked (disponibili separatamente) attendono i giovani fan, con cui trasportarli in divertenti avventure di costruzione grazie allApp LEGO Builder
+- Magia del film: le bambine costruiscono i personaggi Wicked di Elphaba e Glinda aggiungendo gli accessori come la scopa giocattolo, la corona e la borsa, e li mettono in posa alla finestra per ricreare le scende del musical
+- Idea regalo di compleanno a tema Mago di Oz: questo set è un divertente regalo per le bambine e i bambini 10+ che amano inventare storie di amicizia, e per i fan del film e del musical Wicked
+- Gioco di fantasia per bambine e bambini da 10 anni: porta la magia del film Wicked nelle camerette dei piccoli fan del Mago di Oz, con il set LEGO Wicked Personaggi di Elphaba e Glinda con 2 figure snodabili
+- Porta il gioco al livello successivo: eseguendo la scansione del codice QR nascosto nel set, i fan delle terre di Oz potranno accedere alla canzone “Defying Gravity” e ai contenuti LEGO Wicked
 - Giocattolo da strega ispirato al film Wicked: i piccoli assemblano i 2 personaggi e poi ricreano l’iconico momento del film o inventano nuove avventure con le costruzioni LEGO Wicked
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

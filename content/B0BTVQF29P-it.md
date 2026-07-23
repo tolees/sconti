@@ -28,11 +28,11 @@ average: '21.13'
 
 ℹ️:
 
-- - -
+- Eccellente durata: realizzato in gomma flessibile, materiale resistente, a risparmio energetico. Il materiale in gomma EPDM è specificamente progettato per resistere a esposizioni a temperature estreme, condizioni meteorologiche avverse e per sopportare traffico quotidiano. Questa guarnizione non si crepa, non si secca, non si rompe né si sposta se installata correttamente. Riduce gli effetti dannosi della condensa (ruggine) e impedisce allacqua piovana soffiata dal vento di entrare nel garage.
 - Facile da installare: queste guarnizioni per soglia della porta del garage si installano rapidamente e semplicemente. Ogni guarnizione è leggermente più lunga per garantire la giusta lunghezza.
 - Regolazione flessibile: fino a 3 m di lunghezza, è possibile tagliare questa striscia per adattare la soglia del pavimento a meno di 3 metri. Larghezza 8,9 cm, lunghezza 3,05 m.
 - Guarnizione isolante antipolvere: la striscia a tenuta universale per porte del garage può impedire che acqua, pioggia, neve e foglie entrino nel garage. Il profilo alto 1,27 cm forma una tenuta ermetica con la porta per un garage più pulito, asciutto e silenzioso. Risparmio energetico per case e aziende con garage annessi. Non include sigillante/adesivo.
-- Eccellente durata: realizzato in gomma flessibile, materiale resistente, a risparmio energetico. Il materiale in gomma EPDM è specificamente progettato per resistere a esposizioni a temperature estreme, condizioni meteorologiche avverse e per sopportare traffico quotidiano. Questa guarnizione non si crepa, non si secca, non si rompe né si sposta se installata correttamente. Riduce gli effetti dannosi della condensa (ruggine) e impedisce allacqua piovana soffiata dal vento di entrare nel garage.
+- - -
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BTVQF29P{{</world>}}

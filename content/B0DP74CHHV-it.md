@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Quando il gioco si fa duro... stai giocando a MyTEAM. Affronta le formazioni rivali con il tuo roster MyTEAM migliore, sfida gli altri giocatori nella modalità settimanale Re del campo e dimostra di essere il campione indiscusso in questo evento esclusivo.
-- Entra nel vivo dellazione con ProPLAY, la tecnologia di motion capture che trasforma in virtuali le vere partite dellNBA.
-- La Città: lultima frontiera per le aspiranti leggende. Visita il Parco, gioca su nuovi campi e mostra le tue abilità nel basket da strada competitivo.
 - Crea una dinastia degna di essere chiamata "la nuova era del basket" e diventa il General Manager più grande di sempre in La mia NBA.
+- Entra nel vivo dellazione con ProPLAY, la tecnologia di motion capture che trasforma in virtuali le vere partite dellNBA.
+- Quando il gioco si fa duro... stai giocando a MyTEAM. Affronta le formazioni rivali con il tuo roster MyTEAM migliore, sfida gli altri giocatori nella modalità settimanale Re del campo e dimostra di essere il campione indiscusso in questo evento esclusivo.
+- La Città: lultima frontiera per le aspiranti leggende. Visita il Parco, gioca su nuovi campi e mostra le tue abilità nel basket da strada competitivo.
 - Punta al titolo di G.O.A.T. in The W e vivi una carriera leggendaria coronata da momenti memorabili.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

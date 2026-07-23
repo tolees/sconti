@@ -28,12 +28,12 @@ average: '93.8'
 
 ℹ️:
 
-- COSA TI OFFRIAMO: Rilevatore digitale Airthings Wave Radon, 2 batterie AA, Guida rapida, Supporto Airthings
 - Per attivare lindicatore a colori della qualità dellaria, basta passare la mano davanti al dispositivo
 - TECNOLOGIA AFFIDABILE PER SENSORI DEL RADON: Campionamento in camera di diffusione passiva con rilevamento tramite spettrometria alfa per letture accurate e affidabili
-- MONITORAGGIO CONTINUO DEL RADON: Ottieni letture accurate di gas radon, adotta le misure necessarie e verifica il corretto funzionamento della tua soluzione di mitigazione
-- FACILE DA USARE E SENZA FILI: Dispositivo dal design alimentato a batteria per offrire un posizionamento senza fili
+- COSA TI OFFRIAMO: Rilevatore digitale Airthings Wave Radon, 2 batterie AA, Guida rapida, Supporto Airthings
 - Utilizza lapp Airthings per gestire le notifiche, verificare le letture attuali e analizzare le tendenze nel corso del tempo
+- FACILE DA USARE E SENZA FILI: Dispositivo dal design alimentato a batteria per offrire un posizionamento senza fili
+- MONITORAGGIO CONTINUO DEL RADON: Ottieni letture accurate di gas radon, adotta le misure necessarie e verifica il corretto funzionamento della tua soluzione di mitigazione
 - Accedi alle letture complete nellapp Risultati a breve e lungo termine sul radon direttamente sul tuo smartphone via Bluetooth
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

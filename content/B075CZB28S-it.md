@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Peso massimo supportato: 136 kg
 - Sistema di gonfiaggio e sgonfiaggio a doppia valvola extra large
 - Il modello è ergonomico e comodo grazie al brevetto Fiber-Tech, che permette una corretta distribuzione del peso su tutta la superficie
-- Superficie morbida e vellutata al tatto che rende il sonno piacevole ovunque
 - Single-High è il materasso gonfiabile Intex singolo adatto ad uso interno ed esterno, facile da gonfiare/sgonfiare
+- Superficie morbida e vellutata al tatto che rende il sonno piacevole ovunque
+- Peso massimo supportato: 136 kg
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B075CZB28S{{</world>}}

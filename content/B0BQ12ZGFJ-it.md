@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Il giradischi è una struttura cava con un diametro massimo di 150 mm, che è conveniente per linstallazione di tubi dellaria e fili nellapparecchio.
-- Come lo shunt e il motore DD, il carico può essere fissato direttamente sulla piattaforma rotante cava per la trasmissione e può essere adattato a varie marche di servomotori e motori passo-passo.
-- Vedi un disegno di questo cambio qui.
 - Se avete domande su questo cambio, per favore consultami
+- Il giradischi è una struttura cava con un diametro massimo di 150 mm, che è conveniente per linstallazione di tubi dellaria e fili nellapparecchio.
 - Piccole dimensioni, grande coppia di cuscinetti, bassa rumorosità, elevata precisione di posizionamento e può essere posizionato a qualsiasi angolazione.
+- Vedi un disegno di questo cambio qui.
+- Come lo shunt e il motore DD, il carico può essere fissato direttamente sulla piattaforma rotante cava per la trasmissione e può essere adattato a varie marche di servomotori e motori passo-passo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BQ12ZGFJ{{</world>}}

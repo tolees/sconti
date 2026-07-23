@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Sistema di montaggio della ventola CORSAIR InfiniRail – Questo sistema di montaggio multipunto in acciaio offre una flessibilità senza pari nelle configurazioni della ventola del tetto. Basta far scorrere la guida per montare ventole da 120 mm o 140 mm dove si preferisce, garantendo un flusso daria mirato senza i vincoli del montaggio fisso.
-- Ventole RGB a rotore inverso – Le ventole laterali da 120 mm incluse utilizzano un design a rotore inverso per immettere aria fredda nel case, fornendo al contempo una visione senza ostruzioni dei loro brillanti LED RGB
-- Sistema modulare FRAME - Il rivoluzionario sistema FRAME dà un nuovo significato alla parola personalizzazione. È possibile aggiornare il vassoio della scheda madre, sostituire le ventole laterali con una copertura per i cavi o sostituisci la copertura dell’alimentatore con un design sagomato che include punti di montaggio verticali per la GPU. Un case che può adattarsi e crescere in base alle tue esigenze (o anche al tuo umore).
 - Design industriale a cascata – Le linee pulite scendono a cascata sullesterno dello chassis, offrendo generose aperture per il flusso daria e un look davvero unico.
+- Ventole RGB a rotore inverso – Le ventole laterali da 120 mm incluse utilizzano un design a rotore inverso per immettere aria fredda nel case, fornendo al contempo una visione senza ostruzioni dei loro brillanti LED RGB
+- Sistema di montaggio della ventola CORSAIR InfiniRail – Questo sistema di montaggio multipunto in acciaio offre una flessibilità senza pari nelle configurazioni della ventola del tetto. Basta far scorrere la guida per montare ventole da 120 mm o 140 mm dove si preferisce, garantendo un flusso daria mirato senza i vincoli del montaggio fisso.
+- Sistema modulare FRAME - Il rivoluzionario sistema FRAME dà un nuovo significato alla parola personalizzazione. È possibile aggiornare il vassoio della scheda madre, sostituire le ventole laterali con una copertura per i cavi o sostituisci la copertura dell’alimentatore con un design sagomato che include punti di montaggio verticali per la GPU. Un case che può adattarsi e crescere in base alle tue esigenze (o anche al tuo umore).
 - Pannello di vetro curvo panoramico monopezzo - Il pannello anteriore e laterale sono realizzati con un unico pezzo di vetro, garantendo una visione libera e avvolgente del vostro hardware
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

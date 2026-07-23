@@ -28,11 +28,11 @@ average: '115.39'
 
 ℹ️:
 
+- Include numerose opzioni, come facce "ubriachi felici" e "ubriachi tristi"
 - Altezza: circa 24,4 cm
 - Solo il prodotto con etichetta ufficiale Bandai Namco apposta è stato accuratamente testato per la sicurezza e soddisfa tutte le normative nordamericane sulla sicurezza dei prodotti di consumo e dà diritto allacquirente di assistenza al supporto del prodotto
 - [Contenuto del set] Corpo principale, cinque parti di espressione opzionali, tre paia di mani opzionali, club Hassaikai, faccia opzionale per S.H.Figuarts Monkey.D.Luffy - Il raid su Onigashima- figura (venduto separatamente), Zucca, Stand set
 - Dalla serie anime "One Piece", arriva Kaido King of the Beasts (Man-Beast forma) in un enorme formato da 9,6 pollici!
-- Include numerose opzioni, come facce "ubriachi felici" e "ubriachi tristi"
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CGZL5SQR{{</world>}}

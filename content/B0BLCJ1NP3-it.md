@@ -28,9 +28,9 @@ average: '29.49'
 
 ℹ️:
 
+- Tomaia in pelle
 - Chiusura con lacci
 - Suola con plateau leggermente rialzata e testurizzata
-- Tomaia in pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BLCJ1NP3{{</world>}}

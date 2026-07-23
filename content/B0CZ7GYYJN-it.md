@@ -28,10 +28,10 @@ average: '11.46'
 
 ℹ️:
 
+- Zip intera con collarino rialzato.
+- AEROREADY
 - Tasche con zip
 - 100% poliestere (riciclato)
-- AEROREADY
-- Zip intera con collarino rialzato.
 - Vestibilità regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

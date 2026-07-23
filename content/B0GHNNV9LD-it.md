@@ -28,12 +28,12 @@ average: '309.9'
 
 ℹ️:
 
-- 【Dimensity 8500-Ultra di livello flagship】LPDDR5X + UFS 4.1, memoria e archiviazione di fascia alta. Supporta Smart Frame Rate, super risoluzione 1.5K e Game HDR. Sistema di raffreddamento POCO 3D IceLoop a doppio strato da 5300 mm² con grafite e controllo intelligente della temperatura.
 - 【Display AMOLED ultra-luminoso da 6,59" 1.5K 120Hz】Pannello M10 con luminosità di picco fino a 3500 nits al 25% APL, cornici ultra-sottili di livello flagship (1,5 mm × 3 lati) e protezione frontale in Corning Gorilla Glass 7i.
-- 【Qualità flagship con design premium】Display ultra-luminoso da 6,59" 1.5K, ideale per l’uso quotidiano, con ampi angoli arrotondati per una presa più confortevole. Luminosità di picco 3500 nits e dimming PWM a 3840Hz. Cornici sottili (1,5/1,5/1,5/1,7 mm), telaio in metallo e cover posteriore in vetro, con rigidità complessiva del dispositivo migliorata del 30%.
 - 【Batteria da 6500mAh (typ) con 100W HyperCharge】Batteria aggiornata con tecnologia silicio-carbonio (10%), ricarica rapida 100W HyperCharge, chip Xiaomi Surge P3, supporto al protocollo di ricarica 100W PPS e ricarica inversa cablata da 27W.
 - 【Fotocamera Sony IMX882 da 50MP con OIS】Ultra Snap con bokeh per ritratti e fusione HDR | gamma dinamica migliorata e fino a 120 scatti consecutivi | algoritmo di bellezza potenziato per ritratti cinematografici | resa naturale con elevata conservazione dei dettagli.
 - 【Esclusiva Amazon – Garanzia 3 anni】2 anni + 1 anno di garanzia aggiuntiva da riscattare tramite il servizio clienti Xiaomi.
+- 【Qualità flagship con design premium】Display ultra-luminoso da 6,59" 1.5K, ideale per l’uso quotidiano, con ampi angoli arrotondati per una presa più confortevole. Luminosità di picco 3500 nits e dimming PWM a 3840Hz. Cornici sottili (1,5/1,5/1,5/1,7 mm), telaio in metallo e cover posteriore in vetro, con rigidità complessiva del dispositivo migliorata del 30%.
+- 【Dimensity 8500-Ultra di livello flagship】LPDDR5X + UFS 4.1, memoria e archiviazione di fascia alta. Supporta Smart Frame Rate, super risoluzione 1.5K e Game HDR. Sistema di raffreddamento POCO 3D IceLoop a doppio strato da 5300 mm² con grafite e controllo intelligente della temperatura.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GHNNV9LD{{</world>}}

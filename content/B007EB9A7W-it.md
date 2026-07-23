@@ -28,9 +28,9 @@ average: '1.4'
 
 ℹ️:
 
-- Pacchetto di congelamento realizzato in plastica
 - Lavabile in lavastoviglie
 - Prodotto riutilizzabile
+- Pacchetto di congelamento realizzato in plastica
 - Mantiene freschi gli alimenti e le bevande
 - Facile da utilizzare
 

@@ -28,10 +28,10 @@ average: '2.82'
 
 ℹ️:
 
-- CARATTERISTICHE: Con zero zuccheri aggiunti, questa bevanda al limone è ideale per chi desidera ridurre le calorie senza rinunciare al gusto. Il formato da 750 mL è pratico per condivisioni a tavola o per una pausa dissetante durante la giornata.
-- CONTENUTO: San Benedetto Limone Zero, in bottiglia da 6x750 ml, è una bevanda gassata dal gusto rinfrescante di limone, senza zuccheri aggiunti. Perfetta per chi cerca una bibita leggera e dissetante con un gusto agrumato fresco.
-- BENEFICI: I prodotti San Benedetto offrono freschezza e benessere a basso contenuto calorico . Combinano gusto dissetante e purezza, senza conservanti né coloranti, garantendo unesperienza sana e adatta a tutta la famiglia
 - SOSTENIBILITÀ: Acqua Minerale Ecogreen è la linea simbolo di una strategia chiara che punta a misurare, ridurre e compensare il 100% delle emissioni residue CO2e.
+- BENEFICI: I prodotti San Benedetto offrono freschezza e benessere a basso contenuto calorico . Combinano gusto dissetante e purezza, senza conservanti né coloranti, garantendo unesperienza sana e adatta a tutta la famiglia
+- CONTENUTO: San Benedetto Limone Zero, in bottiglia da 6x750 ml, è una bevanda gassata dal gusto rinfrescante di limone, senza zuccheri aggiunti. Perfetta per chi cerca una bibita leggera e dissetante con un gusto agrumato fresco.
+- CARATTERISTICHE: Con zero zuccheri aggiunti, questa bevanda al limone è ideale per chi desidera ridurre le calorie senza rinunciare al gusto. Il formato da 750 mL è pratico per condivisioni a tavola o per una pausa dissetante durante la giornata.
 - SAN BENEDETTO: qualità, sicurezza e capacità innovativa, uniti a un forte rispetto del territorio e orientati verso la sostenibilità ambientale, sono valori che San Benedetto garantisce ai suoi consumatori per offrire uno standard di qualità elevato.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

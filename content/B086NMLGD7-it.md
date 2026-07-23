@@ -28,10 +28,10 @@ average: '15.48'
 
 ℹ️:
 
-- Dimensioni (LxAxP): 21,2 cm x 11,9 cm x 6,1 cm
-- STILE MODERNO: La lampada LED ovale da 14W, con una temperatura di colore di 4000K e 1000 lumen, è progettata per adattarsi a qualsiasi ambiente con un design elegante e contemporaneo. Si monta facilmente sia su pareti che su soffitti, garantendo una distribuzione luminosa uniforme e priva di zone dombra
 - IMPERMEABILE IP54: La lampada ha un grado di protezione IP54 e dunque risulta protetta da infiltrazioni di polvere e spruzzi d’acqua. Questa caratteristica la rende ideale per installazione in ambienti esterni. Ideale per bagni, balconi, garage e giardini.
+- Dimensioni (LxAxP): 21,2 cm x 11,9 cm x 6,1 cm
 - ILLUMINAZIONE EFFICIENTE: La luce naturale con temperatura di colore di 4000K è perfetta, né troppo calda né fredda. Inoltre la tecnologia LED permette di risparmiare energia. Con una potenza di soli 20W ha la resa di una lampadina tradizionale da 90W.
+- STILE MODERNO: La lampada LED ovale da 14W, con una temperatura di colore di 4000K e 1000 lumen, è progettata per adattarsi a qualsiasi ambiente con un design elegante e contemporaneo. Si monta facilmente sia su pareti che su soffitti, garantendo una distribuzione luminosa uniforme e priva di zone dombra
 - LUNGA DURATA: La tecnologia LED di cui è dotata non solo consente un risparmio energetico significativo, ma assicura anche una durata operativa molto estesa, fino a 30.000 ore di utilizzo. Questo significa che la lampada può durare per molti anni senza richiedere manutenzione.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

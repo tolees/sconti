@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- SOSTENIBILITÀ - Il nostro è un percorso di responsabilità e consapevolezza perché siamo certi che il successo passi attraverso il rispetto della natura mediante pratiche agricole responsabili
-- QUALITÀ - 50% di albicocche ogni 100 grammi di prodotto e frutta raccolta a mano: nasce così la confettura extra alle albicocche della linea I Frutteti di Oswald di Zuegg. Senza glutine, vegano
-- ZUEGG, UNA STORIA ITALIANA DAL 1890 - Zuegg è una storia di famiglia fatta di persone e frutteti, di ricette e sapienza italiane ma anche una storia di rispetto dei valori, della terra, delle persone
-- LIMPEGNO DI ZUEGG - Siamo convinti che l’unico modo per realizzare prodotti sostenibili sia attraverso la salvaguardia della biodiversità, delle risorse naturali e la riduzione degli sprechi
 - CONTENUTO - 3 vasetti di vetro da 320 grammi ciascuno della nostra confettura extra alle albicocche, che raccogliamo nel giusto grado di maturazione e lavoriamo con cura
+- LIMPEGNO DI ZUEGG - Siamo convinti che l’unico modo per realizzare prodotti sostenibili sia attraverso la salvaguardia della biodiversità, delle risorse naturali e la riduzione degli sprechi
+- QUALITÀ - 50% di albicocche ogni 100 grammi di prodotto e frutta raccolta a mano: nasce così la confettura extra alle albicocche della linea I Frutteti di Oswald di Zuegg. Senza glutine, vegano
+- SOSTENIBILITÀ - Il nostro è un percorso di responsabilità e consapevolezza perché siamo certi che il successo passi attraverso il rispetto della natura mediante pratiche agricole responsabili
+- ZUEGG, UNA STORIA ITALIANA DAL 1890 - Zuegg è una storia di famiglia fatta di persone e frutteti, di ricette e sapienza italiane ma anche una storia di rispetto dei valori, della terra, delle persone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FBX1LL12{{</world>}}

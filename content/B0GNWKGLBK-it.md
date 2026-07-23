@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- LA CONFEZIONE: La confezione contiene 1 ricarica Air Wick per diffusore di fragranze
-- LA DURATA DELLA FRAGRANZA: Un ricarica fornisce fino a 45 giorni di fragranza continua, con l’erogazione al minimo
-- ISTRUZIONI D’USO: 1. Ruotare per rimuovere la base del dispositivo. 2. Rimuovere la pellicola di plastica dalle batterie. Inserire 3 batterie AA. 3. Rimuovere il tappo della ricarica spingendo verso il basso e ruotando in senso antiorario
 - LA RICARICA: Ricarica predosata per diffusore di fragranze Air Wick, pronta per luso, senza necessità di aggiungere acqua; compatibile solo con le ricariche Air Wick
+- ISTRUZIONI D’USO: 1. Ruotare per rimuovere la base del dispositivo. 2. Rimuovere la pellicola di plastica dalle batterie. Inserire 3 batterie AA. 3. Rimuovere il tappo della ricarica spingendo verso il basso e ruotando in senso antiorario
+- LA DURATA DELLA FRAGRANZA: Un ricarica fornisce fino a 45 giorni di fragranza continua, con l’erogazione al minimo
+- LA CONFEZIONE: La confezione contiene 1 ricarica Air Wick per diffusore di fragranze
 - FRAGRANZA: Sinfonia di Fiori di Sanremo. Distendi i tuoi sensi con una nuvola di fragranza avvolgente, un infuso con oli essenziali naturali; lasciati avvolgere dal profumo della fragranza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

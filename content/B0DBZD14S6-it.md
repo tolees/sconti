@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- 🎮 GIOCHI E SIMULATORI COMPATIBILI: Sfrutta al massimo la periferica con i migliori titoli di volo presenti sul mercato. Questo controller garantisce prestazioni eccezionali ed una totale immersione su Microsoft Flight Simulator, Ace Combat 8, Star Wars: Squadrons ed Elite Dangerous.
+- 🕹️ PERIFERICA DI VOLO COMPLETA E PRECISA: Prova un realismo assoluto grazie alla precisione a 10 bit. Il sistema offre 5 assi hardware (compreso lasse Z per il timone), 14 pulsanti azione, 1 grilletto per il fuoco rapido e 1 pomello multidirezionale (Top-Hat) per la visuale panoramica.
 - 🚀 MANETTA RIMOVIBILE IN SCALA REALE: Configura il tuo cockpit in base al tuo spazio di gioco. La manetta (throttle) ergonomica è completamente rimovibile: puoi tenerla agganciata al joystick per giocare comodamente sulle ginocchia o separarla per posizionarla sulla scrivania.
 - 🔄 DOPPIO SISTEMA DI TIMONAGGIO: Massima flessibilità di manovra laterale. Laereo può essere controllato sia ruotando limpugnatura del joystick (dotato di sistema di bloccaggio integrato), sia in modo progressivo tramite la leva di inclinazione presente sulla manetta rimovibile.
-- 🕹️ PERIFERICA DI VOLO COMPLETA E PRECISA: Prova un realismo assoluto grazie alla precisione a 10 bit. Il sistema offre 5 assi hardware (compreso lasse Z per il timone), 14 pulsanti azione, 1 grilletto per il fuoco rapido e 1 pomello multidirezionale (Top-Hat) per la visuale panoramica.
-- 🎮 GIOCHI E SIMULATORI COMPATIBILI: Sfrutta al massimo la periferica con i migliori titoli di volo presenti sul mercato. Questo controller garantisce prestazioni eccezionali ed una totale immersione su Microsoft Flight Simulator, Ace Combat 8, Star Wars: Squadrons ed Elite Dangerous.
 - ✈️ EDIZIONE UFFICIALE MICROSOFT FLIGHT SIMULATOR: Questa speciale edizione vanta la licenza ufficiale Microsoft Flight Simulator per Xbox Series X|S, Xbox One e PC Windows. Progettata per unesperienza Plug-and-Play immediata nei cieli virtuali, senza bisogno di lunghe configurazioni.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

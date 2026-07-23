@@ -28,11 +28,11 @@ average: '9.7'
 
 ℹ️:
 
-- NUTRIENTI SCELTI E 3X PRO-V IN PIÙ: Formula arricchita con biotina, proteine rinforzanti e la nostra concentrazione di nutrienti Pro-V più alta di sempre, 3 volte maggiore rispetto allo shampoo Pantene Rigenera E Protegge
-- AIUTA A RIDURRE LA CADUTA DI CAPELLI: Capelli sottili, fragili, deboli o danneggiati? Lo shampoo Pantene Forti & Lunghi aiuta a ridurre la caduta di capelli dovuta alla rottura, per farli crescere lunghi e forti (contro i danni dello styling)
-- CAPELLI FINO AL 100% PIÙ FORTI: Grazie a questa formula, i capelli crescono lunghi e forti (contro i danni dello styling)
 - CREATA DAI NOSTRI ESPERTI: La nostra formula unica e innovativa è il risultato di 75 anni di ricerca in nutrienti Pro-V ed è certificata dallIstituto Svizzero della Vitamina, riconosciuto in tutto il mondo per lo studio sullefficacia delle vitamine
+- AIUTA A RIDURRE LA CADUTA DI CAPELLI: Capelli sottili, fragili, deboli o danneggiati? Lo shampoo Pantene Forti & Lunghi aiuta a ridurre la caduta di capelli dovuta alla rottura, per farli crescere lunghi e forti (contro i danni dello styling)
 - PIÙ FORTI* PASSO DOPO PASSO: Per risultati ottimali usa tutta la linea di prodotti per capelli Pantene Forti & Lunghi: shampoo, balsamo, balsamo senza risciacquo in, maschera e trattamento per capelli *contro i danni dello styling
+- NUTRIENTI SCELTI E 3X PRO-V IN PIÙ: Formula arricchita con biotina, proteine rinforzanti e la nostra concentrazione di nutrienti Pro-V più alta di sempre, 3 volte maggiore rispetto allo shampoo Pantene Rigenera E Protegge
+- CAPELLI FINO AL 100% PIÙ FORTI: Grazie a questa formula, i capelli crescono lunghi e forti (contro i danni dello styling)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CP7VDP1Q{{</world>}}

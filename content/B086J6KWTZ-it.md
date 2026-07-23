@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Il joystick dispone di 4 moduli pulsanti intercambiabili per la testa del joystick, 12 pulsanti rimappabili, manetta integrata, oltre a un controllo del timone attivabile ruotando l’impugnatura (con/senza blocco).
+- Compatibile con i sistemi di timonaggio Thrustmaster T.Flight Rudder Pedals (TFRP) e Thrustmaster Pendular Rudder (TPR), oltre al TM Flying Clamp (tutti venduti separatamente).
 - Tecnologia con sensore magnetico privo di contatto, senza potenziometri, per una durata illimitata e una precisione ottimale.
 - Il quadrante manetta dispone di 2 assi di navigazione, con 16 pulsanti e controlli (fermi, selettori e persino un meccanismo inversore di spinta), per svariate possibilità durante il decollo e il volo, fino all’atterraggio e alle manovre a terra.
 - Repliche ergonomiche in scala 1:1: sidestick e quadrante manetta, accompagnati da licenza ufficiale Airbus, sono ispirati ai controlli di volo presenti negli iconici aerei di linea Airbus.
-- Compatibile con i sistemi di timonaggio Thrustmaster T.Flight Rudder Pedals (TFRP) e Thrustmaster Pendular Rudder (TPR), oltre al TM Flying Clamp (tutti venduti separatamente).
+- Il joystick dispone di 4 moduli pulsanti intercambiabili per la testa del joystick, 12 pulsanti rimappabili, manetta integrata, oltre a un controllo del timone attivabile ruotando l’impugnatura (con/senza blocco).
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B086J6KWTZ{{</world>}}

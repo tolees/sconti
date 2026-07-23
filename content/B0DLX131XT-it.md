@@ -29,9 +29,9 @@ average: '161.15'
 ℹ️:
 
 - CARATTERISTICHE: Raggiunge fino a 450°C per una cottura rapida e uniforme. Dotato di piatto girevole integrato e apertura a slitta per inserire e rimuovere facilmente la pizza. Struttura in acciaio inox smontabile per una pulizia semplice, avvolgicavo integrato per un comodo stoccaggio, display LED per il controllo della temperatura e termostato regolabile per adattarsi a diverse esigenze di cottura.
-- R.G.V.: Fondata negli anni ’80, oggi tra i leader nella produzione di affettatrici professionali e domestiche. Da sempre unisce innovazione, qualità e artigianalità italiana, realizzando internamente ogni macchina, dalla progettazione al montaggio, con materiali certificati e conformi alle normative alimentari. L’azienda garantisce affidabilità, sicurezza e prestazioni elevate, valorizzando l’esperienza e la precisione del vero Made in Italy.
 - DESIGN: Struttura interna in acciaio inox smontabile, apertura a slitta per inserire facilmente la pizza e avvolgicavo integrato per un comodo stoccaggio.
 - INCLUDE: Pala per pizza, per inserire e rimuovere facilmente la pizza; rotella tagliapizza per tagliare la pizza in modo preciso; copertura protettiva per proteggere il forno dalla polvere e mantenerlo pulito.
+- R.G.V.: Fondata negli anni ’80, oggi tra i leader nella produzione di affettatrici professionali e domestiche. Da sempre unisce innovazione, qualità e artigianalità italiana, realizzando internamente ogni macchina, dalla progettazione al montaggio, con materiali certificati e conformi alle normative alimentari. L’azienda garantisce affidabilità, sicurezza e prestazioni elevate, valorizzando l’esperienza e la precisione del vero Made in Italy.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DLX131XT{{</world>}}

@@ -28,10 +28,10 @@ average: '12.88'
 
 ℹ️:
 
-- MANUTENZIONE. Pulire con una spugna morbida inumidita con acqua e sapone neutro. Evitare prodotti chimici e asciugare in un luogo arieggiato e allombra per preservare la forma, il colore e le caratteristiche originali
-- TOP BRASIL LOGO. Le iconiche infradito brasiliane per adulti, riconosciute per il loro design autentico e lo stile versatile. Un modello classico reinventato, ideale per chi cerca uninfradito leggera, comoda e resistente da indossare tutti i giorni o per godersi lestate
-- TUTTE BRASILIANE. Robuste e comode, hanno cinturini più spessi, di colore diverso rispetto alla suola superiore, con la bandiera brasiliana e il logo Havaianas in evidenza. La suola superiore delle infradito presenta motivi a grani di riso, mentre la suola inferiore presenta motivi a mattoni
 - COMFORT E SICUREZZA. Realizzate per offrire unesperienza imbattibile, queste infradito si distinguono per la loro durata, leggerezza e resistenza allacqua e al calore. Il design antiscivolo garantisce la massima sicurezza su diverse superfici
+- TOP BRASIL LOGO. Le iconiche infradito brasiliane per adulti, riconosciute per il loro design autentico e lo stile versatile. Un modello classico reinventato, ideale per chi cerca uninfradito leggera, comoda e resistente da indossare tutti i giorni o per godersi lestate
+- MANUTENZIONE. Pulire con una spugna morbida inumidita con acqua e sapone neutro. Evitare prodotti chimici e asciugare in un luogo arieggiato e allombra per preservare la forma, il colore e le caratteristiche originali
+- TUTTE BRASILIANE. Robuste e comode, hanno cinturini più spessi, di colore diverso rispetto alla suola superiore, con la bandiera brasiliana e il logo Havaianas in evidenza. La suola superiore delle infradito presenta motivi a grani di riso, mentre la suola inferiore presenta motivi a mattoni
 - MATERIALI DI QUALITÀ. Realizzate in Brasile con materiali di alta qualità, le cinghie sono in 100% PVC e la suola in 100% gomma. Questi componenti garantiscono la resistenza, mantenendo le infradito come nuove
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

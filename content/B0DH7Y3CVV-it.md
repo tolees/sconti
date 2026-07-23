@@ -28,12 +28,12 @@ average: '89.6428571428577'
 
 ℹ️:
 
-- Le capsule Nespresso in alluminio proteggono gli aromi e la freschezza nel tempo: dal momento in cui il caffè viene tostato e macinato fino in tazza. Almeno l85% della capsula proviene da alluminio riciclato, un materiale che è riciclabile allinfinito.
 - Macchina per Caffè con sistema Nespresso Vertuo Line: la versatile macchina caffè per 5 formati in tazza da Ristretto (20ml), Espresso (40ml), Double Espresso (80ml), Gran Lungo (150ml) a Mug (230ml). Una ricca e morbida crema, per caffè indimenticabili.
-- Serbatoio dell’acqua removibile da 560ml. Eco Mode: spegnimento automatico dopo 2 minuti di inattività.
-- Selezione da 60 capsule Nespresso Vertuo: 20 capsule di Ristretto Intenso, 10 capsule di Diavolitto, Altissio, Double Espresso Scuro e Double Espresso Chiaro
-- Vertuo Ristretto Intenso, Altissio e Diavolitto: lunghezza Ristretto (20ml) ed Espresso (40ml), intensità da 9 a 12 (su 12), per caffè con note intense, vellutate e cremose. Vertuo Double Espresso Chiaro e Scuro: lunghezza Double Espresso (80ml), intensità 6 e 8 (su 12), per caffè con corposi e con note aromatiche.
+- Le capsule Nespresso in alluminio proteggono gli aromi e la freschezza nel tempo: dal momento in cui il caffè viene tostato e macinato fino in tazza. Almeno l85% della capsula proviene da alluminio riciclato, un materiale che è riciclabile allinfinito.
 - Sostenibilità: in qualità di B Corporation certificata, Nespresso soddisfa i più elevati standard verificati di performance sociale e ambientale, ed è parte integrante di un movimento globale che utilizza il business come forza positiva.
+- Selezione da 60 capsule Nespresso Vertuo: 20 capsule di Ristretto Intenso, 10 capsule di Diavolitto, Altissio, Double Espresso Scuro e Double Espresso Chiaro
+- Serbatoio dell’acqua removibile da 560ml. Eco Mode: spegnimento automatico dopo 2 minuti di inattività.
+- Vertuo Ristretto Intenso, Altissio e Diavolitto: lunghezza Ristretto (20ml) ed Espresso (40ml), intensità da 9 a 12 (su 12), per caffè con note intense, vellutate e cremose. Vertuo Double Espresso Chiaro e Scuro: lunghezza Double Espresso (80ml), intensità 6 e 8 (su 12), per caffè con corposi e con note aromatiche.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DH7Y3CVV{{</world>}}

@@ -28,11 +28,11 @@ average: '2.56'
 
 ℹ️:
 
-- PERCHÉ: CAPI COME NUOVI PIÙ A LUNGO
-- QUANDO USARLO: detersivo per capi delicati a mano e in lavatrice
-- ISTRUZIONI D’USO: consulta letichetta dei tuoi capi e segui le istruzioni di lavaggio, Dosa il detersivo Lip Woolite nel tappo seguendo le indicazioni di dosaggio e versalo nella vaschetta della lavatrice, Riempi la lavatrice con i tuoi capi e scegli il ciclo di lavaggio per completare il processo
 - LA CONFEZIONE: flacone da 1500 ml di Lip Woolite Detersivo Lana e Delicati 25 Lavaggi
+- ISTRUZIONI D’USO: consulta letichetta dei tuoi capi e segui le istruzioni di lavaggio, Dosa il detersivo Lip Woolite nel tappo seguendo le indicazioni di dosaggio e versalo nella vaschetta della lavatrice, Riempi la lavatrice con i tuoi capi e scegli il ciclo di lavaggio per completare il processo
 - LIP WOOLITE LANA E DELICATI – Mantiene i tuoi capi delicati come nuovi più a lungo, grazie alla formula con la cheratina, che mantiene la morbidezza dei capi delicati, aiuta a evitare la perdita di elasticità e si prende cura dei tessuti
+- QUANDO USARLO: detersivo per capi delicati a mano e in lavatrice
+- PERCHÉ: CAPI COME NUOVI PIÙ A LUNGO
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00WQ1LPGO{{</world>}}

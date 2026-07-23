@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- MODO DUSO: applicare sui capelli bagnati, massaggiare delicatamente il cuoio capelluto e risciacquare. Ripetere se necessario. In caso di contatto con gli occhi, risciacquare abbondantemente.
 - CONTENUTO: Shampoo Equilibrante Kelémata alle Foglie di Ortica da 250 mL , specifico per la cura dei capelli grassi.
+- MODO DUSO: applicare sui capelli bagnati, massaggiare delicatamente il cuoio capelluto e risciacquare. Ripetere se necessario. In caso di contatto con gli occhi, risciacquare abbondantemente.
+- AZIONE SEBOREGOLATRICE: la formula con estratto di Ortica, dalle proprietà purificanti e astringenti, riequilibra il cuoio capelluto riducendo l’eccesso di sebo e donando freschezza e leggerezza ai capelli.
 - QUALITÀ KELÉMATA: le formulazioni Kelémata nascono nel Centro Ricerche Biologiche La Carignana, dove natura e scienza si incontrano per offrire trattamenti efficaci, sicuri e sostenibili per il benessere dei capelli.
 - FORMULA NATURALE: sviluppato dall’esperienza farmaceutica Kelémata con infusi, decotti e distillati di piante fresche, combina natura e scienza per un trattamento delicato, efficace e sostenibile. Packaging 100% riciclabile.
-- AZIONE SEBOREGOLATRICE: la formula con estratto di Ortica, dalle proprietà purificanti e astringenti, riequilibra il cuoio capelluto riducendo l’eccesso di sebo e donando freschezza e leggerezza ai capelli.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B086HLPDN6{{</world>}}

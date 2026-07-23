@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Oddworld: Strangers Wrath Oddworld: Strangers Wrath presenta un punto di vista ibrido unico nel suo genere: il giocatore passa dalla prima alla terza persona a piacimento, a seconda della situazione. In prima persona per i combattimenti, in terza persona per l’esplorazione del mondo.
-- Oddworld: New N Tasty Oddworld: New n Tasty è un remake completo dellincredibile avventura puzzle-platform Oddworld: Abes Oddysee. Offre latmosfera di un classico molto amato in una splendida estetica HD che soddisferà anche i giocatori moderni.
-- Oddworld: Soulstorm (New Entry) Questo è il sequel del platform dazione più grande, più tosto e più audace della celebre serie di videogiochi, nonché il secondo esplosivo capitolo della pentalogia dopo Oddworld: New n Tasty. Il giocatore veste i panni di Abe, il riluttante eroe Mudokon che ha inavvertitamente scatenato una rivolta e ora deve guidare i suoi compagni nella loro lotta per la libertà contro i leader del pianeta.
 - Oddworld: Munchs Oddysee Passa da Abe a Munch e utilizza i poteri speciali, i potenziamenti e altre abilità speciali per recuperare le ultime Gabbitegg di Oddworld. Che Odd ti aiuti!
+- Oddworld: Soulstorm (New Entry) Questo è il sequel del platform dazione più grande, più tosto e più audace della celebre serie di videogiochi, nonché il secondo esplosivo capitolo della pentalogia dopo Oddworld: New n Tasty. Il giocatore veste i panni di Abe, il riluttante eroe Mudokon che ha inavvertitamente scatenato una rivolta e ora deve guidare i suoi compagni nella loro lotta per la libertà contro i leader del pianeta.
+- Oddworld: New N Tasty Oddworld: New n Tasty è un remake completo dellincredibile avventura puzzle-platform Oddworld: Abes Oddysee. Offre latmosfera di un classico molto amato in una splendida estetica HD che soddisferà anche i giocatori moderni.
+- Oddworld: Strangers Wrath Oddworld: Strangers Wrath presenta un punto di vista ibrido unico nel suo genere: il giocatore passa dalla prima alla terza persona a piacimento, a seconda della situazione. In prima persona per i combattimenti, in terza persona per l’esplorazione del mondo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F4XKQFGT{{</world>}}

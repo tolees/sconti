@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 3 in 1: creato per donare freschezza e detersione al corpo, capelli, e viso
 - Formula: dermatologicamente testata e vegana, rinfrescante con estratti marini
 - Confezione: realizzata con un flacone riciclato al 100%* *Esclusi additivi, tappo ed etichetta
+- 3 in 1: creato per donare freschezza e detersione al corpo, capelli, e viso
 - After Sport: gel doccia bagnoschiuma 3 in 1 da uomo, confezione da 400ml
 - Fragranza: profumazione fresca e aromatica, costruita con note agrumate e aromatiche e un tocco di accordo di muschio
 

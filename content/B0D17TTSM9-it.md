@@ -28,10 +28,10 @@ average: '67.28'
 
 ℹ️:
 
-- Materiale esterno: 90% poliestere riciclato, 10% sintetico (80% TPU - 20% PU)
 - Suola: 100% gomma
-- Fodera: 100% poliestere riciclato
+- Materiale esterno: 90% poliestere riciclato, 10% sintetico (80% TPU - 20% PU)
 - Colore: bianco naturale
+- Fodera: 100% poliestere riciclato
 - Better Linings,Recycled Synthetics
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

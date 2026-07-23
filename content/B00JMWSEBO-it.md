@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - GRADAZIONE ALCOLICA: 4.7% Vol
-- IDEALE CON: Crudi di mare, Frisedde, Riso patate e cozze, Giuncata pugliese, Carni bianche, Puccia
-- RAFFO RICETTA ORIGINALE: è una Birra Lager a bassa fermentazione dal colore giallo paglierino, da servire a 4-6°. Nasce a Taranto nel 1919 ed è prodotta oggi come allora con la stessa ricetta e con lo stesso orgoglio, arricchita con ORZO DI PUGLIA.
 - FORMATO: cassa di birra con 24 bottiglie da 33 cl
+- RAFFO RICETTA ORIGINALE: è una Birra Lager a bassa fermentazione dal colore giallo paglierino, da servire a 4-6°. Nasce a Taranto nel 1919 ed è prodotta oggi come allora con la stessa ricetta e con lo stesso orgoglio, arricchita con ORZO DI PUGLIA.
 - GUSTO: Lager dal corpo morbido e dal gusto secco molto rinfrescante, con appena una punta di amaro nel finale.
+- IDEALE CON: Crudi di mare, Frisedde, Riso patate e cozze, Giuncata pugliese, Carni bianche, Puccia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00JMWSEBO{{</world>}}

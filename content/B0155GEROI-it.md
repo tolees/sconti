@@ -28,8 +28,8 @@ average: '23.15'
 
 ℹ️:
 
-- Pratico
 - Funzionale
+- Pratico
 - Durevole
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

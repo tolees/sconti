@@ -28,9 +28,9 @@ average: '80.0'
 
 ℹ️:
 
-- Design ispirato al basket anni Ottanta
-- Tomaia in pelle con strati esterni resistenti
 - Collare imbottito a taglio basso per comfort
+- Tomaia in pelle con strati esterni resistenti
+- Design ispirato al basket anni Ottanta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F8JBSM7J{{</world>}}

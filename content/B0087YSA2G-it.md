@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Calzini
 - Nike - calzini sportivi
+- Calzini
 - Tipo di sport: abbigliamento sportivo atletico
 - Articolo per tutto lanno
 

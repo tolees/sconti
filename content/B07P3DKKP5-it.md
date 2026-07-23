@@ -28,11 +28,11 @@ average: '22.37'
 
 ℹ️:
 
-- I CONSIGLI DI STEPHEN TWINING: Usare acqua fresca; per i tè verdi, dopo aver ottenuto l’ebollizione, l’acqua deve essere fatta raffreddare per qualche minuto per raggiungere la temperatura ottimale. La teiera deve essere di porcellana o ceramica, mai di metallo per non alterare il sapore del tè. Prima di servire, mescolare tre volte da un lato e tre dall’altro per far sì che gli aromi siano equamente distribuiti
+- CONFEZIONE SCORTA: Con lacquisto di questo pack riceverai 8 confezioni di tè da 20 filtri ciascuna, per un totale di 160 filtri
+- GUSTO E BENESSERE DA 300 ANNI: Da oltre trecento anni, i maestri miscelatori Twinings utilizzano il meglio della natura. Grazie alla loro esperienza realizzano deliziose bevande che rendono piacevole ogni tuo momento di pausa
 - MODALITÀ DUSO: Ogni singola confezione è composta da 20 filtri per infusione, ciascuno sigillato singolarmente. Portare lacqua a ebollizione (100°C) e lasciare un filtro in infusione per almeno 2 minuti. Mescolare, strizzare il filtro e rimuoverlo
 - TÈ VERDI COLLECTION. Confezione da 20 filtri con 4 diversi Tè verdi: Tè verde Pure Green Tea, Tè verde aromatizzato Limone, Tè verde Earl Grey, Tè verde aromatizzato Arancia. Il tè verde contenuto in queste miscele è fonte naturale di manganese, che contribuisce alla protezione delle cellule dallo stress ossidativo, al normale metabolismo energetico e al mantenimento di ossa normali
-- GUSTO E BENESSERE DA 300 ANNI: Da oltre trecento anni, i maestri miscelatori Twinings utilizzano il meglio della natura. Grazie alla loro esperienza realizzano deliziose bevande che rendono piacevole ogni tuo momento di pausa
-- CONFEZIONE SCORTA: Con lacquisto di questo pack riceverai 8 confezioni di tè da 20 filtri ciascuna, per un totale di 160 filtri
+- I CONSIGLI DI STEPHEN TWINING: Usare acqua fresca; per i tè verdi, dopo aver ottenuto l’ebollizione, l’acqua deve essere fatta raffreddare per qualche minuto per raggiungere la temperatura ottimale. La teiera deve essere di porcellana o ceramica, mai di metallo per non alterare il sapore del tè. Prima di servire, mescolare tre volte da un lato e tre dall’altro per far sì che gli aromi siano equamente distribuiti
 - QUALITÀ TWININGS DAL 1706: Thomas Twining ha iniziato a proporre tè di alta qualità già nel 1706 a Londra e ancora oggi Twinings offre alcune delle varietà di tè più pregiate al mondo nel suo antico negozio dello Strand e in più di 100 paesi. Grazie alla sua grande esperienza nella selezione delle materie prime e nellarte della miscelazione, Twinings crea tè e infusi rinomati in tutto il mondo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

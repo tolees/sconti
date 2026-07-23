@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Confezione di pannolini salva pigiama
 - Per bambini dai 17 ai 30 kg
+- Confezione di pannolini salva pigiama
 - Adatti allutilizzo di notte
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

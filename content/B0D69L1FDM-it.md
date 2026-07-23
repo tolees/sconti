@@ -28,11 +28,11 @@ average: '1.59'
 
 ℹ️:
 
-- Scopri il nostro nuovo Ragù alla Salsiccia, con carne suina 100% italiana e un soffritto saporito. Carne in pezzi grandi, cotta lentamente, per un ragù dal gusto intenso!
-- FATTO CON - Carne suina e salsiccia italiana,Pomodori italiani. Senza Glutine.
-- Ideale con le fettuccine ricce Emiliane, il Ragù alla Salsiccia Barilla è pronto da versare direttamente sulla pasta scolata. Per esaltare profumo e sapore degli ingredienti si consiglia di scaldarlo a fuoco lento o nel microonde, dopo aver aperto il vasetto. Confezione da 8x300g.
 - Da sempre Barilla porta in tavola la gioia del buon cibo da condividere con chi ami. I nostri sughi rendono il tuo pasto ricco di gusto e contribuiscono a una dieta equilibrata.
 - BARILLA - Barilla è unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
+- Scopri il nostro nuovo Ragù alla Salsiccia, con carne suina 100% italiana e un soffritto saporito. Carne in pezzi grandi, cotta lentamente, per un ragù dal gusto intenso!
+- Ideale con le fettuccine ricce Emiliane, il Ragù alla Salsiccia Barilla è pronto da versare direttamente sulla pasta scolata. Per esaltare profumo e sapore degli ingredienti si consiglia di scaldarlo a fuoco lento o nel microonde, dopo aver aperto il vasetto. Confezione da 8x300g.
+- FATTO CON - Carne suina e salsiccia italiana,Pomodori italiani. Senza Glutine.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D69L1FDM{{</world>}}

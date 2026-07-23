@@ -28,12 +28,12 @@ average: '52.09'
 
 ℹ️:
 
-- RISVEGLIA I TUOI SENSI DI RAGNO: il tuo amichevole Spider-Man di quartiere arriva in Magic: The Gathering con carte che mostrano i tuoi personaggi preferiti di Spider-Man, i cattivi e nuove meccaniche di gioco a tema
 - ACCESSORI DI GIOCO ESCLUSIVI: con ogni bundle riceverai anche degli accessori esclusivi, come uno speciale dado per tenere traccia dei tuoi punti vita e una robusta confezione a tema Spider-Man per conservare il tutto
-- 30 CARTE TERRA PER COSTRUIRE MAZZI: ogni mazzo ha bisogno di carte terra per alimentare le tue abilità; questo bundle include 30 carte terra dell’espansione (15 foil, 15 non foil) comprese 10 con un’illustrazione straordinaria che copre tutta la carta
-- CARTE E ACCESSORI DI SPIDER-MAN: viaggia nel Ragnoverso con una confezione piena di buste da aprire, terre per completare i tuoi mazzi, una carta promo con illustrazione alternativa esclusiva e speciali accessori di gioco di Spider-Man
 - 9 BUSTE PER GIOCARE CON GLI AMICI: Le buste di gioco sono l’ideale per scoprire tutto il potenziale di Magic: sono perfette per costruire mazzi, giocare con gli amici e sono divertentissime da aprire
+- 30 CARTE TERRA PER COSTRUIRE MAZZI: ogni mazzo ha bisogno di carte terra per alimentare le tue abilità; questo bundle include 30 carte terra dell’espansione (15 foil, 15 non foil) comprese 10 con un’illustrazione straordinaria che copre tutta la carta
 - CARTA CON ILLUSTRAZIONE ALTERNATIVA ESCLUSIVA: Ogni bundle include anche una brillante carta promo foil con illustrazione alternativa che non potrai trovare altrove
+- RISVEGLIA I TUOI SENSI DI RAGNO: il tuo amichevole Spider-Man di quartiere arriva in Magic: The Gathering con carte che mostrano i tuoi personaggi preferiti di Spider-Man, i cattivi e nuove meccaniche di gioco a tema
+- CARTE E ACCESSORI DI SPIDER-MAN: viaggia nel Ragnoverso con una confezione piena di buste da aprire, terre per completare i tuoi mazzi, una carta promo con illustrazione alternativa esclusiva e speciali accessori di gioco di Spider-Man
 - BALZA NEL GIOCO: Magic: The Gathering è un gioco di carte collezionabili in cui profondità strategica, splendide illustrazioni, storie fantastiche e una community di fan sempre più viva si incontrano per dare vita a un gioco di carte senza eguali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

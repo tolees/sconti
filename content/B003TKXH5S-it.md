@@ -28,9 +28,9 @@ average: '0.74'
 
 ℹ️:
 
-- PASTA CLASSICA LA MOLISANA: gamma di pasta genuina e digeribile che nasce da solo grano italiano decorticato a pietra, la trafilatura al bronzo rende la pasta ruvida e tenace, in grado di catturare perfettamente i condimenti
-- FARFALLE RIGATE N.66: formato di pasta corta gustoso e bellissimo da vedere grazie alle sue ali grandi, proporzionate e alla sua leggera rigatura - Confezione da 500 g
 - LA MOLISANA: dal 1912 azienda 100% Italiana leader nella produzione di pasta con solo grando italiano da filiera integrata, semole di alta qualità e tenacità certificata
+- FARFALLE RIGATE N.66: formato di pasta corta gustoso e bellissimo da vedere grazie alle sue ali grandi, proporzionate e alla sua leggera rigatura - Confezione da 500 g
+- PASTA CLASSICA LA MOLISANA: gamma di pasta genuina e digeribile che nasce da solo grano italiano decorticato a pietra, la trafilatura al bronzo rende la pasta ruvida e tenace, in grado di catturare perfettamente i condimenti
 - COTTURA: 10 minuti di cottura - Pasta con eccellente tenuta in cottura, non scuoce mai grazie alla trafilatura al bronzo e ad un indice proteico superiore al 14%
 - PACK ECOSOSTENIBILE: i Pack, riciclabili nella carta, sono composti da materiale che proviene da foreste ben gestite, foreste certificate FSC e da altre fonti controllate
 

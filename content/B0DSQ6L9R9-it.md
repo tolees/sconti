@@ -28,8 +28,8 @@ average: '66.14'
 
 ℹ️:
 
-- Giacca da uomo di Tom Tailor
 - Vestibilità ottimale e comfort elevato
+- Giacca da uomo di Tom Tailor
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DSQ6L9R9{{</world>}}

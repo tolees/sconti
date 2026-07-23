@@ -28,11 +28,11 @@ average: '13.19'
 
 ℹ️:
 
-- MODALITÀ DI GIOCO: lancia il dado, utilizza al meglio le abilità del tuo pilota e le carte speciali per arrivare per primo al traguardo!
 - CONTENUTO DEL GIOCO: 12 moto, planche, carte piloti e azioni speciali, dado e regolamento. Le plance modulari permettono di ricreare fedelmente i circuiti a scelta tra 12 tracciati ufficiali della moto GP.
-- DETTAGLI: Durata media: 30 minuti. 2 - 6 giocatori. Età consigliata: 8 - 99 anni. Made in Italy
-- GIOCO DA TAVOLO MOTO GP: Unavvincente sfida per vivere le emozioni ad alta velocità del moto GP! Un gioco di corse basato su un sport molto popolare, il motomondiale
 - MOTOMONDIALE: Corri con le leggende del motorsport e con i campioni della stagione corrente. Una sfida tra piloti in attività come il campione del mondo Bagnaia e leggende del passato come Valentino Rossi.
+- GIOCO DA TAVOLO MOTO GP: Unavvincente sfida per vivere le emozioni ad alta velocità del moto GP! Un gioco di corse basato su un sport molto popolare, il motomondiale
+- MODALITÀ DI GIOCO: lancia il dado, utilizza al meglio le abilità del tuo pilota e le carte speciali per arrivare per primo al traguardo!
+- DETTAGLI: Durata media: 30 minuti. 2 - 6 giocatori. Età consigliata: 8 - 99 anni. Made in Italy
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C7DDK23M{{</world>}}

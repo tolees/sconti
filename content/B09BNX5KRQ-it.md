@@ -28,11 +28,11 @@ average: '32.915'
 
 ℹ️:
 
-- Include 3 mini bamboline LEGO Friends: Andrea, Stephanie e Daniel, più Pebble il cagnolino e 2 SUP
-- Numero di pezzi: 380
 - La tenda contiene letti a castello e fornello; il molo ha una turbina eolica per illuminarlo, e la spiaggia contiene conchiglie e castelli di sabbia
 - Età consigliata dal produttore: 6+
+- Numero di pezzi: 380
 - Glamping sulla spiaggia
+- Include 3 mini bamboline LEGO Friends: Andrea, Stephanie e Daniel, più Pebble il cagnolino e 2 SUP
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09BNX5KRQ{{</world>}}

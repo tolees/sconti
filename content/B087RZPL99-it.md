@@ -28,11 +28,11 @@ average: '21.86'
 
 ℹ️:
 
-- Il bambino può scoprire le note musicali, riconoscere i suoni tipici di ogni strumento musicale allinterno dellorchestra e imparare il senso del ritmo; adatto da 1 a 4 anni di età
-- Modalità orchestra: sposta linterruttore circolare e suona tutti gli strumenti musicali dellorchestra, uno alla volta o tutti insieme contemporaneamente
-- Modalità composizione: ascolta le note musicali e segui le luci per comporre passo dopo passo tutte le melodie
 - 7 strumenti musicali da suonare, per comprendere attraverso lesperienza il suono specifico di ogni famiglia di strumenti musicali, 20 canzoni e 5 generi musicali
+- Modalità composizione: ascolta le note musicali e segui le luci per comporre passo dopo passo tutte le melodie
+- Modalità orchestra: sposta linterruttore circolare e suona tutti gli strumenti musicali dellorchestra, uno alla volta o tutti insieme contemporaneamente
 - 7 luci, una per ogni nota, che aiutano il bambino a riconoscere la corrispondenza tra il suono della nota musicale e il tasto del piano
+- Il bambino può scoprire le note musicali, riconoscere i suoni tipici di ogni strumento musicale allinterno dellorchestra e imparare il senso del ritmo; adatto da 1 a 4 anni di età
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B087RZPL99{{</world>}}

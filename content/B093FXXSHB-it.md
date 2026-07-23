@@ -29,8 +29,8 @@ average: '4.99'
 ℹ️:
 
 - Linconfondibile essenza del patchouli, impreziosita dallolio di amla, dalle proprietà nutrienti e rigeneranti, dona alla pelle idratazione e morbidezza
-- Crema corpo idratante dalle note calde e avvolgenti di patchouli, nutre la pelle intensamente, lasciandola morbida e setosa
 - Dopo il bagno o la doccia, o alla necessità, massaggiare delicatamente su tutto il corpo fino allassorbimento
+- Crema corpo idratante dalle note calde e avvolgenti di patchouli, nutre la pelle intensamente, lasciandola morbida e setosa
 - Ispirata allantico rituale dellarmonia nato in India 5000 anni fa, la linea Ayurveda offre una duratura sensazione di benessere e armonia
 - Tesori d’Oriente nasce dal desiderio di trasformare i gesti della routine quotidiana in rituali di puro piacere
 

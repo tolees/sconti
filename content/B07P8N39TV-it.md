@@ -30,9 +30,9 @@ average: '156.99'
 
 - ICONICITÀ INTRAMONTABILE: L’originale giacca Tommy Hilfiger presenta un design essenziale. Piace soprattutto per il materiale di alta qualità e la cintura in vita regolabile, che dona una splendida silhouette.
 - QUALITÀ GARANTITA: Dal 1985, questo marchio di moda si distingue in tutto il mondo per qualità e semplicità, oltre che per gli stili che propone nei rinomati colori blu scuro, bianco e rosso.
-- VESTIBILITÀ OTTIMALE: L’intramontabile look di questo trench minimalista mette in risalto qualsiasi figura. Le righe Tommy Hilfiger applicate sulla cintura e le spalline con bottoni completano questa giacca da mezza stagione.
 - PER OGNI OCCASIONE: Questa elegante giacca da donna si distingue per la sua funzionalità e il comfort particolarmente elevato. La giacca è ideale da indossare tutti i giorni, in ufficio o in viaggio. Il colletto alla coreana e la mantellina button-down completano il look.
 - MATERIALE DI QUALITÀ: Questo classico cappotto corto è al 100% in cotone.
+- VESTIBILITÀ OTTIMALE: L’intramontabile look di questo trench minimalista mette in risalto qualsiasi figura. Le righe Tommy Hilfiger applicate sulla cintura e le spalline con bottoni completano questa giacca da mezza stagione.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07P8N39TV{{</world>}}

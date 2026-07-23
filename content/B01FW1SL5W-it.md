@@ -28,11 +28,11 @@ average: '13.6192307692308'
 
 ℹ️:
 
-- FORMATO: cassa di birra con 24 bottiglie da 33 cl
 - PERONI CHILL LEMON: birra tipo radler nata dallâ€incontro tra il gusto rotondo e bilanciato di Peroni ed il potere dissetante del succo di limone, per regalarti unâ€esperienza rinfrescante e frizzante
 - GUSTO: gusto naturale di limoni freschi, gradevolmente aspro e bilanciato con una nota amara. Prodotta con malto e limoni 100 percent italiani, per unesplosione di freschezza e qualità
-- GRADAZIONE ALCOLICA: 1.3% vol
 - IDEALE PER: grazie alla sua bassa gradazione alcolica e al gusto fresco, allegro e sorprendente, Peroni Chill Lemon è la birra ideale per i tuoi momenti di divertimento
+- GRADAZIONE ALCOLICA: 1.3% vol
+- FORMATO: cassa di birra con 24 bottiglie da 33 cl
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01FW1SL5W{{</world>}}

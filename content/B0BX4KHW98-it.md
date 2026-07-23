@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tennents Super ha una gradazione alcolica grande, bere responsabilmente
-- Onfezione da 24 lattine da 44 cl di Tennents Super
 - Tennents Super è una birra Strong Lager, doppio malto, dal colore chiaro e dal gusto forte, 9% alcool
+- Onfezione da 24 lattine da 44 cl di Tennents Super
 - Ha un gusto deciso e forte, leggermente dolce
 - Temperatura di servizio 5-7°
+- Tennents Super ha una gradazione alcolica grande, bere responsabilmente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BX4KHW98{{</world>}}

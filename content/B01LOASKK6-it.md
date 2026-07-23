@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Confezione da 24 Snack di wafer da 41,5g incartati singolarmente (996g totali)
+- Grazie alla partnership con FORMULA 1, acquistando i prodotti KITKAT puoi partecipare al concorso che mette in palio biglietti ed esperienze VIP per il GP di Monza. Concorso valido dal 29 dicembre 2025 al 7 giugno 2026. Estrazione finale entro il 10 luglio 2026 . Montepremi €23.100 IVA inclusa. Per scoprire come partecipare, consulta il regolamento completo sul nostro sito ufficiale o inquadra il QR code sulla confezione
 - KitKat è parte di un programma innovativo, lIncome Accelerator Program, che aiuta a distribuire circa 1 milione di piante allanno in Costa dAvorio per supportare la biodiversità nelle coltivazioni di cacao
 - IL NIDO CHE CONDIVIDIAMO racchiude limpegno del Gruppo Nestlé. Ramo dopo ramo, ogni iniziativa di sostenibilità contribuisce a diffondere il Buono. Scopri di più sul sito Nestlé
 - Il classico Snack con croccante wafer avvolto da cioccolato al latte diventa Official Partner di FORMULA 1
 - KITKAT Classic è lo snack di wafer croccante ricoperto da cioccolato al latte, ideale per una pausa dal gusto classico e avvolgente, nel nuovo pack graficato FORMULA 1
-- Confezione da 24 Snack di wafer da 41,5g incartati singolarmente (996g totali)
-- Grazie alla partnership con FORMULA 1, acquistando i prodotti KITKAT puoi partecipare al concorso che mette in palio biglietti ed esperienze VIP per il GP di Monza. Concorso valido dal 29 dicembre 2025 al 7 giugno 2026. Estrazione finale entro il 10 luglio 2026 . Montepremi €23.100 IVA inclusa. Per scoprire come partecipare, consulta il regolamento completo sul nostro sito ufficiale o inquadra il QR code sulla confezione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01LOASKK6{{</world>}}

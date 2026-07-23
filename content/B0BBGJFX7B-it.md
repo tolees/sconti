@@ -28,14 +28,14 @@ average: '43.7042857142857'
 
 ℹ️:
 
+- AMPIO UTILIZZO: Questa mini pistola per colla a caldo è ideale per progetti fai-da-te, artigianato, decorazioni e riparazioni domestiche. Offre un’adesione efficace su diversi materiali come plastica, vetro, carta, cotone e tessuti
+- STICK DI COLLA MULTICOLORE: Include stick di colla a caldo in diversi colori: blu, rosso, verde, giallo, argento e trasparente. 5 stick glitter colorati e 5 trasparenti, adatti a diverse esigenze creative e progetti di bricolage
 - LEGGERA E COMPATTA: Design compatto e leggero (circa 170 g), facile da maneggiare. Il grilletto ergonomico consente un’erogazione continua e controllata della colla
+- NOTA: Si consiglia di caricare completamente il prodotto prima del primo utilizzo
+- CONTROLLO INTELLIGENTE DELLA TEMPERATURA: Dotata di chip di controllo intelligente e sistema MCH per mantenere la temperatura entro un intervallo adeguato. Spegnimento automatico dopo 5 minuti di inattività per maggiore sicurezza e tutela della batteria
 - 10 STICK DI COLLA & COLORI MULTIPLI - Vengono forniti con 5 stick di colla a caldo trasparenti e 5 colorati, dimensioni mini ( 7 x 125 mm)compatibili con la maggior parte delle pistole per colla. Lo stick di colla è realizzato in resina sicura ed ecologica e si scioglie senza fumi o odore, quindi è sicuro per adulti e bambini da usare.Gli stick di colla multicolori soddisfano le varie esigenze degli utenti per DIY progetti.Per artigianato, bricolage, riparazioni domestiche.
 - PRERISCALDAMENTO RAPIDO IN 30 SECONDI: La pistola per colla a caldo senza fili HOTO si riscalda in circa 30 secondi. L’ugello in ottone ad alta conducibilità favorisce una fusione rapida della colla, mentre l’elemento riscaldante MCH contribuisce a un flusso uniforme e controllato
 - DESIGN ANTIGOCCIA E STRUTTURA BILANCIATA: Il design antigoccia e la copertura protettiva in PC resistente al calore aiutano a ridurre le fuoriuscite di colla durante l’uso. La struttura bilanciata con supporto in silicone consente di posizionarla facilmente anche su superfici leggermente inclinate
-- CONTROLLO INTELLIGENTE DELLA TEMPERATURA: Dotata di chip di controllo intelligente e sistema MCH per mantenere la temperatura entro un intervallo adeguato. Spegnimento automatico dopo 5 minuti di inattività per maggiore sicurezza e tutela della batteria
-- AMPIO UTILIZZO: Questa mini pistola per colla a caldo è ideale per progetti fai-da-te, artigianato, decorazioni e riparazioni domestiche. Offre un’adesione efficace su diversi materiali come plastica, vetro, carta, cotone e tessuti
-- STICK DI COLLA MULTICOLORE: Include stick di colla a caldo in diversi colori: blu, rosso, verde, giallo, argento e trasparente. 5 stick glitter colorati e 5 trasparenti, adatti a diverse esigenze creative e progetti di bricolage
-- NOTA: Si consiglia di caricare completamente il prodotto prima del primo utilizzo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BBGJFX7B{{</world>}}

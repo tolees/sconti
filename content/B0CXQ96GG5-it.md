@@ -28,11 +28,11 @@ average: '130.5'
 
 ℹ️:
 
-- ATX 3.1 FULLY MODULAR – Con lo standard ATX 3.1, l’alimentatore può gestire escursioni di potenza fino a 2x sul totale e 3x per la GPU; design fully modular con connettori in lega di rame premium
-- DESIGN DUREVOLE – La topologia LLC full-bridge con convertitore DC-to-DC e design con PFC attivo garantiscono un’erogazione affidabile della potenza, con protezioni OCP, OVP, OPP, OTP, SCP e UVP
-- TAGLIA EXTRA COMPATTA (ATX) – Il form factor ATX compatto, con dimensioni di 150 mm di lunghezza e 150 mm di larghezza, garantisce un’installazione semplice e ottimale nella maggior parte dei case PC
 - SUPPORTO GPU PCIe 5.1 – Grazie al connettore PCIe nativo a 16 pin (12V-2x6), l’alimentatore può fornire fino a 600W di potenza a una GPU PCIe 5.1, compatibile con NVIDIA e AMD
+- ATX 3.1 FULLY MODULAR – Con lo standard ATX 3.1, l’alimentatore può gestire escursioni di potenza fino a 2x sul totale e 3x per la GPU; design fully modular con connettori in lega di rame premium
 - CERTIFICAZIONE 80 PLUS GOLD – Un alimentatore efficiente riduce il consumo energetico e il carico termico del sistema. La certificazione 80 PLUS Gold (fino al 90%) è ideale per hardware ad alto consumo, come GPU e CPU di fascia alta
+- TAGLIA EXTRA COMPATTA (ATX) – Il form factor ATX compatto, con dimensioni di 150 mm di lunghezza e 150 mm di larghezza, garantisce un’installazione semplice e ottimale nella maggior parte dei case PC
+- DESIGN DUREVOLE – La topologia LLC full-bridge con convertitore DC-to-DC e design con PFC attivo garantiscono un’erogazione affidabile della potenza, con protezioni OCP, OVP, OPP, OTP, SCP e UVP
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CXQ96GG5{{</world>}}

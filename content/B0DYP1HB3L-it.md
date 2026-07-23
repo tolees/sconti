@@ -28,10 +28,10 @@ average: '38.75'
 
 ℹ️:
 
-- Unravel the Enigma - Use your detective skills to question the eclectic members of the “Mystery Club” and solve this challenging interactive puzzle.
-- Play the Best - Experience a crime-solving mystery from famed developer Otomate (Idea Factory), makers of the finest visual novel/romance simulation adventures.
-- Choose your Fate - Explore multiple character paths and change the course of the story! Play through the game multiple times to uncover the entire tale.
 - Experience stunning artwork - Witness this colourful story coming to life with beautiful character illustrations and dynamic background effects.
+- Choose your Fate - Explore multiple character paths and change the course of the story! Play through the game multiple times to uncover the entire tale.
+- Play the Best - Experience a crime-solving mystery from famed developer Otomate (Idea Factory), makers of the finest visual novel/romance simulation adventures.
+- Unravel the Enigma - Use your detective skills to question the eclectic members of the “Mystery Club” and solve this challenging interactive puzzle.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DYP1HB3L{{</world>}}

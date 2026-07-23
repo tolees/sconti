@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Combattimento migliorato
 - 6 nuove location e tantissimi collezionabili
+- Combattimento migliorato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07KZ4CKKS{{</world>}}

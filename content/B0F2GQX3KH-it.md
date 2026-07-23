@@ -28,9 +28,9 @@ average: '54.99'
 
 ℹ️:
 
-- Tomaia in materiale sintetico
-- Chiusura con lacci
 - Fodera in tessuto
+- Chiusura con lacci
+- Tomaia in materiale sintetico
 - Suola in gomma
 - Calzata regolare
 

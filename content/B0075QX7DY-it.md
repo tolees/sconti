@@ -28,8 +28,8 @@ average: '5.99'
 
 ℹ️:
 
-- MISSION: Costa d’Oro si impegna dal 1968 a produrre prodotti di qualità con una particolare dedizione all’innovazione e alla trasparenza. Confezionato da: COSTA DORO S.p.A. Via Crispino Merini, 1 - 06049 SPOLETO (Pg) - ITALIA
 - IL PRODOTTO: L’Extra Costa d’Oro è l’olio extravergine di oliva estratto a freddo frutto di esperienza e attenzione al miglioramento continuo della qualità dei raccolti e del prodotto. CARATTERISTICHE: Amato per la sua versatilità, questo olio EVO si presta perfettamente come condimento per le insalate e come alleato nelle ricette di tutti i giorni. ABBINAMENTI IDEALI: Il suo profumo fragrante e armonico si esprime a pieno con i piatti caldi come sughi e zuppe. Elegante anche nel gusto, con percezioni di amaro e piccante equilibrate, unite a gradevoli note che ricordano la mandorla e la vaniglia.
+- MISSION: Costa d’Oro si impegna dal 1968 a produrre prodotti di qualità con una particolare dedizione all’innovazione e alla trasparenza. Confezionato da: COSTA DORO S.p.A. Via Crispino Merini, 1 - 06049 SPOLETO (Pg) - ITALIA
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0075QX7DY{{</world>}}

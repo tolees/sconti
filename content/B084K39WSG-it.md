@@ -28,8 +28,8 @@ average: '2.49'
 
 ℹ️:
 
-- Prodotto adatto ai capelli danneggiati
 - Agisce in maniera efficace sui capelli crespi
+- Prodotto adatto ai capelli danneggiati
 - Protegge e disciplina i capelli
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

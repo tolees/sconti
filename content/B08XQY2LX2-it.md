@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- COMPATIBILE CON TUTTI I TIPI DI FILTRI A SABBIA: Grazie all’adattatore integrato, è possibile utilizzare tubi per piscina da 32 mm o 38 mm. Ideale per piscine e vasche, questo potente filtro per piscina riduce notevolmente il consumo di acqua. Affidati alla nostra collaudata pompa con filtro a sabbia!
-- NUMEROSI VANTAGGI: manometro integrato fino a 1 bar, base robusta per il serbatoio del filtro e per la pompa, volume del serbatoio fino a 20kg di sabbia, valvola selettrice a 7 vie con maniglia, valvola di scarico, attacco standard per tubi flessibili Ø 32/38 mm, fascetta di serraggio robusta, morsetti per tubi in acciaio inossidabile.
-- VALVOLA A 7 VIE: Funzioni di controlavaggio, filtrazione, risciacquo, scarico, chiusura, ricircolo e modalità invernale. Facile da riempire con acqua, il sistema si auto-adesca automaticamente. Inclusi nel set anche 800g di sfere filtranti.
-- MASSIMA QUALITÀ: Potente sistema di filtrazione a sabbia con una portata massima di 10.200 l/h e unaltezza massima di sollevamento di 10 m. Robusta scocca della pompa in metallo con protezione IPX5 contro i getti dacqua. Adatto per sabbia filtrante (sabbia di quarzo), vetro filtrante o palline filtranti.
 - DATI TECNICI: Cavo di alimentazione - 190 cm, capacità di filtraggio = 10.200 L/h, potenza: 400W, tensione: 230V/50Hz, capacità del serbatoio = 25L.
+- COMPATIBILE CON TUTTI I TIPI DI FILTRI A SABBIA: Grazie all’adattatore integrato, è possibile utilizzare tubi per piscina da 32 mm o 38 mm. Ideale per piscine e vasche, questo potente filtro per piscina riduce notevolmente il consumo di acqua. Affidati alla nostra collaudata pompa con filtro a sabbia!
+- MASSIMA QUALITÀ: Potente sistema di filtrazione a sabbia con una portata massima di 10.200 l/h e unaltezza massima di sollevamento di 10 m. Robusta scocca della pompa in metallo con protezione IPX5 contro i getti dacqua. Adatto per sabbia filtrante (sabbia di quarzo), vetro filtrante o palline filtranti.
+- VALVOLA A 7 VIE: Funzioni di controlavaggio, filtrazione, risciacquo, scarico, chiusura, ricircolo e modalità invernale. Facile da riempire con acqua, il sistema si auto-adesca automaticamente. Inclusi nel set anche 800g di sfere filtranti.
+- NUMEROSI VANTAGGI: manometro integrato fino a 1 bar, base robusta per il serbatoio del filtro e per la pompa, volume del serbatoio fino a 20kg di sabbia, valvola selettrice a 7 vie con maniglia, valvola di scarico, attacco standard per tubi flessibili Ø 32/38 mm, fascetta di serraggio robusta, morsetti per tubi in acciaio inossidabile.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08XQY2LX2{{</world>}}

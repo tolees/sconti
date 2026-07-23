@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Massima precisione nel tratto senza sbavature
 - Adatto anche per i mancini
 - Asciuga subito e non macchia
+- Massima precisione nel tratto senza sbavature
 - Inchiostro energel
 - Scrittura ultrascorrevole
 

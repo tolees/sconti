@@ -28,8 +28,8 @@ average: '23.96'
 
 ℹ️:
 
-- Comfort di utilizzo semplice
 - Colletto a costine
+- Comfort di utilizzo semplice
 - Sensazione di facilità
 - Jumpman ricamato
 

@@ -28,8 +28,8 @@ average: '21.99'
 
 ℹ️:
 
-- Adatto per: tutte le stagioni
 - Realizzati con materiali sostenibili
+- Adatto per: tutte le stagioni
 - Sneaker del marchio PUMA
 - Suola morbida per movimenti fluidi
 

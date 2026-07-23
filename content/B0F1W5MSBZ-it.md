@@ -29,10 +29,10 @@ average: '664.0'
 ℹ️:
 
 - Mini-LED con Local Dimming
-- QLED Display 144Hz
+- Audio Dolby Atmos 2.1
 - Dolby Vision IQ / HDR 10+ / HLG
 - Smart TV Mini-LED 144Hz 4K 65", Risoluzione 3840x2160
-- Audio Dolby Atmos 2.1
+- QLED Display 144Hz
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F1W5MSBZ{{</world>}}

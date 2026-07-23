@@ -30,8 +30,8 @@ average: '29.99'
 
 - "Re-PAC" significa anche nuove azioni per PAC-MAN, battaglie con boss aggiornate, personaggi, oggetti collezionabili, personalizzazioni e persino una modalità a due giocatori!
 - I Fantasmini si sono intrufolati nel PAC-Villaggio e hanno rubato il Frutto doro, liberando involontariamente il potentissimo re fantasma: Spooky! PAC-MAN dovrà avventurarsi in giro per PAC-LAND per riconquistare il frutto e fermare Spooky!
-- Dotato di grafica moderna, livelli e PAC-Villaggio ampliati, migliorie allesperienza di gioco e voice acting: questo titolo tanto amato dai fan è stato completamente ricreato seguendo la ricetta originale.
 - Potrai correre, mangiare, rimbalzare e molto altro per superare le sfide e godere del fascino di PAC-LAND! Dai trampolini delle Cime degli alberi al pattinaggio sul ghiaccio sulle Montagne innevate, per poi pilotare il PAC-Sottomarino nelle profondità dellOceano. Rotola nei Prati paradisiaci, scalcia sopra le distese laviche del Vulcano ed effettua attacchi PAC-Punto sullIsola Fantasma! PAC-MAN è pronto allazione!
+- Dotato di grafica moderna, livelli e PAC-Villaggio ampliati, migliorie allesperienza di gioco e voice acting: questo titolo tanto amato dai fan è stato completamente ricreato seguendo la ricetta originale.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FL2F3JHV{{</world>}}

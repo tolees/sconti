@@ -28,8 +28,8 @@ average: '11.0'
 
 ℹ️:
 
-- Le CRADLECOFFIN sono unità bipedi onniclimatiche progettate per resistere alle aspre condizioni della superficie. Ciascuno di questi mech vanta resistenza, capacità di carico e tempo operativo unici e può essere personalizzato ulteriormente tramite limplementazione di componenti e armi, per meglio adattarsi alle missioni e al tuo stile di gioco.
 - Accumula risorse per creare nuovi componenti e migliora il tuo garage per potenziare al massimo la tua CRADLECOFFIN!
+- Le CRADLECOFFIN sono unità bipedi onniclimatiche progettate per resistere alle aspre condizioni della superficie. Ciascuno di questi mech vanta resistenza, capacità di carico e tempo operativo unici e può essere personalizzato ulteriormente tramite limplementazione di componenti e armi, per meglio adattarsi alle missioni e al tuo stile di gioco.
 - I Magus sono IA umanoidi che aiutano nellesplorazione, nella ricerca e nel combattimento. Ciascun modello, completamente personalizzabile, esibisce una personalità unica. I Magus sono programmati per fornire feedback basati sullanalisi delle tue prestazioni, al fine di evitare la ripetizione di specifici errori. Tratta bene i tuoi Magus! Le loro potenti abilità possono salvarti la pelle nei momenti di maggior pericolo!
 - Emergi dal sottosuolo ed esplora la superficie del pianeta, infestata da Ender ostili, piogge tossiche e nemici di ogni genere, per fare incetta di risorse. Pilota la tua CRADLECOFFIN e collabora con il tuo Magus in un mondo popolato da tantissimi giocatori. Un solo passo falso e perderai il tuo mech e tutte le sue risorse... per la gioia dei superstiti.
 

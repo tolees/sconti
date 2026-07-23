@@ -30,10 +30,10 @@ average: '8.138'
 
 - Per capello più forte e brillante
 - Dermatologicamente testato
-- 👨‍⚕️ Attualmente stiamo aggiornando l’immagine grafica del brand Restivoil, pertanto è possibile che i prodotti ricevuti presentino un packaging leggermente differente rispetto a quello mostrato in foto
-- Con proprietà delicate e in assenza di schiumogeni aggressivi
-- Scientificamente pensati nel rispetto del cuoio capelluto, anche il più sensibile. A base di cheratina.
 - Dermatologicamente testato
+- Scientificamente pensati nel rispetto del cuoio capelluto, anche il più sensibile. A base di cheratina.
+- Con proprietà delicate e in assenza di schiumogeni aggressivi
+- 👨‍⚕️ Attualmente stiamo aggiornando l’immagine grafica del brand Restivoil, pertanto è possibile che i prodotti ricevuti presentino un packaging leggermente differente rispetto a quello mostrato in foto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07BYWLBHV{{</world>}}

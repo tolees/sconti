@@ -28,8 +28,8 @@ average: '34.99'
 
 ℹ️:
 
-- Realizzati con materiali sostenibili
 - Sneaker del marchio PUMA
+- Realizzati con materiali sostenibili
 - Suola morbida per movimenti fluidi
 - Adatto per: tutte le stagioni
 

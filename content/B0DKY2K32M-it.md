@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Senza PFC
+- 8% elastan
 - Composizione: 92% poliestere riciclato (PET)
 - Occhielli di aerazione
+- Senza PFC
+- Resistente allacqua
 - Stemmi
 - Antivento
 - Chiusura con zip
-- 8% elastan
-- Resistente allacqua
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DKY2K32M{{</world>}}

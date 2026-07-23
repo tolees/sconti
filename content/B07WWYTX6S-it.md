@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Contenuto di 75 ml
 - Trasforma la pelle secca in una pelle vellutata e luminosa
+- Contenuto di 75 ml
 - Dona un aspetto uniforme alla pelle
 - Uso quotidiano per ripristinare la morbidezza delle mani
 

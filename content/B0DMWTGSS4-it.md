@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Scollo rotondo
-- Ricamo
 - Maglione
+- Ricamo
+- Scollo rotondo
 - 35% Viscosa 35% Poliammide 30% Lana
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

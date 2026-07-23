@@ -28,8 +28,8 @@ average: '16.245'
 
 ℹ️:
 
-- Questo è un prodotto originale Levis
 - Facile da indossare
+- Questo è un prodotto originale Levis
 - Vestibilità comoda
 - Design moderno
 

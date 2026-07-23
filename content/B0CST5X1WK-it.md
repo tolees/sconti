@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Soul Of A Supetramp - De Anima Edition - CD + Poster'
-date: 2026-07-22 02:08:14
+date: 2026-07-23 04:05:21
 image: 'https://m.media-amazon.com/images/I/51yUDtzPuGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0CST5X1WK/?tag=tolees00-21'
 descuento: '21.89'
-average: '14.49'
+average: '14.39'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

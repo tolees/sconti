@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- FOCUS DOPPIA LENTE: ottieni automaticamente lo scatto perfetto. Il Polaroid Now+ dispone di un sistema di lenti ottiche iperfocali a commutazione automatica a doppia zona (Close-Up & Standard).
-- Regalo bonus: Polaroid Now+ include un kit di filtri per lenti in omaggio. Include 5 filtri creativi per lenti: Starburst, Red Vignette, Orange, Yellow e Blu.
 - Funzionalità complete: treppiede pronto per il montaggio, batteria ricaricabile alimentata USB-C, sistema a doppia lente autofocus, flash preciso, app Bluetooth collegata e kit di 5 filtri per lenti. Inoltre, il formato quadrato originale Polaroid compatibile sia con pellicole i-Type che con pellicola 600
+- FOCUS DOPPIA LENTE: ottieni automaticamente lo scatto perfetto. Il Polaroid Now+ dispone di un sistema di lenti ottiche iperfocali a commutazione automatica a doppia zona (Close-Up & Standard).
 - POLAROID NOW+ FILM PACCHETTO: 16 Foto a colori incluse nella confezione. È la fotocamera Polaroid che ami e molto di più. La nostra app connessa Bluetooth offre un controllo manuale completo - doppia esposizione - pittura della luce - trigger di rumore - e altro ancora! Now+ Generation 2 è ora realizzato con il 40% di plastica riciclata.
+- Regalo bonus: Polaroid Now+ include un kit di filtri per lenti in omaggio. Include 5 filtri creativi per lenti: Starburst, Red Vignette, Orange, Yellow e Blu.
 - Telecamera analogica collegata: la fotocamera Polaroid Now+ è la nostra fotocamera più creativa. Sblocca ancora più strumenti creativi con lapp Polaroid e una connessione Bluetooth facile da usare. App disponibile per iOS e Android.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

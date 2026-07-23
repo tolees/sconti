@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- GIOCO DI RUOLO RICCO DAZIONE: include un treno LEGO telecomandato, 3 vagoni, unauto da rally, un elicottero giocattolo, una prigione, una cassaforte, un passaggio a livello e 6 minifigure
+- UN MODO DIVERTENTE DI COSTRUIRE: l’app LEGO Builder guida i giovani in un viaggio digitale 3D in cui possono ingrandire, ruotare, monitorare i progressi e salvare i set durante il montaggio
 - CARATTERISTICHE DIVERTENTI: l’elicottero del ladro ha un artiglio per rubare la cassaforte della banca e la macchina giocattolo; il set comprende anche una funzione esplosiva della cella
-- BINARI LEGO PER IL TRENO ELETTRICO: contiene una serie di elementi LEGO rotaie per creare una ferrovia ovale; la locomotiva può essere controllata tramite il telecomando incluso o con uno smart device e l’app Powered Up
+- GIOCO DI RUOLO RICCO DAZIONE: include un treno LEGO telecomandato, 3 vagoni, unauto da rally, un elicottero giocattolo, una prigione, una cassaforte, un passaggio a livello e 6 minifigure
 - TRENO GIOCATTOLO DELLA POLIZIA: il kit costruibile Rapina al Treno della Polizia LEGO City è un divertente gioco STEM per bambini e bambine da 7 anni in su, con un treno motorizzato, un elicottero LEGO e un’auto
 - REGALO CREATIVO: unavvincente idea regalo di compleanno per bambini e bambine fan dei set della polizia, pensata per gli appassionati di modellini di treni LEGO City telecomandati da costruire
-- UN MODO DIVERTENTE DI COSTRUIRE: l’app LEGO Builder guida i giovani in un viaggio digitale 3D in cui possono ingrandire, ruotare, monitorare i progressi e salvare i set durante il montaggio
+- BINARI LEGO PER IL TRENO ELETTRICO: contiene una serie di elementi LEGO rotaie per creare una ferrovia ovale; la locomotiva può essere controllata tramite il telecomando incluso o con uno smart device e l’app Powered Up
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FPXFQZFJ{{</world>}}

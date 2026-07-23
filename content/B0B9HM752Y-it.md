@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Sorprendi le classifiche: Stabilisci record in sette modi diversi dove e quando vuoi nel tuo MixWorld: Drift, Air, Near Miss, Stunt, Crash e il tradizionale Time
-- Mix All Modes - Sia che si tratti di una semplice corsa o di uno stunt di squadra in cui fare il salto più alto con tonneau porta punti al tuo team, sei tu a controllare il gameplay del tuo mondo
-- Mix My World: Un mondo aperto da scoprire e progettare; posiziona dove vuoi salti, anelli, half-pipe, ostacoli mobili e molto altro ancora nel tuo MixWorld; nemmeno il cielo costituisce un limite
-- Mix My Music: Le stazioni radio sono spesso eroi dimenticati dei giochi di guida; segui fino a 16 canali e ricevi aggiornamenti dal tuo MixWorld o ascolta in streaming le tue playlist da Spotify
 - Mix My Car: Scegli colori, finiture, cerchioni, aggiungi fiamme, suoni, parabrezza colorati, gomme, cambio manuale o automatico: se cè, puoi personalizzarlo; tutto disponibile sin dallinizio
+- Mix My Music: Le stazioni radio sono spesso eroi dimenticati dei giochi di guida; segui fino a 16 canali e ricevi aggiornamenti dal tuo MixWorld o ascolta in streaming le tue playlist da Spotify
+- Sorprendi le classifiche: Stabilisci record in sette modi diversi dove e quando vuoi nel tuo MixWorld: Drift, Air, Near Miss, Stunt, Crash e il tradizionale Time
+- Mix My World: Un mondo aperto da scoprire e progettare; posiziona dove vuoi salti, anelli, half-pipe, ostacoli mobili e molto altro ancora nel tuo MixWorld; nemmeno il cielo costituisce un limite
+- Mix All Modes - Sia che si tratti di una semplice corsa o di uno stunt di squadra in cui fare il salto più alto con tonneau porta punti al tuo team, sei tu a controllare il gameplay del tuo mondo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B9HM752Y{{</world>}}

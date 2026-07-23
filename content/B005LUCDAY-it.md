@@ -28,9 +28,9 @@ average: '5.95'
 
 ℹ️:
 
-- Strumenti in Profi – qualitä
-- Chiavi combinate, 1/2 "
 - Qualità originale BGS
+- Chiavi combinate, 1/2 "
+- Strumenti in Profi – qualitä
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B005LUCDAY{{</world>}}

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- La Collectors Ed. include: il gioco base su disco (versioni console) o codice (PC Steam) - DLC - Statua del Selvaggio 25 cm -Steelbook - Artbook con copertina rigida (40 Pagine) - 8 Carte dei Crepuscolari -Colonna Sonora Digitale
 - Prendi il controllo di eroi unici, ciascuno contraddistinto da uno stile e da abilità proprie. Per quanto formidabili da sole, le loro abilità creano potenti sinergie se usate in squadra.
 - Unisci le forze con altri giocatori per affrontare i pericoli in agguato nella notte, anche in modalità cooperativa per 3 giocatori.
 - Affronta unimplacabile minaccia ambientale che incombe su un mondo di gioco che cambia a ogni sessione e sconfiggi limponente boss di quella notte!
+- La Collectors Ed. include: il gioco base su disco (versioni console) o codice (PC Steam) - DLC - Statua del Selvaggio 25 cm -Steelbook - Artbook con copertina rigida (40 Pagine) - 8 Carte dei Crepuscolari -Colonna Sonora Digitale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DWXLCVLK{{</world>}}

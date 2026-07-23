@@ -28,11 +28,11 @@ average: '1.74'
 
 ℹ️:
 
-- CALVÉ: dai voce alla tua creatività rendendo i tuoi piatti super gustosi. Calvé, perchè buono può diventare buonissimo!
-- AIOLI MAIO CALVÉ: salsa maionese con delicato sapore di aglio, ispirata alla caratteristica ricetta della salsa Aioli spagnola, direttamente dalla tradizione mediterranea al tuo piatto.
-- GUSTO DELICATO E AVVOLGENTE: cremosità equilibrata e sapore distintivo di aglio, pensato per chi cerca personalità senza rinunciare alla delicatezza
-- PENSATO PER TAPAS E GRIGLIATE: ottima con tapas, patate al forno, panini gourmet, pesce grigliato e verdure saporite, per esaltare ogni piatto
 - FORMATO TOP DOWN 250ML: disponibile nel comodo formato Top Down 250 ml.
+- AIOLI MAIO CALVÉ: salsa maionese con delicato sapore di aglio, ispirata alla caratteristica ricetta della salsa Aioli spagnola, direttamente dalla tradizione mediterranea al tuo piatto.
+- PENSATO PER TAPAS E GRIGLIATE: ottima con tapas, patate al forno, panini gourmet, pesce grigliato e verdure saporite, per esaltare ogni piatto
+- CALVÉ: dai voce alla tua creatività rendendo i tuoi piatti super gustosi. Calvé, perchè buono può diventare buonissimo!
+- GUSTO DELICATO E AVVOLGENTE: cremosità equilibrata e sapore distintivo di aglio, pensato per chi cerca personalità senza rinunciare alla delicatezza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FJG91NWB{{</world>}}

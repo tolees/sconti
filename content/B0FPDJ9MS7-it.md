@@ -28,11 +28,11 @@ average: '55.99'
 
 ℹ️:
 
-- SICUREZZA: la friggitrice ad aria è dotata di protezione da surriscaldamento, sistema di interruzione dellalimentazione quando il cestello è staccato dalla base e piedini antiscivolo
-- MULTIFUNZIONE: la friggitrice ad aria 6 L è dotata di un display digitale con 8 programmi pre-impostati personalizzabili dallutente, un timer di 60 minuti e temperatura regolabile da 80° a 200°
-- CAPACITÀ: con una capacità di 6 L per servire in quantità generose, ideale per cuocere senza laggiunta di olio
 - DESIGN VINTAGE: la friggitrice ad aria 6 L Champagne Iridea fa parte dellampia gamma di piccoli elettrodomestici Tognana disponibili in più colorazioni dal look retrò e accattivante, per un perfetto stile vintage colorato e di tendenza.
 - PULIZIA: gli accessori di cottura sono lavabili in lavastoviglie; il corpo della friggitrice è lavabile solo a mano con panno morbido e leggermente inumidito.
+- SICUREZZA: la friggitrice ad aria è dotata di protezione da surriscaldamento, sistema di interruzione dellalimentazione quando il cestello è staccato dalla base e piedini antiscivolo
+- CAPACITÀ: con una capacità di 6 L per servire in quantità generose, ideale per cuocere senza laggiunta di olio
+- MULTIFUNZIONE: la friggitrice ad aria 6 L è dotata di un display digitale con 8 programmi pre-impostati personalizzabili dallutente, un timer di 60 minuti e temperatura regolabile da 80° a 200°
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FPDJ9MS7{{</world>}}

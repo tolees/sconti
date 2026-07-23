@@ -30,8 +30,8 @@ average: '6.95'
 
 - Applicazione: Per un risultato naturale, applicare la crema BB usando le dita e allungare la consistenza uniformemente sul viso
 - Arricchito con vitamine B5 ed E per una pelle dallaspetto più sana in 2 settimane** (**Test dei consumatori su 113 donne)
-- Risultato: Una carnagione luminosa e idratata per 24 ore* (*Test strumentale)
 - Contenuto della confezione: 1 x Magic BB Crema Idratante, Tonalità: Medium scuro (05), Capacità: 30 ml
+- Risultato: Una carnagione luminosa e idratata per 24 ore* (*Test strumentale)
 - Crema colorata 5 in 1 che combina perfettamente i vantaggi di un fondotinta e di una cura: idrata 24H* (*Test strumentale), unifica, liscia, illumina e protegge, non comedogeno, adatta per pelli sensibili e pelli grasse
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

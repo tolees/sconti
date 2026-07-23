@@ -28,11 +28,11 @@ average: '1.71'
 
 ℹ️:
 
-- PESTI BARILLA: tutti i pesti Barilla sono senza glutine e preparati senza aggiungere conservanti. Porta in tavola qualità e gusto con ingredienti semplici per deliziose ricette
-- IDEALE PER: dare alla tua pasta un gusto avvolgente e delicatamente tostato
-- PESTO BASILICO E PISTACCHIO: un pesto a base basilico con un gusto e una texture distintiva, cremosa con granella di pistacchio, realizzato con ingredienti di qualità
-- BARILLA: un azienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
 - CARATTERISTICHE: un pesto cremoso con una soprendente nota croccante. Preparato con basilico italiano da agricoltura sostenibile e granella di pistacchio. Senza aglio
+- IDEALE PER: dare alla tua pasta un gusto avvolgente e delicatamente tostato
+- BARILLA: un azienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
+- PESTO BASILICO E PISTACCHIO: un pesto a base basilico con un gusto e una texture distintiva, cremosa con granella di pistacchio, realizzato con ingredienti di qualità
+- PESTI BARILLA: tutti i pesti Barilla sono senza glutine e preparati senza aggiungere conservanti. Porta in tavola qualità e gusto con ingredienti semplici per deliziose ricette
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09TLHQXGV{{</world>}}

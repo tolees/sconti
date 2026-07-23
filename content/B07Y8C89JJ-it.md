@@ -28,11 +28,11 @@ average: '170.875'
 
 ℹ️:
 
-- Linterno è composto da: 4cm di Memory Air, 14cm di Waterfoam HR ad alta densità , e ancora 4cm di Memory Air . Si tratta di un prodotto ergonomico, capace di conciliare il comfort a unottima portanza.portanza.
 - GRANDEUR : Materasso in MEMORY AIR, alto 24 cm, a sette zone di portanza differenziata, portanza medio/rigida.
+- Il rivestimento è in COTONE E FIBRA DARGENTO, capace di offrire uneccellente azione antibatterica, antiacaro e antistatica. Completamente anallergico.
 - Siamo produttori ARTIGIANALI dellintera struttura di riposo. Situati a Prato, in Toscana, capitale mondiale del tessile. MADE IN ITALY 100%
 - Grandeur è certificato Certipur, CFC free e CATAS. Garanzia di 10 anni e 30 giorni di prova
-- Il rivestimento è in COTONE E FIBRA DARGENTO, capace di offrire uneccellente azione antibatterica, antiacaro e antistatica. Completamente anallergico.
+- Linterno è composto da: 4cm di Memory Air, 14cm di Waterfoam HR ad alta densità , e ancora 4cm di Memory Air . Si tratta di un prodotto ergonomico, capace di conciliare il comfort a unottima portanza.portanza.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07Y8C89JJ{{</world>}}

@@ -28,11 +28,11 @@ average: '19.45'
 
 ℹ️:
 
-- Jeans casual a vita regolare con dettagli unici: 5 tasche, patta con zip, 5 passanti classici e bottoni in metallo
-- Contenuto: 1x Jeans Uomo Lee, Modello: 112119043, Numero di lotto: L719HFAE, Lunghezza: 32, Taglia: 29, Materiale: 98% cotone 2% elastan, Stretch: bassa elasticità, Colore: Clean Black (Nero)
-- Jeans dal taglio inconfondibilmente moderno realizzati in cotone resistente, Lavabili in lavatrice a freddo, Lava al rovescio, Il colore può trasferirsi con lo sfregamento su materiali chiari
 - Comodi jeans Lee con un taglio slim lungo la coscia che si affusola fino a diventare stretto sullorlo alla caviglia, Un modello fresco e contemporaneo per un look adatto a tutte le situazioni
+- Jeans dal taglio inconfondibilmente moderno realizzati in cotone resistente, Lavabili in lavatrice a freddo, Lava al rovescio, Il colore può trasferirsi con lo sfregamento su materiali chiari
+- Jeans casual a vita regolare con dettagli unici: 5 tasche, patta con zip, 5 passanti classici e bottoni in metallo
 - Un capo dallo stile classico e moderno che slancia la figura, Indispensabile in ogni guardaroba e ideale per un uso quotidiano
+- Contenuto: 1x Jeans Uomo Lee, Modello: 112119043, Numero di lotto: L719HFAE, Lunghezza: 32, Taglia: 29, Materiale: 98% cotone 2% elastan, Stretch: bassa elasticità, Colore: Clean Black (Nero)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B009WOB5EU{{</world>}}

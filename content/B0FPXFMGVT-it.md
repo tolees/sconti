@@ -29,12 +29,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - TANTI DETTAGLI: scivolo della spazzatura e compattatore di rifiuti, ascensore funzionante, sala del trono dell’Imperatore Palpatine e Shuttle Imperiale, unità di controllo del raggio traente, Superlaser e molto altro
-- KIT DI MODELLISMO DIORAMA LEGO STAR WARS MORTE NERA: costruisci il set LEGO Star Wars di maggiori dimensioni (al momento del lancio), la versione Ultimate Collector Series della Morte Nera, tratta da Star Wars: Una Nuova Speranza
-- 38 PERSONAGGI: include 36 minifigure LEGO Star Wars, tra cui Luke Skywalker (versione Jedi e Stormtrooper), Han Solo (2 versioni), Principessa Leia, Chewbacca e Darth Vader, e 2 figure di droidi LEGO
-- REGALO LEGO STAR WARS DA COLLEZIONE PER ADULTI: unottima idea regalo per un uomo o una donna amanti di Star Wars, e per i costruttori LEGO fan dei set UCS
-- AMBIENTAZIONI ICONICHE: include anche la sala conferenze dellammiraglio Tarkin, la sala di meditazione di Darth Vader, la cella di detenzione di Leia, il nucleo del reattore e altro ancora
-- IMMERGITI NELLA COSTRUZIONE: goditi ogni step di questo complesso modello con l’app LEGO Builder, con la quale puoi visualizzare una versione digitale 3D del modellino mentre lo costruisci, monitorare i progressi fatti e salvare i set
 - RICREA SCENE CLASSICHE: rivivi i momenti iconici con la Morte Nera, come Luke e Leia che si mettono in salvo dal ponte retrattile, o il duello con le spade laser tra Darth Vader e Obi-Wan Kenobi
+- KIT DI MODELLISMO DIORAMA LEGO STAR WARS MORTE NERA: costruisci il set LEGO Star Wars di maggiori dimensioni (al momento del lancio), la versione Ultimate Collector Series della Morte Nera, tratta da Star Wars: Una Nuova Speranza
+- IMMERGITI NELLA COSTRUZIONE: goditi ogni step di questo complesso modello con l’app LEGO Builder, con la quale puoi visualizzare una versione digitale 3D del modellino mentre lo costruisci, monitorare i progressi fatti e salvare i set
+- 38 PERSONAGGI: include 36 minifigure LEGO Star Wars, tra cui Luke Skywalker (versione Jedi e Stormtrooper), Han Solo (2 versioni), Principessa Leia, Chewbacca e Darth Vader, e 2 figure di droidi LEGO
+- AMBIENTAZIONI ICONICHE: include anche la sala conferenze dellammiraglio Tarkin, la sala di meditazione di Darth Vader, la cella di detenzione di Leia, il nucleo del reattore e altro ancora
+- REGALO LEGO STAR WARS DA COLLEZIONE PER ADULTI: unottima idea regalo per un uomo o una donna amanti di Star Wars, e per i costruttori LEGO fan dei set UCS
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FPXFMGVT{{</world>}}

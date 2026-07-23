@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- IL MONDO DEGLI INSETTI: un kit nato dalla collaborazione con Geopop per scoprire e osservare da vicino il mondo degli insetti, raccogliendoli nella fauna box da assemblare, trasportabile con tracolla
-- COME GIOCARE: monta la fauna box e lo strumento acchiappa-insetti, cattura piccoli animaletti e custodiscili con cura; grazie ai consigli di Geopop, osservali da vicino e scopri curiosità scientifiche sul loro comportamento
-- COSA CONTIENE: gioco scientifico Made in Italy adatto per bambini da 10 anni in su, include fauna box con tracolla, forbice acchiappa-insetti, strumenti per la raccolta e l’osservazione, manuale illustrato con contenuti divulgativi curati insieme a Geopop
 - IMPARARE GIOCANDO: scopri le abitudini degli insetti in modo divertente e sicuro grazie ai contenuti sviluppati con Geopop, osservandoli da vicino, studiandoli e imparando a riconoscerne le caratteristiche e il ruolo nell’ambiente
+- IL MONDO DEGLI INSETTI: un kit nato dalla collaborazione con Geopop per scoprire e osservare da vicino il mondo degli insetti, raccogliendoli nella fauna box da assemblare, trasportabile con tracolla
+- COSA CONTIENE: gioco scientifico Made in Italy adatto per bambini da 10 anni in su, include fauna box con tracolla, forbice acchiappa-insetti, strumenti per la raccolta e l’osservazione, manuale illustrato con contenuti divulgativi curati insieme a Geopop
 - CLEMENTONI x GEOPOP: una linea di giochi pensata per avvicinare bambini e ragazzi alla scienza, unendo l’approccio educativo di Clementoni con la capacità divulgativa di Geopop; esperimenti, quiz e attività pratiche per imparare divertendosi
+- COME GIOCARE: monta la fauna box e lo strumento acchiappa-insetti, cattura piccoli animaletti e custodiscili con cura; grazie ai consigli di Geopop, osservali da vicino e scopri curiosità scientifiche sul loro comportamento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F2TRJQ8C{{</world>}}

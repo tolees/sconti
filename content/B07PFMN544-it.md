@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tasto di espulsione delle fruste
 - Funzione TURBO
+- Tasto di espulsione delle fruste
+- Accessori: sbattitori ed impastatori in acciaio inossidabile
+- Dimensioni (mm): 175 x 145 x 85
 - 5 velocità di lavorazione / Potenza 170 W
 - Alimentazione: AC 220-240v, 5060 Hz
-- Dimensioni (mm): 175 x 145 x 85
-- Accessori: sbattitori ed impastatori in acciaio inossidabile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07PFMN544{{</world>}}

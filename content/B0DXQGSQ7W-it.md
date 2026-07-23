@@ -28,11 +28,11 @@ average: '10.62'
 
 ℹ️:
 
-- PROTEZIONE DALLESTERNO – Dallesterno, lefficace sistema di filtri UV della protezione solare protegge dalle scottature e dallinvecchiamento precoce causato dai raggi UVA e UVB
 - PROTEZIONE DALLINTERNO – Dallinterno, la protezione corpo 50+ con Acido Ialuronico dona idratazione profonda, aiuta a proteggere la salute della pelle e riduce lo stress ossidativo delle cellule*
+- RESISTENTE ALLACQUA – La formula senza microplastiche e dermatologicamente testata della crema solare corpo 50+ è waterproof, per una sicurezza di cui ti puoi fidare, tuffo dopo tuffo
 - CONTENUTO DELLA CONFEZIONE – NIVEA SUN Protect & Hydrate Invisible Finish protezione solare 50+, protezione 50+ ultra leggera che non lascia residui, confezione da 150 ml, numero articolo: 93703
 - PROTEZIONE INVISIBILE – La formula dry-touch della crema solare NIVEA SUN Invisible Finish si assorbe in pochi secondi e non lascia residui, per un finish invisibile e una pelle libera di respirare
-- RESISTENTE ALLACQUA – La formula senza microplastiche e dermatologicamente testata della crema solare corpo 50+ è waterproof, per una sicurezza di cui ti puoi fidare, tuffo dopo tuffo
+- PROTEZIONE DALLESTERNO – Dallesterno, lefficace sistema di filtri UV della protezione solare protegge dalle scottature e dallinvecchiamento precoce causato dai raggi UVA e UVB
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DXQGSQ7W{{</world>}}

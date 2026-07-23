@@ -28,9 +28,9 @@ average: '7.39875'
 
 ℹ️:
 
+- Soluzione a base di urea ad elevatissima purezza
 - Conforme alla ISO 22241
 - Riduce le emissioni di ossido in azoto (Nox) nei motori diesel
-- Soluzione a base di urea ad elevatissima purezza
 - Converte i Nox (gas nocivi causa principale dello smog) in vapore acqueo e azoto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

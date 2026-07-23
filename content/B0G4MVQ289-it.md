@@ -30,8 +30,8 @@ average: '15.5'
 
 - SUPPORTATE DALLA SCIENZA: La tiamina e le vitamine B6, C, B12, il ferro e lo iodio contribuiscono al normale metabolismo energetico. Il ferro e le vitamine D, C, B6 e B12 supportano la normale funzione del sistema immunitario. Il ferro e le vitamine B6, B12 e C contribuiscono alla riduzione di stanchezza e affaticamento. La vitamina C aumenta l’assorbimento del ferro. (EFSA)
 - ALTA DOSE DI FERRO & NUTRIENTI ESSENZIALI: Queste caramelle gommose vegane forniscono ferro insieme a vitamine C, B6, B12, D, acido folico, tiamina e iodio. Questa combinazione completa è pensata per integrare uno stile di vita plant-based e supportare il tuo benessere quotidiano.
-- PRODOTTO CON CURA: Da Bears with Benefits sviluppiamo e produciamo i nostri integratori nel nostro laboratorio, sotto la supervisione di esperti in micronutrizione. Ci impegniamo a creare prodotti naturali di alta qualità che ti accompagnino ogni giorno nel prenderti cura di te.
 - DELIZIOSA ROUTINE QUOTIDIANA: Basta 1 gustoso orsetto al giorno. Progettati per integrarsi perfettamente nella tua routine mattutina.
+- PRODOTTO CON CURA: Da Bears with Benefits sviluppiamo e produciamo i nostri integratori nel nostro laboratorio, sotto la supervisione di esperti in micronutrizione. Ci impegniamo a creare prodotti naturali di alta qualità che ti accompagnino ogni giorno nel prenderti cura di te.
 - NATURALI E SENZA INGREDIENTI ARTIFICIALI: Senza zucchero e senza glutine, realizzate senza coloranti, aromi o conservanti artificiali. Goditi il delizioso gusto ai lamponi e more.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ average: '38.0'
 
 ℹ️:
 
-- 𝗖𝗼?𝘁𝗿𝗼𝗹𝗹𝗼 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝘁𝗲 𝗮𝗱 𝗔𝗹𝘁𝗮 𝗖𝗮𝗽𝗮𝗰𝗶𝘁à: Supporta fino a 13A (3000W) per la gestione remota di luci, riscaldamento e vari elettrodomestici
 - 𝗖𝗼𝗻𝘁𝗿𝗼𝗹𝗹𝗼 𝗦𝗺𝗮𝗿𝘁 𝗲 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗮𝘇𝗶𝗼𝗻𝗲: Usa l’app Shelly Smart Control o assistenti vocali come Alexa, Google Home, Apple HomeKit o SmartThings per impostare timer, creare scenari e automatizzare la casa – 𝗻𝗲𝘀𝘀𝘂𝗻 𝗵𝘂𝗯 𝗿𝗶𝗰𝗵𝗶𝗲𝘀𝘁𝗼
-- 𝗠𝗼𝗻𝗶𝘁𝗼𝗿𝗮𝗴𝗴𝗶𝗼 𝗱𝗲𝗶 𝗖𝗼𝗻𝘀𝘂𝗺𝗶: Misuratore di energia integrato per rilevare in tempo reale i consumi dei dispositivi connessi e gestire in modo intelligente lenergia
-- 𝗗𝗲𝘀𝗶𝗴𝗻 𝗲 𝗦𝗶𝗰𝘂𝗿𝗲𝘇𝘇𝗮: Indicatore LED integrato e protezioni avanzate contro sovracorrente, sovraccarico, sovratensione e surriscaldamento
 - 𝗪𝗶-𝗙𝗶 + 𝗖𝗼𝗻𝗳𝗶𝗴𝘂𝗿𝗮𝘇𝗶𝗼𝗻𝗲 𝗥𝗮𝗽𝗶𝗱𝗮: Funziona su Wi-Fi 2,4 GHz per un controllo smart fluido; Bluetooth & Matter incluso per semplificare il collegamento
+- 𝗗𝗲𝘀𝗶𝗴𝗻 𝗲 𝗦𝗶𝗰𝘂𝗿𝗲𝘇𝘇𝗮: Indicatore LED integrato e protezioni avanzate contro sovracorrente, sovraccarico, sovratensione e surriscaldamento
+- 𝗠𝗼𝗻𝗶𝘁𝗼𝗿𝗮𝗴𝗴𝗶𝗼 𝗱𝗲𝗶 𝗖𝗼𝗻𝘀𝘂𝗺𝗶: Misuratore di energia integrato per rilevare in tempo reale i consumi dei dispositivi connessi e gestire in modo intelligente lenergia
+- 𝗖𝗼?𝘁𝗿𝗼𝗹𝗹𝗼 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝘁𝗲 𝗮𝗱 𝗔𝗹𝘁𝗮 𝗖𝗮𝗽𝗮𝗰𝗶𝘁à: Supporta fino a 13A (3000W) per la gestione remota di luci, riscaldamento e vari elettrodomestici
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GHZ7YWPW{{</world>}}

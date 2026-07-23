@@ -28,11 +28,11 @@ average: '23.74'
 
 ℹ️:
 
-- GUSTO: Laspetto è velato, il gusto è rotondo e piacevolmente fresco, con un aroma maltato e sul finale note luppolate
 - RAFFO LAVORAZIONE GREZZA: viene introdotto nel 2024 come innovazione della famiglia Raffo. Nasce da uno speciale processo produttivo, la Lavorazione Grezza, per una LAGER NON FILTRATA e arricchita con CEREALI DI PUGLIA Non Raffinati. Da servire a 3-5°
-- IDEALE CON: Crudi di mare, Orecchiette con cime di rapa, Bombette pugliesi, Focacce e pizze saporite
-- GRADAZIONE ALCOLICA: 4.8% Vol
 - FORMATO: cassa di birra con 24 bottiglie da 33 cl
+- GUSTO: Laspetto è velato, il gusto è rotondo e piacevolmente fresco, con un aroma maltato e sul finale note luppolate
+- GRADAZIONE ALCOLICA: 4.8% Vol
+- IDEALE CON: Crudi di mare, Orecchiette con cime di rapa, Bombette pugliesi, Focacce e pizze saporite
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CTHYWZJ9{{</world>}}

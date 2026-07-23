@@ -28,11 +28,11 @@ average: '206.99'
 
 ℹ️:
 
-- Dotazione: EasyMower 18V-32-200, 1 batteria PBA 18V da 4,0 Ah, 1 caricabatteria AL 1830, confezione in cartone
-- Grazie al suo design leggero e super maneggevole, il rasaerba cura facilmente e senza sforzo prati di piccole dimensioni
-- Impugnatura superiore ripiegabile, per riporlo in poco spazio
 - Utensili per il giardinaggio Easy di Bosch – per giardini di piccole e medie dimensioni
 - POWER FOR ALL ALLIANCE: 1 BATTERIA, 10+ MARCHI, ​150+ PRODOTTI.​
+- Grazie al suo design leggero e super maneggevole, il rasaerba cura facilmente e senza sforzo prati di piccole dimensioni
+- Impugnatura superiore ripiegabile, per riporlo in poco spazio
+- Dotazione: EasyMower 18V-32-200, 1 batteria PBA 18V da 4,0 Ah, 1 caricabatteria AL 1830, confezione in cartone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09TC9PH5G{{</world>}}

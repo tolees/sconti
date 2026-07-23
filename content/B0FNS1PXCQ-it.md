@@ -28,11 +28,11 @@ average: '47.99'
 
 ℹ️:
 
+- Celebra lo spirito audace e ottimista di New York con un profumo da uomo che cattura l’energia vibrante e il ritmo inarrestabile della metropoli
 - Tommy Hilfiger è un brand di moda iconico, noto per il suo stile americano classico e di tendenza e impegnato a diffondere i propri valori di libertà, inclusività e condivisione
+- Le note di testa di lavanda, bergamotto e salvia si fondono con un cuore speziato di coriandolo, cardamomo e pepe rosa, per poi lasciare spazio al calore del legno di cedro, creando una scia audace e intensa
 - Abbraccia lo spirito di New York, la città dove tutto è possibile ; Tommy New York racchiude lenergia, lottimismo e il ritmo della città in una fragranza vibrante
 - La fragranza è racchiusa in un flacone in vetro blu da 100 ml, ispirato allo skyline di New York, impreziosito da un elegante tappo argentato: un omaggio senza tempo al caratteristico denim di Tommy Hilfiger
-- Celebra lo spirito audace e ottimista di New York con un profumo da uomo che cattura l’energia vibrante e il ritmo inarrestabile della metropoli
-- Le note di testa di lavanda, bergamotto e salvia si fondono con un cuore speziato di coriandolo, cardamomo e pepe rosa, per poi lasciare spazio al calore del legno di cedro, creando una scia audace e intensa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FNS1PXCQ{{</world>}}

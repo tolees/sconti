@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Contenuto della confezione: un caricabatterie Anker 511 (Nano 3, 30 W), un manuale di istruzioni (lingua italiana non garantita), 24 mesi di garanzia del produttore e servizio clienti cordiale. (Cavo di ricarica non incluso)
-- Prestazioni di ricarica ad alta velocità: carica il tuo iPhone 15 Pro e Pro Max con 30 W alla massima velocità o ricarica il tuo iPad Air (5° generazione) in soli 45 minuti al 50% della batteria. Supporta anche Samsung Super Fast Charging (25W).
 - Piccolo ma potente: sostituendo il silicio con il nitruro di gallio (GaN), abbiamo potuto installare 30 W di potenza in un piccolo caricabatterie, sottile 2,8 cm e il 70% più piccolo di un caricatore originale da 30 W.
 - NEED FOR NANO: aggiornato con una potenza di uscita di 30 W, così puoi ricaricare auricolari, smartphone, tablet e persino il tuo MacBook Air con un caricabatterie leggerissimo.
 - PROTEZIONE DI RICARICA CON ACTIVESHIELD 2.0: la tecnologia di ricarica interna di Anker protegge i tuoi dispositivi monitorando in modo intelligente la temperatura di carica oltre 3 milioni di volte al giorno, due volte più spesso rispetto ad ActiveShield 1.0.
+- Contenuto della confezione: un caricabatterie Anker 511 (Nano 3, 30 W), un manuale di istruzioni (lingua italiana non garantita), 24 mesi di garanzia del produttore e servizio clienti cordiale. (Cavo di ricarica non incluso)
+- Prestazioni di ricarica ad alta velocità: carica il tuo iPhone 15 Pro e Pro Max con 30 W alla massima velocità o ricarica il tuo iPad Air (5° generazione) in soli 45 minuti al 50% della batteria. Supporta anche Samsung Super Fast Charging (25W).
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B2VQ462Z{{</world>}}

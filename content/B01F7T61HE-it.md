@@ -29,9 +29,9 @@ average: '79.99'
 ℹ️:
 
 - Indistruttibile: Intemperie, fango, polvere non saranno mai un problema per il tuo interfono. Grazie alla certificazione IP67 potrai utilizzarlo anche in condizioni metereologiche sfavorevoli, lacqua non sarà più dimpedimento ai tuoi spostamenti.
-- Universale: Puoi montare Interphone Sport su ogni tipo di casco, puoi connetterlo a tutti gli smartphone e navigatori gps dotati di tecnologia Bluetooth, puoi abbinarlo anche a interfoni di altre marche o a modelli Interphone precedenti
-- Libertà di movimento: 20 ore di autonomia della batteria ti garantiscono spostamenti senza limiti. Dialoga con i tuoi compagni di viaggio, fino a 4, dimenticando il tempo e le distanze. Sport ti tiene in contatto con il gruppo fino a 1 kilometro di distanza.
 - Passione senza limiti: Interphone Sport è linterfono bluetooth per te che scegli di restare sempre connesso, con chi viaggi, con la tua musica o la tua strada. Semplicità; duso e alta tecnologia per investire in sicurezza e qualità durante lesperienza di guida.
+- Libertà di movimento: 20 ore di autonomia della batteria ti garantiscono spostamenti senza limiti. Dialoga con i tuoi compagni di viaggio, fino a 4, dimenticando il tempo e le distanze. Sport ti tiene in contatto con il gruppo fino a 1 kilometro di distanza.
+- Universale: Puoi montare Interphone Sport su ogni tipo di casco, puoi connetterlo a tutti gli smartphone e navigatori gps dotati di tecnologia Bluetooth, puoi abbinarlo anche a interfoni di altre marche o a modelli Interphone precedenti
 - High quality sound: Il microfono direzionale antivento e le due modalità di regolazione audio - automatica o in base al modello del casco - ti permetteranno di dialogare, ascoltare la musica o le indicazioni del gps senza il minimo sforzo anche a velocità sostenute.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

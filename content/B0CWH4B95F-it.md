@@ -28,11 +28,11 @@ average: '19.39'
 
 ℹ️:
 
-- Con 3 personaggi di Wicked, ispirati al Mago di Oz: include le mini bamboline di Glinda, Elphaba e Nessarose, una sedia a rotelle giocattolo, bauli, leggio e un libro di incantesimi
 - Casa delle bambole giocattolo e barca a vela: questo gioco per bambine e bambini da 7 anni, il set Glinda, Elphaba e Nessarose all’Università di Shiz, ricrea un momento iconico del film in cui le ragazze si incontrano per la prima volta
-- Crea la magia del film Wicked: un gioco di fantasia LEGO Wicked ricco di caratteristiche originali, tra cui la barca giocattolo di Glinda e il diario di Elphaba, oltre a tanti elementi magici
-- Altri giocattoli fantasy per i bambini: scopri gli altri set di costruzione LEGO Wicked (disponibili separatamente) ispirati al film, tutti disponibili nell’app LEGO Builder
 - Regalo di compleanno per bambine e bambini fan del musical Wicked e del Mago di Oz: un magico regalo per i piccoli che amano i giochi di fantasia, e per i fan del film Wicked
+- Con 3 personaggi di Wicked, ispirati al Mago di Oz: include le mini bamboline di Glinda, Elphaba e Nessarose, una sedia a rotelle giocattolo, bauli, leggio e un libro di incantesimi
+- Altri giocattoli fantasy per i bambini: scopri gli altri set di costruzione LEGO Wicked (disponibili separatamente) ispirati al film, tutti disponibili nell’app LEGO Builder
+- Crea la magia del film Wicked: un gioco di fantasia LEGO Wicked ricco di caratteristiche originali, tra cui la barca giocattolo di Glinda e il diario di Elphaba, oltre a tanti elementi magici
 - Giocattolo personalizzabile: l’edificio può essere personalizzato con elementi decorativi, si possono aggiungere accessori ai capelli di Glinda e scoprire altri contenuti LEGO Wicked scansionando il codice QR nascosto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

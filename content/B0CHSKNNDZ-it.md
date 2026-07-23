@@ -29,13 +29,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - 🏆 Durata 30 min | 2-8 giocatori | 10+ anni – ancora più coinvolgente in modalità a squadre.
-- 🔥 Con le carte AZIONE ogni partita diventa imprevedibile: blocchi, cambi di categoria e colpi di scena.
-- 🎄 Idea regalo Natale originale – un gioco di società divertente per unire tutte le generazioni intorno al tavolo.
 - 👜 Formato compatto: portalo ovunque, dalle feste alle serate tra amici.
-- 😍 Un gioco creato in famiglia, da un papà e sua figlia, già amato da migliaia di giocatori.
+- ✅ Regole semplici: 8 carte in mano, +250 categoria, una lettera per turno. Vince chi si libera per primo di tutte le carte.
+- 🎄 Idea regalo Natale originale – un gioco di società divertente per unire tutte le generazioni intorno al tavolo.
 - 💯 Gioco per adulti e famiglie: perfetto per amici, colleghi, bambini dai 10 anni in su. Ideale come gioco apéro, in vacanza o a Natale.
 - 💙 Il nuovo gioco da tavolo ispirato a “Nomi, Cose, Città” – il classico reinventato in un gioco di carte veloce e divertente.
-- ✅ Regole semplici: 8 carte in mano, +250 categoria, una lettera per turno. Vince chi si libera per primo di tutte le carte.
+- 🔥 Con le carte AZIONE ogni partita diventa imprevedibile: blocchi, cambi di categoria e colpi di scena.
+- 😍 Un gioco creato in famiglia, da un papà e sua figlia, già amato da migliaia di giocatori.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CHSKNNDZ{{</world>}}

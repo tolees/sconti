@@ -28,11 +28,11 @@ average: '26.6'
 
 ℹ️:
 
-- TOMMY NOW GIRL irradia un’energia fresca e grintosa alimentata dall’eccitazione del nuovo, una fragranza floreale fruttata e luminosa, che guarda al futuro
+- LEau de Toilette donna TOMMY NOW GIRL è racchiusa in un flacone da 100 ML con erogazione spray, e si distingue per il tappo che richiama i colori del brand
+- Vivi l’attimo e cogli lo spirito di TOMMY NOW: una linea fresca e grintosa, moderna e visionaria, energica nel qui ed ora, volta al futuro e alle infinite possibilità del cambiamento
 - Scopri le note di testa di camelia, menta e agrumi, seguite dalle note di cuore che sbocciano in un morbido accordo di magnolia, caprifoglio e gelsomino; le note di fondo di cashmeran e muschio completano la fragranza
 - Tommy Hilfiger è un brand di moda iconico, noto per il suo stile americano classico e di tendenza e impegnato a diffondere i propri valori di libertà, inclusività e condivisione
-- Vivi l’attimo e cogli lo spirito di TOMMY NOW: una linea fresca e grintosa, moderna e visionaria, energica nel qui ed ora, volta al futuro e alle infinite possibilità del cambiamento
-- LEau de Toilette donna TOMMY NOW GIRL è racchiusa in un flacone da 100 ML con erogazione spray, e si distingue per il tappo che richiama i colori del brand
+- TOMMY NOW GIRL irradia un’energia fresca e grintosa alimentata dall’eccitazione del nuovo, una fragranza floreale fruttata e luminosa, che guarda al futuro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07KLK9DX9{{</world>}}

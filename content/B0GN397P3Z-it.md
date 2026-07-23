@@ -28,11 +28,11 @@ average: '22.99'
 
 ℹ️:
 
-- Per ogni allenamento – Push, Pull, gambe o sessioni corpo completo. Che tu stia spingendo, tirando, lavorando gambe o facendo un allenamento completo, Dope Pre-Workout alimenta ogni stile di allenamento. Ideale per frequentatori di palestra che cercano energia costante*, concentrazione laser** e prestazioni migliorate***, indipendentemente dal tipo di allenamento.
-- Boost di energia ad alta stimolazione – 200mg di caffeina per porzione. Ogni porzione fornisce la dose legale massima di 200mg di caffeina – equivalente a 3 espressi – per migliorare la concentrazione e l’attenzione. Perfetto per uomini e donne che cercano un’intensa carica pre-allenamento.
-- Potenza muscolare & forza – 3g di creatina monoidrato. Formulato con 3g di creatina monoidrato pura per porzione per aumentare la potenza di sollevamento, supportare la produzione di ATP e aiutarti a fare qualche ripetizione in più. La creatina è indispensabile per chi si allena seriamente e per gli atleti che vogliono superare i plateau e costruire muscoli magri.
 - Miscela di citrullina & arginina AKG – Formulato con 3g di miscela di citrullina e 4g di arginina alfa-chetoglutarato, questa potente combinazione è perfetta per chi cerca quella sensazione di pompaggio durante allenamenti intensi.
 - Formicolii da beta-alanina – è ora di sollevare. Ogni porzione contiene 3,2g di beta-alanina, offrendo il formicolio caratteristico che ti fa capire che è ora di lavorare. Un preferito tra chi ama quella sensazione prima di una grande sessione.
+- Boost di energia ad alta stimolazione – 200mg di caffeina per porzione. Ogni porzione fornisce la dose legale massima di 200mg di caffeina – equivalente a 3 espressi – per migliorare la concentrazione e l’attenzione. Perfetto per uomini e donne che cercano un’intensa carica pre-allenamento.
+- Per ogni allenamento – Push, Pull, gambe o sessioni corpo completo. Che tu stia spingendo, tirando, lavorando gambe o facendo un allenamento completo, Dope Pre-Workout alimenta ogni stile di allenamento. Ideale per frequentatori di palestra che cercano energia costante*, concentrazione laser** e prestazioni migliorate***, indipendentemente dal tipo di allenamento.
+- Potenza muscolare & forza – 3g di creatina monoidrato. Formulato con 3g di creatina monoidrato pura per porzione per aumentare la potenza di sollevamento, supportare la produzione di ATP e aiutarti a fare qualche ripetizione in più. La creatina è indispensabile per chi si allena seriamente e per gli atleti che vogliono superare i plateau e costruire muscoli magri.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GN397P3Z{{</world>}}

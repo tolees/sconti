@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - 240Hz Frequenza di Aggiornamento, 0,03ms Tempo di Risposta – Frequenza di aggiornamento 240Hz e tempo di risposta 0,03ms (GtG) per una valutazione VESA ClearMR 13000; dissipatore in grafene senza ventola per migliorare la durabilità del pannello.
-- QD-OLED – Il monitor gaming MSI MPG 272URX QD-OLED è dotato di un pannello OLED a 5 strati con tecnologia EL Gen 3, che migliora lefficienza fino al 30%. Questo monitor offre una chiarezza straordinaria con 166 PPI e garantisce prestazioni affidabili
 - Connettività Avanzata – Opzioni di interfaccia per PC, Mac, console e laptop (tutti UHD/240Hz) con DisplayPort 2.1a, porte HDMI 2.1 CEC e USB Type-C con Power Delivery (98W); include un hub USB con 1 x USB 3.2 Gen1 Type-B e 2 x USB 3.2 Gen1 Type-A.
+- QD-OLED – Il monitor gaming MSI MPG 272URX QD-OLED è dotato di un pannello OLED a 5 strati con tecnologia EL Gen 3, che migliora lefficienza fino al 30%. Questo monitor offre una chiarezza straordinaria con 166 PPI e garantisce prestazioni affidabili
 - 26,5" UHD, Colore 10-BIT – Pannello Quantum Dot OLED con 1,07 miliardi di colori (10-bit, 99% DCI-P3), precisione Delta E ≤2, certificato VESA DisplayHDR True Black 400 (contrast ratio 1500000:1) e luminosità di picco fino a 1000 nits.
 - Gaming Intelligence – Il software MSI GI include OLED Care 2.0 per prevenire il burn-in, AI (Smart Crosshair), modalità Console e Game Assistance; supporta KVM 1.0, PiP/PbP; illuminazione RGB e supporto regolabile in 4 direzioni (VESA 100mm).
 

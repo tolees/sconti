@@ -28,11 +28,11 @@ average: '48.225'
 
 ℹ️:
 
+- Contenuto: 1x adattatore esterno Gardena smart Power
 - Robusto e protetto (classe di protezione IP 44): Per luso esterno tutto lanno sino a -20 °C
-- Utilizzo versatile: Utilizzabile con tutti i kit smart system
 - Estende il vostro smart system: Per collegare lampade, giochi dacqua, pompe, luminarie etc
 - Comandabile da dovunque vi troviate: Tramite smart App o a mano, direttamente sullapparecchio
-- Contenuto: 1x adattatore esterno Gardena smart Power
+- Utilizzo versatile: Utilizzabile con tutti i kit smart system
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0773GSQRV{{</world>}}

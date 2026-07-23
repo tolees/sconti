@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- GADGET REGALO DI COMPLEANNO: questo kit di modellismo è unavvincente idea regalo di compleanno per bambini e bambine, con cui festeggiare lanniversario dei ninja, pensata anche per i fan adulti di giochi LEGO NINJAGO da collezione
-- MODELLO CON FABBRO: la casa giocattolo LEGO include un laboratorio con attrezzi; aprendo il modello si scoprono una camera da letto e una fucina ricca di dettagli della storia
 - GUIDA DIGITALE: lascia che lapp LEGO Builder guidi i piccoli in unavventura intuitiva, nella quale possono salvare i set, tenere traccia dei progressi e ingrandire e ruotare i modelli in 3D
-- 6 MINIFIGURE LEGO NINJAGO: con i personaggi NINJAGO della serie TV: Maya, Ray, Nya, il fabbro Kai, il Maestro Wu e un Maestro della Terra Elementale collezionabile
 - SET ANNIVERSARIO LEGO NINJAGO: La Bottega delle Quattro Armi – 15° Anniversario è un gioco per bambini e bambine da 14 anni in su, che riproduce il primo scenario in assoluto dellepisodio pilota della serie TV
+- 6 MINIFIGURE LEGO NINJAGO: con i personaggi NINJAGO della serie TV: Maya, Ray, Nya, il fabbro Kai, il Maestro Wu e un Maestro della Terra Elementale collezionabile
 - CARATTERISTICHE DIVERTENTI: il set celebra i Maestri dello Spinjitzu e include delle tessere nascoste dietro il casco e il cappuccio; i giovani possono spingere un cartello per rivelare la mappa segreta delle armi doro
+- MODELLO CON FABBRO: la casa giocattolo LEGO include un laboratorio con attrezzi; aprendo il modello si scoprono una camera da letto e una fucina ricca di dettagli della storia
+- GADGET REGALO DI COMPLEANNO: questo kit di modellismo è unavvincente idea regalo di compleanno per bambini e bambine, con cui festeggiare lanniversario dei ninja, pensata anche per i fan adulti di giochi LEGO NINJAGO da collezione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FPXCSQ6V{{</world>}}

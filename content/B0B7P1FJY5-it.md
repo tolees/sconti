@@ -29,8 +29,8 @@ average: '79.99'
 ℹ️:
 
 - La macchina da caffè si spegne automaticamente dopo 15 minuti. Un vassoio raccogli gocce raccoglie le eventuali fuoriuscite dopo aver rimosso la tazza.
-- Preparate il vostro caffè preferito con questa macchina da caffè Princess, dotata di 3 adattatori che la rendono compatibile con le capsule Nespresso e simili, le capsule Dolce Gusto e le cialde ESE. Amate la varietà? Allora questa macchina per il caffè è proprio quello che fa per voi!
 - Il serbatoio dellacqua rimovibile ha una capacità di 0,6 l. Così non dovrete riempirlo ogni volta che lo usate!
+- Preparate il vostro caffè preferito con questa macchina da caffè Princess, dotata di 3 adattatori che la rendono compatibile con le capsule Nespresso e simili, le capsule Dolce Gusto e le cialde ESE. Amate la varietà? Allora questa macchina per il caffè è proprio quello che fa per voi!
 - Grazie ai due pulsanti di facile utilizzo, è possibile preparare caffè per tazze piccole e grandi. Regolare la dimensione del caffè premendo il pulsante desiderato in più o in meno.
 - La caffettiera Princess 249452 è dotata di una pompa italiana a 19 bar che garantisce un rilascio ottimale degli aromi per unesplosione di gusto in bocca.
 

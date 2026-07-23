@@ -28,9 +28,9 @@ average: '11.82'
 
 ℹ️:
 
-- PANTALONI LUNGHI uniformi sanitari pantaloni infermiere pantaloni infermiera pantaloni sanitari pantaloni pigiama uniforme clinico pantaloni dritti pantaloni vita elastica pantaloni clinica pantaloni pediatra pantaloni medici pantaloni
 - Lavabile e durevole: grazie alla sua esclusiva combinazione di tessuti (65% poliestere, 35% cotone, popeline), le nostre uniformi chirurgiche sono lavabili e resistenti
 - Caratteristiche principali: pantaloni a vita alta con bretelle elastiche, tasca cargo sulla parte destra e tasca posteriore sui fianchi, 65% poliestere, 35% cotone,
+- PANTALONI LUNGHI uniformi sanitari pantaloni infermiere pantaloni infermiera pantaloni sanitari pantaloni pigiama uniforme clinico pantaloni dritti pantaloni vita elastica pantaloni clinica pantaloni pediatra pantaloni medici pantaloni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09NWBNTFX{{</world>}}

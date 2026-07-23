@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Cartuccia di colore Giallo
 - Pagine stampate: fino a 200 pagine (a norma ISO/IEC 24711)
 - Cartuccia a getto dinchiostro originale Brother ad alta qualità
+- Cartuccia di colore Giallo
 - Utilizzabile con: DCPJ572DW / MFCJ491DW / MFCJ497DW / MFCJ890DW
 - Per risultati di qualità e ottimali, affidati sempre alla qualità dei materiali di consumo originali Brother
 

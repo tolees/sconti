@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- PLUS: ingredienti naturali selezionati e di alta qualità. Ricette ridotte all’essenziale. No OGM, No Aromi, No Additivi. Confezione interamente ricilabile. Produzione climaticamente neutra.
 - INGREDIENTI: zucchero, nocciole, burro di cacao, latte scremato in polvere, pasta di cacao, burro anidro, emulsionante: lecitine di soia. Senza lattosio e glutine (lattosio meno di 0,1g per 100g). Contiene glucosio e galattosio in conseguenza della sciossione del lattosio.
 - RITTER SPORT: creiamo il tuo cioccolato preferito con i nostri migliori ingredienti insieme a persone esperte nelle coltiavazione del cacao e accumunate dalla stessa passione.
 - PERCHÉ PROVARLO: il finissimo cioccolato al latte avvolge le crocccanti nocciole intere di altissima qualità selezionate a mano e tostate al punto giusto.
+- PLUS: ingredienti naturali selezionati e di alta qualità. Ricette ridotte all’essenziale. No OGM, No Aromi, No Additivi. Confezione interamente ricilabile. Produzione climaticamente neutra.
 - CIOCCOLATO AL LATTE EXTRA: tavoletta di cioccolato al latte extra con nocciole intere senza glutine e senza lattosio.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

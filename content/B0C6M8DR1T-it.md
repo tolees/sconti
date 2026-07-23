@@ -28,11 +28,11 @@ average: '1.74'
 
 ℹ️:
 
-- CALVÉ: dai voce alla tua creatività rendendo i tuoi piatti super gustosi. Calvé, perchè buono può diventare buonissimo!
 - IDEALE PER PINZIMONIO DI VERDURE, INSALATE, CARNE E PESCE: ottima per accompagnare piatti con diversi ingredienti, dal pinzimonio di verdure, allinsalata e pita greca, fino a piatti di carne e pesce
-- FORMATO TOP DOWN 250 ML: Senza coloranti, senza glutine, vegano. Disponibile nel comodo formato Top Down 250 ml.
+- CALVÉ: dai voce alla tua creatività rendendo i tuoi piatti super gustosi. Calvé, perchè buono può diventare buonissimo!
 - GUSTO FRESCO E VERSATILE: con cetrioli e aglio, come nella tradizione Greca, è la soluzione ideale per dare alle tue ricette un gusto fresco e sfizioso
 - SALSA ALLA TZAZIKI CALVÉ: salsa alla Tzatziki Calvé, dalla tradizione Greca, un gusto fresco e versatile che conquista il palato ad ogni assaggio. Adatta ai Vegani
+- FORMATO TOP DOWN 250 ML: Senza coloranti, senza glutine, vegano. Disponibile nel comodo formato Top Down 250 ml.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C6M8DR1T{{</world>}}

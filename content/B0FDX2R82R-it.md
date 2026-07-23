@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Collar multicolore
 - Logo ricamato 3D
+- Collar multicolore
 - 100% cotone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

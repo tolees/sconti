@@ -28,15 +28,15 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Drop intersuola: 10 mm (tallone: 34 mm / avampiede: 24 mm)
-- Protezione antifango
-- Tomaia in mesh idrorepellente con dettagli riflettenti
 - Fodera in tessuto
-- Chiusura con lacci
+- Drop intersuola: 10 mm (tallone: 34 mm / avampiede: 24 mm)
+- Peso: 301 g (misura 42 2/3)
+- Tomaia in mesh idrorepellente con dettagli riflettenti
+- Protezione antifango
+- Intersuola Cloudfoam
 - Calzata regolare
 - Suola robusta
-- Intersuola Cloudfoam
-- Peso: 301 g (misura 42 2/3)
+- Chiusura con lacci
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F1X4BG44{{</world>}}

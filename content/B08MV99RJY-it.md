@@ -28,10 +28,10 @@ average: '19.2'
 
 ℹ️:
 
-- Maglietta del marchio JACK & JONES
+- Adatto per: situazioni informali
 - Realizzati con materiali sostenibili
 - Design traspirante per movimenti fluidi
-- Adatto per: situazioni informali
+- Maglietta del marchio JACK & JONES
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08MV99RJY{{</world>}}

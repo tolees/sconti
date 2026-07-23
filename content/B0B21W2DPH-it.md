@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 🚦 PER CHI È INDICATO? Il prodotto è destinato agli adulti + 14 e può essere utilizzato da celiaci, intolleranti al lattosio, donne in gravidanza e durante l’allattamento. Conservare il prodotto in un luogo fresco e asciutto, lontano dal frigo.
 - ✔️FORMATO YOVIS STICK è in confezioni da [10] bustine orosolubili. Il prodotto è disponibile anche nei formati Yovis Caps e Yovis Flaconcini.
-- 🎯 OGNI GIORNO, IL TUO EQUILIBRIO Per una flora batterica equilibrata, prendi 1 bustina orosolubile al giorno, lontano dai pasti. YOVIS STICK si scioglie versandolo direttamente in bocca, senza acqua.
 - 💪 L’ALLEATO DEL TUO INTESTINO Stress o alimentazione sregolata possono essere la causa di una flora batterica intestinale alterata. YOVIS STICK è l’integratore alimentare che serve a ristabilire il giusto equilibrio intestinale grazie a un mix di bifidobatteri, streptococchi e lactobacilli in concentrazione di 50 miliardi per dose.
+- 🚦 PER CHI È INDICATO? Il prodotto è destinato agli adulti + 14 e può essere utilizzato da celiaci, intolleranti al lattosio, donne in gravidanza e durante l’allattamento. Conservare il prodotto in un luogo fresco e asciutto, lontano dal frigo.
 - 🔅 CON PROBIOTICI CHE RESISTONO ALL’AMBIENTE DELLO STOMACO YOVIS STICK è composto da bifidobatteri, streptococcus thermophilus e lactobacilli, probiotici che riescono a sopravvivere all’ambiente acido dello stomaco e che aiutano a ripristinare la flora batterica alterata.
+- 🎯 OGNI GIORNO, IL TUO EQUILIBRIO Per una flora batterica equilibrata, prendi 1 bustina orosolubile al giorno, lontano dai pasti. YOVIS STICK si scioglie versandolo direttamente in bocca, senza acqua.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B21W2DPH{{</world>}}

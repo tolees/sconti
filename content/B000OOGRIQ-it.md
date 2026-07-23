@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Fornito con 3 lame
-- Seghetto multiuso
 - Coni impugnatura in ABS
+- Seghetto multiuso
+- Fornito con 3 lame
 - lama universale, a foretto, per metallo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

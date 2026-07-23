@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tutte le prese sono dotate di children safety - impedisce di introdurre corpi estranei nella presa in tensione
-- Cavo ho5 vv-f sezione 3g0,75 mm² lunghezza 3 metri
 - Prodotto di ottima qualità
+- Cavo ho5 vv-f sezione 3g0,75 mm² lunghezza 3 metri
+- Tutte le prese sono dotate di children safety - impedisce di introdurre corpi estranei nella presa in tensione
 - Prolunga con spina e presa piccola 10a
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

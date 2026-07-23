@@ -28,10 +28,10 @@ average: '13.9'
 
 ℹ️:
 
-- Dimensioni prodotto imballato: 8 x 10 x 15 cm
 - Prodotto da marca: Calvin Klein
-- Creme per il corpo - Idratanti
+- Dimensioni prodotto imballato: 8 x 10 x 15 cm
 - i migliori prodotti per la cura del tuo corpo
+- Creme per il corpo - Idratanti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000Q39KBQ{{</world>}}

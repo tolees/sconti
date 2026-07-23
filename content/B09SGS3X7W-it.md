@@ -28,9 +28,9 @@ average: '12.99'
 
 ℹ️:
 
-- CONTENUTO DELLA CONFEZIONE: Poggiapolsi Wrist Rest
 - MATERIALE: la comoda imbottitura di memory foam con gel è pensata per garantire il massimo comfort; lo strato inferiore in gomma naturale testurizzata mantiene stabile i polsi
 - DESIGN: il poggiapolsi compatto Wrist Rest è la soluzione ottimale per luso con mouse, tastiere full-size, tastiere senza tastierino numerico, tastiere compatte
+- CONTENUTO DELLA CONFEZIONE: Poggiapolsi Wrist Rest
 - DIMENSIONI: poggiapolsi con un peso di 280 g; il poggiapolsi misura 36,2 x 8,8 x 2,2 cm (L x P x A)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

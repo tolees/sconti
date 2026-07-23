@@ -29,8 +29,8 @@ average: '11.99'
 ℹ️:
 
 - TECNOLOGIA POWER DELIVERY (PD): grazie alla tecnologia Power Delivery (PD 3.1 PPS) avrai sempre una carica sicura; i tuoi device vengono protetti da cortocircuiti o surriscaldamenti, ricevendo sempre la giusta quantità di energia
-- TASTO FUNZIONE: tenendo premuto il tasto a fianco alla porta USB-C attiverai la modalità a basso voltaggio ideale per caricare device che richiedono meno potenza come gli auricolari TWS; premendo una volta il tasto accenderai i LED di stato, mentre premendolo due volte li spegnerai
 - RICARICA WIRELESS PER IPHONE E ANDROID: azionare la ricarica wireless è molto semplice, basterà avvicinare il tuo smartphone compatibile alla base circolare ed il power bank inizierà ad erogare energia senza lausilio di fili; se possiedi un iPhone con ricarica MagSafe, Google Pixel 10 oppure Samsung S25 il power bank si fisserà magneticamente e potrai portarlo ovunque facilmente. (Potenza Ricarica Wireless: iPhone 7,5W - Android 15W)
+- TASTO FUNZIONE: tenendo premuto il tasto a fianco alla porta USB-C attiverai la modalità a basso voltaggio ideale per caricare device che richiedono meno potenza come gli auricolari TWS; premendo una volta il tasto accenderai i LED di stato, mentre premendolo due volte li spegnerai
 - COMPATTO E DA VIAGGIO: grazie al suo peso di 115g e alla dimensione di 98x67x13mm; oltre al PowerBank sono inclusi nella confezione Cavo USB-A to USB-C, Manuale Istruzioni
 - RICARICA FINO A 2 DEVICE CONTEMPORANEAMENTE: grazie alla porta USB-C e alla Ricarica Wireless puoi connettere fino a due device allo stesso tempo, così puoi avere i tuoi dispositivi sempre carichi
 

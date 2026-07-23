@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- CONNETTIVITÀ – Porte USB4 e HDMI 2.1, Wi-Fi 6E, Bluetooth 5.3, webcam FHD con IR per Windows Hello e privacy shutter, protezione con Microsoft Pluton e TPM.
-- PROCESSORE – AMD Ryzen AI 7 350 fino a 5.0GHz, 8 core, 16 thread, con AMD XDNA NPU fino a 50 TOPS per prestazioni avanzate nell’intelligenza artificiale.
 - DESIGN – Corpo in alluminio Jade Black, certificazione MIL-STD 810H per resistenza militare, tastiera retroilluminata e touchpad di precisione con supporto NumberPad.
+- CONNETTIVITÀ – Porte USB4 e HDMI 2.1, Wi-Fi 6E, Bluetooth 5.3, webcam FHD con IR per Windows Hello e privacy shutter, protezione con Microsoft Pluton e TPM.
 - MEMORIA – 16GB di RAM LPDDR5X e SSD PCIe 4.0 da 1TB per multitasking fluido e caricamenti rapidissimi.
 - DISPLAY – OLED 3K da 14 pollici, risoluzione 2880x1800, refresh rate 120Hz, tempo di risposta 0,2ms, certificazione VESA HDR True Black 600 per immagini nitide e colori realistici.
+- PROCESSORE – AMD Ryzen AI 7 350 fino a 5.0GHz, 8 core, 16 thread, con AMD XDNA NPU fino a 50 TOPS per prestazioni avanzate nell’intelligenza artificiale.
 - ASUS TI REGALA IL TERZO ANNO DI GARANZIA: Progettati per la massima durata, ora con garanzia prolungata. Dal 1° ottobre 2025 i Notebook ASUS e ROG acquistati in Italia beneficiano di 3 anni di garanzia. Condizioni, paesi e modelli aderenti sul sito ufficiale ASUS.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

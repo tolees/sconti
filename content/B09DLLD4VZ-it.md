@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Per celebrare i 10 anni di esportazione dello stile di vita mediterraneo nel mondo, Gin Mare Capri è stato lanciato nel 2020. Si ispira allessenza agrumata emblematica di Capri, dove lo stile di vita, la gastronomia, il clima, la terra e il mare sono amati dai viaggiatori di tutto il mondo.
-- Gin Mare Capri è realizzato con bergamotto italiano e limoni della Penisola Sorrentina insieme alle principali botaniche sapide di Gin Mare per creare un profilo agrumato autentico e fresco.
-- Profilo sensoriale – olfatto: Ricco e burroso, esplosivo con aromi agrumati. Il bergamotto risplende attraverso strati di rosmarino fresco, timo limone e oliva.
-- Come gustarlo: Per apprezzarlo al meglio si consiglia di servire con acqua tonica, limonata e guarnire con una foglia di basilico
 - Profilo sensoriale - gusto: I sapori vivaci di limone e bergamotto prendono il sopravvento e sono esaltati da note di erbe calde e agrumi perfettamente bilanciati con un pizzico di fiori estivi e ginepro.
+- Per celebrare i 10 anni di esportazione dello stile di vita mediterraneo nel mondo, Gin Mare Capri è stato lanciato nel 2020. Si ispira allessenza agrumata emblematica di Capri, dove lo stile di vita, la gastronomia, il clima, la terra e il mare sono amati dai viaggiatori di tutto il mondo.
+- Profilo sensoriale – olfatto: Ricco e burroso, esplosivo con aromi agrumati. Il bergamotto risplende attraverso strati di rosmarino fresco, timo limone e oliva.
+- Gin Mare Capri è realizzato con bergamotto italiano e limoni della Penisola Sorrentina insieme alle principali botaniche sapide di Gin Mare per creare un profilo agrumato autentico e fresco.
+- Come gustarlo: Per apprezzarlo al meglio si consiglia di servire con acqua tonica, limonata e guarnire con una foglia di basilico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09DLLD4VZ{{</world>}}

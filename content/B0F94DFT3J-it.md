@@ -28,11 +28,11 @@ average: '2.82'
 
 ℹ️:
 
-- Mantenuto responsabilmente: Sante è sinonimo di trasparenza e ingredienti naturali in forma certificata, con esperienza e passione per la vera efficacia dalla natura
-- Cura della doccia naturale: con profumi puramente naturali e senza ingredienti animali, pulizia delicata che coccola il corpo e i sensi
-- Equilibrante e terrestre: il gel doccia aromatico con eucalipto e bergamotto nutre delicatamente la pelle e ti avvolge in fragranze naturali, per momenti di doccia consapevoli ed equilibrio interno
-- Dermatologicamente testato: il nostro doccia delicato sulla pelle combina ingredienti di alta qualità con formula certificata, per una sensazione sulla pelle completamente curata
 - Vera competenza naturale: oltre 40 estratti vegetali di produzione propria costituiscono la base della nostra cura. Il nostro prodotto per la doccia è vegano, non testato sugli animali, certificato NaTrue e privo di profumi e coloranti sintetici
+- Equilibrante e terrestre: il gel doccia aromatico con eucalipto e bergamotto nutre delicatamente la pelle e ti avvolge in fragranze naturali, per momenti di doccia consapevoli ed equilibrio interno
+- Mantenuto responsabilmente: Sante è sinonimo di trasparenza e ingredienti naturali in forma certificata, con esperienza e passione per la vera efficacia dalla natura
+- Dermatologicamente testato: il nostro doccia delicato sulla pelle combina ingredienti di alta qualità con formula certificata, per una sensazione sulla pelle completamente curata
+- Cura della doccia naturale: con profumi puramente naturali e senza ingredienti animali, pulizia delicata che coccola il corpo e i sensi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F94DFT3J{{</world>}}

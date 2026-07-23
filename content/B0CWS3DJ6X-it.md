@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Immersivo e fotorealistico Grafica di nuova generazione grazie a Unreal Engine 5, che permette un effetto foto-realistico in particolare per le piante e la fauna selvatica.
 - Parti per un epico viaggio Assumi il ruolo di una coraggiosa formica, con una visuale in terza persona, ed padroneggia abilità uniche che possono aiutarti in battaglia e nellesplorazione.
 - Una narrativa basata sulle stagioni Il gioco è caratterizzato da una narrazione che segue il ritmo delle stagioni, con un effetti sugli attributi della fauna selvatica, come velocità, resistenza, buff e molto altro ancora.
 - Esplora un mondo sconfinato Il gioco sarà caratterizzato da una foresta fotorealistica da esplorare, con altre formiche e abitanti della foresta da conoscere e incontrare durante il viaggio.
 - Uno strategico in tempo reale in 3D con livello di difficoltà progressivo Il gioco offre unesperienza intuitiva con tutorial per i nuovi giocatori per imparare i fondamenti degli RTS, ma anche difficoltà scalabili e meccaniche avanzate per i veterani del genere.
+- Immersivo e fotorealistico Grafica di nuova generazione grazie a Unreal Engine 5, che permette un effetto foto-realistico in particolare per le piante e la fauna selvatica.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CWS3DJ6X{{</world>}}

@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Personaggi Minecraft: questo set basato sul videogioco, include le minifigure Minecraft di Steve, Natalie, Dawn e di un abitante del villaggio, oltre a un Ghast-pallone, un Pulcino, 2 Piglin e un Golem di ferro snodabile
-- Regalo da gaming per fan del film Minecraft: una divertente idea regalo per gamer, bambini e bambine, pensato per i fan del videogame e per gli appassionati di giocattoli LEGO Minecraft
-- Set videogioco Minecraft con mattoncini LEGO: i Piglin lanciano missili dal Ghast-pallone per far “esplodere” la fontana; i giovani devono difendere gli abitanti del villaggio, il ristorante e la casa giocattolo di Steve
 - Giocattolo LEGO Minecraft: questo gioco per bambini e bambine da 10 anni, lAttacco al Villaggio del Ghast-Pallone, è un set creativo build-and-display che consente di ricreare una scena del film Minecraft
+- Set videogioco Minecraft con mattoncini LEGO: i Piglin lanciano missili dal Ghast-pallone per far “esplodere” la fontana; i giovani devono difendere gli abitanti del villaggio, il ristorante e la casa giocattolo di Steve
+- Regalo da gaming per fan del film Minecraft: una divertente idea regalo per gamer, bambini e bambine, pensato per i fan del videogame e per gli appassionati di giocattoli LEGO Minecraft
 - Istruzioni per la costruzione in 3D: i piccoli possono scaricare l’app LEGO Builder per vivere un’esperienza di costruzione coinvolgente, con strumenti digitali per ingrandire e ruotare i modelli in 3D, salvare i set e monitorare i progressi
 - Giochi di ruolo Minecraft interattivi: sul tetto del ristorante è presente un modello di pollo, che include una divertente funzione con cui "depositare" delle uova
 

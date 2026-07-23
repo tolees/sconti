@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- ⚡ Funzioni aggiuntive ⚡ Previene il sovraccarico e il surriscaldamento. Imposta un gruppo per tutte le prese intelligenti Wi-Fi e le controlla con un comando. Condividi il controllo dei dispositivi domestici con altri membri della famiglia. Installazione semplice, maneggevolezza.
 - ⚡ Misurazione del consumo di energia ⚡ Puoi monitorare il consumo dei dispositivi in ​​qualsiasi momento e spegnerli se necessario. Con lapp puoi visualizzare i tuoi consumi energetici sotto forma di grafici.
-- ⚡ Funzione timer ⚡ Con la "NOUS App" puoi impostare un timer sulla presa intelligente per controllare i dispositivi elettrici in base alla tua pianificazione. Inoltre hai sempre il pieno controllo sui consumi di tutti i tuoi dispositivi e la possibilità di spegnerli da remoto.
 - ⚡ Controllo vocale ⚡ La presa wifi funziona con Amazon Echo Dot, Alexa, Google Home, Google Assistant e IFTTT. Controlla i tuoi elettrodomestici tramite comandi vocali. Non è richiesto alcun hub aggiuntivo.
+- ⚡ Funzione timer ⚡ Con la "NOUS App" puoi impostare un timer sulla presa intelligente per controllare i dispositivi elettrici in base alla tua pianificazione. Inoltre hai sempre il pieno controllo sui consumi di tutti i tuoi dispositivi e la possibilità di spegnerli da remoto.
 - ⚡Questa presa intelligente WiFi 16A con il nuovo chip BK7231 allinterno ⚡ Supporta alcune nuove funzionalità: come bluetooth, registro energia, promemoria ultimo stato, controllo indicatore LED, blocco bambini. Questa presa non supporta più Tasmota, ma abbiamo una presa Tasmota speciale, per chi la desidera, cerca la presa Tasmota A1T in questa variante di inserzione
+- ⚡ Funzioni aggiuntive ⚡ Previene il sovraccarico e il surriscaldamento. Imposta un gruppo per tutte le prese intelligenti Wi-Fi e le controlla con un comando. Condividi il controllo dei dispositivi domestici con altri membri della famiglia. Installazione semplice, maneggevolezza.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0054PSES6{{</world>}}

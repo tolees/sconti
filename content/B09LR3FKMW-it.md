@@ -28,9 +28,9 @@ average: '2.29'
 
 ℹ️:
 
+- I prodotti Riso Scotti ti accompagnano con Gusto e Benessere in ogni momento della giornata. Ci impegniamo a offrirti la miglior qualità per un’alimentazione equilibrata
 - RISO VENERE 500 G: Coltivato solo in Italia, nelle terre della Pianura Padana e della Sardegna e lavorato con cura e attenzione, per esaltarne il gusto e il profumo unici e inconfondibili
 - VIVERE BENE CON GUSTO: Il benessere dal riso deriva dai suoi carboidrati facilmente assimilabili, dalle sue proteine nobili e dall’assenza di allergeni che possono provocare reazioni avverse
-- I prodotti Riso Scotti ti accompagnano con Gusto e Benessere in ogni momento della giornata. Ci impegniamo a offrirti la miglior qualità per un’alimentazione equilibrata
 - È SPECIALE PERCHÈ: Riso unico dai chicchi neri, dal profumo e dal gusto particolarmente aromatici. Un’icona della nostra tradizione. Tempo di cottura 12 - 14 minuti
 - SUGGERIMENTI D’USO: Ideale per insalate di riso, pokè, piatti unici o come accompagnamento e contorno
 

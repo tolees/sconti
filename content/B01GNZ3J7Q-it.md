@@ -28,9 +28,9 @@ average: '11.1'
 
 ℹ️:
 
-- Reggiseno sportivo senza cuciture con spalline larghe
-- Ampia fascia sotto il seno, coppe leggermente imbottite, materiale elasticizzato traspirante
 - Si asciuga velocemente
+- Ampia fascia sotto il seno, coppe leggermente imbottite, materiale elasticizzato traspirante
+- Reggiseno sportivo senza cuciture con spalline larghe
 - Motivo: tinta unita
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

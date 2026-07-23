@@ -28,12 +28,12 @@ average: '108.77'
 
 ℹ️:
 
+- 𝗙𝘂𝗻𝘇𝗶𝗼𝗻𝗶 𝗱𝗶 𝗦𝗶𝗰𝘂𝗿𝗲𝘇𝘇𝗮 home: Include protezioni contro sovratemperatura, sovraccarico e sovratensione per una ottima sicurezza dei dispositivi
+- 𝗠𝗼𝗻𝗶𝘁𝗼𝗿𝗮𝗴𝗴𝗶𝗼 𝗱𝗲𝗶 𝗖𝗼𝗻𝘀𝘂𝗺𝗶: Misuratore di energia integrato per rilevare in tempo reale i consumi dei dispositivi connessi e gestire in modo intelligente lenergia
 - 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗮𝘇𝗶𝗼𝗻𝗲 𝗲 𝗧𝗶𝗺𝗲𝗿: Imposta timer e orari personalizzati per ogni canale o crea scenari per lautomazione completa della casa
 - 𝗥𝗲𝗹è 𝗗𝗜𝗡 𝗥𝗮𝗶𝗹 𝗮 𝟮 𝗖𝗮𝗻𝗮𝗹𝗶 𝗽𝗲𝗿 𝗧𝗮𝗽𝗽𝗮𝗿𝗲𝗹𝗹𝗲: Controlla due tapparelle o tende indipendenti fino a 32A (16A ciascuno) a 110–240V AC; progettato per montaggio su guida DIN
 - 𝗔𝘂𝘁𝗼𝗺𝗮𝘇𝗶𝗼𝗻𝗲 𝗱𝗮 𝗔𝗽𝗽 𝗲 𝗖𝗼𝗺𝗮𝗻𝗱𝗶 𝗩𝗼𝗰𝗮𝗹𝗶: Controlla da ovunque tramite l’app Shelly Smart Control o assistenti vocali come Alexa, Google Home o SmartThings – 𝗻𝗲𝘀𝘀𝘂𝗻 𝗵𝘂𝗯 𝗿𝗶𝗰𝗵𝗶𝗲𝘀𝘁𝗼
-- 𝗙𝘂𝗻𝘇𝗶𝗼𝗻𝗶 𝗱𝗶 𝗦𝗶𝗰𝘂𝗿𝗲𝘇𝘇𝗮 home: Include protezioni contro sovratemperatura, sovraccarico e sovratensione per una ottima sicurezza dei dispositivi
 - 𝗙𝘂𝗻𝘇𝗶𝗼𝗻𝗮𝗺𝗲𝗻𝘁𝗼 𝘃𝗶𝗮 𝗟𝗔𝗡 & 𝗪𝗶-𝗙𝗶 + 𝗖𝗼𝗻𝗳𝗶𝗴𝘂𝗿𝗮𝘇𝗶𝗼𝗻𝗲 𝗥𝗮𝗽𝗶𝗱𝗮: Controllo completo tramite reti LAN e Wi-Fi; Bluetooth incluso per semplificare l’inclusione e la configurazione
-- 𝗠𝗼𝗻𝗶𝘁𝗼𝗿𝗮𝗴𝗴𝗶𝗼 𝗱𝗲𝗶 𝗖𝗼𝗻𝘀𝘂𝗺𝗶: Misuratore di energia integrato per rilevare in tempo reale i consumi dei dispositivi connessi e gestire in modo intelligente lenergia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C9YNPNNZ{{</world>}}

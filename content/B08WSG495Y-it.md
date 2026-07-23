@@ -29,10 +29,10 @@ average: '6.36'
 ℹ️:
 
 - NOTE AGGIUNTIVE SUL TESSUTO E CONSIGLI PER LA CURA: a causa della natura delicata del tessuto in viscosa, si raccomanda il lavaggio a bassa temperatura e lasciugatura allaria, per evitare il restringimento e la formazione di pieghe dovute al calore eccessivo. Per un aspetto ancora più curato e rifinito, stirare delicatamente o utilizzare il vapore. Prima di selezionare la taglia, si raccomanda di consultare la guida alle taglie e di prendere le misure
-- TOP CON MANICHE A SBUFFO: questa versatile camicetta è un caposaldo classico del guardaroba adatta a look da giorno e da sera. Perfetta per un look casual se abbinata a jeans, e per una serata elegante se abbinata a pantaloni e tacchi alti.
-- DETTAGLI: presenta unincrespatura sulle maniche per una vestibilità confortevole e duratura, increspature su collo e maniche, unarricciatura femminile che crea un bellissimo e fluido drappeggio. Chiusura a bottoni con spacco sul retro del collo.
 - TWILL DRAPPEGGIATO: realizzata in 100% viscosa, questa viscosa non elasticizzata è estremamente traspirante e leggera. Con un drappeggio bellissimo e una finitura morbida e uniforme, questo tessuto è confortevole, da indossare in tutte le stagioni.
+- DETTAGLI: presenta unincrespatura sulle maniche per una vestibilità confortevole e duratura, increspature su collo e maniche, unarricciatura femminile che crea un bellissimo e fluido drappeggio. Chiusura a bottoni con spacco sul retro del collo.
 - VESTIBILITÀ RILASSATA: vestibilità comoda e rilassata su tutto il corpo.
+- TOP CON MANICHE A SBUFFO: questa versatile camicetta è un caposaldo classico del guardaroba adatta a look da giorno e da sera. Perfetta per un look casual se abbinata a jeans, e per una serata elegante se abbinata a pantaloni e tacchi alti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08WSG495Y{{</world>}}

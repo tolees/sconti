@@ -28,8 +28,8 @@ average: '27.47'
 
 ℹ️:
 
-- Il campo di misurazione dellapparecchio da cucina va da -20 °C a +250 °C - La sonda di misurazione è dotata di due sensori per la temperatura interna e la temperatura ambiente - Il chiaro display può essere impostato in tedesco, inglese o francese
 - Il retro del termometro per arrosti è dotato di un magnete, per cui il termometro può essere posizionato sulla porta del forno e la sonda con un cavo lungo 1 m può essere utilizzata nel forno.
+- Il campo di misurazione dellapparecchio da cucina va da -20 °C a +250 °C - La sonda di misurazione è dotata di due sensori per la temperatura interna e la temperatura ambiente - Il chiaro display può essere impostato in tedesco, inglese o francese
 - RÖSLE Misuratore di temperatura per barbecue: termometro per barbecue di alta qualità per la determinazione del punto di cottura ottimale o il monitoraggio della temperatura interna – un aiuto affidabile e pratico per arrostire e grigliare
 - Il termometro è dotato di punti di cottura preimpostati per cinque diversi tipi di carne - per cui manzo, vitello, maiale, agnello e pollame possono essere arrostiti alla perfezione - oltre allopzione di impostazioni individuali della temperatura e di un timer integrato.
 - Lunghezza 14,5 cm - Larghezza 5 cm - Altezza 2 cm - Materiale acciaio inox 18/10, lucido/opaco - incl. 2x CR2032 - pila a bottone al litio

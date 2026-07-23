@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- ALOE VERA BIOLOGICO - Naturalmente lenitivo e rigenerante, utilizzato da secoli per nutrire e idratare la pelle irritata e secca
-- SOSTENENDO LAZIONE PER IL PIANETA - i nostri prodotti sono in imballaggi riciclati e riciclabili e allinterno di cartone certificato FSC. Ove possibile, i nostri imballaggi sono realizzati utilizzando plastica riciclata destinata alloceano
-- NATURALE - questo collutorio incredibilmente efficace e senza alcol aiuta a lenire e purificare, lasciando la bocca naturalmente pulita e fresca di menta
-- LA CONFEZIONE PUÒ VARIARE
-- VEGANO E CRUELTY-FREE - non testiamo nessuno dei nostri prodotti o materie prime sugli animali, e non chiediamo a terze parti di testare per nostro conto
 - INGREDIENTI BIOLOGICI - realizzato con ingredienti biologici e naturali. Non utilizziamo mai Parabeni, Sodio lauril solfato (SLS), Colori sintetici, Olio minerale, DEA, BHT o Isotiazolinoni
+- VEGANO E CRUELTY-FREE - non testiamo nessuno dei nostri prodotti o materie prime sugli animali, e non chiediamo a terze parti di testare per nostro conto
+- ALOE VERA BIOLOGICO - Naturalmente lenitivo e rigenerante, utilizzato da secoli per nutrire e idratare la pelle irritata e secca
+- NATURALE - questo collutorio incredibilmente efficace e senza alcol aiuta a lenire e purificare, lasciando la bocca naturalmente pulita e fresca di menta
+- SOSTENENDO LAZIONE PER IL PIANETA - i nostri prodotti sono in imballaggi riciclati e riciclabili e allinterno di cartone certificato FSC. Ove possibile, i nostri imballaggi sono realizzati utilizzando plastica riciclata destinata alloceano
+- LA CONFEZIONE PUÒ VARIARE
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00TO8P2CK{{</world>}}

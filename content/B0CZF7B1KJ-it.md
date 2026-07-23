@@ -28,11 +28,11 @@ average: '3.76'
 
 ℹ️:
 
-- CHEERIOS sono ciambelline di cereali integrali al miele
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
-- Il gusto del miele a tutto tondo: scopri tutta la bontà delle ciambelline CHEERIOS a colazione!
 - Visita il sito Nestlé per scoprire come le nostre marche sono scese in campo e contribuiscono al raggiungimento degli obiettivi di sostenibilità del Gruppo Nestlé con progetti concreti
+- Il gusto del miele a tutto tondo: scopri tutta la bontà delle ciambelline CHEERIOS a colazione!
 - Confezione da 330g
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
+- CHEERIOS sono ciambelline di cereali integrali al miele
 - Cereali Integrali come primo ingrediente; fonte di fibre
 - CHEERIOS contiene 3 cereali integrali, 7 vitamine, calcio e ferro.
 

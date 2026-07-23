@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- INGANNI E ASTUZIE - Per la Corona presenta una meccanica di gioco originale che combina tradimenti, mosse astute e opportunismo! Fai perdere rubini ai tuoi avversari e reclama la corona in questa battaglia reale.
 - SORPRESE E COLPI DI SCENA - Quando uno dei tuoi mercenari viene rivelato, i suoi effetti si applicano immediatamente. Ma attenzione: eventi imprevisti potrebbero mandare allaria i tuoi piani!
 - GIOCO DI STRATEGIA - Recluta mercenari, scopri le carte una alla volta e raccogli più rubini possibile. Mostra pazienza e aspetta il momento perfetto per fare la tua mossa migliore!
-- DOMINA LARTE DEL BLUFF - Per la Corona è un gioco da tavolo di strategia e bluff per 3-5 giocatori, adatto a partire dagli 8 anni. Un vincitore viene incoronato in circa 30 minuti!
 - CONQUISTA LA CORONA - In guerra da tempo immemorabile, le vostre famiglie hanno deciso che è arrivato il momento di formare un unico regno. Ma chi indosserà la prima corona?
-- INGANNI E ASTUZIE - Per la Corona presenta una meccanica di gioco originale che combina tradimenti, mosse astute e opportunismo! Fai perdere rubini ai tuoi avversari e reclama la corona in questa battaglia reale.
+- DOMINA LARTE DEL BLUFF - Per la Corona è un gioco da tavolo di strategia e bluff per 3-5 giocatori, adatto a partire dagli 8 anni. Un vincitore viene incoronato in circa 30 minuti!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DPHVZ2TG{{</world>}}

@@ -28,11 +28,11 @@ average: '11.49'
 
 ℹ️:
 
-- Formula di pulizia efficace: Il detergente in polvere da 3,5 g contenuto in ogni sacchetto pulisce efficacemente le unità di erogazione, i filtri e i portafiltro, garantendo una qualità ottimale del caffè
 - Manutenzione di qualità professionale: La pulizia regolare della testina di erogazione, dei filtri e dei portafiltro è fondamentale per mantenere ligiene della macchina e la qualità del caffè
 - Artigianato italiano: Prodotto interamente in Italia, riflette limpegno di LELIT per la qualità e le prestazioni di livello professionale nella cura delle attrezzature da caffè
 - Setaccio universale cieco: Il setaccio cieco universale in gomma incluso è essenziale per una pulizia accurata del gruppo erogatore
 - Convenienza monodose: Confezionato in 40 bustine singole per un dosaggio comodo e preciso
+- Formula di pulizia efficace: Il detergente in polvere da 3,5 g contenuto in ogni sacchetto pulisce efficacemente le unità di erogazione, i filtri e i portafiltro, garantendo una qualità ottimale del caffè
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B082FTWHB3{{</world>}}

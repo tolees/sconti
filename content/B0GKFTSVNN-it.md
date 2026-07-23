@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Fotocamera Sony LYTIA 600 da 50 MP con moto ai. Scatta foto più nitide e vivaci senza sforzo, di giorno e di notte.
-- Processore super efficiente Snapdragon 6s Gen 4. Affronta la giornata con prestazioni più veloci, fino a 24 GB di RAM con RAM Boost e 256 GB di memoria interna.
-- Energia per tutto il giorno in pochi minuti di ricarica. Ottieni fino al 90% di carica in meno di un’ora grazie alla ricarica rapidissima TurboPower da 30 W.
 - Approfitta di un anno extra di garanzia e vivi la tua esperienza in totale serenità, con la sicurezza di essere sempre protetto. Esplora senza paura grazie alla resistenza certificata Military Standard, a prestazioni contro le cadute fino a 3 volte migliori con Gorilla Glass 7i e alla resistenza all’acqua IP64.
+- Fotocamera Sony LYTIA 600 da 50 MP con moto ai. Scatta foto più nitide e vivaci senza sforzo, di giorno e di notte.
+- Energia per tutto il giorno in pochi minuti di ricarica. Ottieni fino al 90% di carica in meno di un’ora grazie alla ricarica rapidissima TurboPower da 30 W.
+- Processore super efficiente Snapdragon 6s Gen 4. Affronta la giornata con prestazioni più veloci, fino a 24 GB di RAM con RAM Boost e 256 GB di memoria interna.
 - Display ultra-luminoso e audio immersivo. Vedi chiaramente anche sotto la luce del sole su uno schermo FHD+ da 6,72” e goditi un suono avvolgente con gli altoparlanti stereo Dolby Atmos.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

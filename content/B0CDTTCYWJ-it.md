@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Refresh Rate 165Hz, Response Time 1ms (MPRT), AMD FreeSync
 - 2560x1440 (QHD 2K), Pannello VA, 16:9, HDR10
 - Samsung Monitor Gaming Odyssey G51C, 32, Flat
-- Contenuto: 1x Samsung Monitor Gaming Odyssey G51C 32", Include cavo di alimentazione e cavo DP, Dimensioni con base (LxAxP): 71,92 x 59,74 x 24,88 cm
 - 2 HDMI, 1 Display Port, Eye Saver Mode, Flicker Free
+- Refresh Rate 165Hz, Response Time 1ms (MPRT), AMD FreeSync
+- Contenuto: 1x Samsung Monitor Gaming Odyssey G51C 32", Include cavo di alimentazione e cavo DP, Dimensioni con base (LxAxP): 71,92 x 59,74 x 24,88 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CDTTCYWJ{{</world>}}

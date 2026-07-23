@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Compatibile con Windows 2000, XP, Vista, 7 e 8
-- Collegamento senza fili da 2,4 GHz (non Bluetooth), affidabile e potente
-- Il microricevitore può essere riposto nella porta USB del PC o allinterno del mouse quando non in uso. (Nota: il ricevitore viene posizionato nel mouse in fabbrica e dovrà essere rimosso allapertura della confezione)
-- 10.08 x 5.79 x 3.99 cm; 62.65 Grams
 - Mouse ottico senza fili con 3 pulsanti e microricevitore USB A: preciso, veloce e pratico, adatto a portatili, PC e netbook
+- Collegamento senza fili da 2,4 GHz (non Bluetooth), affidabile e potente
+- 10.08 x 5.79 x 3.99 cm; 62.65 Grams
+- Il microricevitore può essere riposto nella porta USB del PC o allinterno del mouse quando non in uso. (Nota: il ricevitore viene posizionato nel mouse in fabbrica e dovrà essere rimosso allapertura della confezione)
+- Compatibile con Windows 2000, XP, Vista, 7 e 8
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B005EJH6Z4{{</world>}}

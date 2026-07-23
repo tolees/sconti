@@ -29,9 +29,9 @@ average: '9.9'
 ℹ️:
 
 - CHRONO CROSS è un GDR che trascende lo spazio e il tempo, svolgendosi in due mondi paralleli collegati tra loro.
+- Con oltre 40 membri della squadra da scoprire, personaggi e dimensioni si intrecceranno in questa storia epica di un intero pianeta.
 - "CHRONO CROSS: THE RADICAL DREAMERS EDITION" è una rimasterizzazione di "CHRONO CROSS".
 - La nuova edizione include modelli 3D migliorati in HD, nuove illustrazioni e tantissime nuove funzionalità. Inoltre, in questa edizione è incluso RADICAL DREAMERS - Le Trésor Interdit -, il gioco che ha gettato le basi della storia!
-- Con oltre 40 membri della squadra da scoprire, personaggi e dimensioni si intrecceranno in questa storia epica di un intero pianeta.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DT7B6XB3{{</world>}}

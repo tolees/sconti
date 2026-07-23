@@ -28,11 +28,11 @@ average: '64.99'
 
 ℹ️:
 
-- Qualità tedesca, potenza circa 58 W, modalità ECO rispettosa dellambiente (8 W), materiali di alta qualità. Corpo robusto, durevole, motore senza spazzole, classe di efficienza energetica E (su una scala di classe di efficienza energetica da A a G)
-- SEVERIN Frigobox, incluso collegamento alla rete, cavo di collegamento da 12 V e connessione USB, KB 2923, capacità 25 L, dimensioni esterne (LxPxA) 45 x 33.1 x 45.8 cm
-- Coperchio rimovibile con maniglia, blocco del coperchio e pratico scomparto per cavi per una conservazione sicura, custodia antiscivolo del power bank grazie al pad in silicone autoadesivo, riempimento individuale grazie alla griglia divisoria, basso livello di rumorosità (49 dB)
-- Raffredda e riscalda: raffredda fino a 20°C al di sotto della temperatura ambiente, mantiene i cibi caldi a circa 50°C, fino a 4,5 ore di alimentazione con power bank (non incluso) tramite innovativa connessione USB, visualizzazione della funzione selezionata, Indicatore luminoso
 - Il compagno di viaggio in campeggio e su strada. Cavo di collegamento per auto e USB
+- Qualità tedesca, potenza circa 58 W, modalità ECO rispettosa dellambiente (8 W), materiali di alta qualità. Corpo robusto, durevole, motore senza spazzole, classe di efficienza energetica E (su una scala di classe di efficienza energetica da A a G)
+- Raffredda e riscalda: raffredda fino a 20°C al di sotto della temperatura ambiente, mantiene i cibi caldi a circa 50°C, fino a 4,5 ore di alimentazione con power bank (non incluso) tramite innovativa connessione USB, visualizzazione della funzione selezionata, Indicatore luminoso
+- Coperchio rimovibile con maniglia, blocco del coperchio e pratico scomparto per cavi per una conservazione sicura, custodia antiscivolo del power bank grazie al pad in silicone autoadesivo, riempimento individuale grazie alla griglia divisoria, basso livello di rumorosità (49 dB)
+- SEVERIN Frigobox, incluso collegamento alla rete, cavo di collegamento da 12 V e connessione USB, KB 2923, capacità 25 L, dimensioni esterne (LxPxA) 45 x 33.1 x 45.8 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07CBS53N1{{</world>}}

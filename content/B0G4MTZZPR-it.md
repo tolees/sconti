@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Le cialde sono prodotte con cartafiltro compostabile e sono confezionate singolarmente in atmosfera produttiva per assicurare la massima freschezza del caffè
-- Più Intenso: miscela di caffè a tostatura scura, secondo la tradizione napoletana
 - Le cialde Caffè Trombetta sono compatibili con le migliori macchine espresso da casa utilizzando il portafiltro da una tazza
-- Cialde preparate con pregiati caffè selezionati, tostati e macinati appositamente per ottenere a casa il piacere del migliore espresso
 - Per un espresso dallaroma intenso e deciso
+- Più Intenso: miscela di caffè a tostatura scura, secondo la tradizione napoletana
+- Cialde preparate con pregiati caffè selezionati, tostati e macinati appositamente per ottenere a casa il piacere del migliore espresso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0G4MTZZPR{{</world>}}

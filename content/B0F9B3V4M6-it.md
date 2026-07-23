@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Tomb Raider: The Angel of Darkness – Accusata di omicidio, Lara diventa una fuggitiva il cui obiettivo è quello di smascherare una minacciosa cospirazione che coinvolge degli esperimenti alchemici e la ricerca di antichi artefatti
 - Viaggia per il mondo: segui Lara Croft in località iconiche come Il Cairo, Roma, Parigi e molte altre ancora
 - Grafica classica e rimasterizzata: gioca con gli originali modelli poligonali o passa alla grafica rimasterizzata in qualsiasi momento
-- Tomb Raider: The Angel of Darkness – Accusata di omicidio, Lara diventa una fuggitiva il cui obiettivo è quello di smascherare una minacciosa cospirazione che coinvolge degli esperimenti alchemici e la ricerca di antichi artefatti
-- Tomb Raider: Chronicles – In seguito agli eventi di The Last Revelation, Lara Croft è rimasta sepolta in una tomba egizia e viene data per morta. Alla sua commemorazione, le persone a lei più care riportano alla luce dei segreti sul suo passato
 - Tomb Raider: The Last Revelation – Dopo aver scoperto la tomba perduta del dio egizio Seth, Lara Croft lo libera involontariamente dalle sue catene e compie così unantica profezia in grado di far sprofondare lintera umanità nelloscurità
+- Tomb Raider: Chronicles – In seguito agli eventi di The Last Revelation, Lara Croft è rimasta sepolta in una tomba egizia e viene data per morta. Alla sua commemorazione, le persone a lei più care riportano alla luce dei segreti sul suo passato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F9B3V4M6{{</world>}}

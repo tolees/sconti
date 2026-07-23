@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Flacone multidose – Dispositivo Medico CE Soluzione sterile in flacone da 10 ml, utilizzabile fino a 180 giorni dall’apertura, secondo le istruzioni d’uso.
-- Sollievo da secchezza e affaticamento oculare Aiuta ad alleviare arrossamento, bruciore, secchezza e affaticamento causati da vento, sole, aria secca, fumo, polvere e uso prolungato di schermi digitali.
-- Con acque distillate di origine vegetale Contiene Camomilla, Hamamelis e Malva, note per le loro proprietà rinfrescanti e lenitive.
 - Soluzione oftalmica lubrificante Collirio sterile tamponato con 0,4% di acido ialuronico sodico, indicato per proteggere, idratare e lubrificare la superficie oculare.
+- Con acque distillate di origine vegetale Contiene Camomilla, Hamamelis e Malva, note per le loro proprietà rinfrescanti e lenitive.
+- Sollievo da secchezza e affaticamento oculare Aiuta ad alleviare arrossamento, bruciore, secchezza e affaticamento causati da vento, sole, aria secca, fumo, polvere e uso prolungato di schermi digitali.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09ZDXNC2G{{</world>}}

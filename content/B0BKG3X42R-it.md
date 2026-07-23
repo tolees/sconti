@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- SALI MINERALI ORGANICI: Contiene sali organici di potassio e magnesio altamente assimilabili dallorganismo
-- Il POTASSIO supporta la normale funzione muscolare e il mantenimento di una normale pressione sanguigna
-- FORMULA CONCENTRATA: con più potassio e magnesio rispetto a Polase Classico
 - CON VERO SUCCO DI ARANCIA E MANDARINO, SENZA GLUTINE E SENZA ZUCCHERI
 - Il MAGNESIO contribuisce alla riduzione di stanchezza e fatica e al normale metabolismo energetico, inoltre aiuta a ripristinare l’equilibrio elettrolitico.
+- Il POTASSIO supporta la normale funzione muscolare e il mantenimento di una normale pressione sanguigna
+- FORMULA CONCENTRATA: con più potassio e magnesio rispetto a Polase Classico
 - PRODOTTO IN ITALIA. Maxi formato da 48 bustine (2x48)
+- SALI MINERALI ORGANICI: Contiene sali organici di potassio e magnesio altamente assimilabili dallorganismo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BKG3X42R{{</world>}}

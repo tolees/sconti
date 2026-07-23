@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Confezione contenente 36 KITKAT Chunky da 40g incartati singolarmente: 1,44kg totali
-- Visita il sito Nestlé per scoprire come le nostre marche sono scese in campo e contribuiscono al raggiungimento degli obiettivi di sostenibilità del Gruppo Nestlé con progetti concreti
 - KITKAT è parte dellIncome Accellerator Programme e si impegna a utilizzare cacao approvvigionato in maniera sostenibile
-- KITKAT Chunky è la pausa coi fiocchi se vuoi goderti un break di extra ricarica quando vuoi e dove vuoi
-- KITKAT Chunky è una barretta di cioccolato con doppio wafer avvolto da uno strato di cremoso cioccolato al latte
+- Visita il sito Nestlé per scoprire come le nostre marche sono scese in campo e contribuiscono al raggiungimento degli obiettivi di sostenibilità del Gruppo Nestlé con progetti concreti
+- Confezione contenente 36 KITKAT Chunky da 40g incartati singolarmente: 1,44kg totali
 - Tutto il gusto di KITKAT ma con il doppio dellenergia, ottimo per la tua pausa quotidiana. Da gustare in compagnia o tutto per te
+- KITKAT Chunky è una barretta di cioccolato con doppio wafer avvolto da uno strato di cremoso cioccolato al latte
+- KITKAT Chunky è la pausa coi fiocchi se vuoi goderti un break di extra ricarica quando vuoi e dove vuoi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B076CSQXMQ{{</world>}}

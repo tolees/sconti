@@ -28,11 +28,11 @@ average: '19.2757142857143'
 
 ℹ️:
 
-- L’ammorbidente Lenor Capri si ispira alla leggera brezza di Capri
-- Profumo autentico di lunga durata con note di gardenia e giacinto
 - Fresco anche nei cicli brevi e a freddo
-- Fresco anche dopo l’asciugatura
 - Profumo con un tocco di olii essenziali
+- Fresco anche dopo l’asciugatura
+- Profumo autentico di lunga durata con note di gardenia e giacinto
+- L’ammorbidente Lenor Capri si ispira alla leggera brezza di Capri
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FGJ67GYH{{</world>}}

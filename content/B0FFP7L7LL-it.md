@@ -28,11 +28,11 @@ average: '18.67'
 
 ℹ️:
 
-- DESIGN A CLESSIDRA IN VETRO: crea unapertura più ampia per una raccolta di cera completamente sciolta che produce unesperienza di fragranza più uniforme
-- PROFUMO DI LUNGA DURATA: Ogni fragranza è accuratamente selezionata e testata per garantire che questa candela riempia la stanza con il suo profumo di lunga durata
-- CREPITOLA MENTRE BRUCIA: lo stoppino in legno PlusWick Innovation offre un crepitio distintivo per una sofisticata sensazione di caminetto
-- METALLI PREZIOSI: i materiali più rari della natura ispirano lelegante estetica metallica di questa collezione WoodWick riccamente profumata
 - CYPRESS ORE: I caldi profumi di lavanda e legni biondi bilanciano le note di cipresso in questa fragranza che trascende il tempo
+- METALLI PREZIOSI: i materiali più rari della natura ispirano lelegante estetica metallica di questa collezione WoodWick riccamente profumata
+- PROFUMO DI LUNGA DURATA: Ogni fragranza è accuratamente selezionata e testata per garantire che questa candela riempia la stanza con il suo profumo di lunga durata
+- DESIGN A CLESSIDRA IN VETRO: crea unapertura più ampia per una raccolta di cera completamente sciolta che produce unesperienza di fragranza più uniforme
+- CREPITOLA MENTRE BRUCIA: lo stoppino in legno PlusWick Innovation offre un crepitio distintivo per una sofisticata sensazione di caminetto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FFP7L7LL{{</world>}}

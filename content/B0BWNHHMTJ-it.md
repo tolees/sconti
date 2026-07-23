@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Confezione da 100 cialde monodose da 7,3g confezionate singolarmente in atmosfera protettiva
-- Intensità 11/13
-- Cialde Compostabili standard ESE da 44 mm
 - Tostatura Medio-Scura
 - Caffè cremoso ed intenso, gusto pieno ed avvolgente
+- Intensità 11/13
+- Cialde Compostabili standard ESE da 44 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BWNHHMTJ{{</world>}}

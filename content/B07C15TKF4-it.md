@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Corpo in acciaio INOX
 - Doppio senso di rotazione del cono per una spremitura più completa
-- Due coni per agrumi di ogni dimensione
 - Beccuccio anti-goccia INOX
+- Due coni per agrumi di ogni dimensione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07C15TKF4{{</world>}}

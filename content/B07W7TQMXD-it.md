@@ -29,9 +29,9 @@ average: '10.78'
 ℹ️:
 
 - Ideale per lavori su arredamento, macchinari, auto telecomandate, biciclette e veicoli
-- Realizzato in acciaio al cromo vanadio, cromato e resistente alla ruggine
 - Chiavi a brugola a L lavorate con precisione per una perfetta aderenza
 - Estremità sferica, angolo di entrata fino a 25°
+- Realizzato in acciaio al cromo vanadio, cromato e resistente alla ruggine
 - Braccio lungo per una più ampia portata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

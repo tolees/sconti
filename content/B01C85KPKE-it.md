@@ -29,14 +29,14 @@ average: '114.688'
 ℹ️:
 
 - TRASMISSIONE A DUE VELOCITÀ PER TUTTI I METALLI: per una maggiore autonomia e durata dellutensile.
-- CONTROLLO DELLA COPPIA REGOLABILE: 15 diverse posizioni per avvitare in modo coerente in una varietà di materiali.
-- ERGONOMICO: Consente una presa migliore, un controllo migliorato e comfort. Questo design è particolarmente vantaggioso per un uso prolungato, poiché riduce laffaticamento dellutente e consente una gestione più precisa.
-- FORNITO CON: Una cassetta degli attrezzi TSTAK Heavy Duty, un gancio per cintura e un portapunte magnetico. Batteria e caricabatterie sono venduti separatamente.
+- DESIGN ULTRA COMPATTO E LEGGERO: Consente luso in spazi ristretti e migliora la portabilità pur rimanendo robusto e resistente.
 - MOTORE BRUSHLESS: Offre alte prestazioni, prolunga la vita dellutensile e consente un design molto più compatto.
 - COSTRUITO PER PROFESSIONISTI ESIGENTI: Da 100 anni, DEWALT è il marchio di scelta per i professionisti esigenti che richiedono strumenti innovativi, resistenti e costruiti per durare. Con uneredità di eccellenza e un futuro di continua innovazione, gli utensili DEWALT sono progettati per offrire prestazioni superiori e durata, garantendo che tu possa affrontare i compiti più impegnativi con fiducia e precisione.
-- LED LUMINOSO SULLA BASE DELLUTENSILE: Per alta visibilità in situazioni di scarsa illuminazione.
+- FORNITO CON: Una cassetta degli attrezzi TSTAK Heavy Duty, un gancio per cintura e un portapunte magnetico. Batteria e caricabatterie sono venduti separatamente.
+- CONTROLLO DELLA COPPIA REGOLABILE: 15 diverse posizioni per avvitare in modo coerente in una varietà di materiali.
+- ERGONOMICO: Consente una presa migliore, un controllo migliorato e comfort. Questo design è particolarmente vantaggioso per un uso prolungato, poiché riduce laffaticamento dellutente e consente una gestione più precisa.
 - COMPATIBILE CON IL SISTEMA DI BATTERIE XR: Progettato per migliorare le prestazioni del tuo utensile con la tecnologia agli ioni di litio allavanguardia. Offre una durata del ciclo prolungata e una scarica automatica ridotta al minimo, garantendo che le batterie rimangano cariche e pronte alluso. Con caratteristiche come il monitoraggio delle prestazioni, la resistenza alla polvere e allumidità, oltre a un design leggero e compatto per unottima portabilità, queste batterie sono una scelta affidabile per vari ambienti.
-- DESIGN ULTRA COMPATTO E LEGGERO: Consente luso in spazi ristretti e migliora la portabilità pur rimanendo robusto e resistente.
+- LED LUMINOSO SULLA BASE DELLUTENSILE: Per alta visibilità in situazioni di scarsa illuminazione.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01C85KPKE{{</world>}}

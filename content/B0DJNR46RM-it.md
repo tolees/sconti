@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- PAVESI - I nostri prodotti contengono solo ingredienti di qualità. Ti accompagniamo in tutti i momenti della giornata: biscotti per la colazione, snack dolci e salati e crackers
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
 - PER LA TUA PAUSA - Ottime come snack in ogni momento della giornata, da gustare così come sono o da abbinare a salse e creme per un aperitivo gustoso
-- GRAN PAVESI - Scegli lo snack che più desideri: i classici cracker salati e non salati, arricchiti al pomodoro, alle olive, alla curcuma, e al mais o tutti gli altri snack, anche in monoporzione!
 - INGREDIENTI - Farina di frumento, amido di patata, olio di oliva 6,6% e sale, pochi ingredienti che danno vita ad una sfoglia buona e croccante; conservare in luogo fresco ed asciutto
+- GRAN PAVESI - Scegli lo snack che più desideri: i classici cracker salati e non salati, arricchiti al pomodoro, alle olive, alla curcuma, e al mais o tutti gli altri snack, anche in monoporzione!
+- PAVESI - I nostri prodotti contengono solo ingredienti di qualità. Ti accompagniamo in tutti i momenti della giornata: biscotti per la colazione, snack dolci e salati e crackers
 - SFOGLIE CLASSICHE - Sottili e fragranti, hanno la semplicità di un gusto unico grazie alla cottura al forno e alluso di pochi semplici ingredienti, come olio e sale
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DJNR46RM{{</world>}}

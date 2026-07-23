@@ -28,11 +28,11 @@ average: '1.64'
 
 ℹ️:
 
-- 100% farina integrale. Grano, avena, orzo e frumento: assapora il gusto autentico dei cereali
 - Ricchi di iodio e preparati con materie prime scelte per le loro proprietà nutrizionali
-- 14% di fibre, la bontà naturale delle fibre e il mix perfetto di bontà e qualità
 - Senza olio di palma e senza aromi, nei crackers integrali Misura selezioniamo solo ingredienti di qualità e tanta naturalezza
 - -50% di grassi saturi rispetto alla media dei crackers più venduti;uno spuntino leggero alla portata di tutti
+- 100% farina integrale. Grano, avena, orzo e frumento: assapora il gusto autentico dei cereali
+- 14% di fibre, la bontà naturale delle fibre e il mix perfetto di bontà e qualità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B014UT95BG{{</world>}}

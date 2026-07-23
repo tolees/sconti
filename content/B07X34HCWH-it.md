@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Una, due o tre magiche notti con scelta tra colazione, aperitivo, percorso relax e cena per 2 persone
 - Limballaggio può variare
-- Unidea regalo perfetta per celebrare al meglio un compleanno, un matrimonio o una laurea
+- Una, due o tre magiche notti con scelta tra colazione, aperitivo, percorso relax e cena per 2 persone
 - Ogni cofanetto regalo Smartbox si presenta in un’elegante confezione contenente un assegno regalo senza indicazione di prezzo e una guida cartacea con le informazioni sulla gamma di esperienze e le istruzioni per usufruire del servizio selezionato
 - Libertà e flessibilità: i cofanetti regalo Smartbox offrono fino a 3 anni e 3 mesi di validità, cambio gratuito e rinnovo illimitato
+- Unidea regalo perfetta per celebrare al meglio un compleanno, un matrimonio o una laurea
 - 2800 indimenticabili soggiorni in selezionate strutture di charme
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Libera la fantasia: Con oltre un miliardo di combinazioni tra minifigure di set LEGO iconici, puoi scegliere un aspetto classico o creare la tua minifigure unica e irripetibile. Sfoggia la tua creazione nella prossima sessione di gioco
 - È meraviglioso: Metti alla prova la tua velocità, il tuo ingegno e la tua esperienza del mondo LEGO in tanti minigiochi esilaranti. Gareggia per preparare la cena per gli alieni, corri per fuggire da tombe che crollano, sfreccia su piste di rally e molto altro ancora in 60 minigiochi diversi e divertentissimi
 - Punta alloro: In LEGO Party! avrai un solo obiettivo: ottenere più mattoncini dorati di tutti gli altri! Usa Potenza+ per avere la meglio e piazza trappole per sabotare i tuoi avversari nelle tante Zone di sfida personalizzabili a tema LEGO
 - Gioca a modo tuo: Coinvolgi i tuoi amici e scatenatevi insieme sul divano con la modalità multigiocatore in locale od online con quella cross-platform pensata per un massimo di 4 giocatori
-- Libera la fantasia: Con oltre un miliardo di combinazioni tra minifigure di set LEGO iconici, puoi scegliere un aspetto classico o creare la tua minifigure unica e irripetibile. Sfoggia la tua creazione nella prossima sessione di gioco
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FCS4MN2V{{</world>}}

@@ -28,11 +28,11 @@ average: '19.2'
 
 ℹ️:
 
-- La confezione regalo Bombay Sapphire si presenta con il packaging riciclabile "frustration-free" di Amazon, creato per ridurre gli scarti, prevenire danni ed essere facile da aprire
-- Distillato partendo da 10 botanical selezionati con cura da coltivazioni sostenibili in tutto il mondo e creato dal nostro Master of Botanicals e Mastro Distillatore
-- Questa confezione regalo è perfetta per scatenare la tua creatività nei cocktail. Dal perfetto Bombay & Tonic al Bombay Negroni, scopri come Bombay si esprime al meglio per soddisfare ogni palato
 - Il nostro rinomato London Dry Gin è 100% infuso al vapore: una tecnica che gli dona note agrumate fresche e vivaci, il carattere brillante del ginepro e un finale leggero ma anche elegante e speziato
+- La confezione regalo Bombay Sapphire si presenta con il packaging riciclabile "frustration-free" di Amazon, creato per ridurre gli scarti, prevenire danni ed essere facile da aprire
+- Questa confezione regalo è perfetta per scatenare la tua creatività nei cocktail. Dal perfetto Bombay & Tonic al Bombay Negroni, scopri come Bombay si esprime al meglio per soddisfare ogni palato
 - La confezione regalo Bombay Sapphire include liconico gin prodotto con la ricetta originale del 1761 e un bicchiere balloon da gin griffato. È il regalo perfetto dedicato al gin per ogni occasione
+- Distillato partendo da 10 botanical selezionati con cura da coltivazioni sostenibili in tutto il mondo e creato dal nostro Master of Botanicals e Mastro Distillatore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09G3BTM59{{</world>}}

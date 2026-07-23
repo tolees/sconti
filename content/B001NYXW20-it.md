@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Profilo FlankTraction
-- Per utilizzo manuale
-- Quadro femmina a norma DIN 3120 / ISO 1174 con sede per sfera di tenuta
 - Finitura lunga
+- Quadro femmina a norma DIN 3120 / ISO 1174 con sede per sfera di tenuta
+- Per utilizzo manuale
+- Profilo FlankTraction
 - Secondo DIN 3124 / ISO 3315
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

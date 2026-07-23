@@ -28,11 +28,11 @@ average: '4.45'
 
 ℹ️:
 
-- Il tonno Auriga è lavorato a Trapani dalle maestranze locali.
-- Il Tonno Auriga conferisce un apporto significativo di proteine.
 - Il tonno Auriga è ottimo per arricchire insalate, farcire golosi panini e come condimento per la pasta.
-- Tutte le confezioni di tonno Auriga sono realizzate con materiale riciclato e riciclabile, sia il cartone che il metallo.
+- Il Tonno Auriga conferisce un apporto significativo di proteine.
+- Il tonno Auriga è lavorato a Trapani dalle maestranze locali.
 - Il tonno Auriga è cotto a vapore e conservato con olio di oliva di prima qualità e sale marino di Trapani.
+- Tutte le confezioni di tonno Auriga sono realizzate con materiale riciclato e riciclabile, sia il cartone che il metallo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D3HTCGH3{{</world>}}

@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - MIXCARE – ASCIUGATURA UNIFORME E DELICATA PER COTONE E SINTETICI: Il programma MixCare assicura prestazioni ottimali e un’asciugatura uniforme per carichi misti di cotone e tessuti sintetici, evitando la necessità di separare i capi.
-- CONNETTIVITÀ SMART – CONTROLLO A DISTANZA E CONSIGLI PERSONALIZZATI: Collega l’asciugatrice all’app Electrolux per gestirla da remoto, ricevere aggiornamenti in tempo reale e ottenere suggerimenti per risparmiare energia e prolungare la vita dei tuoi capi.
-- SENSICARE – TECNOLOGIA INTELLIGENTE PER LA CURA DEI TESSUTI: Grazie ai sensori di temperatura e umidità, SensiCare regola automaticamente tempo e consumo energetico, proteggendo i tessuti dal calore eccessivo, preservandone la qualità nel tempo.
 - DELICATECARE – ASCIUGA LA LANA SENZA RESTRINGIMENTI: La tecnologia DelicateCare con pompa di calore regola temperatura e movimenti del cestello per asciugare anche i capi più delicati, come seta e lana, mantenendoli in perfetta forma. Certificazione Woolmark.
+- SENSICARE – TECNOLOGIA INTELLIGENTE PER LA CURA DEI TESSUTI: Grazie ai sensori di temperatura e umidità, SensiCare regola automaticamente tempo e consumo energetico, proteggendo i tessuti dal calore eccessivo, preservandone la qualità nel tempo.
+- CONNETTIVITÀ SMART – CONTROLLO A DISTANZA E CONSIGLI PERSONALIZZATI: Collega l’asciugatrice all’app Electrolux per gestirla da remoto, ricevere aggiornamenti in tempo reale e ottenere suggerimenti per risparmiare energia e prolungare la vita dei tuoi capi.
 - SMARTSELECT – ASCIUGATURA INTUITIVA E SINCRONIZZATA CON LA LAVATRICE: Con SmartSelect, scegli facilmente il programma di asciugatura ideale. Grazie a SyncDry, l’asciugatrice abbina automaticamente le impostazioni al ciclo di lavaggio precedente. Con l’avvio da remoto, puoi gestire tutto a distanza per la massima comodità.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

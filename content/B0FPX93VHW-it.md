@@ -28,9 +28,9 @@ average: '9.94'
 
 ℹ️:
 
-- CIGLIA INCURVATE E VOLUMIZZATE: Scopri Lash Sensational Body Mascara di Maybelline per ciglia che vanno su e stanno su. Scolpisce e incurva fino a 24ore*. *Test di autovalutazione su 119 soggetti.
 - EFFETTO WOW: Scopri ciglia incurvate e voluminose! La formula setosa a lunga tenuta avvolge ogni ciglia senza appesantirle.
 - FORMULA DELICATA: oftalmolologicamente testata, adatta per gli occhi sensibili, ipoallergenica, adatta ai portatori di lenti a contatto.
+- CIGLIA INCURVATE E VOLUMIZZATE: Scopri Lash Sensational Body Mascara di Maybelline per ciglia che vanno su e stanno su. Scolpisce e incurva fino a 24ore*. *Test di autovalutazione su 119 soggetti.
 - COME APPLICARE: Applica il mascara dalla radice alla punta delle ciglia con movimenti a zig-zag. Ripeti fino ad ottenere il risultato desiderato.
 - Contenuto: 1 x Maybelline New York Mascara Volumizzante, Adatto a Occhi Sensibili, Ciglia Incurvate e Volumizzate, Lunga Tenuta, Resistente a Sbavature e Sudore, Colore: Black, Body Mascara, Lash Sensational, 9,75 ml
 

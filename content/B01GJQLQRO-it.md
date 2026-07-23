@@ -28,9 +28,9 @@ average: '110.49'
 
 ℹ️:
 
-- Regolazione taglia millimetrica
-- Calotta robusta in ABS
 - Ventilazione regolabile
+- Calotta robusta in ABS
+- Regolazione taglia millimetrica
 - Imbottitura Multi Impatto EPP
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

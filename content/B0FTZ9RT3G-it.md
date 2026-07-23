@@ -29,8 +29,8 @@ average: '1.89'
 ℹ️:
 
 - GUSTO COINVOLGENTE – fichi e mandorle si uniscono in un equilibrio irresistibile: una bontà che conquista ogni momento della giornata
-- INGREDIENTI VEGETALI – realizzati esclusivamente con ingredienti di origine vegetale, per uno biscotto sano, naturale e gustoso adatto a tutti
 - GRAN CEREALE - Ci senti la Natura
+- INGREDIENTI VEGETALI – realizzati esclusivamente con ingredienti di origine vegetale, per uno biscotto sano, naturale e gustoso adatto a tutti
 - scegli uno biscotto con il 16% di proteine e ingredienti 100% vegetali, a colazione, dopo l’allenamento o per una pausa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

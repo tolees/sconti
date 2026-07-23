@@ -28,11 +28,11 @@ average: '11.73'
 
 ℹ️:
 
-- Screen print design on front
-- Woven branding label on side seam
-- __Fit:__ Classic, comfortable regular fit
-- __Fabric:__ Cotton fabric [160 g/m2]
 - __Neck:__ Crew neckline
+- __Fit:__ Classic, comfortable regular fit
+- Woven branding label on side seam
+- __Fabric:__ Cotton fabric [160 g/m2]
+- Screen print design on front
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09JGPMQW1{{</world>}}

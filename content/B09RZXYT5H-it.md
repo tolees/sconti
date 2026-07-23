@@ -28,13 +28,13 @@ average: '112.86'
 
 ℹ️:
 
-- NON INGOMBRANTE: le maniglie si ripiegano sul tagliaerba. È possibile ripiegare il raccoglierba Redi da 40 litri e riporlo comodamente sulla parte superiore del tagliaerba. Il tagliaerba può essere messo in posizione verticale negli spazi piccoli.
-- PERFETTO PER PRATI MEDI: La larghezza di taglio di 37 cm rende questo tagliaerba perfetto per il taglio di prati di medie dimensioni.
 - AIR-COLLECT: il design della lama combinato con il design avanzato del piatto massimizza la raccolta dellerba in condizioni difficili
+- NON INGOMBRANTE: le maniglie si ripiegano sul tagliaerba. È possibile ripiegare il raccoglierba Redi da 40 litri e riporlo comodamente sulla parte superiore del tagliaerba. Il tagliaerba può essere messo in posizione verticale negli spazi piccoli.
 - FRENO SAFE-STOP: il freno meccanico brevettato arresta la lama entro 3 secondi dal rilascio delle maniglie del quadro di avviamento per una maggiore sicurezza di chi lo usa.
+- PERFETTO PER PRATI MEDI: La larghezza di taglio di 37 cm rende questo tagliaerba perfetto per il taglio di prati di medie dimensioni.
 - DOPPIA FUNZIONE: scegli tra due modalità di smaltimento dellerba tagliata. Raccoglila nel cesto Redi da 40 litri realizzata apposta per lo smaltimento dei rifiuti verdi, oppure usa il tappo mulching in dotazione per tagliare finemente lerba e lasciarla sul prato in modo che funga da nutriente.
-- MOTORE DA 1600W CON T-Drive (TM): la coppia viene regolata automaticamente per mantenere la velocità della lama anche in condizioni di taglio difficili come in caso di erba bagnata o alta.
 - BELLISSIMA FINITURA: dotato di lama in acciaio al carbonio per un taglio di ottima qualità e 6 altezze di taglio comprese tra 20 mm e 70 mm tra cui scegliere che possono essere regolate con una leva centrale.
+- MOTORE DA 1600W CON T-Drive (TM): la coppia viene regolata automaticamente per mantenere la velocità della lama anche in condizioni di taglio difficili come in caso di erba bagnata o alta.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09RZXYT5H{{</world>}}

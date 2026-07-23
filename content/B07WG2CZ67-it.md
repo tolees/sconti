@@ -30,9 +30,9 @@ average: '411.45'
 
 - La serie APC Back-UPS PRO offre backup di batteria e protezione da sovratensioni per PC ad alte prestazioni, reti, dispositivi di archiviazione esterni, console di gioco e altri dispositivi elettronici
 - Interfaccia LCD: chiara e di immediata lettura, fornisce informazioni sullo stato dellUPS e dei carichi ad esso collegati
-- 8 uscite (IEC) - 6 uscite con backup di batteria e protezione da sovratensioni - 2 uscite con protezione da sovratensioni
 - La regolazione automatica della tensione (AVR) corregge le fluttuazioni dellalimentazione per continuare a lavorare anche in presenza di sovratensioni e sottotensioni senza utilizzare la batteria
 - Include: APC Back UPS Pro, manuale duso, software di Shutdown
+- 8 uscite (IEC) - 6 uscite con backup di batteria e protezione da sovratensioni - 2 uscite con protezione da sovratensioni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07WG2CZ67{{</world>}}

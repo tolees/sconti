@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Altezza del proiettore: 1,8 m
 - Adatto per lampade a LED
 - Con interruttore a cavo
-- Altezza del proiettore: 1,8 m
-- Essentials: illuminazione adatta ad ogni appartamento
 - Il braccio di lettura può essere regolato individualmente utilizzando il giunto flessibile
+- Essentials: illuminazione adatta ad ogni appartamento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B004LZSP6Q{{</world>}}

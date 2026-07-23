@@ -28,11 +28,11 @@ average: '1.085'
 
 ℹ️:
 
-- Le caramelle Haribo mantengono l’autentico sapore di liquirizia e ti regalano un momento ricco di dolcezza
-- Può contenere tracce di frumento, latte
-- Conservare in luogo fresco ed asciutto
 - Sciroppo di glucosio, zucchero e destrosio, agenti gelificanti
+- Conservare in luogo fresco ed asciutto
+- Le caramelle Haribo mantengono l’autentico sapore di liquirizia e ti regalano un momento ricco di dolcezza
 - Caramelle gommose al gusto liquirizia
+- Può contenere tracce di frumento, latte
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07RLZKLTZ{{</world>}}

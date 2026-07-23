@@ -28,11 +28,11 @@ average: '2.59'
 
 ℹ️:
 
-- Il classico vasetto in vetro racchiude tutta la qualità dei nostri prodotti ben visibile anche dallesterno della confezione
+- Polvere dal colore rosso chiaro e dal sapore dolce, ricavata da una varietà di peperoni (Capsicum annuum) essiccati e macinati
 - La paprika affumicata Cannamela, è diffusa prevalentemente nella penisola iberica e dona un aroma leggermente affumicato ad ogni piatto
 - Il suo sapore dolce conferisce ai piatti il tipico sapore di peperone, con una nota piccante più o meno accentuata a seconda dellintensità che ci suggerisca di usare il nostro gusto personale
 - La confezione è in grado di salvaguardare laroma nel tempo, offrire un prodotto fresco sempre pronto alluso e che consente di dosare la quantità desiderata con estrema facilità
-- Polvere dal colore rosso chiaro e dal sapore dolce, ricavata da una varietà di peperoni (Capsicum annuum) essiccati e macinati
+- Il classico vasetto in vetro racchiude tutta la qualità dei nostri prodotti ben visibile anche dallesterno della confezione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08MT87TV3{{</world>}}

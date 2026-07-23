@@ -28,10 +28,10 @@ average: '169.995'
 
 ℹ️:
 
-- Trasmetti in streaming i tuoi servizi preferiti tramite Wi-Fi. Associa un dispositivo Bluetooth in pochi secondi. Collega un giradischi o unaltra sorgente audio tramite la porta Line-In.¹
 - Goditi un suono incredibile in pochi minuti. Basta collegarlo, connettere il tuo smartphone o tablet al Wi-Fi e aprire lapp Sonos.
 - Due tweeter angolati con speciali guide donda distribuiscono gli alti chiari a destra e a sinistra per una separazione stereo ottimale, mentre un potente midrange garantisce bassi profondi.
 - Goditi un suono ottimale, indipendentemente da dove posizioni il tuo altoparlante. Trueplay utilizza i microfoni del tuo iPhone o iPad per adattare il suono allacustica individuale della tua casa.
+- Trasmetti in streaming i tuoi servizi preferiti tramite Wi-Fi. Associa un dispositivo Bluetooth in pochi secondi. Collega un giradischi o unaltra sorgente audio tramite la porta Line-In.¹
 - Goditi il suono ricco di Sonos a un prezzo più conveniente. Che sia il tuo primo o il tuo quinto diffusore, Era 100 SL ti offre unesperienza di ascolto ancora migliore.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

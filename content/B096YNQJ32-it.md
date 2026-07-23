@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- PIQUÉ AD ASCIUGATURA RAPIDA: il piqué in poliestere presenta una superficie testurizzata con proprietà traspiranti per un comfort attivo
 - VESTIBILITÀ ADERENTE: aderente su spalle, maniche, petto e vita
-- DETTAGLI: chiusura a tre bottoni, tessuto traspirante, colletto a costine e spacchi laterali per offrire libertà di movimento
+- PIQUÉ AD ASCIUGATURA RAPIDA: il piqué in poliestere presenta una superficie testurizzata con proprietà traspiranti per un comfort attivo
 - POLO SPORTIVA: pensata per il golf e labbigliamento sportivo
+- DETTAGLI: chiusura a tre bottoni, tessuto traspirante, colletto a costine e spacchi laterali per offrire libertà di movimento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B096YNQJ32{{</world>}}

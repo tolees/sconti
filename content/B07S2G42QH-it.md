@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Collaboriamo con la better cotton initiative per una coltivazione del cotone sostenibile a livello globale
 - Il morbido jersey di cotone e il taglio classico fanno di questa T-shirt un capo essenziale
+- Collaboriamo con la better cotton initiative per una coltivazione del cotone sostenibile a livello globale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07S2G42QH{{</world>}}

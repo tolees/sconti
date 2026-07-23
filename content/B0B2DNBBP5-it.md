@@ -28,12 +28,12 @@ average: '69.99'
 
 ℹ️:
 
-- 🏡[6 ORARI DI INIZIO AL GIORNO IMPOSTABILI]: È possibile impostare un massimo di 6 orari di avvio in un giorno per lirrigazione su ciascuna zona, in base alle esigenze idriche specifiche delle varie fasi di crescita delle piante. Pertanto, questo controller intelligente per irrigatori potrebbe essere un utile assistente per creare un bellissimo giardino.
 - 🏡[CONTROLLORE SMART SPRINKLER A 6 ZONE]: Questo controller intelligente per irrigatori è progettato per controllare lirrigazione fino a 6 zone individualmente o simultaneamente. Inoltre, supporta la modalità di irrigazione automatica e la modalità di irrigazione manuale per soddisfare le diverse esigenze idriche di ciascuna zona.
-- 🏡[MEMORIA NON VOLATILE]: La memoria non volatile è integrata nel controllo di irrigatore smart, che può memorizzare tutte le impostazioni a tempo indeterminato anche dopo uno spegnimento prolungato. Pertanto, puoi sempre fare affidamento sullirrigazione che viene eseguita secondo il programma.
-- 🏡[PER USO INTERNO ED ESTERNO]: Questo controller è dotato di una copertura resistente alle intemperie per proteggere il dispositivo da polvere, vento, sabbia e pioggia, sia allinterno che allesterno.
-- 🏡[4 OPZIONI DI IRRIGAZIONE GIORNI CICLICI]: Sono disponibili 4 opzioni per determinare la frequenza di irrigazione del programmatore: giorni della settimana (lun, mar, mer, ecc.), intervalli (ogni numero "X" di giorni), giorni dispari, o addirittura giorni. È possibile programmare separatamente un programma di irrigazione per ciascuna zona.
 - 🏡[BYPASS PIOGGIA E REGOLAZIONE STAGIONALE]: È possibile collegare un sensore di pioggia allIIC-600-WIFI, in modo che interrompa automaticamente lirrigazione nei giorni di pioggia, risparmiando acqua e denaro. Inoltre, è dotato di una funzione di regolazione stagionale che consente di regolare il tempo di irrigazione con una sola operazione, soddisfacendo le diverse esigenze di crescita delle piante nelle varie stagioni.
+- 🏡[6 ORARI DI INIZIO AL GIORNO IMPOSTABILI]: È possibile impostare un massimo di 6 orari di avvio in un giorno per lirrigazione su ciascuna zona, in base alle esigenze idriche specifiche delle varie fasi di crescita delle piante. Pertanto, questo controller intelligente per irrigatori potrebbe essere un utile assistente per creare un bellissimo giardino.
+- 🏡[PER USO INTERNO ED ESTERNO]: Questo controller è dotato di una copertura resistente alle intemperie per proteggere il dispositivo da polvere, vento, sabbia e pioggia, sia allinterno che allesterno.
+- 🏡[MEMORIA NON VOLATILE]: La memoria non volatile è integrata nel controllo di irrigatore smart, che può memorizzare tutte le impostazioni a tempo indeterminato anche dopo uno spegnimento prolungato. Pertanto, puoi sempre fare affidamento sullirrigazione che viene eseguita secondo il programma.
+- 🏡[4 OPZIONI DI IRRIGAZIONE GIORNI CICLICI]: Sono disponibili 4 opzioni per determinare la frequenza di irrigazione del programmatore: giorni della settimana (lun, mar, mer, ecc.), intervalli (ogni numero "X" di giorni), giorni dispari, o addirittura giorni. È possibile programmare separatamente un programma di irrigazione per ciascuna zona.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B2DNBBP5{{</world>}}

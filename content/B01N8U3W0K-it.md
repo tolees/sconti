@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- EQUIVALENTE A - Rexel n. 25, Rapid tipo 21 ed Esselte tipo 21, Bostitch tipo SB35 e punti professionali Swingline
+- IMPIEGHI - Popolari per lavori di pinzatura leggeri, comunemente utilizzati in pinzatrici compatte e adatti per rilegare piccole pile di carta
 - CONTENUTO - Confezione da 2000 punti zincati resistenti alla ruggine da 21/4 mm, progettati per luso in pinzatrici compatte
 - COMPATIBILITÀ - Compatibile con la cucitrice a pinza Rapesco SP-64 e con cucitrici di altre marche che accettano punti tipo 21/4 mm; Verificare sempre la compatibilità prima dellacquisto
 - ELEMENTI CHIAVE - Graffette di qualità superiore, professionali, resistenti alla ruggine, con punte a scalpello che garantiscono una facile penetrazione e una forte tenuta
-- EQUIVALENTE A - Rexel n. 25, Rapid tipo 21 ed Esselte tipo 21, Bostitch tipo SB35 e punti professionali Swingline
-- IMPIEGHI - Popolari per lavori di pinzatura leggeri, comunemente utilizzati in pinzatrici compatte e adatti per rilegare piccole pile di carta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01N8U3W0K{{</world>}}

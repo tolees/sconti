@@ -28,11 +28,11 @@ average: '83.38'
 
 ℹ️:
 
-- Potenza di fino a 150W per Prime Power: ricarica una powerbank Prime da 26250mAh alla massima velocità tramite lingresso da 150W e raggiungi il 50% di carica in soli 21 minuti.
-- Ricarica passante: Mantieni i tuoi dispositivi alimentati mentre la Prime Powerbank si ricarica senza interruzioni.
 - Ricarica quattro dispositivi insieme: Alimenta fino a quattro dispositivi allo stesso tempo – tramite la porta USB-C1 (fino a 140W), la porta USB-C2 (fino a 100W), la porta USB-A (fino a 22,5W) e il Pogo-Pin (fino a 150W). Quando utilizzata contemporaneamente, la base di ricarica fornisce in totale fino a 150W.
-- Lavanzamento della ricarica reso visibile: posiziona la tua Prime Powerbank e vivi effetti luminosi dinamici che si attivano durante la ricarica immediata.
 - Contenuto della confezione: base di ricarica Anker Prime (150W, 3 porte), cavo di alimentazione, guida di benvenuto, 24 mesi di garanzia e la nostra assistenza clienti.
+- Ricarica passante: Mantieni i tuoi dispositivi alimentati mentre la Prime Powerbank si ricarica senza interruzioni.
+- Potenza di fino a 150W per Prime Power: ricarica una powerbank Prime da 26250mAh alla massima velocità tramite lingresso da 150W e raggiungi il 50% di carica in soli 21 minuti.
+- Lavanzamento della ricarica reso visibile: posiziona la tua Prime Powerbank e vivi effetti luminosi dinamici che si attivano durante la ricarica immediata.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FN7STTZP{{</world>}}

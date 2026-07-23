@@ -29,10 +29,10 @@ average: '6.82'
 ℹ️:
 
 - Applicazione: applicare sulla rima delle ciglia superiori o inferiori per accentuare lo sguardo. Si consiglia di rimuovere il prodotto con uno struccante bifasico
-- Formula: waterproof e arricchita con olio di jojoba per una facile applicazione
-- Colore: No. 41 Black Party
-- Risultati e benefici: la sua texture scorrevole e ultra-morbida conferisce una struttura sorprendente a qualsiasi look occhi
 - Contour Clubbing: una matita ultra morbida con formula waterproof, il tocco finale per un look smokey
+- Risultati e benefici: la sua texture scorrevole e ultra-morbida conferisce una struttura sorprendente a qualsiasi look occhi
+- Colore: No. 41 Black Party
+- Formula: waterproof e arricchita con olio di jojoba per una facile applicazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CQ87Q5QS{{</world>}}

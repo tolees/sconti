@@ -29,8 +29,8 @@ average: '8.585'
 ℹ️:
 
 - Protezione della caviglia
-- Imbottitura in EVA
 - Strato esterno: 80% fibra polipropilenica / 20% fibra polipropilenica riciclata con sagomatura a iniezione
+- Imbottitura in EVA
 - Piastra rigida
 - Chiusura a strappo regolabile sul davanti
 

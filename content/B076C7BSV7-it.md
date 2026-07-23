@@ -28,10 +28,10 @@ average: '4.99'
 
 ℹ️:
 
-- Articolo con azione benefica specialmente per coloro che hanno un cuoio capelluto sensibile e facilmente irritabile
-- Balsamo dermolenitivo con azione idratante e protettiva: penetra il capello, lo idrata e contrasta i danni causati da agenti atmosferici e trattamenti aggressivi
-- Dopo lo shampoo, distribuire massaggiando sul cuoio capelluto e sulla lunghezza dei capelli; lasciare in posa qualche minuto e poi risciacquare
 - Balsamo crema dermolenitivo per cute sensibile e irritabile: districa i capelli rendendoli morbidi e leggeri
+- Dopo lo shampoo, distribuire massaggiando sul cuoio capelluto e sulla lunghezza dei capelli; lasciare in posa qualche minuto e poi risciacquare
+- Balsamo dermolenitivo con azione idratante e protettiva: penetra il capello, lo idrata e contrasta i danni causati da agenti atmosferici e trattamenti aggressivi
+- Articolo con azione benefica specialmente per coloro che hanno un cuoio capelluto sensibile e facilmente irritabile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B076C7BSV7{{</world>}}

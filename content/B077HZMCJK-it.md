@@ -29,8 +29,8 @@ average: '1.685'
 ℹ️:
 
 - PER LA MERENDA - Ideali come snack al mattino o come merenda nel pomeriggio: un pacchetto di crackers per avere la giusta energia per affrontare la giornata
-- PAVESI - I nostri prodotti contengono solo ingredienti di qualità. Ti accompagniamo in tutti i momenti della giornata: biscotti per la colazione, snack dolci e salati e crackers
 - GRAN PAVESI - Scegli lo snack che più desideri: i classici cracker salati e non salati, arricchiti al pomodoro e formaggio, alle olive, alle patate e rosmarino o tutti gli snack in monoporzione
+- PAVESI - I nostri prodotti contengono solo ingredienti di qualità. Ti accompagniamo in tutti i momenti della giornata: biscotti per la colazione, snack dolci e salati e crackers
 - CRACKER AL POMODORO - L’inimitabile cracker Gran Pavesi, ancora croccante, arricchito dal sapore delicato del pomodoro ed il 30% di grassi in meno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

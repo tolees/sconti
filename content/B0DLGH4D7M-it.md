@@ -29,10 +29,10 @@ average: '49.33'
 ℹ️:
 
 - Caratteristiche eleganti e pratiche - Rifinita con un elegante colore rosso scuro del blank, impugnature in sughero per il massimo comfort e un porta ami incorporato per la massima comodità, questa canna combina funzionalità ed estetica sofisticata.
-- Componenti di alta qualità - Dotate di guide LTS SIC in acciaio inox per una gestione fluida della lenza e una riduzione dellattrito, insieme a un portamulinello ergonomico per un collegamento sicuro e confortevole tra canna e mulinello.
-- Prestazioni di lancio ottimizzate - Il blank sottile con unazione moderatamente rapida offre un lancio preciso e agganci rapidi, rendendolo adatto a una varietà di tecniche di pesca e di esche, dalle plastiche morbide alle esche dure.
-- Costruzione resistente e leggera - Il robusto grezzo in carbonio 24T garantisce uneccellente sensibilità e durata pur mantenendo un design leggero, che lo rende perfetto per le tecniche di spinning più versatili.
 - Design compatto e facile da trasportare - Grazie alla costruzione del blank in 3 o 4 pezzi, questa canna è estremamente comoda da trasportare, consentendovi di trasportarla senza fatica durante le battute di pesca, pur mantenendo le prestazioni di una canna tradizionale in 2 pezzi.
+- Componenti di alta qualità - Dotate di guide LTS SIC in acciaio inox per una gestione fluida della lenza e una riduzione dellattrito, insieme a un portamulinello ergonomico per un collegamento sicuro e confortevole tra canna e mulinello.
+- Costruzione resistente e leggera - Il robusto grezzo in carbonio 24T garantisce uneccellente sensibilità e durata pur mantenendo un design leggero, che lo rende perfetto per le tecniche di spinning più versatili.
+- Prestazioni di lancio ottimizzate - Il blank sottile con unazione moderatamente rapida offre un lancio preciso e agganci rapidi, rendendolo adatto a una varietà di tecniche di pesca e di esche, dalle plastiche morbide alle esche dure.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DLGH4D7M{{</world>}}

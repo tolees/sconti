@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Scomparto unico chiuso con bottone in cui sono presenti spazi per carte e tessere
 - Portafoglio formato piccolo in pelle di origine italiana
 - Uno spazio con cerniera per le monete
-- Scomparto unico chiuso con bottone in cui sono presenti spazi per carte e tessere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F6VHSCQQ{{</world>}}

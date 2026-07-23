@@ -28,11 +28,11 @@ average: '57.99'
 
 ℹ️:
 
-- SEMPLICITÀ E FASCINO: Creato nel 1968, il marchio Calvin Klein è famoso per il suo look inconfondibile, che lo ha reso da subito un’ispirazione per il mondo della moda. Il brand americano è caratterizzato da un’estetica minimalista.
-- PER OGNI OCCASIONE: Questa giacca leggera si distingue per la sua funzionalità e il comfort particolarmente elevato. Il discreto branding Calvin Klein completa il look della giacca di tendenza.
-- ICONICITÀ INTRAMONTABILE: L’originale giacca Calvin Klein con due tasche ad altezza della vita e colletto in stile baseball presenta un design essenziale. Grazie al suo tessuto caldo risulta ideale per la mezza stagione.
-- MATERIALE E LAVAGGIO: Questo bomber è realizzato al 100% in polipropilene riciclato. È lavabile in lavatrice e adatto all’asciugatrice.
 - VESTIBILITÀ OTTIMALE: Il look intramontabile della giacca bomber minimale è leggero e tiene caldo.
+- SEMPLICITÀ E FASCINO: Creato nel 1968, il marchio Calvin Klein è famoso per il suo look inconfondibile, che lo ha reso da subito un’ispirazione per il mondo della moda. Il brand americano è caratterizzato da un’estetica minimalista.
+- MATERIALE E LAVAGGIO: Questo bomber è realizzato al 100% in polipropilene riciclato. È lavabile in lavatrice e adatto all’asciugatrice.
+- ICONICITÀ INTRAMONTABILE: L’originale giacca Calvin Klein con due tasche ad altezza della vita e colletto in stile baseball presenta un design essenziale. Grazie al suo tessuto caldo risulta ideale per la mezza stagione.
+- PER OGNI OCCASIONE: Questa giacca leggera si distingue per la sua funzionalità e il comfort particolarmente elevato. Il discreto branding Calvin Klein completa il look della giacca di tendenza.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DK3ZWSM1{{</world>}}

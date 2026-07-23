@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- CARATTERISTICHE - Alimentatore stabile, silenzioso e potente. Controllato elettronicamente per una ottima stabilità. La ventola da 120 mm con tecnologia fluido dinamica garantisce silenziosità e durata; la struttura garantisce un ottimo raffreddamento che significa una vita più lunga dei componenti, la protezione contro le sovratensioni garantisce la vita delle schede madri e dei componenti collegati; ideale per GAMING e PC ad alte prestazioni.
 - DOTAZIONE - La confezione contiene alimentatore cavo di alimentazione, viti di fissaggio
 - SPECIFICHE TECNICHE – Efficienza elettrica dell 85% a mezzo carico e 82% a pieno carico, protezioni da sovracorrenti e cortocircuito, protezione contro scosse elettriche, controllo PFC attivo, controlli contro sovra potenza, sovra tensione e sotto tensione per la sicurezza dei componenti critici del sistema (OVP, SCP, OPP, OVP, UVP, SIP); Ventola con controllo termico e cuscinetto fluidodinamico che assorbe gli urti e garantisce maggiora silenziosità, minori consumi ed una durata di vita più lunga.
+- CARATTERISTICHE - Alimentatore stabile, silenzioso e potente. Controllato elettronicamente per una ottima stabilità. La ventola da 120 mm con tecnologia fluido dinamica garantisce silenziosità e durata; la struttura garantisce un ottimo raffreddamento che significa una vita più lunga dei componenti, la protezione contro le sovratensioni garantisce la vita delle schede madri e dei componenti collegati; ideale per GAMING e PC ad alte prestazioni.
 - COMPONENTI E COSTRUZIONE - Chassis nero con effetto ruvido e antigraffio, condensatori di qualità made in Taiwan Teapo 105c, dimensioni di 160 x 150 x 86 mm ed un peso di 2,11 kg; interruttore per la ventola, con unaffidabilità MTBF di 100.000 ore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

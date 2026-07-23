@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- MAXI FORMATO - siringa pronta alluso in maxi formato da 20 g per un maggior numero di trattamenti
-- FORMULAZIONE PROFESSIONALE – Formulazione con un forte potere attrattivo per risolvere il problema nel breve tempo. Di colore neutro chiaro è ideale per applicazioni localizzate in gocce sulle superfici e/o allentrata dei formicai. Inoltre, la sua formulazione, contiene un agente amaricante che lo rende sgradevole a persone ed animali non target
-- FACILE DA USARE – Prodotto pratico per il consumatore grazie alla siringa per trattamenti localizzati. Inoltre, è possibile soggiornare nei locali durante il trattamento
-- DOSAGGIO – Utilizzare 2 gocce di 5mm di diametro per metro lineare o per ogni entrata del formicaio. Applicare al massimo 30 gocce per formicaio. Il prodotto raggiunge la massima efficacia entro 2 settimane dallapplicazione il tempo necessario per avere un efficace trasferimento del principio attivo allinterno della colonia.
-- ELIMINA DEFINITIVAMENTE LE FORMICHE – Grazie alla sua formulazione a base di imidacloprid, è l’alleato ideale per eliminare l’intera colonia di formiche. Impiegabile in ambienti interni ed esterni, in crepe, fessure, lungo i muri, nei dintorni degli edifici o direttamente allentrata dei formicai.
-- CONFEZIONE RICICLABILE – La confezione è costituita da materiale riciclabile. Grazie all’etichettatura ambientale presente sulla confezione sarà più facile individuare il corretto smaltimento della confezione
 - RAPIDA AZIONE ABBATTENTE E LUNGA DURATA D’AZIONE – Con la sua formulazione è in grado di eliminare l’intero formicaio nel giro di poco tempo. L’esca in gel zuccherino è portata dalle formiche all’interno del formicaio come alimento per l’intera colonia. Con l’ingestione si ha l’eliminazione dell’intero formicaio. Protegge fino a 12 settimane
+- MAXI FORMATO - siringa pronta alluso in maxi formato da 20 g per un maggior numero di trattamenti
+- FACILE DA USARE – Prodotto pratico per il consumatore grazie alla siringa per trattamenti localizzati. Inoltre, è possibile soggiornare nei locali durante il trattamento
+- ELIMINA DEFINITIVAMENTE LE FORMICHE – Grazie alla sua formulazione a base di imidacloprid, è l’alleato ideale per eliminare l’intera colonia di formiche. Impiegabile in ambienti interni ed esterni, in crepe, fessure, lungo i muri, nei dintorni degli edifici o direttamente allentrata dei formicai.
+- DOSAGGIO – Utilizzare 2 gocce di 5mm di diametro per metro lineare o per ogni entrata del formicaio. Applicare al massimo 30 gocce per formicaio. Il prodotto raggiunge la massima efficacia entro 2 settimane dallapplicazione il tempo necessario per avere un efficace trasferimento del principio attivo allinterno della colonia.
+- CONFEZIONE RICICLABILE – La confezione è costituita da materiale riciclabile. Grazie all’etichettatura ambientale presente sulla confezione sarà più facile individuare il corretto smaltimento della confezione
+- FORMULAZIONE PROFESSIONALE – Formulazione con un forte potere attrattivo per risolvere il problema nel breve tempo. Di colore neutro chiaro è ideale per applicazioni localizzate in gocce sulle superfici e/o allentrata dei formicai. Inoltre, la sua formulazione, contiene un agente amaricante che lo rende sgradevole a persone ed animali non target
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0G3Q3KS4Z{{</world>}}

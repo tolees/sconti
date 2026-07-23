@@ -28,9 +28,9 @@ average: '96.99'
 
 ℹ️:
 
-- Semplice sostituzione dellâ€accessorio: Il trapano con percussione a batteria presenta un robusto mandrino in metallo da 13 mm per un fissaggio sicuro dellaccessorio
-- Impiego versatile in unâ€ampia gamma di materiali: Per avvitare e forare nel legno e nel metallo, nonché per forare a percussione nella muratura
 - Dotazione: UniversalImpact 18V-60, 1 batteria da 2,0 Ah, caricabatteria AL 18V-20, valigetta
+- Impiego versatile in unâ€ampia gamma di materiali: Per avvitare e forare nel legno e nel metallo, nonché per forare a percussione nella muratura
+- Semplice sostituzione dellâ€accessorio: Il trapano con percussione a batteria presenta un robusto mandrino in metallo da 13 mm per un fissaggio sicuro dellaccessorio
 - Motore brushless, per unâ€eccellente potenza di foratura, resistenza e una maggiore autonomia
 - La linea Universal Bosch â€“ le soluzioni intelligenti quando ti servono versatilità e potenza
 

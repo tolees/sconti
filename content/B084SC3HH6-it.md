@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Testa compatibile con il tagliasiepi WORX WG 252 E
 - Consente di convertire il tagliasiepi in un potatore per la manutenzione degli alberi
 - Lama lunga 20 cm
-- Testa compatibile con il tagliasiepi WORX WG 252 E
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B084SC3HH6{{</world>}}

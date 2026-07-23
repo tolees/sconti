@@ -28,10 +28,10 @@ average: '9.86333333333333'
 
 ℹ️:
 
-- Articolo consegnato: 1 x Medela Purelan Crema per Capezzoli in Tubetto da 37 g, Istruzioni
-- Provenienza etica: Purelan è prodotta in collaborazione con aziende agricole che non fanno uso di mulesing e sono attente al benessere degli animali
-- Sollievo rapido: la ricca consistenza della nostra formula Purelan, con lanolina pulita di grado medico, imita la capacità naturale della pelle di immagazzinare lumidità arrivando a contenere così del doppio del proprio peso in acqua
 - Multiuso: leffetto profondamente idratante della lanolina è ottimo anche per le labbra screpolate e la pelle secca ed è adatto per adulti, bambini e per la pelle sensibile
+- Provenienza etica: Purelan è prodotta in collaborazione con aziende agricole che non fanno uso di mulesing e sono attente al benessere degli animali
+- Articolo consegnato: 1 x Medela Purelan Crema per Capezzoli in Tubetto da 37 g, Istruzioni
+- Sollievo rapido: la ricca consistenza della nostra formula Purelan, con lanolina pulita di grado medico, imita la capacità naturale della pelle di immagazzinare lumidità arrivando a contenere così del doppio del proprio peso in acqua
 - Solida per i bambini: naturale al 100%, Purelan è priva di additivi, conservanti, profumi o aromi; per questo non è necessario rimuoverla prima dellallattamento al seno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

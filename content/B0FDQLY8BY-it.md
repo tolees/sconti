@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Pacchetto Gloria Dorata:  – 1 skin per Cacciatore della Cripta  – 1 skin per arma  – 1 skin per drone ECHO-4
-- Preordina Borderlands 4 e ricevi il Pacchetto Gloria Dorata, che include una skin per il Cacciatore della Cripta, una skin per arma e una skin per drone ECHO-4!
 - Lofferta di preordine è valida fino al lancio, dopodiché il Pacchetto Gloria Dorata sarà disponibile per lacquisto separato (è richiesto il gioco base). È necessaria una connessione Internet per riscattare i contenuti bonus. Gli oggetti saranno automaticamente assegnati nel gioco al lancio.
+- Preordina Borderlands 4 e ricevi il Pacchetto Gloria Dorata, che include una skin per il Cacciatore della Cripta, una skin per arma e una skin per drone ECHO-4!
+- Pacchetto Gloria Dorata:  – 1 skin per Cacciatore della Cripta  – 1 skin per arma  – 1 skin per drone ECHO-4
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FDQLY8BY{{</world>}}

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- POCO O ZERO OLIO: AirCrisp circonda rapidamente gli alimenti con aria surriscaldata per pietanze calde e croccanti. Fino al 75% di grassi in meno con il programma Air Fry* (*Test di confronto con patate tagliate a mano e fritte in modo tradizionale).
-- FRIGGITRICE AD ARIA DIGITALE CON TRE PROGRAMMI DI COTTURA: Air Fry (Frittura ad aria), Reheat (Riscaldamento), Dehydrate (Essiccazione). Croccantezza perfetta con temperature fino a 210 °C.
 - DIMENSIONI: 26,5 x 28,5 x 36 cm (A x L x P). Garanzia di 2 anni previa registrazione nel portale di Ninja.
+- POCO O ZERO OLIO: AirCrisp circonda rapidamente gli alimenti con aria surriscaldata per pietanze calde e croccanti. Fino al 75% di grassi in meno con il programma Air Fry* (*Test di confronto con patate tagliate a mano e fritte in modo tradizionale).
 - INCLUDE: friggitrice ad aria digitale Ninja (spina UE), scomparto antiaderente da 4,7 L e piastra per frittura antiaderente. Ricettario creato appositamente da uno chef. 2000 W. Peso: 4,8 kg. Colore: nero.
+- FRIGGITRICE AD ARIA DIGITALE CON TRE PROGRAMMI DI COTTURA: Air Fry (Frittura ad aria), Reheat (Riscaldamento), Dehydrate (Essiccazione). Croccantezza perfetta con temperature fino a 210 °C.
 - FRIGGITRICE AD ARIA 3 IN 1 FORMATO FAMIGLIA: ideale per un massimo di 2 persone, il cestello da 4,7 litri può contenere un pollo intero da 1 kg o fino a 500 g di patatine fritte.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

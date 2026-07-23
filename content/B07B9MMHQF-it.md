@@ -28,8 +28,8 @@ average: '45.7'
 
 ℹ️:
 
-- Giradischi
 - Registra i vinili in formato mp3
+- Giradischi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07B9MMHQF{{</world>}}

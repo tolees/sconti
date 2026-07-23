@@ -28,9 +28,9 @@ average: '8.58'
 
 ℹ️:
 
-- Prodotto di qualita
-- Imballareage Dimensioni: 2.3 L x 26.4 H x 5.4 W (centimeters)
 - Produttore: DIGITUS
+- Imballareage Dimensioni: 2.3 L x 26.4 H x 5.4 W (centimeters)
+- Prodotto di qualita
 - DIGITUS 254 mm (10") 0.5U spazzola cavo pannello di gestione 22x254x12 mm, colore grigio (RAL 7035)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

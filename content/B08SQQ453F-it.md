@@ -28,8 +28,8 @@ average: '12.99'
 
 ℹ️:
 
-- Taglio regolare
 - Interlock, 100% poliestere riciclato
+- Taglio regolare
 - Girovita elasticizzato con cordino
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

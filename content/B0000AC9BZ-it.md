@@ -29,9 +29,9 @@ average: '16.79'
 ℹ️:
 
 - Facendo pressione sulla punta del trapano si sente il rumore del martello accompagnato da una luce lampeggiante
+- Gli appassionati dellartigianato amano avere questo robusto giocattolo nella loro officina, per giochi di ruolo che inoltre allenano le loro capacità motorie
 - Dimensioni: 28 cm x 7 cm x 50 cm I Adatto ai bambini a partire dai tre anni di età I Batterie necessarie: 3 x R6-AA  Non incluse nella fornitura
 - Lo punta di perforazione, azionata a batterie, si muove in su e giù
-- Gli appassionati dellartigianato amano avere questo robusto giocattolo nella loro officina, per giochi di ruolo che inoltre allenano le loro capacità motorie
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0000AC9BZ{{</world>}}

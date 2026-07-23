@@ -28,8 +28,8 @@ average: '9.9'
 
 ℹ️:
 
-- Materiale: Resistente
 - Funko Pop! con le seguenti caratteristiche:
+- Materiale: Resistente
 - Statuetta da collezione || Molto confortevole
 - Non può mancare a casa tua!
 - Band, Band merch

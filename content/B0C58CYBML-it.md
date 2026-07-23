@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Con orlo/bordo trapuntato
 - Cuciture tono su tono
+- Con orlo/bordo trapuntato
 - Con tasche laterali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

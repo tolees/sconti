@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Bicarbonato di sodio, acido citrico, carboanto di sodio, cloruro di calcio, rosso fenolo, poliacrilato di sodio, fosfato di potassio, alcohol polivinilico, alginato di sodio, misurino, provette, portaprovette, bicchiere graduato, pipetta, stampo palla rimbalzina, albero in cartoncino con base in clastica, cartina indicatrice di PH, compresse frizzanti ciolorate, bottiglietta spray, spugnetta, cannuccia, pennarelli, bicchierini in plastica, guanti, occhiali, manuale illustrato
 - 40 esperimenti sorprendenti ; Stupisci i tuoi amici con fantastiche reazioni scientifiche ; Facile e sicuro
-- Sperimentazione scientifica; concetti di chimica; osservazione; concentrazione; manualità fine
+- Bicarbonato di sodio, acido citrico, carboanto di sodio, cloruro di calcio, rosso fenolo, poliacrilato di sodio, fosfato di potassio, alcohol polivinilico, alginato di sodio, misurino, provette, portaprovette, bicchiere graduato, pipetta, stampo palla rimbalzina, albero in cartoncino con base in clastica, cartina indicatrice di PH, compresse frizzanti ciolorate, bottiglietta spray, spugnetta, cannuccia, pennarelli, bicchierini in plastica, guanti, occhiali, manuale illustrato
 - Realizza tante esperienze scientifiche con effetti strabilianti
+- Sperimentazione scientifica; concetti di chimica; osservazione; concentrazione; manualità fine
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D6NKDH8Y{{</world>}}

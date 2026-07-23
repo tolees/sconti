@@ -28,11 +28,11 @@ average: '35.76'
 
 ℹ️:
 
-- Il supporto per monitor e laptop Leitz Ergo offre una doppia altezza (55 mm e 77 mm), quindi permette di ottenere una visualizzazione dello schermo del pc ottimale, allineando gli occhi in modo corretto
-- Personalizzabile capovolgendolo su entrambi i lati, il design incentrato sulla stabilità garantisce una vestibilità sicura per monitor e PC fino a 27"
 - La sua superficie facile da pulire con fantasia bicolore e design elegante, lo rende ottimo per uffici dallarredamento minimalista e moderno
+- Il supporto per monitor e laptop Leitz Ergo offre una doppia altezza (55 mm e 77 mm), quindi permette di ottenere una visualizzazione dello schermo del pc ottimale, allineando gli occhi in modo corretto
 - Da utilizzare su scrivanie regolabili in altezza ed utilizzabile sia da seduti che in piedi, offre un ulteriore spazio di archiviazione sottostante per un ambiente di lavoro ordinato
 - Contenuto: 1 supporto per monitor regolabile Leitz Ergo; Dimensioni (L x A x P): 20,9 x 11,2 x 48,3 cm. Peso: 1,29 kg, Colore: grigio velluto.
+- Personalizzabile capovolgendolo su entrambi i lati, il design incentrato sulla stabilità garantisce una vestibilità sicura per monitor e PC fino a 27"
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CD893FVY{{</world>}}

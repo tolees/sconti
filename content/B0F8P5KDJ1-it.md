@@ -28,10 +28,10 @@ average: '1.99'
 
 ℹ️:
 
+- PAVESINI ALOHA: scopri lirresistibile mix tropicale che ti conquisterà con mango, cocco e ananas
+- SAPORE TROPICALE: goditi unesperienza gustativa esotica con un mix di sapori di mango, cocco e ananas
 - PAVESI: i nostri prodotti contengono solo ingredienti di qualità. Ti accompagniamo in tutti i momenti della giornata: biscotti per la colazione, snack dolci e salati e crackers
 - INGREDIENTI: zucchero, farina di frumento, uova fresche, purea di mango disidratata, cocco, succo concentrato disidratato di anana
-- SAPORE TROPICALE: goditi unesperienza gustativa esotica con un mix di sapori di mango, cocco e ananas
-- PAVESINI ALOHA: scopri lirresistibile mix tropicale che ti conquisterà con mango, cocco e ananas
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F8P5KDJ1{{</world>}}

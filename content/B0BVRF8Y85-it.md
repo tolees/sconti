@@ -28,11 +28,11 @@ average: '19.5'
 
 ℹ️:
 
-- PER UN RILASCIO GRADUALE NEL TEMPO: Integratore alimentare a base di Prebiotico, Probiotico, Vitamine e Zinco in compresse triplo strato formulate con tecnologia Fast + Medium + Retard
-- PER LA FLORA BATTERICA INTSTINALE E LE DIFESE IMMUNITARIE: Con 200 mg di Inulina, 1 Miliardo U.F.C. Lacticaseibacillus rhamnosus e il 100% del VNR delle Vitamine C, D e Zinco
-- CARATTERISTICHE: Rilascio Fast con Inulina per unazione prebiotica. Rilascio Retard con Fermenti lattici ad azione Probiotica. Strato MEDIUM con Vitamine C, D e Zinco per il sistema immunitario
-- MODALITÀ D’USO: Si consiglia 1 compressa al giorno da deglutire con un abbondante bicchiere d’acqua preferibilmente al mattino. E possibile dividere la compressa in 2 parti grazie al pre-taglio
 - EQUILIBRA: Da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto di un perfetto equilibrio tra rispetto, efficacia, benessere e bellezza
+- MODALITÀ D’USO: Si consiglia 1 compressa al giorno da deglutire con un abbondante bicchiere d’acqua preferibilmente al mattino. E possibile dividere la compressa in 2 parti grazie al pre-taglio
+- PER UN RILASCIO GRADUALE NEL TEMPO: Integratore alimentare a base di Prebiotico, Probiotico, Vitamine e Zinco in compresse triplo strato formulate con tecnologia Fast + Medium + Retard
+- CARATTERISTICHE: Rilascio Fast con Inulina per unazione prebiotica. Rilascio Retard con Fermenti lattici ad azione Probiotica. Strato MEDIUM con Vitamine C, D e Zinco per il sistema immunitario
+- PER LA FLORA BATTERICA INTSTINALE E LE DIFESE IMMUNITARIE: Con 200 mg di Inulina, 1 Miliardo U.F.C. Lacticaseibacillus rhamnosus e il 100% del VNR delle Vitamine C, D e Zinco
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BVRF8Y85{{</world>}}

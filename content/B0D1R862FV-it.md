@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- CARATTERISTICHE: con formula dermatologicamente e clinicamente testata, è adatto a pelli sensibili. Ideale in caso di smagliature, secchezza cutanea, perdita di tono ed elasticità e massaggio
-- OLIO CORPO: olio dalla texture leggera, delicatamente profumato,che si assorbe rapidamente senza ungere. Ad azione nutriente, emolliente ed elasticizzante. Con 98% di ingredienti di origine naturale
+- COSA CONTIENE: estratto di Boccioli di Rosa Damascena tonificante, Acido Ialuronico Basso peso idratante, Olio di Rosa Mosqueta elasticizzante, Meadowfoam Oil idratante, Vitamina E antiossidante
 - PELLE PIÙ ELASTICA: utilizzato con regolarità, mattino e sera per almeno due mesi, migliora visibilmente laspetto della pelle anche in caso di smagliature e secchezza cutanea
 - EQUILIBRA: da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto dellequilibrio tra rispetto, efficacia, benessere e bellezza
-- COSA CONTIENE: estratto di Boccioli di Rosa Damascena tonificante, Acido Ialuronico Basso peso idratante, Olio di Rosa Mosqueta elasticizzante, Meadowfoam Oil idratante, Vitamina E antiossidante
+- OLIO CORPO: olio dalla texture leggera, delicatamente profumato,che si assorbe rapidamente senza ungere. Ad azione nutriente, emolliente ed elasticizzante. Con 98% di ingredienti di origine naturale
+- CARATTERISTICHE: con formula dermatologicamente e clinicamente testata, è adatto a pelli sensibili. Ideale in caso di smagliature, secchezza cutanea, perdita di tono ed elasticità e massaggio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D1R862FV{{</world>}}

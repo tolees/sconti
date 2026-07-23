@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Materiali abrasivi
 - Tagliente diamantato
 - Prodotto fabbricato in Svizzera
-- Materiali abrasivi
 - Per tutti gli utensili multifunzione oscillanti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

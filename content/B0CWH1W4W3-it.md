@@ -28,12 +28,12 @@ average: '165.725'
 
 ℹ️:
 
-- Un divertente regalo per bambini da 10 anni in su: questo set è unottima idea regalo di compleanno per i bambini e le bambine appassionati di camion LEGO, e di sfide di costruzione avanzate
-- Camion giocattolo Volvo con escavatore costruibile: lascia che i piccoli costruiscano lAutocarro Volvo FMX ed Escavatore Elettrico EC230, un set di giochi LEGO Technic per bambini e bambine da 10 anni in su fan dei veicoli da cantiere
 - Caratteristiche del camion con rimorchio giocattolo con pianale: il camion LEGO è dotato di motore a 6 cilindri a pistoni mobili, di sterzo, di rimorchio staccabile con rampa da cui far scendere l’escavatore giocattolo
+- Stazione di ricarica elettrica: i bambini che amano i set con veicoli LEGO Technic, possono divertirsi a sollevare e abbassare la stazione di ricarica utilizzando la pala e le catene, pronta per essere collegata all’escavatore giocattolo
+- Camion giocattolo Volvo con escavatore costruibile: lascia che i piccoli costruiscano lAutocarro Volvo FMX ed Escavatore Elettrico EC230, un set di giochi LEGO Technic per bambini e bambine da 10 anni in su fan dei veicoli da cantiere
 - Escavatore LEGO Technic da scoprire: i bambini possono ruotare l’escavatore di 360 gradi sui cingoli, quindi utilizzare la pompa pneumatica per sollevare e abbassare la pala del veicolo giocattolo da cantiere
 - Un’introduzione all’ingegneria: i set di modelli costruibili LEGO Technic presentano movimenti e meccanismi realistici che introducono i giovani costruttori LEGO all’universo dell’ingegneria
-- Stazione di ricarica elettrica: i bambini che amano i set con veicoli LEGO Technic, possono divertirsi a sollevare e abbassare la stazione di ricarica utilizzando la pala e le catene, pronta per essere collegata all’escavatore giocattolo
+- Un divertente regalo per bambini da 10 anni in su: questo set è unottima idea regalo di compleanno per i bambini e le bambine appassionati di camion LEGO, e di sfide di costruzione avanzate
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CWH1W4W3{{</world>}}

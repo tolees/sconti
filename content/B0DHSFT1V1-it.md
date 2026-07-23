@@ -28,11 +28,11 @@ average: '9.04'
 
 ℹ️:
 
-- Una costruzione LEGO per bambini completa: il set include tutto loccorrente per costruire un’auto LEGO McLaren giocattolo, oltre alla minifigure del pilota con tuta e casco
 - Pensato per il gioco e per l’esposizione: questa mini macchina giocattolo è caratterizzata da un design super aerodinamico con pneumatici slick, e può essere esposto nella cameretta dei bambini su uno scaffale o sulla scrivania
 - Divertimento con la costruzione digitale: il set comprende istruzioni nell’app LEGO Builder dove i piccoli possono salvare i set, monitorare i progressi fatti, e ingrandire e ruotare il veicolo giocattolo in 3D mentre viene costruito
-- Scopri il mondo delle corse LEGO F1 da collezione: cerca altri set di costruzioni LEGO Formula 1 (disponibili separatamente), per gareggiare con amici e famiglia, e per ampliare il tuo garage di auto
+- Una costruzione LEGO per bambini completa: il set include tutto loccorrente per costruire un’auto LEGO McLaren giocattolo, oltre alla minifigure del pilota con tuta e casco
 - Un regalo divertente per gli amanti delle macchine: delizia il tuo giovane fan delle corse con questo modellino giocattolo di McLaren F1 LEGO; unidea regalo di compleanno per bambini e bambine da 6 anni in su, fan dei modelli di auto da costruire
+- Scopri il mondo delle corse LEGO F1 da collezione: cerca altri set di costruzioni LEGO Formula 1 (disponibili separatamente), per gareggiare con amici e famiglia, e per ampliare il tuo garage di auto
 - Auto da corsa LEGO F1: il gioco per bambini e bambine da 6 anni, il Pilota e Monoposto McLaren F1 giocattolo LEGO City, offre ore di divertimento a tutti gli appassionati di automobilismo e di veicoli da costruire, per emozione corse ad alta velocità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

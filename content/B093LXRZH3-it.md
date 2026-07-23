@@ -28,13 +28,13 @@ average: '8.64'
 
 ℹ️:
 
-- Piacevoli note erbacee con sfumature di pomodoro verde
-- Aroma fruttato medio e ben bilanciato
 - Da olive raccolte e lavorate esclusivamente mediante procedimenti meccanici; estratto a freddo
-- La bottiglia in vetro scuro protegge lolio dallossidazione e ne protegge le qualità e proprietà organolettiche
-- In bottiglia da 1 litro
-- Visita il nostro BRAND STORE per scoprire tutta la selezione Le Terre di Colombo: link diretto sotto al titolo prodotto
+- Aroma fruttato medio e ben bilanciato
 - Origine Olive: Spagna o Portogallo
+- In bottiglia da 1 litro
+- Piacevoli note erbacee con sfumature di pomodoro verde
+- Visita il nostro BRAND STORE per scoprire tutta la selezione Le Terre di Colombo: link diretto sotto al titolo prodotto
+- La bottiglia in vetro scuro protegge lolio dallossidazione e ne protegge le qualità e proprietà organolettiche
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B093LXRZH3{{</world>}}

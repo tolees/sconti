@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LACIO DROM Col. YELLOW'
-date: 2026-07-22 02:06:34
+date: 2026-07-23 04:03:49
 image: 'https://m.media-amazon.com/images/I/51xFkKhFBaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

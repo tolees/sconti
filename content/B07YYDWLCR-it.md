@@ -28,10 +28,10 @@ average: '29.17'
 
 ℹ️:
 
-- In valigetta in materiale sintetico
-- Set compatto 37 pz attacco 1/4"
 - Set composto da: cricchetto att. 1/4" a 72 denti, 12 chiavi a bussola poligonali att 1/4" mm 4 - 4, 5 - 5 - 6 - 7 - 8 - 9 - 10 - 11 - 12 - 13 - 14 - prolunga mm 75m chiave a bussola porta inserti - 22 inserti (pz - ph - hex - torx - std)
+- Set compatto 37 pz attacco 1/4"
 - Occupa poco spazio ed è semplice da trasportare
+- In valigetta in materiale sintetico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07YYDWLCR{{</world>}}

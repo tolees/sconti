@@ -28,11 +28,11 @@ average: '1.99'
 
 ℹ️:
 
-- Risultato: mantiene la pelle morbida ed elastica
-- Formula: con Olio di Mandorle e Pantenolo. Contiene inoltre Hydra 3 Skin Serum, un complesso idratante con Vitamina E, Glicerina e Oli Cosmetici
-- Prodotto: crema adatta a tutta la famiglia, grazie alla consistenza leggera e al nuovo profumo, fresco e delicato. Si assorbe rapidamente, senza ungere
 - Contenuto: n.1 x Leocrema Crema Corpo Nutriente 250ml
+- Formula: con Olio di Mandorle e Pantenolo. Contiene inoltre Hydra 3 Skin Serum, un complesso idratante con Vitamina E, Glicerina e Oli Cosmetici
+- Risultato: mantiene la pelle morbida ed elastica
 - Ottima per: Pelle Secca o Molto Secca
+- Prodotto: crema adatta a tutta la famiglia, grazie alla consistenza leggera e al nuovo profumo, fresco e delicato. Si assorbe rapidamente, senza ungere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DT1CMBXK{{</world>}}

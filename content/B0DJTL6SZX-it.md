@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Soletta: Tessuto
-- Fodera: Dura
 - Tomaia: Pelle - Camoscio, Tessuto/-Tessuto
+- Fodera: Dura
+- Soletta: Tessuto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DJTL6SZX{{</world>}}

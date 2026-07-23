@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Afferra le erbacce da 4 lati con bracci che arrivano a 10 cm di profondità nel terreno, estrae la pianta insieme alle sue radici grazie al meccanismo di presa brevettato, rilascia facilmente le erbacce dai bracci di presa spingendo limpugnatura
 - Tagliaerba per la rimozione a lungo termine ed ecologica di erbe infestanti con un diametro del fusto fino a 4 cm, ideale per dente di leone, cardi, ortiche e altre piante da radice in terreni soffici e sassosi, aiuole o prati
+- Contenuto: 1x Tagliaerba Fiskars Xact in confezione singola di cartone, Lunghezza: 1 m, Diametro: 3 cm, 950 g, Acciaio inox/plastica, Nero/arancio, 1077305
 - Xact Diserbatore eCom
+- Afferra le erbacce da 4 lati con bracci che arrivano a 10 cm di profondità nel terreno, estrae la pianta insieme alle sue radici grazie al meccanismo di presa brevettato, rilascia facilmente le erbacce dai bracci di presa spingendo limpugnatura
 - Posizione di lavoro favorevole alla schiena senza doversi chinare, limpugnatura lunga allevia la tensione dei muscoli delle spalle e della schiena, impugnatura ergonomica per una posizione comoda e delicata della mano e delle dita
 - Design migliorato dei pedali per una capacità di carico superiore del 30%, elevata durata dei 4 bracci in acciaio inox e dellimpugnatura in plastica, facile da pulire con acqua
-- Contenuto: 1x Tagliaerba Fiskars Xact in confezione singola di cartone, Lunghezza: 1 m, Diametro: 3 cm, 950 g, Acciaio inox/plastica, Nero/arancio, 1077305
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D67X4JPW{{</world>}}

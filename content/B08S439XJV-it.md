@@ -28,11 +28,11 @@ average: '15.33'
 
 ℹ️:
 
-- Linea "I Botanici" di Bottega Verde: prende ispirazione dallerboristeria tradizionale e vanta lattività di piante ed estratti selezionati per le loro riconosciute virtù
 - Caratterizzato da unintensa fragranza balsamica, è un olio formulato con 99 estratti di note erbe officinali, che vanta molteplici utilizzi
-- Formato: 1 olio balsamico da 100 ml
-- Modo duso: diluisci 10-15 gocce di olio nella vasca per fare un bagno dalla fragranza fresca e rilassante, oppure 4-5 gocce nel pediluvio per dare sollievo e benessere ai piedi stanchi; aggiungi 2-3 gocce nella crema per il corpo o nellolio da massaggio per un trattamento tonificante o per un massaggio defaticante dopo lattività fisica
 - Formulazione: una miscela di 99 oli essenziali dallazione benefica ed estratti di erbe officinali selezionati per le loro riconosciute virtù fitoterapiche
+- Linea "I Botanici" di Bottega Verde: prende ispirazione dallerboristeria tradizionale e vanta lattività di piante ed estratti selezionati per le loro riconosciute virtù
+- Modo duso: diluisci 10-15 gocce di olio nella vasca per fare un bagno dalla fragranza fresca e rilassante, oppure 4-5 gocce nel pediluvio per dare sollievo e benessere ai piedi stanchi; aggiungi 2-3 gocce nella crema per il corpo o nellolio da massaggio per un trattamento tonificante o per un massaggio defaticante dopo lattività fisica
+- Formato: 1 olio balsamico da 100 ml
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08S439XJV{{</world>}}

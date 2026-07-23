@@ -30,9 +30,9 @@ average: '64.495'
 
 - Limpianto UPS si riavvia automaticamente non appena la rete è nuovamente disponibile. Il regolatore di tensione interno regola automaticamente la tensione
 - Presa multipla UPS Keor (alimentazione continua) per abitazioni digitali, negozi, hotel, con potenza nominale 600 VA, potenza nominale 360 W e caricatore USB
+- La presa multipla Keor è la soluzione perfetta per garantire un approvvigionamento di energia sicuro e di alta qualità per i vostri dispositivi, quali router, Smart TV, sistemi di intrattenimento, console di gioco, ecc.
 - 6 prese Schuko, con protezione da picchi di tensione, di cui 4 prese con protezione da sovratensione per la sicurezza dei vostri dispositivi in home office, in ufficio o a casa,
 - Riavvio automatica: in caso di interruzione di rete, lunità UPS funziona a pile e spegne l’attacco con la presa se linterruzione di rete dura più a lungo del tempo di collegamento disponibile fino a 15 minuti.
-- La presa multipla Keor è la soluzione perfetta per garantire un approvvigionamento di energia sicuro e di alta qualità per i vostri dispositivi, quali router, Smart TV, sistemi di intrattenimento, console di gioco, ecc.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07CMMFGQ5{{</world>}}

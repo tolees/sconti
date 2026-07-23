@@ -28,9 +28,9 @@ average: '119.99'
 
 ℹ️:
 
-- Lunga autonomia, ricarica rapida: Goditi fino a 6 ore di riproduzione con una singola carica e fino a 35 ore totali con la custodia di ricarica, per ascoltare più a lungo senza preoccupazioni.
 - Nuovo sistema driver: Il nuovo sistema driver acustico personalizzato con design a triplo circuito magnetico aumenta la potenza di pilotaggio del 7% e la sensibilità alle basse frequenze del 40%, per offrire bassi più potenti.
 - Cancellazione del rumore nelle chiamate con IA: Il sistema a tre microfoni, combinato con un algoritmo di cancellazione del rumore basato su IA, riduce notevolmente il rumore ambientale catturando con precisione la voce. Anche in ambienti rumorosi, le tue chiamate restano stabili e chiare.
+- Lunga autonomia, ricarica rapida: Goditi fino a 6 ore di riproduzione con una singola carica e fino a 35 ore totali con la custodia di ricarica, per ascoltare più a lungo senza preoccupazioni.
 - Esperienza d’uso personalizzata: Utilizza l’app Xiaomi Earbuds per usufruire di più effetti di regolazione audio e attivare la funzione di registrazione audio integrata per registrare in diversi scenari.
 - Trova facilmente i tuoi auricolari: Con Apple Dov’è e Google Find Hub, puoi localizzare facilmente i tuoi Xiaomi Buds 6 tramite una rete di miliardi di dispositivi in tutto il mondo. Quando sono nelle vicinanze, puoi attivare un avviso sonoro dalla custodia per trovarli rapidamente tramite Bluetooth.
 

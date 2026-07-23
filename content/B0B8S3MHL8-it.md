@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Mandrino da 13 mm per impieghi gravosi
-- Foratura e viti: lavvitatore a percussione a batteria di WORX consente di avvitare e forare facilmente in legno e metallo e, grazie al trapano a percussione, anche nel calcestruzzo
-- POTENTE: il trapano avvitatore entusiasma con la trasmissione a 2 velocità: coppia elevata nella prima marcia e alta velocità nella seconda marcia, per una foratura facile e veloce
-- Comodo: il trapano a percussione dal design ergonomico è particolarmente maneggevole grazie al manico morbido e alla luce LED e garantisce un lavoro controllato senza fatica
 - Preciso: con 20 livelli di coppia + fase di foratura e funzione di impatto, per una foratura potente e viti di precisione in diversi materiali
 - Contenuto della confezione: 1 trapano avvitatore a percussione a batteria WX370.1, 2 batterie da 2000 mAh, caricabatterie, doppio bit, gancio per cintura, custodia
+- Foratura e viti: lavvitatore a percussione a batteria di WORX consente di avvitare e forare facilmente in legno e metallo e, grazie al trapano a percussione, anche nel calcestruzzo
+- Mandrino da 13 mm per impieghi gravosi
+- Comodo: il trapano a percussione dal design ergonomico è particolarmente maneggevole grazie al manico morbido e alla luce LED e garantisce un lavoro controllato senza fatica
+- POTENTE: il trapano avvitatore entusiasma con la trasmissione a 2 velocità: coppia elevata nella prima marcia e alta velocità nella seconda marcia, per una foratura facile e veloce
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B8S3MHL8{{</world>}}

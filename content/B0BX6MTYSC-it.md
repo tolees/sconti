@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- DIMENSIONI COMPATTE – Fattore di forma ATX compatto da 150x150 mm, per un’installazione facile nella maggior parte dei case. Libera spazio per una gestione più semplice dei cavi e un migliore flusso d’aria nel sistema
 - CONNETTORE NATIVO 12V-2x6 – Dotato di connettori PCIe nativi 12V-2x6, è in grado di erogare fino a 300W di potenza per supportare GPU PCIe 5.1
-- DESIGN ROBUSTO – Un convertitore LLC a mezza ponte con DC-to-DC e un design PFC attivo garantiscono un’uscita affidabile (protezioni OCP / OTP / OPP / SCP / OVP / UVP / SIP / NLO)
 - FUNZIONAMENTO SILENZIOSO – Il livello sonoro medio è paragonabile a quello di una notte tranquilla. Dotato di ventola da 135 mm con cuscinetto a fluido dinamico (FDB), progettata per garantire maggiore durata e prestazioni di raffreddamento affidabili
+- DESIGN ROBUSTO – Un convertitore LLC a mezza ponte con DC-to-DC e un design PFC attivo garantiscono un’uscita affidabile (protezioni OCP / OTP / OPP / SCP / OVP / UVP / SIP / NLO)
 - CERTIFICAZIONE 80 PLUS GOLD – Con certificazione 80 PLUS Gold (fino al 90% di efficienza), questo alimentatore è ideale per alimentare componenti con elevato consumo energetico, come GPU e CPU
+- DIMENSIONI COMPATTE – Fattore di forma ATX compatto da 150x150 mm, per un’installazione facile nella maggior parte dei case. Libera spazio per una gestione più semplice dei cavi e un migliore flusso d’aria nel sistema
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BX6MTYSC{{</world>}}

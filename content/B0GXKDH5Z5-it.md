@@ -28,11 +28,11 @@ average: '54.89'
 
 ℹ️:
 
-- Grande potenza da 1400 W per eliminare lo sporco più ostinato in modo rapido ed efficiente. Pressione massima 105 bar. Ideale per terrazze, balconi, cortili e bordi piscina.
-- Collegamento rapido e facile del tubo ad alta pressione e della lancia alla pistola tramite sistema iClick. Grilletto con sistema Auto Start-Stop per maggiore sicurezza e controllo: protegge il motore e fa risparmiare acqua.
-- Pompa HardPump in alluminio per maggiore affidabilità: consente tempi di utilizzo superiori rispetto alle pompe in materiali compositi grazie a minore affaticamento. Maniglia grande per trasportare l’idropulitrice senza sforzo e svolgere comodamente le attività che richiedono spostamenti.
 - Raggio d’azione 9 m per un uso comodo e totale libertà di movimento. Filtro anti-impurità che aiuta a collegare rapidamente e facilmente il tubo dell’acqua all’idropulitrice.
 - Portata massima 426 l/h per pulire una superficie maggiore in meno tempo. Pulire l’auto o la terrazza è più veloce che mai. Serbatoio detergente regolabile per schiuma.
+- Collegamento rapido e facile del tubo ad alta pressione e della lancia alla pistola tramite sistema iClick. Grilletto con sistema Auto Start-Stop per maggiore sicurezza e controllo: protegge il motore e fa risparmiare acqua.
+- Grande potenza da 1400 W per eliminare lo sporco più ostinato in modo rapido ed efficiente. Pressione massima 105 bar. Ideale per terrazze, balconi, cortili e bordi piscina.
+- Pompa HardPump in alluminio per maggiore affidabilità: consente tempi di utilizzo superiori rispetto alle pompe in materiali compositi grazie a minore affaticamento. Maniglia grande per trasportare l’idropulitrice senza sforzo e svolgere comodamente le attività che richiedono spostamenti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GXKDH5Z5{{</world>}}

@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - 55% cotone / 36% poliestere (riciclato) / 9% viscosa
 - Polsini elasticizzati
-- Vestibilità regolare
 - Questo prodotto contiene almeno il 70% di materiali riciclati e rinnovabili
+- Vestibilità regolare
 - Tasche a marsupio
 - Zip integrale e cappuccio regolabile con cordino
 

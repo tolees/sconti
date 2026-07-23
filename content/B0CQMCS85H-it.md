@@ -28,11 +28,11 @@ average: '1.8'
 
 ℹ️:
 
-- 19 vivaci tonalità
 - Applicazione uniforme e senza striature
-- Asciugatura in 60 secondi
-- Il pennello garantisce un’applicazione impeccabile e un finish uniforme
+- 19 vivaci tonalità
 - Colore: 807 Rain-Check
+- Il pennello garantisce un’applicazione impeccabile e un finish uniforme
+- Asciugatura in 60 secondi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CQMCS85H{{</world>}}

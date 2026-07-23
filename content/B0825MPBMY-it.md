@@ -28,10 +28,10 @@ average: '9.28'
 
 ℹ️:
 
-- Siebdruck vorne
 - __Hals:__ Rundhalsausschnitt
-- __Passform:__ klassischer, komfortabler Regular Fit
 - __Stoff:__ leichter Baumwoll-Jersey
+- __Passform:__ klassischer, komfortabler Regular Fit
+- Siebdruck vorne
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0825MPBMY{{</world>}}

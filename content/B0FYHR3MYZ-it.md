@@ -28,11 +28,11 @@ average: '79.0'
 
 ℹ️:
 
-- Pulsante di cattura
-- Integra un pulsante C, per avviare GameChat
 - Pulsanti GL/GR configurabili
 - Rumble HD 2 e Comandi di Movimento
+- Integra un pulsante C, per avviare GameChat
 - Presa audio: mini-jack stereo 3,5 mm a 4 contatti (standard CTIA)
+- Pulsante di cattura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FYHR3MYZ{{</world>}}

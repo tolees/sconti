@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Elementi essenziali minimalisti in silhouette distintive
 - Maniche corte e colletto a polo
+- Elementi essenziali minimalisti in silhouette distintive
 - Forma e vestibilità con ricamo con monogramma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ average: '49.04'
 
 ℹ️:
 
-- Ryoma
-- Frutta dellassemblea di succo di canna da zucchero puro e miele di canna da zucchero, è di età compresa tra 12 e 18 mesi in barili di quercia bianca americana, il che lo porta rotondità ed equilibrio.
-- Succo di canna puro e miele di canna da zucchero
 - 70 Cl
+- Ryoma
+- Succo di canna puro e miele di canna da zucchero
 - Il rum Ryoma è prodotto dalla distilleria Kikusui ed è giapponese al 100%, basato sulla canna da zucchero che provengono direttamente dallisola di Shikoku.
+- Frutta dellassemblea di succo di canna da zucchero puro e miele di canna da zucchero, è di età compresa tra 12 e 18 mesi in barili di quercia bianca americana, il che lo porta rotondità ed equilibrio.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09QQS3M7M{{</world>}}

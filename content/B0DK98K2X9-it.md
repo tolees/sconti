@@ -28,9 +28,9 @@ average: '29.99'
 
 ℹ️:
 
-- Tipo di tacco: piatto
-- Tipo di punta: arrotondata
 - PUMA Catch Suede Sneaker da Uomo, 38.5, Nero
+- Tipo di punta: arrotondata
+- Tipo di tacco: piatto
 - Larghezza: normale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

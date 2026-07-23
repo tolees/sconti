@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - 7200 DPI & 8 MS LATENZA – Sensore ottico con 4 livelli DPI selezionabili (1200/2400/4800/7200)
 - DESIGN SIMMETRICO E LINEA PULITA – Forma bilanciata, adatta a gamer destrorsi e mancini con presa palm o claw. La rotella incisa offre una presa sicura durante il gioco
-- SOLIDO E PRECISO – Il FORGE GM300, con un peso di 118 g, è progettato per velocità e precisione. Dispone di switch durevoli (10M di clic) per i pulsanti L e R e una configurazione a 7 pulsanti
 - ILLUMINAZIONE RGB – Il logo MSI Dragon illuminato offre diversi colori ed effetti predefiniti, regolabili con un pulsante dedicato
 - CONNESSIONE CABLATA – Dotato di cavo da 1,5 m con connettore USB 2.0
+- SOLIDO E PRECISO – Il FORGE GM300, con un peso di 118 g, è progettato per velocità e precisione. Dispone di switch durevoli (10M di clic) per i pulsanti L e R e una configurazione a 7 pulsanti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D3QLNYQ6{{</world>}}

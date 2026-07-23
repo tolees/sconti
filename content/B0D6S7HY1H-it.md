@@ -28,13 +28,13 @@ average: '699.495'
 
 ℹ️:
 
-- SCHEDA GRAFICA: Intel UHD Graphics integrata, dotata di un processore grafico a supporto di un refresh rate max di 4096 x 2304 a 60Hz (HDMI)
-- SCHERMO: Display da 23,8" con risoluzione Full HD da 1920 x 1080p, diagonale 60,5 cm, Non è Touch, Tecnologia IPS Antiriflesso, Micro-Edge su tre lati, Luminosità di 250 Nits, 99% sRGB
-- MEMORIA: 16GB di RAM DDR4 da 5600 MHz di frequenza (1 x 16GB) non espandibile; spazio di archiviazione da 512 GB 2280 PCIe NVMe
 - INTELLIGENZA ARTIFICIALE AL TUO SERVIZIO: I notebook HP dotati di AI migliorano le prestazioni in tempo reale, adattandosi alle esigenze per un’esperienza di utilizzo efficiente e senza interruzioni
+- HP AI COMPANION: è lassistente personale sul PC che apprende e cresce con lAI grazie a una raccolta di strumenti e funzionalità AI che aumentano lefficienza e la produttività
 - ALTRE CARATTERISTICHE: LAN integrata 10/100/1000 GbE, Combo cuffie/microfono, 4 USB Type-A, USB Type-C, HDMI 1.4, Alimentatore incluso; Dimensioni (L x P x A): 54,05 x 18,63 x 48,49 cm e Peso: 5,5 kg
 - DESIGN: case compatto e sottile, realizzato con il 15% di plastica riciclata post-consumo, cornici sottili su tre lati, Casse Audio integrate da 2W, Webcam HP True Vision HD; Mouse e Tastiera inclusi
-- HP AI COMPANION: è lassistente personale sul PC che apprende e cresce con lAI grazie a una raccolta di strumenti e funzionalità AI che aumentano lefficienza e la produttività
+- SCHEDA GRAFICA: Intel UHD Graphics integrata, dotata di un processore grafico a supporto di un refresh rate max di 4096 x 2304 a 60Hz (HDMI)
+- MEMORIA: 16GB di RAM DDR4 da 5600 MHz di frequenza (1 x 16GB) non espandibile; spazio di archiviazione da 512 GB 2280 PCIe NVMe
+- SCHERMO: Display da 23,8" con risoluzione Full HD da 1920 x 1080p, diagonale 60,5 cm, Non è Touch, Tecnologia IPS Antiriflesso, Micro-Edge su tre lati, Luminosità di 250 Nits, 99% sRGB
 - PROCESSORE INTEL CORE ULTRA: offre unesperienza desktop premium con funzionalità AI avanzate, una GPU Intel integrata e un equilibrio ottimale tra quaità e prestazioni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

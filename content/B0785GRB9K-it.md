@@ -28,11 +28,11 @@ average: '15.9'
 
 ℹ️:
 
-- I cavi patch collegano modem, router DSL, switch e pannelli patch nella sala server tramite prese di rete o linee elettriche a punti di accesso WLAN, PC e notebook, ripetitori wireless e telecamere di sorveglianza, ecc.
-- Compatibile con le reti con cavi CAT.5e, CAT.6A, CAT.7 e CAT.8 grazie al connettore RJ45 - Compatibile con i dispositivi, ad esempio con: FritzBox, console di gioco come Xbox e Playstation, computer, televisori, stampanti, ...
-- Il cavo Ethernet di Categoria 6 lungo 1 metro (100 cm) trasmette dati a velocità fino a 1000 Mbit/s (1 Gbit/s), ad esempio per la velocità di Internet in fibra ottica nella rete domestica
-- Con guaina esterna in LSZH per un buon comportamento al fuoco e una bassa emissione di fumo - Conduttore interno in rame (Cu) - Compatibile con Power over Ethernet (PoE+) - Cappucci con protezione antistrappo, antipiega e leva di chiusura
 - I cavi LAN CAT.6 (classe E) con una larghezza di banda massima di 250 MHz offrono eccellenti proprietà di connessione per reti gigabit in reti private e aziendali
+- Il cavo Ethernet di Categoria 6 lungo 1 metro (100 cm) trasmette dati a velocità fino a 1000 Mbit/s (1 Gbit/s), ad esempio per la velocità di Internet in fibra ottica nella rete domestica
+- Compatibile con le reti con cavi CAT.5e, CAT.6A, CAT.7 e CAT.8 grazie al connettore RJ45 - Compatibile con i dispositivi, ad esempio con: FritzBox, console di gioco come Xbox e Playstation, computer, televisori, stampanti, ...
+- I cavi patch collegano modem, router DSL, switch e pannelli patch nella sala server tramite prese di rete o linee elettriche a punti di accesso WLAN, PC e notebook, ripetitori wireless e telecamere di sorveglianza, ecc.
+- Con guaina esterna in LSZH per un buon comportamento al fuoco e una bassa emissione di fumo - Conduttore interno in rame (Cu) - Compatibile con Power over Ethernet (PoE+) - Cappucci con protezione antistrappo, antipiega e leva di chiusura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0785GRB9K{{</world>}}

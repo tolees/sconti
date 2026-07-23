@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Design leggero da 58 g per una rapida azione di scorrimento e un controllo confortevole: Con un design leggero che si adatta alla maggior parte delle impugnature, il Razer Cobra non solo consente un controllo rapido e preciso, ma è anche estremamente comodo da usare anche durante le lunghe ore di gioco
-- Illuminazione Chroma con Gradient Underglow alimentata da Razer Chroma RGB: personalizzate il mouse con 16,8 milioni di colori e innumerevoli effetti di illuminazione e sperimentate unimmersione ideale grazie alla reazione dinamica con centinaia di giochi integrati in Chroma
-- Piedini del mouse in PTFE al 100% per una scorrevolezza ultra-liscia: Realizzati con PTFE purissimo e di altissima qualità, i piedini del mouse di Razer Cobra sulla parte anteriore, posteriore e sullanello del sensore consentono di scivolare agevolmente su qualsiasi superficie
 - Interruttori del mouse ottico Razer Gen-3 per una durata e una velocità senza pari: Da un ciclo di vita migliorato di 90 milioni di clic, senza problemi di doppio clic, a unattuazione rapida di 0,2 ms senza ritardo di rimbalzo, laffidabilità e la velocità sono superiori a tutti gli altri
-- Cavo Razer Speedflex per un movimento del mouse fluido e senza ostacoli: Il cavo del Razer Cobra ha una flessibilità ideale ed è stato progettato per produrre una resistenza minima, in modo da consentire passaggi più rapidi e fluidi per un maggior grado di controllo
-- Pokémon Line-Up : Pokémon - BlackWidow V4 X Keyboard | Pokémon - Cobra Mouse | Pokémon - Kraken V4 X Headset | Pokémon - Gigantus V2 Mat
+- Illuminazione Chroma con Gradient Underglow alimentata da Razer Chroma RGB: personalizzate il mouse con 16,8 milioni di colori e innumerevoli effetti di illuminazione e sperimentate unimmersione ideale grazie alla reazione dinamica con centinaia di giochi integrati in Chroma
 - Regolazioni precise del sensore grazie al sensore ottico Razer 8500 DPI: Regolazione precisa della sensibilità del Razer Cobra con incrementi di 50 DPI per ottenere limpostazione ideale per il vostro stile di gioco
+- Piedini del mouse in PTFE al 100% per una scorrevolezza ultra-liscia: Realizzati con PTFE purissimo e di altissima qualità, i piedini del mouse di Razer Cobra sulla parte anteriore, posteriore e sullanello del sensore consentono di scivolare agevolmente su qualsiasi superficie
+- Pokémon Line-Up : Pokémon - BlackWidow V4 X Keyboard | Pokémon - Cobra Mouse | Pokémon - Kraken V4 X Headset | Pokémon - Gigantus V2 Mat
+- Design leggero da 58 g per una rapida azione di scorrimento e un controllo confortevole: Con un design leggero che si adatta alla maggior parte delle impugnature, il Razer Cobra non solo consente un controllo rapido e preciso, ma è anche estremamente comodo da usare anche durante le lunghe ore di gioco
+- Cavo Razer Speedflex per un movimento del mouse fluido e senza ostacoli: Il cavo del Razer Cobra ha una flessibilità ideale ed è stato progettato per produrre una resistenza minima, in modo da consentire passaggi più rapidi e fluidi per un maggior grado di controllo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FCMHHCYZ{{</world>}}

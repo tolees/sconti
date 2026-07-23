@@ -29,8 +29,8 @@ average: '10.74'
 ℹ️:
 
 - Con materie prime selezionate, senza glutine
-- Contiene 4 Cioccolatini BACI PERUGINA Cioccolato al Latte e una sorpresa Swarovski
 - Uovo di Pasqua 2026 BACI PERUGINA al Cioccolato Fondente 70% con sorpresa Swarovski e 4 cioccolatini
+- Contiene 4 Cioccolatini BACI PERUGINA Cioccolato al Latte e una sorpresa Swarovski
 - BACI PERUGINA Uovo di Pasqua 2026 Cioccolato Fondente 70% con Sorpresa Swarovski e 4 Cioccolatini 310g
 - Ideale da regalare per sorprendere, esprimere un gesto di gratitudine e celebrare occasioni speciali
 - IL NIDO CHE CONDIVIDIAMO racchiude limpegno del Gruppo Nestlé. Ramo dopo ramo, ogni iniziativa di sostenibilità contribuisce a diffondere il Buono. Scopri di più sul sito Nestlé

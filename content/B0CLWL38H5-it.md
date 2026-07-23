@@ -28,9 +28,9 @@ average: '68.25'
 
 ℹ️:
 
-- Fodera riflettente Omni-Heat.
-- Tessuto Cordura. Costruzione impermeabile traspirante Omni-Tech. Isolamento da 200 g
 - Intersuola leggera Techlite per un comfort di lunga durata, ammortizzazione superiore e alto ritorno energetico
+- Tessuto Cordura. Costruzione impermeabile traspirante Omni-Tech. Isolamento da 200 g
+- Fodera riflettente Omni-Heat.
 - Gomma di trazione anti-marcatura Omni-Grip
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

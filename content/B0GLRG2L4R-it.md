@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - BALSAMO CAPELLI LISCI: Balsamo nutriente che lavora in sinergia con lo shampoo per idratare capelli secchi, crespi o sfibrati, migliorando levigatezza, pettinabilità e morbidezza
-- ROUTINE COMPLETA SUNSILK KERATIN SYSTEM: L’utilizzo combinato dei prodotti aiuta a migliorare nutrimento, protezione e controllo del crespo per capelli lisci più a lungo
-- SHAMPOO KERATIN SYSTEM: Shampoo con cheratina biomimetica che aiuta a rimpolpare e disciplinare i capelli, migliorando morbidezza, lucentezza e controllo del crespo fino a 72 ore
-- SIERO TERMOPROTETTORE CAPELLI: Siero che aiuta a sigillare le cuticole, rimpolpare la fibra capillare e proteggere i capelli dal calore fino a 230°C, contribuendo a mantenere capelli lisci e disciplinati
 - TRATTAMENTO ANTICRESPO E LEVIGANTE: Formula con Ultra Liss Complex che aiuta a migliorare struttura, elasticità e levigatezza dei capelli, rendendoli più morbidi e luminosi
+- ROUTINE COMPLETA SUNSILK KERATIN SYSTEM: L’utilizzo combinato dei prodotti aiuta a migliorare nutrimento, protezione e controllo del crespo per capelli lisci più a lungo
+- SIERO TERMOPROTETTORE CAPELLI: Siero che aiuta a sigillare le cuticole, rimpolpare la fibra capillare e proteggere i capelli dal calore fino a 230°C, contribuendo a mantenere capelli lisci e disciplinati
+- SHAMPOO KERATIN SYSTEM: Shampoo con cheratina biomimetica che aiuta a rimpolpare e disciplinare i capelli, migliorando morbidezza, lucentezza e controllo del crespo fino a 72 ore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GLRG2L4R{{</world>}}

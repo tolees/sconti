@@ -28,11 +28,11 @@ average: '11.25'
 
 ℹ️:
 
-- IDRATAZIONE PER OCCHI SECCHI - Sollievo dalla sensazione di bruciore, prurito e irritazione grazie alla combinazione di acido ialuronico (sodio ialuronato 0,15%, sale sodico con capacità di legare le molecole dacqua e prevenire la disidratazione) e pantenolo (provitamina B5, grazie alla sua la capacità di legare un’alta quantità di acqua, da un lato idrata e si prende cura dell’occhio, dall’altra aiuta il sodio ialuronato a trattenere lumidità).
 - PRATICHE FIALE MONODOSE - Ideale per consumatori occasionali, facile da utilizzare fuori casa, adatto a chi fa sport e chi viaggia. Consigliato quando diversi membri della famiglia usano il prodotto; l’eventuale soluzione residua non usata subito dopo l’apertura deve essere gettata.
+- AZIONE LENITIVA E PROTETTIVA CON STABILIZZAZIONE DEL FILM LACRIMALE - Aiuta a ridurre i fastidi oculari causati da schermi digitali, aria condizionata o fattori ambientali, favorisce una lubrificazione prolungata e contribuisce al benessere della superficie oculare. Adatto per il trattamento pre e post-operatorio in caso di interventi chirurgici sull’occhio.
+- IDRATAZIONE PER OCCHI SECCHI - Sollievo dalla sensazione di bruciore, prurito e irritazione grazie alla combinazione di acido ialuronico (sodio ialuronato 0,15%, sale sodico con capacità di legare le molecole dacqua e prevenire la disidratazione) e pantenolo (provitamina B5, grazie alla sua la capacità di legare un’alta quantità di acqua, da un lato idrata e si prende cura dell’occhio, dall’altra aiuta il sodio ialuronato a trattenere lumidità).
 - GOCCE OCULARI PER ALLEVIARE I SINTOMI DELLA SINDROME DELLOCCHIO SECCO - Instillare 1-2 gocce, 3-5 volte al giorno nel sacco congiuntivale dell’occhio.
 - SENZA CONSERVANTI - Formula delicata senza conservanti e fosfati, adatta anche a occhi sensibili e ad un uso frequente. È adatto anche ai portatori di lenti a contatto. Non è necessario rimuovere le lenti a contatto prima/durante l’applicazione.
-- AZIONE LENITIVA E PROTETTIVA CON STABILIZZAZIONE DEL FILM LACRIMALE - Aiuta a ridurre i fastidi oculari causati da schermi digitali, aria condizionata o fattori ambientali, favorisce una lubrificazione prolungata e contribuisce al benessere della superficie oculare. Adatto per il trattamento pre e post-operatorio in caso di interventi chirurgici sull’occhio.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GX235JBX{{</world>}}

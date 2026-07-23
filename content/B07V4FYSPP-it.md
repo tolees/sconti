@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- DELICATO SU BIANCHI E COLORATI: Ideale per tutti i tessuti, protegge i colori e mantiene la brillantezza del bianco lavaggio dopo lavaggio
-- BUCATO MORBIDO E PROFUMATO, TRA TRADIZIONE E INNOVAZIONE: Felce Azzurra combina ingredienti naturali e moderne tecnologie per offrire un detersivo efficace e rispettoso delle tradizioni italiane per il bucato
 - EFFICACIA SGRASSANTE E IGIENIZZANTE PER 32 LAVAGGI: Grazie alla formula concentrata, rimuove lo sporco più ostinato anche a basse temperature, garantendo un bucato pulito e igienizzato. Disponibile nel formato da 1595 ml (32 lavaggi)
+- BUCATO MORBIDO E PROFUMATO, TRA TRADIZIONE E INNOVAZIONE: Felce Azzurra combina ingredienti naturali e moderne tecnologie per offrire un detersivo efficace e rispettoso delle tradizioni italiane per il bucato
 - FELCE AZZURRA, PROFUMO INCONFONDIBILE: Dal 1923, porta nelle case il fascino di fragranze uniche tramandate nel tempo. Sinonimo di qualità e artigianalità, offre prodotti per la cura del corpo e della casa, regalando un’autentica esperienza sensoriale
 - DETERSIVO CON FRAGRANZA FRESCA AVVOLGENTE: Le prime fiorite di Citronella, Eucalipto e Note Aldeidate lasciano spazio a un cuore agrumato di Fiori dArancio e Note Aromatiche. Il fondo si inebria dei toni profondi di Legno di Cedro, Muschio e Talco
+- DELICATO SU BIANCHI E COLORATI: Ideale per tutti i tessuti, protegge i colori e mantiene la brillantezza del bianco lavaggio dopo lavaggio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07V4FYSPP{{</world>}}

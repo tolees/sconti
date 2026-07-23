@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- PASTA RIPIENA ALLUOVO - Una gamma di tortellini e cappelletti dal sapore unico, ispirati alla tradizione emiliana. Il ripieno lo facciamo noi di Barilla, a pochi metri dalla macchina che lo avvolgerà nella sfoglia, in ambienti ben separati tra loro per la massima sicurezza e qualità
-- INGREDIENTI - Semola di Grano Duro, Uova Fresche, Carni Suine, Prosciutto Crudo, Grana Padano DOP. Tutti ingredienti di alta qualità senza conservanti aggiunti e glutine
-- IDEALI CON - Un colorato accompagnamento di verdure. Provate la ricetta di Tortellini con Prosciutto Crudo alla mediterranea o, in alternativa, potete rivisitare una ricetta classica preparando i Tortellini con Prosciutto Crudo con riduzione di panna e piselli al profumo di limone
-- CARATTERISTICHE - I tortellini con prosciutto crudo sono la sintesi di due grandi tradizioni emiliane: la cordialità festosa della pasta ripiena e lintensità del sapore del prosciutto crudo
 - BARILLA - Barilla è unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
+- CARATTERISTICHE - I tortellini con prosciutto crudo sono la sintesi di due grandi tradizioni emiliane: la cordialità festosa della pasta ripiena e lintensità del sapore del prosciutto crudo
+- INGREDIENTI - Semola di Grano Duro, Uova Fresche, Carni Suine, Prosciutto Crudo, Grana Padano DOP. Tutti ingredienti di alta qualità senza conservanti aggiunti e glutine
+- PASTA RIPIENA ALLUOVO - Una gamma di tortellini e cappelletti dal sapore unico, ispirati alla tradizione emiliana. Il ripieno lo facciamo noi di Barilla, a pochi metri dalla macchina che lo avvolgerà nella sfoglia, in ambienti ben separati tra loro per la massima sicurezza e qualità
+- IDEALI CON - Un colorato accompagnamento di verdure. Provate la ricetta di Tortellini con Prosciutto Crudo alla mediterranea o, in alternativa, potete rivisitare una ricetta classica preparando i Tortellini con Prosciutto Crudo con riduzione di panna e piselli al profumo di limone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00JNL2ZMI{{</world>}}

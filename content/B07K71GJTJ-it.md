@@ -28,8 +28,8 @@ average: '28.0766666666667'
 
 ℹ️:
 
-- Questo è un prodotto originale Levis
 - Piccolo logo Levis ricamato sul petto
+- Questo è un prodotto originale Levis
 - Design moderno
 - Vestibilità comoda
 

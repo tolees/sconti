@@ -28,11 +28,11 @@ average: '8.25'
 
 ℹ️:
 
-- RISPETTO PER L’AMBIENTE – Diserbante totale e non residuale a base di acidi grassi (caprilico e caprico) comunemente presenti in natura. Prato e giardini più puliti senza pericoli
-- RICICLABILE – Confezione 100% riciclabile secondo la normativa vigente
-- RAPIDA AZIONE – Agisce poche ore dopo dall’applicazione, infatti, tutte le foglie bagnate ingialliscono in breve tempo. Ideale è trattare nelle ore più calde della giornata
-- DISERBANTE TOTALE BIOLOGICO – Solabiol Herbiclean è un erbicida biologico da impiegarsi in post emergenza delle erbe nel controllo di specie mono e dicotiledoni, siano esse annuali, biennali o perenni. Il prodotto porta a seccare le parti verdi della pianta causandone così la morte. Efficace anche sul muschio.
 - ADATTO A TUTTI I TIPI DI PIANTE – Autorizzato in agricoltura biologica, ottimo brucia erba che può essere utilizzato per trattare piccoli spazi, bordure, vialetti del giardino. Non è selettivo, pertanto, tutte le parti verdi delle piante che vengono colpite da Herbiclean si seccano
+- DISERBANTE TOTALE BIOLOGICO – Solabiol Herbiclean è un erbicida biologico da impiegarsi in post emergenza delle erbe nel controllo di specie mono e dicotiledoni, siano esse annuali, biennali o perenni. Il prodotto porta a seccare le parti verdi della pianta causandone così la morte. Efficace anche sul muschio.
+- RICICLABILE – Confezione 100% riciclabile secondo la normativa vigente
+- RISPETTO PER L’AMBIENTE – Diserbante totale e non residuale a base di acidi grassi (caprilico e caprico) comunemente presenti in natura. Prato e giardini più puliti senza pericoli
+- RAPIDA AZIONE – Agisce poche ore dopo dall’applicazione, infatti, tutte le foglie bagnate ingialliscono in breve tempo. Ideale è trattare nelle ore più calde della giornata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00L5GLHAK{{</world>}}

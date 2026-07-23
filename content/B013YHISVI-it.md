@@ -28,8 +28,8 @@ average: '277.07'
 
 ℹ️:
 
-- Per diversi tipi di lavori
 - Un prodotto della marca DeWalt
+- Per diversi tipi di lavori
 - Un prodotto robusto e resistente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

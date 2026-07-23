@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - CROC CANYON: Le Paquita sono proposte anche in versione Crock Canyon riccioli di mais. Provale subito e senti che crock!
-- QUALITÀ PATA: Ci assicuriamo che ogni patatina abbia preservato le sue migliori qualità. Ogni passo della filiera PATA è soggetto a controlli minuziosi da parte di tecnologie all’avanguardia, gestite da professionisti altamente formati che hanno permesso allazienda di ottenere certificazioni secondo standards riconosciuti a livello globale. Ora sai perché le nostre patatine sono così buone!
-- OLIO DI SEMI DI GIRASOLE: Usiamo olio di semi di girasole, ma non ci accontentiamo di fare le cose bene, le vogliamo al meglio.
-- PAQUITA: Corn Chips e Tortillas da tuffare in salse piccanti.
 - SOSTENIBILITÀ: Da sempre PATA lavora nel rispetto delle norme ambientali per offrire anche una ricerca di innovazione e rispetto dell’ambiente.
+- QUALITÀ PATA: Ci assicuriamo che ogni patatina abbia preservato le sue migliori qualità. Ogni passo della filiera PATA è soggetto a controlli minuziosi da parte di tecnologie all’avanguardia, gestite da professionisti altamente formati che hanno permesso allazienda di ottenere certificazioni secondo standards riconosciuti a livello globale. Ora sai perché le nostre patatine sono così buone!
+- PAQUITA: Corn Chips e Tortillas da tuffare in salse piccanti.
+- OLIO DI SEMI DI GIRASOLE: Usiamo olio di semi di girasole, ma non ci accontentiamo di fare le cose bene, le vogliamo al meglio.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CQPBZCDS{{</world>}}

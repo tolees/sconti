@@ -28,10 +28,10 @@ average: '18.56'
 
 ℹ️:
 
+- Lavare a 40°C, non candeggiare, non asciugare in asciugatrice, stiro con ferro tiepido, stirare al rovescio e lavare con colori simili
+- 11 x 3,5 x 9,5 cm
 - Dona un tocco di stile e personalità ai tuoi look con la selezione di Accessori Donna firmata THUN con complementi raffinati per impreziosire ogni outfit in qualsiasi occasione; dagli accessori eleganti a complementi più semplici per accompagnarti con stile e carattere in ogni tua occasione quotidiana
 - Esterni: 100% Poliestere con rivestimento in PU; rivestimento: 100% Poliestere; Metallo: lega di zinco, ferro, rame o acciaio inossidabile
-- 11 x 3,5 x 9,5 cm
-- Lavare a 40°C, non candeggiare, non asciugare in asciugatrice, stiro con ferro tiepido, stirare al rovescio e lavare con colori simili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F7HS273B{{</world>}}

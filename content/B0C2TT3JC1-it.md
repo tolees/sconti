@@ -28,10 +28,10 @@ average: '10.24'
 
 ℹ️:
 
-- Dettagli del prodotto: Tipo di protezione: IP20 | Tipo di cavo: H05VV-F3G | Sezione conduttore: 1,5 mm² | Tipo di connettore: tipo F (spina con contatto di protezione) | Cavo di alimentazione: 3 m | Colore: nero | Spessore del connettore: 7 mm
-- Design pratico: grazie al connettore sottile da 7 mm si possono spingere completamente i mobili alla parete. Il connettore extra piatto scompare dietro cassettiere, scaffali ecc. | Manico pieghevole per estrarre facilmente la spina dalla presa di corrente
 - Uso sicuro: la protezione da contatto garantisce un uso non pericoloso in casa | Conduttore di protezione integrato e cavo in plastica solida | Classe di protezione IP20 per luso in ambienti interni asciutti
 - Connettore di alimentazione flessibile: ideale per il collegamento di apparecchi elettrici, come ad esempio TV, radio o lampade da terra | Cavo lungo 3 metri per una maggiore distanza dalla fonte di alimentazione | Collegamento flessibile dei dispositivi in ambienti interni
+- Dettagli del prodotto: Tipo di protezione: IP20 | Tipo di cavo: H05VV-F3G | Sezione conduttore: 1,5 mm² | Tipo di connettore: tipo F (spina con contatto di protezione) | Cavo di alimentazione: 3 m | Colore: nero | Spessore del connettore: 7 mm
+- Design pratico: grazie al connettore sottile da 7 mm si possono spingere completamente i mobili alla parete. Il connettore extra piatto scompare dietro cassettiere, scaffali ecc. | Manico pieghevole per estrarre facilmente la spina dalla presa di corrente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C2TT3JC1{{</world>}}

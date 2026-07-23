@@ -28,9 +28,9 @@ average: '39.9'
 
 ℹ️:
 
-- Un gameplay innovativo: Il ring è un campo di battaglia strategico in cui i combattenti devono scegliere l’angolo di attacco migliore, sorprendere e superare l’avversario con tattiche imprevedibili.
-- Diverse modalità: Inizia il tuo viaggio nel mondo della boxe con la Modalità Carriera, partendo dai tornei amatoriali fino a diventare il Campione indiscusso, oppure sfida in emozionanti duelli online gli altri giocatori sfoderando più di 60 tipi di pugni diversi e contando sulla rivoluzionaria meccanica dedicata al gioco di gambe di Undisputed.
 - Il meglio dal mondo della boxe: Abbiamo stretto accordi di licenza e collaborato con più di 70 boxeur reali, con tutti gli organi di governo del mondo della nobile arte e con tantissimi brand di boxe per rendere l’esperienza di Undisputed veramente autentica.
+- Diverse modalità: Inizia il tuo viaggio nel mondo della boxe con la Modalità Carriera, partendo dai tornei amatoriali fino a diventare il Campione indiscusso, oppure sfida in emozionanti duelli online gli altri giocatori sfoderando più di 60 tipi di pugni diversi e contando sulla rivoluzionaria meccanica dedicata al gioco di gambe di Undisputed.
+- Un gameplay innovativo: Il ring è un campo di battaglia strategico in cui i combattenti devono scegliere l’angolo di attacco migliore, sorprendere e superare l’avversario con tattiche imprevedibili.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D4DVTP75{{</world>}}

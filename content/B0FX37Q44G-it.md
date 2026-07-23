@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- CONTENUTO DELLA CONFEZIONE – Neutrogena Ultra Sheer Idratazione SPF 50, crema solare viso 50 testata dermatologicamente e oftalmologicamente, SPF 50 viso per uso quotidiano, 1 confezione da 50 ml
 - IDRATAZIONE 24H – La crema viso idratante con Glicerina, Pantenolo, Pro-Ceramidi e Vitamine C ed E antiossidanti aiuta a contrastare i segni dellinvecchiamento precoce e dona unidratazione intensa per 24h
 - FINISH INVISIBILE – La crema solare 50 viso ultra-leggera, a rapido assorbimento e con finitura secca al tatto non unge e non lascia residui bianchi, ed è quindi perfetta come base per il make-up
-- CONTENUTO DELLA CONFEZIONE – Neutrogena Ultra Sheer Idratazione SPF 50, crema solare viso 50 testata dermatologicamente e oftalmologicamente, SPF 50 viso per uso quotidiano, 1 confezione da 50 ml
 - CREMA VISO GIORNO DELICATA – La formula resistente allacqua di questa protezione solare viso 50 è ipoallergenica*, non comedogenica e senza profumo, ideale per le pelli normali o secche e sensibili
 - PROTEZIONE AD AMPIO SPETTRO – Grazie alla tecnologia Helioplex SL, la crema solare viso 50 offre unelevata protezione ad ampio spettro contro i raggi UVB, UVA lunghi, la luce visibile e l’inquinamento
 

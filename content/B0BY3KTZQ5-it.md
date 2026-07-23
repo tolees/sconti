@@ -29,9 +29,9 @@ average: '30.16'
 ℹ️:
 
 - Numerosi sistemi di protezione: il caricabatterie e mantenitore di carica intelligente è automatico, con controllo tramite microprocessore. Dispone di paraurti di protezione e di protezioni contro linversione di polarità, le scintille e il surriscaldamento.
+- Garanzia del produttore esclusiva di 2 anni: questo articolo è coperto da una garanzia legale di conformità di 2 anni dalla data di acquisto contro qualsiasi difetto di fabbricazione. La qualità e le prestazioni prima di tutto con Schumacher.
 - Modalità di mantenimento automatico: una volta completato il processo di carica, il dispositivo di ricarica passa automaticamente alla modalità di mantenimento e garantisce la carica completa della batteria, prolungandone la durata.
 - Compatibilità: il caricabatterie e mantenitore di carica RUGGED SPX457 da 1A è progettato per batterie al piombo di tipo AGM, Standard, gel, calcio, Start & Stop e batterie al litio (LiFePo4) da 6V e 12V fino a 32 Ah.
-- Garanzia del produttore esclusiva di 2 anni: questo articolo è coperto da una garanzia legale di conformità di 2 anni dalla data di acquisto contro qualsiasi difetto di fabbricazione. La qualità e le prestazioni prima di tutto con Schumacher.
 - Protezione IP66 contro la polvere e gli spruzzi dacqua potenti: lapparecchio elettrico è adatto per uso esterno grazie al suo indice di resistenza IP66 (protetto contro la polvere e gli spruzzi dacqua potenti).
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

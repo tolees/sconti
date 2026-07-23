@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- La Crema svolge un’azione elasticizzante, per una pelle più tonica e soda dopo un mese di utilizzo.
 - Modo d’uso: applicare il bagnocrema sulla pelle umida del corpo massaggiando delicatamente fino a formare una schiuma ricca, morbida e avvolgente. Risciacquare con dolcezza. Applicare la crema corpo sulla pelle umida del corpo massaggiando delicatamente fino a formare una schiuma ricca, morbida e avvolgente. Risciacquare con dolcezza.
+- La Crema svolge un’azione elasticizzante, per una pelle più tonica e soda dopo un mese di utilizzo.
 - Rispetta e aiuta la pelle a rinnovare la sua naturale idratazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

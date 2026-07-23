@@ -28,9 +28,9 @@ average: '3.92636363636364'
 
 ℹ️:
 
-- Età utilizzo 3+
 - Caratteristica Turbo Maxi punta larga
 - Tipo punta sintetica
+- Età utilizzo 3+
 - Tratto 5 mm
 - Punta 5 mm
 

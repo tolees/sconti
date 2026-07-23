@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tastiera di sicurezza intelligente con terminale smartcard: soddisfa i requisiti più importanti per la firma elettronica, lautenticazione, la crittografia dei dati e le autorizzazioni di accesso
 - Plug & play tramite connessione USB: basta collegarsi alla porta USB-A del dispositivo finale e iniziare subito a lavorare (cavo lungo 180 cm per una sufficiente flessibilità). Disponibile in nero e bianco-grigio
+- Pratico: la tastiera a cavo piatto consente la lettura/scrittura di smartcard conformi a ISO 7816 e dispone di un supporto driver per Windows, MacOS-X e Linux
+- Tastiera di sicurezza intelligente con terminale smartcard: soddisfa i requisiti più importanti per la firma elettronica, lautenticazione, la crittografia dei dati e le autorizzazioni di accesso
 - Affidabile: etichettatura dei tasti durevole, fino a 10 milioni di pressioni senza perdita della qualità di digitazione, certificazione GS (“sicurezza testata”)
 - Lettore di smart card PC/SC compatibile CCID: offre linserimento sicuro del PIN (lettore di classe 2), soddisfa i requisiti FIPS-201 e supporta i protocolli T=0, T=1, S=8, S=9 e S=10
-- Pratico: la tastiera a cavo piatto consente la lettura/scrittura di smartcard conformi a ISO 7816 e dispone di un supporto driver per Windows, MacOS-X e Linux
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00PN4TYIM{{</world>}}

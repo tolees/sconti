@@ -28,10 +28,10 @@ average: '48.4'
 
 ℹ️:
 
-- Classica sneaker alla moda con lacci
-- Suola flessibile di trazione
 - Tomaia traforata in materiale sintetico liscio "Durabuck"
+- Suola flessibile di trazione
 - Altezza tacco 3,8 cm
+- Classica sneaker alla moda con lacci
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B98P1GDJ{{</world>}}

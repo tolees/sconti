@@ -28,11 +28,11 @@ average: '4.99'
 
 ℹ️:
 
+- Tre modalità di illuminazione: la lampada solare da esterno con sensore di movimento dispone di tre modalità: rilevamento (luminosità al 100%, spegnimento dopo 20 secondi), luce debole + movimento (luminosità al 10% → 100% al rilevamento → ritorno al 10%), modalità costante (sensore disattivato, accesa dal tramonto allalba al 30%), per giardini, terrazze o vialetti.
 - Ampio angolo di illuminazione 270°: Con 100 LED, questo faretto led da esterno solare illumina giardini, terrazze e vialetti, aumentando visibilità e sicurezza.
 - Resistente e IP65: Realizzata in ABS robusto, questa lampada solare da giardino resiste a calore, gelo e pioggia, garantendo funzionamento affidabile in ogni condizione.
-- Ricarica solare efficiente e sensore crepuscolare: Il faretto led da esterno solare è dotato di una batteria da 800mAh che immagazzina l’energia solare in modo efficiente, offrendo 8–10 ore di luce dopo 6–8 ore di ricarica. Grazie al sensore di luce, la lampada solare da esterno si accende automaticamente al buio e si spegne durante il giorno.
 - Installazione facile: Montaggio con viti incluso, perfetta come lampada solare da esterno, faretto led da esterno solare o lampada da esterno con sensore di movimento per giardini, terrazze, vialetti e garage.
-- Tre modalità di illuminazione: la lampada solare da esterno con sensore di movimento dispone di tre modalità: rilevamento (luminosità al 100%, spegnimento dopo 20 secondi), luce debole + movimento (luminosità al 10% → 100% al rilevamento → ritorno al 10%), modalità costante (sensore disattivato, accesa dal tramonto allalba al 30%), per giardini, terrazze o vialetti.
+- Ricarica solare efficiente e sensore crepuscolare: Il faretto led da esterno solare è dotato di una batteria da 800mAh che immagazzina l’energia solare in modo efficiente, offrendo 8–10 ore di luce dopo 6–8 ore di ricarica. Grazie al sensore di luce, la lampada solare da esterno si accende automaticamente al buio e si spegne durante il giorno.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FHH2BRH5{{</world>}}

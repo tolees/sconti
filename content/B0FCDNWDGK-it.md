@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - *contenuti finali e le date di uscita sono soggetti a modifiche. Per riscattare i contenuti digitali sono richiesti una connessione internet e un account Ubisoft.
-- Prenota subito Anno 117: Pax Romana* per ricevere il Builder Pack con ornamenti esclusivi e una speciale icona giocatore.**
 - Aumenta ed estendi la tua autorità in un mondo vasto e dinamico con livelli di dettaglio, flessibilità e scala senza pari. Stringi alleanze in tutto limpero o dimostra la tua potenza con battaglie strategiche sulla terraferma e combattimenti navali. Potresti addirittura sfidare limperatore stesso, ma non senza conseguenze.
-- Ogni decisione che prendi è importante. Costruisci il tuo impero partendo da zero e affronta la vera sfida: cosa significa essere un grande governatore? Onorerai la cultura celtica locale o imporrai le tradizioni romane? Guida le tue province tramite diplomazia e crescita economica, oppure conquistale con la forza militare. Le tue scelte plasmeranno non solo il futuro dei tuoi cittadini e delle tue province, ma anche la tua storia personale.
 - Scopri lesperienza di costruzione top e progetta le città dei tuoi sogni allapice dellImpero romano. Ottimizza la tua economia bilanciando le esigenze del tuo popolo con le incessanti richieste dellimperatore. Costruisci sul territorio che vedi, dal meraviglioso cuore del Latium alle misteriose e umide zone celtiche di Albione, dove nessun romano civilizzato vorrebbe stare.
+- Ogni decisione che prendi è importante. Costruisci il tuo impero partendo da zero e affronta la vera sfida: cosa significa essere un grande governatore? Onorerai la cultura celtica locale o imporrai le tradizioni romane? Guida le tue province tramite diplomazia e crescita economica, oppure conquistale con la forza militare. Le tue scelte plasmeranno non solo il futuro dei tuoi cittadini e delle tue province, ma anche la tua storia personale.
+- Prenota subito Anno 117: Pax Romana* per ricevere il Builder Pack con ornamenti esclusivi e una speciale icona giocatore.**
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FCDNWDGK{{</world>}}

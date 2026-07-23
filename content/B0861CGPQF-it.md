@@ -28,11 +28,11 @@ average: '23.7'
 
 ℹ️:
 
-- Profilo sensoriale – olfatto: Al naso presenta un profumo fresco e vivace di mela verde croccante, con leggere note di caramello, vaniglia e una base morbida di whiskey.
+- Come gustarlo: Si può gustare liscio, con ghiaccio oppure in cocktail semplici come il “Jack Apple Fizz” (con soda e ghiaccio), perfetto come aperitivo o drink rinfrescante.
 - Jack Daniels Tennessee Apple è un liquore a base di whiskey Tennessee Jack Daniel’s miscelato con un liquore naturale al gusto di mela, offrendo una variante fruttata e più dolce rispetto al classico Old No. 7.
 - Metodo di produzione: Viene prodotto partendo dal classico Tennessee Whiskey, filtrato a carbone d’acero secondo il metodo Lincoln County Process, a cui viene aggiunto un liquore di mele verdi realizzato con ingredienti naturali.
 - Profilo sensoriale – gusto: Al palato è morbido e ben bilanciato, con un ingresso dolce e fruttato di mela, seguito da leggere sfumature speziate, una punta di legno tostato e la rotondità tipica del Tennessee Whiskey.
-- Come gustarlo: Si può gustare liscio, con ghiaccio oppure in cocktail semplici come il “Jack Apple Fizz” (con soda e ghiaccio), perfetto come aperitivo o drink rinfrescante.
+- Profilo sensoriale – olfatto: Al naso presenta un profumo fresco e vivace di mela verde croccante, con leggere note di caramello, vaniglia e una base morbida di whiskey.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0861CGPQF{{</world>}}

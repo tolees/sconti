@@ -28,8 +28,8 @@ average: '13.04'
 
 ℹ️:
 
-- Composizione del materiale in viscosa
 - Chiusura frontale con bottoni
+- Composizione del materiale in viscosa
 - Cardigan con scollo a V
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,16 +28,16 @@ average: '62.37'
 
 ℹ️:
 
-- Tomaia in mesh
-- Chiusura in pizzo
 - Vestibilità regolare
+- Pavimento Cloudfoam Plus
+- Tomaia in mesh
+- Drop intersuola: 5 mm (tallone 29 mm / avampiede 24 mm)
 - Drop intersuola: 5 mm (tallone 29 mm / avampiede 24 mm)
 - Suola in gomma
-- InterSuola Bounce 2.0
-- Fodera in tessuto
-- Drop intersuola: 5 mm (tallone 29 mm / avampiede 24 mm)
+- Chiusura in pizzo
 - Peso: 306 g (taglia UK 8,5)
-- Pavimento Cloudfoam Plus
+- Fodera in tessuto
+- InterSuola Bounce 2.0
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CKXRLVX7{{</world>}}

@@ -30,10 +30,10 @@ average: '559.35'
 
 - FACILE DA USARE: ampio display LCD e 6 specialità di caffè con il semplice tocco di un pulsante: espresso, caffè, caffè lungo, cappuccino, latte macchiato e latte caldo
 - SISTEMA LATTECREMA: Sistema brevettato di schiuma di latte per schiuma di latte particolarmente cremosa e a pori fini per un cappuccino perfetto - la pulizia avviene automaticamente tramite controllo rotativo
-- FUNZIONE CAFFÈ LUNGO: per il tradizionale caffè mattutino - preparato con un processo di erogazione a bassa pressione
 - GARANZIA: 3 anni di garanzia del produttore dopo la registrazione
-- MACININO DI ALTA QUALITÀ: il macinino a cono a 13 stadi può essere regolato individualmente, 380 g di chicchi di caffè si adattano al contenitore - la macchina completamente automatica è adatta anche per luso con polvere di caffè
 - FACILE PULIZIA: il gruppo erogatore compatto richiede poca manutenzione, può essere completamente rimosso dalla macchina da caffè e consente quindi una facile pulizia dellinterno della macchina
+- MACININO DI ALTA QUALITÀ: il macinino a cono a 13 stadi può essere regolato individualmente, 380 g di chicchi di caffè si adattano al contenitore - la macchina completamente automatica è adatta anche per luso con polvere di caffè
+- FUNZIONE CAFFÈ LUNGO: per il tradizionale caffè mattutino - preparato con un processo di erogazione a bassa pressione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08FXDVJ5Z{{</world>}}

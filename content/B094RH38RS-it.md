@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 58 carte illustrate; per grandi e piccini; made in Italy
 - 55 carte; istruzioni
-- Il gioco più amato al mondo
 - Autonomia, logica, memoria
+- Il gioco più amato al mondo
+- 58 carte illustrate; per grandi e piccini; made in Italy
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B094RH38RS{{</world>}}

@@ -28,11 +28,11 @@ average: '23.97'
 
 ℹ️:
 
+- Vitigno: il vino Moscato dAsti è un aromatico D.O.C.G. da uva bianca italiana, dal gusto dolce e leggero
 - Colore: dorato, dalle sfumature tenui e delicate
+- Casa SantOrsola è un mondo di stile, tradizione e gioia di vivere: ciascuna bottiglia di vino Casa SantOrsola esprime litalianità a tavola in ogni occasione speciale
 - Caratteristiche: spumante Moscato dAsti, ottimo come accompagnamento con ostriche, formaggi erborinati e dolci
 - Gusto: fresco e floreale, con un finale sapido e minerale
-- Casa SantOrsola è un mondo di stile, tradizione e gioia di vivere: ciascuna bottiglia di vino Casa SantOrsola esprime litalianità a tavola in ogni occasione speciale
-- Vitigno: il vino Moscato dAsti è un aromatico D.O.C.G. da uva bianca italiana, dal gusto dolce e leggero
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09YRHG3DP{{</world>}}

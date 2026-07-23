@@ -29,9 +29,9 @@ average: '7.5'
 ℹ️:
 
 - Applica il fondotinta in polvere sul viso utilizzando lo specchio e la spugnetta per fondotinta in dotazione.
-- Formula ibrida con finish opaco a coprenza totale. Texture vellutata che da polvere si trasforma in crema. La formula in polvere assorbe il sebo in eccesso e copre le imperfezioni fondendosi uniformemente con la pelle.
-- Il fondotinta compatto in polvere Rimmel Lasting Finish si fonde con la pelle, attenua le imperfezioni ed esalta l’incarnato con un finish soft-focus naturale. La formula ibrida a coprenza totale di questo fondotinta vegano assicura un finish opaco per una lunga tenuta fino a 25 ore e un controllo del sebo che dura tutto il giorno.
 - Colore: 002 Pearl
+- Il fondotinta compatto in polvere Rimmel Lasting Finish si fonde con la pelle, attenua le imperfezioni ed esalta l’incarnato con un finish soft-focus naturale. La formula ibrida a coprenza totale di questo fondotinta vegano assicura un finish opaco per una lunga tenuta fino a 25 ore e un controllo del sebo che dura tutto il giorno.
+- Formula ibrida con finish opaco a coprenza totale. Texture vellutata che da polvere si trasforma in crema. La formula in polvere assorbe il sebo in eccesso e copre le imperfezioni fondendosi uniformemente con la pelle.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CXXZLLW3{{</world>}}

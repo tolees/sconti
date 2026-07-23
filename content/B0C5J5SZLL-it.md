@@ -28,13 +28,13 @@ average: '634.59'
 
 ℹ️:
 
-- AUTOFOCUS IBRIDO INTELLIGENTE: la funzione Real Time Eye AF di Sony si blocca su esseri umani e animali allistante, garantendo una messa a fuoco nitidissima per i tuoi ritratti e un tracking fluido e professionale per le tue video clip.
-- OTTICHE GRANDANGOLARI VERSATILI: lobiettivo ZEISS Vario-Sonnar T* 18-50 mm f/1.8-4 consente di catturare paesaggi estesi e interni architettonici compressi grazie al grandangolo, oppure di zoomare fino a 50 mm per ritratti e street photography più belli.
-- VELOCITÀ PRONTA ALLAZIONE: blocca ogni istante con gli incredibili scatti in sequenza a 24 fps senza interruzioni, per scattare foto perfette di soggetti in rapido movimento come animali domestici, sport o scene di strada spontanee.
 - POTENZA DELLE IMMAGINI DI LIVELLO PRO: lampio sensore CMOS Exmor RS a strati da 1" e 20,1 MP offre gamma dinamica e prestazioni in condizioni di scarsa illuminazione superiori, oltre a risoluzione elevata, per ritratti di viaggio, contenuti per vlog e scene dazione nitide e professionali.
-- LIBRIDA TASCABILE DEFINITIVA: questa potente fotocamera compatta all in one ti consente di passare con semplicità dalla documentazione dei tuoi viaggi con video 4K alla cattura di fotografie ad alta fedeltà.
-- CONTROLLO E CONNETTIVITÀ DI LIVELLO PRO: scopri il controllo creativo completo degli scatti RAW, delle modalità manuali e del filtro ND integrato, quindi trasferisci senza problemi i tuoi scatti di qualità professionale sul telefono tramite Creators App di Sony per la condivisione immediata.
 - COLORI CREATIVI UNIFICATI: utilizza 10 preset "Creative Look" integrati (come FL, IN o SH) nelle modalità foto e video per dare a tutta la tua galleria di viaggio unatmosfera cinematografica uniforme direttamente dalla fotocamera, senza editing
+- AUTOFOCUS IBRIDO INTELLIGENTE: la funzione Real Time Eye AF di Sony si blocca su esseri umani e animali allistante, garantendo una messa a fuoco nitidissima per i tuoi ritratti e un tracking fluido e professionale per le tue video clip.
+- LIBRIDA TASCABILE DEFINITIVA: questa potente fotocamera compatta all in one ti consente di passare con semplicità dalla documentazione dei tuoi viaggi con video 4K alla cattura di fotografie ad alta fedeltà.
+- VELOCITÀ PRONTA ALLAZIONE: blocca ogni istante con gli incredibili scatti in sequenza a 24 fps senza interruzioni, per scattare foto perfette di soggetti in rapido movimento come animali domestici, sport o scene di strada spontanee.
+- OTTICHE GRANDANGOLARI VERSATILI: lobiettivo ZEISS Vario-Sonnar T* 18-50 mm f/1.8-4 consente di catturare paesaggi estesi e interni architettonici compressi grazie al grandangolo, oppure di zoomare fino a 50 mm per ritratti e street photography più belli.
+- CONTROLLO E CONNETTIVITÀ DI LIVELLO PRO: scopri il controllo creativo completo degli scatti RAW, delle modalità manuali e del filtro ND integrato, quindi trasferisci senza problemi i tuoi scatti di qualità professionale sul telefono tramite Creators App di Sony per la condivisione immediata.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C5J5SZLL{{</world>}}

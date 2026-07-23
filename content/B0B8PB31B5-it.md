@@ -28,11 +28,11 @@ average: '35.805'
 
 ℹ️:
 
+- Leggero e versatile, ottimo per dormire comodamente ovunque
 - È costituito da migliaia di fibre di poliestere ad alta resistenza, che garantiscono la migliore stabilità e non si allungano nel tempo Laltezza di 36 cm sostiene il tuo corpo correttamente durante il sonno, isolandolo dal suolo freddo
 - Tutto il comfort necessario con il materasso gonfiabile Mid-Rise Comfort di Intex, dal duplice uso indoor e outdoor: portalo con te grazie alla sacca,
 - Portata massima: 136 kg
 - La pompa funziona con qualsiasi fonte di alimentazione USB da 5 V, inclusi caricabatterie per smartphone, caricabatterie da auto USB da 12 V o power bank portatili e ti premette di gonfiare e sgonfiare lAirbed in pochi minuti
-- Leggero e versatile, ottimo per dormire comodamente ovunque
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B8PB31B5{{</world>}}

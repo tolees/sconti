@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Formula vegana
+- Almeno 98% di ingredienti di origine naturale
 - Pack sostenibile
 - Sbiancante: Denti più bianchi in 10 giorni
-- Almeno 98% di ingredienti di origine naturale
+- Formula vegana
 - Complesso di erbe con Salvia e Menta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

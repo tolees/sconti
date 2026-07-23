@@ -29,10 +29,10 @@ average: '14.975'
 ℹ️:
 
 - Esaminate i sintomi del morbo misterioso che affligge il vostro paziente e ricostruite l’anamnesi per trovare degli indizi che vi mettano sulla strada giusta.
-- Lavorate di concerto per diagnosticare la corretta malattia. Seguite gli indizi, sottoponete il paziente agli esami, consultate gli specialisti e affidatevi al vostro istinto medico.
-- Somministrate il corretto trattamento al paziente e prendete le decisioni giuste per permettergli di superare la notte. Cercate inoltre di capire qual è la causa scatenante della malattia.
-- Dai creatori della serie Escape Room - Il Gioco, un gioco cooperativo di misteri medici. Contiene 4 casi da risolvere. Lavorate come una squadra ben affiata per risolvere casi medici misteriosi e aiutare il paziente di turno a superare la notte. La lancette corrono.
 - Numero di giocatori: 1-4 | Età consigliata: 13+ | Durata media: 60 min | Edizione in Lingua Italiana
+- Dai creatori della serie Escape Room - Il Gioco, un gioco cooperativo di misteri medici. Contiene 4 casi da risolvere. Lavorate come una squadra ben affiata per risolvere casi medici misteriosi e aiutare il paziente di turno a superare la notte. La lancette corrono.
+- Somministrate il corretto trattamento al paziente e prendete le decisioni giuste per permettergli di superare la notte. Cercate inoltre di capire qual è la causa scatenante della malattia.
+- Lavorate di concerto per diagnosticare la corretta malattia. Seguite gli indizi, sottoponete il paziente agli esami, consultate gli specialisti e affidatevi al vostro istinto medico.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D9P6N1MF{{</world>}}

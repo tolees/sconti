@@ -28,12 +28,12 @@ average: '12.57'
 
 ℹ️:
 
-- Caffè intenso decaffeinato dalla tostatura intensa da gustare in tazza corta
-- Visita il sito Nestlé per scoprire come le nostre marche sono scese in campo e contribuiscono al raggiungimento degli obiettivi di sostenibilità del Gruppo Nestlé con progetti concreti
 - 3 confezioni da 16 capsule: 48 capsule totali
+- Visita il sito Nestlé per scoprire come le nostre marche sono scese in campo e contribuiscono al raggiungimento degli obiettivi di sostenibilità del Gruppo Nestlé con progetti concreti
+- Caffè intenso decaffeinato dalla tostatura intensa da gustare in tazza corta
 - Capsule compatibili con macchina per caffè espresso e altre bevande NESCAFÉ DOLCE GUSTO
-- Capsule originali per macchine NESCAFÉ DOLCE GUSTO
 - Caffè espresso intenso decaffeinato 7/13 con equilibrata miscela di Premium Arabica e Robusta
+- Capsule originali per macchine NESCAFÉ DOLCE GUSTO
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01CY7BCJE{{</world>}}

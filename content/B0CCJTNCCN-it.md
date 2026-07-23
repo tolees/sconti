@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Numero di giocatori: 2-4 | Età consigliata: 10+ | Durata media: 60 min | Edizione in lingua italiana
-- Il completamento delle formule ci permetterà di sbloccare le carte richieste.
 - Rivestite il ruolo di alchimisti medievali in questo gioco di carte rigiocabile.
-- Riuscirete a completare con successo i 12 capitoli e a trovare la soluzione aurea?
 - Insieme alla vostra squadra, preparate composti alchemici giocando combinazioni corrette di carte ingrediente numerate.
+- Il completamento delle formule ci permetterà di sbloccare le carte richieste.
+- Numero di giocatori: 2-4 | Età consigliata: 10+ | Durata media: 60 min | Edizione in lingua italiana
+- Riuscirete a completare con successo i 12 capitoli e a trovare la soluzione aurea?
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CCJTNCCN{{</world>}}

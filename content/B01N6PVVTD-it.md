@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Il materasso sfoderabile in Memory Foam Cabrio a 9 zone differenziate misura 160x190 cm. ed è alto 30 Cm.
-- Il rivestimento del materasso, in Bayscent Sfoderabile su 4 lati, è completamente anallergico antiacaro e traspirante, infatti tutte le materie prime utilizzate sono certificate Oeko-tex
-- Qualità 100% Made in Italy – Progettato e realizzato interamente in Italia con materiali certificati, garanzia di eccellenza artigianale, cura nei dettagli e rispetto per la salute e l’ambiente.
 - Il prodotto ha una garanzia di 15 anni essendo un prodotto 100% Made in Italy
-- Risulta adatto per il sollievo dei dolori alla schiena essendo composto da una lastra pantografata di sostegno in Water Foam da 21 Cm ed una lastra bugnata a 9 zone differenziate in Memory Foam da 7 Cm.
 - Il materasso Cabrio di Mia Suite è classificato come DISPOSITIVO MEDICO CLASSE 1 perchè soddisfa tutti gli standard imposti dalla direttiva europea risultando efficace a prevenire ed alleviare problemi posturali e patologie da decubito.
+- Il rivestimento del materasso, in Bayscent Sfoderabile su 4 lati, è completamente anallergico antiacaro e traspirante, infatti tutte le materie prime utilizzate sono certificate Oeko-tex
+- Il materasso sfoderabile in Memory Foam Cabrio a 9 zone differenziate misura 160x190 cm. ed è alto 30 Cm.
+- Qualità 100% Made in Italy – Progettato e realizzato interamente in Italia con materiali certificati, garanzia di eccellenza artigianale, cura nei dettagli e rispetto per la salute e l’ambiente.
+- Risulta adatto per il sollievo dei dolori alla schiena essendo composto da una lastra pantografata di sostegno in Water Foam da 21 Cm ed una lastra bugnata a 9 zone differenziate in Memory Foam da 7 Cm.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01N6PVVTD{{</world>}}

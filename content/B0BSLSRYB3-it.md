@@ -28,9 +28,9 @@ average: '17.19'
 
 ℹ️:
 
+- Lasciati ingolosire da Goleador Xplosion Cola, caramelle gommose ripiene allaroma di cola-limone per unesplosione di gusto e golosità
 - Goleador è la caramella dei campioni: tutti i bambini che condividono lamore per il calcio ne sono innamorati, condividila con i tuoi amici, la tua squadra o chi vuoi
 - Ideali per ogni occasione: offrile come dolcetto, oppure crea degli originali sacchetti di caramelle o regalini di fine festa di compleanno per i bambini invitati
-- Lasciati ingolosire da Goleador Xplosion Cola, caramelle gommose ripiene allaroma di cola-limone per unesplosione di gusto e golosità
 - Il colorato box contiene 150 caramelle gommose incartate singolarmente; porta a casa liconico dispenser Goleador e riscopri il gusto della tua infanzia
 - Grazie al pratico incarto singolo potrai portare Goleador Xplosion con te, nello zaino o nella borsa, per un momento di golosa dolcezza durante le tue giornate
 

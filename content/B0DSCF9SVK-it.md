@@ -29,9 +29,9 @@ average: '22.95'
 ℹ️:
 
 - MATERIALI PREMIUM: Composto da 38% Lana (Merino), 30% Poliammide, 30% Acrilico e 2% Elastan. Certificato OEKO-TEX standard 100. Privo di sostanze nocive. Lavabile in lavatrice fino a 40°C. Non asciugare in asciugatrice
-- PRODOTTI IN EUROPA: Queste calze da trekking lunghe sono sviluppate con latleta Rasmus Kragh per assicurare alta qualità e prestazioni. Queste calze sono prodotte in Portogallo, dove garantiamo condizioni di lavoro eque
-- CALZETTONI TERMICI: I nostri calzini antibatterici presentano unammortizzazione mirata per ridurre il rischio di vesciche e di dolore ai piedi. Ideali per escursionismo, gite in montagna, viaggi o da tutti i giorni
 - GARANZIA ANTI-BUCO: I calzettoni si sono bucati entro il primo anno dallacquisto? Vi invieremo una sostituzione gratuita. Per qualsiasi domanda, il nostro servizio clienti sarà sempre lieto di aiutarvi
+- CALZETTONI TERMICI: I nostri calzini antibatterici presentano unammortizzazione mirata per ridurre il rischio di vesciche e di dolore ai piedi. Ideali per escursionismo, gite in montagna, viaggi o da tutti i giorni
+- PRODOTTI IN EUROPA: Queste calze da trekking lunghe sono sviluppate con latleta Rasmus Kragh per assicurare alta qualità e prestazioni. Queste calze sono prodotte in Portogallo, dove garantiamo condizioni di lavoro eque
 - LANA MERINO TERMICA: Realizzate in lana merino termoregolatrice mista a poliammide per durevolezza. Calze lunghe in lana merino tengono piedi e gambe al caldo a temperature molto fredde. Le corsie di ventilazione mantengono i piedi sempre asciutti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

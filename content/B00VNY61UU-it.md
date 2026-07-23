@@ -28,9 +28,9 @@ average: '25.0'
 
 ℹ️:
 
-- Sviluppa la capacità narrativa e le abilità sociali
-- Prodotto testato e sicuro per il bambino
 - Sviluppa la creatività e le competenze logico-matematiche
+- Prodotto testato e sicuro per il bambino
+- Sviluppa la capacità narrativa e le abilità sociali
 - Aiuta il bambino a esplorare le differenze tra immaginazione e mondo reale
 - Materiali di alta qualità
 

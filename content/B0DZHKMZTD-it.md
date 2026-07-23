@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Teenage Mutant Ninja Turtles: Shredder’s Revenge
-- Dimension Shellshock DLC
-- Radical Reptiles DLC
 - Includes All DLC Packs
+- Dimension Shellshock DLC
+- Teenage Mutant Ninja Turtles: Shredder’s Revenge
+- Radical Reptiles DLC
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DZHKMZTD{{</world>}}

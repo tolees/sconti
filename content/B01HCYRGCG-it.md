@@ -28,8 +28,8 @@ average: '11.4366666666667'
 
 ℹ️:
 
-- Confezione tripla
 - Cintura larga
+- Confezione tripla
 - Elasticizzato
 - Boxer: Set di boxer
 

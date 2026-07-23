@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Note aromatiche raffinate: Le note fragranti di frutta a guscio, cacao e un delicato tocco di liquirizia compongono un bouquet aromatico ricco e raffinato
 - Capsule in alluminio: La confezione mantiene intatti freschezza e aroma, offrendo un espresso sempre cremoso e consistente
 - Selezione pregiata: Una combinazione di pregiate origini Arabica e Robusta, accuratamente selezionate, regalano un gusto pieno, rotondo e persistente, perfetto per chi ama l’intensità senza compromessi
 - Aroma intenso e avvolgente: Lasciati conquistare da una miscela dal profumo intenso e avvolgente, capace di trasformare ogni pausa in un autentico rituale di piacere
-- Note aromatiche raffinate: Le note fragranti di frutta a guscio, cacao e un delicato tocco di liquirizia compongono un bouquet aromatico ricco e raffinato
 - Espresso tradizionale: Vivi tutta l’esperienza autentica dell’espresso italiano a casa tua con le capsule Espressocasa compatibili Nespresso*. *Il marchio non è di proprietà di Caffè Vergnano S.p.A. né di aziende ad essa collegate
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

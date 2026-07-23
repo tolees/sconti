@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Un rum fondente e perfettamente bilanciato, invecchiato fino a 8 anni. Unespressione raffinata del rum venezuelano.
 - Idea regalo perfetta e rum ideale da gustare con gli amici per serate rilassanti e piacevoli.
 - Pampero Selección 1938 è un rum premium perfettamente equilibrato.
-- Rum strutturato e complesso dal colore mogano con riflessi rossastri, al naso rivela note di legno, frutta secca, cannella, vaniglia e caramello. Al palato è bilanciato, con sentori di zucchero di canna, cacao, tabacco e miele.
+- Un rum fondente e perfettamente bilanciato, invecchiato fino a 8 anni. Unespressione raffinata del rum venezuelano.
 - Perfetto da gustare puro o con ghiaccio, ottimo anche con tonico e scorza d’arancia. Ideale per cocktail come l’Old Fashioned, preparato con 45 ml di Pampero Selección, 1 zolletta di zucchero, 5 gocce di Angostura Bitters e soda
+- Rum strutturato e complesso dal colore mogano con riflessi rossastri, al naso rivela note di legno, frutta secca, cannella, vaniglia e caramello. Al palato è bilanciato, con sentori di zucchero di canna, cacao, tabacco e miele.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B009RUO6YA{{</world>}}

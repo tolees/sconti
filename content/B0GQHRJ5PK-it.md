@@ -28,11 +28,11 @@ average: '7.9'
 
 ℹ️:
 
-- POTASSIO E MAGNESIO SALI ORGANICI: per favorire unottimale assimilazione - il Magnesio contribuisce allequilibrio elettrolitico, mentre il Potassio è utile alla normale funzione muscolare
-- MODALITÀ DUSO: sciogliere il contenuto di 1 busta in 500 ml di acqua e assumere ogni 30 minuti di allenamento durante le attività sportive di resistenza, per un massimo di 2 buste al giorno
 - FORMULA 2:1 OTTIMIZZATA: contiene una miscela di Glucosio e Fruttosio in rapporto 2:1 combinata con Maltodestrine per un’integrazione energetica a rapido e lento rilascio
-- EQUILIBRA: da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto di un perfetto equilibrio tra rispetto, efficacia, benessere e bellezza
 - SOLUZIONE IPOTONICA GUSTO ARANCIA: osmolalità di 258 mOsm/L per il reintegro dei liquidi e dei sali minerali persi durante lintensa sudorazione sportiva; ottimo gusto arancia
+- MODALITÀ DUSO: sciogliere il contenuto di 1 busta in 500 ml di acqua e assumere ogni 30 minuti di allenamento durante le attività sportive di resistenza, per un massimo di 2 buste al giorno
+- POTASSIO E MAGNESIO SALI ORGANICI: per favorire unottimale assimilazione - il Magnesio contribuisce allequilibrio elettrolitico, mentre il Potassio è utile alla normale funzione muscolare
+- EQUILIBRA: da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto di un perfetto equilibrio tra rispetto, efficacia, benessere e bellezza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GQHRJ5PK{{</world>}}

@@ -28,11 +28,11 @@ average: '237.21'
 
 ℹ️:
 
-- 2 BATTERIE AL LITIO 40V 2Ah DI NUOVA GENERAZIONE E MOTORE BRUSHLESS - il tosaerba è alimentato da batterie tecnologicamente avanzate che puoi utilizzare in qualsiasi attrezzo Greenworks da 40V per ridurre gli sprechi risparmiando spazio e denaro
 - FACILE DA MANOVRARE E RIPORRE - le grandi ruote posteriori da 18cm rendono il tagliaerba elettrico facile da spostare su tutti i tipi di terreno; per maggiore manovrabilità ha un comodo manubrio che si abbassa per risparmiare spazio quando non in uso
 - TAGLIA PRATI DI MEDIE DIMENSIONI FINO A 500m² SENZA RICARICA - ciascuna batteria taglia 250m². Tutta la potenza e le prestazioni di un tosaerba a benzina senza il disordine, il rumore e limpatto ambientale
 - 3 ANNI DI GARANZIA CON 2 ANNI DI GARANZIA PER LA BATTERIA - Da Greenworks, leader mondiale negli attrezzi elettrici e della tecnologia a batterie, con una reputazione globale per design intelligente, prestazioni elevate e un servizio clienti eccezionale
 - 6 ALTEZZE DI TAGLIO CON FUNZIONE PACCIAMATURA O RACCOLTA 2-IN-1 - una semplice leva permette di sollevare le lame da 25mm a 80mm, mentre gli sfalci possono essere raccolti nella capiente sacca da 50L o pacciamati per apportare sostanze nutritive al prato
+- 2 BATTERIE AL LITIO 40V 2Ah DI NUOVA GENERAZIONE E MOTORE BRUSHLESS - il tosaerba è alimentato da batterie tecnologicamente avanzate che puoi utilizzare in qualsiasi attrezzo Greenworks da 40V per ridurre gli sprechi risparmiando spazio e denaro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B06WW7CLX3{{</world>}}

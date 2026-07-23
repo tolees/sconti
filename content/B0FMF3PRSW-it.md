@@ -28,11 +28,11 @@ average: '16.14'
 
 ℹ️:
 
-- Velocità di trasferimento fino a 100 MB/s: in base ai test interni, le prestazioni possono variare in base al dispositivo host, allinterfaccia, alle condizioni duso. 1 MB = 1 000 000 byte
-- Memoria di massa USB-C 2 in 1 OTG: Lexar JumpDrive Dual Drive D40E dispone di connettori USB di tipo A e di tipo C in una forma compatta e portatile per una facile compatibilità con i dispositivi
+- Plug and Play: Ampia compatibilità con i sistemi Windows, Android, Linux e Mac OS, non richiede linstallazione di software. Il connettore girevole a 360° permette di passare facilmente tra le connessioni senza problemi di perdita del connettore
 - Robusta e compatta: la chiavetta USB Lexar D40E ha una custodia in metallo, resiste a temperature da 0° a 50 °C (da 32°F a 122°F), pesa 26 g e misura 70,4 x 16,9 x 11,7 mm
 - Sicurezza e: Protegge i file in modo sicuro con un software di sicurezza avanzato con crittografia AES a 256 bit. Coperto da una garanzia limitata di 3 anni
-- Plug and Play: Ampia compatibilità con i sistemi Windows, Android, Linux e Mac OS, non richiede linstallazione di software. Il connettore girevole a 360° permette di passare facilmente tra le connessioni senza problemi di perdita del connettore
+- Velocità di trasferimento fino a 100 MB/s: in base ai test interni, le prestazioni possono variare in base al dispositivo host, allinterfaccia, alle condizioni duso. 1 MB = 1 000 000 byte
+- Memoria di massa USB-C 2 in 1 OTG: Lexar JumpDrive Dual Drive D40E dispone di connettori USB di tipo A e di tipo C in una forma compatta e portatile per una facile compatibilità con i dispositivi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FMF3PRSW{{</world>}}

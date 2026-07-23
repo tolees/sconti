@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Velocità a vuoto fino a 4.700 girimin
-- Lama da 150 mm per tagli fino a 45 mm di profondità a 90°
 - 18V ONE è la gamma di utensili a batteria progettata per tutte le necessità del fai-da-te e del giardinaggio. Ununica batteria per tutti i tuoi attrezzi
 - Semplice regolazione di profondità e inclinazione, senza lutlizzo di chiavi
+- Velocità a vuoto fino a 4.700 girimin
 - Potente sega circolare, ideale per tagli lunghi e profondi
+- Lama da 150 mm per tagli fino a 45 mm di profondità a 90°
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01N5OH8FT{{</world>}}

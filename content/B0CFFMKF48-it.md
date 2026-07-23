@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Numero di giocatori: 2-6 | Età consigliata: 10+ anni | Durata media: 30-45 min. | Edizione in italiano
-- Il periodo festivo non è mai stato così divertente, o così competitivo!
-- Contenuto: 6 plance Personaggio, 126 carte Personaggio, 12 carte Luogo, 1 carta Luogo di Mezzo, 136 segnalini Festa a due lati, 2 dadi Bau Bau, 1 segnalino Umore del Sindaco, 1 segnalino Indicatore Ricerca di Jack, 1 pedina Zucca, 1 indicatore Primo Giocatore Zero, 1 Regolamento
 - Impadronitevi delle Feste! Halloween o Natale? Sarete voi a deciderlo in questo gioco di carte veloce e strategico ambientato nel mondo del celebre film Nightmare Before Christmas di Tim Burton!
+- Numero di giocatori: 2-6 | Età consigliata: 10+ anni | Durata media: 30-45 min. | Edizione in italiano
+- Contenuto: 6 plance Personaggio, 126 carte Personaggio, 12 carte Luogo, 1 carta Luogo di Mezzo, 136 segnalini Festa a due lati, 2 dadi Bau Bau, 1 segnalino Umore del Sindaco, 1 segnalino Indicatore Ricerca di Jack, 1 pedina Zucca, 1 indicatore Primo Giocatore Zero, 1 Regolamento
+- I giocatori devono scegliere saggiamente il proprio personaggio e raccogliere segnalini Festa per ottenere la vittoria
 - Jack Skeletron e Babbo Natale stanno cercando i segnalini Natale, mentre il Bau Bau e il Dott. Finkelstein sono alla ricerca di segnalini Halloween. Il Sindaco e Sally, nel frattempo, sono felici di raccogliere segnalini di entrambe le feste
 - Ogni personaggio ha un mazzo di carte unico che corrisponde e completa la sua personalità
-- I giocatori devono scegliere saggiamente il proprio personaggio e raccogliere segnalini Festa per ottenere la vittoria
+- Il periodo festivo non è mai stato così divertente, o così competitivo!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CFFMKF48{{</world>}}

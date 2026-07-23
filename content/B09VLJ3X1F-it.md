@@ -28,10 +28,10 @@ average: '16.82'
 
 ℹ️:
 
+- MODO DUSO: Si consigliano 1-2 barrette al giorno a seconda dell’attività svolta e considerando le altre fonti proteiche apportate dalla dieta. Accompagnare con idonee assunzioni di acqua
 - ENERVIT: Formuliamo e produciamo soluzioni nutrizionali e di integrazione innovative con un preciso obiettivo: aiutare tutte le persone a migliorare la qualità della propria vita
 - BENEFICI: Ideale al termine dellallenamento. Vitamina D e Vitamina B6 contribuiscono al mantenimento della funzione muscolare, e del metabolismo di proteine e glicogeno
 - PROPRIETA: Contribuisce al normale metabolismo delle proteine e alla riduzione della stanchezza e dellaffaticamento
-- MODO DUSO: Si consigliano 1-2 barrette al giorno a seconda dell’attività svolta e considerando le altre fonti proteiche apportate dalla dieta. Accompagnare con idonee assunzioni di acqua
 - PROTEIN BAR 32% LEMON CAKE: Con 15 g di proteine e mix di vitamine. Copertura di cioccolato bianco e Gusto Lemon Cake. Senza glutine
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

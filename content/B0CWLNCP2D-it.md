@@ -31,8 +31,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 - ABBRACCIA LA VITA: Un gesto spontaneo ma allo stesso tempo potente che racchiude tutte le emozioni più autentiche, che ci arricchisce e ci fa stare bene. Sentiti sicuro con Borotalco di vivere il piacere dei momenti condivisi
 - BOROTALCO UOMO: Una linea pensata per luomo che cerca una protezione assoluta contro il sudore, grazie allunione del Talco a polveri assorbenti naturali e minerali per un efficacia di 72 ore
 - MODO DUSO: Formato Spray utile a nebulizzare il deodorante uniformemente sulla pelle. Applicare a una distanza di 15 cm. Lasciare asciugare prima di indossare abiti e non usare prodotto in eccesso
-- FRAGRANZA: Profumo Ambrato con note di tesa agrumate, sfaccetature ldi avanda e una base morbida di vaniglia e patchouli
 - CONFEZIONE: La confezione è composta da 4 flaconi di deodorante roll-on da 50 ml
+- FRAGRANZA: Profumo Ambrato con note di tesa agrumate, sfaccetature ldi avanda e una base morbida di vaniglia e patchouli
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CWLNCP2D{{</world>}}

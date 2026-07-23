@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- I giocatori devono esplorare le diverse ambientazioni per svelare indizi, risolvere rebus ed enigmi e raggiungere così la vittoria
-- Un gioco di carte collaborativo ispirato alle Escape Room: Unlock. vi consente di vivere questa esperienza comodamente a casa vostra
-- 3 diverse ambientazioni, 3 casi diversi: tante sfide, emozioni e colpi di scena
 - In Secret Adventures tre avventure: Una Storia di Noside, Tombstone Express e Gli Avventurieri di Oz
-- Gioco con app scaricabile gratuitamente per iOS e Android per rendere l’esperienza ancora più immersiva
 - Numero di giocatori: 1-6, Età consigliata: 10+, Durata media: 60 min., Edizione in lingua italiana
+- Un gioco di carte collaborativo ispirato alle Escape Room: Unlock. vi consente di vivere questa esperienza comodamente a casa vostra
+- I giocatori devono esplorare le diverse ambientazioni per svelare indizi, risolvere rebus ed enigmi e raggiungere così la vittoria
+- Gioco con app scaricabile gratuitamente per iOS e Android per rendere l’esperienza ancora più immersiva
+- 3 diverse ambientazioni, 3 casi diversi: tante sfide, emozioni e colpi di scena
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07C4NF4Q2{{</world>}}

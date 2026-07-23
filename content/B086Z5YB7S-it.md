@@ -28,11 +28,11 @@ average: '242.776'
 
 ℹ️:
 
-- TAGLIO SICURO E VELOCE - il motore brushless offre più potenza e durata pur mantenendo una velocità della catena di 12m/s per tagliare il legname in modo veloce ed efficiente. Per sicurezza, la catena si arresta istantaneamente se la motosega rincula
 - PRATICO OLIATORE AUTOMATICO - la lubrificazione automatica mantiene la lama ben lubrificata per un funzionamento ottimale senza doversi fermare a oliare. Inoltre, la finestra traslucida consente di controllare il livello dellolio nel serbatoio da 180ml
+- CON 2 BATTERIE AL LITIO 40V 2Ah DI NUOVA GENERAZIONE - per averne una in uso e laltra in carica. Queste batterie al litio evolute possono essere utilizzate con qualsiasi apparecchio Greenworks da 40V per ridurre gli sprechi risparmiando spazio e denaro
+- TAGLIO SICURO E VELOCE - il motore brushless offre più potenza e durata pur mantenendo una velocità della catena di 12m/s per tagliare il legname in modo veloce ed efficiente. Per sicurezza, la catena si arresta istantaneamente se la motosega rincula
 - POTENTE MOTOSEGA DA 35cm PER GRANDI GIARDINI - la motosega elettrica pesa solo 3,5kg ed è dotata di impugnature morbide comode ed ergonomiche e di una lama da 35cm che pota rami e taglia tronchi e piccoli alberi senza difficoltà
 - 3 ANNI DI GARANZIA CON 2 ANNI DI GARANZIA PER LA BATTERIA - Da Greenworks, leader mondiale negli attrezzi elettrici e della tecnologia a batterie, con una reputazione globale per design intelligente, prestazioni elevate e un servizio clienti eccezionale
-- CON 2 BATTERIE AL LITIO 40V 2Ah DI NUOVA GENERAZIONE - per averne una in uso e laltra in carica. Queste batterie al litio evolute possono essere utilizzate con qualsiasi apparecchio Greenworks da 40V per ridurre gli sprechi risparmiando spazio e denaro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B086Z5YB7S{{</world>}}

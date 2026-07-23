@@ -30,8 +30,8 @@ average: '30.2'
 
 - Chiusura con lacci
 - Punta con protezione
-- Tomaia in materiale sintetico
 - Fodera in tessuto
+- Tomaia in materiale sintetico
 - Calzata regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

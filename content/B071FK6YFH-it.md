@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- TRASFORMATORI LED: utilizzare speciali driver LED da 12 volt, poiché i trasformatori alogeni tradizionali possono causare sfarfallamenti e ridurre la durata delle lampadine.
-- SOSTENIBILITÀ: con questa lampadina con classe di efficienza energetica G, si risparmia il 85% di energia rispetto a un analogo spot alogeno. Oltre allelevato risparmio energetico, le lampadine LED greenandco sono prive di mercurio e non emettono raggi UV. Sono anche molto durature: la durata media è di 20.000 ore.
-- SICUREZZA DEL PRODOTTO: la sicurezza dei nostri prodotti è per noi una priorità assoluta. Le lampade greenandco soddisfano tutti gli standard nazionali ed europei pertinenti e sono testate da istituti indipendenti. Su richiesta, vi invieremo i certificati e i rapporti di prova.
-- APPLICAZIONE: Questo spot LED greenandco sostituisce i tradizionali faretti alogeni GU4/MR11 da 12V con una potenza di 30W. Langolo del fascio di luce è di 38° e rende la lampada ideale per lilluminazione daccento. La forma e le dimensioni corrispondono a quelle di uno spot alogeno convenzionale con diametro di 35 mm.
 - LUCE: Con un CRI > 90, questo faretto ha unottima resa cromatica. Il colore della luce di 3000K (bianco caldo) è ideale per gli spazi abitativi. La lampadina raggiunge la massima luminosità subito dopo laccensione ed è priva di sfarfallio se si utilizza il trasformatore appropriato.
+- TRASFORMATORI LED: utilizzare speciali driver LED da 12 volt, poiché i trasformatori alogeni tradizionali possono causare sfarfallamenti e ridurre la durata delle lampadine.
+- APPLICAZIONE: Questo spot LED greenandco sostituisce i tradizionali faretti alogeni GU4/MR11 da 12V con una potenza di 30W. Langolo del fascio di luce è di 38° e rende la lampada ideale per lilluminazione daccento. La forma e le dimensioni corrispondono a quelle di uno spot alogeno convenzionale con diametro di 35 mm.
+- SICUREZZA DEL PRODOTTO: la sicurezza dei nostri prodotti è per noi una priorità assoluta. Le lampade greenandco soddisfano tutti gli standard nazionali ed europei pertinenti e sono testate da istituti indipendenti. Su richiesta, vi invieremo i certificati e i rapporti di prova.
+- SOSTENIBILITÀ: con questa lampadina con classe di efficienza energetica G, si risparmia il 85% di energia rispetto a un analogo spot alogeno. Oltre allelevato risparmio energetico, le lampadine LED greenandco sono prive di mercurio e non emettono raggi UV. Sono anche molto durature: la durata media è di 20.000 ore.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B071FK6YFH{{</world>}}

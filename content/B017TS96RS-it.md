@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Stabile e affidabile - Tutte le parti sono migliorate, sono passati la verificazione BIFMA; il diametro della base da 5 piedi è 66 cm, anche la stabilità è verificata da SGS
+- Ingegnoso disegno - Meccanismo inclinabile non fissa, che è elastico obliquamente secondo vostro peso corporeo, è anche possibile bloccare il sedile e lo schienale alla posizione originale. Laltezza di seduta regolabile da 51 cm a 56 cm, tutte le viti sono anti-allentamento
 - Alta qualità - La copertura similpelle è di PU, facile da pulire; la seduta è imbottita da spugna di alta densità con buona elasticità, anche resistente a deformazione; rotelle di PU, basso rumore, non si usura pavimento, Le rotelle nella confezione di questo modello di sedia sono applicabili per quasi tutti i tipi di pavimento (mattonella, parquet, piastrelle di PVC, tapetto, ecc.)
 - Pezzi di sostituto - Viti e rotelle aggiuntive sono previste per sostituire. Tutte le viti sono confezionati e numerate, Il carico statico massimo è 150 kg
 - Disegn ergonomico - La curvatura adatta al corpo, Altezza totali: 112-122 cm, Altezza di schienale: 75 cm circa, Diametro di base: Φ 66 cm circa, Dimensioni di sedile: 53 cm × 51 cm (P × L), Altezza dei braccioli: 70-80 cm, rotazione 360°
-- Ingegnoso disegno - Meccanismo inclinabile non fissa, che è elastico obliquamente secondo vostro peso corporeo, è anche possibile bloccare il sedile e lo schienale alla posizione originale. Laltezza di seduta regolabile da 51 cm a 56 cm, tutte le viti sono anti-allentamento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B017TS96RS{{</world>}}

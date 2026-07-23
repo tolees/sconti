@@ -28,9 +28,9 @@ average: '1.61'
 
 ℹ️:
 
-- Tè Verde dalle piantagioni doriente. Ricerchiamo le condizioni ideali per la crescita rigogliosa delle nostre foglie di tè. Umidità, temperatura costante, altitudine privilegiata di 1000m, brillante colore dorato e note di verde.
-- Tè 100% proveniente dalle nostre piantagioni in Kenya. 100% tè nero dal Kenya. 100% ingredienti naturali. Le foglie di tè Lipton vengono raccolte ed essiccate sul posto. Il nostro tè proveniente dal Kenya ha un gusto ricco e aromatico.
 - Un tè sostenibile, 100% certificato Rainforest Alliance. Niente imballi di plastica! Le nostre confezioni sono interamente riciclabili: la carta proviene da foreste sostenibili.
+- Tè 100% proveniente dalle nostre piantagioni in Kenya. 100% tè nero dal Kenya. 100% ingredienti naturali. Le foglie di tè Lipton vengono raccolte ed essiccate sul posto. Il nostro tè proveniente dal Kenya ha un gusto ricco e aromatico.
+- Tè Verde dalle piantagioni doriente. Ricerchiamo le condizioni ideali per la crescita rigogliosa delle nostre foglie di tè. Umidità, temperatura costante, altitudine privilegiata di 1000m, brillante colore dorato e note di verde.
 - Niente imballi di plastica! Le nostre confezioni sono interamente riciclabili: la carta proviene da foreste sostenibili. I nostri filtri sono compostabili e quinid possono essere smaltiti come rifiuto umido nella raccolta differenziata.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

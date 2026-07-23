@@ -28,8 +28,8 @@ average: '45.115'
 
 ℹ️:
 
-- La Mini Express eroga caffè per due persone. Inserire sempre i due bicchierini quando si vuole preparare il caffè.
 - Mini Express e i bicchierini non sono adatti alla lavastoviglie
+- La Mini Express eroga caffè per due persone. Inserire sempre i due bicchierini quando si vuole preparare il caffè.
 - Bicchierini in ceramica da ciascuno. Vernice termocromica: a contatto con il colore, il biccherino cambia colore (da nero a rosso) e compaiono i dettagli del Sottosopra.
 - La Mini Express Stranger Things è uno dei must have della nuova Capsule Collection, un oggetto da collezione con un effetto dal sapore quasi soprannaturale. Grazie ai bicchierini termosensibili in ceramica che, a contatto con il calore della bevanda, cambiano colore svelando dettagli ispirati al mondo del Sottosopra, la tua pausa caffè sarà ancora più misteriosa e soprannaturale.
 

@@ -28,12 +28,12 @@ average: '6.99'
 
 ℹ️:
 
-- Design plug and play, per un utilizzo comodo e facile. Nota: sarà necessario un adattatore da USB tipo C a USB tipo A se il tuo computer ha solo porte USB tipo C
-- Mouse ottico cablato di dimensioni standard con impugnatura ergonomica, compatibile con Windows/Windows 10 e Mac OS
-- Dimensioni del mouse: 11 x 6 x 4 cm (lunghezza x larghezza x altezza); cavo USB-A da 2 metri collegato
-- Il design a 3 pulsanti consente un’usabilità dinamica, grazie ai pulsanti sinistro, destro e centrale (nella rotella), più la rotella di scorrimento
-- La sensibilità di 1000 DPI offre un controllo preciso
 - Clic silenzioso sui pulsanti sinistro/destro, per un utilizzo discreto in luoghi pubblici, riunioni o per lavorare fino a tardi
+- Mouse ottico cablato di dimensioni standard con impugnatura ergonomica, compatibile con Windows/Windows 10 e Mac OS
+- Design plug and play, per un utilizzo comodo e facile. Nota: sarà necessario un adattatore da USB tipo C a USB tipo A se il tuo computer ha solo porte USB tipo C
+- Il design a 3 pulsanti consente un’usabilità dinamica, grazie ai pulsanti sinistro, destro e centrale (nella rotella), più la rotella di scorrimento
+- Dimensioni del mouse: 11 x 6 x 4 cm (lunghezza x larghezza x altezza); cavo USB-A da 2 metri collegato
+- La sensibilità di 1000 DPI offre un controllo preciso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08P6FXKP9{{</world>}}

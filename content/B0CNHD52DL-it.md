@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Una versatile camicia con bottoni da indossare con jeans o chino
 - Disegnata con un taglio aderente e slanciato
+- Una versatile camicia con bottoni da indossare con jeans o chino
 - Rifinita con un logo discreto sul petto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

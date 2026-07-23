@@ -28,11 +28,11 @@ average: '249.0'
 
 ℹ️:
 
-- [GARANZIA] - La garanzia del prodotto è di 12 mesi dalla data di acquisto. Non copre dai danni accidentali, per eventuali resi contattare il venditore.
-- [SPECIFICHE TECNICHE] - 6 x USB-A 3.0, 4 x USB-A 2.0, Gb LAN, 2 x DisplayPort, HDMI, 2 x PS/2, Audio in, Audio out - 93 x 290 x 312 - Scheda grafica: Intel HD Graphics 530
-- [PRONTO ALLUSO] - Il Pc viene configurato da nostri tecnici esperti nel settore, installiamo Pacchetto Libre Office, Antivirus, Chrome, VLC, per rendere il portatile pronto alluso ed utilizzabile al primo avvio senza lausilio di un tecnico
 - [RIGENERATO] - Prodotto ricondizionato è stato professionalmente ispezionato, testato e pulito. Gli accessori potrebbero non essere originali, ma saranno compatibili e perfettamente funzionanti. Il prodotto potrebbe arrivare in una scatola generica.
+- [PRONTO ALLUSO] - Il Pc viene configurato da nostri tecnici esperti nel settore, installiamo Pacchetto Libre Office, Antivirus, Chrome, VLC, per rendere il portatile pronto alluso ed utilizzabile al primo avvio senza lausilio di un tecnico
 - [CARATTERISTICHE] - Computer Desktop Processore Intel i7-6700 4 Core 3.4 Ghz - Ram 16Gb SSD 512Gb - Win 11 - Chiavetta Wi-Fi inclusa
+- [SPECIFICHE TECNICHE] - 6 x USB-A 3.0, 4 x USB-A 2.0, Gb LAN, 2 x DisplayPort, HDMI, 2 x PS/2, Audio in, Audio out - 93 x 290 x 312 - Scheda grafica: Intel HD Graphics 530
+- [GARANZIA] - La garanzia del prodotto è di 12 mesi dalla data di acquisto. Non copre dai danni accidentali, per eventuali resi contattare il venditore.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GH7X7K9B{{</world>}}

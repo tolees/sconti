@@ -28,9 +28,9 @@ average: '23.45'
 
 ℹ️:
 
-- Vestibilità standard
 - Composizione materiale: 70% cotone, 30% poliestere
 - Maniche lunghe
+- Vestibilità standard
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CL7JJKM3{{</world>}}

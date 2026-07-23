@@ -28,11 +28,11 @@ average: '12.08'
 
 ℹ️:
 
-- [Ampiamente Compatibile]: UGREEN Caricatore USB supporta più protocolli di ricarica: PD 3.0, PPS, SCP, QC 3.0, Super Fast Charging 2.0, ecc. Compatibile non solo con dispositivi Samsung, ma anche con MacBook, iPhone, iPad, Pixel, Switch e molti altri.
 - [45W Super Fast Charging 2.0] : UGREEN Caricatore USB C 45W è dotato dellesclusivo protocollo di Samsung Super Fast Charging 2.0 , che può caricare lultimo Samsung S25 Ultra dallo 0 al 67% in soli 30 minuti, iphone 17 Pro max dallo 0 al 50% in soli 20 minuti
+- [Nota Importante]: UGREEN Caricatore 45W non include cavi. Si consiglia luso di cavi USB-C con chip E-Marker che supportano 5A di corrente. Luso di cavi non certificati può impedire lattivazione del protocollo Super Fast Charging 2.0 e della relativa animazione. Se il telefono è quasi carico o troppo caldo, l’animazione 2.0 potrebbe non apparire — è un comportamento normale.
+- [Ampiamente Compatibile]: UGREEN Caricatore USB supporta più protocolli di ricarica: PD 3.0, PPS, SCP, QC 3.0, Super Fast Charging 2.0, ecc. Compatibile non solo con dispositivi Samsung, ma anche con MacBook, iPhone, iPad, Pixel, Switch e molti altri.
 - [Massima Sicurezza con MultiProtect]: Grazie alla tecnologia di sicurezza MultiProtect,UGREEN Caricatore USB C monitora la temperatura 238 volte al secondo e utilizza materiali ignifughi VO. Include protezioni multiple contro sovratensione, sovracorrente e cortocircuito. La tua sicurezza è la nostra priorità.
 - [Compatto e Portatile con la Tecnologia GaN]: Grazie alla tecnologia GaN ad alta efficienza, UGREEN Alimentatore USB C misura solo 5 × 4 × 4 cm, pesa poco e si infila facilmente in tasca o nello zaino. Ideale per la casa, lufficio o in viaggio.
-- [Nota Importante]: UGREEN Caricatore 45W non include cavi. Si consiglia luso di cavi USB-C con chip E-Marker che supportano 5A di corrente. Luso di cavi non certificati può impedire lattivazione del protocollo Super Fast Charging 2.0 e della relativa animazione. Se il telefono è quasi carico o troppo caldo, l’animazione 2.0 potrebbe non apparire — è un comportamento normale.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DMNRGPB5{{</world>}}

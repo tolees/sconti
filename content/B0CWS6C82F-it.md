@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dermatologicamente testato, Senza ingredienti di origine animale
-- La sua formula vegana contiene il 92% di ingredienti derivati da materie prime di origine naturale
 - Spray termoprotettivo per lo styling dei capelli, sviluppato in collaborazione con Rossano Ferretti, Global Celebrity Hairstylist
+- La sua formula vegana contiene il 92% di ingredienti derivati da materie prime di origine naturale
+- Dermatologicamente testato, Senza ingredienti di origine animale
 - La sua texture leggera è arricchita con un complesso a base di acido ialuronico ed estratto di noce italiana di origine sostenibile
 - Offre una protezione termica fino a 230°C, contrasta leffetto crespo e aiuta a migliorare leffetto elettrostatico già dal primo trattamento
 

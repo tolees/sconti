@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- BALSAMO PER LABBRA MULTICONFEZIONE: idrata le labbra secche e risparmia con questo set di balsami per labbra dallottimo rapporto qualità-prezzo, contenente due balsami per labbra Burts Bees Beeswax, naturalmente nutrienti e di grande successo.
+- INGREDIENTI NUTRIENTI E DURI: arricchito con ingredienti potenti di origine naturale al 100%, tra cui cera dapi di provenienza responsabile, olio di cocco e burro di karité per nutrire e ammorbidire le labbra in profondità
 - RIPARAZIONE LABBRA: con una finitura opaca e una consistenza idratante, questi balsami per labbra lasciano le labbra morbide, lisce, sane ed elastiche
 - IDRATAZIONE PER TUTTO IL GIORNO: idrata e nutre intensamente le labbra secche con unidratazione che dura tutto il giorno ed evita che le labbra si secchino
-- INGREDIENTI NUTRIENTI E DURI: arricchito con ingredienti potenti di origine naturale al 100%, tra cui cera dapi di provenienza responsabile, olio di cocco e burro di karité per nutrire e ammorbidire le labbra in profondità
-- BALSAMO PER LABBRA MULTICONFEZIONE: idrata le labbra secche e risparmia con questo set di balsami per labbra dallottimo rapporto qualità-prezzo, contenente due balsami per labbra Burts Bees Beeswax, naturalmente nutrienti e di grande successo.
 - BURTS BEES LIP CARE: lottimo balsamo per labbra secche dal 1991
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Packaging: I flaconi sono realizzati da un’eccellenza del Made in Italy, Bormioli, tra i più importanti realizzatori di packaging di alta profumeria al mondo. L’ispirazione per la bottiglia e il design derivano dal Pantheon e dalle squisite qualità dei marmi che trasmettono la storia e il patrimonio incisi nelle strade di Roma.
 - Fragranza: La freschezza del Mediterraneo che seduce la forza degli elementi dei Tropici. Roma Uomo riproduce il classico senza tempo dell’uomo che esprime la sua forza nell’eleganza dei gesti, del pensiero, del portamento. È la classicità della natura che produce l’incontro di pompelmo rosa e mandarino
 - FAMIGLIA ALFATTIVA: Orientale - Legnosa NOTE DI TESTA pompelmo rosa mandarino basilico lauro NOTE DI CUORE geranio NOTE DI CODA cedro sandalo massoia ambra vaniglia muschio
 - Made in Italy: Le fragranze Laura Biagiotti sono un’icona in tutto il mondo. Prodotte interamente in Italia, rappresentano un segno di riconoscibilità del Made in Italy con un messaggio forte, unico e irresistibile legato all’arte e alla cultura italiana.
+- Packaging: I flaconi sono realizzati da un’eccellenza del Made in Italy, Bormioli, tra i più importanti realizzatori di packaging di alta profumeria al mondo. L’ispirazione per la bottiglia e il design derivano dal Pantheon e dalle squisite qualità dei marmi che trasmettono la storia e il patrimonio incisi nelle strade di Roma.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08VWXGQ8M{{</world>}}

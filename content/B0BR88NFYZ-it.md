@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- La tecnologia di macchine e capsule Caffitaly, che esaltano il gusto e l’aroma dei migliori caffè, incontra la passione e l’esperienza di Caffè Borbone per l’eccellenza dell’espresso napoletano; Al centro la volontà di offrire un’esperienza unica con tre imperdibili miscele in capsule da 8 grammi; Un’esperienza e un’offerta per il cliente Caffitaly mai provata prima
 - *Caffitaly è un marchio registrato di Caffitaly System S.p.A
 - Capsule Compatibili Caffitaly* con i seguenti modelli di macchine da caffè: Volta S35, Arka S33 evo, Iris S27, Clio S21, Bianca S22, Maia S33, Diadema S16
 - FORMATO: Confezione da 48 Capsule
-- La tecnologia di macchine e capsule Caffitaly, che esaltano il gusto e l’aroma dei migliori caffè, incontra la passione e l’esperienza di Caffè Borbone per l’eccellenza dell’espresso napoletano; Al centro la volontà di offrire un’esperienza unica con tre imperdibili miscele in capsule da 8 grammi; Un’esperienza e un’offerta per il cliente Caffitaly mai provata prima
 - MISCELA BLU: Ottenuta dalla selezione di miscele per un equilibrio perfetto tra corpo, persistenza e dolcezza; La miscela Blu si caratterizza per il suo sapore nobile, il carattere vigoroso e l’aroma intenso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

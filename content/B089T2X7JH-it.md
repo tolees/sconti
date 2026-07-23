@@ -28,8 +28,8 @@ average: '13.41'
 
 ℹ️:
 
-- UN VERO SPETTACOLO - Il tuo latte macchiato o cappuccino preparato con tanto amore avrà un aspetto davvero stupendo! Si libra nel tuo bicchiere, invitandoti formalmente ad abbandonarti al piacere. Daltronde, come ben si sa, anche locchio vuole la sua parte!
 - 100% IMPERMEABILI - Durante la produzione dei bicchieri termici, si forma un piccolo foro sul lato inferiore. A differenza di altri produttori, noi sigilliamo questo foro a prova di bomba per evitare che lacqua penetri nelle pareti divisorie durante il lavaggio.
+- UN VERO SPETTACOLO - Il tuo latte macchiato o cappuccino preparato con tanto amore avrà un aspetto davvero stupendo! Si libra nel tuo bicchiere, invitandoti formalmente ad abbandonarti al piacere. Daltronde, come ben si sa, anche locchio vuole la sua parte!
 - A -30 °C A +150 °C - Nel caso di variazioni della temperatura, il vetro borosilicato termoresistente si espande molto meno rispetto a quello convenzionale. Così potrai riempire i bicchieri con cocktail ghiacciati o tè bollente senza alcun problema.
 - PROTEGGE LE TUE MANI - Leffetto isolante della doppia parete protegge le tue mani dalle temperature calde/fredde. La temperatura iniziale della bevanda viene però mantenuta a lungo, permettendoti di gustarla con la massima calma.
 

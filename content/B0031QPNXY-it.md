@@ -28,11 +28,11 @@ average: '10.17'
 
 ℹ️:
 
-- Punta conica, morbida e flessibile, specificamente studiata per la superficie del CD e Dvd ed un elevato confort di scrittura
 - Inchiostro permanente, ad elevato potere coprente, inodore a base dacqua e senza solventi, specifico per la massima sicurezza dei dati
-- Resistente allo sfregamento e alla luce
+- Punta conica, morbida e flessibile, specificamente studiata per la superficie del CD e Dvd ed un elevato confort di scrittura
 - Cappuccio con comoda clip
 - Ideale anche per carta e come marcatore permanente universale
+- Resistente allo sfregamento e alla luce
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0031QPNXY{{</world>}}

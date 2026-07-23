@@ -29,10 +29,10 @@ average: '279.0'
 ℹ️:
 
 - 5 bruciatori
-- Dimensioni (l x a x p): 74 x 9 x 51 cm
 - Potenza totale: 12,5 kw
-- Bruciatore speciale doppia corona: può raggiungere una potenza fino a 4 kw con una maggiore efficienza rispetto ai bruciatori tradizionali; particolarmente adatto per le padelle di larghe dimensioni e permette di cucinare con precisione tutti i tipi di pietanze
 - Griglie in ghisa per una migliore trasmissione del calore e resistenza alle alte temperature
+- Bruciatore speciale doppia corona: può raggiungere una potenza fino a 4 kw con una maggiore efficienza rispetto ai bruciatori tradizionali; particolarmente adatto per le padelle di larghe dimensioni e permette di cucinare con precisione tutti i tipi di pietanze
+- Dimensioni (l x a x p): 74 x 9 x 51 cm
 - Piano in vetro temperato per un tocco di eleganza in più combinato con una lunga durata dei materiali e performance di alto livello
 - Sicurezza gas sicurflame/prodotto alimentato a gas metano/possibilità di alimentazione gpl
 

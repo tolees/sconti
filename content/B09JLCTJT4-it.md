@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Gonna midi in maglia a vita alta
 - Struttura a coste
 - Composizione materiale: 50% viscosa, 27% nylon, 23% poliestere
+- Gonna midi in maglia a vita alta
 - Elastico in vita
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

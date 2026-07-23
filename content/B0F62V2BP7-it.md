@@ -28,9 +28,9 @@ average: '7.95'
 
 ℹ️:
 
+- Tessuto resistente
 - Formato compatto per cancelleria
 - Chiusura con zip
-- Tessuto resistente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F62V2BP7{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Gin Tonic con ghiaccio abbondante, tonica premium e fetta di limone amalfitano: il classico italiano per eccellenza. Eccellente anche nel Tom Collins, nella Limonata Toscana e nel Gin Fizz.
-- Profilo sensoriale: cristallino luminoso; naso vivace di limone fresco, ginepro e coriandolo; palato agrumato e rinfrescante; finale lungo con persistenza di limone e spezie leggere.
 - Distillazione a bassa temperatura: Malfy usa il freddo per preservare intatti gli oli essenziali della scorza dei limoni amalfitani, garantendo una freschezza aromatica che la distillazione tradizionale non consentirebbe.
+- Profilo sensoriale: cristallino luminoso; naso vivace di limone fresco, ginepro e coriandolo; palato agrumato e rinfrescante; finale lungo con persistenza di limone e spezie leggere.
 - Limoni IGP della Costiera Amalfitana: coltivati sulle terrazze del patrimonio UNESCO costiero, i limoni più aromatici dItalia portano nel gin oli essenziali di intensità e freschezza irraggiungibili con altre varietà.
 - Curiosità: i limoni della Costiera Amalfitana vengono coltivati con la tecnica della pergola, un sistema di tralicci in legno che eleva le piante sopra i terrazzamenti rocciosi per proteggere i frutti dal vento di mare, una pratica agricola invariata da oltre 2.000 anni risalente allepoca romana.
+- Gin Tonic con ghiaccio abbondante, tonica premium e fetta di limone amalfitano: il classico italiano per eccellenza. Eccellente anche nel Tom Collins, nella Limonata Toscana e nel Gin Fizz.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01E3T6C6Y{{</world>}}

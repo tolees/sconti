@@ -29,8 +29,8 @@ average: '57.54'
 ℹ️:
 
 - Costruzioni di assemblaggio illustrate
-- Il modello contiene 754 elementi
 - Compatibile con altre marche
+- Il modello contiene 754 elementi
 - Elezioni costitutivi realizzate in UE
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

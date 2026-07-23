@@ -28,11 +28,11 @@ average: '19.28'
 
 ℹ️:
 
+- BASIC SUPPLEMENT: La creatina è un integratore di base molto apprezzato e si combina idealmente con altri prodotti, ad esempio L-citrullina, L-glutammina, taurina, L-tirosina, L-arginina o AAKG. In questo modo può essere integrata in modo flessibile nella routine quotidiana di integrazione.
 - DA SPORTIVI PER SPORTIVI: Dal 2016 German Elite Nutrition produce integratori alimentari di alta qualità con gli standard tipici dei marchi tedeschi. I nostri prodotti nascono da materie prime selezionate secondo rigorosi standard qualitativi e sono sviluppati ponendo laccento su affidabilità e purezza.
+- CREATINA MONOIDRATO MICROFINE: Ogni busta contiene 1000 g di creatina monoidrato in qualità microfine. La confezione XXL di scorta offre circa 293 porzioni da 3,4 g. Grazie al fattore mesh 200, la polvere si scioglie particolarmente bene in acqua, succhi o frullati ed è ideale per un’assunzione quotidiana semplice.
 - SOLUBILITÀ & DOSAGGIO: La porzione giornaliera raccomandata è di 3,4 g di creatina monoidrato (equivalenti a 3 g di creatina). Grazie alla qualità microfine, la polvere si scioglie facilmente in acqua o frullati. Il misurino incluso consente un dosaggio semplice e pratico.
 - LA NOSTRA FILOSOFIA: Crediamo che la vera qualità inizi con la cura. Per questo sviluppiamo i nostri prodotti con processi di produzione responsabili e ingredienti rigorosamente selezionati. Ogni prodotto GEN rappresenta trasparenza, fiducia e sostenibilità – un supporto affidabile per la tua vita quotidiana.
-- BASIC SUPPLEMENT: La creatina è un integratore di base molto apprezzato e si combina idealmente con altri prodotti, ad esempio L-citrullina, L-glutammina, taurina, L-tirosina, L-arginina o AAKG. In questo modo può essere integrata in modo flessibile nella routine quotidiana di integrazione.
-- CREATINA MONOIDRATO MICROFINE: Ogni busta contiene 1000 g di creatina monoidrato in qualità microfine. La confezione XXL di scorta offre circa 293 porzioni da 3,4 g. Grazie al fattore mesh 200, la polvere si scioglie particolarmente bene in acqua, succhi o frullati ed è ideale per un’assunzione quotidiana semplice.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FHH57HKS{{</world>}}

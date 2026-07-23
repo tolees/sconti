@@ -28,10 +28,10 @@ average: '6.19'
 
 ℹ️:
 
+- Richiudibile
+- Confezionato in atmosfera protettiva per la freschezza.
 - Indicazioni sul riciclaggio (Vedere retro della confezione)
 - Alto contenuto di fibre.
-- Confezionato in atmosfera protettiva per la freschezza.
-- Richiudibile
 - Adatto per diete vegetariane e vegane.
 - Perfetto per uno spuntino
 

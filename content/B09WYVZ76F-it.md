@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Disponibile in unampia gamma di fragranze
-- Utilizzalo con il diffusore di fragranza Millefiori Milano e con i bastoncini di ricambio (venduti separatemente) per profumare ogni stanza con una fragranza vivace e aggiungi un tocco moderno al tuo décor.
-- Questa elegante combinazione fonde riflessi leggermente salati con ricche sfumature ispirate al miele. La sontuosa dolcezza delle note che richiamano il miele è delicatamente esaltata dagli accordi che evocano il sale in cristalli, per svelare le sue molteplici sfaccettature. Questa fragranza ambrata aiuta a valorizzare il classico miele nel modo più sofisticato.
 - Una pratica soluzione per ricaricare il tuo diffusore di fragranza per ambienti con la tua fragranza Millefiori preferita.
+- Questa elegante combinazione fonde riflessi leggermente salati con ricche sfumature ispirate al miele. La sontuosa dolcezza delle note che richiamano il miele è delicatamente esaltata dagli accordi che evocano il sale in cristalli, per svelare le sue molteplici sfaccettature. Questa fragranza ambrata aiuta a valorizzare il classico miele nel modo più sofisticato.
+- Utilizzalo con il diffusore di fragranza Millefiori Milano e con i bastoncini di ricambio (venduti separatemente) per profumare ogni stanza con una fragranza vivace e aggiungi un tocco moderno al tuo décor.
 - Questa profumata fragranza per diffusore è parte della collezione Millefiori Milano, nella quale colore e luminosità si fondono per creare unatmosfera personale in ogni ambiente.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

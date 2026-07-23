@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Nuova omologazione ECE 2206
 - LS2 presenta il casco moto modulare STROBE II in policarbonato KPA per un peso di 1700 +/- 50 gr (M-L) Visibilità : Protezione solare trattata anti-UV e anti-graffio Preparato per ricevere il Pinlock 70
+- Nuova omologazione ECE 2206
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C7VX62T2{{</world>}}

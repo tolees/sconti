@@ -28,8 +28,8 @@ average: '18.98'
 
 ℹ️:
 
-- rashguard
 - Camicia Surf
+- rashguard
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08C9GKV97{{</world>}}

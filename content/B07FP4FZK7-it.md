@@ -28,9 +28,9 @@ average: '12.52'
 
 ℹ️:
 
-- Tourist
-- The
 - No
+- The
+- Tourist
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07FP4FZK7{{</world>}}

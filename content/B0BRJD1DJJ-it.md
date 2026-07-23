@@ -29,10 +29,10 @@ average: '12.16'
 ℹ️:
 
 - MARCHIO DI QUALITÀ - Tutti i prodotti gloryfeel sono realizzati in Germania seguendo i più alti standard qualitativi e sono sottoposti a severi controlli di qualità, nonché a regolari test effettuati da laboratori di analisi accreditati certificati secondo la norma DIN EN ISO/IEC 17025.
-- QUALITÀ PREMIUM, SENZA ADDITIVI - Le nostre capsule di creatina sono prodotte senza additivi artificiali o ingegneria genetica. Non contengono stearato di magnesio, agenti antiagglomeranti o aromi. Senza glutine e vegano.
-- CREATINA INTEGRATORE IN CAPSULE - La nostra creatina è un integratore energizzante per supportare le funzioni fisiche e muscolari* durante i tuoi workout. Con la dose giornaliera di 4 capsule al giorno apporti al tuo organismo 3.412 mg di creatina monoidrato, di cui 3.000 mg di creatina.
-- I BENEFICI DELLA CREATINA - Secondo lEFSA (Autorità Europea per la Sicurezza Alimentare), la creatina incrementa le prestazioni fisiche in caso di attività ripetitive, di elevata intensità e di breve durata*.
 - CREATINA AD ALTO DOSAGGIO - Le nostre capsule di creatina supportano il metabolismo energetico. La creatina, infatti, è un amminoacido naturalmente presente nel corpo a livello muscolare.
+- QUALITÀ PREMIUM, SENZA ADDITIVI - Le nostre capsule di creatina sono prodotte senza additivi artificiali o ingegneria genetica. Non contengono stearato di magnesio, agenti antiagglomeranti o aromi. Senza glutine e vegano.
+- I BENEFICI DELLA CREATINA - Secondo lEFSA (Autorità Europea per la Sicurezza Alimentare), la creatina incrementa le prestazioni fisiche in caso di attività ripetitive, di elevata intensità e di breve durata*.
+- CREATINA INTEGRATORE IN CAPSULE - La nostra creatina è un integratore energizzante per supportare le funzioni fisiche e muscolari* durante i tuoi workout. Con la dose giornaliera di 4 capsule al giorno apporti al tuo organismo 3.412 mg di creatina monoidrato, di cui 3.000 mg di creatina.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BRJD1DJJ{{</world>}}

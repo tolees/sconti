@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Numero di cifre/righe 17/1+10/1
 - Calcolatrice scientifica con oltre 290 funzioni progettate per la Scuola
-- Display naturale LCD ad alta risoluzione con 192 x 63 pixel a 4 livelli di grigio e menù a icone
 - Codice QR per proseguire calcoli su PC
 - 10 cifre in mantissa e 2 in esponente
-- Numero di cifre/righe 17/1+10/1
+- Display naturale LCD ad alta risoluzione con 192 x 63 pixel a 4 livelli di grigio e menù a icone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C4FHW24V{{</world>}}

@@ -29,10 +29,10 @@ average: '26.5'
 ℹ️:
 
 - La fragranza si apre con note frizzanti di mandarino e pera; nel cuore, ribes nero e fiore di frangipani si fondono con lesclusivo Fiore dOrmond; fava tonka, cashmeran e patchouli lasciano una sillage indimenticabile
-- Leau de parfum da donna si presenta in un flacone rotondo scolpito come un prezioso gioiello, ornato da una delicata corolla di fiori verde anice e sormontato da un tappo dorato, come un fiore che sboccia
-- Ispirata alla vivacità di spirito e alla gioia di vivere della donna moderna, Girl of Now Lovely è uninconfondibile fragranza floreale gourmand che sprizza una giovinezza radiosa e promette una straordinaria avventura
-- Una fragranza Elie Saab che esprime lo spirito contemporaneo della nuova generazione al femminile: spontanea, giocosa e spensierata, col suo gruppo di amiche inseparabili la ragazza Girl of Now non passa mai inosservata
 - Creato in esclusiva per Elie Saab, il Fiore dOrmond è una nota inconfondibile che rivela preziose sfaccettature golose per una sensazione soave, seducente e vellutata
+- Leau de parfum da donna si presenta in un flacone rotondo scolpito come un prezioso gioiello, ornato da una delicata corolla di fiori verde anice e sormontato da un tappo dorato, come un fiore che sboccia
+- Una fragranza Elie Saab che esprime lo spirito contemporaneo della nuova generazione al femminile: spontanea, giocosa e spensierata, col suo gruppo di amiche inseparabili la ragazza Girl of Now non passa mai inosservata
+- Ispirata alla vivacità di spirito e alla gioia di vivere della donna moderna, Girl of Now Lovely è uninconfondibile fragranza floreale gourmand che sprizza una giovinezza radiosa e promette una straordinaria avventura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B4JQS1Y9{{</world>}}

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Contenitore costituito per il 58% da materiale di origine vegetale
 - Il tappo a vite previene l’essiccazione della colla
 - Formulazione della colla costituita per il 98% da ingredienti naturali (acqua inclusa).
+- Contenitore costituito per il 58% da materiale di origine vegetale
 - Rapida, forte e resistente e facile applicazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

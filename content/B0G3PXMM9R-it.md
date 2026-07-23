@@ -28,11 +28,11 @@ average: '34.9'
 
 ℹ️:
 
-- GERARDO CESARI: Fondata nel 1936 da Gerardo Cesari, l’azienda vitivinicola è riconosciuta nel panorama internazionale come sinonimo di vini veronesi e pioniera nell’esportazione dell’Amarone negli Stati Uniti (1973). Il cuore pulsante di Cesari batte nella provincia di Verona, tra le due cantine di Fumane, nel cuore della Valpolicella Classica, e Cavaion Veronese, vicino alle rive del Lago di Garda.
-- VISITA IN CANTINA E DEGUSTAZIONE: La tua esperienza Cesari continua nella nostra cantina di Fumane, nella Valpolicella Classica. Visita il nostro fruttaio, tempio dellappassimento, per poi scoprire i segreti della nostra cantina e la magia che dà vita alla nostra Anima Contemporanea. Degusta infine tre vini iconici firmati Cesari a scelta tra i rossi della Valpolicella della linea Classics oppure i bianchi del Garda della linea Centofilari. Esperienza valida per 2 persona.
-- CESARI CONFEZIONE REGALO CON ESPERIENZA: Contiene una "gift card" Cesari per unesclusivo percorso immersivo dedicato a 2 persone e 1 bottiglia da 750 ml di Amarone della Valpolicella DOCG Classico 15% vol. Lesperienza comprende una visita in cantina, seguita da una degustazione di tre vini iconici firmati Cesari. Valido fino al 31.12.2026.
 - CESARI AMARONE DELLA VALPOLICELLA DOCG CLASSICO: Vino dal colore rosso porpora intenso, ottenuto da uve 75% Corvina Veronese, 20% Rondinella e 5% Negrara/Rossignola, gradazione 15% vol.
+- VISITA IN CANTINA E DEGUSTAZIONE: La tua esperienza Cesari continua nella nostra cantina di Fumane, nella Valpolicella Classica. Visita il nostro fruttaio, tempio dellappassimento, per poi scoprire i segreti della nostra cantina e la magia che dà vita alla nostra Anima Contemporanea. Degusta infine tre vini iconici firmati Cesari a scelta tra i rossi della Valpolicella della linea Classics oppure i bianchi del Garda della linea Centofilari. Esperienza valida per 2 persona.
 - FORMATO: Elegante confezione regalo con una "gift card" Cesari valido per 2 persona e 1 bottiglia da 750 ml.
+- GERARDO CESARI: Fondata nel 1936 da Gerardo Cesari, l’azienda vitivinicola è riconosciuta nel panorama internazionale come sinonimo di vini veronesi e pioniera nell’esportazione dell’Amarone negli Stati Uniti (1973). Il cuore pulsante di Cesari batte nella provincia di Verona, tra le due cantine di Fumane, nel cuore della Valpolicella Classica, e Cavaion Veronese, vicino alle rive del Lago di Garda.
+- CESARI CONFEZIONE REGALO CON ESPERIENZA: Contiene una "gift card" Cesari per unesclusivo percorso immersivo dedicato a 2 persone e 1 bottiglia da 750 ml di Amarone della Valpolicella DOCG Classico 15% vol. Lesperienza comprende una visita in cantina, seguita da una degustazione di tre vini iconici firmati Cesari. Valido fino al 31.12.2026.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0G3PXMM9R{{</world>}}

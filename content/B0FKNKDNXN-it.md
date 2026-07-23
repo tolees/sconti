@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - DESIGN ELEGANTE: completa la tua postazione di lavoro con un monitor dal design elegante, senza cornici su tre lati e con inclinazione regolabile
 - MONITOR 27" FHD IPS: immergiti in colori brillanti e immagini nitide da qualsiasi angolo di visione con lo schermo Full HD (1920x1080)
-- REFRESH RATE 120HZ: lavora e gioca con unelevata fluidità grazie alla frequenza di aggiornamento a 120Hz
 - HDR 10 E sRGB 99%: goditi colori vividi e realistici con la copertura al 99% dello spazio colore sRGB e la compatibilità HDR 10
+- REFRESH RATE 120HZ: lavora e gioca con unelevata fluidità grazie alla frequenza di aggiornamento a 120Hz
 - CONNESSIONI: 1x HDMI, 1x D-Sub (VGA) e Uscita cuffie (AUX 3.5mm) a tua disposizione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

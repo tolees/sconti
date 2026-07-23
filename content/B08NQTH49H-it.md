@@ -29,10 +29,10 @@ average: '17.9'
 ℹ️:
 
 - Profilo sensoriale: caffè dal gusto corposo grazie alle note intense che ne caratterizzano la tostatura medio scura. Predomina laroma di spezie e cacao amaro
-- Intensità: 12
 - Made in Italy: Gruppo Gimoka - Caffè per passione sin dagli anni 80, si impegna attivamente per sviluppare soluzioni di packaging facilmente riciclabili, compostabili ed ecosostenibili
-- Formato: 100 capsule in alluminio salva aroma, per preservare tutta la freschezza del caffè
 - Miscela: contiene Arabica dal Brasile e la robusta dal Vietnam e Uganda
+- Intensità: 12
+- Formato: 100 capsule in alluminio salva aroma, per preservare tutta la freschezza del caffè
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08NQTH49H{{</world>}}

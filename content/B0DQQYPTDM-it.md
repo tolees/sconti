@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Ancient Memories shine like a gem! – After meeting certain in-game conditions, you gain access to Ancient Memories, which displays a book encrusted with gems that light up with each good ending achieved. Unlock all the good endings to experience the ancient memories hidden in the magic sword!
 - Love blooms on the battlefield on the go! – Previously released in Japan on PS Vita in 2014, Western fans can finally experience this hidden otome gem and witness Lans journey as the Maiden of the Cursed Sword on the Nintendo Switch.
+- Ancient Memories shine like a gem! – After meeting certain in-game conditions, you gain access to Ancient Memories, which displays a book encrusted with gems that light up with each good ending achieved. Unlock all the good endings to experience the ancient memories hidden in the magic sword!
 - Explore New Frontiers and Nirvana! – With Map Exploration, players can freely explore two maps: the Royal Capital Frontier and the Nirvana School, where Lan can interact with characters. Learn information about characters only available during Map Exploration.
 - Chronicles of the Maiden of the Cursed Sword – Chronicle mode helps you keep track of your current route, note missing paths, backtrack to find all the endings, or just replay your favorite scenes! In Chronicle mode, you can select previously played scenes to start the game from any point youve played through in your current route!
 

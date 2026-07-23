@@ -28,11 +28,11 @@ average: '25.4883333333333'
 
 ℹ️:
 
-- Capacità di riempimento: 778 L
-- Contenuto: 1 piscina, 1 toppa di riparazione rinforzata
-- Dimensioni: 2,62 m x 1,57 m x 51 cm
-- Struttura a 2 anelli gonfiabili di pari dimensioni
 - Motivo a rilievo color azzurro sulle pareti esterne
+- Capacità di riempimento: 778 L
+- Dimensioni: 2,62 m x 1,57 m x 51 cm
+- Contenuto: 1 piscina, 1 toppa di riparazione rinforzata
+- Struttura a 2 anelli gonfiabili di pari dimensioni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07TQRG29R{{</world>}}

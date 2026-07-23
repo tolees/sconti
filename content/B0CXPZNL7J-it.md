@@ -29,9 +29,9 @@ average: '3.59'
 ℹ️:
 
 - Per pelli miste
-- 0% siliconi, SLES, PEG. Formula vegan, prodotto testato Nichel, Cobalto, Cromo.
-- Subito dopo luso la pelle è levigata e la dimensione dei pori visibili è ridotta
 - Test clinico su 20 soggetti: valutazione strumentale. La sua formula è adatta per levigare la pelle e ridurre la dimensioni dei pori visibili.
+- Subito dopo luso la pelle è levigata e la dimensione dei pori visibili è ridotta
+- 0% siliconi, SLES, PEG. Formula vegan, prodotto testato Nichel, Cobalto, Cromo.
 - Certificato COSMOS ORGANIC. Approvato dai dermatologi AIDECO.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

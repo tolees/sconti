@@ -28,9 +28,9 @@ average: '39.92'
 
 ℹ️:
 
+- Vestibilità comoda
 - Un capo ottimamente versatile
 - In morbido pile spazzolato
-- Vestibilità comoda
 - Per chi ama il vintage: abbiamo scelto la tintura in capo per donare un irresistibile effetto vissuto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

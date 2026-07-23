@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dementor
-- Noble collection
 - Un idea regalo originale
 - Perfetto per i veri amanti della celebre saga di harry potter
+- Dementor
+- Noble collection
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01M5GWB2I{{</world>}}

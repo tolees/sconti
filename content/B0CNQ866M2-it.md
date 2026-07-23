@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - La confezione da 200 grammi contiene 4 porzioni da 2 pancake ciascuna ed è realizzata con carta certificata FSC conferibile nella raccolta differenziata
-- Scaldali in padella o nel microonde, poi libera la creatività in cucina; provali con sciroppo d’acero o confetture oppure personalizza la tua colazione con tante ricette golose
 - Inizia la giornata con più energia con i pancake Protein: ricchi di proteine (18 grammi su 100g) e con -55% di zuccheri rispetto alla media delle merendine più vendute (Fonte: UnioneItalianaFood.it)
+- Scaldali in padella o nel microonde, poi libera la creatività in cucina; provali con sciroppo d’acero o confetture oppure personalizza la tua colazione con tante ricette golose
 - La linea Protein mette al servizio del tuo benessere i benefici delle proteine senza rinunciare al gusto!
 - Un mix esclusivo di proteine che contribuiscono al mantenimento della massa muscolare, nell’ambito di una dieta varia ed equilibrata e uno stile di vita sano
 

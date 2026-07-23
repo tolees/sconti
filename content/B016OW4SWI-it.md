@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- CAFFE IN GRANI: Dedicato a chi gusta il caffè fin dalla sua preparazione, curandone anche il grado di macinatura. Si tratta di un vero e proprio viaggio alla scoperta dell’aroma del blend 100% Arabica illy
-- GUSTO: Il caffè è 100% arabica, adatto per gli amanti del caffè dal gusto morbido
-- CLASSICO: ll profilo di tostatura CLASSICO si caratterizza per delicate note di caramello, fiori darancio, gelsomino e un retrogusto dolce
-- IL NOSTRO IMPEGNO: Selezioniamo solo l’1% dei chicchi di Arabica per garantire zero difetti nella nostra tazzina, grazie alle relazioni instaurate generazione dopo generazione con i coltivatori
 - FORMATO: Il barattolo contiene 250g di caffè in grani tostato CLASSICO. Il processo di pressurizzazione permette di mantenere gli aromi del blend all’interno del barattolo illy
+- GUSTO: Il caffè è 100% arabica, adatto per gli amanti del caffè dal gusto morbido
+- IL NOSTRO IMPEGNO: Selezioniamo solo l’1% dei chicchi di Arabica per garantire zero difetti nella nostra tazzina, grazie alle relazioni instaurate generazione dopo generazione con i coltivatori
+- CLASSICO: ll profilo di tostatura CLASSICO si caratterizza per delicate note di caramello, fiori darancio, gelsomino e un retrogusto dolce
+- CAFFE IN GRANI: Dedicato a chi gusta il caffè fin dalla sua preparazione, curandone anche il grado di macinatura. Si tratta di un vero e proprio viaggio alla scoperta dell’aroma del blend 100% Arabica illy
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B016OW4SWI{{</world>}}

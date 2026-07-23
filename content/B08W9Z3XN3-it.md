@@ -29,12 +29,12 @@ average: '261.218333333333'
 ℹ️:
 
 - Le lame di alta qualità del tagliasiepi sono realizzate in acciaio tagliato al laser e diamantato. Inoltre, lutensile multifunzione dispone di barra e catena OREGON.
-- Lutensile multifunzione presenta un motore brushless di Einhell, ovvero un motore elettrico senza spazzole più resistente e potente dei tradizionali motori a spazzole di carbone.
 - Lutensile multifunzione a batteria GE-LM 36/4in1 Li-Solo Einhell è un membro della famiglia PXC di Einhell.Lapparecchio unisce una motosega, un tagliasiepi, un decespugliatore e una lama a 3 denti.
 - La motosega lavora ad una velocità di 10 metri al secondo, il decespugliatore a 2.400 rotazioni al minuto. Grazie allasta di prolunga è possibile tagliare anche le siepi e i rami più alti.
+- Lutensile multifunzione è facile da utilizzare grazie allimpugnatura aggiuntiva regolabile e alla tracolla.Il serbatoio dellolio garantisce la lubrificazione automatica della catena.
 - Fornito senza batterie e caricabatteria, da acquistare separatamente (es. con il pratico Starter Kit).Sono necessarie 2 batterie Power X-Change da 18 Volt.
 - La testina del tagliasiepi è inclinabile in 7 posizioni, la bobina del decespugliatore ha una testina automatica a pressione e lutensile multifunzione dispone di una lama a 3 denti di alta qualità.
-- Lutensile multifunzione è facile da utilizzare grazie allimpugnatura aggiuntiva regolabile e alla tracolla.Il serbatoio dellolio garantisce la lubrificazione automatica della catena.
+- Lutensile multifunzione presenta un motore brushless di Einhell, ovvero un motore elettrico senza spazzole più resistente e potente dei tradizionali motori a spazzole di carbone.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08W9Z3XN3{{</world>}}

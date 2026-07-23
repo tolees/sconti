@@ -28,9 +28,9 @@ average: '83.99'
 
 ℹ️:
 
-- Stile retrò
 - Scarpe da basket
 - Ammortizzazione
+- Stile retrò
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08Q8SCV1B{{</world>}}

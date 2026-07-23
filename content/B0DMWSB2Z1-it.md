@@ -28,10 +28,10 @@ average: '43.665'
 
 ℹ️:
 
-- Scollo rotondo
 - 35% Viscosa 35% Poliammide 30% Lana
-- Maglione
 - Ricamo
+- Scollo rotondo
+- Maglione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DMWSB2Z1{{</world>}}

@@ -29,10 +29,10 @@ average: '31.2328571428572'
 ℹ️:
 
 - FACILE E PRATICO DA USARE: Aprire i peli alla base del collo, sul dorso dellanimale, tra le scapole, e mettere in evidenza la pelle; porre lapice della pipetta sulla pelle e schiacciare la pipetta fino a completo svuotamento, in un punto, direttamente sulla pelle
+- Se correttamente conservato, si può iniziare il trattamento con Frontline in qualsiasi momento fino alla data di scadenza riportata in etichetta (che indica l’ultimo giorno di quel mese), a cui si aggiunge il periodo di attività del medicinale, che inizia dal momento in cui il contenuto del prodotto viene applicato all’animale.
+- FRONTLINE Combo Gatti. TRATTAMENTO OTTIMALE: elimina in modo rapido e duraturo pulci, zecche, pidocchi nel gatto e nel furetto; protegge anche l’ambiente in cui vivono ed evita nuove infestazioni
 - DURATA: ununica applicazione protegge per 1 mese
 - FORMATO: Confezione da 6 Pipette per gatti, gattini e furetti
-- FRONTLINE Combo Gatti. TRATTAMENTO OTTIMALE: elimina in modo rapido e duraturo pulci, zecche, pidocchi nel gatto e nel furetto; protegge anche l’ambiente in cui vivono ed evita nuove infestazioni
-- Se correttamente conservato, si può iniziare il trattamento con Frontline in qualsiasi momento fino alla data di scadenza riportata in etichetta (che indica l’ultimo giorno di quel mese), a cui si aggiunge il periodo di attività del medicinale, che inizia dal momento in cui il contenuto del prodotto viene applicato all’animale.
 - DATA SCADENZA E ULTERIORI DETTAGLI: Scadenza riportata al lato della confezione; e ben tollerato da adulti e gattini dalle 8 settimane di vita o peso superiore a 1 Kg; non utilizzare il prodotto in furetti di età inferiore ai 6 mesi; il prodotto può essere utilizzato nei gatti durante la gravidanza; per ogni ulteriore informazione consultare le indicazioni riportate sulla scatola
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

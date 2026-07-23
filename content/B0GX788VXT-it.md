@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Edizione in Italiano
+- Troverai anche due buste di espansione assortite del GCC Pokémon (ogni busta di espansione contiene 10 carte, una carta Energia base e una carta codice per il GCC Pokémon Live. Le carte variano a seconda delle buste).
 - Festeggia 30 anni di primi compagni d’avventura con la collezione illustrazione Primi compagni d’avventura - Serie 2 del GCC Pokémon.
 - Ti aspetta inoltre un coloratissimo foglio con nove adesivi che mettono in mostra i primi compagni d’avventura!
 - Un fantastico regalo per collezionisti e giocatori che arricchirà di carte eccezionali la tua raccolta.
-- Troverai anche due buste di espansione assortite del GCC Pokémon (ogni busta di espansione contiene 10 carte, una carta Energia base e una carta codice per il GCC Pokémon Live. Le carte variano a seconda delle buste).
 - Questa collezione contiene una busta di espansione che include tre delle nove possibili carte promozionali in stile rara illustrazione dedicate ai primi compagni d’avventura di Johto, Unima e Galar.
+- Edizione in Italiano
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GX788VXT{{</world>}}

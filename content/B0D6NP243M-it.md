@@ -28,9 +28,9 @@ average: '27.8'
 
 ℹ️:
 
+- Shadow evoluto: Sfrutta i nuovi poteri di Doom di Shadow per combattere orde di nemici e affrontare inedite sfide su piattaforma. Surfa sullacqua, supera gli ostacoli e ferma il tempo col ritorno del Chaos Control!
 - Un viaggio attraverso il tempo e le dimensioni: Rivivi i livelli delle passate avventure di Shadow e sfreccia attraverso le strabilianti fasi in 3D e 2D, distorte dallinfluenza di Black Doom, mentre Shadow cerca di ricomporre il tempo e sventare il suo piano malefico.
 - Il ritorno di Shadow: gioca un’intera campagna nei panni di Shadow per approfondire il suo oscuro passato e affronta nemici familiari per salvare il mondo e dimostrare perché è considerato la forma di vita più potente.
-- Shadow evoluto: Sfrutta i nuovi poteri di Doom di Shadow per combattere orde di nemici e affrontare inedite sfide su piattaforma. Surfa sullacqua, supera gli ostacoli e ferma il tempo col ritorno del Chaos Control!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D6NP243M{{</world>}}

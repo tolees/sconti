@@ -28,11 +28,11 @@ average: '65.7'
 
 ℹ️:
 
-- 【Design Silenzioso della Pompa ad Alta Efficienza】 La pompa da 2600 RPM garantisce una circolazione del liquido a basso rumore (15 dBA) mantenendo un raffreddamento ottimale per carichi di lavoro esigenti o overclocking.
-- 【Potenza di Raffreddamento Premium con Supporto TDP da 315W】 Utilizza un radiatore in alluminio da 27 mm di spessore e una pompa di nuova generazione per migliorare le prestazioni termiche, ideale per CPU ad alte prestazioni e sistemi da gioco.
 - 【Compatibilità Universale Intel e AMD】 Supporta i socket Intel LGA115X/1200/1700/1851 e AMD AM4/AM5 con staffe preinstallate e tubi rivestiti da 400 mm per uninstallazione semplice.
 - 【Ventole F5 R120 OC ARGB Avanzate Incluse】 Include 3 ventole ARGB da 120 mm ad alto flusso daria con velocità fino a 2500 RPM, fornendo un flusso daria di 90,56 CFM e una pressione statica di 4,07 mmH₂O con soli 39,8 dBA di rumore.
+- 【Potenza di Raffreddamento Premium con Supporto TDP da 315W】 Utilizza un radiatore in alluminio da 27 mm di spessore e una pompa di nuova generazione per migliorare le prestazioni termiche, ideale per CPU ad alte prestazioni e sistemi da gioco.
 - 【Display LCD IPS da 2,4 Pollici sul Waterblock】 Presenta uno schermo a colori da 240×320 per il monitoraggio in tempo reale della temperatura, statistiche di sistema o loghi animati, offrendo controllo e personalizzazione al tuo PC.
+- 【Design Silenzioso della Pompa ad Alta Efficienza】 La pompa da 2600 RPM garantisce una circolazione del liquido a basso rumore (15 dBA) mantenendo un raffreddamento ottimale per carichi di lavoro esigenti o overclocking.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FPL1MBXF{{</world>}}

@@ -28,11 +28,11 @@ average: '15.9380000000001'
 
 ℹ️:
 
-- THIAMIDOL BREVETTATO – Il siero schiarente macchie viso è potenziato con Thiamidol, ingrediente brevettato che agisce sulliperpigmentazione riducendo le macchie scure e ne previene la ricomparsa
-- SIERO ACIDO IALURONICO VISO – Questo siero idratante viso dalla formula leggera è arricchito con Acido Ialuronico che rimpolpa la pelle idratandola, per un viso due volte più uniforme e luminoso**
-- FORMULA MIGLIORATA – Scopri la formula rinnovata delliconico siero NIVEA Luminous Anti Macchie, clinicamente testato per ridurre tutti i tipi di macchie scure* con primi risultati visibili dopo 7 giorni
 - CONTENUTO DELLA CONFEZIONE – NIVEA Luminous630 Siero Antimacchie Viso Trattamento Avanzato, siero viso idratante e antimacchie con formula migliorata, 1 confezione da 30 ml, numero articolo: 94429
+- SIERO ACIDO IALURONICO VISO – Questo siero idratante viso dalla formula leggera è arricchito con Acido Ialuronico che rimpolpa la pelle idratandola, per un viso due volte più uniforme e luminoso**
 - RISULTATI TESTATI – Il Thiamidol brevettato NIVEA antimacchia viso agisce dal 1° giorno, e dopo 8 settimane di utilizzo del siero viso antimacchia lintensità delle macchie è ridotta fino all82%***
+- FORMULA MIGLIORATA – Scopri la formula rinnovata delliconico siero NIVEA Luminous Anti Macchie, clinicamente testato per ridurre tutti i tipi di macchie scure* con primi risultati visibili dopo 7 giorni
+- THIAMIDOL BREVETTATO – Il siero schiarente macchie viso è potenziato con Thiamidol, ingrediente brevettato che agisce sulliperpigmentazione riducendo le macchie scure e ne previene la ricomparsa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08W9C17SZ{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- TELAIO MAX FLEX: equipaggiate la vostra scrivania con il nostro telaio flessibile. È adatto a piani di lavoro lunghi da 110 a 180 cm e larghi da 60 a 80 cm. Laltezza di sollevamento del telaio della scrivania è di 72-120 cm, adatta a persone di diverse altezze e può essere utilizzata per uffici in piedi o seduti.
 - RINFORZO DEL TAVOLO: stare seduti per lunghi periodi di tempo può provocare mal di schiena e altri disturbi. Con il nostro telaio per scrivania JUMMICO regolabile in altezza, potete lavorare seduti o in piedi e il rischio di mal di schiena è solo un pulsante.
-- CERTIFICATO AMAZON: La qualità dei nostri prodotti e servizi è riconosciuta da Amazon. Un rapporto prezzo/prestazioni estremamente buono ci rende un fornitore stabile per Amazon. La fiducia nella qualità e nel servizio ci ha portato ad autorizzare Amazon a vendere i nostri prodotti.
 - STRUTTURA STABILE CON DOPPIO MOTORE: i telai dei tavoli JUMMICO sono stati testati diecimila volte per la loro durata e possono sopportare carichi fino a 100 kg. È possibile utilizzare e armonizzare piani dappoggio di dimensioni diverse senza alcuna preoccupazione.
 - SPECIFICHE TECNICHE:Numero di motori: 2 // Velocità di sollevamento: 25 mm/secondo // Rumore del motore: inferiore a 55 db // Materiale: lega galvanizzata // Carico utile massimo: 100 kg // Gamma di altezza regolabile: 72 cm - 120 cm // Memoria di controllo: variabile più fino a 3 altezze programmabili individualmente // Accessori: Cuffie / Gancio per zaino / 4 ruote / Porta di ricarica USB-C
-- TELAIO MAX FLEX: equipaggiate la vostra scrivania con il nostro telaio flessibile. È adatto a piani di lavoro lunghi da 110 a 180 cm e larghi da 60 a 80 cm. Laltezza di sollevamento del telaio della scrivania è di 72-120 cm, adatta a persone di diverse altezze e può essere utilizzata per uffici in piedi o seduti.
+- CERTIFICATO AMAZON: La qualità dei nostri prodotti e servizi è riconosciuta da Amazon. Un rapporto prezzo/prestazioni estremamente buono ci rende un fornitore stabile per Amazon. La fiducia nella qualità e nel servizio ci ha portato ad autorizzare Amazon a vendere i nostri prodotti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DWX5V6FT{{</world>}}

@@ -28,11 +28,11 @@ average: '6.9'
 
 ℹ️:
 
-- Unità driver: 9 mm
-- Peso: 3 g
 - Tipo di magnete: neodimio
 - Frequenza cuffia: 8 - 22000 Hz
+- Peso: 3 g
 - Massima potenza in entrata: 100 mW
+- Unità driver: 9 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00I3LURRY{{</world>}}

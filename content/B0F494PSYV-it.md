@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - RACCOMANDAZIONI: non utilizzare per lana e seta. Non utilizzare per prelavaggio e lavaggio a mano. Non Premere, agitare, forare, tagliare le dosi e conservare in luogo fresco e asciutto. Tenere fuori dalla portata dei bambini
-- IDROCAPS: efficaci già a basse temperature, le nuove Idrocaps di Omino Bianco smacchiano a fondo, lasciando i capi profumati a lungo per avvolgerti in una piacevole sensazione di pulito
-- SOSTENIBILITÀ: detersivo con >96% di ingredienti biodegradabili
 - AZIONE SCIOGLI MACCHIE: la sua esclusiva formula svolge un azione smacchiante e pulizia profonda grazie alla sua concentrazione di agenti pulenti presente in ogni Caps, rimuove anche le macchie più difficili
 - PROFUMA A LUNGO: arricchito da una fresca fragranza al muschio bianco dona ai capi un profumo che dura a lungo
+- IDROCAPS: efficaci già a basse temperature, le nuove Idrocaps di Omino Bianco smacchiano a fondo, lasciando i capi profumati a lungo per avvolgerti in una piacevole sensazione di pulito
+- SOSTENIBILITÀ: detersivo con >96% di ingredienti biodegradabili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F494PSYV{{</world>}}

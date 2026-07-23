@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - teamGOAL Zaino Core
-- Colore: nero PUMA
 - Materiale: sintetico
+- Colore: nero PUMA
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C3W86HJC{{</world>}}

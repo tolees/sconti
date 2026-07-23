@@ -28,11 +28,11 @@ average: '20.53'
 
 ℹ️:
 
-- Kit da 3 filtri da 55 mm (UV, CPL, FLD):i filtri UV riducono gli aloni e migliorano il contrasto riducendo al minimo la quantità di luce ultravioletta; i filtri CPL (polarizzatore circolare) sono lideale per la rimozione di riflessi indesiderati da superfici non metalliche come vetro o acqua; i filtri FLD consentono di scattare in presenza di luci fluorescenti.
-- Compatibile con fotocamere Sony A37 A55 A57 A65 A77 A100 con obiettivo da 55 mm, che comprendono:DT 18-55mm f/3.5-5.6 SAM, DT 55-200mm f/4-5.6 SAM.
-- Nota:la fotocamera non è inclusa.
-- Il kit include:(1) kit filtri 55 mm (UV ultravioletto, polarizzatore circolare CPL, FLD fluorescente) + (1) set da 55 mm a densità neutra ND (ND2, ND4, ND8) + (2) custodia + (1) paraluce a tulipano 55 mm + (1) tappo a scatto per obiettivo 55 mm + (1) cordino per tappo.
 - Questo kit è compatibile con tutti gli obiettivi da 55 mm.Prima dellacquisto, verificare il diametro dell’attacco sulla fotocamera.Le dimensioni dell’attacco dell’obiettivo sono indicate sul cilindro, oppure stampate sotto il tappo coprilente.La relativa cifra è sempre preceduta dal simbolo "Ø" (diametro).Per esempio:Ø 55 = obiettivo da 55 millimetri.
+- Nota:la fotocamera non è inclusa.
+- Compatibile con fotocamere Sony A37 A55 A57 A65 A77 A100 con obiettivo da 55 mm, che comprendono:DT 18-55mm f/3.5-5.6 SAM, DT 55-200mm f/4-5.6 SAM.
+- Il kit include:(1) kit filtri 55 mm (UV ultravioletto, polarizzatore circolare CPL, FLD fluorescente) + (1) set da 55 mm a densità neutra ND (ND2, ND4, ND8) + (2) custodia + (1) paraluce a tulipano 55 mm + (1) tappo a scatto per obiettivo 55 mm + (1) cordino per tappo.
+- Kit da 3 filtri da 55 mm (UV, CPL, FLD):i filtri UV riducono gli aloni e migliorano il contrasto riducendo al minimo la quantità di luce ultravioletta; i filtri CPL (polarizzatore circolare) sono lideale per la rimozione di riflessi indesiderati da superfici non metalliche come vetro o acqua; i filtri FLD consentono di scattare in presenza di luci fluorescenti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01LZ7PIKX{{</world>}}

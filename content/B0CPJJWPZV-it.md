@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 1% poliestere
 - Gli inserti in rete sotto le ascelle consentono allaria di circolare per la massima freschezza.
+- 1% poliestere
 - La tecnologia Nike Dri-FIT allontana il sudore per una maggiore evaporazione rapida, mantenendoti asciutto e comodo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

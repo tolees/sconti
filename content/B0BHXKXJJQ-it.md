@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- T-shirt da uomo di Jack & Jones a maniche corte
 - Classica stampa frontale
+- T-shirt da uomo di Jack & Jones a maniche corte
 - Piacevole da indossare grazie al puro cotone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

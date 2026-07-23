@@ -28,11 +28,11 @@ average: '33.9'
 
 ℹ️:
 
-- Armour Fleece è la nostra originale alternativa al classico pile. È leggero, incredibilmente caldo ed elasticizzato al punto giusto
-- Tasca anteriore a marsupio
-- Lavare a freddo in lavatrice con colori simili. Non candeggiare. Asciugare in asciugatrice a basse temperature. Non stirare. Non utilizzare ammorbidenti. Non lavare a secco
 - Morbidissimo pile in misto cotone con interno spazzolato per offrire maggiore calore
 - Orlo inferiore e polsini a coste
+- Tasca anteriore a marsupio
+- Lavare a freddo in lavatrice con colori simili. Non candeggiare. Asciugare in asciugatrice a basse temperature. Non stirare. Non utilizzare ammorbidenti. Non lavare a secco
+- Armour Fleece è la nostra originale alternativa al classico pile. È leggero, incredibilmente caldo ed elasticizzato al punto giusto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BGW5MV3W{{</world>}}

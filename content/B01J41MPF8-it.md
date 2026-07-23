@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Il Tamigi è rappresentato tramite dei mattoncini da costruzione trasparenti
-- Costruisci un modello LEGO Architecture dettagliato dello skyline di London, che include tutte le più famose attrazioni di Londra!
 - Questo moderno LEGO per adulti e bambini da 12 anni in su include Galleria Nazionale, Colonna di Nelson, London Eye, Big Ben e Tower Bridge
+- Il Tamigi è rappresentato tramite dei mattoncini da costruzione trasparenti
 - Il set è stato progettato per garantire unesperienza rilassante e appagante, e farà un figurone esposto in casa o in ufficio
+- Costruisci un modello LEGO Architecture dettagliato dello skyline di London, che include tutte le più famose attrazioni di Londra!
 - Include un libretto da collezione con le informazioni sul design, sullarchitettura e sulla storia degli edifici
 - I modelli LEGO Architecture sono compatibili con tutti i set LEGO di mattoncini creativi: unottima idea regalo per una donna, un uomo, lei o lui, per festeggaire qualsiasi occasione
 

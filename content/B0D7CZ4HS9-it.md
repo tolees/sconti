@@ -28,10 +28,10 @@ average: '25.49'
 
 ℹ️:
 
-- Serie modulare per installazioni da incasso e da parete
-- Prodotto conforme alle normative europee e dotato di marchio CE per sicurezza e qualità certificata
 - Alimentatore USB integrato da 15 W con 1 porta USB-A e 1 porta USB-C per ricaricare tablet, smartphone e dispositivi elettronici facilmente dalla rete domestica
+- Serie modulare per installazioni da incasso e da parete
 - Vimar 19292.AC.15 Arké Alimentatore USB 15 W 3 A 5 V per dispositivi elettronici, uscite USB A e USB C
+- Prodotto conforme alle normative europee e dotato di marchio CE per sicurezza e qualità certificata
 - Serie Arké: design contemporaneo ed elegante che unisce forme essenziali e moderne, perfette per valorizzare ogni ambiente domestico o professionale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

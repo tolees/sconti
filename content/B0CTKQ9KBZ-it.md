@@ -28,8 +28,8 @@ average: '175.92'
 
 ℹ️:
 
-- Oltre 10 anni di utilizzo: il seggiolino Pallas B i-Size accompagna il bambino durante la crescita dalla nascita fino al compimento dei 12 anni o al raggiungimento dei 150 cm di altezza; il bambino è protetto da una protezione antiurto che può essere rimossa quando supera i 105 cm di altezza o i 21 kg di peso e sarà messo in sicurezza mediante la cintura del veicolo; così facendo potrai utilizzare questo seggiolino 2 in 1 per oltre 10 anni
 - Metti in sicurezza il bambino in pochi secondi: con Pallas B i-Size fai salire il bambino in auto senza stress; la protezione antiurto integrata e regolabile ti permette di mettere il bambino in sicurezza in pochi secondi, un vantaggio importante mentre ci si prepara a partire; basta regolarla per poi farla scattare in posizione ed è facilmente adattabile in ogni momento della crescita
+- Oltre 10 anni di utilizzo: il seggiolino Pallas B i-Size accompagna il bambino durante la crescita dalla nascita fino al compimento dei 12 anni o al raggiungimento dei 150 cm di altezza; il bambino è protetto da una protezione antiurto che può essere rimossa quando supera i 105 cm di altezza o i 21 kg di peso e sarà messo in sicurezza mediante la cintura del veicolo; così facendo potrai utilizzare questo seggiolino 2 in 1 per oltre 10 anni
 - Riduzione delle lesioni gravi al collo fino al 40%: il seggiolino Pallas B i-Size è dotato di una protezione antiurto regolabile progettata per ridurre il rischio di lesioni gravi al collo, distribuendo abilmente la forza d’impatto sulla su un’ampia superficie; si adatta molto bene al bambino, aumentando la protezione in caso di collisione frontale ma lasciandogli la possibilità di muovere liberamente la parte alta del corpo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

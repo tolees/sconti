@@ -28,11 +28,11 @@ average: '41.07'
 
 ℹ️:
 
-- Facile controllo dellapp: utilizza lapp MERCUSYS per configurare e gestire rapidamente il tuo WiFi.
-- Roaming senza interruzioni: passa automaticamente da un Halos allaltro mentre ti sposti in casa, ottenendo sempre il segnale migliore per usufruire delle connessioni più veloci per tutti i tuoi dispositivi.
+- WiFi dual band da 1,9 Gbps: Halo H1900G fornisce connessioni veloci e stabili per oltre 100 dispositivi con velocità fino a 1.900 Mbps e funziona con i principali provider di servizi Internet (ISP) e modem
 - Porte Gigabit complete: 3 porte Gigabit per unità Halo per connessioni cablate velocissime
 - Copertura per tutta la casa: copre fino a 350 m² (4.000 piedi quadrati) con WiFi ad alta velocità, eliminando le zone morte del WiFi in casa.
-- WiFi dual band da 1,9 Gbps: Halo H1900G fornisce connessioni veloci e stabili per oltre 100 dispositivi con velocità fino a 1.900 Mbps e funziona con i principali provider di servizi Internet (ISP) e modem
+- Facile controllo dellapp: utilizza lapp MERCUSYS per configurare e gestire rapidamente il tuo WiFi.
+- Roaming senza interruzioni: passa automaticamente da un Halos allaltro mentre ti sposti in casa, ottenendo sempre il segnale migliore per usufruire delle connessioni più veloci per tutti i tuoi dispositivi.
 - Una rete unificata: grazie allavanzata tecnologia Mesh, le unità Halo lavorano insieme per formare ununica rete domestica unificata con un unico nome WiFi e password.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

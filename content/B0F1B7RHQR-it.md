@@ -28,10 +28,10 @@ average: '5.99'
 
 ℹ️:
 
-- Lessico, logica, sviluppo della creatività, autonomia
 - Unallegra fattoria interattiva
-- Schede interattive, penna parlante, istruzioni
+- Lessico, logica, sviluppo della creatività, autonomia
 - Schede interattive, lessico e logica, scopri gli animali della fattoria, carotina parlante e lunimosa
+- Schede interattive, penna parlante, istruzioni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F1B7RHQR{{</world>}}

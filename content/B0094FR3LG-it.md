@@ -28,9 +28,9 @@ average: '5.49'
 
 ℹ️:
 
-- QUALITÀ INCONFONDIBILE: gli snack dolci Kinder sono realizzati con ingredienti rigorosamente selezionati che li rendono una dolce idea regalo di qualità adatta a tutti, bambini, ragazzi e adulti
-- CONTENUTO: 1 Kinder Bueno, 1 barretta Kinder Mai, 8 cioccolatino Kinder Schoko-bons e 1 tavoletta Kinder Cereali
 - ELFO ALFIO: riempite di meraviglia e allegria lattesa del Natale, facendo trovare in giro per casa Elfo Alfio alle prese con uno dei suoi scherzetti
+- CONTENUTO: 1 Kinder Bueno, 1 barretta Kinder Mai, 8 cioccolatino Kinder Schoko-bons e 1 tavoletta Kinder Cereali
+- QUALITÀ INCONFONDIBILE: gli snack dolci Kinder sono realizzati con ingredienti rigorosamente selezionati che li rendono una dolce idea regalo di qualità adatta a tutti, bambini, ragazzi e adulti
 - CONFEZIONE REGALO: tutta la dolcezza del cioccolato insieme al simpatico elfo di natale peluche, per godersi e regalare la magia del Natale accompagnati dalle bontà Kinder
 - SNACK DA CONDIVIDERE: ogni merendina si presenta incartata singolarmente in pratiche monoporzioni, da gustarsi giocando durante il periodo magico delle feste
 

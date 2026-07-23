@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Linea "SOL Cocco" di Bottega Verde: gamma di prodotti per chi ama la fragranza del cocco che coniuga una efficace protezione solare a una texture profumata ed esotica
-- Gelée SOL Cocco: gel corpo setoso e leggero, senza filtri solari, ideale per pelli già abbronzate, arricchito con latte di Cocco e Lumipod, aiuta a intensificare e prolungare l’abbronzatura rendendola più luminosa, uniforme e visibilmente più intensa
 - Formulazione: gel corpo dalla texture fresca, leggera e a rapido assorbimento, senza parabeni e senza filtri solari, arricchito con latte di Cocco dall’azione setificante e Lumipod che aiuta a intensificare e prolungare l’abbronzatura
+- Linea "SOL Cocco" di Bottega Verde: gamma di prodotti per chi ama la fragranza del cocco che coniuga una efficace protezione solare a una texture profumata ed esotica
 - Modo d’uso: applicare uniformemente sulla pelle del corpo durante l’esposizione al sole, massaggiando fino a completo assorbimento per esaltare l’abbronzatura e ottenere un colorito più intenso e luminoso
 - Formato: 1 SOL Cocco gelée corpo attivatore di abbronzatura da 150 ml
+- Gelée SOL Cocco: gel corpo setoso e leggero, senza filtri solari, ideale per pelli già abbronzate, arricchito con latte di Cocco e Lumipod, aiuta a intensificare e prolungare l’abbronzatura rendendola più luminosa, uniforme e visibilmente più intensa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F7XT4WJ4{{</world>}}

@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - RELAX TOTALE: Il cuscino imbottito, lo schienale alto e leggermente inclinato e gli ampi braccioli offrono un comfort di seduta prolungato.
 - DESIGN 2 IN 1: Il dondolo a 3 posti con tettuccio si converte in letto per 2 persone rapidamente e senza problemi. Il letto può essere montato quando vuoi per dormire sonni tranquilli.
+- DIMENSIONI: Dimensioni complessive: 225.5L x 113P x 180Acm. Capacità di peso: 250kg. Assemblaggio richiesto.
 - STRUTTURA SOLIDA IN LEGNO: Dondolo robusto e affidabile per un uso prolungato, trattato con olio di cera per legno (più durevole e resistente allacqua).
 - TETTUCCIO REGOLABILE: La copertura del dondolo da giardino possiede unangolazione regolabile, proteggendoti dai dannosi raggi UV e dalla luce.
-- DIMENSIONI: Dimensioni complessive: 225.5L x 113P x 180Acm. Capacità di peso: 250kg. Assemblaggio richiesto.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D9X844GK{{</world>}}

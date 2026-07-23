@@ -29,10 +29,10 @@ average: '123.47'
 ℹ️:
 
 - Scatta fotografie istantanee nel nostro formato più grande, utilizza pellicole instax WIDE Film 86 x 108mm. Le pellicole non sono incluse con il prodotto.
-- Esposizione e controllo flash automatici, lente macro aggiuntiva inclusa con il prodotto.
-- Autoscatto a leva con 4 impostazioni di ritardo e luce LED per conto alla rovescia. Ritardi di 4, 6, 8 e 10 secondi.
 - Design robusto e accattivante. Trova l’inquadratura perfetta grazie all’accessorio per la regolazione dell’angolazione della fotocamera.
 - 2 modalità di messa a fuoco: Normale per scatti quotidiani e Paesaggio per catturare splendidi paesaggi.
+- Esposizione e controllo flash automatici, lente macro aggiuntiva inclusa con il prodotto.
+- Autoscatto a leva con 4 impostazioni di ritardo e luce LED per conto alla rovescia. Ritardi di 4, 6, 8 e 10 secondi.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0G5PQJNXJ{{</world>}}

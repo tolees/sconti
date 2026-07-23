@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Un grande cast di personaggi, ognuno con I suoi poteri specifici.
+- Gameplay ancora più ricco e profondo
 - Esclusiva Nintendo Switch 2
 - Una storia canonica, prequel di The Legend of Zelda Tears of The Kingdom.
-- Gameplay ancora più ricco e profondo
-- Un grande cast di personaggi, ognuno con I suoi poteri specifici.
 - Frame rate e qualità dellimmagine migliorati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

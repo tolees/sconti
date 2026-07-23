@@ -28,11 +28,11 @@ average: '7.21'
 
 ℹ️:
 
-- Aiuta la salute della mucosa grazie all’azione della Biotina (Vitamina B8)
 - Favorisce la fluidità delle secrezioni bronchiali grazie all’azione dell’Edera
+- Cuore liquido con PROPOLIS M.E.D. e Miele
 - Favorisce il benessere della gola grazie all’azione del Timo
 - Un mix di ingredienti (complesso di Glicerina e polisaccaridi del Tamarindo) che, grazie alle loro proprietà mucoadesive, permettono alle stesse di rimanere adese alla mucosa.
-- Cuore liquido con PROPOLIS M.E.D. e Miele
+- Aiuta la salute della mucosa grazie all’azione della Biotina (Vitamina B8)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FQNQ7CKH{{</world>}}

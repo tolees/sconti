@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tasche laterali
 - VITA ALTA
+- Tasche laterali
 - Vita elasticizzata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ average: '8.07749999999999'
 
 ℹ️:
 
-- BACI PERUGINA Uovo di Pasqua 2026 Cioccolato allArancia Crystal con Sorpresa Esperienziale e 4 Cioccolatini 265g
 - Ideale da regalare per sorprendere, esprimere un gesto di gratitudine e celebrare occasioni speciali
-- Con materie prime selezionate, senza glutine
-- Uovo di Pasqua 2026 BACI PERUGINA al Cioccolato Fondente allarancia con doppia sorpresa
-- IL NIDO CHE CONDIVIDIAMO racchiude limpegno del Gruppo Nestlé. Ramo dopo ramo, ogni iniziativa di sostenibilità contribuisce a diffondere il Buono. Scopri di più sul sito Nestlé
 - Contiene 4 Cioccolatini BACI PERUGINA Cioccolato Fondente con cristalli allarancia e unesperienza indimenticabile da condividere con chi ami
+- IL NIDO CHE CONDIVIDIAMO racchiude limpegno del Gruppo Nestlé. Ramo dopo ramo, ogni iniziativa di sostenibilità contribuisce a diffondere il Buono. Scopri di più sul sito Nestlé
+- Con materie prime selezionate, senza glutine
+- BACI PERUGINA Uovo di Pasqua 2026 Cioccolato allArancia Crystal con Sorpresa Esperienziale e 4 Cioccolatini 265g
+- Uovo di Pasqua 2026 BACI PERUGINA al Cioccolato Fondente allarancia con doppia sorpresa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GMKN3JPM{{</world>}}

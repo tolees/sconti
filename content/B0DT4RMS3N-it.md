@@ -28,10 +28,10 @@ average: '2.79'
 
 ℹ️:
 
-- UTILIZZO: 1) Strappa la carta igienica 2) Agita 3) Spruzza 1-2 noci di prodotto 4) Detergi 5) Getta la carta nel WC
 - Formulato a PH5, rispetta il PH naturale della pelle, è adatto alluso quotidiano ed è testato sotto controllo ginecologico
 - ANTI-ODOR: La sua formula è potenziata con il complesso Anti-Odor, per farti sentire sempre sicura, protetta e a tuo agio
 - Chilly detergente intimo senza risciacquo per sentirti fresca e pulita quando e dove vuoi senza bisogno di risciacquare
+- UTILIZZO: 1) Strappa la carta igienica 2) Agita 3) Spruzza 1-2 noci di prodotto 4) Detergi 5) Getta la carta nel WC
 - FORMULA: La sua formula in mousse, arricchita con Timo e Salvia, aiuta a proteggerti nelle situazioni più a rischio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

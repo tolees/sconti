@@ -28,13 +28,13 @@ average: '99.99'
 
 ℹ️:
 
-- Potenza – La smerigliatrice angolare a batteria TP-AG 18/125 CE Q di Einhell Professional fa parte della famiglia Power X-Change e offre la stessa potenza a batteria di un utensile con cavo da 900 W.
-- Brushless – Il potente motore Brushless a manutenzione ridotta garantisce massime prestazioni con unautonomia maggiore rispetto ai comuni motori a spazzola di carbone.
-- Senza disco da taglio – La smerigliatrice angolare è fornita con protezione per taglio, ma senza disco. Adatta a dischi fino a 125 mm di diametro per una profondità di taglio massima di 33 mm.
-- Fornitura senza batteria - La smerigliatrice angolare a batteria professionale TP-AG 18/125 CE Q Li-Solo di Einhell non include batterie Power X-Change, né caricabatteria, da acquistare separatamente.
-- Potenza regolabile – Grazie alla regolazione della velocità con pratico indicatore LED, la potenza può essere configurata in base al materiale tra 3.000 e 10.500 giri al minuto.
-- Elettronica costante – Il feedback elettronico garantisce prestazioni costanti senza perdite di velocità, per cui la smerigliatrice angolare funziona in modo affidabile anche nei lavori più duri.
 - Protezione - Sicurezza grazie al carter del disco di taglio a regolazione rapida, protezione contro lavvio accidentale, protezione da sovraccarico e Soft Start che protegge motore e batteria.
+- Senza disco da taglio – La smerigliatrice angolare è fornita con protezione per taglio, ma senza disco. Adatta a dischi fino a 125 mm di diametro per una profondità di taglio massima di 33 mm.
+- Potenza regolabile – Grazie alla regolazione della velocità con pratico indicatore LED, la potenza può essere configurata in base al materiale tra 3.000 e 10.500 giri al minuto.
+- Fornitura senza batteria - La smerigliatrice angolare a batteria professionale TP-AG 18/125 CE Q Li-Solo di Einhell non include batterie Power X-Change, né caricabatteria, da acquistare separatamente.
+- Potenza – La smerigliatrice angolare a batteria TP-AG 18/125 CE Q di Einhell Professional fa parte della famiglia Power X-Change e offre la stessa potenza a batteria di un utensile con cavo da 900 W.
+- Elettronica costante – Il feedback elettronico garantisce prestazioni costanti senza perdite di velocità, per cui la smerigliatrice angolare funziona in modo affidabile anche nei lavori più duri.
+- Brushless – Il potente motore Brushless a manutenzione ridotta garantisce massime prestazioni con unautonomia maggiore rispetto ai comuni motori a spazzola di carbone.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C6MMXVL7{{</world>}}

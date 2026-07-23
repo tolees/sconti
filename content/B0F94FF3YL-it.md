@@ -28,10 +28,10 @@ average: '37.25'
 
 ℹ️:
 
-- Produci – Crea e ripara armi, armature, attrezzi e veicoli con centinaia di ricette e schemi
-- Ledizione fisica include anche skin esclusive per piattaforma*: PlayStation 5: Samurai
-- Coopera o competi – Collabora per costruire insediamenti o competi contro gli altri giocatori in una landa desolata in cui gli zombie e i criminali dominano
 - Esplora – Ambienti immensi e ricchi, con mondi ed ecosistemi unici che raggiungono fino i 100 chilometri quadrati
+- Coopera o competi – Collabora per costruire insediamenti o competi contro gli altri giocatori in una landa desolata in cui gli zombie e i criminali dominano
+- Ledizione fisica include anche skin esclusive per piattaforma*: PlayStation 5: Samurai
+- Produci – Crea e ripara armi, armature, attrezzi e veicoli con centinaia di ricette e schemi
 - Costruisci – Progetta il tuo forte includendo trappole, corrente elettrica, torrette automatiche e gadget per sopravvivere in un mondo completamente distruttibile e modellabile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

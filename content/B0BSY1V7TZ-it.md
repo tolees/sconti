@@ -28,10 +28,10 @@ average: '32.88'
 
 ℹ️:
 
+- SCHIENALE: Imbottito e rivestito in tessuto. SPALLACCI: Imbottiti e rivestiti in tessuto con sotto spallacci in rete
 - ALTRE CARATTERISTICHE: Zaino mono scomparto con fondo rinforzato, tessuto lucido, patch Invicta. TESSUTO: 100% Poliestere riciclato, certificato "GRS"
 - FORME LINEARI TESSUTO RICICLATO. Il tessuto di questo zaino Carlson è ricavato dal riciclo di 20 bottiglie in PET da 500ml mantenendo gli standard qualitativi dei nostri materiali. Sono 27 i litri di capacità e sono suddivisi tra uno scomparto principale che include porta PC/tablet e una ampia tasca frontale esterna. Sui lati si trovano le tasche porta borraccia e gli spallacci, lo schienale e il fondo sono imbottiti.
 - TASCHE: Tasca interna con zip, scomparto interno porta PC e tasche laterali porta borraccia.
-- SCHIENALE: Imbottito e rivestito in tessuto. SPALLACCI: Imbottiti e rivestiti in tessuto con sotto spallacci in rete
 - DIMENSIONI: 30 x 41,5 x 18. CAPACITA: 27 lt
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

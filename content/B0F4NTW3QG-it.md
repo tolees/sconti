@@ -28,8 +28,8 @@ average: '29.0'
 
 ℹ️:
 
-- Tessuto morbido con monogram
 - Maglietta pensata per un uso quotidiano con vestibilità regolare
+- Tessuto morbido con monogram
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F4NTW3QG{{</world>}}

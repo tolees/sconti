@@ -28,11 +28,11 @@ average: '1.99'
 
 ℹ️:
 
-- Senza coloranti
+- 25 compresse effervescenti
 - Assumi 1 o 2 compresse dopo un pasto per favorire la digestione
 - Prodotto in compresse effervescenti al gusto limone che favorisce la digestione
 - Senza glutine
-- 25 compresse effervescenti
+- Senza coloranti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0843FSRMK{{</world>}}

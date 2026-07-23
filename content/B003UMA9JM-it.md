@@ -28,11 +28,11 @@ average: '0.89'
 
 ℹ️:
 
-- IDEALI PER - insalate di pasta. Per un piatto sfizioso, prepara i Mini Fusilli con speck, spinaci e formaggio
-- INGREDIENTI - Semola di grano duro e acqua. I chicchi che utilizziamo nascono da varietà coltivate con cura e passione per garantire una qualità che fa felici grandi e bambini
-- CARATTERISTICHE - Pronti in soli 6 minuti, mantengono intatte tutte le caratteristiche del formato classico: tre alette armoniosamente attorcigliate su se stesse creano un’allegra linea a spirale
 - BARILLA - Unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
 - MINI FORMATI - La pasta che più ami in formato più piccolo, veloce da cuocere e pensata per gustare ogni giorno piatti nutrienti e fantasiosi, da mangiare tutti insieme divertendosI
+- CARATTERISTICHE - Pronti in soli 6 minuti, mantengono intatte tutte le caratteristiche del formato classico: tre alette armoniosamente attorcigliate su se stesse creano un’allegra linea a spirale
+- INGREDIENTI - Semola di grano duro e acqua. I chicchi che utilizziamo nascono da varietà coltivate con cura e passione per garantire una qualità che fa felici grandi e bambini
+- IDEALI PER - insalate di pasta. Per un piatto sfizioso, prepara i Mini Fusilli con speck, spinaci e formaggio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B003UMA9JM{{</world>}}

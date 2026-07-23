@@ -28,11 +28,11 @@ average: '39.62'
 
 ℹ️:
 
+- Volume di consegna: 1 x TRESKO Sedia da ufficio. La consegna avviene tramite corriere, scomposto nel cartone incluso materiale e attrezzi per il montaggio.
 - Il Sedile ha una profondità di 44 cm ed e largo 42,5 cm. Il Piede a 5-Stella ha un diametro di 48 cm ed è dotato delle rotelle in plastica. Laltezza del schienale è di 59 cm.
 - Il sedile e il schienale traspirante non vi fa sudare neanche nei giorni caldi. Un supporto lombare vi aiuta ad avere una posizione di seduta sana e assicura il comfort di seduta ergonomico. Laltezza del sedile e regolabile in continuo tra 32 - 45 centimetri grazie al pistone. Uno dei sei colori freschi si adatta certamente bene alla vostra scrivania.
-- Siete alla ricerca di una sedia da ufficio che pesa molto poco? Che può essere trasportata facilmente e viene montata in solo 5 minuti? Allora avete trovato con la TRESKO Sedia da scrivania con un peso solo di 6,2 kg un compagno affidabile per il lavoro di tutti i giorni, i compiti dei bambini o per il vostro ufficio a casa.
-- Volume di consegna: 1 x TRESKO Sedia da ufficio. La consegna avviene tramite corriere, scomposto nel cartone incluso materiale e attrezzi per il montaggio.
 - Il montaggio e facilissimo e dura solo pochi minuti. Con il suo design compatto, è adatto idealmente per i bambini e anche per i adolescenti.
+- Siete alla ricerca di una sedia da ufficio che pesa molto poco? Che può essere trasportata facilmente e viene montata in solo 5 minuti? Allora avete trovato con la TRESKO Sedia da scrivania con un peso solo di 6,2 kg un compagno affidabile per il lavoro di tutti i giorni, i compiti dei bambini o per il vostro ufficio a casa.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B94FTT3G{{</world>}}

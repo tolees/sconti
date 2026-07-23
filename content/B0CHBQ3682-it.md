@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- [2] - Potenza duscita 1000 VA - 700W // Integra Ventola Ultra Low Noise Gelid in grado di garantire tra 23,6 e 28 dbA a Pieno carico ad 1m // l88% Meno rumoroso di un UPS Online Tradizionale
+- [4] - Include 2 batterie da 12V 9Ah // Display LCD multifunzione per indicazione di stato dellUPS e delle batterie
 - [1] - UPS Online ULTRA_LOW_NOISE // l88% Meno rumoroso di un UPS Online Tradizionale // Doppia Conversione iin versione Tower // Involucro in metallo per una migliore dissipazione del calore
 - [3] - Integra 2 Porte Schuko + 1 uscita IEC // 1 Porta USB (HID) per collegamento intelligente con NAS e PC, 1 Porta Seriale RS232 // 1 Porta EPO // Slot SNMP per scheda di rete opzionale
-- [2] - Potenza duscita 1000 VA - 700W // Integra Ventola Ultra Low Noise Gelid in grado di garantire tra 23,6 e 28 dbA a Pieno carico ad 1m // l88% Meno rumoroso di un UPS Online Tradizionale
 - [5] - Software di management incluso permette lo spegnimento controllato del sistema e di controllare lo stato di funzionamento dell’UPS // Backup Time: 2,3min a 100% - 12,0 min a 50% -30,0 min a 25% // Peso 10,1 Kg
-- [4] - Include 2 batterie da 12V 9Ah // Display LCD multifunzione per indicazione di stato dellUPS e delle batterie
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CHBQ3682{{</world>}}

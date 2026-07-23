@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- DETTAGLI - Per giocare a questa espansione è necessario il gioco base 7 Wonders Duel. Per 2 giocatori dai 10+ anni, durata di gioco fino a 30+ minuti, gioco in italiano.
-- BATTAGLIA DELLE MERAVIGLIE DEL MONDO - Metti alla prova le tue abilità tattiche in una battaglia tra le meraviglie del mondo. Costruisci la tua città e il tuo esercito, accumula ricchezze e crea una meraviglia del mondo che durerà per sempre per trionfare.
-- NUOVO MODO DI GIOCARE - Un nuovo modo di vincere immediatamente: il controllo del Senato. I giocatori possono ottenere una camera del Senato prendendo le carte Senatore.
-- DUEL AGORA - Il gioco per famiglie 7 Wonders Duel Agora aggiunge i senatori al gioco base. Cerca di prendere il controllo delle camere del Senato e manipola la situazione politica a tuo vantaggio.
 - GIOCO DI STRATEGIA - In questo gioco di strategia competitivo, 2 giocatori raccolgono punti vittoria sviluppando la propria città, lesercito, le riserve finanziarie e le meraviglie del mondo.
+- DETTAGLI - Per giocare a questa espansione è necessario il gioco base 7 Wonders Duel. Per 2 giocatori dai 10+ anni, durata di gioco fino a 30+ minuti, gioco in italiano.
+- DUEL AGORA - Il gioco per famiglie 7 Wonders Duel Agora aggiunge i senatori al gioco base. Cerca di prendere il controllo delle camere del Senato e manipola la situazione politica a tuo vantaggio.
+- NUOVO MODO DI GIOCARE - Un nuovo modo di vincere immediatamente: il controllo del Senato. I giocatori possono ottenere una camera del Senato prendendo le carte Senatore.
+- BATTAGLIA DELLE MERAVIGLIE DEL MONDO - Metti alla prova le tue abilità tattiche in una battaglia tra le meraviglie del mondo. Costruisci la tua città e il tuo esercito, accumula ricchezze e crea una meraviglia del mondo che durerà per sempre per trionfare.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08P3M8VPY{{</world>}}

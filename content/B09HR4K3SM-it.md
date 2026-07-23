@@ -28,11 +28,11 @@ average: '51.2'
 
 ℹ️:
 
-- GUSTO ESPRESSO NAPOLETANO: Miscela intensa e corposa, con note di cacao e un retrogusto persistente. Ideale per chi ama il vero espresso all’italiana.
-- TOSTATURA MEDIO SCURA – INTENSITÀ 10/13: Profilo di tostatura studiato per esaltare l’aroma pieno e la crema densa in tazza.
 - COMPOSTABILI E SOSTENIBILI: Cialde in filtro carta compostabile, per gustare il caffè riducendo l’impatto ambientale.
-- QUALITÀ KIMBO, TRADIZIONE NAPOLETANA: Prodotto da Kimbo, storica torrefazione di Napoli sinonimo di qualità e passione per il caffè.
+- TOSTATURA MEDIO SCURA – INTENSITÀ 10/13: Profilo di tostatura studiato per esaltare l’aroma pieno e la crema densa in tazza.
 - 300 CIALDE IN FORMATO ESE 44MM: Confezione da 3 x 100 cialde monodose, compatibili con tutte le macchine che utilizzano il sistema ESE (Easy Serving Espresso).
+- GUSTO ESPRESSO NAPOLETANO: Miscela intensa e corposa, con note di cacao e un retrogusto persistente. Ideale per chi ama il vero espresso all’italiana.
+- QUALITÀ KIMBO, TRADIZIONE NAPOLETANA: Prodotto da Kimbo, storica torrefazione di Napoli sinonimo di qualità e passione per il caffè.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09HR4K3SM{{</world>}}

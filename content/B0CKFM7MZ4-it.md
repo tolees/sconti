@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dispositivo 2 in 1 - La troncatrice Einhell con banco superiore TE-MS 216 T combina due funzioni in un unico apparecchio. Utilizzabile come sega circolare da banco e come troncatrice.
+- Uso flessibile - La testata di taglio inclinabile a sinistra fino a 45º e il piano di taglio inclinabile fino a 45º garantiscono un angolo di taglio selezionabile in modo flessibile.
+- Tagli precisi - La lama della sega in metallo duro Ø 216 mm con 36 denti, in combinazione con il laser di allineamento del taglio incorporato, consente di realizzare tagli estremamente precisi.
+- Parola dordine: pulizia! - Gli attacchi di aspirazione incorporati da Ø 36 mm permettono di collegare aspiratori di vario tipo per la rimozione dei trucioli.
 - Ausili per il taglio - Con la guida parallela e la guida angolare, i vari tagli sono facili e precisi. I pezzi vengono fissati in modo sicuro tramite il dispositivo di serraggio.
 - Potenza massima - Con una velocità di rotazione fino a 4500 giri al minuto e una potenza del motore di 1500 watt, il lavoro risulta rapido e pulito.
-- Parola dordine: pulizia! - Gli attacchi di aspirazione incorporati da Ø 36 mm permettono di collegare aspiratori di vario tipo per la rimozione dei trucioli.
 - Pezzi grandi - Grazie alla larghezza di taglio massima è possibile inserire pezzi più grandi da 120 mm e una profondità di taglio fino a 55 mm.
-- Tagli precisi - La lama della sega in metallo duro Ø 216 mm con 36 denti, in combinazione con il laser di allineamento del taglio incorporato, consente di realizzare tagli estremamente precisi.
-- Uso flessibile - La testata di taglio inclinabile a sinistra fino a 45º e il piano di taglio inclinabile fino a 45º garantiscono un angolo di taglio selezionabile in modo flessibile.
+- Dispositivo 2 in 1 - La troncatrice Einhell con banco superiore TE-MS 216 T combina due funzioni in un unico apparecchio. Utilizzabile come sega circolare da banco e come troncatrice.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CKFM7MZ4{{</world>}}

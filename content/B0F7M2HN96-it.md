@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- CARATTERISTICHE - questagenda settimanale da 21 x 25 cm ti offre la possibilità di organizzare le tue giornate per ben 17 mesi, da Agosto 2025 a Dicembre 2026. Editata in inglese, le sue pagine includono molto spazio da dedicare a tutte le tue attività giornaliere; con le linguette segnapagina, inoltre, non ti perderai mai!
 - RAFFINATA - curato nei minimi dettagli, il design di questa agenda attirerà lo sguardo di tutti e risalterà per la sua eleganza; la rilegatura a spirale la rende comoda alla scrittura e i fogli da 120 gr/m² ti consentiranno di scrivere senza paura di macchiare le sue pagine
-- AGENDA DA TAVOLO 2025-2026 - l’eleganza è la sola bellezza che non sfiorisce mai; falla tua con questa nuova maxi agenda kokonote NUIT FLORALE con motivo floreale in splendide sfumature di blu su sfondo nero. Con copertina rigida e chiusura elastica, risalterà sulla tua scrivania e darà un tocco di stile alle tue giornate!
 - KOKONOTE - la perfetta fusione tra arte e funzionalità: trasforma la tua quotidianità in unesperienza straordinaria. Dai una scossa alla tua routine con Kokonote✨
+- CARATTERISTICHE - questagenda settimanale da 21 x 25 cm ti offre la possibilità di organizzare le tue giornate per ben 17 mesi, da Agosto 2025 a Dicembre 2026. Editata in inglese, le sue pagine includono molto spazio da dedicare a tutte le tue attività giornaliere; con le linguette segnapagina, inoltre, non ti perderai mai!
 - EXTRA - questa agenda organizer offre molteplici dettagli extra che la rendono davvera unica: oltre al planner annuale, mensile e una tabella per lorario,include 4 segnalibri, 2 tasche portadocumenti, controllo spese e entrate, riquadri per i tuoi obiettivi personali e tanti stickers con cui impreziosire note e appunti: organizzati al meglio tutto lanno e fallo con stile!
+- AGENDA DA TAVOLO 2025-2026 - l’eleganza è la sola bellezza che non sfiorisce mai; falla tua con questa nuova maxi agenda kokonote NUIT FLORALE con motivo floreale in splendide sfumature di blu su sfondo nero. Con copertina rigida e chiusura elastica, risalterà sulla tua scrivania e darà un tocco di stile alle tue giornate!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F7M2HN96{{</world>}}

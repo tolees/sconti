@@ -29,8 +29,8 @@ average: '34.6'
 ℹ️:
 
 - Memory Foam
-- Lavabile in lavatrice
 - Vegano
+- Lavabile in lavatrice
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08TN1X7S7{{</world>}}

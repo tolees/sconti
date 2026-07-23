@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- ITALIAN BLENDING ART Pellini esprime l’arte italiana del caffè attraverso la selezione dei migliori chicchi, la tostatura lenta e la miscelazione equilibrata, per un aroma intenso e autentico
-- NUOVE CAPSULE IN ALLUMINIO: La qualità dell’Espresso Pellini nell’innovativa capsula in alluminio: lalluminio mantiene inalterate le note aromatiche, il gusto e l’intensità dei nostri blend, esaltandone la qualità anche nel momento dell’erogazione: per riscoprire la materia prima nella sua essenza, rispettandone il naturale equilibrio
-- NOTE AROMATICHE: Note floreali e di amaretto. Intensità 5/9
-- PELLINI GRAN AROMA: Vivi lesperienza di un caffè in capsula che incarna lautentico stile di vita italiano: 100 Capsule in alluminio
-- EROGAZIONE SUGGERITA: Un Espresso ideale per unerogazione da 25 ml come da autentica tradizione che esalta il carattere e laroma del caffè. Da apprezzare anche senza zucchero
 - COMPOSIZIONE: Caffè 100% Arabica delicato, capace di sprigionare tutta la dolcezza di una ricetta ricercata. Ogni momento diventa unoccasione per vivere il lusso del vero caffè italiano
+- PELLINI GRAN AROMA: Vivi lesperienza di un caffè in capsula che incarna lautentico stile di vita italiano: 100 Capsule in alluminio
+- ITALIAN BLENDING ART Pellini esprime l’arte italiana del caffè attraverso la selezione dei migliori chicchi, la tostatura lenta e la miscelazione equilibrata, per un aroma intenso e autentico
+- NOTE AROMATICHE: Note floreali e di amaretto. Intensità 5/9
+- NUOVE CAPSULE IN ALLUMINIO: La qualità dell’Espresso Pellini nell’innovativa capsula in alluminio: lalluminio mantiene inalterate le note aromatiche, il gusto e l’intensità dei nostri blend, esaltandone la qualità anche nel momento dell’erogazione: per riscoprire la materia prima nella sua essenza, rispettandone il naturale equilibrio
+- EROGAZIONE SUGGERITA: Un Espresso ideale per unerogazione da 25 ml come da autentica tradizione che esalta il carattere e laroma del caffè. Da apprezzare anche senza zucchero
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D1R9H2NB{{</world>}}

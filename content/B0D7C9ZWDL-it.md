@@ -29,9 +29,9 @@ average: '6.66'
 ℹ️:
 
 - Formula purificante biologico: lo shampoo purificante con ortica e limone biologico Le Petit Marseillais rivitalizza e purifica il cuoio capelluto con ingredienti naturali, per capelli freschi e leggeri più a lungo.
+- Rispetto del cuoio capelluto: grazie alla sua formula a pH ottimale, questo shampoo rispetta e purifica il cuoio capelluto, lasciandolo respirare e rivitalizzato.
 - Eco-responsabile: composto dal 98% di ingredienti di origine naturale e confezionato in una confezione completamente riciclabile, questo shampoo combina cura dei capelli e rispetto dellambiente.
 - Facilità duso: la sua texture gel si trasforma in una schiuma leggera con note fresche. Applicare, massaggiare delicatamente il cuoio capelluto, quindi risciacquare per un risultato ottimale.
-- Rispetto del cuoio capelluto: grazie alla sua formula a pH ottimale, questo shampoo rispetta e purifica il cuoio capelluto, lasciandolo respirare e rivitalizzato.
 - Ingredienti naturali: Arricchito con foglie di ortica biologica e limone biologico, questo shampoo riduce il sebo in eccesso senza intoppi, dando freschezza e leggerezza ai capelli normali che tendono a rimpicciolire rapidamente.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

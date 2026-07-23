@@ -29,10 +29,10 @@ average: '104.495'
 ℹ️:
 
 - ULTRA-FLESSIBILE - Può essere utilizzato in modalità orizzontale o verticale o montato su un treppiede; Cavalletto pieghevole da 0° a 180° per un angolo di visione personalizzabile; Altoparlanti integrati da 1.5W pratici per conferenze telefoniche
-- Sottile & LEGGERO - Perfetto come 2 ° schermo del computer portatile per una maggiore produttività, o per una visualizzazione mobile migliorata o duplicazione dello schermo; Il suo spessore di 1,08 cm e telaio leggero da 0,75 kg lo rendono ideale per viaggi daffari
-- LESS BLUE LIGHT - Filtri di riduzione della luce blu e tecnologia anti-sfarfallio certificati TÜV Rheinland Eye Comfort, superficie antiriflesso; Modalità ecologica tramite il software MSI Display Kit (profili di visualizzazione, multitasking a finestra divisa e HDCR)
 - SCHERMO PORTATILE FHD 15.6" - Lastra IPS da 15.6 pollici (ampio angolo di visione 170°) e risoluzione Full HD (1920x1080); La frequenza di aggiornamento 60Hz (4ms GtG) migliora lesperienza visiva quotidiana con frame rate più fluide e veloci
+- Sottile & LEGGERO - Perfetto come 2 ° schermo del computer portatile per una maggiore produttività, o per una visualizzazione mobile migliorata o duplicazione dello schermo; Il suo spessore di 1,08 cm e telaio leggero da 0,75 kg lo rendono ideale per viaggi daffari
 - CONNETTIVITÀ - Porta mini HDMI (cavo HDMI a mini HDMI incluso) e 2 porte USB Type-C (segnale DP 1.2a con modalità Alt e ingresso di alimentazione 15W) compatibili con fonti di ingresso PC, computer portatili o smartphone; Cavi ad angolo retto di fascia alta
+- LESS BLUE LIGHT - Filtri di riduzione della luce blu e tecnologia anti-sfarfallio certificati TÜV Rheinland Eye Comfort, superficie antiriflesso; Modalità ecologica tramite il software MSI Display Kit (profili di visualizzazione, multitasking a finestra divisa e HDCR)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CPT96N3N{{</world>}}

@@ -28,10 +28,10 @@ average: '62.5'
 
 ℹ️:
 
-- Ceramica - ice&a
 - Dona un tocco di stile e personalità ai tuoi spazi con la selezione THUN di oggetti decorativi. Nella nostra sezione Living troverai tutto il necessario per creare un’atmosfera accogliente e unica. Scegli i dettagli giusti per trasformare ogni angolo della tua casa in un ambiente caldo e armonioso.
-- Pulire con panno morbido asciutto
+- Ceramica - ice&a
 - 26 x 26 x 4,7 cm
+- Pulire con panno morbido asciutto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FDX45XDK{{</world>}}

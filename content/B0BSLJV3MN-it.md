@@ -28,11 +28,11 @@ average: '43.37'
 
 ℹ️:
 
-- CONNETTIVITÀ WIRELESS: Il VERSA 300 ELITE WIRELESS utilizza lultima tecnologia wireless 2.4 GHz RF per una latenza minima; Include anche la tecnologia Bluetooth 5.3 e un cavo FriXionFree da 2 metri (USB-C a A)
 - 26000 DPI E LATENZA DI 1 MS: Sensore ottico PixArt PAW3395 con 5 livelli DPI selezionabili (400 / 800 / 1600 / 3200 / 6400)
 - DESIGN SIMMETRICO E SLIM: La forma simmetrica è adatta per utenti destrorsi e mancini; Le impugnature antiscivolo a motivo a diamante e le slitte in PTFE puro migliorano la maneggevolezza
-- PRONTO RGB MYSTIC LIGHT: Un logo illuminato del Drago MSI mostra milioni di colori e numerosi effetti di illuminazione che possono essere comodamente assegnati tramite combinazioni di tasti o tramite software (solo per PC)
 - 200 ORE DI GIOCO CON UNA CARICA: Il mouse ultraleggero (65g) offre fino a 200 ore di gioco con una carica completa; Dotato di interruttori ultra-durevoli (oltre 60 milioni di clic)
+- PRONTO RGB MYSTIC LIGHT: Un logo illuminato del Drago MSI mostra milioni di colori e numerosi effetti di illuminazione che possono essere comodamente assegnati tramite combinazioni di tasti o tramite software (solo per PC)
+- CONNETTIVITÀ WIRELESS: Il VERSA 300 ELITE WIRELESS utilizza lultima tecnologia wireless 2.4 GHz RF per una latenza minima; Include anche la tecnologia Bluetooth 5.3 e un cavo FriXionFree da 2 metri (USB-C a A)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BSLJV3MN{{</world>}}

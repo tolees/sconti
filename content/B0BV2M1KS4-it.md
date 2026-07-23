@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Azione: la sua formula potenziata con agenti sbiancanti attivi sbianca, preserva il candore e ridona un bianco luminoso ai capi ingialliti e ingrigiti; Smacchia in profondità e si attiva già a 20°C
-- Caps idrosolubili: le pratiche caps Omino Bianco permettono di eliminare gli sprechi e si dissolvono completamente durante il lavaggio senza lasciare residui o aloni
-- Uso lavaggio manuale: in caso di sporco ostinato, aggiungere una caps in 3 litri di acqua tiepida; Lasciare ammollo i capi per 20/30 min, unora per lo sporco più difficile; Terminare risciacquando e procedere con il lavaggio abituale
-- Prodotto: Omino Bianco Bianco Vivo Idrocaps è ladditivo specifico per tutti i tessuti che smacchia e sbianca velocemente i capi, rendendoli più luminosi
 - Uso lavatrice: inserire il prodotto direttamente nel cestello sul fondo della lavatrice prima dei capi, senza aprire e forare la caps; Aggiungere i capi e dosare il detersivo come d’abitudine; Infine scegliere il programma desiderato e procedere con il lavaggio
+- Uso lavaggio manuale: in caso di sporco ostinato, aggiungere una caps in 3 litri di acqua tiepida; Lasciare ammollo i capi per 20/30 min, unora per lo sporco più difficile; Terminare risciacquando e procedere con il lavaggio abituale
+- Caps idrosolubili: le pratiche caps Omino Bianco permettono di eliminare gli sprechi e si dissolvono completamente durante il lavaggio senza lasciare residui o aloni
+- Azione: la sua formula potenziata con agenti sbiancanti attivi sbianca, preserva il candore e ridona un bianco luminoso ai capi ingialliti e ingrigiti; Smacchia in profondità e si attiva già a 20°C
+- Prodotto: Omino Bianco Bianco Vivo Idrocaps è ladditivo specifico per tutti i tessuti che smacchia e sbianca velocemente i capi, rendendoli più luminosi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BV2M1KS4{{</world>}}

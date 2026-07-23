@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Le due fantastiche nuance della cialda possono essere utilizzate da sole o abbinate, per un look completo e d’impatto
-- Ombretto duo dal rilascio colore ricco ed intenso
 - Ideale per valorizzare lo sguardo con un colore intenso e realizzare infiniti look glamour
 - Lincredibile texture, morbida e setosa, garantisce un rilascio colore brillante, intenso e modulabile, per un make-up sempre diverso in ogni occasione
+- Le due fantastiche nuance della cialda possono essere utilizzate da sole o abbinate, per un look completo e d’impatto
+- Ombretto duo dal rilascio colore ricco ed intenso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CMPDP38G{{</world>}}

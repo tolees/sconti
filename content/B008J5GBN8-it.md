@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 100% DI ORIGINE NATURALE: contiene 41 Oli Essenziali, 100% puri e naturali, certificati OEBBD (Olio Essenziale Botanicamente e Biochimicamente Definito); spray purificante senza conservanti, coloranti e profumi sintetici; certificazione Ecocert
-- TRATTARE E IGIENIZZARE I TESSUTI: dalle proprietà multiuso, può essere utilizzato anche per igienizzare i tessuti e le superifici (divano, scrivania, servizi igienici, così come anche labitacolo della propria auto)
 - CON FORMULA BREVETTATA: dotato di un sistema di spruzzo brevettato PES600 senza gas propulsore; contiene inoltre alcool vegetale non denaturato con ftalati
 - RENDI PIÙ PURA LARIA CHE RESPIRI: con lo Spray Purificante per lAria Puressentiel purifichi gli ambienti in modo naturale; vaporizzalo regolarmente per respirare unaria più pulita.; formato viaggio
+- 100% DI ORIGINE NATURALE: contiene 41 Oli Essenziali, 100% puri e naturali, certificati OEBBD (Olio Essenziale Botanicamente e Biochimicamente Definito); spray purificante senza conservanti, coloranti e profumi sintetici; certificazione Ecocert
+- TRATTARE E IGIENIZZARE I TESSUTI: dalle proprietà multiuso, può essere utilizzato anche per igienizzare i tessuti e le superifici (divano, scrivania, servizi igienici, così come anche labitacolo della propria auto)
 - CONSIGLI PER LUSO: nebulizzazioni da 1 a 2 volte al giorno, dirette verso lalto, in una stanza di circa 12mq; si consiglia di lasciare agire per 30 minuti; per i tessuti, invece, vaporizzare sulla superficie da trattare fino a 8 nebulizzazioni e uscire dal locale; si consiglia di lasciare agire per 30 minuti e aspirare poi il tessuto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ average: '1.49'
 
 ℹ️:
 
-- Sviluppato dalla collaborazione tra i laboratori Coswell, l’Università di Siena ed il Centro di Studi Termali di Tokyo, i nostri bagnoschiuma sono ricchi in OLIGOMINERALI TERMALI GIAPPONESI utilizzati in tutte le nostre formule per creare un prezioso complex dermo-attivo in grado di restituire alla pelle una sensazione di naturale idratazione ed elasticità.
 - Scopri il segreto delle sorgenti ONSEN e abbraccia ogni giorno unesperienza di benessere autentico con Bionsen!
+- Sviluppato dalla collaborazione tra i laboratori Coswell, l’Università di Siena ed il Centro di Studi Termali di Tokyo, i nostri bagnoschiuma sono ricchi in OLIGOMINERALI TERMALI GIAPPONESI utilizzati in tutte le nostre formule per creare un prezioso complex dermo-attivo in grado di restituire alla pelle una sensazione di naturale idratazione ed elasticità.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DM9N9MHY{{</world>}}

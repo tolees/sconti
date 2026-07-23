@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Penna a sfera (confezione da 144) con inchiostro rosso; ideale per la scuola, la casa o lufficio
 - Questo prodotto contiene il 62% di AS riciclato e certificato GRS (Global Recycled Standard) e il 19,2% di PP riciclato e certificato GRS (Global Recycled Standard)
+- AVVERTENZE: Nocivo in caso di ingestione o contatto con la pelle. Provoca gravi danni agli occhi. Provoca irritazione cutanea Può provocare una reazione allergica cutanea. Sciacquare immediatamente in caso di contatto accidentale con la pelle/orale/con gli occhi. Rivolgiti a un medico se il disagio persiste. Usare sotto la supervisione di un adulto.
 - Fusto della penna semitrasparente per verificare i livelli di inchiostro a colpo docchio; la forma rotonda classica offre una presa confortevole
 - Penna a sfera multifunzione, punta media da 1,0 mm per la scrittura quotidiana, tenere un diario, creare elenchi e altro
-- AVVERTENZE: Nocivo in caso di ingestione o contatto con la pelle. Provoca gravi danni agli occhi. Provoca irritazione cutanea Può provocare una reazione allergica cutanea. Sciacquare immediatamente in caso di contatto accidentale con la pelle/orale/con gli occhi. Rivolgiti a un medico se il disagio persiste. Usare sotto la supervisione di un adulto.
+- Penna a sfera (confezione da 144) con inchiostro rosso; ideale per la scuola, la casa o lufficio
 - Linchiostro ad asciugatura rapida e resistente alle sbavature rende la penna adatta per utenti destrimani e mancini
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

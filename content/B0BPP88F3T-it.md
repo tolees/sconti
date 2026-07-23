@@ -29,8 +29,8 @@ average: '21.5'
 ℹ️:
 
 - Lindt LINDOR Snack Latte, 24 snack con guscio croccante di cioccolato al latte e ripieno dallirresistibile scioglievolezza, in formato 38g La celebre icona Lindor Latte in formato snack: un guscio croccante di finissimo cioccolato al latte racchiude un morbido ripieno dallirresistibile scioglievolezza; formato 38g in expo da 24 pezzi Cacao pregiatissimo, tostatura e macinazione inimitabili, i ottimi ingredienti: questo è il segreto del finissimo cioccolato Lindt
-- Distribuito da: Lindt & Sprüngli S.p.A., Lgo E. Bulgheroni 1, IT - 21056 Induno Olona (VA
 - I prodotti Lindt nascono da passione e dedizione dei Maîtres Chocolatiers, che da più di 175 anni incantano il mondo con capolavori di cioccolato Irresistibile scioglievolezza al latte per una dolce pausa, una coccola quotidiana per il tuo momento di estasi
+- Distribuito da: Lindt & Sprüngli S.p.A., Lgo E. Bulgheroni 1, IT - 21056 Induno Olona (VA
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BPP88F3T{{</world>}}

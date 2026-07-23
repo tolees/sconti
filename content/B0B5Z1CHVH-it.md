@@ -28,11 +28,11 @@ average: '1.39'
 
 ℹ️:
 
-- OTTIMA PER OGNI PIATTO: preparata con ingredienti semplici e di qualità, la Maionese Classica Calvé è la n°1 in Italia*, è perfetta per golosi sandwich, tartine e ricette con le uova
-- FORMATO TOP DOWN 250 ML: disponibile nei formati Vaso 225 ml, 450 ml, 650 ml, 825ml, Top Down 250 ml, 430ml e Tubo 150 ml. Senza conservanti e senza zuccheri, senza glutine, vegetariano. Vaso in vetro riciclabile
 - CALVÉ: dai voce alla tua creatività rendendo i tuoi piatti super gustosi. Calvé, perchè buono può diventare buonissimo!
 - MAIONESE CALVÉ: la Maionese Classica Calvé torna alla sua tradizionale ricetta, quella amata da sempre, fatta con olio di semi di girasole
 - GUSTO IRRESISTIBILE DI SEMPRE: il suo gusto irresistibile accompagna piatti, momenti e occasioni degli italiani da più di 50 anni
+- FORMATO TOP DOWN 250 ML: disponibile nei formati Vaso 225 ml, 450 ml, 650 ml, 825ml, Top Down 250 ml, 430ml e Tubo 150 ml. Senza conservanti e senza zuccheri, senza glutine, vegetariano. Vaso in vetro riciclabile
+- OTTIMA PER OGNI PIATTO: preparata con ingredienti semplici e di qualità, la Maionese Classica Calvé è la n°1 in Italia*, è perfetta per golosi sandwich, tartine e ricette con le uova
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B5Z1CHVH{{</world>}}

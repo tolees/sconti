@@ -28,11 +28,11 @@ average: '89.99'
 
 ℹ️:
 
-- Speak2 40 è certificato per Microsoft Teams e funziona con tutte le altre piattaforme; lintera gamma Speak2 si integra ottima con le soluzioni video Jabra PanaCast e PanaCast 20
-- I quattro microfoni beamforming ultra avanzati del diffusore captano il suono da tutte le direzioni e riducono i rumori di fondo che distraggono;la normalizzazione del livello della voce equalizza tutte le voci allo stesso livello
-- Suono ed estetica ottimali: Laltoparlante full-range da 50 mm e laudio a banda larga garantiscono un suono cristallino, mentre laudio full-duplex assicura conversazioni naturali; lelegante rivestimento in tessuto migliora lacustica
-- Facile connessione e gestione plug-and-play: Le connessioni USB C e USB A sono entrambe sullo stesso cavo e sono compatibili con il PC; rimanete aggiornati con gli aggiornamenti periodici del firmware sul software Jabra Xpress e Direct
 - Nella confezione: 1 vivavoce portatile Jabra Speak2 40, cavo USB C con adattatore USB A, custodia per il trasporto, opuscolo di sicurezza, peso dellunità principale- 245 g / 8,64 oz, colore Grigio scuro
+- Facile connessione e gestione plug-and-play: Le connessioni USB C e USB A sono entrambe sullo stesso cavo e sono compatibili con il PC; rimanete aggiornati con gli aggiornamenti periodici del firmware sul software Jabra Xpress e Direct
+- Speak2 40 è certificato per Microsoft Teams e funziona con tutte le altre piattaforme; lintera gamma Speak2 si integra ottima con le soluzioni video Jabra PanaCast e PanaCast 20
+- Suono ed estetica ottimali: Laltoparlante full-range da 50 mm e laudio a banda larga garantiscono un suono cristallino, mentre laudio full-duplex assicura conversazioni naturali; lelegante rivestimento in tessuto migliora lacustica
+- I quattro microfoni beamforming ultra avanzati del diffusore captano il suono da tutte le direzioni e riducono i rumori di fondo che distraggono;la normalizzazione del livello della voce equalizza tutte le voci allo stesso livello
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BWKFSTL5{{</world>}}

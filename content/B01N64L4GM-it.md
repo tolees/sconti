@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Supporta il normale metabolismo energetico
-- Prodotto di qualità
 - Con vitamine B1 e B6
 - Integratore alimentare di aminoacidi a catena ramificata
+- Supporta il normale metabolismo energetico
 - Adatto ad integrare la dieta degli sportivi
+- Prodotto di qualità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01N64L4GM{{</world>}}

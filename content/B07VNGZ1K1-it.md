@@ -28,14 +28,14 @@ average: '18.325'
 
 ℹ️:
 
-- Funzione turbo
-- 5 velocità di lavorazione
 - Tasto di espulsione delle fruste
+- Alimentazione: ac 220-240v ~ 50/60 Hz
+- Potenza: 170 w
+- Peso: 790g
 - Dimensioni (l x h x p): 17.5 x 14.5 x 8.5 cm
 - Accessori: sbattitori ed impastatori in acciaio inossidabile
-- Potenza: 170 w
-- Alimentazione: ac 220-240v ~ 50/60 Hz
-- Peso: 790g
+- 5 velocità di lavorazione
+- Funzione turbo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07VNGZ1K1{{</world>}}

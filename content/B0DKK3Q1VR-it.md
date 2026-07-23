@@ -28,10 +28,10 @@ average: '18.83'
 
 ℹ️:
 
-- Maniche corte
-- Slim Fit
 - Polo
 - Composizione del materiale: 100% cotone biologico
+- Slim Fit
+- Maniche corte
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DKK3Q1VR{{</world>}}

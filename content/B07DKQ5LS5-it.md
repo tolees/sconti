@@ -28,11 +28,11 @@ average: '11.48'
 
 ℹ️:
 
-- Formulazione ricca di estratti vegetali di Gymnema, Gelso bianco, Bitter melon e Cannella utili per favorire il metabolismo dei carboidrati.
-- ERBA VITA: Dal 1982, siamo specializzati nella produzione di integratori alimentari a base vegetale. La tradizione fitoterapica, il rigore del metodo scientifico e le più avanzate tecnologie si fondono in un perfetto equilibrio
 - FORMATO: confezione da 60 capsule facilmente ingeribili
-- COME USARLO: si consiglia di assumere 2 o 3 capsule al giorno con acqua, circa 15 minuti prima dei due pasti principali ed eventualmente a colazione.
+- Formulazione ricca di estratti vegetali di Gymnema, Gelso bianco, Bitter melon e Cannella utili per favorire il metabolismo dei carboidrati.
 - Completato dalla presenza di Cromo che contribuisce al mantenimento dei normali livelli di glucosio nel sangue.
+- COME USARLO: si consiglia di assumere 2 o 3 capsule al giorno con acqua, circa 15 minuti prima dei due pasti principali ed eventualmente a colazione.
+- ERBA VITA: Dal 1982, siamo specializzati nella produzione di integratori alimentari a base vegetale. La tradizione fitoterapica, il rigore del metodo scientifico e le più avanzate tecnologie si fondono in un perfetto equilibrio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07DKQ5LS5{{</world>}}

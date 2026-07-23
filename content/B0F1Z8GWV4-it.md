@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Con così tanti obiettivi, poteri e componenti, ogni partita vi fornirà unesperienza di gioco davvero unica!
-- Costruite le vostre flotte, esplorate mondi esotici, riscoprite antiche tecnologie e portate la vostra fazione alla vittoria!
-- State esplorando la Periferia, una stupefacente ma misteriosa regione densa di pericoli, in balia dei cosiddetti Predoni.
-- Andromedas Edge è un esplosivo engine-building con piazzamento lavoratori, caratterizzato da lavoratori (astronavi) migliorabili, poteri asimmetrici, plance personalizzabili, combattimenti allultimo sangue e movimenti tattici su mappa esagonale.
 - Numero di giocatori: 2-4 | Età consigliata: 13+ | Durata media: 120 min | Edizione in Lingua Italiana
+- Con così tanti obiettivi, poteri e componenti, ogni partita vi fornirà unesperienza di gioco davvero unica!
+- State esplorando la Periferia, una stupefacente ma misteriosa regione densa di pericoli, in balia dei cosiddetti Predoni.
+- Costruite le vostre flotte, esplorate mondi esotici, riscoprite antiche tecnologie e portate la vostra fazione alla vittoria!
+- Andromedas Edge è un esplosivo engine-building con piazzamento lavoratori, caratterizzato da lavoratori (astronavi) migliorabili, poteri asimmetrici, plance personalizzabili, combattimenti allultimo sangue e movimenti tattici su mappa esagonale.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F1Z8GWV4{{</world>}}

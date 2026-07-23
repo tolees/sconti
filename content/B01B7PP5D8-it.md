@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- QUALITÀ INCONFONDIBILE: il the freddo Estathé è realizzato con pregiate foglie di the coltivate in Oriente, Sri Lanka, India e Cina grazie alle condizioni ideali per la loro crescita
-- TRADIZIONE AUTENTICA: linfusione in acqua calda di foglie di the attentamente selezionate conferisce ad Estathè le proprietà organolettiche del vero infuso di the, proprio come fatto in casa
 - GUSTO INIMITABILE: il connubio tra linfuso di the nero e succo di pesca, dona a Estathé Pesca il suo sapore unico e inconfondibile, naturalmente dissetante, senza coloranti e senza glutine
 - THÉ BEST: dal 1994 è il vero infuso di the alla pesca preparato secondo la tradizione, la bibita rinfrescante ideale per dissettarsi durante le calde giornate estive
+- TRADIZIONE AUTENTICA: linfusione in acqua calda di foglie di the attentamente selezionate conferisce ad Estathè le proprietà organolettiche del vero infuso di the, proprio come fatto in casa
 - IMPEGNO PER LAMBIENTE: Estathé si impegna a progettare il 100% degli imballaggi in modo che siano riutilizzabili, riciclabili o compostabili
+- QUALITÀ INCONFONDIBILE: il the freddo Estathé è realizzato con pregiate foglie di the coltivate in Oriente, Sri Lanka, India e Cina grazie alle condizioni ideali per la loro crescita
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01B7PP5D8{{</world>}}

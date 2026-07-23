@@ -28,8 +28,8 @@ average: '24.9966666666667'
 
 ℹ️:
 
-- New Classic Toys - Coffee Maker - White
 - Questo articolo fa parte della New Classic Toys "Bon Appetit Collection
+- New Classic Toys - Coffee Maker - White
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07CFSHGHC{{</world>}}

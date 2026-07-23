@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Audio uniforme e bilanciato in ogni scena - Che tu stia sussurrando o urlando, il controllo adattivo del guadagno di questo microfono wireless[5] mantiene il tuo audio nitido.
-- Funzionalità 4TX + 8RX e uscita a quattro canali [1] - Il ricevitore di questo microfono lavalier può collegarsi a 4 trasmettitori e sincronizzare laudio con 7 ricevitori aggiuntivi, ideale per podcast o interviste di gruppo.
-- Include due trasmettitori per DJI Mic 3, un ricevitore, una custodia di ricarica, un adattatore per telefono cellulare Mic 3 (USB-C) e molto altro. Registra facilmente due voci, con unautonomia di registrazione fino a 28 ore.
-- Connessione diretta con l’ecosistema DJI – Con DJI OsmoAudio, un trasmettitore può connettersi a Osmo Nano, Osmo 360, Osmo Mobile 7P, Osmo Action 5 Pro, Osmo Action 4 o Osmo Pocket 3 senza l’uso del ricevitore, per un audio di qualità superiore.
 - Audio perfetto, ovunque registri - Scegli le tre tonalità vocali [3] e due livelli di cancellazione del rumore [5] di questo microfono wireless più adatti al tuo stile per eliminare il rumore in parchi o strade.
+- Funzionalità 4TX + 8RX e uscita a quattro canali [1] - Il ricevitore di questo microfono lavalier può collegarsi a 4 trasmettitori e sincronizzare laudio con 7 ricevitori aggiuntivi, ideale per podcast o interviste di gruppo.
+- Non perdere mai una ripresa con il backup di livello professionale - La registrazione interna con float a 32 bit (dual-file) di questo microfono wireless cattura ogni minimo dettaglio.
+- Connessione diretta con l’ecosistema DJI – Con DJI OsmoAudio, un trasmettitore può connettersi a Osmo Nano, Osmo 360, Osmo Mobile 7P, Osmo Action 5 Pro, Osmo Action 4 o Osmo Pocket 3 senza l’uso del ricevitore, per un audio di qualità superiore.
 - Leggero e intuitivo, dimensioni compatte [9] - Portalo ovunque desideri: in tasca o nella borsa, è pronto per vlog di viaggi, interviste in strada
 - Audio cristallino, anche in spazi affollati - Lanti-interferenza a doppia banda [2] di questo microfono wireless garantisce una trasmissione audio impeccabile e senza perdita di qualità, anche durante eventi dal vivo o in uffici affollati.
-- Non perdere mai una ripresa con il backup di livello professionale - La registrazione interna con float a 32 bit (dual-file) di questo microfono wireless cattura ogni minimo dettaglio.
+- Audio uniforme e bilanciato in ogni scena - Che tu stia sussurrando o urlando, il controllo adattivo del guadagno di questo microfono wireless[5] mantiene il tuo audio nitido.
+- Include due trasmettitori per DJI Mic 3, un ricevitore, una custodia di ricarica, un adattatore per telefono cellulare Mic 3 (USB-C) e molto altro. Registra facilmente due voci, con unautonomia di registrazione fino a 28 ore.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F995J8FR{{</world>}}

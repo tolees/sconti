@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- VOLUME 25L E NO PRE-RISCALDAMENTO: il volume interno da 25 litri, con 4 livelli di inserimento, è adatto per porzioni abbondanti; la tecnologia subito pronto non necessita di pre-riscaldamento, consentendo una preparazione più rapida
-- SET ACCESSORI DI COTTURA: include laccessorio girarrosto (rotisserie) per la cottura uniforme del pollo, un cestino in rete per la frittura ad aria (patatine fritte), una griglia e una teglia smaltata
-- DISPLAY TOUCH E REGOLAZIONE TEMPERATURA: il pannello di controllo touch permette un utilizzo intuitivo dei programmi; la temperatura è regolabile manualmente da 40°c (per mantenimento in caldo o lievitazione) fino a 220°c per cotture intense
 - VASSOIO RACCOGLIBRICIOLE: include una pratica maniglia per rimuovere in sicurezza gli accessori caldi (girarrosto, cestino); il vassoio raccoglibriciole estraibile è posizionato sul fondo e facilita la pulizia
 - COMBINAZIONE FORNO E FRIGGITRICE AD ARIA: unisce le funzioni di un forno tradizionale a quelle di una friggitrice ad aria; i 12 programmi automatici selezionabili via display touch includono impostazioni per patatine fritte, pizza, pollo e verdure
+- VOLUME 25L E NO PRE-RISCALDAMENTO: il volume interno da 25 litri, con 4 livelli di inserimento, è adatto per porzioni abbondanti; la tecnologia subito pronto non necessita di pre-riscaldamento, consentendo una preparazione più rapida
+- DISPLAY TOUCH E REGOLAZIONE TEMPERATURA: il pannello di controllo touch permette un utilizzo intuitivo dei programmi; la temperatura è regolabile manualmente da 40°c (per mantenimento in caldo o lievitazione) fino a 220°c per cotture intense
+- SET ACCESSORI DI COTTURA: include laccessorio girarrosto (rotisserie) per la cottura uniforme del pollo, un cestino in rete per la frittura ad aria (patatine fritte), una griglia e una teglia smaltata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DDY2MPFL{{</world>}}

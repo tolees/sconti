@@ -28,11 +28,11 @@ average: '272.04'
 
 ℹ️:
 
-- Display Extreme AMOLED ultra-luminoso. Goditi film, serie e giochi su un ampio display da 6,78”, con una risoluzione più nitida e una luminosità superiore.
-- Approfitta di un anno extra di garanzia. Comparto fotografico ad alta risoluzione da 108 MP. Scatta foto più realistiche che mai, cattura immagini ultra-grandangolari e selfie di qualità professionale.
-- Batteria a lunga durata. Fino a 37 ore di autonomia con una sola carica grazie alla batteria da 5100 mAh e alla ricarica TurboPower ultra-rapida.
 - Design elegante e resistente. Esplora in sicurezza con uno stile impeccabile: resistenza Military Standard, prestazioni del display migliori contro cadute e graffi e protezione dall’acqua IP64.
 - Prestazioni 5G fulminee. Vivi velocità 5G incredibilmente rapide grazie al processore MediaTek e fino a 24 GB di RAM con RAM Boost.
+- Batteria a lunga durata. Fino a 37 ore di autonomia con una sola carica grazie alla batteria da 5100 mAh e alla ricarica TurboPower ultra-rapida.
+- Display Extreme AMOLED ultra-luminoso. Goditi film, serie e giochi su un ampio display da 6,78”, con una risoluzione più nitida e una luminosità superiore.
+- Approfitta di un anno extra di garanzia. Comparto fotografico ad alta risoluzione da 108 MP. Scatta foto più realistiche che mai, cattura immagini ultra-grandangolari e selfie di qualità professionale.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GKGH7CKL{{</world>}}

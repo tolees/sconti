@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Ogni giocatore deve cercare di giocare le proprie tessere con i fiori senza che vengano rivelate quelle con i teschi
-- Chi riuscirà a celare al meglio i propri teschi e a spaccarli per fiori
-- Skull è rapido e immediato, capace di entusiasmare tutti i giocatori
-- Numero di giocatori: 3-6, età consigliata: 10+ anni , durata media: 30 min, edizione in italiano
 - Un gioco di bluff, rischio e strategia che saprà appassionare tutti!
+- Numero di giocatori: 3-6, età consigliata: 10+ anni , durata media: 30 min, edizione in italiano
+- Chi riuscirà a celare al meglio i propri teschi e a spaccarli per fiori
+- Ogni giocatore deve cercare di giocare le proprie tessere con i fiori senza che vengano rivelate quelle con i teschi
+- Skull è rapido e immediato, capace di entusiasmare tutti i giocatori
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D81H4HP6{{</world>}}

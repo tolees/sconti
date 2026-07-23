@@ -28,11 +28,11 @@ average: '19.88'
 
 ℹ️:
 
-- MULTIPACK: Confezione 11 pezzi. Da sempre produciamo il cioccolato in modo diverso: in armonia con luomo e la natura, insieme alle persone che amano coltivare il cacao e che condividono la nostra stessa passione.
-- PLUS: Ingredienti naturali selezionati e di alta qualità. Ricette ridotte all’essenziale. No OGM, No Aromi, No Additivi. Confezione interamente riciclabile. Produzione climaticamente neutra.
 - INGREDIENTI: zucchero,ARACHIDI,pasta di cacao,burro di cacao,LATTE intero in polvere,LATTOSIO,LATTE scremato in polvere,BURRO anidro,emulsionante: lecitine (SOIA);,sale (0,3 %)
-- RITTER SPORT: Creiamo il tuo cioccolato preferito con i nostri migliori ingredienti insieme a persone esperte nelle coltivazione del cacao e accumunate dalla stessa passione.
+- MULTIPACK: Confezione 11 pezzi. Da sempre produciamo il cioccolato in modo diverso: in armonia con luomo e la natura, insieme alle persone che amano coltivare il cacao e che condividono la nostra stessa passione.
 - ARACHIDI TOSTATE: Scommettiamo che con Arachidi Tostate sarà amore al primo quadratino? Cioccolato al latte ricchissimo di arachidi tostate e leggermente salate. E quando diciamo ricchissimo, intendiamo DAVVERO ricchissimo: il 25% della tavoletta è composto da intere arachidi selezionate e tostate, per unesperienza sensoriale appagante e semplicemente irresistibile.
+- RITTER SPORT: Creiamo il tuo cioccolato preferito con i nostri migliori ingredienti insieme a persone esperte nelle coltivazione del cacao e accumunate dalla stessa passione.
+- PLUS: Ingredienti naturali selezionati e di alta qualità. Ricette ridotte all’essenziale. No OGM, No Aromi, No Additivi. Confezione interamente riciclabile. Produzione climaticamente neutra.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FWKMNSN3{{</world>}}

@@ -28,9 +28,9 @@ average: '52.24'
 
 ℹ️:
 
+- SODDISFAZIONE GARANTITA - Crediamo nella qualità dei nostri semi EXPRESS: se la germinazione non soddisfa le aspettative, rimborsiamo il 100% entro 60 giorni. LERAVA per un prato perfetto e resistente
 - RESISTENTE ALLA SICCITÀ - I semi prato sopportano periodi di siccità e alte temperature, mantenendo un prato denso. Ideale per prati soleggiati o in mezz’ombra, adatti a diverse condizioni climatiche.
 - CRESCITA RAPIDA E FITTA - I semi prato EXPRESS garantiscono germinazione veloce e crescita intensa. Ideali per ottenere un prato verde, denso e uniforme in pochi giorni, senza rinunciare alla qualità.
-- SODDISFAZIONE GARANTITA - Crediamo nella qualità dei nostri semi EXPRESS: se la germinazione non soddisfa le aspettative, rimborsiamo il 100% entro 60 giorni. LERAVA per un prato perfetto e resistente
 - VERDE TUTTO L’ANNO - Ideali per rigenerare aree usurate o rovinate, i semi offrono una copertura rapida e uniforme. Ideale per come semi prato rigenerante rapido per mantenere un giardino curato.
 - RESISTENZA E DURATA - I semi prato calpestabile LERAVA EXPRESS offrono robustezza e durata. Perfetti per giardini con bambini e animali, mantengono un prato sano e compatto anche con uso intenso.
 

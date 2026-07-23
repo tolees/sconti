@@ -28,11 +28,11 @@ average: '4.64'
 
 ℹ️:
 
-- MODO DUSO: Per uso topico. Agitare bene il contenitore prima dell’uso. Spruzzare uniformemente su gambe e braccia ad una distanza di circa 15/20 cm per circa 15 secondi sulla pelle scoperta
-- AVVERTENZE: Non utilizzare su bambini sotto i 12 anni. Conservare fuori dalla portata dei bambini e lontano da alimenti o mangimi e da bevande. Evitare il contatto con gli occhi, il naso e la bocca
-- EFFICACIA: Efficace contro le zanzare tropicali per 3 ore e mezzo, contro le zanzare comuni, tigre e le zecche per 5 ore
-- SPRAY INSETTO-REPELLENTE: Spray antipuntura pronto alluso, ideale contro le punture di zanzara comune, tigre, tropicale e zecche
 - PREP: Dal 1860 Prep è lo specialista della pelle, una soluzione per ogni tipo di esigenza e irritazione
+- SPRAY INSETTO-REPELLENTE: Spray antipuntura pronto alluso, ideale contro le punture di zanzara comune, tigre, tropicale e zecche
+- MODO DUSO: Per uso topico. Agitare bene il contenitore prima dell’uso. Spruzzare uniformemente su gambe e braccia ad una distanza di circa 15/20 cm per circa 15 secondi sulla pelle scoperta
+- EFFICACIA: Efficace contro le zanzare tropicali per 3 ore e mezzo, contro le zanzare comuni, tigre e le zecche per 5 ore
+- AVVERTENZE: Non utilizzare su bambini sotto i 12 anni. Conservare fuori dalla portata dei bambini e lontano da alimenti o mangimi e da bevande. Evitare il contatto con gli occhi, il naso e la bocca
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GTRR555S{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- USO IN AMMOLLO: versa 100ml di additivo in 5L dacqua con detersivo. Lascia in ammollo 20/30 minuti e quindi risciacqua a fondo con acqua fredda. Non usare il prodotto direttamente su parti metalliche e se hai subbi sulla resistenza del colore, versa il prodotto su una parte nascosta del capo. *Rimozione meccanica di germi e batteri. Non è un disinfettante.
 - PRODOTTO: Citrosil additivo igienizzante, indicato sia per capi bianchi che colorati, igienizza il bucato di tutta la famiglia, lasciando un piacevole profumo naturale
 - USO IN LAVATRICE: versa il detersivo abituale, poi aggiungi 100ml di additivo (1 tappo = 60ml) nella vaschetta di lavaggio o nel cestello della lavatrice ed inizia subito il lavaggio. In caso di partenza ritardata metti ladditivo nella vaschetta di lavaggio o inseriscilo sopra il bucato in una pallina dosatrice.
 - AZIONE: il prodotto agisce nel cuore del bucato già a basse temperature, eliminando fino al 99,99% di germi e batteri*, neutralizzando i cattivi odori
 - PROFUMAZIONE: ladditivo grazie alle essenze di origine vegetale lascia sui capi un piacevole profumo naturale allessenza di lavanda
+- USO IN AMMOLLO: versa 100ml di additivo in 5L dacqua con detersivo. Lascia in ammollo 20/30 minuti e quindi risciacqua a fondo con acqua fredda. Non usare il prodotto direttamente su parti metalliche e se hai subbi sulla resistenza del colore, versa il prodotto su una parte nascosta del capo. *Rimozione meccanica di germi e batteri. Non è un disinfettante.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CQPH4GGB{{</world>}}

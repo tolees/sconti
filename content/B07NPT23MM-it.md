@@ -28,10 +28,10 @@ average: '29.9'
 
 ℹ️:
 
-- Barbecue rettangolare BestBQ Griglia cromata rimovibile in acciaio al carbonio con manici pieghevoli Struttura tubolare in acciaio al carbonio (Ø 22 mm) Parafiamma in acciaio al carbonio (0,7 mm) 4 posizioni di cottura Spessore contenitore brace 0,7 mm - h. 7,5 cm Ripiano inferiore Spazio cottura: 53 x 34,5 cm Misure: l. 58 x p. 38 x h. 82 cm Kit di montaggio incluso Colore: nero
 - Barbecue rettangolare BestBQ; Griglia cromata rimovibile in acciaio al carbonio con manici pieghevoli ; Struttura tubolare in acciaio al carbonio (Ø 22 mm); Parafiamma in acciaio al carbonio (0,7 mm)
-- 4 posizioni di cottura; Spessore contenitore brace 0,7 mm - h. 7,5 cm; Ripiano inferiore; Spazio cottura: 53 x 34,5 cm
+- Barbecue rettangolare BestBQ Griglia cromata rimovibile in acciaio al carbonio con manici pieghevoli Struttura tubolare in acciaio al carbonio (Ø 22 mm) Parafiamma in acciaio al carbonio (0,7 mm) 4 posizioni di cottura Spessore contenitore brace 0,7 mm - h. 7,5 cm Ripiano inferiore Spazio cottura: 53 x 34,5 cm Misure: l. 58 x p. 38 x h. 82 cm Kit di montaggio incluso Colore: nero
 - Misure: l. 58 x p. 38 x h. 82 cm; Kit di montaggio incluso; Colore: nero;
+- 4 posizioni di cottura; Spessore contenitore brace 0,7 mm - h. 7,5 cm; Ripiano inferiore; Spazio cottura: 53 x 34,5 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07NPT23MM{{</world>}}

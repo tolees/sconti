@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- VITAVEA: Magnesio Complex è sviluppato e prodotto nei nostri laboratori in Vandea, Francia, da esperti in micronutrizione e nel rispetto dei processi di produzione e della qualità. Ci impegniamo per offrirvi il meglio che la natura ci da per il tuo benessere, al naturale.
+- POSOLOGIA: Assumere 3 capsule al giorno con un bicchiere dacqua. Lassunzione lontano dai pasti è generalmente consigliata per favorire un assorbimento ottimale, specialmente per forme come il magnesio citrato (364 mg) o il magnesio bisglicinato (281 mg) che hanno elevata biodisponibilità. Una confezione offre un trattamento di 6 mesi.
 - SUPPORTO ENERGIA E MUSCOLI: il magnesio contribuisce a ridurre stanchezza e affaticamento, supportando la funzione muscolare e il metabolismo energetico dellorganismo. Ideale per chi pratica sport, affronta giornate intense o soffre di crampi muscolari. Il magnesio contribuisce a bilanciare i livelli di sodio, potassio e calcio supportando lequilibrio elettrolitico.
 - MAGNESIO BISGLICINATO: Magnesio Complex consente di integrare 5 forme di magnesio tra cui Bisglicinato, Citrato e Liposomiale + Vitamina B6. Apporta 400 mg di Magnesio Elementare con una formula ad elevata tolleranza intestinale e assorbimento rapido.
-- POSOLOGIA: Assumere 3 capsule al giorno con un bicchiere dacqua. Lassunzione lontano dai pasti è generalmente consigliata per favorire un assorbimento ottimale, specialmente per forme come il magnesio citrato (364 mg) o il magnesio bisglicinato (281 mg) che hanno elevata biodisponibilità. Una confezione offre un trattamento di 6 mesi.
-- VITAVEA: Magnesio Complex è sviluppato e prodotto nei nostri laboratori in Vandea, Francia, da esperti in micronutrizione e nel rispetto dei processi di produzione e della qualità. Ci impegniamo per offrirvi il meglio che la natura ci da per il tuo benessere, al naturale.
 - EQUILIBRIO NERVOSO: lintegrazione di magnesio supporta il normale funzionamento del sistema nervoso e migliora la qualità del sonno. Aiuta a combattere le tensioni quotidiane favorendo una sensazione di rilassamento e concentrazione. Secondo alcuni studi, riduce lo stress in 8 settimane.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

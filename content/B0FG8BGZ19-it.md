@@ -29,10 +29,10 @@ average: '669.41'
 ℹ️:
 
 - DisplayWidget Center consente di regolare facilmente le impostazioni del monitor con il semplice utilizzo del mouse
-- Tempo di risposta di 0,03 ms (GTG), per un gameplay sempre fluido; allo stesso tempo, la tecnologia ASUS Extreme Low Motion Blur (ELMB) riduce ulteriormente il ghosting e la sfocatura del movimento per una rappresentazione di gioco nitida con frame rate elevati
 - Grazie al 99% di spazio colore DCI-P3 e allavanzata tecnologia VESA DisplayHDR 400 True Black si potranno avere immagini HDR mozzafiato e toni accurati per lediting di foto e video
 - Monitor da gioco da 31,5 pollici 4K UHD QD-OLED (3840 x 2160) con frequenza di aggiornamento ultraveloce a 165 Hz, progettato per giocatori professionisti e gameplay
 - Connettività estesa, grazie alla DisplayPort 1.4, allHDMI 2.1 e alla porta USB-C in Alt Mode
+- Tempo di risposta di 0,03 ms (GTG), per un gameplay sempre fluido; allo stesso tempo, la tecnologia ASUS Extreme Low Motion Blur (ELMB) riduce ulteriormente il ghosting e la sfocatura del movimento per una rappresentazione di gioco nitida con frame rate elevati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FG8BGZ19{{</world>}}

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- DESIGN MODERNO: un elegante contenitore di vetro con unetichetta discreta e una cera dai colori vivaci, per un look raffinato che si integra armoniosamente nei tuoi spazi.
 - CREARE LAMBIENTE PERFETTO: disponibile in una selezione di fragranze di alta qualità, con una miscela di cera di soia di prima qualità e oli essenziali per creare unatmosfera accogliente nella tua casa.
-- LA CANDELA REGALO PERFETTA PER LEI: le candele profumate Yankee Candle sono il regalo perfetto per compleanni, anniversari e altre occasioni.
 - RED APPLE WREATH:Un felice ritorno a casa per le feste con note gioiose che richiamano il profumo di mele dolci, la cannella, le noci e lacero.
+- LA CANDELA REGALO PERFETTA PER LEI: le candele profumate Yankee Candle sono il regalo perfetto per compleanni, anniversari e altre occasioni.
+- DESIGN MODERNO: un elegante contenitore di vetro con unetichetta discreta e una cera dai colori vivaci, per un look raffinato che si integra armoniosamente nei tuoi spazi.
 - CANDELE A COMBUSTIONE DI LUNGA DURATA: 35-50 ore; 8 cm di altezza x 10 cm di larghezza (284 g)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

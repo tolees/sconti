@@ -29,9 +29,9 @@ average: '42.48'
 ℹ️:
 
 - [ Design Ultrasottile 0,86 CM ] Questa batteria esterna da 5000 mAh ha uno spessore di soli 0,86cm e sta comodamente in qualsiasi tasca. Ti garantisce una ricarica di emergenza rapida in qualsiasi momento.
-- [ Design Ergonomico Superiore ] Larea di ricarica è realizzata in silicone morbido e piacevole al tatto, mentre i pannelli laterali in metallo esaltano laspetto di alta gamma dellinsieme. Ciò offre non solo una presa confortevole, ma anche una ricarica agevole.
-- [ Carica via Cavo PD 20W ] Questa batteria esterna ultrasottile supporta anche la ricarica rapida bidirezionale da 20W tramite la porta USB-C. La ricarica via cavo è compatibile con le serie iPad, Galaxy S25/ S24/ S23/ S22/ S21, ecc. *Per caricare 2 dispositivi simultaneamente, la porta USB-C ha la priorità. La carica wireless, disattivata di default, si attiva premendo il pulsante.
 - [ Protezioni Multiple ] Questo power bank portatile è dotato di un chip batteria ATL allavanguardia, una doppia protezione termica NTC e un dissipatore di calore in metallo che garantisce unefficace dissipazione del calore. La distribuzione intelligente della potenza assicura una ricarica stabile e sicura.
+- [ Carica via Cavo PD 20W ] Questa batteria esterna ultrasottile supporta anche la ricarica rapida bidirezionale da 20W tramite la porta USB-C. La ricarica via cavo è compatibile con le serie iPad, Galaxy S25/ S24/ S23/ S22/ S21, ecc. *Per caricare 2 dispositivi simultaneamente, la porta USB-C ha la priorità. La carica wireless, disattivata di default, si attiva premendo il pulsante.
+- [ Design Ergonomico Superiore ] Larea di ricarica è realizzata in silicone morbido e piacevole al tatto, mentre i pannelli laterali in metallo esaltano laspetto di alta gamma dellinsieme. Ciò offre non solo una presa confortevole, ma anche una ricarica agevole.
 - [ Carica Wireless Qi2 15W ] Grazie alla tecnologia Qi2, potrai usufruire di una ricarica wireless rapida da 15W. Progettato per iPhone 17/ iPhone 17 Air/ iPhone 17 Pro/ iPhone 17 Pro Max, le serie iPhone 16/ 15/ 14/ 13/ 12 (tutti i modelli tranne liPhone 16e).
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

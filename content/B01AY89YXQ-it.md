@@ -28,11 +28,11 @@ average: '99.99'
 
 ℹ️:
 
-- PRATICO OLIATORE AUTOMATICO - la lubrificazione automatica mantiene la lama ben lubrificata per un funzionamento ottimale senza doversi fermarsi a oliare, con la finestra traslucida che consente di controllare il livello dellolio nel serbatoio da 50ml
 - SEGA AD ASTA 20cm POTENTE E LEGGERA PER ALBERI ALTI - solo 3,2kg di peso, lama lunga 20cm e albero in 3 pezzi regolabile fino a 2,6m. La sega ad asta è perfetta per tagliare e potare i rami alti in giardino
-- 3 ANNI DI GARANZIA CON 2 ANNI DI GARANZIA PER LA BATTERIA - Da Greenworks, leader mondiale negli attrezzi elettrici e della tecnologia a batterie, con una reputazione globale per design intelligente, prestazioni elevate e un servizio clienti eccezionale
-- BATTERIA AL LITIO 24V 2Ah DI NUOVA GENERAZIONE - La motosega è alimentata da una batteria evoluta che può essere utilizzata in qualsiasi apparecchio Greenworks da 24V per ridurre gli sprechi risparmiando spazio e denaro
 - FACILE TENSIONAMENTO E TAGLIO VELOCE ED EFFICIENTE - grazie alla barra e alla catena Tri-Link con velocità di 6,7 m/s per effettuare tagli rapidi e netti, non è mai stato così facile rimuovere i rami alti con un potatore a batteria
+- BATTERIA AL LITIO 24V 2Ah DI NUOVA GENERAZIONE - La motosega è alimentata da una batteria evoluta che può essere utilizzata in qualsiasi apparecchio Greenworks da 24V per ridurre gli sprechi risparmiando spazio e denaro
+- PRATICO OLIATORE AUTOMATICO - la lubrificazione automatica mantiene la lama ben lubrificata per un funzionamento ottimale senza doversi fermarsi a oliare, con la finestra traslucida che consente di controllare il livello dellolio nel serbatoio da 50ml
+- 3 ANNI DI GARANZIA CON 2 ANNI DI GARANZIA PER LA BATTERIA - Da Greenworks, leader mondiale negli attrezzi elettrici e della tecnologia a batterie, con una reputazione globale per design intelligente, prestazioni elevate e un servizio clienti eccezionale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01AY89YXQ{{</world>}}

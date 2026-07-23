@@ -28,9 +28,9 @@ average: '23.0875'
 
 ℹ️:
 
-- Agevole maneggevolezza: bit con codice colore per una panoramica e unidentificazione veloce del bit giusto
 - Grandi prestazioni: durezza ottimizzata mediante acciaio modificato s2 e processo di trattamento termico ottimizzato
 - Dotazione di fornitura: ph1, ph2 (2x), ph3, pz1, pz2 (2x), pz3, sl3, sl4, sl5, sl6, h3, h4, h5, h6, t10, t15, t20 (2x), t25, t27, t30, t40, th10, th15, th20 (2x), th25, th27, th30, th40, ph2, pz2, sl6, t15, t20, t25, giradadi con magnete permanente per viti a testa esagonale (6 mm, 8 mm, 10 mm), portabit universale magnetico, portabit universale con funzione quick-change
+- Agevole maneggevolezza: bit con codice colore per una panoramica e unidentificazione veloce del bit giusto
 - Il set è destinato a lavori di avvitamento generici, con trapani avvitatori e cacciavite
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

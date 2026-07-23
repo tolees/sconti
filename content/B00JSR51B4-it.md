@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Cocoa Life è il programma che si impegna nellutilizzo del cacao sostenibilie al 100%
-- Cote dor ti accompagna anche nella preparazione delle tue ricette preferite, dallalbero di natale al cioccolato fino alla rosetta di cioccolato.
-- Contiene 48 confezioni monoporzionate da 25g ciascuna.
-- Ideale per uno spuntino in qualsiasi momento della giornata, per le feste o da condividere con gli amici durante una pausa té o caffè
-- Facili da portare ovunque, in borsa o in ufficio grazie allastuccio richiudibile
 - Cote dOr Cioccolatino con Cioccolato al Latte: il gusto unico Cote dOr racchiuso in un elefantino di cioccolato al latte dal sapore inconfondibile!
+- Cote dor ti accompagna anche nella preparazione delle tue ricette preferite, dallalbero di natale al cioccolato fino alla rosetta di cioccolato.
+- Facili da portare ovunque, in borsa o in ufficio grazie allastuccio richiudibile
+- Ideale per uno spuntino in qualsiasi momento della giornata, per le feste o da condividere con gli amici durante una pausa té o caffè
+- Cocoa Life è il programma che si impegna nellutilizzo del cacao sostenibilie al 100%
+- Contiene 48 confezioni monoporzionate da 25g ciascuna.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00JSR51B4{{</world>}}

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Colore: Verde
-- Suola/Caratteristiche: EVA per leggerezza; Cerniera laterale; Lacci elastici
 - Tomaia: Pelle
 - Soletta: Soletta OrthoLite Recycled per ammortizzazione; Altezza: 2,8 cm
+- Suola/Caratteristiche: EVA per leggerezza; Cerniera laterale; Lacci elastici
+- Colore: Verde
 - Fodera: 100% Poliestere Riciclato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

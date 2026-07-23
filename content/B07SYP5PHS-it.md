@@ -28,11 +28,11 @@ average: '24.99'
 
 ℹ️:
 
+- 6m x 1m LED light tenda + 3m cavo, 200 LEDs; temperatura di colore: 2500K; distanza lampadina: 10 cm; IP44 impermeabile.
 - Bassa tensione e sicurezza: alimentatore certificato 31V GS. 9 modalità (come lampeggiante, sempre attiva, Spegni, ecc. E con funzione di memoria.
-- Risparmio energetico ed eco-compatibilità: temperatura di colore calda 2500K. Il filo di rame puro è riciclabile, senza radiazioni, senza inquinamento e senza ferire gli occhi.
 - Per più occasioni: adatto per varie scene come alberi di Natale, pareti, finestre, porte, pavimenti, soffitti, prati, ecc.
 - Impermeabile: IP44, adatto per uso interno ed esterno. (Si prega di tenere la spina e il controller lontano dallacqua.)
-- 6m x 1m LED light tenda + 3m cavo, 200 LEDs; temperatura di colore: 2500K; distanza lampadina: 10 cm; IP44 impermeabile.
+- Risparmio energetico ed eco-compatibilità: temperatura di colore calda 2500K. Il filo di rame puro è riciclabile, senza radiazioni, senza inquinamento e senza ferire gli occhi.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07SYP5PHS{{</world>}}

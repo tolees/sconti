@@ -28,8 +28,8 @@ average: '48.0'
 
 ℹ️:
 
-- Vestibilità aderente
 - Morbido tessuto in jersey di cotone per un comfort quotidiano
+- Vestibilità aderente
 - Design classico a girocollo e maniche corte
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

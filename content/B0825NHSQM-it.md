@@ -28,9 +28,9 @@ average: '9.28'
 
 ℹ️:
 
-- __Hals:__ Rundhalsausschnitt
-- __Passform:__ klassischer, komfortabler Regular Fit
 - __Stoff:__ leichter Baumwoll-Jersey
+- __Passform:__ klassischer, komfortabler Regular Fit
+- __Hals:__ Rundhalsausschnitt
 - Siebdruck vorne
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

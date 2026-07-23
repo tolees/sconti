@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- LUCI RGB: mouse wireless dotato di luci RGB che cambiano colore durante lutilizzo, grazie al tasto presente sotto la rotella di scorrimento è possibile modificarne anche la modalità di illuminazione
-- CLICK SILENZIOSO: il click silenzioso dei pulsanti permette di giocare con la ottima concentrazione; Regola DPI, illuminazione e funzioni "avanti" e "indietro" grazie ai comodi pulsanti sul mouse
 - MOUSE ERGONOMICO: mouse senza fili che si adatta al palmo della mano, il design alveolare del mouse consente il dissipamento del calore e evita lo scivolamento della mano durante lutilizzo
-- MODALITÀ AUTO-SLEEP: il mouse entrerà automaticamente in modalità auto-sleep dopo un periodo di inattività, per riattivarlo basterà semplicemente cliccare il tasto destro/sinistro
+- CLICK SILENZIOSO: il click silenzioso dei pulsanti permette di giocare con la ottima concentrazione; Regola DPI, illuminazione e funzioni "avanti" e "indietro" grazie ai comodi pulsanti sul mouse
 - MOUSE WIRELESS: una volta inserito il dongle USB-A e attivato il tasto "on", la connessione e configurazione del mouse avvengono in modo automatico per la ottima comodità
+- MODALITÀ AUTO-SLEEP: il mouse entrerà automaticamente in modalità auto-sleep dopo un periodo di inattività, per riattivarlo basterà semplicemente cliccare il tasto destro/sinistro
+- LUCI RGB: mouse wireless dotato di luci RGB che cambiano colore durante lutilizzo, grazie al tasto presente sotto la rotella di scorrimento è possibile modificarne anche la modalità di illuminazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BLM6DPZV{{</world>}}

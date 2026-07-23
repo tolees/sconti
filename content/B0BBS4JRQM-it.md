@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - La torcia elettrica Aluminum Light Pro VARTA è elegante, moderna e robusta. È dunque perfetta per essere usata in casa, macchina, camper, capanno, barca, garage, quando fai trekking o vai a passeggio con il cane, quando stai riparando o costruendo qualcosa.
-- La potenza luminosa arriva fino a 250 lumen con un raggio fino a 70 metri e un’autonomia fino a 35 ore.
-- Un LED ad alte prestazioni con 3 livelli di illuminazione e la facilità di passaggio tra la modalità spot e quella flood la rendono perfetta sia all’aperto che al chiuso.
-- Questa lampada è particolarmente resiliente grazie all’involucro in alluminio anodizzato. Questa lampada ha un pulsante on/off protetto e una struttura confortevole al tatto.
 - Ambito di fornitura: Aluminium Light F20 Pro VARTA con clip per la tasca e 2 pile VARTA Longlife Power AA
+- La potenza luminosa arriva fino a 250 lumen con un raggio fino a 70 metri e un’autonomia fino a 35 ore.
+- Questa lampada è particolarmente resiliente grazie all’involucro in alluminio anodizzato. Questa lampada ha un pulsante on/off protetto e una struttura confortevole al tatto.
+- Un LED ad alte prestazioni con 3 livelli di illuminazione e la facilità di passaggio tra la modalità spot e quella flood la rendono perfetta sia all’aperto che al chiuso.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BBS4JRQM{{</world>}}

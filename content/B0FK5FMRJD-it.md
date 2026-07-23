@@ -28,12 +28,12 @@ average: '1.86'
 
 ℹ️:
 
-- Grazie alla partnership con FORMULA 1, acquistando i prodotti KITKAT puoi partecipare al concorso che mette in palio biglietti ed esperienze VIP per il GP di Monza. Concorso valido dal 29 dicembre 2025 al 7 giugno 2026. Estrazione finale entro il 10 luglio 2026 . Montepremi €23.100 IVA inclusa. Per scoprire come partecipare, consulta il regolamento completo sul nostro sito ufficiale o inquadra il QR code sulla confezione
-- Confezione da 3 Snack di wafer da 41,5g incartati singolarmente (124,5g totali)
-- KitKat è parte di un programma innovativo, lIncome Accelerator Program, che aiuta a distribuire circa 1 milione di piante allanno in Costa dAvorio per supportare la biodiversità nelle coltivazioni di cacao
-- KITKAT Dark è lo snack di wafer croccante ricoperto da un intenso cioccolato fondente, ideale per una pausa dal gusto deciso, nel nuovo pack graficato FORMULA 1
-- IL NIDO CHE CONDIVIDIAMO racchiude limpegno del Gruppo Nestlé. Ramo dopo ramo, ogni iniziativa di sostenibilità contribuisce a diffondere il Buono. Scopri di più sul sito Nestlé
 - Il classico snack con croccante wafer avvolto da cioccolato fondente diventa Official Partner di FORMULA 1
+- IL NIDO CHE CONDIVIDIAMO racchiude limpegno del Gruppo Nestlé. Ramo dopo ramo, ogni iniziativa di sostenibilità contribuisce a diffondere il Buono. Scopri di più sul sito Nestlé
+- KitKat è parte di un programma innovativo, lIncome Accelerator Program, che aiuta a distribuire circa 1 milione di piante allanno in Costa dAvorio per supportare la biodiversità nelle coltivazioni di cacao
+- Grazie alla partnership con FORMULA 1, acquistando i prodotti KITKAT puoi partecipare al concorso che mette in palio biglietti ed esperienze VIP per il GP di Monza. Concorso valido dal 29 dicembre 2025 al 7 giugno 2026. Estrazione finale entro il 10 luglio 2026 . Montepremi €23.100 IVA inclusa. Per scoprire come partecipare, consulta il regolamento completo sul nostro sito ufficiale o inquadra il QR code sulla confezione
+- KITKAT Dark è lo snack di wafer croccante ricoperto da un intenso cioccolato fondente, ideale per una pausa dal gusto deciso, nel nuovo pack graficato FORMULA 1
+- Confezione da 3 Snack di wafer da 41,5g incartati singolarmente (124,5g totali)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FK5FMRJD{{</world>}}

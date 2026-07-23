@@ -28,8 +28,8 @@ average: '10.9'
 
 ℹ️:
 
-- VITA ALTA
 - Tasche laterali
+- VITA ALTA
 - Vita elasticizzata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ average: '18.9557142857143'
 ℹ️:
 
 - Capsule Compatibili Nespresso* con i seguenti modelli di macchine da caffè: Delonghi - Essenza, Essenza Mini EN85R, Citiz, Inissia, Lattissima Premium, Pixie, Prodigio Silver, U; Krups - Citiz, Essenza, Essenza Mini, Inissia, Pixie, Prodigio Titan, U; Nespresso - Essenza Mini C30 Matt Black, Lattissima One; Didiesse
+- CARATTERISTICHE: Un aroma avvolgente, con richiami di pan tostato e lievi accenni speziati. Corpo ricco e pieno, con crema compatta e persistente. Un gusto rotondo e bilanciato, con note di cacao amaro e frutta secca. Coropo: 7/10, Intensità: 7/10, Dolcezza: 6/10
 - MIA NAPOLI: Una miscela elegante ed equilibrata. Napoli non è solo una città, è un modo di vivere il caffè. Solare, eclettica, piena di energia: ogni vicolo racconta una storia, ogni espresso è un rito. La miscela Mia Napoli rende omaggio a questa tradizione con un perfetto equilibrio di pregiati Arabica brasiliani e centroamericani e robusta proveniente da Asia e Africa. Una tostatura intensa ma lenta, dal cuore morbido, proprio come l’anima partenopea
 - FORMATO: Confezione da 100 capsule - 10 confezioni da 10 capsule in ALLUMINIO
-- CARATTERISTICHE: Un aroma avvolgente, con richiami di pan tostato e lievi accenni speziati. Corpo ricco e pieno, con crema compatta e persistente. Un gusto rotondo e bilanciato, con note di cacao amaro e frutta secca. Coropo: 7/10, Intensità: 7/10, Dolcezza: 6/10
 - *Nespresso è un marchio registrato di Societè des Produits Nestlè S.A. Caffè Borbone Srl è produttore autonomo non collegato alla Societè des Produits Nestlè S.A. La compatibilità delle capsule Caffè Borbone è funzionale allutilizzo con macchine da caffè ad uso domestico *Nespresso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

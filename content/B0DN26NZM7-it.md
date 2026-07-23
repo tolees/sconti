@@ -28,10 +28,10 @@ average: '40.0'
 
 ℹ️:
 
-- Composizione del materiale: strato esterno: 100% poliestere; fodera: 100% poliestere; imbottitura: 100% poliestere
 - Maniche lunghe
-- Giacca
 - Colletto Fly-Away
+- Composizione del materiale: strato esterno: 100% poliestere; fodera: 100% poliestere; imbottitura: 100% poliestere
+- Giacca
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DN26NZM7{{</world>}}

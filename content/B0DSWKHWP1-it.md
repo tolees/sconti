@@ -28,12 +28,12 @@ average: '7.55'
 
 ℹ️:
 
-- PER UNA PAUSA DI GUSTO E BENESSERE: Goditi una dolce pausa pomeridiana o serale che unisce gusto e leggerezza. Realizzati con ingredienti naturali, i nostri snack offrono un piacere equilibrato, pensati per ricaricare le energie e condividere momenti speciali con famiglia, amici o colleghi
 - INGREDIENTI SPECIALI: Delizie assortite di cioccolato fondente, cioccolato al latte, cioccolato bianco e caramello, si sposano con la rotondità della crema alla nocciola e al cacao oltre che alle fragranti cialde di wafer. La combinazione ideale per un regalo che sorprende e coccola
+- PER UNA PAUSA DI GUSTO E BENESSERE: Goditi una dolce pausa pomeridiana o serale che unisce gusto e leggerezza. Realizzati con ingredienti naturali, i nostri snack offrono un piacere equilibrato, pensati per ricaricare le energie e condividere momenti speciali con famiglia, amici o colleghi
+- TORTINA LOVER: Tortina Original, Tortina White, Tortina Caramel, Tortina Triple Chocolate e le due Tortine Mini Originale e Dark compongono questo Collection Pack di Tortina Lover. La confezione da regalare ai propri cari per celebrare San Valentino con il gusto inimitabile dei prodotti Loacker
+- 100 ANNI LOACKER: Dal 1925, celebriamo un secolo di passione e dedizione nella creazione di wafer e snack di alta qualità. Ogni prodotto nasce dallamore per ingredienti naturali ed autentici, senza compromessi su qualità e gusto. Perchè la bontà è una scelta ribelle, e da centanni siamo buoni, ma sempre a modo nostro
 - FORMATO: La confezione è composta da 16 tortine (216 g). Le tortine sono racchiuse in pratiche confezioni singole tascabili che assicurano la massima freschezza, come se fossero appena state sfornate
 - COLLECTION PACK: La confezione Tortina Lover è pensata non solo per i momenti di piacere personale, ma anche come scatola regalo per la festa della mamma o altre occasioni speciali. Grazie alle pratiche tortine confezionate singolarmente, puoi gustare il piacere delle Tortine Loacker in qualsiasi momento e luogo
-- 100 ANNI LOACKER: Dal 1925, celebriamo un secolo di passione e dedizione nella creazione di wafer e snack di alta qualità. Ogni prodotto nasce dallamore per ingredienti naturali ed autentici, senza compromessi su qualità e gusto. Perchè la bontà è una scelta ribelle, e da centanni siamo buoni, ma sempre a modo nostro
-- TORTINA LOVER: Tortina Original, Tortina White, Tortina Caramel, Tortina Triple Chocolate e le due Tortine Mini Originale e Dark compongono questo Collection Pack di Tortina Lover. La confezione da regalare ai propri cari per celebrare San Valentino con il gusto inimitabile dei prodotti Loacker
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DSWKHWP1{{</world>}}

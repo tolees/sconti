@@ -28,9 +28,9 @@ average: '10.29'
 
 ℹ️:
 
+- FILATO LEGGERO PER MAGLIONI IN MISTO COTONE: filato per maglione morbido e leggero con un magnifico drappeggio
 - MAGLIONE CON SCOLLO A V PER TUTTI I GIORNI: un capo moderno e classico da usare per vestirsi a strati, perfetto per un look raffinato e casual
 - DETTAGLI: classico scollo a V e maniche lunghe con dettagli a costine su polsini e orlo
-- FILATO LEGGERO PER MAGLIONI IN MISTO COTONE: filato per maglione morbido e leggero con un magnifico drappeggio
 - VESTIBILITÀ CLASSICA: vestibilità aderente ma confortevole, non impedisce i movimenti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

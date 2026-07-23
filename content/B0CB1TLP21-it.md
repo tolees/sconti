@@ -28,9 +28,9 @@ average: '30.0'
 
 ℹ️:
 
-- Calzata regolare
-- Suola in gomma
 - Fodera in materiale sintetico
+- Suola in gomma
+- Calzata regolare
 - Chiusura con lacci
 - Tomaia sintetica
 

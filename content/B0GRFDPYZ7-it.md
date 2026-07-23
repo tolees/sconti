@@ -28,11 +28,11 @@ average: '113.04'
 
 ℹ️:
 
-- ALTEZZA REGOLABILE: il gancio a molla permette alla sedia sospesa da esterno di oscillare in base alle proprie esigenze: seduto, reclinato o a dondolo. Laltezza del sedile è regolabile tramite 2 catene di ferro antiruggine
-- IDROREPELLENTE + RIMOVIBILE: il poliestere idrorepellente del cuscino e poggiatesta della sedia sospesa uovo è conforme agli standard europei di resistenza allabrasione. I rivestimenti sono rimovibili e lavabili
-- SENZA FORATURA + VERSATILE: la poltrona uovo da esterno da 105x105x195 cm non richiede forature ed è ideale per salotti, uffici, balconi, terrazze e giardini. Il colore grigio scuro si adatta a diversi stili di arredamento, creando un angolo di relax
-- FORTEZZA + ALTA STABILITÀ: grazie al telaio in tubi dacciaio zincato di spessore, combinato con una base a 4 gambe, tubi dacciaio antiruggine e piedini antiscivolo, questa sedia sospesa è forte e stabile senza graffiare il pavimento
 - RATTAN PE + ERGONOMICO: il rattan PE liscio e flessibile è strettamente intrecciato al telaio della poltrona a uovo, adattandosi alle curve del corpo con un buon sostegno. Il morbido cuscino in cotone PP e il poggiatesta sono belli e confortevoli
+- IDROREPELLENTE + RIMOVIBILE: il poliestere idrorepellente del cuscino e poggiatesta della sedia sospesa uovo è conforme agli standard europei di resistenza allabrasione. I rivestimenti sono rimovibili e lavabili
+- ALTEZZA REGOLABILE: il gancio a molla permette alla sedia sospesa da esterno di oscillare in base alle proprie esigenze: seduto, reclinato o a dondolo. Laltezza del sedile è regolabile tramite 2 catene di ferro antiruggine
+- FORTEZZA + ALTA STABILITÀ: grazie al telaio in tubi dacciaio zincato di spessore, combinato con una base a 4 gambe, tubi dacciaio antiruggine e piedini antiscivolo, questa sedia sospesa è forte e stabile senza graffiare il pavimento
+- SENZA FORATURA + VERSATILE: la poltrona uovo da esterno da 105x105x195 cm non richiede forature ed è ideale per salotti, uffici, balconi, terrazze e giardini. Il colore grigio scuro si adatta a diversi stili di arredamento, creando un angolo di relax
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GRFDPYZ7{{</world>}}

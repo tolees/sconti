@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- 2 HDMI, 1 Display Port, 2 USB, Ingresso Audio
+- 2560x1440 (QHD), Pannello QD-OLED Glare Free, 16:9, HDR10+
 - Refresh Rate 240Hz, Response Time 0,03ms (GtG), Compatibiltà G-Sync
 - Contenuto: 1x Monitor Gaming Odyssey OLED G6 27", Include cavo di alimentazione, cavo DP, Dimensioni con base (LxAxP): 61,17 x 55,42 x 26,35 cm
-- 2 HDMI, 1 Display Port, 2 USB, Ingresso Audio
 - Samsung Monitor Gaming Odyssey OLED G6, 27, Flat
-- 2560x1440 (QHD), Pannello QD-OLED Glare Free, 16:9, HDR10+
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DPJBQZ26{{</world>}}

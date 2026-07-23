@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Ogni porzione contiene 5 g di BCAA, 3 g di glutammina e elettroliti: una formula potente per sostenere l’apporto di aminoacidi essenziali durante tutto il programma di allenamento.
 - Dai il massimo ad ogni sessione con il nostro potente mix di BCAA, glutammina e elettroliti. Perfetto per sessioni più lunghe, allenamenti HYROX e HIIT.
-- La nostra versione intra-workout di Dope, realizzata per mantenere il massimo della freschezza, energia e idratazione durante allenamenti intensi. Assumilo durante l’allenamento per ottenere il massimo della carica e della concentrazione.
 - DOPE BCAA è il tuo alleato in ogni allenamento. È disponibile in un’ampia gamma di gusti rinfrescanti, come Blue Raspberry, e diventerà una scelta irrinunciabile per i tuoi workout.
+- La nostra versione intra-workout di Dope, realizzata per mantenere il massimo della freschezza, energia e idratazione durante allenamenti intensi. Assumilo durante l’allenamento per ottenere il massimo della carica e della concentrazione.
 - Le vitamine B6 e B12 aiutano a ridurre la fatica e a dare il massimo durante gli allenamenti più lunghi. Insieme al magnesio, ripristinano l’equilibrio elettrolitico durante il workout.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

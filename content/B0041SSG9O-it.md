@@ -28,11 +28,11 @@ average: '20.25'
 
 ℹ️:
 
-- Isolati 100 V
-- Set 6 giraviti Fat Max
 - Lama in acciaio al cromo vanadio
-- Grande impugnatura morbida antiscivilo
 - Contenuto: lama taglio parallela mm 2,5x50 - 3,5x75 - 5,5x150 - lama Phillips 1x100 - 2x125 - tester
+- Isolati 100 V
+- Grande impugnatura morbida antiscivilo
+- Set 6 giraviti Fat Max
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0041SSG9O{{</world>}}

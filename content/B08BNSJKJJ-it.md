@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Un gioco di carte sfizioso per l’ora del tè, visibilmente ispirato al celebre capolavoro di Lewis Carroll: Alice nel Paese delle Meraviglie.
-- Il Bianconiglio, Il Fante di Cuori, il Brucaliffo e la stessa Alice vi faranno compagnia in questa sfida..all’ultima stella! Accaparratevi crostate e clessidre, che torneranno molto utili! Nonché l’ambito fenicottero rosa per emergere nei pareggi.
-- Il gioco procede in questo modo fino alla fine. Vince il giocatore con il maggior numero di stelle!
-- Durante lo scontro, i giocatori girano contemporaneamente la carta in cima ai propri mazzi. Chi rivela la carta con il valore più alto può applicare l’effetto di quella carta o comprare una carta per potenziare il proprio mazzo.
 - Numero di giocatori: 2 | Età consigliata: 10+ Anni | Durata media: 30 minuti | Edizione in lingua italiana
+- Il Bianconiglio, Il Fante di Cuori, il Brucaliffo e la stessa Alice vi faranno compagnia in questa sfida..all’ultima stella! Accaparratevi crostate e clessidre, che torneranno molto utili! Nonché l’ambito fenicottero rosa per emergere nei pareggi.
+- Durante lo scontro, i giocatori girano contemporaneamente la carta in cima ai propri mazzi. Chi rivela la carta con il valore più alto può applicare l’effetto di quella carta o comprare una carta per potenziare il proprio mazzo.
+- Il gioco procede in questo modo fino alla fine. Vince il giocatore con il maggior numero di stelle!
+- Un gioco di carte sfizioso per l’ora del tè, visibilmente ispirato al celebre capolavoro di Lewis Carroll: Alice nel Paese delle Meraviglie.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08BNSJKJJ{{</world>}}

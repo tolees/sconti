@@ -28,9 +28,9 @@ average: '17.63'
 
 ℹ️:
 
-- Lato con tubi curvi
-- UPF 20+
 - forma galleggiante sportiva senza coppe morbide
+- UPF 20+
+- Lato con tubi curvi
 - Morbida fodera frontale
 - Fascia sottoseno di supporto
 

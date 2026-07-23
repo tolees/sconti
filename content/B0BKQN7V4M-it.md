@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Ottimo come regalo
 - Per stimolare limmaginazione
+- Ottimo come regalo
 - Un giocattolo per bambini
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

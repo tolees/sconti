@@ -28,11 +28,11 @@ average: '19.8'
 
 ℹ️:
 
-- ZETA FARMACEUTICI GROUP - è una realtà industriale Italiana specializzata nello sviluppo, produzione e distribuzione di farmaci, dispositivi medici, cosmetici, integratori alimentari, biocidi.
-- CONTENUTO: Riceverai tre confezioni da 10 flaconcini ciascuna da 8 ml di Prolife 10 Forte, un integratore ricco di fermenti lattici vivi e vitamine del gruppo B, ideale per favorire l’equilibrio della flora batterica intestinale.
-- SUPPORTO PER IL BENESSERE INTESTINALE: Prolife 10 Forte aiuta a ristabilire l’equilibrio della flora batterica intestinale, migliorando il benessere digestivo e favorendo una sensazione di comfort e leggerezza.
-- ALTA CONCENTRAZIONE DI FERMENTI LATTICI: Ogni flaconcino contiene 10 miliardi di fermenti lattici vivi, perfetti per riequilibrare la flora intestinale in caso di disbiosi dovuta a stress, dieta scorretta o trattamenti antibiotici.
 - ARRICCHITO CON VITAMINE DEL GRUPPO B: La presenza di vitamine B1, B2, B6 e B12 contribuisce al normale metabolismo energetico, favorendo il benessere generale e migliorando la risposta del sistema immunitario.
+- SUPPORTO PER IL BENESSERE INTESTINALE: Prolife 10 Forte aiuta a ristabilire l’equilibrio della flora batterica intestinale, migliorando il benessere digestivo e favorendo una sensazione di comfort e leggerezza.
+- CONTENUTO: Riceverai tre confezioni da 10 flaconcini ciascuna da 8 ml di Prolife 10 Forte, un integratore ricco di fermenti lattici vivi e vitamine del gruppo B, ideale per favorire l’equilibrio della flora batterica intestinale.
+- ALTA CONCENTRAZIONE DI FERMENTI LATTICI: Ogni flaconcino contiene 10 miliardi di fermenti lattici vivi, perfetti per riequilibrare la flora intestinale in caso di disbiosi dovuta a stress, dieta scorretta o trattamenti antibiotici.
+- ZETA FARMACEUTICI GROUP - è una realtà industriale Italiana specializzata nello sviluppo, produzione e distribuzione di farmaci, dispositivi medici, cosmetici, integratori alimentari, biocidi.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08DCMSB5K{{</world>}}

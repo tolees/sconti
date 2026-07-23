@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Una miscela moderna di sofisticazione senza tempo e freschezza moderna.
-- Confezionato nelliconica bottiglia Instinct con attributi color verde petrolio per un design del packaging sofisticato
-- Edizione del 20° anniversario di David Beckham Instinct, un profumo da 50 ml per lui.
 - Un omaggio alloriginale Instinct, questa fragranza si basa su una base di vivaci note agrumate e spezie aromatiche.
+- Confezionato nelliconica bottiglia Instinct con attributi color verde petrolio per un design del packaging sofisticato
+- Una miscela moderna di sofisticazione senza tempo e freschezza moderna.
+- Edizione del 20° anniversario di David Beckham Instinct, un profumo da 50 ml per lui.
 - Il profumo si sviluppa attorno a note botaniche di bergamotto e olio di patchouli con caldo cashmeran per una profondità sofisticata.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

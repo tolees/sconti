@@ -28,10 +28,10 @@ average: '13.87'
 
 ℹ️:
 
-- Borsa per Ukulele e libro degli accordi: L’Uke è fornito con una borsa di grandi dimensioni, facendo in modo che lo strumento possa viaggiare ovunque necessario; è inoltre fornito con un libro degli accordi per iniziare
 - Design ergonomico: Ukulele dal corpo sagomato leggero, progettato per essere suonato da qualsiasi fascia di età
-- Finitura lucida: Disponibili in una gamma di colori, gli Ukulele Martin Smith sono caratterizzati da una finitura lucida, con un aspetto tanto piacevole quanto il suono
+- Borsa per Ukulele e libro degli accordi: L’Uke è fornito con una borsa di grandi dimensioni, facendo in modo che lo strumento possa viaggiare ovunque necessario; è inoltre fornito con un libro degli accordi per iniziare
 - Corde in nylon per Ukulele: Più morbido sulle dita e generando un tono caldo, questo Ukulele è fornito pre-incordato
+- Finitura lucida: Disponibili in una gamma di colori, gli Ukulele Martin Smith sono caratterizzati da una finitura lucida, con un aspetto tanto piacevole quanto il suono
 - Accordatura: Questo Ukulele è previsto con riduttori in metallo, i quali consentono unaccordatura precisa e facile e sono molto più resistenti delle loro controparti in plastica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

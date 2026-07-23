@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Viti direttamente su tubo da 35 mm, compatibile con DEWALT e unità di estrazione da competizione
 - Blocco diretto su strumenti DEWALT compatibili
 - Lazione di blocco a torsione consente allutente di spostare rapidamente il tubo da uno strumento allaltro mantenendo un blocco positivo
+- Viti direttamente su tubo da 35 mm, compatibile con DEWALT e unità di estrazione da competizione
 - Ruota a 360 ° per evitare che il tubo flessibile si attorcigli durante luso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

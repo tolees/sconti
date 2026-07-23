@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- La scatola contiene 56 sfere metalliche non magnetiche, 64 barrette magnetiche gialle e 38 pannelli triangolari, 30 pannelli quadrati e 12 pannelli pentagonali rossi, fucsia e arancioni. Gli elementi sono compatibili con le linee Classic e Panels.
-- Tutti i prodotti Geomag sono prodotti in Svizzera, e sono riconoscibili per lalta qualità dei materiali e sono allineati alle più rigorose norme di sicurezza europea e internazionale (Certificazioni ASTM e EN-71 per la sicurezza dei giocattoli).
-- Nessun limite alla fantasia: Gli elementi di questo set sono compatibili con tutte le linee Classic e Panels di Geomag.
 - Portatelo con voi ovunque: La linea Green di Geomag contiene una pratica box (anche questa in 100% plastica riciclata) che vi consente di portare i vostri Geomag sempre con voi, e di tenerli perfettamente in ordine in casa.
 - Geomag è un gioco educativo della categoria STEM, per un approccio interdisciplinare all’apprendimento. I giochi Geomag favoriscono lo sviluppo della coordinazione occhio-mano, potenziano la sensibilità visiva e la capacità di attenzione.
+- Nessun limite alla fantasia: Gli elementi di questo set sono compatibili con tutte le linee Classic e Panels di Geomag.
+- Tutti i prodotti Geomag sono prodotti in Svizzera, e sono riconoscibili per lalta qualità dei materiali e sono allineati alle più rigorose norme di sicurezza europea e internazionale (Certificazioni ASTM e EN-71 per la sicurezza dei giocattoli).
+- La scatola contiene 56 sfere metalliche non magnetiche, 64 barrette magnetiche gialle e 38 pannelli triangolari, 30 pannelli quadrati e 12 pannelli pentagonali rossi, fucsia e arancioni. Gli elementi sono compatibili con le linee Classic e Panels.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B083YMWY2C{{</world>}}

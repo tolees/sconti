@@ -28,11 +28,11 @@ average: '15.5'
 
 ℹ️:
 
-- Gusto gentile ed aromatico adatto anche ai palati delicati; con 35% di gradazione alcolica, è un liquore di qualità, che va bevuto ghiacciato a-20°C, per scoprirne tutto il suo gusto; noto per essere stato il primo ad essere proposto ghiacciato dagli anni 70
-- Un prodotto amato in tutto il mondo: Vecchio Amaro del Capo è il liquore delle Distillerie Caffo
-- Anche la sua bottiglia va tenuta sempre nel freezer, ad una temperatura costante di -20° C
 - Lamaro in Italia, Vecchio Amaro del Capo, liquore di erbe di Calabria, nasce da ricetta rielaborata dalla famiglia Caffo attraverso quattro generazioni; contiene principi attivi di 29 erbe benefiche della terra di Calabria, tra cui arancio amaro, arancio dolce, liquirizia, mandarino, camomilla e ginepro; infuso in finissimo alcole per favorire la digestione e promuovere una sensazione di benessere
+- Anche la sua bottiglia va tenuta sempre nel freezer, ad una temperatura costante di -20° C
 - Confezione regalo di Vecchio Amaro del Capo con due bicchieri per freezer
+- Un prodotto amato in tutto il mondo: Vecchio Amaro del Capo è il liquore delle Distillerie Caffo
+- Gusto gentile ed aromatico adatto anche ai palati delicati; con 35% di gradazione alcolica, è un liquore di qualità, che va bevuto ghiacciato a-20°C, per scoprirne tutto il suo gusto; noto per essere stato il primo ad essere proposto ghiacciato dagli anni 70
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00IR8JT5O{{</world>}}

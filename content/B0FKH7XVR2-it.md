@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Scopri nuovi slime ballonzolanti: Colleziona slime mai visti prima sui Monti lontani, come il saltellante slime di cotone o lacquatico slime pesce
+- Esplora un nuovo mondo colorato: Prosegui le avventure dellallevatrice di slime Beatrix LeBeau nel suo viaggio verso una misteriosa isola dai colori dellarcobaleno
+- Costruisci una serra sullIsola arcobaleno: Guadagna newbuck dai plort degli slime e raccogli risorse sullIsola arcobaleno per migliorare il tuo vacpack, costruire nuovi gadget ed espandere la tua serra
 - Tutti i preordini* riceveranno un codice per il download digitale della colonna sonora ufficiale!
 - Include un poster pieghevole 46 cm x 61 cm con disegni di Yusuke Naora, ex direttore artistico di diverse serie acclamate dalla critica, tra cui Final Fantasy, Code Age e Chrono Trigger
-- Esplora un nuovo mondo colorato: Prosegui le avventure dellallevatrice di slime Beatrix LeBeau nel suo viaggio verso una misteriosa isola dai colori dellarcobaleno
-- Scopri nuovi slime ballonzolanti: Colleziona slime mai visti prima sui Monti lontani, come il saltellante slime di cotone o lacquatico slime pesce
-- Costruisci una serra sullIsola arcobaleno: Guadagna newbuck dai plort degli slime e raccogli risorse sullIsola arcobaleno per migliorare il tuo vacpack, costruire nuovi gadget ed espandere la tua serra
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FKH7XVR2{{</world>}}

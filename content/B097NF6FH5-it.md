@@ -29,8 +29,8 @@ average: '8.07'
 ℹ️:
 
 - Suola: Suola in gomma
-- Niente di meno che comodo
 - Plantare: plantare in gomma testurizzata
+- Niente di meno che comodo
 - Roxy Marchio iconico
 - Tomaia: Tomaia sfumata multicolore con perno ROXY in metallo
 

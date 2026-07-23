@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Chiusura con lacci
 - Tomaia realizzata in materiali misti
-- Striscia sagomata PUMA sui lati mediale e laterale
 - Suola in gomma
+- Striscia sagomata PUMA sui lati mediale e laterale
 - Intersuola in EVA
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

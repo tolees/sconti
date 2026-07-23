@@ -28,11 +28,11 @@ average: '25.48'
 
 ℹ️:
 
+- INTENSITÀ: La tostatura media e lintensità 13/13 danno un retrogusto persistente a questo particolare caffè, creando una crema chiara e dal colore dorato
+- LAVAZZA: Il Gruppo Lavazza opera in ogni settore dellindustria del caffè, offrendo prodotti di alta qualità, ottenuti attraverso un modello sostenibile basato su innovazione, passione e competenza
+- COMPOSIZIONE: Le capsule A Modo Mio Espresso Intenso di Lavazza sono realizzate con caffè Arabica e Robusta proveniente dal Sud Est Asiatico, dal Brasile e dallIndia
 - A MODO MIO ESPRESSO INTENSO: Una miscela di caffè Lavazza in capsule ideale per un espresso deciso e corposo. Capsule compatibili con macchine A Modo Mio
 - NOTE AROMATICHE: Questa selezione di caffè è caratterizzata da note aromatiche di cacao e spezie, per un sapore persistente e speziato
-- INTENSITÀ: La tostatura media e lintensità 13/13 danno un retrogusto persistente a questo particolare caffè, creando una crema chiara e dal colore dorato
-- COMPOSIZIONE: Le capsule A Modo Mio Espresso Intenso di Lavazza sono realizzate con caffè Arabica e Robusta proveniente dal Sud Est Asiatico, dal Brasile e dallIndia
-- LAVAZZA: Il Gruppo Lavazza opera in ogni settore dellindustria del caffè, offrendo prodotti di alta qualità, ottenuti attraverso un modello sostenibile basato su innovazione, passione e competenza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FV3NSS3Q{{</world>}}

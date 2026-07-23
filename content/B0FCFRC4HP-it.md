@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Taglio Intelligente per Risultati Precisi e Rapidi: Un motore da 88 W e sei lame garantiscono un taglio uniforme anche su erba alta o folta. Larghezza di taglio di 20 cm e altezza regolabile (30–70 mm). Taglio da bordo a bordo, senza bisogno di rifiniture manuali.
+- Navigazione Ultra Precisa Senza Filo Perimetrale: Grazie alla tecnologia LiDAR a 144 raggi (200.000 punti al secondo), LUBA mini crea una mappa 3D del tuo giardino in tempo reale, anche sotto alberi o strutture da giardino. Senza stazione base né installazione: apri la scatola, accendi e inizia a tagliare.
 - Sicurezza Totale con Antifurto e Controllo da App: Geofencing, tracciamento GPS, autenticazione del proprietario e notifiche push. In caso di movimento non autorizzato, il robot attiva un allarme.
 - Ecologico e Silenzioso: Funziona con una batteria al litio sostituibile, è silenzioso (< 60 dB) e a zero emissioni. Certificato IPX6, resiste alla pioggia e all’umidità. Il sensore pioggia regola il taglio in base al meteo. Con aggiornamenti FOTA per essere sempre aggiornato.
-- Taglio Intelligente per Risultati Precisi e Rapidi: Un motore da 88 W e sei lame garantiscono un taglio uniforme anche su erba alta o folta. Larghezza di taglio di 20 cm e altezza regolabile (30–70 mm). Taglio da bordo a bordo, senza bisogno di rifiniture manuali.
 - Controllo Intelligente Delle Zone e Funzionamento Continuo: Gestisci fino a 20 zone tramite app—inclusi giardino anteriore, posteriore, bordo piscina o aree escluse. La navigazione GPS riprende da dove si era interrotta dopo la ricarica. Copre fino a 250 m² per ogni ciclo.
-- Navigazione Ultra Precisa Senza Filo Perimetrale: Grazie alla tecnologia LiDAR a 144 raggi (200.000 punti al secondo), LUBA mini crea una mappa 3D del tuo giardino in tempo reale, anche sotto alberi o strutture da giardino. Senza stazione base né installazione: apri la scatola, accendi e inizia a tagliare.
 - Trazione Integrale per Ogni Tipo di Pendenza: Il sistema AWD affronta pendenze fino all’80 % senza slittare, perfetto per giardini in pendenza, rive o terrazze, senza danneggiare il prato.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ average: '18.1'
 
 ℹ️:
 
-- T-shirt a maniche corte in morbido jersey
 - Due T-shirt in una pratica confezione
+- T-shirt a maniche corte in morbido jersey
 - Vestibilità regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

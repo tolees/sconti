@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Girocollo
 - Piccolo logo sotto
+- Girocollo
 - Piccolo logo sotto
 - Maglia singola
 - 100% cotone
-- Grande font iconico collegiale sul petto
 - Vestibilità regolare
+- Grande font iconico collegiale sul petto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F4RMD2C6{{</world>}}

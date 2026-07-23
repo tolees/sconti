@@ -28,11 +28,11 @@ average: '10.8'
 
 ℹ️:
 
+- Ingredienti di qualità: Realizzato con acqua minerale delle Fonti di Crodo e ingredienti selezionati, per una bevanda rinfrescante senza conservanti.
+- Zero alcol: Originale spritz analcolico italiano, adatto a chi cerca un’alternativa no alcol senza rinunciare al gusto.
 - Pronta da gustare in ogni momento: La confezione comprende 24 lattine da 33 cl di Lemonsoda Spritz, ideale per la tua pausa e da servire ben fresca.
 - Il mondo Lemonsoda: Con una storia lunga 90 anni che inizia in Piemonte con l’acqua minerale delle Fonti di Crodo e si estende sino in Sicilia, Lemonsoda incarna lautenticità e la qualità di una storia tutta italiana.
-- Zero alcol: Originale spritz analcolico italiano, adatto a chi cerca un’alternativa no alcol senza rinunciare al gusto.
 - Gusto spritz: Bevanda frizzante al gusto spritz, fresca e bilanciata, ispirata al classico aperitivo italiano in versione analcolica.
-- Ingredienti di qualità: Realizzato con acqua minerale delle Fonti di Crodo e ingredienti selezionati, per una bevanda rinfrescante senza conservanti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GQB1H75M{{</world>}}

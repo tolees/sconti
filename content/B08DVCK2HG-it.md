@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Premio Oscar come miglior film
 - Vincitore di 10 Premi Oscar nel 1939
 - Dal celebre romanzo di Margaret Mitchell
+- Premio Oscar come miglior film
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08DVCK2HG{{</world>}}

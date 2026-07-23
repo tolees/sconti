@@ -28,11 +28,11 @@ average: '1726.66333333333'
 
 ℹ️:
 
-- Audio Dolby Atmos 2.1
 - Mini-LED PRO con Local Dimming
 - Smart TV Mini-LED 165Hz 4K 100", Risoluzione 3840x2160
-- Dolby Vision IQ / HDR 10+ / HLG
+- Audio Dolby Atmos 2.1
 - QLED Display 165Hz
+- Dolby Vision IQ / HDR 10+ / HLG
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F1W4MG71{{</world>}}

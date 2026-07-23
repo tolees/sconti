@@ -28,11 +28,11 @@ average: '13.93'
 
 ℹ️:
 
+- Il modo migliore per gustarlo è versarlo in un bicchiere colmo di ghiaccio e aggiungere acqua tonica oppure soda.
 - Il gin aromatizzato al limone Bombay Citron Pressé è ispirato a uno dei più classici cocktail a base di gin e limone, il Tom Collins.
 - Bombay Citron Pressé regala unesplosione di freschezza con tutta la vivacità del sapore naturale di limone. È una nuova espressione del gusto e un omaggio alla tradizione, con un tocco di creatività.
-- Il nostro classico Bombay Dry Gin si abbina con uninfusione 100% naturale di limoni per regalare un colore e un sapore inimitabile senza zuccheri aggiunti. Inoltre, è senza glutine e adatto a vegani.
-- Il modo migliore per gustarlo è versarlo in un bicchiere colmo di ghiaccio e aggiungere acqua tonica oppure soda.
 - Scatena la tua creatività con Bombay Citron Pressé, un gin dallirresistibile freschezza, infuso a vapore con i migliori limoni del Mediterraneo.
+- Il nostro classico Bombay Dry Gin si abbina con uninfusione 100% naturale di limoni per regalare un colore e un sapore inimitabile senza zuccheri aggiunti. Inoltre, è senza glutine e adatto a vegani.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09WYWNQDS{{</world>}}

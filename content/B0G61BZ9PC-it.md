@@ -28,11 +28,11 @@ average: '34.99'
 
 ℹ️:
 
+- Gioca nei panni dello Shinobi Assassino Naoe e del leggendario samurai Yasuke, seguili nelle loro avvincenti storie e adotta i loro stili di gioco complementari. Usa furtività e agilità per sconfiggere e ingannare i nemici con Naoe. Colpisci gli avversari con potenza e precisione letali con Yasuke.
 - Usa le informazioni come arma mentre esplori il mondo di gioco, crea la tua rete di spie per avere occhi e orecchie ovunque e scoprire dove si trovano i tuoi obiettivi
 - Esplora i vasti territori dellaffascinante Giappone feudale e scopri le meravigliose città-castello, i porti fiorenti, i santuari silenziosi e i paesaggi segnati dalla guerra.
-- Gioca nei panni dello Shinobi Assassino Naoe e del leggendario samurai Yasuke, seguili nelle loro avvincenti storie e adotta i loro stili di gioco complementari. Usa furtività e agilità per sconfiggere e ingannare i nemici con Naoe. Colpisci gli avversari con potenza e precisione letali con Yasuke.
-- Costruisci e personalizza il rifugio della tua lega shinobi, dove potrai addestrare nuove reclute, costruire il tuo equipaggiamento, interagire con i personaggi chiave e scegliere laspetto, le decorazioni e gli accessori della tua base.
 - *Per riscattare i contenuti digitali sono necessari una connessione Internet e un account Ubisoft.
+- Costruisci e personalizza il rifugio della tua lega shinobi, dove potrai addestrare nuove reclute, costruire il tuo equipaggiamento, interagire con i personaggi chiave e scegliere laspetto, le decorazioni e gli accessori della tua base.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0G61BZ9PC{{</world>}}

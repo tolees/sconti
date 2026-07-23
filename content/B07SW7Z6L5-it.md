@@ -30,8 +30,8 @@ average: '1.39'
 
 - INGREDIENTI senza laggiunta di coloranti e conservanti. Con amore, passione e la farina di agricoltori selezionati
 - CIOCCOLATO AL LATTE, ARANCE & PANDISPAGNA Messino Latte è realizzato con precisione: 19% cioccolato al latte, 53% ripieno alle arance, 28% pandispagna
-- MESSINO LATTE soffice pandispagna con ripieno allarancia racchiuso in un guscio di cioccolato al latte. Il nome è ispirato alla città di Messina
 - BAHLSEN una storia di famiglia che nasce nel 1889
+- MESSINO LATTE soffice pandispagna con ripieno allarancia racchiuso in un guscio di cioccolato al latte. Il nome è ispirato alla città di Messina
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07SW7Z6L5{{</world>}}

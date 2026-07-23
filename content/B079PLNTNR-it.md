@@ -29,9 +29,9 @@ average: '7.05'
 ℹ️:
 
 - Scopri tutti i gusti di FuzeTea e lasciati sorprendere dall’incontro di questi ingredienti: ogni sorso è un viaggio tra inaspettati ed inebrianti accostamenti
+- Linfuso: gusta linaspettata fusione tra laroma intenso del tè nero, il gusto classico e dissetante di limone, unito ad una nota fresca e grintosa di lemongrass, per un sapore deciso e sorprendente
 - Goditi fusioni inaspettate: FuzeTea nasce dalla combinazione tra il gusto del tè e della frutta con una nota erbale o floreale, dal gusto unico e sensazionale
 - Produciamo Fuze Tea con diversi tipi di tè in tutta Europa, con ricette in costante evoluzione. Il tipo di tè è indicato sul fronte della confezione
-- Linfuso: gusta linaspettata fusione tra laroma intenso del tè nero, il gusto classico e dissetante di limone, unito ad una nota fresca e grintosa di lemongrass, per un sapore deciso e sorprendente
 - La confezione comprende 6 bottiglie da 1.25 L, in PET 100% riciclabile, ideale per gustarti Fuze Tea con chi vuoi, per rinfrescare corpo e mente o da portare sempre con te
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

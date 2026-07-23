@@ -28,8 +28,8 @@ average: '18.99'
 
 ℹ️:
 
-- Può essere utilizzato su: telai, forcelle, unità durto, Carens, manopole, sella, motore, cupolini, alluminio, metallo anodizzato, verniciatura, cromo, acciaio, cerchioni, ruote, raggi, Mozzi, freni a disco, sospensioni INGRANAGGI/ruote dentate, compositi in plastica, decalcomanie e gomma, ecc
 - Non danneggia le guarnizioni. 100% biodegradabile, non contiene acidi o solventi
+- Può essere utilizzato su: telai, forcelle, unità durto, Carens, manopole, sella, motore, cupolini, alluminio, metallo anodizzato, verniciatura, cromo, acciaio, cerchioni, ruote, raggi, Mozzi, freni a disco, sospensioni INGRANAGGI/ruote dentate, compositi in plastica, decalcomanie e gomma, ecc
 - Facile da usare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

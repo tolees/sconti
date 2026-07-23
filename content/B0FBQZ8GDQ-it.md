@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 【Modalità Illuminazione】- 3 modalità selezionabili.:Intelligente: luce fioca al buio, piena luce al movimento, torna fioca dopo 20s. Sicurezza: spento, si accende al movimento per 20s. Automatica: luce fioca di notte, spenta all’alba, si ricarica senza consumi.
 - 【Alta Sensibilità:】-l sensore rileva movimenti entro 5–8 m e 120°, accendendo la luce in automatico. Fornisce visibilità immediata per ingressi notturni e agisce come deterrente contro eventuali intrusi.
+- 【Modalità Illuminazione】- 3 modalità selezionabili.:Intelligente: luce fioca al buio, piena luce al movimento, torna fioca dopo 20s. Sicurezza: spento, si accende al movimento per 20s. Automatica: luce fioca di notte, spenta all’alba, si ricarica senza consumi.
 - 【Facile Installazione】-Si monta facilmente senza attrezzi o cablaggi grazie agli accessori inclusi. Installazione rapida che fa risparmiare tempo e costi. Per qualsiasi dubbio, il supporto è sempre disponibile.
 - 【Alimentazione Efficiente】-Lampada solare LED con batteria da 1200mAh e pannello in silicio monocristallino (efficienza 22%). Con una giornata di sole garantisce 8–12 ore di illuminazione continua, ideale per l’uso notturno esterno.
 - 【Resistenza All’acqua】-Con grado IP65, la lampada è impermeabile e resistente anche a forti getti d’acqua. Funziona perfettamente in ambienti esterni come vialetti, garage, recinzioni, terrazze o pareti.

@@ -28,11 +28,11 @@ average: '37.3425'
 
 ℹ️:
 
-- Collaborazione ufficiale con Black Myth: Wukong
 - Joystick a effetto Hall e trigger Hall. Anelli joystick in metallo resistenti allusura.
-- Paraurti e D-pad raffinati. Leggeri ma tattili.
-- Compatibile con Windows 10 e successivi, Android 9.0 e successivi
+- Collaborazione ufficiale con Black Myth: Wukong
 - Paraurti R4/L4 aggiuntivi. Assegnazione personalizzata dei pulsanti senza luso di software. Funzione Turbo.
+- Compatibile con Windows 10 e successivi, Android 9.0 e successivi
+- Paraurti e D-pad raffinati. Leggeri ma tattili.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DB4LXDP7{{</world>}}

@@ -28,11 +28,11 @@ average: '7.93047619047619'
 
 ℹ️:
 
-- Metodo di produzione: ottenuto da uninfusione di materie prime selezionate tra cui arance, erbe e radici, in una combinazione perfettamente bilanciata
-- Profilo sensoriale: in bocca si caratterizza per una texture vellutata e rotonda, con durevoli ricordi di arancia e legno e accattivanti sentori di erbe addolciti da un tocco di vaniglia
-- Colore: caratterizzato dalliconico colore arancione vivace
-- Come servirlo: base fondamentale per la creazione del famoso Aperol Spritz; per preparare un Aperol Spritz divertiti a mixare seguendo la ricetta originale: in un calice pieno di ghiaccio versa 3 parti di Prosecco (9cl) seguito da 2 parti di Aperol (6cl) e 1 parte di soda o acqua frizzante (3cl), e guarnisci con una fettina d’arancia
 - Aperol: aperitivo alcolico italiano per eccellenza, leggero con solo 11 gradi
+- Come servirlo: base fondamentale per la creazione del famoso Aperol Spritz; per preparare un Aperol Spritz divertiti a mixare seguendo la ricetta originale: in un calice pieno di ghiaccio versa 3 parti di Prosecco (9cl) seguito da 2 parti di Aperol (6cl) e 1 parte di soda o acqua frizzante (3cl), e guarnisci con una fettina d’arancia
+- Profilo sensoriale: in bocca si caratterizza per una texture vellutata e rotonda, con durevoli ricordi di arancia e legno e accattivanti sentori di erbe addolciti da un tocco di vaniglia
+- Metodo di produzione: ottenuto da uninfusione di materie prime selezionate tra cui arance, erbe e radici, in una combinazione perfettamente bilanciata
+- Colore: caratterizzato dalliconico colore arancione vivace
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0029N5SEE{{</world>}}

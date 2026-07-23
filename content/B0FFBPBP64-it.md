@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- NOTE DI TESTA: Pera matcha, salvia sclarea francese*, fiore d’arancio
+- NOTE DI FONDO: Legno di sandalo, patchouli*, Ambertonic * Ingredienti di origine sostenibile
 - MOOD: Moderna, disinvolta, grintosa
 - NOTE DI CUORE: Gelsomino, giglio lussureggiante, orris*
-- NOTE DI FONDO: Legno di sandalo, patchouli*, Ambertonic * Ingredienti di origine sostenibile
-- NOTE DI TESTA: Pera matcha, salvia sclarea francese*, fiore d’arancio
 - IL COLORE DELLA FRAGRANZA può variare a causa degli ingredienti naturali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

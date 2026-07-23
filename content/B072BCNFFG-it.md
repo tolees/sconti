@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- MODALITÀ DUSO: agitare bene prima delluso; spruzzare (3 nebulizzazioni) il prodotto sul palmo della mano poi distribuirlo uniformemente sul corpo del bebè evitando le parti del corpo che potrebbero entrare in contatto con la bocca (mani, piedi, viso); ripetere lapplicazione ogni 3 ore se necessario, senza superare le 2 applicazioni al giorno. Lavarsi accuratamente le mani dopo luso; non superare le 6 nebulizzazioni al giorno (1 nebulizzazione = 0,18 ml)
-- DOPPIA AZIONE: PROTEZIONE + EFFETTO LENITIVO: oltre a proteggere la pelle, questo prodotto è ideale anche come dopo puntura; non unge e non appiccica
 - UN LABORATORIO FAMILIARE E INDIPENDENTE: Puressentiel nasce nel 2005 dalla passione di Isabelle e Marco Pacchioni per laromaterapia e i principi attivi naturali, ottimizando il mercato degli oli essenziali e rendendo laromaterapia accessibile a tutti, grazie ai suoi prodotti "pronti alluso"; una gamma di prodotti sicuri, efficaci e facili da usare
+- DOPPIA AZIONE: PROTEZIONE + EFFETTO LENITIVO: oltre a proteggere la pelle, questo prodotto è ideale anche come dopo puntura; non unge e non appiccica
+- MODALITÀ DUSO: agitare bene prima delluso; spruzzare (3 nebulizzazioni) il prodotto sul palmo della mano poi distribuirlo uniformemente sul corpo del bebè evitando le parti del corpo che potrebbero entrare in contatto con la bocca (mani, piedi, viso); ripetere lapplicazione ogni 3 ore se necessario, senza superare le 2 applicazioni al giorno. Lavarsi accuratamente le mani dopo luso; non superare le 6 nebulizzazioni al giorno (1 nebulizzazione = 0,18 ml)
 - ATTIVO 100% DI ORIGINE VEGETALE: privo di agenti chimici di sintesi, questo spray è testato sotto controllo dermatologico e pediatrico
 - PROTEZIONE EFFICACE E DURATURA PER LA PELLE: Appositamente formulato per i più piccoli a partire dai 6 mesi di età, questo spray protegge afficaciemente e a lungo il bimbo nelle serate estive
 

@@ -28,11 +28,11 @@ average: '102.49'
 
 ℹ️:
 
-- DIMENSIONI COMPATTE – Formato ATX compatto 150 mm x 150 mm garantisce un’installazione semplice nella maggior parte dei case, ottimizzando spazio per la gestione dei cavi e il flusso d’aria
-- DESIGN AFFIDABILE – Topologia LLC half-bridge con convertitore DC-DC e PFC attivo garantiscono un’erogazione stabile (protezioni OCP / OTP / OPP / SCP / OVP / UVP / SIP / NLO)
-- CONNETTORE 12V-2x6 INTEGRATO – Dotato di connettori PCIe 12V-2x6 integrati, eroga fino a 600W per supportare GPU PCIe 5.1
 - FUNZIONAMENTO SILENZIOSO – Rumore medio paragonabile a una notte tranquilla. Ventola da 135 mm con cuscinetto fluidodinamico (FDB) per prestazioni di raffreddamento durature e silenziose
 - CERTIFICAZIONE 80 PLUS GOLD – Fino al 90% di efficienza energetica, ideale per alimentare componenti ad alto consumo come GPU e CPU
+- DIMENSIONI COMPATTE – Formato ATX compatto 150 mm x 150 mm garantisce un’installazione semplice nella maggior parte dei case, ottimizzando spazio per la gestione dei cavi e il flusso d’aria
+- CONNETTORE 12V-2x6 INTEGRATO – Dotato di connettori PCIe 12V-2x6 integrati, eroga fino a 600W per supportare GPU PCIe 5.1
+- DESIGN AFFIDABILE – Topologia LLC half-bridge con convertitore DC-DC e PFC attivo garantiscono un’erogazione stabile (protezioni OCP / OTP / OPP / SCP / OVP / UVP / SIP / NLO)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FB43WPJC{{</world>}}

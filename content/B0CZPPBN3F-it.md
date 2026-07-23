@@ -28,12 +28,12 @@ average: '47.95'
 
 ℹ️:
 
+- 70% cotone, 30% poliestere (riciclato)
 - Vestibilità regolare con vita a media altezza
 - Pantaloni: Girovita elasticizzato con cordino
-- Giacca e pantaloni: Polsini e orlo a coste
 - Giacca e pantaloni: Tasche anteriori
-- 70% cotone, 30% poliestere (riciclato)
 - Zip integrale con collo alto
+- Giacca e pantaloni: Polsini e orlo a coste
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZPPBN3F{{</world>}}

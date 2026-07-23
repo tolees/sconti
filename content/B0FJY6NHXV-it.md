@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Confezione singola da 99g
+- Visita il sito Nestlé per scoprire il percorso di sostenibilità del nostro Gruppo.
+- KITKAT Tablets Nocciola: una tavoletta di wafer croccante e un irresistibile gusto di nocciola , il tutto avvolto da goloso cioccolato al latte e fondente dalleffetto variegato
 - Break better con KitKat: le nuove tavolette dal cuore cremoso e dall’effetto marmorizzato sono pensate per una pausa più lunga, da gustare a casa, da soli davanti a una serie o in compagnia durante un momento conviviale
 - KitKat è parte di un programma innovativo, lIncome Accelerator Program, che aiuta a distribuire circa 1 milione di piante allanno in Costa dAvorio per supportare la biodiversità nelle coltivazioni di cacao
-- Confezione singola da 99g
-- KITKAT Tablets Nocciola: una tavoletta di wafer croccante e un irresistibile gusto di nocciola , il tutto avvolto da goloso cioccolato al latte e fondente dalleffetto variegato
-- Visita il sito Nestlé per scoprire il percorso di sostenibilità del nostro Gruppo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FJY6NHXV{{</world>}}

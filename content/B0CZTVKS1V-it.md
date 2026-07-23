@@ -28,11 +28,11 @@ average: '28.66'
 
 ℹ️:
 
-- RELAXED FIT: Le fascette a costine sull’orlo e sui polsini assicurano una vestibilità ottimale. Il capo relaxed fit veste morbido, ha un taglio dritto e offre una libertà di movimento ottimo
+- MARC OߴPOLO DENIM: La linea urban di Marc OߴPolo è il simbolo dello street style casual con influenze scandinave. Materiali sostenibili e tagli contemporanei creano look versatili, che incarnano l’autenticità e lo stile personale: the freedom to be yourself
 - COTONE BIO: Questo capo, realizzato in cotone bio certificato al 100%, conquista grazie alla morbida vestibilità e alla qualità sostenibile. Si può lavare con un lavaggio delicato a 30 °C
 - FELPA BASIC: Con jeans e trench per un look classico o con gonna e stivali per creare un contrasto di stili, questa felpa basic è un vero tuttofare da indossare tutti i giorni. Ottima per outfit eleganti o casual chic
+- RELAXED FIT: Le fascette a costine sull’orlo e sui polsini assicurano una vestibilità ottimale. Il capo relaxed fit veste morbido, ha un taglio dritto e offre una libertà di movimento ottimo
 - SCOLLO ROTONDO CLASSICO: La felpa fonde uno stile casual con un design di tendenza. Il classico scollo rotondo e le maniche a raglan sportive conferiscono a questo capo un look senza tempo
-- MARC OߴPOLO DENIM: La linea urban di Marc OߴPolo è il simbolo dello street style casual con influenze scandinave. Materiali sostenibili e tagli contemporanei creano look versatili, che incarnano l’autenticità e lo stile personale: the freedom to be yourself
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZTVKS1V{{</world>}}

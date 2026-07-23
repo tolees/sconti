@@ -28,8 +28,8 @@ average: '15.09'
 
 ℹ️:
 
-- Bandierina Tommy Hilfiger ricamata sul davanti
 - Bordo risvoltato
+- Bandierina Tommy Hilfiger ricamata sul davanti
 - Texture a coste sul bordo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '249.0'
 
 ℹ️:
 
+- ELEVATE PRESTAZIONI: il robot per piscine Cosmy pulisce in modo affidabile il pavimento, le pareti e la linea di galleggiamento di piscine lunghe fino a 10 metri in 2 ore. Risparmio di carburante grazie alla modalità di guida logica
+- COMPATTO E LEGGERO: la vostra schiena vi ringrazierà: il COSMY 150 pesa solo la metà dei robot da piscina tradizionali. È molto facile da trasportare e da rimuovere dalla piscina.
 - TECNOLOGIA PIÙ MODERNA: grazie allingranaggio planetario a due stadi, ai due motori di trazione e alla navigazione in orbita, la pulizia completa è garantita, indipendentemente dalla forma della piscina.
 - STABILE SU QUALSIASI SUPERFICIE: grazie alla tecnologia di bordo, nessun ostacolo è troppo difficile da superare. Anche in luoghi scoscesi naviga con facilità e si adatta alla superficie da pulire.
-- COMPATTO E LEGGERO: la vostra schiena vi ringrazierà: il COSMY 150 pesa solo la metà dei robot da piscina tradizionali. È molto facile da trasportare e da rimuovere dalla piscina.
-- ELEVATE PRESTAZIONI: il robot per piscine Cosmy pulisce in modo affidabile il pavimento, le pareti e la linea di galleggiamento di piscine lunghe fino a 10 metri in 2 ore. Risparmio di carburante grazie alla modalità di guida logica
 - LEFFICIENZA INCONTRA LELEGANZA: nonostante le dimensioni compatte, il design moderno consente una pulizia più rapida ed efficiente con un basso consumo energetico, grazie al semplice funzionamento con la pressione di un pulsante.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

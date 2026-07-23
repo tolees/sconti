@@ -28,11 +28,11 @@ average: '21.835'
 
 ℹ️:
 
+- Supporto alla componente online​; Nuovi minigiochi​
+- Rivisitazione del classico RPG; ​Grafica ad alta definizione.​
+- Interfaccia utente completamente ridisegnata.​
 - Possibilità di regolare la velocità del gioco.​
 - Gestisci tu la frequenza degli incontri con i nemici.​
-- Interfaccia utente completamente ridisegnata.​
-- Rivisitazione del classico RPG; ​Grafica ad alta definizione.​
-- Supporto alla componente online​; Nuovi minigiochi​
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F2NCRV5Z{{</world>}}

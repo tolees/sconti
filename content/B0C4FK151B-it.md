@@ -28,10 +28,10 @@ average: '14.82'
 
 ℹ️:
 
-- Realizzati con la tecnologia Omni-Shade: Combinazioni ingegnerizzate di fibre selezionate, filati e strutture di tessuto bloccano una gamma più ampia di raggi UVA e UVB dannosi.
-- Contenuto: 1x Columbia Silver Ridge Utility Pantaloncini Cargo da Uomo, Colore: Ancient Fossil (Marrone), Dimensioni: W28/L8
 - Vestibilità regolare con comfort stretch che consente unampia gamma di movimenti, cuciture da 10", 100% poliestere di recupero.
+- Realizzati con la tecnologia Omni-Shade: Combinazioni ingegnerizzate di fibre selezionate, filati e strutture di tessuto bloccano una gamma più ampia di raggi UVA e UVB dannosi.
 - I pantaloncini Silver Ridge Utility Cargo sono classici pantaloncini cargo con protezione solare UPF 50, traspirazione del sudore e cintura rimovibile per una vestibilità sicura
+- Contenuto: 1x Columbia Silver Ridge Utility Pantaloncini Cargo da Uomo, Colore: Ancient Fossil (Marrone), Dimensioni: W28/L8
 - Comfort elasticizzato a 2 vie, vita regolabile con cintura integrata, tasche di sicurezza per le mani, sul retro e con zip, cavallo a soffietto per migliorare i movimenti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

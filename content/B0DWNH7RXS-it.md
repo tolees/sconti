@@ -28,11 +28,11 @@ average: '25.26'
 
 ℹ️:
 
-- PROTEINE IN POLVERE: Ogni dose offre 21g di proteine isolate da pisello e fava, ideali per il tuo workout
-- VEGAN FRIENDLY: Certificato Vegan OK, adatto a diete vegane e vegetariane
-- GUSTO CACAO: Delizioso sapore di cacao, facile da preparare e portare in palestra
-- SUPPORTO MUSCOLARE: Ottimizza la crescita muscolare con un mix proteico 100% vegetale.
 - MODO DUSO: Sciogliere il contenuto di due misurini colmi in 250 ml di acqua non gassata utilizzando uno shaker. Si consiglia fino a una dose al giorno a seconda dell’attività svolta e della dieta.
+- SUPPORTO MUSCOLARE: Ottimizza la crescita muscolare con un mix proteico 100% vegetale.
+- VEGAN FRIENDLY: Certificato Vegan OK, adatto a diete vegane e vegetariane
+- PROTEINE IN POLVERE: Ogni dose offre 21g di proteine isolate da pisello e fava, ideali per il tuo workout
+- GUSTO CACAO: Delizioso sapore di cacao, facile da preparare e portare in palestra
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DWNH7RXS{{</world>}}

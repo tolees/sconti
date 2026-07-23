@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Vestibilità a cuneo
-- Skech-Air
+- Corona doro
 - MF raffreddato ad aria
 - Collaborazione
-- Corona doro
+- Skech-Air
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DDTFNNX8{{</world>}}

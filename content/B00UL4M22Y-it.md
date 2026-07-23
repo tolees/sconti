@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Prodotto certificato dallassociazione Informed Sport e idoneo al consumo da parte di atleti sottoposti a controlli anti-doping e personale militare
-- Snack goloso dal basso contenuto di zucchero, perfetto da gustare in ogni momento della giornata, per una deliziosa pausa o per concedersi uno sfizio dopo lallenamento
 - Basso contenuto di zucchero, con solo 1,5 g per barretta
-- Barretta a triplo strato composto di nougat di proteine, ricoperto di caramello, rivestito di cioccolato al latte e crispies.
 - Ricca di proteine, con oltre 21 g per barretta
+- Prodotto certificato dallassociazione Informed Sport e idoneo al consumo da parte di atleti sottoposti a controlli anti-doping e personale militare
+- Barretta a triplo strato composto di nougat di proteine, ricoperto di caramello, rivestito di cioccolato al latte e crispies.
+- Snack goloso dal basso contenuto di zucchero, perfetto da gustare in ogni momento della giornata, per una deliziosa pausa o per concedersi uno sfizio dopo lallenamento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00UL4M22Y{{</world>}}

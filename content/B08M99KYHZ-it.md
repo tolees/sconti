@@ -28,11 +28,11 @@ average: '125.76'
 
 ℹ️:
 
-- Piena sicurezza non preoccuparti delle sovratensioni, il tuo congegno è sempre al sicuro con il dispositivo Green Cell. Linverter possiede numerose protezioni e certificazioni il chè permette di lavorare senza interruzzioni
+- Grazie a quest’inverter si possono controllare dispositivi 230 V, grazie all’accumulatore 12V e alla potenza continua 1000W con la breve potenza di picco fino a 2000W. La capacità nominale del cavo della spina accendisigari è al massimo 150 W.
 - Versatilità - linverter Green Cell non presenta solo prese di rete a cui è possibile collegare dispositivi elettrici, ma anche una porta USB per ricaricare piccoli dispositivi come smartphone o tablet
+- Piena sicurezza non preoccuparti delle sovratensioni, il tuo congegno è sempre al sicuro con il dispositivo Green Cell. Linverter possiede numerose protezioni e certificazioni il chè permette di lavorare senza interruzzioni
 - Onda sinusoidale pura - funziona con dispositivi che richiedono unalimentazione continua identica a quella nella presa. Questi includono laptop frigoriferi e quelli più sensibili pannelli solari, stufe e pompe di riscaldamento centralizzato
 - Rimani sempre in contatto - linverter per auto è un dispositivo che ti consente di utilizzare dispositivi elettrici ovunque ti trovi, anche lontano dalla fonte di alimentazione
-- Grazie a quest’inverter si possono controllare dispositivi 230 V, grazie all’accumulatore 12V e alla potenza continua 1000W con la breve potenza di picco fino a 2000W. La capacità nominale del cavo della spina accendisigari è al massimo 150 W.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08M99KYHZ{{</world>}}

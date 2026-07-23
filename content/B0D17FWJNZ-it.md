@@ -29,8 +29,8 @@ average: '25.0'
 ℹ️:
 
 - Design caldo e confortevole
-- Adatto per: clima freddo
 - Realizzati con materiali sostenibili
+- Adatto per: clima freddo
 - Giacca del marchio JACK & JONES
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

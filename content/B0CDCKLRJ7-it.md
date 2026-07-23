@@ -28,11 +28,11 @@ average: '12.34'
 
 ℹ️:
 
-- CONFEZIONE: Confezione composta da 100 cialde compostabili
 - CARATTERISTICHE: Tutte le cialde sono realizzate con carta filtro compostabile e vengono confezionate in bustine di plastica riciclabili, che grazie all’utilizzo di azoto inerte, consentono una migliore conservazione. Inoltre, le cialde sono smaltibili nell’umido
+- PROPRIETA’ AROMATICHE: Crema color nocciola scura; all’olfatto si avvertono aromi di cioccolato fondente, di frutta secca tostata e noce moscata per un risultato finale aromativo e piacevolmente amaro.
 - MADE IN ITALY: Caffè Motta racconta una storia tutta italiana, la storia della famiglia Mastromartino, che, a partire dagli anni Sessanta, ha sapientemente unito passione ed antichi saperi per dar vita ad una realtà industriale che si impegna ad offrire, ogni giorno, un caffè dal gusto intenso, verace, genuino. Un caffè italiano capace di esprimere l’unicità dell’espresso napoletano
 - MISCELA NAPOLI: Caffè miscela ESPRESSO BAR NAPOLI in cialde universali E.S.E. 44 mm per gli amanti di un vero caffè espresso napoletano. Questa miscela rappresenta il connubio perfetto tra Robusta e Arabica
-- PROPRIETA’ AROMATICHE: Crema color nocciola scura; all’olfatto si avvertono aromi di cioccolato fondente, di frutta secca tostata e noce moscata per un risultato finale aromativo e piacevolmente amaro.
+- CONFEZIONE: Confezione composta da 100 cialde compostabili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CDCKLRJ7{{</world>}}

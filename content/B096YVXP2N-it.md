@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Alimentato dal bus, cioè lalimentazione di tensione proviene dalla presa USB sul dispositivo.
 - Compatibile con le specifiche USB 3.2 Gen 1.
 - Per collegare un PC / notebook / MacBook / tablet con connettore USB-C ad un monitor / televisore o proiettore tramite HDMI e contemporaneamente collegare fino a 4 ulteriori dispositivi USB.
+- Alimentato dal bus, cioè lalimentazione di tensione proviene dalla presa USB sul dispositivo.
 - Cavo USB integrato per la connessione a PC / notebook / tablet.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

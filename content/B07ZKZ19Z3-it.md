@@ -28,8 +28,8 @@ average: '32.5'
 
 ℹ️:
 
-- Un Living Card Game cooperativo di super eroi: i giocatori vestono i panni dei personaggi Marvel nel tentativo di fermare i più famigerati criminali, in procinto di mettere in atto le loro trame più insidiose
 - In quanto Living Card Game, il Set Base di Marvel Champions: Il Gioco di Carte è solo l’inizio: scopri tutte le nuove espansioni e aggiungi nuovi eroi e nemici alle tue partite!
+- Un Living Card Game cooperativo di super eroi: i giocatori vestono i panni dei personaggi Marvel nel tentativo di fermare i più famigerati criminali, in procinto di mettere in atto le loro trame più insidiose
 - Ogni criminale e ogni trama forniscono un’esperienza di gioco. Se riuscirete a superare tutte le varie manifestazioni del criminale e a sconfiggerle grazie a un misto di lavoro di squadra, abilità e fortuna, i vostri eroi usciranno vittoriosi dallo scontro e saranno acclamati come campioni!
 - Numero di giocatori: 1-4 | Età consigliata: 14+ | Durata media: 45-90 minuti | Edizione in lingua italiana
 

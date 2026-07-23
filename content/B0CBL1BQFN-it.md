@@ -28,11 +28,11 @@ average: '11.94'
 
 ℹ️:
 
-- SOIA: Tra i benefici che offre la soia vi sono la regolarità intestinale ma anche la capacità di tenere a bada glicemia e colesterolo. Grazie alla presenza di sali minerali come calcio e fosforo, la soia aiuta, poi, la mineralizzazione delle ossa.
-- MODO DUSO: Il prodotto va agitato prima delluso. Conservare in un luogo fresco e asciutto. Dopo lapertura del contenitore, conservare in frigorifero (+6°C) e consumare entro 3-4 giorni.
 - CONTENUTO: A casa riceverete 6 confezioni di bevanda di soia da 1 litro formato brik. Bevanda 100% vegetale ideale per le tue ricette ma perfetta anche da sola. È fatta con soia coltivata in Italia, buonissima e leggerissima perché è senza zuccheri. Senza Glutine, Senza Lattosio e NO OGM. Fonte di Vitamina B2, B12 e D2
-- SOSTENIBILITÀ: Abbiamo a cuore la natura e il futuro del nostro Pianeta e lavoriamo quotidianamente per introdurre nuovi modelli di produzione e consumo che siano sostenibili nel medio e lungo termine. Intendiamo ridurre le materie plastiche limitando le emissioni di gas ad effetto serra legate all’intero ciclo di vita del prodotto. Garantiamo inoltre la salute e il rispetto degli animali e abbiamo deciso di elevare gli standard di certificazione sul Benessere animale
+- SOIA: Tra i benefici che offre la soia vi sono la regolarità intestinale ma anche la capacità di tenere a bada glicemia e colesterolo. Grazie alla presenza di sali minerali come calcio e fosforo, la soia aiuta, poi, la mineralizzazione delle ossa.
 - GRANAROLO: È la più importante e grande filiera italiana del latte. Siamo l’unica filiera italiana basata su un sistema integrato di produzione, dove l’intero processo è controllato e gestito in stretta collaborazione con i migliori produttori locali. Insieme seguiamo tutte le fasi di processo: dalla produzione della materia prima alla distribuzione del prodotto finito ai punti vendita, per garantire la massima qualità e sicurezza e la ricerca costante di una sostenibilità a 360°.
+- MODO DUSO: Il prodotto va agitato prima delluso. Conservare in un luogo fresco e asciutto. Dopo lapertura del contenitore, conservare in frigorifero (+6°C) e consumare entro 3-4 giorni.
+- SOSTENIBILITÀ: Abbiamo a cuore la natura e il futuro del nostro Pianeta e lavoriamo quotidianamente per introdurre nuovi modelli di produzione e consumo che siano sostenibili nel medio e lungo termine. Intendiamo ridurre le materie plastiche limitando le emissioni di gas ad effetto serra legate all’intero ciclo di vita del prodotto. Garantiamo inoltre la salute e il rispetto degli animali e abbiamo deciso di elevare gli standard di certificazione sul Benessere animale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CBL1BQFN{{</world>}}

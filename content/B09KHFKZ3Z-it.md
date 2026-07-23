@@ -28,11 +28,11 @@ average: '18.235'
 
 ℹ️:
 
-- Occhiali da sole categoria filtro 3, colorazione sufficientemente scura per ambienti esterni con luce diretta del sole; Assorbono tra l82% e il 92% della luce solare; Materiale lenti: Lenti TR18 con sigillo Eastman, gran qualità ottica e buona resistenza; Materiali eco-sostenibili; Protezione 100% UV; Colore lenti: Nero; Aspetto lenti: Solide
-- ONE è il nostro design più iconico di tutti i tempi; Il modello ONE RAW, della collezione Made in Spain, spicca per la sua leggerezza, la sua comodità e un design senza tempo; Un classico fondamentale per le giornate soleggiate; Disponibile in vari colori di lenti e montatura
-- Modello unisex; Misure: Frontale 141.2 mm, Asti 140 mm, Ponte 17 mm, Altezza 50.5 mm
 - Original Hawkers product; Package includes microfiber pouch and box
+- ONE è il nostro design più iconico di tutti i tempi; Il modello ONE RAW, della collezione Made in Spain, spicca per la sua leggerezza, la sua comodità e un design senza tempo; Un classico fondamentale per le giornate soleggiate; Disponibile in vari colori di lenti e montatura
 - Materiale montatura: TR90; Colore montatura: Nero; Colore asta: Nero
+- Modello unisex; Misure: Frontale 141.2 mm, Asti 140 mm, Ponte 17 mm, Altezza 50.5 mm
+- Occhiali da sole categoria filtro 3, colorazione sufficientemente scura per ambienti esterni con luce diretta del sole; Assorbono tra l82% e il 92% della luce solare; Materiale lenti: Lenti TR18 con sigillo Eastman, gran qualità ottica e buona resistenza; Materiali eco-sostenibili; Protezione 100% UV; Colore lenti: Nero; Aspetto lenti: Solide
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09KHFKZ3Z{{</world>}}

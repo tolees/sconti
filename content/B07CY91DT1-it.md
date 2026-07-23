@@ -28,12 +28,12 @@ average: '13.99'
 
 ℹ️:
 
-- Confezione da 24 brick da 180ml ciascuno (4,32L totali)
 - Pratica confezione monoporzione in Tetra Pak da portare dove vuoi tu. Include una comoda cannuccia in carta
 - Senza glutine e senza coloranti
-- Fonte di Calcio e Vitamina D
 - Visita il sito Nestlé per scoprire come le nostre marche sono scese in campo e contribuiscono al raggiungimento degli obiettivi di sostenibilità del Gruppo Nestlé con progetti concreti
+- Fonte di Calcio e Vitamina D
 - NESQUIK PRONTO DA BERE è una bevanda a base di latte 100% italiano e con cacao magro
+- Confezione da 24 brick da 180ml ciascuno (4,32L totali)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07CY91DT1{{</world>}}

@@ -29,9 +29,9 @@ average: '25.08'
 ℹ️:
 
 - La confezione contiene 48 lattine suddivise in 12 multipack da 4
-- Lumido gatto Gourmet Delizie in Salsa non contiene coloranti, aromi o conservanti artificiali
 - Per mantenere il gatto in una condizione fisica sana e snella
 - Cibo umido per gatti con pollo in una salsa al gusto di pollo grigliato e con manzo in una salsa al gusto di manzo arrosto
+- Lumido gatto Gourmet Delizie in Salsa non contiene coloranti, aromi o conservanti artificiali
 - GOURMET GOLD Delizie in Salsa, unabbondante salsa, abbinata a raffinati filettini, per il piacere del tuo gatto che non sa resistere alla salsa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

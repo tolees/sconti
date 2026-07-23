@@ -28,8 +28,8 @@ average: '8.29'
 
 ℹ️:
 
-- Giocattolo da esposizione: una volta completato, il granaio infestato può continuare a incantare i piccoli; basta esporlo nella cameretta per creare un elemento da arredo da brivido
 - Entra... se hai il coraggio: i piccoli amanti di Halloween si divertiranno con il modellino da costruire del granaio dallesterno sgangherato, mentre scoprono tutti i dettagli interni della casa LEGO
+- Giocattolo da esposizione: una volta completato, il granaio infestato può continuare a incantare i piccoli; basta esporlo nella cameretta per creare un elemento da arredo da brivido
 - Gioco di Halloween per bambini: lascia ribollire la creatività dei giovani con il set Granaio di Halloween in mattoncini, un gioco LEGO di Halloween per bambini e bambine da 8 anni
 - Scheletro giocattolo: la magia prende vita con la minifigure LEGO di uno scheletro, per ore di gioco di ruolo creativo; al termine, il set diventa una simpatica decorazione di Halloween per la camera da letto dei bambini
 - Ricco di dettagli: la casa giocattolo include denti nascosti dietro la porta, un pipistrello, una lampada, un occhio decorato, una bottiglia verde, un barattolo nero e un vecchio albero

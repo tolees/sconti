@@ -28,10 +28,10 @@ average: '10.215'
 
 ℹ️:
 
+- Può essere utilizzato durante o dopo l’allenamento
 - Può essere utilizzato anche per lo sport a livello agonistico in quanto non contiene sostanze dopanti
 - Alimento completo con sali minerali, taurina e vitamina C che contribuisce alla riduzione della stanchezza e dell’affaticamento
 - È un alimento addizionato a base di carboidrati e sali minerali, pensato per gli sportivi che vogliono reintegrare le perdite saline conseguenti all’eccessiva sudorazione durante l’attività fisica
-- Può essere utilizzato durante o dopo l’allenamento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B015SMEPHS{{</world>}}

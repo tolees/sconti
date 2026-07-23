@@ -28,12 +28,12 @@ average: '10.0'
 
 ℹ️:
 
-- Conoscenza francese & competenza coreana: una formula unica che combina la ricerca cosmetica francese con leccellenza della produzione coreana.
+- Rigenera in profondità: leviga le rughe e rigenera la pelle grazie alladenosina presente nella formula, per un effetto giovanile visibile e duraturo. Stringe i pori - Grazie alla Niacinamide presente, il grano della pelle è raffinato, il rossore attenuato e i pori visibilmente ridotti.
 - Effetto visibile dei 30 minuti: pelle luminosa, levigata e rimpolpata, per un effetto immediato di vetro pelle. 30ml di siero in ogni maschera
 - Made in Korea – Made in Corea: lautenticità della K-Beauty con maschere viso collagene Korean SAMPAR, garanzia di qualità ed efficienza. Venduto in farmacia.
-- Eccellente su Yuka. Idratazione intensiva: il bio-collagene <100DA e lacido ialuronico agiscono in profondità per rimpolpare e levigare la pelle.
 - Idratazione intensa e levigatura delle rughe - La maschera Sampar Hydrafuse Collagene 4h 35gr offre unidratazione profonda grazie allacido ialuronico a bassissimo peso molecolare che penetra più efficacemente nella pelle e la lascia visibilmente rimpolpata, sorso dacqua e più flessibile.
-- Rigenera in profondità: leviga le rughe e rigenera la pelle grazie alladenosina presente nella formula, per un effetto giovanile visibile e duraturo. Stringe i pori - Grazie alla Niacinamide presente, il grano della pelle è raffinato, il rossore attenuato e i pori visibilmente ridotti.
+- Eccellente su Yuka. Idratazione intensiva: il bio-collagene <100DA e lacido ialuronico agiscono in profondità per rimpolpare e levigare la pelle.
+- Conoscenza francese & competenza coreana: una formula unica che combina la ricerca cosmetica francese con leccellenza della produzione coreana.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F1BKR6Y1{{</world>}}

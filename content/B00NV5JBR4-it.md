@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Ogni tazzina di caffè LOR rappresenta unesperienza unica, un momento di puro e semplice piacere. Sapori intensi, delicati e corposi che sorprenderanno il tuo palato
-- La pratica capsula in alluminio conserva al meglio gli aromi del caffe, per unesperienza intensa. Capsule compatibili con le macchine da caffè Nespresso, una pausa caffè a casa tua come al bar
+- Ogni miscela di caffè LOR è coltivata con metodi di produzione sostenibili certificati, preservando la natura e proteggendo lambiente
 - Nel terreno calcareo del Guatemala nasce LOr Espresso Guatemala, una miscela fresca con dolci toni di mela e agrumi. Caffè mediamente tostato, elegante e raffinato con una continua evoluzione di sapori per unesperienza aromarica ricca e profonda. 100 capsule. Intensità 7
 - *Marchio di terzi senza alcun collegamento con JACOBS DOUWE EGBERTS
-- Ogni miscela di caffè LOR è coltivata con metodi di produzione sostenibili certificati, preservando la natura e proteggendo lambiente
+- La pratica capsula in alluminio conserva al meglio gli aromi del caffe, per unesperienza intensa. Capsule compatibili con le macchine da caffè Nespresso, una pausa caffè a casa tua come al bar
+- Ogni tazzina di caffè LOR rappresenta unesperienza unica, un momento di puro e semplice piacere. Sapori intensi, delicati e corposi che sorprenderanno il tuo palato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00NV5JBR4{{</world>}}

@@ -29,9 +29,9 @@ average: '58.535'
 ℹ️:
 
 - PANNELLO I/O - Il pannello I/O laterale include pulsante Power e Reset, jack microfono/audio, 1 x USB 3.2 Gen 2x2 Type-C (20 Gbps) e 1 x USB 3.2 Gen 1 Type-A (5 Gbps)
-- FACILE DA ASSEMBLARE – Dotato di indicatore di livello e stand per GPU per un’installazione senza sforzo. Mantiene 33 mm di spazio per il cable routing e fascette in Velcro per un cable management semplice e ordinato.
 - MAG PANO M100L PZ è un case ideale per motherboard Micro‑ATX e Mini‑ITX. È progettato per essere compatibile con le Micro‑ATX Back‑Connect
 - FILTRO ANTIPOLVERE TOOL-FREEI - filtri antipolvere tool-free sul top e il filtro magnetico sul fondo impediscono alla polvere di entrare nel case e sono facili da rimuovere per la pulizia
+- FACILE DA ASSEMBLARE – Dotato di indicatore di livello e stand per GPU per un’installazione senza sforzo. Mantiene 33 mm di spazio per il cable routing e fascette in Velcro per un cable management semplice e ordinato.
 - SISTEMA DI RAFFREDDAMENTO – Il MAG PANO M100L PZ è dotato di pannello laterale a mesh, per garantire il massimo flusso d’aria e un raffreddamento ottimale dei componenti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ average: '31.14'
 
 ℹ️:
 
-- MATERIALE - 95% Cotone, 5% Elastan
-- VESTIBILITÀ - Taglio aderente lungo fino alla coscia.
 - ESSENZIALE - Un capo multifunzionale per il comfort quotidiano. JACHUEY
+- VESTIBILITÀ - Taglio aderente lungo fino alla coscia.
+- MATERIALE - 95% Cotone, 5% Elastan
 - IDEALE- Slip corto con elastico stampato con logo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

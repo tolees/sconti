@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Carotina parlante e luminosa e poster gigante 50 x70 cm
+- 50 attività didattiche
 - Con il libro dei giochi, ricco di consigli didattici
 - Leggere e decodificare le immagini, memoria, classificare e raggruppare, manualità fine, attenzione e concentrazione
 - Pratica guida per i giochi
-- 50 attività didattiche
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07SRH8VZ4{{</world>}}

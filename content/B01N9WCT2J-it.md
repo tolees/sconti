@@ -28,15 +28,15 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Estetica fresca e vivace
-- Dimensioni (mm): 200 x 200 x 140
 - Griglia filtrante
+- Spremitura automatica a pressione
+- Dimensioni (mm): 200 x 200 x 140
+- Doppio coppa di spremitura piccola e grande
+- Estetica fresca e vivace
 - Completamente smontabile per una pulizia facilitata
+- Alimentazione: AC 220-240V -50/60Hz
 - Potenza: 25W
 - Capacità: 700cc
-- Spremitura automatica a pressione
-- Alimentazione: AC 220-240V -50/60Hz
-- Doppio coppa di spremitura piccola e grande
 - Doppio senso di rotazione del cono per una spremitura più completa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '21.6483333333332'
 
 ℹ️:
 
-- Fazzoletti biodegradibili realizzati con fibre provenienti da fornitori certificati FSC
-- I fazzoletti Tempo sono resistenti ai lavaggi in lavatrice
 - I fazzoletti Tempo sono morbidi e resistenti, pronti a tutto! Dermatologicamente testati
 - Scopri il nuovo look Tempo: liconico fazzoletto si rinnova!
+- Fazzoletti biodegradibili realizzati con fibre provenienti da fornitori certificati FSC
+- I fazzoletti Tempo sono resistenti ai lavaggi in lavatrice
 - ARTICOLO CONSEGNATO: 1 cartone scorta Tempo fazzoletti tascabili 144 pacchetti, 24 confezioni da 6 pacchetti di fazzoletti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

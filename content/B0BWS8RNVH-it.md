@@ -31,9 +31,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 - ADDITIVO DISINFETTANTE: Napisan Additivo Disinfettante. Additivo disinfettante smacchiante per bucato​
 - ISTRUZIONI D’USO - LAVATRICE: per un’azione smacchiante e igienizzante, dosa regolarmente il tuo detersivo e aggiungi 100 mL di prodotto nella stessa vaschetta​
 - PERCHE’ UTILIZZARE ADDITIVO DISINFETTANTE: Grazie alla sua formula, disinfetta e smacchia i capi rispettando tessuti e colori. Elimina il 99.9% di germi e batteri, anche quelli causa di cattivi odori per una freschezza autentica​
+- PRESIDIO MEDICO CHIRURGICO: Napisan Additivo Disinfettante è un Presidio Medico Chirurgico Reg.N.19747.Leggere attentamente le avvertenze o le istruzioni per l’uso. Aut.Min.del 18/11/2025. CONFEZIONI: disponibile in formati da 1L, 2,2L, 3L​
 - FRAGRANZE: disponibile in fragranze standard, Brezza di Primavera, Fresca Rugiada​
 - ISTRUZIONI DUSO - A MANO: per un’azione smacchiante e igienizzante, versa 100 mL di prodotto in 10 L d’acqua con il detersivo, Lascia in ammollo per circa 2 ore e quindi risciacqua a fondo con acqua fredda​
-- PRESIDIO MEDICO CHIRURGICO: Napisan Additivo Disinfettante è un Presidio Medico Chirurgico Reg.N.19747.Leggere attentamente le avvertenze o le istruzioni per l’uso. Aut.Min.del 18/11/2025. CONFEZIONI: disponibile in formati da 1L, 2,2L, 3L​
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BWS8RNVH{{</world>}}

@@ -28,11 +28,11 @@ average: '7.89'
 
 ℹ️:
 
-- Realizzato in vetro temperato premium di alta qualità con uno spessore di 0,33 mm con bordi arrotondati. Soluzione anti-rottura ideale: durezza estremamente elevata, protegge lo schermo del telefono da urti e danni accidentali.
-- ATTENZIONE: NON compatibile con : iPhone 13 (6,1"), iPhone 13 Pro Max (6,7"), iPhone 13 Mini (5,4")
+- Oleofobico: ha un rivestimento oleorepellente che previene le impronte digitali e altri contaminanti e rende il film facile da pulire.
 - Pellicola salvaschermo in vetro temperato per iPhone 13 Pro NEWC Tocco delicato: è rivestita sul retro con un forte adesivo siliconico che ne facilita linstallazione e fissa saldamente la pellicola per non intaccare la sensibilità del touch screen. Senza polvere nessuna impronta digitale un pulsante troppo facile installazione senza bolle.
 - Contenuto: 2 protezioni per lo schermo in vetro temperato e 2 protezioni per lobiettivo della fotocamera per iPhone 13 Pro. Doppia protezione anteriore e posteriore per il telefono
-- Oleofobico: ha un rivestimento oleorepellente che previene le impronte digitali e altri contaminanti e rende il film facile da pulire.
+- ATTENZIONE: NON compatibile con : iPhone 13 (6,1"), iPhone 13 Pro Max (6,7"), iPhone 13 Mini (5,4")
+- Realizzato in vetro temperato premium di alta qualità con uno spessore di 0,33 mm con bordi arrotondati. Soluzione anti-rottura ideale: durezza estremamente elevata, protegge lo schermo del telefono da urti e danni accidentali.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09S11PYZ9{{</world>}}

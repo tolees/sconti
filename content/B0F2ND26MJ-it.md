@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tante modalità di gioco, alcune esclusive per Nintendo Switch 2​
-- 26 personaggi giocabili e 20 stage unici. ​
 - 60 fps sia in modalità portatile che TV​
 - La leggenda è tornata – Uno dei picchiaduro più iconici arriva su Nintendo Switch 2 con i DLC dei primi due anni inclusi.​
+- 26 personaggi giocabili e 20 stage unici. ​
 - Modalità online in cross platform per sfidare i giocatori di tutto il mondo.
+- Tante modalità di gioco, alcune esclusive per Nintendo Switch 2​
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F2ND26MJ{{</world>}}

@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - QUALITÀ: pasta corta sempre al dente grazie alla selezione di grani duri, tempo di cottura di 12 minuti. Poniamo grande attenzione lungo tutta la filiera per garantire qualità e sicurezza alimentare
 - MEZZE MANICHE RIGATE: la forma cilindrica e la rigatura esterna delle Mezze Maniche Rigate Barilla sono ideali anche per piatti saltati in padella, in cui viene esaltato tutto il loro ricco sapore
-- IDEALI CON: con laccompagnamento di sughi al pomodoro. Provatele anche nelle insalate di pasta, insieme ad una colorata sinfonia di prodotti genuini
 - BLUE BOX: la nuova confezione di pasta in cartoncino, nata per abbracciare limpegno di Barilla nello sviluppo di soluzioni volte a ridurre il suo impatto sul pianeta
+- IDEALI CON: con laccompagnamento di sughi al pomodoro. Provatele anche nelle insalate di pasta, insieme ad una colorata sinfonia di prodotti genuini
 - BARILLA: unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

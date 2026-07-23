@@ -28,11 +28,11 @@ average: '70.725'
 
 ℹ️:
 
-- SEGHETTO A BATTERIA POTENTE E ROBUSTO CON BASE REGOLABILE - La lama seghetto alternativo taglia rapidamente e con facilità legname fino a 100mm di spessore, metallo fino a 8mm, alluminio, plastica e cartongesso, con tagli dritti, curvi o inclinati
-- LAVORA SENZA POLVERE CON LATTACCO ASPIRAPOLVERE INTEGRATO - Basta collegare il tubo dellaspirapolvere al seghetto elettrico affinché la segatura venga immediatamente aspirata per migliore visibilità e meno polvere
-- BATTERIA AL LITIO 24V 2Ah DI NUOVA GENERAZIONE E MOTORE BRUSHLESS DI LUNGA DURATA - Progettato per garantire affidabilità, minore manutenzione e maggiore potenza. Alimentato con batteria evoluta utilizzabile in qualsiasi utensile Greenworks da 24V
 - 3 ANNI DI GARANZIA CON 2 ANNI DI GARANZIA PER LA BATTERIA - Da Greenworks, leader mondiale negli attrezzi elettrici e della tecnologia a batterie, con una reputazione globale per design intelligente, prestazioni elevate e un servizio clienti eccezionale
 - CAMBIO LAMA FACILE E RAPIDO - Il seghetto alternativo è dotato di due lame, facili da sostituire senza bisogno di attrezz
+- LAVORA SENZA POLVERE CON LATTACCO ASPIRAPOLVERE INTEGRATO - Basta collegare il tubo dellaspirapolvere al seghetto elettrico affinché la segatura venga immediatamente aspirata per migliore visibilità e meno polvere
+- BATTERIA AL LITIO 24V 2Ah DI NUOVA GENERAZIONE E MOTORE BRUSHLESS DI LUNGA DURATA - Progettato per garantire affidabilità, minore manutenzione e maggiore potenza. Alimentato con batteria evoluta utilizzabile in qualsiasi utensile Greenworks da 24V
+- SEGHETTO A BATTERIA POTENTE E ROBUSTO CON BASE REGOLABILE - La lama seghetto alternativo taglia rapidamente e con facilità legname fino a 100mm di spessore, metallo fino a 8mm, alluminio, plastica e cartongesso, con tagli dritti, curvi o inclinati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09WGYDD9G{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- FUNZIONE MULCHING: scegli tra due modalità di smaltimento dellerba tagliata. Raccoglila nella sacca Redi da 42 L realizzata apposta per lo smaltimento dei rifiuti verdi, oppure usa il tappo mulching in dotazione per tagliare finemente lerba e lasciarla sul prato in modo che funga da nutriente.
 - NON INGOMBRABNTE: Le maniglie pieghevoli offrono un ingombro ridotto e una maniglia di trasporto centrale consente di spostare facilmente il tagliaerba dentro e fuori dagli spazi ristretti del garage o del capannone. La sacca Redi pieghevole si ripone comodamente sopra il tagliaerba. Metti il tagliaerba in posizione verticale in spazi più piccoli
 - SISTEMA DI GESTIONE INTELLIGENTE DELLA BATTERIA iPOWER (TM): lerogazione di potenza viene regolata automaticamente in base alle condizioni dellerba, fornendo potenza extra nelle condizioni più difficili e risparmiando la durata della batteria durante il taglio più leggero. Visualizza il livello di carica della batteria con il semplice tocco di un pulsante e puoi persino aumentare manualmente la potenza quando necessario.
-- COMPLETA LIBERTÀ CORDLESS: dotato di due efficienti batterie 24V 4.0Ah e due caricatori rapidi.
 - BELLISSIMA FINITURA: dotata di lama in acciaio al carbonio per un taglio di ottima qualità. Le 6 altezze di taglio comprese tra 22 mm e 72 mm possono essere regolate con una leva centrale.
+- FUNZIONE MULCHING: scegli tra due modalità di smaltimento dellerba tagliata. Raccoglila nella sacca Redi da 42 L realizzata apposta per lo smaltimento dei rifiuti verdi, oppure usa il tappo mulching in dotazione per tagliare finemente lerba e lasciarla sul prato in modo che funga da nutriente.
+- COMPLETA LIBERTÀ CORDLESS: dotato di due efficienti batterie 24V 4.0Ah e due caricatori rapidi.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09RZWH6PD{{</world>}}

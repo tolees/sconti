@@ -28,9 +28,9 @@ average: '50.74'
 
 ℹ️:
 
-- Camicia HUGO con unetichetta con logo
 - Realizzata in twill di cotone
 - Capo completato da un colletto stile Kent
+- Camicia HUGO con unetichetta con logo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DKY3H7YC{{</world>}}

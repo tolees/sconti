@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- La potenza assorbita dalliniettore anche a pieno carico è di max. 7,0 watt - Un cavo di collegamento elettrico è incluso nella fornitura.
-- Il PoE viene utilizzato preferibilmente quando non è possibile lalimentazione elettrica sul posto di lavoro e quando è possibile alimentare contemporaneamente i dispositivi idonei anche tramite il cavo di rete in ingresso.
-- Due prese RJ45 e una connessione di rete sono integrate nellalloggiamento in plastica - Lalimentazione viene fornita tramite i pin 4/5(+) e 7/8(-) tramite la presa di rete "PoE" contrassegnata.
 - Con una velocità di trasferimento dati di 1 GBit/s, questo iniettore PoE è conforme allo standard Gigabit Ethernet ed ha una tensione di uscita massima di 48 V e una potenza di uscita di 30 W. Liniettore PoE ha una tensione di uscita massima di 48 V e una potenza di uscita di 30 W.
+- Due prese RJ45 e una connessione di rete sono integrate nellalloggiamento in plastica - Lalimentazione viene fornita tramite i pin 4/5(+) e 7/8(-) tramite la presa di rete "PoE" contrassegnata.
+- Il PoE viene utilizzato preferibilmente quando non è possibile lalimentazione elettrica sul posto di lavoro e quando è possibile alimentare contemporaneamente i dispositivi idonei anche tramite il cavo di rete in ingresso.
 - Luscita PoE ha un limitatore di corrente, un fusibile di cortocircuito e un terminale automatico di rilevamento e classificazione per IEEE802.3at PoE+ e IEEE802.3af PoE.
+- La potenza assorbita dalliniettore anche a pieno carico è di max. 7,0 watt - Un cavo di collegamento elettrico è incluso nella fornitura.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01ARGVH8K{{</world>}}

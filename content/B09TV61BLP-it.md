@@ -30,9 +30,9 @@ average: '9.49'
 
 - ABBRONZATURA SANA E NATURALE: Le Vitamina C ed E stimolano le naturali difese della pelle. LOlio di Argan, lOlio di Cocco e il Burro di Karité, contribuiscono a nutrire ed idratare la pelle
 - CARATTERISTICHE: L’Aloe Vera Equilibra (40%) idrata, rinfresca e dona sollievo alla pelle offrendo una protezione potenziata
-- EQUILIBRA: Da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto dellequilibrio tra rispetto, efficacia, benessere e bellezza
 - COSA CONTIENE: Contiene Complesso Idratante Naturale + Vitamina E (Olio di Argan + Olio di Cocco + Burro di Karité), Vitamina C e Vitamina E e Aloe Vera Equilibra
 - PER LE PELLI DELICATE: Aloe Crema Solare SPF 50+ protegge le pelli più delicate e sensibili aiutandole a prevenire i processi di photoaging ed eritema
+- EQUILIBRA: Da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto dellequilibrio tra rispetto, efficacia, benessere e bellezza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09TV61BLP{{</world>}}

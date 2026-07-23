@@ -29,10 +29,10 @@ average: '84.9'
 ℹ️:
 
 - Silenzioso: una ventola da 120 mm con cuscinetti a sfera e una curva della ventola appositamente calcolata riduce il rumore della ventola, anche quando funziona a pieno carico.
+- Certificazione Intel ATX 3.1: Conforme allo standard di alimentazione ATX 3.1, supporta la piattaforma PCIe 5.1 e resiste a 2 escursioni di potenza transitoria dalla GPU.
 - Condensatori con temperatura di 105°C: Forniscono una potenza costante e affidabile e prestazioni elettriche affidabili.
 - Alimentatore completamente modulare: Alimentatore affidabile ed efficiente, a basso rumore e con cablaggio completamente modulare, in modo da dover collegare solo i cavi necessari alla realizzazione del sistema.
 - Compatibile con lo standby moderno: Tempi di risveglio dal sonno estremamente rapidi e migliore efficienza a basso carico.
-- Certificazione Intel ATX 3.1: Conforme allo standard di alimentazione ATX 3.1, supporta la piattaforma PCIe 5.1 e resiste a 2 escursioni di potenza transitoria dalla GPU.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DMTMK2Q5{{</world>}}

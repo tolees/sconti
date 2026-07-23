@@ -30,9 +30,9 @@ average: '1149.0'
 
 - Il mirino ad alta risoluzione della Z fc è elettronico, ma il design è circolare, proprio come il mirino ottico della Nikon FM2
 - Nikon Z fc potrebbe assomigliare a un modello appena uscito degli anni 80, ma iI robusto telaio in lega di magnesio assicura che questa fotocamera mirrorless sia pronta per oggi. Garanzia Estesa Nital V.I.P. – acquistando da Nikon Store Amazon Italia ricevi 6 anni di garanzia totale su fotocamere mirrorless Z e obiettivi NIKKOR Z: unestensione gratuita esclusiva Nital che protegge il tuo investimento nel tempo.
-- Le ghiere di controllo sono disposte esattamente come sulla Nikon FM2 e ogni ghiera è stata creata in alluminio solido. I meccanismi si azionano con precisione
 - Il piccolo pannello consente di verificare lapertura diaframma a colpo docchio mostrando il numero del valore f/stop con il quale si sta scattando
 - La struttura della Z fc è forgiata in lega di magnesio, lo stesso materiale usato nelle fotocamere professionali Nikon
+- Le ghiere di controllo sono disposte esattamente come sulla Nikon FM2 e ogni ghiera è stata creata in alluminio solido. I meccanismi si azionano con precisione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B61BWCH7{{</world>}}

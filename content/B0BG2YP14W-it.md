@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- NOTE DEGUSTATIVE: Il profumo è ricco con note di frutta matura, fichi secchi e vaniglia. Dal sapore corposo, caldo con retrogusto persistente e avvolgente, dona al palato morbidezza e piacevolezza.
 - FEUDO APULIANO: I vini della linea Feudo Apuliano rappresentano a pieno tutta la ricchezza e la raffinatezza della Puglia, cuore della viticultura italiana.
 - ABBINAMENTO: Ideale con arrosti a base di carni rosse, selvaggina, formaggi stagionati e piccanti. Accompagna egregiamente anche antipasti salati e a base di salumi
-- FEUDO APULIANO PRIMITIVO DI MANDURIA DOP: Vino Primitivo di Manduria DOP dal colore rosso intenso e riflessi violacei, gradazione alcolica 15% Vol. Prodotto a Manduria, in Puglia
 - FORMATO: confezione con 6 bottiglie da 750 ml ciascuna
+- FEUDO APULIANO PRIMITIVO DI MANDURIA DOP: Vino Primitivo di Manduria DOP dal colore rosso intenso e riflessi violacei, gradazione alcolica 15% Vol. Prodotto a Manduria, in Puglia
+- NOTE DEGUSTATIVE: Il profumo è ricco con note di frutta matura, fichi secchi e vaniglia. Dal sapore corposo, caldo con retrogusto persistente e avvolgente, dona al palato morbidezza e piacevolezza.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BG2YP14W{{</world>}}

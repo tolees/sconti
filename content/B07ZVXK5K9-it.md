@@ -28,9 +28,9 @@ average: '14.93'
 
 ℹ️:
 
-- PER TUTTI I TIPI DI PELLE: questo set di 5 prodotti skincare è perfettamente compatibile con tutti i tipi di pelle.
 - PRODOTTI NUTRIENTI E IDRATANTI: ognuno di questi prodotti è ricco di ingredienti nutrienti, come l’aloe, il burro di karité, l’olio di jojoba, la vitamina E, i peptidi e l’acido ialuronico.
 - SKINCARE SEMPRE CON TE: e.l.f. Jet Set Hydration Kit contiene tutti i tuoi prodotti preferiti per la cura della pelle, in formato viaggio. Include detergente (30 ml), balsamo idratante (6 g), idratante (25 ml), crema occhi (7 g) e crema notte (15 g).
+- PER TUTTI I TIPI DI PELLE: questo set di 5 prodotti skincare è perfettamente compatibile con tutti i tipi di pelle.
 - INGREDIENTI DELICATI SULLA PELLE: i prodotti e.l.f. sono realizzati con ingredienti che amano la pelle e senza le sostanze tossiche da evitare, il tutto a prezzi accessibili. Inoltre, sono vegani al 100% e non testati sugli animali.
 - COME LO USI: detergi il viso con Daily Face Cleanser e acqua calda. Applica Prep & Hydrate Balm su tutto il viso con movimenti circolari. Al mattino, idrata con Daily Hydration Moisturiser e Eye Cream, e alla sera con Nourishing Night Cream.
 

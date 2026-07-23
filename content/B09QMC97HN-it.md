@@ -28,8 +28,8 @@ average: '32.39'
 
 ℹ️:
 
-- Boxer realizzati in morbido misto cotone leggermente elasticizzato
 - Completati da righe tipiche del marchio e logo BOSS
+- Boxer realizzati in morbido misto cotone leggermente elasticizzato
 - Completati dallelastico sulla vita ad altezza regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

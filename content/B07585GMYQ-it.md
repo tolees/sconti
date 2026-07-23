@@ -28,10 +28,10 @@ average: '24.71'
 
 ℹ️:
 
-- VESTIBILITÀ - Regular Fit e taglio corto. La modella è alta 173 cm e indossa la taglia S. La lunghezza della taglia S è di 52cm.
 - COMFORT - Giacca di transizione in ecopelle con colletto asimmetrico, tasche con zip chiudibili e dettagli da biker sulle spalle.
-- MATERIALE - 100% poliestere. Rivestimento: poliuretano.
+- VESTIBILITÀ - Regular Fit e taglio corto. La modella è alta 173 cm e indossa la taglia S. La lunghezza della taglia S è di 52cm.
 - FASHION - Un capo versatile NMREBEL - 27000741! Perfetto per il tuo stile da biker.
+- MATERIALE - 100% poliestere. Rivestimento: poliuretano.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07585GMYQ{{</world>}}

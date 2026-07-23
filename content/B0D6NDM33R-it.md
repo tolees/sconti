@@ -28,8 +28,8 @@ average: '59.06'
 
 ℹ️:
 
-- Presentano uno stile casual
 - Traspiranti e leggeri
+- Presentano uno stile casual
 - Offrono un comfort ottimale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

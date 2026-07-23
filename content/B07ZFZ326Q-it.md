@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Rubber handle
 - inner compartment for accessories
 - Premium finish
+- Rubber handle
 - safety rubber
 - inner compartment for game cards
 

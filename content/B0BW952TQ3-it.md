@@ -28,12 +28,12 @@ average: '101.63'
 
 ℹ️:
 
-- 🇩🇪 QUALITÀ TEDESCA DAL 1947: GLORIA è il punto di riferimento per gli amanti del verde, i professionisti e lindustria. Scegli lingegneria tedesca progettata per durare nel tempo, con 10 anni di garanzia sulla disponibilità dei ricambi. Un investimento sicuro per il tuo giardino.
-- 🔁 FLESSIBILE E COMODO: Regola linclinazione dellimpugnatura con un solo tasto per raggiungere i punti più difficili sotto arbusti o giochi da giardino. Il design ergonomico permette un lavoro rilassato, in posizione eretta e senza sforzi per la schiena.
 - 📦 CONTENUTO DELLA CONFEZIONE: 1 x tagliaerba e tagliabordi a batteria FineCut 18V. Nota: batteria e caricabatteria non sono inclusi nella confezione, ma sono disponibili separatamente e compatibili con tutti i dispositivi Bosch 18V POWER FOR ALL.
+- 🔁 FLESSIBILE E COMODO: Regola linclinazione dellimpugnatura con un solo tasto per raggiungere i punti più difficili sotto arbusti o giochi da giardino. Il design ergonomico permette un lavoro rilassato, in posizione eretta e senza sforzi per la schiena.
 - 🔋 POWER FOR ALL ALLIANCE: 1 BATTERIA, 10+ MARCHI, 150+ PRODOTTI. Usa le tue batterie BOSCH 18V per risparmiare costi e spazio. Con una batteria da 2,5 Ah lautonomia è di 60 minuti. Nota: Batteria e caricabatteria non sono inclusi.
 - ✂️ TAGLIO NETTO E ALTEZZA REGOLABILE: Il sistema a doppia lama taglia lerba in modo netto come una forbice, senza sfilacciarla. Grazie alla larghezza XXL di 25 cm e allaltezza regolabile (3/4/5 cm), ottieni un risultato uniforme e professionale, degno di un campo da golf.
 - 🤝 IL MIGLIOR AMICO DEL ROBOT TAGLIAERBA: Il FineCut 18V è il complemento perfetto per ogni robot tosaerba. Rifinisce senza fatica lerba residua lungo i bordi, le aiuole o sotto i cespugli, garantendo un prato curato in ogni dettaglio senza dover usare le forbici manuali.
+- 🇩🇪 QUALITÀ TEDESCA DAL 1947: GLORIA è il punto di riferimento per gli amanti del verde, i professionisti e lindustria. Scegli lingegneria tedesca progettata per durare nel tempo, con 10 anni di garanzia sulla disponibilità dei ricambi. Un investimento sicuro per il tuo giardino.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BW952TQ3{{</world>}}

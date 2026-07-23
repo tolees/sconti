@@ -29,9 +29,9 @@ average: '7.69'
 ℹ️:
 
 - CARATTERISTICHE: Altissimo contenuto di Polisaccaridi e Acemannano, attivi funzionali che rendono lAloe utile alla depurazione dell’organismo e all’azione emolliente e lenitiva sul sistema digerente
-- COLTIVAZIONE BIOLOGICA CERTIFICATA: Coltivata nel Salento secondo i principi dell’agricoltura biologica per garantire l’assenza di pesticidi e sostanze chimiche. Filiera produttiva 100% italiana
 - EQUILIBRA: Da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto dellequilibrio tra rispetto, efficacia, benessere e bellezza
 - PER DEPURARE IL TUO ORGANISMO: Integratore alimentare per favorire le funzioni depurative dellorganismo. A base di polpa al 100% non diluita ottenuta da foglie selezionate di Aloe Vera
+- COLTIVAZIONE BIOLOGICA CERTIFICATA: Coltivata nel Salento secondo i principi dell’agricoltura biologica per garantire l’assenza di pesticidi e sostanze chimiche. Filiera produttiva 100% italiana
 - AL MATTINO: 50 ml al giorno (1 misurino) puro o diluito in altra bevanda non calda, preferibilmente al mattino. Dopo l’apertura conservare in frigorifero e consumare entro 30 giorni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

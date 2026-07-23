@@ -28,10 +28,10 @@ average: '21.11'
 
 ℹ️:
 
-- Collo in costina
 - Pantaloni tuta Inter, collezione everyday
-- PRODOTTO UFFICIALE FC INTERNAZIONALE MILANO: Se vuoi scoprire altri prodotti ufficiali Inter, clicca sul link sopra il titolo del prodotto.
 - Porta la tua squadra del cuore sempre con te
+- PRODOTTO UFFICIALE FC INTERNAZIONALE MILANO: Se vuoi scoprire altri prodotti ufficiali Inter, clicca sul link sopra il titolo del prodotto.
+- Collo in costina
 - tuta 100% cotone 190 gr
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

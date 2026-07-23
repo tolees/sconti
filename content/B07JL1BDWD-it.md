@@ -28,9 +28,9 @@ average: '1223.495'
 
 ℹ️:
 
-- QLED Display 144Hz
-- Mini-LED con Local Dimming
 - Smart TV Mini-LED 144Hz 4K 85", Risoluzione 3840x2160
+- Mini-LED con Local Dimming
+- QLED Display 144Hz
 - Dolby Vision IQ / HDR 10+ / HLG
 - Audio Dolby Atmos 2.1
 

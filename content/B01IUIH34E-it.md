@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 🤩 SERVIZIO CLIENTI - Con i nostri prodotti sicuri e di alta qualità contribuiamo a soddisfare le esigenze dei nostri consumatori. Ascoltiamo sempre i nostri clienti e prendiamo in considerazione il loro punto di vista per poter offrire prodotti migliori. Siamo a tua disposizione 24 ore su 24 e 7 giorni su 7 per qualsiasi richiesta, non esitare a contattarci!
+- 🥘 CHILI BEANS - I fagioli al chili richiamano subito i film western: una gustosa combinazione di fagioli, pomodoro e spezie, da leccarsi i baffi! Perfetto per condire il chili con carne o come condimento per le tortillas e i tacos.
 - 📦 CONTENUTO - A casa riceverai una latta da 410 g di Mexican Chili Beans Santa Maria. Fagioli al chili da utilizzare come condimento per tacos, burritos, fajitas o tortillas. Piatto tipico della cucina Tex - Mex. Per gustarlo ti basterà aprire la confezione, riscaldarla in un pentolino o a microonde, ed il gioco è fatto!
+- 🤩 SERVIZIO CLIENTI - Con i nostri prodotti sicuri e di alta qualità contribuiamo a soddisfare le esigenze dei nostri consumatori. Ascoltiamo sempre i nostri clienti e prendiamo in considerazione il loro punto di vista per poter offrire prodotti migliori. Siamo a tua disposizione 24 ore su 24 e 7 giorni su 7 per qualsiasi richiesta, non esitare a contattarci!
 - 🌶 TEX-MEX - La cucina Tex-Mex è la prova di come la contaminazione di stili e ingredienti di due tradizioni culinarie possa creare un filone del tutto nuovo e soprattutto di grande successo. Tex-Mex è una cucina popolare che ha avuto origine da un mix di autentici piatti messicani e spagnoli preparati in stile Texas.
 - ✅ SANTA MARIA - Il marchio Santa Maria, sinonimo di cucina messicana moderna, si ispira alla cucina Nuevo Latino che unisce la tradizione gastronomica di diversi Paesi e culture latini. E’ l’alternativa alla classica cucina di ogni giorno: non una versione occidentale dei prodotti messicani ma un assaggio della vera cucina tex-mex dove isapori sono autentici e gli ingredienti solo della migliore qualità.
-- 🥘 CHILI BEANS - I fagioli al chili richiamano subito i film western: una gustosa combinazione di fagioli, pomodoro e spezie, da leccarsi i baffi! Perfetto per condire il chili con carne o come condimento per le tortillas e i tacos.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01IUIH34E{{</world>}}

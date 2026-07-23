@@ -29,10 +29,10 @@ average: '17.49'
 ℹ️:
 
 - VEICOLI GIOCATTOLO CREATIVI: il set LEGO DUPLO Veicoli da Cantiere 3 in 1 è un gioco per bambini e bambine da 2 anni in su, con 22 grandi mattoncini e pezzi con cui costruire gruppi di camion
-- AVVENTURE TUTTE DA SCOPRIRE: la gamma di giochi LEGO DUPLO offre caratteristiche divertenti, ambientazioni familiari e personaggi diversi, che aiutano i piccoli costruttori a giocare nel mondo reale
+- 3 VOLTE IL DIVERTIMENTO: con lo stesso set di mattoncini DUPLO si possono costruire un escavatore giocattolo e un carro attrezzi con braccio, o un veicolo sollevatore e un secondo carro attrezzi con un gancio piccolo per muovere i mattoncini
 - DAI VITA ALLA CREATIVITÀ: è possibile creare 3 gruppi di veicoli (i gruppi non possono essere costruiti contemporaneamente), iniziando con un bulldozer giocattolo e un camion ribaltabile
 - REGALO DI COMPLEANNO PER BAMBINI E BAMBINE: questo gioco Montessori è una simpatica idea regalo per gli amanti dei camion LEGO DUPLO e delle costruzioni edili
-- 3 VOLTE IL DIVERTIMENTO: con lo stesso set di mattoncini DUPLO si possono costruire un escavatore giocattolo e un carro attrezzi con braccio, o un veicolo sollevatore e un secondo carro attrezzi con un gancio piccolo per muovere i mattoncini
+- AVVENTURE TUTTE DA SCOPRIRE: la gamma di giochi LEGO DUPLO offre caratteristiche divertenti, ambientazioni familiari e personaggi diversi, che aiutano i piccoli costruttori a giocare nel mondo reale
 - GIOCHI DIDATTICI PER I PICCOLI: incoraggia i giovani costruttori a usare la creatività, la capacità di risolvere i problemi, la perseveranza e la motricità fine, per sperimentare diverse soluzioni e creare veicoli ingegnosi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

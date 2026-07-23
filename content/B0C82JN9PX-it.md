@@ -28,11 +28,11 @@ average: '11.34'
 
 ℹ️:
 
-- VEGAN & CRUELTY FREE: Tutti i nostri prodotti sono formulati senza ingredienti di origine animale e non vengono testati su di essi.
-- TRATTAMENTO ANTICRESPO: Ideale per controllare il capello ribelle e crespo, domare le punte secche, proteggere dal calore di phon e piastre, rendere il capello più morbido e docile al pettine, favorire lo stilyng, senza appesantire.
 - MULAC COSMETICS: Marchio italiano dal 2014, crea cosmetici naturali e vegani ad alte performance. Offre make-up, cura dei capelli e della pelle, valorizzando unicità e diversità. La sua filosofia invita la community a esprimere arte e individualità.
-- CONSIGLI DI UTILIZZO: Su capelli detersi e umidi vaporizzare il prodotto, concentrandosi su lunghezze e punte. Non risciacquare. Procedere con la piega. Può essere utilizzato anche su capello asciutto, per domare il crespo e le punte sfibrate.
+- TRATTAMENTO ANTICRESPO: Ideale per controllare il capello ribelle e crespo, domare le punte secche, proteggere dal calore di phon e piastre, rendere il capello più morbido e docile al pettine, favorire lo stilyng, senza appesantire.
+- VEGAN & CRUELTY FREE: Tutti i nostri prodotti sono formulati senza ingredienti di origine animale e non vengono testati su di essi.
 - BENEFICI: Dona ai capelli una tenuta elastica e preserva lo styling dall’aria secca o umida e dagli sbalzi climatici. Rende i capelli estremamente morbidi e luminosi, con una visibile azione anti crespo e scioglinodi.
+- CONSIGLI DI UTILIZZO: Su capelli detersi e umidi vaporizzare il prodotto, concentrandosi su lunghezze e punte. Non risciacquare. Procedere con la piega. Può essere utilizzato anche su capello asciutto, per domare il crespo e le punte sfibrate.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C82JN9PX{{</world>}}

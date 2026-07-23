@@ -28,11 +28,11 @@ average: '10.99'
 
 ℹ️:
 
-- Formato: 1 Gel Detergente Viso Collagene + Elastina da 150 ml
-- Formulazione: la sua formula in gel contiene microgranuli di 100% di origine naturale, derivati da Jojoba, che svolgono unazione esfoliante, Phytocollagen, un booster di Collagene, e Skinectura, estratto floreale di origine australiana, che elimia impurità e tracce di trucco; vegana, senza parabeni, senza siliconi e senza oli minerali
-- Modo duso: massaggiare mattina e sera sul viso inumidito, eliminare con acqua tiepida. Evitare la zona perioculare
 - Linea Collagene + Elastina di Bottega Verde: linea viso che agisce a livello strutturale sul collagene, responsabile della forza e della sodezza cutanea, e sullelastina, responsabile della flessibilità ed elasticità della pelle
+- Formato: 1 Gel Detergente Viso Collagene + Elastina da 150 ml
+- Modo duso: massaggiare mattina e sera sul viso inumidito, eliminare con acqua tiepida. Evitare la zona perioculare
 - Gel Detergente Viso Collagene + Elastina: ideale per rinnovare la pelle, deterge in profondità donando allincarnato un aspetto luminoso, grazie anche allazione esfoliante dei microgranuli biodegradabili che lasciano la pelle levigata levigata e rivitalizzata
+- Formulazione: la sua formula in gel contiene microgranuli di 100% di origine naturale, derivati da Jojoba, che svolgono unazione esfoliante, Phytocollagen, un booster di Collagene, e Skinectura, estratto floreale di origine australiana, che elimia impurità e tracce di trucco; vegana, senza parabeni, senza siliconi e senza oli minerali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CNKR4YG5{{</world>}}

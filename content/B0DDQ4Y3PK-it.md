@@ -28,11 +28,11 @@ average: '2.38'
 
 ℹ️:
 
-- ALTA QUALITÀ: La sua formula, studiata per massimizzarne lazione detergente e la sensorialità unica, è arricchita con Olio di Melograno Bio dalle proprietà antiossidanti e Estratto di Bamboo Bio dallazione idratante.
-- NATURAVERDE NATURAL BEAUTY: Entra nell’universo Naturaverde: cosmetici adatti ad ogni momento e ad ogni esigenza per la tua self care quotidiana, come skin care, cura dei capelli, igiene intima, ecc. I nostri cosmetici sono sicuri, Made in Italy, di alta qualità, frutto di ricerca e di professionalità, pensati per ogni tipo di pelle, risaltano la tua bellezza naturale.
-- CARATTERISTICHE: 93% ingredienti di origine naturale; rispetta il PH della pelle; dermatologicamente testato; packaging riciclabile.
 - PROPRIETÀ DELLOLIO DI MELOGRANO: Ricco di Omega 5, Vitamine E e F, è un potente antiossidante. PROPRIETÀ DELLESTRATTO DI BAMBOO: Proprietà idratanti e lenitive.
 - SAPONE LIQUIDO RIGENERANTE: Il Sapone Liquido Melograno deterge delicatamente la pelle delle mani lasciandole morbide e vellutate. Ideale anche per le pelli più delicate.
+- NATURAVERDE NATURAL BEAUTY: Entra nell’universo Naturaverde: cosmetici adatti ad ogni momento e ad ogni esigenza per la tua self care quotidiana, come skin care, cura dei capelli, igiene intima, ecc. I nostri cosmetici sono sicuri, Made in Italy, di alta qualità, frutto di ricerca e di professionalità, pensati per ogni tipo di pelle, risaltano la tua bellezza naturale.
+- ALTA QUALITÀ: La sua formula, studiata per massimizzarne lazione detergente e la sensorialità unica, è arricchita con Olio di Melograno Bio dalle proprietà antiossidanti e Estratto di Bamboo Bio dallazione idratante.
+- CARATTERISTICHE: 93% ingredienti di origine naturale; rispetta il PH della pelle; dermatologicamente testato; packaging riciclabile.
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

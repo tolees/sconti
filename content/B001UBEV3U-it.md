@@ -30,9 +30,9 @@ average: '5.07'
 
 - La chiusura a spirale allinterno dellalbum impedisce che i fogli si stacchino
 - Può contenere fino a 100 foto
-- Copertina in carta strutturata a tinta unita
-- Pagine interne in cartoncino nero e pagine protettive in carta pergamenata per evitare che le foto si incollino tra loro
 - La rilegatura a spirale conferisce allalbum un aspetto di qualità
+- Pagine interne in cartoncino nero e pagine protettive in carta pergamenata per evitare che le foto si incollino tra loro
+- Copertina in carta strutturata a tinta unita
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B001UBEV3U{{</world>}}

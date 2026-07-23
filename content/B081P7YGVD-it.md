@@ -28,15 +28,15 @@ average: '77.6466666666667'
 
 ℹ️:
 
-- Questa sedia direzionale contemporanea offre un comfort
 - Dimensioni dello schienale: 35,56-49,53 cm (larghezza) x 46,99-54,91 cm (altezza)
 - Lo schienale ventilato curvo offre supporto lombare, è regolabile in altezza e consente di regolare l’angolazione con infinite possibilità di blocco
-- Non solo per il tuo ufficio, questa sedia a rete da scrivania sarà una sedia da gaming ergonomica e confortevole per i giocatori online e per i tester di videogiochi
-- Dimensioni del prodotto: dimensioni complessive: 65,41 cm (larghezza) x 62,23-69,85 cm (profondità) x 93,98-112,40 cm (altezza)
-- Dimensioni del bracciolo: 68,58-87 cm (altezza) dal pavimento; 19,05-25,4 cm (altezza) dalla seduta
-- Dimensioni della seduta: 49,53 cm (larghezza) x 45,72 cm (profondità) x 48,26-53,34 cm (altezza)
-- Leva di inclinazione: spingila verso l’interno per bloccarla in posizione verticale, tirala verso l’esterno per attivare la funzione “dondolo”; la manopola consente di regolare la rigidità dello schienale
+- Questa sedia direzionale contemporanea offre un comfort
 - Questa sedia direzionale da ufficio offre un controllo tramite 3 leve per farti raggiungere il comfort desiderato
+- Dimensioni della seduta: 49,53 cm (larghezza) x 45,72 cm (profondità) x 48,26-53,34 cm (altezza)
+- Dimensioni del bracciolo: 68,58-87 cm (altezza) dal pavimento; 19,05-25,4 cm (altezza) dalla seduta
+- Dimensioni del prodotto: dimensioni complessive: 65,41 cm (larghezza) x 62,23-69,85 cm (profondità) x 93,98-112,40 cm (altezza)
+- Leva di inclinazione: spingila verso l’interno per bloccarla in posizione verticale, tirala verso l’esterno per attivare la funzione “dondolo”; la manopola consente di regolare la rigidità dello schienale
+- Non solo per il tuo ufficio, questa sedia a rete da scrivania sarà una sedia da gaming ergonomica e confortevole per i giocatori online e per i tester di videogiochi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B081P7YGVD{{</world>}}

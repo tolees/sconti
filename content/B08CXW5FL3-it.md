@@ -29,10 +29,10 @@ average: '37.5'
 ℹ️:
 
 - Jeans dal taglio inconfondibilmente moderno realizzati in cotone resistente, Lavabili in lavatrice a freddo, Lava al rovescio, Il colore può trasferirsi con lo sfregamento su materiali chiari
-- Jeans casual a vita regolare con dettagli unici: 5 tasche, patta con zip, 5 passanti classici e bottoni in metallo
-- Comodi jeans Lee dal taglio regolare con gamba dritta dalla coscia alla caviglia, Un modello fresco e contemporaneo per un look adatto a tutte le situazioni
 - Contenuto: 1x Jeans Uomo Lee, Modello: 112119560, Numero di lotto: L71WTASD, Lunghezza: 32, Taglia: 40, Materiale: 81% cotone 18% poliestere 1% elastan, Stretch: media elasticità, Colore: General (Blu)
+- Comodi jeans Lee dal taglio regolare con gamba dritta dalla coscia alla caviglia, Un modello fresco e contemporaneo per un look adatto a tutte le situazioni
 - Un capo dallo stile classico e moderno che slancia la figura, Indispensabile in ogni guardaroba e ideale per un uso quotidiano
+- Jeans casual a vita regolare con dettagli unici: 5 tasche, patta con zip, 5 passanti classici e bottoni in metallo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08CXW5FL3{{</world>}}

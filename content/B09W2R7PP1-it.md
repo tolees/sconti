@@ -28,16 +28,16 @@ average: '44.99'
 
 ℹ️:
 
-- 2 spie di funzionamento e temperatura
-- Regolazione della temperatura
-- Piastre 29 x 23 cm, con possibilità di apertura a libro 180°
-- Piastre antiaderenti con rivestimento “Petravera”
 - Dimensioni (mm): 355 x 128 x 330
-- Alimentazione: AC 230V ~ 50-60Hz
+- Piastre antiaderenti con rivestimento “Petravera”
 - Potenza: 1400 W
-- Ampia maniglia antiscottatura
 - Cassetto per raccolta liquidi
+- Alimentazione: AC 230V ~ 50-60Hz
 - Corpo in acciaio INOX
+- Ampia maniglia antiscottatura
+- Regolazione della temperatura
+- 2 spie di funzionamento e temperatura
+- Piastre 29 x 23 cm, con possibilità di apertura a libro 180°
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09W2R7PP1{{</world>}}

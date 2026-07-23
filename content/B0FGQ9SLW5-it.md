@@ -28,11 +28,11 @@ average: '19.67'
 
 ℹ️:
 
-- 【Note importanti】 1. I ND filter variabili funzionano secondo i principi della polarizzazione. Alla massima apertura, con determinati obiettivi e lunghezze focali, potrebbe verificarsi un motivo a X. In tal caso, ridurre il livello di ND. 2. Per la fotografia a lunga esposizione che richiede una riduzione significativa della luce, si consiglia luso di filtri ND fissi come ND64 o ND1000.
-- 【Filtro ND Variabile da 49mm】 Questo filtro a densità neutra variabile riduce la luce che entra nella fotocamera e consente di scattare con tempi di posa più lenti e aperture più ampie in diverse condizioni di luce, perfetto per catturare fiumi, cascate, scie luminose e altri soggetti in movimento con sfocatura dinamica del movimento
-- 【Regolazione ND Accurata】 Ruotare la cornice contrassegnata per regolare i valori ND da ND2 a ND32 (da 1 a 5 stop) per un bilanciamento ottimale dellesposizione in diverse circostanze
-- 【Vetro Ottico Multistrato】 Il vetro ottico garantisce un contrasto neutro e unelevata fedeltà cromatica, rendendolo un accessorio per fotocamera digitale essenziale per i creatori di contenuti e gli influencer. I rivestimenti resistono ad acqua, polvere, impronte digitali e graffi, facilitando la pulizia.
 - 【Verifica della Compatibilità】 1. Compatibile solo con obiettivi con dimesione per i filtri da 49mm. 2. Utilizza una filettatura anteriore più ampia da 52mm per evitare la vignettatura. Sono inclusi un copriobiettivo da 52mm, un cordino per copriobiettivo e un panno per la pulizia.
+- 【Vetro Ottico Multistrato】 Il vetro ottico garantisce un contrasto neutro e unelevata fedeltà cromatica, rendendolo un accessorio per fotocamera digitale essenziale per i creatori di contenuti e gli influencer. I rivestimenti resistono ad acqua, polvere, impronte digitali e graffi, facilitando la pulizia.
+- 【Regolazione ND Accurata】 Ruotare la cornice contrassegnata per regolare i valori ND da ND2 a ND32 (da 1 a 5 stop) per un bilanciamento ottimale dellesposizione in diverse circostanze
+- 【Filtro ND Variabile da 49mm】 Questo filtro a densità neutra variabile riduce la luce che entra nella fotocamera e consente di scattare con tempi di posa più lenti e aperture più ampie in diverse condizioni di luce, perfetto per catturare fiumi, cascate, scie luminose e altri soggetti in movimento con sfocatura dinamica del movimento
+- 【Note importanti】 1. I ND filter variabili funzionano secondo i principi della polarizzazione. Alla massima apertura, con determinati obiettivi e lunghezze focali, potrebbe verificarsi un motivo a X. In tal caso, ridurre il livello di ND. 2. Per la fotografia a lunga esposizione che richiede una riduzione significativa della luce, si consiglia luso di filtri ND fissi come ND64 o ND1000.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FGQ9SLW5{{</world>}}

@@ -28,12 +28,12 @@ average: '32.15'
 
 ℹ️:
 
-- IL GUSTO DELLA RINASCITA: le birre Grimbergen sono caratterizzate da una molteplicità di aromi e sapori avvolgenti, che la rendono perfetta per creare abbinamenti durante i pasti. In abbinamento a ricette di “comfort food” danno vita a momenti gratificanti e speciali.
-- BIRRE DABBAZIA: prodotte con passione fin dal 1128, le birre di Grimbergen, intense e avvolgenti, sono il risultato di storiche tecniche di produzione e di uninstancabile innovazione. Il birrificio dellAbbazia di Grimbergen è il nuovo capitolo che segue i 900 anni di storia della birra di Grimbergen, combinando secoli di conoscenze birrarie con la sperimentazione e i migliori ingredienti per produrre birre deliziose.
 - GRIMBERGEN DOUBLE AMBRÉE: birra in stile Dubbel, strutturata e complessa. Il colore è ambrato scuro con una schiuma color avorio densa e persistente. Al naso, grazie ai lieviti e ai malti tostati, emergono intense note di caramello, frutta secca e candita con nuances di cioccolato e caffè.
-- FORMATO: cassa di birra con 24 Bottiglie da 33cl.
-- GRADAZIONE ALCOLICA: 6.5% Vol.
 - IDEALE CON: carni rosse, formaggi stagionati e dolci al cioccolato.
+- FORMATO: cassa di birra con 24 Bottiglie da 33cl.
+- BIRRE DABBAZIA: prodotte con passione fin dal 1128, le birre di Grimbergen, intense e avvolgenti, sono il risultato di storiche tecniche di produzione e di uninstancabile innovazione. Il birrificio dellAbbazia di Grimbergen è il nuovo capitolo che segue i 900 anni di storia della birra di Grimbergen, combinando secoli di conoscenze birrarie con la sperimentazione e i migliori ingredienti per produrre birre deliziose.
+- IL GUSTO DELLA RINASCITA: le birre Grimbergen sono caratterizzate da una molteplicità di aromi e sapori avvolgenti, che la rendono perfetta per creare abbinamenti durante i pasti. In abbinamento a ricette di “comfort food” danno vita a momenti gratificanti e speciali.
+- GRADAZIONE ALCOLICA: 6.5% Vol.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08R1BX5FB{{</world>}}

@@ -28,11 +28,11 @@ average: '9.9'
 
 ℹ️:
 
+- EFFICACE SU SUPERFICI POROSE E DIFFICILI: La formulazione in polvere è specifica per penetrare dove i liquidi falliscono: crepe, fessure, angoli dei muri, battiscopa e pavimentazioni esterne ruvide. È la soluzione ideale per trattare cantine, garage, terrazzi, intercapedini e zone perimetrali della casa, creando una barriera invalicabile.
 - AMPIO SPETTRO: NON SOLO FORMICHE: Questo insetticida professionale garantisce risultati eccezionali non solo contro le formiche, ma anche contro blatte (scarafaggi), pulci, zecche e pidocchio pollino. Un unico prodotto versatile per proteggere gli ambienti domestici, civili e industriali dai più comuni insetti striscianti infestanti.
 - DOPPIA MODALITÀ DUSO PER I NIDI: Versatile e potente: può essere usata a secco (20g/mq) lungo i percorsi di passaggio, oppure diluita per un attacco diretto al cuore del problema. In presenza di nidi visibili, applicare la polvere e innaffiare con acqua favorisce la penetrazione del principio attivo in profondità, accelerando la distruzione del formicaio.
-- EFFICACE SU SUPERFICI POROSE E DIFFICILI: La formulazione in polvere è specifica per penetrare dove i liquidi falliscono: crepe, fessure, angoli dei muri, battiscopa e pavimentazioni esterne ruvide. È la soluzione ideale per trattare cantine, garage, terrazzi, intercapedini e zone perimetrali della casa, creando una barriera invalicabile.
-- ELIMINA LINTERO FORMICAIO (EFFETTO DOMINO): A differenza degli spray che uccidono solo linsetto visibile, questa polvere insetticida sfrutta il comportamento sociale delle formiche. Gli insetti entrano in contatto con la polvere e la trasportano allinterno del nido, contaminando la colonia e la regina. Questo garantisce uneradicazione totale e previene il ritorno dellinfestazione.
 - PIÙ SICUREZZA CON SOSTANZA AMARICANTE: La sicurezza domestica è una priorità. La polvere contiene Denatonium Benzoate, una sostanza dal sapore estremamente amaro che scoraggia lingestione accidentale da parte di bambini e animali domestici (cani e gatti), permettendoti di utilizzare il prodotto con maggiore tranquillità rispetto ai veleni tradizionali.
+- ELIMINA LINTERO FORMICAIO (EFFETTO DOMINO): A differenza degli spray che uccidono solo linsetto visibile, questa polvere insetticida sfrutta il comportamento sociale delle formiche. Gli insetti entrano in contatto con la polvere e la trasportano allinterno del nido, contaminando la colonia e la regina. Questo garantisce uneradicazione totale e previene il ritorno dellinfestazione.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B071G7RGNG{{</world>}}

@@ -29,10 +29,10 @@ average: '51.99'
 ℹ️:
 
 - Resistente allacqua a 5 ATM Può essere indossato durante la doccia o il nuoto, ma non durante le immersioni
-- Spessore della cassa 9,2mm / Diametro della cassa: 36 mm
 - Cinturino in silicone nero con disegno petit piqué
 - Movimento al quarzo con 3 lancette
 - Quadrante nero semi-brillante con dettagli in oro e distintivo logo LACOSTE in corrispondenza delle 3
+- Spessore della cassa 9,2mm / Diametro della cassa: 36 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B7MMMM5X{{</world>}}

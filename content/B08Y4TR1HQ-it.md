@@ -29,8 +29,8 @@ average: '165.89'
 ℹ️:
 
 - Tasche interne porta oggetti, gancio porta lampada, sacca custodia, kit di riparazione e istruzioni video attivabili tramite QRCode inclusi.
-- Tenda munita di abside, porta in zanzariera, cuffie di ventilazione anteriore, posteriore e sullabside. Paleria esterna in lega di alluminio con caratteristiche di leggerezza, resistenza ed elasticità pensata per permettere il montaggio della tenda in caso di pioggia senza bagnare la camera.
 - Doppio tetto in Poliestere riciclato con spalmatura poliuretanica, interno in zanzariera, cuciture nastrate nel doppio tetto e nel pavimento per garantire totale impermeabilità e costruzione a tre strati per rinforzare gli angoli del catino.
+- Tenda munita di abside, porta in zanzariera, cuffie di ventilazione anteriore, posteriore e sullabside. Paleria esterna in lega di alluminio con caratteristiche di leggerezza, resistenza ed elasticità pensata per permettere il montaggio della tenda in caso di pioggia senza bagnare la camera.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08Y4TR1HQ{{</world>}}

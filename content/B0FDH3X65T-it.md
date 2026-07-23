@@ -28,9 +28,9 @@ average: '30.51'
 
 ℹ️:
 
+- ICONICITÀ INTRAMONTABILE: L’originale costume da bagno Tommy Hilfiger si distingue per l’elevato comfort e la buona vestibilità. Il logo Tommy Hilfiger di lato completa il look.
 - STILE E VERSATILITÀ: Un costume sportivo per gli uomini attivi che nuotano o praticano surf e ci tengono a sfoggiare un’estetica di tendenza in spiaggia o in piscina.
 - MATERIALE E LAVAGGIO: Questo pantaloncino da bagno è al 74% in nylon riciclato e al 26% in elastan. Pulire semplicemente con un lavaggio a mano.
-- ICONICITÀ INTRAMONTABILE: L’originale costume da bagno Tommy Hilfiger si distingue per l’elevato comfort e la buona vestibilità. Il logo Tommy Hilfiger di lato completa il look.
 - VESTIBILITÀ OTTIMALE: Il pantaloncino da bagno corto risulta aderente e convince per il suo design essenziale. Grazie al materiale elastico per costumi da bagno, questo modello garantisce una buona vestibilità senza stringere.
 - QUALITÀ GARANTITA: Dal 1985, questo marchio di moda si distingue in tutto il mondo per qualità e semplicità, oltre che per gli stili che propone nei rinomati colori blu scuro, bianco e rosso.
 

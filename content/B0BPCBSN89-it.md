@@ -29,12 +29,12 @@ average: '116.255'
 ℹ️:
 
 - Include 7 minifigure (con vestiti invernali e tute da sub), unorca giocattolo e accessori come un computer portatile, un walkie-talkie, una macchina fotografica, una chiave inglese e una siringa
-- Il set LEGO City Esploratore Artico include: una grande nave giocattolo galleggiante, un elicottero, un gommone, un sottomarino ROV, un relitto di barca vichinga, 7 minifigure di esploratori e una figura di orca
-- Questo set multiveicolo offre molte possibilità di gioco: lelicottero giocattolo è pronto al decollo dalla piattaforma della nave, mentre le minifigure dei sommozzatori sono già a bordo del gommone
 - Questo grande modellino di nave giocattolo LEGO, per bambini, bambine, ragazzi e ragazze dai 7 anni in su, è perfetto come regalo di compleanno o di Natale per gli amanti dei veicoli da esplorazione
 - Gli accessori includono anche pinne, bombole e maschera subacquea, due tazze, un binocolo, unascia, uno scudo e un elmo vichingo, per un gioco creativo senza fine
+- Il set LEGO City Esploratore Artico include: una grande nave giocattolo galleggiante, un elicottero, un gommone, un sottomarino ROV, un relitto di barca vichinga, 7 minifigure di esploratori e una figura di orca
 - Scopri lintuitiva app LEGO Builder, che consente ai bambini di ingrandire e ruotare i modelli in 3D, seguire le fasi di costruzione e salvare i playset con i progressi raggiunti
 - I bambini possono far muovere la nave giocattolo sullacqua per esplorare il mare; con il braccio della gru possono posizionare il sottomarino ROV e raggiungere il relitto vichingo
+- Questo set multiveicolo offre molte possibilità di gioco: lelicottero giocattolo è pronto al decollo dalla piattaforma della nave, mentre le minifigure dei sommozzatori sono già a bordo del gommone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BPCBSN89{{</world>}}

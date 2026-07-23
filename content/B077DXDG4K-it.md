@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Colletto rialz
-- Maniche lunghe
 - Costumi tradizionali
+- Maniche lunghe
+- Colletto rialz
 - tinta unita
 - Marca: Stockerpoint
 

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Portali sempre con te: ogni occasione è adatta per gustare un Torroncino Sperlari, da soli o in compagnia
-- Ideali per tutti le feste: Natale, compleanni, Halloween, cene in compagnia; rendi ogni occasione un momento unico
 - Adatti da gustare in qualsiasi momento; sono ricchi di mandorle (32%), croccanti e fragranti, con lievi note agrumate e avvolti da cioccolato bianco o fondente
-- Questo prodotto è senza Glutine; informazioni sopra allergeni: almonds
 - All interno della confezione trovi 117 grammi di Torroncini Morbidelli Teneri ricoperti di Cioccolato incartati singolarmente
+- Ideali per tutti le feste: Natale, compleanni, Halloween, cene in compagnia; rendi ogni occasione un momento unico
+- Questo prodotto è senza Glutine; informazioni sopra allergeni: almonds
+- Portali sempre con te: ogni occasione è adatta per gustare un Torroncino Sperlari, da soli o in compagnia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08GYPNC2J{{</world>}}

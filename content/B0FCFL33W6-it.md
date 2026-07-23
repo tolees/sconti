@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- PROPRIETA: Contribuisce al normale metabolismo delle proteine e alla riduzione della stanchezza e dellaffaticamento
-- BENEFICI: Ideale al termine dellallenamento. Vitamina D, Vitamina B6 e tiamina contribuiscono al mantenimento della funzione muscolare, e del metabolismo di proteine e glicogeno
 - PROTEIN BAR 26% CRISPY DARK CHOCO: Con 10g di proteine e un mix di vitamine e minerali, il ripieno croccante è al cioccolato fondente. Senza glutine
+- PROPRIETA: Contribuisce al normale metabolismo delle proteine e alla riduzione della stanchezza e dellaffaticamento
 - ENERVIT: Formuliamo e produciamo soluzioni nutrizionali e di integrazione innovative con un preciso obiettivo: aiutare tutte le persone a migliorare la qualità della propria vita
+- BENEFICI: Ideale al termine dellallenamento. Vitamina D, Vitamina B6 e tiamina contribuiscono al mantenimento della funzione muscolare, e del metabolismo di proteine e glicogeno
 - MODO DUSO: Si consigliano 1-2 barrette al giorno a seconda dell’attività svolta e considerando le altre fonti proteiche apportate dalla dieta. Accompagnare con idonee assunzioni di acqua
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

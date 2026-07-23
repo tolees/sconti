@@ -28,10 +28,10 @@ average: '23.24'
 
 ℹ️:
 
-- GIOCO CREATIVO RICCO DI ELEMENTI SNODABILI: la farfalla ha ali snodabili e può essere posizionata sul colorato supporto con fori, mentre il pesce giocattolo è dotato di un supporto con piante sottomarine
+- ACCESSORI FAI DA TE: questo giocattolo LEGO è un simpatico elemento costruibile, pensato come decorazione della camera da letto dei piccoli
 - GIOCATTOLI LEGO 3 IN 1: scopri il divertimento delle costruzioni LEGO Creator 3 in 1, una gamma di set per tutte le passioni, con cui vivere avventure senza limiti (altri set disponibili separatamente)
 - UCCELLO LEGO CREATOR 3 IN 1: il giocattolo Animali Selvatici: Colibrì Variopinto è un set di giochi per bambine e bambini da 8 anni in su, con cui costruire e ricostruire 3 animali con supporto usando gli stessi mattoncini
-- ACCESSORI FAI DA TE: questo giocattolo LEGO è un simpatico elemento costruibile, pensato come decorazione della camera da letto dei piccoli
+- GIOCO CREATIVO RICCO DI ELEMENTI SNODABILI: la farfalla ha ali snodabili e può essere posizionata sul colorato supporto con fori, mentre il pesce giocattolo è dotato di un supporto con piante sottomarine
 - REGALO CREATIVO: unottima idea regalo di compleanno per bambine e bambini con la passione per la natura, e un pensiero singolare per tutti gli amanti degli animali LEGO da costruire e da collezionare
 - ANIMALI LEGO PER I GIOCHI DI FANTASIA: il colibrì ha collo, ali e coda snodabili e può essere posizionato sul supporto dotato di fiore LEGO per simulare il volo (i modelli non possono essere costruiti contemporaneamente)
 

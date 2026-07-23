@@ -29,10 +29,10 @@ average: '106.413333333333'
 ℹ️:
 
 - Non compatibile con batterie G-Series
-- Interruttore di alimentazione principale con spegnimento automatico
-- Lunghezza del tubo 65
 - Luce di lavoro a LED per un funzionamento più semplice in condizioni di scarsa
+- Lunghezza del tubo 65
 - Ideale per gonfiare pneumatici di auto, biciclette, palloni sportivi e molto altro ancora
+- Interruttore di alimentazione principale con spegnimento automatico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09HMT41NF{{</world>}}

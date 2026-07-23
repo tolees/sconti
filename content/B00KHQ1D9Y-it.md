@@ -28,11 +28,11 @@ average: '28.6566666666667'
 
 ℹ️:
 
-- La pratica capsula in alluminio conserva al meglio gli aromi del caffe, per unesperienza intensa. Capsule compatibili con le macchine da caffè Nespresso, una pausa caffè a casa tua come al bar
-- *Marchio di terzi senza alcun collegamento con JACOBS DOUWE EGBERTS
 - LOr Espresso Colombia. Una miscela calda e accogliente come unalba colombiana, sapientemente realizzata con i migliori chicchi di caffè Arabica. Le sue note agrumate conferiscono a questa miscela un elegante retrogusto. 100 capsule. Intensità 8
-- Ogni tazzina di caffè LOR rappresenta unesperienza unica, un momento di puro e semplice piacere. Sapori intensi, delicati e corposi che sorprenderanno il tuo palato
 - Ogni miscela di caffè LOR è coltivata con metodi di produzione sostenibili certificati, preservando la natura e proteggendo lambiente
+- *Marchio di terzi senza alcun collegamento con JACOBS DOUWE EGBERTS
+- La pratica capsula in alluminio conserva al meglio gli aromi del caffe, per unesperienza intensa. Capsule compatibili con le macchine da caffè Nespresso, una pausa caffè a casa tua come al bar
+- Ogni tazzina di caffè LOR rappresenta unesperienza unica, un momento di puro e semplice piacere. Sapori intensi, delicati e corposi che sorprenderanno il tuo palato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00KHQ1D9Y{{</world>}}

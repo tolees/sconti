@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Contenitore trasparente con indicatore di contenuto fino a 0,7 l, colino per polpa e semi per ulteriore lavorazione opzionale, lunghezza cavo 91 cm
+- Contenuto della confezione: 1 spremiagrumi Bestron 2 coni, coperchio aroma, colino, potenza: 40 W, capacità: 0,7 l, dimensioni: 15 x 19 x 20,5 cm, peso: 0,65 kg, materiale: plastica/acciaio inossidabile, colore: bianco opaco/finto legno, ACJ350NH
 - 2 direzioni di rotazione (sinistra/destra) e 2 coni di diverse dimensioni per risultati ottimali, coperchio aromatico per mantenere il gusto fresco
 - Stabile grazie ai piedini antiscivolo, facile da pulire sotto lacqua corrente, parti rimovibili lavabili in lavastoviglie (tranne il corpo del motore)
-- Contenuto della confezione: 1 spremiagrumi Bestron 2 coni, coperchio aroma, colino, potenza: 40 W, capacità: 0,7 l, dimensioni: 15 x 19 x 20,5 cm, peso: 0,65 kg, materiale: plastica/acciaio inossidabile, colore: bianco opaco/finto legno, ACJ350NH
 - Grande spremiagrumi automatico per spremere rapidamente e fresco succo di agrumi come pompelmi, limoni, lime, arance, ecc.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

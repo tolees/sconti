@@ -28,11 +28,11 @@ average: '261.333333333333'
 
 ℹ️:
 
-- HDMI 2.1 con eARC
-- Dolby Vision - HDR ispirato al cinema, Dolby Atmos - Esperienza audio completamente immersiva, Smooth Motion - Tecnologia di interpolazione dei fotogrammi
+- Google TV 4K Ultra HD, QLED - Gamma di colori ricca
 - Google TV, integrato direttamente nel tuo televisore, riproduce film, programmi e programmi TV direttamente da casa tua. Se hai una configurazione personalizzata, utilizza la potente ricerca di Google per trovare programmi in oltre 10.000 app o guardare centinaia di canali gratuiti.
 - Con un piccolo aiuto da parte di Google, niente più salti tra le applicazioni.
-- Google TV 4K Ultra HD, QLED - Gamma di colori ricca
+- HDMI 2.1 con eARC
+- Dolby Vision - HDR ispirato al cinema, Dolby Atmos - Esperienza audio completamente immersiva, Smooth Motion - Tecnologia di interpolazione dei fotogrammi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FJG59NP3{{</world>}}

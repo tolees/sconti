@@ -28,10 +28,10 @@ average: '10.08'
 
 ℹ️:
 
-- Maglietta da calcio senza numero e nome
 - Ottima per andare allo stadio
-- Prodotto Ufficiale AS Roma
+- Maglietta da calcio senza numero e nome
 - Per manifestare la propria fede calcistica
+- Prodotto Ufficiale AS Roma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DGTWK7MJ{{</world>}}

@@ -29,8 +29,8 @@ average: '64.9'
 ℹ️:
 
 - Programmabile
-- Con vetro di sicurezza
 - Piastra a induzione digitale
+- Con vetro di sicurezza
 - Controllo touch
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

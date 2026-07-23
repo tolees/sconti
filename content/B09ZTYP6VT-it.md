@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - FUNZIONA CON QUALSIASI BATTERIA GREENWORKS 40V 2Ah o 4Ah - speciale confezione solo attrezzo senza batteria, così se già possiedi apparecchi Greenworks da 40V puoi utilizzare la stessa batteria per ridurre gli sprechi risparmiando spazio e costi
-- MOTOSEGA 30CM POTENTE, LEGGERA E COMPATTA - l’elettrosega a batteria pesa solo 2,6kg ed è dotata di comode impugnature morbide ed ergonomiche e di una lama da 30cm che taglia tronchi e piccoli alberi senza difficoltà
-- CATENA FACILE DA TENSIONARE E OLIATA AUTOMATICAMENTE - regolazione senza attrezzi della tensione della catena evita di dover armeggiare inutilmente. La catena viene lubrificata automaticamente dall’olio del grande serbatoio traslucido da 200ml
 - TAGLIO EFFICIENTE, VELOCE E SICURO - con una velocità della catena di 4,2m/s, non è mai stato più facile effettuare tagli rapidi e netti nel legno, mentre la funzione di sicurezza a due pulsanti impedisce lavvio accidentale della motosega elettrica
+- CATENA FACILE DA TENSIONARE E OLIATA AUTOMATICAMENTE - regolazione senza attrezzi della tensione della catena evita di dover armeggiare inutilmente. La catena viene lubrificata automaticamente dall’olio del grande serbatoio traslucido da 200ml
+- MOTOSEGA 30CM POTENTE, LEGGERA E COMPATTA - l’elettrosega a batteria pesa solo 2,6kg ed è dotata di comode impugnature morbide ed ergonomiche e di una lama da 30cm che taglia tronchi e piccoli alberi senza difficoltà
 - 3 ANNI DI GARANZIA – Offerti da Greenworks, leader mondiale negli strumenti senza fili e nella tecnologia a batterie con una reputazione a livello globale per design smart, prestazioni elevate e un servizio clienti eccezionale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Moisturizers: Gel, cream, lotion, and oil-based moisturizers.
 - Shampoos: Clarifying, volumizing, moisturizing, and sulfate-free.
 - Foundations: Liquid, cream, powder, and stick foundations.
-- Moisturizers: Gel, cream, lotion, and oil-based moisturizers.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BRCS77D4{{</world>}}

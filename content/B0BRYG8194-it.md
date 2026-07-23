@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - 2 potenti elementi riscaldanti (2 x 1,3 kW) regolabili separatamente, ampia superficie di cottura 51 x 33,5 cm e griglia scaldavivande oscillante in acciaio inox (48 x 12 cm).
-- Regolatore e interruttore generale con illuminazione a LED e cassetto del grasso rimovibile per una maggiore facilità di pulizia dopo la griglia
 - Coperchio di cottura stabile con termometro integrato, ampio spazio nel mobile di base, 4 rotelle e 2 ripiani laterali ribaltabili per risparmiare spazio.
-- Caratteristiche principali: funzione SIMPLE CLEAN - facile pulizia (le singole parti della camera di combustione possono essere rimosse senza attrezzi) e griglia in ghisa smaltata con diverse opzioni di cottura
+- Regolatore e interruttore generale con illuminazione a LED e cassetto del grasso rimovibile per una maggiore facilità di pulizia dopo la griglia
 - Il grill elettrico eCRAVE 2 è il BBQ per tutti coloro che desiderano un barbecue elettrico estremamente compatto, ma che non sono disposti a scendere a compromessi per quanto riguarda lesperienza del barbecue. Con 2 zone di cottura regolabili separatamente (2.600 Watt) per una cottura potente diretta e indiretta
+- Caratteristiche principali: funzione SIMPLE CLEAN - facile pulizia (le singole parti della camera di combustione possono essere rimosse senza attrezzi) e griglia in ghisa smaltata con diverse opzioni di cottura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BRYG8194{{</world>}}

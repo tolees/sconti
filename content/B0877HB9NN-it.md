@@ -28,11 +28,11 @@ average: '6.41'
 
 ℹ️:
 
-- COLLAGENE IDROLIZZATO 3000 - Un integratore alimentare specificatamente formulato per ritardare la comparsa delle rughe e rendere la pelle più compatta
-- MATT - Scopri le linee di Matt Divisione Pharma, Matt Benessere, Matt Erboristeria, Matt Slimming, Matt Sport e Matt Divisione Cosmetica per la cura del tuo corpo a 360°
 - MODALITÁ DUSO - Assumere una bustina al giorno, tal quale o da sciogliere in un bicchiere d’acqua (150 ml) preferibilmente lontano dai pasti
-- FORMATO - 10 bustine liquide
+- MATT - Scopri le linee di Matt Divisione Pharma, Matt Benessere, Matt Erboristeria, Matt Slimming, Matt Sport e Matt Divisione Cosmetica per la cura del tuo corpo a 360°
 - FORMULA - Contiene 3000 mg di collagene idrolizzato, ed è inoltre arricchita dalla presenza del Rame e dello Zinco, che contribuiscono a proteggere le cellule dallo stress ossidativo
+- COLLAGENE IDROLIZZATO 3000 - Un integratore alimentare specificatamente formulato per ritardare la comparsa delle rughe e rendere la pelle più compatta
+- FORMATO - 10 bustine liquide
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0877HB9NN{{</world>}}

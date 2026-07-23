@@ -28,11 +28,11 @@ average: '14.6'
 
 ℹ️:
 
-- RIMUOVE MACCHIE E SPORCO - Efficace su tutti i tipi di macchie: grasse (come il grasso di carne), ossidabili (come il vino), enzimatiche (come l’erba) e contenenti particolato (come il trucco).
-- IGIENIZZA - Il detersivo liquido per la pulizia del tuo bucato con azione igienizzante.
+- NUOVA FORMULA - Più efficace anche a freddo e in cicli brevi.
 - PER IL LAVAGGIO IN LAVATRICE - In caso di sporco normale in acqua dolce-media, utilizza 50 ml di Ace Detersivo Igienizzante (in caso di acqua dura o di sporco ostinato utilizza 75 ml).
 - PROFUMA- Dona al bucato freschezza e un profumo che dura a lungo.
-- NUOVA FORMULA - Più efficace anche a freddo e in cicli brevi.
+- RIMUOVE MACCHIE E SPORCO - Efficace su tutti i tipi di macchie: grasse (come il grasso di carne), ossidabili (come il vino), enzimatiche (come l’erba) e contenenti particolato (come il trucco).
+- IGIENIZZA - Il detersivo liquido per la pulizia del tuo bucato con azione igienizzante.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CBBXXK3S{{</world>}}

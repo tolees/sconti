@@ -28,15 +28,15 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 【Nota】Il TEG1105P-4-63W può solo trasmettere dati a dispositivi PoE passivi e non PoE, ma non può alimentarli. Assicurarsi che i dispositivi finali siano conformi allo standard IEEE 802.3af/at prima di acquistare lo switch PoE TEG1105P-4-63W
-- 【Installazione Flessibile】Supporta linstallazione su scrivania o a parete; il design compatto della scocca in metallo (10 × 10 × 2,6 cm) occupa meno spazio e si integra facilmente in vari ambienti, come casa, ufficio o armadietti deboli di sorveglianza
-- 【Plug and Play】Nessuna configurazione o software necessario: collegare lalimentazione, connettere i dispositivi e godere di una rete pronta allistante
-- 【Switch PoE+ Gigabit a 5 Porte】Il TEG1105P-4-63W è dotato di 4 porte PoE+ RJ45 da 10/100/1000 Mbit/s, che forniscono fino a 30 W per porta e un budget PoE di 58 W, insieme a una porta uplink RJ45 da 10/100/1000 Mbit/s per una connessione veloce
-- 【Gestione Intelligente dellAlimentazione】Lo switch PoE a 5 porte rileva automaticamente i dispositivi PoE e non PoE, fornendo lalimentazione necessaria ai dispositivi PoE; se il consumo energetico totale dei dispositivi PoE supera i 58 W, lalimentazione viene interrotta sulle porte con priorità più bassa
 - 【Assistenza e Servizio Post-Vendita】Se ha domande sui nostri prodotti o necessita di supporto post-vendita, La preghiamo di contattarci via email allindirizzo: support.it@tenda.cn. Le risponderemo il prima possibile e Le forniremo soluzioni professionali
+- 【Plug and Play】Nessuna configurazione o software necessario: collegare lalimentazione, connettere i dispositivi e godere di una rete pronta allistante
+- 【Installazione Flessibile】Supporta linstallazione su scrivania o a parete; il design compatto della scocca in metallo (10 × 10 × 2,6 cm) occupa meno spazio e si integra facilmente in vari ambienti, come casa, ufficio o armadietti deboli di sorveglianza
+- 【Nota】Il TEG1105P-4-63W può solo trasmettere dati a dispositivi PoE passivi e non PoE, ma non può alimentarli. Assicurarsi che i dispositivi finali siano conformi allo standard IEEE 802.3af/at prima di acquistare lo switch PoE TEG1105P-4-63W
 - 【Funzionamento Silenzioso】Il design senza ventola garantisce un funzionamento silenzioso indipendentemente dalla posizione di installazione, ideale per ambienti sensibili al rumore
+- 【Switch PoE+ Gigabit a 5 Porte】Il TEG1105P-4-63W è dotato di 4 porte PoE+ RJ45 da 10/100/1000 Mbit/s, che forniscono fino a 30 W per porta e un budget PoE di 58 W, insieme a una porta uplink RJ45 da 10/100/1000 Mbit/s per una connessione veloce
 - 【Protezione contro i Fulmini 6kV】Protezione da cortocircuito per PSE e protezione da 6 kV su tutte le porte, garantendo un funzionamento stabile anche durante temporali
 - 【VLAN】Quando la funzione VLAN è attivata, le porte 1-4 sono isolate tra loro, ma possono comunicare con la porta 5; dotato di interruttore DIP per isolare le porte, prevenire tempeste broadcast e proteggere da attacchi DHCP spoofing
+- 【Gestione Intelligente dellAlimentazione】Lo switch PoE a 5 porte rileva automaticamente i dispositivi PoE e non PoE, fornendo lalimentazione necessaria ai dispositivi PoE; se il consumo energetico totale dei dispositivi PoE supera i 58 W, lalimentazione viene interrotta sulle porte con priorità più bassa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B078LCTV2R{{</world>}}

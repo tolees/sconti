@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- STRUTTURA ROBUSTA: Questo set tavolino con sedie da giardino è realizzato con una solida struttura in acciaio verniciato a polvere, per garantire stabilità e lunga durata. Il rattan PE di alta qualità è resistente ai raggi UV, durevole, elegante e facile da pulire.
+- DIMENSIONI: Dimensioni sedia: 64L x 63P x 76Acm. Dimensioni tavolino da caffè: Φ45 x 50Acm. Capacità di peso: 160kg (sedia), 15kg (tavolo).
 - TAVOLINO ROTONDO: Con le sue gambe inclinate, questo tavolino da giardino rotondo non solo mostra un look moderno ma assicura una stabilità ottimale. Il piano dappoggio in vetro temperato aggiunge un tocco elegante al salotto da giardino e si pulisce con facilità.
 - SET DA GIARDINO DA 3 PEZZI: Il nostro set di mobili da giardino è composto da 2 sedie e un tavolino rotondo con piano dappoggio in vetro temperato. Le linee minimaliste di questo set da 3 pezzi lo rendono perfetto da abbinare a diversi tipi di arredamento da giardino.
 - CUSCINI CONFORTEVOLI: Le sedie da giardino in rattan PE offrono una seduta confortevole per ogni momento di relax allaperto, grazie anche ai comodi cuscini della seduta con rivestimento sfoderabile e lavabile.
-- DIMENSIONI: Dimensioni sedia: 64L x 63P x 76Acm. Dimensioni tavolino da caffè: Φ45 x 50Acm. Capacità di peso: 160kg (sedia), 15kg (tavolo).
+- STRUTTURA ROBUSTA: Questo set tavolino con sedie da giardino è realizzato con una solida struttura in acciaio verniciato a polvere, per garantire stabilità e lunga durata. Il rattan PE di alta qualità è resistente ai raggi UV, durevole, elegante e facile da pulire.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09STSYX76{{</world>}}

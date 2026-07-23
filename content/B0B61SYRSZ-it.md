@@ -28,11 +28,11 @@ average: '20.79'
 
 ℹ️:
 
-- Metti la Hot Wheels inclusa nella stazione di polizia, poi colpisci il lanciatore e falla sfrecciare sulla pista per centrare il bersaglio del loop.
-- La base della pista sfoggia dettagli a tema che ispirano storie diverse e avventurose, e si collega ad altri set così i bambini potranno creare una pista Hot Wheels City tutta loro. (Set aggiuntivi in vendita separatamente.)
 - Una volta sconfitto, gli occhi del dinosauro da infuriati si trasformano in X!
+- La base della pista sfoggia dettagli a tema che ispirano storie diverse e avventurose, e si collega ad altri set così i bambini potranno creare una pista Hot Wheels City tutta loro. (Set aggiuntivi in vendita separatamente.)
 - Include 1 macchinina Hot Wheels in scala 1:64 ed è un fantastico regalo per i bambini dai 4 anni in su.
 - Sfreccia tra le fauci di un T-Rex imbestialito che vuole radere al suolo Hot Wheels City. Sconfiggi la bestia e salva la città!
+- Metti la Hot Wheels inclusa nella stazione di polizia, poi colpisci il lanciatore e falla sfrecciare sulla pista per centrare il bersaglio del loop.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B61SYRSZ{{</world>}}

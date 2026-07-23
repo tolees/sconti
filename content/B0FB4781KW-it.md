@@ -28,10 +28,10 @@ average: '19.99'
 
 ℹ️:
 
-- ⭐[FILM E SERIE TV] - In questa versione di Hitster, rivivi le canzoni iconiche che hanno accompagnato film e serie TV e prova a indovinare di quali di queste sono state le colonne sonore!
 - 🎶[DAI VITA ALLA PLAYLIST DEFINITIVA] - Hitster Radio Italia è un gioco stand-alone, ma puoi unirlo a Hitster "la sfida musicale del Secolo" o Hitster "Radio Italia" per creare la Playlist definitiva!
 - ⌛[CREA LA TIMELINE] - Il primo giocatore che riesce a costruire una sequenza temporale da 10 Carte Musicali, vince! Più carte riesci a mettere in linea, più diventa difficile trovare il giusto posto nella Timeline
 - Consigliato ad un pubblico dai 16 anni in su.
+- ⭐[FILM E SERIE TV] - In questa versione di Hitster, rivivi le canzoni iconiche che hanno accompagnato film e serie TV e prova a indovinare di quali di queste sono state le colonne sonore!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FB4781KW{{</world>}}

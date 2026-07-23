@@ -28,11 +28,11 @@ average: '6.2'
 
 ℹ️:
 
-- 7.5 - 30 metri: AWG24 / 10.5 mm, fino a 5 metri: AWG28 / 7.3 mm
 - Particolarmente adatto per applicazioni e installazioni professionali
-- Supporto audio completo incluso DTS-HD e Dolby TrueHD
-- Conduttori in rame OFC stagnati e di elevata purezza e tripla schermatura
+- 7.5 - 30 metri: AWG24 / 10.5 mm, fino a 5 metri: AWG28 / 7.3 mm
 - Connessione DisplayPort per risoluzioni fino a 4K / UltraHD a 60Hz (fino a 3m)
+- Conduttori in rame OFC stagnati e di elevata purezza e tripla schermatura
+- Supporto audio completo incluso DTS-HD e Dolby TrueHD
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00A7LG3EO{{</world>}}

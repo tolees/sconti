@@ -28,11 +28,11 @@ average: '7.9975'
 
 ℹ️:
 
-- DOSAGGIO CHIARO, ROUTINE SEMPLICE – Due piccole capsule vegane al giorno, 120 capsule per flacone. 1500 mg di magnesio bisglicinato apportano 300 mg di magnesio elementare. Pensato per chi preferisce informazioni chiare e un’integrazione facile da seguire ogni giorno.
-- DELICATO SULLO STOMACO – Il nostro magnesio bisglicinato puro e non tamponato è ben tollerato e delicato da assumere, anche per le persone più sensibili. Senza miscele con ossido o citrato, ma solo una forma pulita e ben assimilabile. Il magnesio glicinato è spesso apprezzato da chi cerca una fonte di magnesio più delicata.
 - QUALITÀ CONTROLLATA, SENZA PROMESSE INUTILI – PharmaZen magnesio bisglicinato è prodotto secondo rigorosi standard GMP e con piena tracciabilità. Testato in modo indipendente da Eurofins, per offrire qualità costante, purezza affidabile e un approccio basato sui fatti.
-- SUPPORTO PER MUSCOLI, ENERGIA E RECUPERO – La formula ad alta concentrazione di magnesio bisglicinato contribuisce alla normale funzione muscolare, al normale metabolismo energetico e alla riduzione della stanchezza e dell’affaticamento. Inoltre, il magnesio e la vitamina B6 contribuiscono alla normale funzione del sistema immunitario e alla regolazione dell’attività ormonale.
+- DOSAGGIO CHIARO, ROUTINE SEMPLICE – Due piccole capsule vegane al giorno, 120 capsule per flacone. 1500 mg di magnesio bisglicinato apportano 300 mg di magnesio elementare. Pensato per chi preferisce informazioni chiare e un’integrazione facile da seguire ogni giorno.
 - SONNO PROFONDO E CALMA SERALE – Il magnesio bisglicinato chelato con vitamina B6 contribuisce al normale funzionamento del sistema nervoso e alla normale funzione psicologica. Ideale la sera, quando desideri rilassarti più facilmente e dormire in modo più sereno, senza sentirti appesantito al risveglio.
+- SUPPORTO PER MUSCOLI, ENERGIA E RECUPERO – La formula ad alta concentrazione di magnesio bisglicinato contribuisce alla normale funzione muscolare, al normale metabolismo energetico e alla riduzione della stanchezza e dell’affaticamento. Inoltre, il magnesio e la vitamina B6 contribuiscono alla normale funzione del sistema immunitario e alla regolazione dell’attività ormonale.
+- DELICATO SULLO STOMACO – Il nostro magnesio bisglicinato puro e non tamponato è ben tollerato e delicato da assumere, anche per le persone più sensibili. Senza miscele con ossido o citrato, ma solo una forma pulita e ben assimilabile. Il magnesio glicinato è spesso apprezzato da chi cerca una fonte di magnesio più delicata.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0G3CZ9XQM{{</world>}}

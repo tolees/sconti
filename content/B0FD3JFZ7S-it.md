@@ -28,10 +28,10 @@ average: '7.99'
 
 ℹ️:
 
-- SOLO UNA GOCCIA di Super Siero sulla tua mano e… sorpresa! Guarda la crema diventare un liquido trasparente; applicalo sulle lunghezze, lascialo agire e amminare questa meraviglia agire sui tuoi capelli, mentre ti godi la tua giornata!
-- FORMULA VEGANA CON SUPERFOOD AUSTRALIANI: La linea Aussie SOS è vegana, priva di ingredienti o sottoprodotti di origine animale e arricchita con superfood australiani
-- DAI IL BENVENUTO A CAPELLI INCREDIBILMENTE IDRATATI; già dal primo utilizzo, i capelli saranno morbidi, lisci e incredibilmente idratati per 100 ore
 - CAPELLI ESTREMAMENTE SECCHI IN DIFFICOLTÀ? Chiamate SOS! Lanciamo una corda australiana per lasciarvi con capelli incredibilmente idratati
+- SOLO UNA GOCCIA di Super Siero sulla tua mano e… sorpresa! Guarda la crema diventare un liquido trasparente; applicalo sulle lunghezze, lascialo agire e amminare questa meraviglia agire sui tuoi capelli, mentre ti godi la tua giornata!
+- DAI IL BENVENUTO A CAPELLI INCREDIBILMENTE IDRATATI; già dal primo utilizzo, i capelli saranno morbidi, lisci e incredibilmente idratati per 100 ore
+- FORMULA VEGANA CON SUPERFOOD AUSTRALIANI: La linea Aussie SOS è vegana, priva di ingredienti o sottoprodotti di origine animale e arricchita con superfood australiani
 - ALL-IN-ONE WONDER: Aussie SOS Super Siero idrata, leviga, ammorbidisce e districa allistante i capelli secchi; controlla il crespo e aiuta a prevenire le doppie punte, donando brillantezza; fantastico!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- TAGLIO DI ALTO LIVELLO CON LAME A DOPPIA AZIONE - entrambe le lame si muovono allo stesso tempo per tagli più puliti e veloci rispetto a una singola lama
 - DECESPUGLIATORE E TAGLIAERBA LEGGERO E COMPATTO PER ARBUSTI E PICCOLI GIARDINI - apparecchio 2 in 1 per tagliare, modellare e potare arbusti e cespugli con facilità e rifilare i bordi del prato per mantenere il giardino ben curato
+- BATTERIA AL LITIO 24V 2Ah DI NUOVA GENERAZIONE - alimentato da una batteria evoluta che può essere utilizzata in qualsiasi apparecchio Greenworks da 24V per ridurre gli sprechi risparmiando spazio e denaro
+- TAGLIO DI ALTO LIVELLO CON LAME A DOPPIA AZIONE - entrambe le lame si muovono allo stesso tempo per tagli più puliti e veloci rispetto a una singola lama
 - 3 ANNI DI GARANZIA CON 2 ANNI DI GARANZIA PER LA BATTERIA - Da Greenworks, leader mondiale negli attrezzi elettrici e della tecnologia a batterie, con una reputazione globale per design intelligente, prestazioni elevate e un servizio clienti eccezionale
 - TAGLIA ANCHE LERBA - passa rapidamente e con facilità alla lama tagliaerba intercambiabile da 15cm quando devi tagliare e rifilare i bordi del prato
-- BATTERIA AL LITIO 24V 2Ah DI NUOVA GENERAZIONE - alimentato da una batteria evoluta che può essere utilizzata in qualsiasi apparecchio Greenworks da 24V per ridurre gli sprechi risparmiando spazio e denaro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08T9CXMG4{{</world>}}

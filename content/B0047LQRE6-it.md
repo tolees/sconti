@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tipo del prodotto: pennarello a doppia punta
 - Numero del prodotto: PABT-N60
 - Marchio del prodotto: Tombow
+- Tipo del prodotto: pennarello a doppia punta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0047LQRE6{{</world>}}

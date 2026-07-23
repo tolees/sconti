@@ -28,11 +28,11 @@ average: '29.99'
 
 ℹ️:
 
-- Scoprite quanto è facile realizzare possibilità creative nei lavori di bricolage e artistici: con legno, tessuto, cuoio o altri materiali
-- Grande autonomia: gluey lavora fino a 60 mini stick di colla con una carica della batteria
 - Impiego immediato, un solo minuto di riscaldamento
 - Pronta alluso appena tolta dalla confezione, grazie alle batterie aa già precaricate fornite in dotazione
 - Dotazione: gluey, calotta colorata in lagoon blue, 2 batterie ricaricabili aa, caricabatteria e cavo usb, 20 mini stick di colla (8 trasparenti, 2 gialli, 2 rossi, 1 blu, 1 nero, 1 rosso glitter, 1 verde glitter, 1 blu glitter, 1 argento glitter, 1 oro glitter), in scatola di cartone
+- Scoprite quanto è facile realizzare possibilità creative nei lavori di bricolage e artistici: con legno, tessuto, cuoio o altri materiali
+- Grande autonomia: gluey lavora fino a 60 mini stick di colla con una carica della batteria
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07CB6F7SR{{</world>}}

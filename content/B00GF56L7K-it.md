@@ -28,9 +28,9 @@ average: '16.89'
 
 ℹ️:
 
-- con specchio
 - Bottoni cromati per guardaroba
 - Può essere utilizzato sia in modalità ritratto che in modalità orizzontale
+- con specchio
 - Realizzato con tartufi di quercia decorati in MDF
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Non contiene coloranti
 - Non contiene sls/slesnon contiene peg, parabeni
 - Peso del prodotto: 300 ml
+- Non contiene coloranti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08CS8BXBN{{</world>}}

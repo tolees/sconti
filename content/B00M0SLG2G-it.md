@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Per capelli: Sottili
-- Realizzato con grande attenzione ai dettagli
 - Prodotto di alta qualità
 - Prodotto da FANOLA
+- Per capelli: Sottili
+- Realizzato con grande attenzione ai dettagli
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00M0SLG2G{{</world>}}

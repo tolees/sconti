@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Ricche di fibre e con -30% di grassi saturi rispetto alla media dei crackers più venduti (Fonte: Unioneitalianafood.it), sono sfogliate 4 volte per una croccantezza extra; con olio EVO e sale iodato
+- Protein! La linea Misura che offre un’esclusiva selezione di prodotti proteici e gustosi. Tutta l’energia necessaria per affrontare la tua giornata!
 - Misura si impegna a rispettare l’ambiente compensando le emissioni prodotte dagli stabilimenti con progetti di sostenibilità internazionale
 - La confezione da 170 g è realizzata con carta certificata FSC per una gestione responsabile delle foreste e degli ecosistemi
-- Protein! La linea Misura che offre un’esclusiva selezione di prodotti proteici e gustosi. Tutta l’energia necessaria per affrontare la tua giornata!
 - Fai il carico di energia a tavola con le sfoglie Protein: gustosi triangolini cotti al forno e fonte di proteine, realizzati con farina di tipo 2 da filiera italiana e arricchiti con semi di chia
-- Ricche di fibre e con -30% di grassi saturi rispetto alla media dei crackers più venduti (Fonte: Unioneitalianafood.it), sono sfogliate 4 volte per una croccantezza extra; con olio EVO e sale iodato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DNK44TLY{{</world>}}

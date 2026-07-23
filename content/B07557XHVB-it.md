@@ -28,12 +28,12 @@ average: '38.235'
 
 ℹ️:
 
-- Include: (11) Punte SDS PLUS: 5, 5,5, 2x 6, 7, 2x 8, 2x 10, 12, 14 mm, (4) Scalpello a punta 250 mm, scalpello piatto 250 mm x 20 mm, 2 scalpelli piatti 250 mm x 40 mm
-- Spirale a 2 canali appositamente sviluppata per unefficace rimozione della polvere
-- APPLICAZIONI: adatta per la realizzazione rapida di fori per tasselli, ancoraggi o aperture in muratura, pietra, calcestruzzo e mattoni/blocchi
 - DUREVOLEZZA - Il gambo di montaggio ottimizzato garantisce una presa perfetta e una trasmissione ottimale della potenza, con un corpo in acciaio temprato per una maggiore resistenza e una riduzione delle rotture
 - Adatto per la foratura rapida di fori per tasselli, ancoraggi o fori liberi in muratura, pietra, calcestruzzo e laterizi/blocchi
+- Spirale a 2 canali appositamente sviluppata per unefficace rimozione della polvere
+- APPLICAZIONI: adatta per la realizzazione rapida di fori per tasselli, ancoraggi o aperture in muratura, pietra, calcestruzzo e mattoni/blocchi
 - Design ottimizzato della testa di foratura con punta in metallo duro con 2 taglienti
+- Include: (11) Punte SDS PLUS: 5, 5,5, 2x 6, 7, 2x 8, 2x 10, 12, 14 mm, (4) Scalpello a punta 250 mm, scalpello piatto 250 mm x 20 mm, 2 scalpelli piatti 250 mm x 40 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07557XHVB{{</world>}}

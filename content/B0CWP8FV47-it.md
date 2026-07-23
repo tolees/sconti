@@ -28,12 +28,12 @@ average: '14.99'
 
 ℹ️:
 
-- COMPATTO E DA VIAGGIO: grazie al suo peso di 100g e alla dimensione di 92x62x15mm; oltre al PowerBank sono inclusi nella confezione Cavo USB-A to USB-C, Manuale Istruzioni
 - DESIGN SLIM: il design super compatto che lo caratterizza ti consente di averlo sempre con te in ogni occasione, potrai così avere sempre i tuoi dispositivi carichi e pronti all’uso. Inoltre è trasportabile in aereo così i tuoi accessori saranno facilmente alimentati anche quando sei in viaggio
 - CAPACITÀ 5.000 mAh: ricarica fino a 2 volte uno smartphone, offrendo energia affidabile per ogni esigenza. Ti basterà appoggiare lo smartphone sulla superficie del power bank per far partire l’erogazione di energia. 1x USB-C 10W e 1x Ricarica Wireless 5W.
-- RICARICA WIRELESS: fissalo magneticamente al tuo dispositivo Apple per far partire la ricarica in modo automatico senza utilizzare alcun filo. Compatibile con MagSafe e Cover MagSafe
+- COMPATTO E DA VIAGGIO: grazie al suo peso di 100g e alla dimensione di 92x62x15mm; oltre al PowerBank sono inclusi nella confezione Cavo USB-A to USB-C, Manuale Istruzioni
 - INTELLIGENT CHARGE (IC): rileva in automatico il massimo della potenza assorbibile dal tuo dispositivo regolandosi di conseguenza. Ti offre così completa sicurezza da surriscaldamenti o cortocircuiti.
 - LED DI CARICA: monitora facilmente il livello di carica residua, utilizzabile appena estratto dalla confezione
+- RICARICA WIRELESS: fissalo magneticamente al tuo dispositivo Apple per far partire la ricarica in modo automatico senza utilizzare alcun filo. Compatibile con MagSafe e Cover MagSafe
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CWP8FV47{{</world>}}

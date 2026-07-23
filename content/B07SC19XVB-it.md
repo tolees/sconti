@@ -28,9 +28,9 @@ average: '1.05'
 
 ℹ️:
 
+- Caramelle gommose al gusto liquirizia
 - ALLERGENI: Può contenere tracce di latte
 - Disponibili in un sacchetto da 265gr ottimo per il risparmio
-- Caramelle gommose al gusto liquirizia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07SC19XVB{{</world>}}

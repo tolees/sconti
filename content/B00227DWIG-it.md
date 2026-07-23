@@ -28,12 +28,12 @@ average: '17.16'
 
 ℹ️:
 
+- Un classico moderno, perfetto per grandi gruppi di amici, feste o serate con tutta la famiglia
 - Per vincere vi serviranno intuito da detective o... una buona dose di faccia tosta!
-- In questa nuova lussuosa edizione: personaggi originali in formato de luxe, nuove e ricche componenti di gioco, lintroduzione dei fantasmi fa giocare tutti fino alla soluzione del mistero, una variante per 8 giocatori, senza moderatore e ovviamente... il Criceto Mannaro!
 - Età massima consigliata dal produttore: 1188.0
 - Nello sperduto villaggio di Tabula, alcuni abitanti sono affetti da licantropia. Ogni notte diventano lupi mannari e sbranano un innocente! Di giorno i superstiti si riuniscono dibattendo sul da farsi: alla fine della discussione linciano uno di loro, credendolo un lupo mannaro. Chi sopravvivrà al massacro?
-- Un classico moderno, perfetto per grandi gruppi di amici, feste o serate con tutta la famiglia
 - Dal 2001 Lupus in Tabula è il gioco più originale sui Lupi Mannari
+- In questa nuova lussuosa edizione: personaggi originali in formato de luxe, nuove e ricche componenti di gioco, lintroduzione dei fantasmi fa giocare tutti fino alla soluzione del mistero, una variante per 8 giocatori, senza moderatore e ovviamente... il Criceto Mannaro!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00227DWIG{{</world>}}

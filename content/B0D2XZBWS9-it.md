@@ -28,10 +28,10 @@ average: '59.99'
 
 ℹ️:
 
-- Interfaccia LED intuitiva e opzioni di velocità versatili: la scopa elettrica senza fili è dotata di un display a LED intelligente per aggiornamenti istantanei sullo stato della batteria e passaggio senza soluzione di continuità tra tre modalità di alimentazione, mettendo il controllo a portata di mano
-- Leggero ma potente: con un peso di soli 2,4 kg, questo aspirapolvere portatile senza fili offre un sollevamento senza sforzo per la pulizia sopra il pavimento, mentre il suo robusto motore da 300 W offre unaspirazione potente ottima per le fuoriuscite quotidiane e le aree affollate
-- Durata della pulizia estesa: Approfitta di un massimo di 40 minuti di prestazioni non-stop con una singola carica con la batteria rimovibile e raddoppia questo tempo con una batteria sostitutiva aggiuntiva inclusa per una pulizia prolungata senza interruzioni
 - Accessori essenziali inclusi: Completo di un versatile set di strumenti, tra cui una bocchetta aggiornata, uno strumento per fessure e una batteria aggiuntiva, questo aspirapolvere senza filo si adatta facilmente alla pulizia di varie superfici, dal parquet ai tappeti e ai peli di animali domestici
+- Interfaccia LED intuitiva e opzioni di velocità versatili: la scopa elettrica senza fili è dotata di un display a LED intelligente per aggiornamenti istantanei sullo stato della batteria e passaggio senza soluzione di continuità tra tre modalità di alimentazione, mettendo il controllo a portata di mano
+- Durata della pulizia estesa: Approfitta di un massimo di 40 minuti di prestazioni non-stop con una singola carica con la batteria rimovibile e raddoppia questo tempo con una batteria sostitutiva aggiuntiva inclusa per una pulizia prolungata senza interruzioni
+- Leggero ma potente: con un peso di soli 2,4 kg, questo aspirapolvere portatile senza fili offre un sollevamento senza sforzo per la pulizia sopra il pavimento, mentre il suo robusto motore da 300 W offre unaspirazione potente ottima per le fuoriuscite quotidiane e le aree affollate
 - Pulizia agile sotto i mobili: progettato per raggiungere gli spazi bassi, laspirapolvere senza filo vanta una testa girevole a 180 gradi che scivola dolcemente sotto e intorno ai mobili
 - Sistema elevato di filtrazione a ciclone a 5 stadi: filtro H10 ad alta efficienza, il nostro sofisticato sistema di filtrazione a ciclone eccelle nellintrappolare minuscole particelle di polvere, migliorando la qualità dellaria
 

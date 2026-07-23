@@ -28,11 +28,11 @@ average: '10.8766666666667'
 
 ℹ️:
 
-- Per interni ed esterni, resiste ai raggi uv, allacqua e alle muffe
-- Permanentemente elastico: elasticità dellincollaggio garantita 25 anni
-- Forte e rapido
 - 100% adesivo: non ritira non contiene solventi e isocianati, inodore
 - Verniciabile
+- Forte e rapido
+- Per interni ed esterni, resiste ai raggi uv, allacqua e alle muffe
+- Permanentemente elastico: elasticità dellincollaggio garantita 25 anni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01N0AGI5K{{</world>}}

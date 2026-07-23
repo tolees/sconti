@@ -28,10 +28,10 @@ average: '79.99'
 
 ℹ️:
 
-- DIMENSIONI: A: 40 cm L: 35 cm L: 40 cm. Peso: 3 kg. COLORE: Nebbia Invernale
 - RAGGIO DI RAFFREDDAMENTO FINO A 20 METRI: Il potente ventilatore Shark FlexBreeze TableMate per interni ed esterni mantiene una piacevole fresca brezza anche a distanza
-- RESISTENTE E SILENZIOSO: FlexBreeze TableMate è resistente ai raggi UV* e alla pioggia per la massima durata allaperto. È inoltre elegante e silenzioso negli ambienti interni. *Materiali resistenti ai raggi UV secondo UL746C. Telecomando escluso
 - FINO A 24 ORE *DI AUTONOMIA SENZA FILO: Collega FlexBreeze TableMate per una potenza continua o usalo senza filo fino a 24 ore* *Se impostato su velocità 1, senza oscillazione
+- DIMENSIONI: A: 40 cm L: 35 cm L: 40 cm. Peso: 3 kg. COLORE: Nebbia Invernale
+- RESISTENTE E SILENZIOSO: FlexBreeze TableMate è resistente ai raggi UV* e alla pioggia per la massima durata allaperto. È inoltre elegante e silenzioso negli ambienti interni. *Materiali resistenti ai raggi UV secondo UL746C. Telecomando escluso
 - RAFFREDDAMENTO PERSONALIZZABILE: Cinque velocità, oscillazione laterale a 180 gradi e inclinazione verticale a 55 gradi per mantenere gli ambienti sempre freschi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

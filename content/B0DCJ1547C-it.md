@@ -28,11 +28,11 @@ average: '35.19'
 
 ℹ️:
 
-- Vestibilità sicura e design elegante: con design a forma di C con orecchie aperte, QCY Crossky C30 ti mantiene stabilità mentre sei in movimento e in sincronia con lambiente circostante, senza sigillare il condotto uditivo. Le cuffie presentano unelegante texture opaca abbinata a una finitura lucida a specchio sulla sfera acustica, rendendole un accessorio chic per qualsiasi outfit.
-- Batteria a lunga durata e impermeabile IPX4: ascolta fino a 5,5 ore di musica con una singola carica o fino a 25 ore se utilizzato con la custodia di ricarica. Non dovrai mai preoccuparti che la batteria si esaurisca nel bel mezzo della tua routine. La resistenza allacqua lPX4 rende gli auricolari ideali per qualsiasi attività allaperto, sia che tu stia allenando, andando in bicicletta o correndo.
-- Suono superiore e chiamate nitide: con unità driver ad alta sensibilità a doppio magnete da 10,8 mm, gli auricolari offrono una qualità del suono eccellente e una voce chiara. 4 microfoni integrati funzionano con un algoritmo intelligente per raccogliere e amplificare con precisione la tua voce dallambiente affollato.
 - App personalizzata e bassa latenza: personalizza le modalità EQ e le funzioni dei pulsanti per accedere alle informazioni sullalimentazione in tempo reale e agli aggiornamenti del firmware. Puoi goderti unesperienza di ascolto a bassa latenza di 80 ms con audio e video perfettamente sincronizzati senza alcun ritardo.
 - Bluetooth 5.4 e doppia connessione: gli auricolari Crossky C30 True Wireless adottano la tecnologia avanzata Bluetooth 5.4 per garantire una connessione stabile e veloce. Collegamento a 2 dispositivi contemporaneamente, consente di guardare film in TV mentre si risponde alle chiamate senza cambiare.
+- Suono superiore e chiamate nitide: con unità driver ad alta sensibilità a doppio magnete da 10,8 mm, gli auricolari offrono una qualità del suono eccellente e una voce chiara. 4 microfoni integrati funzionano con un algoritmo intelligente per raccogliere e amplificare con precisione la tua voce dallambiente affollato.
+- Vestibilità sicura e design elegante: con design a forma di C con orecchie aperte, QCY Crossky C30 ti mantiene stabilità mentre sei in movimento e in sincronia con lambiente circostante, senza sigillare il condotto uditivo. Le cuffie presentano unelegante texture opaca abbinata a una finitura lucida a specchio sulla sfera acustica, rendendole un accessorio chic per qualsiasi outfit.
+- Batteria a lunga durata e impermeabile IPX4: ascolta fino a 5,5 ore di musica con una singola carica o fino a 25 ore se utilizzato con la custodia di ricarica. Non dovrai mai preoccuparti che la batteria si esaurisca nel bel mezzo della tua routine. La resistenza allacqua lPX4 rende gli auricolari ideali per qualsiasi attività allaperto, sia che tu stia allenando, andando in bicicletta o correndo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DCJ1547C{{</world>}}

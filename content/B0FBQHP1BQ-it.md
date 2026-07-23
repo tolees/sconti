@@ -28,10 +28,10 @@ average: '9.99'
 
 ℹ️:
 
+- Sperimentazione scientifica; creatività; concetti di chimica; ossrvazione; manualità fine
+- Penne ed evidenziatori diy - Contenitore a libro - Tanti inchiostri colorati
 - - 2 penne stilografiche- poggia penna- penna cancellabile- penne a sfera-pennarello - inchiostri colorati- inchiostri glitter- inchiostro profumato- scatola a libro- manuale illustrato
 - Immergiti in un mondo di colori, inchiostri e scrittura!
-- Penne ed evidenziatori diy - Contenitore a libro - Tanti inchiostri colorati
-- Sperimentazione scientifica; creatività; concetti di chimica; ossrvazione; manualità fine
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FBQHP1BQ{{</world>}}

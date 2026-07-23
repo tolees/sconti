@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Bagno tonificante corpo e capelli con estratto di assenzio biologico e cellule staminali delluva. Ideale per luso quotidiano. Modo duso: distribuire sul corpo/capelli umidi e massaggiare. Processo per 3-5 minuti e risciacquare. SUGGERIMENTO: provalo sotto la doccia per una rasatura perfetta!
 - NOTE OLFATTIVE: Un viaggio unico nel cuore della natura. Note prestigiose e senza tempo ispirate alla potenza e alla bellezza degli elementi naturali. Le essenze fruttate di mandarino e bergamotto aprono la fragranza portando a un cuore di magnolia e terminando con una sensuale preziosa base muschiata e patchouly.
 - Arthemisia absinthium Larthemisia absinthium, comunemente noto come Assenzio, è una pianta dalle proprietà tonificanti. Le sue qualità consentono il rinvigorimento della pelle, la purificazione del cuoio capelluto e la stimolazione della microcircolazione. La gamma MAN è arricchita con estratto di artemisia absinthium biologico certificato, principio attivo ottenuto per estrazione a base di acqua, senza aggiunta di alcool, parabeni e glicerina o qualsiasi altro solvente da estrazione per garantire la massima qualità, integrità e naturale
+- Bagno tonificante corpo e capelli con estratto di assenzio biologico e cellule staminali delluva. Ideale per luso quotidiano. Modo duso: distribuire sul corpo/capelli umidi e massaggiare. Processo per 3-5 minuti e risciacquare. SUGGERIMENTO: provalo sotto la doccia per una rasatura perfetta!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B077XK2XVF{{</world>}}

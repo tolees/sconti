@@ -28,11 +28,11 @@ average: '351.625'
 
 ℹ️:
 
-- FILTRO 2 IN 1 - É presente un solo filtro, facile da pulire, integrato nella porta. Per una manutenzione più semplice ed efficace.
-- REFRESH - Adatto a capi di cotone e lino rimasti chiuso a lungo. Il programma ventila, senza aria calda, i vestiti dai 10 ai 160 minuti rimuovendo i cattivi odori.
-- COTONE ECO - Ideale per i tessuti di cotone a strato singolo. Asciuga i capi nel modo più economico possibile.
 - EXPRESS 30 - Asciuga fino a 2 camicie o 2 magliette in soli 30 minuti. Perfetto per piccoli carichi e zero attese.
 - BASSO IMPATTO AMBIENTALE - Lasciugatrice utilizza il gas ecologico R290, che permette unasciugatura efficiente ed ecologica, grazie al suo minimo impatto sul riscaldamento globale.
+- COTONE ECO - Ideale per i tessuti di cotone a strato singolo. Asciuga i capi nel modo più economico possibile.
+- REFRESH - Adatto a capi di cotone e lino rimasti chiuso a lungo. Il programma ventila, senza aria calda, i vestiti dai 10 ai 160 minuti rimuovendo i cattivi odori.
+- FILTRO 2 IN 1 - É presente un solo filtro, facile da pulire, integrato nella porta. Per una manutenzione più semplice ed efficace.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FGWM9NHF{{</world>}}

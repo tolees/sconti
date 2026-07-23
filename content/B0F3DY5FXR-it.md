@@ -28,9 +28,9 @@ average: '54.26'
 
 ℹ️:
 
-- Classiche amicizie e storie romantiche - Scegli tra un protagonista uomo o una protagonista donna, poi fai amicizia o inizia una storia con possibili interessi romantici in scenari completamente doppiati. Questi nuovi amici ti aiuteranno anche in battaglia!
-- Di villaggio in villaggio - Non limitarti alle fattorie, ricostruisci interi villaggi! Costruisci e posiziona edifici, invogliando gli abitanti a tornare nei villaggi e dare il loro contributo. Rianima le divinità per riportare vitalità e risorse preziose nelle terre colpite.
 - Nuove abilità e armi - Diventa Danzaterra e usa il potere della danza i tesori sacri e armi nuove come larco e il talismano per purificare la terra e le fattorie, e annullare i danni provocati dal Flagello.
+- Di villaggio in villaggio - Non limitarti alle fattorie, ricostruisci interi villaggi! Costruisci e posiziona edifici, invogliando gli abitanti a tornare nei villaggi e dare il loro contributo. Rianima le divinità per riportare vitalità e risorse preziose nelle terre colpite.
+- Classiche amicizie e storie romantiche - Scegli tra un protagonista uomo o una protagonista donna, poi fai amicizia o inizia una storia con possibili interessi romantici in scenari completamente doppiati. Questi nuovi amici ti aiuteranno anche in battaglia!
 - Fantasie giapponesi - Goditi i disegni e i paesaggi ispirati al meraviglioso mondo giapponese, dai festival, agli eventi e ai mostri. Esplora i paesaggi naturali di Azuma e le sue ambientazioni stagionali radicate nella tradizione.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ average: '3.99'
 
 ℹ️:
 
-- Costume originale
 - Travestimento
+- Costume originale
 - Rubies
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

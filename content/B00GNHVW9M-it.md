@@ -28,9 +28,9 @@ average: '2.515'
 
 ℹ️:
 
-- RISULTATI: Adatto al lavaggio frequente di capelli secchi, fragili e spenti, dopo luso i capelli saranno risanati, morbidi e lisci, grazie al suo potere nutriente e ristrutturante
-- AZIONE: Maschera a risciacquo con Olio di Argan del Marocco con azione nutriente e ristrutturante ripara intensamente la cuticola capillare e rende i capelli morbidi e lisci
 - FORMULA: La nuova formula della Maschera Capelli Ecobio con Olio di Argan del Marocco è specificatamente studiata per capelli secchi e sciupati e dermatologicamente testata
+- AZIONE: Maschera a risciacquo con Olio di Argan del Marocco con azione nutriente e ristrutturante ripara intensamente la cuticola capillare e rende i capelli morbidi e lisci
+- RISULTATI: Adatto al lavaggio frequente di capelli secchi, fragili e spenti, dopo luso i capelli saranno risanati, morbidi e lisci, grazie al suo potere nutriente e ristrutturante
 - MODO DUSO: Applica una piccola quantità sui capelli bagnati dopo lo shampoo, lascia agire qualche minuto e risciacqua con cura. Usala con il Fisio Shampoo Argan del Marocco per un rituale completo
 - INGREDIENTE PRINCIPALE: LOlio di Argan del Marocco, conosciuto come oro liquido e ottenuto dalla spremitura dei frutti dell’Argania Spinosa, è un prezioso alleato contro l’invecchiamento cutaneo
 

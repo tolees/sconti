@@ -28,12 +28,12 @@ average: '217.1'
 
 ℹ️:
 
-- Questo prodotto è un prodotto contenitore. I prodotti contenitori gli apparecchi di illuminazione che possono essere smontati per consentire la verifica separata della o delle sorgenti luminose ivi contenute. Questo prodotto contiene una sorgente luminosa di classe di efficienza energetica G.
-- Estensione intelligente: il centro di controllo Hue Bridge, disponibile separatamente, consente di controllare e automatizzare i faretti LED insieme ad altre lampade o accessori e di gestirli da qualsiasi parte del mondo.
+- Installazione semplice: i faretti GU10 in dotazione vengono inseriti negli zoccoli delle lampade, montati sul soffitto e collegati allapplicazione Hue.
 - Comodo controllo dellilluminazione: compatibile con Amazon Echo Dot (terza generazione), Echo Plus ed Echo Show (seconda generazione), lilluminazione a soffitto Hue può essere controllata con la voce o con un semplice clic.
+- Questo prodotto è un prodotto contenitore. I prodotti contenitori gli apparecchi di illuminazione che possono essere smontati per consentire la verifica separata della o delle sorgenti luminose ivi contenute. Questo prodotto contiene una sorgente luminosa di classe di efficienza energetica G.
 - Atmosfera unica: grazie ai 16 milioni di colori e alle sfumature da bianco freddo a bianco caldo, la luce LED regolabile e dimmerabile individualmente crea latmosfera giusta per ogni occasione.
 - Progettate la vostra casa: Come lampada da soffitto, il faretto Fugato di Hue illumina ogni ambiente della casa con luce diretta e indiretta e crea grandi accenti.
-- Installazione semplice: i faretti GU10 in dotazione vengono inseriti negli zoccoli delle lampade, montati sul soffitto e collegati allapplicazione Hue.
+- Estensione intelligente: il centro di controllo Hue Bridge, disponibile separatamente, consente di controllare e automatizzare i faretti LED insieme ad altre lampade o accessori e di gestirli da qualsiasi parte del mondo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DDCN7V7D{{</world>}}

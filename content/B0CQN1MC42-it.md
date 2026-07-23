@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- [ Carica 3 Dispositivi Contemporaneamente ] UGREEN Nexode X caricatore GaN con 2 porte USB C e 1 USB A supporta una potenza totale fino a 100W, in grado di caricare contemporaneamente MacBook, iPhone o altri dispositivi. Nota: si consiglia di utilizzare la porta USB C per caricare iWatch.
 - [ 100W Ricarica Rapida ] UGREEN caricatore USB C supporta unuscita massima di 100W in una singola porta su USB-C1/ C2 e può caricare il tuo MacBook Pro dallo 0% al 51% in soli 30 minuti. La porta USB-A supporta fino a 22,5W se utilizzata da sola e supporta la ricarica rapida SCP.
+- [ Ampia Compatibilità ] Caricatore USB C da 100W è compatibile con le serie MacBook, serie XPS, nonché AirPods, iWatch, Steam Deck,iPhone 17 Air Pro Max 16 15 14 ;Galaxy S26/ S26+/ S26 Ultra/ S25/ S24/ S23;Pixel 10 Pro 9a/ 8/ 7/ 6.
 - [ Innovativa Tecnologia AirPyra ] Una nuova generazione di tecnologia AirPyra offre unesperienza più comoda e portabile. Le dimensioni sono di soli 7,1*4,3*3,3 cm, il 45% più piccole rispetto al caricatore originale da 96W, molto adatto per essere portato in viaggio daffari, senza doversi preoccupare della batteria scarica durante il viaggio!
 - [ Chip GaNIninfinity ] Dotato di un chip GaNIninfinity di nuova generazione, questo caricabatterie 100W GaN si ricarica più velocemente, genera meno calore ed è più efficiente.
-- [ Ampia Compatibilità ] Caricatore USB C da 100W è compatibile con le serie MacBook, serie XPS, nonché AirPods, iWatch, Steam Deck,iPhone 17 Air Pro Max 16 15 14 ;Galaxy S26/ S26+/ S26 Ultra/ S25/ S24/ S23;Pixel 10 Pro 9a/ 8/ 7/ 6.
+- [ Carica 3 Dispositivi Contemporaneamente ] UGREEN Nexode X caricatore GaN con 2 porte USB C e 1 USB A supporta una potenza totale fino a 100W, in grado di caricare contemporaneamente MacBook, iPhone o altri dispositivi. Nota: si consiglia di utilizzare la porta USB C per caricare iWatch.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CQN1MC42{{</world>}}

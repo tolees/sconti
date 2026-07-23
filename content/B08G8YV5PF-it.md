@@ -28,11 +28,11 @@ average: '83.3'
 
 ℹ️:
 
-- 4 uscite IEC-C13 protette e con backup di batteria
-- UPS ideale per dispositivi per uffici domestici e domestici; Modem e router, smartphone, PC desktop, storage collegato in rete. La protezione della rete dati da 1 Gb protegge dati e dispositivi preziosi
-- Alimentazione batteria di backup 750 VA410 W
 - Include nellimballo: APC Back UPS BX, manuale duso
 - La regolazione automatica della tensione (AVR) protegge i dispositivi collegati stabilizzando i livelli di tensione in ingresso
+- UPS ideale per dispositivi per uffici domestici e domestici; Modem e router, smartphone, PC desktop, storage collegato in rete. La protezione della rete dati da 1 Gb protegge dati e dispositivi preziosi
+- Alimentazione batteria di backup 750 VA410 W
+- 4 uscite IEC-C13 protette e con backup di batteria
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08G8YV5PF{{</world>}}

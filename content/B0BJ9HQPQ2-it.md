@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - AEROREADY
-- Lavorazione effetto traforato, 100% poliestere riciclato
 - Vestibilità regolare
+- Lavorazione effetto traforato, 100% poliestere riciclato
 - Girocollo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

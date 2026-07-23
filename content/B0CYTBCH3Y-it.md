@@ -28,14 +28,14 @@ average: '45.5'
 
 ℹ️:
 
-- Chiusura con lacci
-- Ammortizzazione LIGHTMOTION
-- Tomaia in tessuto e mesh sintetico
-- Fodera in materiale sintetico e tessuto
 - Drop intersuola: 8 mm (tallone 31 mm / avampiede 23 mm)
-- Suola robusta
+- Fodera in materiale sintetico e tessuto
+- Chiusura con lacci
 - Calzata regolare
+- Suola robusta
 - Peso: 247 grammi (misura 38 2/3)
+- Tomaia in tessuto e mesh sintetico
+- Ammortizzazione LIGHTMOTION
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CYTBCH3Y{{</world>}}

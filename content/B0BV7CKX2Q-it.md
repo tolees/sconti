@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Quando la costruzione dellauto sportiva è terminata, il modellino può essere esposto nella stanza dei bambini, da solo o come veicolo da aggiungere a una collezione di auto LEGO
+- La macchina giocattolo LEGO, ispirata alloriginale Lamborghini, presenta liconico colore verde, il design aerodinamico e le portiere apribili, che i fan riconosceranno con piacere al primo sguardo
 - Gli appassionati di Lamborghini affronteranno una sfida di costruzione indimenticabile, assemblando ogni particolare del modellino di auto LEGO Technic Lamborghini Huracán Tecnica
 - I set LEGO Technic da costruire sono caratterizzati da movimenti e meccanismi realistici, e sono perfetti per introdurre i giovani costruttori LEGO alluniverso dellingegneria in modo accessibile e realistico
-- La macchina giocattolo LEGO, ispirata alloriginale Lamborghini, presenta liconico colore verde, il design aerodinamico e le portiere apribili, che i fan riconosceranno con piacere al primo sguardo
+- Quando la costruzione dellauto sportiva è terminata, il modellino può essere esposto nella stanza dei bambini, da solo o come veicolo da aggiungere a una collezione di auto LEGO
 - I bambini e i fan delle auto sportive possono scoprire tutti i dettagli da costruire del modellino LEGO Technic Lamborghini Huracán Tecnica, come il motore V10, lo sterzo e le portiere apribili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

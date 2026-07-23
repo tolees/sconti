@@ -29,9 +29,9 @@ average: '14.69'
 ℹ️:
 
 - Dotazione di fornitura: 1 x Punta-Ø 4 / 5 / 5 / 6 / 6 / 8 / 10 mm
+- Punta a prova di martello secondo ISO 5468 con punta di centraggio attiva activeteq per il taglio attivo nel calcestruzzo In metallo duro con dimensioni grana fini per una durata lunga e la migliore resistenza
 - Set di punte da calcestruzzo per la lavorazione professionale di granito, calcestruzzo, pietra arenaria calcarea, pietra naturale e pietra artificiale
 - Punta ad elevate prestazioni con due taglienti diamantati e un design a 2 spirali per una buona asportazione della polvere e una foratura più rapida Power-Grip-System per trasferire la potenza dallutensile alla punta
-- Punta a prova di martello secondo ISO 5468 con punta di centraggio attiva activeteq per il taglio attivo nel calcestruzzo In metallo duro con dimensioni grana fini per una durata lunga e la migliore resistenza
 - Compatibilità: Utilizzabili con tutti i trapani a percussione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

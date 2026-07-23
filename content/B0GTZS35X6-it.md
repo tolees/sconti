@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Ultimate Sound - Audio by Bang & Olufsen: Tuned by Bang & Olufsen, every sound is refined for clarity and balance. Backed by over a century of audio expertise, voices sound natural, and every note feels true.
-- Ultimate Color - Color Without Compromise: 100% BT.2020 delivers cinema-grade color, covering the full color standard used by the industry’s best content. From the brightest tones to the finest shades, every color is shown as intended.
 - SQD-Mini LED - The Ultimate Mini LED: TCL SQD-Mini LED elevates Mini LED with ultra-precise dimming for stunning highlights and true blacks. Super QLED + Ultra Color Filter Panel deliver rich, faithful color.
-- Ultimate HDR - Brilliance Beyond Limits: Up to 6,000 nits of peak brightness brings HDR to life, revealing fine details in bright highlights and deep shadows.
 - Verified Certs - Verified certifications: Dolby Vision 2.0, Dolby Vision IQ, Dolby Vision Gaming, HDR10+, IMAX Enhanced, Filmmaker Mode, FreeSync Premium Pro, Dolby Atmos, DTS:X. *Dolby Vision 2.0 will be available via a future OTA update.
+- Ultimate HDR - Brilliance Beyond Limits: Up to 6,000 nits of peak brightness brings HDR to life, revealing fine details in bright highlights and deep shadows.
+- Ultimate Color - Color Without Compromise: 100% BT.2020 delivers cinema-grade color, covering the full color standard used by the industry’s best content. From the brightest tones to the finest shades, every color is shown as intended.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GTZS35X6{{</world>}}

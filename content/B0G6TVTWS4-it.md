@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - FORMATO: integratore alimentare liquido in fiale monodose gusto albicocca
 - INGREDIENTI NATURALI: arginina laminoacido dotato di importanti caratteristiche biochimiche e nutrizionali, classificato come semi-essenziale, e vitamina B12 che contribuisce alla riduzione della stanchezza e dellaffaticamento e al normale metabolismo energetico
-- MODALITÀ DUSO: assumere preferibilmente prima dei pasti, 3 fiale al giorno per gli adulti, fino a 2 fiale per gli adolescenti (13-17 anni) e fino a 1 fiala per i bambini (10-12 anni)
 - AVVERTENZE: gli integratori alimentari non vanno intesi quali sostituti di una dieta varia, equilibrata e di un sano stile di vita
 - SARGENOR: integratore alimentare a base di arginina e Vitamina B12 utile nei casi di stress fisico, psichico e di affaticamento, condizioni che possono avere effetto negativo sulla qualità della vita
+- MODALITÀ DUSO: assumere preferibilmente prima dei pasti, 3 fiale al giorno per gli adulti, fino a 2 fiale per gli adolescenti (13-17 anni) e fino a 1 fiala per i bambini (10-12 anni)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0G6TVTWS4{{</world>}}

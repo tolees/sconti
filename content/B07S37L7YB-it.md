@@ -28,8 +28,8 @@ average: '4.95'
 
 ℹ️:
 
-- Electraline - Adattatore elettrico
 - Prodotto di ottima qualità
+- Electraline - Adattatore elettrico
 - Spina 16A 230V
 - Adattatore 2 prese Shuko e 4 prese 10/16
 

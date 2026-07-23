@@ -29,10 +29,10 @@ average: '9.99'
 ℹ️:
 
 - Con note di rosmarino, camomilla blu e limone siciliano, completato da un sentore di sale marino di Trapani, Venturo ti trasporta direttamente sulla costa mediterranea, invitandoti a fermarti e a goderti la magia di quelle serate in compagnia che si prolungano fino a tarda notte con il sottofondo delle onde del mare
+- Venturo è un aperitivo elegante e raffinato, realizzato per trasportarti nel cuore del Mediterraneo e ispirarti a gustare il meglio della vita, sorso dopo sorso; nella frenesia della vita quotidiana, ti invita a fare una pausa con i tuoi cari e ad assaporare i momenti che contano davvero
 - Moderna eleganza italiana: Venturo incarna il fascino della moderna eleganza italiana, quella capacità tutta italiana di fondere tradizioni secolari con un tocco contemporaneo e sempre raffinato
 - Prodotto 100% italiano, realizzato e imbottigliato in Italia; nato per accompagnare la blue hour, quell’intervallo di tempo subito dopo il tramonto, quando il cielo è ancora un po’ illuminato e la luce è particolarmente suggestiva, ma irresistibile per una pausa indulgente in ogni altro momento della giornata
 - Da gustare nel cocktail ‘Venturo Spritz’: mezzo limone, sale marino su metà del bordo del bicchiere, abbondante ghiaccio, 50 ml di Venturo, 50 ml di prosecco, 50 ml di soda, un tocco di scorza di limone, un rametto di rosmarino
-- Venturo è un aperitivo elegante e raffinato, realizzato per trasportarti nel cuore del Mediterraneo e ispirarti a gustare il meglio della vita, sorso dopo sorso; nella frenesia della vita quotidiana, ti invita a fare una pausa con i tuoi cari e ad assaporare i momenti che contano davvero
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D47QLGX5{{</world>}}

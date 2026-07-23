@@ -28,14 +28,14 @@ average: '159.99'
 
 ℹ️:
 
-- Ampia selezione: ottieni l’accesso immediato a milioni di titoli nel Kindle Store e, con l’abbonamento a Kindle Unlimited, potrai avere ancora più contenuti a portata di mano.
-- Si adatta, ovunque ti trovi: grazie alla luce frontale a regolazione automatica, puoi leggere comodamente in piena luce solare o al buio di sera.
-- Resistente all’acqua, per una lettura in tranquillità: le tue storie sono sempre con te, per leggere in piscina, nella vasca da bagno o in qualsiasi altro luogo.
-- Immergiti nella lettura: sul tuo Kindle non avrai distrazioni da social media, notifiche o altre app.
 - Il nostro Kindle più veloce di sempre: il nuovo schermo Paperwhite da 7’’ offre un contrasto più elevato e un cambio di pagina più veloce del 25%.
-- Batteria ideale anche per una maratona di lettura: una singola ricarica con il caricabatterie USB-C dura fino a 12 settimane. Oppure puoi utilizzare la stazione di ricarica wireless (venduta separatamente).
+- Ampia selezione: ottieni l’accesso immediato a milioni di titoli nel Kindle Store e, con l’abbonamento a Kindle Unlimited, potrai avere ancora più contenuti a portata di mano.
 - Migliora la tua esperienza di lettura: il Kindle Signature Edition è dotato di luce frontale con regolazione automatica, ricarica wireless e spazio di archiviazione di 32 GB.
+- Immergiti nella lettura: sul tuo Kindle non avrai distrazioni da social media, notifiche o altre app.
+- Resistente all’acqua, per una lettura in tranquillità: le tue storie sono sempre con te, per leggere in piscina, nella vasca da bagno o in qualsiasi altro luogo.
+- Si adatta, ovunque ti trovi: grazie alla luce frontale a regolazione automatica, puoi leggere comodamente in piena luce solare o al buio di sera.
 - Ideale per i viaggi: il design ultrasottile e lo schermo antiriflesso più grande, assicurano una facile lettura in qualsiasi momento e ovunque.
+- Batteria ideale anche per una maratona di lettura: una singola ricarica con il caricabatterie USB-C dura fino a 12 settimane. Oppure puoi utilizzare la stazione di ricarica wireless (venduta separatamente).
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CFPN5PRF{{</world>}}

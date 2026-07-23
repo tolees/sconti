@@ -29,10 +29,10 @@ average: '943.198000000001'
 ℹ️:
 
 - Gestione delle zone intelligente e intuitiva - Le routine di tosatura sono facili da programmare, non dovrai più tenere sotto controllo lintero processo. Tramite lapp Dreamehome puoi impostare in modo semplice le attività di tosatura pianificate o in tempo reale, stabilire le zone da tosare e quelle da evitare, nonché zone temporanee o preimpostate
-- Pianificazione del percorso a U per risultati ottimali - A1 Pro segue un innovativo percorso a U che copre completamente il tuo prato per uneccezionale uniformità e qualità di taglio. Giardini di dimensioni fino a 2.000 m² possono essere tagliati in sole 24 ore*
+- Rilevamento degli ostacoli 3D omnidirezionale - Sfruttando algoritmi di intelligenti avanzati e una tecnologia che genera dati 3D dalla nuvola di punti rilevata dal sensore, A1 Pro identifica e aggira in modo intelligente gli ostacoli allinterno dellarea impostata, per garantire una tosatura sicura e controllata
 - Impostazione dei confini veloce e senza cavi perimetrali - Utilizzando la tecnologia OmniSense, crei facilmente una mappa del tuo prato e personalizzi le diverse zone di tosatura in base alle tue preferenze. Niente più cavi disordinati o complesse stazioni RTK che impediscono di avere un prato pulito e ben rasato
 - Potenti ruote fuoristrada - Le ruote fuoristrada offrono una trazione potente per affrontare terreni complessi e condizioni meteorologiche avverse
-- Rilevamento degli ostacoli 3D omnidirezionale - Sfruttando algoritmi di intelligenti avanzati e una tecnologia che genera dati 3D dalla nuvola di punti rilevata dal sensore, A1 Pro identifica e aggira in modo intelligente gli ostacoli allinterno dellarea impostata, per garantire una tosatura sicura e controllata
+- Pianificazione del percorso a U per risultati ottimali - A1 Pro segue un innovativo percorso a U che copre completamente il tuo prato per uneccezionale uniformità e qualità di taglio. Giardini di dimensioni fino a 2.000 m² possono essere tagliati in sole 24 ore*
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DR35G7P3{{</world>}}

@@ -29,9 +29,9 @@ average: '3.99'
 ℹ️:
 
 - Utilizzo rapido - Lo shampoo a secco per capelli agisce rapidamente, grazie allamido di riso presente nella formula che elimina il sebo in eccesso e dona un effetto "mat"
-- Made in Italy - Batist è un brand italiano specializzato in dry shampoo e appartenente una delle più grandi aziende di cosmetici prodotti per il corpo, Ludovico Martelli, fondata nel 1909 a Firenze
 - Tre passaggi - Spruzzare lo shampoo secco capelli grassi da circa 20 cm su radici e lunghezze, attendere e massaggiare per qualche minuto, spazzolare e procedere con lo styling
 - Azione protettiva e volumizzante - Con lo shampoo Batist i capelli sono voluminosi e protetti dalluso frequente di phon e piastra, oltre che perfettamente puliti e leggeri
+- Made in Italy - Batist è un brand italiano specializzato in dry shampoo e appartenente una delle più grandi aziende di cosmetici prodotti per il corpo, Ludovico Martelli, fondata nel 1909 a Firenze
 - Chioma ravvivata - Lo shampoo secco capelli Batist dona una chioma pulita e ravvivata in pochissimi minuti senza necessità di usare acqua o altri prodotti per capelli
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

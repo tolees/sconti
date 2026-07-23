@@ -28,9 +28,9 @@ average: '9.49'
 
 ℹ️:
 
+- sandali
 - BILLABONG Uomo Taglia EU 46 Nero
 - Sandalo di base
-- sandali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BNQWJ1KS{{</world>}}

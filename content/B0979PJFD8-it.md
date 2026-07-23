@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Fatti strada tra glassa e fiori mentre cerchi di ottenere più stelle di tutti (e sabotare gli avversari) nel tabellone "Torta di compleanno di Peach" del primo Mario Party
 - Mario Party fa il suo ritorno con cinque tabelloni classici dei giochi per Nintendo 64
+- Fatti strada tra glassa e fiori mentre cerchi di ottenere più stelle di tutti (e sabotare gli avversari) nel tabellone "Torta di compleanno di Peach" del primo Mario Party
 - La situazione può ribaltarsi rapidamente in Mario Party, quindi non abbassare mai la guardia Questa modalità, insieme a tutte le altre, supporta anche il gioco online
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

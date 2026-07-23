@@ -28,11 +28,11 @@ average: '11.0'
 
 ℹ️:
 
-- Un divertente e frenetico gioco di parole, velocità e fantasia, ideale per essere condiviso in famiglia e con gli amici
+- In base alle lettere contenute nella parola i giocatori spingono i segnalini cactus verso gli avversari: vince la partita la squadra che riesce a far cascare 5 cactus giù dal tabellone sul lato della squadra avversaria
 - Numero di giocatori: 2-12 | Età consigliata: 8+ | Durata media: 20 min. | Edizione in Lingua Italiana
 - Due squadre si alternano a turno per trovare una parola che possa rientrare nella categoria indicata dalla parola chiave rivelata
 - Regolamento semplice e immediato: perfetto per gruppi numerosi e capace di entusiasmare anche i giocatori alle prime armi
-- In base alle lettere contenute nella parola i giocatori spingono i segnalini cactus verso gli avversari: vince la partita la squadra che riesce a far cascare 5 cactus giù dal tabellone sul lato della squadra avversaria
+- Un divertente e frenetico gioco di parole, velocità e fantasia, ideale per essere condiviso in famiglia e con gli amici
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09WNH8G9C{{</world>}}

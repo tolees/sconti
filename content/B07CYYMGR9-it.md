@@ -29,8 +29,8 @@ average: '9.81'
 ℹ️:
 
 - Chiusura centrale con bottoni
-- Collo e sotto manica a costine
 - Colore a contrasto sui lati, interno della bottonatura, nastro di tessuto che copre la cucitura del collo e passanti
+- Collo e sotto manica a costine
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07CYYMGR9{{</world>}}

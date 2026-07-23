@@ -28,10 +28,10 @@ average: '12.0'
 
 ℹ️:
 
-- Planetario elettronico, cavetto usb, Mappa stellare, Cards delle costellazioni e Manuale illustrato.
 - Sperimentazione scientifica; Apprendimento di nozioni astronomiche; Geografia, Terra e Universo; Osservazione; Immaginazione
 - Un kit di astronomia per studiare le stelle e le costellazioni!
 - Illumina la tua stanza con le costellazioni! - Il planetario si illumina e gira! - Con le cards e la mappa delle stelle!
+- Planetario elettronico, cavetto usb, Mappa stellare, Cards delle costellazioni e Manuale illustrato.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CBSPSG79{{</world>}}

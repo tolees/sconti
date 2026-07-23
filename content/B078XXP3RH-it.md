@@ -29,9 +29,9 @@ average: '14.5225'
 ℹ️:
 
 - La forma esagonale impedisce ai manubri di rotolare
-- Struttura in neoprene facile da impugnare per una presa più salda
-- Peso del manubrio stampato su ciascuna estremità, con codifica a colori per una rapida identificazione
 - Set di 2 manubri per lallenamento di resistenza; ciascun manubrio pesa 2 kg
+- Peso del manubrio stampato su ciascuna estremità, con codifica a colori per una rapida identificazione
+- Struttura in neoprene facile da impugnare per una presa più salda
 - Ideale per lezioni di fitness o per allenamenti a casa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

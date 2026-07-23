@@ -28,11 +28,11 @@ average: '22.5'
 
 ℹ️:
 
-- Numero di giocatori: 2-4, Età consigliata: 10+, Durata media: 45 min., Edizione in lingua italiana
+- Eternamente in cerca di nuovi modi per sfuggire alla noia, gli Dèi hanno indetto un grande torneo in cui gli Eroi competeranno per conquistarsi un posto da semidio
 - Per vincere, dovranno padroneggiare la magia, affrontare le sfide più gloriose sulle Isole Celestiali e fare offerte presso il Tempio Divino
 - Un gioco gestionale di dadi, dalle regole semplici ma profondo e dalle meccaniche originali: ogni Eroe riceve due dadi a facce rimovibili, le quali possono essere modificate e migliorate nel corso della partita
+- Numero di giocatori: 2-4, Età consigliata: 10+, Durata media: 45 min., Edizione in lingua italiana
 - Grazie a questo processo di personalizzazione, i giocatori potranno acquisire potere, prendendo tra le mani il controllo del proprio destino
-- Eternamente in cerca di nuovi modi per sfuggire alla noia, gli Dèi hanno indetto un grande torneo in cui gli Eroi competeranno per conquistarsi un posto da semidio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B073GV7B9G{{</world>}}

@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Taglio leggermente corto sul retro
-- Cappuccio regolabile con cordino
-- Questo prodotto contiene almeno il 70% di materiali riciclati e rinnovabili
 - Polsini e orlo a coste
-- Vestibilità regolare
-- Spalle basse
+- Taglio leggermente corto sul retro
 - Tasca a marsupio
 - 70% cotone / 30% poliestere (riciclato)
+- Vestibilità regolare
+- Cappuccio regolabile con cordino
+- Spalle basse
+- Questo prodotto contiene almeno il 70% di materiali riciclati e rinnovabili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZV1VXW6{{</world>}}

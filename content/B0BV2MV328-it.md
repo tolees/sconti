@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Uso lavatrice: aggiungere il prodotto direttamente al detersivo abituale nella vaschetta del lavaggio o nel cestello; Aggiungere un a dose di Omino Bianco Vivo (100ml) ed iniziare subito il lavaggio
 - Prodotto: Omino Bianco Bianco Vivo Gel è ladditivo liquido specifico per tutti i tessuti bianchi che sbianca immediatamente e rende i capi più luminosi
 - Rispetta i tessuti: il prodotto rispetta tutti i tessuti dal cotone a quelli più delicati come lana, seta, pizzo e fibre sintetiche
-- Uso lavaggio manuale: aggiungere al detersivo abituale una dose (100 ml) di prodotto in 5 litri d’acqua; Immergere i capi e lasciare in ammollo per 20-30 minuti
+- Uso lavatrice: aggiungere il prodotto direttamente al detersivo abituale nella vaschetta del lavaggio o nel cestello; Aggiungere un a dose di Omino Bianco Vivo (100ml) ed iniziare subito il lavaggio
 - Azione: la sua formula potenziata con agenti sbiancanti attivi, sbianca e preserva il candore e ridona il banco ai capi ingialliti e ingrigiti
+- Uso lavaggio manuale: aggiungere al detersivo abituale una dose (100 ml) di prodotto in 5 litri d’acqua; Immergere i capi e lasciare in ammollo per 20-30 minuti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BV2MV328{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 【16A Max Load】Supporta un carico massimo di 16A, POW Elite è compatibile con un maggior numero di elettrodomestici.
+- 【6 mesi di dati storici sul consumo per ora】I dati sul consumo di energia (precisi per ora) possono essere conservati per un massimo di 6 mesi e possono essere esportati in excel sul telefono.
 - 【Completamente funzionale】 POW Elite dispone di tutte le funzioni di base, come il controllo dellapp, il controllo vocale, il controllo della LAN, la programmazione dei tempi, limpostazione dellinching, lo stato di accensione, ecc.
+- 【16A Max Load】Supporta un carico massimo di 16A, POW Elite è compatibile con un maggior numero di elettrodomestici.
 - 【Misurazione dellenergia elettrica】Traccia la potenza, la corrente, la tensione e il consumo cumulativo di energia dei vostri apparecchi in tempo reale.
 - 【Protezione da sovraccarico】 È possibile impostare soglie di potenza, corrente e tensione. Una volta soddisfatta qualsiasi condizione, POW Elite si spegnerà per proteggere i vostri apparecchi.
-- 【6 mesi di dati storici sul consumo per ora】I dati sul consumo di energia (precisi per ora) possono essere conservati per un massimo di 6 mesi e possono essere esportati in excel sul telefono.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B5GQM4XK{{</world>}}

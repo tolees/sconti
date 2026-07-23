@@ -28,11 +28,11 @@ average: '499.0'
 
 ℹ️:
 
-- Bestway Set Piscina Rettangolare 13 ft 6 Pollici x 6 ft 7 Pollici x 48 Pollici o 4.12 m x 2.01 m x 1.22 m
-- Dimensioni: 4,12 m x 2,01 m x 1,22 m
 - Contenuto: 1 piscina, 1 pompa di filtraggio a cartuccia, 1 cartuccia filtrante, 1 scaletta per piscina, toppa di riparazione
-- Struttura portante in acciaio anticorrosione con pratici raccordi a scatto ClickConnect
 - Capacità di riempimento (90%): 8.124 L (2.146 gal.)
+- Dimensioni: 4,12 m x 2,01 m x 1,22 m
+- Struttura portante in acciaio anticorrosione con pratici raccordi a scatto ClickConnect
+- Bestway Set Piscina Rettangolare 13 ft 6 Pollici x 6 ft 7 Pollici x 48 Pollici o 4.12 m x 2.01 m x 1.22 m
 - Il liner in Tritech migliorato a 3 strati è del 15% più resistente allo strappo, del 33% più resistente allallungamento e dell83% più resistente alle forature rispetto al PVC standard
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

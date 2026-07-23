@@ -30,8 +30,8 @@ average: '538.49'
 
 - Paleria esterna in vetroresina e camera interna sospesa alla paleria con nastri e olivette.
 - Tenda munita di ampio abside, cuffie e finestre di aerazione, sistema di ventilazione con ampia zanzariera, porta frontale e laterale con zanzariera interna e finestre trasparenti sulla parte frontale del doppio tetto.
-- Distanza del doppio tetto dalla base regolabile per tensionare in maniera ottimale e apertura per il passaggio dei cavi elettrici. Gancio interno porta lampada e camera interna separata da divisorio amovibile.
 - Compresi Kit di riparazione, picchetti, ampia borsa a custodia in Supertex e istruzioni video per il montaggio attivabile inquadrando il QRCode
+- Distanza del doppio tetto dalla base regolabile per tensionare in maniera ottimale e apertura per il passaggio dei cavi elettrici. Gancio interno porta lampada e camera interna separata da divisorio amovibile.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B093YND5H5{{</world>}}

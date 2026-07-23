@@ -29,10 +29,10 @@ average: '34.99'
 ℹ️:
 
 - 5 MINIFIGURE LEGO DI PERSONAGGI NINJAGO: contiene Jay, Nya e Kai Forma Drago, oltre al malvagio Mostro della Terra e al Leader dei Lealisti, per consentire ai piccoli di ricreare le battaglie tra bene e male
-- AUTO DA CORSA LEGO: il veicolo può essere realizzato in modalità "normale" e in "macchina giocattolo drago"; basta ruotare la parte anteriore per rivelare artigli d’oro, una testa di drago e shuriken rotanti
-- MACCHINA GIOCATTOLO 2 IN 1: il set Auto Mutaforma di Jay è un gioco per bambini e bambine da 8 anni in su, che permette di ricreare l’azione della stagione 4 dello show TV LEGO NINJAGO La rivolta dei draghi
 - AVVENTURE RICCHE DI FANTASIA: i giovani ameranno giocare con la fantasia insieme ai loro eroi guerrieri, scegliendo tra i diversi modelli della gamma di giochi LEGO NINJAGO
+- AUTO DA CORSA LEGO: il veicolo può essere realizzato in modalità "normale" e in "macchina giocattolo drago"; basta ruotare la parte anteriore per rivelare artigli d’oro, una testa di drago e shuriken rotanti
 - ACCESSORI PER LE SFIDE: questo set con auto giocattolo include anche uno shooter a molla con 2 frecce, da posizionare su un modellino a parte ricoperto di piante
+- MACCHINA GIOCATTOLO 2 IN 1: il set Auto Mutaforma di Jay è un gioco per bambini e bambine da 8 anni in su, che permette di ricreare l’azione della stagione 4 dello show TV LEGO NINJAGO La rivolta dei draghi
 - REGALO PER GLI APPASSIONATI DI AUTO: un emozionate set di costruzioni 2 in 1, come idea regalo di compleanno per bambini, bambine e fan dei guerrieri ninja, e per gli amanti dei veicoli giocattolo LEGO NINJAGO
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ average: '25.99'
 
 ℹ️:
 
-- LA BIRRA PERFETTA PER LAPERITIVO: birra leggera e rinfrescante con note agrumate e fruttate, perfetta per il momento dellaperitivo.
 - IL GUSTO CON UN TWIST IN PIU: birra premium lager che si caratterizza per la sua bevibilità.
-- GRADAZIONE ALCOLICA: 5.0% Vol.
+- LA BIRRA PERFETTA PER LAPERITIVO: birra leggera e rinfrescante con note agrumate e fruttate, perfetta per il momento dellaperitivo.
+- 1664 BLANC: birra caratterizzata da un sapiente accostamento di luppoli pregiati e delicati con un tocco di coriandolo. Le note agrumate, di pesca bianca e frutta tropicale creano un equilibrio perfetto di gusto tra leggera dolcezza e acidità.
 - FORMATO: cassa di birra con 24 Bottiglie da 33cl.
 - IDEALE CON: preparazioni a base di formaggi freschi e latticini, ma anche crostacei e pesci crudi come il sushi e compagna ideale per i migliori aperitivi.
-- 1664 BLANC: birra caratterizzata da un sapiente accostamento di luppoli pregiati e delicati con un tocco di coriandolo. Le note agrumate, di pesca bianca e frutta tropicale creano un equilibrio perfetto di gusto tra leggera dolcezza e acidità.
+- GRADAZIONE ALCOLICA: 5.0% Vol.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07FYNCHN5{{</world>}}

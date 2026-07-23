@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Biorepair è il primo dentifricio a base di microRepair, particelle biomimetiche, in grado di insinuarsi nelle micro scalfitture di smalto e dentina
-- Biorepair è senza Fluoro e adatto anche per i bambini sotto i 6 anni senza la supervisione di un adulto
-- IL DENTIFRICIO BIOREPAIR DEPOSITA NUOVO SMALTO SU TUTTA LA SUPERFICIE DEI DENTI CON L’USO QUOTIDIANO
 - DENTIFRICIO BIOREPAIR TOTAL PROTECTIVE REPAIR: Ripara la superficie dello smalto proteggendo da placca, tartaro e carie
+- Biorepair è senza Fluoro e adatto anche per i bambini sotto i 6 anni senza la supervisione di un adulto
 - MICROREPAIR: I microRepair sono particelle di idrossiapatite biomimetica, la stessa sostanza dello smalto naturale dei nostri denti, per questo si legano spontaneamente alla loro superficie rendendola omogenea, resistente e duratura; inoltre liberano Zinco dalle note proprietà antibatteriche
+- Biorepair è il primo dentifricio a base di microRepair, particelle biomimetiche, in grado di insinuarsi nelle micro scalfitture di smalto e dentina
+- IL DENTIFRICIO BIOREPAIR DEPOSITA NUOVO SMALTO SU TUTTA LA SUPERFICIE DEI DENTI CON L’USO QUOTIDIANO
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CYHB1MF8{{</world>}}

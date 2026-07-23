@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Il set contiene: N.1 SNOW-KISSED HOLIDAY LASTING BLACK MINI EYE PENCIL Una matita dalla texture cremosa ultra nera per definire la forma degli occhi e intensificare lo sguardo che abbina tutta la praticità di una taglia compatta a performance super
 - Il set contiene: N.1 SNOW-KISSED HOLIDAY HOLO TOUCH MINI FACE LUMINIZER Un illuminante delizioso ed immancabile per splendere dalla pista ai party. Liquido, impalpabile e in mini size, offre una radiosità cangiante, effetto olografico. Versatile e comodissimo da usare anche in viaggio
 - Un Gift Set Makeup per truccare occhi e viso con: mascara effetto volumizzante, matita occhi e illuminante liquido in formato mini, tutto in una pochette super cool in tessuto
 - Il set contiene: N.1 SNOW-KISSED HOLIDAY EYE’M GORGEOUS MINI MASCARA Mascara in mini formato, ultra nero ad effetto volumizzante, arricchito con estratto di moringa, per ciglia come scolpite e avvolte dalla base alla punte, dove e quando vuoi
-- Il set contiene: N.1 SNOW-KISSED HOLIDAY LASTING BLACK MINI EYE PENCIL Una matita dalla texture cremosa ultra nera per definire la forma degli occhi e intensificare lo sguardo che abbina tutta la praticità di una taglia compatta a performance super
 - MASCARA E MATITA OCCHI Oftalmologicamente testato ILLUMINANTE LIQUIDO Dermatologicamente testato Non comedogenico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

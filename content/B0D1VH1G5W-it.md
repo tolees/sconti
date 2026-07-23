@@ -30,9 +30,9 @@ average: '5.97714285714285'
 
 - SENZA PROFUMO – La formula della crema idratante viso, corpo e mani ipoallergenica non contiene profumo, ed è quindi ideale per le pelli più sensibili e soggette a rossori, irritazioni e prurito
 - INGREDIENTI ATTIVI – Arricchita con il 15% di Glicerina, Provitamina B5 e Ceramidi, la crema corpo idratante pelle secca efficace anche per viso e mani rafforza efficacemente la barriera cutanea
-- TEXTURE LEGGERA – La crema mani secche e screpolate dalla compatibilità cutanea dermatologicamente approvata si assorbe rapidamente e non unge, per una pelle morbida come la seta e dallaspetto sano
-- NUTRIMENTO 72H – La crema corpo idratante dona nutrimento intenso per 72 ore e calma la pelle irritata dalla 1° applicazione, per una sensazione di benessere e una pelle visibilmente rigenerata
 - CONTENUTO DELLA CONFEZIONE – NIVEA Crema Corpo Repair & Care, Crema idratante senza profumo per corpo, viso e mani, ideale per pelle secca e sensibile, 1 confezione da 400 ml, numero articolo: 85835
+- NUTRIMENTO 72H – La crema corpo idratante dona nutrimento intenso per 72 ore e calma la pelle irritata dalla 1° applicazione, per una sensazione di benessere e una pelle visibilmente rigenerata
+- TEXTURE LEGGERA – La crema mani secche e screpolate dalla compatibilità cutanea dermatologicamente approvata si assorbe rapidamente e non unge, per una pelle morbida come la seta e dallaspetto sano
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D1VH1G5W{{</world>}}

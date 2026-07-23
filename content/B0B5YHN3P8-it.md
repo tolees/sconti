@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Ideato per 2-8 giocatori dai 8 anni in su, con tanti colpi di scena e sfumature, UNO Flex è un gioco divertente che riunisce famiglie e amici nelle serate di gioco!
+- La Carta Pesca Due Flex costringe gli altri giocatori a pescare una carta; la Carta Pesca 4 Flex permette di scegliere quale giocatore deve pescare 4 carte.
 - La Carta Potere consente di flettere una carta e di cambiarne il colore se questa ha un segno di spunta verde; una X rossa significa che devono aspettare.
 - Il gioco di carte UNO diventa flessibile con UNO Flex!
-- La Carta Pesca Due Flex costringe gli altri giocatori a pescare una carta; la Carta Pesca 4 Flex permette di scegliere quale giocatore deve pescare 4 carte.
 - La Carta Jolly Pesca Tutti Flex costringe gli altri giocatori a pescare 2 carte, e la Carta Salta Giro Flex fa saltare il turno a TUTTI.
+- Ideato per 2-8 giocatori dai 8 anni in su, con tanti colpi di scena e sfumature, UNO Flex è un gioco divertente che riunisce famiglie e amici nelle serate di gioco!
 - Il gioco rispecchia la versione classica, ma con mosse speciali, come le carte Flex che permettono di cambiare il colore di una carta.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

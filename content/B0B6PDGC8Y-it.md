@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- SI AL PROGETTO ALIMENTAREVALSOIA - Valsoia Bontà e Salute in Italia è paladina dellalimentazione vegetale: un mangiare di qualità. Mangiare vegetale significa inoltre rispetto per gli esseri viventi e contribuire ad una maggiore sostenibilità ambientale.
+- VALSOIA - Valsoia S.p.A. è un’azienda italiana nata nel 1990 dall’idea di Lorenzo Sassoli de Bianchi. I prodotti Valsoia sono alternative vegetali a latte, bevande, gelati, yogurt, dessert, formaggi e condimenti in linea con la tradizione italiana.
 - MATERIE PRIME - Valsoia utilizza solo soia proveniente da piante non geneticamente modificate. Le procedure messe in atto sono molto rigide, non solo durante la fase di acquisto delle materie prime ma anche alla consegna del prodotto finito al cliente.
 - CONTENUTO - A casa riceverai un box da 10 tetra brik da 1000 ml di Latte di Riso Zero Zuccheri con calcio e vitamine D2, B2 e B12. Bevanda vegetale, naturalmente senza lattosio, senza glutine, a basso contenuto di grassi saturi.
-- VALSOIA - Valsoia S.p.A. è un’azienda italiana nata nel 1990 dall’idea di Lorenzo Sassoli de Bianchi. I prodotti Valsoia sono alternative vegetali a latte, bevande, gelati, yogurt, dessert, formaggi e condimenti in linea con la tradizione italiana.
-- SI AL PROGETTO ALIMENTAREVALSOIA - Valsoia Bontà e Salute in Italia è paladina dellalimentazione vegetale: un mangiare di qualità. Mangiare vegetale significa inoltre rispetto per gli esseri viventi e contribuire ad una maggiore sostenibilità ambientale.
 - NO OGM - Tutti i nostri prodotti sono conformi alle normative vigenti in materia di OGM che prevedono l’obbligo per il produttore che ne fa uso, di evidenziarne in etichetta la presenza. In nessuna delle etichette Valsoia fa menzione alla presenza di OGM.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

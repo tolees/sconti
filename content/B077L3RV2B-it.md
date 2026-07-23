@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 👥 Numero di giocatori: 2-5 | Età consigliata: 7+ | Durata media: 15 min.
-- Edizione in lingua italiana
-- 😈GIOCO CATTIVO E DIVERTENTE: Un gioco da tavolo cattivo, competitivo e vendicativo, senza esclusione di colpi
 - 😺EXPLODING KITTENS - Exploding Kittens è un gioco di carte veloce e immediato che saprà appassionare tutti: perché tutti amano i gattini...e le esplosioni
 - 💥COME GIOCARE - I giocatori pescano carte fino a quando qualcuno non incappa nella temuta carta Exploding Kitten: a quel punto quel qualcuno esplode ed è eliminato dal gioco, a meno che non abbia una carta Disinnesgatto per evitare lesplosione
+- Edizione in lingua italiana
+- 😈GIOCO CATTIVO E DIVERTENTE: Un gioco da tavolo cattivo, competitivo e vendicativo, senza esclusione di colpi
+- 👥 Numero di giocatori: 2-5 | Età consigliata: 7+ | Durata media: 15 min.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B077L3RV2B{{</world>}}

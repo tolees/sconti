@@ -28,15 +28,15 @@ average: '29.7'
 
 ℹ️:
 
-- 🌱 A base di Alga Bruna che favorisce lo sviluppo radicale
-- 🌺 Maggior produzione di fiori e frutti
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
-- ⚖ Dosaggio: 30 ml (1 tappo) in 3 litri di acqua una volta al mese in autunno/inverno
-- 💪 NutriONE Migliora l’utilizzo della luce da parte della pianta
 - 🌱 NutriOne è il concime liquido per piante e fiori sani e rigogliosi
+- 💪 NutriONE Migliora l’utilizzo della luce da parte della pianta
+- ⚖ Dosaggio: 30 ml (1 tappo) in 3 litri di acqua una volta al mese in autunno/inverno
 - ✔ Risultati in 7 giorni dallapplicazione
-- ♻ Confezione 100% riciclabile
+- 🌱 A base di Alga Bruna che favorisce lo sviluppo radicale
 - 💪 NutriONE Aumenta la crescita della pianta
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
+- 🌺 Maggior produzione di fiori e frutti
+- ♻ Confezione 100% riciclabile
 - ⚖ Dosaggio: 30 ml (1 tappo) in 3 litri di acqua ogni 15 giorni in primavera/estate
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

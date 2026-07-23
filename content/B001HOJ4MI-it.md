@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Imballareage Dimensioni: 24.384 L x 5.842 H x 16.51 W (centimeters)
 - Number of players: 2 à 8
+- Imballareage Dimensioni: 24.384 L x 5.842 H x 16.51 W (centimeters)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B001HOJ4MI{{</world>}}

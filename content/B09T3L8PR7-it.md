@@ -28,11 +28,11 @@ average: '43.45'
 
 ℹ️:
 
-- CLASSICO CB: Midland Alan 100 Plus B opera in modalità AM e FM; il CB entry level classico, con 40 canali e tutte le funzioni di base
 - DOPPIA BANDA: Bande di frequenza selezionabili: AM e FM, canale di emergenza 9-19, display canali con pulsanti Up-Down, con il led che emette un segnale luminoso per la ricezione e la trasmissione
-- FRONTALE ESSENZIALE: il frontale è completato dai pulsanti Up-Down. Ha una presa per l’altoparlante esterno e il connettore microfonico è a 4 Pin.
 - COMPATTO: essenziale e facile da usare e anche da installare grazie al kit opzionale nel vano DIN del tuo automezzo: questo è l’Alan 100 Plus B
+- CLASSICO CB: Midland Alan 100 Plus B opera in modalità AM e FM; il CB entry level classico, con 40 canali e tutte le funzioni di base
 - INCLUSO: la confezione comprende la radio CB, microfono, staffa di montaggio e viti di fisaggio
+- FRONTALE ESSENZIALE: il frontale è completato dai pulsanti Up-Down. Ha una presa per l’altoparlante esterno e il connettore microfonico è a 4 Pin.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09T3L8PR7{{</world>}}

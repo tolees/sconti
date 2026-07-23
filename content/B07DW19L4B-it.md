@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Con una dimensione dei pori di 0,1 micron (0,0001 mm), Katadyn BeFreeTM rimuove in modo affidabile batteri, cisti e sedimenti.
 - La membrana EZ-CleanTM può essere facilmente pulita agitando o ruotando. Nessun controlavaggio e nessun ausilio necessario.
-- BeeFre EZ-Clean Cartuccia filtro di ricambio
 - Capacità: fino a 2 l/min * Durata: fino a 1.000 litri a seconda della qualità dellacqua
+- BeeFre EZ-Clean Cartuccia filtro di ricambio
+- Con una dimensione dei pori di 0,1 micron (0,0001 mm), Katadyn BeFreeTM rimuove in modo affidabile batteri, cisti e sedimenti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07DW19L4B{{</world>}}

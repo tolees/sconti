@@ -28,10 +28,10 @@ average: '51.47'
 
 ℹ️:
 
-- DIMENSIONI: Dimensioni complessive: 360L x 250P x 130A cm. Dimensioni ripiegata: 63L x 24P x 42A cm. Capacità di peso: 1 kg (gancio). Montaggio richiesto da 2 persone, tempo di montaggio 10-15 minuti
+- IMPERMEABILE E SICURA: Realizzata in poliestere 190T, questa tenda da campeggio 4 posti garantisce una resistenza allacqua di 3000 mm. Ha un telo di fondo integrato in PE per bloccare umidità e sporco, con picchetti e tiranti per stabilità e resistenza al vento
 - PRATICA: Allinterno della tenda per campeggio è presente un gancio per appendere la tua lampada. Con la sacca inclusa, trasportare e riporre questa tenda leggera è estremamente semplice
 - TENDA FAMILIARE SPAZIOSA: Questa tenda da campeggio è adatta per 2-4 persone e dispone di aree separate per il riposo e la vita quotidiana, perfetta per rilassarsi durante le vacanze o le gite di un weekend
-- IMPERMEABILE E SICURA: Realizzata in poliestere 190T, questa tenda da campeggio 4 posti garantisce una resistenza allacqua di 3000 mm. Ha un telo di fondo integrato in PE per bloccare umidità e sporco, con picchetti e tiranti per stabilità e resistenza al vento
+- DIMENSIONI: Dimensioni complessive: 360L x 250P x 130A cm. Dimensioni ripiegata: 63L x 24P x 42A cm. Capacità di peso: 1 kg (gancio). Montaggio richiesto da 2 persone, tempo di montaggio 10-15 minuti
 - DESIGN LUMINOSO E ARIOSO: Resta al fresco grazie a due ampie porte che facilitano laccesso e migliorano la ventilazione allinterno della tenda a casetta. Le finestre laterali assicurano lingresso di abbondante luce naturale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

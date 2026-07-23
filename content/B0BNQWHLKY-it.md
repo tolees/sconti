@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- BILLABONG Uomo Taglia EU 42 Verde
 - Sandalo di base
 - sandali
+- BILLABONG Uomo Taglia EU 42 Verde
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BNQWHLKY{{</world>}}

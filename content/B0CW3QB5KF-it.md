@@ -28,11 +28,11 @@ average: '206.98'
 
 ℹ️:
 
-- Un codice download per la colonna sonora originale
-- Un artbook con copertina rigida da 40 pagine (voucher per richiedere la versione fisica + versione digitale)
-- Una statuetta da 46 cm di "Messmer limpalatore", uno dei boss principali di Shadow of the Erdtree
 - ELDEN RING, vincitore di centinaia di premi come gioco dellanno, tra cui i prestigiosi The Game Awards e Golden Joystick Awards, è pronto a condurre i Senzaluce in una nuova avventura nellInterregno
+- Un codice download per la colonna sonora originale
 - Il codice per lespansione ELDEN RING Shadow of the Erdtree
+- Una statuetta da 46 cm di "Messmer limpalatore", uno dei boss principali di Shadow of the Erdtree
+- Un artbook con copertina rigida da 40 pagine (voucher per richiedere la versione fisica + versione digitale)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CW3QB5KF{{</world>}}

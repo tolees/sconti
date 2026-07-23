@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dal 1965 Laura Biagiotti celebra un’eleganza senza tempo, affermandosi come uno dei grandi nomi della moda italiana nel mondo e arricchendo il settore con il suo gusto raffinato e la sua profonda sensibilità
-- Il profumo da donna si apre con note agrumate e fruttate di bergamotto, ribes nero, pera e mela, per poi svelare un cuore floreale di mughetto, rosa, violetta e iris e un finale avvolgente di vaniglia, muschio e fava tonka
 - Un’esplosione vivace di agrumi solari e frutti colorati si unisce a un cuore gioioso e femminile, pensato per le donne consapevoli della forza che solo l’amore può dare
+- Il profumo da donna si apre con note agrumate e fruttate di bergamotto, ribes nero, pera e mela, per poi svelare un cuore floreale di mughetto, rosa, violetta e iris e un finale avvolgente di vaniglia, muschio e fava tonka
 - Forever è la fragranza femminile che celebra l’amore delle donne, infinito e senza confini, capace di fermare il tempo e custodire per sempre i momenti straordinari che rendono unica la quotidianità
+- Dal 1965 Laura Biagiotti celebra un’eleganza senza tempo, affermandosi come uno dei grandi nomi della moda italiana nel mondo e arricchendo il settore con il suo gusto raffinato e la sua profonda sensibilità
 - Il prezioso flacone in vetro da 30 ml, sormontato da un elegante tappo in oro rosa, riproduce in verticale il simbolo dell’infinito e lascia intravedere il delicato colore dell’essenza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

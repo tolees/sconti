@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Montaggio rapido: facile montaggio e smontaggio. Basta allineare il tubo di collegamento con la fessura del tubo dellaria, inserire la batteria e il gioco è fatto.
-- Dotato di caricabatterie rapido e 2 batterie da 2.0 Ah e 20 V, offre una modalità a bassa velocità della durata di 55 minuti e una modalità ad alta velocità di 25 minuti per facilitare il vostro lavoro.
-- Consegna2 x batteria da 20 V/2,0 Ah, 1 x caricatore rapido, 1 x tubo superiore, 1 x tubo inferiore, 1 x soffiatore a batteria e 1 x istruzioni per luso.
 - Pulizia del giardino senza sforzo-Eccellenti prestazioni e bassi livelli di rumore Lugello daria ad alte prestazioni garantisce una prestazione di pulizia fino a 240 km/h, ideale per rimuovere foglie bagnate, patii e camminamenti. Inoltre, il soffiatore genera solo leggere vibrazioni ed è estremamente silenzioso, rendendolo ideale per le aree residenziali
+- Montaggio rapido: facile montaggio e smontaggio. Basta allineare il tubo di collegamento con la fessura del tubo dellaria, inserire la batteria e il gioco è fatto.
+- Consegna2 x batteria da 20 V/2,0 Ah, 1 x caricatore rapido, 1 x tubo superiore, 1 x tubo inferiore, 1 x soffiatore a batteria e 1 x istruzioni per luso.
+- Dotato di caricabatterie rapido e 2 batterie da 2.0 Ah e 20 V, offre una modalità a bassa velocità della durata di 55 minuti e una modalità ad alta velocità di 25 minuti per facilitare il vostro lavoro.
 - Leggero e portatile: il soffiatore di foglie senza fili è progettato per una facile manipolazione, grazie a un design leggero, comodo da usare con una sola mano. Pesando solo circa 1,6 kg e dotato di un corpo ergonomico, riduce laffaticamento dellutente del 30%. La sua struttura ben progettata garantisce una presa equilibrata ed ergonomica e riduce al minimo laffaticamento e lo stress anche durante un uso prolungato.
 - Varie modalità di lavoro: 15000 giri/min offre 3 modalità per scegliere una velocità diversa. Con un solo pulsante, puoi passare facilmente dal soffiare le foglie nel tuo giardino, spazzare la neve leggera dal marciapiede, spazzare detriti e peli di animali domestici in casa e soffiare la polvere dagli angoli difficili da pulire. Ottimo per spazzare i detriti da negozi, garage, vialetti, cortili esterni e giardini.
 

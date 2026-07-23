@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- BARILLA - Unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
 - MINI FORMATI - La pasta che più ami in formato più piccolo, veloce da cuocere e pensata per gustare ogni giorno piatti nutrienti e fantasiosi, da mangiare tutti insieme divertendosI
 - INGREDIENTI - Semola di grano duro e acqua. I chicchi che utilizziamo nascono da varietà coltivate con cura e passione per garantire una qualità che fa felici grandi e bambini
-- CARATTERISTICHE - Pronte in soli 6 minuti, le Mini Penne Rigate Piccolini si presentano più snelle e leggere delle normali Penne
 - IDEALI PER - insalate di pasta. Per una ricetta semplice e appetitosa prepara le Mini Penne Cremose in insalata di Robiola, accompagnate da pomodori freschi e prosciutto cotto a cubetti
-- BARILLA - Unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
+- CARATTERISTICHE - Pronte in soli 6 minuti, le Mini Penne Rigate Piccolini si presentano più snelle e leggere delle normali Penne
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B003UM6EMI{{</world>}}

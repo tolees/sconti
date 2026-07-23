@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- COSTRUITO PER DURARE - Il piatto di taglio in acciaio da 46 cm e il telaio rinforzato assicurano resistenza su terreni accidentati e durevolezza nel tempo per il tagliaerba a scoppio Alpina AL4 46 SA.
+- REGOLAZIONE CENTRALIZZATA DELL’ALTEZZA - La leva centralizzata regola l’altezza di taglio in 6 posizioni da 22 a 65 mm, assicurando un taglio uniforme anche su terreni irregolari.
+- UN MODELLO PER OGNI ESIGENZA - Il tagliaerba a scoppio Alpina AL4 46 SA con piatto di taglio da 46 cm supporta i metodi di raccolta e scarico posteriore, adatto a rasaerba su terreni medi e irregolari.
 - PRESTAZIONI POTENTI E AFFIDABILI - Il motore a scoppio STIGA da 123 cc e 1,9 kW assicura una potenza costante anche su erba alta e terreni irregolari, grazie alla trazione posteriore che facilita il movimento senza sforzo.
 - ELEVATI RISULTATI DI TAGLIO - Il piatto di taglio da 46 cm e il sacco da 60 l tagliano e raccolgono l’erba in modo uniforme, anche su terreni irregolari.
-- REGOLAZIONE CENTRALIZZATA DELL’ALTEZZA - La leva centralizzata regola l’altezza di taglio in 6 posizioni da 22 a 65 mm, assicurando un taglio uniforme anche su terreni irregolari.
-- COSTRUITO PER DURARE - Il piatto di taglio in acciaio da 46 cm e il telaio rinforzato assicurano resistenza su terreni accidentati e durevolezza nel tempo per il tagliaerba a scoppio Alpina AL4 46 SA.
-- UN MODELLO PER OGNI ESIGENZA - Il tagliaerba a scoppio Alpina AL4 46 SA con piatto di taglio da 46 cm supporta i metodi di raccolta e scarico posteriore, adatto a rasaerba su terreni medi e irregolari.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C4RF6Q6X{{</world>}}

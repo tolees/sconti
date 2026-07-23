@@ -29,10 +29,10 @@ average: '11.22'
 ℹ️:
 
 - Fodera: tessuto
+- Materiale interno: sintetico
+- Chiusura: gomma
 - Larghezza scarpa: media
 - Materiale esterno: sintetico
-- Chiusura: gomma
-- Materiale interno: sintetico
 - Tipo di tacco: piatto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -30,9 +30,9 @@ average: '232.333333333333'
 
 - CONNETTIVITÀ E FUNZIONALITÀ: Wi-Fi 6E e Bluetooth 5.3 per connessioni stabili, porte USB-C con Power Delivery, HDMI 1.4, webcam HD con privacy shutter e software MyASUS per il monitoraggio e l’ottimizzazione del sistema.
 - PRESTAZIONI: Processore AMD Athlon Silver con grafica integrata Radeon, 4GB di memoria LPDDR5 e SSD NVMe PCIe 4.0 da 128GB per una navigazione rapida e gestione fluida delle attività di tutti i giorni.
-- DISPLAY: Schermo IPS-level da 15,6” Full HD (1920x1080) con finitura anti-riflesso e certificazione TÜV Rheinland per una visione confortevole e colori nitidi, ideale per lavoro e intrattenimento.
 - DESIGN: ASUS Vivobook Go 15 in elegante colorazione Mixed Black, con struttura leggera da 1,63 kg e resistenza certificata secondo lo standard militare US MIL-STD 810H per durabilità e affidabilità quotidiana.
 - GARANZIA 3 ANNI: Tutti i notebook ASUS acquistati in Italia a partire dal 1° ottobre 2025 beneficiano di 3 anni di garanzia del produttore, validi dalla data di acquisto. T&C sul sito ufficiale ASUS.
+- DISPLAY: Schermo IPS-level da 15,6” Full HD (1920x1080) con finitura anti-riflesso e certificazione TÜV Rheinland per una visione confortevole e colori nitidi, ideale per lavoro e intrattenimento.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FZLD3YVV{{</world>}}

@@ -28,11 +28,11 @@ average: '2.5'
 
 ℹ️:
 
-- FORMULA: con minerali bio-compatibili e con Potassio, ingrediente attivo che svolge il ruolo di agente anti-sensibilità
-- DENTIFRICIO MENTADENT PROFESSIONAL PROTECT+ SENSIBILITÀ: remineralizza, protegge a lungo dalla sensibilità e dona sollievo. EFFICACIA CLINICAMENTE TESTATA.
 - MENTADENT PROFESSIONAL PROTECT+: la linea di dentifrici MENTADENT PROFESSIONAL Protect+ aiuta a prolungare la vita dei denti, mantenendoli sani e forti nel tempo
-- MENTADENT PROFESSIONAL: Mentadent è sinonimo di qualità e affidabilità, da più di 40 anni è leader nelligiene orale
 - CON MINERALI BIO-COMPATIBILI: aiuta a riparare le aree demineralizzate dello smalto, a prevenire l’erosione futura e la perdita dei minerali e a prolungare la vita dei tuoi denti
+- DENTIFRICIO MENTADENT PROFESSIONAL PROTECT+ SENSIBILITÀ: remineralizza, protegge a lungo dalla sensibilità e dona sollievo. EFFICACIA CLINICAMENTE TESTATA.
+- FORMULA: con minerali bio-compatibili e con Potassio, ingrediente attivo che svolge il ruolo di agente anti-sensibilità
+- MENTADENT PROFESSIONAL: Mentadent è sinonimo di qualità e affidabilità, da più di 40 anni è leader nelligiene orale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DXQ6WY91{{</world>}}

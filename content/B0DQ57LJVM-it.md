@@ -29,9 +29,9 @@ average: '6.47'
 ℹ️:
 
 - Nella parte anteriore, cè un righello stampato direttamente sullastuccio, di 15 cm, che può risultare molto utile. Dispone anche di una piccola tasca verticale che contiene una bella penna con inchiostro nero.
+- Piccolo astuccio per matite in PU, con un elastico sul retro, ideale per fissarlo alla copertina dellagenda o di qualsiasi altro quaderno formato A5.
 - Indicazioni: non lavare (le macchie possono essere rimosse strofinando delicatamente con un panno umido).
 - Con chiusura a zip.
-- Piccolo astuccio per matite in PU, con un elastico sul retro, ideale per fissarlo alla copertina dellagenda o di qualsiasi altro quaderno formato A5.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DQ57LJVM{{</world>}}

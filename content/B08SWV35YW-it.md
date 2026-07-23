@@ -28,11 +28,11 @@ average: '24.99'
 
 ℹ️:
 
-- Cavi con doppio rivestimento: i cavi a spirale di Glorious sono realizzati con un rivestimento premium che offre una durabilità prolungata e colori netti e regolari. Grazie a questo robusto materiale, non cè il rischio che i cavi si spezzino o si logorino.
+- Connettore aviator di metallo: a unire le estremità a spirale e lineari del cavo cè un robusto connettore aviator di metallo a 5 pin che mantiene il cavo piatto e stabile sulla scrivania, per una comodità maggiore e un aspetto più ordinato. Scollegare le estremità del cavo è facile: basta svitare il connettore aviator e separarle.
 - Connessione da USB-C a USB-A: collega il lato USB-A a una porta disponibile sul tuo PC o portatile e collega il lato USB-C alla tua tastiera meccanica compatibile. Nota bene: questo cavo non è adatto per la ricarica di dispositivi mobili.
 - Lunghezza: la lunghezza totale dei cavi a spirale di Glorious è di 137 cm (4,5 piedi). La sezione lineare del cavo è lunga 122 cm (4 piedi), mentre quella a spirale 15 cm (6 pollici).
 - Spirali premium: ogni cavo ha una sezione a spirale lunga 15 cm (6 pollici) con spirali strette di dimensioni regolari. Queste sezioni formano un angolo di 90° che rimane sempre parallelo alla tua tastiera, per una scrivania sempre ordinata e discreta.
-- Connettore aviator di metallo: a unire le estremità a spirale e lineari del cavo cè un robusto connettore aviator di metallo a 5 pin che mantiene il cavo piatto e stabile sulla scrivania, per una comodità maggiore e un aspetto più ordinato. Scollegare le estremità del cavo è facile: basta svitare il connettore aviator e separarle.
+- Cavi con doppio rivestimento: i cavi a spirale di Glorious sono realizzati con un rivestimento premium che offre una durabilità prolungata e colori netti e regolari. Grazie a questo robusto materiale, non cè il rischio che i cavi si spezzino o si logorino.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08SWV35YW{{</world>}}

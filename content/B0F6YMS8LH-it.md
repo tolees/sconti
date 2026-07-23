@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Jersey semplice
 - Girocollo
-- Vestibilità regolare
+- Jersey semplice
 - Lunghezza regolare
 - Maniche corte
+- Vestibilità regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F6YMS8LH{{</world>}}

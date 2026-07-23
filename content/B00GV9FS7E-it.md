@@ -29,8 +29,8 @@ average: '35.58'
 ℹ️:
 
 - Contenuto: 1x Fiskars Troncarami telescopico SmartFit L86, Lunghezza: 66-90 cm, Peso: 1,3 kg, Materiale: Acciaio di precisione/Rivestimento antiaderente, Colore: Nero/Arancione, 1013564
-- Taglio netto e potente: Rivestimento antiaderente sulla lama per un taglio liscio e pulito, Posizionamento stabile sul ramo grazie alla controlama a uncino, Diametro di taglio (5 cm) tra i migliori del mercato
 - Troncarami con manici telescopici e lame bypass per legno verde, Per tagliare rami o ramoscelli di alberi, arbusti e siepi con diametro di fino a 5 cm, Per destrimani e mancini
+- Taglio netto e potente: Rivestimento antiaderente sulla lama per un taglio liscio e pulito, Posizionamento stabile sul ramo grazie alla controlama a uncino, Diametro di taglio (5 cm) tra i migliori del mercato
 - Impugnatura stabile grazie al rivestimento antiscivolo sui manici, Facile regolazione della lunghezza dei manici, Lungo raggio grazie ai manici telescopici
 - Lunga durata, Acciaio inossidabile, Lama facile da affilare, Lima diamantata venduta separatamente nel kit di manutenzione (articolo numero 1001640), Design finlandese
 

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- 【Modalità VLAN】In questa modalità, le porte 1-6 sono isolate luna dallaltra ma possono comunicare con le porte 7-10; questa modalità aiuta a isolare la trasmissione DHCP e a ridurre la tempesta di trasmissione
 - 【Plug and Play】Grazie al plug and play, la configurazione dello switch da 2,5 GB non è un problema per i principianti della rete, nessun software e nessuna configurazione richiesta
 - 【Protezione contro i Fulmini da 6 KV】Switch 2.5 Gigabit offre vari tipi di protezione, tra cui protezione contro i fulmini da 6 kV, protezione da cortocircuito e protezione da sovraccarico, che proteggono notevolmente lo switch LAN dai danni causati dai temporali
 - 【Aggregazione Statica】Gruppo di aggregazione: porte 7-8. Adatto per NAS 2.5G con 2 porte LAN, fino a 5 Gbps. Nota: lo switch supporta solo laggregazione di link statici e non supporta laggregazione di link dinamici
-- 【Modalità VLAN】In questa modalità, le porte 1-6 sono isolate luna dallaltra ma possono comunicare con le porte 7-10; questa modalità aiuta a isolare la trasmissione DHCP e a ridurre la tempesta di trasmissione
 - 【Robusto Alloggiamento in Metallo】Switch 2.5 Gbe con alloggiamento in metallo è adatto sia per luso sul tavolo che per il montaggio a parete
 - 【10 Porte Multi-Gigabit】Lo switch da 2,5 Gbps è dotato di 8 porte RJ45 da 2,5 Gbps e 2 porte SFP da 10 Gbps, fornendo una capacità di commutazione fino a 80 Gbps; fornisce le migliori prestazioni per i tuoi dispositivi, inclusi NAS, server, AP WiFi 7, router WiFi 7, adattatore PCIe, PC da gioco e altro ancora
 

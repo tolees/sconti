@@ -28,10 +28,10 @@ average: '149.9'
 
 ℹ️:
 
+- CAPSULE A MODO MIO: Scopri le caratteristiche delle varietà di caffè A Modo Mio incluse nella confezione. Un aroma per ogni gusto e per ogni momento
 - IDOLA: La macchina per caffè A Modo Mio Idola di Lavazza è caratterizzata da un design piacevole e moderno, realizzato con materiali pregiati, e dispone di uninterfaccia touch screen
 - VERSATILE: Goditi 4 diverse preparazioni di espresso con lopzione per il boost della temperatura, 3 dosaggi preimpostati e un dosaggio libero
 - COMPATTA, SILENZIOSA E FACILE DA USARE: Idola è intuitiva, moderna e facile da usare e, cosa più importante, è compatta e assolutamente silenziosa, così puoi preparare e gustarti il tuo espresso preferito in totale tranquillità
-- CAPSULE A MODO MIO: Scopri le caratteristiche delle varietà di caffè A Modo Mio incluse nella confezione. Un aroma per ogni gusto e per ogni momento
 - MACCHINA PER CAFFÉ IDOLA E CAPSULE A MODO MIO: La confezione include la macchina per caffè A Modo Mio Idola e 64 capsule assortite (16 x Crema e Gusto Classico, 16 x Qualità Rossa, 16 x Qualità Oro, 16 x Dek)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

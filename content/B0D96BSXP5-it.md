@@ -28,8 +28,8 @@ average: '24.96'
 
 ℹ️:
 
-- Sapore di menta fresca
 - Micro-struttura per una pulizia profonda
+- Sapore di menta fresca
 - Nastro cerato
 - Rimuove la placca batterica dove lo spazzolino non può arrivare
 

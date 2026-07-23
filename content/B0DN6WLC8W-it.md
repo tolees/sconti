@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- ESPRESSO GOURMET CHOCOLATE: Scopri il nuovo Espresso Gourmet Chocolate di Lavazza. La confezione include 100 capsule in alluminio compatibili con le macchine originali Nespresso* Original. *Lavazza non è affiliata a, né promossa o sponsorizzata da Nespresso
-- LAVAZZA: Il Gruppo Lavazza opera in ogni settore dellindustria del caffè, offrendo prodotti di alta qualità, ottenuti attraverso un modello basato su innovazione, passione e competenza
-- INTENSITÀ: La tostatura media e il livello di intensità 10/13 conferiscono a questo caffè un gusto ricco e bilanciato, per un espresso dal colore nocciolato
 - NOTE AROMATICHE: Le capsule Espresso Gourmet Chocolate sono caratterizzate da un aroma naturale di cioccolato, per un caffè pieno, equilibrato e corposo
 - COMPOSIZIONE: Queste capsule sono realizzate con caffè Arabica brasiliano e Robusta naturale, accuratamente selezionati
+- INTENSITÀ: La tostatura media e il livello di intensità 10/13 conferiscono a questo caffè un gusto ricco e bilanciato, per un espresso dal colore nocciolato
+- LAVAZZA: Il Gruppo Lavazza opera in ogni settore dellindustria del caffè, offrendo prodotti di alta qualità, ottenuti attraverso un modello basato su innovazione, passione e competenza
+- ESPRESSO GOURMET CHOCOLATE: Scopri il nuovo Espresso Gourmet Chocolate di Lavazza. La confezione include 100 capsule in alluminio compatibili con le macchine originali Nespresso* Original. *Lavazza non è affiliata a, né promossa o sponsorizzata da Nespresso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DN6WLC8W{{</world>}}

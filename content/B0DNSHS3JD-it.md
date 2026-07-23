@@ -28,11 +28,11 @@ average: '37.79'
 
 ℹ️:
 
-- Telaio in metallo resistente con finitura rivestita in polvere nera; struttura in legno ingegnerizzato con finitura in rovere
-- Semplice modello pieghevole con montaggio/installazione rapidi
+- Scaffali certificati FSC (FSC N004130). Realizzati con materiali provenienti da foreste gestite in modo responsabile, materiali riciclati e/o altre fonti di legno controllate
 - Design robusto con sistema di bloccaggio a parete interna per una maggiore stabilità
 - Custodia a 4 scomparti per conservare e visualizzare lo spazio; ideale per libri, foto, decorazioni e altro ancora
-- Scaffali certificati FSC (FSC N004130). Realizzati con materiali provenienti da foreste gestite in modo responsabile, materiali riciclati e/o altre fonti di legno controllate
+- Telaio in metallo resistente con finitura rivestita in polvere nera; struttura in legno ingegnerizzato con finitura in rovere
+- Semplice modello pieghevole con montaggio/installazione rapidi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DNSHS3JD{{</world>}}

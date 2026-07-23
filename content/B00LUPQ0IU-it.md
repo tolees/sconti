@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Aste da 5 mm offrono l’equilibrio ottimale fra rigidità e flessibilità per la maggior parte dei requisiti di instradamento di cavi
 - Aste composita in fibra di vetro ad alta lucentezza riduce al minimo sbavatura e scheggiatura
 - Contenuto: 10 x aste composite in fibra di vetro 5 mm Ø; 1 x occhiello e anello; 1 x gancio per cavi; 1 x guida flessibile in acciaio 190 mm;1 x adattatore da 5 mm (permette di utilizzare con altre marche di aste tiracavi)
+- Aste da 5 mm offrono l’equilibrio ottimale fra rigidità e flessibilità per la maggior parte dei requisiti di instradamento di cavi
 - Connettori in acciaio a connessione tripla per resistenza alla torsione e alla trazione eccezionali – filettati, crimpati e incollati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

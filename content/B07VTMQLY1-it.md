@@ -28,12 +28,12 @@ average: '55.86'
 
 ℹ️:
 
-- Funzione "Hot & Cold" per preparare con facilità bevande calde o fredde
-- Assapora le oltre 30 varietà di espressi e altre bevande originali
-- Macchina manuale con pompa ad alta pressione (15 bar); Potenza 1500W
 - Sistema di spegnimento automatico dopo un minuti di inutilizzo e sistema Thermoblock; Classificazione energetica A
-- Piccolo XS è la macchina per caffé espresso e altre bevande in capsula Nescafé Dolce Gusto con un design compatto e versatile, concepita per avere un ingombro minimo e stile moderno
+- Macchina manuale con pompa ad alta pressione (15 bar); Potenza 1500W
+- Assapora le oltre 30 varietà di espressi e altre bevande originali
+- Funzione "Hot & Cold" per preparare con facilità bevande calde o fredde
 - Dimensioni: 14 x 28 x 27 cm; serbatoio removibile da 0,8 l con carica dallalto
+- Piccolo XS è la macchina per caffé espresso e altre bevande in capsula Nescafé Dolce Gusto con un design compatto e versatile, concepita per avere un ingombro minimo e stile moderno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07VTMQLY1{{</world>}}

@@ -28,15 +28,15 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- IL POTERE DELLAMICIZIA: Mio e Zoe allinizio non vanno daccordo, ma presto le due diventano lunica speranza luna dellaltra; Questo viaggio riserverà loro colpi di scena inaspettati e dovranno guardarsi le spalle a vicenda per poterli superare
+- Pass Amici: Invita un amico a giocare con te gratuitamente su qualsiasi piattaforma (cross-play su PS, Xbox e PC); Questo folle viaggio è stato progettato da Hazelight, i creatori di emozionanti avventure cooperative come It Takes Two e A Way Out
+- Questo videogioco è il nuovo imperdibile gioco davventura in split-screen fatto su misura per due giocatori; Questo gioco richiede una connessione a Internet; Split Fiction per PlayStation 5 (disco) contiene il gioco completo
 - Incontreranno situazioni bizzarre mentre attraversano storie nate dalla propria folle immaginazione; E, cosa più importante, le affronteranno insieme
 - Fuggi da un sole che sta diventando una supernova, sfida una scimmia a una gara di ballo, prova delle mosse fantastiche sullhoverboard, affronta un malvagio gattino e guida qualsiasi cosa, dalle moto gravitazionali agli squali di sabbia
-- Questo videogioco è il nuovo imperdibile gioco davventura in split-screen fatto su misura per due giocatori; Questo gioco richiede una connessione a Internet; Split Fiction per PlayStation 5 (disco) contiene il gioco completo
-- Scopri mondi completamente diversi tra loro, nuove abilità inaspettate e una serie di dinamiche di gioco tra cui platform, rompicapi e molto altro; Nuove sorprese attendono te e lamico che ti accompagnerà in ogni livello
-- INFORMAZIONI SU HAZELIGHT STUDIOS: Creatore di It Takes Two, il titolo vincitore del premio Game of the Year 2021, Hazelight è un pluripremiato studio di sviluppo di giochi indipendente con sede a Stoccolma, in Svezia
-- IL POTERE DELLAMICIZIA: Mio e Zoe allinizio non vanno daccordo, ma presto le due diventano lunica speranza luna dellaltra; Questo viaggio riserverà loro colpi di scena inaspettati e dovranno guardarsi le spalle a vicenda per poterli superare
-- È stato fondato nel 2014 da Josef Fares, regista cinematografico e creatore del celebre gioco Brothers: A Tale of Two Sons
-- Pass Amici: Invita un amico a giocare con te gratuitamente su qualsiasi piattaforma (cross-play su PS, Xbox e PC); Questo folle viaggio è stato progettato da Hazelight, i creatori di emozionanti avventure cooperative come It Takes Two e A Way Out
 - UNA VERA AVVENTURA COOPERATIVA: Questa avventura a schermo condiviso è progettata per due persone; In questo gioco cooperativo dovrete coordinare le azioni e i tempi di reazione, oltre a collaborare per superare le sfide
+- INFORMAZIONI SU HAZELIGHT STUDIOS: Creatore di It Takes Two, il titolo vincitore del premio Game of the Year 2021, Hazelight è un pluripremiato studio di sviluppo di giochi indipendente con sede a Stoccolma, in Svezia
+- È stato fondato nel 2014 da Josef Fares, regista cinematografico e creatore del celebre gioco Brothers: A Tale of Two Sons
+- Scopri mondi completamente diversi tra loro, nuove abilità inaspettate e una serie di dinamiche di gioco tra cui platform, rompicapi e molto altro; Nuove sorprese attendono te e lamico che ti accompagnerà in ogni livello
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DQ5X2D8H{{</world>}}

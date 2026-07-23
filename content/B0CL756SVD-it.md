@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Maniche lunghe
-- Composizione materiale: 70% cotone, 30% poliestere
 - Vestibilità standard
+- Composizione materiale: 70% cotone, 30% poliestere
+- Maniche lunghe
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CL756SVD{{</world>}}

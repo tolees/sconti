@@ -28,11 +28,11 @@ average: '21.0'
 
 ℹ️:
 
-- Sistema anti-goccia: permette di rimuovere la caraffa senza sporcare. Quando non è in posizione, il beccuccio interrompe il flusso e il liquido resta in infusione, così da ottenere una bevanda più intensa. Dimensioni (L x H x P): 19 x 28 x 12.5
-- Capacità fino a 6 tazze: serbatoio da 1 Litro con indicatori di livello ben visibili e caraffa in vetro. Ideale per caffè americano, caffè d’orzo, tè e tisane,senza alterarne laroma.
-- Filtro in nylon riutilizzabile: si lava velocemente sotto acqua corrente e riduce l’uso di materiali monouso, contribuendo a un uso più sostenibile.
-- Accessori opzionali: caraffa originale in vetro (R10063CA ) acquistabile separatamente
 - Mantenimento in caldo: dopo la preparazione, lapparecchio rimane acceso per mantenere la bevanda alla temperatura ottimale e si spegne automaticamente dopo 40 minuti.
+- Sistema anti-goccia: permette di rimuovere la caraffa senza sporcare. Quando non è in posizione, il beccuccio interrompe il flusso e il liquido resta in infusione, così da ottenere una bevanda più intensa. Dimensioni (L x H x P): 19 x 28 x 12.5
+- Accessori opzionali: caraffa originale in vetro (R10063CA ) acquistabile separatamente
+- Filtro in nylon riutilizzabile: si lava velocemente sotto acqua corrente e riduce l’uso di materiali monouso, contribuendo a un uso più sostenibile.
+- Capacità fino a 6 tazze: serbatoio da 1 Litro con indicatori di livello ben visibili e caraffa in vetro. Ideale per caffè americano, caffè d’orzo, tè e tisane,senza alterarne laroma.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01MFCD5LX{{</world>}}

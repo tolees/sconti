@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - La combinazione di un elevato accumulo di energia e di un design leggero consente unautonomia prolungata, con una falciatura fino a 280 mq con una sola carica
-- La geometria del piatto convoglia lerba dai lati del tosaerba verso la lama, riducendo notevolmente la necessità di tagliare lungo recinzioni e muri
 - Le due batterie PowerShare da 20V e 2,5Ah erogano 40V per una potenza di uscita simile a quella di un carburante
+- La geometria del piatto convoglia lerba dai lati del tosaerba verso la lama, riducendo notevolmente la necessità di tagliare lungo recinzioni e muri
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07BGGZMM2{{</world>}}

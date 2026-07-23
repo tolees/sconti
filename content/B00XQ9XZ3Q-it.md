@@ -28,11 +28,11 @@ average: '4.49'
 
 ℹ️:
 
-- PROPRIETÀ: Una formula preziosa, con proprietà nutrienti e rinforzanti, per proteggere e dare nuovo vigore ai capelli, rendendoli setosi, resistenti e brillanti a lungo.
-- TRATTAMENTO RISTRUTTURANTE: Il Trattamento Ristrutturante Imperial Argan, arricchito con Olio di Argan, è un trattamento con proprietà nutrienti e ristrutturanti che offre ai capelli idratazione, rendendoli luminosi, morbidi, districati e liberi dal crespo. Non appesantisce i capelli.
-- INGREDIENTI PRINCIPALI: Fra gli ingredienti principali del trattamento ristrutturante capelli troviamo olio dArgan e olio di Lino.
 - VITALCARE: Vitalcare è bellezza e salute dei capelli: shampoo, balsamo, maschere, prodotti e trattamenti specifici che soddisfano ogni esigenza con la qualità e la professionalità del parrucchiere e la comodità della beauty routine quotidiana in casa.
+- INGREDIENTI PRINCIPALI: Fra gli ingredienti principali del trattamento ristrutturante capelli troviamo olio dArgan e olio di Lino.
+- PROPRIETÀ: Una formula preziosa, con proprietà nutrienti e rinforzanti, per proteggere e dare nuovo vigore ai capelli, rendendoli setosi, resistenti e brillanti a lungo.
 - MODO DUSO: Sui capelli lavati e tamponati versare alcune gocce di prodotto e massaggiare. Sui capelli asciutti frizionare sulla capigliatura. Si consiglia luso in combinazione con gli altri prodotti della linea Vitalcare Imperial Argan.
+- TRATTAMENTO RISTRUTTURANTE: Il Trattamento Ristrutturante Imperial Argan, arricchito con Olio di Argan, è un trattamento con proprietà nutrienti e ristrutturanti che offre ai capelli idratazione, rendendoli luminosi, morbidi, districati e liberi dal crespo. Non appesantisce i capelli.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00XQ9XZ3Q{{</world>}}

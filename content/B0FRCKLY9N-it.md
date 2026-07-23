@@ -28,11 +28,11 @@ average: '179.99'
 
 ℹ️:
 
-- Cosa è incluso: fotocamera LIT HERO, diffusore di luce, supporto adesivo curvo, fibbia di montaggio + vite a testa zigrinata, cavo USB-C
-- Robusta e impermeabile fino a 5 m: Completamente impermeabile e progettata con la resistenza che ha reso GoPro leggendaria, LIT HERO è pronta a catturare ogni momento divertente, anche quando affronti fango, neve o acqua (fino a 5 metri di profondità) o semplicemente esplori la natura o una nuova città.
 - Design ultracompatto con un peso di soli 93 g: Con un volume e una massa inferiori rispetto alle fotocamere HERO di punta, LIT HERO è talmente compatta e leggera da poterti seguirti in ogni avventura. Portala con te in tasca o nello zaino, realizza scatti con la fotocamera fissata al corpo e montata su attrezzature oppure riprendi a mano libera ovunque tu sia.
-- Luce integrata: La luce integrata di LIT HERO ti consente di illuminare le scene che necessitano di un po’ più di luce o di riprendere completamente al buio. È dotata di tre impostazioni di luminosità e funziona anche quando la fotocamera è spenta o quando è collegata e in carica.
+- Cosa è incluso: fotocamera LIT HERO, diffusore di luce, supporto adesivo curvo, fibbia di montaggio + vite a testa zigrinata, cavo USB-C
 - Qualità delle immagini pazzesca: LIT HERO cattura l’azione in video in 4K ultra HD, aumentando la frequenza dei fotogrammi fino a 60 fotogrammi al secondo per un movimento più fluido e la possibilità di riprodurre video in slow motion 2x. Puoi anche scattare foto da 12 MP e ottenere immagini fino a 11 MP dai tuoi video utilizzando l’app GoPro Quik.
+- Robusta e impermeabile fino a 5 m: Completamente impermeabile e progettata con la resistenza che ha reso GoPro leggendaria, LIT HERO è pronta a catturare ogni momento divertente, anche quando affronti fango, neve o acqua (fino a 5 metri di profondità) o semplicemente esplori la natura o una nuova città.
+- Luce integrata: La luce integrata di LIT HERO ti consente di illuminare le scene che necessitano di un po’ più di luce o di riprendere completamente al buio. È dotata di tre impostazioni di luminosità e funziona anche quando la fotocamera è spenta o quando è collegata e in carica.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FRCKLY9N{{</world>}}

@@ -28,11 +28,11 @@ average: '15.9'
 
 ℹ️:
 
-- Illuminazione integrata: è dotata di una luce LED frontale per illuminare larea di lavoro e di una torcia posteriore alla base del manico per una maggiore visibilità in ambienti bui.
-- Include 49 punte CRV e custodia: pronto alluso con 49 punte per cacciavite CRV da 25 mm e una custodia trasparente per tenere lutensile e gli accessori organizzati e protetti.
-- Potenza e precisione per ogni progetto: coppia massima di 6 Nm con 6+1 posizioni e velocità fino a 200 giri/min, ideale per avvitare in diversi materiali ed eseguire lavori di bricolage con precisione.
 - Convertibile 2 in 1 per ogni spazio: il suo manico girevole permette di cambiare forma per adattarsi ad angoli stretti e spazi difficili da raggiungere.
+- Potenza e precisione per ogni progetto: coppia massima di 6 Nm con 6+1 posizioni e velocità fino a 200 giri/min, ideale per avvitare in diversi materiali ed eseguire lavori di bricolage con precisione.
 - Prestazioni elevate senza fili: cacciavite con batteria agli ioni di litio da 4V 1500 mAh, ricaricabile tramite USB, con fino a 60 minuti di autonomia per un lavoro ininterrotto.
+- Include 49 punte CRV e custodia: pronto alluso con 49 punte per cacciavite CRV da 25 mm e una custodia trasparente per tenere lutensile e gli accessori organizzati e protetti.
+- Illuminazione integrata: è dotata di una luce LED frontale per illuminare larea di lavoro e di una torcia posteriore alla base del manico per una maggiore visibilità in ambienti bui.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GH2G2D7B{{</world>}}

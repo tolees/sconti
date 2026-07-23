@@ -28,8 +28,8 @@ average: '118.95'
 
 ℹ️:
 
-- Suola Vibram XS Trek ad alta trazione con zona di arrampicata sulla punta e zona di frenata sul tallone.
 - Realizzate con GORE-TEX a tre strati impermeabile per avventure alpine impegnative.
+- Suola Vibram XS Trek ad alta trazione con zona di arrampicata sulla punta e zona di frenata sul tallone.
 - Tomaia in mesh anti-abrasione ad alta tenacità con puntale protettivo e tallone in gomma antigraffio.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

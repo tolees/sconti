@@ -28,10 +28,10 @@ average: '17.49'
 
 ℹ️:
 
+- REGALI CREATIVI LEGO: unottima idea regalo di compleanno per bambini e bambine fan dei giochi di ruolo emozionanti, con cui ampliare la propria collezione di veicoli LEGO per il soccorso
 - VEICOLO LEGO RICCO DI DETTAGLI: il realistico camion giocattolo è dotato di pneumatici in gomma, pala anteriore, funzione di spargimento sale e minifigure del conducente
 - UN MONDO DI PLAYSET: lascia che i piccoli scoprano gli altri set della gamma LEGO City (disponibili separatamente), per ore di giochi creativi senza fine
 - PROPRIO COME IL MODELLO VERO: la pala sgombraneve del camion LEGO può inclinarsi, alzarsi e abbassarsi, e la cabina si può inclinare per accedere al motore; spingendo il veicolo giocattolo in avanti, si attiva la funzione spargisale
-- REGALI CREATIVI LEGO: unottima idea regalo di compleanno per bambini e bambine fan dei giochi di ruolo emozionanti, con cui ampliare la propria collezione di veicoli LEGO per il soccorso
 - SPAZZANEVE GIOCATTOLO IN MATTONCINI: spalare le strade innevate è un vero divertimento con il set Spazzaneve LEGO City, un gioco didattico per bambini e bambine da 6 anni in su, ricco di funzioni
 - ISTRUZIONI FACILI DA SEGUIRE: l’app LEGO Builder permette di costruire il modellino usando strumenti digitali per ingrandire e per ruotare in 3D il mezzo, salvando i progressi fatti durante il montaggio
 

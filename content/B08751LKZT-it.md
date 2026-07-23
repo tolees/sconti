@@ -28,8 +28,8 @@ average: '24.05'
 
 ℹ️:
 
-- Micro USB and USB
 - 2 metre Cable for charging your device
+- Micro USB and USB
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08751LKZT{{</world>}}

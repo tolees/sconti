@@ -28,8 +28,8 @@ average: '13.9'
 
 ℹ️:
 
-- Cinturino: spalline larghe
 - Bustino foderato
+- Cinturino: spalline larghe
 - Dettagli: dettagli in pizzo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dermatologicamente testato
 - Effetto volume 3D memorabile
-- Texture cremosa, ultra brillante, scorrevole ed estremamente piacevole sulle labbra
 - Formula idratante e una sensorialità inedita, effetto caldo e freddo
+- Texture cremosa, ultra brillante, scorrevole ed estremamente piacevole sulle labbra
+- Dermatologicamente testato
 - Una nuova frontiera di lucentezza e confort per le labbra. Un prodotto semplicemente iconico e prezioso che idrata fino a 8 ore le labbra, le avvolge e le ricopre di puro splendore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

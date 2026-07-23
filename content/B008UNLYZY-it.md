@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Parti ricambio
 - Colore: blu
 - Perno centrale anteriore tacchetto
-- Parti ricambio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B008UNLYZY{{</world>}}

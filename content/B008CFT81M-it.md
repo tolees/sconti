@@ -28,11 +28,11 @@ average: '5.17500000000001'
 
 ℹ️:
 
-- Non usare in ambienti frequentati da felini
 - Habitat Insetticida liquido Multinsetto è indicato contro scarafaggi, zecche, cimici, pulci, acari, formiche, tarli, mosche e zanzare
-- Habitat Insetticida liquido Multinsetto Inodore a lunga persistenza garantita dalla microincapsulazione che permette il lento rilascio del principio attivo, in erogatore a pompetta (NO GAS)
 - Rispetta lambiente: è un prodotto a base acqua, non contiene solventi organici (ritenuti altamente inquinanti).
 - Grazie alla sua formulazione e allerogatore no gas che consentono di non diffondere il prodotto in aria ma anzi di depositarlo solo dove viene erogato, Zig Zag Habitat Microincapsulato 500 ml può essere applicato in case popolate da bambini e animali domestici
+- Habitat Insetticida liquido Multinsetto Inodore a lunga persistenza garantita dalla microincapsulazione che permette il lento rilascio del principio attivo, in erogatore a pompetta (NO GAS)
+- Non usare in ambienti frequentati da felini
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B008CFT81M{{</world>}}

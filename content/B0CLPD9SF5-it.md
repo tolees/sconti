@@ -28,11 +28,11 @@ average: '7.0'
 
 ℹ️:
 
+- Crema Solare Corpo SOL Tropical: crema solare vellutata per pelli scure, resistente allacqua, intensifica labbronzatura, proteggendo la pelle e lasciandola morbida e vellutata
+- Linea SOL Tropical di Bottega Verde: gamma di solari testati dermatologicamente per proteggere la pelle dal sole, avvolgendo il corpo in un delicato profumo tropicale
+- Formato: 1 crema solare corpo SOL Tropical da 200 ml
 - Formulazione: la texture vellutata e setosa, arricchita con Noce brasiliana e Maracujà, si assorbe rapidamente, intensificando labbronzatura e lasciando la pelle idratata, protetta e piacevolmente profumata
 - Modo duso: applica il prodotto uniformemente prima di esporti al sole, riapplicalo frequentemente per mantenere la protezione, soprattutto dopo aver sudato o aver fatto il bagno
-- Crema Solare Corpo SOL Tropical: crema solare vellutata per pelli scure, resistente allacqua, intensifica labbronzatura, proteggendo la pelle e lasciandola morbida e vellutata
-- Formato: 1 crema solare corpo SOL Tropical da 200 ml
-- Linea SOL Tropical di Bottega Verde: gamma di solari testati dermatologicamente per proteggere la pelle dal sole, avvolgendo il corpo in un delicato profumo tropicale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CLPD9SF5{{</world>}}

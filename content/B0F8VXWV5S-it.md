@@ -28,11 +28,11 @@ average: '40.99'
 
 ℹ️:
 
+- Un CD Soundtrack con l’ipnotica colonna sonora originale (OST) composta da Christos Antoniou (del gruppo metal greco Septicflesh) e eseguita principalmente dalla FILMharmonic Orchestra di Praga!
+- Un poster fronte-retro
 - Una scatola da collezione che contiene tutti i contenuti
 - Un esclusivo Art Book con illustrazioni mai viste prima
 - Il gioco fisico
-- Un poster fronte-retro
-- Un CD Soundtrack con l’ipnotica colonna sonora originale (OST) composta da Christos Antoniou (del gruppo metal greco Septicflesh) e eseguita principalmente dalla FILMharmonic Orchestra di Praga!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F8VXWV5S{{</world>}}

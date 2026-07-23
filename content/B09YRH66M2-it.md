@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Secondo la direttiva UE sull’etichettatura dell’efficienza energetica, questa lampadina decorativa non richiede informazioni sull’etichetta energetica
-- Grazie al vetro color oro vaporizzato, ai LED a forma di spirale in design vintage e alla forma extra-large di una mela, la lampada E27 è ideale come lampada decorativa a sé stante; con lattacco abbinato, ad esempio utilizzata come lampada a sospensione, la lampadina Edison crea un ambiente suggestivo
 - La lampada è dimmerabile (considerare le rispettive caratteristiche di dimmerazione del proprio apparecchio)
+- Grazie al vetro color oro vaporizzato, ai LED a forma di spirale in design vintage e alla forma extra-large di una mela, la lampada E27 è ideale come lampada decorativa a sé stante; con lattacco abbinato, ad esempio utilizzata come lampada a sospensione, la lampadina Edison crea un ambiente suggestivo
+- Secondo la direttiva UE sull’etichettatura dell’efficienza energetica, questa lampadina decorativa non richiede informazioni sull’etichetta energetica
 - Una volta accesa, la lampadina a sfera decorativa con filamenti a LED a spirale si farà notare nella tua zona giorno; Dimensioni: Lunghezza: 22 cm, Diametro: 22 cm
 - La lampadina a LED non richiede alcun tempo di riscaldamento e risplende al 100 per cento di luce bianca calda e brillante subito dopo laccensione; il piacevole colore della luce calda è ideale nelle stanze dedicate al relax, come i salotti e le camere da letto
 

@@ -28,10 +28,10 @@ average: '16.594'
 
 ℹ️:
 
-- Spia di funzionamento al neon e voltaggio universale
-- Doppio indicatore del livello dacqua
-- Include 2 tazze con cucchiaio, riponibili allinterno del bollitore
 - Filtro rimovibile e lavabile
+- Doppio indicatore del livello dacqua
+- Spia di funzionamento al neon e voltaggio universale
+- Include 2 tazze con cucchiaio, riponibili allinterno del bollitore
 - Beccuccio per versare lacqua senza farla fuoriuscire
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

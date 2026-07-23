@@ -29,8 +29,8 @@ average: '85.0'
 ℹ️:
 
 - Guscio DryVent 2L impermeabile, traspirante e con cuciture sigillate
-- Versione parka delliconica giacca Reign On
 - Cappuccio fisso con coulisse regolabile
+- Versione parka delliconica giacca Reign On
 - Tasche con patta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

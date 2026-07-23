@@ -28,10 +28,10 @@ average: '8.70133333333333'
 
 ℹ️:
 
-- MISSION: Costa d’Oro si impegna dal 1968 a produrre prodotti di qualità con una particolare dedizione all’innovazione e alla trasparenza.
 - CARATTERISTICHE: Prodotto esclusivamente in molini tracciabili con olive 100% italiane, lavorate a freddo il più rapidamente possibile dall’arrivo in frantoio.
 - IL PRODOTTO: Il Grezzo Costa dOro è un olio extravergine di oliva non sottoposto a filtrazione, ricco in polifenoli, antiossidanti naturali che conserva la freschezza delle olive appena spremute.
 - ABBINAMENTI IDEALI: Questo olio non filtrato è perfetto quando assaporato a crudo, ma è anche ideale se abbinato a piatti caldi o in cotture lente per ammorbidire i tratti amaro e piccante o rivelare il bouquet fruttato.
+- MISSION: Costa d’Oro si impegna dal 1968 a produrre prodotti di qualità con una particolare dedizione all’innovazione e alla trasparenza.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09GKVJDJR{{</world>}}

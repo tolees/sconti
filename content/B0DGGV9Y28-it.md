@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Sapore: Il mandarino tardivo di Ciaculli è noto per il suo gusto dolce e aromatico, con un perfetto equilibrio tra acidità e dolcezza
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
+- Sapore: Il mandarino tardivo di Ciaculli è noto per il suo gusto dolce e aromatico, con un perfetto equilibrio tra acidità e dolcezza
 - Vasetto da 360 g
-- Versatile: Perfetta per la colazione su pane tostato, croissant, fette biscottate, oppure per arricchire dolci e ricette salate
 - Frutta utilizzata : Marmellata di mandarino tardivo di Ciaculli con 45 gr di frutta su 100 gr
+- Versatile: Perfetta per la colazione su pane tostato, croissant, fette biscottate, oppure per arricchire dolci e ricette salate
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DGGV9Y28{{</world>}}

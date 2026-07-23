@@ -28,11 +28,11 @@ average: '43.0666666666667'
 
 ℹ️:
 
-- Pistola ad aria compressa
-- Spray nozzle
-- Tubo a spirale 5 metri
-- Scorrere verso il basso per un confronto tra i prodotti!
 - Pistola a spruzzo 1l
+- Tubo a spirale 5 metri
+- Spray nozzle
+- Pistola ad aria compressa
+- Scorrere verso il basso per un confronto tra i prodotti!
 - Pistola soffiaggio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

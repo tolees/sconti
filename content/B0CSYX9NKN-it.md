@@ -28,8 +28,8 @@ average: '0.47'
 
 ℹ️:
 
-- SAN BENEDETTO: qualità, sicurezza e capacità innovativa, uniti a un forte rispetto del territorio e orientati verso la sostenibilità ambientale, sono valori che San Benedetto garantisce ai suoi consumatori per offrire uno standard di qualità elevato.
 - CARATTERISTICHE: Il Chinotto Passione Italiana unisce la tradizione italiana a una bevanda frizzante dal gusto deciso e dolce. Il formato da 750 mL è ideale per accompagnare i pasti o per un aperitivo rinfrescante, garantendo freschezza e gusto autentico.
+- SAN BENEDETTO: qualità, sicurezza e capacità innovativa, uniti a un forte rispetto del territorio e orientati verso la sostenibilità ambientale, sono valori che San Benedetto garantisce ai suoi consumatori per offrire uno standard di qualità elevato.
 - SOSTENIBILITÀ: San Benedetto è impegnata nella produzione sostenibile, utilizzando confezioni riciclabili in PET e promuovendo pratiche di riduzione dellimpatto ambientale. Le sue bevande sono prodotte con acqua oligominerale pura​.
 - CONTENUTO: San Benedetto Passione Italiana Clementina, è una bevanda gassata dal sapore intenso e amaro, tipico del chinotto. Ideale per chi desidera una bibita dal gusto autentico e rinfrescante, perfetta per ogni momento della giornata.
 - BENEFICI: I prodotti San Benedetto offrono freschezza e benessere a basso contenuto calorico . Combinano gusto dissetante e purezza, senza conservanti né coloranti, garantendo unesperienza sana e adatta a tutta la famiglia

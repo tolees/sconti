@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Giacca da uomo di Tom Tailor
 - Vestibilità ottimale e comfort elevato
+- Giacca da uomo di Tom Tailor
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DSQ6LTTK{{</world>}}

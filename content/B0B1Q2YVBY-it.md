@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Due volte a settimana: miscela i sali naturali e l’olio, massaggia sulla pelle umida del corpo, risciacqua. Non utilizzare sulla cute lesa, irritata o particolarmente sensibile
-- L’estratto di Bamboo svolge un’azione tonificante e nutriente sulla pelle del corpo. Trasparenti accordi acquatici, poi, rendono questo scrub un vero e proprio elisir che scioglie ogni fatica!
 - Scrub corpo anti-fatica, tonificante, a base di Sale Verde delle Hawaii ed estratto di Bamboo. Esfolia dolcemente la pelle mentre la nutre intensamente
-- Sostenibilità: vaso realizzato con il 51% di plastica riciclata, 100% riciclabile nella raccolta plastica. Astuccio realizzato con carta FSC, 100% riciclabile nella raccolta carta
 - Contiene Sale Verde delle Hawaii, noto per le sue proprietà drenanti ed esfolianti; olii naturali per assicurare un nutrimento intenso della pelle; estratto di Bambù
+- L’estratto di Bamboo svolge un’azione tonificante e nutriente sulla pelle del corpo. Trasparenti accordi acquatici, poi, rendono questo scrub un vero e proprio elisir che scioglie ogni fatica!
+- Due volte a settimana: miscela i sali naturali e l’olio, massaggia sulla pelle umida del corpo, risciacqua. Non utilizzare sulla cute lesa, irritata o particolarmente sensibile
+- Sostenibilità: vaso realizzato con il 51% di plastica riciclata, 100% riciclabile nella raccolta plastica. Astuccio realizzato con carta FSC, 100% riciclabile nella raccolta carta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B1Q2YVBY{{</world>}}

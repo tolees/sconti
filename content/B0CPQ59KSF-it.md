@@ -29,10 +29,10 @@ average: '109.55'
 ℹ️:
 
 - Questo utensile è compatibile con le cuffie di aspirazione GDE 125 EA-T Professional e GDE 115/125 FC-T Professional.
-- Ergonomia: maggiore comfort e minore affaticamento grazie alla struttura ergonomica e alle dimensioni ridotte dell’impugnatura
-- Dotazione: GWS 12-125, dado SDS, impugnatura supplementare, cuffia di protezione, cuffia di protezione antitaglio in plastica, flangia di montaggio, dado di serraggio, chiave a due perni
 - Funzioni di protezione intelligenti: la protezione contro il riavvio accidentale impedisce alla macchina di riavviarsi automaticamente dopo uninterruzione di corrente
 - Motore robusto e potente: 1.200 Watt con numero di giri a vuoto di 11.000 al min, buona resistenza al sovraccarico per un rapido avanzamento nei lavori quotidiani con il metallo
+- Ergonomia: maggiore comfort e minore affaticamento grazie alla struttura ergonomica e alle dimensioni ridotte dell’impugnatura
+- Dotazione: GWS 12-125, dado SDS, impugnatura supplementare, cuffia di protezione, cuffia di protezione antitaglio in plastica, flangia di montaggio, dado di serraggio, chiave a due perni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CPQ59KSF{{</world>}}

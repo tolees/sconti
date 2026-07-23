@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- FOR THE ACTIVE INDIVIDUAL: The perfect self-care kit for fitness enthusiasts, athletes, and anyone seeking to relieve physical tension. Ideal as a post-workout cleanse, a motivating pre-exercise ritual, or a relaxing evening wind-down to support muscle wellness.
 - COMPLETE 3-STEP RITUAL: First, massage the Bath & Body Oil into skin or add to your bath. Next, lather the Shower Gel onto damp skin and rinse. Finish by warming the Muscle Rescue Balm between your palms and massaging into tired muscles for targeted relief.
-- REFRESHING & RECHARGING AROMA: Experience a rejuvenating aromatic journey that invigorates the senses. The sharp, cool scent of peppermint and eucalyptus is balanced by the warm spice of clove and calming lavender for a truly restorative feel.
 - SOOTHE TIRED & ACHING MUSCLES: Specifically formulated to address post-workout soreness and fatigue. This collection helps to ease discomfort in tired muscles, making it the perfect remedy for an active body in need of recovery and revitalization.
 - INVIGORATING ESSENTIAL OILS: A powerful blend of invigorating Peppermint, spiced Clove, recharging Lavender, and refreshing Eucalyptus works to soothe and awaken the body, providing targeted relief and a sensory pick-me-up.
+- REFRESHING & RECHARGING AROMA: Experience a rejuvenating aromatic journey that invigorates the senses. The sharp, cool scent of peppermint and eucalyptus is balanced by the warm spice of clove and calming lavender for a truly restorative feel.
+- FOR THE ACTIVE INDIVIDUAL: The perfect self-care kit for fitness enthusiasts, athletes, and anyone seeking to relieve physical tension. Ideal as a post-workout cleanse, a motivating pre-exercise ritual, or a relaxing evening wind-down to support muscle wellness.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FJ2HP6CS{{</world>}}

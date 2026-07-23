@@ -28,12 +28,12 @@ average: '37.695'
 
 ℹ️:
 
-- Diventa un soldato scelto delle forze speciali e domina battaglie terrestri e spaziali
-- Modalità multigiocatore
-- Combattimenti spaziali su scala galattica
 - Potenzia abilità specifiche per ogni eroe, classe di soldato e caccia stellare
+- Combattimenti spaziali su scala galattica
 - Allinterno della confezione il DLC: "Gli Ultimi Jedi: Eroi"
 - Usa interventi tattici per contrastare qualsiasi avversario sul fronte della battaglia
+- Diventa un soldato scelto delle forze speciali e domina battaglie terrestri e spaziali
+- Modalità multigiocatore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B06ZZRVL23{{</world>}}

@@ -28,9 +28,9 @@ average: '25.99'
 
 ℹ️:
 
-- SOLO UN ALTRO IRREPETIBILE TENTATIVO: Non esistono due tentativi identici. Rivivi questa avventura in continua evoluzione: tra narrazione, metaprogressione, modificatori di difficoltà, eventi casuali e livelli generati proceduralmente, avrai sempre voglia di provarci ancora una volta
-- PADRONEGGIA UNO STILE VELOCE E ACROBATICO: Nei panni del Principe di Persia, lagilità è la tua arma migliore. Destreggiati tra le trappole, corri sui muri, concatena combo acrobatiche e colpisci con precisione. Ogni mossa ti offre unopportunità, e ogni scontro premierà la tua destrezza e il tuo stile
 - CAMBIA IL DESTINO. SALVA LA PERSIA. LOTTA FINO ALLA MORTE: Plasma la leggenda di un Principe scampato alla morte, il cui errore fatale ha segnato il destino del suo popolo
+- PADRONEGGIA UNO STILE VELOCE E ACROBATICO: Nei panni del Principe di Persia, lagilità è la tua arma migliore. Destreggiati tra le trappole, corri sui muri, concatena combo acrobatiche e colpisci con precisione. Ogni mossa ti offre unopportunità, e ogni scontro premierà la tua destrezza e il tuo stile
+- SOLO UN ALTRO IRREPETIBILE TENTATIVO: Non esistono due tentativi identici. Rivivi questa avventura in continua evoluzione: tra narrazione, metaprogressione, modificatori di difficoltà, eventi casuali e livelli generati proceduralmente, avrai sempre voglia di provarci ancora una volta
 - COMBATTI A MODO TUO: Scopri, sblocca e impara a usare oltre 100 armi e medaglioni differenti. Adatta, potenzia e personalizza il tuo stile di gioco a ogni tentativo, creando combinazioni letali che si adattano alle tue esigenze
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

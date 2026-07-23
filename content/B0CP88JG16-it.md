@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 100% poliestere riciclato
+- Berretto non strutturato
 - Vestibilità non strutturata
 - Lavabile a
-- Berretto non strutturato
+- 100% poliestere riciclato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CP88JG16{{</world>}}

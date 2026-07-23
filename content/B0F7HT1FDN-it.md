@@ -28,9 +28,9 @@ average: '74.99'
 
 ℹ️:
 
-- Ceramica; meccanismo in plastica
-- 26,2 x 8,3 x 25,8 cm
 - Dona un tocco di stile e personalità ai tuoi spazi con la selezione THUN di oggetti decorativi; nella nostra sezione Living troverai tutto il necessario per creare un’atmosfera accogliente; scegli i dettagli giusti per trasformare ogni angolo della tua casa in un ambiente caldo e armonioso
+- 26,2 x 8,3 x 25,8 cm
+- Ceramica; meccanismo in plastica
 - Usa esclusivamente un panno morbido asciutto per la pulizia evita che vengano a contatto con liquidi o prodotti aggressivi evita il contatto con acqua; ricorda che la ceramica è fragile e va trattata con cura; non idoneo al contatto con alimenti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

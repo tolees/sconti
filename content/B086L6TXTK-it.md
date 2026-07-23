@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Il primo snack salato dall’iconica forma a paraboloide iperbolico!
 - Snack salato, vegano
+- Il primo snack salato dall’iconica forma a paraboloide iperbolico!
 - Gustose, irresistibili e divertenti!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

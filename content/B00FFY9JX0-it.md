@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- MOCA Idonei al contatto con diverse tipologie di alimenti.
-- ASSENZA DI POLVERE: riduce anche il rischio di dermatiti e contaminazione
 - DPI Cat. 3 di rischio anche per protezione da agenti chimici e microrganismi (EN ISO 374-1:2016 e TYPE B, EN ISO 374-5:2016: guanti protettivi contro batteri e funghi).
 - DISPOSITIVO MEDICO in ambito ospedaliero e dentale (AQL 1,5), da esaminazione, anche invasiva, destinato ad un uso temporaneo (ai sensi del Reg EU 2017/745, Norme EN 455 1, 2, 3 & 4).
 - SOFT: Speciale composizione per maggiore morbidezza, elasticità e sensibilità. Finitura micro ruvida per aumentare la presa e la sensibilità tattile
+- MOCA Idonei al contatto con diverse tipologie di alimenti.
+- ASSENZA DI POLVERE: riduce anche il rischio di dermatiti e contaminazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00FFY9JX0{{</world>}}

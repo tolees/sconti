@@ -29,11 +29,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - SBIANCANTE: Usato regolarmente favorisce il ripristino del bianco naturale dei denti, per un sorriso bianco più a lungo.
-- CARATTERISTICHE: 0% Fluoro, coloranti, SLS; antibatterico, anticarie; certificato ECO BIO Cosmetics presso ICEA.
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
 - ALTA QUALITÀ: Dentifricio BIO con estratto di Echinacea BIO e Licheni Islandici.
-- NATURAVERDE BIO: garantisce gesti sicuri, biologici e certificati. Tutti i prodotti per la cura del corpo e della pelle Naturaverde BIO rispettano i disciplinari di ICEA, CCPB, COSMOS NATURAL e COSMOS ORGANIC, gli enti certificatori che verificano le formulazioni e l’intera filiera produttiva, garantendo la qualità biologica e rilasciando le certificazioni necessarie al giusto riconoscimento.
 - DENTIFRICIO BIO SBIANCANTE: Il dentifricio ECO-BIO Sbiancante con Estratto di Echinacea Bio e Lichene Islandico aiuta a rimuovere delicatamente le macchie senza danneggiare lo smalto.
+- CARATTERISTICHE: 0% Fluoro, coloranti, SLS; antibatterico, anticarie; certificato ECO BIO Cosmetics presso ICEA.
+- NATURAVERDE BIO: garantisce gesti sicuri, biologici e certificati. Tutti i prodotti per la cura del corpo e della pelle Naturaverde BIO rispettano i disciplinari di ICEA, CCPB, COSMOS NATURAL e COSMOS ORGANIC, gli enti certificatori che verificano le formulazioni e l’intera filiera produttiva, garantendo la qualità biologica e rilasciando le certificazioni necessarie al giusto riconoscimento.
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DDQ5874R{{</world>}}

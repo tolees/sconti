@@ -28,15 +28,15 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Pareti fredde
-- Doppia resistenza, superiore 1200W e inferiore 600W
-- Piatto in pietra refrattaria (ø 31 cm)
-- Calotta riflettente inox
-- Termostato regolabile fino a 420°C
-- Timer 30 minuti con segnale acustico
 - Potenza: 1800 W
-- Doppia spia di funzionamento
+- Timer 30 minuti con segnale acustico
+- Piatto in pietra refrattaria (ø 31 cm)
 - Pietra staccabile per pirolisi e pulizia
+- Doppia resistenza, superiore 1200W e inferiore 600W
+- Doppia spia di funzionamento
+- Termostato regolabile fino a 420°C
+- Pareti fredde
+- Calotta riflettente inox
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DQY1X6BW{{</world>}}

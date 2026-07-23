@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- MODO DUSO: Si consiglia di effettuare 2 nebulizzazioni al giorno, preferibilmente sotto la lingua, la sera poco prima di coricarsi. Agitare il flacone prima di ogni utilizzo;
 - AVVERTENZE: Tenere fuori dalla portata dei bambini. Gli integratori alimentari non vanno intesi come sostituti di una dieta variata ed equilibrata e di un sano stile di vita;
 - ALLINTERNO DELLA CONFEZIONE: Confezione con 1 flacone spray da 15 ml allaroma di Arancia. SENZA ZUCCHERI, GLUTINE e LATTOSIO. Adatto a Vegetariani e Vegani. Non superare la dose giornaliera consigliata;
-- MODO DUSO: Si consiglia di effettuare 2 nebulizzazioni al giorno, preferibilmente sotto la lingua, la sera poco prima di coricarsi. Agitare il flacone prima di ogni utilizzo;
 - CHE COSE MELATONINA ACT FORTE SPRAY? È un integratore alimentare che favorisce il rilassamento e contribuisce alla riduzione del tempo richiesto per prendere sonno;
 - BENEFICI: assumere poco prima di coricarsi. La melatonina contribuisce alla riduzione del tempo richiesto per prendere sonno. La Griffonia favorisce il rilassamento ed il sonno;
 

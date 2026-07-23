@@ -28,9 +28,9 @@ average: '30.69'
 
 ℹ️:
 
+- Ricco di frutta e verdura sane
 - Preparato con carne fresca di salmone (40%)
 - Nessuna sostanza derivata, conservanti o addensanti. Solo ingredienti sani e naturali
-- Ricco di frutta e verdura sane
 - Alimento secco, senza cereali, nutrizionalmente completo per cani adulti a partire da 4 mesi di età
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

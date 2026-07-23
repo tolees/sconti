@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 【Capacità espandibile da 1 a 3 kWh】Con la centrale elettrica portatile standalone che offre una capacità di 1 kWh, puoi aggiungere batterie supplementari per raggiungere fino a 3 kWh. Ideale per il campeggio, il camper e la vita off-grid.
 - 【Ricarica 7 volte più veloce】Un generatore solare che si ricarica rapidamente. Passa da 0 a 80% in 50 minuti. È ideale quando si ha bisogno di un’alimentazione domestica di emergenza e di una ricarica rapida usando una presa a muro.
-- 【Ricarica pulita ed ecologica】Con un ingresso fino a 500 W per il pannello solare, DELTA 2 è un generatore solare che può essere ricaricato mentre sei in campeggio, durante un viaggio in camper o mentre sei scollegato dalla rete.
 - 【Costruita per durare 6 volte più a lungo】La chimica della batteria LFP consente di ottenere una power station portatile con un durata di oltre 3000 cicli. sufficienti per anni di uso ininterrotto. Grazie a un sofisticato sistema BMS, puoi stare tranquillo sapendo che la sua batteria portatile a regolazione automatica ti manterrà al sicuro.
+- 【Capacità espandibile da 1 a 3 kWh】Con la centrale elettrica portatile standalone che offre una capacità di 1 kWh, puoi aggiungere batterie supplementari per raggiungere fino a 3 kWh. Ideale per il campeggio, il camper e la vita off-grid.
 - 【Alimenta praticamente tutto】Le batterie portatili hanno fatto molta strada. Alimenta tutti i tuoi dispositivi con un’uscita da 1800 W, allo stesso livello di altri generatori per uso esterno, ma senza esalazioni né rumore. Con 13 prese e la sua eccezionale uscita, consente di alimentare il 90% dei tuoi dispositivi.
+- 【Ricarica pulita ed ecologica】Con un ingresso fino a 500 W per il pannello solare, DELTA 2 è un generatore solare che può essere ricaricato mentre sei in campeggio, durante un viaggio in camper o mentre sei scollegato dalla rete.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BBLV8WJH{{</world>}}

@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Prodotto 2: prima preparare lacqua frizzante
-- Prodotto 1: successivamente versare lentamente il concentrato allinterno della bottiglia
 - Prodotto 1: per preparare fino a 9 litri di bibita gassata
-- Prodotto 1: pack da 440 ml
-- Prodotto 2: pack da 440 ml
-- Prodotto 1: preparare prima lacqua frizzante
-- Prodotto 2: per preparare fino a 9 litri di Pepsi regular
 - Prodotto 2: successivamente versare lentamente il concentrato allinterno della bottiglia
+- Prodotto 1: preparare prima lacqua frizzante
+- Prodotto 2: prima preparare lacqua frizzante
+- Prodotto 2: per preparare fino a 9 litri di Pepsi regular
+- Prodotto 2: pack da 440 ml
+- Prodotto 1: successivamente versare lentamente il concentrato allinterno della bottiglia
+- Prodotto 1: pack da 440 ml
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C4KZXSYT{{</world>}}

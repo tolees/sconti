@@ -28,11 +28,11 @@ average: '6.99'
 
 ℹ️:
 
-- Certificazione USB-IF, collega qualsiasi dispositivo USB-C a qualsiasi dispositivo USB-A standard. Per il trasferimento di energia e la ricarica di smartphone, batterie esterne, caricabatterie da parete/da auto e dispositivi a basso consumo. Adatto per il trasferimento di dati tra smartphone, tablet, laptop, dischi rigidi e altro ancora. Nota: rimuovere la custodia per caricare iPhone 15/iPhone 15 Pro/iPhone 15 Pro Max/iPhone 15 Plus.
+- Nota: lo spessore del connettore USB-C è 7,2mm. Per una connessione più sicura, rimuovere la custodia del telefono/tablet durante la ricarica
+- Carica e trasferimento dati veloci: Supporta la ricarica rapida fino a 15 W (5 V/3 A) e velocità di trasferimento dati fino a 5Gbps. Non superare il carico consigliato (15 W, 5 V/3 A). Velocità di ricarica limitata per i dispositivi abilitati PD
 - Maggiore resistenza: Testato per piegarsi 2.000 volte a 95 gradi. Doppio intreccio in nylon per garantire resistenza, flessibilità, riduzione dello sfilacciamento e maggiore durata
 - Contenuto della confezione: 1 cavo da 15 W da USB-C 3.1 Gen 1 a USB-A da 183 cm per la ricarica e lalimentazione dei dispositivi e il trasferimento di dati, foto e musica. Compatibile con USB 3.0 e 2.0
-- Carica e trasferimento dati veloci: Supporta la ricarica rapida fino a 15 W (5 V/3 A) e velocità di trasferimento dati fino a 5Gbps. Non superare il carico consigliato (15 W, 5 V/3 A). Velocità di ricarica limitata per i dispositivi abilitati PD
-- Nota: lo spessore del connettore USB-C è 7,2mm. Per una connessione più sicura, rimuovere la custodia del telefono/tablet durante la ricarica
+- Certificazione USB-IF, collega qualsiasi dispositivo USB-C a qualsiasi dispositivo USB-A standard. Per il trasferimento di energia e la ricarica di smartphone, batterie esterne, caricabatterie da parete/da auto e dispositivi a basso consumo. Adatto per il trasferimento di dati tra smartphone, tablet, laptop, dischi rigidi e altro ancora. Nota: rimuovere la custodia per caricare iPhone 15/iPhone 15 Pro/iPhone 15 Pro Max/iPhone 15 Plus.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07D7TXTPP{{</world>}}

@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Vaporizzare abbondantemente Calvin Klein Eternity Eau de Parfum Intense for Her sui punti di pulsazione e sulle zone calde: polsi, interno dei gomiti, collo e anche dietro alle ginocchia.
 - Assoluta di rosa turca
-- Pepe di Sichuan
 - Assoluta di gelsomino sambac
+- Pepe di Sichuan
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BKJRPTPS{{</world>}}

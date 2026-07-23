@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- ✅ ARNICA CREMA EFFETTO RISCALDANTE: questa crema è stata formulata seguendo le più recenti ed innovative conoscenze, per offrire una crema corpo a base di Arnica, estratto di Peperoncino e olio essenziale di Rosmarino indicata per le zone cutanee sottoposte a sollecitazioni meccaniche. La Crema che dona da subito sollievo e una rapida sensazione di benessere
 - ✅ PROFESSIONALITÀ E SICUREZZA: Oltre 40 anni fa, dalla passione per le terapie naturali del dr. Peter Theiss, farmacista ricercatore tedesco, nasce Naturwaren, azienda capace di realizzare prodotti di alta qualità a prezzi competitivi, secondo natura e salute
 - ✅ NATURA E SALUTE: Le preparazioni a base di arnica per uso locale esterno sulla pelle, sono state da tempo approvate dalle autorità tedesche: nel 1984, la Commissione tedesca ha pubblicato una monografia, nella quale si afferma che i preparati a base di fiori di arnica, sono benefici. Non è arnica per cavalli, ma nasce per esclusivo uso umano
 - ✅ ALTA QUALITÀ ED EFFICACIA: Formulazione in crema per la pelle del corpo ad alta concentrazione. Con Arnica, Peperoncino, Canfora e Oli essenziali di Rosmarino Sesamo Abete Siberiano 50 ml, per un effetto termico riscaldante e rilassante
 - ✅ MODALITÀ DUSO: Applicare la crema all arnica sulle zone interessate con un leggero massaggio dona un effetto riscaldante e sostituisce il termoforo e la scomoda borsa di acqua calda
-- ✅ ARNICA CREMA EFFETTO RISCALDANTE: questa crema è stata formulata seguendo le più recenti ed innovative conoscenze, per offrire una crema corpo a base di Arnica, estratto di Peperoncino e olio essenziale di Rosmarino indicata per le zone cutanee sottoposte a sollecitazioni meccaniche. La Crema che dona da subito sollievo e una rapida sensazione di benessere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00VXD970W{{</world>}}

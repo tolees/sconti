@@ -28,9 +28,9 @@ average: '38.72'
 
 ℹ️:
 
-- Dell Peripheral Manager lets you customise your accessories to elevate your workflow. Make DPI adjustments and configure the programmable buttons to your frequently used commands to empower productivity.
 - Enjoy six months of battery life when you charge it fully in just three hours. A quick, two-minute charge via the included USB-C cable will guarantee you a day’s work of uninterrupted performance.
 - Never lose the universal pairing receiver thanks to the dedicated dongle slot which allows you to conveniently keep it within the mouse when not in use.
+- Dell Peripheral Manager lets you customise your accessories to elevate your workflow. Make DPI adjustments and configure the programmable buttons to your frequently used commands to empower productivity.
 - Connect and switch effortlessly across three devices with the dual mode RF 2.4 GHz wireless and Bluetooth connectivity.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

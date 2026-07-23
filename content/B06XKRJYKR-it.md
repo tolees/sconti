@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Le catene in metallo resistenti offrono un forte supporto. Godetevi il tempo libero senza lavorare
 - Ideale per luso in giardino o patio, il colore naturale si fonde facilmente con i mobili e le decorazioni da esterno
-- Capacità di peso: 350 libbre
 - Legno Meranti Rosso Scuro trattato con olio di teak più durevole e resistente allacqua
+- Capacità di peso: 350 libbre
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B06XKRJYKR{{</world>}}

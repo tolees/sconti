@@ -28,10 +28,10 @@ average: '12.49'
 
 ℹ️:
 
+- Basic, Biker, Streetwear
 - Leggings con le seguenti caratteristiche:
 - Vestibilità : Normale
 - Leggings || Lunghezza: Normale || altezza della cintura: Vita media
-- Basic, Biker, Streetwear
 - Scopri tutti i top brand su EMP!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- I prodotti internazionali hanno termini diversi, sono venduti dallestero e possono differire dai prodotti locali, compresi il formato, le indicazioni e la lingua del prodotto, delletichettatura o delle istruzioni.
-- 4. Impostazione del timer e condivisione familiare Automatizza le tue persiane a casa tramite tre tipi di orario: programmazione, controllo del tempo di conto alla rovescia e tempo in loop. Anche la condivisione dei dispositivi per i membri della tua famiglia per controllare insieme i dispositivi connessi, supporta un controllo mobile e più telefoni per controllarne uno.
 - 2. RF & WIRELESS TELECOMANDO DISPONIBILE Attiva questa opzione per controllare da remoto i dispositivi connessi sullo smartphone da qualsiasi luogo. Le reti 2,4 b/g/n forniscono la connessione necessaria al modulo switch fai da te, richiedendo un gateway Tuya ZigBee separato. (Compatibile con Android e iOS per Smart Life e Tuya app.)
+- I prodotti internazionali hanno termini diversi, sono venduti dallestero e possono differire dai prodotti locali, compresi il formato, le indicazioni e la lingua del prodotto, delletichettatura o delle istruzioni.
 - 1. Utilizzare con molta più comodità con la funzione di arresto su interruttori convenzionali: che funziona con il tuo interruttore convenzionale per realizzare intelligenza. Premere linterruttore convenzionale una volta dopo essere passato a su/giù (sullo stesso pulsante) per fermare facilmente le tende manualmente. Può anche essere collegato al motore della tapparella o della tenda della catena per controllare in modo intelligente le tende.
 - 5. Nota prima di ordinare: 1. Si prega di verificare se il motore ha 4 fili prima di effettuare lordine. (Nota: il motore non è incluso e deve essere acquistato separatamente.) 2. Questo modulo interruttore tapparella non può funzionare con motori DC. 3. Si prega di utilizzare questo modulo con linterruttore del telecomando RF433. (È richiesta solo la codifica 1527.
+- 4. Impostazione del timer e condivisione familiare Automatizza le tue persiane a casa tramite tre tipi di orario: programmazione, controllo del tempo di conto alla rovescia e tempo in loop. Anche la condivisione dei dispositivi per i membri della tua famiglia per controllare insieme i dispositivi connessi, supporta un controllo mobile e più telefoni per controllarne uno.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B091CZ4L4W{{</world>}}

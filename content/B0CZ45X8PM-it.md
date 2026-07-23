@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- CONTENUTO: La confezione include 50 capsule compatibili con sistema Nespresso, con caffè torrefatto e macinato, sigillate in atmosfera protettiva per garantire freschezza e intensità aromatica fino all’ultimo sorso
 - CARATTERISTICHE: Un espresso dalla crema vellutata e dal gusto rotondo, perfetto per chi ama un caffè equilibrato e morbido al palato. L’aroma avvolgente e le sue sfumature tostate lo rendono ideale per ogni momento della giornata
 - SOSTENIBILITÀ: Gimoka è impegnata nella produzione responsabile del caffè, adottando processi sostenibili per ridurre l’impatto ambientale e garantire un prodotto di alta qualità rispettando le risorse naturali
-- MISCELA: Espresso Cremoso di Gimoka è una miscela armoniosa e raffinata, dal profilo dolce e bilanciato. La sua media corposità e la delicata acidità esaltano le note aromatiche di nocciola e frutta secca
+- CONTENUTO: La confezione include 50 capsule compatibili con sistema Nespresso, con caffè torrefatto e macinato, sigillate in atmosfera protettiva per garantire freschezza e intensità aromatica fino all’ultimo sorso
 - GIMOKA, tra le principali torrefazioni italiane da 40 anni, seleziona caffè da 17 paesi per oltre 90 miscele. Con 3 siti produttivi, offre caffè in grani, macinato, cialde e capsule compatibili, portando l’autentico espresso italiano in 50 paesi.
+- MISCELA: Espresso Cremoso di Gimoka è una miscela armoniosa e raffinata, dal profilo dolce e bilanciato. La sua media corposità e la delicata acidità esaltano le note aromatiche di nocciola e frutta secca
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZ45X8PM{{</world>}}

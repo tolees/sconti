@@ -28,11 +28,11 @@ average: '18.32'
 
 ℹ️:
 
+- RICCA IN VITAMINE E NON SOLO: Contiene vitamina B2, B12 e D. Con calcio aggiunto e naturalmente povero di grassi saturi
+- NATURALMENTE SENZA LATTOSIO E PROTEINE DEL LATTE VACCINO. Senza zuccheri né edulcoranti aggiunti. SENZA GLUTINE
 - Tutte le tipologie di Barista Alpro lavorano al meglio se conservati al fresco, quindi è fondamentale tenerli in frigo fino a quando non li usi. Se vuoi puntare sul caldo, per Cocco raccomandiamo i 65 gradi
 - Creata insieme ai baristi professionisti per offrirti un prodotto che sia facile da montare, che si abbini al tuo caffè preferito e crei quella microschiuma deliziosa per sperimentare con la Latte Art
-- NATURALMENTE SENZA LATTOSIO E PROTEINE DEL LATTE VACCINO. Senza zuccheri né edulcoranti aggiunti. SENZA GLUTINE
 - MULTIPACK: 8 confezioni da 1 Litro. Con questo prodotto stai contribuendo a un futuro più sostenibile per il nostro PIANETA. Questo pack è composto da 88% di materiale di origine vegetale.
-- RICCA IN VITAMINE E NON SOLO: Contiene vitamina B2, B12 e D. Con calcio aggiunto e naturalmente povero di grassi saturi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B092QN7HXR{{</world>}}

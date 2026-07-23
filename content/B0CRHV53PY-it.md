@@ -28,11 +28,11 @@ average: '12.99'
 
 ℹ️:
 
-- COMPATIBILE CON IL CAMPANELLO SMART DI YALE: il campanello Yale funziona solo con il campanello Yale Smart Video
 - AUDIO E VOLUME PERSONALIZZABILI: 7 toni Yale unici tra cui scegliere, con volume regolabile e modalità non disturbare
+- COMPATIBILE CON IL CAMPANELLO SMART DI YALE: il campanello Yale funziona solo con il campanello Yale Smart Video
+- AVVISI IN TEMPO REALE: senti in modo chiaro gli avvisi acustici nella tua casa quando un visitatore suona il campanello smart di Yale. Puoi posizionare fino a 6 Chime in giro per casa per assicurarti di sentire sempre il campanello, ovunque tu sia
 - AMPIA COPERTURA WIRELESS: il tuo campanello può comunicare con il campanello Smart di Yale fino a 100 m di distanza (con una linea visiva pulita) o fino a 50 m di distanza (con muri/ostacoli in casa, ecc.)
 - FACILE INSTALLAZIONE: collegalo alla presa di corrente a muro e associa il dispositivo al tuo campanello Yale Smart Video
-- AVVISI IN TEMPO REALE: senti in modo chiaro gli avvisi acustici nella tua casa quando un visitatore suona il campanello smart di Yale. Puoi posizionare fino a 6 Chime in giro per casa per assicurarti di sentire sempre il campanello, ovunque tu sia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CRHV53PY{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Colore: caratterizzato da un colore marrone ambrato, con sfumature ramate
-- Come servirlo: da gustare lentamente con due cubetti di ghiaccio
 - Profilo sensoriale: amaro dal profilo balsamico inconfondibile, caratterizzato dagli aromi e i sapori propri della natura del Parco Nazionale dello Stelvio, che rilasciano al naso note di legno e radici completati da sentori rinfrescanti di ginepro, erbe aromatiche e assenzio sul finale, rilasciando al palato un gusto robusto e intenso di erbe e olii essenziali
-- Metodo di produzione: ottenuto da erbe e piante officinali e invecchiato in botti rovere di Slavonia per almeno 15 mesi; subisce un processo di filtrazione artigianale che conferisce allamaro un aspetto rotondo e balsamico
 - Amaro alle erbe dal piacevole retrogusto fresco e intenso con note amare piacevoli e persistenti; considerato il simbolo autentico e genuino della Valtellina
+- Metodo di produzione: ottenuto da erbe e piante officinali e invecchiato in botti rovere di Slavonia per almeno 15 mesi; subisce un processo di filtrazione artigianale che conferisce allamaro un aspetto rotondo e balsamico
+- Come servirlo: da gustare lentamente con due cubetti di ghiaccio
+- Colore: caratterizzato da un colore marrone ambrato, con sfumature ramate
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00I2RKICI{{</world>}}

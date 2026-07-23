@@ -28,9 +28,9 @@ average: '22.89'
 
 ℹ️:
 
-- VESTIBILITÀ REGOLARE: vestibilità confortevole e comoda su spalle, torace e vita.
-- IL LOOK PER LA STAGIONE FREDDA: rimani al caldo con questo versatile e leggero gilet piumino resistente allacqua, dotato di una zip centrale anteriore a tutta lunghezza e di un colletto rigido.
 - DETTAGLI: collo rigido, due tasche per mani con zip e giromanica e orlo inferiore elasticizzati. Il gilet si ripone facilmente nel sacchetto incluso con chiusura a coulisse.
+- IL LOOK PER LA STAGIONE FREDDA: rimani al caldo con questo versatile e leggero gilet piumino resistente allacqua, dotato di una zip centrale anteriore a tutta lunghezza e di un colletto rigido.
+- VESTIBILITÀ REGOLARE: vestibilità confortevole e comoda su spalle, torace e vita.
 - TAFFETÀ IN NYLON RESISTENTE ALLACQUA: esterno e fodera in nylon. Completamente foderato, trapuntato e impermeabile. (esterno e tessuto della fodera in 100% poliestere nella colorazione stampa Marble).
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

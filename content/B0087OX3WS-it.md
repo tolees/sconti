@@ -28,11 +28,11 @@ average: '5.5'
 
 ℹ️:
 
+- 100% Made in Italy: produzione italiana con materiali selezionati, garanzia di tradizione, affidabilità e cura dei dettagli.
+- 100% plastica resistente: impermeabili, antigraffio e lavabili, ideali per un uso intenso e duraturo.
 - Qualità Modiano: colori vivaci, simboli nitidi e flessibilità per una presa comoda e confortevole.
 - Carte da gioco regionali piacentine: mazzo tradizionale perfetto per appassionati dei giochi regionali italiani.
 - Adatte ai giochi classici italiani: perfette per scopa, briscola, tresette e solitari.
-- 100% plastica resistente: impermeabili, antigraffio e lavabili, ideali per un uso intenso e duraturo.
-- 100% Made in Italy: produzione italiana con materiali selezionati, garanzia di tradizione, affidabilità e cura dei dettagli.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0087OX3WS{{</world>}}

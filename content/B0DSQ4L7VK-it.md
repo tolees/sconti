@@ -28,11 +28,11 @@ average: '76.38'
 
 ℹ️:
 
-- Leggero e resistente: con soli 72 g di peso e fino a 90 ore di durata della batteria con polling a 1 kHz, ideale per lunghe sessioni di gioco senza ricarica
-- Pieno controllo con HyperX NGENUITY: personalizza le assegnazioni dei tasti, le impostazioni DPI e lilluminazione RGB per ottimizzare lesperienza di gioco in base alle tue esigenze
 - Prestazioni precise con polling wireless 4K: vivi un gameplay fluido e senza ritardi con il polling wireless 4K di prima classe e una risposta fulminea per un gioco competitivo
-- Massima adattabilità per ogni stile di gioco: con un massimo di 16 combinazioni modulari, il mouse offre tasti laterali personalizzabili, vassoi intercambiabili e impugnature senza bisogno di attrezzi
+- Pieno controllo con HyperX NGENUITY: personalizza le assegnazioni dei tasti, le impostazioni DPI e lilluminazione RGB per ottimizzare lesperienza di gioco in base alle tue esigenze
 - Connettività a doppia modalità: scegli tra dongle wireless ultraveloce da 2.4 GHz o Bluetooth per giochi flessibili e connettività senza interruzioni con Instant Pair per laptop OMEN Gaming
+- Massima adattabilità per ogni stile di gioco: con un massimo di 16 combinazioni modulari, il mouse offre tasti laterali personalizzabili, vassoi intercambiabili e impugnature senza bisogno di attrezzi
+- Leggero e resistente: con soli 72 g di peso e fino a 90 ore di durata della batteria con polling a 1 kHz, ideale per lunghe sessioni di gioco senza ricarica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DSQ4L7VK{{</world>}}

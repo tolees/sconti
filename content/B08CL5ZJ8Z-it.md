@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Caratteristiche |Gusto ricco, genuino e bilanciato, dalla consistenza rustica. Il profumo fragrante del basilico esalta il sapore naturale del pomodoro Rossoro.
-- Mutti | Dal 1899 Mutti si impegna a valorizzare la qualità del pomodoro italiano, dal campo direttamente alla tavola, con una filiera controllata e certificata.
 - Qualità | I migliori pomodori Rossoro 100% italiani ed il basilico genovese DOP vengono selezionati con cura e lavorati in modo da preservare tutto il loro sapore.
-- Utilizzo | Ideale per condire piatti di pasta in modo semplice, ma raffinato. Perfetto anche come base per ricette più elaborate. Pronto alluso, esprime tutto il sapore della cucina italiana autentica.
+- Mutti | Dal 1899 Mutti si impegna a valorizzare la qualità del pomodoro italiano, dal campo direttamente alla tavola, con una filiera controllata e certificata.
+- Caratteristiche |Gusto ricco, genuino e bilanciato, dalla consistenza rustica. Il profumo fragrante del basilico esalta il sapore naturale del pomodoro Rossoro.
 - Ingredienti | Realizzato con una selezione di pomodori Rossoro 100% italiani e basilico genovese DOP.
+- Utilizzo | Ideale per condire piatti di pasta in modo semplice, ma raffinato. Perfetto anche come base per ricette più elaborate. Pronto alluso, esprime tutto il sapore della cucina italiana autentica.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08CL5ZJ8Z{{</world>}}

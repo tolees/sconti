@@ -28,11 +28,11 @@ average: '4.62'
 
 ℹ️:
 
+- OLIO DI MANDORLE PURO: Olio vegetale, 100% di origine naturale, ottenuto da spremitura a freddo, che nutre, protegge e rende morbida la pelle del corpo senza ungere
 - COSA CONTIENE: 100% ingredienti di origine naturale, senza parabeni, petrolati, peg, coloranti, profumazione aggiunta
+- EQUILIBRA: Da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto dellequilibrio tra rispetto, efficacia, benessere e bellezza
 - NUTRIENTE ED ELASTICIZZANTE: erogare sul palmo della mano e applicare sull’area interessata, massaggiando fino a completo assorbimento. Utilizzo su seno, pancia, glutei, gambe
 - CARATTERISTICHE: Nutriente ed elasticizzante. Le sue proprietà elasticizzanti aiutano a prevenire le smagliature durante la gravidanza o durante una dieta ipocalorica
-- EQUILIBRA: Da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto dellequilibrio tra rispetto, efficacia, benessere e bellezza
-- OLIO DI MANDORLE PURO: Olio vegetale, 100% di origine naturale, ottenuto da spremitura a freddo, che nutre, protegge e rende morbida la pelle del corpo senza ungere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FHW77PXF{{</world>}}

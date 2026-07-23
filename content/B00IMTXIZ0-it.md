@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Marca: clinique
 - Nome della fragranza: floreale
-- Prodotto in italy
 - Prodotto di alta qualità
+- Prodotto in italy
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00IMTXIZ0{{</world>}}

@@ -29,11 +29,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - REGALO PER I FAN DELLAUTOMOBILISMO: unottima idea regalo per un uomo, una donna o un adolescente amanti dei modellini Ferrari F1 e delle auto da corsa, con cui festeggiare un compleanno o unoccasione speciale
-- DECORAZIONE DI CASA O DELLUFFICIO: un gadget Scuderia Ferrari di Leclerc da mettere in mostra come decorazione da mensola o da scaffale, insieme agli altri set sportivi di caschi LEGO da collezione, disponibili a parte
-- CASCO LEGO F1: crea un gadget Ferrari da F1 con il modellino da costruire LEGO Editions Casco di Charles Leclerc Scuderia Ferrari HP, un set per fan adulti, ragazzi e ragazze da 14 anni in su
-- MINIFIGURE DEL PILOTA: questa replica da esposizione per larredamento di casa include la minifigure di Charles Leclerc e una targhetta stampata con la sua firma
-- DETTAGLI AUTENTICI: il modellino di casco di Leclerc da F1 LEGO è nel colore Rosso Corsa di Ferrari, ha il logo del Cavallino Rampante sul davanti e il numero 16 del pilota, e comprende anche i nomi di "Papa" e "Jules"
 - SET DA COLLEZIONARE: esplora la gamma LEGO Editions per scoprire altri set ispirati alla Formula 1 (disponibili separatamente), per far emozionare i fan degli sport motoristici di tutte le età
+- DETTAGLI AUTENTICI: il modellino di casco di Leclerc da F1 LEGO è nel colore Rosso Corsa di Ferrari, ha il logo del Cavallino Rampante sul davanti e il numero 16 del pilota, e comprende anche i nomi di "Papa" e "Jules"
+- DECORAZIONE DI CASA O DELLUFFICIO: un gadget Scuderia Ferrari di Leclerc da mettere in mostra come decorazione da mensola o da scaffale, insieme agli altri set sportivi di caschi LEGO da collezione, disponibili a parte
+- MINIFIGURE DEL PILOTA: questa replica da esposizione per larredamento di casa include la minifigure di Charles Leclerc e una targhetta stampata con la sua firma
+- CASCO LEGO F1: crea un gadget Ferrari da F1 con il modellino da costruire LEGO Editions Casco di Charles Leclerc Scuderia Ferrari HP, un set per fan adulti, ragazzi e ragazze da 14 anni in su
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FPXFDFV8{{</world>}}

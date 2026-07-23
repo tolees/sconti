@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- RGB & 3 temperature di colore: Offre luce calda, neutra e fredda (2700–6500K) più modalità RGB con 9 colori e 2 effetti dinamici per creare l’atmosfera perfetta in ogni occasione.
 - Senza fili & impermeabile IP54: Portatile e resistente agli schizzi, perfetta per uso interno o esterno: terrazza, giardino, bar o balcone. Combina design e praticità per ogni spazio.
 - Funzione memoria & luce morbida: La lampada memorizza l’ultima impostazione. La transizione di 0,3 s assicura una variazione fluida, proteggendo la vista e creando un ambiente rilassante.
-- Controllo touch semplice: Due pulsanti tattili separati: uno per accendere/spegnere, l’altro per regolare intensità e colore. Regolazione continua dal 10% al 100% per la luce desiderata.
 - Indicatore LED & lunga durata: Con indicatore LED a 3 livelli (35/70/100 %), mostra lo stato della batteria. Batteria da 4000 mAh per fino a 24 ore di luce, con ricarica in 3–6 ore a seconda della luminosità.
+- RGB & 3 temperature di colore: Offre luce calda, neutra e fredda (2700–6500K) più modalità RGB con 9 colori e 2 effetti dinamici per creare l’atmosfera perfetta in ogni occasione.
+- Controllo touch semplice: Due pulsanti tattili separati: uno per accendere/spegnere, l’altro per regolare intensità e colore. Regolazione continua dal 10% al 100% per la luce desiderata.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FPQMHHMX{{</world>}}

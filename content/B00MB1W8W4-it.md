@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- ArtBook ONE è il perfetto album da disegno per studenti di Canson. Dimensioni: 14 x 21,6 cm e include 100 fogli di carta da disegno da 100 g/m².
+- Include carta da disegno bianca naturale di alta qualità e priva di acidi di Canson. Questa carta resiste a cancellazioni ripetute senza danni alla superficie della carta.
 - Questo album da disegno è rigido e presenta una copertina nera rigida molto resistente con una trama simile a tela.
 - ArtBook ONE è perfetto da usare con matita, carbone, pastello o pennarello, nonché per prendere appunti.
-- Include carta da disegno bianca naturale di alta qualità e priva di acidi di Canson. Questa carta resiste a cancellazioni ripetute senza danni alla superficie della carta.
+- ArtBook ONE è il perfetto album da disegno per studenti di Canson. Dimensioni: 14 x 21,6 cm e include 100 fogli di carta da disegno da 100 g/m².
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00MB1W8W4{{</world>}}

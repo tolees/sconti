@@ -28,8 +28,8 @@ average: '15.39'
 
 ℹ️:
 
-- Azione: grazie ai tensioattivi di origine vegetale pulisce e smacchia rapidamente tutte le superfici lavabili di casa, rendendole brillanti e senza lasciare aloni
 - Prodotto: detergente spray multiuso indicato per la pulizia di vetri, cristalli e superfici lavabili; formulato con materie prime di origine naturale nel rispetto dellambiente
+- Azione: grazie ai tensioattivi di origine vegetale pulisce e smacchia rapidamente tutte le superfici lavabili di casa, rendendole brillanti e senza lasciare aloni
 - Dove usare: indicato per la pulizia di vetri, specchi, cristalli e per tutte le superfici lavabili tra cui porte, mobili, piastrelle, lampadari e piani di lavoro
 - Ipoallergenico: detergente multiuso ecocompatibile e dermocompatibile, testato su pelli sensibili, limita linsorgenza di reazioni avverse e allergie
 - Sostenibilità: prodotti dalla ridotta impronta ambientale, realizzati con materie prime di origine vegetale provenienti da fonti rinnovabili e completamente biodegradabili

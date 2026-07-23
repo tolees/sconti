@@ -28,11 +28,11 @@ average: '36.44'
 
 ℹ️:
 
+- Quando saranno passati abbastanza anni, vostro figlio sarà abbastanza grande per scegliere il proprio destino professionale; decideranno di ereditare la fattoria o avranno unaltra vocazione
 - Un personaggio completamente personalizzabile, compreso il genere maschile, femminile o non binario
 - Rivivete una storia amata, con una grafica ottimizzata, animazioni e ulteriori aggiornamenti, per portare Una vita bella a una generazione
-- Vivere una vita spensierata nella fattoria, coltivando la terra e allevando il bestiame; fondate la vostra casa con animali simpatici, colture ibride e strutture aggiornabili
 - Stringete amicizie tra laffascinante cast di pacifici abitanti della Forgotten Valley e imparate a conoscerli attraverso dei eventi
-- Quando saranno passati abbastanza anni, vostro figlio sarà abbastanza grande per scegliere il proprio destino professionale; decideranno di ereditare la fattoria o avranno unaltra vocazione
+- Vivere una vita spensierata nella fattoria, coltivando la terra e allevando il bestiame; fondate la vostra casa con animali simpatici, colture ibride e strutture aggiornabili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BK7959ZN{{</world>}}

@@ -28,11 +28,11 @@ average: '34.5736363636363'
 
 ℹ️:
 
-- MOTORE 400W E 2 VELOCITÀ: il motore raffreddato ad aria da 400 watt raggiunge una velocità massima di 19.000 giri/min; i 2 livelli di velocità permettono di lavorare ingredienti di diversa consistenza, sia morbidi che duri
-- PULIZIA SEMPLICE: le componenti removibili (setaccio, contenitori, coperchio) sono facili da smontare; il micro-setaccio in acciaio inox si pulisce facilmente sotto lacqua corrente, anche grazie alla spazzola di pulizia inclusa nella confezione
-- DESIGN E MATERIALI IN ACCIAIO INOX: il pratico tubo di inserimento (diametro 6 cm) permette di inserire pezzi di frutta e verdura; il corpo macchina, il micro-setaccio filtrante e le lame sono realizzati in acciaio inossidabile
 - SICUREZZA E FUNZIONE ANTIGOCCIA: il beccuccio in acciaio inox è dotato di un sistema antigoccia per mantenere pulite le superfici; la chiusura di sicurezza integrata e i piedini antiscivolo garantiscono stabilità e un utilizzo sicuro
+- PULIZIA SEMPLICE: le componenti removibili (setaccio, contenitori, coperchio) sono facili da smontare; il micro-setaccio in acciaio inox si pulisce facilmente sotto lacqua corrente, anche grazie alla spazzola di pulizia inclusa nella confezione
 - CONTENITORI SEPARATI: include un contenitore per il succo da 0,5 litri (100% bpa free) con coperchio separatore di schiuma; lampio contenitore per la polpa (gli scarti) è rimovibile e ha una capacità di 1,5 litri
+- MOTORE 400W E 2 VELOCITÀ: il motore raffreddato ad aria da 400 watt raggiunge una velocità massima di 19.000 giri/min; i 2 livelli di velocità permettono di lavorare ingredienti di diversa consistenza, sia morbidi che duri
+- DESIGN E MATERIALI IN ACCIAIO INOX: il pratico tubo di inserimento (diametro 6 cm) permette di inserire pezzi di frutta e verdura; il corpo macchina, il micro-setaccio filtrante e le lame sono realizzati in acciaio inossidabile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01NCS45TV{{</world>}}

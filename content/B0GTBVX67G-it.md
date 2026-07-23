@@ -29,8 +29,8 @@ average: '24.99'
 ℹ️:
 
 - Grilletti a impulsi regolabili a 2 corse - Regola la sensibilità del grilletto grazie a due corse che ti consentono di personalizzare la distanza di tiro in base alle tue preferenze o al tuo stile di gioco
-- Levette a effetto Hall - I sensori magnetici a effetto Hall offrono un controllo fluido e preciso ed eliminano il drift degli stick, garantendo unaccuratezza a lunga durata e prestazioni affidabili
 - Companion app Control Hub:Scarica la companion app Control Hub, disponibile per le console Xbox e i PC Windows, per una configurazione e una diagnosi rapide e semplici del controller
+- Levette a effetto Hall - I sensori magnetici a effetto Hall offrono un controllo fluido e preciso ed eliminano il drift degli stick, garantendo unaccuratezza a lunga durata e prestazioni affidabili
 - Comandi audio brevettati - Regola facilmente laudio grazie ai comandi del D-pad per il mix gioco/chat e il volume principale e a un pulsante dedicato per silenziare il microfono
 - Con licenza ufficiale per Xbox e PC - Il controller Rematch Core è dotato di licenza di gioco ufficiale per Xbox Series X, Xbox Series S, Xbox One e PC Windows 10 e 11 con unaffidabile connessione cablata USB-C da 2,5 m
 

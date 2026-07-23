@@ -29,8 +29,8 @@ average: '189.99'
 ℹ️:
 
 - MODALITÀ AUTOMATICHE, MANUALI E PREIMPOSTATE: i frullatori Ninja Detect ti permettono di avere il massimo controllo in cucina. Scopri la tecnologia automatica BlendSense, le 10 velocità e le pratiche modalità preimpostate. Ricettario incluso
-- 3 ELETTRODOMESTICI IN 1: frullatore a caraffa, robot da cucina e frullatore monoporzione salvaspazio. Prepara un caffè freddo per i tuoi viaggi direttamente nel bicchiere monoporzione. Impasta nel robot o prepara cocktail nella caraffa grande
 - DIMENSIONI: A: 44,5 cm x L: 21 cm x P: 17,5 cm. Peso: 6,3 kg. Colore: Pietra oro.
+- 3 ELETTRODOMESTICI IN 1: frullatore a caraffa, robot da cucina e frullatore monoporzione salvaspazio. Prepara un caffè freddo per i tuoi viaggi direttamente nel bicchiere monoporzione. Impasta nel robot o prepara cocktail nella caraffa grande
 - INCLUDE: Frullatore Ninja Detect Power, Base Motore da 1200W, Caraffa 2.1L e Coperchio (capacità max 1.9L), Recipiente Robot 1.8L (max 1.6L), 3 Bicchieri 700ml (max 644 ml), Lame per Tritare, Impastare, Affettare/Grattugiare, Hybrid Edge, Ricettario
 - ESCLUSIVA AMAZON: colore pietra oro. Rileva in modo intelligente gli ingredienti, le dimensioni delle porzioni e la presenza di ghiaccio, quindi regola automaticamente la velocità, il tempo e le pulsazioni necessari
 

@@ -28,11 +28,11 @@ average: '7.9'
 
 ℹ️:
 
-- I cavi patch collegano modem, router DSL, switch e patch panel nella sala server tramite box di rete o linea elettrica con punti di accesso WLAN, PC e notebook, ripetitori wireless e telecamere di sorveglianza
-- Il cavo Ethernet di categoria 6A da 5 metri (500 cm) trasmette dati a velocità fino a 10000 Mbps (10 Gbps) per velocità Internet in fibra ottica sulla rete domestica
 - Con guaina esterna LSZH per basso comportamento al fuoco e bassa emissione di fumo - Conduttore interno in rame (Cu) - Compatibile con Power over Ethernet (PoE+) - Cappe con protezione antipiega e chiavistello
-- Il connettore RJ45 è compatibile con reti con cavi CAT.5 (e), CAT.6, CAT.7 e CAT.8 - dispositivo compatibile con ad esempio: FritzBox, console di gioco come Xbox e Playstation, computer, TV, stampanti,...
+- I cavi patch collegano modem, router DSL, switch e patch panel nella sala server tramite box di rete o linea elettrica con punti di accesso WLAN, PC e notebook, ripetitori wireless e telecamere di sorveglianza
 - I cavi LAN CAT.6A (classe EA) offrono eccellenti caratteristiche di connessione per reti gigabit nelle reti domestiche e aziendali con una larghezza di banda massima di 500 MHz
+- Il connettore RJ45 è compatibile con reti con cavi CAT.5 (e), CAT.6, CAT.7 e CAT.8 - dispositivo compatibile con ad esempio: FritzBox, console di gioco come Xbox e Playstation, computer, TV, stampanti,...
+- Il cavo Ethernet di categoria 6A da 5 metri (500 cm) trasmette dati a velocità fino a 10000 Mbps (10 Gbps) per velocità Internet in fibra ottica sulla rete domestica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00GQV077I{{</world>}}

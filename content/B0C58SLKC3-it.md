@@ -29,9 +29,9 @@ average: '13.44'
 ℹ️:
 
 - Cura della barba: Il balsamo dopobarba Proraso per barbe dure è privo di alcol, si assorbe rapidamente e dona un sollievo immediato dopo la rasatura
-- Senza alcol: La formula del balsamo dopobarba non contiene alcol ed è arricchita con estratti di Olio di Sandalo e Burro di Karité, dallazione lenitiva e idratante
 - Modo duso: Distribuire una piccola quantità di balsamo dopobarba Proraso sul viso massaggiando leggermente con le mani per facilitarne l’assorbimento
 - Simbolo di italianità: Dal 1948, Proraso cresce al fianco degli italiani e ha trasformato labitudine di farsi la barba. Prodotti dermatologicamente testati
+- Senza alcol: La formula del balsamo dopobarba non contiene alcol ed è arricchita con estratti di Olio di Sandalo e Burro di Karité, dallazione lenitiva e idratante
 - Equilibrio cutaneo: Il balsamo dopobarba uomo ripristina rapidamente le condizioni ottimali del mantello idrolipidico in seguito alla rasatura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

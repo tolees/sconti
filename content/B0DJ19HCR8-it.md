@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Contenuto confezione: Caricabatterie Portatile, Cavo USB-A to USB-C, Istruzioni
-- LED luminosi che indicano lo stato di carica residua
 - Capacità: 20000mAh
+- LED luminosi che indicano lo stato di carica residua
 - Input:1xUSB-C 10.5W - Output: 2xUSB 12W
+- Contenuto confezione: Caricabatterie Portatile, Cavo USB-A to USB-C, Istruzioni
 - Celle: Li-ion Battery
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

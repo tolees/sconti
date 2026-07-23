@@ -30,8 +30,8 @@ average: '3.99'
 
 - Dalle nostre piantagioni di Kericho, Bomet e Limuru, abbiamo costruito: 23 scuole primarie, case per tutti i nostri lavoratori, 50 asili nido, 23 infermerie e 1 ospedale.
 - Un tè sostenibile, 100% certificato Rainforest Alliance. Niente imballi di plastica! Le nostre confezioni sono interamente riciclabili: la carta proviene da foreste sostenibili.
-- I nostri filtri sono compostabili e quinid possono essere smaltiti come rifiuto umido nella raccolta differenziata.
 - Tè 100% proveniente dalle nostre piantagioni in Kenya. 100% tè nero dal Kenya. 100% ingredienti naturali. Le foglie di tè Lipton vengono raccolte ed essiccate sul posto. Il nostro tè proveniente dal Kenya ha un gusto ricco e aromatico.
+- I nostri filtri sono compostabili e quinid possono essere smaltiti come rifiuto umido nella raccolta differenziata.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C53CSP1F{{</world>}}

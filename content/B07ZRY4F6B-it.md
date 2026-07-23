@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- I prodotti Riso Scotti ti accompagnano con Gusto e Benessere in ogni momento della giornata. Con la stessa attenzione con cui tu scegli prodotti sani, noi ci impegniamo a offrirti la miglior qualità per un’alimentazione equilibrata
-- VIVERE BENE CON GUSTO: Grazie all’antichissima tecnologia del parboiling, i valori nutrizionali del riso si conservano inalterati attraverso la combinazione di acqua e calore: avrai così un riso facile da cucinare, buono, utile al tuo benessere
-- SUGGERIMENTI D’USO: Puoi utilizzare il riso Oro classico per risotti, insalate e ripieni particolarmente corposi
 - È SPECIALE PERCHÉ: Tiene bene la cottura, a prova di distratti! TEMPO DI COTTURA: 12 minuti
+- VIVERE BENE CON GUSTO: Grazie all’antichissima tecnologia del parboiling, i valori nutrizionali del riso si conservano inalterati attraverso la combinazione di acqua e calore: avrai così un riso facile da cucinare, buono, utile al tuo benessere
+- I prodotti Riso Scotti ti accompagnano con Gusto e Benessere in ogni momento della giornata. Con la stessa attenzione con cui tu scegli prodotti sani, noi ci impegniamo a offrirti la miglior qualità per un’alimentazione equilibrata
+- SUGGERIMENTI D’USO: Puoi utilizzare il riso Oro classico per risotti, insalate e ripieni particolarmente corposi
 - RISO ORO CLASSICO: Riso Parboiled dai chicchi molto consistenti, dall’aspetto ambrato e cristallino
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

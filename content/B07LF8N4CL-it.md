@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Questo è un prodotto originale Levis
 - Realizzata in jersey morbido
 - Due T-shirt essenziali in una pratica confezione
 - Logo Levis sul petto
-- Questo è un prodotto originale Levis
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07LF8N4CL{{</world>}}

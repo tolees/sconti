@@ -28,12 +28,12 @@ average: '65.0'
 
 ℹ️:
 
-- Questo prodotto è un prodotto contenitore. I prodotti contenitori gli apparecchi di illuminazione che possono essere smontati per consentire la verifica separata della o delle sorgenti luminose ivi contenute. Questo prodotto contiene una sorgente luminosa di classe di efficienza energetica F
-- Questo prodotto è un apparato di illuminazione di classe di efficienza energetica F che può essere smontato per controllare separatamente le fonti di illuminazione presenti al suo interno
-- Dimensioni: Lunghezza: 45 cm, Altezza: 4 cm, Sporgenza: 10 cm
-- Il faretto da soffitto minimalista dal design moderno è costituito da un corpo sottile in alluminio nero ed è dotato di un pannello frontale regolabile che consente di scegliere tra luce indiretta e diretta e di regolare la luminosità della luce in modo individuale
 - Il moderno faretto da parete è resistente agli spruzzi dacqua (IP44) e può quindi essere utilizzato non solo come lampada da corridoio o da soggiorno, ma anche come lampada da bagno, ad esempio come lampada da specchio sopra o accanto allo specchio
+- Questo prodotto è un apparato di illuminazione di classe di efficienza energetica F che può essere smontato per controllare separatamente le fonti di illuminazione presenti al suo interno
+- Il faretto da soffitto minimalista dal design moderno è costituito da un corpo sottile in alluminio nero ed è dotato di un pannello frontale regolabile che consente di scegliere tra luce indiretta e diretta e di regolare la luminosità della luce in modo individuale
 - Grazie ai LED, la lampada da parete LED emette una luce bianca neutra vitalizzante (4000 kelvin, 8,9 watt, 1000 lumen)
+- Questo prodotto è un prodotto contenitore. I prodotti contenitori gli apparecchi di illuminazione che possono essere smontati per consentire la verifica separata della o delle sorgenti luminose ivi contenute. Questo prodotto contiene una sorgente luminosa di classe di efficienza energetica F
+- Dimensioni: Lunghezza: 45 cm, Altezza: 4 cm, Sporgenza: 10 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BMB17ZV1{{</world>}}

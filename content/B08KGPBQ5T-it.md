@@ -28,11 +28,11 @@ average: '35.24'
 
 ℹ️:
 
-- Tecnica di applicazione moderna: il tester misura l’umidità del terreno e invia automaticamente i dati al computer per irrigazione GARDENA, garantendo così l’alimentazione ottimale di acqua al vostro giardino
-- La fornitura comprende: 1x tester di umidità con cavo di collegamento lungo 5 metri, (batterie non incluse)
 - Efficiente ed ecologico: se il terreno è sufficientemente umido, il prossimo ciclo di irrigazione viene automaticamente sospeso o interrotto, contribuendo così a risparmiare acqua
-- Innovativo: L’impostazione dei punti di commutazione e la misurazione dell’umidità del terreno sono visualizzate sul computer per irrigazione, il computer di programmazione segnala un eventuale livello di energia basso
+- La fornitura comprende: 1x tester di umidità con cavo di collegamento lungo 5 metri, (batterie non incluse)
 - Compatibile: con i computer per irrigazione GARDENA Flex, Select, Bluetooth, Master e la valvola cordless 9V Bluetooth, anche con MultiControl duo, le centraline multicanale 4030 e 6030
+- Innovativo: L’impostazione dei punti di commutazione e la misurazione dell’umidità del terreno sono visualizzate sul computer per irrigazione, il computer di programmazione segnala un eventuale livello di energia basso
+- Tecnica di applicazione moderna: il tester misura l’umidità del terreno e invia automaticamente i dati al computer per irrigazione GARDENA, garantendo così l’alimentazione ottimale di acqua al vostro giardino
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08KGPBQ5T{{</world>}}

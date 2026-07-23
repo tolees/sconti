@@ -28,11 +28,11 @@ average: '9.21'
 
 ℹ️:
 
-- SHAMPOO PER CAPELLI GRIGI: Tonalizza i toni giallastri dati dai minerali dellacqua, le impurità dellaria e laccumulo di residui
-- COME SI USA: Bagna abbondantemente i capelli, massaggia una piccola quantità di shampoo e risciacqua. Adatto anche alla barba.
-- BENEFICI: Aiuta a ridurre al minimo i toni gialli indesiderati, mentre nutre, idrata e ammorbidisce i capelli
-- AMERICAN CREW: Eleva il tuo regime hair care con il leader per la cura & styling maschile di capelli e barba.
 - FORMULA VEGANA: Formulato con il 95% dingredienti di origine naturale. Senza siliconi e parabeni.
+- COME SI USA: Bagna abbondantemente i capelli, massaggia una piccola quantità di shampoo e risciacqua. Adatto anche alla barba.
+- AMERICAN CREW: Eleva il tuo regime hair care con il leader per la cura & styling maschile di capelli e barba.
+- BENEFICI: Aiuta a ridurre al minimo i toni gialli indesiderati, mentre nutre, idrata e ammorbidisce i capelli
+- SHAMPOO PER CAPELLI GRIGI: Tonalizza i toni giallastri dati dai minerali dellacqua, le impurità dellaria e laccumulo di residui
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09GXPGFGV{{</world>}}

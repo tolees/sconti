@@ -29,11 +29,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Le due cave di frenaggio inferiori consentono di posizionare le corde per modulare la velocità di discesa in corda doppia
-- Può essere utilizzato con corda singola, mezze corde e corde gemelle
-- Permette la discesa in corda doppia, mantenendo le corde parallele e separate
 - Permette il recupero indipendente e autobloccante di uno o due secondi
+- Può essere utilizzato con corda singola, mezze corde e corde gemelle
 - Dotato di due fori, quello superiore per lancoraggio e quello inferiore per laggancio alla longe per la discesa in corda doppia
 - Discensore / assicuratore multiuso in lega leggera forgiato a caldo
+- Permette la discesa in corda doppia, mantenendo le corde parallele e separate
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B008DSM14E{{</world>}}

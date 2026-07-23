@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Crema viso SPF 50+ – La crema solare viso SPF 50+ è una protezione solare quotidiana per la pelle grassa e a tendenza acneica che protegge da raggi UVA, UVB e dalla Luce Visibile ad Alta Energia
+- Ingredienti attivi – La crema SPF 50+ viso è formulata con Acido Glicirretico, che supporta il meccanismo di riparazione del DNA della pelle, e Licocalcone A che neutralizza i radicali liberi nocivi
+- SPF viso delicata – La protezione solare 50+ viso è clinicamente e dermatologicamente testata e la sua texture leggera e non comedogenica per la pelle grassa si assorbe rapidamente e non unge
 - Contenuto della confezione – Eucerin Oil Control Dry Touch Face Sun Gel-Creme SPF 50+, crema solare 50+ viso con filtri UVA/UVB, senza profumo, non appiccica, 1 confezione da 50 ml, numero articolo: 69767
 - Oil Control – La protezione solare viso fa parte della gamma Eucerin Oil Control, arricchita con L-Carnitina e particelle sebo microassorbenti per un effetto opacizzante e anti-lucidità a lunga durata
-- SPF viso delicata – La protezione solare 50+ viso è clinicamente e dermatologicamente testata e la sua texture leggera e non comedogenica per la pelle grassa si assorbe rapidamente e non unge
-- Ingredienti attivi – La crema SPF 50+ viso è formulata con Acido Glicirretico, che supporta il meccanismo di riparazione del DNA della pelle, e Licocalcone A che neutralizza i radicali liberi nocivi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0124BRNGG{{</world>}}

@@ -29,8 +29,8 @@ average: '2.78'
 ℹ️:
 
 - Profilo di uscita: profilo a T (per Torx) T27
-- Realizzato in acciaio al cromo vanadio
 - Con zigrinatura
+- Realizzato in acciaio al cromo vanadio
 - Lunghezza: 38 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

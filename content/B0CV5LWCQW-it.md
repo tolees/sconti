@@ -29,10 +29,10 @@ average: '6.89'
 ℹ️:
 
 - ESTRATTO ECHINACEA JUNIOR: integratore alimentare in forma liquida a base di estratto di Echinacea Purpurea, ad azione di supporto alle vie respiratorie.
-- GUSTO FRUTTI DI BOSCO: Indicato in pediatria grazie allassenza di alcool e al gradevole sapore di frutti di bosco.
-- SUPPORTO IMMUNITARIO: favorisce la funzionalità delle prime vie respiratorie e le difese immunitarie.
-- MODO DUSO: Assumere 15 gocce (0,6 ml) 2-3 volte al giorno. Il prodotto può essere assunto tal quale o diluito in poca acqua. Senza alcool, adatto a bambini dai 3 anni di età. Adatto a vegani. Senza glutine. Senza lattosio.
 - ECHINACEA BENEFIT, DA SEMPRE CON TE: La più ampia linea di prodotti, tutti a base di Echinacea, in cui vengono utilizzati esclusivamente estratti titolati in principio attivo per assicurare la massima efficacia degli integratori.
+- MODO DUSO: Assumere 15 gocce (0,6 ml) 2-3 volte al giorno. Il prodotto può essere assunto tal quale o diluito in poca acqua. Senza alcool, adatto a bambini dai 3 anni di età. Adatto a vegani. Senza glutine. Senza lattosio.
+- SUPPORTO IMMUNITARIO: favorisce la funzionalità delle prime vie respiratorie e le difese immunitarie.
+- GUSTO FRUTTI DI BOSCO: Indicato in pediatria grazie allassenza di alcool e al gradevole sapore di frutti di bosco.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CV5LWCQW{{</world>}}

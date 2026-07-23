@@ -28,9 +28,9 @@ average: '10.365'
 
 ℹ️:
 
-- Con Ingredienti di Alta Qualità
 - Alimento Umido completo ed equilibrato per gatti adulti
 - Ogni confezione contiene 24 bustine da 85 g.
+- Con Ingredienti di Alta Qualità
 - Senza coloranti né conservanti aggiunti
 - Con Tonno
 

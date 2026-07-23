@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- COMFORT - Con uninterfaccia utente guidata e pulsanti e ghiere tattili, EOS R100 è progettata per unottima esperienza di scatto; compatto e leggero, abbastanza piccolo da poter essere messo in borsa: è facile da prendere e portare con sé
-- CONNETTI - Con lapp Camera Connect, collega EOS R100 al tuo smartphone per trasferire foto e video e scattare in remoto; il trasferimento automatico semplifica la condivisione dei tuoi ricordi
-- CREA - Non è necessario essere un esperto per ottenere limmagine che desideri; apporta facilmente modifiche e scegli leffetto desiderato con Creative Assist; ottieni risultati ottimi mentre
-- NON PERDERE MAI - Goditi la precisione nitida come un professionista; dotata della potente messa a fuoco automatica Dual Pixel CMOS, scatto continuo e video 4K, EOS R100 rileva la persona nellinquadratura per catturare il momento proprio nel momento in cui accade
 - MEMORIE DI ACQUISIZIONE - Lampio sensore di immagine APS-C da 24.1 MP offre migliori prestazioni di raccolta della luce e un maggiore controllo sulla profondità di campo per ottenere unottima qualità di immagini e video
+- NON PERDERE MAI - Goditi la precisione nitida come un professionista; dotata della potente messa a fuoco automatica Dual Pixel CMOS, scatto continuo e video 4K, EOS R100 rileva la persona nellinquadratura per catturare il momento proprio nel momento in cui accade
+- CREA - Non è necessario essere un esperto per ottenere limmagine che desideri; apporta facilmente modifiche e scegli leffetto desiderato con Creative Assist; ottieni risultati ottimi mentre
+- CONNETTI - Con lapp Camera Connect, collega EOS R100 al tuo smartphone per trasferire foto e video e scattare in remoto; il trasferimento automatico semplifica la condivisione dei tuoi ricordi
+- COMFORT - Con uninterfaccia utente guidata e pulsanti e ghiere tattili, EOS R100 è progettata per unottima esperienza di scatto; compatto e leggero, abbastanza piccolo da poter essere messo in borsa: è facile da prendere e portare con sé
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CK4WSNKQ{{</world>}}

@@ -28,9 +28,9 @@ average: '15.5093333333333'
 
 ℹ️:
 
-- Ideale con pizza, antipasti e fritture, pesce alla griglia, formaggi freschi
 - Gradazione alcolica: 5% vol
 - Tipologia Premium Pilsner
+- Ideale con pizza, antipasti e fritture, pesce alla griglia, formaggi freschi
 - Temperatura di servizio: 6 - 8° C
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

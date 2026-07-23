@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Fragrance concentrazione: eau de parfum
 - Scent : Legno di sandalo
 - Scent : legno di sandalo
-- Fragrance concentrazione: eau de parfum
-- Special feature : Portatile
 - Forma dellarticolo: acqua
+- Special feature : Portatile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CQ8NSB4G{{</world>}}

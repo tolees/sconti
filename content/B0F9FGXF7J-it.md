@@ -28,9 +28,9 @@ average: '34.98'
 
 ℹ️:
 
+- Tomaia in pelle
 - Collare imbottito
 - Intersuola in schiuma
-- Tomaia in pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F9FGXF7J{{</world>}}

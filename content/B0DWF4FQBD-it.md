@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- 3 personaggi LEGO Super Mario: questo giocattolo LEGO Super Mario ispirato ai videogiochi comprende Capitan Toad, una rapa e un Goomba, oltre a uno zaino, un piccone, una padella e un diamante
+- Gioco LEGO Super Mario per bambini da 6 anni in su: costruisci una tenda e un falò, vai a caccia di tesori, fai crollare il ponte, sconfiggi i nemici e molto altro ancora, con il set In Campeggio con Capitan Toad
+- Funzioni con cui giocare: aiuta Capitan Toad a far crollare il ponte per far cadere il nemico nel fiume di lava; cerca i “diamanti”, conservali nel forziere e poi rilassati nella tenda
 - Stimola l’immaginazione dei piccoli: i set LEGO Super Mario sono progettati per il gioco individuale o sociale, e offrono possibilità di gioco di ruolo, collezionismo di monete digitali e sfide divertenti attraverso l’espansione e la ricostruzione
 - Piccolo regalo per gamer: regala questo giocattolo costruibile per il compleanno degli appassionati dei set e dei gadget LEGO Super Mario; per il gioco interattivo è necessario uno dei set 71439, 71440, 71441 o 72043 (disponibili a parte)
-- 3 personaggi LEGO Super Mario: questo giocattolo LEGO Super Mario ispirato ai videogiochi comprende Capitan Toad, una rapa e un Goomba, oltre a uno zaino, un piccone, una padella e un diamante
 - Gioco interattivo: salta sull’Action Tag della tenda, sul Goomba o sulla rapa con LEGO Mario, LEGO Luigi o LEGO Peach (figure non incluse) per attivare le reazioni digitali
-- Funzioni con cui giocare: aiuta Capitan Toad a far crollare il ponte per far cadere il nemico nel fiume di lava; cerca i “diamanti”, conservali nel forziere e poi rilassati nella tenda
-- Gioco LEGO Super Mario per bambini da 6 anni in su: costruisci una tenda e un falò, vai a caccia di tesori, fai crollare il ponte, sconfiggi i nemici e molto altro ancora, con il set In Campeggio con Capitan Toad
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DWF4FQBD{{</world>}}

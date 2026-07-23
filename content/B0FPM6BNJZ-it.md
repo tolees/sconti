@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- ELEVATE PRESTAZIONI: Pompa ad alta pressione da 19 bar e sistema di riscaldamento rapido in meno di 30 secondi; inserimento facile, perforazione automatica e preparazione di capsule di caffè
-- SOSTENIBILITA: Modalità ECO dopo 2 minuti e spegnimento automatico dopo 9 minuti di inattività per risparmiare energia
-- FACILE DA USARE: 2 lunghezze in tazza programmabili in base alla quantità di caffè che preferisci: Espresso e Lungo.
 - DIMENSIONI COMPATTE: La macchina Essenza Mini combina un design elegante e compatto con facilità duso per preparare un espresso perfetto; facile da posizionare in qualsiasi cucina o casa
+- FACILE DA USARE: 2 lunghezze in tazza programmabili in base alla quantità di caffè che preferisci: Espresso e Lungo.
+- ELEVATE PRESTAZIONI: Pompa ad alta pressione da 19 bar e sistema di riscaldamento rapido in meno di 30 secondi; inserimento facile, perforazione automatica e preparazione di capsule di caffè
 - VARIETÀ DI CAFFÈ: Nespresso offre unampia varietà di caffè per soddisfare tutti i gusti in qualsiasi momento della giornata
+- SOSTENIBILITA: Modalità ECO dopo 2 minuti e spegnimento automatico dopo 9 minuti di inattività per risparmiare energia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FPM6BNJZ{{</world>}}

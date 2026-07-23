@@ -28,10 +28,10 @@ average: '28.3'
 
 ℹ️:
 
-- Cintura casual
 - Cintura in pelle scamosciata casual da donna
-- ERROR: #N/A
 - Cintura
+- ERROR: #N/A
+- Cintura casual
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BP8J1MNX{{</world>}}

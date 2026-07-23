@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Extreme Arsenal – Wield a devastating arsenal of angelic, demonic and Earthly weapons; and blaze a trail of destruction atop Ruin, War’s fiery phantom steed
-- Epic Quest – Battle across the wastelands and demon-infested dungeons of the decimated Earth in your quest for vengeance and redemption
 - Apocalyptic Power – Unleash the wrath of War, combining brutal attacks and supernatural abilities to decimate all who stand in your way
 - Battle Heaven and Hell – Battle against all who stand in your way - from war-weary angelic forces to Hell’s hideous demon hordes
+- Epic Quest – Battle across the wastelands and demon-infested dungeons of the decimated Earth in your quest for vengeance and redemption
 - Character Progression – Uncover powerful ancient relics, upgrade your weapons,unlock new abilities, and customize your gameplay style
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

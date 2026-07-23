@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- IDEALI CON: ragù di carne. Con la loro consistenza, i rigatoni esaltano tanto le salse più raffinate quanto il più semplice sugo. Ideali anche per preparazioni come i timballi o paste al forno
+- RIGATONI: i Rigatoni Barilla nascono da unattenta selezione di grani duri pregiati coltivati in tutta Italia; hanno una forma corposa e una straordinaria consistenza
 - BARILLA: unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
 - QUALITÀ: Pasta sempre al dente grazie alla selezione di grani duri. Poniamo grande attenzione lungo tutta la filiera per garantire qualità e sicurezza alimentare
-- RIGATONI: i Rigatoni Barilla nascono da unattenta selezione di grani duri pregiati coltivati in tutta Italia; hanno una forma corposa e una straordinaria consistenza
-- IDEALI CON: ragù di carne. Con la loro consistenza, i rigatoni esaltano tanto le salse più raffinate quanto il più semplice sugo. Ideali anche per preparazioni come i timballi o paste al forno
 - BLUE BOX: la nuova confezione di pasta in cartoncino, nata per abbracciare limpegno di Barilla nello sviluppo di soluzioni volte a ridurre il suo impatto sul pianeta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

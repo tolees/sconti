@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- COSA CONTIENE: Contiene Sali Marini Cristallini che rimuovono le cellule morte e levigano gli ispessimenti cutanei, Olio di Vinaccioli, nutriente ed elasticizzante, Centella e Ippocastano drenanti
+- SCRUB SALINO ALLARANCIO: Scrub Salino Tonificante-Energizzante è uno speciale mix di Sali marini, oli naturali ed estratti vegetali che esfolia, leviga e nutre la pelle del corpo
 - CARATTERISTICHE: I Sali marini cristallini svolgono un’efficace azione "antiacqua". L’Olio essenziale di Arancio e il Mentolo donano una sensazione di benessere e relax
 - EQUILIBRA: Da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto dellequilibrio tra rispetto, efficacia, benessere e bellezza
-- SCRUB SALINO ALLARANCIO: Scrub Salino Tonificante-Energizzante è uno speciale mix di Sali marini, oli naturali ed estratti vegetali che esfolia, leviga e nutre la pelle del corpo
+- COSA CONTIENE: Contiene Sali Marini Cristallini che rimuovono le cellule morte e levigano gli ispessimenti cutanei, Olio di Vinaccioli, nutriente ed elasticizzante, Centella e Ippocastano drenanti
 - EFFETTO TONIFICANTE ED ENERGIZZANTE: Lo speciale mix di Sali marini, oli naturali ed estratti vegetali esfolia, leviga e nutre la pelle. 99,9% di ingredienti di origine naturale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

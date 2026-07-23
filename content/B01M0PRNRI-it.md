@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Eliminazione rapida delle pulci: Le pulci vengono eliminate per contatto entro 2 ore
 - Per gatti dalle 7 settimane di età e oltre 0.6 kg di peso
+- Eliminazione rapida delle pulci: Le pulci vengono eliminate per contatto entro 2 ore
 - Protezione: Prevenzione dellinfestazione da pulci e della loro moltiplicazione per 1 mese sul gatto e fino a 3 mesi nellambiente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ average: '3.79'
 ℹ️:
 
 - FORMATO: grazie alla pratica confezione da 330 grammi, con le caramelle in bustina che preserva gusto e freschezza, è possibile avere sempre a portata di mano di mano le caramelle gommose.
-- HARIBO: in Italia dai primi anni 70 oggi è presente in 120 paesi La vasta gamma di prodotti viene ampliata continuamente per offrire alla clientela qualsiasi tipologia di caramelle gommose, frizzanti e miste.
 - BIG MIX: Le celebri caramelle gommose Haribo in un grande mix di frutta in bustine. Ideali sia per adulti, sia per i più piccoli in ogni momento della giornata.
+- HARIBO: in Italia dai primi anni 70 oggi è presente in 120 paesi La vasta gamma di prodotti viene ampliata continuamente per offrire alla clientela qualsiasi tipologia di caramelle gommose, frizzanti e miste.
 - PARTY: Deliziose e colorate per ogni situazione. Sono perfette per feste di tutti i tipi o semplicemente per concedersi un momento di dolcezza.
 - INGREDIENTI: Haribo seleziona con cura ogni singolo ingrediente per creare un piacevole mix di sapori da gustare in diverse occasioni.
 

@@ -28,14 +28,14 @@ average: '26.9071428571429'
 
 ℹ️:
 
-- Immergiti nel fantastico mondo di Dixit Odyssey con 84 nuove carte. Scopri divertenti varianti del classico gioco di carte Dixit, e gioca fino a 12 giocatori contemporaneamente
-- Numero di giocatori: 3-12 | Età consigliata: 8+ | Durata media: 30 min. | Edizione in lingua italiana
-- Cosa cè nella scatola: 84 carte immagine, 1 tabellone segnapunti, 12 plance per votare, 24 segnalini voto, 12 coniglietti in legno, 1 regolamento
 - Età suggerita: da 8 anni in su
-- Lingua: edizione multilingua con italiano
-- Numero di giocatori: 3 − 12
 - Durata media: 30 minuti
+- Lingua: edizione multilingua con italiano
 - Dixit, il celebre gioco da tavolo di creatività e fantasia, in un nuovo formato che aumenta il divertimento, con nuove carte illustrate e la possibilità di giocare anche a squadre
+- Cosa cè nella scatola: 84 carte immagine, 1 tabellone segnapunti, 12 plance per votare, 24 segnalini voto, 12 coniglietti in legno, 1 regolamento
+- Immergiti nel fantastico mondo di Dixit Odyssey con 84 nuove carte. Scopri divertenti varianti del classico gioco di carte Dixit, e gioca fino a 12 giocatori contemporaneamente
+- Numero di giocatori: 3 − 12
+- Numero di giocatori: 3-12 | Età consigliata: 8+ | Durata media: 30 min. | Edizione in lingua italiana
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00PQ7TYXQ{{</world>}}

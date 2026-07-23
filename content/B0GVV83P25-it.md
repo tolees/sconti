@@ -28,10 +28,10 @@ average: '11.09'
 
 ℹ️:
 
-- SUNSILK LINEA LISCIO PERFETTO: luso combinato dei prodotti Sunsilk Liscio Perfetto dona unefficace azione anti crespo per capelli setosi e lisci a lungo
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
-- BEAUTY ROUTINE: applicalo prima dello styling per proteggere i capelli, pettina e asciuga con spazzola e phon, per un finishing ancora più liscio e luminoso applica lOlio Sunsilk Styling sulle punte
 - FORMULA: proteggi il tuo Liscio Perfetto grazie alla formula dello Spray Termoprotettore, con olio di argan, proteine della seta e biotina
+- BEAUTY ROUTINE: applicalo prima dello styling per proteggere i capelli, pettina e asciuga con spazzola e phon, per un finishing ancora più liscio e luminoso applica lOlio Sunsilk Styling sulle punte
+- SUNSILK LINEA LISCIO PERFETTO: luso combinato dei prodotti Sunsilk Liscio Perfetto dona unefficace azione anti crespo per capelli setosi e lisci a lungo
 - SPRAY TERMOPROTETTORE CAPELLI: questo Spray con texture ultra leggera, aiuta a proteggere i capelli dal calore fino a 230°, dai danni dello styling e combatte leffetto crespo
 - EFFETTO ANTICRESPO: aiuta a ridurre la rottura dei capelli del 82%*, senza appesantirli. Per capelli lisci e protetti in ogni momento!
 

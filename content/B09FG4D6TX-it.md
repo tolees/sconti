@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Include: 1 cubo di Rubik e 1 Mini Rubiks
+- DUO PACK: con questo set ricevi il cubo di Rubik originale 3x3 e il Mini Rubiks 2x2.
 - RUOTA, GIRA, RIPETI: sia il cubo di Rubik che il Mini Rubiks sono dotati di sei lati di colore diverso. Una volta mescolati i lati, dovrai ruotare e girare i cubi fino ad allineare di nuovo su ciascuno dei lati tutte le tessere di un determinato colore
 - PER GLI AMANTI DEI ROMPICAPO: questo cubo di Rubik originale offre 43.252.003.274.489.856.000 combinazioni, ma una sola soluzione. Mentre il Mini Rubiks presenta oltre 3,6 milioni di possibili combinazioni e ununica soluzione.
-- DUO PACK: con questo set ricevi il cubo di Rubik originale 3x3 e il Mini Rubiks 2x2.
 - MOVIMENTO MIGLIORATO: movimento più veloce, fluido e affidabile. Niente blocchi frustranti o cubetti che escono. I classici adesivi sono stati sostituiti con tessere in plastica che non si scoloriscono e non si scollano. Impossibile imbrogliare
 - IL CUBO DI RUBIK ORIGINALE: una combinazione di matematica, arte e scienza: liconico cubo di Rubik metterà alla prova la tua mente e le tue abilità di problem solving
+- Include: 1 cubo di Rubik e 1 Mini Rubiks
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09FG4D6TX{{</world>}}

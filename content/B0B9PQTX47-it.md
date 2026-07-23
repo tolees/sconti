@@ -30,9 +30,9 @@ average: '12.2'
 
 - I fan più navigati apprezzeranno la confezione vintage e il mini fumetto MOTU incluso con ogni personaggio.
 - Un regalo fantastico per collezionisti adulti e bambini dai 6 anni in su.
-- I personaggi sono snodati in 16 punti.
 - I MOTU sono tornati per una nuova generazione di fan!
 - Collezione di action figure da 14 cm che include He-Man, Skeletor e molti altri personaggi amatissimi dai fan da mettere in mostra e con cui giocare.
+- I personaggi sono snodati in 16 punti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B9PQTX47{{</world>}}

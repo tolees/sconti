@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Fino a 38 ore con la custodia di ricarica: Ascolta fino a 9 ore con una singola carica e fino a 38 ore con la custodia di ricarica. Hai bisogno di un boost rapido? 10 minuti di ricarica offrono 3 ore di ascolto immediato.
 - Ascolto adattivo open-ear: Con un design quasi aperto che mantiene la consapevolezza della situazione, questi auricolari sono dotati di Volume Adattivo Intelligente per mantenere laudio chiaro e controlli intuitivi tramite gesti/movimenti della testa.
-- Chiamate nitide e cristalline: Ascolta e fatti sentire in modo chiaro e nitido, mentre gli auricolari riconoscono il rumore di fondo nei luoghi pubblici affollati. Il tutto grazie a un avanzato sistema di cancellazione del rumore in chiamata a 3 microfoni e ad algoritmi DNN multi-canale.
 - Connessioni a due dispositivi: Che tu stia usando un dispositivo iOS, Android o Windows, ti basta collegare due di questi dispositivi allo stesso tempo per passare automaticamente tra i due. Se connessi a dispositivi EMUI, puoi passare l’audio tra più di due dispositivi contemporaneamente.
+- Chiamate nitide e cristalline: Ascolta e fatti sentire in modo chiaro e nitido, mentre gli auricolari riconoscono il rumore di fondo nei luoghi pubblici affollati. Il tutto grazie a un avanzato sistema di cancellazione del rumore in chiamata a 3 microfoni e ad algoritmi DNN multi-canale.
 - Design ultra-Leggero, per il massimo del comfort: Con una palla acustica ergonomica, un Comfort Bean e un ponte a C a memoria di forma, offrono un comfort e una stabilità eccezionali. Maneggevole e raffinata, la custodia di ricarica è il 17% più stretta e il 14% più leggera, con un peso di soli 5,1 g ciascuno per una sensazione di totale leggerezza.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ average: '6.28'
 
 ℹ️:
 
-- Facile da usare: trattare le superfici asciutte e infestate con il concentrato diluito con acqua da circa 30 cm di distanza, se necessario. Spazzolare la forte copertura verde dopo 2-3 giorni, max. 4 trattamenti a intervalli di 20-60 giorni
-- Attenzione: distruzione o danneggiamento di erbe inavvertitamente spruzzate erbacce, piante selvatiche o piante da giardino, nessun mezzo per la lotta contro alghe o muschio nel prato, nessun uso mirato contro le erbacce
-- Distrugge verdi altamente efficace contro alghe, licheni e altri verdi, ideale per luso su terrazze, sentieri, muri o parcheggi
-- Per belle terrazze e sentieri: eliminazione affidabile anche dei residui verdi ostinati su pietre, legno e pietre naturali semplicemente spruzzando o versando
 - Usare i biocidi con attenzione. Leggere sempre letichetta e le informazioni sul prodotto prima delluso.
+- Attenzione: distruzione o danneggiamento di erbe inavvertitamente spruzzate erbacce, piante selvatiche o piante da giardino, nessun mezzo per la lotta contro alghe o muschio nel prato, nessun uso mirato contro le erbacce
+- Per belle terrazze e sentieri: eliminazione affidabile anche dei residui verdi ostinati su pietre, legno e pietre naturali semplicemente spruzzando o versando
+- Distrugge verdi altamente efficace contro alghe, licheni e altri verdi, ideale per luso su terrazze, sentieri, muri o parcheggi
+- Facile da usare: trattare le superfici asciutte e infestate con il concentrato diluito con acqua da circa 30 cm di distanza, se necessario. Spazzolare la forte copertura verde dopo 2-3 giorni, max. 4 trattamenti a intervalli di 20-60 giorni
 - Contenuto della confezione: 1 x Vorox per terrazze e sentieri, concentrato, 500 ml, art. n. 25383
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

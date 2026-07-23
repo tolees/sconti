@@ -28,10 +28,10 @@ average: '3.28'
 
 ℹ️:
 
-- Con decorazioni di zucchero in varie forme e colori a tema
-- Ogni mix include una miscela di varie forme ed è stato sviluppato dal nostro team di Londra
 - Aggiungi il tocco perfetto alle tue torte e creazioni con gli Sprinkles Out of the Box di PME
+- Con decorazioni di zucchero in varie forme e colori a tema
 - Senza coloranti azoici e biossido di titanio
+- Ogni mix include una miscela di varie forme ed è stato sviluppato dal nostro team di Londra
 - Forniti in una pratica confezione richiudibile e a basso contenuto di plastica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

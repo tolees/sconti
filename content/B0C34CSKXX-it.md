@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - 4 accessori spazzola: testina setole rigide, testine ceramica e setole 50 mm + 38 mm, concentratore del calore durante lasciugatura
+- 1000 W di potenza
 - Spazzola ad aria per asciugare e dare forma ai tuoi capelli con diffusore di ioni
 - Cavo girevole lungo 1.8 m e gancio per riporre la spazzola
-- 1000 W di potenza
 - 2 temperature/ velocità impostabili + colpo daria fredda
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

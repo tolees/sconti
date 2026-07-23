@@ -28,11 +28,11 @@ average: '160.395'
 
 ℹ️:
 
-- 2 ZONE DI COTTURA INDIPENDENTI: Cuoci 2 pietanze in 2 modi differenti. Imposta programmi, temperature e tempi diversi in ogni scomparto per preparare pasti completi o semplicemente soddisfare più palati.
-- NINJA E IL MARCHIO DI FRIGGITRICI AD ARIA N. 1 AL MONDO: Fonte: Euromonitor International Ltd, Elettrodomestici, edizione 2026, vendite al dettaglio in volume (unità), secondo la definizione della categoria friggitrici ad aria, dati 2025.
+- INCLUDE: due cestelli antiaderenti lavabili in lavastoviglie da 4,75 L (9,5 L in totale) e piastre per frittura antiaderenti. Ricettario creato appositamente da uno chef. Peso: 8,8 kg. Colore: grigio piombo. 32,5 x L: 41,5 x P: 27 cm.
 - 6 PROGRAMMI DI COTTURA: Max Crisp, Air Fry, Roast, Bake, Reheat, Dehydrate. Da surgelato a croccante. Fino a 75% di grassi in meno* (*Test con patate tagliate a mano e fritte in modo tradizionale).
 - RISPARMIO ENERGETICO: Risparmia fino al 65% sulla bolletta per ogni cottura con le friggitrici ad aria Ninja*. *Test basati sul tempo di cottura consigliato per le salsicce, usando la frittura ad aria rispetto a un forno da 68 L classe A e 71 L classe A+.
-- INCLUDE: due cestelli antiaderenti lavabili in lavastoviglie da 4,75 L (9,5 L in totale) e piastre per frittura antiaderenti. Ricettario creato appositamente da uno chef. Peso: 8,8 kg. Colore: grigio piombo. 32,5 x L: 41,5 x P: 27 cm.
+- 2 ZONE DI COTTURA INDIPENDENTI: Cuoci 2 pietanze in 2 modi differenti. Imposta programmi, temperature e tempi diversi in ogni scomparto per preparare pasti completi o semplicemente soddisfare più palati.
+- NINJA E IL MARCHIO DI FRIGGITRICI AD ARIA N. 1 AL MONDO: Fonte: Euromonitor International Ltd, Elettrodomestici, edizione 2026, vendite al dettaglio in volume (unità), secondo la definizione della categoria friggitrici ad aria, dati 2025.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F4KHWH9M{{</world>}}

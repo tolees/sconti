@@ -28,11 +28,11 @@ average: '30.95'
 
 ℹ️:
 
-- Molto più divertente di altri -- Il drone può eseguire Toss to Launch, Circle Fly, 3D Flips e Auto Rotation; tutti i bambini lo adorano! La velocità può essere modificata per adattarsi alle capacità di volo dei piloti.
-- Protezione completa: le eliche sono isolate dalla protezione, che protegge i bambini dalle eliche rotanti e protegge il drone da eventuali danni. Niente pianti dei bambini!
+- Mini e portatile -- Questo amico porta i giocatori a divertirsi ovunque per feste, scuole, pesca, escursioni, lunghi viaggi, ecc. Sicuramente un ottimo regalo di compleanno/natale/vacanze per bambini o amici!
 - 3 batterie prolungano il tempo di volo -- Il tempo di volo è fino a 21 minuti. Non sarete mai delusi da una batteria scarica o dallattesa della ricarica! Inoltre, lallarme di batteria scarica evita qualsiasi perdita o danno dovuto a una batteria scarica.
 - Facile da usare -- La funzione di mantenimento dellaltitudine consente di librarsi in modo stabile ad unaltezza fissa; in modalità Headless, la direzione è sempre relativa al punto di vista del pilota; offre un volo senza preoccupazioni a bambini, principianti, neofiti, ecc.
-- Mini e portatile -- Questo amico porta i giocatori a divertirsi ovunque per feste, scuole, pesca, escursioni, lunghi viaggi, ecc. Sicuramente un ottimo regalo di compleanno/natale/vacanze per bambini o amici!
+- Protezione completa: le eliche sono isolate dalla protezione, che protegge i bambini dalle eliche rotanti e protegge il drone da eventuali danni. Niente pianti dei bambini!
+- Molto più divertente di altri -- Il drone può eseguire Toss to Launch, Circle Fly, 3D Flips e Auto Rotation; tutti i bambini lo adorano! La velocità può essere modificata per adattarsi alle capacità di volo dei piloti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C14GT9HG{{</world>}}

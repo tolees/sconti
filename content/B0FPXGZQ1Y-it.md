@@ -28,11 +28,11 @@ average: '10.49'
 
 ℹ️:
 
-- 2 PERSONAGGI MARVEL: questo playset ricco di azione contiene le minifigure giocattolo di Miles Morales e di Spider-Man 2099 dell’universo alternativo di Earth-928
-- ROBOT LEGO CON ACCESSORI: un potente shooter a 3 colpi, una corda-ragnatela e un blaster spara-ragnatele sulle braccia del mech di Miles Morales danno vita agli scontri tra i supereroi
-- IDEA REGALO SPIDER-MAN: regala questo set di giochi di Spider-Man a un appassionato di mech giocattolo costruibili, o come pensiero di compleanno agli amanti dei supereroi e dei gadget LEGO | Marvel da collezione
-- GIOCO DI RUOLO CON SPIDER-MAN: il robot giocattolo ha parti articolate per un’azione dinamica; il busto apribile rivela una cabina di guida dove posizionare la minifigure di Miles Morales
 - ACTION FIGURE GIOCATTOLO SNODABILE: i fan del supereroe Spider-Man vivranno lazione del film Spider-Man: Across the Spider-Verse con il set Mech di Miles Morales vs. Spider-Man 2099, un gioco LEGO ǀ Marvel per bambini e bambine da 6 anni in su
+- IDEA REGALO SPIDER-MAN: regala questo set di giochi di Spider-Man a un appassionato di mech giocattolo costruibili, o come pensiero di compleanno agli amanti dei supereroi e dei gadget LEGO | Marvel da collezione
+- ROBOT LEGO CON ACCESSORI: un potente shooter a 3 colpi, una corda-ragnatela e un blaster spara-ragnatele sulle braccia del mech di Miles Morales danno vita agli scontri tra i supereroi
+- 2 PERSONAGGI MARVEL: questo playset ricco di azione contiene le minifigure giocattolo di Miles Morales e di Spider-Man 2099 dell’universo alternativo di Earth-928
+- GIOCO DI RUOLO CON SPIDER-MAN: il robot giocattolo ha parti articolate per un’azione dinamica; il busto apribile rivela una cabina di guida dove posizionare la minifigure di Miles Morales
 - MECH DEI SUPER EROI: i giovani fan possono collezionare e combinare una vasta gamma di set di mech LEGO (altri mech disponibili separatamente), per espandere le loro avventure da supereroi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

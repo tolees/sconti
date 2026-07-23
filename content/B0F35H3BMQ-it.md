@@ -28,11 +28,11 @@ average: '13.58'
 
 ℹ️:
 
-- POPELINE ELASTICIZZATO: popeline in misto cotone leggero e fresco con finitura liscia, elasticizzato per il massimo comfort
-- CAMICIA ADERENTE IN POPELINE: un capo essenziale e raffinato per tutte le occasioni. Indossala per lufficio o come capo casual abbinato ai jeans
-- LUNGHEZZA DEL CAPO: 67,3cm dal lato del collo nella taglia S (IT)
 - DETTAGLI: colletto classico, abbottonatura frontale, maniche lunghe con polsini e pinces frontali e posteriori per una vestibilità aderente e su misura
+- CAMICIA ADERENTE IN POPELINE: un capo essenziale e raffinato per tutte le occasioni. Indossala per lufficio o come capo casual abbinato ai jeans
 - VESTIBILITÀ ADERENTE: vestibilità aderente che avvolge il corpo
+- POPELINE ELASTICIZZATO: popeline in misto cotone leggero e fresco con finitura liscia, elasticizzato per il massimo comfort
+- LUNGHEZZA DEL CAPO: 67,3cm dal lato del collo nella taglia S (IT)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F35H3BMQ{{</world>}}

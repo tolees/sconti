@@ -28,10 +28,10 @@ average: '41.99'
 
 ℹ️:
 
-- Intersuola: EX-CELL con schiuma sul tallone sotto
-- Suola: Gomma a zone con rivestimento
-- Tomaia: Materiali strutturati e mix di materiali premium
 - Midfoot: Gabbia sintetica per un migliore bloccaggio
+- Suola: Gomma a zone con rivestimento
+- Intersuola: EX-CELL con schiuma sul tallone sotto
+- Tomaia: Materiali strutturati e mix di materiali premium
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DJ9LMGD7{{</world>}}

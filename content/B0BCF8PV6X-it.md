@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- DISNEY: ogni giocatore ha il compito di scovare oggetti misteriosi ed esseri straordinari, nascosti in un labirinto incantato, spostandosi lungo i percorsi magici del gioco; ottimo da regalare, in particolare per i fan di Disney
-- SCOPRI LA LINEA LABIRINTO: scopri tutti i Labirinti Magici firmati Ravensburger; Labirinto Glow in the dark per giocare al buio, Junior Labyrinth per i più piccoli e le versioni dedicate ai personaggi amati come Harry Potter, Super Mario e molti altri
-- GIOCO DASTUZIA: il labirinto si trasforma ad ogni turno e le vie di collegamento fra i diversi punti vengono stravolte di volta in volta; vince chi per primo riuscirà a scoprire tutti i tesori e gli incantesimi ritornando al punto di partenza
-- CARATTERISTICHE: numero di giocatori 2-4, età consigliata 7+, durata 20-30 minuti, edizione in lingua italiana
 - LABIRINTO: festeggia il centenario di Disney con questa edizione speciale di uno dei giochi classici più amati in Italia e nel mondo; ogni concorrente gira nel labirinto alla ricerca del suo obiettivo segreto, la difficoltà di trovare la strada giusta aumenta con gli spostamenti effettuati dagli avversari
+- CARATTERISTICHE: numero di giocatori 2-4, età consigliata 7+, durata 20-30 minuti, edizione in lingua italiana
+- GIOCO DASTUZIA: il labirinto si trasforma ad ogni turno e le vie di collegamento fra i diversi punti vengono stravolte di volta in volta; vince chi per primo riuscirà a scoprire tutti i tesori e gli incantesimi ritornando al punto di partenza
+- SCOPRI LA LINEA LABIRINTO: scopri tutti i Labirinti Magici firmati Ravensburger; Labirinto Glow in the dark per giocare al buio, Junior Labyrinth per i più piccoli e le versioni dedicate ai personaggi amati come Harry Potter, Super Mario e molti altri
+- DISNEY: ogni giocatore ha il compito di scovare oggetti misteriosi ed esseri straordinari, nascosti in un labirinto incantato, spostandosi lungo i percorsi magici del gioco; ottimo da regalare, in particolare per i fan di Disney
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BCF8PV6X{{</world>}}

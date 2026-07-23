@@ -29,8 +29,8 @@ average: '30.99'
 ℹ️:
 
 - La storia completa: Storie dettagliate dei personaggi e linee temporali tracciano l’epica narrazione di Earthrealm, Outworld ed Edenia attraverso l’era arcade
-- Niente più segreti: Con la semplice pressione di un pulsante, sblocca tutti i personaggi segreti, modifica le impostazioni di gioco e accedi ai menu nascosti degli sviluppatori per giocare come vuoi tu
 - Gioco online: Partecipa a battaglie online migliorate dal rollback netcode — progettato per mantenere la precisione di ogni attacco, anche con giocatori a grandi distanze
+- Niente più segreti: Con la semplice pressione di un pulsante, sblocca tutti i personaggi segreti, modifica le impostazioni di gioco e accedi ai menu nascosti degli sviluppatori per giocare come vuoi tu
 - Più edizioni iconiche: Vivi le origini leggendarie di Mortal Kombat con gli iconici classici arcade, insieme alle amate versioni casalinghe per Super NES e Sega Genesis. Approfondisci l’esperienza con uscite rare e amatissime dai fan su Game Boy, Game Gear, Sega 32X, Game Boy Advance e altro ancora
 - Documentario interattivo: Contenuti approfonditi dietro le quinte raccontano la storia della saga, con interviste esclusive e inedite agli sviluppatori originali di Mortal Kombat Ed Boon, John Tobias, Dan Forden, John Vogel e molti altri
 

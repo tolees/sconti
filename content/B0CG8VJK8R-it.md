@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Da donna
-- Camicia classica a maniche corte con righe verticali e due tasche sul petto. Design elegante con maniche arrotolate e bottoni decorativi. Ideale per abbigliamento casual da ufficio o attività rilassate nel fine settimana. Il materiale leggero offre comfort e libertà di movimento.
 - 95% poliestere
+- Camicia classica a maniche corte con righe verticali e due tasche sul petto. Design elegante con maniche arrotolate e bottoni decorativi. Ideale per abbigliamento casual da ufficio o attività rilassate nel fine settimana. Il materiale leggero offre comfort e libertà di movimento.
+- Da donna
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CG8VJK8R{{</world>}}

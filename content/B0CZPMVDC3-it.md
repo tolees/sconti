@@ -28,9 +28,9 @@ average: '37.5'
 
 ℹ️:
 
+- Giacca e pantaloni: Tasche anteriori
 - Zip integrale con collo alto
 - 100% poliestere (riciclato)
-- Giacca e pantaloni: Tasche anteriori
 - Vestibilità regolare con vita a media altezza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

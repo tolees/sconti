@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- MODO DUSO: Applica una piccola quantità sui capelli bagnati dopo lo shampoo, lascia agire per qualche minuto e risciacqua accuratamente. Usalo in combinazione con lo Shampoo e la Maschera alla Mandorla di Sicilia per una maggiore idratazione
-- INGREDIENTE PRINCIPALE: Dalla rigogliosa e soleggiata terra di Sicilia, nasce un frutto straordinario: la Mandorla. I semi sono spremuti a freddo dopo sgusciatura e pelatura per mantenerne inalterati tutti i principi attivi
 - RISULTATI: Adatto al lavaggio frequente studiato per capelli e cute sensibili, grazie alla sua formula rende i capelli puliti, luminosi e morbidi al tatto
-- AZIONE: La Mandorla di Sicilia contenuta nella formula detergea e protegge il cuoio capelluto aiutando a preservarne lidro-equilibrio, per capelli sani, puliti e luminosi
+- MODO DUSO: Applica una piccola quantità sui capelli bagnati dopo lo shampoo, lascia agire per qualche minuto e risciacqua accuratamente. Usalo in combinazione con lo Shampoo e la Maschera alla Mandorla di Sicilia per una maggiore idratazione
 - TESTATO: Questo prodotto è vegano e non contiene siliconi, sles e peg. Testao al nichel, cobalto e chromo e approvato dai dermatologi. Adatto per bambini a partire da 6 anni
+- INGREDIENTE PRINCIPALE: Dalla rigogliosa e soleggiata terra di Sicilia, nasce un frutto straordinario: la Mandorla. I semi sono spremuti a freddo dopo sgusciatura e pelatura per mantenerne inalterati tutti i principi attivi
+- AZIONE: La Mandorla di Sicilia contenuta nella formula detergea e protegge il cuoio capelluto aiutando a preservarne lidro-equilibrio, per capelli sani, puliti e luminosi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BZ5ZR1W6{{</world>}}

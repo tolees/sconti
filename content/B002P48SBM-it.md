@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Chiusura lampo anteriore
-- Fodera interna a quadretti rossi
-- Collo alto con 2 bottoni
 - 60% poliestere e 40% cotone
+- Collo alto con 2 bottoni
+- Fodera interna a quadretti rossi
+- Chiusura lampo anteriore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B002P48SBM{{</world>}}

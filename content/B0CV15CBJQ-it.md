@@ -29,9 +29,9 @@ average: '56.6566666666667'
 ℹ️:
 
 - FACILE DA PULIRE – Il cestello rimovibile con rivestimento antiaderente è lavabile in lavastoviglie, rendendo la pulizia semplice e veloce.
-- FACILE DA USARE - il funzionamento intuitivo rende la friggitrice particolarmente attraente. Lelegante display digitale a LED consente di impostare le funzioni di ora e temperatura tramite il touchscreen. I programmi di cottura preimpostati consentono il preriscaldamento e il mantenimento in caldo dei piatti.
 - 12 PROGRAMMI INTELLIGENTI - Fino a 12 funzioni, tra cui friggere ad aria calda, grigliare, arrostire, tostare, asciugare, riscaldare e molto altro ancora, consentono di preparare quasi tutti i cibi.
 - FAMIGLIA - Con la sua capacità di 8 litri, la friggitrice ad aria XL è perfetta per tutta la famiglia. I piatti preferiti possono essere facilmente in porzioni per un massimo di 8-10 persone con una quantità di riempimento.
+- FACILE DA USARE - il funzionamento intuitivo rende la friggitrice particolarmente attraente. Lelegante display digitale a LED consente di impostare le funzioni di ora e temperatura tramite il touchscreen. I programmi di cottura preimpostati consentono il preriscaldamento e il mantenimento in caldo dei piatti.
 - PREPARAZIONE SANA - con la Airfryer si possono preparare cibi delicati e a basso contenuto di grassi. Grazie all’elevata potenza di 1800 W e alla circolazione dell’aria calda, i cibi possono essere stufati, grigliati, cotti e fritti in modo rapido e semplice.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

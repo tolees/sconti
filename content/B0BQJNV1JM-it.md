@@ -28,9 +28,9 @@ average: '16.36'
 
 ℹ️:
 
-- Girovita elasticizzato con cordino
-- Tela, 100% poliestere riciclato
 - AEROREADY
+- Tela, 100% poliestere riciclato
+- Girovita elasticizzato con cordino
 - Vita media e vestibilità regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

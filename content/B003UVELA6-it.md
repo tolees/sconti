@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- CONTENUTO DELLA CONFEZIONE: Staffa TV preassemblata, tasselli (solo per pareti in calcestruzzo), viti per lo schermo, viti per parete e accessori.
+- 𝗙𝗨𝗡𝗭𝗜𝗢𝗡𝗜: Mobile TV snodabile è orientabile 120° gradi, con larghezza dello schermo max. 80cm. Braccio con inclinazione regolabile +/-15°. Distanza parete 115-545mm. Rotazione piastra frontale +/-6°
 - CONSIGLIATO PER: Diagonali dello schermo compatibili: 102cm/40" 107cm/42" 109cm/43" 119cm/47" 124cm/49" 132cm/52" 140cm/55" 147cm/58" 152cm/60" 165cm/65" 178cm/70" 191cm/75" 216cm/85"
 - STANDARD VESA SUPPORTATI: La staffa da parete TV ha unelevata capacità di carico: ca. 95 kg fino a VESA 400x400 e ca. 55 kg fino a VESA 600x400.- 300x200 300x300 400x200 400x400 500x400 600x400
-- 𝗙𝗨𝗡𝗭𝗜𝗢𝗡𝗜: Mobile TV snodabile è orientabile 120° gradi, con larghezza dello schermo max. 80cm. Braccio con inclinazione regolabile +/-15°. Distanza parete 115-545mm. Rotazione piastra frontale +/-6°
 - UNIVERSALE: Adatto per tutti i produttori e marchi, nonché per schermi curvi - a condizione che la posizione e le dimensioni dello standard VESA, nonché il peso del televisore, siano supportati!
-- CONTENUTO DELLA CONFEZIONE: Staffa TV preassemblata, tasselli (solo per pareti in calcestruzzo), viti per lo schermo, viti per parete e accessori.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B003UVELA6{{</world>}}

@@ -28,11 +28,11 @@ average: '17.28'
 
 ℹ️:
 
-- Complete your objectives and deliveries across 10 unique sandbox maps and 11 challenge maps.Set in the untamed landscapes of Siberia and for the first time in MudRunner, Northern USA
-- Features nine of most iconic US vehicles from household brands like Western Star, Hummer and Chevrolet Drive more than 30 powerful all-terrain vehicles, and equip them with 60 add-ons to suit your mission!
 - Put yourself in the drivers seat and take powerful all-terrain vehicles across extreme landscapes with incredible physics with only a map and compass as guides
 - Spintires: MudRunner - American Wilds is the ultimate version of the indie hit Spintires: MudRunner, including all DLC already released, as well as the upcoming American Wilds expansion
+- Features nine of most iconic US vehicles from household brands like Western Star, Hummer and Chevrolet Drive more than 30 powerful all-terrain vehicles, and equip them with 60 add-ons to suit your mission!
 - American Wilds comes with highly-requested additions, including 2 new sandbox maps inspired by the rough lands of Montana and North Dakota and new challenges to take on
+- Complete your objectives and deliveries across 10 unique sandbox maps and 11 challenge maps.Set in the untamed landscapes of Siberia and for the first time in MudRunner, Northern USA
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07L3RBWRH{{</world>}}

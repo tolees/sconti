@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Realizzato in morbida fibra di misto cotone
 - Facile da indossare
+- Realizzato in morbida fibra di misto cotone
 - Ottimo per luso quotidiano
 - Maglione basic lavorato a maglia con collo alto
 - Collo a costine

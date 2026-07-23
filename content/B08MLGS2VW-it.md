@@ -28,16 +28,16 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Potenza 1380W | Termostato regolabile da 100° a 230°C
-- Dimensioni (L x H x P): 46.5 x 28 x 31
-- 6 cotture di cottura | Dimensioni interne: 23 cm x 25,5 cm x 32 cm
-- 4 resistenze riscaldanti in acciaio corazzato
-- Facile da pulire: pareti interne antiaderente | Indicatore luminoso di funzionamento
-- Accessori: 1 griglia, 1 leccarda antiaderente, 1 maniglia di presa leccarda
-- Alimentazione: 230V - 50/60 Hz
 - Capacità 20 Litri | Ventilazione e lampada interna | Timer 60 minuti con segnale acustico
-- Il Moro 20 Plus può contenere un piatto di diametro 25 cm
+- Alimentazione: 230V - 50/60 Hz
 - Funzioni di cottura: Base, Grill, Combinata
+- Potenza 1380W | Termostato regolabile da 100° a 230°C
+- 6 cotture di cottura | Dimensioni interne: 23 cm x 25,5 cm x 32 cm
+- Il Moro 20 Plus può contenere un piatto di diametro 25 cm
+- Dimensioni (L x H x P): 46.5 x 28 x 31
+- 4 resistenze riscaldanti in acciaio corazzato
+- Accessori: 1 griglia, 1 leccarda antiaderente, 1 maniglia di presa leccarda
+- Facile da pulire: pareti interne antiaderente | Indicatore luminoso di funzionamento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08MLGS2VW{{</world>}}

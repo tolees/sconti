@@ -30,9 +30,9 @@ average: '25.8972727272727'
 
 - Partecipa allo Speedhunters Showdown e, durante il giorno, vinci denaro in gare, competizioni di derapate ed eventi fuoristrada.
 - Ora che ci sono ancora più opzioni per personalizzare le tue auto ed esprimere la tua identità al volante, non è il momento di essere timidi. Tira fuori quello che hai dentro e fai vedere a tutti chi sei.
+- Guardati le spalle dalla polizia, però: una volta tramontato il sole, non sarai solamente tu a infrangere le regole. Vivrai unesperienza elettrizzante e correrai rischi che ti daranno incredibili scariche di adrenalina.
 - Sotto pressione – A meno che tu non li faccia arrabbiare, i poliziotti che pattugliano le strade di Palm City durante il giorno ti lasceranno in pace. Tuttavia, una volta calato il buio, tutto cambia: una task force corrotta darà la caccia a te e alle tue auto. Vai a fondo di questa faccenda e affronta il capo dellunità operativa, il tenente Mercer, mentre entrambi vi battete per dominare le strade.
 - Corri di giorno e rischia tutto di notte in Need for Speed Heat.
-- Guardati le spalle dalla polizia, però: una volta tramontato il sole, non sarai solamente tu a infrangere le regole. Vivrai unesperienza elettrizzante e correrai rischi che ti daranno incredibili scariche di adrenalina.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07W8YKM1D{{</world>}}

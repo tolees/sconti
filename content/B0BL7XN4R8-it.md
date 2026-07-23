@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- *E.S.E; dm 44 ed *E.S.E sono marchi registrati dal consorzio EASY SERVING ESPRESSO La produzione di queste cialde è autonoma non collegata né direttamente e né indirettamente alla EASY SERVING ESPRESSO
-- Cialde Borbone per espresso d’orzo, compatibili con sistema a cialde; Scopri tutta la linea di aromatizzati in cialda Caffè Borbone; Gli aromatizzati in cialda Caffè Borbone sono una linea di espressi, tè e tisane che nascono dalla selezione delle migliori erbe, fiori e frutti per coccolare il tuo palato in ogni stagione; Sono ideali per scaldare le fredde giornate invernali e godersi piacevoli momenti di relax, mentre d’estate si reiventano come cocktail salutare ipocalorico, con un po’ di ghiaccio, una cannuccia e un pizzico di fantasia
 - FORMATO: 72 Cialde - 4 astucci da 18
+- Cialde Borbone per espresso d’orzo, compatibili con sistema a cialde; Scopri tutta la linea di aromatizzati in cialda Caffè Borbone; Gli aromatizzati in cialda Caffè Borbone sono una linea di espressi, tè e tisane che nascono dalla selezione delle migliori erbe, fiori e frutti per coccolare il tuo palato in ogni stagione; Sono ideali per scaldare le fredde giornate invernali e godersi piacevoli momenti di relax, mentre d’estate si reiventano come cocktail salutare ipocalorico, con un po’ di ghiaccio, una cannuccia e un pizzico di fantasia
 - Dalla selezione delle migliori spighe di orzo nasce un gustoso espresso, naturalmente buono, ideale per un piacevole risveglio o per accompagnarti in pausa; Scopri tutte le nuove ricette degli aromatizzati in cialda Caffè Borbone,deliziose bevande a base vegetale ideali per ogni esigenza: espressi, tè e tisane con proprietà digestive, rilassanti o energizzanti, con un unico denominatore comune, il tuo benessere
+- *E.S.E; dm 44 ed *E.S.E sono marchi registrati dal consorzio EASY SERVING ESPRESSO La produzione di queste cialde è autonoma non collegata né direttamente e né indirettamente alla EASY SERVING ESPRESSO
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BL7XN4R8{{</world>}}

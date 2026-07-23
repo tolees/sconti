@@ -28,10 +28,10 @@ average: '39.56'
 
 ℹ️:
 
-- Il Caffè in grani Intermezzo della Linea Le Classiche di Segafredo Zanetti è utilizzabile, con diversi gradi di macinatura, su macchine automatiche, tradizionali e caffettiere moka
-- Confezione salva aroma: la speciale valvola permette di imbustare il caffè appena tostato e macinato in modo da mantenere all’interno del pacchetto tutte le più pregiate componenti aromatiche
-- Il Caffè Intermezzo Linea Le Classiche di Segafredo Zanetti nasce da una miscela di caffè Robusta dal carattere deciso, bilanciata da Arabica Sudamericani
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
+- Il Caffè in grani Intermezzo della Linea Le Classiche di Segafredo Zanetti è utilizzabile, con diversi gradi di macinatura, su macchine automatiche, tradizionali e caffettiere moka
+- Il Caffè Intermezzo Linea Le Classiche di Segafredo Zanetti nasce da una miscela di caffè Robusta dal carattere deciso, bilanciata da Arabica Sudamericani
+- Confezione salva aroma: la speciale valvola permette di imbustare il caffè appena tostato e macinato in modo da mantenere all’interno del pacchetto tutte le più pregiate componenti aromatiche
 - Linea Le Classiche: il Caffè Intermezzo di Segafredo Zanetti si caratterizza per il gusto intenso, deciso e corposo e per l’aroma con sentori di mandorla
 - Intensità molto alta: caffè dal corpo parecchio consistente. Tostatura scura. Ideale per chi non rinuncia ai profumi originari degli aromi antichi
 

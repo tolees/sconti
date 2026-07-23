@@ -28,10 +28,10 @@ average: '15.0'
 
 ℹ️:
 
-- Crea un villaggio di funghi per ospitare le fate nella radura. Guida con attenzione la tua fata, da un villaggio all’altro, attraverso l’anello incantato per raccogliere quanto più Mana possibile, l’energia magica delle fate.
-- Età consigliata: 10+ Anni | Numero giocatori: 2-4 | Tempo stimato: 40
 - Entra nel magico mondo di Fairy Ring!
+- Età consigliata: 10+ Anni | Numero giocatori: 2-4 | Tempo stimato: 40
 - Un raggio di luna illumina la radura. Le fate si risvegliano e spiegano le ali. I funghi spuntano dal terreno a formare un cerchio, mentre le prime lucciole iniziano a posarsi. La magia sta tornando nella foresta: è giunta l’ora di prepararsi per l’inverno...
+- Crea un villaggio di funghi per ospitare le fate nella radura. Guida con attenzione la tua fata, da un villaggio all’altro, attraverso l’anello incantato per raccogliere quanto più Mana possibile, l’energia magica delle fate.
 - Hai due stagioni per sviluppare il tuo villaggio prima che arrivi l’inverno. Ogni decisione è cruciale per vincere la partita!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

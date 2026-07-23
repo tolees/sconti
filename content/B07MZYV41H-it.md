@@ -28,12 +28,12 @@ average: '22.652'
 
 ℹ️:
 
-- Visita il sito Nestlé per scoprire come le nostre marche sono scese in campo e contribuiscono al raggiungimento degli obiettivi di sostenibilità del Gruppo Nestlé con progetti concreti
-- 6 confezioni da 16 capsule: 96 capsule totali
-- Capsule originali per macchine NESCAFÉ DOLCE GUSTO
-- Capsule compatibili con macchina per caffè espresso e altre bevande NESCAFÉ DOLCE GUSTO
 - Lanima vivace di Roma in un caffè espresso, intensità 8/13
+- Visita il sito Nestlé per scoprire come le nostre marche sono scese in campo e contribuiscono al raggiungimento degli obiettivi di sostenibilità del Gruppo Nestlé con progetti concreti
+- Capsule compatibili con macchina per caffè espresso e altre bevande NESCAFÉ DOLCE GUSTO
+- Capsule originali per macchine NESCAFÉ DOLCE GUSTO
 - Una miscela ispirata alla tradizione italiana del caffè, torrefatto e macinato
+- 6 confezioni da 16 capsule: 96 capsule totali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07MZYV41H{{</world>}}

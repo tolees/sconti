@@ -30,9 +30,9 @@ average: '23.80625'
 
 - Nessun trapianto necessario: è sufficiente infilare l’apposito stoppino di irrigazione in dotazione nel vaso di coltura della pianta e inserire quest’ultimo nel vaso
 - Con sistema di irrigazione: Il sistema di irrigazione originale LECHUZA con stoppino integrato nel vaso consente alle vostre piante di ricevere sempre la giusta quantità d’acqua; Dite addio a dosaggi di acqua sbagliati
+- Superficie di prima classe: la pregiata superficie laccata lucida risplende in tutta la sua eleganza ed esclusività; Disponibile in diversi colori e dimensioni
 - Fabbricato in Germania: in plastica di qualità, riciclabile al 100%, durevole e infrangibile
 - TUTTO IN UNO: 1 fioriera CUBE Glossy, con sistema di irrigazione a bastoncino e inserto per piante rimovibile con indicatore del livello dellacqua; Materiale: plastica Dimensioni: 17 x 17 x 16 cm Serbatoio dacqua: 0,7 l Inserto per piante: Ø 13-15 cm
-- Superficie di prima classe: la pregiata superficie laccata lucida risplende in tutta la sua eleganza ed esclusività; Disponibile in diversi colori e dimensioni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07NCZDSHZ{{</world>}}

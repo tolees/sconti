@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- NETGEAR
 - Switch
+- NETGEAR
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F3JHSFJ8{{</world>}}

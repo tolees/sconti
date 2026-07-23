@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- ALTAMENTE PERFORMANTE CON BASSI CONSUMI: Grazie al suo flusso luminoso di 900 lm per metro e al grado di protezione IP65 garantisce limpermeabilità e la giusta illuminazione agli ambienti esterni.
 - COLORE DELLA LUCE: Bianco Freddo 6500K
-- REGOLA LA LINGHEZZA COME DESIDERI: La lunghezza regolabile è data dalla possibilità di tagliare la striscia ogni 3 led permettendole di adattarsi ad ogni misura sia necessaria, dando a questa striscia tanti diversi utilizzi per illuminare parti della casa con stile ed eleganza.
-- STRISCIA LED DA ESTERNO V-TAC: Striscia Led flessibile e adesiva da 11W per metro, 300 LED distribuiti su 5 Metri ( 60 Led per metro) con una larghezza di 11,4 mm di colore bianco freddo ( 6500K ).
 - DETTAGLI: La Striscia Led è adesiva e larga 11,4mm, si può sezionare ogni 3 led per creare il proprio circuito alimentato a 12 Volt.
+- REGOLA LA LINGHEZZA COME DESIDERI: La lunghezza regolabile è data dalla possibilità di tagliare la striscia ogni 3 led permettendole di adattarsi ad ogni misura sia necessaria, dando a questa striscia tanti diversi utilizzi per illuminare parti della casa con stile ed eleganza.
+- ALTAMENTE PERFORMANTE CON BASSI CONSUMI: Grazie al suo flusso luminoso di 900 lm per metro e al grado di protezione IP65 garantisce limpermeabilità e la giusta illuminazione agli ambienti esterni.
+- STRISCIA LED DA ESTERNO V-TAC: Striscia Led flessibile e adesiva da 11W per metro, 300 LED distribuiti su 5 Metri ( 60 Led per metro) con una larghezza di 11,4 mm di colore bianco freddo ( 6500K ).
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CWDCM6HG{{</world>}}

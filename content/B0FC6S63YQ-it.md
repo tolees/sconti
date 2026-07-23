@@ -28,10 +28,10 @@ average: '39.99'
 
 ℹ️:
 
-- Personalizza la tua esperienza: Mescola 45 veicoli unici con ben 70 gadget di ogni tipo per modificare la tua gara, potenziare il tuo kart e creare il veicolo definitivo che rispecchi il tuo stile di gioco.
-- Effettua il pre-ordine di Sonic Racing: CrossWorlds e ricevi Riccio mannaro come personaggio giocabile, il suo veicolo "Beast Spike" e anche il suo adesivo!
-- Domina grazie ai potenziamenti: Domina i tuoi avversari con 23 potenziamenti, con oggetti già visti e apprezzati e novità come il monster truck!
 - Pronti, partenza, teletrasporto!: Sfreccia su 24 percorsi e teletrasportati in 15 CrossWorld con i Ring di trasferimento, con meccaniche tutte nuove che porteranno gli iconici personaggi della saga di Sonic e SEGA in nuove dimensioni. Usa limprevedibilità a tuo favore, cambiando il paesaggio durante ogni gara!
+- Personalizza la tua esperienza: Mescola 45 veicoli unici con ben 70 gadget di ogni tipo per modificare la tua gara, potenziare il tuo kart e creare il veicolo definitivo che rispecchi il tuo stile di gioco.
+- Domina grazie ai potenziamenti: Domina i tuoi avversari con 23 potenziamenti, con oggetti già visti e apprezzati e novità come il monster truck!
+- Effettua il pre-ordine di Sonic Racing: CrossWorlds e ricevi Riccio mannaro come personaggio giocabile, il suo veicolo "Beast Spike" e anche il suo adesivo!
 - Che vinca il migliore!: Scegli fra 23 iconici personaggi, la scuderia più grande che un gioco della serie Sonic Racing abbia mai avuto!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

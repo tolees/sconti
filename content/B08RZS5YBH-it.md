@@ -28,11 +28,11 @@ average: '53.83'
 
 ℹ️:
 
+- La forma della tensione: Onda sinusoidale modificata | Prese: 2x Schuko | Batteria: 1 x 12V/7Ah | Potere apparente: 600VA-999VA | Potenza: 360W
+- Grazie allimpiego delle più recenti tecnologie abbiamo raggiunto un brevissimo tempo d’intervento degli UPS in modalità di alimentazione a batteria, pari a 2-6 millisecondi,e un tempo di sostenimento dei dispositivi collegati fino a 20 minute.
+- LUPS Green Cell fornisce una protezione completa per qualsiasi apparecchiatura collegata durante la perdita di elettricità e picchi di tensione. Grazie a lui di emergenza avrete il tempo di salvare il vostro lavoro.
 - Il software facile da usare offre versatili funzionalità di gestione dellalimentatore UPS dal livello del computer. Invia notifiche, programma il tempo di funzionamento in modalità di emergenza, e molto altro ancora.
 - Il gruppo di continuità con potenza totale di 360W e una potenza apparente da 600-999VA è dotato di batterie ricaricabili AGM del marchio Green Cell, che assicurano parametri stabili e sicuri per il corretto funzionamento dei dispositivi collegati.
-- Grazie allimpiego delle più recenti tecnologie abbiamo raggiunto un brevissimo tempo d’intervento degli UPS in modalità di alimentazione a batteria, pari a 2-6 millisecondi,e un tempo di sostenimento dei dispositivi collegati fino a 20 minute.
-- La forma della tensione: Onda sinusoidale modificata | Prese: 2x Schuko | Batteria: 1 x 12V/7Ah | Potere apparente: 600VA-999VA | Potenza: 360W
-- LUPS Green Cell fornisce una protezione completa per qualsiasi apparecchiatura collegata durante la perdita di elettricità e picchi di tensione. Grazie a lui di emergenza avrete il tempo di salvare il vostro lavoro.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08RZS5YBH{{</world>}}

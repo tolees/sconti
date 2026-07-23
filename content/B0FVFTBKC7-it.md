@@ -28,9 +28,9 @@ average: '48.93'
 
 ℹ️:
 
-- LESPERIENZA PARTITA MIGLIORE DI SEMPRE: Il nuovo motore Unity permette di vivere lesperienza partita più coinvolgente nella storia della serie, con movimenti dei calciatori migliorati e un maggiore livello di dettaglio in campo che aumentano la profondità e il coinvolgimento emotivo di ogni azione.
-- SCENDE IN CAMPO LA PREMIER LEAGUE: La Premier League fa il suo debutto. Competi al massimo livello del calcio inglese con stemmi e divise dei club su licenza e foto ufficiali dei giocatori. Il livello di realismo raggiunge nuove vette mentre insegui la gloria nazionale, offrendoti unesperienza completa da un punto di vista privilegiato.
 - ARRIVA IL CALCIO FEMMINILE: Scopri un mondo di nuove possibilità con il tanto atteso debutto del calcio femminile, integrato perfettamente allinterno dellecosistema di FM a formare un unico universo calcistico. Affronta nuove sfide, svela storie nascoste e scopri nuovi talenti mentre batti territori inesplorati e allarghi i tuoi orizzonti manageriali.
+- SCENDE IN CAMPO LA PREMIER LEAGUE: La Premier League fa il suo debutto. Competi al massimo livello del calcio inglese con stemmi e divise dei club su licenza e foto ufficiali dei giocatori. Il livello di realismo raggiunge nuove vette mentre insegui la gloria nazionale, offrendoti unesperienza completa da un punto di vista privilegiato.
+- LESPERIENZA PARTITA MIGLIORE DI SEMPRE: Il nuovo motore Unity permette di vivere lesperienza partita più coinvolgente nella storia della serie, con movimenti dei calciatori migliorati e un maggiore livello di dettaglio in campo che aumentano la profondità e il coinvolgimento emotivo di ogni azione.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FVFTBKC7{{</world>}}

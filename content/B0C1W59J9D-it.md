@@ -30,9 +30,9 @@ average: '7.99'
 
 - MOKA - La caffettiera Zanetti è la moka perfetta per preparare il vero caffè italiano, in ogni momento della giornata.
 - GUARNIZIONE - La moka Zanetti è dotata di una guarnizione in silicone, igienico e duraturo che permette una chiusura ermetica e sicura della caffettiera.
+- SISTEMA ANTIGOCCIA - Linnovativo sistema anti-goccia evita la fuoriuscita del caffè mentre lo si versa.
 - TAZZE - Il caffè viene misurato in tazzine, la moka Zanetti è disponibile in diverse misure: 2 tazze.
 - VALVOLA - La moka caffè Zanetti dispone di una valvola nickelata per la fuoriuscita del vapore per evitare che si alzi troppo la pressione interna.
-- SISTEMA ANTIGOCCIA - Linnovativo sistema anti-goccia evita la fuoriuscita del caffè mentre lo si versa.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C1W59J9D{{</world>}}

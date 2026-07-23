@@ -28,9 +28,9 @@ average: '15.89'
 
 ℹ️:
 
-- Materiale: 100% Cotone
-- Polsini con bottoni
 - Camicia da donna a maniche lunghe, colletto con bottoni
+- Polsini con bottoni
+- Materiale: 100% Cotone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BS4B61BD{{</world>}}

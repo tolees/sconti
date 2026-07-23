@@ -28,10 +28,10 @@ average: '174.34'
 
 ℹ️:
 
-- Sempre al sicuro: con Galaxy A16 5G hai disposizione 6 generazioni di aggiornamenti del sistema operativo e 6 anni di aggiornamenti della sicurezza;² inoltre dimenticati dei piccoli imprevisti e affronta le tue giornate con serenità grazie alla resistenza IP54 ³
-- Colori vividi e visione immersiva: lampio display Super AMOLED FHD+ da 6,7 pollici¹ con cornici ridotte di Galaxy A16 5G dà vita ai contenuti con colori vibranti e immagini super nitide
 - Cattura ogni dettaglio: fotocamera principale 50MP per immortalare ricordi dai colori vividi, fotocamera ultra grandangolare 5MP e fotocamera macro 2MP per paesaggi e primi piani e fotocamera frontale 13MP per selfie sorprendenti
+- Sempre al sicuro: con Galaxy A16 5G hai disposizione 6 generazioni di aggiornamenti del sistema operativo e 6 anni di aggiornamenti della sicurezza;² inoltre dimenticati dei piccoli imprevisti e affronta le tue giornate con serenità grazie alla resistenza IP54 ³
 - Alleggerisci la tua giornata con la potenza e la velocità del 5G: sperimenta prestazioni al top con la CPU potenziata da 2,4 GHz, sconfiggi i tuoi avversari e guarda in streaming il tuo programma preferito senza perdere neanche un frame ⁴
+- Colori vividi e visione immersiva: lampio display Super AMOLED FHD+ da 6,7 pollici¹ con cornici ridotte di Galaxy A16 5G dà vita ai contenuti con colori vibranti e immagini super nitide
 - Contenuto della confezione: 1x Smartphone Samsung Galaxy A16 5G, Cavo Dati Type C - Type C e Strumento di Espulsione SIM
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

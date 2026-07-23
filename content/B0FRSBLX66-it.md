@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- COMIX: Da una costola dellomonimo giornale di umorismo e fumetti, nel 1994 in casa Franco Cosimo Panini Editore nasce la prima agenda Comix. Oggi Comix include unampia gamma di prodotti per la scuola, luniversità, il lavoro e il tempo libero
 - AGENDA 2026: dal 1 gennaio 2026 al 31 dicembre 2026. 384 pagine con aforismi e battute dautore
 - ACCESSORI COMIX: Scopri tutti gli accessori Comix per scuola, università e lavoro, dagli zaini e gli astucci in morbido poliestere, alle agende di diversi formati
-- TOCCO DI STILE: copertina in PU termovirante, elastico large 8mm in tinta, doppio segnalibro, taglio colore in tinta con la copertina
 - AGENDE COMIX 12 MESI: scopri le agende COMIX 12 mesi, disponibili in diversi formati e varianti. Inoltre, potrai scegliere tra la versione giornaliera e settimanale
+- COMIX: Da una costola dellomonimo giornale di umorismo e fumetti, nel 1994 in casa Franco Cosimo Panini Editore nasce la prima agenda Comix. Oggi Comix include unampia gamma di prodotti per la scuola, luniversità, il lavoro e il tempo libero
+- TOCCO DI STILE: copertina in PU termovirante, elastico large 8mm in tinta, doppio segnalibro, taglio colore in tinta con la copertina
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FRSBLX66{{</world>}}

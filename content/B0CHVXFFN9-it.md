@@ -28,11 +28,11 @@ average: '34.2766666666667'
 
 ℹ️:
 
-- 💦 PROTEZIONE IP54: Ha un grado di protezione dai liquidi ideale per l’uso sia all’interno che all’esterno.
-- 💡 LUCE CALDA E CONFORTEVOLE: Sorgente luminosa regolabile da 3.5 W e 240 lumen composta da 20 + 6 led con temperatura di colore 2700-2900K, per una luce naturale e rilassante ideale per la tavola e tutte le attività in casa.
 - 👇 REGOLAZIONE CON TOUCH DIMMER: Si accende e si spegne con un tocco rapido sulla superficie touch del paralume. Si regola (dimmer) mantenendo il dito sulla superficie touch. La lampada Classica 3 è dotata di memoria dell’ultima luminosità impostata.
-- 🌟 NUOVA CLASSICA 3: Nuova base rotonda elegante. Altezza 38 CM. Connettore USB-C reversibile facile da connettere. Batterie sostituibili dallutente.
+- 💡 LUCE CALDA E CONFORTEVOLE: Sorgente luminosa regolabile da 3.5 W e 240 lumen composta da 20 + 6 led con temperatura di colore 2700-2900K, per una luce naturale e rilassante ideale per la tavola e tutte le attività in casa.
+- 💦 PROTEZIONE IP54: Ha un grado di protezione dai liquidi ideale per l’uso sia all’interno che all’esterno.
 - 🔋 LUNGA DURATA E BATTERIE SOSTITUIBILI: Incorpora 2 batterie al litio a lunga durata: da 9 a 48 ore di illuminazione continua, in base alla luminosità impostata. Si ricarica completamente in 6 ore con cavetto USB-C. Nella confezione è incluso caricatore USB e un cavo USB-C in tinta con la lampada. Con Classica 3 la sostituzione del pacco batterie può avvenire autonomamente.
+- 🌟 NUOVA CLASSICA 3: Nuova base rotonda elegante. Altezza 38 CM. Connettore USB-C reversibile facile da connettere. Batterie sostituibili dallutente.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CHVXFFN9{{</world>}}

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Viene fornito con una presa daria laterale che può supportare fino a 2 ventole / radiatore da 240 mm.
 - Viene fornito con una staffa GPU verticale come accessorio che consente di montare la scheda grafica verticalmente.
+- Viene fornito con una presa daria laterale che può supportare fino a 2 ventole / radiatore da 240 mm.
 - Ottimizzato per fornire un flusso daria generoso ed efficace per il raffreddamento del sistema con prese daria integrate in tutto il sistema.
 - La finestra oscillante in vetro temperato incernierato da 3 mm offre la migliore durata e accessibilità al sistema.
 

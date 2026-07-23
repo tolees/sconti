@@ -28,11 +28,11 @@ average: '194.69'
 
 ℹ️:
 
-- Concetto di azionamento altamente efficiente: grazie al motore potente, al basso consumo energetico e alla bassa resistenza, il lavoro con il lavapatio PCL 6 è particolarmente comodo e agevole
-- La confezione include: il lavapatio Kärcher PCL 6 e 4 spazzole a rullo per superfici in legno e WPC. Le spazzole compatibili per i pavimenti in pietra sono disponibili separatamente
-- Spazzola a rullo 2x2: le quattro spazzole a rullo rimuovono anche lo sporco più ostinato, come muschio e muffa, su una superficie di lavoro di 300 mm
-- Per balconi e terrazze: il lavapatio PCL 6 di Kärcher pulisce senza fatica e in modo efficace rivestimenti e pavimentazioni in legno e plastica (WPC), le piastrelle e i lastricati in pietra
 - Applicazione dellacqua integrata: lacqua esce da due ugelli e finisce sulla superficie da pulire. A seconda del tipo di pulizia, la quantità dacqua viene regolata con una valvola sullimpugnatura
+- Per balconi e terrazze: il lavapatio PCL 6 di Kärcher pulisce senza fatica e in modo efficace rivestimenti e pavimentazioni in legno e plastica (WPC), le piastrelle e i lastricati in pietra
+- La confezione include: il lavapatio Kärcher PCL 6 e 4 spazzole a rullo per superfici in legno e WPC. Le spazzole compatibili per i pavimenti in pietra sono disponibili separatamente
+- Concetto di azionamento altamente efficiente: grazie al motore potente, al basso consumo energetico e alla bassa resistenza, il lavoro con il lavapatio PCL 6 è particolarmente comodo e agevole
+- Spazzola a rullo 2x2: le quattro spazzole a rullo rimuovono anche lo sporco più ostinato, come muschio e muffa, su una superficie di lavoro di 300 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DQV577DZ{{</world>}}

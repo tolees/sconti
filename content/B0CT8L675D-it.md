@@ -28,11 +28,11 @@ average: '23.45'
 
 ℹ️:
 
+- Montaggio veloce e senza fori: Il cancelletto sicurezza bambini si installa con 4 viti di regolazione e piastre adesive incluse; nessuna foratura necessaria, nessun danno alle pareti
 - Facile da aprire con una mano: Il cancello per bambino si apre e si chiude in entrambe le direzioni spingendo la chiusura di sicurezza e sollevando la porta leggermente – pratico e sicuro ogni giorno
+- Estensibile con accessori disponibili separatamente: Con prolunghe da 9/21 cm (max. 2, una per lato) puoi ampliare la larghezza del cancello da interno; per ringhiere tonde serve la Y-Spindel hauck
 - Importante da sapere: Se il lato del cancellino per bambini sembra inclinato dopo l’apertura della confezione, è normale – una volta fissate le viti, il cancelletto si raddrizza automaticamente
 - Adatto per aperture da 75–80 cm: Il cancelletto bambini viene fornito senza estensioni e si adatta a porte e scale da 75cm a 80cm con le viti regolabili; misura sempre l’apertura prima dell’acquisto
-- Montaggio veloce e senza fori: Il cancelletto sicurezza bambini si installa con 4 viti di regolazione e piastre adesive incluse; nessuna foratura necessaria, nessun danno alle pareti
-- Estensibile con accessori disponibili separatamente: Con prolunghe da 9/21 cm (max. 2, una per lato) puoi ampliare la larghezza del cancello da interno; per ringhiere tonde serve la Y-Spindel hauck
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CT8L675D{{</world>}}

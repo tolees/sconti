@@ -28,10 +28,10 @@ average: '149.99'
 
 ℹ️:
 
-- Ventola di aspirazione potente da 5000Pa La ventola di aspirazione da 5.000Pa rimuove rapidamente grandi detriti e peli. La potenza di aspirazione potenziata da 5.000Pa garantisce un’elevata efficienza di pulizia. Grazie a quattro modalità di potenza, l’aspirapolvere affronta con facilità diverse superfici ed elimina senza sforzo polvere e peli di animali dal pavimento e dalle fessure difficili da raggiungere
+- Contenitore polvere 520ml e serbatoio acqua 260ml Un contenitore e un serbatoio capienti riducono la frequenza di svuotamento e rabbocco, rendendo la pulizia delle grandi abitazioni facile e veloce.
 - Controllo remoto con l’app Xiaomi Home Collegati all’app Xiaomi Home per avviare le pulizie anche quando sei fuori, e trovare i pavimenti impeccabili al rientro. Con numerose funzioni e impostazioni personalizzabili, puoi avere il pieno controllo della pulizia dei pavimenti di casa.
 - Controllo intelligente del flusso d’acqua Il controllo intelligente del flusso d’acqua assicura una pulizia a umido accurata. Il serbatoio offre 3 livelli di erogazione, regolabili in base al tipo di pavimento, come piastrelle o parquet. Distribuzione uniforme e sistema anti-perdite garantiscono un lavaggio più intelligente ed efficiente.
-- Contenitore polvere 520ml e serbatoio acqua 260ml Un contenitore e un serbatoio capienti riducono la frequenza di svuotamento e rabbocco, rendendo la pulizia delle grandi abitazioni facile e veloce.
+- Ventola di aspirazione potente da 5000Pa La ventola di aspirazione da 5.000Pa rimuove rapidamente grandi detriti e peli. La potenza di aspirazione potenziata da 5.000Pa garantisce un’elevata efficienza di pulizia. Grazie a quattro modalità di potenza, l’aspirapolvere affronta con facilità diverse superfici ed elimina senza sforzo polvere e peli di animali dal pavimento e dalle fessure difficili da raggiungere
 - Navigazione laser LDS per una copertura di pulizia superiore Un sistema LDS più intelligente analizza rapidamente gli ambienti complessi. L’elevata precisione di posizionamento riduce le pulizie ripetute, garantendo una copertura completa senza lasciare zone scoperte.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

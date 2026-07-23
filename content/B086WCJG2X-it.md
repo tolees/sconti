@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- BIOGENTS: i nostri prodotti tengono la popolazione delle zanzare sotto controllo con successo-lotta alle zanzare mirata ed ecologica senza lutilizzo di insetticidi
-- UTILIZZO: il BG-Sweetscent può essere usato in combinazione con le trappole Biogents, per esempio la BG-Mosquitaire, ma anche con altre comuni trappole per zanzare
-- EFFICACIA: lattrattore sviluppato e brevettato in Germania imita lodore della pelle umana che attira le zanzare tigre- i componenti dellattrattore sono tuttavia atossici
 - RICARICA: una bustina dura nella trappola per due mesi, dopodichè deve essere cambiata. La confezione da 3 è quindi ideale per la lotta alle zanzare stagionale (6mesi)
+- UTILIZZO: il BG-Sweetscent può essere usato in combinazione con le trappole Biogents, per esempio la BG-Mosquitaire, ma anche con altre comuni trappole per zanzare
 - CONTENUTO: il set contiene 3 bustine di BG-Sweetscent che possono essere usate con il BG-Mosquitaire e il BG-Home e con altre trappole per zanzare - una bustina per ogni trappola
+- EFFICACIA: lattrattore sviluppato e brevettato in Germania imita lodore della pelle umana che attira le zanzare tigre- i componenti dellattrattore sono tuttavia atossici
+- BIOGENTS: i nostri prodotti tengono la popolazione delle zanzare sotto controllo con successo-lotta alle zanzare mirata ed ecologica senza lutilizzo di insetticidi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B086WCJG2X{{</world>}}

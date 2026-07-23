@@ -28,11 +28,11 @@ average: '15.15'
 
 ℹ️:
 
+- Sensore 10 anni: questo rilevatore ha una durata di vita di 10 anni. Un indicatore (sonoro e visivo) avvisa quando arriva a fine vita.
+- Pulsante di prova: testare regolarmente (almeno una volta al mese) il rilevatore per assicurarvi che siete ben protetti.
 - Facile installazione: il materiale di montaggio necessario è incluso. Installare un rilevatore di CO per ripiano, nelle stanze (o vicino a questi pezzi) o si trovano dei dispositivi a combustione e vicino alle camere. Assicurarsi che lallarme di 85 dB sia udibile da tutti.
 - Protezione efficace contro monossido di carbonio (CO): questo rilevatore, di una portata compresa tra 20 e 40 m2 è dotato di un sensore elettrochimico in grado di rilevare il CO nellaria, anche in bassa quantità (30 ppm minimo).
 - Batterie incluse: questo rilevatore di monossido di carbonio è alimentato da 3 batterie AA incluse e sostituibili, con una durata di vita di 5 anni. Una spia luminosa e un segnale acustico ti faranno sapere che è tempo di cambiarli.
-- Sensore 10 anni: questo rilevatore ha una durata di vita di 10 anni. Un indicatore (sonoro e visivo) avvisa quando arriva a fine vita.
-- Pulsante di prova: testare regolarmente (almeno una volta al mese) il rilevatore per assicurarvi che siete ben protetti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09GKPWDKJ{{</world>}}

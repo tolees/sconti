@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- MODALITÀ CLASSICA E ANNIVERSARIO Fatti strada a suon di scatti avvitati in varie zone nella modalità Classica, con la risoluzione originale del gioco e vite limitate, oppure prova la nuova modalità Anniversario, con vite infinite e su schermo panoramico HD.
-- NUOVI SBLOCCABILI! Completa missioni per sbloccare la modalità Specchio, nuove fasi, sfide, contenuti dietro le quinte, lettore musicale, corti animati, fasi speciali e molto altro!
-- BUNDLE TUTTO IN UNO Include tutti i contenuti aggiuntivi già pubblicati: missioni estreme, modalità Specchio, sfondi aggiuntivi per le bande laterali, nuove animazioni dei personaggi nei menu, musiche aggiuntive dagli altri titoli di Sonic e molto altro!
-- NUOVI PERSONAGGI GIOCABILI Gioca nei panni di Sonic, Tails, o Knuckles in Sonic The Hedgehog, Sonic The Hedgehog 2, Sonic 3 & Knuckles, e Sonic CD! E, per la prima volta in assoluto, gioca nei panni di Amy Rose in questi leggendari titoli classici!
 - UNA NUOVA FRONTIERA DEL SONIC CLASSICO SU SCHERMO PANORAMICO HD Scopri 4 classici di Sonic rimasterizzati: Sonic The Hedgehog, Sonic 2, Sonic 3 & Knuckles e Sonic CD in alta definizione, con nuovissime animazioni iniziali e finali per ciascun titolo!
+- NUOVI SBLOCCABILI! Completa missioni per sbloccare la modalità Specchio, nuove fasi, sfide, contenuti dietro le quinte, lettore musicale, corti animati, fasi speciali e molto altro!
+- NUOVI PERSONAGGI GIOCABILI Gioca nei panni di Sonic, Tails, o Knuckles in Sonic The Hedgehog, Sonic The Hedgehog 2, Sonic 3 & Knuckles, e Sonic CD! E, per la prima volta in assoluto, gioca nei panni di Amy Rose in questi leggendari titoli classici!
+- MODALITÀ CLASSICA E ANNIVERSARIO Fatti strada a suon di scatti avvitati in varie zone nella modalità Classica, con la risoluzione originale del gioco e vite limitate, oppure prova la nuova modalità Anniversario, con vite infinite e su schermo panoramico HD.
+- BUNDLE TUTTO IN UNO Include tutti i contenuti aggiuntivi già pubblicati: missioni estreme, modalità Specchio, sfondi aggiuntivi per le bande laterali, nuove animazioni dei personaggi nei menu, musiche aggiuntive dagli altri titoli di Sonic e molto altro!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BZW3BGF6{{</world>}}

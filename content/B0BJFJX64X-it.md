@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- CARATTERISTICHE: Visiera con predisposizione Max Pinlock con sistema di microapertura e meccanismo multi-posizione con sistema Extra Quick Release. Casco con peso di soli 1500g (nella taglia più piccola) e sistema di ritenzione Doppia D
-- DETTAGLI: Calotta in materiale termoplastico ad alta resistenza a 2 dimensioni con EPS a 4 densità sviluppato in 4 dimensioni con profilo sicuro per la clavicola
 - INTERNI: Comfort senza compromessi grazie ai morbidi interni in tessuto Dry-Comfort rimovibili e lavabili. Calzata concepita appositamente per consentire luso di occhiali, e protezione antivento e paranaso rimovibili. Predisposizione per installazione di sistemi di comunicazione
 - SICUREZZA E CARATTERISTICHE: Protocollo costruttivo AGV Extreme Safety e certificazione secondo normativa ECE22.06. Visiera panoramica antigraffio Ultravision con ampia visione laterale e verticale (campo visivo orizzontale di 190°), per un controllo totale dellambiente circostante
 - STILE E PERFORMANCE: Casco stradale derivato dallesperienza AGV in MotoGP, ideale per un utilizzo versatile su tutti i percorsi. Calotta aerodinamica in materiale termoplastico resistente, prese daria frontali racing e Aero Spoiler progettato in galleria del vento per massime prestazioni e stabilità ad alte velocità
+- DETTAGLI: Calotta in materiale termoplastico ad alta resistenza a 2 dimensioni con EPS a 4 densità sviluppato in 4 dimensioni con profilo sicuro per la clavicola
+- CARATTERISTICHE: Visiera con predisposizione Max Pinlock con sistema di microapertura e meccanismo multi-posizione con sistema Extra Quick Release. Casco con peso di soli 1500g (nella taglia più piccola) e sistema di ritenzione Doppia D
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BJFJX64X{{</world>}}

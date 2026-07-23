@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - DETTAGLI: vita elasticizzata con coulisse con cuciture laterali e tasche posteriori.
 - VESTIBILITÀ AMPIA: vestibilità per pantaloncini più ampia di tutte su fianchi, cosce e gambe. Vita regolare.
-- TWILL A GRAMMATURA MEDIA: twill leggero, perfetto per le giornate calde. A maglia fitta e sottoposto a lavaggio per maggiore morbidezza.
 - INTERNO GAMBA: 20 cm nella taglia US M
+- TWILL A GRAMMATURA MEDIA: twill leggero, perfetto per le giornate calde. A maglia fitta e sottoposto a lavaggio per maggiore morbidezza.
 - PANTALONCINI SENZA ALLACCIATURA: classici pantaloncini non elasticizzati e senza allacciatura, un capo versatile per i mesi caldi.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

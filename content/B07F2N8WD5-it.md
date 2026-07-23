@@ -28,8 +28,8 @@ average: '158.916'
 
 ℹ️:
 
-- 3 funzioni in un unico dispositivo: il martello combinato a batteria RYOBI combina foratura, foratura a martello e scalpello in un unico strumento compatto, ottimo per una vasta gamma di applicazioni
 - Design ergonomico con GripZone: limpugnatura ergonomica con GripZone offre un maggiore comfort e una presa migliore, in modo da poter lavorare in modo sicuro e preciso anche durante gli interventi più lunghi
+- 3 funzioni in un unico dispositivo: il martello combinato a batteria RYOBI combina foratura, foratura a martello e scalpello in un unico strumento compatto, ottimo per una vasta gamma di applicazioni
 - Potente meccanismo di impatto: con una forza durto di 1,3 Joule e il meccanismo a percussione pneumatico, il dispositivo è adatto sia per lavori di scalpello leggeri che per foratura precisa in calcestruzzo, legno e metallo
 - Include batteria da 18 V 2,5 Ah e caricabatterie. Il set contiene tutto per luso immediato, tra cui una potente batteria agli ioni di litio, caricabatterie e una pratica borsa per gli attrezzi
 - Visibilità ottimale grazie allilluminazione a LED: lilluminazione a LED integrata garantisce unilluminazione uniforme dellarea di lavoro e migliora la visibilità in condizioni di scarsa illuminazione

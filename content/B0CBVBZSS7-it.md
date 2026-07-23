@@ -28,12 +28,12 @@ average: '15.9'
 
 ℹ️:
 
-- Protezione IP20 per i componenti sotto tensione: adatto per cucine e zone giorno; Il dispositivo non è protetto contro lacqua o lumidità
-- UTILIZZO FLESSIBILE: set da 3 luci e può essere esteso con ulteriori moduli in modo semplice e illimitato
+- VERSATILE: luce sottopensile per montaggio a incasso o in superficie in cucine e altre applicazioni sottopensile
 - LUNGA DURATA: la luce sottopensile ha una lunga durata fino a 30;000 ore; Con 3x3 watt e 3x330 lm, lapparecchio emette molta luce ed è a risparmio energetico
+- UTILIZZO FLESSIBILE: set da 3 luci e può essere esteso con ulteriori moduli in modo semplice e illimitato
+- Protezione IP20 per i componenti sotto tensione: adatto per cucine e zone giorno; Il dispositivo non è protetto contro lacqua o lumidità
 - Questo prodotto è un prodotto contenitore; I prodotti contenitori gli apparecchi di illuminazione che possono essere smontati per consentire la verifica separata della o delle sorgenti luminose ivi contenute; Questo prodotto contiene una sorgente luminosa di classe di efficienza energetica E
 - VERSATILE: set di tre luci sottopensile con modulo LED integrato a luce bianca calda (3000K); Offre due diverse opzioni di montaggio
-- VERSATILE: luce sottopensile per montaggio a incasso o in superficie in cucine e altre applicazioni sottopensile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CBVBZSS7{{</world>}}

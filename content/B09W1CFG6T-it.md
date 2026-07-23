@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Scopri la golosità di queste golose caramelle alla menta con una confettatura croccante e un morbido ripieno
+- La combinazione tra croccantezza e morbidezza del confetto Mentos è qualcosa di unico ed iconico, apprezzata da grandi e piccini
 - Mentos è sinonimo di divertimento, freschezza e sorpresa…
 - Mentos Menta, liconica caramelle al gusto menta
 - Scopri la golosità di queste golose caramelle alla frutta con una confettatura croccante e un morbido ripieno
-- La combinazione tra croccantezza e morbidezza del confetto Mentos è qualcosa di unico ed iconico, apprezzata da grandi e piccini
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09W1CFG6T{{</world>}}

@@ -28,11 +28,11 @@ average: '9.99'
 
 ℹ️:
 
-- CERTIFICAZIONE USB-IF: ricarica il tuo dispositivo con un caricabatteria da auto rapido e certificato USB-IF per approfittare della massima qualità e della compatibilità con vari modelli di telefoni
 - RICARICA RAPIDA IN AUTO: con 30 W di PD, questo caricabatteria da auto permette di ricaricare un iPhone 14 Pro dallo 0 al 50% in 23 minuti, un Galaxy S23 Ultra dallo 0 al 50% in 24 minuti e altri dispositivi compatibili a velocità ottimali
-- DESIGN COMPATTO: progettato per garantire unelevata potenza in watt e adattarsi perfettamente al cruscotto, questo caricabatteria da auto compatto misura soli 54 mm x 20 mm e integra lUSB-C PD da 30 W per ricaricare velocemente
+- CERTIFICAZIONE USB-IF: ricarica il tuo dispositivo con un caricabatteria da auto rapido e certificato USB-IF per approfittare della massima qualità e della compatibilità con vari modelli di telefoni
 - GARANZIA DI 2 ANNI: il caricabatteria da 30 W di Belkin include una garanzia limitata di 2 anni sul prodotto e una garanzia sulle apparecchiature collegate (CEW) fino a 2.000 €, per proteggere il caricabatteria e i tuoi dispositivi
 - AMPIA COMPATIBILITÀ: dotato di unuscita USB-C PD PPS da 30 W e compatibile con tutti i dispositivi USB-C, il caricabatteria da auto universale non ricarica solo iPhone o iPad, ma anche Samsung Galaxy, telefoni Google e tablet
+- DESIGN COMPATTO: progettato per garantire unelevata potenza in watt e adattarsi perfettamente al cruscotto, questo caricabatteria da auto compatto misura soli 54 mm x 20 mm e integra lUSB-C PD da 30 W per ricaricare velocemente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BTP9GF27{{</world>}}

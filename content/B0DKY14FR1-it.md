@@ -28,8 +28,8 @@ average: '38.73'
 
 ℹ️:
 
-- Composizione: 100% cotone
 - Cappuccio
+- Composizione: 100% cotone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DKY14FR1{{</world>}}

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Mandrino autoserrante a doppia bussola, per sostituire la punta in modo semplice e veloce
 - La linea Easy Bosch – un comodo aiuto in tutti i tuoi progetti
+- Mandrino autoserrante a doppia bussola, per sostituire la punta in modo semplice e veloce
 - Compatto, leggero ed ergonomico per lavorare in comodità e forare senza fatica nella muratura fino a 12 mm e nel legno fino a 25 mm
 - Levetta di regolazione elettronica per gestire il numero di giri durante la foratura
 - Dotazione: EasyImpact 600, valigetta

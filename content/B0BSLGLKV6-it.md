@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Pompelmo
-- Accordo di legno di sandalo
 - Menta piperita
+- Pompelmo
 - Vaporizza HUGO JEANS Eau de Toilette Uomo sui punti di pulsazione del corpo per aumentare la persistenza della fragranza.
+- Accordo di legno di sandalo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BSLGLKV6{{</world>}}

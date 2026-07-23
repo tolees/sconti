@@ -28,9 +28,9 @@ average: '45.2406666666668'
 
 ℹ️:
 
-- Calzata regolare
-- Chiusura con lacci
 - Soletta leggera in EVA adibouncy
+- Chiusura con lacci
+- Calzata regolare
 - Suola in gomma; fodera in tessuto
 - Tomaia in pelle rivestita
 

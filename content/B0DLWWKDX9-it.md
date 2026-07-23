@@ -28,9 +28,9 @@ average: '19.99'
 
 ℹ️:
 
-- Ambientato nelle isolate proprietà rurali del profondo sud degli Stati Uniti, niente è come sembra e nessun posto è sicuro.
-- Immergiti nellincubo grazie al nuovo e ambizioso approccio adottato dalla serie, per unesperienza di Resident Evil completamente inedita.
 - Passa dalla terza persona e dalla grafica stilizzata tipiche della serie a unavventura in prima persona sconvolgente e realistica, con unatmosfera angosciante, dettagli terrificanti e un allucinante cast di nuovi, inquietanti personaggi.
+- Immergiti nellincubo grazie al nuovo e ambizioso approccio adottato dalla serie, per unesperienza di Resident Evil completamente inedita.
+- Ambientato nelle isolate proprietà rurali del profondo sud degli Stati Uniti, niente è come sembra e nessun posto è sicuro.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DLWWKDX9{{</world>}}

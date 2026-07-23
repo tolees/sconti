@@ -28,12 +28,12 @@ average: '29.99'
 
 ℹ️:
 
-- Numero di giocatori: 1-4, Età consigliata: 14+, Durata media: 20-30 min., Edizione in lingua italiana
 - Sono inoltre disponibili online più di 7 milioni di problemi da risolvere, per mettersi alla prova con sfide giornaliere
+- Numero di giocatori: 1-4, Età consigliata: 14+, Durata media: 20-30 min., Edizione in lingua italiana
+- Il primo a scoprire il codice univoco di 3 numeri in grado di superare tutti i test dei verificatori sarà il vincitore della partita
 - Turing Machine è un divertente e intenso gioco di società in cui i giocatori dovranno scoprire una serie di codici segreti, sfruttando un computer “meccanico” in grado di operare solamente con delle schede perforate
 - I giocatori dovranno interrogare la macchina nel modo più efficiente per riuscire a individuare le cifre che compongono il codice
 - Turing Machine può essere giocato in solitario, in modalità collaborativa o in modalità competitiva
-- Il primo a scoprire il codice univoco di 3 numeri in grado di superare tutti i test dei verificatori sarà il vincitore della partita
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BN1TQTC1{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- MADE IN ITALY: Caffè Motta racconta una storia tutta italiana, la storia della famiglia Mastromartino, che, a partire dagli anni Sessanta, ha sapientemente unito passione ed antichi saperi per dar vita ad una realtà industriale che si impegna ad offrire, ogni giorno, un caffè dal gusto intenso, verace, genuino. Un caffè italiano capace di esprimere l’unicità dell’espresso napoletano
-- MISCELA ESPRESSO CLASSICO: Caffè miscela espresso CLASSICO in cialde universali E.S.E. 44 mm per gli amanti di un vero caffè espresso napoletano. Questa miscela rappresenta il connubio perfetto tra Robusta e Arabica
-- PROPRIETA’ AROMATICHE: Crema chiara e vellutata dal color sabbia con delle venature più scure; all’olfatto si avvertono aromi di fiori freschi e sentori di frutta secca tostata per un risultato finale delicato e aromatico
-- CARATTERISTICHE: Tutte le cialde sono realizzate con carta filtro compostabile e vengono confezionate in bustine di plastica riciclabili, che grazie all’utilizzo di azoto inerte, consentono una migliore conservazione. Inoltre, le cialde sono smaltibili nell’umido
 - CONFEZIONE: Multipack composto da due confezioni da 150 cialde
+- PROPRIETA’ AROMATICHE: Crema chiara e vellutata dal color sabbia con delle venature più scure; all’olfatto si avvertono aromi di fiori freschi e sentori di frutta secca tostata per un risultato finale delicato e aromatico
+- MISCELA ESPRESSO CLASSICO: Caffè miscela espresso CLASSICO in cialde universali E.S.E. 44 mm per gli amanti di un vero caffè espresso napoletano. Questa miscela rappresenta il connubio perfetto tra Robusta e Arabica
+- MADE IN ITALY: Caffè Motta racconta una storia tutta italiana, la storia della famiglia Mastromartino, che, a partire dagli anni Sessanta, ha sapientemente unito passione ed antichi saperi per dar vita ad una realtà industriale che si impegna ad offrire, ogni giorno, un caffè dal gusto intenso, verace, genuino. Un caffè italiano capace di esprimere l’unicità dell’espresso napoletano
+- CARATTERISTICHE: Tutte le cialde sono realizzate con carta filtro compostabile e vengono confezionate in bustine di plastica riciclabili, che grazie all’utilizzo di azoto inerte, consentono una migliore conservazione. Inoltre, le cialde sono smaltibili nell’umido
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08F4LXTZS{{</world>}}

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- 【LEGGERO E PORTATILE】 La macchina per espresso portatile OutIn pesa solo 670 grammi. Realizzata in acciaio inox alimentare e materiali sostenibili, la macchina per caffè espresso Outin è facile da smontare e lavare.
 - 【CAPACITÀ DELLA BATTERIA PREMIUM 】 La macchina da caffè espresso da viaggio è dotata di una batteria da 3*2500 mAh, nostro macchina caffe portatile compatibile con caricabatterie da auto USB-C da 10-15 watt per la ricarica universale, che supporta fino a 5 tiri caldi con 50 ml di acqua a temperatura ambiente o oltre 200 tiri con acqua calda.
 - 【RISCALDAMENTO VELOCE E RICCA CREMA】 La macchina da caffè OutIn Nano riscalda 50 ml di acqua a temperatura ambiente da 25℃ a 92℃ in 200 secondi. La pressione di 20 bar garantisce unestrazione omogenea con una ricca crema, paragonabile ai risultati delle macchine da caffè professionali da tavolo!
 - 【2-in-1 BREWER & ONE-BUTTON CLICK】 Compatibile sia con il caffè macinato che con le capsule, la caffettiera da campeggio è stata testata con centinaia di modelli per garantire la facilità duso. Con un solo pulsante, è possibile gustare un espresso perfetto in soli 3-4 minuti.
-- 【LEGGERO E PORTATILE】 La macchina per espresso portatile OutIn pesa solo 670 grammi. Realizzata in acciaio inox alimentare e materiali sostenibili, la macchina per caffè espresso Outin è facile da smontare e lavare.
 - 【OutIn SERVIZIO】 La macchina per caffè espresso portatile OutIn Nano è dotata di un design isolato e a prova di perdite, che garantisce un periodo di assistenza di 24 mesi. Per qualsiasi domanda, è possibile consultare il nostro negozio Amazon OutIn. Nota: Si prega di rispettare le normative aeree internazionali. Trasportare il dispositivo solo nel bagaglio a mano e non utilizzarlo durante il volo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

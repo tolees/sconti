@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - FACILE DA PULIRE: Sotto al piastra è presente un vassoio rimovibile dove viene raccolto il grasso di cottura, così pulire il BBQ dopo ogni uso sarà facile!
-- DIMENSIONI COMPATTE: Con la nostra piastra a gas puoi preparare tanti piatti in ogni posto. È ottima da portare ai picnic con gli amici o semplicemente da usare nei tuoi spazi esterni. Grazie ai piedini regolabili puoi impostare laltezza del barbecue da tavolo per mantenerlo stabile.
 - 2 BRUCIATORI A GAS: Il barbecue a gas è dotato di accensione piezoelettrica e 2 bruciatori con una potenza di 2.5kW, che assicurano un riscaldamento uniforme della piastra. Puoi anche creare 2 aree di cottura con temperature diverse per preparare vari cibi nello stesso tempo.
+- DIMENSIONI COMPATTE: Con la nostra piastra a gas puoi preparare tanti piatti in ogni posto. È ottima da portare ai picnic con gli amici o semplicemente da usare nei tuoi spazi esterni. Grazie ai piedini regolabili puoi impostare laltezza del barbecue da tavolo per mantenerlo stabile.
 - PIASTRA ANTIADERENTE: Grazie al rivestimento smaltato questa piastra a gas è perfetta per cucinare diversi tipi di cibi, dal pesce alla carne e le verdure.
 - DIMENSIONI: Dimensioni generali: 48.5L x 48P x 21A cm. Regolatore e beccuccio inclusi.
 

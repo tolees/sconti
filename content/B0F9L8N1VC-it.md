@@ -28,10 +28,10 @@ average: '8.99'
 
 ℹ️:
 
-- Confezione da 24 barrette da 23,5g ciascuna: 564g totali
 - Frumento e Avena Integrali, con vitamine e minerali
 - Meno di 100 kcal per barretta, pratiche da portare sempre con te, per una colazione dove e quando vuoi
 - Le barrette di Cereali Integrali FITNESS contengono vitamine, calcio e ferro; solo aromi naturali e nessun colorante
+- Confezione da 24 barrette da 23,5g ciascuna: 564g totali
 - Deliziose barrette di Cereali Integrali FITNESS al gusto Cappuccino
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

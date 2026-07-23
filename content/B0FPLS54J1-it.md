@@ -29,8 +29,8 @@ average: '13.3266666666667'
 ℹ️:
 
 - Clinicamente provato per una protezione professionale 24 ore su 24, utilizzato due volte al giorno
-- Protegge in 8 aree: carie, placca, tartaro, alito, gengive, sensibilità, macchie superficiali, smalto
 - Una fusione di menta verde, aromi dolci e mentolo per una piacevole sensazione di freschezza
+- Protegge in 8 aree: carie, placca, tartaro, alito, gengive, sensibilità, macchie superficiali, smalto
 - La tecnologia antibatterica con complesso al fluoruro stannoso aiuta a ridurre la crescita della placca batterica, anche dopo aver lavato i denti
 - Clinicamente provato
 

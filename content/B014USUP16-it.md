@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Don Facundo, fondatore di BACARDI, ha perfezionato i suoi rum per 10 anni e dopo 160 anni, i nostri Maestros de Ron BACARDI seguono le sue orme usando la sua firma come sigillo di qualità in ogni bottiglia
+- BACARDI Carta Blanca è liconico rum bianco dei Caraibi dallinconfondibile gusto morbido, ingrediente essenziale che ha ispirato cocktail rivoluzionari come il Daiquiri, il Mojito o il Rum e Cola
+- BACARDI Carta Blanca è loriginale rum leggero e aromatico, invecchiato in botti di rovere, con note di vaniglia tostata, agrumi e un finale secco e netto
 - Una bottiglia da 700 ml di rum bianco BACARDI Carta Blanca Superior White Rum
 - BACARDI è il rum più premiato al mondo, avendo conquistato oltre 1000 riconoscimenti dal suo debutto nel 1862
-- Don Facundo, fondatore di BACARDI, ha perfezionato i suoi rum per 10 anni e dopo 160 anni, i nostri Maestros de Ron BACARDI seguono le sue orme usando la sua firma come sigillo di qualità in ogni bottiglia
-- BACARDI Carta Blanca è loriginale rum leggero e aromatico, invecchiato in botti di rovere, con note di vaniglia tostata, agrumi e un finale secco e netto
-- BACARDI Carta Blanca è liconico rum bianco dei Caraibi dallinconfondibile gusto morbido, ingrediente essenziale che ha ispirato cocktail rivoluzionari come il Daiquiri, il Mojito o il Rum e Cola
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B014USUP16{{</world>}}

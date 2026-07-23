@@ -28,10 +28,10 @@ average: '12.11'
 
 ℹ️:
 
+- Confetti classici alla mandorla, cioccolato e frutta
+- Una confezione dai colori vibranti
 - Ottima idea per il tuo evento o per la tua pausa dolce
 - Unisce tradizione ed innovazione per regalarti una vera e propria esplosione di gusto
-- Una confezione dai colori vibranti
-- Confetti classici alla mandorla, cioccolato e frutta
 - Il dolce messaggero di emozioni e delizia per il palato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 【Fodera sfoderabile e lavabile】Il coprimaterasso in tessuto traspirante e delicato sulla pelle è dotato di pratica cerniera per una facile rimozione. Lavabile in lavatrice fino a 60 C per un’igiene sempre perfetta.
 - 【Traspirabilità su entrambi i lati】Il design reversibile consente di scegliere tra un lato più rigido o uno più morbido. La schiuma in fibra di bambù favorisce la ventilazione, aiutando a mantenere il letto asciutto e fresco ogni notte.
 - 【Materiali selezionati per il benessere】Realizzato con tessuti certificati e materiali morbidi al tatto, questo materasso garantisce comfort, traspirabilità e durata nel tempo per una qualità del sonno superiore.
+- 【Fodera sfoderabile e lavabile】Il coprimaterasso in tessuto traspirante e delicato sulla pelle è dotato di pratica cerniera per una facile rimozione. Lavabile in lavatrice fino a 60 C per un’igiene sempre perfetta.
 - 【Certificato & Affidabile】: Il topper ha superato le rigorose certificazioni Oeko-Tex (vedi i dettagli nelle caratteristiche di sostenibilità qui sotto) e CertiPUR-US (consulta il sito CertiPUR cercando "Novilla" per maggiori informazioni).
 - 【Supporto ergonomico a 7 zone】Il materasso in schiuma di bambù è progettato con 7 zone differenziate che si adattano perfettamente alle curve del corpo, offrendo sostegno personalizzato per un riposo confortevole e naturale.
 

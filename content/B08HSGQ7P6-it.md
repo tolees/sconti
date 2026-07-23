@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 2 velocità variabili coprono tutte le applicazioni di foratura, avvitamento e foratura a percussione.
 - Porta punte in metallo 13 mm
-- Design molto compatto e leggero per un maggiore comfort di utilizzo
 - Piattaforma Powershare. Batteria rimovibile e sostituibile con tutti gli utensili elettrici e da giardino della gamma 20 V di Worx
+- 2 velocità variabili coprono tutte le applicazioni di foratura, avvitamento e foratura a percussione.
+- Design molto compatto e leggero per un maggiore comfort di utilizzo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08HSGQ7P6{{</world>}}

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Diametro 12 mm (1/2"), lunghezza 20m
-- Tre strati tubo
 - Scopri la nostra gamma completa di prodotti
+- Diametro 12 mm (1/2"), lunghezza 20m
 - Economic – tubo da giardino
+- Tre strati tubo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B004YGG2PS{{</world>}}

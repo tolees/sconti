@@ -28,9 +28,9 @@ average: '41.06'
 
 ℹ️:
 
-- Pulizia delicata ma efficace con tecnologia avanzata Sonic che pulsa il fluido tra i denti e lungo il bordo gengivale, con un potere pulente di 62.000 movimenti delle setole al minuto
 - Il set include: 1 spazzolino elettrico Philips Sonicare 3100, 1 testina C1 ProResults, 1 caricabatterie
 - Ottimizza la spazzolatura: EasyStart per un graduale e delicato aumento della potenza di spazzolatura; SmarTimer ti informa quando hai raggiunto 2 minuti di spazzolatura; e QuadPacer consente una migliore conformità alla spazzolatura
+- Pulizia delicata ma efficace con tecnologia avanzata Sonic che pulsa il fluido tra i denti e lungo il bordo gengivale, con un potere pulente di 62.000 movimenti delle setole al minuto
 - Spazzolino elettrico per adulti che fornisce unefficace salute orale: rimuovi fino a 3 volte più placca lungo il bordo gengivale¹ con la testina C1 ProResults
 - Sicuro e delicato: se si applica troppa pressione, il manico pulserà leggermente, ricordandoti di allentare la pressione, proteggendo così denti e gengive
 

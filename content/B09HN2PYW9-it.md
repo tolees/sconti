@@ -28,11 +28,11 @@ average: '27.29'
 
 ℹ️:
 
-- Fodera: iconica fodera della coperta. Rain Defender - Finitura idrorepellente durevole.
 - 100% Nylon Cordura. DWR 500 Denari Cordura Nylon.
-- Carhartt Etichetta sul davanti.
 - Hardware ad anello a D in ottone dorato. Materiale di blocco RFID.
+- Carhartt Etichetta sul davanti.
 - Tocca per pagare tagliare. Tasca portamonete con cerniera.
+- Fodera: iconica fodera della coperta. Rain Defender - Finitura idrorepellente durevole.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09HN2PYW9{{</world>}}

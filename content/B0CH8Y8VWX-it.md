@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Visita il sito Nestlé per scoprire come le nostre marche sono scese in campo e contribuiscono al raggiungimento degli obiettivi di sostenibilità del Gruppo Nestlé con progetti concreti
-- KITKAT Hazelnut è divisibile in 4 barrette, dette "finger"
-- Snack pensato per i veri amanti del gusto nocciola: un sapore delicato da gustare in compagnia o tutto per te
-- Confezione da 24 Snack di wafer da 41,5g incartati singolarmente: 996g totali
 - KITKAT è parte dellIncome Accellerator Programme e si impegna a utilizzare cacao approvvigionato in maniera sostenibile
+- KITKAT Hazelnut è divisibile in 4 barrette, dette "finger"
 - KITKAT Hazelnut è uno Snack di wafer croccante ricoperto di cioccolato al latte al gusto nocciola
+- Snack pensato per i veri amanti del gusto nocciola: un sapore delicato da gustare in compagnia o tutto per te
+- Visita il sito Nestlé per scoprire come le nostre marche sono scese in campo e contribuiscono al raggiungimento degli obiettivi di sostenibilità del Gruppo Nestlé con progetti concreti
+- Confezione da 24 Snack di wafer da 41,5g incartati singolarmente: 996g totali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CH8Y8VWX{{</world>}}

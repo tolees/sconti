@@ -28,13 +28,13 @@ average: '330.709666666667'
 
 ℹ️:
 
+- La tecnologia di nuova generazione TRUEFORCE si connette ai motori dei giochi per una ad alta definizione: vivi l’esperienza di guida più innovativa, con risposta di elaborazione 4000 volte al secondo
+- Esamina nel dettaglio la velocità con un contagiri LED incorporato, controlli di gioco integrati per Xbox Series X|S, Xbox One o PC,mentre un selettore a 24 posizioni e il pedale del freno progressivo
 - il nuovo design dell’attrezzatura Logitech G include materiali premium come il volante con copertura nera cucita a mano e i pedali in metallo lucido; vivi il piacere di guidare a casa
+- Compatibilità con giochi di corse: G923 per Xbox funziona con la maggior parte dei giochi di corse su Xbox Series XS, Xbox One, PC; puoi goderti anche i titoli selezionati creati per TRUEFORCE
+- Controlla la sensibilità del volante, i livelli del ritorno di forza e la simulazione delle sterzate,personalizzando le funzioni dei pulsanti con il potente software G HUB direttamente dal controller
 - Le parti in plastica di G923 includono il 53% di plastica riciclata post-consumo
 - Ottieni una partenza più pulita e rapida con la doppia frizione programmabile, che simula nel controller la tecnica di partenza delle vere auto da corsa (nei giochi supportati)
-- Compatibilità con giochi di corse: G923 per Xbox funziona con la maggior parte dei giochi di corse su Xbox Series XS, Xbox One, PC; puoi goderti anche i titoli selezionati creati per TRUEFORCE
-- Esamina nel dettaglio la velocità con un contagiri LED incorporato, controlli di gioco integrati per Xbox Series X|S, Xbox One o PC,mentre un selettore a 24 posizioni e il pedale del freno progressivo
-- Controlla la sensibilità del volante, i livelli del ritorno di forza e la simulazione delle sterzate,personalizzando le funzioni dei pulsanti con il potente software G HUB direttamente dal controller
-- La tecnologia di nuova generazione TRUEFORCE si connette ai motori dei giochi per una ad alta definizione: vivi l’esperienza di guida più innovativa, con risposta di elaborazione 4000 volte al secondo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07W4DG81W{{</world>}}

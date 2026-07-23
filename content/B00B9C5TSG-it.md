@@ -28,10 +28,10 @@ average: '137.67'
 
 ℹ️:
 
-- 0-100 mm 1/100
 - Disposti in verticale
-- Composto da 4 pezzi
 - Astuccio in legno
+- Composto da 4 pezzi
+- 0-100 mm 1/100
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00B9C5TSG{{</world>}}

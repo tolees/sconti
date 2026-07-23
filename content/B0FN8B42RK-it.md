@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Il set contiene: N.1 Maxi Mod Mascara Un mascara iconico con mini-scovolo per raggiungere anche le ciglia più corte e avvolgerle con una texture che regala effetto volume e definizione straordinari
-- Il set contiene: N.1 Unlimited Automatic Eyeliner & Khol 16 Colore ricco, nero intenso, tratto ultra‑scorrevole, texture waterproof a lunga tenuta fino a 24 ore e super sfumabilità, per incantare con gli occhi
-- Il set contiene:N.1 Unlimited Stylo 06 Rossetto cremoso a lunga tenuta che valorizza labbra e sorriso con un film omogeneo, vellutato e aderente. Formulato con un mix di ingredienti nutrienti, è clinicamente testato a lunga durata fino a 12h
 - Il set contiene: N.1 Glamour Multi Finish Eyeshadow Palette 01 Palette occhi con 9 ombretti super pigmentati dai colori combinabili e con finish da metallico a vellutato, per uno sguardo magnetico
+- Il set contiene:N.1 Unlimited Stylo 06 Rossetto cremoso a lunga tenuta che valorizza labbra e sorriso con un film omogeneo, vellutato e aderente. Formulato con un mix di ingredienti nutrienti, è clinicamente testato a lunga durata fino a 12h
+- Il set contiene: N.1 Unlimited Automatic Eyeliner & Khol 16 Colore ricco, nero intenso, tratto ultra‑scorrevole, texture waterproof a lunga tenuta fino a 24 ore e super sfumabilità, per incantare con gli occhi
+- Il set contiene: N.1 Maxi Mod Mascara Un mascara iconico con mini-scovolo per raggiungere anche le ciglia più corte e avvolgerle con una texture che regala effetto volume e definizione straordinari
 - Il set contiene:N.1 3D Hydra Lipgloss 17 Una nuova frontiera di lucentezza e confort per le labbra. Un prodotto semplicemente iconico e prezioso che idrata le labbra, le avvolge e le ricopre di pura luce per una brillantezza effetto 3D
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ average: '564.0'
 
 ℹ️:
 
-- Compatibile con i kit MOVA 1000 e MOVA 600/600Kit
-- [Tosatura efficiente e copertura completa] Combinando la precisa strategia di andamento a U con il taglio bordi a doppia modalità, ViAX assicura copertura totale e alta efficienza del prato. Segue percorsi di taglio ottimizzati logicamente, massimizzando l’efficienza e riducendo al minimo le sovrapposizioni. Per i bordi, in base alle differenze di altezza, alterna tosatura sul confine e lungo il confine, adatta al terreno irregolare e garantisce prati curati, accattivanti e con meno rifiniture manuali.
-- Protegge il tagliaerba dalla pioggia e dallesposizione al sole per prolungarne notevolmente la durata.
-- Garage per robot tagliaerba MOVA, protezione dalle intemperie e dalla luce del sole, impermeabile, facile da installare, accessorio per la serie di robot tagliaerba MOVA
 - [Set-up Perimetro Wireless e Mappatura Potenziata dallIA] ViAX semplifica la cura del prato: grazie a UltraEyes 1.0, mappa automaticamente il prato e stabilisce confini virtuali, senza bisogno di cavi, stazioni RTK o pali di segnale. Questa mappatura intelligente e completamente wireless garantisce una copertura precisa e una manutenzione senza sforzi di tutto il prato
+- Garage per robot tagliaerba MOVA, protezione dalle intemperie e dalla luce del sole, impermeabile, facile da installare, accessorio per la serie di robot tagliaerba MOVA
+- [Tosatura efficiente e copertura completa] Combinando la precisa strategia di andamento a U con il taglio bordi a doppia modalità, ViAX assicura copertura totale e alta efficienza del prato. Segue percorsi di taglio ottimizzati logicamente, massimizzando l’efficienza e riducendo al minimo le sovrapposizioni. Per i bordi, in base alle differenze di altezza, alterna tosatura sul confine e lungo il confine, adatta al terreno irregolare e garantisce prati curati, accattivanti e con meno rifiniture manuali.
+- Compatibile con i kit MOVA 1000 e MOVA 600/600Kit
+- Protegge il tagliaerba dalla pioggia e dallesposizione al sole per prolungarne notevolmente la durata.
 - [UltraEyes 1.0: Sistema Dual Vision con Immagini HDR] UltraEyes 1.0 combina immagini HDR e algoritmi intelligenti per offrire una percezione grandangolare e millimetrica per la mappatura e il rilevamento degli ostacoli. Un FOV di 120°×70° e un raggio di rilevamento di 50 m catturano il prato in ogni dettaglio, assicurando prestazioni affidabili anche senza GPS o segnali esterni e consentendo una navigazione precisa e resiliente su tutto il prato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

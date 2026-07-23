@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- MODALITÀ DI PREPARAZIONE: agitare la confezione, versare il contenuto in una pentola e scaldare senza bollire! Non introdurre il brick direttamente nel microonde
-- KNORR: Noi di Knorr ci impegnamo a portare a tavola dei piatti buoni, ricchi di gusto e sempre più sostenibili
-- INGREDIENTI DI QUALITÀ: è grazie alle alte temperature di preparazione che garantiamo la conservazione del prodotto. Senza coloranti e senza conservanti
-- RICCA DI VERDURA: una porzione contiene 1 delle 5 porzioni giornaliere di frutta e verdura (80 g) raccomandate dall’Organizzazione Mondiale della Sanità per una dieta sana ed equilibrata
 - VELLUTATA DI ZUCCA KNORR: la Vellutata di Zucca Knorr è buona perchè noi di Knorr creiamo ricette con verdure da agricoltura sostenibile e coltivate al sole
+- RICCA DI VERDURA: una porzione contiene 1 delle 5 porzioni giornaliere di frutta e verdura (80 g) raccomandate dall’Organizzazione Mondiale della Sanità per una dieta sana ed equilibrata
+- INGREDIENTI DI QUALITÀ: è grazie alle alte temperature di preparazione che garantiamo la conservazione del prodotto. Senza coloranti e senza conservanti
+- KNORR: Noi di Knorr ci impegnamo a portare a tavola dei piatti buoni, ricchi di gusto e sempre più sostenibili
+- MODALITÀ DI PREPARAZIONE: agitare la confezione, versare il contenuto in una pentola e scaldare senza bollire! Non introdurre il brick direttamente nel microonde
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00Y8PTO82{{</world>}}

@@ -28,11 +28,11 @@ average: '265.99'
 
 ℹ️:
 
-- Mobile realizzato in PANNELLO ECOLOGICO e certificato FSC 100% legno riciclato. É il pannello con la minore emissione di Co2 al mondo. Le sue straordinarie qualità lo rendono pratico e resistente, adatto dunque ad essere il componente base dei mobili Composad.
-- Made in ITALY. Questo mobile è stato progettato e prodotto in Italia.
-- Organizzazione Integrata con Cassetti e Libreria: La scrivania è dotata di una cassettiera con tre cassetti e una libreria integrata con due vani. Questa combinazione offre un sistema integrato di organizzazione, permettendo di tenere a portata di mano documenti, forniture dufficio e oggetti personali, migliorando la gestione dello spazio.
 - Scrivania Angolare Spaziosa e Funzionale: La Scrivania Angolare della Linea DISEGNO offre uno spazio generoso e funzionale con una dimensione di (LxAxP) 160x74,80x140 cm. La sua configurazione angolare massimizza larea di lavoro, fornendo una soluzione pratica e comoda per svolgere attività quotidiane.
+- Mobile realizzato in PANNELLO ECOLOGICO e certificato FSC 100% legno riciclato. É il pannello con la minore emissione di Co2 al mondo. Le sue straordinarie qualità lo rendono pratico e resistente, adatto dunque ad essere il componente base dei mobili Composad.
+- Organizzazione Integrata con Cassetti e Libreria: La scrivania è dotata di una cassettiera con tre cassetti e una libreria integrata con due vani. Questa combinazione offre un sistema integrato di organizzazione, permettendo di tenere a portata di mano documenti, forniture dufficio e oggetti personali, migliorando la gestione dello spazio.
 - Design elegante Elegante: Il colore Rovere Mielato del piano, abbinato ai frontali della cassettiera nella tonalità "Cashmere" e alla gamba in metallo nero verniciato, conferisce alla scrivania un aspetto elegante e moderno. La scrivania è dotata di piedini regolabili, consentendo di livellare il piano in modo preciso anche su superfici irregolari.
+- Made in ITALY. Questo mobile è stato progettato e prodotto in Italia.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CTR5WSJL{{</world>}}
