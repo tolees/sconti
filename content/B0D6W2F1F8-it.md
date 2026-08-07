@@ -31,8 +31,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 - Bilanciato e corposo. Miscela corposa e rotonda, le note di cioccolato ben si bilanciano con lacidità fruttata.
 - Tostatura Media
 - Intensità: 8/10
-- Formato: 1 confezione da 1kg in atmosfera protetta per preservare laroma intenso del chicco di caffè
 - Emozione Mediterranea: Miscele nate da una terra circondata dal mare e baciata dal sole. Con Caffè Mauro basta il tempo di un caffè per sentirsi a casa. Un processo di tostatura lenta racconta il gusto di una ritualità sincera che fa parte del nostro modo di vivere. Assaporando l’istante e godendoci ogni momento di qualità.
+- Formato: 1 confezione da 1kg in atmosfera protetta per preservare laroma intenso del chicco di caffè
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D6W2F1F8{{</world>}}

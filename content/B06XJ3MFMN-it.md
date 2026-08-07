@@ -28,11 +28,11 @@ average: '75.1733333333333'
 
 ℹ️:
 
-- Tipo di ricarica: Capsule
 - Colore: Bianco / Nero
-- Miscela: Nespresso
+- Tipo di ricarica: Capsule
 - Potenza: 1310 Watt
 - Serie: Essenza
+- Miscela: Nespresso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B06XJ3MFMN{{</world>}}

@@ -28,9 +28,9 @@ average: '21.835'
 
 ℹ️:
 
+- Rivisitazione del classico RPG; ​Grafica ad alta definizione.​
 - Interfaccia utente completamente ridisegnata.​
 - Supporto alla componente online​; Nuovi minigiochi​
-- Rivisitazione del classico RPG; ​Grafica ad alta definizione.​
 - Possibilità di regolare la velocità del gioco.​
 - Gestisci tu la frequenza degli incontri con i nemici.​
 

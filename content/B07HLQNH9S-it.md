@@ -28,9 +28,9 @@ average: '1.67'
 
 ℹ️:
 
-- Farina di frumento
-- Gli allegri animaletti
 - Confezione da 650gr
+- Gli allegri animaletti
+- Farina di frumento
 - Senza olio di palma
 - Senza olio di palma
 

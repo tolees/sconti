@@ -28,9 +28,9 @@ average: '42.0'
 
 ℹ️:
 
-- Vestibilità regolare
-- Soletta in tessuto
 - Lacci
+- Soletta in tessuto
+- Vestibilità regolare
 - Suola in gomma
 - Tomaia in materiale sintetico
 

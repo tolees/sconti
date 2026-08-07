@@ -28,8 +28,8 @@ average: '20.3766666666667'
 
 ℹ️:
 
-- Indicato ai bambini di età superiore ai tre anni
 - Dimensione prodotto: 400 x 300 x 237 mm
+- Indicato ai bambini di età superiore ai tre anni
 - Costruzioni magnetiche e giochi educativi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

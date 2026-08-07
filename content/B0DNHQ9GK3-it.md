@@ -28,10 +28,10 @@ average: '14.58'
 
 ℹ️:
 
-- Leggings sportivi da donna 3/4 con grandi tasche allesterno di ogni coscia.
-- Leggings sport da donna 3/4 in tessuto a quattro vie elasticizzato; il tessuto si allunga, nessuna trasparenza, vestibilità lusinghiera, senza sentirsi limitato. Tutte le cuciture hanno un aspetto ordinato e sono ben salde. Si indossa comodamente, niente pizzica o preme. Costruzione flatlock riduce al minimo lo sfregamento.
 - I leggings da donna a 3/4 a vita alta sono ideali per attività indoor e outdoor come sport, corsa, yoga, pilates, fitness, allenamento, ecc. XS/EU34-36 S/EU 36-38 M/EU 38-40 L/EU 40-44 XL/EU 44-46 XXL/EU 46-48
+- Leggings sport da donna 3/4 in tessuto a quattro vie elasticizzato; il tessuto si allunga, nessuna trasparenza, vestibilità lusinghiera, senza sentirsi limitato. Tutte le cuciture hanno un aspetto ordinato e sono ben salde. Si indossa comodamente, niente pizzica o preme. Costruzione flatlock riduce al minimo lo sfregamento.
 - Pantaloni sportivi da donna Scopri il comfort di un pantalone da yoga con una cintura senza cuciture che non interferisce.
+- Leggings sportivi da donna 3/4 con grandi tasche allesterno di ogni coscia.
 - Pantaloncini sportivi da donna a 3/4 con fascia larga e super comoda con elastico per evitare lo scivolamento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

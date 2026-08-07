@@ -28,11 +28,11 @@ average: '31.59'
 
 ℹ️:
 
-- Presenta lo stoppino in legno caratteristico di WoodWick che crepita dolcemente mentre brucia.
 - Sottili note di ribes nero e morbido sandalo completano questo omaggio a un giardino di rose inglese.
-- Crea unatmosfera leggera e raffinata ispirata ai fiori in fiore.
 - La forma ellittica aiuta a distribuire la fragranza in modo uniforme in tutta la stanza.
+- Crea unatmosfera leggera e raffinata ispirata ai fiori in fiore.
 - Una candela raffinata che rappresenta un regalo perfetto per le donne, sia per occasioni speciali che per il piacere quotidiano.
+- Presenta lo stoppino in legno caratteristico di WoodWick che crepita dolcemente mentre brucia.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GQJL5JTN{{</world>}}

@@ -31,8 +31,8 @@ average: '133.0'
 - Suola/Caratteristiche: XL EXTRALIGHT per leggerezza; Cerniera laterale
 - Tomaia: Pelle
 - Fodera: 100% Poliestere Riciclato
-- Colore: Marrone
 - Soletta: Soletta in PU; Altezza: 3,8 cm
+- Colore: Marrone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CRBKGZ3T{{</world>}}

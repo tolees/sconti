@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Colore: giallo brillante con riflessi verdognoli, perlage fine e persistente
-- Gusto: un palato extra secco, fresco, di carattere, con leggero sentore di frutti
-- Casa SantOrsola è un mondo di stile, tradizione e gioia di vivere: ciascuna bottiglia di vino Casa SantOrsola esprime litalianità a tavola in ogni occasione speciale
 - Vitigno: proveniente da una pregiata selezione di uve a bacca bianca di origine italiana
 - Caratteristiche: vino cuvèe ottenuto da uva bianca italiana selezionata da enologi, ottimo con ogni piatto, in particolare primi, torte salate e frittate
+- Gusto: un palato extra secco, fresco, di carattere, con leggero sentore di frutti
+- Colore: giallo brillante con riflessi verdognoli, perlage fine e persistente
+- Casa SantOrsola è un mondo di stile, tradizione e gioia di vivere: ciascuna bottiglia di vino Casa SantOrsola esprime litalianità a tavola in ogni occasione speciale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B088CCDQTR{{</world>}}

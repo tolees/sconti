@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Tipo: Vino spumante Brut che nasce da uve provenienti dalle zone più vocate ed elaborato seguendo precise regole di produzione volte ad esaltarne le caratteristiche. Metodo charmat a temperatura controllata.
 - Contenuto alcolico: 11,5% vol
-- Abbinamenti: Ideale con l’aperitivo, per accompagnare involtini di salmone affumicato farciti al caprino e crudi di pesce; o primi piatti leggeri a base di pesce, carni bianche o crostacei alla griglia.
-- Provenienza: Italia
 - Temperatura di servizio: Si serve fresco alla temperatura di 4-6°C
+- Provenienza: Italia
+- Abbinamenti: Ideale con l’aperitivo, per accompagnare involtini di salmone affumicato farciti al caprino e crudi di pesce; o primi piatti leggeri a base di pesce, carni bianche o crostacei alla griglia.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B072B8GRVY{{</world>}}

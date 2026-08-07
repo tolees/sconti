@@ -28,11 +28,11 @@ average: '15.35'
 
 ℹ️:
 
-- DERMOVITAMINA : è una linea completa di soluzioni di dermocosmesi. Da sempre tratta le problematiche della pelle, con prodotti testati, sicuri e formulazioni aggiornate. I prodotti Dermovitamina sono per tutta la famiglia e dermatologicamente testati.
-- PER GLI SPORTIVI : in caso di attività sportiva, lapplicazione di gel antisfregamento 100 ml in zone come inguine, ascelle e interno coscia, prima e durante lattività sportiva, donerà sollievo immediato. Adatto anche alluso della muta subacquea. Non macchia e resiste allacqua e al sudore.
-- ANTISFREGAMENTO COSCE : Filmocare Gel Antisfregamento di Dermovitamina è un prodotto formulato per ridurre lattrito cutaneo da sfregamento, spesso causa di irritazioni della pelle a livello delle cosce, delle ascelle o sotto il seno.
-- MODALITÀ DUSO: Applicare una dose sufficiente sulla zona da trattare e massaggiare per facilitarne lassorbimento oppure lasciarne una quantità abbondante a protezione della parte interessata. Riapplicare al bisogno.
 - CREMA GEL: il gel, con Vitamina E e amido di riso, crea una barriera protettiva che riduce lattrito lasciando la parte idratata e lenita contrastando le lesioni da sfregamento a cui sono soggette sportivi, soggetti in sovrappeso e lungodegenti. Adatto a tutti i tipi di pelle, anche sensibili.
+- PER GLI SPORTIVI : in caso di attività sportiva, lapplicazione di gel antisfregamento 100 ml in zone come inguine, ascelle e interno coscia, prima e durante lattività sportiva, donerà sollievo immediato. Adatto anche alluso della muta subacquea. Non macchia e resiste allacqua e al sudore.
+- MODALITÀ DUSO: Applicare una dose sufficiente sulla zona da trattare e massaggiare per facilitarne lassorbimento oppure lasciarne una quantità abbondante a protezione della parte interessata. Riapplicare al bisogno.
+- DERMOVITAMINA : è una linea completa di soluzioni di dermocosmesi. Da sempre tratta le problematiche della pelle, con prodotti testati, sicuri e formulazioni aggiornate. I prodotti Dermovitamina sono per tutta la famiglia e dermatologicamente testati.
+- ANTISFREGAMENTO COSCE : Filmocare Gel Antisfregamento di Dermovitamina è un prodotto formulato per ridurre lattrito cutaneo da sfregamento, spesso causa di irritazioni della pelle a livello delle cosce, delle ascelle o sotto il seno.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DWN3N21S{{</world>}}

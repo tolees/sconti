@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Formato bustine monodose: massima praticità per prepararla a casa, in ufficio o per creare bevande calde al cacao o gustosi milkshake in bar e gelaterie
-- Versatile: da gustare sia come cioccolata calda sia in versione fredda (milkshake, frappè), ideale per ogni momento della giornata.
-- Lautentico gusto KitKat in tazza: note di wafer e cacao cremoso per assaporare loriginale gusto KitKat da bere.
-- Confezione riciclabile da 40 bustine monoporzione da 28g
 - Il nostro cacao è certificato Rainforest Alliance che supporta i coltivatori nel migliorare le pratiche agricole e le proprie condizioni di vita. Scopri di più sul sito Nestlé Professional.
+- Versatile: da gustare sia come cioccolata calda sia in versione fredda (milkshake, frappè), ideale per ogni momento della giornata.
+- Formato bustine monodose: massima praticità per prepararla a casa, in ufficio o per creare bevande calde al cacao o gustosi milkshake in bar e gelaterie
+- Confezione riciclabile da 40 bustine monoporzione da 28g
+- Lautentico gusto KitKat in tazza: note di wafer e cacao cremoso per assaporare loriginale gusto KitKat da bere.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FV8YNF6R{{</world>}}

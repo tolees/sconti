@@ -28,8 +28,8 @@ average: '26.78'
 
 ℹ️:
 
-- Modello realizzato con materiali riciclati e certificati
 - Stile femminile e ricercato
+- Modello realizzato con materiali riciclati e certificati
 - Inconfondibile costruzione a croce per ampio sostegno
 - Spalline ampie e regolabili e chiusura sul retro con gancio a occhiello a più regolazioni
 - Reggiseno con ferretto Criss Cross

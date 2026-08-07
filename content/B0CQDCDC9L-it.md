@@ -28,9 +28,9 @@ average: '76.99'
 
 ℹ️:
 
-- Avampiede Matryx sovrastampato con rinforzi in Kevlar per maggiore stabilità, protezione e durata
 - Quarto posteriore in ripstop ad alta tenacità
 - Puntale rinforzato e protettivo
+- Avampiede Matryx sovrastampato con rinforzi in Kevlar per maggiore stabilità, protezione e durata
 - La suola SURFACE CTRL presenta tasselli da 5 mm, copertura su tutta la lunghezza e un rivestimento in gomma sullavampiede per aderenza, protezione e durata, ed è ottimizzata per peso e versatilità e realizzata con il 10% di gomma proveniente da piccoli agricoltori impegnati nei principi agroforestali e nelle pratiche di agricoltura rigenerativa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

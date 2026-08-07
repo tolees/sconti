@@ -28,8 +28,8 @@ average: '18.4093333333333'
 
 ℹ️:
 
-- Una campagna di Call of Duty diversa da ogni altra
 - Gioco cinematografico ed in stile arena
+- Una campagna di Call of Duty diversa da ogni altra
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01ARP03FY{{</world>}}

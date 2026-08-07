@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Equilibra Crema Corpo Azione Idratante 48H 150ml con Estratto di Rosa Damascena Acido Ialuronico Medio-Alto Peso Booster di Idratazione e Fattore Idratante dello Zucchero'
-date: 2026-05-28 12:55:43
+date: 2026-08-06 12:58:48
 image: 'https://m.media-amazon.com/images/I/41XQvjC7siL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0D1RCD53C-it Equilibra Crema Corpo Azione Idratante 48H 150ml con...'
 sku: 'B0D1RCD53C-it'
 tags: [ '🇮🇹', ]
-actualPrice: 3.95 EUR
+actualPrice: 1.29 EUR
 currency: EUR
-price: 3.95
+price: 1.29
 comparePrice: 7.9 EUR
 prodname: 'Equilibra Crema Corpo Azione Idratante 48H 150ml con Estratto di Rosa Damascena Acido Ialuronico Medio-Alto Peso Booster di Idratazione e Fattore Idratante dello Zucchero'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0D1RCD53C/?tag=tolees00-21'
-descuento: '50.00'
-average: '3.95'
+descuento: '83.67'
+average: '2.62'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

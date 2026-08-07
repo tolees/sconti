@@ -28,10 +28,10 @@ average: '16.99'
 
 ℹ️:
 
-- Design classico a girocollo per un look casual
 - Vestibilità comoda per un ottimo comfort e versatilità
-- Ottimo logo Dickies stampato sul petto
 - In morbido jersey di cotone traspirante
+- Design classico a girocollo per un look casual
+- Ottimo logo Dickies stampato sul petto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09TF86N5S{{</world>}}

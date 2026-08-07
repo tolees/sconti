@@ -28,10 +28,10 @@ average: '66.85'
 
 ℹ️:
 
-- Materiale: Alluminio anodizzato
 - Styletto alluminio è interamente sviluppato, progettato e prodotto in Italia ed esclusivamente attraverso lutilizzo di macchine a controllo numerico di ultima generazione
-- Gap di 0,55 con unesposizione leggermente positiva
 - Made in Italy
+- Gap di 0,55 con unesposizione leggermente positiva
+- Materiale: Alluminio anodizzato
 - Limpugnatura Styletto è dotata di una rondella in nylon preinstallata nella vite dellimpugnatura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

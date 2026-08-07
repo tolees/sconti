@@ -28,15 +28,15 @@ average: '39.5'
 
 ℹ️:
 
-- Potenza: 1800 W
-- Calotta riflettente inox
-- Doppia resistenza, superiore 1200W e inferiore 600W
-- Pietra staccabile per pirolisi e pulizia
 - Pareti fredde
-- Piatto in pietra refrattaria (ø 31 cm)
+- Calotta riflettente inox
 - Termostato regolabile fino a 420°C
 - Doppia spia di funzionamento
+- Potenza: 1800 W
+- Pietra staccabile per pirolisi e pulizia
+- Piatto in pietra refrattaria (ø 31 cm)
 - Timer 30 minuti con segnale acustico
+- Doppia resistenza, superiore 1200W e inferiore 600W
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DQY2H3FM{{</world>}}

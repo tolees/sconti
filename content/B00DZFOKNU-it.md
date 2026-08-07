@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clatronic WA 3491 Macchina Cialde Nero'
-date: 2026-08-06 02:25:11
+date: 2026-08-07 07:51:17
 image: 'https://m.media-amazon.com/images/I/418tDQptGRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

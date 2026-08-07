@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- LEGO BOARD GAME FUN: un innovativo gioco da tavolo che incorpora i mattoncini LEGO per un gioco creativo e strategico. Perfetto per gli appassionati di LEGO alla ricerca di una nuova sfida.
 - AVVENTURA DI COSTRUZIONE COMPETITIVA: i giocatori collaborano per ricostruire il maestoso Palazzo della Scimmia, gareggiando per guadagnare il maggior numero di Punti Banana attraverso strategie di costruzione intelligenti.
+- LEGO BOARD GAME FUN: un innovativo gioco da tavolo che incorpora i mattoncini LEGO per un gioco creativo e strategico. Perfetto per gli appassionati di LEGO alla ricerca di una nuova sfida.
 - PREFERITO PER LE SERATE DI GIOCO IN FAMIGLIA: progettato per giocatori dai 10 anni in su, Monkey Palace coinvolge sia i bambini che gli adulti con un gameplay semplice da imparare ma impegnativo da padroneggiare.
 - POSSIBILITÀ INFINITE: Grazie ai tavoli da gioco multipli e la possibilità di raggiungere la vittoria in più modi, ogni partita è unica e incoraggia una creatività e una rigiocabilità infinite.
 - STUPENDO DISPLAY LEGO 3D: con il progredire del gioco, potrete osservare un bellissimo palazzo LEGO 3D che prende forma, offrendo una costruzione visivamente impressionante che si evolve a ogni mossa.

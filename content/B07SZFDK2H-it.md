@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Skech-Knit
-- Lavabile in lavatrice
 - Memory Foam
+- Lavabile in lavatrice
+- Skech-Knit
 - Rete ingegnerizzata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

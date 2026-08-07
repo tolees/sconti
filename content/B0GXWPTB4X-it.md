@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Visita il sito it.pg.com per la composizione della confezione e le modalità di smaltimento
-- BEAUTY CASE DA VIAGGIO: Riscopri una cute fresca, sana e libera dalla forfora con lesclusivo kit Head & Shoulders, il nuovo beauty case con Menthol Fresh e Classic Clean
-- DERMATOLOGICAMENTE TESTATO: Questo shampoo è ottimale per un uso quotidiano ed è progettato per lui e per lei; adatto per tutti i tipi di cute e capelli
 - FORMULA MICROBIOMA BILANCIATO: Colpisce alla radice la causa della forfora, mantenendo un buon pH e un buon equilibrio del microbioma del cuoio capelluto
+- DERMATOLOGICAMENTE TESTATO: Questo shampoo è ottimale per un uso quotidiano ed è progettato per lui e per lei; adatto per tutti i tipi di cute e capelli
 - EFFICACE PROTEZIONE E PREVENZIONE DALLA FORFORA: Fino al 100% di protezione contro la forfora*, clinicamente testato. *Forfora visibile, con uso regolare
+- BEAUTY CASE DA VIAGGIO: Riscopri una cute fresca, sana e libera dalla forfora con lesclusivo kit Head & Shoulders, il nuovo beauty case con Menthol Fresh e Classic Clean
 - USO QUOTIDIANO PER RISULTATI OTTIMALI: Lavaggio dopo lavaggio, migliora lidratazione del cuoio capelluto riducendone i problemi, per cute e capelli liberi dalla forfora
+- Visita il sito it.pg.com per la composizione della confezione e le modalità di smaltimento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GXWPTB4X{{</world>}}

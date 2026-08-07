@@ -28,13 +28,13 @@ average: '13.96375'
 
 ℹ️:
 
-- Solo da DisplayPort a HDMI (non bidirezionale); non compatibile con porta USB; misura 3 m;
-- Connettori placcati in oro, conduttori in rame nudi e schermatura a treccia e lamina per un’elevata qualità di immagine e purezza del suono
-- Supporta risoluzioni video fino a 1920x1200 e 1080p (Full HD) e canali di audio digitale non compresso (7.1, 5.1 o 2)
-- IMPORTANTE: questo cavo non è compatibile con USB-A. La direzione del segnale è unidirezionale: DisplayPort (computer) → HDMI (display)
-- Per visualizzare film su grandi schermi HDTV, presentare lavori tramite proiettore e creare/configurare un secondo monitor o schermi duplicati
-- Nota: questo cavo supporta solo la trasmissione del segnale da DP a porta HDMI, non supporta da HDMI a DP
 - Cavo DisplayPort/HDMI per connettere il computer a HDTV per streaming di audio/video o a un monitor o proiettore HD
+- Nota: questo cavo supporta solo la trasmissione del segnale da DP a porta HDMI, non supporta da HDMI a DP
+- Per visualizzare film su grandi schermi HDTV, presentare lavori tramite proiettore e creare/configurare un secondo monitor o schermi duplicati
+- Supporta risoluzioni video fino a 1920x1200 e 1080p (Full HD) e canali di audio digitale non compresso (7.1, 5.1 o 2)
+- Solo da DisplayPort a HDMI (non bidirezionale); non compatibile con porta USB; misura 3 m;
+- IMPORTANTE: questo cavo non è compatibile con USB-A. La direzione del segnale è unidirezionale: DisplayPort (computer) → HDMI (display)
+- Connettori placcati in oro, conduttori in rame nudi e schermatura a treccia e lamina per un’elevata qualità di immagine e purezza del suono
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B015OW3P1O{{</world>}}

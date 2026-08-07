@@ -28,9 +28,9 @@ average: '12.99'
 
 ℹ️:
 
+- Girocollo a coste
 - 100% cotone
 - Vestibilità regolare
-- Girocollo a coste
 - Spalle leggermente basse
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

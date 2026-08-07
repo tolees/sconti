@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Questo autunno, lasciati avvolgere dalle nostre storie di cioccolato in cui la "Nocciola Piemonte IGP" è la protagonista
-- Cioccolatini Perla extra fondenti e al latte e Gianduia, tutti rigorosamente con un cuore croccante di "Nocciola Piemonte IGP" intera
 - Senza glutine; senza coloranti e conservanti; senza Olio di Palma
-- Prodotto in Italia in base alla regola del “Buono Buonissimo” ingredienti naturali, meno zuccheri, nessun componente artificiale
+- Questo autunno, lasciati avvolgere dalle nostre storie di cioccolato in cui la "Nocciola Piemonte IGP" è la protagonista
 - Allinterno di unelegante borsina, perfetta da regalare
+- Prodotto in Italia in base alla regola del “Buono Buonissimo” ingredienti naturali, meno zuccheri, nessun componente artificiale
+- Cioccolatini Perla extra fondenti e al latte e Gianduia, tutti rigorosamente con un cuore croccante di "Nocciola Piemonte IGP" intera
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DHLFHGS6{{</world>}}

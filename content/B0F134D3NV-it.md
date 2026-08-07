@@ -28,13 +28,13 @@ average: '14.6'
 
 ℹ️:
 
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
-- La vitamina D è necessaria per la normale crescita e per lo sviluppo osseo nei bambini.
 - SWISSE JUNIOR MULTIVIT GUMMY è una formula multi-nutriente con vitamine, minerali e un alto contenuto di fibre, scientificamente studiata per integrare la nutrizione dei bambini dai 4 anni di età, in un delizioso formato in pastiglie gommose agli aromi naturali di arancia e fragola
 - Vegetariane
-- Lo iodio contribuisce alla crescita normale dei bambini.
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
 - Ad alto contenuto di fibre
+- Lo iodio contribuisce alla crescita normale dei bambini.
 - Senza coloranti, aromi artificiali e senza gelatina animale
+- La vitamina D è necessaria per la normale crescita e per lo sviluppo osseo nei bambini.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F134D3NV{{</world>}}

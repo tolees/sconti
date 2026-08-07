@@ -28,11 +28,11 @@ average: '329.9'
 
 ℹ️:
 
-- 【Display ultra-luminoso e protettivo per occhi di livello flagship】Schermo CrystalRes 1,5K più grande, luminosità ultra-alta 3.200 nits
 - 【Altoparlanti stereo simmetrici di livello flagship】Design a doppio altoparlante stereo simmetrico
-- 【Esperienza a 360°】Fotocamera principale 50MP Light Fusion 800, design e ergonomia di livello flagship, comunicazione top di gamma, comunicazione offline Xiaomi, resistente agli urti in ogni aspetto
-- 【Batteria potente da 6.500 mAh (tip.)】Batteria silicio-carbonio a lunga durata – mantiene oltre l’80% della capacità dopo 1.600 cicli di ricarica, resistenza a basse temperature 2,65 V
 - 【Prestazioni top, raffreddamento migliore】Processore di nuova generazione, sistema di raffreddamento Poco IceLoop, risoluzione super touch 16× e campionamento touch istantaneo 2560, gaming potenziato
+- 【Batteria potente da 6.500 mAh (tip.)】Batteria silicio-carbonio a lunga durata – mantiene oltre l’80% della capacità dopo 1.600 cicli di ricarica, resistenza a basse temperature 2,65 V
+- 【Esperienza a 360°】Fotocamera principale 50MP Light Fusion 800, design e ergonomia di livello flagship, comunicazione top di gamma, comunicazione offline Xiaomi, resistente agli urti in ogni aspetto
+- 【Display ultra-luminoso e protettivo per occhi di livello flagship】Schermo CrystalRes 1,5K più grande, luminosità ultra-alta 3.200 nits
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FZLFLR5Y{{</world>}}

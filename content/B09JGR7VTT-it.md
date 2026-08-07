@@ -28,9 +28,9 @@ average: '28.1283333333333'
 
 ℹ️:
 
-- COMPATIBILE: Il filtro acqua può essere utilizzato con tutte le Macchine automatiche per caffè in chicchi DeLonghi che prevedono il filtro; CONFEZIONE DA 4PZ
-- PRATICO: Il filtro acqua DeLonghi è SEMPLICE e VELOCE da installare; per risultati ottimali è consigliabile sostituire regolarmente il filtro, almeno ogni due mesi; effettua la decalcifica con EcoDecalk ogni qualvolta la tua macchina te lo chiede
 - MADE IN ITALY
+- PRATICO: Il filtro acqua DeLonghi è SEMPLICE e VELOCE da installare; per risultati ottimali è consigliabile sostituire regolarmente il filtro, almeno ogni due mesi; effettua la decalcifica con EcoDecalk ogni qualvolta la tua macchina te lo chiede
+- COMPATIBILE: Il filtro acqua può essere utilizzato con tutte le Macchine automatiche per caffè in chicchi DeLonghi che prevedono il filtro; CONFEZIONE DA 4PZ
 - CAFFÈ PIÙ BUONO: Lutilizzo del filtro acqua originale DeLonghi permette di allungare la vita della tua macchina, oltre ad assicurati un caffè sempre buono e cremoso
 - ANTICALCARE: Il filtro acqua DeLonghi previene e rallenta la formazione di calcare nella tua macchina; permette di avere una macchina non solo libera dal calcare, ma anche sempre pulita
 

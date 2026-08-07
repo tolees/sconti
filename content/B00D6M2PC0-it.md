@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Switch
 - D-Link
+- Switch
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00D6M2PC0{{</world>}}

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Gestisci un mondo di gioco divertente e in evoluzione: Un coinvolgente simulatore gestionale dai creatori di Two Point Hospital.
-- La Enrolment Edition contiene: la mappa del campus, "Two Point" Bonus DLC pack, University Prospectus e un esclusivo packaging.
-- Crea il campus dei tuoi sogni: Costruisci e controlla la tua università, arricchita da nuovi strumenti creativi, creati per realizzare un capolavoro delleducazione.
 - Fai crescere i tuoi studenti negli anni migliori della loro vita con un nuovo e migliorato sistema di relazioni. Fai in modo che abbiano tutto quello che gli serve per lavorare sodo e divertirsi forte
+- Crea il campus dei tuoi sogni: Costruisci e controlla la tua università, arricchita da nuovi strumenti creativi, creati per realizzare un capolavoro delleducazione.
+- La Enrolment Edition contiene: la mappa del campus, "Two Point" Bonus DLC pack, University Prospectus e un esclusivo packaging.
+- Gestisci un mondo di gioco divertente e in evoluzione: Un coinvolgente simulatore gestionale dai creatori di Two Point Hospital.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09RQ4YV8K{{</world>}}

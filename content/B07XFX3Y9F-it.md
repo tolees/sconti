@@ -29,10 +29,10 @@ average: '14.32'
 ℹ️:
 
 - La confenzione contiene 48 lattine suddivise in 8 multipack da 6
+- Questa confezione di cartone è fatta con min. 80% di fibre riciclate
 - Il cibo per gatti Felix Soup è un alimento complementare per gatti adulti
 - Il cibo umido per gatti FELIX Soup Original è una gamma di ricette irresistibili per il tuo gatto.
 - Tutte le ricette di umido gatto FELIX Soup Original sono preparate con ingredienti di alta qualità e non contengono coloranti, conservanti e aromi artificiali aggiunti
-- Questa confezione di cartone è fatta con min. 80% di fibre riciclate
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07XFX3Y9F{{</world>}}

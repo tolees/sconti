@@ -28,10 +28,10 @@ average: '159.99'
 
 ℹ️:
 
-- Made in ITALY. Questo mobile è stato progettato e prodotto in Italia.
-- Mobile realizzato in PANNELLO ECOLOGICO e certificato FSC 100% legno riciclato. É il pannello con la minore emissione di Co2 al mondo. Le sue straordinarie qualità lo rendono pratico e resistente, adatto dunque ad essere il componente base dei mobili Composad.
 - I cassetti scorrono su guide di metallo a sfere sigillate che garantiscono efficienza e una lunga durata allusura.
 - Il mobile è dotato di piedini regolabili. È consigliato il fissaggio a parete.
+- Made in ITALY. Questo mobile è stato progettato e prodotto in Italia.
+- Mobile realizzato in PANNELLO ECOLOGICO e certificato FSC 100% legno riciclato. É il pannello con la minore emissione di Co2 al mondo. Le sue straordinarie qualità lo rendono pratico e resistente, adatto dunque ad essere il componente base dei mobili Composad.
 - Dimensioni: Altezza: 112.00 cm, Larghezza: 81.60 cm, Profondità: 35.70 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

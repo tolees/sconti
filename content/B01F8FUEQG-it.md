@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Draper Garanzia a vita
 - Tubolare in acciaio con impugnatura morbida
+- Draper Garanzia a vita
 - Lame in acciaio al carbonio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

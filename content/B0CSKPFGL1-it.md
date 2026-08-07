@@ -29,8 +29,8 @@ average: '25.0'
 ℹ️:
 
 - Struttura progettata per offrire una calzata comoda e un supporto efficace durante l’uso quotidiano, l’attività sportiva o il tempo libero.
-- Massimo confort
 - Dettagli ricercati
+- Massimo confort
 - Ergonomica
 - Stile NIKE riconoscibile abbinato a materiali di qualità pensati per garantire durata, leggerezza e prestazioni nel tempo.
 

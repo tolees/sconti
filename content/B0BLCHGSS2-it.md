@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Chiusura con lacci
-- PUMA Logo Cat sul tallone
 - Tomaia in pelle scamosciata
 - Suola in gomma che non lascia segni
+- Chiusura con lacci
+- PUMA Logo Cat sul tallone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BLCHGSS2{{</world>}}

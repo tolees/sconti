@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Miscela adatta per preparazioni di caffè con diverse estrazioni tra cui Moka e Coffee Press, Pour Over e macchine espresso
-- Un caffè che ti accompagna in un viaggio tra due mondi. Il blend 50% Arabica e 50% Robusta richiama l’atmosfera intensa del Sottosopra con note terrose, legnose e una vivace acidità. La dolcezza, con sentori floreali e fruttati, riporta l’equilibrio e il calore di casa, tra sicurezza e mistero, pronti a fondersi in un’unica esperienza.
-- Caffè da 250g - 8.8Oz r in latta; Miscela: 50% Arabica, 50% Robusta ; Intensità della miscela: 8
 - Nella nuova Capsule Collection Bialetti x Stranger Things è disponibile anche il caffè macinato universale. Ti regalerà unesperienza unica per affrontare il Sottosopra.
+- Un caffè che ti accompagna in un viaggio tra due mondi. Il blend 50% Arabica e 50% Robusta richiama l’atmosfera intensa del Sottosopra con note terrose, legnose e una vivace acidità. La dolcezza, con sentori floreali e fruttati, riporta l’equilibrio e il calore di casa, tra sicurezza e mistero, pronti a fondersi in un’unica esperienza.
+- Miscela adatta per preparazioni di caffè con diverse estrazioni tra cui Moka e Coffee Press, Pour Over e macchine espresso
+- Caffè da 250g - 8.8Oz r in latta; Miscela: 50% Arabica, 50% Robusta ; Intensità della miscela: 8
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FRSCJGXW{{</world>}}

@@ -28,11 +28,11 @@ average: '10.99'
 
 ℹ️:
 
-- Linea Uva Preziosa di Bottega Verde: linea che combatte lo stress ossidativo causato dai radicali liberi grazie alluva rossa della tenuta Bottega Verde in Toscana che viene iperfermentata per una potente azione antiossidante
-- Crema Corpo Uva Preziosa: ideale per mantenere la pelle morbida e vellutata, è il latte corpo perfetto per la profonda nutrizione e idratazione della pelle
-- Formulazione: la sua formula, realizzata con il 97% di ingredienti di origine naturale, contiene iperfermentato di Uva Rossa, dalla forte azione antiossidante ed emolliente, e un mix selezionato di oli vegetali particolarmente efficaci nel preservare lidratazione cutanea; vegana, senza parabeni, senza siliconi e senza oli minerali
 - Modo duso: massaggiare a volontà sulla pelle del corpo per mantenerla morbida e vellutata
 - Formato: 1 Crema Corpo Uva Preziosa da 200 ml
+- Formulazione: la sua formula, realizzata con il 97% di ingredienti di origine naturale, contiene iperfermentato di Uva Rossa, dalla forte azione antiossidante ed emolliente, e un mix selezionato di oli vegetali particolarmente efficaci nel preservare lidratazione cutanea; vegana, senza parabeni, senza siliconi e senza oli minerali
+- Crema Corpo Uva Preziosa: ideale per mantenere la pelle morbida e vellutata, è il latte corpo perfetto per la profonda nutrizione e idratazione della pelle
+- Linea Uva Preziosa di Bottega Verde: linea che combatte lo stress ossidativo causato dai radicali liberi grazie alluva rossa della tenuta Bottega Verde in Toscana che viene iperfermentata per una potente azione antiossidante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BXM1PZNZ{{</world>}}

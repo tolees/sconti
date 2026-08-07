@@ -28,16 +28,16 @@ average: '69.3273333333334'
 
 ℹ️:
 
-- È inoltre possibile caricare il controller collegando il cavo USB a un computer o a un altro dispositivo USB. Utilizzare un cavo USB conforme allo standard USB. Alcuni dispositivi potrebbero non caricare il controller
 - Il controller wireless DualSense per PlayStation 5 può essere utilizzato per giocare ai giochi PlayStation su PC(1) con una connessione cablata. Il supporto per le funzionalità specifiche di DualSense e una connessione wireless varia in base al titolo
-- Il controller wireless DualSense per PlayStation 5 non è compatibile con la console PlayStation 4
-- Feedback tattile: grazie ai doppi azionamenti che sostituiscono i tradizionali motori a vibrazione, puoi sentire direttamente il feedback tattile dalle tue azioni nel gioco. Nelle tue mani, queste vibrazioni dinamiche simulano una varietà di sensazioni, dagli ambienti al rinculo di varie armi.
-- Trigger adattivi: sperimenta diversi livelli di forza e tensione mentre interagisci con il tuo equipaggiamento e gli ambienti di gioco. Dal tendere una corda sempre più tesa allazionare i freni su unauto in corsa, ti senti così fisicamente connesso alle tue azioni sullo schermo
-- Crea Taste: registra e condividi i tuoi momenti di gioco particolarmente epici con Create Taste3. Basandosi sul successo dellinnovativo pulsante SHARE, il pulsante Crea offre ai giocatori nuovi modi per creare contenuti di gioco e trasmettere le proprie avventure in diretta al mondo
-- Microfono integrato e jack per cuffie: chatta con gli amici online parlando direttamente nel microfono integrato o collegando le cuffie al jack da 3,5 mm. Attiva e disattiva lacquisizione vocale in modo semplice e immediato con un pulsante di disattivazione audio dedicato
 - Scopri unesperienza di gioco più coinvolgente e coinvolgente che dà vita allazione nelle tue mani. Il controller wireless DualSense offre feedback tattile coinvolgente, trigger adattivi dinamici e un microfono integrato, il tutto in un design iconico e confortevole
-- Sensore di movimento: laccelerometro e il giroscopio integrati forniscono un controllo intuitivo del movimento nei giochi supportati
+- È inoltre possibile caricare il controller collegando il cavo USB a un computer o a un altro dispositivo USB. Utilizzare un cavo USB conforme allo standard USB. Alcuni dispositivi potrebbero non caricare il controller
+- Crea Taste: registra e condividi i tuoi momenti di gioco particolarmente epici con Create Taste3. Basandosi sul successo dellinnovativo pulsante SHARE, il pulsante Crea offre ai giocatori nuovi modi per creare contenuti di gioco e trasmettere le proprie avventure in diretta al mondo
+- Feedback tattile: grazie ai doppi azionamenti che sostituiscono i tradizionali motori a vibrazione, puoi sentire direttamente il feedback tattile dalle tue azioni nel gioco. Nelle tue mani, queste vibrazioni dinamiche simulano una varietà di sensazioni, dagli ambienti al rinculo di varie armi.
+- Il controller wireless DualSense per PlayStation 5 non è compatibile con la console PlayStation 4
+- Microfono integrato e jack per cuffie: chatta con gli amici online parlando direttamente nel microfono integrato o collegando le cuffie al jack da 3,5 mm. Attiva e disattiva lacquisizione vocale in modo semplice e immediato con un pulsante di disattivazione audio dedicato
+- Trigger adattivi: sperimenta diversi livelli di forza e tensione mentre interagisci con il tuo equipaggiamento e gli ambienti di gioco. Dal tendere una corda sempre più tesa allazionare i freni su unauto in corsa, ti senti così fisicamente connesso alle tue azioni sullo schermo
 - Prendi il controllo con un design bicolore evoluto che combina un layout iconico e intuitivo con stick migliorati e una barra luminosa ridisegnata
+- Sensore di movimento: laccelerometro e il giroscopio integrati forniscono un controllo intuitivo del movimento nei giochi supportati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08H99BPJN{{</world>}}

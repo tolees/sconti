@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Un sapore corposo, con note di Agrumi, albicocca, frutta a guscio, caramello, cioccolato al latte, mandarino, pompelmo rosa, vaniglia. Ideale per gli intenditori più esigenti
-- Un caffè pregiato dal gusto delicato e leggermente acido, con sentori agrumati tipici dei caffè Arabica e un retrogusto di pasticceria. Ideale per i consumatori più esigenti
 - La miscela Bio Caffè Vergnano nasce dalla torrefazione lenta delle migliori varietà di Arabica ottenute da agricoltura biologica, nel rispetto della natura e dell’ecosistema locali
 - Confezionati in atmosfera protettiva per conservare la freschezza e la fragranza del caffè
+- Un caffè pregiato dal gusto delicato e leggermente acido, con sentori agrumati tipici dei caffè Arabica e un retrogusto di pasticceria. Ideale per i consumatori più esigenti
 - Conservabilità: 24 mesi dalla data di produzione. Modalità di conservazione: conservare in un luogo fresco e asciutto, lontano da fonti di calore e umidità
+- Un sapore corposo, con note di Agrumi, albicocca, frutta a guscio, caramello, cioccolato al latte, mandarino, pompelmo rosa, vaniglia. Ideale per gli intenditori più esigenti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B004GAJUHO{{</world>}}

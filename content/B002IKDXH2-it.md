@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Il martello perforatore GBH 3-28 DFR Bosch Professional: ottimi prestazioni e bassissime vibrazioni
-- Poche vibrazioni e una distribuzione equilibrata del peso rendono confortevole il lavoro
-- Il mandrino intercambiabile permette di passare rapidamente da foratura con percussione (calcestruzzo) a foratura senza percussione (legno e metallo) e viceversa
-- Dotazione: Panno, mandrino autoserrante da 13 mm, mandrino intercambiabile SDS plus, impugnatura supplementare, tubetto di grasso, valigetta professionale
 - Il GBH 3-28 DFR assicura un rapido avanzamento nella foratura e unelevata potenza di scalpellatura
+- Poche vibrazioni e una distribuzione equilibrata del peso rendono confortevole il lavoro
+- Dotazione: Panno, mandrino autoserrante da 13 mm, mandrino intercambiabile SDS plus, impugnatura supplementare, tubetto di grasso, valigetta professionale
+- Il mandrino intercambiabile permette di passare rapidamente da foratura con percussione (calcestruzzo) a foratura senza percussione (legno e metallo) e viceversa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B002IKDXH2{{</world>}}

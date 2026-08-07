@@ -28,12 +28,12 @@ average: '13.9'
 
 ℹ️:
 
-- Un mini fumetto incluso illustra la storia del crossover.
-- He-Man, luomo più potente di Eternia, collabora con i ThunderCats per combattere contro gli Antichi Spiriti del Male dalla Terza Terra a Third Eternia.
 - I fan MOTU e ThunderCats dai 6 anni in su vorranno collezionare tutti i personaggi: larmatura e gli accessori si possono sostituire, scambiare e condividere! Ogni personaggio è in vendita separatamente, secondo disponibilità.
-- Realizzato in scala da 14 cm circa, questo personaggio è dotato di 16 articolazioni mobili per fantastiche pose da battaglia e viene fornito con la sua imbracatura toracica tradizionale e la Spada del Potere.
-- Questa action figure di He-Man è un entusiasmante crossover tra i mondi di Masters of the Universe e ThunderCats, due iconici marchi di action figure degli anni 80 che continuano la loro storia!
 - È possibile aggiungere pezzi di armatura e armi in stile Thundercats, tra cui uno scudo dentato, un elmetto, unarmatura toracica ispirata a un gatto, uno spallaccio in pelliccia e una cintura/gonnellino. I vambraci e le fasce per braccia e gambe completano il personaggio.
+- Realizzato in scala da 14 cm circa, questo personaggio è dotato di 16 articolazioni mobili per fantastiche pose da battaglia e viene fornito con la sua imbracatura toracica tradizionale e la Spada del Potere.
+- He-Man, luomo più potente di Eternia, collabora con i ThunderCats per combattere contro gli Antichi Spiriti del Male dalla Terza Terra a Third Eternia.
+- Un mini fumetto incluso illustra la storia del crossover.
+- Questa action figure di He-Man è un entusiasmante crossover tra i mondi di Masters of the Universe e ThunderCats, due iconici marchi di action figure degli anni 80 che continuano la loro storia!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DPQH7LYT{{</world>}}

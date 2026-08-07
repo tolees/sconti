@@ -28,13 +28,13 @@ average: '35.0'
 
 ℹ️:
 
-- Tessuto antiumidità
 - Orli elasticizzati
-- Vita media e vestibilità regolare
 - Gambe affusolate
-- Tasche anteriori
-- Orli elasticizzati
 - Tessuto antiumidità
+- Tessuto antiumidità
+- Tasche anteriori
+- Vita media e vestibilità regolare
+- Orli elasticizzati
 - 87% poliestere (riciclato) / 13% elastan
 - Girovita elasticizzato
 

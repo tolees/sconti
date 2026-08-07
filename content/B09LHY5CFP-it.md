@@ -28,15 +28,15 @@ average: '85.99'
 
 ℹ️:
 
-- Accessori: manovella, supporto motore, morsetto di fissaggio
-- 2 accessori intercambiabili
-- 2 velocità di funzionamento + PULSE
-- Fino a 60 minuti di lavoro continuo
-- Funzionamento manuale con manovella o automatico con motore
-- Potenza: 90W
-- Sfogliatrice con 9 regolazioni di spessore e rulli da 15cm
-- Struttura in acciaio inox con rulli in alluminio, conformi al contatto con alimenti
 - 5 formati di pasta: lasagne, tagliatelle, spaghetti, reginette e fettuccine
+- Funzionamento manuale con manovella o automatico con motore
+- 2 velocità di funzionamento + PULSE
+- Struttura in acciaio inox con rulli in alluminio, conformi al contatto con alimenti
+- Potenza: 90W
+- Accessori: manovella, supporto motore, morsetto di fissaggio
+- Sfogliatrice con 9 regolazioni di spessore e rulli da 15cm
+- Fino a 60 minuti di lavoro continuo
+- 2 accessori intercambiabili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09LHY5CFP{{</world>}}

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- LABBRA PROTETTIVE e LEVIGATE: Lolio di argan, puro al 100%, contenuto in importanti quantità (5%) nella formula, protegge le labbra assicurando morbidezza, levigatezza e setosità
-- CARATTERISTICHE: Nella stagione fredda protegge le labbra dallazione aggressiva del gelo, nella stagione calda previene leccessiva disidratazione dovuta al sole e al vento
 - Equilibra: da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto dellequilibrio tra rispetto, efficacia, benessere e bellezza
+- LABBRA PROTETTIVE e LEVIGATE: Lolio di argan, puro al 100%, contenuto in importanti quantità (5%) nella formula, protegge le labbra assicurando morbidezza, levigatezza e setosità
 - ARGAN STICK LABBRA: È uno stick morbido e scorrevole che avvolge le labbra con un delicatissimo velo protettivo
+- CARATTERISTICHE: Nella stagione fredda protegge le labbra dallazione aggressiva del gelo, nella stagione calda previene leccessiva disidratazione dovuta al sole e al vento
 - COSA CONTIENE: Olio di Argan, protettivo, levigante. Completa il prodotto la vitamina E, dallazione antiossidante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - IL SEGRETO PER CAPELLI RESISTENTI AL CRESPO: Il nostro shampoo Lisci Effetto Seta deterge delicatamente i capelli per renderli fino al 100% più forti* e resistenti al crespo (*contro i danni dello styling rispetto allo shampoo Aqualight)
 - SHAMPOO PER USO QUOTIDIANO SENZA SILICONI: Il nostro shampoo senza siliconi, olio minerale e coloranti deterge delicatamente i capelli donando sostanze nutrienti
+- UNA SANA ROUTINE PER LA CURA DEI CAPELLI: Usalo insieme alla nostra linea completa Pantene Lisci Effetto Seta per ottenere una morbidezza setosa e controllare il crespo
 - Visita il sito it.pg.com per la composizione della confezione e le modalità di smaltimento
 - PROTEZIONE DEI LEGAMI DEL CAPELLO: con la formula Pro-V e la tecnologia Active Nutri-Plex, questo shampoo è progettato per proteggere i legami del capello e controllare il crespo, anche sui capelli spenti
-- UNA SANA ROUTINE PER LA CURA DEI CAPELLI: Usalo insieme alla nostra linea completa Pantene Lisci Effetto Seta per ottenere una morbidezza setosa e controllare il crespo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08F77TJJ6{{</world>}}

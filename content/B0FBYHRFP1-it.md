@@ -28,9 +28,9 @@ average: '48.0'
 
 ℹ️:
 
+- Morbido tessuto in jersey di cotone per un comfort quotidiano
 - Design classico a girocollo e maniche corte
 - Vestibilità aderente
-- Morbido tessuto in jersey di cotone per un comfort quotidiano
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FBYHRFP1{{</world>}}

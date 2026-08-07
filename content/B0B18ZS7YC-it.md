@@ -28,8 +28,8 @@ average: '36.26'
 
 ℹ️:
 
-- Fodera: Pelle
 - Chiusura: Zip
+- Fodera: Pelle
 - Materiale esterno: Pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

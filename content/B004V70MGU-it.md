@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- INGREDIENTI: zucchero, grasso di palma, burro di cacao, pasta di cacao, latte intero in polvere, farina di grano, latte scremato in polvere, lattosio, burro anidro, burro, emulsionante: lecitine di soia, amido di grano, sciroppo di glucosio-fruttosio, sale, siero di latte in polvere.
 - CIOCCOLATO AL LATTE: tavoletta di cioccolato al latte ripiena con crema al cacao e biscotto al burro.
+- MULTIPACK: confezione da 11 pezzi. Ingredienti naturali selezionati e di alta qualità. Ricette ridotte all’essenziale. No OGM, No Aromi, No Additivi. Confezione interamente ricilabile. Produzione climaticamente neutra.
 - PERCHÉ PROVARLO: biscotto al burro di forma quadrata inserito nella tavoletta assieme alla deliziosa crema al cacao e al cioccolato al latte.
 - RITTER SPORT: creiamo il tuo cioccolato preferito con i nostri migliori ingredienti insieme a persone esperte nelle coltiavazione del cacao e accumunate dalla stessa passione.
-- MULTIPACK: confezione da 11 pezzi. Ingredienti naturali selezionati e di alta qualità. Ricette ridotte all’essenziale. No OGM, No Aromi, No Additivi. Confezione interamente ricilabile. Produzione climaticamente neutra.
+- INGREDIENTI: zucchero, grasso di palma, burro di cacao, pasta di cacao, latte intero in polvere, farina di grano, latte scremato in polvere, lattosio, burro anidro, burro, emulsionante: lecitine di soia, amido di grano, sciroppo di glucosio-fruttosio, sale, siero di latte in polvere.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B004V70MGU{{</world>}}

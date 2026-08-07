@@ -28,10 +28,10 @@ average: '9.99'
 
 ℹ️:
 
-- Adatto per matite di dimensioni 6-12mm
 - Temperamatite elettrico alimentato da cavo USB o 4 x batterie AA
-- 2 anni di garanzia
 - Copertura di sicurezza sul foro più grande
+- Adatto per matite di dimensioni 6-12mm
+- 2 anni di garanzia
 - Fornito con cavo USB e due set di lame (uno già montato e uno di ricambio)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

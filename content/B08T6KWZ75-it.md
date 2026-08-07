@@ -28,9 +28,9 @@ average: '6.99'
 
 ℹ️:
 
-- ICONICI PERSONAGGI DI STAR WARS: le spade laser di Star Wars Lightsaber Squad presentano else decorate ispirate ai personaggi delluniverso Star Wars più amati dai fan (vendutii separatamente, secondo disponibilità)
-- ALLUNGABILE CON MOVIMENTO DEL POLSO: i bambini dai 4 anni in su possono allungare la loro spada laser arancione Il Mandaloriano di Star Wars Lightsaber Squad con un semplice movimento del polso e immaginare epici duelli
 - CERCA GLI ALTRI PERSONAGGI DI UNA GALASSIA LONTANA LONTANA: cerca gli altri giocattoli di Star Wars Lightsaber Squad per il gioco di ruolo e crea una squadra impugnando le spade laser di Star Wars! (in vendita separatamente, secondo disponibilità)
+- ALLUNGABILE CON MOVIMENTO DEL POLSO: i bambini dai 4 anni in su possono allungare la loro spada laser arancione Il Mandaloriano di Star Wars Lightsaber Squad con un semplice movimento del polso e immaginare epici duelli
+- ICONICI PERSONAGGI DI STAR WARS: le spade laser di Star Wars Lightsaber Squad presentano else decorate ispirate ai personaggi delluniverso Star Wars più amati dai fan (vendutii separatamente, secondo disponibilità)
 - IL MANDALORIANO: Il Mandaloriano, un tipo taciturno e consumato dalle battaglie, è un formidabile cacciatore di taglie in una galassia sempre più pericolosa
 - SPADA LASER ISPIRATA AL MANDALORIANO: questa spada laser Il Mandaloriano di Star Wars Lightsaber Squad è pensata per assomigliare al cacciatore di taglie della serie live-action in streaming su Disney+
 

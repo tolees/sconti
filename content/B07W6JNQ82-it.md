@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Design compatto ultraportatile: il design compatto senza tastierino numerico lascia spazio per il movimento del mouse. La tastiera è anche facile da trasportare, ideale per i tornei
+- Switch clicky GX Blue di livello professionale: gli switch clicky GX Blue a lunga durata offrono un clic udibile e un feedback di resistenza percepibile per una pressione dei tasti solida e sicura
 - Piedini in gomma antiscivolo e regolazione dellangolazione: regolazione dellangolazione a tre punti per ulteriore comfort e piedini in gomma che garantiscono uneccellente stabilità durante le sessioni di gioco intense
 - Realizzata su misura per i professionisti: progettata con e per gli atleti di eSport per prestazioni, velocità e precisione di livello competitivo
 - RGB LIGHTSYNC: usa LIGHTSYNC per illuminare i tasti e programmare schemi di illuminazione statica nella memoria integrata per i sistemi in uso presso i tornei che non consentono linstallazione di G HUB
-- Switch clicky GX Blue di livello professionale: gli switch clicky GX Blue a lunga durata offrono un clic udibile e un feedback di resistenza percepibile per una pressione dei tasti solida e sicura
+- Design compatto ultraportatile: il design compatto senza tastierino numerico lascia spazio per il movimento del mouse. La tastiera è anche facile da trasportare, ideale per i tornei
 - Cavo rimovibile: il cavo micro-USB rimovibile presenta un design a tre punte per una connessione facile e sicura e un trasporto sicuro nella borsa da viaggio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

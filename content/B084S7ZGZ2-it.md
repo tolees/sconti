@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Primo ingrediente tonnetto con abbinato un gustoso topping di orata
 - COMPOSIZIONE: Ingredienti naturali al 100%, privi di conservanti e coloranti aggiunti; cottura al vapore, lavorazione a mano, preparazione in gelatina.
 - CRUELTY FREE: nessun test invasivo è stato effettuato sugli animali in funzione della sua produzione. No conservanti e coloranti aggiunti.
-- ECOSOSTENIBILITA: Nei prodotti umidi sono utilizzate due specie di tonnetto, scelte tra quelle che non soffrono di sovrasfruttamento. Tracciabilità integrale. Ogni confezioni riporta la specie di tonnetto utilizzata per lotto di produzione.
+- Primo ingrediente tonnetto con abbinato un gustoso topping di orata
 - ALTAMENTE DIGERIBILE: la sua formula è stata approvata dal punto di vista nutrizionale
+- ECOSOSTENIBILITA: Nei prodotti umidi sono utilizzate due specie di tonnetto, scelte tra quelle che non soffrono di sovrasfruttamento. Tracciabilità integrale. Ogni confezioni riporta la specie di tonnetto utilizzata per lotto di produzione.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B084S7ZGZ2{{</world>}}

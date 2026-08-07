@@ -28,13 +28,13 @@ average: '26.73'
 
 ℹ️:
 
-- Temperatura di Servizio: 6-8°
-- Paese di produzione: Italia
-- E perfetto per laperitivo e si abbina splendidamente a pesce crudo, crostacei, fritti leggeri, sushi, salumi delicati, formaggi freschi, risotti alle verdure e piatti etnici leggeri.
-- Vino Bianco Secco
-- Cartone da 6 bottiglie da 750 ML
 - Provenienza: Friuli Venezia Giulia
+- Cartone da 6 bottiglie da 750 ML
+- E perfetto per laperitivo e si abbina splendidamente a pesce crudo, crostacei, fritti leggeri, sushi, salumi delicati, formaggi freschi, risotti alle verdure e piatti etnici leggeri.
+- Temperatura di Servizio: 6-8°
 - Cà di Prata Ribolla Gialla spumante Extra Dry Vsq - Cartone da 6 x 750 ML
+- Vino Bianco Secco
+- Paese di produzione: Italia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09TVZXSML{{</world>}}

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Maglietta a maniche corte
 - Logo ricamato sul petto
 - Maglietta a girocollo
-- Maglietta a maniche corte
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F4QHQQ8Y{{</world>}}

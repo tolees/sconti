@@ -28,11 +28,11 @@ average: '6.48'
 
 ℹ️:
 
+- LENISCE E RINFRESCA LA PELLE
+- FRAGRANZA RINFRESCANTE
+- CON ALOE VERA
 - PRODOTTO ETICAMENTE - Vegano e contro i test sugli animali
 - Flacone 100% riciclato
-- CON ALOE VERA
-- FRAGRANZA RINFRESCANTE
-- LENISCE E RINFRESCA LA PELLE
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0012VN1EI{{</world>}}

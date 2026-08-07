@@ -29,9 +29,9 @@ average: '25.39'
 ℹ️:
 
 - Calotta avvolgente con ingombro ridotto, leggero, confortevole e con unottimo ventilazione grazie alle numerose aperture presenti sulla calotta
-- Casco agevole ermetico e protettivo
-- Taglia regolabile da 50 a 61 cm, grazie al regolatore del girotesta, calotta leggera in ABS e guscio interno in poliestere espanso, dotato di quattro agganci per pila frontale
 - Casco polivalente concepito per lalpinismo, larrampicata, le vie ferrate e parchi davventura
+- Taglia regolabile da 50 a 61 cm, grazie al regolatore del girotesta, calotta leggera in ABS e guscio interno in poliestere espanso, dotato di quattro agganci per pila frontale
+- Casco agevole ermetico e protettivo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01BRYVKQA{{</world>}}

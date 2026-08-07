@@ -28,11 +28,11 @@ average: '131.91'
 
 ℹ️:
 
-- Classe E
 - Congelatore Orizzontale
 - Bianco
-- Statico
 - Controllo elettronico
+- Classe E
+- Statico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CNH9DX7P{{</world>}}

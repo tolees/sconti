@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Pacco di 12 lattine di 250 ml
-- Il classico Tanqueray London Dry & Tonic per chi cerca una scelta pratica ma senza compromessi con il gusto. Con le 4 botaniche classiche di Tanqueray, ginepro, coriandolo, angelica e liquirizia ricrea il Perfetto Gin & Tonic in ogni lattina.
-- Tanqueray London Dry Gin & Tonic è un premix elaborato con gin Tanqueray London Dry e tonica, pronto da gustare a casa
 - Pronto da bere freddo direttamente dalla lattina oppure in un bicchiere con ghiaccio e lime per una migliore esperienza
 - Una bevanda che ti permette di gustare un drink di qualità a casa, come se fosse stato preparato da un esperto bartender professionista
+- Il classico Tanqueray London Dry & Tonic per chi cerca una scelta pratica ma senza compromessi con il gusto. Con le 4 botaniche classiche di Tanqueray, ginepro, coriandolo, angelica e liquirizia ricrea il Perfetto Gin & Tonic in ogni lattina.
+- Tanqueray London Dry Gin & Tonic è un premix elaborato con gin Tanqueray London Dry e tonica, pronto da gustare a casa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C4F8PZ6T{{</world>}}

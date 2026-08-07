@@ -28,8 +28,8 @@ average: '61.84125'
 
 ℹ️:
 
-- Altezza tacco: 5 cm / 2
 - I sistemi brevettati Geox assicurano traspirabilità della suola e benessere del piede
+- Altezza tacco: 5 cm / 2
 - Calzata facile e veloce grazie allelastico sulla tomaia
 - Realizzato in materiale resistente
 - Facile da indossare per un comfort ottimo

@@ -30,10 +30,10 @@ average: '39.63'
 
 - Suola preformata in gomma
 - Fodera in tessuto
-- Almeno il 50% della tomaia proviene da fonti riciclate
 - Calzata regolare
-- Suola in gomma
 - Morbida tomaia in materiale sintetico
+- Almeno il 50% della tomaia proviene da fonti riciclate
+- Suola in gomma
 - Chiusura con lacci
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

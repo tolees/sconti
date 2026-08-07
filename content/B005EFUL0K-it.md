@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Peso 15 g luna
 - Confezione da 6 bustine
 - Lo snack liquido e cremoso da leccare come spuntino
+- Peso 15 g luna
 - Potete offrire questo snack poco calorico a base di pollo direttamente dalla mano, oppure distribuito sul cibo principale per aumentarne lappetibilitÃ
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

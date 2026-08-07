@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Vestibilità affusolata
 - Jeans affusolati
+- Vestibilità affusolata
 - Composizione materiale: 98% cotone organico, 2% elastan
 - Vita media
 

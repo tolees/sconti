@@ -28,11 +28,11 @@ average: '15.99'
 
 ℹ️:
 
-- Girocollo a coste
-- 100% cotone
 - Vestibilità ampia
-- Maniche allungate
+- 100% cotone
 - Spalle basse e giromanica ampi
+- Girocollo a coste
+- Maniche allungate
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZP3B1ZW{{</world>}}

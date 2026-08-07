@@ -28,11 +28,11 @@ average: '24.825'
 
 ℹ️:
 
-- Esplora Bywater: esplora i dintorni e scopri le radure segrete e i tesori perduti della Contea
-- La versione fisica include una bellissima mappa pieghevole del pittoresco villaggio di Bywater e un codice per il download della colonna sonora ufficiale del gioco
 - Sei a casa, Hobbit! Arreda la tua casa hobbit e trasforma questo accogliente spazio grazie alla possibilità di disporre mobili e decorazioni a tuo piacimento, senza griglie da rispettare
-- Una comoda vita da hobbit: gioca nei panni di un hobbit uscito direttamente dai celebri libri di J.R.R. Tolkien
+- La versione fisica include una bellissima mappa pieghevole del pittoresco villaggio di Bywater e un codice per il download della colonna sonora ufficiale del gioco
 - Il cibo è amore: nessuna giornata hobbit è completa senza qualcosa di buono. Pesca, fai giardinaggio e vai alla ricerca di viveri per riempire la dispensa con i frutti del tuo lavoro
+- Una comoda vita da hobbit: gioca nei panni di un hobbit uscito direttamente dai celebri libri di J.R.R. Tolkien
+- Esplora Bywater: esplora i dintorni e scopri le radure segrete e i tesori perduti della Contea
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F7M1YWHL{{</world>}}

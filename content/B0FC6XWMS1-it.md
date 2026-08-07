@@ -28,11 +28,11 @@ average: '12.5'
 
 ℹ️:
 
-- Realizzato con una maglia un coste morbida
-- MATERIALE: 95% COTONE, 5% ELASTAN
 - Una canotta essenziale Taglio con vestibilità slim
 - MATERIALE: 95% COTONE, 5% ELASTAN
 - ETICHETTA ROSSA LEVIS: Esistono diverse variazioni della nostra famosa etichetta rossa. Alcune dicono LEVIS, altre Levis, alcune non mostrano affatto il marchio. Per le edizioni speciali a volte cambiamo anche il colore.
+- MATERIALE: 95% COTONE, 5% ELASTAN
+- Realizzato con una maglia un coste morbida
 - Labbiamo realizzata con uno scollo un girocollo ultra lusinghiero, un taglio aderente e una maglia un coste morbida—il tutto completato dalla nostra iconica linguetta rossa.
 - La modella è alta 178 cm, Vita 27", Indossa una taglia S
 - design CLASSICO LEVIS: I classici come la nostra Canotta Essential a costine non passano mai di moda.

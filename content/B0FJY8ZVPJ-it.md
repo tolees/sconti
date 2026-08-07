@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Scatola da 150g, contenente 12 BACI PERUGINA Crystal
 - Cioccolatini fondenti extra al gusto di arancia ripieni con nocciole, mandorle e granella croccante allarancia
 - Cioccolatini da condividere, sorprendenti per il loro sapore unico e inconfondibile
 - Senza glutine; Certificato Rainforest Alliance
-- Scatola da 150g, contenente 12 BACI PERUGINA Crystal
 - BACI PERUGINA Crystal, in edizione limitata, racchiusi in una confezione elegante con grafica raffinata che conquista al primo sguardo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

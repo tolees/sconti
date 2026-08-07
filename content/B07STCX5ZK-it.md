@@ -28,8 +28,8 @@ average: '8.07'
 
 ℹ️:
 
-- Film
 - Movie
+- Film
 - DVD
 - Disc
 

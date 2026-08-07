@@ -28,10 +28,10 @@ average: '10.9'
 
 ℹ️:
 
-- TRATTAMENTO ANTIPLACCA E ANTIBATTERICO INTENSIVO PROLUNGATO. Ideale per prevenire laccumulo di placca in eccesso e le irritazioni e infiammazioni ad essa correlate, come la gengivite. Contrasta il sanguinamento gengivale.
-- MODO DUSO: Sciacquare la bocca per circa 40 secondi con 20 ml di Colutorio Professional non diluito..
 - ASSENZA DI ALCOOL: rispetta le mucose ed evita effetti irritanti e fastidiose sensazioni di bruciore sulle gengive
+- MODO DUSO: Sciacquare la bocca per circa 40 secondi con 20 ml di Colutorio Professional non diluito..
 - PER CHI: Soluzione pronta all’uso per un trattamento antibatterico e antiplacca, da utilizzare tutti i giorni in studio durante le visite di controllo, prima di effettuare detartrasi o in pazienti portatori di apparecchi ortodontici o protesi mobili. Indicato anche in chirurgia e implantologia.
+- TRATTAMENTO ANTIPLACCA E ANTIBATTERICO INTENSIVO PROLUNGATO. Ideale per prevenire laccumulo di placca in eccesso e le irritazioni e infiammazioni ad essa correlate, come la gengivite. Contrasta il sanguinamento gengivale.
 - COLLUTORIO CON CLOREXIDINA 0,20% in formato Maxi Taglia da 1 Litro con dispenser salva freschezza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,16 +28,16 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Capacità 1.2 Lt
+- Potenza: 1370-1630 W
+- Luce di funzionamento
+- Alimentazione: AC 220-240V – 50/60 Hz
+- Corpo in acciaio inossidabile
+- Sistema di sicurezza anti surriscaldamento / Interruttore di accensione a rilascio automatico
 - Filtro removibile
 - Rotazione 360°
 - Caraffa con finestra graduata
 - Base di alimentazione ad incastro / Avvolgicavo nella base /
-- Luce di funzionamento
-- Potenza: 1370-1630 W
-- Capacità 1.2 Lt
-- Alimentazione: AC 220-240V – 50/60 Hz
-- Corpo in acciaio inossidabile
-- Sistema di sicurezza anti surriscaldamento / Interruttore di accensione a rilascio automatico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07NJM8QZG{{</world>}}

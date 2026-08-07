@@ -29,8 +29,8 @@ average: '167.75'
 ℹ️:
 
 - Giochi fisici di GRIS e Neva per PlayStation 5 o Nintendo Switch & Scatola da collezione che contiene tutti i contenuti di questa magnifica edizione, con opere darte concettuali di entrambi i giochi.
-- Artbook premium con copertura rigida e custodia: 168 pagine, suddivise equamente tra i 2 giochi. Dimensioni: 31,5 cm x 31,5 cm & Selezione della colonna sonora originale su doppio vinile con copertura a soffietto.
 - Steelbook di GRIS e Neva: dimensione PlayStation per la versione PS5 e dimensione Nintendo per la versione NSW & Stampa artistica con un concetto combinato dei due giochi: 30,5 cm x 30,5 cm, attaccata alla parte posteriore della copertura della scatola che funge anche da cornice. Staccabile.
+- Artbook premium con copertura rigida e custodia: 168 pagine, suddivise equamente tra i 2 giochi. Dimensioni: 31,5 cm x 31,5 cm & Selezione della colonna sonora originale su doppio vinile con copertura a soffietto.
 - Presentiamo la straordinaria e commovente GRIS | Neva - Collector´s Edition, che include i seguenti articoli selezionati per questa release unica nella vita, con opere darte esclusive di Conrad Roset:
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -30,10 +30,10 @@ average: '5.01'
 
 - UNA NUOVA ESPERIENZA DI GUSTO: la golosità del caramello si unisce alle gocce di cioccolato fondente, per un biscotto dal gusto ancora più interessante e dalla piacevole croccantezza
 - GOCCIOLE CARAMEL: squisita pastafrolla arricchita da gocce di cioccolato e granella di caramello
-- INGREDIENTI: pastafrolla arricchita da caramello e gocce di cioccolato, senza olio di palma
-- PAVESI: i nostri prodotti contengono solo ingredienti di qualità. Ti accompagniamo in tutti i momenti della giornata: biscotti per la colazione, snack dolci e salati e crackers
 - PER LA TUA COLAZIONE: le Gocciole Caramel sono ideali per la tua colazione; provale anche per una merenda ricca di energia
+- INGREDIENTI: pastafrolla arricchita da caramello e gocce di cioccolato, senza olio di palma
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
+- PAVESI: i nostri prodotti contengono solo ingredienti di qualità. Ti accompagniamo in tutti i momenti della giornata: biscotti per la colazione, snack dolci e salati e crackers
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DJNS54R5{{</world>}}

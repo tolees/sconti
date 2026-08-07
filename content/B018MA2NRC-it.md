@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Aspirapolvere con sacco classe energetica A
 - Capacità sacco elevata e tubo telescopico
+- Aspirapolvere con sacco classe energetica A
 - Adatto a superfici dure e moquette
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Cavità XXL 77 lt
 - Funzione Pizza Mode Pro 3:30 minuti a 350°C
 - 23 funzioni di cottura + autocooking
-- Teglia antiaderente e paletta ripiegabile per pizza inclusi in dotazione
-- Cavità XXL 77 lt
 - Pulizia Pirolitica (3 cicli possibili)
+- Teglia antiaderente e paletta ripiegabile per pizza inclusi in dotazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DMFFYYBF{{</world>}}

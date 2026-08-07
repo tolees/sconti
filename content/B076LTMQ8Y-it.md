@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - 16 porte PoE con budget totale da 115W
-- 16 porte Gigabit Ethernet
 - 3 anni di Assistenza hardware limitata leader del settore
+- 16 porte Gigabit Ethernet
 - Semplice configurazione plug-and-play senza necessità di installare software o aggiungere configurazioni
 - Supporta il posizionamento su desktop o a parete.
 - Design ad alta efficienza energetica conforme a IEEE802.3az

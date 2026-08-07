@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- CARATTERISTICHE: Divertiti con SONIC, il riccio blu più veloce di sempre.
+- MEMO SONIC: Un gioco classico ma sempre attuale per sviluppare capacità di osservazione e memoria.
 - SCOPO DEL GIOCO: Grazie alle bellissime immagini colorate sarà ancora più divertente sfidare i propri amici al gioco di memoria più famoso di sempre. Il vincitore è il giocatore che abbina il maggior numero di tessere.
 - CONTENUTO DEL GIOCO: 80 tessere illustrate 6 x 6 cm, resistenti e colorate
-- MEMO SONIC: Un gioco classico ma sempre attuale per sviluppare capacità di osservazione e memoria.
+- CARATTERISTICHE: Divertiti con SONIC, il riccio blu più veloce di sempre.
 - DETTAGLI: Un gioco educativo adatto alletà prescolare, consigliato per i bambini a partire dai 3 anni.
 - MADEY IN ITALY: Progettato e realizzato in Italia
 

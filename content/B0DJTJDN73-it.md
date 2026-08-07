@@ -28,8 +28,8 @@ average: '88.496'
 
 ℹ️:
 
-- Levette AntiDrift (a prova di drift) - Le levette con sensori hall senza contatto usano dei magneti interni al posto delle levette analogiche classiche, fornendo una risoluzione migliore e un controllo perfetto senza movimenti indesiderati (drift)
 - Moduli pulsante ruotabili - I moduli comandi ruotabili ti conferiscono la versatilità di passare rapidamente da un sistema di pulsanti di base e levette tradizionale a un layout ruotato progettato per dominare nei giochi di combattimento
+- Levette AntiDrift (a prova di drift) - Le levette con sensori hall senza contatto usano dei magneti interni al posto delle levette analogiche classiche, fornendo una risoluzione migliore e un controllo perfetto senza movimenti indesiderati (drift)
 - Tecnologia wireless dalle prestazioni elevate e senza lag per PC - Gioca in modalità wireless su PC con il trasmettitore wireless da 2,4 GHz, tramite Bluetooth su dispositivi Android e Smart TV o perfino su console Xbox usando una connessione cablata
 - Display di comando connesso - Personalizza laudio, la mappatura dei pulsanti e tanto altro ancora e resta in contatto con i tuoi amici con le notifiche dei social media brevettate, disponibili dal tuo display di comando connesso
 - Batteria con durata fino a 20 ore + ricarica mentre giochi - La batteria con fino a 20 ore con ricarica rapida wireless ti permetterà di giocare senza fermarti. Inoltre il cavo USB incluso permette la ricarica mentre giochi anche a batteria scarica

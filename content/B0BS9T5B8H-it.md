@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- REGOLAZIONE: Usa queste ricariche nel profumatore per ambienti Freshmatic Airwick. Controlla lintensità della fragranza scegliendo la frequenza di rilascio preferita. Apri con una rotazione e inserisci la ricarica. Ruota fino al clic. Apri il coperchio e inserisci le batterie. Regola la fragranza. Chiudi il coperchio e divertiti!
 - NUOVA FORMULA POTENZIATA: Profumatore per Ambienti alla fragranza Fresia e Gelsomino ha potere neutralizza odori e combatte 5 degli odori domestici più difficili e comuni: bagno, cucina, immondizia, animali domestici, muffa.
-- SPRAY: Spray automatico. Rilascio continuo di spruzzi di fragranza per una casa sempre fresca, profumata e accogliente. Air Wick Fresia e Gelsomino 7 giorni su 7, 24h su 24h neutralizza gli odori di tutti i giorni .
+- REGOLAZIONE: Usa queste ricariche nel profumatore per ambienti Freshmatic Airwick. Controlla lintensità della fragranza scegliendo la frequenza di rilascio preferita. Apri con una rotazione e inserisci la ricarica. Ruota fino al clic. Apri il coperchio e inserisci le batterie. Regola la fragranza. Chiudi il coperchio e divertiti!
 - FRAGRANZA: Note floreali fresche e delicate. La nuova formula potenziata neutralizza i cattivi odori con la fragranza Fresia e Gelsomino. La fragranza dura fino a 70* giorni neutralizzando i cattivi odori (*basato sul livello minimo di intensità).
+- SPRAY: Spray automatico. Rilascio continuo di spruzzi di fragranza per una casa sempre fresca, profumata e accogliente. Air Wick Fresia e Gelsomino 7 giorni su 7, 24h su 24h neutralizza gli odori di tutti i giorni .
 - CONFEZIONE: Contiene 2 ricariche Spray Automatico Freshmatic Airwick con fragranza Fresia e Gelsomino. La confezione è riciclata e riciclabile e il nuovo tappo con il 50% di plastica riciclata è più sostenibile.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

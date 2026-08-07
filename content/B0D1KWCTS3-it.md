@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SEAC Set PX100 Erogatore e Octopus di Emergenza per Immersioni Subacquee 230 DIN'
-date: 2026-08-05 23:08:44
+date: 2026-08-07 07:52:05
 image: 'https://m.media-amazon.com/images/I/41L6fgBsUjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ average: '185.89'
 
 ℹ️:
 
-- Set composto dall’erogatore SEAC PX100 con attacco INT o DIN 230 BAR e dal secondo stadio di emergenza SEAC PX100 OCTO
 - Primo stadio a pistone semplice composto da un’uscita di alta pressione e 4 uscite di bassa pressione. Secondo stadio ha un design semplice e funzionale.
 - Possibilità di regolazione dello sforzo respiratorio ed Effetto Venturi (Dive/PreDive)
-- Numero di porte HP: 1. Numero di porte LP: 4. Tutti i componenti sono Made in Italy.
 - Il condotto di scarico evita infiltrazioni d’acqua nel secondo stadio anche in presenza di forti correnti laterali
+- Numero di porte HP: 1. Numero di porte LP: 4. Tutti i componenti sono Made in Italy.
+- Set composto dall’erogatore SEAC PX100 con attacco INT o DIN 230 BAR e dal secondo stadio di emergenza SEAC PX100 OCTO
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D1KWCTS3{{</world>}}

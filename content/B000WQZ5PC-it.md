@@ -28,11 +28,11 @@ average: '27.8825'
 
 ℹ️:
 
-- Ogni candela grande è inserita nella classica giara di vetro con coperchio per preservare e contenere la fragranza
-- Durata della candela: da 110 a 150 ore di piacevole profumazione
-- LAVANDA AL LIMONE: Pulita e invitante... unimpalpabile miscela fresca di limone intenso e dolci fiori di lavanda
 - Stoppini in cotone 100% senza piombo raddrizzati e centrati per una combustione uniforme
+- LAVANDA AL LIMONE: Pulita e invitante... unimpalpabile miscela fresca di limone intenso e dolci fiori di lavanda
+- Ogni candela grande è inserita nella classica giara di vetro con coperchio per preservare e contenere la fragranza
 - Ingredienti scelti e cera di alta qualità garantiscono un aroma chiarao e costante che riempie tutta la stanza
+- Durata della candela: da 110 a 150 ore di piacevole profumazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000WQZ5PC{{</world>}}

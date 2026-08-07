@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Prodotto Ufficiale AS Roma
-- Maglietta da calcio senza numero e nome
 - Per manifestare la propria fede calcistica
+- Maglietta da calcio senza numero e nome
 - Ottima per andare allo stadio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

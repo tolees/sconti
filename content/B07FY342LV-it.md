@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- 3 ulteriori livelli di regolazione dellangolo aggiunti per la ruota, i pedali e il sedile con 8 piedini regolabili in altezza che si avvitano nel telaio
 - Telaio rigido in acciaio verniciato a polvere di alta qualità con sedile da corsa Premium
 - Compatibile con tappetino Next Level Racing, supporto per monitor f-gt, ruote piroettanti bloccabili e altro (tutti venduti separatamente)
 - Compatibile con tutte le principali ruote e pedali. Preforato per ruote Thrustmaster, Logitech, Fanatec e Experience Accuforce
-- 3 ulteriori livelli di regolazione dellangolo aggiunti per la ruota, i pedali e il sedile con 8 piedini regolabili in altezza che si avvitano nel telaio
 - Include telaio nlr f-gt, sedile e cursore, supporto per cambio, cuscino di supporto lombare, viti per montare la ruota, adattatore buttkicker gamer 2 e piedini a vite
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

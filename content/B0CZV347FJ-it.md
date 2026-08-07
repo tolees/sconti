@@ -28,14 +28,14 @@ average: '36.97'
 
 ℹ️:
 
-- Zip integrale e cappuccio regolabile con cordino
-- 55% cotone / 36% poliestere (riciclato) / 9% viscosa
-- Tasche a marsupio
-- Polsini e orlo a coste
 - 95% cotone / 5% elastan
+- Zip integrale e cappuccio regolabile con cordino
+- Vestibilità regolare
 - Questo prodotto contiene almeno il 70% di materiali riciclati e rinnovabili
 - Spalle basse
-- Vestibilità regolare
+- 55% cotone / 36% poliestere (riciclato) / 9% viscosa
+- Polsini e orlo a coste
+- Tasche a marsupio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZV347FJ{{</world>}}

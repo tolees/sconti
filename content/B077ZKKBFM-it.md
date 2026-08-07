@@ -28,11 +28,11 @@ average: '68.7129999999999'
 
 ℹ️:
 
-- Temperatura di alimentazione 40° C
-- Idropulitrice da 1.300 W
-- In dotazione nuovo ugello ad alta pressione per detergente, nuovo ugello a getto variabile, nuovo ugello a getto rotante
 - Portata massima 330 l/h
 - Pressione di mandata max 110 bar
+- Idropulitrice da 1.300 W
+- In dotazione nuovo ugello ad alta pressione per detergente, nuovo ugello a getto variabile, nuovo ugello a getto rotante
+- Temperatura di alimentazione 40° C
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B077ZKKBFM{{</world>}}

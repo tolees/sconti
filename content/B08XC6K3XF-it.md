@@ -28,8 +28,8 @@ average: '8.996'
 
 ℹ️:
 
-- Prodotto di ottima qualita
 - In morbido"
+- Prodotto di ottima qualita
 - 6 personaggi
 - Per bagnetto
 

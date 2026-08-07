@@ -28,10 +28,10 @@ average: '7.99'
 
 ℹ️:
 
-- Collezione: 2138.25 00
 - Materiale: 100% plastica
-- Prodotto ufficialle Guzzini, fabbricato in Italia dal 1912
+- Collezione: 2138.25 00
 - Colore: trasparente
+- Prodotto ufficialle Guzzini, fabbricato in Italia dal 1912
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01CK7B9MS{{</world>}}

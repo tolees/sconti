@@ -28,9 +28,9 @@ average: '32.29'
 
 ℹ️:
 
+- Anche se il tappetino in gel di raffreddamento è resistente ai graffi, Non consentire al tuo cane di masticarlo. Se avete domande con il prodotto, non esitate a contattarci immediatamente e siamo lieti di aiutarvi
 - Il tappetino refrigerante in gel funzione con la pressione che offre una sensazione rifrescante. Raffreda gradualmente la temperatura corporea, fornendo un 7-9 gradi al di sotto della temperatura ambiente, e prevenendo il surriscaldamento e la disidratazione
 - Questo tappetino per cani 110x70 cm è adatto a diverse dimensioni di cani e gatti, impedisce loro di surriscaldarsi e disidratarsi in estate. E’ perfetto per i letti, le cucce, i sedili posteriori dellautomobile o il pavimento
-- Anche se il tappetino in gel di raffreddamento è resistente ai graffi, Non consentire al tuo cane di masticarlo. Se avete domande con il prodotto, non esitate a contattarci immediatamente e siamo lieti di aiutarvi
 - Per la pulizia, semplicemente pulire la stuoia con un mix di sapone e acqua delicato e lasciare asciugare. Il tappetino è pieghevole, comodo da riporre e trasportare
 - Il materiale interno è gel 100% non tossico e non crea irritazione, sicuro per luomo e per gli animali domestici. Non cè bisogno di aggiungere dell’ acqua, congelare o raffreddare
 

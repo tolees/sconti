@@ -28,10 +28,10 @@ average: '14.58'
 
 ℹ️:
 
-- Il denim elasticizzato offre comfort
 - Passanti per cintura
 - Pantaloni chino da uomo della marca danese ONLY & SONS
 - Realizzato in materiale ad alte prestazioni ed extra elastico per una vestibilità confortevole
+- Il denim elasticizzato offre comfort
 - Vestibilità affusolata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ average: '9.4'
 
 ℹ️:
 
-- Avvolgicavo elettrico con cavo da 4 metri e spina 2P+T 16 A standard italiano per collegare più dispositivi dove serve
 - Dotato di 4 prese SICURY 2P+T 16 A universali per compatibilità con spine italiane e internazionali
+- Avvolgicavo elettrico con cavo da 4 metri e spina 2P+T 16 A standard italiano per collegare più dispositivi dove serve
+- Cavo H05VV-F con 3 conduttori 1,5 mm² e involucro robusto e compatto adatto a casa, officina o cantiere
 - Involucro robusto e dimensioni compatte; prodotto certificato IMQ; progettato e prodotto in conformità alla norma CEI EN 61242 relativa alla sicurezza elettrica
 - Protezione integrata con disgiuntore termico contro sovraccarico per maggiore sicurezza d’uso
-- Cavo H05VV-F con 3 conduttori 1,5 mm² e involucro robusto e compatto adatto a casa, officina o cantiere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07VYXNQBK{{</world>}}

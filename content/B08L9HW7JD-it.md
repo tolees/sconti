@@ -28,8 +28,8 @@ average: '269.0'
 
 ℹ️:
 
-- Lavatrice a risparmio energetico: buona conservazione, prestazioni ed efficacia in tutti i lavaggi
 - Lavatrice da 7 kg, 1200 rpm, con set completo di 16 programmi, 5 velocità
+- Lavatrice a risparmio energetico: buona conservazione, prestazioni ed efficacia in tutti i lavaggi
 - Partenza ritardata fino a 24 ore: ritorna lora di avvio della lavatrice fino a 24 ore, secondo le tue esigenze
 - 16 programmi: per evidenziare il ciclo igienizzante per la disinfezione e la sicurezza di tutti i tuoi indumenti
 - Design e facilità di utilizzo: adatta allarredamento della tua casa, con sportello alto e grande e comandi intuitivi

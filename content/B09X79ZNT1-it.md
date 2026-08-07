@@ -28,13 +28,13 @@ average: '16.305'
 
 ℹ️:
 
-- Cosa contiene la scatola? 120 Carte, 1 Regolamento, 2 Burrito Gonfiabili, 7 Segnalini, 1 Toppa per Burrito Ferito
-- Dai creatori di Exploding Kittens, un party game per chi ama (tirare) i burrito
-- Un divertente gioco di carte in cui i giocatori si sfidano collezionando carte, guadagnando punti e affrontandosi in duelli...di burrito
-- I giocatori devono cercare di formare tris di carte uguali. Quando si crea un set di carte burrito, i giocatori devono afferrarli per lanciarli addosso agli avversari e assegnare così ferite da burrito
 - Numero di giocatori: 2-6 | Età consigliata: 7+ | Durata media: 15 min. | Edizione in Lingua Italiana
+- Dai creatori di Exploding Kittens, un party game per chi ama (tirare) i burrito
 - 2 giganti Burrito gonfiabili sono i protagonisti di questo gioco, pronti per essere lanciati addosso ai vostri avversari
 - Perfetto per partite in spiaggia, in piscina o allaperto. Divertiti a lanciare i Burrito Giganti!
+- I giocatori devono cercare di formare tris di carte uguali. Quando si crea un set di carte burrito, i giocatori devono afferrarli per lanciarli addosso agli avversari e assegnare così ferite da burrito
+- Cosa contiene la scatola? 120 Carte, 1 Regolamento, 2 Burrito Gonfiabili, 7 Segnalini, 1 Toppa per Burrito Ferito
+- Un divertente gioco di carte in cui i giocatori si sfidano collezionando carte, guadagnando punti e affrontandosi in duelli...di burrito
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09X79ZNT1{{</world>}}

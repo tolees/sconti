@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Scrittura ultrascorrevole
 - Adatto anche per i mancini
 - Inchiostro energel
+- Scrittura ultrascorrevole
 - Asciuga subito e non macchia
 - Massima precisione nel tratto senza sbavature
 

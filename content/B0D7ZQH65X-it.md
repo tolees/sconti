@@ -32,11 +32,11 @@ average: '43.11'
 - Soletta morbida
 - Tomaia in mesh
 - Peso: 245 g (misura 38 2/3)
-- Pratica suola
 - Intersuola Cloudfoam
-- Fodera in tessuto
 - Drop intersuola: 9 mm (tallone 31 mm / avampiede 22 mm)
+- Pratica suola
 - Calzata regolare
+- Fodera in tessuto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D7ZQH65X{{</world>}}

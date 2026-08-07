@@ -30,8 +30,8 @@ average: '9.99'
 
 - Due feroci predatori in un kit scientifico
 - Uovo di dinosauro, scheletro di t-rex, squalo in legno, attivatore liquido per slime, colla per slime, colorante blu, dente di squalo, pallina trasparente, corda, manuale illustrato
-- I predatori del mare e i predatori della preistoria convivono in questo laboratorio, crea shark slime, costruisci il tuo ciondolo di shark slime
 - Sperimentazione scientifica, apprendimento di nozioni fisiche e chimiche, osservazione, immaginazione e creatività, caratteristiche animali
+- I predatori del mare e i predatori della preistoria convivono in questo laboratorio, crea shark slime, costruisci il tuo ciondolo di shark slime
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B5GKVF5Y{{</world>}}

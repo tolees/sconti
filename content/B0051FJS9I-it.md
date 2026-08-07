@@ -28,9 +28,9 @@ average: '37.57'
 
 ℹ️:
 
-- Pantaloni cargo || Lunghezza: Normale || altezza della cintura: Vita media
 - Pantaloni modello cargo con le seguenti caratteristiche:
 - Abbigliamento casual, Basic
+- Pantaloni cargo || Lunghezza: Normale || altezza della cintura: Vita media
 - Vestibilità : Vestibilità abbondante
 - Scopri tutti i top brand su EMP!
 

@@ -28,9 +28,9 @@ average: '128.0'
 
 ℹ️:
 
-- Durevole nel tempo
-- Sistema di tenuta acquastop
 - Facile da indossare
+- Sistema di tenuta acquastop
+- Durevole nel tempo
 - Monopezzo da 5 mm
 - Scelta nei diving center
 

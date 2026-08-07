@@ -28,15 +28,15 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- La carta è prodotta in Francia nei nostri laboratori a Etival-Clairefontaine nei Vosgi, con un know-how ineguagliabile dal 1880.
 - Senza acidi (PH NEUTRO) la carta si conserva più a lungo.
-- La chiusura delle Busta si fa inumidendo la banda gommata.
 - Le kraft marrone est un matériau chaleureux et simple qui saccorde à de nombreuses thématiques dans lair du temps : champêtre/rustique, graphique/moderne, nature/végétal, vintage…
-- Clairefontaine Rhodia è una società francese che propone prodotti di corrispondenza e per hobby creativo di grande qualità. Vicini ai vostri bisogni e alle vostre esigenze, i nostri prodotti innovativi, di alta qualità e rispettosi dellambiente sono al servizio della vostra immaginazione e creatività.
 - La certificazione FSC della carta garantisce lutilizzo di prodotti provenienti da fonti controllate e prelevate in modo responsabile per una gestione sostenibile delle foreste.
-- Très tendance, la Colore kraft apporte un aspect naturel et élégant à vos écrits et à toutes vos envies créatives.
 - Le Busta Pollen trovano il proprio spazio in tutte le circostanze: matrimoni, nascite, compleanni, corrispondenza...
 - Dotata di uneccellente tinta unita, la carta è liscia, compatibile per la scrittura e la stampa a getto dinchiostro o laser. Può essere anche goffrata (stampata in rilievo), forata, tamponata, tagliata...per rispondere a tutte le vostre necessità.
+- La chiusura delle Busta si fa inumidendo la banda gommata.
+- Clairefontaine Rhodia è una società francese che propone prodotti di corrispondenza e per hobby creativo di grande qualità. Vicini ai vostri bisogni e alle vostre esigenze, i nostri prodotti innovativi, di alta qualità e rispettosi dellambiente sono al servizio della vostra immaginazione e creatività.
+- Très tendance, la Colore kraft apporte un aspect naturel et élégant à vos écrits et à toutes vos envies créatives.
+- La carta è prodotta in Francia nei nostri laboratori a Etival-Clairefontaine nei Vosgi, con un know-how ineguagliabile dal 1880.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07BJRP6V4{{</world>}}

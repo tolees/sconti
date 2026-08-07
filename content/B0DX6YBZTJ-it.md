@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - 👍【Design Unico】Retro traslucido: Il design opaco traslucido crea una texture distintiva. Lesterno è confortevole e presenta un logo discreto, rendendo il telefono più unico, elegante e stiloso. I bordi rialzati dello schermo e della fotocamera proteggono efficacemente da graffi e danni, offrendo una protezione completa.
+- 👍【Compatto e Leggero】Pesa solo 1,1 oz. Leggero ma protettivo. Il materiale TPU con una cornice robusta rende il telefono leggero e resistente; il design sottile non aumenta le dimensioni del dispositivo. La maggior parte delle custodie impermeabili e antishock è realizzata con materiali comuni e pesa circa 2,3 oz! Diciamo addio a custodie ingombranti e ordinarie che non offrono protezione!
 - 👍【Antishock di Qualità Militare】Resiste a cadute da 2 metri! La nostra custodia ha superato il test MIL-STD-810H 516.8 degli standard militari americani: 1000 cadute da unaltezza di 2 metri a 26 angolazioni diverse senza danni. (Certificato n.: GZIN16110512MR). Non temere più le cadute accidentali quotidiane.
 - 👍【Con Protezione Schermo/Camera】Rimuovi la pellicola protettiva originale prima delluso per migliorare lesperienza touch! Il proteggi schermo integrato si adatta perfettamente e protegge lo schermo. È delicato, antigraffio e infrangibile! Testato per resistere a cadute da 2 metri senza subire danni.
-- 👍【Compatto e Leggero】Pesa solo 1,1 oz. Leggero ma protettivo. Il materiale TPU con una cornice robusta rende il telefono leggero e resistente; il design sottile non aumenta le dimensioni del dispositivo. La maggior parte delle custodie impermeabili e antishock è realizzata con materiali comuni e pesa circa 2,3 oz! Diciamo addio a custodie ingombranti e ordinarie che non offrono protezione!
 - 👍【IP68 Impermeabile e Antipolvere】Puoi portare il telefono per nuotare, immergerti, scattare foto e video sottacqua. Puoi immergerlo direttamente nel lavandino mentre ti lavi le mani per mantenerlo pulito. Resiste facilmente alluso quotidiano, agli sport allaperto e agli ambienti polverosi e sporchi!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

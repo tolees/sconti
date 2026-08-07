@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- DIMENSIONI COMPATTE: La macchina Essenza Mini combina un design elegante e compatto con facilità duso per preparare un espresso perfetto; facile da posizionare in qualsiasi cucina o casa
 - FACILE DA USARE: 2 lunghezze in tazza programmabili in base alla quantità di caffè che preferisci: Espresso e Lungo.
 - SOSTENIBILITA: Modalità ECO dopo 2 minuti e spegnimento automatico dopo 9 minuti di inattività per risparmiare energia
-- DIMENSIONI COMPATTE: La macchina Essenza Mini combina un design elegante e compatto con facilità duso per preparare un espresso perfetto; facile da posizionare in qualsiasi cucina o casa
 - VARIETÀ DI CAFFÈ: Nespresso offre unampia varietà di caffè per soddisfare tutti i gusti in qualsiasi momento della giornata
 - ELEVATE PRESTAZIONI: Pompa ad alta pressione da 19 bar e sistema di riscaldamento rapido in meno di 30 secondi; inserimento facile, perforazione automatica e preparazione di capsule di caffè
 

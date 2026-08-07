@@ -28,10 +28,10 @@ average: '17.82875'
 
 ℹ️:
 
-- Istruzioni per la cura: Lavaggio in lavatrice
 - Comfort classico.
-- Lavabile in lavatrice
 - Standard Fit per uno stile rilassato
+- Lavabile in lavatrice
+- Istruzioni per la cura: Lavaggio in lavatrice
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07FKBN15Q{{</world>}}

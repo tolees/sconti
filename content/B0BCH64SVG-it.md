@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - IXO – Licona degli elettroutensili è giunto ora alla 7ª generazione
+- Coppia superiore del 20% rispetto al modello precedente, grazie alle superiori prestazioni del motore
 - Versatile impiego come trapano, apribottiglie, taglierina e molto altro ancora, grazie all’interfaccia per accessori
 - Maggiore autonomia: avvita fino a 190 viti con una ricarica grazie alla batteria al litio da 2.0 Ah migliorata
-- Coppia superiore del 20% rispetto al modello precedente, grazie alle superiori prestazioni del motore
 - Dotazione: IXO 7, 10 punte per cacciavite standard, 1 portabit magnetico, cavo micro-USB, contenitore per stivaggio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

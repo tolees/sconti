@@ -28,11 +28,11 @@ average: '55.5'
 
 ℹ️:
 
+- Qualità, struttura in alluminio: ricoperta da un telaio in alluminio opaco per una maggiore integrità strutturale
 - Macro completamente programmabili: Razer Hypershift consente di riassegnare tutti i tasti e le scorciatoie da tastiera per eseguire comandi complessi
-- Più veloce dei tradizionali interruttori meccanici: la tecnologia Razer Linear Optical Switch utilizza lazionamento ottico dei raggi, registra la pressione dei tasti alla velocità della luce (distanza di funzionamento più breve del 15-30% rispetto ad altri interruttori lineari a 1,0 mm).Ultrapolling 1000 Hz
 - Massima personalizzazione & Gaming Immersion con Razer Chroma: completamente sincronizzato con i giochi popolari, Razer Hardware, Philips Hue e Gear di 30 Plus partner; supporta 16,8 milioni di colori su pulsanti retroilluminati individualmente
 - Tappi per tasti Doubleshot PBT resistenti allolio: realizzati in PBT strutturato di alta qualità per una superficie più resistente e strutturata, meno suscettibile alla formazione di sporco a lungo termine
-- Qualità, struttura in alluminio: ricoperta da un telaio in alluminio opaco per una maggiore integrità strutturale
+- Più veloce dei tradizionali interruttori meccanici: la tecnologia Razer Linear Optical Switch utilizza lazionamento ottico dei raggi, registra la pressione dei tasti alla velocità della luce (distanza di funzionamento più breve del 15-30% rispetto ad altri interruttori lineari a 1,0 mm).Ultrapolling 1000 Hz
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08B3JSKGR{{</world>}}

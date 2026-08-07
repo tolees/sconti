@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Pasta di semola di grano duro
 - Tempo di cottura: 10 minuti
 - Un’esperienza di gusto unica, con il certificato di garanzia Pasta di Gragnano IGP
-- Pasta di semola di grano duro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B084LBBLJT{{</world>}}

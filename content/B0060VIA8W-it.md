@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - IDEALE CON - Ideale con i Fusilli, il Sugo Barilla alle Olive è pronto da versare direttamente sulla pasta appena scolata. Per esaltarne il profumo si consiglia di scaldarlo a fuoco lento o nel microonde
 - SUGHI BARILLA - Tutti i sughi pronti per pasta Barilla sono senza glutine e preparati senza aggiungere conservanti; porta in tavola qualità e gusto con ingredienti semplici per deliziose ricette
-- CARATTERISTICHE - Preparato secondo tradizione, il Sugo alle Olive Barilla è una ricetta saporita e tipicamente mediterranea, pronta per regalare alla tua pasta il sapore della buona cucina italiana
 - BARILLA - Unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
 - INGREDIENTI: polpa di pomodoro 63%, concentrato di pomodoro 12%, olive 10%, cipolla, olio di girasole, capperi, zucchero, aroma naturale, sale, prezzemolo, aglio, origano. Origine del pomodoro: Italia
+- CARATTERISTICHE - Preparato secondo tradizione, il Sugo alle Olive Barilla è una ricetta saporita e tipicamente mediterranea, pronta per regalare alla tua pasta il sapore della buona cucina italiana
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0060VIA8W{{</world>}}

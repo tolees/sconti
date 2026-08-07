@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Similpelle
 - Lucido
-- Pelle artificiale
 - Pantaloni
+- Similpelle
+- Pelle artificiale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08B64JPVL{{</world>}}

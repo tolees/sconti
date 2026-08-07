@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - P.es. per lelettronica, lottica, meccanica fine, gioielleria o installatori di sistemi informatici
 - Impugnatura Kraftform Micro multicomponente per avvitamenti rapidi ed ergonomici
-- Giravite Kraftform Micro per viti a taglio
-- La punta Wera Black Point offre precisione di accoppiamento e protezione anticorrosiva ottimizzata
 - Con protezione antirotolamento e cappuccio girevole per una rotazione rapida
+- La punta Wera Black Point offre precisione di accoppiamento e protezione anticorrosiva ottimizzata
+- Giravite Kraftform Micro per viti a taglio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000XJ4ZG8{{</world>}}

@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Contenuto: 75 millilitri
 - Eau de toilette uomo 75 millilitri
-- Fragranze e profumi: eau de toilette
 - Scopri la nostra vasta gamma di prodotti
+- Fragranze e profumi: eau de toilette
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07TYP9XS6{{</world>}}

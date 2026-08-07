@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Bergamotto italiano
 - Vaporizza CK One su collo e polsi.
+- Bergamotto italiano
 - Tè Verde biologico
 - Legno di Sandalo australiano
 

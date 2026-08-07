@@ -28,9 +28,9 @@ average: '5.75'
 
 ℹ️:
 
-- pH neutro per la pelle.
 - Con estratto di ginkgo biloba.
 - Profumo energizzante dalle note marine.
+- pH neutro per la pelle.
 - Vivete una esperienza stimolante per il corpo e mente con Cap Tonique di Fa.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

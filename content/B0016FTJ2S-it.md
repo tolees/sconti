@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- INGREDIENTI - Delicato tonno allolio di oliva e gustoso pomodoro italiano, sfumati con vino bianco
 - IDEALE CON - Le Mezze Maniche, il Sugo al Tonno Barilla è pronto da versare direttamente sulla pasta appena scolata
-- SUGO AL TONNO - Creato dalla nostra esperienza in cucina, senza laggiunta di conservanti, il Sugo al Tonno Barilla è pronto per ritrovare in ogni piatto di pasta il sapore dellestate mediterranea
 - BARILLA - Unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
+- INGREDIENTI - Delicato tonno allolio di oliva e gustoso pomodoro italiano, sfumati con vino bianco
+- SUGO AL TONNO - Creato dalla nostra esperienza in cucina, senza laggiunta di conservanti, il Sugo al Tonno Barilla è pronto per ritrovare in ogni piatto di pasta il sapore dellestate mediterranea
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0016FTJ2S{{</world>}}

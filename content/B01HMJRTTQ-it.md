@@ -28,11 +28,11 @@ average: '1.05'
 
 ℹ️:
 
-- All’interno della confezione trovi 75 gr di confetti Teneri Menta Saila, ogni confetto è incartato singolarmente
 - Ogni momento è adatto per gustare una caramella Saila: quando vai dalla Nonna, quando sei in ufficio, quando sei nel traffico, quando porti al parco tuo figlio, fatti accompagnare da Sperlari
+- Fai Festa con Saila: compleanno, Natale, Halloween, Laurea, le nostre caramelle rendono ogni occasione unica
 - Fatto in Italia da sempre con menta piemontese 100 % italiana
 - Senza zucchero e con estratto di Stevia, dolcificante di origine naturale
-- Fai Festa con Saila: compleanno, Natale, Halloween, Laurea, le nostre caramelle rendono ogni occasione unica
+- All’interno della confezione trovi 75 gr di confetti Teneri Menta Saila, ogni confetto è incartato singolarmente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01HMJRTTQ{{</world>}}

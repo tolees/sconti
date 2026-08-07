@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Design compatto
-- Si gonfia da solo una volta aperta la valvola
-- Dimensioni: 1,83 m x 63,5 cm x 7,6 cm
 - Valore R di 6.8 - ottimo per freddo estremo
 - Contenuto: 1 materassino, 1 pompa a sacco, 1 toppa per riparazioni, 1 custodia
+- Dimensioni: 1,83 m x 63,5 cm x 7,6 cm
+- Si gonfia da solo una volta aperta la valvola
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CDXN72C4{{</world>}}

@@ -28,9 +28,9 @@ average: '11.5'
 
 ℹ️:
 
-- Altezza del platfom: 3,5 cm
-- Cinturino regolabile per una vestibilità ottima
 - Morbida e flessibile tomaia in TPU; suola in Crocslite
+- Cinturino regolabile per una vestibilità ottima
+- Altezza del platfom: 3,5 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DW4G94X1{{</world>}}

@@ -28,8 +28,8 @@ average: '2.44'
 
 ℹ️:
 
-- PER LA DOPPIA DETERSIONE – Lo struccante viso e occhi si attiva con lacqua e la sua texure in latte si fonde sulla pelle rimuovendo trucco e impurità, ideale per il primo step della tua doppia detersione
 - RISULTATI PROVATI – Il 98% conferma che deterge in maniera profonda ma delicata, donando una sensazione di pelle fresca*. Compatibilità cutanea dermatologicamente e oftalmologicamente approvata**
+- PER LA DOPPIA DETERSIONE – Lo struccante viso e occhi si attiva con lacqua e la sua texure in latte si fonde sulla pelle rimuovendo trucco e impurità, ideale per il primo step della tua doppia detersione
 - IDRATANTE E RINFRESCANTE – Il detergente viso pelle secca è arricchito con Aloe Vera per una pelle liscia e rinfrescata, e Acido Ialuronico che dona al viso un aspetto rimpolpato e idratato
 - CONTENUTO DELLA CONFEZIONE – NIVEA Latte Detergente Rinfrescante, detergente viso delicato vegano con 97% ingredienti di origine naturale (incl. acqua), 1 confezione da 200 ml, numero articolo: 81100
 - DETERGE, RINFRESCA E STRUCCA – Il latte detergente viso deterge in profondità, rinfresca e idrata intensamente rispettando la barriera cutanea, e al contempo rimuove il trucco e il mascara waterproof

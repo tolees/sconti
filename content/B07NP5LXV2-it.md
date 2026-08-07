@@ -32,8 +32,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 - EFFETTI VISIBILI NELLE PRIME ORE: Risultati rapidi su balconi, terrazze e gambe di pareti per un esterno pulito senza aspettare.
 - Attenzione: utilizzare i biocidi con cautela. Prima delluso, leggere letichetta e le informazioni del prodotto
 - Doppia azione: shock e lunga durata – sradica rapidamente le formiche nere impedendo la loro ricomparsa grazie al suo effetto prolungato.
-- PRONTO ALLUSO: Nessuna miscela, nessuna preparazione – spruzzi direttamente sugli insetti, sui loro nidi o sulle aree di passaggio
 - DOSE OTTIMALE: applicare 5 spray per zona di 32 x 32 cm per la massima efficienza sulle aree mirate.
+- PRONTO ALLUSO: Nessuna miscela, nessuna preparazione – spruzzi direttamente sugli insetti, sui loro nidi o sulle aree di passaggio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07NP5LXV2{{</world>}}

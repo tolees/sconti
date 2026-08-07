@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 29 punte per cacciavite con Phillips, Pozidriv, Torx, testa esagonale e con intaglio di dimensioni comuni e sei chiavi a bussola
-- 8 punte per legno Ã˜ 3-10 mm con punta di centraggio per forature precise. Per legno duro, legno tenero e plastica
-- 8 punte per metalli rettificate di precisione Ã˜ 2-6 mm, realizzate in acciaio
-- 2 frese piatte per forare fori di diametro maggiore nel legno
-- 9 punte per muratura Ã˜ 4-10 mm con punta in metallo duro antiurto per lavorazioni su muratura, calce, pietra naturale e artificiale
-- Set di accessori per trapano e cacciavite con coltello pieghevolebastone magnetico e cacciavite angolare (68 pezzi)
 - 1 supporto magnetico universale per un cambio rapido della punta e una buona tenuta della vite nella punta, nonché una cacciavite angolato per collegamenti a vite in spazi ristretti
+- 9 punte per muratura Ã˜ 4-10 mm con punta in metallo duro antiurto per lavorazioni su muratura, calce, pietra naturale e artificiale
+- 8 punte per legno Ã˜ 3-10 mm con punta di centraggio per forature precise. Per legno duro, legno tenero e plastica
+- 2 frese piatte per forare fori di diametro maggiore nel legno
+- 8 punte per metalli rettificate di precisione Ã˜ 2-6 mm, realizzate in acciaio
+- 29 punte per cacciavite con Phillips, Pozidriv, Torx, testa esagonale e con intaglio di dimensioni comuni e sei chiavi a bussola
+- Set di accessori per trapano e cacciavite con coltello pieghevolebastone magnetico e cacciavite angolare (68 pezzi)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00GGKMMTU{{</world>}}

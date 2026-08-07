@@ -28,12 +28,12 @@ average: '10.49'
 
 ℹ️:
 
-- ⚖ Dosaggio: 8g di esca per nido
-- 🐜 Granulo zuccherino ad azione adescante
 - ✔ Applicare i granuli all’entrata del nido e all’interno di crepe o fessure di passaggio
-- ✔ Giardino libero dalle formiche
-- 💪 Elimina le formiche fuori e dentro il nido
+- ⚖ Dosaggio: 8g di esca per nido
 - ✔ Esca insetticida granulare
+- 💪 Elimina le formiche fuori e dentro il nido
+- 🐜 Granulo zuccherino ad azione adescante
+- ✔ Giardino libero dalle formiche
 - 💪 Elimina l’intero formicaio eliminando la regina
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Cappotto 2 in 1 in lana con logo sulla manica e giacca trapuntata interna rimovibile che protegge dal vento e dal freddo. Tasche laterali anteriori, tasca sul petto e tasca interna aggiuntiva sono ideali per riporre portafogli, chiavi o cellulare.
 - Lavaggio a secco extra delicato, non stirare sulla decorazione, stirare a bassa temperatura, stirare con un panno umido, non lavare, non candeggiare, lavare solo a secco, non asciugare in asciugatrice
-- Vestibilità: vestibilità normale, lunghezza schiena per taglia M circa 93 cm
-- Colletto rialzato, maniche lunghe
 - Tessuto misto lana con fibre di poliestere resistenti – fornisce calore naturale.
+- Colletto rialzato, maniche lunghe
+- Vestibilità: vestibilità normale, lunghezza schiena per taglia M circa 93 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DSQ8M2FK{{</world>}}

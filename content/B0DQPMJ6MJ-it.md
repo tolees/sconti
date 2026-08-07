@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - DESIGN AD ALTO FLUSSO DARIA — La maglia in acciaio ultra-fine sui pannelli e sul copri-alimentatore massimizza il flusso daria filtrando efficacemente la polvere.
-- SUPPORTO DI RAFFREDDAMENTO ESTENSIVO — Supporta un radiatore fino a 280 mm nella parte anteriore, un radiatore da 240 mm nella parte superiore e fino a sette ventole per prestazioni di raffreddamento potenti.
-- VENTOLA POSTERIORE PREINSTALLATA — Dotato di una ventola F120Q (CV) sul retro per un flusso daria di scarico efficiente subito fuori dalla scatola.
 - DIMENSIONI SALVASPAZIO — Un telaio micro-ATX efficiente in termini di spazio che ospita componenti ad alte prestazioni senza compromessi.
+- VENTOLA POSTERIORE PREINSTALLATA — Dotato di una ventola F120Q (CV) sul retro per un flusso daria di scarico efficiente subito fuori dalla scatola.
+- SUPPORTO DI RAFFREDDAMENTO ESTENSIVO — Supporta un radiatore fino a 280 mm nella parte anteriore, un radiatore da 240 mm nella parte superiore e fino a sette ventole per prestazioni di raffreddamento potenti.
 - SCHEDE GRAFICHE A GRANDEZZA NATURALE — Adatto per GPU fino a 377 mm (senza ventole frontali), 352 mm (con ventole frontali) e 317 mm (con radiatore frontale e ventole installate).
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

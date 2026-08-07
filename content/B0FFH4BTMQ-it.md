@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- SPROFONDA NELLA SPIRALE Non lasciarti distrarre troppo dalla bellezza desolata del Nulla. Ci sono oscuri misteri che ti aspettano mentre Low e Alone seguono il loro percorso attraverso la Spirale. Riusciranno Low and Alone a fuggire finalmente da questo incubo senza fine? Solo voi potete aiutarli, bambini
-- IMBARCATI IN UNAVVENTURA COINVOLGENTE E INQUIETANTE Non importa dove tu vada, il Nulla ospita mostri orribili. Dovrai essere pronto a correre, nasconderti o persino difenderti in un attimo per rimanere tutto intero.
 - AFFRONTA INSIEME LE TUE PAURE INFANTILI Giochi nei panni di Low e Alone, migliori amici da quando si sono trovati in questo incubo solitario.
+- IMBARCATI IN UNAVVENTURA COINVOLGENTE E INQUIETANTE Non importa dove tu vada, il Nulla ospita mostri orribili. Dovrai essere pronto a correre, nasconderti o persino difenderti in un attimo per rimanere tutto intero.
+- SPROFONDA NELLA SPIRALE Non lasciarti distrarre troppo dalla bellezza desolata del Nulla. Ci sono oscuri misteri che ti aspettano mentre Low e Alone seguono il loro percorso attraverso la Spirale. Riusciranno Low and Alone a fuggire finalmente da questo incubo senza fine? Solo voi potete aiutarli, bambini
 - Little Nightmares III è un gioco davventura e datmosfera in cui segui il viaggio di Low e Alone, due migliori amici alla ricerca di una via duscita dal Nulla.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

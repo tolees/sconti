@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- DIMENSIONI: la custodia misura 27 x 1 x 37 cm (L x P x A) e ha un peso di 160 grammi
 - COMPATIBILITÀ: la custodia prottetiva è adatta per tutti i notebook e i dispositivi mobili con diagonale fino a 14"
 - FUNZIONALITÀ: la custodia reversibile, senza cerniera e con copertura degli angoli, è sottile, flessibile e resistente, ideale per proteggere i dispositivi da urti e graffi
-- TASCHE: la custodia è dotata di ununica tasca interna dedicata ai computer portatili e ai dispositivi elettronici con diagonale fino a 14" (35,5 cm)
-- DIMENSIONI: la custodia misura 27 x 1 x 37 cm (L x P x A) e ha un peso di 160 grammi
 - MATERIALE: realizzata interamente in neoprene, è disinfettabile con uno spray antisettico e lavabile in lavatrice, per avere una custodia sempre pulita
+- TASCHE: la custodia è dotata di ununica tasca interna dedicata ai computer portatili e ai dispositivi elettronici con diagonale fino a 14" (35,5 cm)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0946MT2MQ{{</world>}}

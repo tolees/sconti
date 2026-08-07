@@ -29,8 +29,8 @@ average: '8.33'
 ℹ️:
 
 - Lavorazione in muratura e calcestruzzo
-- Prodotto realizzato in metallo duro
 - Design turbo a 4 spirali
+- Prodotto realizzato in metallo duro
 - Per tutti i martelli perforatori con attacco SDS-plus
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

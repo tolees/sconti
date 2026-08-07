@@ -28,14 +28,14 @@ average: '76.99'
 
 ℹ️:
 
-- Tomaia in Ripstop con rivestimenti.
-- intersuola in EVA LIGHTMOTION
-- Vestibilità regolare
 - Peso: 430,1 grammi (taglia UK 8,5)
-- Chiusura con lacci
+- Tomaia in Ripstop con rivestimenti.
 - Soletta OrthoLite e membrana GORE-TEX
 - Drop intersuola: 12 mm (tallone: 32 mm/avampiede: 20 mm)
+- intersuola in EVA LIGHTMOTION
 - Suola in gomma Continental
+- Chiusura con lacci
+- Vestibilità regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DHVTZPH7{{</world>}}

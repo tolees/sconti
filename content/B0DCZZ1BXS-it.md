@@ -28,8 +28,8 @@ average: '8.48'
 
 ℹ️:
 
-- Tazza termica take away da 370 ml di capacità, realizzata in acciaio inossidabile a doppia parete. Mantiene il calore e il freddo per 10 ore. ​
 - Indicazioni: adatta alla lavastoviglie, anche se si raccomanda il lavaggio a mano. Non mettere nel microonde. Lavare prima del primo utilizzo. Quando non in uso, si consiglia di conservarla aperta per evitare la formazione di cattivi odori
+- Tazza termica take away da 370 ml di capacità, realizzata in acciaio inossidabile a doppia parete. Mantiene il calore e il freddo per 10 ore. ​
 - Completamente priva di BPA e con chiusura ermetica. ​
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

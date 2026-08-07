@@ -28,10 +28,10 @@ average: '20.64'
 
 ℹ️:
 
-- MASCHERA CAPELLI CON VITAMINA E: Ristrutturazione intensa e vitalità rinnovata per capelli secchi e stressati - capelli idratati e ulteriormente protetti dallo stress
-- ANTICRESPO CAPELLI PROFESSIONALE: Con Bacche di goji e ricco di vitamine, minerali e peptidi – lunghezze riparate e disciplinate
-- TRATTAMENTO COMPLETO WELLA: Non rinunciare alleffetto wow - prova la maschera capelli ogni settimana con lo shampoo professionale capelli e il balsamo capelli Nutri Enrich - un mix eccelso
 - NUTRIMENTO INTENSO: Con Acido oleico e Pantenolo per nutrimento delle fibre capillari e idratazione immediata - capelli sani e morbidissimi
+- ANTICRESPO CAPELLI PROFESSIONALE: Con Bacche di goji e ricco di vitamine, minerali e peptidi – lunghezze riparate e disciplinate
+- MASCHERA CAPELLI CON VITAMINA E: Ristrutturazione intensa e vitalità rinnovata per capelli secchi e stressati - capelli idratati e ulteriormente protetti dallo stress
+- TRATTAMENTO COMPLETO WELLA: Non rinunciare alleffetto wow - prova la maschera capelli ogni settimana con lo shampoo professionale capelli e il balsamo capelli Nutri Enrich - un mix eccelso
 - ANTI-STRESS: Il nostro anticrespo capelli è formulato con Vitamina E per la prevenzione e la protezione dei capelli dagli stress causati dallo styling, nonché per conferire ulteriore luminosità e morbidezza ai capelli secchi e stressati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

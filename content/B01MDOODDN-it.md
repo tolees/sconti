@@ -28,10 +28,10 @@ average: '7.89'
 
 ℹ️:
 
-- In polvere solubile
 - Sciogliere 1 o 2 cucchiai al giorno in bevande calde o fredde
-- Favorisce l’equilibrio della flora intestinale
 - Integratore alimentare di fibra, 100% vegetale
+- Favorisce l’equilibrio della flora intestinale
+- In polvere solubile
 - Senza sapori aggiunti e senza glutine e zuccheri
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

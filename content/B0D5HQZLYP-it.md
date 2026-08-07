@@ -28,8 +28,8 @@ average: '35.0'
 
 ℹ️:
 
-- Orlo e polsini a coste
 - Comoda felpa girocollo in pile
+- Orlo e polsini a coste
 - Tessuto morbidissimo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

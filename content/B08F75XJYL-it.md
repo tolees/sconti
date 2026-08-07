@@ -28,11 +28,11 @@ average: '17.99'
 
 ℹ️:
 
-- Visita il sito Procter & Gamble per la composizione della confezione e le modalità di smaltimento
-- PROTEZIONE DEI LEGAMI DEL CAPELLO: la formula potenziata con il 50% in più di agenti* protettivi aiuta a ricostituire i capelli dallinterno e trasforma i capelli crespi e ribelli in ricci definiti e sani. *Rispetto alla formula precedente
 - SENZA OLIO MINERALE E COLORANTI: La nostra formula mirata è stata accuratamente creata senza olio minerale né coloranti
-- IL SEGRETO PER RICCI SANI: il nostro balsamo Ricci Perfetti controlla leffetto crespo anche nei capelli ricci per donarti ricci definiti fino al 100% più forti*. *contro i danni dello styling rispetto allo shampoo Aqualight
 - ROUTINE DI STYLING DEI RICCI: per un’ulteriore efficacia, utilizzalo insieme alla nostra linea completa Pantene Ricci Perfetti per ottenere ricci dallaspetto sano e nutrito, senza sforzo
+- PROTEZIONE DEI LEGAMI DEL CAPELLO: la formula potenziata con il 50% in più di agenti* protettivi aiuta a ricostituire i capelli dallinterno e trasforma i capelli crespi e ribelli in ricci definiti e sani. *Rispetto alla formula precedente
+- IL SEGRETO PER RICCI SANI: il nostro balsamo Ricci Perfetti controlla leffetto crespo anche nei capelli ricci per donarti ricci definiti fino al 100% più forti*. *contro i danni dello styling rispetto allo shampoo Aqualight
+- Visita il sito Procter & Gamble per la composizione della confezione e le modalità di smaltimento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08F75XJYL{{</world>}}

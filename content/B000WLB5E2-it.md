@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Carta lucida di alta qualità ed ecologica, certificata FSC.
 - Tipo di copertina: carta lucida.
-- Etichetta sul dorso per identificare i dossier.
 - Carta lucida colorata, cosa che gli dà una buona resistenza nel tempo e un colore costante nel tempo.
+- Etichetta sul dorso per identificare i dossier.
 - Formato: 24 x 32 cm.
-- Materiale: carta lucida.
 - Colori vivaci per illuminare i vostri archivi.
+- Carta lucida di alta qualità ed ecologica, certificata FSC.
+- Materiale: carta lucida.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000WLB5E2{{</world>}}

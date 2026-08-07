@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- * Verifica sul nostro sito la disponibilità di aggiornamenti software
+- Pronto al nuovo standard di trasmissione DVB-T2 a 10bit. Funzione CEC per usare il telecomando della TV anche per il decoder. Funzione Mediaplayer per vedere o ascoltare musica in alta definizione | Doppio telecomando di cui uno semplificato con tasti grandi, leggero e di facile utilizzo, dotato esclusivamente delle funzioni principali. Alimentatore 12V per guardare i tuoi programmi preferiti anche in movimento.
+- New || Collega e usa: in prima installazione o quando si resetta, il ricevitore avvia in automatico la ricerca canali, semplificando e riducendo i tempi di installazione.
 - ASSISTENZA POSTVENDITA in ITALIA | DIGIQUEST offre un supporto clienti dedicato su tutto il territorio italiano. Puoi trovare i contatti sul nostro sito e sui canali social
 - New || Controllo genitore con blocco menu | con menu dedicato alla gestione blocco menu e canali. Evita modifiche indesiderate alle impostazioni del decoder e permette di bloccare la visione dei canali per un maggior controllo dei minori
 - New || Tasto rapido ricerca canali | permette di lanciare una nuova ricerca dei canali in piena autonomia senza entrare nel menu: verranno memorizzati nuovamente i canali, senza eliminare nè modificare le liste favoriti preimpostate
-- Pronto al nuovo standard di trasmissione DVB-T2 a 10bit. Funzione CEC per usare il telecomando della TV anche per il decoder. Funzione Mediaplayer per vedere o ascoltare musica in alta definizione | Doppio telecomando di cui uno semplificato con tasti grandi, leggero e di facile utilizzo, dotato esclusivamente delle funzioni principali. Alimentatore 12V per guardare i tuoi programmi preferiti anche in movimento.
-- New || Collega e usa: in prima installazione o quando si resetta, il ricevitore avvia in automatico la ricerca canali, semplificando e riducendo i tempi di installazione.
+- * Verifica sul nostro sito la disponibilità di aggiornamenti software
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0044AJLNE{{</world>}}

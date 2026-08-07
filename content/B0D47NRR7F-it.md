@@ -28,10 +28,10 @@ average: '10.0'
 
 ℹ️:
 
-- Camera daria in gomma butilica
 - Logo Messi stampato
 - Struttura cucita a macchina
 - 100% fibra poliuretanica termoplastica
+- Camera daria in gomma butilica
 - Deve essere gonfiato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

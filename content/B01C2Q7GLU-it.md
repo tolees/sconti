@@ -28,10 +28,10 @@ average: '18.91'
 
 ℹ️:
 
+- Cavo lungo 5 m con spina orientabile: il cavo da 5 m 3G1 mm² con spina 2P+T 16 A orientabile ricollegabile (SPB17) offre massima flessibilità di posizionamento
+- Multipresa dotata di 3 prese SICURY universali e 6 prese SICURY standard italiano tipo P17/11 per collegare contemporaneamente numerosi dispositivi
 - Interruttore luminoso integratoche consente di attivare o disattivare facilmente tutte le prese con una sola pressione, con indicazione visiva dello stato
 - Vimar FP00531.X.B Presa multipla con interruttore luminoso, 3 prese universali Sicury, 6 Biprese Sicury, cavo 5 m
-- Multipresa dotata di 3 prese SICURY universali e 6 prese SICURY standard italiano tipo P17/11 per collegare contemporaneamente numerosi dispositivi
-- Cavo lungo 5 m con spina orientabile: il cavo da 5 m 3G1 mm² con spina 2P+T 16 A orientabile ricollegabile (SPB17) offre massima flessibilità di posizionamento
 - Sicurezza: Protezione Bimbi Sicuri. Prese sicure con otturatore che impedisce contatti accidentali con le parti in tensione grazie al dispositivo Sicury
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

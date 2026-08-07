@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Dimensioni: 20 cm x 14,75 cm x 26,5 cm
 - Colore: argento
-- Per carbone e bricchette
 - Il fratello minore del Rapidfire
 - Materiale: acciaio, rivestito in alluminio
-- Dimensioni: 20 cm x 14,75 cm x 26,5 cm
+- Per carbone e bricchette
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B009IH0ICG{{</world>}}

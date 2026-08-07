@@ -28,11 +28,11 @@ average: '11.9'
 
 ℹ️:
 
-- Una miscela di caffè torrefatto e Baileys, perfetta da gustare liscia, nei cocktail o nei dessert
-- Una sinfonia di sapori con Baileys Espresso Cream
 - Il liquore numero 1 al mondo, realizzato con una miscela di crema e whisky irlandese
+- Una sinfonia di sapori con Baileys Espresso Cream
 - Gustalo con ghiaccio, con il gelato o nei dessert come il tiramisù
 - Medaglia doro al San Francisco Spirits Competition 2016
+- Una miscela di caffè torrefatto e Baileys, perfetta da gustare liscia, nei cocktail o nei dessert
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B017RBHYOE{{</world>}}

@@ -28,8 +28,8 @@ average: '40.31'
 
 ℹ️:
 
-- Suola flessibile.
 - Genere: da uomo.
+- Suola flessibile.
 - Tomaia in mesh ingegnerizzato.
 - Soletta in memory foam.
 

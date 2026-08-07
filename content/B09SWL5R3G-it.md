@@ -28,8 +28,8 @@ average: '82.24'
 
 ℹ️:
 
-- Inserti traforati sulla punta
 - Collare imbottito a taglio basso
+- Inserti traforati sulla punta
 - Intersuola in schiuma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

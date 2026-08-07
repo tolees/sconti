@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- QUALITÀ INCONFONDIBILE: il the freddo Estathé è realizzato con pregiate foglie di the coltivate in Oriente, Sri Lanka, India e Cina grazie alle condizioni ideali per la loro crescita
-- GUSTO INIMITABILE: il connubio tra linfuso di the nero e il succo di Pesca, dona a Estathé Deteinato Pesca il suo sapore unico e inconfondibile, naturalmente dissetante, senza coloranti, senza glutine e deteinato
 - ESTATHÉ DETEINATO: il piacere del vero infuso di the deteinato preparato secondo la tradizione anche per i più piccoli, da bere in ogni momento della giornata
+- GUSTO INIMITABILE: il connubio tra linfuso di the nero e il succo di Pesca, dona a Estathé Deteinato Pesca il suo sapore unico e inconfondibile, naturalmente dissetante, senza coloranti, senza glutine e deteinato
+- QUALITÀ INCONFONDIBILE: il the freddo Estathé è realizzato con pregiate foglie di the coltivate in Oriente, Sri Lanka, India e Cina grazie alle condizioni ideali per la loro crescita
 - IMPEGNO PER LAMBIENTE: Estathé si impegna a progettare il 100% degli imballaggi in modo che siano riutilizzabili, riciclabili o compostabili
 - TRADIZIONE AUTENTICA: linfusione in acqua calda di foglie di the attentamente selezionate conferisce ad Estathè le proprietà organolettiche del vero infuso di the, proprio come fatto in casa
 

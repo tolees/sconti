@@ -28,9 +28,9 @@ average: '22.1225000000001'
 
 ℹ️:
 
-- Misurazioni: 19 cm
-- Tipo di chiusura: stretta di aragosta
 - Finitura: lucido
+- Tipo di chiusura: stretta di aragosta
+- Misurazioni: 19 cm
 - Colore: tri-tono
 - Materiale: acciaio inossidabile
 

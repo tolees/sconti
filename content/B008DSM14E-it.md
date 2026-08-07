@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Permette la discesa in corda doppia, mantenendo le corde parallele e separate
+- Le due cave di frenaggio inferiori consentono di posizionare le corde per modulare la velocità di discesa in corda doppia
+- Discensore / assicuratore multiuso in lega leggera forgiato a caldo
+- Può essere utilizzato con corda singola, mezze corde e corde gemelle
 - Dotato di due fori, quello superiore per lancoraggio e quello inferiore per laggancio alla longe per la discesa in corda doppia
 - Permette il recupero indipendente e autobloccante di uno o due secondi
-- Può essere utilizzato con corda singola, mezze corde e corde gemelle
-- Discensore / assicuratore multiuso in lega leggera forgiato a caldo
-- Le due cave di frenaggio inferiori consentono di posizionare le corde per modulare la velocità di discesa in corda doppia
-- Permette la discesa in corda doppia, mantenendo le corde parallele e separate
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B008DSM14E{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- SPRAY AL MAGNESIO PER DORMIRE: combinazione di cloruro di magnesio Zechstein, lavanda e camomilla, supporta il rilassamento della tensione muscolare; ausilio naturale per il sonno; 10 spruzzi forniscono 75 mg di magnesio coadiuvato da oli essenziali
 - ASSORBIMENTO DI MAGNESIO EFFICACE: spray al magnesio che favorisce il sonno, con magnesio transdermico e miscela di oli essenziali, viene assorbito durante il massaggio sulla pelle, promuove il benessere complessivo e il rilassamento naturale
-- ISTRUZIONI DUSO: applicare tra cinque e dieci spruzzi sul corpo e massaggiare sulla pelle; in caso di forte nervosismo, lo spray corpo al magnesio per il sonno può essere combinato con i fiocchi di magnesio e la lozione per il sonno
-- RISPETTA IL PIANETA: flacone ecologico in plastica di polietilene eco-compatibile, origine vegetale, plastica derivata dalla canna da zucchero. Il cartone proviene da foreste certificate FSC. Con certificazione POFCAP, senza olio di palma o derivati
 - ADATTO A: vegani, vegetariani, bambini dai 13 anni in su e adulti. Per luso in gravidanza o durante lallattamento, si consiglia di consultare lostetrica o il medico di base prima di iniziare lassunzione di qualsiasi integratore
+- RISPETTA IL PIANETA: flacone ecologico in plastica di polietilene eco-compatibile, origine vegetale, plastica derivata dalla canna da zucchero. Il cartone proviene da foreste certificate FSC. Con certificazione POFCAP, senza olio di palma o derivati
+- SPRAY AL MAGNESIO PER DORMIRE: combinazione di cloruro di magnesio Zechstein, lavanda e camomilla, supporta il rilassamento della tensione muscolare; ausilio naturale per il sonno; 10 spruzzi forniscono 75 mg di magnesio coadiuvato da oli essenziali
+- ISTRUZIONI DUSO: applicare tra cinque e dieci spruzzi sul corpo e massaggiare sulla pelle; in caso di forte nervosismo, lo spray corpo al magnesio per il sonno può essere combinato con i fiocchi di magnesio e la lozione per il sonno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B002VPDX56{{</world>}}

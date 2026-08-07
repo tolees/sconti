@@ -29,9 +29,9 @@ average: '7.57818181818182'
 ℹ️:
 
 - TE VERDE: estratto dalle foglie giovani della nota pianta “Camellia Sinensis”, il tè verde naturale aiuta a proteggere la pelle delle tue mani grazie alle sue proprietà antibatteriche e igienizzanti
+- ECOLOGICO: gli erogatori e le ricariche Neutro Roberts sono 100% riciclabili e composti da plastica riciclata, gentili con il pianeta
 - GENTILE CON LA PELLE: la formula è adatta alla pelle delle mani, del viso e del corpo. Una formula gentile che sa donarti una pelle più protetta
 - ANTIBATTERICO: il sapone liquido Antibatterico rimuove i batteri e protegge la pelle grazie al tè verde, ingrediente naturale dalle note proprietà antibatteriche e igienizzanti
-- ECOLOGICO: gli erogatori e le ricariche Neutro Roberts sono 100% riciclabili e composti da plastica riciclata, gentili con il pianeta
 - TESTATO: i prodotti Neutro Roberts sono dermatologicamente testati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

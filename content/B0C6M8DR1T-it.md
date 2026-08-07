@@ -30,9 +30,9 @@ average: '1.74'
 
 - SALSA ALLA TZAZIKI CALVÉ: salsa alla Tzatziki Calvé, dalla tradizione Greca, un gusto fresco e versatile che conquista il palato ad ogni assaggio. Adatta ai Vegani
 - GUSTO FRESCO E VERSATILE: con cetrioli e aglio, come nella tradizione Greca, è la soluzione ideale per dare alle tue ricette un gusto fresco e sfizioso
+- CALVÉ: dai voce alla tua creatività rendendo i tuoi piatti super gustosi. Calvé, perchè buono può diventare buonissimo!
 - FORMATO TOP DOWN 250 ML: Senza coloranti, senza glutine, vegano. Disponibile nel comodo formato Top Down 250 ml.
 - IDEALE PER PINZIMONIO DI VERDURE, INSALATE, CARNE E PESCE: ottima per accompagnare piatti con diversi ingredienti, dal pinzimonio di verdure, allinsalata e pita greca, fino a piatti di carne e pesce
-- CALVÉ: dai voce alla tua creatività rendendo i tuoi piatti super gustosi. Calvé, perchè buono può diventare buonissimo!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C6M8DR1T{{</world>}}

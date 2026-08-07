@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Disponibile in vari colori alla moda
-- T-shirt a maniche corte da uomo, Ideale da usare tutto lanno
 - Comfort ottimale grazie al tessuto jersey 100% cotone
+- T-shirt a maniche corte da uomo, Ideale da usare tutto lanno
 - Contiene: 1x Columbia CSC Basic Logo, Maglia a maniche corte, Uomo, Colore: Nero, Taglia: L, 1680053
 - Design con logo Columbia
 

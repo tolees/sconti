@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- ADATTO ANCHE AI CUCCIOLI - Panacur è utilizzabile per cani e gatti di qualsiasi età. Nel caso di cuccioli o cani e gatti dai gusti difficili, Panacur è disponibile anche sotto forma di pasta, molto più appetibile dal vostro amico a 4 zampe.
-- DOSAGGIO - Somministrare una compressa ogni 5kg di peso corporeo. Sminuzzare le compresse e miscelarle al cibo. È anche possibile sciogliere le compresse con poca acqua e miscelare il tutto al cibo. Evitare di somministrare contemporaneamente latte.
-- COME SI TRASMETTE LA GIARDIA - L’animale infestato espelle la Giardia nell’ambiente tramite le feci, che possono entrare in contatto con acqua ed eventuali residui di cibo, creando così una potenziale fonte di contaminazione.
 - GIARDIA - É un parassita intestinale. La problematica che ne deriva si chiama Giardiasi ed è una zoonosi, quindi può essere trasmessa anche all’uomo.
 - PANACUR - Panacur in compresse è a base di Fenbendazolo per la prevenzione e il trattamento delle infestazioni da Giardia e per la terapia contro i nematodi gastrointestinali e i cestodi.
+- COME SI TRASMETTE LA GIARDIA - L’animale infestato espelle la Giardia nell’ambiente tramite le feci, che possono entrare in contatto con acqua ed eventuali residui di cibo, creando così una potenziale fonte di contaminazione.
+- DOSAGGIO - Somministrare una compressa ogni 5kg di peso corporeo. Sminuzzare le compresse e miscelarle al cibo. È anche possibile sciogliere le compresse con poca acqua e miscelare il tutto al cibo. Evitare di somministrare contemporaneamente latte.
+- ADATTO ANCHE AI CUCCIOLI - Panacur è utilizzabile per cani e gatti di qualsiasi età. Nel caso di cuccioli o cani e gatti dai gusti difficili, Panacur è disponibile anche sotto forma di pasta, molto più appetibile dal vostro amico a 4 zampe.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BSQVC2C2{{</world>}}

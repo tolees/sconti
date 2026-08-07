@@ -28,11 +28,11 @@ average: '0.706666666666667'
 
 ℹ️:
 
-- PASTA CLASSICA LA MOLISANA: gamma di pasta genuina e digeribile che nasce da solo grano italiano decorticato a pietra, la trafilatura al bronzo rende la pasta ruvida e tenace, in grado di catturare perfettamente i condimenti
-- LA MOLISANA: dal 1912 azienda 100% Italiana leader nella produzione di pasta con solo grando italiano da filiera integrata, semole di alta qualità e tenacità certificata
-- COTTURA , Tempo di cottura indicato: 11 minuti per una consistenza perfetta, tenace al dente e mai scotta grazie alla trafilatura al bronzo e all’elevato indice proteico
-- CONTENUTO , Fusilli corti bucati di grano duro italiano, trafilata al bronzo: superficie ruvida a spirale che aderisce perfettamente ai sughi corposi, forma ideale per piatti saporiti e consistenti. Confezione da 500 g
 - PACK ECOSOSTENIBILE: i pack, riciclabili nella carta, sono composti da materiale che proviene da foreste ben gestite, foreste certificate FSC e da altre fonti controllate
+- LA MOLISANA: dal 1912 azienda 100% Italiana leader nella produzione di pasta con solo grando italiano da filiera integrata, semole di alta qualità e tenacità certificata
+- CONTENUTO , Fusilli corti bucati di grano duro italiano, trafilata al bronzo: superficie ruvida a spirale che aderisce perfettamente ai sughi corposi, forma ideale per piatti saporiti e consistenti. Confezione da 500 g
+- COTTURA , Tempo di cottura indicato: 11 minuti per una consistenza perfetta, tenace al dente e mai scotta grazie alla trafilatura al bronzo e all’elevato indice proteico
+- PASTA CLASSICA LA MOLISANA: gamma di pasta genuina e digeribile che nasce da solo grano italiano decorticato a pietra, la trafilatura al bronzo rende la pasta ruvida e tenace, in grado di catturare perfettamente i condimenti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00IT8IK5C{{</world>}}

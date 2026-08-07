@@ -28,8 +28,8 @@ average: '36.11'
 
 ℹ️:
 
-- Raggio rotante a punti.
 - Lavaggio potente ad alta pressione.
+- Raggio rotante a punti.
 - Attacco a baionetta.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

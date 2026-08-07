@@ -29,8 +29,8 @@ average: '13.97'
 ℹ️:
 
 - Girovita elasticizzato con cordino
-- AEROREADY
 - 100% poliestere (riciclato)
+- AEROREADY
 - Vestibilità regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

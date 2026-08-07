@@ -29,11 +29,11 @@ average: '162.615'
 ℹ️:
 
 - DUE BATTERIE AL LITIO DI NUOVA GENERAZIONE DA 24V 4Ah - alimentato da due batterie evolute che offrono lequivalente di 48V di potenza, che puoi anche usare in qualsiasi apparecchio Greenworks da 24V per ridurre i rifiuti risparmiando spazio e denaro
-- MOTORE BRUSHLESS SILENZIOSO - progettato per ridurre lattrito per più potenza, risultati migliori, funzionamento più silenzioso e maggiore durata, con 6 impostazioni di velocità per spostare i detriti più ostinati e ripulire intorno a piante delicate
-- NOTA! Assicurati che il tubo sia pulito. Assicurarsi che la girante sia libera. Svuota la borsa. Pulisci la borsa. Sostituisci la borsa. Chiudi la borsa. Assicurarsi di aver bloccato correttamente il pacco batteria. Caricare il pacco batteria.
 - TRACOLLA PER COMODITÀ DI LAVORO - aspiratore soffiatore a batteria progettato per soffiare il terreno col giusto angolo per offrire la massima forza, con unimpugnatura imbottita che si afferra comodamente
-- SOFFIATORE ASPIRATORE A BATTERIA CON TRITURATORE - la ventola potente, i due vani batteria e il motore brushless emettono un potente getto daria che soffia via foglie e detriti da prati o vialetti o aspira le foglie le secche riducendone il volume
+- NOTA! Assicurati che il tubo sia pulito. Assicurarsi che la girante sia libera. Svuota la borsa. Pulisci la borsa. Sostituisci la borsa. Chiudi la borsa. Assicurarsi di aver bloccato correttamente il pacco batteria. Caricare il pacco batteria.
 - 3 ANNI DI GARANZIA CON 2 ANNI DI GARANZIA PER LA BATTERIA - Da Greenworks, leader mondiale negli attrezzi elettrici e della tecnologia a batterie, con una reputazione globale per design intelligente, prestazioni elevate e un servizio clienti eccezionale
+- MOTORE BRUSHLESS SILENZIOSO - progettato per ridurre lattrito per più potenza, risultati migliori, funzionamento più silenzioso e maggiore durata, con 6 impostazioni di velocità per spostare i detriti più ostinati e ripulire intorno a piante delicate
+- SOFFIATORE ASPIRATORE A BATTERIA CON TRITURATORE - la ventola potente, i due vani batteria e il motore brushless emettono un potente getto daria che soffia via foglie e detriti da prati o vialetti o aspira le foglie le secche riducendone il volume
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08SM3F9HH{{</world>}}

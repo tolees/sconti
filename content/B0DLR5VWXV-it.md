@@ -28,11 +28,11 @@ average: '77.41'
 
 ℹ️:
 
+- MATERIALI E CURA ECOCOMPATIBILI: 100% poliestere riciclato, resistente e confortevole; Lavare in lavatrice a freddo, asciugare in asciugatrice a bassa temperatura, evitare la candeggina
 - PILE BOLD FULL ZIP da uomo: giacca in pile da uomo con stile avventuroso, calore avvolgente e tasche distintive sul petto e sulle mani
 - VESTIBILITÀ E SPAZI PERSONALIZZATI: orlo con coulisse regolabile, tasche sul petto con gancio e passante, tasche con automatici e passante interno per armadietto
 - CONTENUTO: 1x Columbia Juniper Peak Full Zip Fleece, da uomo, Dimensioni: M, Colore: Stone Green, Greenscape (Verde)
 - COME INDOSSARLO: abbinalo a una maglietta per le uscite casual o indossalo sotto un cappotto per le avventure autunnali e invernali
-- MATERIALI E CURA ECOCOMPATIBILI: 100% poliestere riciclato, resistente e confortevole; Lavare in lavatrice a freddo, asciugare in asciugatrice a bassa temperatura, evitare la candeggina
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DLR5VWXV{{</world>}}

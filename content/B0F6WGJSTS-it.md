@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Polo BOSS con logo a contrasto
 - Realizzata in cotone con tessitura piqué traspirante
+- Polo BOSS con logo a contrasto
 - Rifiniture a righe sportive
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

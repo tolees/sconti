@@ -28,9 +28,9 @@ average: '13.69'
 
 ℹ️:
 
-- Linchiostro, straordinariamente resistente, si asciuga rapidamente e resiste allo sbiadimento e allacqua
 - La punta fine, estremamente versatile, consente di realizzare tratti dettagliati e decisi
 - I colori intensamente brillanti creano un effetto di grande impatto e vivacità
+- Linchiostro, straordinariamente resistente, si asciuga rapidamente e resiste allo sbiadimento e allacqua
 - L’inchiostro indelebile lascia orgogliosamente il segno su carta, plastica, metallo e sulla maggior parte delle altre superfici
 - Opzioni colorate: Include una gamma in edizione limitata di 18 pennarelli indelebili Sharpie - Perfetto per il ritorno a scuola
 

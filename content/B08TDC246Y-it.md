@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- 21 BOTANICHE SELEZIONATE: Le botaniche principali sono ginepro, limone, lavanda, rosmarino, radice di giaggiolo, maggiorana, salvia, rosa, alloro, pompelmo, mandarino, radice di angelica, camomilla e coriandolo. Il resto della ricetta è un segreto della famiglia Pudel...
 - LA BOTTIGLIA: La creazione del logo, dell’etichetta e della bottiglia sono stati pensati per dar vita a un prodotto che rifletta la bellezza di Portofino in ogni dettaglio.
 - LO SPIRITO DELLA RIVIERA: Portofino Dry Gin nasce dalla passione per Portofino, per la sua bellezza semplice e la sua storia glamour. La nostra missione è condividere con il mondo il fascino nascosto di questo posto, le sue tradizioni e il suo patrimonio senza eguali. Vogliamo essere sicuri che ad ogni sorso la magica sensazione della “Piazzetta di Portofino” sia con voi - ovunque voi siate.
-- 21 BOTANICHE SELEZIONATE: Le botaniche principali sono ginepro, limone, lavanda, rosmarino, radice di giaggiolo, maggiorana, salvia, rosa, alloro, pompelmo, mandarino, radice di angelica, camomilla e coriandolo. Il resto della ricetta è un segreto della famiglia Pudel...
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08TDC246Y{{</world>}}

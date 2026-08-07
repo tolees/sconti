@@ -28,9 +28,9 @@ average: '37.97'
 
 ℹ️:
 
-- Scene e multicontroller
 - Con il suo design così unico ma semplice e ugualmente, offre un incredibile potenza e funzionalità
 - Panic button
+- Scene e multicontroller
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01ITNTCDK{{</world>}}

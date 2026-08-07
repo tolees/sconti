@@ -28,8 +28,8 @@ average: '65.0'
 
 ℹ️:
 
-- Design moderno
 - Questo è un prodotto originale Levis
+- Design moderno
 - Facile da indossare
 - Vestibilità comoda
 

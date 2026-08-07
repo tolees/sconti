@@ -28,11 +28,11 @@ average: '12.48'
 
 ℹ️:
 
+- Berretto double-face da tutti i giorni dal taglio flessibile, Ottimo in città e in campagna
+- Contenuto: 1x Columbia City Trek Heavyweight, Berretto, Unisex, Colore: Collegiate Navy (Blu), Taglia: O/S, Art. nr. 1911251
 - Possibilità di ripiegare lorlo per uno strato extra di splendido calore sulle orecchie
 - Tessuto Comfort Stretch facile da indossare e rimuovere
-- Berretto double-face da tutti i giorni dal taglio flessibile, Ottimo in città e in campagna
 - Pratica taglia unica, Discreta linguetta con logo Columbia sul davanti
-- Contenuto: 1x Columbia City Trek Heavyweight, Berretto, Unisex, Colore: Collegiate Navy (Blu), Taglia: O/S, Art. nr. 1911251
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09KP85ZFR{{</world>}}

@@ -29,11 +29,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - 【Uscita 4K@60Hz tramite DisplayPort 1.4 con DSC】: Lhub USB C supporta unuscita massima di 4K@60Hz attraverso DisplayPort 1.4 con DSC, offrendo chiarezza visiva eccezionale e dettagli vividi senza ritardi o blocchi. È inoltre retrocompatibile con 4K@30Hz e 1080P@60Hz. [*NOTA: La compressione del flusso di visualizzazione (DSC = Display Stream Compression) è supportata dai processori Intel Core di 11ª generazione (conosciuti anche come Tiger Lake) e successivi.
-- 【10Gbps Trasferimento Dati Ultraveloce con USB 3.1】: Grazie a due porte USB-A da 10 Gbps e una porta USB-C da 10 Gbps, il trasferimento di file multimediali di grandi dimensioni avviene in pochi secondi, a una velocità di 1000M/S, permettendo un accesso immediato ai dati necessari e risparmiando tempo.
-- 【Connessione Multi Monitor Efficiente】: Collega fino a tre monitor esterni alla tua configurazione con 2 HDMI, 1 DisplayPort e 1 VGA. Goditi uno spazio sullo schermo più ampio per il multitasking, lediting o lintrattenimento multimediale di alta qualità. Massimizza la tua produttività e adattati alle tue esigenze visive con questa flessibilità di connettività.
-- *Mac OS non supporta tre display, la porta "HDMI 2" e la porta VGA non possono funzionare contemporaneamente.
 - 【Ethernet Gigabit e Alimentazione PD 100W】: La porta Ethernet Gigabit assicura una navigazione o velocità di gioco superiori, con meno attese e buffering rispetto alla connessione Wi-Fi. La porta PD 100W supporta la carica rapida (fino a 85W in uscita), consentendo di caricare i dispositivi mentre si utilizzano le altre funzioni dellhub USB C.
+- *Mac OS non supporta tre display, la porta "HDMI 2" e la porta VGA non possono funzionare contemporaneamente.
 - 【Compatibilità Universale】: Questo docking station usb c è progettato per funzionare con i dispositivi Thunderbolt 3/4 e con gran parte dei dispositivi dotati di porta USB-C. La spia luminosa può rivelare se la porta USB-C del portatile supporta luscita video. Se non è supportata, la spia lampeggerà quando si utilizzano le porte HDMI, VGA o DP.
+- 【Connessione Multi Monitor Efficiente】: Collega fino a tre monitor esterni alla tua configurazione con 2 HDMI, 1 DisplayPort e 1 VGA. Goditi uno spazio sullo schermo più ampio per il multitasking, lediting o lintrattenimento multimediale di alta qualità. Massimizza la tua produttività e adattati alle tue esigenze visive con questa flessibilità di connettività.
+- 【10Gbps Trasferimento Dati Ultraveloce con USB 3.1】: Grazie a due porte USB-A da 10 Gbps e una porta USB-C da 10 Gbps, il trasferimento di file multimediali di grandi dimensioni avviene in pochi secondi, a una velocità di 1000M/S, permettendo un accesso immediato ai dati necessari e risparmiando tempo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D17PZSL4{{</world>}}

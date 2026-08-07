@@ -29,8 +29,8 @@ average: '4.5'
 ℹ️:
 
 - BB cream Classica con i benefici di un fondotinta, una crema idratante e protezione solare tutto-in-1, Per tutti i tipi di pelle
-- Applicare da sola o prima del trucco sulla pelle detersa accuratamente. Per una maggiore copertura applicare la BB cream più volte
 - Contenuto: 1x Garnier BB Cream Classica SkinActive, Tonalità: Medio-Scura
+- Applicare da sola o prima del trucco sulla pelle detersa accuratamente. Per una maggiore copertura applicare la BB cream più volte
 - Protezione solare SPF15, Formula arricchita con Acido Ialuronico, Aloe Vera e Pigmenti Minerali
 - Incarnato uniforme dal finish naturale e luminoso, Pelle intensamente idratata per tutto il giorno
 

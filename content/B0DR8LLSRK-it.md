@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Controllo remoto intelligente: linterruttore SONOFF Zigbee può impostare un conto alla rovescia, una programmazione e timer di loop per rendere intelligente la tua luce. Supporta lAPP e il controllo remoto vocale, il che ti semplifica la vita.
-- Compatibile con Home Assistant: si integra perfettamente con Home Assistant tramite Zigbee2MQTT, offrendo un controllo intelligente della luce e gestendo senza sforzo il sistema di illuminazione della tua casa.
-- Supporto interruttore esterno: il nostro interruttore relè può funzionare con vari interruttori esterni per controllare i tuoi dispositivi, come gli interruttori a bilanciere, per ottenere un controllo bidirezionale.
 - Dimensioni super ridotte: questo interruttore della luce intelligente è più piccolo del 40% rispetto allinterruttore intelligente SONOFF ZBMINI. Le dimensioni sono 3,95 x 3,3 x 1,68 cm, adatte a qualsiasi installazione standard di scatola di giunzione.
 - Funzione relè: gli interruttori intelligenti SONOFF per luci supportano la funzione relè, che può facilmente migliorare la qualità della comunicazione Zigbee. Puoi attivare la modalità turbo per migliorare la potenza del segnale.
+- Supporto interruttore esterno: il nostro interruttore relè può funzionare con vari interruttori esterni per controllare i tuoi dispositivi, come gli interruttori a bilanciere, per ottenere un controllo bidirezionale.
+- Compatibile con Home Assistant: si integra perfettamente con Home Assistant tramite Zigbee2MQTT, offrendo un controllo intelligente della luce e gestendo senza sforzo il sistema di illuminazione della tua casa.
+- Controllo remoto intelligente: linterruttore SONOFF Zigbee può impostare un conto alla rovescia, una programmazione e timer di loop per rendere intelligente la tua luce. Supporta lAPP e il controllo remoto vocale, il che ti semplifica la vita.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DR8LLSRK{{</world>}}

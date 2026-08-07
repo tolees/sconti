@@ -32,8 +32,8 @@ average: '564.0'
 - [Tosatura efficiente e copertura completa] Combinando la precisa strategia di andamento a U con il taglio bordi a doppia modalità, ViAX assicura copertura totale e alta efficienza del prato. Segue percorsi di taglio ottimizzati logicamente, massimizzando l’efficienza e riducendo al minimo le sovrapposizioni. Per i bordi, in base alle differenze di altezza, alterna tosatura sul confine e lungo il confine, adatta al terreno irregolare e garantisce prati curati, accattivanti e con meno rifiniture manuali.
 - Protegge il tagliaerba dalla pioggia e dallesposizione al sole per prolungarne notevolmente la durata.
 - Garage per robot tagliaerba MOVA, protezione dalle intemperie e dalla luce del sole, impermeabile, facile da installare, accessorio per la serie di robot tagliaerba MOVA
-- Compatibile con i kit MOVA 1000 e MOVA 600/600Kit
 - [Set-up Perimetro Wireless e Mappatura Potenziata dallIA] ViAX semplifica la cura del prato: grazie a UltraEyes 1.0, mappa automaticamente il prato e stabilisce confini virtuali, senza bisogno di cavi, stazioni RTK o pali di segnale. Questa mappatura intelligente e completamente wireless garantisce una copertura precisa e una manutenzione senza sforzi di tutto il prato
+- Compatibile con i kit MOVA 1000 e MOVA 600/600Kit
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GCDPTG25{{</world>}}

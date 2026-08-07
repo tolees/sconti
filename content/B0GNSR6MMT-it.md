@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Prodotta con 3 malti 100% italiani, selezionati dai Mastri Birrai
-- Birra doppio malto a bassa fermentazione, dal gusto ricco e corposo
-- Sapore pieno ed equilibrato, con una piacevole rotondità finale
-- Colore ambrato intenso, con note di caramello e malto tostato
 - Ideale in abbinamento a carni rosse, formaggi stagionati e piatti saporiti. Gradazione alcolica: 7,2% vol.
+- Prodotta con 3 malti 100% italiani, selezionati dai Mastri Birrai
+- Sapore pieno ed equilibrato, con una piacevole rotondità finale
+- Birra doppio malto a bassa fermentazione, dal gusto ricco e corposo
+- Colore ambrato intenso, con note di caramello e malto tostato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GNSR6MMT{{</world>}}

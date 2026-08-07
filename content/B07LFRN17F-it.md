@@ -28,8 +28,8 @@ average: '65.945'
 
 ℹ️:
 
-- Facile da indossare per un comfort unico
 - Altezza tacco: 2,5 cm1
+- Facile da indossare per un comfort unico
 - I sistemi brevettati Geox assicurano traspirabilità della suola e benessere del piede
 - Calzata facile e regolabile con zip e lacci
 

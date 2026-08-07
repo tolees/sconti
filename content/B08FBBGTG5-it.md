@@ -28,11 +28,11 @@ average: '10.65'
 
 ℹ️:
 
-- Include un Detergente Barba, Viso e Capelli 3 in 1 e Crema Barba Idratante per Viso e Barba incolta King C. Gillette
+- Con profumazioni fresche per deliziare i sensi, note di sandalo, cedro, bergamotto, semi di cardamomo e mandarino
 - Per peli del viso lunghi e corti
 - King C. Gillette, kit rituale
+- Include un Detergente Barba, Viso e Capelli 3 in 1 e Crema Barba Idratante per Viso e Barba incolta King C. Gillette
 - Pochette regalo uomo Ritual con kit per il rituale per detergere, purificare e idratare
-- Con profumazioni fresche per deliziare i sensi, note di sandalo, cedro, bergamotto, semi di cardamomo e mandarino
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08FBBGTG5{{</world>}}

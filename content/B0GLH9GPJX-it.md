@@ -28,9 +28,9 @@ average: '217.0'
 
 ℹ️:
 
-- Scomparto dedicato per iPad / tablet fino a 11”. Alloggiamento fisso per iPad 1.2”, Air 1.9” e Pro 11”.
 - Dimensioni 42 × 3 × 3/1 cm – Peso ~9 g. Formato slim espandibile, ideale per lavoro, viaggio e uso quotidiano.
 - Protezione RFID integrata. Schermatura anti‑frode che protegge carte e documenti da letture non autorizzate.
+- Scomparto dedicato per iPad / tablet fino a 11”. Alloggiamento fisso per iPad 1.2”, Air 1.9” e Pro 11”.
 - Porta PC 15,6’’ con protezione Shock Absorber. Scomparto imbottito progettato per notebook fino a 15,6”, con sistema anti‑urto integrato.
 - Espandibile da 3 cm a 1 cm. Sistema di espansione che permette di aumentare notevolmente la capacità interna.
 

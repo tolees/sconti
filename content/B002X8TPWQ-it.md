@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Una replica della pietra filosofale
 - Racchiusa sotto un display di vetro
+- Una replica della pietra filosofale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B002X8TPWQ{{</world>}}

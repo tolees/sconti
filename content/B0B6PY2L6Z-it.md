@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- __Tessuto:__ tessuto resistente allacqua di mare realizzato con filati riciclati
-- Resistente al cloro
 - __Vestibilità:__ vestibilità snug
+- Resistente al cloro
+- __Tessuto:__ tessuto resistente allacqua di mare realizzato con filati riciclati
 - Assorbimento dellumidità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

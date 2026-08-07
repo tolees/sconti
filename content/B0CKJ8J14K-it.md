@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Puma No 2 logo sul lato
-- Puma Formstrip sul lato
 - Puma Archivio n. 1 logo sulla linguetta
+- Puma Formstrip sul lato
+- Puma No 2 logo sul lato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CKJ8J14K{{</world>}}

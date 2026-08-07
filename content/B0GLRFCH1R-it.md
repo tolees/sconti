@@ -28,11 +28,11 @@ average: '12.59'
 
 ℹ️:
 
+- SHAMPOO ONDE MERAVIGLIOSE: Shampoo idratante per capelli mossi che aiuta a definire le onde naturali, migliorando morbidezza, luminosità e controllo del crespo senza appesantire i capelli
 - SEA SALT SPRAY TEXTURIZZANTE: Spray al sale marino che dona texture naturale effetto spiaggia, valorizzando onde morbide, leggere e definite per uno styling fresco e naturale
-- CREMA STYLING MODELLANTE: Crema styling che aiuta a modellare e definire le onde mantenendo movimento naturale e morbidezza fino a 72 ore, contribuendo a ridurre leffetto crespo
 - ROUTINE COMPLETA SUNSILK ONDE MERAVIGLIOSE: L’utilizzo combinato dei prodotti aiuta a migliorare definizione, idratazione e controllo del crespo per capelli mossi morbidi, luminosi e disciplinati
 - BALSAMO ONDE MERAVIGLIOSE: Balsamo nutriente che aiuta a districare e idratare lunghezze e punte, rendendo le onde più morbide, elastiche e facili da gestire dopo lo shampoo
-- SHAMPOO ONDE MERAVIGLIOSE: Shampoo idratante per capelli mossi che aiuta a definire le onde naturali, migliorando morbidezza, luminosità e controllo del crespo senza appesantire i capelli
+- CREMA STYLING MODELLANTE: Crema styling che aiuta a modellare e definire le onde mantenendo movimento naturale e morbidezza fino a 72 ore, contribuendo a ridurre leffetto crespo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GLRFCH1R{{</world>}}

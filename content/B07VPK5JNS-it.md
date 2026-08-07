@@ -30,9 +30,9 @@ average: '1.99'
 
 - CONTENUTO DELLA CONFEZIONE – Labello Cherry Shine, Balsamo labbra riparatore con pigmenti scintillanti, burro di cacao labbra idratante e colorato, 1 stick da 4.8 g, numero articolo: 85071
 - INGREDIENTI NATURALI – Il burro cacao colorato illumina le labbra e le protegge da screpolature grazie al burro di karité ed è privo di oli minerali e paraffine
-- BALSAMO LABBRA IDRATANTE – Il burrocacao colorato Labello Cherry Shine arricchito con oli naturali si fonde sulle labbra donando unidratazione intensa per 24 ore
 - PER LABBRA DA BACIARE – Grazie alla sua consistenza morbida e setosa, il burro cacao labbra molto secche dona labbra a prova di bacio in qualsiasi momento della giornata
 - COLORE E BRILLANTEZZA – Con la sua formula arricchita di oli naturali e pigmenti scintillanti, il burro cacao labbra dona un delicato tocco di colore alle labbra
+- BALSAMO LABBRA IDRATANTE – Il burrocacao colorato Labello Cherry Shine arricchito con oli naturali si fonde sulle labbra donando unidratazione intensa per 24 ore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07VPK5JNS{{</world>}}

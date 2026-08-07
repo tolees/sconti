@@ -28,10 +28,10 @@ average: '24.99'
 
 ℹ️:
 
-- Corpo in acciaio inossidabile lucido
-- Indicatore luminoso di funzionamento
 - Beccuccio per versare lacqua senza farla fuoriuscire
+- Indicatore luminoso di funzionamento
 - Elemento di riscaldamento nascosto con base girevole a 360 °
+- Corpo in acciaio inossidabile lucido
 - Porta ad ebollizione 1 tazza (235 ml) in 55 secondi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

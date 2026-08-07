@@ -28,8 +28,8 @@ average: '14.85'
 
 ℹ️:
 
-- Maglia sportiva
 - La tecnologia Nike Dri-FIT
+- Maglia sportiva
 - Maniche corte
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

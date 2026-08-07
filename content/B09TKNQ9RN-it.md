@@ -28,11 +28,11 @@ average: '40.95'
 
 ℹ️:
 
-- Stitch Figurine - Avvolto in luci
-- Resina in pietra dipinta a mano con effetto intagliato in legno
-- Dimensioni approssimative: altezza 12 cm
 - Numero articolo: 6010872
+- Dimensioni approssimative: altezza 12 cm
+- Stitch Figurine - Avvolto in luci
 - Jim Shore - Tradizioni Disney
+- Resina in pietra dipinta a mano con effetto intagliato in legno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09TKNQ9RN{{</world>}}

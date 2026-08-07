@@ -28,10 +28,10 @@ average: '34.195'
 
 ℹ️:
 
+- Tè Verde biologico
+- Legno di Sandalo australiano
 - Bergamotto italiano
 - Vaporizza CK One su collo e polsi.
-- Legno di Sandalo australiano
-- Tè Verde biologico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D8J3GFBS{{</world>}}

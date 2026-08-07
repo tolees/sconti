@@ -28,12 +28,12 @@ average: '11.22'
 
 ℹ️:
 
-- Tipo di tacco: piatto
-- Larghezza scarpa: media
-- Chiusura: gomma
 - Materiale esterno: sintetico
 - Fodera: tessuto
 - Materiale interno: sintetico
+- Chiusura: gomma
+- Larghezza scarpa: media
+- Tipo di tacco: piatto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B083ZJ1BQP{{</world>}}

@@ -28,12 +28,12 @@ average: '36.99'
 
 ℹ️:
 
-- Rilevamento persone – Nessun abbonamento richiesto: Rimani informato con il rilevamento persone basato su intelligenza artificiale e notifiche in tempo reale.
-- Avvisi personalizzati e privacy avanzata: ricevi solo gli avvisi di cui hai bisogno creando zone di attività personalizzate e mantieni la privacy con zone di privacy personalizzate.
+- Protezione per tutto lanno dagli agenti atmosferici: Progettato per durare, il design impermeabile IP65 protegge la tua camera dagli agenti atmosferici, garantendo prestazioni affidabili per tutto lanno.
 - Fino a 180 giorni di autonomia: vai senza fili e senza preoccupazioni. La batteria integrata da 5.200 mAh offre fino a 180 giorni di energia prima di dover essere ricaricata.
 - Memoria locale e cloud: registra localmente su una scheda microSD da 512GB (non inclusa) oppure abbonati a Tapo Care per unarchiviazione cloud di 30 giorni.
+- Avvisi personalizzati e privacy avanzata: ricevi solo gli avvisi di cui hai bisogno creando zone di attività personalizzate e mantieni la privacy con zone di privacy personalizzate.
+- Rilevamento persone – Nessun abbonamento richiesto: Rimani informato con il rilevamento persone basato su intelligenza artificiale e notifiche in tempo reale.
 - La tua proprietà, protetta: Deterre i furti di pacchi, tenere docchio il tuo giardino, monitorare il tuo vialetto per attività sospette e proteggere il tuo cortile da potenziali intrusi.
-- Protezione per tutto lanno dagli agenti atmosferici: Progettato per durare, il design impermeabile IP65 protegge la tua camera dagli agenti atmosferici, garantendo prestazioni affidabili per tutto lanno.
 - Vedi chiaramente, giorno e notte: Sperimenta una visione dal vivo nitida e dettagliata in 1080P Full HD e una visione notturna a colori vibranti per un monitoraggio completo della casa.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

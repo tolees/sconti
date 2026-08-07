@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Braccialetto a maglie regolabili color argento; chiusura ed estensione per gioielli
-- Non resistente allacqua
 - Quadrante a raggi di sole color oro rosa con lancette bianche e indici accentati in vero cristallo; traccia dei minuti esterna nera
+- Non resistente allacqua
+- Braccialetto a maglie regolabili color argento; chiusura ed estensione per gioielli
 - Lunetta testurizzata; lente in cristallo minerale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ average: '119.99'
 
 ℹ️:
 
-- Ampio display da 6.88" e altoparlanti stereo. Dai vita ai tuoi contenuti preferiti sul display più grande di moto g, con audio Dolby Atmos.
 - Design premium realizzato con materiali di alta qualità. Ammira il look del materiale premium vegano, protetto da un design resistente allacqua IP64 e da Corning Gorilla Glass 3.
+- Ampio display da 6.88" e altoparlanti stereo. Dai vita ai tuoi contenuti preferiti sul display più grande di moto g, con audio Dolby Atmos.
 - Fino a 24 GB di RAM con RAM Boost. Potenzia il multitasking aggiungendo RAM virtuale quando necessario, passando agevolmente da unapplicazione allaltra.
 - Sistema fotografico da 50 MP con tecnologia AI. Scatta foto straordinarie in qualsiasi condizione di illuminazione, compresi ritratti dallaspetto naturale e scatti vividi in condizioni di scarsa illuminazione grazie alla modalità Ritratto e alla visione notturna con tecnologia AI.
 - La capacità tipica è di 5200 mAh. Il valore tipico corrisponde alla capacità media stimata di un lotto di batterie, determinata tramite test interni. Tale valore rappresenta le prestazioni previste in condizioni di normale utilizzo. La capacità nominale è di 5100 mAh. La capacità nominale corrisponde al valore minimo garantito di una batteria in condizioni controllate.

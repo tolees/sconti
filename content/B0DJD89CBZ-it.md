@@ -28,8 +28,8 @@ average: '27.54'
 
 ℹ️:
 
-- Logo del marchio sul petto
 - Tessuto leggero e morbido
+- Logo del marchio sul petto
 - Con una vestibilità comoda
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

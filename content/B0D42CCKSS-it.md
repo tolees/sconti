@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Mezze maniche
-- Taglio normale
 - Composizione materiale: 100% cotone
+- Taglio normale
+- Mezze maniche
 - Vestito di Jeans
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

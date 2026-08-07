@@ -28,9 +28,9 @@ average: '10.99'
 
 ℹ️:
 
+- Numero di tariffa doganale 8204 2000
 - Eclass-No. 21040218
 - EAN-Code 4042146035740
-- Numero di tariffa doganale 8204 2000
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B001NYYBRK{{</world>}}

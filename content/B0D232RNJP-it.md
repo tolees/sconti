@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- AFFRONTA LE TUE PAURE: Qualcosa ha trasformato la tua casa in un incubo: i tuoi cari sono ormai una minaccia e un sinistro rumore di sottofondo squarcia il silenzio delle tenebre. Trova il coraggio per attraversare la piattaforma e affronta lignoto.
 - SCAPPA DALLA PIATTAFORMA: Niente armi. Niente poteri. Solo ingegno e determinazione. Lotta per la sopravvivenza su una piattaforma petrolifera ormai instabile, dove ogni passo potrebbe essere lultimo.
+- AFFRONTA LE TUE PAURE: Qualcosa ha trasformato la tua casa in un incubo: i tuoi cari sono ormai una minaccia e un sinistro rumore di sottofondo squarcia il silenzio delle tenebre. Trova il coraggio per attraversare la piattaforma e affronta lignoto.
 - VIVI LORRORE: Un disastro a bordo di una piattaforma petrolifera del Mare del Nord ricostruita nei minimi dettagli, con un incredibile cast di attori scozzesi. Sperimenta la bellezza e la letalità di un mare in grado di fare a pezzi una delle strutture più resistenti mai costruite e il suo risoluto equipaggio.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

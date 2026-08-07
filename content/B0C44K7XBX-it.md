@@ -28,8 +28,8 @@ average: '18.8'
 
 ℹ️:
 
-- Per fare 4 tramezzini a forma di triangolo
 - Le piastre di cottura con rivestimento antiaderente sono facili da pulire
+- Per fare 4 tramezzini a forma di triangolo
 - Alloggiamento resistente al calore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

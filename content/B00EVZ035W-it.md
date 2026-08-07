@@ -28,11 +28,11 @@ average: '3.99'
 
 ℹ️:
 
-- Protezione - Il grasso di vaselina protegge i metalli dalla corrosione e mantiene in ottima funzionalità le parti in gomma.
 - Caratteristiche - System Vaselina Tecnica non si ossida, non indurisce, non ingiallisce e non macchia.
 - Utilizzo - Il gel lubrificante System è adatto a ridurre lattrito ed impedisce il bloccaggio di movimenti meccanici. Ideale per serrature, cerniere, guide e per impieghi hobbistici e domestici.
 - System Vaselina Tecnica - Il grasso di vaselina tecnica System è un lubrificante paraffinico bianco a base di vaselina tecnica bianca, pura e inalterabile.
 - Proprietà - Per conservare al meglio le sue caratteristiche, è consigliabile utilizzare il grasso lubrificante in un range di temperature compreso tra 5 e 50°C.
+- Protezione - Il grasso di vaselina protegge i metalli dalla corrosione e mantiene in ottima funzionalità le parti in gomma.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00EVZ035W{{</world>}}

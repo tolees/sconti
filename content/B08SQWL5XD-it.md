@@ -28,8 +28,8 @@ average: '64.99'
 
 ℹ️:
 
-- Rivestimento idrorepellente
 - Tessuto resistente
+- Rivestimento idrorepellente
 - Fodera in rete traspirante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Ideale per tutta la gamma Bosch Aquatak, non compatibile con Aquatak 150 e Aquatak 160
-- Spazzola per patio di 280 mm
 - Prodotto di ottima qualità
+- Spazzola per patio di 280 mm
 - Lancia dal nuovo design
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

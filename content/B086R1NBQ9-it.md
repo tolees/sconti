@@ -29,10 +29,10 @@ average: '4.63'
 ℹ️:
 
 - PREZZO COMPETITIVO: Accessibile a tutti i budget, uno dei migliori rapporti qualità-prezzo sul mercato.
-- BENESSERE DELLA PELLE: Questo olio vegetale contribuisce al benessere della pelle e al suo equilibrio naturale.
-- ESTRATTO PREMIUM 100% NATURALE: Olio vegetale di Ricino (Ricinus communis L.), ottenuto per prima spremitura a freddo dei semi.
-- CERTIFICAZIONE BIO: Proveniente da agricoltura biologica, certificata Cosmos Certified secondo il disciplinare Cosmos da Ecocert Greenlife.
 - AROMA LABS, IL MEGLIO DELLE PIANTE: Marchio francese e impegnato, Aroma Labs propone estratti vegetali bio accessibili a tutti, senza compromessi sulla qualità.
+- ESTRATTO PREMIUM 100% NATURALE: Olio vegetale di Ricino (Ricinus communis L.), ottenuto per prima spremitura a freddo dei semi.
+- BENESSERE DELLA PELLE: Questo olio vegetale contribuisce al benessere della pelle e al suo equilibrio naturale.
+- CERTIFICAZIONE BIO: Proveniente da agricoltura biologica, certificata Cosmos Certified secondo il disciplinare Cosmos da Ecocert Greenlife.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B086R1NBQ9{{</world>}}

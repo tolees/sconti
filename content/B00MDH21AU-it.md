@@ -28,11 +28,11 @@ average: '6.29500000000001'
 
 ℹ️:
 
-- Oftalmologicamente testato
-- Rimane al suo posto fino a 16 ore e in più, è waterproof
 - Ottieni la definizione che desideri da una matita eyeliner con questa formula ultra-setosa
 - Dotato di temperino integrato all’estremità opposta, così ottieni sempre linee precise
 - LIVE BOLDLY con il make-up REVLON: il make-up audace di cui hai bisogno per essere te stesso
+- Oftalmologicamente testato
+- Rimane al suo posto fino a 16 ore e in più, è waterproof
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00MDH21AU{{</world>}}

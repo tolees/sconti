@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Campi di applicazione: ideale per incollaggi di piccole dimensioni (non idoneo per incollare ampie superfici); incolla quasi tutti i materiali solidi e flessibili come, ad esempio, cuoio, varie materie plastiche, fra cui PVC (cloruro di polivinile) rigido, ABS (acrilonitrile-butadiene-stirene, stirene resistente agli urti), PS (polistirene), resine acriliche (Plexiglas ), policarbonato (Makrolon ), resine fenoliche (Bakelite ), porcellana, ceramica, legno, metallo, sughero, feltro, tessuto (prima eseguire un test di idoneità), gomma
+- Adesivo universale istantaneo super forte con innovativo sistema antigoccia
 - Innovativo sistema antigoccia, non cola, incollaggi precisi e puliti, super forte e istantaneo, resistente all’acqua e ai lavaggi in lavastoviglie
 - Blister 3 x1g
-- Adesivo universale istantaneo super forte con innovativo sistema antigoccia
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

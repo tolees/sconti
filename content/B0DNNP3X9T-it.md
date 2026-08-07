@@ -28,8 +28,8 @@ average: '23.99'
 
 ℹ️:
 
-- Stile casual
 - Rifinita con il logo Levis
+- Stile casual
 - Lavabile in lavatrice
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

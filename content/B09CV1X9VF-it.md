@@ -28,12 +28,12 @@ average: '13.99'
 
 ℹ️:
 
-- Questa versione, con eco pack, permette di portarsi il gioco ovunque, per un divertimento eco-friendly, rispettoso della natura e dell’ambiente
 - Numero di giocatori: 2-10 | Età consigliata: 7+ | Durata media: 15 min. | Edizione in Lingua Italiana
-- I giocatori devono girare le carte del proprio mazzo fino a quando non ne vengono individuate due con la stessa figura: a quel punto devono cercare di afferrare per primi il totem collocato al centro per sbarazzarsi delle proprie carte
-- Un divertente gioco di riflessi e velocità, altamente competitivo e senza esclusione di colpi
-- Cosa cè nella scatola? 70 Carte, 1 Regolamento, 1 Totem, 1 Sacchetto
 - Jungle Speed è party game facile da imparare e ottimo per partite immediate e frenetiche, capaci di entusiasmare sia grandi che piccini, da condividere in famiglia o con gli amici
+- Questa versione, con eco pack, permette di portarsi il gioco ovunque, per un divertimento eco-friendly, rispettoso della natura e dell’ambiente
+- Cosa cè nella scatola? 70 Carte, 1 Regolamento, 1 Totem, 1 Sacchetto
+- Un divertente gioco di riflessi e velocità, altamente competitivo e senza esclusione di colpi
+- I giocatori devono girare le carte del proprio mazzo fino a quando non ne vengono individuate due con la stessa figura: a quel punto devono cercare di afferrare per primi il totem collocato al centro per sbarazzarsi delle proprie carte
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09CV1X9VF{{</world>}}

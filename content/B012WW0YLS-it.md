@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Con rivestimento antiaderente
 - Forma tonda
+- Con rivestimento antiaderente
 - 22 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

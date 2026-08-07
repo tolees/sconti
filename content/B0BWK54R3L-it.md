@@ -28,10 +28,10 @@ average: '13.6723076923077'
 
 ℹ️:
 
-- Nome della categoria: Gym Bag &
-- PUMA PUMA Phase PUMA - Logo X nero e oro
-- Marca del prodotto: PUMA
 - Numero modello prodotto: 79943
+- Marca del prodotto: PUMA
+- PUMA PUMA Phase PUMA - Logo X nero e oro
+- Nome della categoria: Gym Bag &
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BWK54R3L{{</world>}}

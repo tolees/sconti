@@ -28,11 +28,11 @@ average: '3.5'
 
 ℹ️:
 
-- Espresso; 100% arabica
-- Soave, con corpo leggero e note floreali
-- Intensità 5
 - 16 capsule
+- Intensità 5
 - Monodose di caffè macinato
+- Soave, con corpo leggero e note floreali
+- Espresso; 100% arabica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08G995KPB{{</world>}}

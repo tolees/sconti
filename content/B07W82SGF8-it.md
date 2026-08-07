@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Stile: slim fit
-- Inserto in mesh sul retro per unottima traspirabilità
 - Materiale confortevole e resistente
 - Ottima traspirabilità, per mantenere la pelle asciutta
+- Stile: slim fit
+- Inserto in mesh sul retro per unottima traspirabilità
 - Maglietta realizzata in tessuto morbido e traspirante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ average: '10.95'
 ℹ️:
 
 - TESSUTO PIQUÉ CONFORTEVOLE - Combinazione di poliestere e cotone che garantisce morbidezza al tatto, resistenza all’usura ed eccellente traspirabilità
-- DURADERO Y FÁCIL DE LAVAR - Material resistente al uso intensivo y al lavado frecuente sin perder forma ni color. Logotipo Joma bordado de alta calidad.
-- MASSIMA LIBERTÀ DI MOVIMENTO - Taglio classico con spacchetti laterali per muoversi in totale comodità durante qualsiasi attività
-- DETTAGLI FUNZIONALI - Colletto con bottoni personalizzati e polsini in rib che migliorano la vestibilità senza rinunciare al comfort
 - STILE CLASSICO E VERSATILE - Design tipo polo con colletto in rib e dettagli a contrasto, perfetto sia per look sportivi che per l’uso quotidiano
+- MASSIMA LIBERTÀ DI MOVIMENTO - Taglio classico con spacchetti laterali per muoversi in totale comodità durante qualsiasi attività
+- DURADERO Y FÁCIL DE LAVAR - Material resistente al uso intensivo y al lavado frecuente sin perder forma ni color. Logotipo Joma bordado de alta calidad.
+- DETTAGLI FUNZIONALI - Colletto con bottoni personalizzati e polsini in rib che migliorano la vestibilità senza rinunciare al comfort
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B06XNZ3VJJ{{</world>}}

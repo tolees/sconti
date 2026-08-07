@@ -29,10 +29,10 @@ average: '1.64'
 ℹ️:
 
 - EVITA LA FORMAZIONE DI MACCHIE, DELICATO SULLA PELLE E PRIVO DI ALCOOL: La formula è studiata per rispettare l’equilibrio naturale della pelle, regalando una piacevole freschezza duratura, efficace e delicata
-- FELCE AZZURRA, PROFUMO INCONFONDIBILE: Dal 1923, porta nelle case il fascino di fragranze uniche tramandate nel tempo. Sinonimo di qualità e artigianalità, offre prodotti per la cura del corpo e della casa, regalando un’autentica esperienza sensoriale
 - AZIONE SINERGICA A LUNGA DURATA PER 72 ORE DI FRESCHEZZA: Neutralizza i batteri che generano i cattivi odori, rispettando il microbioma della pelle, riparando e rinforzando la barriera cutanea e donando una piacevole freschezza a lunga durata
-- DEODORANTE SPRAY UOMO FRESCO E PROFUMATO: Le prime note agrumate di Bergamotto e Anice Stellato lasciano spazio a un cuore speziato e floreale di Geranio e Pepe Nero. Il fondo si inebria dei toni caldi e legnosi di Vetiver, Patchouli e Ambra
 - CONTRASTA I CATTIVI ODORI: Lexpertise nel mondo dei profumi si unisce all’innovazione più recente in campo di deodorazione con la formula DeocompleX, un complesso di attivi che agisce in maniera mirata e sinergica per contrastare i cattivi odori
+- FELCE AZZURRA, PROFUMO INCONFONDIBILE: Dal 1923, porta nelle case il fascino di fragranze uniche tramandate nel tempo. Sinonimo di qualità e artigianalità, offre prodotti per la cura del corpo e della casa, regalando un’autentica esperienza sensoriale
+- DEODORANTE SPRAY UOMO FRESCO E PROFUMATO: Le prime note agrumate di Bergamotto e Anice Stellato lasciano spazio a un cuore speziato e floreale di Geranio e Pepe Nero. Il fondo si inebria dei toni caldi e legnosi di Vetiver, Patchouli e Ambra
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CSYYHL77{{</world>}}

@@ -28,9 +28,9 @@ average: '93.1625'
 
 ℹ️:
 
-- Massima impermeabilità e traspirazione per una protezione ottimale anche con pioggia intensa
 - Calzatura leggera
 - Ammortizzazione ottimale che offre protezione e assorbimento di impatti e sollecitazioni
+- Massima impermeabilità e traspirazione per una protezione ottimale anche con pioggia intensa
 - Protezione dal freddo grazie ad un livello ottimale di isolamento termico
 - Chiusura con lacci; Sottopiede estraibile
 

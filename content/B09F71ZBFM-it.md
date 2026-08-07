@@ -28,10 +28,10 @@ average: '26.76'
 
 ℹ️:
 
-- Spread Collar
 - materialFabricComposition: 79% Cotton, 20% Polyester, 1% Elastane
-- Denim jacket
+- Spread Collar
 - Long Sleeves
+- Denim jacket
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09F71ZBFM{{</world>}}

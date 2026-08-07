@@ -28,9 +28,9 @@ average: '21.99'
 
 ℹ️:
 
-- GUSTO: Delicati aromi di frutta bianca, note di banana e mela con una leggera nota di pane bianco e una nota di base fiorita
 - AMAREZZA: Al palato corposo, in equilibrio con acidità moderata e note basiche asciutte. Il finale è equilibrato, con un pizzico di grano e luppolo
 - ASPETTO: Colore oro brillante, schiuma luminosa e cremosa, consistente
+- GUSTO: Delicati aromi di frutta bianca, note di banana e mela con una leggera nota di pane bianco e una nota di base fiorita
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F1D9MGQB{{</world>}}

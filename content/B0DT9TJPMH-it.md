@@ -28,11 +28,11 @@ average: '89.99'
 
 ℹ️:
 
-- Potenza: 2400W (1000+1400) con 2 zone di cottura indipendenti
-- Contenitori e vassoi antiaderenti
 - Display digitale
-- Timer e Temperatura regolabile (60-200°C)
 - Capacità totale 9 litri (3.5L + 5.5L, fino a 1800g)
+- Contenitori e vassoi antiaderenti
+- Potenza: 2400W (1000+1400) con 2 zone di cottura indipendenti
+- Timer e Temperatura regolabile (60-200°C)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DT9TJPMH{{</world>}}

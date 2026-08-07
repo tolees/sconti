@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Leggings
-- Elastico in vita
 - Cotone
+- Elastico in vita
+- Leggings
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07T81WT2Z{{</world>}}

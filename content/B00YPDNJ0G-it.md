@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Presa sicura grazie allâ€impugnatura con inserto antiscivolo
-- Indicatore LED dello stato della batteria su 3 posizioni
 - Spia di controllo della carica
 - Rotazione a destra e a sinistra
 - Utilizzabile anche come avvitatore dritto grazie al manico rotante
+- Presa sicura grazie allâ€impugnatura con inserto antiscivolo
+- Indicatore LED dello stato della batteria su 3 posizioni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00YPDNJ0G{{</world>}}

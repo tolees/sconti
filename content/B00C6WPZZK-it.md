@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Presenta una lampada per la luce di E27 60W
 - La finitura in ottone antico, con lame realizzate in alberi di noce con finitura delicata
-- Garantisce una ventilazione omogenea nella stanza in cui viene posizionato
 - Il selettore permette di selezionare 3 velocità della lama
+- Garantisce una ventilazione omogenea nella stanza in cui viene posizionato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00C6WPZZK{{</world>}}

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Design moderno
-- Polo da uomo della marca danese Jack & Jones
 - Vestibilità comoda
+- Polo da uomo della marca danese Jack & Jones
 - Composizione: 100% cotone
+- Design moderno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08VN27M8S{{</world>}}

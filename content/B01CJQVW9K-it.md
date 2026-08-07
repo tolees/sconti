@@ -28,10 +28,10 @@ average: '31.49'
 
 ℹ️:
 
-- Disponibile in molti colori e formati
-- Profilo rettangolare in plastica
-- Adeguato per un passepartout
 - Con vetro trasparente lavato
+- Disponibile in molti colori e formati
+- Adeguato per un passepartout
+- Profilo rettangolare in plastica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01CJQVW9K{{</world>}}

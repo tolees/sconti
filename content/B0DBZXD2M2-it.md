@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Controllo individuale della ricarica di ogni batteria (-Delta V) con indicatori di stato carica a LED
-- Per 1-4 batterie AA e AAA Ni-MH; ricarica 4 celle in circa 8-10 ore; il tempo di ricarica può variare a seconda delle condizioni di utilizzo
+- 4 batteries ricaricabili AA de 2000 mAh (ottime per controller di videogiochi e giocattoli) e cavo USB da 50 cm incluso
 - Con protezione contro linversione di polarità, il danneggiamento delle celle e i cortocircuiti
 - Imballaggio 100% privo di plastica
-- 4 batteries ricaricabili AA de 2000 mAh (ottime per controller di videogiochi e giocattoli) e cavo USB da 50 cm incluso
+- Per 1-4 batterie AA e AAA Ni-MH; ricarica 4 celle in circa 8-10 ore; il tempo di ricarica può variare a seconda delle condizioni di utilizzo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DBZXD2M2{{</world>}}

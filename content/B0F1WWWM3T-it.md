@@ -28,11 +28,11 @@ average: '47.4'
 
 ℹ️:
 
-- Lacci
 - Soletta in tessuto
 - Tomaia in materiale sintetico
-- Calzata regolare
+- Lacci
 - Suola sintetica
+- Calzata regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F1WWWM3T{{</world>}}

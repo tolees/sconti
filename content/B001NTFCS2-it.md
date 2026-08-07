@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Prodotto affidabile
-- Conformità RoHS
-- Rispetta le regole di produzione
 - Intervallo di temperatura di funzionamento: 0 - 40 ° C
+- Prodotto affidabile
+- Rispetta le regole di produzione
+- Conformità RoHS
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B001NTFCS2{{</world>}}

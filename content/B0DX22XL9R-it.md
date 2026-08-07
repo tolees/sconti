@@ -28,10 +28,10 @@ average: '14.19'
 
 ℹ️:
 
-- VESTIBILITÀ CLASSICA: vestibilità comoda e rilassata su spalle, petto e vita
-- DETTAGLI: chiusura frontale con bottoni, bottoni sulle punte del colletto, taschino sul petto, carré posteriore con piega centrale a cannoncino, bottone sul polsino
-- LUNGHEZZA DEL CAPO: 74,9cm dal lato del collo nella taglia M (IT)
 - CHAMBRAY DI COTONE LEGGERO: il denim leggero e traspirante offre comfort e lunga durata.
+- LUNGHEZZA DEL CAPO: 74,9cm dal lato del collo nella taglia M (IT)
+- DETTAGLI: chiusura frontale con bottoni, bottoni sulle punte del colletto, taschino sul petto, carré posteriore con piega centrale a cannoncino, bottone sul polsino
+- VESTIBILITÀ CLASSICA: vestibilità comoda e rilassata su spalle, petto e vita
 - CAMICIA IN DENIM: questo modello con abbottonatura frontale versatile combina uno stile classico con dettagli moderni, perfetto da indossare a strati o da solo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

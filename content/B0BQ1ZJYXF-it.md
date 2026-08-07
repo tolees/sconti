@@ -28,10 +28,10 @@ average: '64.9'
 
 ℹ️:
 
-- Controllo touch
 - Programmabile
-- Piastra a induzione digitale
 - Con vetro di sicurezza
+- Piastra a induzione digitale
+- Controllo touch
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BQ1ZJYXF{{</world>}}

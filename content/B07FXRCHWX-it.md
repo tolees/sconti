@@ -28,11 +28,11 @@ average: '10.88'
 
 ℹ️:
 
-- Contribuisce allo sviluppo e alla crescita dei bambini aiutando a colmare le carenze nutrizionali associate a patologia e/o inappetenza
-- Il dosaggio corretto deve essere stabilito dal medico; un misurino di FORTINI POLVERE contiene 6,1g e apporta circa 30,1kcal, la diluizione consigliata è al 30%.
 - Può essere usato ad integrazione o sostituzione della normale alimentazione in caso di stato nutrizionale carente e/o Inappetenza; adatto anche in caso di celiachia.
-- La versatilità della formula in polvere e il gusto neutro lo rendono particolarmente adatto ad essere aggiunto a bevande ed alimenti senza alterarne il gusto.
+- Contribuisce allo sviluppo e alla crescita dei bambini aiutando a colmare le carenze nutrizionali associate a patologia e/o inappetenza
 - Solo per uso orale; Senza Glutine e Fibre
+- La versatilità della formula in polvere e il gusto neutro lo rendono particolarmente adatto ad essere aggiunto a bevande ed alimenti senza alterarne il gusto.
+- Il dosaggio corretto deve essere stabilito dal medico; un misurino di FORTINI POLVERE contiene 6,1g e apporta circa 30,1kcal, la diluizione consigliata è al 30%.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07FXRCHWX{{</world>}}

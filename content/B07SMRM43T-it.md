@@ -28,11 +28,11 @@ average: '55.6333333333333'
 
 ℹ️:
 
-- Das Spiel bietet ein brandneues Handwerkssystem: Sammeln Sie Materialien auf Ihrer Insel, um alles zu bauen, von Möbeln bis hin zu Werkzeugen
 - Acht Spieler können zusammen auf der Insel eines der Spieler durch den Online-Multiplayer oder den kabellosen lokalen Multiplayer spielen!
-- Entspannen Sie sich beim Gärtner, beim Angeln, Dekorieren oder Binden von Beziehungen mit niedlichen Figuren
 - Englisch, spielbar in französischer Sprache
+- Entspannen Sie sich beim Gärtner, beim Angeln, Dekorieren oder Binden von Beziehungen mit niedlichen Figuren
 - Bis zu acht Spieler können auf einer Insel leben; vier Bewohner einer einzelnen Insel können gleichzeitig auf einer einzigen Nintendo Switch Konsole spielen.
+- Das Spiel bietet ein brandneues Handwerkssystem: Sammeln Sie Materialien auf Ihrer Insel, um alles zu bauen, von Möbeln bis hin zu Werkzeugen
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07SMRM43T{{</world>}}

@@ -28,11 +28,11 @@ average: '5.39'
 
 ℹ️:
 
+- Spessore strato min 3µm
+- Materiale: E-Cu
 - Imbuto di inserimento in polipropilene
 - Resistente al calore fino a 105°C
 - Superficie con stagnatura galvanica
-- Materiale: E-Cu
-- Spessore strato min 3µm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00M0QH67W{{</world>}}

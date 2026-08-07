@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- soft viscose
 - maxi skirt
+- soft viscose
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07PFY488C{{</world>}}

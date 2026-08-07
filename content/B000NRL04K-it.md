@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Una morbida termogomma (elastomero) è utilizzata per la scarpetta, i longheroni laterali, il bordo protettivo della pala e per alcuni inserti
 - La pala è realizzata in polipropilene, un materiale leggero e reattivo al tempo stesso
+- Una morbida termogomma (elastomero) è utilizzata per la scarpetta, i longheroni laterali, il bordo protettivo della pala e per alcuni inserti
 - La scarpetta, progettata al computer, è avvolgente e anatomica, Ottima per un facile inserimento del piede e per un uso prolungato della pinna
 - Un cocktail che assicura leggerezza e alte prestazioni, facendo della Rondinella una pinna facile da usare, poco impegnativa, ma al tempo stesso generosa nelle prestazioni
 - Rondinella è la pinna ottima per lo snorkeling, l’apnea, le lunghe nuotate

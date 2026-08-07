@@ -28,9 +28,9 @@ average: '11.7'
 
 ℹ️:
 
-- Visiera preformata di lunghezza media
 - Taglia unica
 - 100% poliestere (riciclato)
+- Visiera preformata di lunghezza media
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZC8HDT9{{</world>}}

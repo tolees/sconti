@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Controlli touch e variazione progressiva: premere il pulsante per accendere o spegnere la lampada, o tenere premuto a lungo per regolare la luminosità; la modalità di memoria mantiene automaticamente lultima impostazione.
+- Due modalità di ricarica: carica tramite USB-C o goditi la ricarica solare wireless, con un pannello solare resistente alla corrosione e una batteria ad alta capacità che si ricarica rapidamente e fornisce una lunga durata della batteria.
 - USO VERSATILE - Goditi una lampada da tavolo versatile per creare unatmosfera calda allinterno e allesterno; ideale per campeggio, feste, cene o come luce notturna.
 - Due altezze regolabili: adatta questa luce LED 2 in 1 alle tue attività grazie ai due steli: abbassa la luce per un ambiente accogliente o sollevala per unilluminazione più ampia, adattandoti facilmente al lavoro, alla lettura o al relax.
-- Due modalità di ricarica: carica tramite USB-C o goditi la ricarica solare wireless, con un pannello solare resistente alla corrosione e una batteria ad alta capacità che si ricarica rapidamente e fornisce una lunga durata della batteria.
+- Controlli touch e variazione progressiva: premere il pulsante per accendere o spegnere la lampada, o tenere premuto a lungo per regolare la luminosità; la modalità di memoria mantiene automaticamente lultima impostazione.
 - RESISTENTE ALLACQUA - Questa lampada resistente allacqua e alla corrosione è realizzata in alluminio e plastica con una finitura liscia e testurizzata; la superficie diffonde una luce morbida senza abbagliamento, mentre la base antiscivolo previene il ribaltamento.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ average: '9.48'
 
 ℹ️:
 
+- Senza conservanti e aromi artificiali aggiunti.
 - Cibo umido per Gatti Adulti in 48 lattine da 85g
 - GOURMET NATURES CREATIONS Cuore di Salsa Ricco in Pollo guarnito con Carote
-- Senza conservanti e aromi artificiali aggiunti.
 - Gourmet Natures Creations Alimento Completo per Gatti Adulti
 - Ricette accuratamente preparate con ingredienti naturali
 

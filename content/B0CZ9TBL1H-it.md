@@ -31,9 +31,9 @@ average: '344.99'
 - Leggi e scrivi con qualsiasi luce: lo schermo da 10,2’’ antiriflesso, 300 ppi, con illuminazione frontale, ti permette di leggere e scrivere in qualsiasi momento e con qualsiasi luce, in casa o all’aperto.
 - Con taccuino integrato: utilizza un unico dispositivo per prendere appunti durante le riunioni, creare elenchi di cose da fare e scrivere i tuoi pensieri. Converti le note scritte a mano in testo inviale via e-mail a te o ai tuoi contatti.
 - Penna premium inclusa: non cè bisogno di caricarla o configurarla, basta prendere la penna e iniziare a scrivere. Con un design ottimizzato, un pulsante di scelta rapida e una gomma morbida e liscia, è ideale per unesperienza di scrittura perfetta.
-- Nessuna distrazione: grazie al design del dispositivo, puoi concentrarti sulla lettura, la scrittura e la revisione dei documenti. Niente notifiche o social media per distrarti.
-- Kindle Scribe: Kindle e taccuino, tutto in uno. Schermo ridisegnato con bordi bianchi uniformi e penna premium ottimizzata, per unesperienza ancora più simile alla carta.
 - Quando ti viene l’ispirazione scrivi direttamente sui libri: inizia a scrivere sulla pagina del libro e grazie alla funzionalità Active Canvas si creerà uno spazio per le note. Espandi i margini per aggiungere altre note, comprimili per vedere la pagina originale.
+- Kindle Scribe: Kindle e taccuino, tutto in uno. Schermo ridisegnato con bordi bianchi uniformi e penna premium ottimizzata, per unesperienza ancora più simile alla carta.
+- Nessuna distrazione: grazie al design del dispositivo, puoi concentrarti sulla lettura, la scrittura e la revisione dei documenti. Niente notifiche o social media per distrarti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZ9TBL1H{{</world>}}

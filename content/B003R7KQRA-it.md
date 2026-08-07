@@ -28,10 +28,10 @@ average: '0.72'
 
 ℹ️:
 
-- BARILLA: unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
-- QUALITÀ: Pasta corta sempre al dente grazie alla selezione di grani duri, tempo di cottura di 12 minuti. Poniamo grande attenzione lungo tutta la filiera per garantire qualità e sicurezza alimentare
-- IDEALI CON: Sughi densi e corposi, siano essi sontuosi ragù di carne o raffinate salse a base di panna e funghi. Si prestano alla perfezione anche alla preparazione di pasticci al forno. Perché non provarli pasticciati con un condimento a base di guanciale, radicchio e champignon
 - TORTIGLIONI - I Tortiglioni Barilla hanno uneleganza inconfondibile: tutto merito della loro forma, nata per raccogliere il condimento, che si insinua voluttuosamente tra le spire della rigatura. La sobrietà dei Tortiglioni Barilla ben si sposa anche ai sughi più corposi e rende il formato particolarmente versatile e allo stesso tempo originale
+- QUALITÀ: Pasta corta sempre al dente grazie alla selezione di grani duri, tempo di cottura di 12 minuti. Poniamo grande attenzione lungo tutta la filiera per garantire qualità e sicurezza alimentare
+- BARILLA: unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
+- IDEALI CON: Sughi densi e corposi, siano essi sontuosi ragù di carne o raffinate salse a base di panna e funghi. Si prestano alla perfezione anche alla preparazione di pasticci al forno. Perché non provarli pasticciati con un condimento a base di guanciale, radicchio e champignon
 - BLUE BOX: la nuova confezione di pasta in cartoncino, nata per abbracciare limpegno di Barilla nello sviluppo di soluzioni volte a ridurre il suo impatto sul pianeta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

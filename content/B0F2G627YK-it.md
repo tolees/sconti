@@ -28,16 +28,16 @@ average: '59.5'
 
 ℹ️:
 
-- Almeno il 20% del materiale proviene da fonti riciclate e rinnovabili
+- Drop intersuola: 10 mm (tallone: 27 mm / avampiede: 17 mm)
+- Chiusura con lacci
 - RAIN.RDY
-- Intersuola in EVA
+- Fodera in tessuto
 - Suola Traxion
 - Peso: 390 g (misura 42 2/3)
-- Fodera in tessuto
+- Intersuola in EVA
+- Almeno il 20% del materiale proviene da fonti riciclate e rinnovabili
 - Calzata regolare
-- Drop intersuola: 10 mm (tallone: 27 mm / avampiede: 17 mm)
 - Tomaia in tessuto con punta rinforzata
-- Chiusura con lacci
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F2G627YK{{</world>}}

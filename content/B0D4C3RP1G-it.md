@@ -28,10 +28,10 @@ average: '83.77'
 
 ℹ️:
 
-- Contenuto: 1x Columbia Pouring Adventure III, Giacca da Uomo, Colore: Nero (Black, Koi), Taglia: XXL, Art. 2117171
 - Compatto: il cappotto si ripiega nella tasca, Facile da trasportare e conservare
-- Realizzata con tecnologia impermeabile Omni-Tech, Con cuciture termosaldate traspiranti
+- Contenuto: 1x Columbia Pouring Adventure III, Giacca da Uomo, Colore: Nero (Black, Koi), Taglia: XXL, Art. 2117171
 - Affronta le intemperie con il cappuccio regolabile, i polsini regolabili e lorlo regolabile con coulisse
+- Realizzata con tecnologia impermeabile Omni-Tech, Con cuciture termosaldate traspiranti
 - Questa giacca leggera è impermeabile e traspirante e presenta un cappuccio regolabile, tasche per le mani con cerniera e polsini regolabili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

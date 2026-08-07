@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Finitura: opaco
 - Materiale: altro
 - Misurazioni: 170 x 250mm
 - Colore nero
-- Finitura: opaco
 - Tipo di chiusura: cursore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

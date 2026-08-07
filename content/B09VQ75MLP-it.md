@@ -28,10 +28,10 @@ average: '17.5455555555556'
 
 ℹ️:
 
-- ADATTO A DIVERSE ESIGENZE: Utilizzabile anche in gravidanza e su persone con allergie, per bambini dai 3 ai 12 anni necessaria assistenza di un adulto, non utilizzare sotto i 3 anni
-- TRATTAMENTO TERMICO LOCALIZZATO: Dispositivo medico che utilizza esclusivamente calore concentrato per il trattamento di punture di zanzare e morsi di insetti, senza sostanze chimiche, totalmente naturale
 - PRONTO ALLUSO: Funzionamento immediato senza preparazione, dimensioni compatte per trasporto in tasca, borsa o valigia, pratico per attività allaperto e vita quotidiana
 - ULTRA-COMPATTO E PORTATILE: Design extra-small con moschettone integrato per portarlo sempre con te, attaccalo a chiavi, passante cintura, zaino o borsa, adatto per casa, viaggi, sport e vacanze
+- TRATTAMENTO TERMICO LOCALIZZATO: Dispositivo medico che utilizza esclusivamente calore concentrato per il trattamento di punture di zanzare e morsi di insetti, senza sostanze chimiche, totalmente naturale
+- ADATTO A DIVERSE ESIGENZE: Utilizzabile anche in gravidanza e su persone con allergie, per bambini dai 3 ai 12 anni necessaria assistenza di un adulto, non utilizzare sotto i 3 anni
 - PIASTRINA IN CERAMICA A 50°: Piastra in ceramica a riscaldamento rapido che sviluppa calore mirato sulla zona della puntura, programma di applicazione di 3 secondi, consigliato utilizzo immediato dopo la puntura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

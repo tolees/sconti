@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dainese Urbactive Gore-Tex Shoes Scarpe Moto Impermeabili Uomo Nero/Nero 40'
-date: 2026-08-02 10:51:50
+date: 2026-08-07 12:07:24
 image: 'https://m.media-amazon.com/images/I/41UYjHm7U9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Materiali principali: Tomaia in tessuto; Inserti in suede sintetico; Suola in gomma Groundtrax: Plantare Ortholite con imbottitura resistente e traspirabilità elevata
-- Temperatura: Membrana Gore-Tex Extended Comfort; Fodera in mesh
-- Ergonomia: Chiusura con lacci; Fascia elastica per riporre i lacci
 - Performance Shock: Inserti rigidi sull’area del malleolo con morbida D-Foam sul lato interno; Scarpe certificate secondo CE - Cat. II - Norma EN 13634
+- Ergonomia: Chiusura con lacci; Fascia elastica per riporre i lacci
+- Temperatura: Membrana Gore-Tex Extended Comfort; Fodera in mesh
 - Caratteristiche: Protezione nella zona del pedale cambio in PU
+- Materiali principali: Tomaia in tessuto; Inserti in suede sintetico; Suola in gomma Groundtrax: Plantare Ortholite con imbottitura resistente e traspirabilità elevata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C2Z42JCN{{</world>}}

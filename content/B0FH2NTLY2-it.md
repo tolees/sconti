@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Vestibilità normale
 - Gamba dritta
+- Vestibilità normale
 - Composizione: 71% cotone 28% poliestere 1% elastane
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Ingresso jack per cuffie
-- Tasti Share / Options / PS
 - Wired
 - Cavo da 3 metri
+- Tasti Share / Options / PS
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0746RPQLB{{</world>}}

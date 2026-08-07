@@ -28,11 +28,11 @@ average: '54.13'
 
 ℹ️:
 
-- MISURE: 187.5 x 58 x 29H cm
-- ISTRUZIONI MONTAGGIO: facile da assemblare e zero manutenzione
-- DESIGN ELEGANTE: lettino prendisole ripiegabile, cuscino non incluso
-- INCLINAZIONI: quattro diverse regolazioni dello schienale: 9°, 30°, 50° e 70°
 - MATERIALE: realizzato in plastica resistente agli agenti atmosferici, non richiede manutenzione
+- INCLINAZIONI: quattro diverse regolazioni dello schienale: 9°, 30°, 50° e 70°
+- DESIGN ELEGANTE: lettino prendisole ripiegabile, cuscino non incluso
+- ISTRUZIONI MONTAGGIO: facile da assemblare e zero manutenzione
+- MISURE: 187.5 x 58 x 29H cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07BKSBWLV{{</world>}}

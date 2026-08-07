@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Cuoce fino a 15 porzioni
 - Temperatura regolabile su 5 impostazioni
-- Grill con piedistallo per l’utilizzo in spazi interni ed esterni
-- Diametro superficie 43.5 cm
-- Piastre antiaderenti rimovibili per una facile pulizia
 - Angolatura che permette ai grassi di colare nell’apposito vassoio raccogli grassi
 - Grande coperchio a cupola con manico freddo antiscottatura
-- Cuoce fino a 15 porzioni
+- Piastre antiaderenti rimovibili per una facile pulizia
+- Diametro superficie 43.5 cm
+- Grill con piedistallo per l’utilizzo in spazi interni ed esterni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01MTC974D{{</world>}}

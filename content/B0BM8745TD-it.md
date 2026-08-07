@@ -30,9 +30,9 @@ average: '17.85'
 
 - RESPONSABILE: Palmolive non è solo impegnata a prendersi cura della tua pelle, ma si impegna in un approviggionamento responsabile** e il suo detergente per le mani è prodotto in un impianto certificato True Zero Waste.
 - NATURALE: Questo sapone liquido per le mani è stato appositamente creato con ingredienti al 96% di origine naturale* e al 97% con formula biodegradabile *acqua e ingredienti di origine naturale con lavorazione limitata
+- TESTATO: Il sapone per le mani è vegano, senza sapone, ed è stato dermatologicamente testato
 - ANTIBATTERICO: Questo sapone meravigliosamente profumato lava via i batteri, ha una formula senza sapone, contiene estratto di lime, è arricchito da un idratante della pelle ed è dermatologicamente testato per prendersi cura delle tue mani
 - PALMOLIVE AQUARIUM: Immergiti in unavventura sottacqua tutte le volte che lavi le mani con questo sapone per le mani
-- TESTATO: Il sapone per le mani è vegano, senza sapone, ed è stato dermatologicamente testato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BM8745TD{{</world>}}

@@ -28,10 +28,10 @@ average: '8.72'
 
 ℹ️:
 
-- UN LABORATORIO FAMILIARE E INDIPENDENTE: Puressentiel nasce nel 2005 dalla passione di Isabelle e Marco Pacchioni per laromaterapia e i principi attivi naturali, ottimizzando il mercato degli oli essenziali e rendendo laromaterapia accessibile a tutti, grazie ai suoi prodotti "pronti alluso"; una gamma di prodotti sicuri, efficaci e facili da usare
-- DIFFUSIONE ATMOSFERICA E SICUREZZA FAMIGLIA: Utilizzare con un diffusore di oli essenziali versando la quantità consigliata e diffondendo nell’ambiente, ideale per uso serale e notturno. Formula controllata da Ecocert per uso come profumatore d’ambiente naturale, adatta a tutta la famiglia a partire da 1 anno. Leggere attentamente le istruzioni prima dell’uso
 - AMBIENTE PROFUMATO E PIACEVOLE: miscela dalla fragranza fresca, agrumata e naturale che crea un’atmosfera rilassante e piacevole in casa. Ideale per camera da letto, soggiorno e ambienti interni durante l’estate. Anche a finestra socchiusa​
+- DIFFUSIONE ATMOSFERICA E SICUREZZA FAMIGLIA: Utilizzare con un diffusore di oli essenziali versando la quantità consigliata e diffondendo nell’ambiente, ideale per uso serale e notturno. Formula controllata da Ecocert per uso come profumatore d’ambiente naturale, adatta a tutta la famiglia a partire da 1 anno. Leggere attentamente le istruzioni prima dell’uso
 - FORMULA 100% NATURALE CON OLI ESSENZIALI BIO: Composta da 4 oli essenziali puri e naturali (citronella di Java, eucalipto citrato, lavandino grosso, lemongrass) e un attivo naturale derivato dalla citronella, sgradito alle zanzare. Senza alcool, conservanti, insetticidi neurotossici né profumi sintetici ​
+- UN LABORATORIO FAMILIARE E INDIPENDENTE: Puressentiel nasce nel 2005 dalla passione di Isabelle e Marco Pacchioni per laromaterapia e i principi attivi naturali, ottimizzando il mercato degli oli essenziali e rendendo laromaterapia accessibile a tutti, grazie ai suoi prodotti "pronti alluso"; una gamma di prodotti sicuri, efficaci e facili da usare
 - OLI ESSENZIALI SGRADITI ALLE ZANZARE: Miscela per diffusione, ideale per trascorrere serate estive in tranquillità. Per una protezione di lunga durata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

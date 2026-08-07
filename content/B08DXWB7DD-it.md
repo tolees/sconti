@@ -28,8 +28,8 @@ average: '19.6'
 
 ℹ️:
 
-- AMOURETTE CHARM – Punta elastica per una vestibilità ottima
 - Spalline regolabili con dettagli in pizzo
+- AMOURETTE CHARM – Punta elastica per una vestibilità ottima
 - Lingerie dal design senza tempo, vestibilità confortevole
 - Coppe ricoperte di pizzo fine
 - TRIUMPH - Lottima messa in scena del corpo femminile

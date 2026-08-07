@@ -28,11 +28,11 @@ average: '96.36'
 
 ℹ️:
 
-- Ergonomia: maggiore comfort e minore affaticamento grazie alla struttura ergonomica e alle dimensioni ridotte dell’impugnatura
 - Funzioni di protezione intelligenti: la protezione contro il riavvio accidentale impedisce alla macchina di riavviarsi automaticamente dopo uninterruzione di corrente
-- Motore robusto e potente: 1.200 Watt con numero di giri a vuoto di 11.000 al min, buona resistenza al sovraccarico per un rapido avanzamento nei lavori quotidiani con il metallo
-- Dotazione: GWS 12-125, impugnatura supplementare con Vibration Control, cuffia protezione, cuffia protezione antitaglio in plastica, flangia montaggio, dado di serraggio, chiave a due perni
 - Questo utensile è compatibile con le cuffie di aspirazione GDE 125 EA-T Professional e GDE 115/125 FC-T Professional.
+- Dotazione: GWS 12-125, impugnatura supplementare con Vibration Control, cuffia protezione, cuffia protezione antitaglio in plastica, flangia montaggio, dado di serraggio, chiave a due perni
+- Motore robusto e potente: 1.200 Watt con numero di giri a vuoto di 11.000 al min, buona resistenza al sovraccarico per un rapido avanzamento nei lavori quotidiani con il metallo
+- Ergonomia: maggiore comfort e minore affaticamento grazie alla struttura ergonomica e alle dimensioni ridotte dell’impugnatura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CPQ4D293{{</world>}}

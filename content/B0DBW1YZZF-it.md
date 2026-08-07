@@ -28,11 +28,11 @@ average: '5.95'
 
 ℹ️:
 
-- MODO DUSO: Si consiglia di assumere 2 bustine al giorno, preferibilmente la sera dopo il pasto. Sciogliere il contenuto di ogni bustina in un bicchiere dacqua da circa 200ml;
-- ALLINTERNO DELLA CONFEZIONE: la confezione contiene 14 pratiche bustine, da sciogliere in acqua. Contiene Edulcorante. Non superare la dose giornaliera consigliata;
-- BENEFICI: la formulazione di Cramp Act Notte contribuisce a ridurre stanchezza e affaticamento, supporta la funzione muscolare e il metabolismo energetico;
 - AVVERTENZE: Tenere fuori dalla portata dei bambini. Gli integratori alimentari non vanno intesi come sostituti di una dieta variata ed equilibrata e di un sano stile di vita;
+- ALLINTERNO DELLA CONFEZIONE: la confezione contiene 14 pratiche bustine, da sciogliere in acqua. Contiene Edulcorante. Non superare la dose giornaliera consigliata;
 - CHE COSE CRAMPACT NOTTE? È un integratore alimentare a base di Potassio, Magnesio e Calcio che contribuiscono alla normale funzione muscolare. Arricchito con Zinco e Creatina;
+- BENEFICI: la formulazione di Cramp Act Notte contribuisce a ridurre stanchezza e affaticamento, supporta la funzione muscolare e il metabolismo energetico;
+- MODO DUSO: Si consiglia di assumere 2 bustine al giorno, preferibilmente la sera dopo il pasto. Sciogliere il contenuto di ogni bustina in un bicchiere dacqua da circa 200ml;
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DBW1YZZF{{</world>}}

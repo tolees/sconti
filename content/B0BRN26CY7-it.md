@@ -28,10 +28,10 @@ average: '10.3'
 
 ℹ️:
 
-- David Beckham Eau de Toilette Classic: una fragranza legnosa aromatica, per luomo dallo stile intramontabile
 - Note di cuore: un cuore speziato ma croccante di cipresso, noce moscata e menta
-- Fragranze David Beckham: ispirate da un uomo icona di stile e di successo, nel mondo dello sport e non solo. Ogni profumo cattura un aspetto diverso della sua personalità e ne esalta le qualità
 - Note di testa: Classic si apre con un frizzante accordo di gin tonic mescolato con galbano e lime
+- David Beckham Eau de Toilette Classic: una fragranza legnosa aromatica, per luomo dallo stile intramontabile
+- Fragranze David Beckham: ispirate da un uomo icona di stile e di successo, nel mondo dello sport e non solo. Ogni profumo cattura un aspetto diverso della sua personalità e ne esalta le qualità
 - Note di fondo: un finale raffinato ed elegante di calde note legnose con cedro, vetiver e ambra
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

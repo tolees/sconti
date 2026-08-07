@@ -28,8 +28,8 @@ average: '16.89'
 
 ℹ️:
 
-- Leggera, taglio classico, maniche con doppia cucitura e orlo inferiore
 - Officially Licensed Stranger Things Apparel
+- Leggera, taglio classico, maniche con doppia cucitura e orlo inferiore
 - 19NXST00083A-001
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

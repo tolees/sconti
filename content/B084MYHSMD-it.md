@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Apprendimento di nozioni geografiche fisiche e politiche, sviluppo della logica, osservazione, nozioni sulluomo e lambiente
 - con lottimo gioco online, maxi puzzle 50x70 cm
+- Apprendimento di nozioni geografiche fisiche e politiche, sviluppo della logica, osservazione, nozioni sulluomo e lambiente
 - Maxi puzzle double face
 - Un puzzle double, face per scoprire lItalia con estensioni multimediali
 

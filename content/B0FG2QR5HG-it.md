@@ -28,10 +28,10 @@ average: '12.0'
 
 ℹ️:
 
-- La sua formula esalta la tua abbronzatura e dona alla pelle un’idratazione intensa fino a 48 ore.
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
 - La sua texture fresca e piacevole è la coccola che ti meriti dopo le fatiche di una giornata sdraiati sul lettino!
 - La Tintarella dura anche quando il sole fa spazio alla luna!
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
+- La sua formula esalta la tua abbronzatura e dona alla pelle un’idratazione intensa fino a 48 ore.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FG2QR5HG{{</world>}}

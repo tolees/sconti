@@ -29,11 +29,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - È il componente di forma cilindrica che si trova nella stampante laser e che determina la buona uscita della stampa: qualsiasi manipolazione del tamburo, può portare alla comparsa di aloni o sbavature sul foglio
+- Il samsung mlt-r116 sv134a nero è l’unità di immaging originale; ha un’autonomia di stampa di circa 9000 pagine
 - Peso e dimensioni del tamburo sono: 359 x 262 x 96 mm, per 0.88 kg
 - Dispositivi compatibili: M2625
-- È compatibile con le cartucce toner per le stampanti laserjet samsung xpress sl-m2825nd, slm2835dw, sl-m2675f, sl-m2875fd e sl-m2885fw
-- Il samsung mlt-r116 sv134a nero è l’unità di immaging originale; ha un’autonomia di stampa di circa 9000 pagine
 - Offre prestazioni affidabili, precise e ben definite; facile da installare e pratica da sostituire
+- È compatibile con le cartucce toner per le stampanti laserjet samsung xpress sl-m2825nd, slm2835dw, sl-m2675f, sl-m2875fd e sl-m2885fw
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00BV8SQSS{{</world>}}

@@ -28,8 +28,8 @@ average: '24.69'
 
 ℹ️:
 
-- Top contemporaneo
 - Finestre superiori per una migliore traspirabilità
+- Top contemporaneo
 - Stile moderno per unestetica elegante e semplice
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

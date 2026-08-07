@@ -28,8 +28,8 @@ average: '27.57'
 
 ℹ️:
 
-- Lingua italiana
 - Gioco in scatola
+- Lingua italiana
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07DCXQ1ZZ{{</world>}}

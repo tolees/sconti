@@ -28,11 +28,11 @@ average: '64.695'
 
 ℹ️:
 
-- Dotazione: UniversalImpact 730, impugnatura supplementare, limitatore di profondità, custodia per il trasporto
 - Mandrino autoserrante con Autolock: per sostituire agevolmente le punte di foratura
-- La linea di utensili Universal Bosch – le soluzioni intelligenti quando ti servono versatilità e potenza per progetti più grandi
 - Preselezione del numero di giri: per controllare con precisione la velocità di foratura in base al materiale da forare
+- Dotazione: UniversalImpact 730, impugnatura supplementare, limitatore di profondità, custodia per il trasporto
 - Per forare senza fatica nella muratura fino a ∅ 14 mm e nel legno fino a ∅ 30 mm
+- La linea di utensili Universal Bosch – le soluzioni intelligenti quando ti servono versatilità e potenza per progetti più grandi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CBTZ7F57{{</world>}}

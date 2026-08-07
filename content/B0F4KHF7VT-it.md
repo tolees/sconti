@@ -28,9 +28,9 @@ average: '49.0'
 
 ℹ️:
 
-- Collo, polsini e fondo a coste
 - Puro cotone pettinato
 - Nastro iconico allinterno del collo
+- Collo, polsini e fondo a coste
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F4KHF7VT{{</world>}}

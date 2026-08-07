@@ -29,9 +29,9 @@ average: '39.96'
 ℹ️:
 
 - 0.65 kg Peso x 27 Litri Volume
+- Idrorepellente
 - Zaino grande con scomparto per laptop imbottito
 - 44 Altezza x 35 Larghezza x 20.5 Profondità cm
-- Idrorepellente
 - 100% Poliammide
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ average: '1.75'
 
 ℹ️:
 
-- La confezione da 320 grammi contiene 36 fette biscottate ed è realizzata con carta certificata FSC conferibile nella raccolta differenziata
-- Un mix esclusivo di proteine che contribuiscono al mantenimento della massa muscolare, nell’ambito di una dieta varia ed equilibrata e uno stile di vita sano
-- Facili da spalmare e ancora più buone da inzuppare, le fette biscottate Protein ricche di fibre e proteine vegetali (20 grammi/100g di prodotto) sono le alleate del tuo benessere quotidiano
-- Senza sciroppo di glucosio, senza grassi idrogenati, senza olio di palma; solo la dolcezza delle materie prime genuine, come la preziosa farina da filiera italiana
 - La linea Protein mette al servizio del tuo benessere i benefici delle proteine senza rinunciare al gusto!
+- Un mix esclusivo di proteine che contribuiscono al mantenimento della massa muscolare, nell’ambito di una dieta varia ed equilibrata e uno stile di vita sano
+- La confezione da 320 grammi contiene 36 fette biscottate ed è realizzata con carta certificata FSC conferibile nella raccolta differenziata
+- Senza sciroppo di glucosio, senza grassi idrogenati, senza olio di palma; solo la dolcezza delle materie prime genuine, come la preziosa farina da filiera italiana
+- Facili da spalmare e ancora più buone da inzuppare, le fette biscottate Protein ricche di fibre e proteine vegetali (20 grammi/100g di prodotto) sono le alleate del tuo benessere quotidiano
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CNS28P9J{{</world>}}

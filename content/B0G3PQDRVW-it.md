@@ -28,11 +28,11 @@ average: '5.99'
 
 ℹ️:
 
+- 【Design ultrasottile】Il faretto LED da soffitto presenta un design LED integrato di soli 34 mm di spessore e 75 mm di diametro. Il diametro dellapertura nel soffitto è di 60-65 mm e la profondità di installazione è di 30 mm. La superficie ha una finitura in nichel spazzolato opaco, resistente alla ruggine, alla polvere e durevole.
+- 【Impermeabile IP44】Il faretto LED da incasso è impermeabile, antispruzzo e antiappannamento, adatto alluso in ambienti umidi e può essere installato e utilizzato in bagni, soggiorni, camere da letto, cucine, portici, corridoi e altri ambienti.
 - 【Alta resa cromatica, senza sfarfallio】La plafoniera bianca neutra da 4000K ha un angolo di fascio di 120°, lumen elevati >600 lm e un CRI elevato >82Ra, evitando così sfarfallio, rumore, raggi ultravioletti e irritazioni agli occhi, proteggendoli al meglio.
 - 【Facile da installare】Basta inserire la lampadina LED da 230 V nel foro e collegare lalimentatore. È dotata di guarnizioni di montaggio nascoste, sicure, che non graffiano le mani e non si staccano facilmente dopo linstallazione.
 - 【Risparmio energetico】Queste plafoniere a LED da 6W possono sostituire le tradizionali lampadine a incandescenza da 60W, consumando meno energia e risparmiando oltre il 90%. La loro eccellente dissipazione del calore e linnovativa tecnologia LED garantiscono una durata di 20.000 ore. Queste luci a LED da 230V non richiedono un trasformatore esterno e possono essere collegate direttamente ad alimentatori da 220V-240V.
-- 【Impermeabile IP44】Il faretto LED da incasso è impermeabile, antispruzzo e antiappannamento, adatto alluso in ambienti umidi e può essere installato e utilizzato in bagni, soggiorni, camere da letto, cucine, portici, corridoi e altri ambienti.
-- 【Design ultrasottile】Il faretto LED da soffitto presenta un design LED integrato di soli 34 mm di spessore e 75 mm di diametro. Il diametro dellapertura nel soffitto è di 60-65 mm e la profondità di installazione è di 30 mm. La superficie ha una finitura in nichel spazzolato opaco, resistente alla ruggine, alla polvere e durevole.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0G3PQDRVW{{</world>}}

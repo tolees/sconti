@@ -28,11 +28,11 @@ average: '1.09'
 
 ℹ️:
 
-- Confezione da 175 g
-- Allergeni: Può contenere tracce di frumento, latte
 - Con gusto di mora e lampone
-- Caramelle gommose
+- Confezione da 175 g
 - Ottimo per il viaggio e feste
+- Allergeni: Può contenere tracce di frumento, latte
+- Caramelle gommose
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08N5YSZKV{{</world>}}

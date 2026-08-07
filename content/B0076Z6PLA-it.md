@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Potenza di 3.2 cd, 1500mA.
-- 2 pettini per differenti lunghezze (1-16mm)
-- Indicatore luminoso di ricarica
 - Testine lavabili per una facile pulizia
+- Indicatore luminoso di ricarica
 - Ricaricabile, fino a 40 minuti di autonomia
+- 2 pettini per differenti lunghezze (1-16mm)
+- Potenza di 3.2 cd, 1500mA.
 - Presa antiscivolo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

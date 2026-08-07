@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Gli investigatori devono scoprire strani segreti, risolvere infernali rompicapi e combattere contro pericoli ultraterreni, per riuscire a mettere assieme gli indizi richiesti per risolvere il mistero
-- Ispirato alle opere di H. P. Lovecraft, il gioco conduce i giocatori in un mondo cupo, misterioso e carico di colpi di scena
 - Le Case della Follia è un gioco da tavolo di orrore e investigazione in cui i giocatori interpretano il ruolo di investigatori che esplorano le stanze buie delle dimore infestate di Arkham e altri luoghi sinistri
+- Gli investigatori devono scoprire strani segreti, risolvere infernali rompicapi e combattere contro pericoli ultraterreni, per riuscire a mettere assieme gli indizi richiesti per risolvere il mistero
 - I giocatori devono collaborare tra loro per superare le sfide loro presentate dallapp gestionale inclusa
+- Ispirato alle opere di H. P. Lovecraft, il gioco conduce i giocatori in un mondo cupo, misterioso e carico di colpi di scena
 - Numero di giocatori: 1-5 | Età consigliata: 14+ | Durata media: 120-180 min. | Edizione in lingua italiana
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

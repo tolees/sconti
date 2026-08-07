@@ -28,9 +28,9 @@ average: '13.28'
 
 ℹ️:
 
-- Registra la cronologia dei movimenti
-- Notifica di movimento
 - Con IP65 adatto per uso esterno, protetto contro i getti dacqua
+- Notifica di movimento
+- Registra la cronologia dei movimenti
 - Controlla e automatizza facilmente i prodotti SMART+ WiFi compatibili in base al movimento rilevato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

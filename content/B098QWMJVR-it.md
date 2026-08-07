@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Logo Levis ricamato
 - T-shirt classiche dalla vestibilità aderente
+- Logo Levis ricamato
 - Questo è un prodotto originale Levis
 - Morbida maglia a coste
 

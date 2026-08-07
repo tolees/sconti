@@ -28,11 +28,11 @@ average: '78.12'
 
 ℹ️:
 
-- Suola in gomma
-- Tacco: 4,6 cm/ 1,8"
+- Intersuola full ground contact in schiuma ed EVA per un effetto ammortizzante a ritorno di energia
 - Tacco in gomma
 - Fodera in tessuto ReBOTL con almeno il 50% di plastica riciclata
-- Intersuola full ground contact in schiuma ed EVA per un effetto ammortizzante a ritorno di energia
+- Tacco: 4,6 cm/ 1,8"
+- Suola in gomma
 - Leggera soletta OrthoLite
 - Pelle Better Leather proveniente da una conceria classificata Silver dal Leather Working Group per le sue pratiche di gestione di acqua, energia e rifiuti
 

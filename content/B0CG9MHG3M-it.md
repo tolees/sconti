@@ -29,9 +29,9 @@ average: '8.99'
 ℹ️:
 
 - Con Vitamina E, che supporta la protezione delle cellule dallo stress ossidativo, che può accelerare il processo di invecchiamento cellulare; Con Zinco e Selenio che contribuiscono alla salute delle unghie;
-- Con Collagene, per una pelle dall’aspetto tonico e compatto, Vitamina c che contribuisce alla sua normale formazione e Olio di enotera per il trofismo cutaneo, ossia contribuisce al mantenimento dell’idratazione della pelle;
-- Multicentrum Bellezza & Collagene è un integratore alimentare che contiene un mix di vitamine, minerali e olio di Enotera, specificatamente formulato per il benessere di pelle, capelli e unghie;
 - 30 capsule. Conservare il prodotto in un luogo asciutto e ad una temperatura non superiore a 25 °C
+- Multicentrum Bellezza & Collagene è un integratore alimentare che contiene un mix di vitamine, minerali e olio di Enotera, specificatamente formulato per il benessere di pelle, capelli e unghie;
+- Con Collagene, per una pelle dall’aspetto tonico e compatto, Vitamina c che contribuisce alla sua normale formazione e Olio di enotera per il trofismo cutaneo, ossia contribuisce al mantenimento dell’idratazione della pelle;
 - Con Vitamina A, Biotina e Zinco che contribuiscono alla salute dei capelli;
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

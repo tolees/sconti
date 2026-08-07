@@ -28,8 +28,8 @@ average: '60.5'
 
 ℹ️:
 
-- Un jeans bootcut aderente e moderno
 - Apertura ampia della gamba da indossare sopra gli stivali
+- Un jeans bootcut aderente e moderno
 - Realizzato con le water&itLess; utilizza il 96% dacqua in meno rispetto alle tecniche di finitura tradizionali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

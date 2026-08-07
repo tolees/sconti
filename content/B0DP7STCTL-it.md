@@ -28,9 +28,9 @@ average: '83.95'
 
 ℹ️:
 
-- Realizzati con materiali sostenibili
-- Stivali del marchio Geox
 - Design robusto per un facile spostamento
+- Stivali del marchio Geox
+- Realizzati con materiali sostenibili
 - Adatto per: clima freddo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

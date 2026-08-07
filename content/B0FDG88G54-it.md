@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Tipo: Vino spumante Brut che nasce dalla rifermentazione di vini rosati vini bianchi di origine comunitaria.
 - Temperatura di servizio: Si serve fresco alla temperatura di 4-6°C
 - Provenienza: Italia
-- Tipo: Vino spumante Brut che nasce dalla rifermentazione di vini rosati vini bianchi di origine comunitaria.
 - Abbinamenti: Consigliato con risotti a base di funghi o con fritture. Si sposa molto bene anche con delle linguine allastice servite su una vellutata di avogado o con dei gamberoni scottati in camicia di lardo croccante.
 - Contenuto alcolico: 12% vol
 

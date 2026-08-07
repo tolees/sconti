@@ -29,8 +29,8 @@ average: '10.0'
 ℹ️:
 
 - Calzata regolare
-- Modello slip-on
 - Morbido plantare Cloudfoam
+- Modello slip-on
 - Suola e fodera sintetiche
 - Materiali ad asciugatura rapida
 - Fascia in materiale sintetico

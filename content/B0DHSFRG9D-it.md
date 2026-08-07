@@ -28,11 +28,11 @@ average: '17.32'
 
 ℹ️:
 
-- Regalo ninja: questo gioco LEGO NINJAGO è unottima idea regalo di compleanno per bambini e bambine da 7 anni in su che amano l’azione, e per tutti i fan della serie che si divertono a costruire i veicoli ninja
-- Tante avventure ninja: scopri altri giocattoli NINJAGO della serie (ciascun set disponibile separatamente), che comprendono draghi, mech e veicoli
 - Prima macchina giocattolo pull-back di LEGO NINJAGO: i piccoli possono lanciare il modello di auto da corsa pull-back di Lloyd tirandola indietro e rilasciandola
 - Auto da corsa giocattolo da costruire: il gioco per bambini e bambine da 7 anni in su, il Racer Pull-Back di Lloyd, permette ai piccoli di rivivere l’azione superveloce della stagione 3 dello show TV LEGO NINJAGO La rivolta dei draghi
+- Tante avventure ninja: scopri altri giocattoli NINJAGO della serie (ciascun set disponibile separatamente), che comprendono draghi, mech e veicoli
 - Ricca di funzionalità: il racer giocattolo è dotato di 4 pneumatici e di abitacolo di guida ed è decorata con lame fulminanti verdi; lauto LEGO è inoltre dotata di 2 elementi fulmine per allestire un piccolo percorso a ostacoli
+- Regalo ninja: questo gioco LEGO NINJAGO è unottima idea regalo di compleanno per bambini e bambine da 7 anni in su che amano l’azione, e per tutti i fan della serie che si divertono a costruire i veicoli ninja
 - 2 minifigure di personaggi NINJAGO: questo kit di costruzioni LEGO per bambini include Lloyd con un’armatura mai vista prima con 2 spade katana dorata, e un Guerriero dragoniano con una spada giocattolo accessoria
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

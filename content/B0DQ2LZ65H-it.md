@@ -28,8 +28,8 @@ average: '5.73'
 
 ℹ️:
 
-- Tappi per le orecchie in silicone, ideali per impedire l’ingresso dell’acqua durante il nuoto.
 - Design universale per adattarsi comodamente a qualsiasi orecchio.
+- Tappi per le orecchie in silicone, ideali per impedire l’ingresso dell’acqua durante il nuoto.
 - Dotati di elastico per una rimozione facile e sicura.
 - Realizzati in materiale morbido per garantire un comfort ottimale durante luso.
 - Cressi azienda di proprietà famigliare che sviluppa con passione prodotti sportivi acquatici dal 1946.

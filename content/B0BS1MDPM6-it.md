@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Con chiusura a cerniera.
-- Allinterno troviamo: · 1 foglio di adesivi in ​​rilievo · 1 penna · 1 quaderno con rilegatura a spirale · 3 mini segnalibri magnetici
-- Misure: 24 x 0,5 x 18 cm
 - Materiali: PP + carta + PVC
+- Misure: 24 x 0,5 x 18 cm
+- Allinterno troviamo: · 1 foglio di adesivi in ​​rilievo · 1 penna · 1 quaderno con rilegatura a spirale · 3 mini segnalibri magnetici
 - custodia in rete
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

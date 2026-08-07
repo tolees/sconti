@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Questo profumo maschile si fa più intenso con il calore del corpo.|Applica questo profumo BOSS dietro le ginocchia e all’interno dei gomiti per una scia legnosa e decisa che dura tutto il giorno.
 - Essenza di Patchouli
 - Accordo Cuoio
 - Essenza di Legno di Cedro
+- Questo profumo maschile si fa più intenso con il calore del corpo.|Applica questo profumo BOSS dietro le ginocchia e all’interno dei gomiti per una scia legnosa e decisa che dura tutto il giorno.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DB4H2L74{{</world>}}

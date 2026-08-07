@@ -29,13 +29,13 @@ average: '141.592'
 ℹ️:
 
 - RISPARMIO ENERGETICO: risparmia grazie alle modalità Assente e Antigelo e alla funzione di Rilevamento Finestra Aperta.
-- PER COMPLETARE: controlla fino a 20 radiatori aggiungendo le Valvole Termostatiche Intelligenti Aggiuntive.
-- RISCALDAMENTO INTELLIGENTE: la funzione Auto-Adapt integra il meteo e le caratteristiche termiche della casa per garantire la temperatura desiderata.
+- CONTROLLO REMOTO E VOCALE: controlla le tue Valvole Termostatiche da smartphone, tablet o PC o tramite Apple HomeKit, Alexa e Assistente Google.
 - PROMEMORIA COMPATIBILITÀ: I prodotti della gamma "Netatmo Connecté" (inclusi Termostato Wifi Intelligente, Valvole Termostatiche e Starter Pack) NON sono compatibili con la nuova gamma "Netatmo ORIGINAL", poiché utilizzano protocolli di comunicazione diversi. Per garantire la migliore esperienza, si consiglia di verificare linstallazione esistente prima dellacquisto.
 - PROGRAMMAZIONE STANZA PER STANZA: riscalda la casa dove, come e quando serve grazie alla programmazione personalizzata per ogni ambiente.
 - MONITORAGGIO CONSUMI: visualizza la cronologia dei dati per monitorare e ottimizzare i consumi energetici, stanza per stanza.
-- CONTROLLO REMOTO E VOCALE: controlla le tue Valvole Termostatiche da smartphone, tablet o PC o tramite Apple HomeKit, Alexa e Assistente Google.
+- PER COMPLETARE: controlla fino a 20 radiatori aggiungendo le Valvole Termostatiche Intelligenti Aggiuntive.
 - INSTALLAZIONE SEMPLICE: installa o sostituisci le valvole in meno di 20 minuti, anche con il riscaldamento in funzione.
+- RISCALDAMENTO INTELLIGENTE: la funzione Auto-Adapt integra il meteo e le caratteristiche termiche della casa per garantire la temperatura desiderata.
 - 4 BATTERIE EXTRA INCLUSE: include 4 batterie aggiuntive (8 in totale) per non doversi mai preoccupare dellautonomia.
 - COMPATIBILITÀ: compatibili con il 90% dei radiatori ad acqua calda (adattatori inclusi). Verifica la compatibilità tramite il link in alto.
 

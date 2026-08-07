@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - 💥LA ROULETTE RUSSA IN VERSIONE FELINA: I giocatori pescano carte fino a quando qualcuno non incappa nella temuta carta Exploding Kitten: a quel punto, quel qualcuno esplode ed è eliminato dal gioco, a meno che non abbia una carta Disinnesgatto per evitare lesplosione.
-- 😈 SANA COMPETIZIONE E RISATE ASSICURATE: Un gioco da tavolo agguerrito, competitivo e vendicativo, senza esclusione di colpi!
-- 😺 EVITA I GATTI ESPLOSIVI E SABOTA I TUOI AMICI: Un gioco di carte veloce e immediato che saprà appassionare grandi e piccini. Perché tutti amano i gattini...e le esplosioni!
 - 📜 INFORMAZIONI SUL GIOCO: Numero giocatori: 2-5 – Età consigliata: 7+ anni – Durata media: 15 min. – Edizione in italiano
+- 😺 EVITA I GATTI ESPLOSIVI E SABOTA I TUOI AMICI: Un gioco di carte veloce e immediato che saprà appassionare grandi e piccini. Perché tutti amano i gattini...e le esplosioni!
+- 😈 SANA COMPETIZIONE E RISATE ASSICURATE: Un gioco da tavolo agguerrito, competitivo e vendicativo, senza esclusione di colpi!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B077L3RV2B{{</world>}}

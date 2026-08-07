@@ -28,8 +28,8 @@ average: '28.0'
 
 ℹ️:
 
-- Baggy fit con vita alta, vestibilità baggy sulle cosce, fondo gamba ampio
 - Gli shorts in denim sono un must-have per l’estate
+- Baggy fit con vita alta, vestibilità baggy sulle cosce, fondo gamba ampio
 - Abbinali a ciò a cui abbineresti dei classici jeans: t-shirt, felpa con cappuccio, scarpe da ginnastica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

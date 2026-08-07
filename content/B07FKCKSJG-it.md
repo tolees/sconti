@@ -30,9 +30,9 @@ average: '14.99'
 
 - Maniche corte
 - Tessuto traspirante
-- Stile scollo: Collo a U
 - Girocollo
 - Composizione materiale: 100% Cotone
+- Stile scollo: Collo a U
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07FKCKSJG{{</world>}}

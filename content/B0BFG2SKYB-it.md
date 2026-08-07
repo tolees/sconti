@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Confezione da 3 magliette girocollo in jersey di cotone
 - Importato
+- Confezione da 3 magliette girocollo in jersey di cotone
 - Lavabile in lavatrice
 - 100% cotone
 

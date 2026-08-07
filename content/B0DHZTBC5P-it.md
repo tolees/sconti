@@ -30,9 +30,9 @@ average: '49.0'
 
 - Suola in gomma
 - Fodera in tessuto
+- Intersuola Cloudfoam
 - Chiusura con lacci
 - Tomaia in pelle
-- Intersuola Cloudfoam
 - Calzata regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

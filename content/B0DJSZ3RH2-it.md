@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Il velociraptor Hot Wheels RacerVerse incluso presenta una decorazione esclusiva che si trova solo in questo set.
-- In uno dei casi, lo spinosauro si scontra con il velociraptor, mangiandolo e mettendolo fuori gioco. Ripristina in tutta praticità e ricomincia!
-- Rilascia i concorrenti dal cancelletto di partenza e scopri quale dei 3 possibili risultati si verificherà in modo casuale.
-- Se vince il velociraptor, può sfrecciare via mentre lo spinosauro viene lasciato indietro.
 - Metti in pista un velociraptor Hot Wheels RacerVerse contro un affamato spinosauro nella battaglia finale per la sopravvivenza del Jurassic World.
 - Se lo spinosauro è più veloce, il velociraptor cadrà attraverso la pista e tornerà al punto di partenza.
+- Rilascia i concorrenti dal cancelletto di partenza e scopri quale dei 3 possibili risultati si verificherà in modo casuale.
+- Il velociraptor Hot Wheels RacerVerse incluso presenta una decorazione esclusiva che si trova solo in questo set.
+- Se vince il velociraptor, può sfrecciare via mentre lo spinosauro viene lasciato indietro.
+- In uno dei casi, lo spinosauro si scontra con il velociraptor, mangiandolo e mettendolo fuori gioco. Ripristina in tutta praticità e ricomincia!
 - Collega altri pezzi di pista al set per continuare il divertimento. (Pista aggiuntiva venduta separatamente.)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

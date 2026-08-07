@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Cappuccio con coulisse
 - A maniche lunghe
 - Tasca a marsupio
+- Cappuccio con coulisse
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F4NVD2ZK{{</world>}}

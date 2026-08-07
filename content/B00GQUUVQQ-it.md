@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - METODO DI PRODUZIONE: è stato perfezionato passando da 3 a 6 cicli di distillazione e 2 cicli di filtrazione. Migliorandone l’aspetto visivo, irrobustendo le note olfattive e affinando il gusto
+- METODO DI CONSUMO: da servire fredda, non ghiacciata, o come shot o mixata come ingrediente principale di moltissimi cocktail. Gradazione 23% vol.
 - GUSTO: aspro, intenso e rinfrescante. Realizzata con veri succhi di frutta, diuluiti con acqua purissima Pilsen
 - TIPO DI VODKA: miscela di 100% puro grano a chicchi integri composta al 60% da frumento e al 40% da triticale. Nelle varianti alla frutta si aggiungono solo succhi di frutta. È senza glutine e OGM
 - PROFUMO: fruttato, intenso e avvolgente. Senza aromi e coloranti artificiali
-- METODO DI CONSUMO: da servire fredda, non ghiacciata, o come shot o mixata come ingrediente principale di moltissimi cocktail. Gradazione 23% vol.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00GQUUVQQ{{</world>}}

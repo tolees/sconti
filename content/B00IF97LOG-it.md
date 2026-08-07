@@ -28,10 +28,10 @@ average: '7.55833333333333'
 
 ℹ️:
 
-- Tutte le prese sono dotate di children safety - impedisce di introdurre corpi estranei nella presa in tensione
-- Cavo ho5 vv-f sezione 3g1 mm² lunghezza 1, 5 metri
-- Indicatore onoff luminoso
 - Multipresa con 5 prese polivalenti (schuko16a 10a), spina 16a
+- Tutte le prese sono dotate di children safety - impedisce di introdurre corpi estranei nella presa in tensione
+- Indicatore onoff luminoso
+- Cavo ho5 vv-f sezione 3g1 mm² lunghezza 1, 5 metri
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00IF97LOG{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- SCOCCA IN MAGNESIO RESISTENTE E LEGGERA: Pulsefire Haste 2 S utilizza una robusta struttura in lega di magnesio per offrire il perfetto equilibrio tra resistenza e agilità; Con un peso di soli 64 grammi, il design con scocca solida mantiene la rigidità senza aggiungere peso eccessivo
-- MODALITÀ DUALE: Connettiti in modo stabile tramite dongle wireless ad alta velocità a 2,4 GHz oppure utilizza la modalità Bluetooth per associarlo ai dispositivi compatibili; Gioca a modo tuo
-- VALIDATO DA NVIDIA REFLEX: Pulsefire Haste 2 S è validato NVIDIA Reflex, così può funzionare con monitor G-SYNC per offrire statistiche precise sulla latenza del sistema; Gioca con sicurezza, sapendo che il tuo PC opera con la latenza minima possibile
 - BATTERIA FINO A 120 ORE: Pulsefire Haste 2 S offre fino a 120 ore di gioco con una sola ricarica completa; Ricaricalo fino all’80% in meno di un’ora utilizzando un cavo USB 2.0 standard; Con soli 10 minuti di ricarica hai energia sufficiente per un’intera giornata di gioco
 - PERSONALIZZAZIONE CON NGENUITY: Configura livelli DPI personalizzati fino a 26.000, regola colori e pattern RGB e riassegna fino a 5 pulsanti del mouse; Rendi il tuo mouse davvero tuo con il software HyperX NGENUITY
+- VALIDATO DA NVIDIA REFLEX: Pulsefire Haste 2 S è validato NVIDIA Reflex, così può funzionare con monitor G-SYNC per offrire statistiche precise sulla latenza del sistema; Gioca con sicurezza, sapendo che il tuo PC opera con la latenza minima possibile
+- MODALITÀ DUALE: Connettiti in modo stabile tramite dongle wireless ad alta velocità a 2,4 GHz oppure utilizza la modalità Bluetooth per associarlo ai dispositivi compatibili; Gioca a modo tuo
+- SCOCCA IN MAGNESIO RESISTENTE E LEGGERA: Pulsefire Haste 2 S utilizza una robusta struttura in lega di magnesio per offrire il perfetto equilibrio tra resistenza e agilità; Con un peso di soli 64 grammi, il design con scocca solida mantiene la rigidità senza aggiungere peso eccessivo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DSQ2VM6X{{</world>}}

@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- -Tensioattivi di origine vegetale offrono una detersione delicata
-- -Rinfresca ed energizza
-- -Fresco profumo agrumato
 - -Limballaggio può variare!
-- -Lolio di sesamo bio protegge la pelle dalla disidratazione, lasciandola morbida e vellutata
 - -Larticolo contiene 1X Weleda Doccia Cremosa Limone (200 ml), cremosa emulsione lavante dal fresco profumo agrumato
+- -Lolio di sesamo bio protegge la pelle dalla disidratazione, lasciandola morbida e vellutata
+- -Rinfresca ed energizza
+- -Tensioattivi di origine vegetale offrono una detersione delicata
+- -Fresco profumo agrumato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000M5DQK4{{</world>}}

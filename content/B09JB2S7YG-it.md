@@ -28,11 +28,11 @@ average: '68.99'
 
 ℹ️:
 
-- Performance durature nel tempo***
 - Al top della categoria per frenata sullasciutto**
 - Dettagli tecnici: Larghezza del pneumatico: 185mm | Altezza della spalla: 60% | Pollici: 15 | Indice di capacità di carico: 84 (Capacità massima di carico: 500 kg) | Codice di velocità: H (permesso fino a: 210 km/h)
 - Risultato del testo: la rivista Gute Fahrt (3/2018) ha testato la dimensione 205/55 R 16. Valutazione della qualità per il ROADHAWK: "molto buona"
 - Al top della categoria per aderenza sul bagnato*
+- Performance durature nel tempo***
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09JB2S7YG{{</world>}}

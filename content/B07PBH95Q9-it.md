@@ -31,8 +31,8 @@ average: '0.93'
 - COTTURA , Tempo di cottura indicato: 11 minuti per una consistenza perfetta, tenace al dente e mai scotta grazie alla trafilatura al bronzo e all’elevato indice proteico
 - LA MOLISANA: dal 1912 azienda 100% Italiana leader nella produzione di pasta con solo grando italiano da filiera integrata, semole di alta qualità e tenacità certificata
 - CONTENUTO , Pennoni rigati integrali di solo grano italiano, trafilati al bronzo, semola integrale ricca di fibre: perfetti per condimenti corposi e saporiti. Confezione da 500 g
-- PACK ECOSOSTENIBILE: i pack, riciclabili nella carta, sono composti da materiale che proviene da foreste ben gestite, foreste certificate FSC e da altre fonti controllate
 - PASTA INTEGRALE LA MOLISANA: gamma di pasta che nasce da grano integrale 100% italiano ricco di fibre, di vitamine e di sali minerali
+- PACK ECOSOSTENIBILE: i pack, riciclabili nella carta, sono composti da materiale che proviene da foreste ben gestite, foreste certificate FSC e da altre fonti controllate
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07PBH95Q9{{</world>}}

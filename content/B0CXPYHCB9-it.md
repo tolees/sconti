@@ -28,11 +28,11 @@ average: '2.99'
 
 ℹ️:
 
-- Certificato COSMOS ORGANIC. Approvato dai dermatologi AIDECO.
 - Per pelli miste
+- Certificato COSMOS ORGANIC. Approvato dai dermatologi AIDECO.
+- Formula vegan, prodotto testato Nichel, Cobalto, Cromo
 - 0% sapone, SLES, PEG
 - Subito dopo luso la pelle è detersa delicatamente e purificata
-- Formula vegan, prodotto testato Nichel, Cobalto, Cromo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CXPYHCB9{{</world>}}

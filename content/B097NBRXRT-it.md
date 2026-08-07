@@ -29,10 +29,10 @@ average: '17.17'
 ℹ️:
 
 - Pantaloni sportivi
-- Tipo di tessuto: 68 percent cotton, 32 percent polyester
-- Leggeri e traspirabili
 - Vestibilità regolare
 - Girovita elasticizzato con cordino interno
+- Leggeri e traspirabili
+- Tipo di tessuto: 68 percent cotton, 32 percent polyester
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B097NBRXRT{{</world>}}

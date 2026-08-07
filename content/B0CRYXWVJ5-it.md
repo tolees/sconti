@@ -28,9 +28,9 @@ average: '2.59'
 
 ℹ️:
 
-- USO QUOTIDIANO PER RISULTATI OTTIMALI: Lavaggio dopo lavaggio, migliora lidratazione del cuoio capelluto riducendone i problemi, per cute e capelli liberi dalla forfora
-- EFFICACI PROTEZIONE E PREVENZIONE DALLA FORFORA: Fino al 100% di protezione contro la forfora*, clinicamente testato. *Forfora visibile, con uso regolare
 - FLACONE RICICLABILE: Flacone realizzato con plastica riciclata (esclusi tappo, coloranti e additivi) e riciclabile
+- EFFICACI PROTEZIONE E PREVENZIONE DALLA FORFORA: Fino al 100% di protezione contro la forfora*, clinicamente testato. *Forfora visibile, con uso regolare
+- USO QUOTIDIANO PER RISULTATI OTTIMALI: Lavaggio dopo lavaggio, migliora lidratazione del cuoio capelluto riducendone i problemi, per cute e capelli liberi dalla forfora
 - FLACONE RICICLABILE: Flacone realizzato con plastica riciclata (esclusi tappo, coloranti e additivi) e riciclabile
 - CAPELLI PIÙ BELLI E MORBIDI: Questa formula contiene il 25% in più degli agenti idratanti rispetto allo shampoo tradizionale Head & Shoulders, lasciando i tuoi capelli puliti e morbidi
 

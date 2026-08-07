@@ -28,10 +28,10 @@ average: '64.9'
 
 ℹ️:
 
-- Una tela per la personalizzazione e l’espressione di sé
-- Leggermente elasticizzate, così da assicurare comfort per tutta la giornata
-- Il nostro classico taglio diritto
 - I nostri intramontabili 501 Original, reinterpretati in chiave più contemporanea, con un taglio più corto
+- Leggermente elasticizzate, così da assicurare comfort per tutta la giornata
+- Una tela per la personalizzazione e l’espressione di sé
+- Il nostro classico taglio diritto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CNK395YT{{</world>}}

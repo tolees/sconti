@@ -29,9 +29,9 @@ average: '45.11'
 ℹ️:
 
 - Effetto pietra naturale: l’aspetto ricorda la pietra naturale e crea accenti urbani ed eleganti in contrasto con il verde delle piante; Disponibile in diversi colori e dimensioni
+- Con illuminazione a LED: l’inserto è dotato di una striscia luminosa a LED lungo la parete, regolabile a distanza tramite il telecomando in dotazione; Può essere posizionata ovunque desideriate grazie al cavo di alimentazione lungo 3 m
 - Con sistema di irrigazione: il sistema di irrigazione originale LECHUZA integrato nel vaso consente alle vostre piante di ricevere sempre la giusta quantità d’acqua; È dotato di un pratico indicatore di livello dell’acqua per un pieno controllo sull’irrigazione delle piante
 - Per ambienti interni ed esterni: plastica robusta e di qualità con vite sul fondo per la fuoriuscita di acqua piovana in eccesso e pratico inserto
-- Con illuminazione a LED: l’inserto è dotato di una striscia luminosa a LED lungo la parete, regolabile a distanza tramite il telecomando in dotazione; Può essere posizionata ovunque desideriate grazie al cavo di alimentazione lungo 3 m
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01MY9YGWH{{</world>}}

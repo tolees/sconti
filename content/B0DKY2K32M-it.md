@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Composizione: 92% poliestere riciclato (PET)
 - Stemmi
-- Occhielli di aerazione
-- Chiusura con zip
-- 8% elastan
-- Resistente allacqua
+- Composizione: 92% poliestere riciclato (PET)
 - Antivento
+- 8% elastan
+- Chiusura con zip
+- Resistente allacqua
+- Occhielli di aerazione
 - Senza PFC
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

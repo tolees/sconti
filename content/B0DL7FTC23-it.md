@@ -28,10 +28,10 @@ average: '30.0'
 
 ℹ️:
 
-- Suola in gomma
-- Calzata regolare
-- Tomaia traforata
 - Fodera in tessuto
+- Tomaia traforata
+- Calzata regolare
+- Suola in gomma
 - Tomaia in pelle e materiale sintetico
 - Chiusura con lacci
 

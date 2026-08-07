@@ -28,12 +28,12 @@ average: '10.82'
 
 ℹ️:
 
-- Dal sapore e aroma dolce e unico. Prodotto adatto a vegetariani e vegani
+- Confezione da 3 x 200 g
 - Strisce di mango crudo biologiche. Senza diossido di zolfo, zuccheri aggiunti e OGM; Nei nostri prodotti rinunciamo volutamente all’aggiunta di zucchero raffinato. La percentuale di zucchero che puoi trovare indicata nei dati nutrizionali si riferisce alla percentuale di fruttosio naturalmente contenuta nel prodotto
 - Provenienti da piantagioni biologiche controllate e certificate in maniera indipendente per assicurarne la massima qualità; Nel caso della frutta essiccata e della frutta secca biologica, si tratta di prodotti totalmente naturali che possono variare nel sapore a causa delle condizioni di crescita legate alle condizioni meteo, pertanto anche il gusto della frutta secca può essere naturalmente più o meno amaro
 - La percentuale di zucchero che puoi trovare indicata nei dati nutrizionali si riferisce alla
-- Confezione da 3 x 200 g
 - Uno snack gustoso e ricco di vitamine; perfetto da solo e con cereali; Poiché non utilizziamo alcun additivo artificiale, né aromi, zolfo, o sostanze similari, i nostri prodotti assumono una colorazione diversa rispetto al prodotto iniziale. Tuttavia, ciò non ha alcuna influenza sul sapore né sulla qualità
+- Dal sapore e aroma dolce e unico. Prodotto adatto a vegetariani e vegani
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07WWHSPTZ{{</world>}}

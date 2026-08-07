@@ -28,10 +28,10 @@ average: '64.99'
 
 ℹ️:
 
-- Soletta Ortholite con rinforzo in EVA
 - Inserto posteriore in TPU in intersuola per massima stabilità
-- Membrana impermeabile CLIMAPROTECT
 - Sistema di supporto alla caviglia
+- Soletta Ortholite con rinforzo in EVA
+- Membrana impermeabile CLIMAPROTECT
 - Fascione protettivo realizzato in tessuto anti abrasione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

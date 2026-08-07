@@ -28,9 +28,9 @@ average: '16.1'
 
 ℹ️:
 
-- Pastelli di qualita superiore
-- Confezione con 36 pastelli
 - Mina resistente agli urti
+- Confezione con 36 pastelli
+- Pastelli di qualita superiore
 - Di lunga durata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

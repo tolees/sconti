@@ -28,11 +28,11 @@ average: '18.99'
 
 ℹ️:
 
-- LUNGHEZZA MANICA: Maniche corte (S/S)
-- Tessuto: tessuto jersey morbido al tatto
-- Vestibilità: vestibilità regolare
 - Tipo di dettaglio: T-shirt
+- LUNGHEZZA MANICA: Maniche corte (S/S)
 - Tipo di collo: rotondo
+- Vestibilità: vestibilità regolare
+- Tessuto: tessuto jersey morbido al tatto
 - Occasione/stile: maglietta di qualità da indossare tutti i giorni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

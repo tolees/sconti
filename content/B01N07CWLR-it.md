@@ -28,10 +28,10 @@ average: '1.9'
 
 ℹ️:
 
-- Spugna a rete grande schiuma
-- Prodotto di ottima qualita
 - Colori disponibili: arancione, rosa, azzurra, verde
 - Spugna corpo esfoliazione soft
+- Spugna a rete grande schiuma
+- Prodotto di ottima qualita
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01N07CWLR{{</world>}}

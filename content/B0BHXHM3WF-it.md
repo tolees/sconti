@@ -28,8 +28,8 @@ average: '10.32'
 
 ℹ️:
 
-- Piacevole da indossare grazie al puro cotone
 - Classica stampa frontale
+- Piacevole da indossare grazie al puro cotone
 - T-shirt da uomo di Jack & Jones a maniche corte
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

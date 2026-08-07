@@ -28,14 +28,14 @@ average: '399.49'
 
 ℹ️:
 
-- Districa e rimuove i capelli lunghi¹. Due spazzole coniche rotanti rimuovono e districano i capelli lunghi fino a 63 cm, convogliandoli direttamente nel contenitore.¹
-- Pulisce tutti i tipi di pavimento. Le setole in nylon penetrano in profondità nei tappeti, mentre le fibre morbide puliscono i pavimenti duri senza graffiarli.
-- Illumina la polvere sui pavimenti duri. Una luce simile a un laser rivela polvere e sporco microscopici, così non ti sfugge nulla.
 - Batteria sostituibile. Sostituisci la batteria con sistema click‑in per una maggiore autonomia.
-- Filtrazione avanzata dell’intera macchina. Il sistema di filtrazione a cinque stadi completamente sigillato cattura il 99,99% delle particelle microscopiche fino a 0,1 micron.³
-- 60 minuti di autonomia. L’avanzata batteria al litio a sette celle offre aspirazione senza cali di prestazione. Rimuove il 50% di polvere in più con una sola ricarica per la pulizia di tutta la casa.⁵
 - 150 Air Watts di potenza di aspirazione. 15 cicloni aumentano il flusso d’aria e catturano costantemente la polvere fine. Il motore controllato digitalmente raggiunge fino a 110.000 giri/min per generare un’aspirazione potente.
+- Filtrazione avanzata dell’intera macchina. Il sistema di filtrazione a cinque stadi completamente sigillato cattura il 99,99% delle particelle microscopiche fino a 0,1 micron.³
 - Sistema di separazione Root Cyclone. I 15 cicloni Dyson catturano e separano polvere e detriti, senza perdita di aspirazione.
+- Districa e rimuove i capelli lunghi¹. Due spazzole coniche rotanti rimuovono e districano i capelli lunghi fino a 63 cm, convogliandoli direttamente nel contenitore.¹
+- Illumina la polvere sui pavimenti duri. Una luce simile a un laser rivela polvere e sporco microscopici, così non ti sfugge nulla.
+- 60 minuti di autonomia. L’avanzata batteria al litio a sette celle offre aspirazione senza cali di prestazione. Rimuove il 50% di polvere in più con una sola ricarica per la pulizia di tutta la casa.⁵
+- Pulisce tutti i tipi di pavimento. Le setole in nylon penetrano in profondità nei tappeti, mentre le fibre morbide puliscono i pavimenti duri senza graffiarli.
 - Tre modalità di potenza. Potenza senza grilletto con modalità Eco, Media e MAX.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

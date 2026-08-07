@@ -29,9 +29,9 @@ average: '15.12'
 ℹ️:
 
 - PUNTI DI SNODO PREMIUM: dotata di testa, braccia e gambe snodabili, questa action figure di Obi-Wan Kenobi presenta molteplici punti di snodo ideali per lesposizione
-- ACCESSORIO ISPIRATO AL PERSONAGGIO: Obi-Wan Kenobi (Padawan) include la sua iconica spada laser con cui poter assumere pose deffetto
 - THE BLACK SERIES ARCHIVE COLLECTION: gli appassionati hanno la possibilità di collezionare action figure della The Black Series precedentemente commercializzate, disponibili in una confezione con finestra Archive
 - DESIGN E DECORAZIONI PREMIUM: appassionati e collezionisti di Star Wars possono esporre nelle loro collezioni questa action figure da 15 cm con design e decorazioni premium
+- ACCESSORIO ISPIRATO AL PERSONAGGIO: Obi-Wan Kenobi (Padawan) include la sua iconica spada laser con cui poter assumere pose deffetto
 - CREA LA TUA SCENA INTERSTELLARE: cerca altre action figure di Star Wars The Black Series per creare una collezione di proporzioni galattiche sul tuo scaffale (ciascun prodotto venduto separatamente, secondo disponibilità)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

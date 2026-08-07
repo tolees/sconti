@@ -28,9 +28,9 @@ average: '6.99'
 
 ℹ️:
 
-- Taglio sopra la caviglia
-- 71% cotone / 26% poliestere riciclato / 2% elastane / 1% nylon riciclato
 - Confezione da tre paia
+- 71% cotone / 26% poliestere riciclato / 2% elastane / 1% nylon riciclato
+- Taglio sopra la caviglia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BP7XNXP1{{</world>}}

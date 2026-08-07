@@ -28,15 +28,15 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Include DJI Mavic 4 Pro, radiocomando DJI RC 2, tre batterie, un hub di ricarica e altro ancora per restare in cielo più a lungo nel corso della giornata.
-- Immagini tele versatili - Il doppio teleobiettivo di questo drone offre zoom nitidi e dettagliati per la fotografia aerea professionale.
-- Angolazioni più dinamiche - Lo Stabilizzatore Infinity a 360° del drone con fotocamera [4] offre movimenti dinamici della fotocamera per riprese cinematografiche.
 - Trasmissione video a lungo raggio - LO4+ da 30 km del drone fornisce una trasmissione video HDR a 10 bit [11], garantendo flussi fluidi per i professionisti in movimento.
-- A causa di problemi di compatibilità della piattaforma, lapp DJI Fly è stata rimossa da Google Play. Visita il sito Web ufficiale DJI per scaricare il manuale utente e lultima versione dellapp DJI Fly per una migliore esperienza.
+- Voli notturni sicuri - Il rilevamento omnidirezionale degli ostacoli in notturna con 0,1 lux [1] di questo drone rileva ostacoli in condizioni di scarsa illuminazione, ideale per le riprese notturne.
 - Fotocamera principale da 100 MP - La fotocamera Hasselblad da 100 MP del DJI Mavic 4 Pro con video HDR 6K/60fps cattura riprese aeree mozzafiato con dettagli vividi.
 - Tempo di volo esteso - Goditi 51 minuti di volo [10] con questo drone con fotocamera, ideale per catturare lunghe scene professionali.
+- Immagini tele versatili - Il doppio teleobiettivo di questo drone offre zoom nitidi e dettagliati per la fotografia aerea professionale.
+- Angolazioni più dinamiche - Lo Stabilizzatore Infinity a 360° del drone con fotocamera [4] offre movimenti dinamici della fotocamera per riprese cinematografiche.
+- A causa di problemi di compatibilità della piattaforma, lapp DJI Fly è stata rimossa da Google Play. Visita il sito Web ufficiale DJI per scaricare il manuale utente e lultima versione dellapp DJI Fly per una migliore esperienza.
 - Display professionale in movimento - Il radiocomando RC Pro 2 [8] del drone, con display girevole da 7″ ad alta luminosità, è pieghevole per un trasporto facile e un controllo professionale ovunque.
-- Voli notturni sicuri - Il rilevamento omnidirezionale degli ostacoli in notturna con 0,1 lux [1] di questo drone rileva ostacoli in condizioni di scarsa illuminazione, ideale per le riprese notturne.
+- Include DJI Mavic 4 Pro, radiocomando DJI RC 2, tre batterie, un hub di ricarica e altro ancora per restare in cielo più a lungo nel corso della giornata.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DS2GVT2G{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Realizzati con ingredienti italiani: farina di grano tenero 100% italiana, olio di girasole alto oleico italiano e latte fresco italiano
-- Spesso e friabile, ideale da inzuppare nella tua bevanda preferita per trasformare la colazione in un gesto familiare, semplice e rassicurante
-- Cinque strati di pasta stesa ancora calda, poi sovrapposta per un’imitabile sfogliatura
-- Da oltre 200 anni Colussi porta in tavola l’autentica bontà di casa e i sapori di una volta, tramandando di generazione in generazione il suo tocco inconfondibile
 - Zuppalatte è l’originale biscotto secco Colussi, dal gusto delicato e intramontabile per iniziare la giornata con la giusta dose di bontà ed energia
+- Spesso e friabile, ideale da inzuppare nella tua bevanda preferita per trasformare la colazione in un gesto familiare, semplice e rassicurante
+- Realizzati con ingredienti italiani: farina di grano tenero 100% italiana, olio di girasole alto oleico italiano e latte fresco italiano
+- Da oltre 200 anni Colussi porta in tavola l’autentica bontà di casa e i sapori di una volta, tramandando di generazione in generazione il suo tocco inconfondibile
+- Cinque strati di pasta stesa ancora calda, poi sovrapposta per un’imitabile sfogliatura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09XJ4NRF2{{</world>}}

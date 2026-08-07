@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- che dovrà viaggiare verso il pianeta più pericoloso dell’universo per assicurare un futuro alla sua famiglia e alla sua gente.
 - un’epica avventura ricca di emozioni, narra la storia di Paul Atreides, un giovane brillante e talentuoso, nato con un grande destino che va ben oltre la sua comprensione
+- che dovrà viaggiare verso il pianeta più pericoloso dell’universo per assicurare un futuro alla sua famiglia e alla sua gente.
 - Mentre forze maligne si fronteggiano in un conflitto per assicurarsi il controllo esclusivo della più preziosa risorsa esistente sul pianeta - una materia prima capace di sbloccare il più grande potenziale dell’umanità - solo coloro che vinceranno le proprie paure riusciranno a sopravvivere.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

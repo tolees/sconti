@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Con un tacco più spesso
 - Larghezza regolare
+- Con un tacco più spesso
 - Tomaia in pelle scamosciata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,13 +28,13 @@ average: '192.4825'
 
 ℹ️:
 
-- IN DOTAZIONE: distanziometro laser GLM 100-25 C, 3 batterie AA, cinturino da polso e custodia .
-- CONNETTIVITÀ + APP MEASUREON: pratica documentazione in loco di planimetrie, misurazioni, foto e appunti con accesso ai progetti in qualsiasi momento.
 - ROBUSTO: il distanziometro laser è subito pronto alluso.
-- APPLICAZIONI: posare e inserire elementi in ambito edile.
+- IN DOTAZIONE: distanziometro laser GLM 100-25 C, 3 batterie AA, cinturino da polso e custodia .
 - Con protezione IP54 e vetro di copertura anti-graffio, GLM 100-25 C è ottimo per condizioni impegnative
-- Ottimo per distanze estese, ambienti complessi ed ambienti esterni luminosi
 - MIRINO DIGITALE CON FUNZIONE ZOOM: la vista della fotocamera in tempo reale consente misurazioni precise garantendo che il punto laser corrisponda allobiettivo, specialmente su lunghe distanze.
+- CONNETTIVITÀ + APP MEASUREON: pratica documentazione in loco di planimetrie, misurazioni, foto e appunti con accesso ai progetti in qualsiasi momento.
+- APPLICAZIONI: posare e inserire elementi in ambito edile.
+- Ottimo per distanze estese, ambienti complessi ed ambienti esterni luminosi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09VKWJDP7{{</world>}}

@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Wired
-- Cavo da 3 metri
 - Tasti Share / Options / PS
+- Cavo da 3 metri
 - Ingresso jack per cuffie
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

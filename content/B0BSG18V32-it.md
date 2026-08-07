@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Ledizione comprende
 - Cartoline
-- Lettera di Wu
+- Ledizione comprende
 - Una scatola speciale
+- Lettera di Wu
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BSG18V32{{</world>}}

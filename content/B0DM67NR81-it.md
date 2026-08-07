@@ -29,9 +29,9 @@ average: '249.9'
 ℹ️:
 
 - TECNOLOGIA SYNC: AMD FreeSync Premium regola la frequenza dei fotogrammi del monitor alla scheda grafica, garantendo min. 120 Hz con FHD e frame rate minimi (LFC). LFC assicura che questo minimo dello schermo sia garantito e il gioco rimane fluido con un framerate rate inferiore al minimo supportato.
-- Tipo di display: i display VA offrono allutente un contrasto elevato e angoli di visualizzazione stabili da unampia gamma di prospettive. La tecnologia HDR offre luminosità uniforme, contrasto elevato e colori intensi rispetto alle immagini normali.
 - Contenuto della confezione: cavo XZ342CUV3: HDMI, DP
 - DESIGN: i monitor curvi a telaio zero combinano i vantaggi del campo visivo naturale e un campo visivo più ampio. Offrono agli utenti una visione più ampia e, in combinazione con altri dispositivi, consentono configurazioni multi-monitor praticamente senza bordi.
+- Tipo di display: i display VA offrono allutente un contrasto elevato e angoli di visualizzazione stabili da unampia gamma di prospettive. La tecnologia HDR offre luminosità uniforme, contrasto elevato e colori intensi rispetto alle immagini normali.
 - Caratteristiche: monitor da gioco 21:9 con una risoluzione di 3440 x 1440 dpi, display curvo VA con retroilluminazione a LED. Tasso di recupero: 180 Hz DP, 100 Hz HDMI, HDR400, tempo di risposta: 4 ms(GTG), 1 ms(VRB), connettori: 2 x HDMI 2.0, DP 1.4. Audio Out, 2 Altoparlante Wx2, 100 x 100, montaggio a parete
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

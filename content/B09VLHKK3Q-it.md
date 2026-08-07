@@ -29,10 +29,10 @@ average: '16.68'
 ℹ️:
 
 - PROPRIETA: Enervit Competition Bar, grazie alla formulazione a base di sciroppo di glucosio-fruttosio, fiocchi di riso, avena e maltodestrine, fornisce il più alto tenore di carboidrati
-- ENERVIT: Formuliamo e produciamo soluzioni nutrizionali e di integrazione innovative con un preciso obiettivo: aiutare tutte le persone a migliorare la qualità della propria vita
 - MODO DUSO: Durante l’esercizio fisico intenso, assumere fino a 2 barrette ogni ora
 - BARRETTA BANANA: Barretta energetica con banane in pezzi e con 21 g di carboidrati. A basso contenuto di grassi. Senza glutine
 - BENEFICI: Ad alta concentrazione di carboidrati e basso contenuto di grassi per i momenti di massimo sforzo, con formula basata su un mix di glucosio, fruttosio e maltodestrine
+- ENERVIT: Formuliamo e produciamo soluzioni nutrizionali e di integrazione innovative con un preciso obiettivo: aiutare tutte le persone a migliorare la qualità della propria vita
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09VLHKK3Q{{</world>}}

@@ -28,10 +28,10 @@ average: '12.46'
 
 ℹ️:
 
-- Collana senza tempo di Tamaris con bellissimo ciondolo a forma di cuore
-- La collezione di gioielli e orologi Tamaris convince per il design senza tempo e lalta qualità.
 - Materiale: acciaio inossidabile lucidato. Tipo di collana: catena a maglia barbazzale. Dimensioni: 45 cm. Chiusura: a moschettone
+- Collana senza tempo di Tamaris con bellissimo ciondolo a forma di cuore
 - Confezionato in una confezione regalo originale Tamaris.
+- La collezione di gioielli e orologi Tamaris convince per il design senza tempo e lalta qualità.
 - Perfetto come idea regalo per la persona che ami
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

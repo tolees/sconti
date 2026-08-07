@@ -31,8 +31,8 @@ average: '5.67'
 - Balsamo Barber Club da applicare sulla barba e sulla pelle per una barba più curata e voluminosa
 - Contenuto della confezione: 1 balsamo da barba LOréal Paris Men Expert Barber Club Barber Club + pelle con legno di cedro, 50 ml
 - Formula arricchita con olio di cedro organico ed essenziale, profumo tipico e maschile di Barber Club, complemento ideale per lo shampoo da barba Barber Club
-- Applicazione: dopo la doccia o la pulizia del viso, massaggiare la barba e la pelle e distribuire uniformemente, evitare la zona degli occhi, poi acconciare come al solito
 - Effetto: effetto 2 in 1 per la cura di barba e pelle e una barba visibilmente più piena e curata
+- Applicazione: dopo la doccia o la pulizia del viso, massaggiare la barba e la pelle e distribuire uniformemente, evitare la zona degli occhi, poi acconciare come al solito
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B081ZBJRVH{{</world>}}

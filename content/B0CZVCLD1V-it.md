@@ -28,14 +28,14 @@ average: '27.63'
 
 ℹ️:
 
-- Cappuccio regolabile con cordino
-- Spalle basse
 - Calzata regolare
-- Questo prodotto contiene almeno il 70% di materiali riciclati e rinnovabili
 - Orli a coste
-- Taglio leggermente corto sul retro
-- Tasca a marsupio
+- Cappuccio regolabile con cordino
 - 55% cotone / 36% poliestere (riciclato) / 9% viscosa
+- Tasca a marsupio
+- Spalle basse
+- Taglio leggermente corto sul retro
+- Questo prodotto contiene almeno il 70% di materiali riciclati e rinnovabili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZVCLD1V{{</world>}}

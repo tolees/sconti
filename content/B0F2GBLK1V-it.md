@@ -29,14 +29,14 @@ average: '50.99'
 ℹ️:
 
 - Tomaia in tessuto con punta rinforzata
+- Peso: 330 g (misura 38 2/3)
+- Suola Traxion
 - Calzata regolare
-- Fodera in tessuto
-- Linguetta rinforzata e tecnologia RAIN.RDY
 - Chiusura con lacci
+- Linguetta rinforzata e tecnologia RAIN.RDY
+- Fodera in tessuto
 - Almeno il 20% del materiale proviene da fonti riciclate e rinnovabili
 - Intersuola in EVA
-- Suola Traxion
-- Peso: 330 g (misura 38 2/3)
 - Drop intersuola: 9 mm (tallone: 26 mm / avampiede: 17 mm)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

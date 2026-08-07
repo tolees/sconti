@@ -28,9 +28,9 @@ average: '9.01'
 
 ℹ️:
 
-- Design traspirante per movimenti fluidi
 - Adatto per: situazioni informali
 - Realizzato con materiali sostenibili
+- Design traspirante per movimenti fluidi
 - Maglietta del marchio JACK & JONES
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

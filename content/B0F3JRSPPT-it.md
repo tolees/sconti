@@ -28,9 +28,9 @@ average: '7.0'
 
 ℹ️:
 
+- Questo prodotto, se utilizzato con i relativi stick, non è privo di rischi e fornisce nicotina, che crea dipendenza
 - Zero combustione, zero cenere e meno odore rispetto alle sigarette tradizionali
 - L’ultima innovazione della gamma gloTM HYPER, per un’esperienza di gusto ancora più intensa.
-- Questo prodotto, se utilizzato con i relativi stick, non è privo di rischi e fornisce nicotina, che crea dipendenza
 - Il prodotto non contiene stick, liquidi, cartucce pre-caricate o ricariche
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

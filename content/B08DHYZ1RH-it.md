@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Casio'
-date: 2026-08-05 06:36:43
+date: 2026-08-07 08:57:10
 image: 'https://m.media-amazon.com/images/I/41yc3hXJdqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B08DHYZ1RH/?tag=tolees00-21'
 descuento: '35.88'
-average: '36.7188888888888'
+average: '36.567'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

@@ -28,9 +28,9 @@ average: '8.64'
 
 ℹ️:
 
+- Adjustable plastic snap closure
 - 5-panel structured snapback design
 - Fabric: Cotton twill fabric
-- Adjustable plastic snap closure
 - Rubber DC patch
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

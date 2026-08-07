@@ -28,11 +28,11 @@ average: '8.99'
 
 ℹ️:
 
-- La miscela di cere di qualità premium produce una meravigliosa fiamma senza residui
-- Note ispirate al pepe rosa e alla lavanda aromatica si uniscono ad accordi che richiamano il fiore della salvia, il patchouli e i legni biondi
-- Mentre brucia, lo stoppino in legno brevettato delle candele Pluswick Innovation scoppietta per ricreare una sofisticata atmosfera che ricorda il camino
-- Ogni fragranza è stata accuratamente selezionata e testata per diffondere un profumo a lunga durata in tutta la stanza
 - La forma a clessidra del vaso crea un’apertura più ampia per lo scioglimento completo della cera, diffondendo in modo costante la fragranza
+- Mentre brucia, lo stoppino in legno brevettato delle candele Pluswick Innovation scoppietta per ricreare una sofisticata atmosfera che ricorda il camino
+- La miscela di cere di qualità premium produce una meravigliosa fiamma senza residui
+- Ogni fragranza è stata accuratamente selezionata e testata per diffondere un profumo a lunga durata in tutta la stanza
+- Note ispirate al pepe rosa e alla lavanda aromatica si uniscono ad accordi che richiamano il fiore della salvia, il patchouli e i legni biondi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08CYD77BX{{</world>}}

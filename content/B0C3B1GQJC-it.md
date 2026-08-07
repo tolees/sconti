@@ -30,9 +30,9 @@ average: '79.9'
 
 - Speed Control: Il controllo del numero di giri a 2 velocità ottimizza rapidamente potenza, rumorosità e autonomia
 - Gli utensili da giardino Universal di Bosch: la soluzione intelligente ed efficace per unampia gamma di lavori nel tuo giardino
-- La potente ventola radiale offre prestazioni di soffiaggio efficienti, per rimuovere rapidamente i residui
-- Dotazione: UniversalLeafBlower 18V-130, 1 batteria da 2,5 Ah, caricabatteria AL 18V-20, confezione in cartone
 - POWER FOR ALL ALLIANCE: 1 BATTERIA, 10+ MARCHI, ​150+ PRODOTTI.​
+- Dotazione: UniversalLeafBlower 18V-130, 1 batteria da 2,5 Ah, caricabatteria AL 18V-20, confezione in cartone
+- La potente ventola radiale offre prestazioni di soffiaggio efficienti, per rimuovere rapidamente i residui
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C3B1GQJC{{</world>}}

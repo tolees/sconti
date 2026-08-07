@@ -28,11 +28,11 @@ average: '2.99'
 
 ℹ️:
 
-- Come gustarlo: Anche nel formato mignon può essere gustato liscio, con ghiaccio o in piccoli cocktail; perfetto anche per degustazioni guidate o per portarlo con sé in occasioni speciali.
 - Jack Daniel’s Old No. 7 in formato mignon da 5 cl è perfetto per assaggi, collezioni, regali o per chi desidera una piccola dose del celebre Tennessee Whiskey senza acquistare una bottiglia intera.
+- Metodo di produzione: Prodotto secondo il metodo tradizionale di Jack Daniel’s, con l’iconico Lincoln County Process, che prevede la filtrazione a carbone dacero prima dell’invecchiamento in botti di rovere americano.
+- Come gustarlo: Anche nel formato mignon può essere gustato liscio, con ghiaccio o in piccoli cocktail; perfetto anche per degustazioni guidate o per portarlo con sé in occasioni speciali.
 - Profilo sensoriale – olfatto: Al naso si presenta con note di vaniglia, caramello, legno tostato e banana matura, tipiche del Jack Daniel’s originale.
 - Profilo sensoriale – gusto: Al palato è morbido, rotondo e ben equilibrato, con sentori di zucchero di canna, spezie leggere, vaniglia e un finale affumicato e persistente.
-- Metodo di produzione: Prodotto secondo il metodo tradizionale di Jack Daniel’s, con l’iconico Lincoln County Process, che prevede la filtrazione a carbone dacero prima dell’invecchiamento in botti di rovere americano.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B007NFVDYC{{</world>}}

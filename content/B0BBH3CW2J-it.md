@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Denim elasticizzato
 - Vestibilità aderente, taglio aderente
-- Chiusura con bottoni
 - Giacca classica da donna in denim della marca. Only
+- Denim elasticizzato
+- Chiusura con bottoni
 - Colletto rovesciato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

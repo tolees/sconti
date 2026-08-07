@@ -28,10 +28,10 @@ average: '7.49'
 
 ℹ️:
 
-- Confezione da 30 caramelle gommose. Conservare in un luogo asciutto a temperatura non superiore a 25° C, nella confezione originale ben chiusa. Non usare se all’apertura del tappo la lamina del flacone risulta danneggiata
 - ENERGIA: Contiene le vitamine B6, B12 e la Niacina che contribuiscono al normale metabolismo energetico e a ridurre stanchezza e affaticamento
-- SALUTE DEI MUSCOLI E DELLE OSSA: La vitamina D contribuisce al mantenimento di ossa e muscoli sani
 - Multicentrum Vitagummy Energia ti offre una formula equilibrata di vitamine, in una caramella gommosa al gusto di frutti rossi
+- SALUTE DEI MUSCOLI E DELLE OSSA: La vitamina D contribuisce al mantenimento di ossa e muscoli sani
+- Confezione da 30 caramelle gommose. Conservare in un luogo asciutto a temperatura non superiore a 25° C, nella confezione originale ben chiusa. Non usare se all’apertura del tappo la lamina del flacone risulta danneggiata
 - BENESSERE GENERALE: Formulato con nutrienti essenziali importanti per il mantenimento dellintero organismo e per aiutare a soddisfare le esigenze nutrizionali
 - SISTEMA IMMUNITARIO: Con vitamina D che contribuisce al normale funzionamento del sistema immunitario
 

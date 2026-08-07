@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- VESTIBILITÀ CLASSICA: queste t-shirt da uomo in cotone sono realizzate per offrire un comfort ottimale su spalle, torace e vita
-- JERSEY DI COTONE LEGGERO: le nostre t-shirt sono realizzate in tessuto jersey morbido e leggero. Le tinte unite sono in cotone al 100% e le eriche sono in misto cotone-poliestere
 - DETTAGLI: bordo del collo a costine, etichetta stampata senza etichetta e cuciture a doppio ago sullorlo
+- JERSEY DI COTONE LEGGERO: le nostre t-shirt sono realizzate in tessuto jersey morbido e leggero. Le tinte unite sono in cotone al 100% e le eriche sono in misto cotone-poliestere
+- VESTIBILITÀ CLASSICA: queste t-shirt da uomo in cotone sono realizzate per offrire un comfort ottimale su spalle, torace e vita
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09TPLGJ28{{</world>}}

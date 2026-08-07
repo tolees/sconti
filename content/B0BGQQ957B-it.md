@@ -28,8 +28,8 @@ average: '37.97'
 
 ℹ️:
 
-- Realizzati con materiali sostenibili
 - Suola morbida per movimenti fluidi
+- Realizzati con materiali sostenibili
 - Sneaker del marchio Under Armour
 - Adatto per: tutte le stagioni
 

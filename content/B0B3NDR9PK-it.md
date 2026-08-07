@@ -30,8 +30,8 @@ average: '11.99'
 
 - Design compatto e ideale per i viaggi
 - Certificazione USB-IF
-- Power Delivery dinamica con tecnologia PPS (alimentazione programmabile) per fornire fino a 25 W per gli smartphone Samsung e fino a 27 W per modelli di iPhone 13 Pro
 - Power Delivery 3.0 per una ricarica potente e sicura
+- Power Delivery dinamica con tecnologia PPS (alimentazione programmabile) per fornire fino a 25 W per gli smartphone Samsung e fino a 27 W per modelli di iPhone 13 Pro
 - Caricabatteria da parete USB-C per ricaricare velocemente un iPhone 13 o un Galaxy S21 Ultra 5G dallo 0 al 50% in 24 minuti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

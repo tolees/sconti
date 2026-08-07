@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Un kit da viaggio per la cura della barba perfetto per chi desidera davvero prendersi cura della propria barba
-- Con fragranze rinfrescanti per deliziare i sensi, con note di sandalo, cedro, bergamotto, semi di cardamomo e mandarino
-- Contiene un King C. Gillette Detergente 3in1 per Barba, Viso e Capelli, un Ammorbidente per Barba King C. Gillette e un Idratante King C. Gillette
 - Perfetto per barba lunga e corta
+- Contiene un King C. Gillette Detergente 3in1 per Barba, Viso e Capelli, un Ammorbidente per Barba King C. Gillette e un Idratante King C. Gillette
+- Con fragranze rinfrescanti per deliziare i sensi, con note di sandalo, cedro, bergamotto, semi di cardamomo e mandarino
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FQ5Q4NDY{{</world>}}

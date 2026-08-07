@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Punta Tonda
 - Chiusura a zip
+- Punta Tonda
 - Senza tacco
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

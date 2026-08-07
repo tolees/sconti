@@ -28,11 +28,11 @@ average: '23.34'
 
 ℹ️:
 
-- Dura fino a 130 ore
-- Paraffina e cere di soia di alta qualità si uniscono per dare vita a una fiamma meravigliosa
-- Gli stoppini in legno Pluswick Innovation che ricreano il crepitio del fuoco offrono unatmosfera accogliente
 - Questa nota collezione offre combinazioni di fragranze che creano unesperienza unica nata dalla fusione di più aromi.
 - Questa candela Trilogy dispone di tre strati con le fragranze più apprezzate: Uva passa, Mora speziata e Amarena
+- Gli stoppini in legno Pluswick Innovation che ricreano il crepitio del fuoco offrono unatmosfera accogliente
+- Paraffina e cere di soia di alta qualità si uniscono per dare vita a una fiamma meravigliosa
+- Dura fino a 130 ore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07CP4N5HF{{</world>}}

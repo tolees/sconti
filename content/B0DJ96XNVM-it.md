@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Marca dellintersuola in pezzo gioiello
 - Ammortizzazione: bassa
+- Marca dellintersuola in pezzo gioiello
 - Gabbia in TPU
 - Pronazione: neutra
 

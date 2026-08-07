@@ -28,11 +28,11 @@ average: '53.09'
 
 ℹ️:
 
-- Tasche: tasca interna porta tablet, scomparto interno porta laptop fino a 15. 6” con accesso diretto tramite zip sullo schienale, tasche laterali porta borraccia. . Altre caratteristiche: fondo rinforzato, nastri laterali per la regolazione del volume, inserto frontale riflettente, cinghia a vita con nastro regolabile, chiusura arrotolabile
-- Schienale: imbottito e rivestito in tessuto. Spallacci: extralarge imbottito per il massimo comfort e rivestito in tessuto. Sotto spallaccio in rete
-- Tessuto: 100% poliestere riciclato, certificato "grs"
-- Pensato per andare in ufficio o all’università e in città, lo zaino invict-act fold, dotato di chiusura arrotolabile, cinghia a vita regolabile e fondo rinforzato, è comodo e compatto. Ha 23 litri di capacità e grazie ai nastri sui fianchi si può facilmente regolare il volume interno e compattarne il contenuto. Ha tasche interne dedicate a tablet e pc e in il tessuto è ottenuto dal riciclo di 35 bottiglie in pet da 500 ml mantenendo gli standard qualitativi dei nostri materiali
 - Dimensioni: 31 x 46 x 16 cm. Capacita: 23 litri
+- Pensato per andare in ufficio o all’università e in città, lo zaino invict-act fold, dotato di chiusura arrotolabile, cinghia a vita regolabile e fondo rinforzato, è comodo e compatto. Ha 23 litri di capacità e grazie ai nastri sui fianchi si può facilmente regolare il volume interno e compattarne il contenuto. Ha tasche interne dedicate a tablet e pc e in il tessuto è ottenuto dal riciclo di 35 bottiglie in pet da 500 ml mantenendo gli standard qualitativi dei nostri materiali
+- Tessuto: 100% poliestere riciclato, certificato "grs"
+- Schienale: imbottito e rivestito in tessuto. Spallacci: extralarge imbottito per il massimo comfort e rivestito in tessuto. Sotto spallaccio in rete
+- Tasche: tasca interna porta tablet, scomparto interno porta laptop fino a 15. 6” con accesso diretto tramite zip sullo schienale, tasche laterali porta borraccia. . Altre caratteristiche: fondo rinforzato, nastri laterali per la regolazione del volume, inserto frontale riflettente, cinghia a vita con nastro regolabile, chiusura arrotolabile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B1JQGGZ1{{</world>}}

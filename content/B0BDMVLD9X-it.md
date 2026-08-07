@@ -28,11 +28,11 @@ average: '12.99'
 
 ℹ️:
 
-- Realizzato con il 35% di materiali di origine naturale: Top: 56% di amido di mais, Fisarmonica: 52% olio di colza, Connettore: 70% semi di ricino
-- Si attacca agli iPhone 11 e 12; non adatto ad iPhone 11/12 Pro o iPhone 11/12 Pro Max privi di una custodia adeguata. Potrebbe non attaccarsi a custodie in silicone o impermeabili
-- Compatibile con tutti i prodotti PopMount, per guardare video senza usare le mani
 - Per rimuovere il top: chiudere limpugnatura, premere e ruotare di 90 gradi
+- Si attacca agli iPhone 11 e 12; non adatto ad iPhone 11/12 Pro o iPhone 11/12 Pro Max privi di una custodia adeguata. Potrebbe non attaccarsi a custodie in silicone o impermeabili
 - Realizzato con materiali di origine vegetale, questo modello è un altro piccolo passo nel nostro cammino verso prodotti più ecologici e sostenibili.
+- Realizzato con il 35% di materiali di origine naturale: Top: 56% di amido di mais, Fisarmonica: 52% olio di colza, Connettore: 70% semi di ricino
+- Compatibile con tutti i prodotti PopMount, per guardare video senza usare le mani
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BDMVLD9X{{</world>}}

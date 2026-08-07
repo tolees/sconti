@@ -28,11 +28,11 @@ average: '79.6'
 
 ℹ️:
 
+- Supporto hot swap MX a 5 pin: collega e gioca con la nostra vasta gamma di stili di switch MX Glorious per scegliere la sensazione e i suoni che la tua GMMK 3 ti offrirà mentre digiti, senza nessuna saldatura.
+- Layout della tastiera: QWERTY americano. Il layout può essere diverso dalle immagini del prodotto.
 - Sistema di guarnizione modulare (MGS): personalizza facilmente le guarnizioni interne della GMMK 3 con un semplice design ispirato ai mattoni per offrirti una sensazione più ferma o più flessibile durante la digitazione.
 - Scocca interamente in alluminio: la scocca superiore e inferiore con lavorazione CNC offre un peso e unestetica premium e presenta unelegante rifinitura anodizzata per una maggiore durabilità.
 - 9 punti di modularità: un design altamente modulare che facilita la sostituzione delle parti della GMMK 3, adattando il look, i suoni e le sensazioni che offre esattamente in base alle tue preferenze.
-- Layout della tastiera: QWERTY americano. Il layout può essere diverso dalle immagini del prodotto.
-- Supporto hot swap MX a 5 pin: collega e gioca con la nostra vasta gamma di stili di switch MX Glorious per scegliere la sensazione e i suoni che la tua GMMK 3 ti offrirà mentre digiti, senza nessuna saldatura.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DFWVT9HF{{</world>}}

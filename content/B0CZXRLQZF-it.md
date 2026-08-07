@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Primo Tessuto: 55% Cotone / 36% Poliestere(100% Riciclato) / 9% Viscosa / Parte In Costina: 95% Cotone / 5% Elastan
-- Vita media
 - Vestibilità regolare
+- Primo Tessuto: 55% Cotone / 36% Poliestere(100% Riciclato) / 9% Viscosa / Parte In Costina: 95% Cotone / 5% Elastan
 - Girovita elasticizzato con cordino
+- Vita media
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZXRLQZF{{</world>}}

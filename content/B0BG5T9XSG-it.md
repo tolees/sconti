@@ -28,10 +28,10 @@ average: '28.71'
 
 ℹ️:
 
+- Dispositivo su 2 moduli in grado di ricaricare contemporaneamente 2 dispositivi, grazie alla presa universale e alla presa USB di tipo C a 3A
 - Serie modulare per installazioni da incasso e da parete
 - Sicurezza: Protezione Bimbi Sicuri. Prese sicure con otturatore che impedisce contatti accidentali con le parti in tensione grazie al dispositivo Sicury
 - Serie Arké: design contemporaneo ed elegante che unisce forme essenziali e moderne, perfette per valorizzare ogni ambiente domestico o professionale
-- Dispositivo su 2 moduli in grado di ricaricare contemporaneamente 2 dispositivi, grazie alla presa universale e alla presa USB di tipo C a 3A
 - Vimar 19210.USB.B Arké presa 2 moduli SICURY 2P+T 16 A 250 V universale standard italiano P40 euscita USB tipo C 5V e 3 A per la ricarica rapida, bianco
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

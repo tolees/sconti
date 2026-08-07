@@ -28,8 +28,8 @@ average: '7.39'
 
 ℹ️:
 
-- Usb 3.1, retrocompatibile con usb 3.0 e usb 2.0
 - Prodotto affidabile
+- Usb 3.1, retrocompatibile con usb 3.0 e usb 2.0
 - Compatibile con laptop e computer desktop pc e mac
 - Fino a 10 volte più veloce rispetto alle unità flash usb 2.0 standard
 

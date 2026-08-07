@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- MicroSD progettata specificamente per le telecamere (dash cam, action cam, telecamere di sorveglianza e sicurezza, CCTV, body cam, ecc.)
-- Costruita per durare: impermeabile, resistente alle cadute, alle temperature estreme, ai raggi X, ai campi magnetici e all’usura
-- Fino a 140.160² ore di registrazione e riproduzione in 4K e Full HD (1080p).
 - Velocità⁴ di lettura fino a 100 MB/s e velocità di scrittura di 40 MB/s, con classe 10 e standard U3
+- MicroSD progettata specificamente per le telecamere (dash cam, action cam, telecamere di sorveglianza e sicurezza, CCTV, body cam, ecc.)
+- Fino a 140.160² ore di registrazione e riproduzione in 4K e Full HD (1080p).
+- Costruita per durare: impermeabile, resistente alle cadute, alle temperature estreme, ai raggi X, ai campi magnetici e all’usura
 - Fino a 256 GB di spazio di archiviazione
 - Protegge i dati con una garanzia limitata fino a 5 anni³
 

@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Crema multiuso anti-irritazioni
-- PER TUTTI I TIPI DI IRRITAZIONE :Per pre-post rasatura/depilazione, screpolature, scottature solari, punture dinsetto e meduse, piedi affaticati, arrossamenti e come trattamento rinfrescante.
-- RICCA DI OLI ESSENZIALI: Menta, timo, garofano, eucalipto
-- CREMA DERMOPROTETTIVA: La sua exture inconfondibile, linimitabile fragranza e la sua efficacia contro ogni tipo di irritazione, la rendono un prodotto unico e inimitabile
 - PREP: Dal 1860 Prep è lo specialista della pelle, una soluzione per ogni tipo di esigenza e irritazione
 - PER TUTTI I TIPI DI PELLE: Lenisce, rinfresca e dona sollievo immediato alla pelle. Evita lutilizzo su cute lesa
+- CREMA DERMOPROTETTIVA: La sua exture inconfondibile, linimitabile fragranza e la sua efficacia contro ogni tipo di irritazione, la rendono un prodotto unico e inimitabile
+- RICCA DI OLI ESSENZIALI: Menta, timo, garofano, eucalipto
+- Crema multiuso anti-irritazioni
+- PER TUTTI I TIPI DI IRRITAZIONE :Per pre-post rasatura/depilazione, screpolature, scottature solari, punture dinsetto e meduse, piedi affaticati, arrossamenti e come trattamento rinfrescante.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CNRQTRSR{{</world>}}

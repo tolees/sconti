@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Stessa ricetta di 7 botaniche dal 1793: ginepro, coriandolo, cardamomo, scorza darancia dolce, angelica, orris root e liquirizia — in versione Navy Strength con carattere più concentrato.
-- 57% Vol per la Royal Navy: la gradazione storica che permetteva alla polvere da sparo di accendersi anche se bagnata di gin — lantico test di purezza della Marina britannica, ancora valido come standard oggi.
 - Curiosità: la Royal Navy britannica fu uno dei principali clienti della distilleria di Plymouth dal XVII secolo — i marinai ricevevano una razione giornaliera di gin a bordo, e Plymouth era il porto da cui partivano le flotte verso lAtlantico.
+- 57% Vol per la Royal Navy: la gradazione storica che permetteva alla polvere da sparo di accendersi anche se bagnata di gin — lantico test di purezza della Marina britannica, ancora valido come standard oggi.
 - Il gin per i cocktail che richiedono potenza: Martini secco ultra-concentrato, Gimlet Navy, Last Word. Eccellente per chi vuole sentire il gin nel cocktail senza compromessi.
 - Cristallino; naso di ginepro intenso, spezie concentrate e agrumi potenti; palato potente e bilanciato a 57% Vol; finale lungo, speziato e caldo.
 

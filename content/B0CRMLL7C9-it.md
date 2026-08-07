@@ -28,11 +28,11 @@ average: '39.99'
 
 ℹ️:
 
+- DIMENSIONI: lo zaino HyperX Knight misura 27,9 x 12,7 x 48,2 cm (L x P x A), adatto quindi per PC fino a 6 pollici; il suo peso è di 900 grammi
+- TASCHE: i molteplici vani, sia interni che esterni, consentono di organizzare tutto ciò di cui hai bisogno, dai documenti, alla borraccia, agli accessori tecnologici, in un unico e pratico zaino
+- MATERIALE: è realizzato parzialmente con poliestere proveniente da plastica riciclata post-consumo; resistente allusura e allintemperie, è lideale per trasportare i tuoi dispositivi in completa tranquillità
 - COMPATIBILITA: lo zaino modulare è adatto per i Notebook portatili fino a 16 pollici, e le sue ampie tasche permettono di portare tutti gli accessori necessari per lutilizzo del PC
 - FUNZIONALITA: modificalo e portalo con te come meglio prefrisci, grazie anche alla tracolla removibile; è anche facilmente attaccabile a un trolley, per viaggi in tutta comodità
-- DIMENSIONI: lo zaino HyperX Knight misura 27,9 x 12,7 x 48,2 cm (L x P x A), adatto quindi per PC fino a 6 pollici; il suo peso è di 900 grammi
-- MATERIALE: è realizzato parzialmente con poliestere proveniente da plastica riciclata post-consumo; resistente allusura e allintemperie, è lideale per trasportare i tuoi dispositivi in completa tranquillità
-- TASCHE: i molteplici vani, sia interni che esterni, consentono di organizzare tutto ciò di cui hai bisogno, dai documenti, alla borraccia, agli accessori tecnologici, in un unico e pratico zaino
 - DESIGN: lo zaino Knight è caratterizzato dalla classica colorazione HyperX, dalle cerniere personalizzate e da un esclusivo rivestimento interno, che lo rende un accessorio stiloso da portare sempre con te
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

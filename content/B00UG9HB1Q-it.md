@@ -28,11 +28,11 @@ average: '54.39'
 
 ℹ️:
 
-- La cassaforte è dotata di fori di montaggio e di quattro bulloni a espansione per il montaggio a parete, a pavimento o su uno scaffale.
-- Cassaforte da 14 L di spazio con serratura elettronica e 3 indicatori luminosi di funzionamento; alimentata da (4) batterie AA (non incluse)
-- Robusta struttura in acciaio con piano in moquette per proteggere gli oggetti da graffi e danni; cerniere a scomparsa antiscasso; ripiano interno regolabile/rimovibile.
 - Lesterno misura 35 cm x 24,9 cm x 24,9 cm (LxPxA); 34,5 cm x 18,3 cm x 24,6 cm (LxPxA); lo spessore della porta è di circa 5 cm; il peso del prodotto è di 8.3 kg
 - Include 2 chiavi di emergenza in caso di smarrimento del codice di accesso o di batterie scariche; conservare le chiavi in un luogo sicuro e ben nascosto.
+- Cassaforte da 14 L di spazio con serratura elettronica e 3 indicatori luminosi di funzionamento; alimentata da (4) batterie AA (non incluse)
+- Robusta struttura in acciaio con piano in moquette per proteggere gli oggetti da graffi e danni; cerniere a scomparsa antiscasso; ripiano interno regolabile/rimovibile.
+- La cassaforte è dotata di fori di montaggio e di quattro bulloni a espansione per il montaggio a parete, a pavimento o su uno scaffale.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00UG9HB1Q{{</world>}}

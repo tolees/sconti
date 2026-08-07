@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- CONFEZIONE: Questo articolo contiene 1 confezione da 10 pacchetti di fazzoletti
-- SENZA PROFUMAZIONE: Sono fazzoletti privi di profumazione e dermatologicamente testati, disponibili anche nel formato in scatola
 - MASSIMA PROTEZIONE: I fazzoletti Scottex Balsam sono pensati per aiutarti a proteggere il naso dagli arrossamenti, specialmente nei periodi dei raffreddori e dellinfluenza; rilasciano un delicato velo di balsamo protettivo sulla tua pelle
+- SENZA PROFUMAZIONE: Sono fazzoletti privi di profumazione e dermatologicamente testati, disponibili anche nel formato in scatola
+- CONFEZIONE: Questo articolo contiene 1 confezione da 10 pacchetti di fazzoletti
 - TRIPLA AZIONE: I fazzoletti Scottex Balsam sono i fazzoletti ottimo in caso di raffreddore, grazie alla tripla azione di aloe vera, calendula e vitamina E, offrono sollievo anche ai nasi piu raffreddati
 - PRODOTTI CON CARTA FSC: I fazzoletti Scottex Balsam sono prodotti in Italia con carta certificata FSC che proviene da fonti gestite in maniera responsabile; questa e solo una piccola parte dellimpegno di Scottex nel ridurre il proprio impatto ambientale
 

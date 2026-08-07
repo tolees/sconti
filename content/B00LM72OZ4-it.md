@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - INGREDIENTE PRINCIPALE: LAloe Vera del Salento viene lavorata a freddo entro 2 ore dalla raccolta per ridurne l’ossidazione e preservarne intatti tutti i principi attivi idratanti
-- FORMULA: La nuova formula della Maschera Capelli Ecobio con Aloe Vera del Salento è specificatamente studiata per capelli normali e dermatologicamente testata
 - AZIONE: Maschera a risciacquo con Aloe Vera del Salento con azione riparatrice intensiva che idrata, rinforza e ristruttura i capelli fino alle punte, senza appesantirli
-- MODO DUSO: Applica una piccola quantità sui capelli bagnati dopo lo shampoo, lascia agire qualche minuto e risciacqua. Usala con il Fisio Shampoo Aloe Vera del Salento per un rituale completo
 - RISULTATI: Adatto al lavaggio frequente di capelli normali, dopo luso i capelli saranno idratati, rinforzati e ristrutturati, grazie al suo potere idratante e riparatore
+- FORMULA: La nuova formula della Maschera Capelli Ecobio con Aloe Vera del Salento è specificatamente studiata per capelli normali e dermatologicamente testata
+- MODO DUSO: Applica una piccola quantità sui capelli bagnati dopo lo shampoo, lascia agire qualche minuto e risciacqua. Usala con il Fisio Shampoo Aloe Vera del Salento per un rituale completo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00LM72OZ4{{</world>}}

@@ -28,9 +28,9 @@ average: '70.0'
 
 ℹ️:
 
-- Lacci
 - Completamente foderato
 - Imballaggio: Scatola
+- Lacci
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CST5TDTG{{</world>}}

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Comando a un pulsante
 - Microfono
 - Auricolari
+- Comando a un pulsante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01MCZA1N6{{</world>}}

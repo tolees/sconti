@@ -28,9 +28,9 @@ average: '18.46'
 
 ℹ️:
 
-- Arricchito con Life Plankton e niacinamide, presenta una texture ricca che lascia la pelle idratata senza seccarla.
-- Il detergente viso Cera Repair è delicato sulla pelle e rafforza la barriera cutanea, adatto anche alla pelle sensibile
 - Applicare su viso e collo detersi con piccoli movimenti circolari, evitando il contorno occhi. Risciacquare.
+- Il detergente viso Cera Repair è delicato sulla pelle e rafforza la barriera cutanea, adatto anche alla pelle sensibile
+- Arricchito con Life Plankton e niacinamide, presenta una texture ricca che lascia la pelle idratata senza seccarla.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BP8GX7QV{{</world>}}

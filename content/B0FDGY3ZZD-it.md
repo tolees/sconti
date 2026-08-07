@@ -28,8 +28,8 @@ average: '69.0'
 
 ℹ️:
 
-- Chiusura con cinturino; due manici; tracolla rimovibile; due scomparti principali; tasca interna con zip
 - Finitura zigrinata
+- Chiusura con cinturino; due manici; tracolla rimovibile; due scomparti principali; tasca interna con zip
 - Placchetta con monogramma TH sul davanti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

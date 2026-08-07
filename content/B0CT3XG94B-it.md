@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Composizione materiale: 100% cotone
-- Camicia
 - Vestibilità aderente
+- Camicia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CT3XG94B{{</world>}}

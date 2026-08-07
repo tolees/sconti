@@ -28,11 +28,11 @@ average: '5.99'
 
 ℹ️:
 
-- Bagnodoccia doposole SOL Girasole di Bottega Verde: detergente delicato corpo ideale dopo l’esposizione al sole, deterge senza lavare via l’abbronzatura e lascia la pelle fresca morbida e piacevolmente profumata
-- Formulazione: con iperfermentato di Girasole di Tenuta Bottega Verde dalle proprietà antiossidanti, formula vegana con azione rinfrescante che deterge delicatamente rispettando la pelle dopo sole mare o piscina
 - Linea SOL Girasole di Bottega Verde: gamma di prodotti solari per viso e corpo che coniuga protezione e trattamento, aiutando a difendere la pelle dai raggi solari e dagli effetti dei raggi infrarossi, con texture leggere e confortevoli
-- Modo d’uso: utilizzare sotto la doccia dopo l’esposizione al sole massaggiando sulla pelle bagnata e risciacquare abbondantemente, dopo la detersione applicare un prodotto doposole per mantenere la pelle idratata
+- Bagnodoccia doposole SOL Girasole di Bottega Verde: detergente delicato corpo ideale dopo l’esposizione al sole, deterge senza lavare via l’abbronzatura e lascia la pelle fresca morbida e piacevolmente profumata
 - Formato: 1 bagnodoccia doposole SOL Girasole da 200 ml
+- Formulazione: con iperfermentato di Girasole di Tenuta Bottega Verde dalle proprietà antiossidanti, formula vegana con azione rinfrescante che deterge delicatamente rispettando la pelle dopo sole mare o piscina
+- Modo d’uso: utilizzare sotto la doccia dopo l’esposizione al sole massaggiando sulla pelle bagnata e risciacquare abbondantemente, dopo la detersione applicare un prodotto doposole per mantenere la pelle idratata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GVGD217Y{{</world>}}

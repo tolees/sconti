@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Cappuccio a scomparsa
+- Tessuto riciclato
 - Due tasche per le mani
 - Isolamento sintetico leggero
 - Giacca per abbigliamento trans-stagionale
-- Cappuccio a scomparsa
-- Tessuto riciclato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C1K8BF8W{{</world>}}

@@ -28,11 +28,11 @@ average: '39.99'
 
 ℹ️:
 
-- REPLAY è da 40 anni uno dei principali marchi italiani di denim e lifestyle per uomo e donna. Il marchio è sinonimo di innovazione, autenticità e si concentra maggiormente sulla sostenibilità.
 - REPLAY Felpe e felpe con cappuccio: i top casual irradiano carattere e offrono una vasta gamma di top freschi e confortevoli, dalle stampe minimaliste a iconiche.
 - Misto cotone: il materiale non è solo morbido ed elastico sulla pelle, ma anche traspirante e assorbente.
 - Con cappuccio: lelegante felpa con cappuccio ha un cappuccio per un comfort ottimale.
 - Istruzioni per il lavaggio: si consiglia di lavare la felpa con un ciclo delicato a 30 °C.
+- REPLAY è da 40 anni uno dei principali marchi italiani di denim e lifestyle per uomo e donna. Il marchio è sinonimo di innovazione, autenticità e si concentra maggiormente sulla sostenibilità.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CX5CV9K3{{</world>}}

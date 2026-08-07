@@ -28,11 +28,11 @@ average: '59.9'
 
 ℹ️:
 
-- Visione notturna a colori, la luce bianca si attiva in corrispondenza di un movimento migliorando la visione con chiare immagini e fungendo anche da deterrente per le intrusioni, funzione configurabile
 - Connessione 4G LTE: la telecamera con copertura 4G LTE può essere utilizzata ovunque. Ideale per luoghi all’aperto non collegati alla rete elettrica o senza Wi-Fi. (SIM card non inclusa)
+- Visione notturna a colori, la luce bianca si attiva in corrispondenza di un movimento migliorando la visione con chiare immagini e fungendo anche da deterrente per le intrusioni, funzione configurabile
 - Sostenibile: ricarica ad energia solare grazie alla batteria ricaricabile ed il pannello in dotazione
-- Installazione autonoma e versatile e configurazione da app View Product. Installazione da interno ed esterno Grado di protezione IP65 contro la polvere e i getti d’acqua.
 - Supporta SD card fi no a 128 GB (non inclusa) Registrazione dei fi lmati protetta da criptazione e archiviazione registrazioni impostabile
+- Installazione autonoma e versatile e configurazione da app View Product. Installazione da interno ed esterno Grado di protezione IP65 contro la polvere e i getti d’acqua.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D7HRQKKZ{{</world>}}

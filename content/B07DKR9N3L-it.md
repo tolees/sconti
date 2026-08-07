@@ -28,10 +28,10 @@ average: '6.85'
 
 ℹ️:
 
+- ERBA VITA: Dal 1982, siamo specializzati nella produzione di integratori alimentari a base vegetale La tradizione fitoterapica, il rigore del metodo scientifico e le più avanzate tecnologie si fondono in un perfetto equilibrio
+- FORMATO: confezione da 60 capsule facilmente ingeribili
 - BENEFICI: favorisce le funzioni epatiche, digestive e depurative contribuisce alleliminaizone dei gas intestinali e al metabolismo dei lipidi
 - COME USARLO: Si consiglia di assumere 2 capsule al giorno, al momento dei pasti, con acqua
-- FORMATO: confezione da 60 capsule facilmente ingeribili
-- ERBA VITA: Dal 1982, siamo specializzati nella produzione di integratori alimentari a base vegetale La tradizione fitoterapica, il rigore del metodo scientifico e le più avanzate tecnologie si fondono in un perfetto equilibrio
 - CAPSULE MONOPLANTA: Le capsule Monoplanta di Erba Vita sono una linea di integratori alimentari in capsule di origine vegetale, che garantiscono l’apporto costante dei principi attivi e una qualità inalterata nel tempo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

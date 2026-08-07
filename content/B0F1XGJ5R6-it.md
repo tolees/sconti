@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tomaia in materiale sintetico
+- Suola in gomma
 - Lacci
 - Vestibilità regolare
-- Suola in gomma
+- Tomaia in materiale sintetico
 - Soletta in tessuto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Gilet trapuntato da uomo della marca danese Jack & Jones
 - Realizzato con poliestere riciclato
+- Composizione materiale: strato esterno: 100% poliestere; imbottitura: 100% poliestere; fodera: 100% poliestere
 - Senza maniche
 - Vestibilità regolare
-- Composizione materiale: strato esterno: 100% poliestere; imbottitura: 100% poliestere; fodera: 100% poliestere
+- Gilet trapuntato da uomo della marca danese Jack & Jones
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CLDRR4FB{{</world>}}

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- IL POTERE DEL GIOCO – Con collezioni audaci e innovative, Janod accompagna i bambini nellavventura più bella: crescere! Magnifici giocattoli curati nei minimi dettagli per imparare in modo divertente, esplorare il mondo, sognare e condividere.
-- FACILITA LAPPRENDIMENTO – Un triceratopo su ruote per sviluppare la coordinazione oculo-manale, pezzi da incastrare per riconoscere le forme, una campanella per stimolare ludito e altre attività di manipolazione per imparare divertendosi.
-- TEMA DINOSAURI – Lo pteranodonte in volo sopra il vulcano in eruzione e il cucciolo di dinosauro che esce dal suo uovo trasporteranno il bambino nelluniverso dei dinosauri e favoriranno i primi apprendimenti stimolando la curiosità e limmaginazione.
 - ADATTO AI PIÙ PICCOLI – Il piano alto 32 cm permette ai bambini di accedere facilmente a tutti i giochi di questo tavolo multiattività in legno FSC. Gioco Janod adatto ai bambini di 1-3 anni. Vernice a base dacqua. Dimensioni: 40 x 32 x 52,5 cm.
+- FACILITA LAPPRENDIMENTO – Un triceratopo su ruote per sviluppare la coordinazione oculo-manale, pezzi da incastrare per riconoscere le forme, una campanella per stimolare ludito e altre attività di manipolazione per imparare divertendosi.
+- IL POTERE DEL GIOCO – Con collezioni audaci e innovative, Janod accompagna i bambini nellavventura più bella: crescere! Magnifici giocattoli curati nei minimi dettagli per imparare in modo divertente, esplorare il mondo, sognare e condividere.
+- TEMA DINOSAURI – Lo pteranodonte in volo sopra il vulcano in eruzione e il cucciolo di dinosauro che esce dal suo uovo trasporteranno il bambino nelluniverso dei dinosauri e favoriranno i primi apprendimenti stimolando la curiosità e limmaginazione.
 - TAVOLO MULTISENSORIALE COMPLETO – 1 dinosauro su ruote, 1 vulcano con perle e campanella, 3 pezzi di palma da impilare, 2 blocchi da incastrare, 1 uovo girevole, 1 sistema di 3 ingranaggi, 1 specchio girevole e 1 uovo clic-clac per ore di risate.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

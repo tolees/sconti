@@ -28,8 +28,8 @@ average: '25.09'
 
 ℹ️:
 
-- Profumi-Donna
 - i migliori profumi per la tua bellezza
+- Profumi-Donna
 - Dimensioni prodotto imballato: 8 x 10 x 15 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

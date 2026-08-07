@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Può contenere tracce di latte, pesce e uovo
-- Contiene 2 lattine da 180g
-- Conservare in luogo fresco e asciutto, lontano da fonti di calore e dalla luce diretta del sole
-- Senza conservanti e glutine
 - Carne 100% italiana
+- Contiene 2 lattine da 180g
+- Può contenere tracce di latte, pesce e uovo
+- Senza conservanti e glutine
+- Conservare in luogo fresco e asciutto, lontano da fonti di calore e dalla luce diretta del sole
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00XURCI6E{{</world>}}

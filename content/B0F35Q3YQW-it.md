@@ -28,8 +28,8 @@ average: '78.0'
 
 ℹ️:
 
-- Punta traforata
 - Brand "New Balance" sul collare del tallone
+- Punta traforata
 - Etichetta tessuta sulla linguetta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

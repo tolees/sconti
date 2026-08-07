@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Temperatura regolabile (40 – 100oC) Sistema di sicurezza anti-surriscaldamento Resistenza nascosta
-- Spegnimento automatico Base con rotazione 360° e avvolgicavo
-- Potenza: 1850-2200 W Dimensioni (L x H x P): 21 x 25.5 x 14.5 cm
 - Capacità 1.7 Lt Contenitore in vetro e corpo anti-scottatura Super display touch screen Indicatore temperatura acqua
+- Potenza: 1850-2200 W Dimensioni (L x H x P): 21 x 25.5 x 14.5 cm
+- Spegnimento automatico Base con rotazione 360° e avvolgicavo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0G7GSR62C{{</world>}}

@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - [Blocco chiamate fastidiose] - Evita chiamate fastidiose e indesiderate. La funzione di blocco chiamate di VTech ti consente di bloccare chiamate fastidiose e chiamate da numeri sconosciuti. Puoi bloccare fino a 60 numeri inserendoli nella black list.
-- [Funzioni aggiuntive] - Rubrica telefonica fino a 60 nomi e numeri, Registro chiamate con 20 nomi e numeri con identificativo chiamante, Registro delle ultime 10 chiamate effettuate, altoparlante vivavoce, volume della suoneria e melodie regolabili, funzione allarme, funzione mute, Modalità ECO, fino a 13 ore di conversazione / 200 ore di standby.
-- [Display con retroilluminati] - Lintero display LCD si illumina per consentire la composizione dei numeri e la lettura dei valori esatti anche in condizioni di scarsa illuminazione.
 - [Design di doppia ricarica del portatile] - Il design innovativo con doppia ricarica consente agli utenti di caricare il portatile con il display a faccia in giù o a faccia in sù. Lutente può scegliere tra una facile visualizzazione del display, con la faccia rivolta verso lalto, oppure se mantenere un design elegante e compatto, con display rivolto verso il basso.
+- [Display con retroilluminati] - Lintero display LCD si illumina per consentire la composizione dei numeri e la lettura dei valori esatti anche in condizioni di scarsa illuminazione.
+- [Funzioni aggiuntive] - Rubrica telefonica fino a 60 nomi e numeri, Registro chiamate con 20 nomi e numeri con identificativo chiamante, Registro delle ultime 10 chiamate effettuate, altoparlante vivavoce, volume della suoneria e melodie regolabili, funzione allarme, funzione mute, Modalità ECO, fino a 13 ore di conversazione / 200 ore di standby.
 - [Conferenza a 3 vie] - Il trasferimento di chiamata dal ricevitore e linterfono consentono a più utenti di partecipare contemporaneamente alla conversazione.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

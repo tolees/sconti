@@ -28,12 +28,12 @@ average: '39.2'
 
 ℹ️:
 
-- Bastone da trekking e da escursionismo robusto e leggero in alluminio.
 - Regolabile in altezza con imbragatura in tessuto
-- ---
-- Realizzato in alluminio ad alta resistenza
+- Bastone da trekking e da escursionismo robusto e leggero in alluminio.
 - Maniglia con chiusura a scatto e schiuma
+- ---
 - Pieghevole telescopicamente con disco sostituibile e punta in carburo
+- Realizzato in alluminio ad alta resistenza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BLP125LL{{</world>}}

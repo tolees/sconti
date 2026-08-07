@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Oltre che dalla macchinetta, lacqua calda può essere erogata da qualsiasi supporto (es; Bollitore, Micronde, ecc.)
 - FORMATO: 80 stick - 8 astucci x 10 Stick
+- Oltre che dalla macchinetta, lacqua calda può essere erogata da qualsiasi supporto (es; Bollitore, Micronde, ecc.)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BJ2YCRKG{{</world>}}

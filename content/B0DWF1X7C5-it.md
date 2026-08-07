@@ -28,12 +28,12 @@ average: '20.515'
 
 ℹ️:
 
+- Veicoli iconici per il gioco e l’esposizione: i set costruibili LEGO Speed Champions consentono ai piccoli e agli appassionati di auto di costruire repliche di alcuni dei mezzi di maggior successo nel mondo
+- 1 minifigure: questo playset con veicolo giocattolo include una minifigure LEGO del pilota con tuta Dodge, che i piccoli possono posizionare al volante per giocare alle corse
+- Macchina giocattolo per bambini: i fan delle auto sportive possono costruire e gareggiare con il veicolo LEGO Speed Champions Sports Car Dodge Challenger SRT Hellcat, un gioco per bambini e bambine da 9 anni in su
+- Modellino di auto LEGO Dodge: il set riproduce i dettagli della reale muscle car ad alte prestazioni, come il lungo cofano con presa d’aria, la griglia anteriore e i doppi tubi di scappamento
 - Regalo per gli amanti delle auto: questo modello di muscle car offre una divertente esperienza di costruzione, ed è un’idea regalo di compleanno per i bambini e le bambine che amano le auto da corsa e i set LEGO da collezione
 - Auto giocattolo da esposizione Dodge Hellcat: al termine delle gare, la replica in mattoncini della macchina LEGO può essere esposta su uno scaffale o sulla scrivania
-- 1 minifigure: questo playset con veicolo giocattolo include una minifigure LEGO del pilota con tuta Dodge, che i piccoli possono posizionare al volante per giocare alle corse
-- Veicoli iconici per il gioco e l’esposizione: i set costruibili LEGO Speed Champions consentono ai piccoli e agli appassionati di auto di costruire repliche di alcuni dei mezzi di maggior successo nel mondo
-- Modellino di auto LEGO Dodge: il set riproduce i dettagli della reale muscle car ad alte prestazioni, come il lungo cofano con presa d’aria, la griglia anteriore e i doppi tubi di scappamento
-- Macchina giocattolo per bambini: i fan delle auto sportive possono costruire e gareggiare con il veicolo LEGO Speed Champions Sports Car Dodge Challenger SRT Hellcat, un gioco per bambini e bambine da 9 anni in su
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DWF1X7C5{{</world>}}

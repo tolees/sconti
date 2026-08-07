@@ -28,12 +28,12 @@ average: '1229.0'
 
 ℹ️:
 
-- CONNETTIVITÀ – Wi-Fi 7 tri-band, due Thunderbolt 4, HDMI 2.1 e USB 3.2 per connessioni ultra veloci e versatili. Webcam FHD IR con supporto Windows Hello e privacy shutter integrato.
 - MEMORIA E STORAGE - 32GB di memoria LPDDR5X saldata e SSD PCIe 4.0 da 1TB, per gestire multitasking avanzato, editing e archiviazione senza compromessi.
 - DISPLAY - Schermo OLED touchscreen da 14" con risoluzione 3K (2880x1800), refresh rate a 120Hz e contrasto 1.000.000:1. Certificazioni TÜV e HDR True Black 500 per protezione occhi e colori profondi.
-- ASUS TI REGALA IL TERZO ANNO DI GARANZIA: Progettati per la massima durata, ora con garanzia prolungata. Dal 1° ottobre 2025 i Notebook ASUS e ROG acquistati in Italia beneficiano di 3 anni di garanzia. Condizioni, paesi e modelli aderenti sul sito ufficiale ASUS.
-- PRESTAZIONI – Processore Intel Core Ultra 9 con Intel AI Boost NPU, 16 core e fino a 5.4GHz di potenza, accompagnato da grafica integrata Intel Arc per efficienza e fluidità anche in ambito creativo.
 - UTILIZZO – Costruzione in alluminio resistente con standard MIL-STD 810H, peso contenuto di 1.28kg e batteria da 75Wh: ideale per professionisti, creativi e studenti sempre in movimento.
+- PRESTAZIONI – Processore Intel Core Ultra 9 con Intel AI Boost NPU, 16 core e fino a 5.4GHz di potenza, accompagnato da grafica integrata Intel Arc per efficienza e fluidità anche in ambito creativo.
+- ASUS TI REGALA IL TERZO ANNO DI GARANZIA: Progettati per la massima durata, ora con garanzia prolungata. Dal 1° ottobre 2025 i Notebook ASUS e ROG acquistati in Italia beneficiano di 3 anni di garanzia. Condizioni, paesi e modelli aderenti sul sito ufficiale ASUS.
+- CONNETTIVITÀ – Wi-Fi 7 tri-band, due Thunderbolt 4, HDMI 2.1 e USB 3.2 per connessioni ultra veloci e versatili. Webcam FHD IR con supporto Windows Hello e privacy shutter integrato.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09BNJZRMQ{{</world>}}

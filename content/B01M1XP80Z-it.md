@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- MAGNESIO PER STANCHEZZA E FATICA FISICA: Con magnesio che contribuisce alla riduzione di stanchezza e fatica e aiuta a ripristinare lequilibrio elettrolitico
-- SENZA GLUTINE E SENZA ZUCCHERO
 - POTASSIO PER LA PRESSIONE SANGUIGNA: Il potassio contribuisce al mantenimento di una normale pressione sanguigna
+- SENZA GLUTINE E SENZA ZUCCHERO
+- MAGNESIO PER STANCHEZZA E FATICA FISICA: Con magnesio che contribuisce alla riduzione di stanchezza e fatica e aiuta a ripristinare lequilibrio elettrolitico
 - PRODOTTO IN ITALIA. Confezione da 60 compresse.
 - SALI MINERALI ORGANICI: Contiene sali organici di potassio e magnesio altamente assimilabili dallorganismo
 

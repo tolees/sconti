@@ -28,10 +28,10 @@ average: '1.99'
 
 ℹ️:
 
-- Una miscela maestosa di tè nero biologico e fairtrade che mixa la corposo varietà assam e il delicato ceylon
-- Contine solo con ingredienti 100% naturali di altà qualità; senza nulla di artificale
-- Bustine non sbiancate chimicamente
 - Prova anche gli altri tè cupper per concederti una pausa nel rispetto lambiente: tè verde limone e aloe vera, tè verde lime e zenzero e tè nero earl grigio
+- Contine solo con ingredienti 100% naturali di altà qualità; senza nulla di artificale
+- Una miscela maestosa di tè nero biologico e fairtrade che mixa la corposo varietà assam e il delicato ceylon
+- Bustine non sbiancate chimicamente
 - Filtri 100% biodegradabili; fai una scelta green e sostenibile e scegli tè e tisane cupper
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

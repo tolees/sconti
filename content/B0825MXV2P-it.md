@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - __Fabric:__ Lightweight cotton jersey fabric
-- __Neck:__ Crew neckline
 - Screen print on front
+- __Neck:__ Crew neckline
 - __Fit:__ Classic, comfortable regular fit
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

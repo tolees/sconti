@@ -28,11 +28,11 @@ average: '26.18'
 
 ℹ️:
 
-- Serie Plana: design essenziale e rigoroso, con linee pulite e armoniose, ideale per valorizzare ambienti domestici o professionali
 - Alimentatore USB da 15 W con doppia porta A + C per ricaricare facilmente smartphone, tablet e altri dispositivi elettronici, anche simultaneamente fino a 3 A totali
-- Serie modulari per installazioni da incasso e da parete
+- Serie Plana: design essenziale e rigoroso, con linee pulite e armoniose, ideale per valorizzare ambienti domestici o professionali
 - La presa USB di tipo C è uno standard utilizzato nei dispositivi di ultima generazione, essendo reversibile si lascia inserire da entrambi i lati
 - Le uscite di tipo C permettono la ricarica veloce del dispositivo (Fast Charge) con correnti fino a 3 A su singola uscita
+- Serie modulari per installazioni da incasso e da parete
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08D9PPJNQ{{</world>}}

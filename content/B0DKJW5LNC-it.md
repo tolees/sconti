@@ -28,11 +28,11 @@ average: '2.12'
 
 ℹ️:
 
+- CAPELLI MORBIDI E LUCENTI: concediti capelli straordinariamente morbidi, lucenti e profumati, giorno dopo giorno
+- MIGLIORA IL TUO UMORE, NATURALMENTE: concediti il naturale e vivace profumo di rosa, scientificamente provato* per migliorare il tuo umore. (*attraverso ricerche multimodali)
 - FORMULA CON IL 97% DI INGREDIENTI DI ORIGINE* NATURALE: arricchita con essenze di rose raccolte a mano a Grasse, nel sud della Francia. Cruelty-free, vegano e senza siliconi (*si riferisce agli ingredienti della formula)
 - FINO A 2 VOLTE PIÙ NUTRIMENTO*: scopri la routine completa della linea Morbidi e Lucenti, al profumo di Rosa (*con uso di shampoo e balsamo come trattamento senza risciacquo, o di shampoo e maschera per capelli rispetto a uno shampoo senza balsamo)
-- CAPELLI MORBIDI E LUCENTI: concediti capelli straordinariamente morbidi, lucenti e profumati, giorno dopo giorno
 - SCHIUME INEBRIANTI: solletica i sensi con una detersione squisitamente vellutata e profumata
-- MIGLIORA IL TUO UMORE, NATURALMENTE: concediti il naturale e vivace profumo di rosa, scientificamente provato* per migliorare il tuo umore. (*attraverso ricerche multimodali)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DKJW5LNC{{</world>}}

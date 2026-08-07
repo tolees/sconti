@@ -28,10 +28,10 @@ average: '14.71'
 
 ℹ️:
 
-- AZIONE ANTIBATTERICA, MICROREPAIR + ZINCO PCA: Microrepair come un guanto avvolgono i denti, proteggendoli da carie e placca. Inoltre liberano Zinco per una massima azione antibatterica
-- COLLUTORIO AD ALTA DENSITÀ: La particolare densità è stata appositamente studiata per avere una maggiore aderenza al dente, aumentando l’efficacia dei microRepair e per una difesa smalto prolungata
-- CON VITAMINA A & E, ESTRATTI NATURALI DI CALENDULA, SPIRULINA, AMAMELIDE: Svolgono una funzione antiossidante e protettiva delle mucose - Estratti naturali dalle proprietà astringenti e lenitive
 - PROTEZIONE GENGIVE: Aiuta a combattere le infiammazioni e il sanguinamento gengivali, mantenendo sana la mucosa orale
+- COLLUTORIO AD ALTA DENSITÀ: La particolare densità è stata appositamente studiata per avere una maggiore aderenza al dente, aumentando l’efficacia dei microRepair e per una difesa smalto prolungata
+- AZIONE ANTIBATTERICA, MICROREPAIR + ZINCO PCA: Microrepair come un guanto avvolgono i denti, proteggendoli da carie e placca. Inoltre liberano Zinco per una massima azione antibatterica
+- CON VITAMINA A & E, ESTRATTI NATURALI DI CALENDULA, SPIRULINA, AMAMELIDE: Svolgono una funzione antiossidante e protettiva delle mucose - Estratti naturali dalle proprietà astringenti e lenitive
 - CON ACIDO IALURONICO: Dalle proprietà idratanti e protettive che favorisce la cicatrizzazione dei tessuti e contribuisce a rinforzare le gengive
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,13 +28,13 @@ average: '486.635'
 
 ℹ️:
 
-- DISPLAY TOUCH IPLAY 3.55” E MAXI CESTELLO 536 MM: schermo TFT a colori con comandi intuitivi e cestello extra large per caricare e trattare al meglio anche capi voluminosi
+- AUTODOSE, FINO A 27 LAVAGGI SENZA RICARICA: dosaggio automatico di detersivo e ammorbidente grazie ai serbatoi da 1000 ml e 500 ml, per lavaggi precisi e senza sprechi
 - 10,5 KG IN CLASSE A‑40% CON DESIGN KITCHENFIT (55 CM): massima capacità in soli 55 cm di profondità, ideale per un’integrazione perfetta nei mobili cucina con consumi ridotti del 40% rispetto alla classe A
 - TECNOLOGIA IJET: GETTO POTENTE PER UNA PULIZIA PROFONDA: il getto mirato distribuisce acqua e detergente in modo più efficace, migliorando la rimozione dello sporco
+- CONNETTIVITÀ CONNECTLIFE, SMART ASSIST E MONITORAGGIO ENERGETICO: gestisci la lavatrice via app, ricevi suggerimenti personalizzati e monitora consumi di acqua ed energia in tempo reale
 - CERTIFICAZIONE CLIMATE PLEDGE FRIENDLY: selezionata da Amazon tra i prodotti con migliore profilo di sostenibilità ambientale
 - STEAM WASH 99,99% E PROGRAMMA REFRESH: il vapore igienizza i capi eliminando batteri e allergeni, mentre il ciclo Refresh rinfresca rapidamente i tessuti senza un lavaggio completo
-- CONNETTIVITÀ CONNECTLIFE, SMART ASSIST E MONITORAGGIO ENERGETICO: gestisci la lavatrice via app, ricevi suggerimenti personalizzati e monitora consumi di acqua ed energia in tempo reale
-- AUTODOSE, FINO A 27 LAVAGGI SENZA RICARICA: dosaggio automatico di detersivo e ammorbidente grazie ai serbatoi da 1000 ml e 500 ml, per lavaggi precisi e senza sprechi
+- DISPLAY TOUCH IPLAY 3.55” E MAXI CESTELLO 536 MM: schermo TFT a colori con comandi intuitivi e cestello extra large per caricare e trattare al meglio anche capi voluminosi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08DMT9P81{{</world>}}

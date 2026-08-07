@@ -28,16 +28,16 @@ average: '57.59'
 
 ℹ️:
 
-- Ammortizzazione LIGHTMOTION
-- Chiusura con lacci
-- Suola Traxion
-- Calzata regolare
-- Drop intersuola: 10 mm (tallone: 30 mm / avampiede: 20 mm)
-- Tomaia in mesh con rivestimenti in materiale sintetico
 - Questo prodotto contiene almeno il 20% di materiali riciclati
 - Fodera in tessuto
+- Drop intersuola: 10 mm (tallone: 30 mm / avampiede: 20 mm)
 - Peso: 347 g (misura 42 2/3)
 - Soletta OrthoLite
+- Calzata regolare
+- Suola Traxion
+- Ammortizzazione LIGHTMOTION
+- Tomaia in mesh con rivestimenti in materiale sintetico
+- Chiusura con lacci
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CYV8WSK5{{</world>}}

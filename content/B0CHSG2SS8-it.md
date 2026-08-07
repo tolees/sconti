@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Prodotto con licenza ufficiale Maisto International
 - Veicolo dettagliato di qualità da collezione su scala reale
+- Corpo in metallo fuso con parti in plastica
 - Modello di precisione pressofuso altamente dettagliato per oggetti da collezione o da gioco
 - Modello dettagliato di precisione pressofuso
-- Corpo in metallo fuso con parti in plastica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CHSG2SS8{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Marvel s Spider-Man Miles Morales - PlayStation 4'
-date: 2026-07-30 19:53:54
+date: 2026-08-06 18:44:23
 image: 'https://m.media-amazon.com/images/I/41w9Vl-t--L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B08L468RBH/?tag=tolees00-21'
 descuento: '50.83'
-average: '49.7533333333333'
+average: '46.93'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

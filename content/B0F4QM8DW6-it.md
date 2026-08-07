@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Scollo di tipo rotondo
 - Collo, polsini e orlo a costine
 - Nastro firmato allinterno dello scollo
-- Scollo di tipo rotondo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F4QM8DW6{{</world>}}

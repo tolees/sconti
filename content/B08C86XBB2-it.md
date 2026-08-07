@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - CARATTERISTICHE: L’Olio di Cocco e l’Olio di Argan contenuti in formula contribuiscono a nutrire la pelle. La Vitamina E aiuta a combattere i radicali liberi. Water Resistant
 - COSA CONTIENE: Contiene Aloe Vera al 20% che idrata, che rinfresca e dona sollievo alla pelle, offrendo una protezione potenziata, Olio di Cocco, Olio di Argan e Vitamina E
-- FORMULA RISPETTOSA DELLAMBIENTE: Sistema ecologico con erogazione continua
 - PER PROTEGGERE LA PELLE DEI BAMBINI: Protegge in modo naturale da scottature ed eritemi solari grazie all’equilibrata associazione dei filtri UVA e UVB. Pratico erogatore, rapido assorbimento
 - EQUILIBRA: Da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto dellequilibrio tra rispetto, efficacia, benessere e bellezza
+- FORMULA RISPETTOSA DELLAMBIENTE: Sistema ecologico con erogazione continua
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08C86XBB2{{</world>}}

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Small Accessories
 - Beach Supplies
+- Small Accessories
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B6BXBWQP{{</world>}}

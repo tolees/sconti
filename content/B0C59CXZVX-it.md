@@ -28,9 +28,9 @@ average: '29.99'
 
 ℹ️:
 
+- Calzata regolare
 - Suola in gomma vulcanizzata
 - Tomaia in materiale sintetico
-- Calzata regolare
 - Intersuola ammortizzata
 - Chiusura con lacci
 - Fodera in tessuto

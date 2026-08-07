@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- La confezione contiene 12 pratiche monoporzioni ed è realizzata in carta certificata FSC per una gestione responsabile delle foreste
 - Una ricetta plant based con +30% di proteine e -40% di grassi saturi rispetto alla media dei crackers più venduti (Fonte: UnioneItalianaFood.it), prodotta con farina tipo 2 da filiera 100% italiana
-- Spezza la fame con i crackers con soia Naturìcca, fonte di proteine vegetali, per uno spuntino leggero e bilanciato senza rinunciare al gusto
 - Ovunque tu sia, Misura ti accompagna ogni giorno con prodotti pensati per un’alimentazione consapevole, nel rispetto del tuo desiderio di sentirti sempre al meglio
+- Spezza la fame con i crackers con soia Naturìcca, fonte di proteine vegetali, per uno spuntino leggero e bilanciato senza rinunciare al gusto
+- La confezione contiene 12 pratiche monoporzioni ed è realizzata in carta certificata FSC per una gestione responsabile delle foreste
 - Senza ingredienti di origine animale, la linea Naturìcca nasce per chi sceglie un’alimentazione equilibrata senza rinunciare al piacere del gusto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

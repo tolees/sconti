@@ -28,11 +28,11 @@ average: '6.99'
 
 ℹ️:
 
-- LA CONFEZIONE: Il pacco contiene 1 prodotto da 994ml, 50+3 lavaggi di Power Gel Finish Limone, Pulizia Efficace, Azione Sgrassante
-- INFORMAZIONI IMPORTANTI Informazioni di sicurezza: Contiene Subtilisina. Può provocare una reazione allergica. Tenere fuori dalla portata dei bambini. In caso di consultazione di un medico, tenere a disposizione il contenitore o l’etichetta del prodotto. Non ingerire. In caso di ingestione consultare immediatamente un medico.
-- FUNZIONALITA: La formula a rapido scioglimento del Power Gel Finish detersivo liquido per lavastoviglie con azione sgrassante per una pulizia efficace anche nei cicli brevi* ed eco. *Testato con Bosch programma 1h65°C
 - MARCA: NIQ RMS, Totale Italia, Detergenti per Lavastoviglie (client-defined), AT 25 Gennaio 2026 ( 2026, Nielsen Consumer LLC)
+- FUNZIONALITA: La formula a rapido scioglimento del Power Gel Finish detersivo liquido per lavastoviglie con azione sgrassante per una pulizia efficace anche nei cicli brevi* ed eco. *Testato con Bosch programma 1h65°C
+- LA CONFEZIONE: Il pacco contiene 1 prodotto da 994ml, 50+3 lavaggi di Power Gel Finish Limone, Pulizia Efficace, Azione Sgrassante
 - COME SI USA: Aprire il flacone e versare il Finish gel detergente liquido per lavastoviglie nella vaschetta del detergente. Chiudere la vaschetta e selezionare il programma di lavaggio. Per risultati migliori, usa un programma eco/automatico.
+- INFORMAZIONI IMPORTANTI Informazioni di sicurezza: Contiene Subtilisina. Può provocare una reazione allergica. Tenere fuori dalla portata dei bambini. In caso di consultazione di un medico, tenere a disposizione il contenitore o l’etichetta del prodotto. Non ingerire. In caso di ingestione consultare immediatamente un medico.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0H4RD81S9{{</world>}}

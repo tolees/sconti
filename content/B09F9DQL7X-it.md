@@ -28,11 +28,11 @@ average: '7.61'
 
 ℹ️:
 
-- Lampade prive di mercurio
 - Non dimmerabile
-- Lampade LED professionali a tensione di rete
 - Attacco: E27, B22d
 - Bassissimo consumo di energia
+- Lampade prive di mercurio
+- Lampade LED professionali a tensione di rete
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09F9DQL7X{{</world>}}

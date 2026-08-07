@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Nero
 - Clip puntale e anello in metallo
+- Nero
 - Punta media
 - Clip puntale e anello in metallo
 

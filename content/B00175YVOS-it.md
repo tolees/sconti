@@ -28,9 +28,9 @@ average: '87.55'
 
 ℹ️:
 
-- Per una cura ottimale
-- Applicare tutte le sere sulla pelle pulita; applicare una piccola quantità; scaldare tra i palmi e applicare su tutto il viso
 - Un prodotto Elemis
+- Applicare tutte le sere sulla pelle pulita; applicare una piccola quantità; scaldare tra i palmi e applicare su tutto il viso
+- Per una cura ottimale
 - Lascia la pelle levigata e nutrita
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

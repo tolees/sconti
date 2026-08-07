@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Qualità certificata: I nostri prodotti sono approvati da AILI, Associazione Italiana latto-Intolleranti, che certifica e garantisce informazioni corrette e sicure
-- Formato conveniente: Confezione da 350 g per la colazione e gli spuntini di tutta la famiglia
-- Composizione del prodotto: Biscotto con riso e gocce di cioccolato che unisce gusto e leggerezza
 - Impegno per il benessere: I prodotti Riso Scotti ti accompagnano con gusto e benessere in ogni momento della giornata, offrendo la miglior qualità per unalimentazione equilibrata
-- Caratteristiche speciali: Senza lattosio, senza proteine del latte e senza tracce, inoltre non contiene olio di palma
+- Formato conveniente: Confezione da 350 g per la colazione e gli spuntini di tutta la famiglia
 - Ingredienti selezionati: Lista ingredienti pulita, senza proteine del latte, senza grassi idrogenati, senza conservanti e coloranti, senza olio di palma
+- Qualità certificata: I nostri prodotti sono approvati da AILI, Associazione Italiana latto-Intolleranti, che certifica e garantisce informazioni corrette e sicure
+- Composizione del prodotto: Biscotto con riso e gocce di cioccolato che unisce gusto e leggerezza
+- Caratteristiche speciali: Senza lattosio, senza proteine del latte e senza tracce, inoltre non contiene olio di palma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07RV3W68L{{</world>}}

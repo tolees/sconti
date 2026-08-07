@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Girocollo a coste
 - AEROREADY
+- Girocollo a coste
 - Primo Tessuto: 100% Poliestere(100% Riciclato)
 - Vestibilità aderente
 

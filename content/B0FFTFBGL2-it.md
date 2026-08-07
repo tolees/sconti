@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Profumo fresco a lunga durata.
 - Rinfrescante.
 - Profumo a lunga durata.
+- Profumo fresco a lunga durata.
 - Formula vegana.
 - Profumo aromatico e speziato.
 

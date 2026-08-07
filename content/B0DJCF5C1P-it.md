@@ -28,9 +28,9 @@ average: '14.9'
 
 ℹ️:
 
-- Realizzati con materiali sostenibili
 - Design traspirante per un comfort extra
 - Sandali del marchio PUMA
+- Realizzati con materiali sostenibili
 - Adatto per: clima caldo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

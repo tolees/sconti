@@ -28,8 +28,8 @@ average: '38.99'
 
 ℹ️:
 
-- Tomaia in mesh per traspirabilità
 - Intersuola in schiuma per ammortizzazione
+- Tomaia in mesh per traspirabilità
 - Avampiede flessibile per comfort
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

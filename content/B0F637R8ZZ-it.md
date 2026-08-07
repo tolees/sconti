@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Larghezza: Regolare
-- Tipo di punta: Rotonda
-- Chiusura: Lacci
-- Tipo di tacco: Tacco piatto
 - Loghi PUMA
+- Tipo di tacco: Tacco piatto
+- Chiusura: Lacci
+- Tipo di punta: Rotonda
+- Larghezza: Regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F637R8ZZ{{</world>}}

@@ -30,8 +30,8 @@ average: '9.98666666666667'
 
 - Un mix perfetto di guida realistica e grande spettacolarità, trasferimenti di massa, rimbalzi dopo i salti e molto altro
 - Modalità online per un massimo di 8 giocatori
-- 25 arene con livelli entusiasmanti e spettacolari, carriera completa con 3 leghe
 - 16 Monster Truck + 50 elementi di personalizzazione
+- 25 arene con livelli entusiasmanti e spettacolari, carriera completa con 3 leghe
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08QX3J55Y{{</world>}}

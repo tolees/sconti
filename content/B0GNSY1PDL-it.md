@@ -28,11 +28,11 @@ average: '26.5257142857144'
 
 ℹ️:
 
+- Prodotta in Sardegna, nel birrificio di Assemini
 - Birra non filtrata e a bassa fermentazione, aspetto velato per i lieviti in sospensione
+- Gradazione alcolica: 5% vol
 - Gusto Intenso e rotondo, moderatamente amaro
 - Realizzata con puro malto d’orzo
-- Gradazione alcolica: 5% vol
-- Prodotta in Sardegna, nel birrificio di Assemini
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GNSY1PDL{{</world>}}

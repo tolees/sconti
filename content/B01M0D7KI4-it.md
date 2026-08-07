@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Articolo: 12615/BBK.
 - Stagione: autunno/inverno.
+- Articolo: 12615/BBK.
 - Designer: Skechers.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

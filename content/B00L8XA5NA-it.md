@@ -28,9 +28,9 @@ average: '9.72'
 
 ℹ️:
 
+- ESI Benessere Naturale: dal 1975 lazienda italiana ESI offre prodotti fitoterapici, dietetici e integratori alimentari dallelevato standard qualitativo
 - ESI Cranberry Cyst: integratore alimentare a base di estratto titolato di cranberry, favorisce leliminazione dei liquidi in eccesso
 - Modalità duso: assumere 2 ovalette al giorno con abbondante acqua, preferibilmente ai pasti
-- ESI Benessere Naturale: dal 1975 lazienda italiana ESI offre prodotti fitoterapici, dietetici e integratori alimentari dallelevato standard qualitativo
 - Formula: con cranberry, ortosiphon, verga doro e uva ursina, utili per contrastare cistiti e infezioni e favorire il benessere del tratto urinario
 - Azione: uva ursina e verga doro promuovono la funzionalità urinaria, mentre cranberry e semi di pompelmo favoriscono il drenaggio dei liquidi in eccesso
 

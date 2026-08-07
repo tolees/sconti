@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Rivestimento antistatico EN 1149-5 che riduce le scariche elettrostatiche e il rischio di scintille
 - Questo prodotto è progettato, fabbricato, etichettato e confezionato per la vendita a clienti industriali e professionali per luso sul posto di lavoro; Non è destinato alla vendita o alluso da parte dei consumatori
-- Realizzato in un leggero morbido tessuto non tessuto con laminati microporosi, per la protezione dagli schizzi, resistenza e traspirabilità
-- Protezione biologica/da agenti infettivi secondo EN 14126
 - Protezione certificata contro polveri pericolose di tipo 5/6 e schizzi limitati di liquidi
+- Protezione biologica/da agenti infettivi secondo EN 14126
+- Rivestimento antistatico EN 1149-5 che riduce le scariche elettrostatiche e il rischio di scintille
 - Il design del cappuccio a 2 lembi, la cerniera a doppia chiusura con patta protettiva e le aperture elasticizzate riducono il rischio di esposizione cutanea
+- Realizzato in un leggero morbido tessuto non tessuto con laminati microporosi, per la protezione dagli schizzi, resistenza e traspirabilità
 - Indumento tipo 5/6 progettato per offrire una protezione economica contro le polveri pericolose e gli schizzi limitati di liquidi.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

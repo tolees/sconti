@@ -28,10 +28,10 @@ average: '1649.99'
 
 ℹ️:
 
-- Camera con zoom digitale 100X
 - Sottilissimo pieghevole: 8,8 mm di spessore, 217 g di peso
-- Processore Snapdragon 8 Elite e Gemini Assistant
+- Camera con zoom digitale 100X
 - Batteria HONOR al silicio-carbone da 5820 mAh
+- Processore Snapdragon 8 Elite e Gemini Assistant
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07ZRBKFJG{{</world>}}

@@ -28,13 +28,13 @@ average: '8.0'
 
 ℹ️:
 
-- Naturalmente deliziosa
+- Kellogg Italia Spa, Via Torri Biancheb 6, Vimercate, MB 20871, Italia.
+- Fonte di proteine
 - Per una pausa gustosa
+- Naturalmente deliziosa
+- Con ingredienti tutti da gustare
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
 - 41% di frutta secca
-- Fonte di proteine
-- Kellogg Italia Spa, Via Torri Biancheb 6, Vimercate, MB 20871, Italia.
-- Con ingredienti tutti da gustare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DJNS3QWP{{</world>}}

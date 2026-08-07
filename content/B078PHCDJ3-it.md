@@ -28,8 +28,8 @@ average: '36.56'
 
 ℹ️:
 
-- Chiusura: stringata
 - Fodera: tessuto
+- Chiusura: stringata
 - Materiale esterno: pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

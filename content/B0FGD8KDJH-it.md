@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Efficienza energetica: durata della batteria da 4 a 6 mesi, ricarica del filo del campanello per un funzionamento continuo, attivazione PIR a risparmio energetico
 - Design: alloggiamento in policarbonato bianco resistente alle intemperie, protezione IP66, design campanello, carillon incluso, elegante soluzione per lingresso
+- Efficienza energetica: durata della batteria da 4 a 6 mesi, ricarica del filo del campanello per un funzionamento continuo, attivazione PIR a risparmio energetico
 - Installazione: montaggio sulla porta, filo del campanello opzionale, installazione del gong, configurazione dellapp, integrazione Alexa/Google, pronto alluso
 - Tecnologia: 3MP 2K, angolo di visione 160°, sensore PIR 7m, batteria 5200mAh, WiFi 2.4 GHz, filo campanello 8-24V AC, 10 suonerie
 - Applicazione: monitoraggio delle porte della casa intelligente, videocitofono, video in diretta durante le visite, monitoraggio dei pacchi, allarme anti-rimozione

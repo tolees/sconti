@@ -28,11 +28,11 @@ average: '8.95'
 
 ℹ️:
 
-- Ammortizzazione su suola, tallone e punta
 - Lunghezza al polpaccio
+- 62% cotone / 36% poliestere riciclato / 1% elastane / 1% nylon riciclato
+- Ammortizzazione su suola, tallone e punta
 - Supporto dellarco plantare
 - Punta rimagliata
-- 62% cotone / 36% poliestere riciclato / 1% elastane / 1% nylon riciclato
 - Confezione da tre paia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

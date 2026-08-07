@@ -28,10 +28,10 @@ average: '41.48'
 
 ℹ️:
 
+- 👑 Sbloccate abilità uniche, superate in astuzia gli avversari e conquistate il controllo dei nidi nemici
 - 🌿 Espandete il formicaio, segnate il terreno con i feromoni, raccogliete cibo e foglie e affrontate insetti rivali
 - 🐜 In Ants, controllate una colonia di formiche in lotta per il dominio del giardino
 - 🥚 Deponete uova, fate schiudere larve e sviluppate una forza lavoro composta da formiche specializzate
-- 👑 Sbloccate abilità uniche, superate in astuzia gli avversari e conquistate il controllo dei nidi nemici
 - 👥 Numero di giocatori: 2-4 | Età consigliata: 13+ | Durata media: 90 min | Edizione in Lingua Italiana
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

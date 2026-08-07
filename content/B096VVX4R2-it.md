@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Long Raglan Sleeve
 - Carhartt Force - FastDry combined with anti-microbial properties
 - Relaxed Fit
-- Long Raglan Sleeve
 - Rib knit crew neck
 - Left chest pocket with pencil opening
 

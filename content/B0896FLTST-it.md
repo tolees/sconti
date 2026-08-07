@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- 1 Box Control Fussion preservativi aromatizzati 12pz
 - 1 Box Control Finissimo original 0.06mm 12pz
+- 1 Box Control Nature 12pz
 - 1 Box Control Dots&Line preservativi stimolanti 6pz
 - mix box
-- 1 Box Control Fussion preservativi aromatizzati 12pz
-- 1 Box Control Nature 12pz
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0896FLTST{{</world>}}

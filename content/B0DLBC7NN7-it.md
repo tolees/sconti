@@ -28,15 +28,15 @@ average: '126.87'
 
 ℹ️:
 
-- Lettura senza sforzo, con qualsiasi luce: leggi in tutta comodità grazie allo schermo da 6’’ antiriflesso, con modalità scura e illuminazione frontale regolabile (ora più luminosa del 25% se impostata al massimo).
-- Design sottile e leggero, per leggere comodamente per ore.
-- Immergiti nei tuoi libri: prenditi una pausa da messaggi, e-mail e social network e goditi un’esperienza di lettura senza distrazioni.
-- Ideale per lutilizzo con il cavo USB - Micro USB incluso nei dispositivi Amazon e nei ricambi in vendita nel Kindle Store
-- Il nostro Kindle più leggero e compatto: ora con un’illuminazione frontale più luminosa (se impostata al massimo), un contrasto più elevato e cambi di pagina più rapidi, per una migliore esperienza di lettura.
 - Si apre e si chiude proprio come un libro, per attivare il tuo Kindle o metterlo automaticamente in standby.
-- Caribatterie originale Amazon PowerFast da 9W - 1.8A compatibile con la maggior parte dei dispositivi USB (richiede cavo USB, non incluso con il caricabatterie)
-- Carica completamente il tuo Kindle in meno di 3 ore, Kindle Paperwhite in meno di 4 ore e i tablet Fire in meno di 5 ore
 - Progettata per adattarsi perfettamente al tuo nuovo Kindle (solo modelli 2024 e 2022)
+- Ideale per lutilizzo con il cavo USB - Micro USB incluso nei dispositivi Amazon e nei ricambi in vendita nel Kindle Store
+- Carica completamente il tuo Kindle in meno di 3 ore, Kindle Paperwhite in meno di 4 ore e i tablet Fire in meno di 5 ore
+- Il nostro Kindle più leggero e compatto: ora con un’illuminazione frontale più luminosa (se impostata al massimo), un contrasto più elevato e cambi di pagina più rapidi, per una migliore esperienza di lettura.
+- Lettura senza sforzo, con qualsiasi luce: leggi in tutta comodità grazie allo schermo da 6’’ antiriflesso, con modalità scura e illuminazione frontale regolabile (ora più luminosa del 25% se impostata al massimo).
+- Immergiti nei tuoi libri: prenditi una pausa da messaggi, e-mail e social network e goditi un’esperienza di lettura senza distrazioni.
+- Design sottile e leggero, per leggere comodamente per ore.
+- Caribatterie originale Amazon PowerFast da 9W - 1.8A compatibile con la maggior parte dei dispositivi USB (richiede cavo USB, non incluso con il caricabatterie)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DLBC7NN7{{</world>}}

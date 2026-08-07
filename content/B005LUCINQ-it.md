@@ -28,8 +28,8 @@ average: '4.38'
 
 ℹ️:
 
-- Strumenti in Profi – qualitä
 - Qualità originale BGS
+- Strumenti in Profi – qualitä
 - Chiavi combinate, 6 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

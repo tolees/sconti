@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Timer 30 minuti con segnale acustico
-- Termostato regolabile fino a 420°C
+- Calotta riflettente inox
+- Doppia spia di funzionamento
 - Piatto in pietra refrattaria (ø 31 cm)
 - Pietra staccabile per pirolisi e pulizia
 - Doppia resistenza, superiore 1200W e inferiore 600W
-- Doppia spia di funzionamento
-- Calotta riflettente inox
+- Timer 30 minuti con segnale acustico
+- Termostato regolabile fino a 420°C
 - Potenza: 1800 W
 - Pareti fredde
 

@@ -28,11 +28,11 @@ average: '23.93'
 
 ℹ️:
 
-- CANDELE A LUNGA DURATA: Fino a 150 ore; 17 cm di altezza x 10 cm di larghezza (623 g)
+- UNA COMBUSTIONE PULITA E UNIFORME: lo stoppino in cotone a fibra naturale al 100% è raddrizzato e centrato
 - FRAGRANZA CHE RIEMPIE LA STANZA: Ingredienti di alta qualità e cera premium garantiscono un aroma duraturo e costante
 - UNA FRAGRANZA PER OGNI MOMENTO: Da Yankee Candle, crediamo che ogni giorno sia una pagina della storia di qualcuno. Dai piccoli momenti di gioia alle occasioni che meritano di essere celebrate, ogni momento conta.
+- CANDELE A LUNGA DURATA: Fino a 150 ore; 17 cm di altezza x 10 cm di larghezza (623 g)
 - KITCHEN SPICE: Questa moderna miscela di arancia dolce, chiodi di garofano, zenzero e cannella è una nuova interpretazione dei classici della dispensa.
-- UNA COMBUSTIONE PULITA E UNIFORME: lo stoppino in cotone a fibra naturale al 100% è raddrizzato e centrato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GP9CRW3N{{</world>}}

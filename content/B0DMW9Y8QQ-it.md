@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - ​Quando tutti gli spinosauri sono caduti dalla torre oceanica, vince il giocatore con il minor numero di spinosauri.
-- ​Tira il dado per scoprire il colore del bastoncino da tirare.
-- ​Le foglie sui bastoncini consentono ai giocatori daltonici di identificare il colore corrispondente al dado.
 - ​Il gioco Salve le Scimmie amato dai bambini con gli spinosauri ispirati a Jurassic World La rinascita.
 - ​Progettato per coinvolgere dai 2 ai 4 giocatori dai 5 anni in su, questo gioco è un regalo ideale per i fan di Jurassic World La rinascita!
+- ​Tira il dado per scoprire il colore del bastoncino da tirare.
+- ​Le foglie sui bastoncini consentono ai giocatori daltonici di identificare il colore corrispondente al dado.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DMW9Y8QQ{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Custodia con coperchio incernierato
-- Compasso a regolazione rapida con meccanismo a pulsante e perno di azionamento centrale
-- Gambo in piombo e pattino dellago pieghevoli
 - Diametro massimo del cerchio 360 mm
+- Compasso a regolazione rapida con meccanismo a pulsante e perno di azionamento centrale
 - Inserto in piombo intercambiabile Attacco 4 mm
+- Custodia con coperchio incernierato
+- Gambo in piombo e pattino dellago pieghevoli
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B06XKKTTRR{{</world>}}

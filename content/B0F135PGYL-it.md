@@ -28,9 +28,9 @@ average: '31.2'
 
 ℹ️:
 
-- Per risultati ottimali, dovrebbe essere applicato quotidianamente sulla pelle detersa
 - Aumenta l’idratazione cutanea
 - Ripristina la funzione barriera della pelle a tendenza atopica
+- Per risultati ottimali, dovrebbe essere applicato quotidianamente sulla pelle detersa
 - Crema leggera emolliente, formulata con il minimo di ingredienti
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
 

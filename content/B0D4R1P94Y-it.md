@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- PASTA CON LUPINI LA MOLISANA: innovativa gamma di pasta proteica che combina le proprietà dei lupini e le qualità del grano duro, per uno stile di vita più sostenibile. La pasta con farina di lupini è ricca di fibre e ad alto contenuto di proteine vegetali "plant based"
-- LA MOLISANA: dal 1912 azienda 100% Italiana leader nella produzione di pasta con solo grando italiano da filiera integrata, semole di alta qualità e tenacità certificata
-- PACK ECOSOSTENIBILE: i pack sono riciclabili nella carta
 - PENNE RIGATE CON FARINA DI LUPINI: il famoso formato di pasta corta rigata nella nuova versione con lupini e il gusto della pasta classica. Ad alto contenuto proteico e ricca di fibre - Confezione da 400g
+- LA MOLISANA: dal 1912 azienda 100% Italiana leader nella produzione di pasta con solo grando italiano da filiera integrata, semole di alta qualità e tenacità certificata
+- PASTA CON LUPINI LA MOLISANA: innovativa gamma di pasta proteica che combina le proprietà dei lupini e le qualità del grano duro, per uno stile di vita più sostenibile. La pasta con farina di lupini è ricca di fibre e ad alto contenuto di proteine vegetali "plant based"
 - COTTURA: 8 minuti di cottura - Pasta tenace, al dente in cottura, saporita e versatile
+- PACK ECOSOSTENIBILE: i pack sono riciclabili nella carta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D4R1P94Y{{</world>}}

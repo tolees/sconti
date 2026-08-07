@@ -28,8 +28,8 @@ average: '5.098'
 
 ℹ️:
 
-- Applicare sui capelli asciutti o bagnati, prima e durante lesposizione al sole; non risciacquare
 - Olio solare per capelli senza risciaquo che illumina e protegge i capelli dallo stress del sole e del mare, idrata la cute e il capello donando una chioma morbida e nutrita
+- Applicare sui capelli asciutti o bagnati, prima e durante lesposizione al sole; non risciacquare
 - Biopoint Solaire è la linea di bellezza per la protezione solare di corpo e capelli, formulata con oli per nutrire e idratare la pelle e con protezione dai raggi UVA, UVB e infrarossi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

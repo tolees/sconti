@@ -28,11 +28,11 @@ average: '7.99'
 
 ℹ️:
 
-- Lunga durata e sicurezza: Formulato con DEET al 50% per una durata fino a 10 ore, Autan Max offre una protezione a lunga durata, ideale per escursioni, attività all’aperto, serate estive e ambienti ad alto rischio. Rimani protetto più a lungo, senza pensieri.
-- Ideale per viaggi, destinazioni tropicali e zone infestate: da portare in valigia, garantisce una barriera efficace contro le punture, anche in zone esotiche e aree in cui le zanzare sono particolarmente aggressive, ovunque tu sia.
 - Protezione efficace dalle zanzare più pericolose che possono trasmettere Dengue e Malaria: Difenditi efficacemente da zanzare comuni, tigre e tropicali, note per poter trasmettere malattie. Efficace contro Virus West Nile.
-- Uso combinato con creme solari: Applicare prima la crema solare, attendere 30 minuti, poi utilizzare il prodotto. Non applicare più di una volta al giorno.
+- Lunga durata e sicurezza: Formulato con DEET al 50% per una durata fino a 10 ore, Autan Max offre una protezione a lunga durata, ideale per escursioni, attività all’aperto, serate estive e ambienti ad alto rischio. Rimani protetto più a lungo, senza pensieri.
 - Modalità di applicazione facile e sicura: Applicare il prodotto con cura e in piccole quantità sulle parti del corpo scoperte, quindi distribuire uniformemente sulla pelle. Per proteggere il viso dalle punture, applicare il prodotto prima sul palmo della mano e poi spargerlo sul viso. Non spruzzare direttamente sul viso. Non utilizzare sotto i 17 anni di età.
+- Uso combinato con creme solari: Applicare prima la crema solare, attendere 30 minuti, poi utilizzare il prodotto. Non applicare più di una volta al giorno.
+- Ideale per viaggi, destinazioni tropicali e zone infestate: da portare in valigia, garantisce una barriera efficace contro le punture, anche in zone esotiche e aree in cui le zanzare sono particolarmente aggressive, ovunque tu sia.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GFB7VWYB{{</world>}}

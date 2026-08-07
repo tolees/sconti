@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Gioco in cooperativa locale e online per un massimo di quattro giocatori
 - Vivi il gioco nel suo stile arcade originale del 1994 o nel nuovo stile del remake
-- Passa al livello successivo con nuovi livelli, mostri, boss e molto altro! Percorri un miglio nei loro panni! Vesti i panni una serie di mostri nemici nella modalità Nemesi!
 - Entusiasmanti modalità di sfida come Sopravvivenza, Corsa a tempo e Corsa al cielo
+- Passa al livello successivo con nuovi livelli, mostri, boss e molto altro! Percorri un miglio nei loro panni! Vesti i panni una serie di mostri nemici nella modalità Nemesi!
 - Grafica migliorata e modernizzata
+- Gioco in cooperativa locale e online per un massimo di quattro giocatori
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DZHZ6FXC{{</world>}}

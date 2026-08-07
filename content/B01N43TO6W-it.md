@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Rivestimento su entrambi i lati
 - Certificata conformemente a en 1869:2001
-- Dimensioni: 120 x 120 cm
-- In scatola resistente per montaggio a parete
 - 100 % fibre di vetro
+- Rivestimento su entrambi i lati
+- Resistenza al calore fino à 550 °c
+- In scatola resistente per montaggio a parete
+- Dimensioni: 120 x 120 cm
 - Gli incendi vengono soffocati sul nascere: per la casa, nel tempo libero e al lavoro
 - Certificata conformemente a en 1869:2001
-- Resistenza al calore fino à 550 °c
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01N43TO6W{{</world>}}

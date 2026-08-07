@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- [Illuminazione Uniforme] La luce per fare video Rollei LUMIS è il complemento ideale per la tua scrivania. Adottando LED innovativi con indice di resa cromatica (CRI) >95 comunemente utilizzati nellilluminazione da studio, il diffusore integrato crea luce indiretta senza causare abbagliamento. Questo faretto streaming offre unilluminazione uniforme e precisa che non sarà un peso per i tuoi occhi anche durante le operazioni a lungo termine
 - [Stabile e Salva Spazio] Grazie alle dimensioni compatte di questa lampada per videoconferenza PC, puoi posizionarla in luoghi diversi. Con la sua base robusta che rimane sempre al suo posto, questo faretto LED da tavolo per la creazione di contenuti può essere esteso fino a unaltezza compresa tra 28,5 ~ 78 cm. Combinando la testa a sfera con inclinazione e rotazione regolabili, puoi trovare facilmente laltezza più comoda per videochiamate, riunioni online Zoom e streaming live
 - [Alimentazione semplice] La luce streaming scrivania Rollei Lumix di solito non utilizza prese strane sul desktop, abbiamo un connettore USB-A. Basta collegarlo a una porta USB o a un adattatore di alimentazione USB e sei pronto per partire.
 - [Key Light Video Dimmerabile] Le 3 temperature di colore totali 3200/4500/5500K e gli 8 livelli di luminosità possono essere collegati facilmente e comodamente tramite il telecomando cablato delle luci. Questa luce fotografica da tavolo fornisce sempre unilluminazione video ottimale durante podcast, registrazione video, YouTube, Tik Tok, gaming, vlogging e altri scenari.
+- [Illuminazione Uniforme] La luce per fare video Rollei LUMIS è il complemento ideale per la tua scrivania. Adottando LED innovativi con indice di resa cromatica (CRI) >95 comunemente utilizzati nellilluminazione da studio, il diffusore integrato crea luce indiretta senza causare abbagliamento. Questo faretto streaming offre unilluminazione uniforme e precisa che non sarà un peso per i tuoi occhi anche durante le operazioni a lungo termine
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09BVLBX52{{</world>}}

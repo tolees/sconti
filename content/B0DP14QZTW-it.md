@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- DESIGN ICONICO: Lagenda presenta gli angoli arrotondati, la chiusura elastica, il segnalibro a nastro e lavviso "in caso di smarrimento" sul frontespizio. Carta acid-free color avorio da 70 g/m²
 - FUNZIONALITÀ: Tra gli strumenti di pianificazione dellagenda, troverai il calendario, una sezione per il planning di viaggi, idee e obiettivi, e delle pagine a righe per prendere degli appunti sparsi
 - CONFEZIONE: include un agenda giornaliera, disponibile in diversi formati e colori, e degli adesivi per personalizzare i tuoi programmi
+- DESIGN ICONICO: Lagenda presenta gli angoli arrotondati, la chiusura elastica, il segnalibro a nastro e lavviso "in caso di smarrimento" sul frontespizio. Carta acid-free color avorio da 70 g/m²
 - LAYOUT GIORNALIERO: Ogni pagina del planner è dedicata a un singolo giorno dell’anno, così da poterne annotare ogni dettaglio
 - 12 MESI: Inizia lanno con lagenda giornaliera di 12 mesi che copre lintero anno, da gennaio a dicembre 2026
 

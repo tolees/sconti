@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Rivestimento antiaderente rinforzato a due strati, senza PFOA
 - Manici ergonomici antiscottatura in bachelite
+- Nota! - Prima del primo utilizzo, deve essere lavato, sciacquato e asciugato accuratamente, quindi la superficie antiaderente deve essere condizionata con un sottile strato di olio. Per la pulizia sono sufficienti acqua calda e un suono morbido. Non utilizzare spugne abrasive metalliche o polvere abrasiva per hashish. Non usare utensili affilati. Si consigliano utensili in legno o plastica.
 - Colore Grigio antracite
 - Due strati di smalto esterno
-- Nota! - Prima del primo utilizzo, deve essere lavato, sciacquato e asciugato accuratamente, quindi la superficie antiaderente deve essere condizionata con un sottile strato di olio. Per la pulizia sono sufficienti acqua calda e un suono morbido. Non utilizzare spugne abrasive metalliche o polvere abrasiva per hashish. Non usare utensili affilati. Si consigliano utensili in legno o plastica.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00VWRFWWG{{</world>}}

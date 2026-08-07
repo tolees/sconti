@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Integratore alimentare in capsule a base di estratto lipidico del crostaceo krill antartico euphasia superba
 - Peso articolo e imballo: 0.1 grammi
-- Codice prodotto: IAF00093474
 - Marchio: Optima
+- Integratore alimentare in capsule a base di estratto lipidico del crostaceo krill antartico euphasia superba
+- Codice prodotto: IAF00093474
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B075VX48LW{{</world>}}

@@ -28,8 +28,8 @@ average: '12.236'
 
 ℹ️:
 
-- Contiene steroli vegetali che riducono il colesterolo nel sangue. Il colesterolo in eccesso può causare problemi al cuore. Leffetto benefico si ottiene con lassunzione quotidiana di 1,5-3g di steroli vegetali
 - Contiene Vitamina B1 che contribuisce alla normale funzione cardiaca
+- Contiene steroli vegetali che riducono il colesterolo nel sangue. Il colesterolo in eccesso può causare problemi al cuore. Leffetto benefico si ottiene con lassunzione quotidiana di 1,5-3g di steroli vegetali
 - Confezione da 450ml, contiene 30 stick gel da 15ml, gusto agrumi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

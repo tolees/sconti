@@ -28,8 +28,8 @@ average: '16.89'
 
 ℹ️:
 
-- maxi skirt
 - soft viscose
+- maxi skirt
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07PH33S7K{{</world>}}

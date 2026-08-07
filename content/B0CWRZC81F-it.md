@@ -30,8 +30,8 @@ average: '9.77'
 
 - Risultato: i capelli sono lisci e ultra lucidi fino a 72 ore. *Test strumentale dopo lapplicazione dello shampoo + maschera
 - Formulazione a base di amido e infusione di acqua di riso ricca di sostanze nutritive, dona lucentezza e morbidezza mentre combatte leffetto crespo, senza prodotti o sottoprodotti di origine animale
-- Applicazione: applicare sui capelli bagnati, massaggiare accuratamente su tutto il cuoio capelluto e poi risciacquare
 - Contenuto della confezione: scatola per capelli lunghi con infusione di acqua di riso, Garnier ultra morbido, include: 1 shampoo + 1 balsamo + 1 maschera
+- Applicazione: applicare sui capelli bagnati, massaggiare accuratamente su tutto il cuoio capelluto e poi risciacquare
 - Cofanetto routine per capelli ribelli e indisciplinati composto da shampoo, balsamo e maschera lisciante con infusione di acqua di riso.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

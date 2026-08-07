@@ -30,13 +30,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Funzione di blocco pesata
 - Alimentazione: 1xcr2032, 3v litio
-- Dimensioni (l x h x p): 56 x 4.5 x 33.5 cm
 - Alimentazione: battery-powered
-- Indicatori di sovraccarico e di esaurimento batterie
-- Autospegnimento e funzione tara
+- Dimensioni (l x h x p): 56 x 4.5 x 33.5 cm
 - Display LCD (72 x 28 mm)
 - Ampia pedana in confortevole materiale plastico
+- Indicatori di sovraccarico e di esaurimento batterie
 - Misurazione 5gr/20kg
+- Autospegnimento e funzione tara
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B017IJRH06{{</world>}}

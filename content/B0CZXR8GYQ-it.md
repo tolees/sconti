@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Smart TV VIDAA U6 + Andorid Screen Sharing
-- Audio Dolby Atmos
 - Smart TV QLED Full HD 40", Risoluzione 1920x1080
 - HDR 10
+- Smart TV VIDAA U6 + Andorid Screen Sharing
+- Audio Dolby Atmos
 - QLED Display
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

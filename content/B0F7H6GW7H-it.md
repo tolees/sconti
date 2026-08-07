@@ -28,11 +28,11 @@ average: '13.99'
 
 ℹ️:
 
+- Girocollo
 - Maniche corte
 - Stampa gommata del logo PUMA N. 1
-- Girocollo
-- Loghi PUMA
 - Vestibilità regolare
+- Loghi PUMA
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F7H6GW7H{{</world>}}

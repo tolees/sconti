@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Pulisce, lucida e protegge
 - Crema lucidante non abrasiva
-- Non serve risciacquate
+- Pulisce, lucida e protegge
 - Per acciaio inossidabile, alluminio, cromature, ottone, argento, Oro, ecc
+- Non serve risciacquate
 - Per vetroresina, gel-coat, plastiche trasparenti, parti verniciate, ecc
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

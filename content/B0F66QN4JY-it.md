@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- ACCESSORI INCLUSI: Il cuoci riso è dotato di coperchio in vetro con sfiato vapore e maniglia termo-isolata, cavo removibile per servire con comodità. Misurino e cucchiaio inclusi. Materiali BPA free.
-- CUOCI RISO PERFETTO IN POCHI MINUTI: Cuociriso elettrico con capacità di 625g di riso, ideale per preparare riso soffice e ben cotto, pronto per essere servito direttamente in tavola.
-- DOPPIA FUNZIONE AUTOMATICA: Al termine della cottura si attiva l’autospegnimento con passaggio automatico alla modalità mantieni in caldo, segnalate da spie luminose intuitive.
 - FUNZIONE VAPORE PER COTTURE SALUTARI: Il cuociriso include vassoio in alluminio per cottura a vapore di pesce, verdure e altri alimenti, per piatti sani e completi in un solo apparecchio. Diventa così una vaporiera elettrica.
+- ACCESSORI INCLUSI: Il cuoci riso è dotato di coperchio in vetro con sfiato vapore e maniglia termo-isolata, cavo removibile per servire con comodità. Misurino e cucchiaio inclusi. Materiali BPA free.
+- DOPPIA FUNZIONE AUTOMATICA: Al termine della cottura si attiva l’autospegnimento con passaggio automatico alla modalità mantieni in caldo, segnalate da spie luminose intuitive.
+- CUOCI RISO PERFETTO IN POCHI MINUTI: Cuociriso elettrico con capacità di 625g di riso, ideale per preparare riso soffice e ben cotto, pronto per essere servito direttamente in tavola.
 - STRUTTURA SICURA E PRATICA: Il cuociriso elettrico ha un corpo in acciaio inox con pareti fredde al tatto per evitare scottature. Il recipiente interno antiaderente è rimovibile e facile da pulire.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

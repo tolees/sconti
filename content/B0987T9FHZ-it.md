@@ -28,11 +28,11 @@ average: '40.49'
 
 ℹ️:
 
-- Water resistant: 5 bars -Weight: 66 g
+- Case diameter: 40 mm,case thickness: 10 mm, case colour: Silver and dial colour: Green
 - This classic watch gives a comfortable feeling with its Leather strap, its perfect for every occasion -The Analogue watch has a calendar function: Date, Luminous Hands and Indiglo Light
+- Water resistant: 5 bars -Weight: 66 g
 - The watch is delivered in an original gift box and has a warranty of 2 years
 - High quality 21 cm length and 20 mm width Brown Leather strap with a Buckle
-- Case diameter: 40 mm,case thickness: 10 mm, case colour: Silver and dial colour: Green
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0987T9FHZ{{</world>}}

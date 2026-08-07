@@ -28,8 +28,8 @@ average: '36.99'
 
 ℹ️:
 
-- Usato come casual
 - Non resistente allacqua
+- Usato come casual
 - Vestibilità regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

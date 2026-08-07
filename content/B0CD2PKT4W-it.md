@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Materiale esterno: suola 100% EVA, tomaia 100% mesh, fodera 100% mesh, soletta interna 100% cotone
-- Chiusura: piatta
-- Materiale interno: misto poliestere
 - Tipo di tacco: piatto
+- Materiale esterno: suola 100% EVA, tomaia 100% mesh, fodera 100% mesh, soletta interna 100% cotone
+- Materiale interno: misto poliestere
+- Chiusura: piatta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CD2PKT4W{{</world>}}

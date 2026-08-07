@@ -30,8 +30,8 @@ average: '22.49'
 
 - Funzione On/Off Touch. Con un semplice tocco sulla base della lampada può essere accesa e spenta
 - Lampadina esclusiva. Lampadina adatta: 1 x E14, max. 40 Watt
-- Lampada da tavolo Luis II in metallo cromato con paralume in vetro color alabastro bianco
 - Lampadina non inclusa nella confezione
+- Lampada da tavolo Luis II in metallo cromato con paralume in vetro color alabastro bianco
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BL197MHD{{</world>}}

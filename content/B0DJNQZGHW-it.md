@@ -29,11 +29,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - BARILLA: unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
-- IDEALE CON: gli spaghetti. Per una migliore condibilità, puoi diluire il pesto con un cucchiaio di latte a porzione. Servi il tuo piatto con una spolverata di rucola tritata
 - PESTI BARILLA: tutti i pesti Barilla sono senza glutine e preparati senza aggiungere conservanti. Porta in tavola qualità e gusto con ingredienti semplici per deliziose ricette
 - CARATTERISTICHE: pesto della gamma Barilla a base di ricotta e noci. Un condimento delizioso per far scoprire alla tua pasta la pienezza dei sapori della nostra terra
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
 - PESTO RICOTTA E NOCI: la delicatezza della ricotta e l’inconfondibile sapore delle noci si uniscono in un pesto vellutato e cremoso
+- IDEALE CON: gli spaghetti. Per una migliore condibilità, puoi diluire il pesto con un cucchiaio di latte a porzione. Servi il tuo piatto con una spolverata di rucola tritata
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DJNQZGHW{{</world>}}

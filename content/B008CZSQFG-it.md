@@ -30,10 +30,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - PORTATA: la portata massima di questo supporto TV è di 20 Kg
 - TILT AND TURN: questa funzione consente di cambiare l’inclinazione verticale del televisore e ruotarlo in maniera libera, senza l’utilizzo di alcun cacciavite
-- QUALITÀ MELICONI: sin dalla sua fondazione, Meliconi introduce nel mercato idee originali e alla portata di tutti per semplificare la quotidianità; questo braccio tv Meliconi è 100% Made in Italy
-- FACILE MONTAGGIO: per facilitare il montaggio sono inclusi i tasselli Fischer e viti adattabili per la maggior parte delle TV
-- VESA: questa staffa tv è compatibile universalmente con tutti i dispositivi con foratura VESA (in mm) 75x75, 100x100, 200x200; prima dellacquisto verifica la distanza tra i 4 fori sul retro della TV (larghezza x altezza in mm)
 - Supporto a parete per TV da 26" A 40": sostegno TV da muro per TV a schermo piatto da 26" a 40" (da 66 a 101 cm) con una rotazione verticale -5°/+20° e rotazione orizzontale ±15°
+- FACILE MONTAGGIO: per facilitare il montaggio sono inclusi i tasselli Fischer e viti adattabili per la maggior parte delle TV
+- QUALITÀ MELICONI: sin dalla sua fondazione, Meliconi introduce nel mercato idee originali e alla portata di tutti per semplificare la quotidianità; questo braccio tv Meliconi è 100% Made in Italy
+- VESA: questa staffa tv è compatibile universalmente con tutti i dispositivi con foratura VESA (in mm) 75x75, 100x100, 200x200; prima dellacquisto verifica la distanza tra i 4 fori sul retro della TV (larghezza x altezza in mm)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B008CZSQFG{{</world>}}

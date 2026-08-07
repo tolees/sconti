@@ -28,10 +28,10 @@ average: '24.99'
 
 ℹ️:
 
-- Blast your way through grotesque enemies that mutate into more terrifying forms. Choose your weapons, upgrade them, and bring destruction with devastating force.
-- Madness isn’t just a threat—it’s a weapon. Tap into insane powers as you descend deeper into chaos. The more unhinged you become, the stronger you grow.
 - Every frame is a hand-drawn horror. Enhanced visuals, dynamic lighting, and over-the-top blood effects bring this living comic book to brutal life.
+- Blast your way through grotesque enemies that mutate into more terrifying forms. Choose your weapons, upgrade them, and bring destruction with devastating force.
 - Rip through cultists and cosmic horrors to a thunderous original soundtrack. Gritty guitar riffs and pounding drums fuel every blood-soaked encounter.
+- Madness isn’t just a threat—it’s a weapon. Tap into insane powers as you descend deeper into chaos. The more unhinged you become, the stronger you grow.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FCMV9V7D{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- PAGA CON UN SEMPLICE TOCCO: sei su una proprietà? Scansiona il Contratto, quindi tocca lo schermo del dispositivo per acquistarla, metterla allasta o pagare laffitto! Vince il giocatore che possiede più denaro quando tutte le proprietà sono state acquistate
-- BANCA SULLAPP, GIOCO SUL TABELLONE: per la prima volta in assoluto, gli appassionati e le appassionate possono giocare al gioco classico di Monopoly con laiuto di unapp banca che velocizza la partita e fornisce altre nuove entusiasmanti funzionalità
 - NIENTE DENARO, NIENTE CONTI CON CARTA E PENNA, SOLO DIVERTIMENTO: ogni giocatore riceve una carta Banca che contiene il suo denaro, mentre lapp funge sia da Banca che da Banchiere. I bambini e le bambine adoreranno giocare con la loro carta di credito personale
-- APP MONOPOLY GRATUITA: lapp Monopoly App Banking è necessaria per giocare a questo gioco di strategia monetaria. Scansiona il codice QR nelle istruzioni per scaricarla su smartphone o tablet (dispositivo non incluso, download dellapp gratuito, possono applicarsi tariffe dati e acquisti in-app)
+- PAGA CON UN SEMPLICE TOCCO: sei su una proprietà? Scansiona il Contratto, quindi tocca lo schermo del dispositivo per acquistarla, metterla allasta o pagare laffitto! Vince il giocatore che possiede più denaro quando tutte le proprietà sono state acquistate
 - GIOCA AI MINI GIOCHI NELLAPP PER VINCERE PREMI: quando familiari e amici finiscono sulle caselle Parcheggio gratuito, Prigione o Stazione Ferroviaria sbloccano divertenti mini giochi digitali. Vincendo ottengono vantaggi esclusivi che rendono ogni partita più dinamica e imprevedibile
+- BANCA SULLAPP, GIOCO SUL TABELLONE: per la prima volta in assoluto, gli appassionati e le appassionate possono giocare al gioco classico di Monopoly con laiuto di unapp banca che velocizza la partita e fornisce altre nuove entusiasmanti funzionalità
+- APP MONOPOLY GRATUITA: lapp Monopoly App Banking è necessaria per giocare a questo gioco di strategia monetaria. Scansiona il codice QR nelle istruzioni per scaricarla su smartphone o tablet (dispositivo non incluso, download dellapp gratuito, possono applicarsi tariffe dati e acquisti in-app)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FBM9QJY2{{</world>}}

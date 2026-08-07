@@ -28,11 +28,11 @@ average: '102.99'
 
 ℹ️:
 
-- PORTAFILTRO IN METALLO E LANCIA A VAPORE REGOLABILE. Include un portafiltro resistente compatibile con una o due dosi per utilizzo, e una lancia a vapore regolabile per montare il latte come un vero barista. Ideale per preparare cappuccini, latte o semplicemente per riscaldare liquidi con precisione.
-- PANNELLO TOUCH A COLORI PER IL CONTROLLO TOTALE. Goditi un’esperienza intuitiva e moderna con il suo elegante pannello touch a colori, che consente di selezionare facilmente tutte le funzioni della macchina, dalla preparazione dell’espresso all’uso del vapore o alla funzione speciale Espresso Cool. Massimo controllo con un solo tocco.
-- INCLUDE LA FUNZIONE COLD BREW ESPRESSO. Questa innovativa tecnologia cold brew permette di preparare un rinfrescante espresso "Cold Brew" in pochi secondi, invece di utilizzare acqua calda come nel caffè tradizionale. Unopzione pensata per gli amanti del caffè che cercano varietà e versatilità.
 - DESIGN COMPATTO, PRATICO E FACILE DA PULIRE. Dispone di un serbatoio d’acqua removibile da 1 litro, vassoio antigoccia estraibile, scaldatazze superiore e un design compatto che si adatta a qualsiasi cucina. Progettata per offrire funzionalità senza occupare troppo spazio.
+- PANNELLO TOUCH A COLORI PER IL CONTROLLO TOTALE. Goditi un’esperienza intuitiva e moderna con il suo elegante pannello touch a colori, che consente di selezionare facilmente tutte le funzioni della macchina, dalla preparazione dell’espresso all’uso del vapore o alla funzione speciale Espresso Cool. Massimo controllo con un solo tocco.
+- PORTAFILTRO IN METALLO E LANCIA A VAPORE REGOLABILE. Include un portafiltro resistente compatibile con una o due dosi per utilizzo, e una lancia a vapore regolabile per montare il latte come un vero barista. Ideale per preparare cappuccini, latte o semplicemente per riscaldare liquidi con precisione.
 - 20 BAR DI PRESSIONE E SISTEMA THERMOBLOCK. La sua potente pompa da 20 bar garantisce un’estrazione ottimale del caffè, con crema densa e aroma concentrato, mentre il sistema Thermoblock riscalda l’acqua rapidamente ed efficacemente, assicurando una temperatura costante fin dalla prima tazza.
+- INCLUDE LA FUNZIONE COLD BREW ESPRESSO. Questa innovativa tecnologia cold brew permette di preparare un rinfrescante espresso "Cold Brew" in pochi secondi, invece di utilizzare acqua calda come nel caffè tradizionale. Unopzione pensata per gli amanti del caffè che cercano varietà e versatilità.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FCG9DLF7{{</world>}}

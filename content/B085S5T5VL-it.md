@@ -28,10 +28,10 @@ average: '34.99'
 
 ℹ️:
 
-- Rete ingegnerizzata
 - Memory Foam
-- Skech-Knit
 - Lavabile in lavatrice
+- Rete ingegnerizzata
+- Skech-Knit
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B085S5T5VL{{</world>}}

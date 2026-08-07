@@ -28,8 +28,8 @@ average: '1.05'
 
 ℹ️:
 
-- ALLERGENI: Può contenere tracce di latte
 - Caramelle gommose al gusto liquirizia
+- ALLERGENI: Può contenere tracce di latte
 - Disponibili in un sacchetto da 265gr ottimo per il risparmio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

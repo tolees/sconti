@@ -28,12 +28,12 @@ average: '11.8'
 
 ℹ️:
 
-- Regolazione temperatura
-- Diametro piastra 11 cm
 - Piastra in ghisa
+- Diametro piastra 11 cm
+- Regolazione temperatura
+- Dimensioni (L x H x P): 16. x 7.8 x 17.5
 - Alimentazione: AC 220 - 240 - 50/60Hz
 - Piedini di appoggio antiscivolo
-- Dimensioni (L x H x P): 16. x 7.8 x 17.5
 - Spia di accensione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

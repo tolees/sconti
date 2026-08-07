@@ -28,9 +28,9 @@ average: '35.97'
 
 ℹ️:
 
+- Colore: Tinta unita
 - Chiusura: con cerniera
 - Logo frontale
-- Colore: Tinta unita
 - Diverse maniglie rimovibili
 - Molteplici tasche esterne e interne
 

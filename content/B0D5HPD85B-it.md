@@ -28,8 +28,8 @@ average: '27.5'
 
 ℹ️:
 
-- Dettaglio senza tempo con tasca singola
 - Taglia in più per una vestibilità comoda e rilassata
+- Dettaglio senza tempo con tasca singola
 - Uno stile classico ispirato a un capo del nostro archivio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

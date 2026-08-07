@@ -28,9 +28,9 @@ average: '18.1'
 
 ℹ️:
 
-- Vestibilità regolare
 - Due T-shirt in una pratica confezione
 - T-shirt a maniche corte in morbido jersey
+- Vestibilità regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07LF5ZGVR{{</world>}}

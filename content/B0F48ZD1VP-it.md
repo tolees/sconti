@@ -28,10 +28,10 @@ average: '16.2'
 
 ℹ️:
 
-- Biofermentazione: è un processo di trasformazione naturale con cui lieviti selezionati fermentano e trasformano oli e zuccheri in attivi pulenti 100% naturali
+- Prodotto: detersivo gel lavastoviglie completamente solubile con la nuova formula concentrata a base di sgrassanti di origine 100% vegetale da Biofermentazione, altamente efficace nel rimuovere lunto più ostinato già a basse temperature
 - Ipoallergenico: il gel lavastoviglie è eco-compatibile e dermo-compatibile, limita linsorgenza di reazioni avverse e allergie
 - Azione Antiodore: grazie alla formula multiazione, deterge, sgrassa e rende piatti e stoviglie più brillanti ad ogni lavaggio; efficace già a basse temperature, elimina i residui di cibo, grasso e cattivi odori
-- Prodotto: detersivo gel lavastoviglie completamente solubile con la nuova formula concentrata a base di sgrassanti di origine 100% vegetale da Biofermentazione, altamente efficace nel rimuovere lunto più ostinato già a basse temperature
+- Biofermentazione: è un processo di trasformazione naturale con cui lieviti selezionati fermentano e trasformano oli e zuccheri in attivi pulenti 100% naturali
 - Azione Anticalcare: grazie ai suoi componenti specifici, aiuta a mantenere più pulita la lavastoviglie
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

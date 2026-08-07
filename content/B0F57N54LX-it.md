@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Logo stampato in posizione sul davanti
-- Maglietta essenziale girocollo
 - Maniche corte e taglio aderente
+- Maglietta essenziale girocollo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F57N54LX{{</world>}}

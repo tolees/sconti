@@ -28,13 +28,13 @@ average: '5.94'
 
 ℹ️:
 
-- Unità: 30.0
-- Chupa Chups ti aiuta nella scelta di regali sorprendenti e golosi: stupisci I tuoi bambini, I tuoi amici o I tuoi cari con questa idea regalo originale
-- Ideale da condividere durante feste, serate in compagnia ed I lollipop sono ottimi per realizzare sacchettini o regalini di compleanno
-- Condividi la golosità di Chupa Chups, un mondo di divertimento e colori amato da tutti, non solo per bambini
-- Informazioni sopra allergeni: milk
 - Scopri il mix di gusti e scegli il tuo preferito fra: mela, fragola, ciliegia, panna-fragola, lampone-vaniglia e cola
+- Unità: 30.0
 - La Margherita di Chupa Chups è una confezione speciale con allinterno 30 caramelle lecca-lecca ai gusti assortiti, tutti senza glutine ed incartati singolarmente
+- Chupa Chups ti aiuta nella scelta di regali sorprendenti e golosi: stupisci I tuoi bambini, I tuoi amici o I tuoi cari con questa idea regalo originale
+- Informazioni sopra allergeni: milk
+- Condividi la golosità di Chupa Chups, un mondo di divertimento e colori amato da tutti, non solo per bambini
+- Ideale da condividere durante feste, serate in compagnia ed I lollipop sono ottimi per realizzare sacchettini o regalini di compleanno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0957VPVJV{{</world>}}

@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Tasto di espulsione delle fruste
 - Funzione TURBO
-- Alimentazione: AC 220-240v, 5060 Hz
-- Dimensioni (mm): 175 x 145 x 85
 - 5 velocità di lavorazione / Potenza 170 W
+- Dimensioni (mm): 175 x 145 x 85
+- Alimentazione: AC 220-240v, 5060 Hz
 - Accessori: sbattitori ed impastatori in acciaio inossidabile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

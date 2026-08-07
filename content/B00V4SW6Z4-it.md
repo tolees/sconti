@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Ottimizzato per il gaming: progettato per garantire una connessione rapida e stabile ai controller per PS5, Xbox Series X|S e Nintendo Switch
-- 3.6 m: consente una distanza aggiuntiva fra la console e il controller per permetterti di giocare in comfort dal tuo divano
 - Compatibilità universale: funziona con qualsiasi dispositivo equipaggiato con una porta USB-C
+- 3.6 m: consente una distanza aggiuntiva fra la console e il controller per permetterti di giocare in comfort dal tuo divano
 - Cavo intrecciato resistente: creato utilizzando materiali resistenti, flessibili e durevoli per garantire una protezione maggiore dallusura rispetto ai cavi tradizionali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

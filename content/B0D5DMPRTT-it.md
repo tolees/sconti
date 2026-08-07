@@ -28,9 +28,9 @@ average: '5.44'
 
 ℹ️:
 
-- Aquolina propone una nuova collezione fruttata e inebriante
-- MODO DUSO: applicare sulle zone interessate e massaggiare fino a completo assorbimento
 - Latte corpo 250 ml dalla fragranza che si ispira allanguria per una sensazione di freschezza e vitalità
+- MODO DUSO: applicare sulle zone interessate e massaggiare fino a completo assorbimento
+- Aquolina propone una nuova collezione fruttata e inebriante
 - Un aroma irresistibile che richiama lestate, il divertimento e la spensieratezza
 - Scopri tutta la collezione Anguria Succosa!
 

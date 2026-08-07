@@ -28,10 +28,10 @@ average: '57.54'
 
 ℹ️:
 
-- Il modello contiene 754 elementi
 - Elezioni costitutivi realizzate in UE
-- Compatibile con altre marche
 - Costruzioni di assemblaggio illustrate
+- Compatibile con altre marche
+- Il modello contiene 754 elementi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08YRTLC49{{</world>}}

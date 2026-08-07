@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- PROTEZIONE COMPLETA: grazie alla sua formulazione a base di Icaridina, offre 4 ore di protezione affidabile contro le punture di zanzara e altri insetti molesti
+- CON ALOE VERA E SOSTANZE IDRATANTI
+- FORMULAZIONE BILANCIATA che lascia la pelle morbida e profumata
 - Liberta senza limitI: vivi sereno ogni momento allaria aperta grazie ai nuovi repellenti Autan, che proteggono la tua pelle, consentendoti di goderti appieno ogni avventura senza preoccupazioni
 - DERMATOLOGICAMENTE TESTATO, e approvato dalla Skin Health Alliance, ente di accreditamento mondiale per la salute della pelle
-- FORMULAZIONE BILANCIATA che lascia la pelle morbida e profumata
-- CON ALOE VERA E SOSTANZE IDRATANTI
+- PROTEZIONE COMPLETA: grazie alla sua formulazione a base di Icaridina, offre 4 ore di protezione affidabile contro le punture di zanzara e altri insetti molesti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DSGKDGLM{{</world>}}

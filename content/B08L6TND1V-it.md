@@ -28,8 +28,8 @@ average: '15.7385714285714'
 
 ℹ️:
 
-- PERNOD RICARD ITALIA S.p.A., Viale Monza 265, Milano, Italy
 - Mini confezione da 5 cl con malfy originale, malfy limone, malfy rosa e malfy arancia Ãˆ un gin brillante e la qualità degli agrumi utilizzati è ottima Botaniche: ginepro, coriandolo, corteccia di cassia, radice di angelica, radice di iris, scorza darancia, scorza di pompelmo, scorza di limone dai limoni costieri italiani Miscelato con pura acqua di sorgente del monte Monviso
+- PERNOD RICARD ITALIA S.p.A., Viale Monza 265, Milano, Italy
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08L6TND1V{{</world>}}

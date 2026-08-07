@@ -29,10 +29,10 @@ average: '9.37666666666667'
 ℹ️:
 
 - Applica la crema mani donna e uomo ogni volta che ne senti il bisogno, massaggiando fino a completo assorbimento. Adatta ai soggetti con xerosi, psoriasi, eczema, diabete, pelli mature e come trattamento coadiuvante.
-- Contenuto della confezione – Eucerin Crema Mani Rigenerante 5% Urea, crema mani uomo e donna, crema idratante mani senza profumo e ad assorbimento rapido, 1 confezione da 75 ml, numero articolo: 63382
-- Sicurezza Eucerin – La formula della crema mani idratante, clinicamente e dermatologicamente testata, è adatta per la pelle matura e soggetti con prurito da eczema, xerosi, psoriasi e diabete
-- Ingredienti attivi – Questa crema mani screpolate è arricchita con 5% Urea che migliora lidratazione, Ceramidi che rafforzano la barriera cutanea e altri Fattori di Idratazione Naturale (NMF)
 - Urea Repair – La crema per le mani fa parte della gamma Eucerin Urea Repair, appositamente formulata per ripristinare i lipidi e la quantità di acqua nella pelle molto secca e donare sollievo immediato
+- Contenuto della confezione – Eucerin Crema Mani Rigenerante 5% Urea, crema mani uomo e donna, crema idratante mani senza profumo e ad assorbimento rapido, 1 confezione da 75 ml, numero articolo: 63382
+- Ingredienti attivi – Questa crema mani screpolate è arricchita con 5% Urea che migliora lidratazione, Ceramidi che rafforzano la barriera cutanea e altri Fattori di Idratazione Naturale (NMF)
+- Sicurezza Eucerin – La formula della crema mani idratante, clinicamente e dermatologicamente testata, è adatta per la pelle matura e soggetti con prurito da eczema, xerosi, psoriasi e diabete
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01M0TG9FH{{</world>}}

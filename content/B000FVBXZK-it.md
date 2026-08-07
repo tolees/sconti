@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Designer: Stefano Giovannoni, Guido Venturini
-- Diametro: 4.2 cm
 - Dimensioni: 5 cm
+- Designer: Stefano Giovannoni, Guido Venturini
 - Portatovagliolo traforato con motivo di donna
+- Diametro: 4.2 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000FVBXZK{{</world>}}

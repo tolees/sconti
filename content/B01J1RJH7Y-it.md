@@ -28,9 +28,9 @@ average: '42.1'
 
 ℹ️:
 
+- Filtro rimovibile e lavabile
 - Zone a bollitura rapida per scaldare solo 1/2/3 tazze
 - Capacita: 1.7 litri
-- Filtro rimovibile e lavabile
 - Beccuccio per versare lacqua senza farla fuoriuscire
 - Bollitore in acciaio inox con dettagli in stile retro
 - Manico soft-touch e base girevole a 360°

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Collezione: On The Go
-- Colore: Sea Blue
 - Il contenitore può essere inserito in frigorifero o in congelatore
+- Colore: Sea Blue
+- Collezione: On The Go
 - Materiale: 100% plastica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

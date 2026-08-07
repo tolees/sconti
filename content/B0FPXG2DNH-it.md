@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 3 ARMI ACCESSORIE: il mech ha 3 armi - spada, bastone e blaster a molla con 2 frecce - che possono essere scambiate con le armi del set La Battaglia del Drago Ninja Riyu (71855), venduto a parte
-- ACTION FIGURE MECH LEGO NINJAGO: il gioco per bambini e bambine da 7 anni in su Mech della Missione di Cole e Drago Zane consente ai fan di ricreare le avventure della stagione 4 del programma TV LEGO NINJAGO La rivolta dei draghi
-- REGALO DA VERI EROI: questo gioco LEGO NINJAGO è unidea regalo di compleanno per bambini e bambine fan dei robot giocattolo, e per gli appassionati di avventure fantasy da costruire
 - 3 MINIFIGURE DI PERSONAGGI NINJAGO: include Cole con un martello, drago Zane con una spada giocattolo, e un Mostro Acido con un bastone, per consentire ai fan di ricreare le sfide tra il bene e il male
-- MECH GIOCATTOLO SNODABILE: il robot LEGO è dotato di testa, braccia, spalla, dita, gambe e caviglie snodabili, e di un cockpit nel petto per posizionare Cole e uno zaino per le armi
+- ACTION FIGURE MECH LEGO NINJAGO: il gioco per bambini e bambine da 7 anni in su Mech della Missione di Cole e Drago Zane consente ai fan di ricreare le avventure della stagione 4 del programma TV LEGO NINJAGO La rivolta dei draghi
 - UN UNIVERSO DI AVVENTURE: questa vasta collezione di set porta i piccoli in un mondo avvincente, che consente loro di giocare con la fantasia insieme ai loro guerrieri preferiti
+- MECH GIOCATTOLO SNODABILE: il robot LEGO è dotato di testa, braccia, spalla, dita, gambe e caviglie snodabili, e di un cockpit nel petto per posizionare Cole e uno zaino per le armi
+- REGALO DA VERI EROI: questo gioco LEGO NINJAGO è unidea regalo di compleanno per bambini e bambine fan dei robot giocattolo, e per gli appassionati di avventure fantasy da costruire
+- 3 ARMI ACCESSORIE: il mech ha 3 armi - spada, bastone e blaster a molla con 2 frecce - che possono essere scambiate con le armi del set La Battaglia del Drago Ninja Riyu (71855), venduto a parte
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FPXG2DNH{{</world>}}

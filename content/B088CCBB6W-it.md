@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Gusto: un palato fresco, intenso, con note fruttate
-- Colore: giallo paglierino con riflessi verdognoli
-- Caratteristiche: vino bianco secco ottenuto da uva Pinot italiana, ottimo accompagnamento per pesci e crostacei
-- Casa SantOrsola è un mondo di stile, tradizione e gioia di vivere: ciascuna bottiglia di vino Casa SantOrsola esprime litalianità a tavola in ogni occasione speciale
 - Vitigno: il Pinot Grigio è unuva bianca dal corpo leggero, con unacidità fresca e armoniosa
+- Gusto: un palato fresco, intenso, con note fruttate
+- Casa SantOrsola è un mondo di stile, tradizione e gioia di vivere: ciascuna bottiglia di vino Casa SantOrsola esprime litalianità a tavola in ogni occasione speciale
+- Caratteristiche: vino bianco secco ottenuto da uva Pinot italiana, ottimo accompagnamento per pesci e crostacei
+- Colore: giallo paglierino con riflessi verdognoli
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B088CCBB6W{{</world>}}

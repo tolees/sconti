@@ -30,9 +30,9 @@ average: '12.32'
 
 - Presenta una vestibilità regolare, pull-on, forma ad H, contrasto ed elastico in vita con logo Jack & Jones e stampa floreale.
 - Tessuto misto per una maggiore durata e flessibilità.
-- Disponibile nelle taglie S, M, L, XL e XXL.
 - Jack & Jones - Confezione da 3 boxer da uomo con stampa
 - Forma ad H anatomicamente corretta per un elevato comfort.
+- Disponibile nelle taglie S, M, L, XL e XXL.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B094R2D9GC{{</world>}}

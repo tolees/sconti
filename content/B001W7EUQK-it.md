@@ -28,10 +28,10 @@ average: '7.99'
 
 ℹ️:
 
-- PLATORELLO Ø 125 MM – Ideale per levigare in modo rapido e senza sforzo grandi superfici, rimuovendo vernice, ruggine e imperfezioni
 - FILETTATURA M14 UNIVERSALE – Attacco M14 compatibile con la maggior parte delle smerigliatrici angolari disponibili in commercio
-- DADO A FLANGIA PER CARTA ABRASIVA – Dado flangiato che trattiene in modo sicuro la carta abrasiva e ne facilita il cambio durante il lavoro
 - DESIGN CONFORME ALLE NORME – Prodotto conforme alla norma ISO 15636 per garantire elevati standard di sicurezza e affidabilità nei progetti fai da te
+- DADO A FLANGIA PER CARTA ABRASIVA – Dado flangiato che trattiene in modo sicuro la carta abrasiva e ne facilita il cambio durante il lavoro
+- PLATORELLO Ø 125 MM – Ideale per levigare in modo rapido e senza sforzo grandi superfici, rimuovendo vernice, ruggine e imperfezioni
 - ROBUSTO PER USO INTENSIVO – Versione resistente e durevole, supporta fino a 12.200 giri/min per un avanzamento rapido in officina e cantiere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

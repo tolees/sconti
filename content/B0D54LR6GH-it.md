@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 100% cotone
-- Con grafica sorprendente
 - Vestibilità ampia
-- Girocollo
+- Con grafica sorprendente
 - Lavabile in lavatrice
+- 100% cotone
+- Girocollo
 - Un classico senza tempo che puoi indossare con qualsiasi cosa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

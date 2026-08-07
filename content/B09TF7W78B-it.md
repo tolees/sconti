@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - In morbido jersey di cotone traspirante
 - Vestibilità comoda per un ottimo comfort e versatilità
-- Design classico a girocollo per un look casual
 - Ottimo logo Dickies stampato sul petto
+- Design classico a girocollo per un look casual
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09TF7W78B{{</world>}}

@@ -28,12 +28,12 @@ average: '7.7'
 
 ℹ️:
 
-- SENZA ACIDI: questa carta è senza acidi e a PH neutro per una perfetta conservazione dei disegni nel tempo.
-- FORMATO A4 - 21x29,7cm : questo blocco da 20 fogli incollati vi permette di conservare le vostre opere o di staccarle facilmente senza strapparle.
-- GRANA FINE: la sua superficie leggermente a grana è ideale per i lavori a contrasto e il disegno preciso.
-- SPECIALISTI BELLE ARTI PER ECCELLENZA: Clairefontaine Rhodia propone prodotti di alta qualità, adatti alle vostre esigenze e a tutte le tecniche di disegno.
 - TECNICHE SECCHE: questa carta è progettata per il disegno a matita, a grafite, a sanguigna, a pastello o a pennarello pigmentato. Si presterà perfettamente a schiariture con inchiostro bianco o tempera.
+- FORMATO A4 - 21x29,7cm : questo blocco da 20 fogli incollati vi permette di conservare le vostre opere o di staccarle facilmente senza strapparle.
 - CARBON carta nera 120g : questa carta dalla tinta Nera profonda è tinta in massa e perfettamente resistente alla luce.
+- SPECIALISTI BELLE ARTI PER ECCELLENZA: Clairefontaine Rhodia propone prodotti di alta qualità, adatti alle vostre esigenze e a tutte le tecniche di disegno.
+- SENZA ACIDI: questa carta è senza acidi e a PH neutro per una perfetta conservazione dei disegni nel tempo.
+- GRANA FINE: la sua superficie leggermente a grana è ideale per i lavori a contrasto e il disegno preciso.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B06XZXBH13{{</world>}}

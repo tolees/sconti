@@ -29,10 +29,10 @@ average: '104.793333333333'
 ℹ️:
 
 - Dispositivo di sicurezza che impedisce uso involontario
+- Possibilità di lavorare impasti di max 2.4kg
 - Piedini con ventosa per maggiore stabilità
 - 8 velocità di funzionamento + pulse
 - Contenitore 5.2 litri in acciaio inossidabile con coperchio
-- Possibilità di lavorare impasti di max 2.4kg
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B06WVCSP9Q{{</world>}}

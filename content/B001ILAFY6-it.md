@@ -29,13 +29,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Con attacco per perno di bloccaggio e anello in gomma
-- Profilo di uscita: esagonale
+- Trattamento superficiale: fosfatato
+- Realizzato in acciaio al cromo-molibdeno
 - Coppia massima: 682 Nm
-- Apertura chiave: 32 mm
+- Profilo di uscita: esagonale
 - Lunghezza: 78 mm
 - Adatto per avvitatori manuali e a impulsi
-- Realizzato in acciaio al cromo-molibdeno
-- Trattamento superficiale: fosfatato
+- Apertura chiave: 32 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B001ILAFY6{{</world>}}

@@ -28,9 +28,9 @@ average: '78.24'
 
 ℹ️:
 
-- Diametro foro: 30 mm/legno, 12 mm/acciaio, 14 mm/calcestruzzo
 - Coppia di serraggio max 17 nm, preselazione n° di giri, 50-3000 giri/min, n° 45.000 colpi/min
 - Mandrino autoserrante da 13 mm Press&Lock
+- Diametro foro: 30 mm/legno, 12 mm/acciaio, 14 mm/calcestruzzo
 - Trapano battente da 800 watt
 - Con kickback control, linnovazione mondiale che previene il rischio di torsione accidentale
 

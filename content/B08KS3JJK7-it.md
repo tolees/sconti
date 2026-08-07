@@ -28,11 +28,11 @@ average: '209.49'
 
 ℹ️:
 
+- DIMENSIONI: montata misura 126x184,5x205 H cm
+- FACILE DA ASSEMBLARE: leggere attentamente le istruzioni di montaggio e assicurarsi che non ci siano parti mancanti o danneggiate prima di assemblare il prodotto
 - MATERIALE: realizzata in resina plastica resistente agli agenti atmosferici e non richiede manutenzione
 - KETER TRASFORMA IL TUO GIARDINO: con la casetta Darwin 4x6 dalle dimensioni compatte, realizzata in EVOTECH+, particolare finitura che riproduce gli effetti del legno naturale
-- DIMENSIONI: montata misura 126x184,5x205 H cm
 - CARATTERISTICHE: dotata di struttura con pareti a doppio strato, rinforzi interni in metallo, fori di ventilazione, pavimento incluso e sistema di chiusura lucchettabile in metallo; caratterizzata da unampia finestra laterale per lentrata della luce naturale
-- FACILE DA ASSEMBLARE: leggere attentamente le istruzioni di montaggio e assicurarsi che non ci siano parti mancanti o danneggiate prima di assemblare il prodotto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08KS3JJK7{{</world>}}

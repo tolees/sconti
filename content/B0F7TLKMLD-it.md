@@ -29,10 +29,10 @@ average: '19.295'
 ℹ️:
 
 - Questo profumo a lunga durata regala una radiosa fusione di bergamotto, pepe nero speziato, cardamomo e salvia sclarea.
+- Questa linea di eau de parfum, curata personalmente da lui, celebra le esperienze di Beckham e larte della profumeria, accompagnando chi la indossa nel proprio viaggio verso nuove destinazioni olfattive.
 - Una miscela aromatica e ambrata che dona unesperienza soave e sensuale per chi la indossa.
 - Il regalo ideale per voi stessi o per una persona cara. La David Beckham Collection è unode alla raffinatezza, alla mascolinità e alla gioia di vivere una vita avventurosa.
 - La Collection di David Beckham presenta il cofanetto regalo Amber Breeze Eau de Parfum e Docciaschiuma, una fragranza elegante che evoca immagini di straordinari tramonti pieni di promesse.
-- Questa linea di eau de parfum, curata personalmente da lui, celebra le esperienze di Beckham e larte della profumeria, accompagnando chi la indossa nel proprio viaggio verso nuove destinazioni olfattive.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F7TLKMLD{{</world>}}

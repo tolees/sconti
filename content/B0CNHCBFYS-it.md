@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Da indossare con qualsiasi jeans
 - La T-shirt essenziale, ottimizzata
+- Da indossare con qualsiasi jeans
 - Rifinita con un piccolo logo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

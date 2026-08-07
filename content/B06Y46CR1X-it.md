@@ -28,10 +28,10 @@ average: '1.78'
 
 ℹ️:
 
-- Potere adesivo – Grazie all’elevato potere adesivo, i cerotti per ferite rimangono in posizione per proteggere dai batteri e sono quasi indolore da togliere
-- Contenuto – Hansaplast Cerotti SENSITIVE per pelli sensibili, Cerotti ipoallergenici di diversi formati che proteggono tutta la ferita, 1 confezione da 20 pezzi assortiti, numero articolo: 46041
-- Copertura e protezione – Questi hansaplast cerotti sono ideali per la copertura e protezione delle piccole ferite quotidiane come tagli, graffi ed escoriazioni
 - Ferita protetta – La particolare compressa dei cerotti per pelle sensibile protegge dagli urti e non si attacca alla ferita, facilitando il cambio quotidiano
+- Contenuto – Hansaplast Cerotti SENSITIVE per pelli sensibili, Cerotti ipoallergenici di diversi formati che proteggono tutta la ferita, 1 confezione da 20 pezzi assortiti, numero articolo: 46041
+- Potere adesivo – Grazie all’elevato potere adesivo, i cerotti per ferite rimangono in posizione per proteggere dai batteri e sono quasi indolore da togliere
+- Copertura e protezione – Questi hansaplast cerotti sono ideali per la copertura e protezione delle piccole ferite quotidiane come tagli, graffi ed escoriazioni
 - Delicati – I cerotti assortiti garantiscono una protezione ipoallergenica della ferita grazie al materiale morbido e traspirante, specifico per pelli sensibili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

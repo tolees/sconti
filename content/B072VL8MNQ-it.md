@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Si prega di notare che la dimensione della tazza si riferisce a una tazzina da caffè espresso di circa 30 ml.
+- Alta qualità: realizzata in alluminio, come la tradizionale moka express
+- Seleziona la dimensione del bruciatore per adattarla al fondo della caffettiera. La fiamma non deve mai inghiottire la pentola, ma deve rimanere sul fondo della pentola.
+- Non adatto per luso su piastre a induzione
 - Ottima per la preparazione del vero caffè italiano
 - Massima sicurezza: valvola di sicurezza brevettata, ispezionabile e di facile pulizia
-- Non adatto per luso su piastre a induzione
-- Si prega di notare che la dimensione della tazza si riferisce a una tazzina da caffè espresso di circa 30 ml.
-- Caffettiera dai colori brillanti, per un risveglio allinsegna del buon umore
-- Alta qualità: realizzata in alluminio, come la tradizionale moka express
 - Bialetti, una storia italiana di creatività e passione dal 1921
-- Seleziona la dimensione del bruciatore per adattarla al fondo della caffettiera. La fiamma non deve mai inghiottire la pentola, ma deve rimanere sul fondo della pentola.
+- Caffettiera dai colori brillanti, per un risveglio allinsegna del buon umore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B072VL8MNQ{{</world>}}

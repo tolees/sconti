@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Rifiniture a righe sportive
 - Polo BOSS con logo a contrasto
 - Realizzata in cotone con tessitura piqué traspirante
+- Rifiniture a righe sportive
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F6W12VLH{{</world>}}

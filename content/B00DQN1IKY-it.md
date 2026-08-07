@@ -30,9 +30,9 @@ average: '0.59'
 
 - CARATTERISTICHE: Con il suo gusto fresco e la giusta effervescenza, San Benedetto Cedrata è ideale per accompagnare qualsiasi pasto e aperitivo. Il formato 1500 ml è perfettoda condividere in ogni occasione.
 - CONTENUTO: San Benedetto Cedrata in formato da 6x1500 ml è una bevanda gassata della tradizione italiana, ideale per chi desidera una bibita fresca e dissetante. Perfetta per chi ama il gusto frizzante da condividere con amici e famiglia durante i pasti.
-- Nata nel 1956, Acqua Minerale San Benedetto S.p.A. è presente commercialmente in cento Paesi nei cinque continenti ed è il primo player in Italia del beverage analcolico (fonte GlobalData 2024, dati 2023). Azienda “totale”, multispecialista e multicanale.
-- BENEFICI: La linea di Bibite San Benedetto è unesplosione di bollicine e allegria. Gusti dissetanti e originali garantiscono unesperienza piacevole e rinfrescante adatta a tutta la famiglia.
 - SOSTENIBILITÀ: Da 40 anni ci occupiamo di Sostenibilità Ambientale grazie a una politica volta alla tutela dell’ambiente con limpegno di ridurre le emissioni di gas effetto serra.
+- BENEFICI: La linea di Bibite San Benedetto è unesplosione di bollicine e allegria. Gusti dissetanti e originali garantiscono unesperienza piacevole e rinfrescante adatta a tutta la famiglia.
+- Nata nel 1956, Acqua Minerale San Benedetto S.p.A. è presente commercialmente in cento Paesi nei cinque continenti ed è il primo player in Italia del beverage analcolico (fonte GlobalData 2024, dati 2023). Azienda “totale”, multispecialista e multicanale.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00DQN1IKY{{</world>}}

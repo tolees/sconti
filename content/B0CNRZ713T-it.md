@@ -28,10 +28,10 @@ average: '29.9'
 
 ℹ️:
 
-- CREA IL TUO CYBERPUNK - Diventa un fuorilegge urbano dotato di miglioramenti cibernetici e costruisci la tua leggenda per le strade di Night City.
-- Costruisci la tua leggenda: vai in avventure audaci e costruisci relazioni con personaggi indimenticabili i cui destini sono modellati dalle scelte che fai.
 - Decidi come finisce la storia: le tue scelte nel gioco base e lavventura spy-thriller Phantom Liberty creano intrecci di conseguenze, che modellano il destino dei personaggi intorno a te e al tuo.
+- CREA IL TUO CYBERPUNK - Diventa un fuorilegge urbano dotato di miglioramenti cibernetici e costruisci la tua leggenda per le strade di Night City.
 - ESPLORA LA CITTÀ DEL FUTURO - Night City è piena di cose da fare, luoghi da vedere e persone da incontrare. E sta a te dove andare, quando andare e come arrivarci.
+- Costruisci la tua leggenda: vai in avventure audaci e costruisci relazioni con personaggi indimenticabili i cui destini sono modellati dalle scelte che fai.
 - ARTICOLI ESCLUSIVI DI CLAIM - Richiedi swag in-game e gadget digitali ispirati ai giochi CD PROJEKT RED come parte del programma My Rewards.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ average: '3.714'
 
 ℹ️:
 
-- La sua azione purificante rimuove le impurità
 - Maschera Garnier per rimuovere i punti neri
+- La sua azione purificante rimuove le impurità
 - Da applicare sulla zona T
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

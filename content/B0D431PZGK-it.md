@@ -28,10 +28,10 @@ average: '22.5'
 
 ℹ️:
 
-- Skinny
 - In innumerevoli combinazioni, i jeans skinny uniformemente colorati possono dimostrare il loro comfort. Casual con cappuccio o elegante con una camicetta – non è un problema per questo modello versatile.
 - Lo stile veste piccolo
 - La perfetta miscela di sportivo e femminile: i Jeggings di ONLY evoca una silhouette elegante con una sgargiante qualità elasticizzata. Lelasticità garantisce un elevato comfort e sottolinea le gambe.
+- Skinny
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D431PZGK{{</world>}}

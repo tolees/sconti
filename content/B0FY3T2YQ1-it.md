@@ -28,11 +28,11 @@ average: '12.0'
 
 ℹ️:
 
+- Questa espansione ti permetterà di estendere le tue reti stradali e ferroviarie in un paesaggio di campagna
+- Numero di giocatori: 1-4 | Età consigliata: 8+ | Durata media: 45 min | Edizione in Lingua Italiana
 - Questa espansione può essere giocata solo in abbinamento al gioco base Railroad Tiles
 - Posiziona recinzioni e stalle e riempile di animali dello stesso tipo
-- Numero di giocatori: 1-4 | Età consigliata: 8+ | Durata media: 45 min | Edizione in Lingua Italiana
 - Railroad Tiles è un gioco da tavolo di posizionamento tessere, seguito della serie Roll & Write Railroad Ink.
-- Questa espansione ti permetterà di estendere le tue reti stradali e ferroviarie in un paesaggio di campagna
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FY3T2YQ1{{</world>}}

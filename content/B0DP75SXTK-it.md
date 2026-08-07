@@ -28,16 +28,16 @@ average: '104.57'
 
 ℹ️:
 
-- Calotta riflettente inox: grazie alla sua struttura in acciaio inox, questo forno non solo garantisce una resistenza eccezionale, ma offre anche unottima distribuzione del calore.
-- Corpo superiore con chiusura ammortizzata: questa funzione nel corpo superiore permette aprirsi e chiudersi lentamente, evitando urti e garantendo una maggiore sicurezza.
-- Pietra refrattaria reversibile (Ø31cm): La pietra refrattaria è reversibile, il che significa che puoi utilizzarla su entrambi i lati.
-- Dimensioni (L x H x P): 33 x 20 x 39 cm | Peso: 5.2 Kg
-- Pietra staccabile per pirolisi e pulizia: grazie alla funzione di pirolisi, il forno raggiunge temperature elevate che bruciano i residui di cibo, rendendo la manutenzione un gioco da ragazzi. Non cè bisogno di detergenti aggressivi o di spendere ore a pulire.
-- 2 Resistenze azionabili separatamente: questo sistema consente di adattare la cottura a seconda delle preferenze personali, garantendo risultati da vera pizzeria.
-- Pareti fredde con sistema di raffreddamento a ventilazione forzata: ciò significa che, anche durante lunghe sessioni di lavoro, le pareti rimangono fresche al tatto, riducendo il rischio di scottature accidentali.
-- Accessori inclusi: palette inox Ø28cm, pietra refrattaria, ricettario
-- Potenza 1200W | Termostato regolabile fino a 420°C: grazie alla sua tecnologia avanzata, questo forno permette di raggiungere temperature elevate in breve tempo, garantendo una cottura uniforme e croccante.
 - Termometro e 2 spie di funzionamento: equipaggiato con due spie di funzionamento, questo apparecchio è estremamente facile da usare. Una manopola consente di selezionare la resistenza, permettendo di adattare il calore in base alla tipologia di pizza che si sta preparando, mentre laltra manopola regola la temperatura, assicurando una cottura perfetta.
+- Pietra staccabile per pirolisi e pulizia: grazie alla funzione di pirolisi, il forno raggiunge temperature elevate che bruciano i residui di cibo, rendendo la manutenzione un gioco da ragazzi. Non cè bisogno di detergenti aggressivi o di spendere ore a pulire.
+- Pietra refrattaria reversibile (Ø31cm): La pietra refrattaria è reversibile, il che significa che puoi utilizzarla su entrambi i lati.
+- Accessori inclusi: palette inox Ø28cm, pietra refrattaria, ricettario
+- Calotta riflettente inox: grazie alla sua struttura in acciaio inox, questo forno non solo garantisce una resistenza eccezionale, ma offre anche unottima distribuzione del calore.
+- Pareti fredde con sistema di raffreddamento a ventilazione forzata: ciò significa che, anche durante lunghe sessioni di lavoro, le pareti rimangono fresche al tatto, riducendo il rischio di scottature accidentali.
+- Potenza 1200W | Termostato regolabile fino a 420°C: grazie alla sua tecnologia avanzata, questo forno permette di raggiungere temperature elevate in breve tempo, garantendo una cottura uniforme e croccante.
+- Corpo superiore con chiusura ammortizzata: questa funzione nel corpo superiore permette aprirsi e chiudersi lentamente, evitando urti e garantendo una maggiore sicurezza.
+- 2 Resistenze azionabili separatamente: questo sistema consente di adattare la cottura a seconda delle preferenze personali, garantendo risultati da vera pizzeria.
+- Dimensioni (L x H x P): 33 x 20 x 39 cm | Peso: 5.2 Kg
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DP75SXTK{{</world>}}

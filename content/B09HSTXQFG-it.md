@@ -28,10 +28,10 @@ average: '16.05'
 
 ℹ️:
 
-- VESTIBILITÀ REGOLARE: vestibilità aderente ma confortevole lungo il torace, la vita e i fianchi.
-- DETTAGLI: presenta uno scollo rotondo, maniche corte, orlo a lembo curvo e una lunghezza da casacca per uno stile casual e disinvolto.
 - JERSEY DI RAYON ELASTICIZZATO: questo jersey leggero, morbido e drappeggiato presenta una bellissima finitura uniforme. Disponibile anche nellopzione da fonti sostenibili in 95% rayon (viscosa Lenzing Ecovero), 5% elastan.
 - T-SHIRT CASACCA FONDAMENTALE: un caposaldo del guardaroba, perfetta da sola o come strato in tutte le stagioni, al lavoro, in viaggio o in casa.
+- VESTIBILITÀ REGOLARE: vestibilità aderente ma confortevole lungo il torace, la vita e i fianchi.
+- DETTAGLI: presenta uno scollo rotondo, maniche corte, orlo a lembo curvo e una lunghezza da casacca per uno stile casual e disinvolto.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09HSTXQFG{{</world>}}

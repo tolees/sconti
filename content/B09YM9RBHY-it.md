@@ -30,9 +30,9 @@ average: '716.5'
 
 - Regolazione dellaltezza di taglio centrale: 7 posizioni di taglio da 20 a 80 mm
 - Autoportante: la velocità può essere controllata sul manico
+- Tecnologia brushless: potente motore brushless per una maggiore durata della batteria
 - Elevata efficienza di taglio: non importa se in erba alta o durante la pacciamatura, grazie alla tecnologia Intellicut, il tosaerba a batteria Worx funziona sempre in modo stabile
 - 3 in 1: funzione pacciamatura, espulsione laterale e cesto raccoglierba
-- Tecnologia brushless: potente motore brushless per una maggiore durata della batteria
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09YM9RBHY{{</world>}}

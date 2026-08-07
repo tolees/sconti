@@ -28,11 +28,11 @@ average: '16.7316666666666'
 
 ℹ️:
 
-- Gradazione alcolica: 4,6% vol
-- Sapore maltato, finemente amaro, con note fresche e floreali
 - Lager a bassa fermentazione con luppoli pregiati
 - Pochi e semplici ingredienti: acqua, malto d’orzo, granoturco, luppolo
 - Perfetta per accompagnare ogni pasto
+- Sapore maltato, finemente amaro, con note fresche e floreali
+- Gradazione alcolica: 4,6% vol
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GNSHVLH1{{</world>}}

@@ -28,13 +28,13 @@ average: '22.7316666666667'
 
 ℹ️:
 
-- Dopo 3 anni di conservazione, mantiene 65% della carica originale
-- Suggerimenti per la batteria Ni-MH: Verificare la compatibilità del dispositivo con le batterie Ni-MH da 1.2 V. Lautonomia può risultare inferiore rispetto alle batterie alcaline da 1.5 V. Verificare la compatibilità poiché le batterie Ni-MH sono leggermente più grandi rispetto a quelle alcaline per motivi di conformità agli standard IEC. Sostituire tutte le batterie contemporaneamente e consultare il manuale del dispositivo per requisiti specifici.
-- Elevata capacità: 2400 mAh
-- Confezione da 24 AA batterie ricaricabili ad alta capacità
-- NOTA: Per evitare danni o un rapido esaurimento delle batterie, NON MISCHIARE: batterie non ricaricabili con ricaricabili; batterie completamente cariche con batterie a carica medio-bassa; batterie nuove con vecchie; batterie con capacità (mAh) diverse; marche diverse.
 - Pre-caricate tramite energia solare
+- Confezione da 24 AA batterie ricaricabili ad alta capacità
+- Suggerimenti per la batteria Ni-MH: Verificare la compatibilità del dispositivo con le batterie Ni-MH da 1.2 V. Lautonomia può risultare inferiore rispetto alle batterie alcaline da 1.5 V. Verificare la compatibilità poiché le batterie Ni-MH sono leggermente più grandi rispetto a quelle alcaline per motivi di conformità agli standard IEC. Sostituire tutte le batterie contemporaneamente e consultare il manuale del dispositivo per requisiti specifici.
 - Suggerimenti per il caricabatterie: Utilizzare solo caricabatterie specifici per Ni-MH con canali di ricarica indipendenti e monitoraggio della tensione per evitare una carica eccessiva o insufficiente. Evitare caricabatterie basati esclusivamente su timer e non utilizzare mai caricabatterie progettati per altri tipi di batterie (ad esempio NiZn o Li-ion), poiché ciò potrebbe causare danni o perdite.
+- Elevata capacità: 2400 mAh
+- Dopo 3 anni di conservazione, mantiene 65% della carica originale
+- NOTA: Per evitare danni o un rapido esaurimento delle batterie, NON MISCHIARE: batterie non ricaricabili con ricaricabili; batterie completamente cariche con batterie a carica medio-bassa; batterie nuove con vecchie; batterie con capacità (mAh) diverse; marche diverse.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07NWWHK1J{{</world>}}

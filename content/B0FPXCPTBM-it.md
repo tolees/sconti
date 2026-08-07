@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- GUIDA DIGITALE: lascia che lapp LEGO Builder guidi i piccoli in unavventura intuitiva; si tratta di uno strumento per salvare i set, per tenere traccia dei progressi fatti, e per ingrandire e ruotare i modelli in 3D
 - MONASTERO LEGO: il giocattolo ninja comprende gradini, porte apribili, una lanterna, un ciliegio in fiore e una sala da tè sul retro, e può ospitare 8 minifigure NINJAGO
+- CARATTERISTICHE DIVERTENTI: la sala da tè del monastero include adesivi che raffigurano una famosa battaglia tra Wu e Garmadon, dalla stagione pilota della serie TV; unavvincente decorazione per la camera da letto dei giovani
+- GUIDA DIGITALE: lascia che lapp LEGO Builder guidi i piccoli in unavventura intuitiva; si tratta di uno strumento per salvare i set, per tenere traccia dei progressi fatti, e per ingrandire e ruotare i modelli in 3D
+- 8 PERSONAGGI LEGO NINJAGO: Kai, Zane, Cole, Jay, Lloyd, Wu, Samurai X (dalla stagione 1 della serie TV) e, per la prima volta, il Maestro dei Fulmini Elementale su un supporto
 - IDEA REGALO PER ADOLESCENTI: questo kit di modellismo è un gadget regalo di compleanno per bambini, bambine, ragazzi e ragazze dai 14 anni in su, pensato anche per i fan adulti dei set LEGO NINJAGO da collezione
 - SET ANNIVERSARIO NINJAGO: i fan adolescenti possono celebrare i Maestri dello Spinjitzu con il set Display Personaggi Ninja – 15° Anniversario, un gioco LEGO NINJAGO per bambini e bambine da 14 anni in su
-- 8 PERSONAGGI LEGO NINJAGO: Kai, Zane, Cole, Jay, Lloyd, Wu, Samurai X (dalla stagione 1 della serie TV) e, per la prima volta, il Maestro dei Fulmini Elementale su un supporto
-- CARATTERISTICHE DIVERTENTI: la sala da tè del monastero include adesivi che raffigurano una famosa battaglia tra Wu e Garmadon, dalla stagione pilota della serie TV; unavvincente decorazione per la camera da letto dei giovani
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FPXCPTBM{{</world>}}

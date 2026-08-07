@@ -28,8 +28,8 @@ average: '3.99'
 
 ℹ️:
 
-- Prodotti di bellezza
 - Prodotti di ottima qualita
+- Prodotti di bellezza
 - Comodo e facile da utilizzare
 - Formula migliorata e completa
 

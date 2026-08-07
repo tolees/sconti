@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Riuscirete a individuare il dettaglio che collega tutti i pezzi del puzzle?
+- DOVE OGNI INVESTIGATORE VEDE IL CASO DA UNA PROSPETTIVA UNICA.
 - In PERSPECTIVES, ogni giocatore possiede informazioni chiave per ricostruire l’accaduto e trovare la soluzione.
 - Numero di giocatori: 2-6 | Età consigliata: 12+ anni | Durata media: 90 min. | Edizione in italiano
-- DOVE OGNI INVESTIGATORE VEDE IL CASO DA UNA PROSPETTIVA UNICA.
 - Tre casi, ognuno in quattro atti. Incrociate fotografie, referti e indizi... senza guardare i documenti degli altri giocatori della vostra squadra!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

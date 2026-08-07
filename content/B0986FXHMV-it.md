@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dylan,
 - In
+- Dylan,
 - Springtime
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

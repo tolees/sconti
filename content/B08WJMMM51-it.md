@@ -28,11 +28,11 @@ average: '35.42'
 
 ℹ️:
 
+- Un’identità e un carattere ben precisi, profumi freschi e agrumati, note fruttate e resinose. Tanto luppolo americano e un’eleganza tutta italiana come da tradizione Birra del Borgo. Dai grandi classici nasce qualcosa di inaspettatamente nuovo
+- Labbinamento perfetto: il Barbecue e le grigliate sono i suoi compagni ideali. Sposa benissimo anche primi piatti di carne e di terra come ragù o lasagne.
 - Confezione da 12 bottiglie da 50cl di Birra del Borgo IPA
 - Temperatura di servizio 10-12° in bicchiere stile pinta classica
 - Birra del Borgo IPA è una birra stile Italian Pale Ale, 4% alcool
-- Labbinamento perfetto: il Barbecue e le grigliate sono i suoi compagni ideali. Sposa benissimo anche primi piatti di carne e di terra come ragù o lasagne.
-- Un’identità e un carattere ben precisi, profumi freschi e agrumati, note fruttate e resinose. Tanto luppolo americano e un’eleganza tutta italiana come da tradizione Birra del Borgo. Dai grandi classici nasce qualcosa di inaspettatamente nuovo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08WJMMM51{{</world>}}

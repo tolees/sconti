@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 25 arene con livelli entusiasmanti e spettacolari, carriera completa con 3 leghe
 - 16 Monster Truck + 50 elementi di personalizzazione
+- 25 arene con livelli entusiasmanti e spettacolari, carriera completa con 3 leghe
 - Un mix perfetto di guida realistica e grande spettacolarità, trasferimenti di massa, rimbalzi dopo i salti e molto altro
 - Modalità online per un massimo di 8 giocatori
 

@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - DESIGN SENZA TEMPO: contenuto nel classico barattolo di vetro con coperchio per preservare la fragranza; etichetta rimovibile per un look personalizzato
 - UNA COMBUSTIONE PULITA E UNIFORME: lo stoppino di cotone al 100% in fibra naturale è raddrizzato e centrato
-- SORBETTO ALLA MELA VERDE: Raccogli qualcosa di irresistibile. Questa fragranza che ricorda un sorbetto ghiacciato si fonde con note che richiamano acidulemele verdi e pere succose: pura felicità.
 - AROMA CHE RIEMPIE LAMBIENTE: Gli ingredienti autentici e la cera di prima qualità garantiscono una fragranza costante e duratura
+- SORBETTO ALLA MELA VERDE: Raccogli qualcosa di irresistibile. Questa fragranza che ricorda un sorbetto ghiacciato si fonde con note che richiamano acidulemele verdi e pere succose: pura felicità.
 - CANDELE A LUNGA DURATA: fino a 150 ore; 17 cm di altezza x 10 cm di larghezza (623 g)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

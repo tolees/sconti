@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - 6 confezioni da 16 capsule: 96 capsule totali
-- Scopri come smaltire la confezione su buonalavita sezione Dove lo Butto
+- Miscela ispirata alla tradizione italiana del caffè, caffè torrefatto e macinato
 - Capsule originali per macchina per caffè espresso e altre bevande NESCAFÉ DOLCE GUSTO
 - Capsule compatibili con macchina per caffè espresso e altre bevande NESCAFÉ DOLCE GUSTO
-- Miscela ispirata alla tradizione italiana del caffè, caffè torrefatto e macinato
+- Scopri come smaltire la confezione su buonalavita sezione Dove lo Butto
 - Caffè Espresso dal carattere deciso di Palermo: intensità 10/13
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

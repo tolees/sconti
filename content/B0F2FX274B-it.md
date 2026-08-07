@@ -29,12 +29,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Suola in gomma ADIWEAR
-- Vestibilità regolare
-- Tomaia in tessuto
 - Lacci
+- Vestibilità regolare
 - Intersuola LIGHTMOTION
-- Soletta in tessuto
 - Peso: 244 g
+- Soletta in tessuto
+- Tomaia in tessuto
 - Drop intersuola: 6 mm (tallone 27 mm / avampiede 21 mm)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ average: '67.99'
 
 ℹ️:
 
-- 2 OPZIONI DI POSA: assembla Messi con la maglia da calcio nella sua posa di vittoria mentre punta il dito verso il cielo, o in una posa dinamica mentre controlla la palla sul campo
 - GADGET DA CALCIO PER BAMBINI E FAN: include un grande numero 10 (uno degli iconici numeri di maglia del giocatore), la scritta MESSI, una targa con il suo nome, un volto costampato e un nuovo elemento pallone da calcio
 - ACTION FIGURE DEL CALCIATORE 2 IN 1 DA ESPOSIZIONE: il gioco per bambini e bambine da 12 anni in su Lionel Messi – Leggenda del Calcio LEGO Editions da collezione consente ai fan di costruire il loro idolo sportivo
 - REGALO DA CALCIO PER BAMBINI E RAGAZZI AMANTI DELLO SPORT: una gradita idea regalo a tema calcio per i giovani e per gli adulti tifosi del calciatore, perfetta per festeggiare un compleanno o altre occasioni speciali
-- TUTTA LA GAMMA DI MODELLI SPORTIVI: mostra il tuo amore per le stelle dello sport con gli altri modellini della serie (disponibili separatamente), come il set LEGO Editions Lionel Messi – Highlights Calcistici (43011)
+- 2 OPZIONI DI POSA: assembla Messi con la maglia da calcio nella sua posa di vittoria mentre punta il dito verso il cielo, o in una posa dinamica mentre controlla la palla sul campo
 - DECORAZIONE DA CAMERA DA LETTO: esponi laction figure da calcio come decorazione da scrivania o da scaffale, e rendi omaggio a un grande campione sportivo
+- TUTTA LA GAMMA DI MODELLI SPORTIVI: mostra il tuo amore per le stelle dello sport con gli altri modellini della serie (disponibili separatamente), come il set LEGO Editions Lionel Messi – Highlights Calcistici (43011)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FR9KGKYY{{</world>}}

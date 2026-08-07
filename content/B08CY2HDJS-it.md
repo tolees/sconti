@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - La presa integrata assicura che non si perda nessuna presa. Modalità di risparmio energetico brevettata per ridurre il consumo energetico fino all85%.
-- Porta LAN Gigabit per il collegamento di computer, Smart TV, console di gioco, ecc. Facile installazione plug & play, nessuna configurazione necessaria.
 - Contenuto della confezione: TL-PA7017P, 1 cavo Ethernet, istruzioni per linstallazione rapida (lingua italiana non garantita).
 - Fino a 1 Gbit/s secondo il nuovo standard Homeplug AV2 su cavi di alimentazione esistenti.
+- Porta LAN Gigabit per il collegamento di computer, Smart TV, console di gioco, ecc. Facile installazione plug & play, nessuna configurazione necessaria.
 - Requisiti di sistema: Windows 2000/XP/2003/Vista, Windows 7/8/8.1, Mac, Linux
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

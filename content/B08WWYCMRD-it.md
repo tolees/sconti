@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Si possono trovare: Goombruno, Bob-omba parà, Boo, Cornacchio, Amperino, Ted Torpedine, Ossonella, Fungo 1-UP, Sguscioragno o uno Swooper
+- Ogni confezione del Pack Personaggi - Serie 3 contiene un personaggio costruibile con unaction tag da aggiungere ai set LEGO Starter Pack (71360 o 71387), necessari per giocare
 - I personaggi collezionabili del Pack Personaggi - Serie 3 (71394) offrono tante opzioni di gioco divertenti e interattive ai bambini che amano le costruzioni di LEGO Super Mario
 - I personaggi di LEGO Mario o Luigi (non inclusi) reagiscono ai personaggi in diversi modi, creando nuove sfide per giocare da soli o in compagnia
-- I playset giocattolo LEGO Super Mario collezionabili portano nel mondo reale i personaggi di Super Mario. Divertenti per giocare da soli o in gruppo, offrono innumerevoli sfide creative grazie alla possibilità di combinarlo con i Pack di espansione LEGO Super Mario.
-- Troverai le istruzioni per la costruzione allinterno del pack oppure sullapp gratuita LEGO Super Mario
-- Ogni confezione del Pack Personaggi - Serie 3 contiene un personaggio costruibile con unaction tag da aggiungere ai set LEGO Starter Pack (71360 o 71387), necessari per giocare
-- Si possono trovare: Goombruno, Bob-omba parà, Boo, Cornacchio, Amperino, Ted Torpedine, Ossonella, Fungo 1-UP, Sguscioragno o uno Swooper
 - Ciascuno dei 10 personaggi misteriosi collezionabili di LEGO Mario della serie Pack Personaggi è provvisto di una piccola base, perfetta da usare nei livelli creati dai bambini
+- Troverai le istruzioni per la costruzione allinterno del pack oppure sullapp gratuita LEGO Super Mario
+- I playset giocattolo LEGO Super Mario collezionabili portano nel mondo reale i personaggi di Super Mario. Divertenti per giocare da soli o in gruppo, offrono innumerevoli sfide creative grazie alla possibilità di combinarlo con i Pack di espansione LEGO Super Mario.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08WWYCMRD{{</world>}}

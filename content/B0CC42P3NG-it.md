@@ -28,8 +28,8 @@ average: '18.41'
 
 ℹ️:
 
-- Comodo da indossare e morbido al tatto
 - Taglio normale
+- Comodo da indossare e morbido al tatto
 - Composizione materiale: 88% cotone, 9% poliestere, 3% elastan
 - Vestibilità regolare
 - Lunghezza standard

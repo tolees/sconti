@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Vita alta
-- Gonna a maglia
 - attillato
+- Gonna a maglia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B4ZN6HGC{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ariete 4618 Airy Fryer XXL- Friggitrice ad Aria - Frigge 2 5 kg di Patatine Fritte - 7 Litri - Cottura Senza Olio e Grassi - 1800 Watt - Nero'
-date: 2026-07-27 16:22:23
+date: 2026-08-06 17:10:14
 image: 'https://m.media-amazon.com/images/I/41Fe5jD7tgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B085WMRLJJ-it Ariete 4618 Airy Fryer XXL- Friggitrice ad Aria - Frigge 2...'
 sku: 'B085WMRLJJ-it'
 tags: [ '🇮🇹', ]
-actualPrice: 52.94 EUR
+actualPrice: 47.0 EUR
 currency: EUR
-price: 52.94
+price: 47.0
 comparePrice: 100.0 EUR
 prodname: 'Ariete 4618 Airy Fryer XXL- Friggitrice ad Aria - Frigge 2 5 kg di Patatine Fritte - 7 Litri - Cottura Senza Olio e Grassi - 1800 Watt - Nero'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B085WMRLJJ/?tag=tolees00-21'
-descuento: '47.06'
-average: '57.6125000000001'
+descuento: '53.00'
+average: '56.0964285714286'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

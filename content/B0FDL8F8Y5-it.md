@@ -28,9 +28,9 @@ average: '27.3'
 
 ℹ️:
 
+- Logo Tommy Hilfiger ricamato sul petto
 - Nastro allinterno del collo
 - Vestibilità aderente
-- Logo Tommy Hilfiger ricamato sul petto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FDL8F8Y5{{</world>}}

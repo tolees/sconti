@@ -28,11 +28,11 @@ average: '249.9'
 
 ℹ️:
 
-- RGB PRONTO — Include due ventole F420 RGB Core a singolo telaio, una ventola F120 RGB Core (CV) sul retro e un NZXT Control Hub. CV = Versione del Case (3-pin DC)
-- FLUSSO DARIA OTTIMIZZATO — Pannelli in acciaio perforato e ventole angolate sul lato anteriore destro garantiscono un raffreddamento efficiente per costruzioni ad alte prestazioni.
-- CAPACITÀ DI DIECI VENTOLE — Supporta fino a nove ventole da 140 mm nella parte superiore, anteriore-destra e inferiore, più una ventola da 120 mm nella parte posteriore.
-- VISTA PANORAMICA — Mostra ogni dettaglio della tua build con pannelli in vetro temperato senza soluzione di continuità.
 - DESIGN A DOPPIA CAMERA — Separa i componenti principali dallalimentatore e dalle unità per migliorare le prestazioni termiche e la gestione dei cavi.
+- FLUSSO DARIA OTTIMIZZATO — Pannelli in acciaio perforato e ventole angolate sul lato anteriore destro garantiscono un raffreddamento efficiente per costruzioni ad alte prestazioni.
+- VISTA PANORAMICA — Mostra ogni dettaglio della tua build con pannelli in vetro temperato senza soluzione di continuità.
+- RGB PRONTO — Include due ventole F420 RGB Core a singolo telaio, una ventola F120 RGB Core (CV) sul retro e un NZXT Control Hub. CV = Versione del Case (3-pin DC)
+- CAPACITÀ DI DIECI VENTOLE — Supporta fino a nove ventole da 140 mm nella parte superiore, anteriore-destra e inferiore, più una ventola da 120 mm nella parte posteriore.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DQPQ5KN7{{</world>}}

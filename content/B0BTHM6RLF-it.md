@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Polsino largo (M-L) 22-42 cm
-- Rilevatore del battito cardiaco irregolare
-- Convalidato clinicamente secondo il protocollo internazionale ESH 2010
 - Rapid Tech Comfort ExperienceTM effettua la misurazione durante la fase di gonfiaggio
 - Indicatore del livello di pressione sanguigna
+- Rilevatore del battito cardiaco irregolare
+- Polsino largo (M-L) 22-42 cm
+- Convalidato clinicamente secondo il protocollo internazionale ESH 2010
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BTHM6RLF{{</world>}}

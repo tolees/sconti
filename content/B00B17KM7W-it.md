@@ -28,11 +28,11 @@ average: '246.89'
 
 ℹ️:
 
-- Spazzola larga: con una larghezza di 360 mm, la spazzola è particolarmente pratica per pulire rapidamente i pavimenti
-- Contenuto della confezione: Kärcher NT 48/1, tubo di aspirazione da 2,5 m, 2 tubi di aspirazione in acciaio inox, curva, ugello pavimento bagnato/asciutto (360 mm), bocchetta fessure, filtro a cartuccia, sacchetto filtro
-- Detergente robusto: con l’aspirapolvere a umido e a secco Kärcher NT 48/1 è possibile pulire in modo efficiente sporco bagnato, umido e asciutto in diversi ambiti.
-- Tubo di scarico: lacqua sporca può essere scaricata direttamente tramite il tubo di scarico dopo laspirazione a umido, ad esempio in uno scarico
 - Stivaggio integrato per tubo e cavo: i tubi di aspirazione e il cavo di alimentazione possono essere riposti in modo sicuro e salvaspazio sul contenitore durante il trasporto
+- Contenuto della confezione: Kärcher NT 48/1, tubo di aspirazione da 2,5 m, 2 tubi di aspirazione in acciaio inox, curva, ugello pavimento bagnato/asciutto (360 mm), bocchetta fessure, filtro a cartuccia, sacchetto filtro
+- Spazzola larga: con una larghezza di 360 mm, la spazzola è particolarmente pratica per pulire rapidamente i pavimenti
+- Tubo di scarico: lacqua sporca può essere scaricata direttamente tramite il tubo di scarico dopo laspirazione a umido, ad esempio in uno scarico
+- Detergente robusto: con l’aspirapolvere a umido e a secco Kärcher NT 48/1 è possibile pulire in modo efficiente sporco bagnato, umido e asciutto in diversi ambiti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00B17KM7W{{</world>}}

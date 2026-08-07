@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - FORMULA: assicura la corretta traspirazione della pelle.
-- AVVERTENZE: Aerosol Estremamente Infiammabile. Recipiente sotto pressione: può scoppiare se riscaldato. Tenere lontano da fonti di calore, superfici riscaldate, scintille, fiamme e altre fonti di innesco. Vietato fumare. Non vaporizzare su una amma libera o altra fonte di accensione. Recipiente sotto pressione: non perforare né bruciare neppure dopo l’uso. Proteggere dai raggi solari. Non esporre a temperature superiori a 50°C/122°F. Tenere fuori dalla portata dei bambini.
 - Intesa Pour Homme: la certezza di piacere. Pensata per l’uomo moderno che non scende a compromessi, la linea offre prodotti per l’igiene e la cura della pelle con eleganza e freschezza che durano tutto il giorno. Dall’After Shave lenitivo al Gel Doccia Shampoo energizzante, ogni formula garantisce comfort e benessere, con fragranze distintive che accompagnano ogni momento, donando una sensazione di pulito, sicurezza e vitalità.
 - DEODORANTE PARFUMÉ YLANG - YLANG: Offre una prolungata e fresca sensazione deodorante.
 - FRAGRANZA: La fragranza legnosa è fortemente caratterizzata dall’Ylang-Ylang, nota pianta che cresce nell’Estremo Oriente.
+- AVVERTENZE: Aerosol Estremamente Infiammabile. Recipiente sotto pressione: può scoppiare se riscaldato. Tenere lontano da fonti di calore, superfici riscaldate, scintille, fiamme e altre fonti di innesco. Vietato fumare. Non vaporizzare su una amma libera o altra fonte di accensione. Recipiente sotto pressione: non perforare né bruciare neppure dopo l’uso. Proteggere dai raggi solari. Non esporre a temperature superiori a 50°C/122°F. Tenere fuori dalla portata dei bambini.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B001QVGZ06{{</world>}}

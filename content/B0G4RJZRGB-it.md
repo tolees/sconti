@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Collo e bordi in costina rettilinea
 - Maniche corte, 3 bottoni personalizzati
+- REGULAR FIT
 - Polo da uomo realizzata in piquet di cotone
 - LOGO
-- REGULAR FIT
-- Collo e bordi in costina rettilinea
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0G4RJZRGB{{</world>}}

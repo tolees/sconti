@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Elastico
-- Tacco Piatto
-- Pelle liscia
-- Gomma
-- centimeters 2.5
 - Sintetico
+- Elastico
 - Le nostre scarpe vestono comodo, ti consigliamo quindi di scegliere una mezza taglia in meno rispetto alla tua misura abituale
+- centimeters 2.5
+- Pelle liscia
+- Tacco Piatto
+- Gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B06XQ24SDH{{</world>}}

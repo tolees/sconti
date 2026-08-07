@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- UNO Teams resta il gioco classico che i fan conoscono e amano, ma si gioca in squadre di due!
-- Carte speciali come Gioco Squadra Jolly e Squadra Jolly Pesca 4 aiutano le squadre a vincere insieme.
 - Non dimenticare: chi resta con una sola carta in mano deve gridare UNO!
+- Carte speciali come Gioco Squadra Jolly e Squadra Jolly Pesca 4 aiutano le squadre a vincere insieme.
+- UNO Teams resta il gioco classico che i fan conoscono e amano, ma si gioca in squadre di due!
 - Se uno dei due esce, prende metà delle carte dalla mano del proprio compagno e continua a giocare.
 - Gioca una carta con il simbolo pass e i giocatori possono passare una carta a loro scelta al proprio compagno di squadra.
 

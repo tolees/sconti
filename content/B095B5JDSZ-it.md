@@ -30,9 +30,9 @@ average: '4.7'
 
 - Fino a 20 x 25 cm, le cornici sono dotate di un supporto
 - Le cornici portafoto New Lifestyle hanno un profilo moderno arrotondato da 9 mm in plastica
-- Limmagine è solo a scopo illustrativo. Si prega di fare riferimento al titolo per le dimensioni
-- La cornice è adatta per una foto in formato 10 x 18 cm ed è quindi ideale per foto con smartphone stampate
 - Un dispositivo per appendere in verticale e orizzontale è disponibile nelle staffe girevoli fino a 20 x 30 cm
+- La cornice è adatta per una foto in formato 10 x 18 cm ed è quindi ideale per foto con smartphone stampate
+- Limmagine è solo a scopo illustrativo. Si prega di fare riferimento al titolo per le dimensioni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B095B5JDSZ{{</world>}}

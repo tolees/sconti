@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- 3G UMTS: 1 /3 /5 /8
+- LTE Cat.12 : Downlink 600 Mbps / Uplink 150 Mbps
 - HSPA+: Downlink 42.2 Mbps / Uplink 5.76 Mbps
+- 4G FDD-LTE: 1 /3 /5 /7 /8 /20 /28 /32
 - 4G TDD-LTE: 38 /40 /41
 - Adjustable LTE antenna, Adaptive QoS, media server, Mac time machine backup support, AiCloud 2.0, Parental Control, VPN server and client
-- LTE Cat.12 : Downlink 600 Mbps / Uplink 150 Mbps
-- 4G FDD-LTE: 1 /3 /5 /7 /8 /20 /28 /32
-- 3G UMTS: 1 /3 /5 /8
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08X2QWR6J{{</world>}}

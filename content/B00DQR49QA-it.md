@@ -28,8 +28,8 @@ average: '31.8128571428572'
 
 ℹ️:
 
-- Origine: Italia & # 62; Veneto & # 62; Valdobbiadene
 - Gusto: snello e gentile, non gehaltvoll con restsüße gradevole e fine, prolungati perlage
+- Origine: Italia & # 62; Veneto & # 62; Valdobbiadene
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00DQR49QA{{</world>}}

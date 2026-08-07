@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Samsung Monitor Gaming Odyssey G4, 27, Flat
-- HAS, Pivot
-- Refresh rate 240 Hz, Response Time 1 ms (GtG), Freesync Premium, G-Sync
 - HDMI, Display Port, Ingresso Audio
+- Refresh rate 240 Hz, Response Time 1 ms (GtG), Freesync Premium, G-Sync
+- HAS, Pivot
+- Samsung Monitor Gaming Odyssey G4, 27, Flat
 - 1920x1080 (Full HD), Pannello IPS, 16:9, HDR10
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

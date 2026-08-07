@@ -28,9 +28,9 @@ average: '129.99'
 
 ℹ️:
 
+- Cassa da 44 mm, larghezza del cinturino di 22 mm, cristallo minerale, movimento al quarzo, display analogico con cronografo, importato
 - Cassa rotonda in acciaio con quadrante nero
 - Bracciale in acciaio color arGento
-- Cassa da 44 mm, larghezza del cinturino di 22 mm, cristallo minerale, movimento al quarzo, display analogico con cronografo, importato
 - Resistente all’acqua fino a 50 m: indossabile per nuotare in acque basse
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

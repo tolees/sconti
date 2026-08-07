@@ -29,10 +29,10 @@ average: '12.43'
 ℹ️:
 
 - COLLEZIONALI TUTTI: quale dei 3 dinosauri leggendari e dei 6 curiosi alieni scoprirai?
-- SPORCATI LE MANI: Scopri e costruisci il dinosauro e l’alieno nascosti tra la terra e lo slime!
 - BATTAGLIA: Dinosauri contro alieni… Chi trionferà in questo scontro cosmico?
-- SCOPRI: Oltre 20 sorprese nascoste all’interno.
+- SPORCATI LE MANI: Scopri e costruisci il dinosauro e l’alieno nascosti tra la terra e lo slime!
 - DISTRUGGI E CREA: Distruggi il razzo e crea il tuo dinosauro e alieno personale.
+- SCOPRI: Oltre 20 sorprese nascoste all’interno.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DS2DCF3Y{{</world>}}

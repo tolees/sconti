@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Giocabile anche su Nintendo Switch 2
+- Modella il paesaggio a tuo piacimento
 - Popola la tua isola creando personaggi MII di ogni tipo
 - Prenditi cura della tua comunità e guarda nascere amicizie o amori
-- Modella il paesaggio a tuo piacimento
+- Giocabile anche su Nintendo Switch 2
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GKP49PS4{{</world>}}

@@ -28,11 +28,11 @@ average: '54.0'
 
 ℹ️:
 
+- Il drappeggio di Plissé veste la nuova caraffa termoisolante, composta da un vetro termico interno a doppia parete e linee geometriche concise
+- Dimensioni: lunghezza 20 cm, larghezza 11 cm, altezza 32 cm, capacità 100 cl
 - Designer: Michele De Lucchi
 - Segue linee geometriche concise, sintetizzando in un oggetto: esigenze tecniche, alte prestazioni e l’eleganza di un abito di sartoria
-- Dimensioni: lunghezza 20 cm, larghezza 11 cm, altezza 32 cm, capacità 100 cl
 - Materiale: resina termoplastica, vetro
-- Il drappeggio di Plissé veste la nuova caraffa termoisolante, composta da un vetro termico interno a doppia parete e linee geometriche concise
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09YLHVLWV{{</world>}}

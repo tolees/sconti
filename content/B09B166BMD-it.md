@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - CAFFÈ PER OGNI OCCASIONE: Menu completo di caffè: ristretto, espresso, lungo e altro. Regola i volumi da 25ml a 220ml e personalizza il tuo caffè preferito. Il vassoio raccogligocce regolabile si adatta a tazze di diverse dimensioni
-- NUOVA MACCHINA DA CAFFÈ A CAPSULE DOUBLE SHOT: Scopri la nuova macchina da caffè LOR Barista Sublime LM9012/60 con personalizzazione del volume. Prepara due espressi singoli contemporaneamente o un doppio espresso in una tazza con lesclusivo sistema double shot LOR Barista
-- DOPPIO PIACERE, DOPPIO CAFFÈ: La nuova macchina da caffè LOR Barista ti permette di preparare due caffè contemporaneamente o un doppio espresso in una singola tazza. Con una pressione fino a 19 bar, garantisce un espresso perfetto
 - QUALITÀ DEL VERO ESPRESSO: Goditi il vero sapore dellespresso con il sistema LOR Barista, che prepara il caffè ad alta pressione, fino a 19 bar, per assicurare una qualità autentica. Personalizza la lunghezza del caffè e gusta la tua tazza perfetta
 - COMPATIBILITÀ CON CAPSULE ESPRESSO: Assortimento di 9 capsule incluse nella confezione. Compatibile con capsule LOR Espresso e LOR Barista. Il riconoscimento automatico delle dimensioni della capsula è anche compatibile con capsule Nespresso
+- NUOVA MACCHINA DA CAFFÈ A CAPSULE DOUBLE SHOT: Scopri la nuova macchina da caffè LOR Barista Sublime LM9012/60 con personalizzazione del volume. Prepara due espressi singoli contemporaneamente o un doppio espresso in una tazza con lesclusivo sistema double shot LOR Barista
+- DOPPIO PIACERE, DOPPIO CAFFÈ: La nuova macchina da caffè LOR Barista ti permette di preparare due caffè contemporaneamente o un doppio espresso in una singola tazza. Con una pressione fino a 19 bar, garantisce un espresso perfetto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09B166BMD{{</world>}}

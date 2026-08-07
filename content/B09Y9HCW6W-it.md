@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Ci impegniamo a creare packaging sempre più sostenibili con l’obbiettivo di raggiungere un mondo senza sprechi: tutti i packaging delle bevande a marchio The Coca-Cola Company sono 100% riciclabili
 - Un sorso di storia: il primo bicchiere di Coca-Cola fu servito in una farmacia di Atlanta l’8 maggio 1886: nasce da un’idea del Dr John Stith Pemberton una bevanda “deliziosa e dissetante”
-- Come gustarla al meglio: versa Coca-Cola Zero Zuccheri Zero Caffeina in un bicchiere, preferibilmente fredda (circa 4°C); aggiungi 2-3 cubetti di ghiaccio e una fettina di limone per esaltare l’aroma
+- Ci impegniamo a creare packaging sempre più sostenibili con l’obbiettivo di raggiungere un mondo senza sprechi: tutti i packaging delle bevande a marchio The Coca-Cola Company sono 100% riciclabili
 - Coca-Cola Zero Zuccheri Zero Caffeina è la bevanda pensata per gli amanti del gusto Coca‑Cola che preferiscono un prodotto senza zuccheri e senza caffeina
 - La confezione comprende 6 bottiglie da 1.5 L di Coca-Cola Zero Zuccheri Zero Caffeina, in PET 100% riciclabile: da stappare in buona compagnia, durante i pasti o davanti ad un film o ad una partita
+- Come gustarla al meglio: versa Coca-Cola Zero Zuccheri Zero Caffeina in un bicchiere, preferibilmente fredda (circa 4°C); aggiungi 2-3 cubetti di ghiaccio e una fettina di limone per esaltare l’aroma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09Y9HCW6W{{</world>}}

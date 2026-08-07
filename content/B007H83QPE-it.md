@@ -28,13 +28,13 @@ average: '19.0'
 
 ℹ️:
 
-- Capacità: 5 Kg
+- Grande ciotola di pesatura in Acciaio INOX
 - Divisione: 25 g
 - Funzione Tara
 - Corpo in metallo verniciato
-- Funzionamento meccanico
-- Grande ciotola di pesatura in Acciaio INOX
 - Regolazione dello zero
+- Capacità: 5 Kg
+- Funzionamento meccanico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B007H83QPE{{</world>}}

@@ -31,8 +31,8 @@ average: '1.85'
 - DENTIFRICIO MENTADENT WHITE SYSTEM BICARBONATO: contiene un minerale sbiancante di orgine naturale e bicarbonato
 - CLINICAMENTE PROVATO: contiene Fluoruro di Sodio (1450 ppm F)
 - MENTADENT, ESPERTI IN PREVENZIONE: Mentadent è sinonimo di qualità e affidabilità, da più di 40 anni è leader nelligiene orale
-- FORMULA DELICATA
 - DENTIFRICIO arricchito con fluoro per denti più forti giorno dopo giorno, mentre il bicarbonato aiuta a ripristinare il bianco naturale dei tuoi denti e rafforzare lo smalto
+- FORMULA DELICATA
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F15FQGJZ{{</world>}}

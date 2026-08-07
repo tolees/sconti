@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- PROPRIETA: Ricco in proteine che aiutano a mantenere il tono muscolare. Con Vitamina D, per rafforzare il sistema immunitario
-- BENEFICI: Lo smoothie al cioccolato con il 30% di proteine, è senza zuccheri aggiunti. Apporta solo 114 kcal
-- SMOOTHIE: Lo snack ricco in proteine, perfetto per aiutarti a rimanere in forma. Semplice da preparare, è ideale a colazione, come spuntino a metà mattina o pomeriggio, o dopo il tuo workout
 - MODO DUSO: Sciogliere due misurini (40mg) in 150ml di acqua o 200ml di latte (o bevande vegetali). Shakerare e far riposare per qualche minuto prima del consumo
 - ENERVIT: Formuliamo e produciamo soluzioni nutrizionali e di integrazione innovative con un preciso obiettivo: aiutare tutte le persone a migliorare la qualità della propria vita
+- PROPRIETA: Ricco in proteine che aiutano a mantenere il tono muscolare. Con Vitamina D, per rafforzare il sistema immunitario
+- SMOOTHIE: Lo snack ricco in proteine, perfetto per aiutarti a rimanere in forma. Semplice da preparare, è ideale a colazione, come spuntino a metà mattina o pomeriggio, o dopo il tuo workout
+- BENEFICI: Lo smoothie al cioccolato con il 30% di proteine, è senza zuccheri aggiunti. Apporta solo 114 kcal
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C1CY1ZR8{{</world>}}

@@ -28,11 +28,11 @@ average: '1.10555555555556'
 
 ℹ️:
 
-- FORMATO TUBO 150 ML: disponibile nel formato Tubo 150 ml. Senza glutine, vegetariano
+- GUSTO DECISO MA RAFFINATO: ideale per essere utilizzata come base nella preparazione di mousse, dando sfogo alla creatività con laggiunta di ingredienti tritati finemente o spezie ed erbe aromatiche
 - OTTIMA PER ACCOMPAGNARE CARNE E VERDURE: dal gusto deciso ma raffinato, è perfetta per dare unesplosizione di sapori a piatti decisi come carne e verdure
 - CALVÉ: dai voce alla tua creatività rendendo i tuoi piatti super gustosi. Calvé, perchè buono può diventare buonissimo!
+- FORMATO TUBO 150 ML: disponibile nel formato Tubo 150 ml. Senza glutine, vegetariano
 - MAIONESE CALVÉ RAFFINATA EXTRA VERGINE: la Maionese Raffinata Calvé è preparata con un tocco di olio extravergine doliva
-- GUSTO DECISO MA RAFFINATO: ideale per essere utilizzata come base nella preparazione di mousse, dando sfogo alla creatività con laggiunta di ingredienti tritati finemente o spezie ed erbe aromatiche
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00XPVGP3W{{</world>}}

@@ -28,9 +28,9 @@ average: '8.99'
 
 ℹ️:
 
-- Introduce il bambino ai colori e alle forme
-- Una pratica maniglia per trasporto
 - Potete riporre tutti i blocchi allinterno del secchiello
+- Una pratica maniglia per trasporto
+- Introduce il bambino ai colori e alle forme
 - 10 blocchi colorati da scegliere, impilare e inserire nel secchiello
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

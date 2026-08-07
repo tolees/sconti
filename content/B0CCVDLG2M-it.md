@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Ricco di fibre
 - Può contenere occasionalmente frammenti di guscio
+- Ricco di fibre
 - Adatto per diete vegetariane e vegane
 - Confezionato in atmosfera protettiva per mantenere la freschezza
 

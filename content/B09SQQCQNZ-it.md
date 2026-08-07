@@ -30,9 +30,9 @@ average: '2.99'
 
 - CARATTERISTICHE: Le micelle, create dai tensioattivi di origine vegetale, catturano efficacemente impurità e tracce di make-up, agevolandone lasportazione e detergendo la pelle con delicatezza
 - PELLE PROTETTA E RIEQUILIBRATA: Con il 20% di Aloe Vera che idrata, protegge e riequilibra la pelle del viso. 98% di ingredienti di origine naturale
+- EQUILIBRA: Da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto dellequilibrio tra rispetto, efficacia, benessere e bellezza
 - COSA CONTIENE: Aloe Vera e Aloe 3+ (+ polisaccaridi + aminoacidi + antiossanti), Tensioattivi di origine vegetale, che detergono senza irritare, Acido Ialuronico, idratante, Glicerina Vegetale
 - GEL PURIFICANTE: Gel detergente viso che deterge senza irritare, rimuovendo ogni traccia di make-up e impurità e lasciando la pelle del viso fresca, tonica e idratata. Adatto a pelli sensibili
-- EQUILIBRA: Da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto dellequilibrio tra rispetto, efficacia, benessere e bellezza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09SQQCQNZ{{</world>}}

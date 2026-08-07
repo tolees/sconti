@@ -28,8 +28,8 @@ average: '16.58'
 
 ℹ️:
 
-- Camicia, colletto a camicia, maniche lunghe, taglio aderente
 - Polsini con bottoni, chiusura a bottoni
+- Camicia, colletto a camicia, maniche lunghe, taglio aderente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D5DN5PHN{{</world>}}

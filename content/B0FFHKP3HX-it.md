@@ -28,11 +28,11 @@ average: '17.09'
 
 ℹ️:
 
-- TOP CAMU. Infradito da uomo moderne e versatili che uniscono stile deciso e comfort iconico Havaianas. Ideali per chi cerca un design contemporaneo per l’estate e il tempo libero.
 - COMFORT E CALZATA. La suola flessibile segue il movimento naturale del piede mentre i cinturini morbidi garantiscono stabilità e comfort per tutto il giorno, perfette per passeggiate o momenti di relax.
 - MATERIALI DI ALTA QUALITÀ. Cinturini in PVC al 100% e suola in gomma al 100% resistente e antiscivolo assicurano durata, leggerezza e affidabilità nell’uso quotidiano.
-- MANUTENZIONE. Pulire con spugna morbida, acqua e sapone neutro. Evitare prodotti chimici e asciugare all’ombra in luogo ventilato per preservare colori e flessibilità.
 - STAMPA CAMOUFLAGE. Si distinguono per la stampa camouflage originale, disponibile anche con effetto tie-dye, che dona un look moderno e dinamico. Il logo Havaianas a contrasto completa il design.
+- TOP CAMU. Infradito da uomo moderne e versatili che uniscono stile deciso e comfort iconico Havaianas. Ideali per chi cerca un design contemporaneo per l’estate e il tempo libero.
+- MANUTENZIONE. Pulire con spugna morbida, acqua e sapone neutro. Evitare prodotti chimici e asciugare all’ombra in luogo ventilato per preservare colori e flessibilità.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FFHKP3HX{{</world>}}

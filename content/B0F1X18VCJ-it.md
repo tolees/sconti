@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Soletta in tessuto
 - Vestibilità regolare
+- Soletta in tessuto
 - Tomaia in materiale sintetico e pelle
 - Suola in gomma
 - Lacci

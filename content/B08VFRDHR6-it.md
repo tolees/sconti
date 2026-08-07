@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Scopri la nostra gamma completa di prodotti
 - 20 bustine per confezione
+- Scopri la nostra gamma completa di prodotti
 - Formula specifica ed innovativa in bustine
 - 1 bustina al giorno da sciogliere in un bicchiere dacqua
 
