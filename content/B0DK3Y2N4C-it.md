@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Calvin Klein Uomo Felpa Terry Badge con Scollo Rotondo Nero Black M'
+date: 2026-08-03 15:28:55
+image: 'https://m.media-amazon.com/images/I/31vvF-MvuzL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0DK3Y2N4C-it Calvin Klein Uomo Felpa Terry Badge con Scollo Rotondo...'
+sku: 'B0DK3Y2N4C-it'
+tags: [ '🇮🇹', ]
+actualPrice: 33.99 EUR
+currency: EUR
+price: 33.99
+comparePrice: 89.9 EUR
+prodname: 'Calvin Klein Uomo Felpa Terry Badge con Scollo Rotondo Nero Black M'
+country: 'it'
+flag: '🇮🇹'
+brand: ''
+buyurl: 'https://www.amazon.it/dp/B0DK3Y2N4C/?tag=tolees00-21'
+descuento: '62.19'
+average: '33.99'
+---
+
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- VESTIBILITÀ OTTIMALE: Il capo lounge minimalista risulta comodo e assicura un piacevole comfort. La linea ampia e casual assicura una libertà di movimento ottimale.
+- PER OGNI OCCASIONE: Questa felpa casual si distingue per il suo comfort particolarmente elevato. È fantastica per tutti i giorni, ma è anche adatta per lo sport e si può abbinare in modo versatile.
+- SEMPLICITÀ E FASCINO: Creato nel 1968, il marchio Calvin Klein è famoso per il suo look inconfondibile, che lo ha reso da subito un’ispirazione per il mondo della moda. Il brand americano è caratterizzato da un’estetica minimalista.
+- ICONICITÀ INTRAMONTABILE: L’originale felpa Calvin Klein presenta un design casual e conquista per il suo tessuto morbido. Il logo Calvin Klein sul petto impreziosisce il look.
+- MATERIALE E LAVAGGIO: Questa felpa è realizzata al 92% in cotone e all’8% in poliestere riciclato. È lavabile in lavatrice.
+
+[🛒 Acquista qui!!]({{< param buyurl >}})
+{{<world>}}B0DK3Y2N4C{{</world>}}

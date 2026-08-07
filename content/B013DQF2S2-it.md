@@ -1,0 +1,39 @@
+---
+layout: post
+title: 'Bosch Robot da Cucina Compatto MultiTalent 3 MCM3200W Oltre 30 Funzioni 800W Ciotola da 2 3 L Accessorio Frullatore Incluso Tanti Accessori per Tagliare Grattugiare Impastare Tritare Bianco'
+date: 2026-07-27 08:03:41
+image: 'https://m.media-amazon.com/images/I/31BH+grYp8L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B013DQF2S2-it Bosch Robot da Cucina Compatto MultiTalent 3 MCM3200W...'
+sku: 'B013DQF2S2-it'
+tags: [ '🇮🇹', ]
+actualPrice: 69.0 EUR
+currency: EUR
+price: 69.0
+comparePrice: 159.9 EUR
+prodname: 'Bosch Robot da Cucina Compatto MultiTalent 3 MCM3200W Oltre 30 Funzioni 800W Ciotola da 2 3 L Accessorio Frullatore Incluso Tanti Accessori per Tagliare Grattugiare Impastare Tritare Bianco'
+country: 'it'
+flag: '🇮🇹'
+brand: ''
+buyurl: 'https://www.amazon.it/dp/B013DQF2S2/?tag=tolees00-21'
+descuento: '56.85'
+average: '72.0864705882354'
+---
+
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- MADE IN EUROPE: prodotto progettato e prodotto negli stabilimenti europei secondo standard di altissima qualità.
+- PULIZIA SEMPLICE: parti e accessori lavabili in lavastoviglie per risparmiare tempo prezioso.
+- INCLUDE: nella confezione trovi il robot da cucina Bosch (bianco), bicchiere frullatore, un disco grattugia/affetta, un disco emulsionatore, un disco per affettare spesso/fine, un pestello, un misuratore e un porta accessori.
+- PRATICO E VERSATILE: scopri le più di 30 funzioni disponibili per affettare, macinare e frullare grazie agli accessori disponibili.
+- POTENTE MOTORE DA 800 WATT: per lavorare con semplicità gli ingredienti difficicili.
+- DESIGN SALVASPAZIO: grazie alla capiente ciotola da 2,3 L puoi risparmare spazio riponendo gli accessori al suo interno.
+
+[🛒 Acquista qui!!]({{< param buyurl >}})
+{{<world>}}B013DQF2S2{{</world>}}
