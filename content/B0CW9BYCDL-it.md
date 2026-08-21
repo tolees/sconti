@@ -28,10 +28,10 @@ average: '12.49'
 
 ℹ️:
 
-- Pernigotti, marchio storico del cioccolato italiano dal 1860, unisce tradizione e innovazione per offrire specialità di cioccolato pensate per celebrare la Pasqua con gusto e convivialità
-- Realizzato con solo aromi naturali e prodotto senza glutine, è adatto a chi cerca un uovo di Pasqua al cioccolato al latte con ingredienti selezionati e attenzione alla qualità delle materie prime
-- All’interno è presente una sorpresa firmata Thun x Teddy Friends: portachiavi collezionabili, pensati per aggiungere un elemento speciale all’esperienza di apertura dell’uovo
 - La ricetta combina ingredienti selezionati per valorizzare la qualità del cioccolato e donare una consistenza piacevole al palato
+- Pernigotti, marchio storico del cioccolato italiano dal 1860, unisce tradizione e innovazione per offrire specialità di cioccolato pensate per celebrare la Pasqua con gusto e convivialità
+- All’interno è presente una sorpresa firmata Thun x Teddy Friends: portachiavi collezionabili, pensati per aggiungere un elemento speciale all’esperienza di apertura dell’uovo
+- Realizzato con solo aromi naturali e prodotto senza glutine, è adatto a chi cerca un uovo di Pasqua al cioccolato al latte con ingredienti selezionati e attenzione alla qualità delle materie prime
 - Il cioccolato al latte finissimo si apre all’artigianalità di qualità con la dolcissima collaborazione Thun x Teddy Friends
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

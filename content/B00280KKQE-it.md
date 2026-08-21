@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- I prodotti Riso Scotti ti accompagnano con Gusto e Benessere in ogni momento della giornata. Con la stessa attenzione con cui tu scegli prodotti sani, noi ci impegniamo a offrirti la miglior qualità per un’alimentazione equilibrata
-- VIVERE BENE CON GUSTO: Il benessere dal riso deriva dai suoi carboidrati facilmente assimilabili, dalle sue proteine nobili e dall’assenza di allergeni che possono provocare fastidiose reazioni avverse
 - È SPECIALE PERCHÉ: È difficile sbagliare una ricetta, anche per chi non è uno chef. TEMPO DI COTTURA: 15-18 minuti
 - SUGGERIMENTI D’USO: Puoi utilizzare il riso Arborio per cucinare i risotti, i risi asciutti e i timballi
 - RISO ARBORIO: Dal nome dalla cittadina vercellese dove ebbe origine nel 1967, icona del riso italiano di qualità, dal chicco di dimensioni superiori rispetto alle altre varietà e dall’alto contenuto di amido
+- I prodotti Riso Scotti ti accompagnano con Gusto e Benessere in ogni momento della giornata. Con la stessa attenzione con cui tu scegli prodotti sani, noi ci impegniamo a offrirti la miglior qualità per un’alimentazione equilibrata
+- VIVERE BENE CON GUSTO: Il benessere dal riso deriva dai suoi carboidrati facilmente assimilabili, dalle sue proteine nobili e dall’assenza di allergeni che possono provocare fastidiose reazioni avverse
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00280KKQE{{</world>}}

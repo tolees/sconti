@@ -28,11 +28,11 @@ average: '12.63'
 
 ℹ️:
 
-- A maglia quadra di dimensione 10x10 mm, indicata per proteggere cancellate, recinzioni, balconi, terrazze, ringhiere
-- Prodotta con HDPE (polietilene) di alta qualità, colore verde
-- Con trattamento anti-UV per resistere al sole senza scolorire
 - Misura del prodotto aperto 1,00x3 m. Il prodotto originale Tenax è fornito in rotolino termofilmato con etichetta grafica colorata
+- Con trattamento anti-UV per resistere al sole senza scolorire
+- Prodotta con HDPE (polietilene) di alta qualità, colore verde
 - Rinifita con bordo liscio e non tagliente. Molto resistente, non si strappa
+- A maglia quadra di dimensione 10x10 mm, indicata per proteggere cancellate, recinzioni, balconi, terrazze, ringhiere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09TR475MN{{</world>}}

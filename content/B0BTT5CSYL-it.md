@@ -28,11 +28,11 @@ average: '8.4'
 
 ℹ️:
 
-- BENTO BOX PER MICROONDE: le bento box allinterno del porta pranzo possono essere utilizzate nel microonde (senza coperchio). Perfetto per combinare una varietà di piccoli piatti
-- CAPACITÀ: la scatola ha una capacità di 1500 ml ed è (senza scomparti bento) adatta per 8 fette di pane. I vassoi bento permettono anche di trasportare una varietà di alimenti in ununica scatola
-- DESIGN: il porta pranzo con bento box è robusto e ha un aspetto caratteristico e stravagante. Inoltre, il portapranzo è dotato di due comode clip di bloccaggio che consentono di chiuderlo saldamente!
-- COMPARTI BENTO: il sacco per pranzo comprende due scomparti separati e una bento box extra con una piccola forchetta. Questo permette di creare infinite combinazioni con i vostri cibi preferiti
 - PORTA PRANZO TAKE A BREAK: per avere sempre il controllo di quello che mangiate e gustare un pranzo delizioso dove e quando volete. Preparate il vostro pranzo nel sacco per il pranzo, dotato bento box
+- DESIGN: il porta pranzo con bento box è robusto e ha un aspetto caratteristico e stravagante. Inoltre, il portapranzo è dotato di due comode clip di bloccaggio che consentono di chiuderlo saldamente!
+- BENTO BOX PER MICROONDE: le bento box allinterno del porta pranzo possono essere utilizzate nel microonde (senza coperchio). Perfetto per combinare una varietà di piccoli piatti
+- COMPARTI BENTO: il sacco per pranzo comprende due scomparti separati e una bento box extra con una piccola forchetta. Questo permette di creare infinite combinazioni con i vostri cibi preferiti
+- CAPACITÀ: la scatola ha una capacità di 1500 ml ed è (senza scomparti bento) adatta per 8 fette di pane. I vassoi bento permettono anche di trasportare una varietà di alimenti in ununica scatola
 - SOSTENIBILE E SENZA BPA: il porta pranzo è resistente e durerà per anni a venire. Può essere riutilizzato dopo un rapido lavaggio in lavastoviglie. Inoltre, il porta pranzo è privo di BPA
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

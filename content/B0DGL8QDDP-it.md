@@ -31,9 +31,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 - PASTA INTEGRALE LA MOLISANA: gamma di pasta che nasce da grano integrale 100% italiano ricco di fibre, di vitamine e di sali minerali
 - COTTURA: 11 minuti di cottura - Pasta corta ruvida e tenace con eccellente tenuta in cottura che non scuoce mai grazie alla trafilatura al bronzo e ad un indice proteico superiore al 14%
 - PACK ECOSOSTENIBILE: i pack, riciclabili nella carta, sono composti da materiale che proviene da foreste ben gestite, foreste certificate FSC e da altre fonti
-- LA MOLISANA: dal 1912 azienda 100% Italiana leader nella produzione di pasta con solo grando italiano da filiera integrata, semole di alta qualità e tenacità certificata
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
 - FUSILLI N.28 INTEGRALI: famoso formato di pasta corta a spirale nella sua versione integrale, gustosa e ricca di fibre - Confezione da 500g
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
+- LA MOLISANA: dal 1912 azienda 100% Italiana leader nella produzione di pasta con solo grando italiano da filiera integrata, semole di alta qualità e tenacità certificata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DGL8QDDP{{</world>}}

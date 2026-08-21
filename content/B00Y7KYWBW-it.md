@@ -28,12 +28,12 @@ average: '8.05'
 
 ℹ️:
 
+- Applica questa Eau de Toilette spray uomo sui punti di pulsazione: polsi, collo e décolleté.
 - David Beckham Intimately è un accattivante profumo maschile ambrato aromatico che celebra la sicurezza della virilità moderna. Traendo ispirazione dall’innata sensazione di pace con sé stessi di David, il sofisticato profumo dura tutto il giorno, irradiando calore e sensualità e al contempo un’eleganza sobria.
 - David Beckham Intimately è un Eau de toilette maschile accattivante dalle note ambrate e aromatiche che celebra la sicurezza della virilità moderna. Traendo ispirazione dall’innata sensazione di pace con sé stessi di David Beckham, il sofisticato profumo dura tutto il giorno, emanando calore e sensualità e al contempo un’eleganza sobria.; Questo EDT ambrato aromatico emana calore e sensualità. Il fresco mix di note agrumate e speziate dalle sfumature calde si ritrovano in questa Eau de Toilette maschile. Una vera celebrazione della virilità moderna.; Note di Testa: Pompelmo, cardamomo, bergamotto; Note di Cuore: Viola, noce moscata, anice stellato; Note di Fondo: Sandalo, patchouli, ambra
-- Applica questa Eau de Toilette spray uomo sui punti di pulsazione: polsi, collo e décolleté.
-- Sandalo, patchouli, ambra
-- Viola, noce moscata, anice stellata
 - Pompelmo, cardamomo, bergamotto
+- Viola, noce moscata, anice stellata
+- Sandalo, patchouli, ambra
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00Y7KYWBW{{</world>}}

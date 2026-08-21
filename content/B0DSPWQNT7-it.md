@@ -29,9 +29,9 @@ average: '109.0'
 ℹ️:
 
 - Laminato GORE-TEX a 2 strati con membrana ePE priva di PFC
-- In poliestere riciclato
 - Chiusura lampo frontale coperta
 - 2 tasche frontali con chiusura lampo, polsini con chiusura in velcro, orlo regolabile con coulisse
+- In poliestere riciclato
 - Cappuccio regolabile in 1 punto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

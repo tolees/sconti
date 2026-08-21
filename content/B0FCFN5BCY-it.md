@@ -28,11 +28,11 @@ average: '5.8'
 
 ℹ️:
 
+- SAILOR - Linee morbide e tonalità marine: Sailor è il diario ideale per chi ama perdersi tra le onde e ritrovare sé stesso. Una vibe rilassata per portare lestate tra i banchi di scuola durante tutto lanno.
+- DIARIO SCUOLA 25/26: Agenda scolastica 2025/2026 12 mesi (settembre–agosto) con copertina rigida, angoli arrotondati e sovracopertina trasparente. Formato compatto 13,5 × 18,2 cm. Be You è lagenda perfetta per ragazzi e ragazze di medie e superiori: compatta e leggera, la porti dove vuoi tu.
 - STICKERS INCLUSI - Ogni Be You contiene 4 pagine di stickers colorati e adesivi rimovibili, perfetti per decorare copertina e pagine interne. Personalizza il diario ogni giorno e rendilo davvero unico, proprio come te.
 - INTERNI - Non solo compiti! Tra una pagina e l’altra trovi giochi, mandala, spazi da colorare, bigliettini per le verifiche e angoli liberi per scrivere, disegnare o semplicemente essere te stesso. Un diario da vivere, non solo da usare.
 - BE YOU 205/2026 - Be You non è solo un diario, è uno spazio tutto tuo. Be You nasce per chi vuole raccontarsi senza filtri, esprimersi con libertà e dare forma ai propri pensieri, sogni e idee. Scopri tutta la collezione Be You Scuola 2025-2026 e scegli il diario che più ti rappresenta: perché essere sé stessi è la storia più bella da scrivere.
-- DIARIO SCUOLA 25/26: Agenda scolastica 2025/2026 12 mesi (settembre–agosto) con copertina rigida, angoli arrotondati e sovracopertina trasparente. Formato compatto 13,5 × 18,2 cm. Be You è lagenda perfetta per ragazzi e ragazze di medie e superiori: compatta e leggera, la porti dove vuoi tu.
-- SAILOR - Linee morbide e tonalità marine: Sailor è il diario ideale per chi ama perdersi tra le onde e ritrovare sé stesso. Una vibe rilassata per portare lestate tra i banchi di scuola durante tutto lanno.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FCFN5BCY{{</world>}}

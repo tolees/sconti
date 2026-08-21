@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Rigatura: 0B
 - Formato: Il formato A4 (21x29,7 cm) è perfetto per un’ampia area di scrittura, ideale per professionisti che necessitano di spazio sufficiente per appunti dettagliati e report.
 - Fogli: Ogni confezione contiene 20 fogli, offrendo una scorta sufficiente per le necessità quotidiane di lavoro, studio o per organizzare note e documenti.
+- Rigatura: 0B
 - Utilizzo: Questi fogli sono ideali per professionisti, studenti e chiunque necessiti di scrivere appunti, report o documenti formali in modo pratico e ordinato.
 - Carta: Con un peso di 60g, la carta è leggera ma resistente, evitando sbavature con penne a sfera, matite o pennarelli e garantendo un’esperienza di scrittura fluida.
 

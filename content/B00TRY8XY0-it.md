@@ -28,15 +28,15 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Realizzato in pannelli melaminici da 16 mm di spessore e prevalentemente a base di legno reciclato
-- Manutenzione: facile da pulire con l’aiuto di un panno leggermente inumidito con acqua
-- Fabbricato in Francia
-- Uso: interno domestico
-- Pratico, in posizione aperta questo tavolo può accogliere fino a 4 persone
-- Consegnato in kit con imballaggio rinforzato e istruzioni di montaggio (lingua italiana non garantita)
-- Design sobrio, moderno ed elegante
-- Adatto a piccoli spazi, pieghevole a consolle, può essere aperto su uno o entrambi i lati
 - Eco-sostenibile:
+- Realizzato in pannelli melaminici da 16 mm di spessore e prevalentemente a base di legno reciclato
+- Adatto a piccoli spazi, pieghevole a consolle, può essere aperto su uno o entrambi i lati
+- Manutenzione: facile da pulire con l’aiuto di un panno leggermente inumidito con acqua
+- Design sobrio, moderno ed elegante
+- Fabbricato in Francia
+- Consegnato in kit con imballaggio rinforzato e istruzioni di montaggio (lingua italiana non garantita)
+- Pratico, in posizione aperta questo tavolo può accogliere fino a 4 persone
+- Uso: interno domestico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00TRY8XY0{{</world>}}

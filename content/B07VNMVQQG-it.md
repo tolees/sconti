@@ -28,11 +28,11 @@ average: '119.0'
 
 ℹ️:
 
-- Taglio: standard
+- Schott Nyc Giacca tessile uomo mezza stagione
 - 65% poliestere/35% cotone
 - Manutenzione: lavaggio lavatrice a 30°
+- Taglio: standard
 - Logo petto ricamato 2 tasche laterali e 2 tasche interne Finiture polsini e vita a costine
-- Schott Nyc Giacca tessile uomo mezza stagione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07VNMVQQG{{</world>}}

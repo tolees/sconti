@@ -29,9 +29,9 @@ average: '22.99'
 ℹ️:
 
 - - Autonomia fino a una settimana: Ascolta la tua musica per fino a 80 ore con una sola ricarica. Hai fretta? Bastano 10 minuti di ricarica rapida per 8 ore di riproduzione – perfetti per i tuoi viaggi e le giornate più intense.
-- - Leggerezza assoluta, comfort come una nuvola: Progettate per un comfort totale, con archetto imbottito, cuscinetti resistenti e un peso di soli 210 g. L’archetto regolabile e i padiglioni rotanti a 120° garantiscono una vestibilità ergonomica perfetta per qualsiasi forma della testa.
-- - Chiamate cristalline con IA: Il microfono con intelligenza artificiale, sensore direzionale e riduzione del rumore ENC permette conversazioni nitide e senza interferenze, anche negli ambienti più rumorosi.
 - - Connessione Bluetooth 6.0 ultra-stabile: Goditi una latenza bassissima, un suono brillante e una connessione stabile grazie al nuovissimo chip Bluetooth 6.0. Streaming, giochi o chiamate: tutto scorre fluido e senza ritardi.
+- - Chiamate cristalline con IA: Il microfono con intelligenza artificiale, sensore direzionale e riduzione del rumore ENC permette conversazioni nitide e senza interferenze, anche negli ambienti più rumorosi.
+- - Leggerezza assoluta, comfort come una nuvola: Progettate per un comfort totale, con archetto imbottito, cuscinetti resistenti e un peso di soli 210 g. L’archetto regolabile e i padiglioni rotanti a 120° garantiscono una vestibilità ergonomica perfetta per qualsiasi forma della testa.
 - - Bassi potenti e immersivi: Vivi la profondità del suono con driver da 40 mm e tecnologia SuperBass innovativa – fino al 200 % di potenza dei bassi in più. Dai toni profondi e corposi agli acuti cristallini, ogni nota suona naturale e ricca di dettagli. L’algoritmo di audio spaziale integrato offre un’esperienza sonora coinvolgente, proprio come al cinema.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

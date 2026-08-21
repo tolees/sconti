@@ -28,10 +28,10 @@ average: '219.99'
 
 ℹ️:
 
-- Nitidezza diurna e notturna in 2K: i LED a infrarossi e unapertura f/1.6 garantiscono una visione notturna nitida.
-- Installazione semplice: grazie alle dimensioni compatte e al design wireless, la telecamera può essere posizionata ovunque.
-- Alimentato da pannello solare: sono sufficienti solo 3 ore di luce solare al giorno per alimentare il dispositivo.
 - Rilevamento delle persone: che si tratti di familiari, postini o strani intrusi, lIA invia una notifica istantanea. Il riconoscimento facciale individuale è possibile anche in combinazione con HomeBase 3.
+- Installazione semplice: grazie alle dimensioni compatte e al design wireless, la telecamera può essere posizionata ovunque.
+- Nitidezza diurna e notturna in 2K: i LED a infrarossi e unapertura f/1.6 garantiscono una visione notturna nitida.
+- Alimentato da pannello solare: sono sufficienti solo 3 ore di luce solare al giorno per alimentare il dispositivo.
 - Nessun canone mensile: paga un prezzo di acquisto una tantum per la SoloCam S220, senza abbonamento a pagamento.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

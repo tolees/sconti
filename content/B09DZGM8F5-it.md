@@ -28,11 +28,11 @@ average: '12.9416666666667'
 
 ℹ️:
 
-- GRADAZIONE: 11 Vol%
 - ZONA DI PRODUZIONE: Valdobbiadene
 - COLORE: Giallo paglierino chiaro con riflessi dorati. Perlage a grana finissima e persistente.
-- UVAGGIO: Glera
+- GRADAZIONE: 11 Vol%
 - BOUQUET: Inconfondibile profumo fruttato con sentori di mela selvatica, Golden, di fiori dacacia e di miele.
+- UVAGGIO: Glera
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09DZGM8F5{{</world>}}

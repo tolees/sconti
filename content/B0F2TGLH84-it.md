@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Switch ottici per mouse Razer di 4a generazione - Durata, tattilità e velocità ai massimi livelli: Con un ciclo di vita di oltre 100 milioni di clic e una sensazione di clic notevolmente migliorata, supera tutti con interruttori netti e reattivi che sono stati completamente riprogettati da zero.
-- Rotellina ottica Razer - Niente scorrimenti involontari. Precisione da professionisti: Più precisa e resistente delle varianti meccaniche, la nostra prima rotellina ottica per mouse da esports offre un tracciamento di livello professionale e un feedback tattile fondamentale per il gaming d’alta precisione.
 - Sensore ottico 45K Razer Focus Pro di 2a generazione - Precisione eccelsa negli esport: Punta al meglio con 45K DPI, 900 IPS e 85 G di accelerazione - Grazie a profonde opzioni di personalizzazione del sensore, goditi un tracciamento impeccabile su una varietà di superfici con una precisione di risoluzione del 99,8%.
-- Fino a 150 ore di autonomia - Supera la competizione: Con unefficienza wireless notevolmente migliorata per una maggiore durata della batteria, potrai goderti fino a 150 ore di gioco ad alte prestazioni a 1000 Hz o 24 ore a 8000 Hz.
-- Design ultraleggero da 57 g - Movimenti più veloci, Controllo senza sforzo: Riprogettato con ottimizzazioni del peso e una finitura liscia al tatto, il nostro ultimo DeathAdder offre movimenti più veloci e serrati, pur mantenendo la sua pluripremiata forma ergonomica.
 - Razer HyperSpeed Wireless di 2a generazione - Velocità e affidabilità leader del settore: Goditi una latenza bassissima e la massima stabilità grazie a una piattaforma e a un protocollo wireless di nuova generazione - Ottieni un vantaggio con tempi di risposta più rapidi del 63% grazie a una polling wireless o via cavo di 8000 Hz reali.
+- Rotellina ottica Razer - Niente scorrimenti involontari. Precisione da professionisti: Più precisa e resistente delle varianti meccaniche, la nostra prima rotellina ottica per mouse da esports offre un tracciamento di livello professionale e un feedback tattile fondamentale per il gaming d’alta precisione.
+- Design ultraleggero da 57 g - Movimenti più veloci, Controllo senza sforzo: Riprogettato con ottimizzazioni del peso e una finitura liscia al tatto, il nostro ultimo DeathAdder offre movimenti più veloci e serrati, pur mantenendo la sua pluripremiata forma ergonomica.
+- Switch ottici per mouse Razer di 4a generazione - Durata, tattilità e velocità ai massimi livelli: Con un ciclo di vita di oltre 100 milioni di clic e una sensazione di clic notevolmente migliorata, supera tutti con interruttori netti e reattivi che sono stati completamente riprogettati da zero.
+- Fino a 150 ore di autonomia - Supera la competizione: Con unefficienza wireless notevolmente migliorata per una maggiore durata della batteria, potrai goderti fino a 150 ore di gioco ad alte prestazioni a 1000 Hz o 24 ore a 8000 Hz.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F2TGLH84{{</world>}}

@@ -28,8 +28,8 @@ average: '36.44'
 
 ℹ️:
 
-- SICURO E STILE: grazie alla combinazione di schiuma rigida che assorbe gli urti e di guscio esterno in policarbonato resistente agli urti, con un look elegante.
 - REGOLABILE: regolazione individuale sulla rispettiva testa tramite la rotella di regolazione - in alternativa, il sistema di regolazione può essere rimosso
+- SICURO E STILE: grazie alla combinazione di schiuma rigida che assorbe gli urti e di guscio esterno in policarbonato resistente agli urti, con un look elegante.
 - PER CHI PORTA LA PLAIT: il sistema di regolazione dellaltezza nella parte posteriore della testa consente di fare spazio alla treccia.
 - CASCO DA CITTADINO/ CASCO DA PATTINAGGIO: per chi fa molto ciclismo quotidiano o va in giro sulla pista di pattinaggio.
 - DETTAGLI DEL PRODOTTO: casco unisex per adulti - la misura in centimetri corrisponde alla circonferenza della testa di chi lo indossa

@@ -29,10 +29,10 @@ average: '75.19'
 ℹ️:
 
 - MONTAGGIO RAPIDO: costruzione leggera ma stabile realizzata con aste in fibra di vetro altamente flessibili che possono anche resistere a forti venti; ideale per campeggio, escursioni o festival
+- Superficie notte: 3,8 m²; Superficie abitabile: 1,8 m²; Costruzione: prima la tenda interna; Dimensioni da chiuso: 57x19x19 cm; Peso: 4,5 kg; Colonna dacqua: 2000 mm; Corde di tensione e picchetti
 - MOLTE CARATTERISTICHE: Le alette di ventilazione garantiscono una circolazione ottimale dellaria per evitare la condensa; La tenda è abbastanza grande da poter riporre allasciutto attrezzature
 - 100% IMPERMEABILE: colonna dacqua da 2000 mm in combinazione con cuciture nastrate e un telo di fondo cucito; Assolutamente impermeabile con protezione dagli insetti; Protezione UV 50+
 - COMPATTA E LEGGERA: Con soli 4,5 kg, la tenda da trekking è particolarmente leggera e può essere inserita in qualsiasi zaino grazie alle dimensioni ridotte; ideale per trekking e escursioni
-- Superficie notte: 3,8 m²; Superficie abitabile: 1,8 m²; Costruzione: prima la tenda interna; Dimensioni da chiuso: 57x19x19 cm; Peso: 4,5 kg; Colonna dacqua: 2000 mm; Corde di tensione e picchetti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FZWCK41H{{</world>}}

@@ -28,12 +28,12 @@ average: '29.525'
 
 ℹ️:
 
-- 【Tempistica e irrigazione quantitativa】: imposta la tempistica precisa e la quantità di acqua per lirrigazione regolare e quantitativa per garantire che le piante ricevano abbastanza acqua.
-- 【Protocollo Zigebee 3.0】: Supporta il protocollo Zigebee 3.0 e offre maggiore stabilità e affidabilità. Puoi controllarlo sempre e ovunque tramite le applicazioni eWelink.
-- 【Query sui dati storici】: supporta linterrogazione dei dati storici fino a 6 mesi. Scopri di più sullutilizzo dellacqua giornaliero/settimanale/mensile e sulla durata dellutilizzo dellacqua interrogando i record della cronologia di utilizzo.
-- 【Controllo vocale intelligente】: il computer per lirrigazione funziona con Alexa e Google. Rendi il programma di irrigazione del tuo giardino più comodo e divertente con il controllo vocale tramite Alexa e Google.
-- 【Risparmio energetico】: il sistema di irrigazione intelligente può realizzare unirrigazione quantitativa, evitare lirrigazione eccessiva e gli sprechi, risparmiando efficacemente le risorse idriche e migliorando lefficienza dellirrigazione.
 - Nota: richiede luso con lhub Zigebee 3.0. Supporta SONOFF ZBDongle-P, ZBongle-E, ZBBridge Pro, NSPanel Pro, ihost. Il timer di irrigazione intelligente è compatibile con Alexa e Google Home.
+- 【Query sui dati storici】: supporta linterrogazione dei dati storici fino a 6 mesi. Scopri di più sullutilizzo dellacqua giornaliero/settimanale/mensile e sulla durata dellutilizzo dellacqua interrogando i record della cronologia di utilizzo.
+- 【Tempistica e irrigazione quantitativa】: imposta la tempistica precisa e la quantità di acqua per lirrigazione regolare e quantitativa per garantire che le piante ricevano abbastanza acqua.
+- 【Risparmio energetico】: il sistema di irrigazione intelligente può realizzare unirrigazione quantitativa, evitare lirrigazione eccessiva e gli sprechi, risparmiando efficacemente le risorse idriche e migliorando lefficienza dellirrigazione.
+- 【Controllo vocale intelligente】: il computer per lirrigazione funziona con Alexa e Google. Rendi il programma di irrigazione del tuo giardino più comodo e divertente con il controllo vocale tramite Alexa e Google.
+- 【Protocollo Zigebee 3.0】: Supporta il protocollo Zigebee 3.0 e offre maggiore stabilità e affidabilità. Puoi controllarlo sempre e ovunque tramite le applicazioni eWelink.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D5CTZN63{{</world>}}

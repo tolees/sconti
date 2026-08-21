@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Autan Family Care Vapo protegge fino a 4 ore dalle zanzare
-- Raid Liquido elettrico protezione + ti consente di regolare lintensità per i diversi momenti della giornata
 - Il Kit Protezione dalle zanzare Raid Autan protegge dalle zanzare sia allaperto sia in casa
+- Raid Liquido elettrico protezione + ti consente di regolare lintensità per i diversi momenti della giornata
+- Autan Family Care Vapo protegge fino a 4 ore dalle zanzare
 - Raid Liquido Elettrico Protezione +: 60 notti, 8 ore per notte, di efficacia contro le zanzare; funziona con tutte le ricariche Raid Liquido
 - Con sostanze idratanti, Autan Family Care Vapo è idoneo allutilizzo dai 2 anni in su
 

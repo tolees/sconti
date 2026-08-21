@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- VESTIBILITÀ OVERSIZE: vestibilità comoda e ampia su spalle, petto e vita
 - CAMICIA MODERNA BUTTON-DOWN: rivisitazione ispirata alla moda maschile della classica camicia in popeline, con vestibilità oversize
+- DETTAGLI: colletto a punta, chiusura frontale con bottoni, polsino alto con bottone, piega sul carré posteriore, orlo arrotondato, più lungo dietro
 - POPELINE ELASTICIZZATO: misto cotone ben strutturato con finitura liscia e un tocco di elasticità per maggiore comfort
 - LUNGHEZZA DEL CAPO: 71,1cm dal lato del collo nella taglia S (IT)
-- DETTAGLI: colletto a punta, chiusura frontale con bottoni, polsino alto con bottone, piega sul carré posteriore, orlo arrotondato, più lungo dietro
-- VESTIBILITÀ OVERSIZE: vestibilità comoda e ampia su spalle, petto e vita
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FF5DS8ZG{{</world>}}

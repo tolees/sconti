@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Filtraggio: filtro permanente
-- Capacità contenitore polvere: 375 ml
 - Tecnologia: ciclonica
-- Posizione velocità: 1
 - Voltaggio: 7.2 V
+- Posizione velocità: 1
+- Capacità contenitore polvere: 375 ml
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B002IRDEXI{{</world>}}

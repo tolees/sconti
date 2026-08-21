@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Questo stile è stato prodotto in modo sostenibile
 - Vestibilità comoda
+- Questo stile è stato prodotto in modo sostenibile
 - Questo è un prodotto autentico Calvin Klein Jeans
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

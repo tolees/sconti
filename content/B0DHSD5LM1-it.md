@@ -28,9 +28,9 @@ average: '14.0'
 
 ℹ️:
 
+- Minifigure LEGO: la storia prende vita con l’eroe LEGO DREAMZzz di Cooper, dotato di arma, che può pilotare laereo giocattolo; il set include anche una figura del malvagio Cyber brain, un ragno giocattolo dotato di cavi collegabili al controller
 - Regalo fantasy: il set con il videogioco LEGO trasformabile è unottima idea regalo per i fan della serie TV LEGO DREAMZzz, e per tutti gli appassionati di modellini di aereoplani ed elicotteri giocattolo da costruire
 - Controller per videogiochi LEGO transformer: sblocca nuove avventure con il set Jet-Controller di Cooper LEGO DREAMZzz, un gioco di fantasia per bambini e bambine da 7 anni, che consente di creare un giocattolo trasformabile 3 in 1
-- Minifigure LEGO: la storia prende vita con l’eroe LEGO DREAMZzz di Cooper, dotato di arma, che può pilotare laereo giocattolo; il set include anche una figura del malvagio Cyber brain, un ragno giocattolo dotato di cavi collegabili al controller
 - 1 set, 2 avventure: costruisci il modello base del controller per videogioco prima di trasformarlo in un aereo o in un elicottero giocattolo, entrambi dotati di 2 shooter e cabina di pilotaggio apribile
 - Aumenta il divertimento: il set con veicoli giocattolo trasformabili include booster modulari che possono essere collegati ad altri set (disponibili separatamente), presenti nella gamma di giochi creativi LEGO DREAMZzz 2025
 

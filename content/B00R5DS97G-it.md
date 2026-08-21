@@ -28,9 +28,9 @@ average: '27.2'
 
 ℹ️:
 
-- Scalda una noce di crema viso nel palmo della mano, quindi applicane uno strato sottile su viso e collo, mattina e sera
 - La pelle è idratata per 24 ore* (*Test di efficacia su 12 volontarie)
 - Questa crema benessere leggera, arricchita con il 5% di burro di karité, nutre, lenisce e protegge la pelle dalle aggressioni esterne (inquinamento, variazioni di temperatura, ecc.)
+- Scalda una noce di crema viso nel palmo della mano, quindi applicane uno strato sottile su viso e collo, mattina e sera
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00R5DS97G{{</world>}}

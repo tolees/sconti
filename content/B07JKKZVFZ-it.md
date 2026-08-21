@@ -28,11 +28,11 @@ average: '6.84'
 
 ℹ️:
 
-- PRODOTTO ECO-FRIENDLY – Formula biodegradabile secondo standard internazionali, per una cura efficace dei capelli che rispetta l’ambiente e la natura.
-- TOLLERABILITÀ DERMATOLOGICA. Formulazioni senza derivati del grano e metalli sensibilizzanti, ideali per chi cerca protezione quotidiana e delicatezza sulla pelle.
+- SCIENZA E INNOVAZIONE PER LA PELLE SENSIBILE. Dai Laboratori dermatologici Ganassini, Bioclin sviluppa formule clinicamente testate per garantire massima delicatezza cutanea e rispetto dell’equilibrio della pelle.
 - FORMULA DELICATA PER CUTE SENSIBILE – Shampoo arricchito con Olio di Argan, estratto di Equiseto e Pantenolo, ideale per capelli colorati o trattati, che rispetta e protegge la cute delicata.
 - NUTRIMENTO E LUMINOSITÀ – Dona morbidezza, nutrimento profondo e brillantezza ai capelli stressati da colorazioni e trattamenti aggressivi.
-- SCIENZA E INNOVAZIONE PER LA PELLE SENSIBILE. Dai Laboratori dermatologici Ganassini, Bioclin sviluppa formule clinicamente testate per garantire massima delicatezza cutanea e rispetto dell’equilibrio della pelle.
+- TOLLERABILITÀ DERMATOLOGICA. Formulazioni senza derivati del grano e metalli sensibilizzanti, ideali per chi cerca protezione quotidiana e delicatezza sulla pelle.
+- PRODOTTO ECO-FRIENDLY – Formula biodegradabile secondo standard internazionali, per una cura efficace dei capelli che rispetta l’ambiente e la natura.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07JKKZVFZ{{</world>}}

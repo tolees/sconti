@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - 3D embroidery on front
-- Twill weave front panels and mesh rear panels
-- Curved visor
 - 6-panel low profile crown
+- Curved visor
+- Twill weave front panels and mesh rear panels
 - Adjustable plastic snap closure
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

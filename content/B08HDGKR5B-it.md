@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Medela Purelan Crema alla Lanolina per Capezzoli Sollievo Rapido per Capezzoli Dolenti e Pelle Secca a Base di Ingredienti Naturali Ipoallergenica e Dermatologicamente Testata Senza Profumo 37 g'
-date: 2026-08-15 16:56:37
+date: 2026-08-20 08:53:47
 image: 'https://m.media-amazon.com/images/I/41yNt0yoZZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08HDGKR5B-it Medela Purelan Crema alla Lanolina per Capezzoli Sollievo...'
 sku: 'B08HDGKR5B-it'
 tags: [ '🇮🇹', ]
-actualPrice: 10.75 EUR
+actualPrice: 9.0 EUR
 currency: EUR
-price: 10.75
+price: 9.0
 comparePrice: 15.39 EUR
 prodname: 'Medela Purelan Crema alla Lanolina per Capezzoli Sollievo Rapido per Capezzoli Dolenti e Pelle Secca a Base di Ingredienti Naturali Ipoallergenica e Dermatologicamente Testata Senza Profumo 37 g'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B08HDGKR5B/?tag=tolees00-21'
-descuento: '30.15'
-average: '10.37'
+descuento: '41.52'
+average: '10.19875'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,11 +28,11 @@ average: '10.37'
 
 ℹ️:
 
-- Provenienza etica: Purelan è prodotta in collaborazione con aziende agricole che non fanno uso di mulesing e sono attente al benessere degli animali
-- Solida per i bambini: naturale al 100%, Purelan è priva di additivi, conservanti, profumi o aromi; per questo non è necessario rimuoverla prima dellallattamento al seno
 - Articolo consegnato: 1 x Medela Purelan Crema per Capezzoli in Tubetto da 37 g, Istruzioni
+- Solida per i bambini: naturale al 100%, Purelan è priva di additivi, conservanti, profumi o aromi; per questo non è necessario rimuoverla prima dellallattamento al seno
 - Multiuso: leffetto profondamente idratante della lanolina è ottimo anche per le labbra screpolate e la pelle secca ed è adatto per adulti, bambini e per la pelle sensibile
 - Sollievo rapido: la ricca consistenza della nostra formula Purelan, con lanolina pulita di grado medico, imita la capacità naturale della pelle di immagazzinare lumidità arrivando a contenere così del doppio del proprio peso in acqua
+- Provenienza etica: Purelan è prodotta in collaborazione con aziende agricole che non fanno uso di mulesing e sono attente al benessere degli animali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08HDGKR5B{{</world>}}

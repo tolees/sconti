@@ -28,8 +28,8 @@ average: '6.075'
 
 ℹ️:
 
-- Contiene un tabellone, 90 pedine e nove pennarelli cancellabili
 - Gioco interattivo per bambini ed adulti
+- Contiene un tabellone, 90 pedine e nove pennarelli cancellabili
 - Adatto per almeno due giocatori
 - Ottimo per stimolare la creatività dei bambini
 

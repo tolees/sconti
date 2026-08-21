@@ -29,11 +29,11 @@ average: '9.54857142857142'
 ℹ️:
 
 - AZIONE ANTIEROSIONE AVANZATA: Con uso combinato di dentifricio e siero, aiuta a rigenerare fino all’82% dei minerali dello smalto in 3 giorni* e a rendere i denti fino a 3 volte più forti, contribuendo alla reintegrazione dei minerali essenziali
-- RISULTATI VISIBILI IN POCHI GIORNI: luso regolare aiuta a migliorare la superficie dei denti e a prevenire le carie, risultati variabili in base all’utilizzo e alla routine di igiene orale
-- PROTEZIONE QUOTIDIANA E BIANCO NATURALE: Aiuta a proteggere dalla formazione della carie e ripristina il bianco naturale dei denti, contribuendo anche a renderli più lisci con uso regolare
-- TECNOLOGIA NR-5 MINERALI SMALTO: formula avanzata per uso quotidiano che contribuisce a ricreare il minerale dello smalto (idrossiapatite), aiutando a proteggere i denti dagli attacchi acidi e a mantenerli più resistenti
 - RIGENERA SMALTO DENTALE: Dentifricio con tecnologia NR-5 che aiuta a reintegrare i minerali dello smalto agendo nelle fasi iniziali dell’erosione, contribuendo a migliorare microdurezza e resistenza dei denti
 - *Basato su test in vitro che misura la microdurezza della superficie dello smalto dopo 3 giorni di utilizzo combinato di dentifricio Advanced e Advanced Enamel Serum.
+- RISULTATI VISIBILI IN POCHI GIORNI: luso regolare aiuta a migliorare la superficie dei denti e a prevenire le carie, risultati variabili in base all’utilizzo e alla routine di igiene orale
+- TECNOLOGIA NR-5 MINERALI SMALTO: formula avanzata per uso quotidiano che contribuisce a ricreare il minerale dello smalto (idrossiapatite), aiutando a proteggere i denti dagli attacchi acidi e a mantenerli più resistenti
+- PROTEZIONE QUOTIDIANA E BIANCO NATURALE: Aiuta a proteggere dalla formazione della carie e ripristina il bianco naturale dei denti, contribuendo anche a renderli più lisci con uso regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00P7SIVAQ{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- SUNSILK LINEA BYE BYE CRESPO: utilizzato con shampoo Sunsilk Bye Bye Crespo contribuisce a ottenere capelli più morbidi, setosi e disciplinati rispetto a un generico shampoo*
 - AZIONE ANTI CRESPO E DISCIPLINANTE: ideale per capelli crespi e danneggiati, nutre e definisce la fibra capillare aiutando a controllare il crespo già dalla prima applicazione
 - MODO D’USO: applica a capelli bagnati sulle lunghezze, lascia in posa 1 minuto e risciacqua con cura. Evita il contatto con gli occhi. In caso di contatto, sciacqua immediatamente
-- ONE MINUTE WOW BYE BYE CRESPO: trattamento intensivo con formula ad azione ultra-rapida che agisce in solo 1 minuto per rendere i capelli 2 volte più morbidi* al tatto e visibilmente più sani
 - FORMULA CON 9% ANTI-FRIZZ COMPLEX: arricchita con Olio di Mandorla, Cheratina e Biotina per nutrire intensamente, rinforzare i capelli e migliorarne morbidezza ed elasticità
+- SUNSILK LINEA BYE BYE CRESPO: utilizzato con shampoo Sunsilk Bye Bye Crespo contribuisce a ottenere capelli più morbidi, setosi e disciplinati rispetto a un generico shampoo*
+- ONE MINUTE WOW BYE BYE CRESPO: trattamento intensivo con formula ad azione ultra-rapida che agisce in solo 1 minuto per rendere i capelli 2 volte più morbidi* al tatto e visibilmente più sani
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0G86NGCSB{{</world>}}

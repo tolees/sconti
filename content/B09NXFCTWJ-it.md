@@ -30,8 +30,8 @@ average: '21.34'
 
 - Tecnologia STABILO Anti-Dry-Out: la punta resiste fino a 4 ore senza cappuccio per lavorare in tutta tranquillità
 - Il Desk-Set è un kit completo da scrivania: ottimale per chi ama la cartoleria aesthetic e cerca ordine, creatività e ispirazione in un unico prodotto
-- Punta a scalpello con doppia ampiezza di tratto (2 mm e 5 mm), ottimale per evidenziare, sottolineare e creare con precisione
 - Inchiostro a base d’acqua sicuro e colori brillanti: un mix di tonalità fluo e pastello ottimale per ogni esigenza
+- Punta a scalpello con doppia ampiezza di tratto (2 mm e 5 mm), ottimale per evidenziare, sottolineare e creare con precisione
 - STABILO BOSS ORIGINAL: l’evidenziatore iconico dal 1971, con design inconfondibile e qualità professionale per scuola, università e ufficio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

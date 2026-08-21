@@ -28,11 +28,11 @@ average: '7.7'
 
 ℹ️:
 
-- Design resistente con cavo intrecciato
-- Con licenza ufficiale Nintendo
+- Compatibile per ricarica e sincronizzazione
 - Fascetta per cavo
 - Cavo USB tipo C di 2,4 m
-- Compatibile per ricarica e sincronizzazione
+- Con licenza ufficiale Nintendo
+- Design resistente con cavo intrecciato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08FCW9VVX{{</world>}}

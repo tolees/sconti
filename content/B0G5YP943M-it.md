@@ -28,11 +28,11 @@ average: '17.49'
 
 ℹ️:
 
+- Orlo a doppio ago
+- Girocollo a coste
 - Vestibilità ampia
 - Manica corta
-- Girocollo a coste
 - Tasca sul petto a sinistra
-- Orlo a doppio ago
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0G5YP943M{{</world>}}

@@ -28,9 +28,9 @@ average: '29.32'
 
 ℹ️:
 
+- Colori e misure: a scelta, disponibili in 130 x 150 cm, 150 x 200 cm e 6 colori alla moda: blu navy, grigio, porpora, cammello, verde oliva, antracite. Qualità leggera e morbida.
 - -- -
 - La coperta con design double-face convince anche i più esigenti - giovani e anziani. Adorerete essere coccolati dopo una lunga giornata dalla piacevole qualità di questa coperta.
-- Colori e misure: a scelta, disponibili in 130 x 150 cm, 150 x 200 cm e 6 colori alla moda: blu navy, grigio, porpora, cammello, verde oliva, antracite. Qualità leggera e morbida.
 - Facile da pulire: lavabile in lavatrice a freddo, bassa rotazione, adatta per asciugatrice, a basse temperature. Evitare calore diretto. Grazie alla speciale tecnica di lavorazione, la coperta in pile non subisce alcun restringimento.
 - Materiale: questa coperta in microfibra è realizzata con lana sherpa di alta qualità, flanella e pile. La lana sherpa con le cuciture decorative e il pile rendono la coperta piacevolmente morbida, facile da pulire ed estremamente durevole.
 

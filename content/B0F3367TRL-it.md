@@ -29,9 +29,9 @@ average: '42.0'
 ℹ️:
 
 - Lacci
+- Suola in gomma
 - Vestibilità regolare
 - Tomaia in materiale sintetico
-- Suola in gomma
 - Soletta in tessuto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ average: '7.3'
 
 ℹ️:
 
-- BioNike Defence Hair Shampoo Seboregolatore riequilibra la secrezione sebacea del cuoio capelluto e limita la diffusione del sebo sulla fibra capillare, con Estratto di Ortica dalle proprietà astringenti e sebonormalizzanti
 - Defence Hair è la linea per la detersione quotidiana dei capelli e della cute formulata per tutte le esigenze, proteggendo la pelle più sensibile ed esaltando la naturale bellezza della chioma
+- BioNike Defence Hair Shampoo Seboregolatore riequilibra la secrezione sebacea del cuoio capelluto e limita la diffusione del sebo sulla fibra capillare, con Estratto di Ortica dalle proprietà astringenti e sebonormalizzanti
 - Applicare sui capelli inumiditi e massaggiare delicatamente anche sul cuoio capelluto. Lasciare in posa qualche minuto prima del risciacquo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

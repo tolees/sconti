@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Prodotto compatibile con cure omeopatiche
-- Lubrificazione ed idratazione degli occhi secchi ed arrossati, stabilizza e reintegra il film lacrimale
-- pH fisiologico
-- Ideale anche in caso di secchezza oculare; insufficiente lacrimazione; uso prolungato di lenti a contatto; fastidio oculare in ambienti chiusi, fumosi o con aria condizionata; sensazione di secchezza
-- Prodotto Vegan, non tossico
-- Prodotto con alta viscosità; indicato anche in caso di sensazione di corpo estraneo
-- valido 90 giorni dalla prima apertura
 - Prodotto compatibile con lenti a contatto; formulato per avere lo stesso ph dell’occhio (ph 7,2); non contiene benzalconio cloruro, thimerosal, clorexidina
+- pH fisiologico
+- Prodotto Vegan, non tossico
+- valido 90 giorni dalla prima apertura
+- Prodotto compatibile con cure omeopatiche
+- Prodotto con alta viscosità; indicato anche in caso di sensazione di corpo estraneo
+- Lubrificazione ed idratazione degli occhi secchi ed arrossati, stabilizza e reintegra il film lacrimale
+- Ideale anche in caso di secchezza oculare; insufficiente lacrimazione; uso prolungato di lenti a contatto; fastidio oculare in ambienti chiusi, fumosi o con aria condizionata; sensazione di secchezza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07MJ736XL{{</world>}}

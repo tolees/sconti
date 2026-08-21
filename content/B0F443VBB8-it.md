@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tipologia di prodotto : Bermuda
-- Dettagli : Badge
-- Chiusura : Patta
 - Tasche : Tasche posteriori, Coin pocket, Tasche frontali
+- Dettagli : Badge
+- Tipologia di prodotto : Bermuda
 - Fianchi : Vita alta
 - Vestibilità : Baggy Fit
+- Chiusura : Patta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F443VBB8{{</world>}}

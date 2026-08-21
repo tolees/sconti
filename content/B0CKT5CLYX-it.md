@@ -28,8 +28,8 @@ average: '19.95'
 
 ℹ️:
 
-- UA HG Mid - Nero / Bianco - MD
 - Classico stile pullover con design racer back e foro della serratura per una maggiore ventilazione e facile on / off
+- UA HG Mid - Nero / Bianco - MD
 - Morbida fascia inferiore elastica con dettaglio wordmark per una vestibilità stabile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

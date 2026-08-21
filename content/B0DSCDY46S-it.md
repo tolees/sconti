@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Facile manutenzione, non si piega, lavabile in lavatrice con colori simili e a temperatura non superiore a 30 °C.
+- Include 1 lenzuolo sotto con angoli, cucito per una migliore conservazione. Adatto per materassi fino a 30 cm.
 - Possibilità di realizzare combinazioni grazie alla grande disponibilità di colori, sia su lenzuolo sotto, federe e lenzuola di sopra.
 - Grazie alla sua composizione 100% microfibra spazzolata, poliestere, è molto traspirante e unisce resistenza e comfort. Il tessuto permette di mantenere la temperatura ideale, calda in inversione e fresca in estate.
-- Include 1 lenzuolo sotto con angoli, cucito per una migliore conservazione. Adatto per materassi fino a 30 cm.
+- Facile manutenzione, non si piega, lavabile in lavatrice con colori simili e a temperatura non superiore a 30 °C.
 - Utilizzare programma per capi dedicati a bassa temperatura, non candeggiare.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

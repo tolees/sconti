@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Puma Colore: nero
 - Numero del modello: 079529
+- Puma Colore: nero
 - PUMA Challenger Borsone XS
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

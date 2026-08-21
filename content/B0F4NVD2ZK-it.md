@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tasca a marsupio
 - A maniche lunghe
+- Tasca a marsupio
 - Cappuccio con coulisse
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ average: '4.19'
 
 ℹ️:
 
-- Applicazione facile: lo spray è facile da applicare utilizzando il nebulizzatore incluso Segui le indicazioni per unapplicazione ottimale su diverse parti del corpo, incluso il viso, per una copertura efficace;
-- Protezione immediata dalle zanzare: OFF! Spray è un prodotto dal gradevole profumo che offre una difesa affidabile dalle punture di zanzare fino a 2 ore, proteggendo sia adulti che bambini dai 2 anni in su;
 - Formula "Nè unti nè punti": grazie alla sua formula leggera e non unta, questo repellente garantisce una protezione confortevole senza lasciare residui oleosi sulla pelle;
+- Protezione immediata dalle zanzare: OFF! Spray è un prodotto dal gradevole profumo che offre una difesa affidabile dalle punture di zanzare fino a 2 ore, proteggendo sia adulti che bambini dai 2 anni in su;
 - Protezione per tutta la famiglia: adatta sia per adulti che per bambini dai 2 anni in su, OFF! Spray offre una protezione sicura e affidabile per tutta la famiglia durante le attività allaperto. Resisitente all’acqua;
 - Protezione contro zecche e zanzare: questo spray offre una protezione fino a 3 ore dalle zecche e fino a 2 ore dalle zanzare, garantendo tranquillità durante le tue avventure allaperto;
+- Applicazione facile: lo spray è facile da applicare utilizzando il nebulizzatore incluso Segui le indicazioni per unapplicazione ottimale su diverse parti del corpo, incluso il viso, per una copertura efficace;
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00E4L4B9W{{</world>}}

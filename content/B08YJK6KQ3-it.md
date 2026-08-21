@@ -28,12 +28,12 @@ average: '39.33'
 
 ℹ️:
 
+- Design resistente all’infiltrazione di polvere e liquidi: il grado di protezione IP42 rende la tastiera resistente ad incidenti fortuiti, consentendoti di giocare senza interruzioni
+- Sei tasti macro dedicati: attiva in un solo colpo funzioni, tasti di scelta rapida o la pressione dei tasti grazie ai sei tasti macro dedicati, facilmente configurabili grazie al software CORSAIR iCUE
+- Retroilluminazione RGB dinamica: illumina il tuo desktop con sei effetti di illuminazione integrati, assegna un colore a ciascuna zona di illuminazione o personalizza
+- Tasti silenziosi e reattivi: per una digitazione confortevole mentre lavori o giochi, con un feedback tattile per prestazioni di gioco efficienti
 - Tasti dedicati per il volume e la riproduzione multimediale: consentono di controllare comodamente la riproduzione multimediale e di regolare allistante il volume, senza interrompere il gioco
 - Poggiapolsi rimovibile: un morbido poggiapolsi in gomma consente di ridurre lo sforzo, consentendoti di giocare comodamente più a lungo, grazie alla superficie ruvida e antiscivolo
-- Design resistente all’infiltrazione di polvere e liquidi: il grado di protezione IP42 rende la tastiera resistente ad incidenti fortuiti, consentendoti di giocare senza interruzioni
-- Tasti silenziosi e reattivi: per una digitazione confortevole mentre lavori o giochi, con un feedback tattile per prestazioni di gioco efficienti
-- Retroilluminazione RGB dinamica: illumina il tuo desktop con sei effetti di illuminazione integrati, assegna un colore a ciascuna zona di illuminazione o personalizza
-- Sei tasti macro dedicati: attiva in un solo colpo funzioni, tasti di scelta rapida o la pressione dei tasti grazie ai sei tasti macro dedicati, facilmente configurabili grazie al software CORSAIR iCUE
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08YJK6KQ3{{</world>}}

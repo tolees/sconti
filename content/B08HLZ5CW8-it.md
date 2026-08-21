@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dimensioni: 500 x 115 x 70 mm
-- Alimentazione: 220-240 V AC - 50/60 Hz. Voltaggio: 240 V. Potenza: 3000 W.
 - Rackable 2U 19"
+- Alimentazione: 220-240 V AC - 50/60 Hz. Voltaggio: 240 V. Potenza: 3000 W.
+- Dimensioni: 500 x 115 x 70 mm
 - Dispatch rackable a 8 canali per un controllo ottimizzato dei tuoi dispositivi, con interruttore luminoso per ogni canale.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ average: '482.445'
 
 ℹ️:
 
+- Tipo di prodotto: Telefono Cellulare
 - Apple iPhone 15 128 GB - Nero Rinnovato
 - Dimensioni: 128 GB
-- Tipo di prodotto: Telefono Cellulare
 - Marca: Apple
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

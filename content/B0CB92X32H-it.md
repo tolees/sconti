@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Astuccio
-- Dimensioni: 22 cm di lunghezza. 6 cm di diametro. Etichetta tessuta argento Quik¨ tinta unita o stampa allover
-- Poliestere riciclato Repreve
-- Scomparto singolo
 - Materiale: poliestere 600D
+- Astuccio
+- Poliestere riciclato Repreve
+- Dimensioni: 22 cm di lunghezza. 6 cm di diametro. Etichetta tessuta argento Quik¨ tinta unita o stampa allover
+- Scomparto singolo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CB92X32H{{</world>}}

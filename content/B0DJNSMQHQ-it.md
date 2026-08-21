@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
+- Può contenere tracce di altra frutta a guscio, senape e sesamo
 - Adatti per la colazione e per qualsiasi altro momento di pausa, ottimi anche come snack pomeridiano
 - Una ricetta con buon latte fresco italiano
-- Può contenere tracce di altra frutta a guscio, senape e sesamo
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DJNSMQHQ{{</world>}}

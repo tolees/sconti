@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Efficace a basse temperature
 - Detersivo in polvere con bicarbonato per bucato a mano e in lavatrice
 - Ottimo per capi bianchi
-- Efficace a basse temperature
 - 4 confezioni da 2600 grammi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

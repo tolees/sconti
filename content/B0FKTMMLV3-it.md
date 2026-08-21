@@ -29,10 +29,10 @@ average: '89.99'
 ℹ️:
 
 - SISTEMA THERMOBLOCK PER UN RISCALDAMENTO RAPIDO L’avanzato sistema Thermoblock riscalda l’acqua in pochi secondi, mantenendo una temperatura costante per risultati perfetti dal primo caffè all’ultimo.
-- INCLUDE SERBATOIO DELL’ACQUA E DEL LATTE ESTRAIBILI Dotata di un serbatoio d’acqua da 0,9L e un contenitore del latte da 400ml, entrambi rimovibili per una facile pulizia. Ideale per preparare cappuccini e latte in modo rapido e senza sforzo.
+- CONTROLLO TATTILE INTUITIVO E DESIGN COMPATTO Il pannello di controllo tattile IMD offre un’esperienza moderna, comoda e precisa. Il tutto in un design compatto che si adatta perfettamente anche alle cucine più piccole senza rinunciare alla funzionalità.
 - ESPERIENZA ESPRESSO PROFESSIONALE A CASA Grazie alla potente pompa da 20 bar, questa macchina da caffè garantisce un’estrazione ottimale del caffè, offrendo un aroma intenso e una crema perfetta in ogni tazza, come al bar.
 - ACCESSORI FUNZIONALI PER L’USO QUOTIDIANO Include portafiltro metallico per 2 tazze, vaporizzatore orientabile per montare il latte facilmente, vassoio scalda-tazze per mantenere le tazze alla temperatura ideale e vassoio raccogligocce rimovibile per una maggiore pulizia e comodità.
-- CONTROLLO TATTILE INTUITIVO E DESIGN COMPATTO Il pannello di controllo tattile IMD offre un’esperienza moderna, comoda e precisa. Il tutto in un design compatto che si adatta perfettamente anche alle cucine più piccole senza rinunciare alla funzionalità.
+- INCLUDE SERBATOIO DELL’ACQUA E DEL LATTE ESTRAIBILI Dotata di un serbatoio d’acqua da 0,9L e un contenitore del latte da 400ml, entrambi rimovibili per una facile pulizia. Ideale per preparare cappuccini e latte in modo rapido e senza sforzo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FKTMMLV3{{</world>}}

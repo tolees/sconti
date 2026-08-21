@@ -28,12 +28,12 @@ average: '9.01'
 
 ℹ️:
 
-- Una mini candela che è un regalo perfetto per le donne in qualsiasi occasione.
+- DUE DESIGN, UNA FRAGRANZA INCONFONDIBILE: il packaging può variare mentre passiamo al nostro nuovo look.
 - Presenta la caratteristica stoppino in legno di WoodWick che crepita delicatamente.
+- Profumi di legni chiari e foglie verdi si diffondono in una radura della foresta piena di lavanda.
+- Una mini candela che è un regalo perfetto per le donne in qualsiasi occasione.
 - Perfetto per camere da letto o spazi di relax.
 - Crea unatmosfera calma e rilassante.
-- DUE DESIGN, UNA FRAGRANZA INCONFONDIBILE: il packaging può variare mentre passiamo al nostro nuovo look.
-- Profumi di legni chiari e foglie verdi si diffondono in una radura della foresta piena di lavanda.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08JM6J1SP{{</world>}}

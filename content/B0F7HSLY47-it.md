@@ -28,11 +28,11 @@ average: '349.715'
 
 ℹ️:
 
-- Sistema di raffreddamento WINDFORCE
 - Dual BIOS (Prestazioni/ Silenzioso)
-- Integrado con interfaz de memoria GDDR6 de 8GB y 128bit
 - Alimentato da Radeon RX 9060 XT
+- Sistema di raffreddamento WINDFORCE
 - Illuminazione RGB
+- Integrado con interfaz de memoria GDDR6 de 8GB y 128bit
 - Struttura rinforzata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

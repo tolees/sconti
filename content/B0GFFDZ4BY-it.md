@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- SWISSE, A SOSTEGNO DELLA NUTRIZIONE E DEL BENESSERE DA OLTRE 50 ANNI: Swisse nasce in Australia alla fine degli anni Sessanta e ha oggi oltre 50 anni di esperienza nel mondo degli integratori. Si impegna a investire costantemente nella ricerca scientifica indipendente e nello sviluppo di nuovi prodotti, realizzati secondo elevati standard di qualità per integrare la tua nutrizione e aiutarti a vivere al meglio ogni giorno
-- FUNZIONE DEPURATIVA E BENESSERE DELLA PELLE: la Bardana favorisce la funzione depurativa dellorganismo e contribuisce al benessere della pelle
-- AZIONE DEPURE COMPLETA: formula adatta allassunzione quotidiana con estratti vegetali per una azione depurativa, intestinale e digestiva
 - MODO DUSO E CARATTERISTICHE: 1 stick al giorno (10 ml), da assumere on-the-go direttamente dallo stick o disciolto in 250 ml di acqua; Senza Zuccheri, adatto a Vegani e Vegetariani
+- FUNZIONE DEPURATIVA E BENESSERE DELLA PELLE: la Bardana favorisce la funzione depurativa dellorganismo e contribuisce al benessere della pelle
+- SWISSE, A SOSTEGNO DELLA NUTRIZIONE E DEL BENESSERE DA OLTRE 50 ANNI: Swisse nasce in Australia alla fine degli anni Sessanta e ha oggi oltre 50 anni di esperienza nel mondo degli integratori. Si impegna a investire costantemente nella ricerca scientifica indipendente e nello sviluppo di nuovi prodotti, realizzati secondo elevati standard di qualità per integrare la tua nutrizione e aiutarti a vivere al meglio ogni giorno
 - TRANSITO INTESTINALE E DIGESTIONE: l’Elicriso favorisce la normale funzione del transito intestinale, i Chiodi di Garofano contribuiscono al comfort digestivo
+- AZIONE DEPURE COMPLETA: formula adatta allassunzione quotidiana con estratti vegetali per una azione depurativa, intestinale e digestiva
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GFFDZ4BY{{</world>}}

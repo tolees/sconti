@@ -29,9 +29,9 @@ average: '5.9'
 ℹ️:
 
 - 3 poteri attivi (pulizia, brillantezza, freschezza)
-- Extra brillantezza
 - Dissoluzione rapida
 - Con profumo di limone
+- Extra brillantezza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CV16R21D{{</world>}}

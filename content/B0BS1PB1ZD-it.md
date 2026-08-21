@@ -28,11 +28,11 @@ average: '8.95'
 
 ℹ️:
 
-- Materiali: carta da 90 gr + tessuto
 - Ha 192 pagine a righe allinterno.
 - Copertina in finitura tessile e con rilegatura cucita con apertura a 180º.
-- Pianifica, scrivi, lasciati ispirare... tutto ciò che ami in un taccuino.
 - Quaderno formato A5.
+- Materiali: carta da 90 gr + tessuto
+- Pianifica, scrivi, lasciati ispirare... tutto ciò che ami in un taccuino.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BS1PB1ZD{{</world>}}

@@ -28,9 +28,9 @@ average: '17.11'
 
 ℹ️:
 
-- Modello progettato per la massima libertà di movimento
-- Orlo posteriore sceso
 - Polsini e colletto elasticizzati per migliorare la traspirabilità
+- Orlo posteriore sceso
+- Modello progettato per la massima libertà di movimento
 - PUMA Logo Cat sul petto e sulle maniche
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ average: '107.99'
 
 ℹ️:
 
-- Fodera in pile nella parte superiore del corpo e nel cappuccio
 - La tecnologia Wind Fighter doma il vento
+- 127,6 g, 100% nylon con rivestimento in silicone
 - Rain Defender idrorepellente durevole (DWR) ti mantiene asciutto e in movimento in caso di pioggia leggera
 - Utilizza un isolamento 100% riciclato e post-consumo per un calore leggero
-- 127,6 g, 100% nylon con rivestimento in silicone
+- Fodera in pile nella parte superiore del corpo e nel cappuccio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B3PZWRMR{{</world>}}

@@ -28,10 +28,10 @@ average: '22.99'
 
 ℹ️:
 
-- Contiene tutto il necessario: 4 racchette da badminton, tre volani, una pratica custodia per il trasporto e una rete in nylon con due robuste canne
-- Lunghezza: 665 mm
 - Peso del telaio: 115 g
+- Contiene tutto il necessario: 4 racchette da badminton, tre volani, una pratica custodia per il trasporto e una rete in nylon con due robuste canne
 - Con il set Carlton Tournament per 4 giocatori sei sempre pronto per un incontro con i tuoi amici
+- Lunghezza: 665 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C2F5BCKK{{</world>}}

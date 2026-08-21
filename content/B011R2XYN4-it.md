@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Azione: betulla, pilosella e verga doro favoriscono leliminazione di acido urico, mentre lazione drenante è data dalle proprietà del tè verde e dellananas
-- Formula: con melograno, ginepro, tè verde, betulla, pilosella ed equiseto, per favorire il drenaggio dei liquidi corporei
-- ESI Benessere Naturale: dal 1975 lazienda italiana ESI offre prodotti fitoterapici, dietetici e integratori alimentari dallelevato standard qualitativo
 - ESI Diurerbe Forte: integratore alimentare, utile per alleviare la sensazione di gambe pesanti e gonfiore dovuto a squilibrio nel ricambio idrico, al gusto ananas
+- ESI Benessere Naturale: dal 1975 lazienda italiana ESI offre prodotti fitoterapici, dietetici e integratori alimentari dallelevato standard qualitativo
 - Modalità duso: diluire 1 pocket drink in mezzo litro d’acqua da consumare nella giornata; non usare in gravidanza e in caso di disfunzione renale, un consumo eccessivo può avere effetto lassativo
+- Formula: con melograno, ginepro, tè verde, betulla, pilosella ed equiseto, per favorire il drenaggio dei liquidi corporei
+- Azione: betulla, pilosella e verga doro favoriscono leliminazione di acido urico, mentre lazione drenante è data dalle proprietà del tè verde e dellananas
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B011R2XYN4{{</world>}}

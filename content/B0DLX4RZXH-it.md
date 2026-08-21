@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- fonte naturale di proteine: contribuisce al mantenimento della massa muscolare, con 17g di proteine per 100g di prodotto sgocciolato
-- classico intramontabile: tonno allolio di oliva dal gusto ricco e avvolgente, perfetto per esaltare ogni tua ricetta, dai primi piatti ai ripieni
-- qualità premium senza conservanti: tonno sgocciolato selezionato con cura, garantito senza conservanti per un sapore genuino e sano
-- formato scorta maxi convenienza: pratico multipack da 9 lattine da 60g ciascuna, ideale per famiglie e per avere sempre a disposizione il tuo tonno preferito
 - impegno per la sostenibilità: Nostromo pesca con flotte che rispettano le zone FAO e le linee guida ittiche, per un prodotto responsabile e rispettoso dellambiente
+- fonte naturale di proteine: contribuisce al mantenimento della massa muscolare, con 17g di proteine per 100g di prodotto sgocciolato
+- qualità premium senza conservanti: tonno sgocciolato selezionato con cura, garantito senza conservanti per un sapore genuino e sano
+- classico intramontabile: tonno allolio di oliva dal gusto ricco e avvolgente, perfetto per esaltare ogni tua ricetta, dai primi piatti ai ripieni
+- formato scorta maxi convenienza: pratico multipack da 9 lattine da 60g ciascuna, ideale per famiglie e per avere sempre a disposizione il tuo tonno preferito
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DLX4RZXH{{</world>}}

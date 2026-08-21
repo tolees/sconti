@@ -28,8 +28,8 @@ average: '59.9'
 
 ℹ️:
 
-- Chiusura: con lacci
 - Sneakers uomo traspiranti
+- Chiusura: con lacci
 - Suola: gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

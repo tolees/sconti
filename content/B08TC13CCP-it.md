@@ -28,11 +28,11 @@ average: '256.5'
 
 ℹ️:
 
-- A TRAZIONE: FACILITÀ DI GESTIONE SU PENDII E TERRENI IRREGOLARI - Il tagliaerba Alpina AL5 46 SA è dotato di trazione posteriore, che consente di affrontare facilmente pendii e terreni accidentati, garantendo una maggiore manovrabilità e controllo durante il taglio dellerba. La trazione posteriore aiuta a ridurre lo sforzo delloperatore e a migliorare la qualità del taglio.
 - LARGHEZZA DI TAGLIO DI 46 CM - Il tagliaerba Alpina AL5 46 SA offre una larghezza di taglio di 46 cm, ideale per prati di medie dimensioni, garantendo un taglio efficiente e uniforme grazie al suo piatto di taglio in acciaio robusto e durevole.
-- MOTORE STIGA OHV DI ALTA QUALITÀ - Il tagliaerba Alpina AL5 46 SA è alimentato da un motore STIGA OHV a quattro tempi da 139 cc, garantendo prestazioni affidabili e un avviamento facilitato grazie al sistema auto-choke, ideale per prati di medie-grandi dimensioni.
 - COSTRUITO PER DURARE - Il tagliaerba AL5 46 SA presenta un robusto piatto di taglio in acciaio, garantendo una costruzione solida e durabilità a lungo termine. Ideale per prati di medie-grandi dimensioni, è a trazione posteriore per affrontare facilmente terreni difficili.
 - UN MODELLO PER OGNI ESIGENZA - Alpina AL5 46 SA è un tagliaerba a scoppio con larghezza di taglio di 46 cm, ideale per prati di medie-grandi dimensioni. Supporta il metodo di taglio con raccolta in un sacco da 60 L e scarico posteriore, garantendo versatilità e facilità duso.
+- MOTORE STIGA OHV DI ALTA QUALITÀ - Il tagliaerba Alpina AL5 46 SA è alimentato da un motore STIGA OHV a quattro tempi da 139 cc, garantendo prestazioni affidabili e un avviamento facilitato grazie al sistema auto-choke, ideale per prati di medie-grandi dimensioni.
+- A TRAZIONE: FACILITÀ DI GESTIONE SU PENDII E TERRENI IRREGOLARI - Il tagliaerba Alpina AL5 46 SA è dotato di trazione posteriore, che consente di affrontare facilmente pendii e terreni accidentati, garantendo una maggiore manovrabilità e controllo durante il taglio dellerba. La trazione posteriore aiuta a ridurre lo sforzo delloperatore e a migliorare la qualità del taglio.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08TC13CCP{{</world>}}

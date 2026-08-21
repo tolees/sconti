@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- USER-FRIENDLY: altezza di taglio aggiustabile in 6 posizioni (25-75 mm), controlli ottimizzati, intuitivi ed ergonomici, rumore e vibrazioni ridotte
-- POTENTE: tosaerba a batteria Alpina AL1 3420 Li Kit (550W) con piatto di taglio da 34 cm, attrezzo da giardinaggio ottimo per aree fino a 250 m2, sacco di raccolta da 35 L, senza funzione mulching, tagliaerba rispettoso dellambiente grazie alla sua batteria ricaricabile
-- LEGGERO E COMPATTO: pesa solo 12 kg, salvaspazio grazie alla maniglia ripiegabile
 - CONTENUTO: 1x Rasaerba a batteria Alpina AL1 3420 Li Kit, sacco di raccolta, 2x batteria ePower 20V 2Ah e caricatore, Dimensioni: 1222 x 450 x 1154 mm, Peso: 12 kg, Art. Nr. 291342064/A21
+- LEGGERO E COMPATTO: pesa solo 12 kg, salvaspazio grazie alla maniglia ripiegabile
+- POTENTE: tosaerba a batteria Alpina AL1 3420 Li Kit (550W) con piatto di taglio da 34 cm, attrezzo da giardinaggio ottimo per aree fino a 250 m2, sacco di raccolta da 35 L, senza funzione mulching, tagliaerba rispettoso dellambiente grazie alla sua batteria ricaricabile
+- USER-FRIENDLY: altezza di taglio aggiustabile in 6 posizioni (25-75 mm), controlli ottimizzati, intuitivi ed ergonomici, rumore e vibrazioni ridotte
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08TBZLRSZ{{</world>}}

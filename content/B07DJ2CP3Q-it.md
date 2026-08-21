@@ -28,11 +28,11 @@ average: '27.2'
 
 ℹ️:
 
-- Lo stoppino in legno brevettato delle candele Hearthwick Flame crea una fiamma lunga e danzante e un crepitio distintivo per unatmosfera sofisticata da camino
-- La forma ellisse in vetro crea unesperienza olfattiva più coerente grazie allapertura più ampia che produce una pozza di cera completamente fusa
 - La miscela premium di cere produce una combustione bella senza residui disordinati
-- Bacche di Natale succose miscelate con un tocco di spezie calde ed essenza di vischio
+- La forma ellisse in vetro crea unesperienza olfattiva più coerente grazie allapertura più ampia che produce una pozza di cera completamente fusa
 - Ogni fragranza è accuratamente selezionata e testata per garantire che questa candela riempia la stanza con il suo profumo a lunga durata
+- Bacche di Natale succose miscelate con un tocco di spezie calde ed essenza di vischio
+- Lo stoppino in legno brevettato delle candele Hearthwick Flame crea una fiamma lunga e danzante e un crepitio distintivo per unatmosfera sofisticata da camino
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07DJ2CP3Q{{</world>}}

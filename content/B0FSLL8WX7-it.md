@@ -28,11 +28,11 @@ average: '7.35'
 
 ℹ️:
 
-- Purezza senza compromessi: vegano, senza siliconi e parabeni, ispirato al potere puro della flora greca.
-- Bergamot Pear – La dolcezza fruttata della pera si fonde con una combinazione cristallina di accordi floreali e acquosi.
 - Cura delicata per la tua pelle – Gel doccia delicatamente schiumogeno con estratto di salvia greca e aloe, deterge delicatamente e lascia la tua pelle morbida al tatto.
+- Purezza senza compromessi: vegano, senza siliconi e parabeni, ispirato al potere puro della flora greca.
 - Adatto a tutti i tipi di pelle – Compatibile anche con le pelli sensibili, dermatologicamente testato e pH neutro.
 - Pelle morbida – Favorisce il naturale equilibrio cutaneo e dona una sensazione di morbidezza e cura dopo ogni doccia.
+- Bergamot Pear – La dolcezza fruttata della pera si fonde con una combinazione cristallina di accordi floreali e acquosi.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FSLL8WX7{{</world>}}

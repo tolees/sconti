@@ -29,10 +29,10 @@ average: '2.99'
 ℹ️:
 
 - Colore giallo-arancio, sormontata da una schiuma cospicua, densa e persistente
-- Sottili sfumature di vaniglia e chiodi di garofano
-- Si apprezza ad ogni momento della giornata
 - Ideale durante un aperitivo
 - Dal gusto dolce e al contempo leggermente amaro, che si può assaporare in ogni momento della giornata
+- Si apprezza ad ogni momento della giornata
+- Sottili sfumature di vaniglia e chiodi di garofano
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B003WGBRVU{{</world>}}

@@ -28,10 +28,10 @@ average: '54.5944444444444'
 
 ℹ️:
 
-- INTENSITÀ: La tostatura scura e lintensità 11/13 danno un sapore caldo e avvolgente a questa particolare miscela, creando una crema ambrata e dal colore scuro
 - A MODO MIO PASSIONALE: Una miscela di caffè Lavazza ideale per un espresso dal gusto caldo e avvolgente. Capsule compatibili con macchine A Modo Mio
-- LAVAZZA: Il Gruppo Lavazza opera in ogni settore dellindustria del caffè, offrendo prodotti di alta qualità, ottenuti attraverso un modello sostenibile basato su innovazione, passione e competenza
+- INTENSITÀ: La tostatura scura e lintensità 11/13 danno un sapore caldo e avvolgente a questa particolare miscela, creando una crema ambrata e dal colore scuro
 - NOTE AROMATICHE: Questa selezione di caffè è caratterizzata da note aromatiche di caramello e cioccolato, per un caffè armonioso, pieno e dolce
+- LAVAZZA: Il Gruppo Lavazza opera in ogni settore dellindustria del caffè, offrendo prodotti di alta qualità, ottenuti attraverso un modello sostenibile basato su innovazione, passione e competenza
 - COMPOSIZIONE: Le capsule A Modo Mio Passionale di Lavazza sono realizzate con caffè 100% Arabica proveniente dal Brasile e dallIndia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

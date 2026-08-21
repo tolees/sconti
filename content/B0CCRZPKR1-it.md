@@ -28,12 +28,12 @@ average: '184.99'
 
 ℹ️:
 
-- Suono personalizzato tramite lapp Sennheiser Smart Control: regola il suono in base alle tue preferenze di ascolto personali tramite lequalizzatore integrato, le impostazioni predefinite e le modalità audio, per unesperienza audio unica.
-- Comfort eccezionale e batteria a lunga durata: il design leggero e pieghevole con archetto e cuscinetti auricolari comodamente imbottiti offre un comfort duraturo, per una riproduzione fino a 60 ore con ricarica rapida.
-- Massima risoluzione audio con il suono caratteristico Sennheiser: goditi una qualità musicale di livello superiore per tutto il giorno grazie al sistema di trasduttori da 42 mm di ispirazione audiofila delle cuffie e ad aptX Adaptive.
-- Immergiti nella musica: grazie alla cancellazione adattiva del rumore delle cuffie non avrai distrazioni, mentre la modalità trasparenza regolabile ti permette di rimanere in contatto con lambiente che ti circonda.
-- Telefonate cristalline: i quattro microfoni digitali con beamforming garantiscono una ricezione della voce di alta qualità e sopprimono automaticamente il rumore del vento per telefonate ottimizzate e un accesso più semplice allassistente vocale.
 - Risposta in frequenza: 6 Hz – 22,000 Hz Impedenza: Attivo 470 Ohm/ Passivo 60 Ohm
+- Comfort eccezionale e batteria a lunga durata: il design leggero e pieghevole con archetto e cuscinetti auricolari comodamente imbottiti offre un comfort duraturo, per una riproduzione fino a 60 ore con ricarica rapida.
+- Telefonate cristalline: i quattro microfoni digitali con beamforming garantiscono una ricezione della voce di alta qualità e sopprimono automaticamente il rumore del vento per telefonate ottimizzate e un accesso più semplice allassistente vocale.
+- Immergiti nella musica: grazie alla cancellazione adattiva del rumore delle cuffie non avrai distrazioni, mentre la modalità trasparenza regolabile ti permette di rimanere in contatto con lambiente che ti circonda.
+- Massima risoluzione audio con il suono caratteristico Sennheiser: goditi una qualità musicale di livello superiore per tutto il giorno grazie al sistema di trasduttori da 42 mm di ispirazione audiofila delle cuffie e ad aptX Adaptive.
+- Suono personalizzato tramite lapp Sennheiser Smart Control: regola il suono in base alle tue preferenze di ascolto personali tramite lequalizzatore integrato, le impostazioni predefinite e le modalità audio, per unesperienza audio unica.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CCRZPKR1{{</world>}}

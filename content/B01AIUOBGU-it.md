@@ -28,9 +28,9 @@ average: '9.485'
 
 ℹ️:
 
+- Enterolactis Bambini Bevibile, con L. casei DG, supporta lequilibrio della flora intestinale e il benessere dei bambini.
 - Formulato senza glutine e lattosio, con un delizioso gusto di lampone.
 - Ogni flaconcino, oltre a 1 miliardo di L. casei DG, è arricchito con vitamine D e del gruppo B, essenziali per il normale metabolismo energetico, e utili in caso di stanchezza e affaticamento.
-- Enterolactis Bambini Bevibile, con L. casei DG, supporta lequilibrio della flora intestinale e il benessere dei bambini.
 - Modalità di assunzione: 1 flaconcino al giorno, da assumere preferibilmente al mattino. Il prodotto può essere bevuto direttamente o diluito in acqua o altre bevande fredde.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

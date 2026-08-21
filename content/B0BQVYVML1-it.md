@@ -28,11 +28,11 @@ average: '133.65'
 
 ℹ️:
 
-- - Colore della cassa: Oro/Argento
 - - Vetro: Vetro minerale
-- - Forma della cassa: Circolare
+- - Colore della cassa: Oro/Argento
 - Cassa
 - - Cassa in: Acciaio INOX
+- - Forma della cassa: Circolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BQVYVML1{{</world>}}

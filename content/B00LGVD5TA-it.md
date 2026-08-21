@@ -28,9 +28,9 @@ average: '1.92'
 
 ℹ️:
 
-- Annuale. Utilizzo: per la copertura di pergolati, recinzioni, pareti, ringhiere e per aiuole.
-- Fioritura: estate e autunno (semina a primavera), primavera ed estate (semina in autunno).
 - Semina: primavera e autunno, in posizione definitiva a cicli di 4 o 5 semi a 40 cm di separazione.
+- Fioritura: estate e autunno (semina a primavera), primavera ed estate (semina in autunno).
+- Annuale. Utilizzo: per la copertura di pergolati, recinzioni, pareti, ringhiere e per aiuole.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00LGVD5TA{{</world>}}

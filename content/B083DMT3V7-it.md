@@ -29,10 +29,10 @@ average: '46.59'
 ℹ️:
 
 - Durata fino a 10 volte maggiore di una punta per piastrelle standard
-- Ottimo per praticare fori nelle piastrelle del bagno, ad esempio per installare una parete divisoria per doccia, nonché per forare le tegole, senza bisogno di raffreddamento; fora comodamente le piastrelle fino a una durezza PEI 5
 - Codolo esagonale per il ottimo trasferimento della potenza nei trapani standard a tre ganasce e nei mandrini per avvitatori esagonali
-- Punta ottimamente duratura grazie alla Bosch Carbide Technology
 - Dotazione di fornitura: 5 x Bosch Set di punte Expert HardCeramic HEX-9 4/5/6/8/10 mm 5 pz
+- Punta ottimamente duratura grazie alla Bosch Carbide Technology
+- Ottimo per praticare fori nelle piastrelle del bagno, ad esempio per installare una parete divisoria per doccia, nonché per forare le tegole, senza bisogno di raffreddamento; fora comodamente le piastrelle fino a una durezza PEI 5
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B083DMT3V7{{</world>}}

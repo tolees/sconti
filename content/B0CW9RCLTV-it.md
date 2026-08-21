@@ -28,11 +28,11 @@ average: '24.62'
 
 ℹ️:
 
-- ⌛ [NO TIME] - Le partite possono durare alcune ore, oppure giorni o addirittura mesi. Iniziare una partita a Don’t Get Got vuol dire vivere con l’ansia finché non sarà finita.
-- 👯 [PER TUTTI] - Giocatori: 2-10; Età: 16+
-- 🌍 [OVUNQUE] - La cosa bella è che si può giocare a Don’t Get Got in qualsiasi momento: mentre sei a lavoro, al pub con gli amici, mentre giochi a un altro gioco da tavolo o mentre sei in vacanza!
-- ⚔️ [SFIDA I TUOI AMICI] - L’obiettivo è convincere gli sfidanti, senza farsi beccare, a compiere stranezze di ogni tipo. Vince chi per primo completa tre missioni.
 - 🕵️ [MISSIONI SEGRETE] - In questo gioco “in sordina” ogni giocatore ha sei missioni segrete da portare a termine a discapito degli altri giocatori.
+- ⚔️ [SFIDA I TUOI AMICI] - L’obiettivo è convincere gli sfidanti, senza farsi beccare, a compiere stranezze di ogni tipo. Vince chi per primo completa tre missioni.
+- 👯 [PER TUTTI] - Giocatori: 2-10; Età: 16+
+- ⌛ [NO TIME] - Le partite possono durare alcune ore, oppure giorni o addirittura mesi. Iniziare una partita a Don’t Get Got vuol dire vivere con l’ansia finché non sarà finita.
+- 🌍 [OVUNQUE] - La cosa bella è che si può giocare a Don’t Get Got in qualsiasi momento: mentre sei a lavoro, al pub con gli amici, mentre giochi a un altro gioco da tavolo o mentre sei in vacanza!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CW9RCLTV{{</world>}}

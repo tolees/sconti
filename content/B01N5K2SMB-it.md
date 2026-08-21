@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Sfere metalliche (non magnetiche)
-- Possibilità infinite di costruzione
 - Sistema di costruzione magnetico
+- Possibilità infinite di costruzione
+- Sfere metalliche (non magnetiche)
 - Colore barrette: giallo, arancione, rosso, viola
 - Stimola il gioco immaginativo
 

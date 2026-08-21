@@ -28,10 +28,10 @@ average: '8.97'
 
 ℹ️:
 
+- CONFEZIONE: La confezione è composta da 4 flaconi di deodorante spray da 150 ml
 - FRAGRANZA: Profumo classico con declinazioni floreali lievemente ambrate e un persistente fondo talcato
 - MODO DUSO: Formato Spray utile a nebulizzare il deodorante uniformemente sulla pelle. Applicare a una distanza di 15 cm. Lasciare asciugare prima di indossare abiti e non usare prodotto in eccesso
 - ABBRACCIA LA VITA: Un gesto spontaneo ma allo stesso tempo potente che racchiude tutte le emozioni più autentiche, che ci arricchisce e ci fa stare bene. Sentiti sicuro con Borotalco di vivere il piacere dei momenti condivisi
-- CONFEZIONE: La confezione è composta da 4 flaconi di deodorante spray da 150 ml
 - FORMULA: con Talco Effetto Barriera. Questo mix unisce la protezione asciutta della polvere di talco con le molecole che catturano e non trasferiscono aloni, odori e macchie
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

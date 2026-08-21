@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Prodotto di ottima qualità
 - Articolo marchio JACK & JONES
+- Prodotto di ottima qualità
 - Presenta dei dettagli distintivi del marchio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

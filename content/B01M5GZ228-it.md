@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Microfono
 - Auricolari
+- Microfono
 - Comando a un pulsante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

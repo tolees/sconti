@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Sfrutta appieno il potenziale di PS4 e PS4 Pro
 - Un rinnovato inizio in grado di appassionare nuovi giocatori e fan della saga
 - Circa 30 ore di gioco da vivere immerso negli incontaminati regni del folklore nordico
-- Sfrutta appieno il potenziale di PS4 e PS4 Pro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07YT2WRFY{{</world>}}

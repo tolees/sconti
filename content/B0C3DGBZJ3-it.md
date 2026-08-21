@@ -28,12 +28,12 @@ average: '3.01'
 
 ℹ️:
 
-- Ideale per gli sportivi e per chi è attento alla linea
-- Alto contenuto di frutta
-- 24 grammi di proteine a vasetto
-- Da utilizzare per colazione, spuntino o piatti più elaborati
-- Vasetto da 240 grammi
 - Basso contenuto di zuccheri
+- Vasetto da 240 grammi
+- Ideale per gli sportivi e per chi è attento alla linea
+- 24 grammi di proteine a vasetto
+- Alto contenuto di frutta
+- Da utilizzare per colazione, spuntino o piatti più elaborati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C3DGBZJ3{{</world>}}

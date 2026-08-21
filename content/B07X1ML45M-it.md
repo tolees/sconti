@@ -28,11 +28,11 @@ average: '55.2266666666667'
 
 ℹ️:
 
-- Designer: Michele de Lucchi
 - Dimensioni: lunghezza 21 cm, larghezza 16 cm, altezza 20 cm, capacità 100 cl
 - Materiale: resina termoplastica
 - Il filtro rimovibile assicura la purezza dellacqua e la sua forma ispirata a quella dei tessuti a pieghe lo rende un pezzo di Design
 - Ispirato al mondo dellalta moda, questo bollitore è un vero pezzo di design, elegante e funzionale, pratico ed efficiente
+- Designer: Michele de Lucchi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07X1ML45M{{</world>}}

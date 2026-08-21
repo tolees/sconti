@@ -28,9 +28,9 @@ average: '483.99'
 
 ℹ️:
 
-- Armadio dal design semplice ma moderno che, grazie al suo accostamento di colori e alla sua anta a specchio, dona luminosità al tuo ambiente.
-- Dimensioni: Altezza: 223.00 cm, Larghezza: 150.00 cm, Profondità: 67.00 cm
 - Mobile realizzato in PANNELLO ECOLOGICO e certificato FSC 100% legno riciclato. É il pannello con la minore emissione di Co2 al mondo. Le sue straordinarie qualità lo rendono pratico e resistente, adatto dunque ad essere il componente base dei mobili Composad.
+- Dimensioni: Altezza: 223.00 cm, Larghezza: 150.00 cm, Profondità: 67.00 cm
+- Armadio dal design semplice ma moderno che, grazie al suo accostamento di colori e alla sua anta a specchio, dona luminosità al tuo ambiente.
 - Le ante scorrono su guide in metallo che garantiscono efficienza e una lunga resistenza allusura.
 - Made in ITALY. Questo mobile è stato progettato e prodotto in Italia.
 

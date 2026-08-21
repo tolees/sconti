@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Fluido leggero, a rapido assorbimento, protegge e idrata donando extra comfort e risultando invisibile sulla pelle.
 - Age UV Specialist Crema Viso Protezione 50+ è un trattamento fotoprotettivo quotidiano indicato per la pelle secca e molto secca, con Acido Ialuronico, Ectoina e Niacinamide, dalleffetto antirughe e antimacchia
 - Applicare al mattino sul viso, dopo la detersione e prima del make-up. In caso di esposizione al sole prolungata, rinnovare l’applicazione in quantità adeguata.
-- Fluido leggero, a rapido assorbimento, protegge e idrata donando extra comfort e risultando invisibile sulla pelle.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F2HKJSRG{{</world>}}

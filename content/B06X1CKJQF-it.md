@@ -28,11 +28,11 @@ average: '17.88'
 
 ℹ️:
 
-- Provenienza: Italia
-- Contenuto alcolico: 9,5% vol
-- Temperatura di servizio: Si serve fresco alla temperatura di 4-6°C
 - Tipo: Vino spumante Dolce, ottenuto da un’elaborazione attenta a tutti i dettagli e volta ad esaltare le caratteristiche aromatiche e gustative che lo caratterizzano. Metodo charmat a temperatura controllata.
 - Abbinamenti: Ideale con dolci al cucchiaio e con dessert a base di crema pasticcera, ottimo anche con pasticceria secca e crostate con frutta gialla.
+- Provenienza: Italia
+- Temperatura di servizio: Si serve fresco alla temperatura di 4-6°C
+- Contenuto alcolico: 9,5% vol
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B06X1CKJQF{{</world>}}

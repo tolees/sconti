@@ -28,10 +28,10 @@ average: '137.05'
 
 ℹ️:
 
+- DIMENSIONI: Poltrona misura: 62x60x89H cm Tavolino misura: 59x59x43H cm
+- RESISTENTE: Realizzato con plastica resistente ai raggi UV e alle intemperie
 - PULIZIA: Può essere pulito facilmente con un panno e acqua
 - COMPOSIZIONE: Set da balcone con caratteristica finitura effetto rattan composto da due poltrone dotate di cuscino e tavolino contenitore
-- RESISTENTE: Realizzato con plastica resistente ai raggi UV e alle intemperie
-- DIMENSIONI: Poltrona misura: 62x60x89H cm Tavolino misura: 59x59x43H cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B082LFBZL7{{</world>}}

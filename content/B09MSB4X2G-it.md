@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Unidea regalo fantastica per i fan di UNO dai 7 anni in su.
-- È un gioco veloce dove non occorre abbinare i colori o i numeri come nella versione classica di UNO.
 - Ogni carta è un jolly in UNO All Wild!
 - Non dimenticate: quando qualcuno resta con una sola carta deve gridare "UNO!"
+- Unidea regalo fantastica per i fan di UNO dai 7 anni in su.
 - E le carte azione incluse nel mazzo lo rendono ancora più imprevedibile: Jolly Cambia Giro, Jolly Salta Giro e Salta Due, Jolly Pesca Due e Quattro, Jolly Scambio Forzato e Jolly Pesca Due Mirato.
+- È un gioco veloce dove non occorre abbinare i colori o i numeri come nella versione classica di UNO.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09MSB4X2G{{</world>}}

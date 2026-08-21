@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Peso della confezione dellarticolo: 0.18 kg
-- Altezza della confezione dellarticolo: 105 mm
-- Lunghezza del pacchetto dellarticolo: 295 mm
 - Larghezza della confezione dellarticolo: 140 mm
+- Altezza della confezione dellarticolo: 105 mm
+- Peso della confezione dellarticolo: 0.18 kg
+- Lunghezza del pacchetto dellarticolo: 295 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08216PMLC{{</world>}}

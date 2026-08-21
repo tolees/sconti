@@ -28,13 +28,13 @@ average: '16.49'
 
 ℹ️:
 
+- Volume: 39,75 L
+- Esterno: 100% poliestere (riciclato); interno: 100% elastomero termoplastico
+- Tasche interne con zip e aperte
 - Dimensioni: 22 cm x 56 cm x 28 cm
 - Doppi manici con impugnatura imbottita
-- Tracolla regolabile con imbottitura mobile
 - Tasche laterali e alle estremità con chiusura a zip
-- Esterno: 100% poliestere (riciclato); interno: 100% elastomero termoplastico
-- Volume: 39,75 L
-- Tasche interne con zip e aperte
+- Tracolla regolabile con imbottitura mobile
 - Scomparto separato per le scarpe
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

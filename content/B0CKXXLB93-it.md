@@ -28,16 +28,16 @@ average: '35.0'
 
 ℹ️:
 
-- Calzata regolare
-- Intersuola in EVA
-- Soletta OrthoLite
 - Suola in gomma per tutte le superfici
-- Almeno il 20% del materiale proviene da fonti riciclate
-- Peso: 268 g (misura 38 2/3)
-- Chiusura con lacci
 - Drop intersuola: 9 mm (tallone 27 mm / avampiede 18 mm)
 - Tomaia in mesh
+- Almeno il 20% del materiale proviene da fonti riciclate
+- Soletta OrthoLite
+- Chiusura con lacci
+- Calzata regolare
+- Intersuola in EVA
 - Fodera in tessuto
+- Peso: 268 g (misura 38 2/3)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CKXXLB93{{</world>}}

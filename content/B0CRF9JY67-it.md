@@ -28,11 +28,11 @@ average: '37.5'
 
 ℹ️:
 
-- Jeans, pantaloni, lunghi
-- Chiusura: cerniera e bottone
 - Composizione: 77% cotone 21% poliestere 2% elastane
 - Vestibilità normale
+- Chiusura: cerniera e bottone
 - Istruzioni di lavaggio: lavabile in lavatrice
+- Jeans, pantaloni, lunghi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CRF9JY67{{</world>}}

@@ -28,8 +28,8 @@ average: '13.99'
 
 ℹ️:
 
-- 95% cotone, 5% elastan
 - Logo stampato sul davanti
+- 95% cotone, 5% elastan
 - Maglietta essenziale con scollo rotondo a maniche corte e vestibilità aderente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

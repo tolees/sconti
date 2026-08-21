@@ -28,11 +28,11 @@ average: '8.33'
 
 ℹ️:
 
-- Note di testa: Pompelmo,ananas e foglie di violetta
-- Note di fondo: Patchouli, Cashmeran e note muschiate
-- La Classic Collection offre diverse fragranze che hanno superato la prova del tempo. Combina note fresche maschili, spezie raffinate e legni eleganti
 - Note di cuore: salvia, geranio e nota di mela
 - David Beckham Eau de Toilette Classic Blue - Profumo da uomo in formato 50 ml; un tocco di audacia e mascolinità per uomini dallo stile unico e inconfondibile
+- Note di testa: Pompelmo,ananas e foglie di violetta
+- La Classic Collection offre diverse fragranze che hanno superato la prova del tempo. Combina note fresche maschili, spezie raffinate e legni eleganti
+- Note di fondo: Patchouli, Cashmeran e note muschiate
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BNY16ZB3{{</world>}}

@@ -28,12 +28,12 @@ average: '36.97'
 
 ℹ️:
 
-- Tasche a marsupio
-- Questo prodotto contiene almeno il 70% di materiali riciclati e rinnovabili
-- Vestibilità regolare
-- Spalle basse
 - Polsini e orlo a coste
 - 55% cotone / 36% poliestere (riciclato) / 9% viscosa
+- Vestibilità regolare
+- Spalle basse
+- Questo prodotto contiene almeno il 70% di materiali riciclati e rinnovabili
+- Tasche a marsupio
 - Zip integrale e cappuccio regolabile con cordino
 - 95% cotone / 5% elastan
 

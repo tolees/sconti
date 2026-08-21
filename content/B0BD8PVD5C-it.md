@@ -28,11 +28,11 @@ average: '109.97'
 
 ℹ️:
 
+- RADIATORE ELEGANTE PL360 - Il blocco radiatore in alluminio a basso profilo (394x119.6x27.2mm) contiene una maggiore densità di alette (FPI 20) per una più rapida dissipazione del calore; tubo dellacqua intrecciato lungo circa 350mm fino al blocco pompa
+- COMPATIBILITÀ SOCKET UNIVERSALE - Completamente compatibile Intel (LGA 1700 / 1200 / 2066 / 2011-v3 / 2011 / 1151 / 1150 / 1155 / 1156) e AMD (AM5 / AM4 / AM3+ / AM3 / AM2+ / AM2 / FM2+ / FM2 / FM1 / TR4) prese adatte per CPU Cooler sockets
+- RGB INDIRIZZABILE GEN 2 - LED RGB indirizzabili nella pompa e nelle ventole per unilluminazione totalmente personalizzabile; sincronizzabile direttamente tramite schede madri certificate RGB o tramite il controller manuale incluso e il software MasterPlus
 - BLOCCO POMPA MIGLIORATO - Base in rame a microcanali ridisegnata per il 20% di superficie in più, pompa a doppia camera extra-compatta e girante in ceramica per ottimizzare il flusso e la pressione idrica; offre un waterblock compatto e più efficiente
 - FLUSSO OTTIMIZZATO - Ventilatori con pale interconnesse per migliorare: pressione dellaria (2.96mmH2O), volume (72.37CFM) e riduzione del rumore (32dBA max); telaio rinforzato a bordi smussati per una migliore stabilità e concentrazione del flusso daria
-- RGB INDIRIZZABILE GEN 2 - LED RGB indirizzabili nella pompa e nelle ventole per unilluminazione totalmente personalizzabile; sincronizzabile direttamente tramite schede madri certificate RGB o tramite il controller manuale incluso e il software MasterPlus
-- COMPATIBILITÀ SOCKET UNIVERSALE - Completamente compatibile Intel (LGA 1700 / 1200 / 2066 / 2011-v3 / 2011 / 1151 / 1150 / 1155 / 1156) e AMD (AM5 / AM4 / AM3+ / AM3 / AM2+ / AM2 / FM2+ / FM2 / FM1 / TR4) prese adatte per CPU Cooler sockets
-- RADIATORE ELEGANTE PL360 - Il blocco radiatore in alluminio a basso profilo (394x119.6x27.2mm) contiene una maggiore densità di alette (FPI 20) per una più rapida dissipazione del calore; tubo dellacqua intrecciato lungo circa 350mm fino al blocco pompa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BD8PVD5C{{</world>}}

@@ -28,10 +28,10 @@ average: '732.666666666667'
 
 ℹ️:
 
+- PULIZIA PIROLITICA: Funzione di pulizia pirolitica che brucia i residui ad alta temperatura.
 - TERMOSONDA INCLUSA: Termosonda per il controllo della temperatura interna degli alimenti.
 - DISPLAY EXCITE TOUCH: Display EXCite touch con connettività Wi-Fi per il controllo del forno.
 - CLASSE ENERGETICA A++: Etichetta energetica UE di classe A++ per questo modello.
-- PULIZIA PIROLITICA: Funzione di pulizia pirolitica che brucia i residui ad alta temperatura.
 - CAPACITÀ 72 LITRI: Forno da incasso multifunzione PizzaExpert con cavità da 72 litri.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ average: '133.0'
 
 ℹ️:
 
-- Soletta: Soletta in PU; Altezza: 3,8 cm
 - Colore: Marrone
-- Fodera: 100% Poliestere Riciclato
 - Tomaia: Pelle
 - Suola/Caratteristiche: XL EXTRALIGHT per leggerezza; Cerniera laterale
+- Fodera: 100% Poliestere Riciclato
+- Soletta: Soletta in PU; Altezza: 3,8 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CRBKGZ3T{{</world>}}

@@ -28,10 +28,10 @@ average: '108.74'
 
 ℹ️:
 
+- Efficiente levigatura di ampie superfici, con la piastra di levigatura rettangolare
 - Ottima per lavorare angoli, spigoli e superfici di medie dimensioni con la piastra di levigatura a delta
 - In dotazione: PSM 200 AES, piastra di levigatura rettangolare, estensore per pad, piastra lunga, carta abrasiva K80 (a ferro a stiro), carta abrasiva K80 (lunga), SystemBox M, box AC medio
 - Lavoro senza fatica e in base al materiale, grazie alla preselezione continua del numero di giri e al motore da 200 Watt dalle vibrazioni ridotte
-- Efficiente levigatura di ampie superfici, con la piastra di levigatura rettangolare
 - Levigatrice PSM 200 AES: una tuttofare versatile e leggera
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

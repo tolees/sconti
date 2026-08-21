@@ -28,8 +28,8 @@ average: '39.3'
 
 ℹ️:
 
-- Bandierina Tommy Hilfiger ricamata sul fianco
 - Elastico in vita con lacci
+- Bandierina Tommy Hilfiger ricamata sul fianco
 - Due tasche laterali a filetto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

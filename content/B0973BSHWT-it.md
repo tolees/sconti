@@ -28,11 +28,11 @@ average: '109.0'
 
 ℹ️:
 
-- Patented image control Waveguide for detailed imaging and a broad, room-friendly sweet spot
-- Next-generation JBL transducers for optimized transient response and improved linearity
 - New boundary EQ settings compensate for low frequency variants introduced by the environment
 - Hf trim switch adjusts high-frequency output to room acoustics or personal preferences
 - Dual integrated, custom Class-D amplifiers provide 82 watts of power for high output and dynamic range
+- Next-generation JBL transducers for optimized transient response and improved linearity
+- Patented image control Waveguide for detailed imaging and a broad, room-friendly sweet spot
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0973BSHWT{{</world>}}

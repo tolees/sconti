@@ -28,9 +28,9 @@ average: '8.99'
 
 ℹ️:
 
-- Tessuto traforato e traspirante
-- Coppia di guanti da sollevamento pesi
 - Imbottitura in gel
+- Coppia di guanti da sollevamento pesi
+- Tessuto traforato e traspirante
 - Facili da sfilare grazie alle apposite asole sulle dita
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

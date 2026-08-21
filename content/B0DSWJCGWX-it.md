@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Rotoloni Regina è la carta igienica bianca e decorata, lunga più del doppio dei rotoli normali
 - La carta igienica Regina è garantita dalla certificazione FSC‐C017535
+- Rotoloni Regina è la carta igienica bianca e decorata, lunga più del doppio dei rotoli normali
 - La confezione contiene 30 rotoloni di carta igienica a 2 veli, con 500 strappi per ogni rotolo , e una lunghezza totale di circa 61 metri a rotolo
 - Rotoloni Regina è un prodotto Sofidel, azienda italiana che promuove progetti volti a garantire igiene, salute e benessere
 

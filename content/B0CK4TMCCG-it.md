@@ -28,16 +28,16 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Pack per simulazioni farming e trucking composto da volante T128, pedaliera T2PM e SimTask Steering Kit
-- Pomello per lo sterzo che consente il controllo con una mano utilizzando nel frattempo i comandi delle attrezzature
-- La posizione è regolabile lungo tre diversi assi, per impostare laltezza e linclinazione del volante e trovare la posizione di sterzo ideale
-- Design moderno e angolo di rotazione fino a 900°: perfetto per tutti i tipi di giochi e veicoli
-- Volante T128 con Force Feedback dinamico e leve del cambio magnetiche, per provare veramente le sensazioni della guida
-- Sistema di fissaggio totalmente in metallo, realizzato da una lamina in metallo spessa 2 mm, con pomello per lo sterzo con asse in acciaio
-- Volante T128 con force feedback ottimizzato, con volante alleggerito e design moderno e versatile
-- Sistema di aggancio totalmente in metallo utilizzabile con una scrivania (spessore: min. 15 mm, max. 50 mm), che consente di posizionare il volante orizzontalmente, per una guida di veicoli e macchinari pesanti realistica e coinvolgente
-- L’inclinazione regolabile consente di collocare il volante in posizione piana, per adattarsi a tutti i tipi di camion e mezzi pesanti
 - Il volante T128 è compatibile con PC (Windows 10/11), Xbox Series X|S e Xbox One
+- Sistema di fissaggio totalmente in metallo, realizzato da una lamina in metallo spessa 2 mm, con pomello per lo sterzo con asse in acciaio
+- Pack per simulazioni farming e trucking composto da volante T128, pedaliera T2PM e SimTask Steering Kit
+- Design moderno e angolo di rotazione fino a 900°: perfetto per tutti i tipi di giochi e veicoli
+- L’inclinazione regolabile consente di collocare il volante in posizione piana, per adattarsi a tutti i tipi di camion e mezzi pesanti
+- Volante T128 con Force Feedback dinamico e leve del cambio magnetiche, per provare veramente le sensazioni della guida
+- Sistema di aggancio totalmente in metallo utilizzabile con una scrivania (spessore: min. 15 mm, max. 50 mm), che consente di posizionare il volante orizzontalmente, per una guida di veicoli e macchinari pesanti realistica e coinvolgente
+- Volante T128 con force feedback ottimizzato, con volante alleggerito e design moderno e versatile
+- La posizione è regolabile lungo tre diversi assi, per impostare laltezza e linclinazione del volante e trovare la posizione di sterzo ideale
+- Pomello per lo sterzo che consente il controllo con una mano utilizzando nel frattempo i comandi delle attrezzature
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CK4TMCCG{{</world>}}

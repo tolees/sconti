@@ -28,16 +28,16 @@ average: '339.390000000001'
 
 ℹ️:
 
-- Montaggio magnetico e ovunque: ottieni facilmente angolazioni uniche grazie al montaggio magnetico e collegala a numerosi accessori per prospettive ancora più creative.
-- POV a mani libere e Indossabile: il montaggio magnetico ti permette di agganciare la videocamera a un cappellino o di indossarla con il ciondolo magnetico, liberando le mani per una vera prospettiva in prima persona.
-- Leggera e portatile: 53 g e grande quanto un orologio, pensata per ottenere facilmente riprese 4K da qualsiasi angolazione. Perfetta per ciclismo, corsa, immersioni e altro ancora.
-- Editing automatico: con un semplice tocco, l’IA trova i momenti migliori e li monta in un video con transizioni e musica. Riprendi in modalità FreeFrame e condividi istantaneamente sui tuoi social preferiti in qualsiasi formato.
-- Impermeabile: riprendi sott’acqua fino a 10 metri con la videocamera standalone impermeabile IPX8. Utilizza il Case subacqueo con l’action pod IPX4 per arrivare fino a 60 metri di profondità.
-- Pack Creator include: 1x GO Ultra, 1x Protezione Lenti (già installata), 1x Cavo di sicurezza a sgancio rapido, 1x Easy Clip magnetica, 1x Ciondolo magnetico, 1x Supporto a sgancio rapido, 1x Mini treppiede 2-in-1 2.0, 1x Supporto girevole
-- Ottime prestazioni di giorno e di notte: crea immagini di alta qualità in ogni condizione di luce con un sensore da 1/1,28", chip IA da 5nm e la Modalità PureVideo, progettata per eccellere al buio.
-- Autonomia di 200 min e ricarica rapida: riprendi per 70 minuti con la videocamera standalone e fino a 3 ore con l’action pod. Ricarica dallo 0 all’80% in soli 12 minuti.
-- Video 4K60fps e Active HDR in 4K: Riprendi lo sport in 4K nitido a 60fps fluidi e ottieni immagini spettacolari sotto i riflettori, nella natura... ovunque! Grazie allActive HDR in 4K.
 - Stabilizzazione affidabile: con 3 livelli di stabilizzazione FlowState e lhorizon lock 360°, i tuoi video saranno sempre fluidi e perfettamente livellati.
+- Ottime prestazioni di giorno e di notte: crea immagini di alta qualità in ogni condizione di luce con un sensore da 1/1,28", chip IA da 5nm e la Modalità PureVideo, progettata per eccellere al buio.
+- Pack Creator include: 1x GO Ultra, 1x Protezione Lenti (già installata), 1x Cavo di sicurezza a sgancio rapido, 1x Easy Clip magnetica, 1x Ciondolo magnetico, 1x Supporto a sgancio rapido, 1x Mini treppiede 2-in-1 2.0, 1x Supporto girevole
+- POV a mani libere e Indossabile: il montaggio magnetico ti permette di agganciare la videocamera a un cappellino o di indossarla con il ciondolo magnetico, liberando le mani per una vera prospettiva in prima persona.
+- Video 4K60fps e Active HDR in 4K: Riprendi lo sport in 4K nitido a 60fps fluidi e ottieni immagini spettacolari sotto i riflettori, nella natura... ovunque! Grazie allActive HDR in 4K.
+- Impermeabile: riprendi sott’acqua fino a 10 metri con la videocamera standalone impermeabile IPX8. Utilizza il Case subacqueo con l’action pod IPX4 per arrivare fino a 60 metri di profondità.
+- Leggera e portatile: 53 g e grande quanto un orologio, pensata per ottenere facilmente riprese 4K da qualsiasi angolazione. Perfetta per ciclismo, corsa, immersioni e altro ancora.
+- Montaggio magnetico e ovunque: ottieni facilmente angolazioni uniche grazie al montaggio magnetico e collegala a numerosi accessori per prospettive ancora più creative.
+- Autonomia di 200 min e ricarica rapida: riprendi per 70 minuti con la videocamera standalone e fino a 3 ore con l’action pod. Ricarica dallo 0 all’80% in soli 12 minuti.
+- Editing automatico: con un semplice tocco, l’IA trova i momenti migliori e li monta in un video con transizioni e musica. Riprendi in modalità FreeFrame e condividi istantaneamente sui tuoi social preferiti in qualsiasi formato.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D3X3WS5C{{</world>}}

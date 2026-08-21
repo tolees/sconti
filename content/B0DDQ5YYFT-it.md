@@ -29,9 +29,9 @@ average: '9.11'
 ℹ️:
 
 - Codice del prodotto: tan0100014/5
-- Brand: tantum
 - Formato 200 ml
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
+- Brand: tantum
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DDQ5YYFT{{</world>}}

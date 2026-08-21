@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 12 w
-- 18 w
 - Questo è un prodotto contenente una fonte di luce rimovibile. La fonte di luce ha classe energetica F
+- 12 w
+- In plastica
 - 40x40x12 cm
 - Plafoniera
-- In plastica
+- 18 w
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B019Z6OHS0{{</world>}}

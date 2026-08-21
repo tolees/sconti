@@ -28,11 +28,11 @@ average: '30.0'
 
 ℹ️:
 
-- Compatibile con tutte le custodie e gli adattatori universali Quad Lock (non inclusi)
-- Il piu robusto, sicuro e versatile supporto da manubrio per motociclette
 - il Sistema di aggancio / sgancio rapido permette una consultazione veloce delle tue applicazioni
-- Il Sistema di connessione brevettato a due fasi “dual-stage” assicura una connessione robusta tra la moto / scooter e il tuo cellulare. Aggiungi il modulo Anti-Vibrazioni (opzionale) per aumentare la protezione del tuo smartphone (raccomandato).
+- Il piu robusto, sicuro e versatile supporto da manubrio per motociclette
 - Disponibile in varie configurazioni. Il supporto si adatta a manubri di diametro 7/8” (22mm), 1” (25mm), 1-1/8” (28mm) e 1-1/4” (32mm)
+- Il Sistema di connessione brevettato a due fasi “dual-stage” assicura una connessione robusta tra la moto / scooter e il tuo cellulare. Aggiungi il modulo Anti-Vibrazioni (opzionale) per aumentare la protezione del tuo smartphone (raccomandato).
+- Compatibile con tutte le custodie e gli adattatori universali Quad Lock (non inclusi)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08741BFFC{{</world>}}

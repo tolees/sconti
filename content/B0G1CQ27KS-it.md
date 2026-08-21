@@ -28,11 +28,11 @@ average: '15.99'
 
 ℹ️:
 
-- FUNZIONALE: Tasca refrigerante centrale, una tasca frontale con cerniera e due tasche laterali; Spallacci regolabili e maniglia per il trasporto; Pieghevole; Fodera antibatterica; Facile da pulire
 - GRANDE CAPACITÀ: la borsa termica ha una capacità di 9 litri; perfetta per il campeggio, i picnic in famiglia, le gite in spiaggia o per il lungo tragitto di ritorno dal supermercato
-- Dimensioni (LxPxA): 23 x 16 x 35 cm; Capacità: 9 litri; Adatto per: 2 x 1,5 litri o 10 x 0,5 litri in orizzontale; Peso: 280 g; Isolamento: isolamento in schiuma a celle chiuse EPE da 6 mm
-- RAFFREDDAMENTO EFFICACE: cibi e bevande rimangono freschi fino a 9 ore con gli elementi refrigeranti (venduti separatamente); consigliamo i Campingaz Freez Packs per prestazioni ottimali
 - ALLA MODA: questo frigorifero fa parte della nuova gamma di frigoriferi morbidi etnici Campingaz e sembra più un accessorio chic che un oggetto utile; colori e motivi senza tempo
+- RAFFREDDAMENTO EFFICACE: cibi e bevande rimangono freschi fino a 9 ore con gli elementi refrigeranti (venduti separatamente); consigliamo i Campingaz Freez Packs per prestazioni ottimali
+- FUNZIONALE: Tasca refrigerante centrale, una tasca frontale con cerniera e due tasche laterali; Spallacci regolabili e maniglia per il trasporto; Pieghevole; Fodera antibatterica; Facile da pulire
+- Dimensioni (LxPxA): 23 x 16 x 35 cm; Capacità: 9 litri; Adatto per: 2 x 1,5 litri o 10 x 0,5 litri in orizzontale; Peso: 280 g; Isolamento: isolamento in schiuma a celle chiuse EPE da 6 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0G1CQ27KS{{</world>}}

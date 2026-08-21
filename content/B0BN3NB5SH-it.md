@@ -28,9 +28,9 @@ average: '14.63'
 
 ℹ️:
 
-- Forma del corpo: alto
-- Tasche: tasca sul petto
 - Prodotto di ottima fattura
+- Tasche: tasca sul petto
+- Forma del corpo: alto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BN3NB5SH{{</world>}}

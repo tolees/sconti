@@ -28,10 +28,10 @@ average: '10.7'
 
 ℹ️:
 
-- MATERIALE E LAVAGGIO: Questa t-shirt è realizzata al 100% in cotone biologico. È lavabile in lavatrice.
 - DESIGN PREMIUM: Lo stile essenziale di questo capo pone le basi per qualsiasi outfit. Inoltre, la maglietta è perfetta anche come regalo.
-- VESTIBILITÀ OTTIMALE: Questa maglietta a manica corta senza tempo in morbido cotone traspirante presenta un design minimalista e si adatta morbidamente alla figura.
+- MATERIALE E LAVAGGIO: Questa t-shirt è realizzata al 100% in cotone biologico. È lavabile in lavatrice.
 - STREETWEAR RIVISITATO: Per far apprezzare gli amati classici degli anni ‘90 alla generazione successiva, Tommy Jeans strizza locchio alle icone dell’hip hop di quest’epoca. L’attenzione è rivolta alla qualità e ai design di tendenza caratterizzati da tanto denim.
+- VESTIBILITÀ OTTIMALE: Questa maglietta a manica corta senza tempo in morbido cotone traspirante presenta un design minimalista e si adatta morbidamente alla figura.
 - ESSENZIALE E CASUAL: La maglietta basic si caratterizza per il suo tessuto in cotone comfort elasticizzato piacevole sulla pelle ed è adatta come maglia intima, da pigiama o da indossare in casa. La bandierina Tommy Jeans sul petto completa il look.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

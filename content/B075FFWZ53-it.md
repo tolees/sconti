@@ -29,8 +29,8 @@ average: '16.72'
 ℹ️:
 
 - BENESSERE SENZA COMPROMESSI: Ideale per chi è attento alla linea e al benessere, ma non vuole rinunciare al gusto e alla qualità. Senza conservanti e senza coloranti.
-- CONFETTURE SALUTARI: 77% di calorie in meno rispetto alle confetture più vendute. Senza glutine e vegana.
 - MIRTILLI: Scopri tutto il sapore della confettura Hero Light ai Mirtilli con solo 10 calorie a porzione che puoi goderti quando vuoi.
+- CONFETTURE SALUTARI: 77% di calorie in meno rispetto alle confetture più vendute. Senza glutine e vegana.
 - PROPRIETÀ: Per gli amanti dei mirtilli, questo frutto ha proprietà antiossidanti, antinfiammatorie e vasodilatatorie.
 - SENZA ZUCCHERI AGGIUNTI: Non contiene zuccheri aggiunti, ma solo quelli naturalmente presenti nella frutta.
 

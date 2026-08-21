@@ -28,11 +28,11 @@ average: '9.99'
 
 ℹ️:
 
-- Formulazione: crema vegana, senza parabeni e senza oli naturali, dalla texture leggera e profumata, formulata con latte di iris e burro di karitè, che nutre e ammorbidisce la pelle
-- Crema Corpo Iris: crema nutriente e profumata che idrata e nutre con efficacia il corpo regalando una sensazione di morbidezza e setosità
-- Modo duso: applica generosamente massaggiando sulla pelle del corpo per mantenerla morbida e vellutata; ideale dopo il bagno o la doccia
 - Linea Iris di Bottega Verde: gamma di prodotti formulata con latte di Iris, che si estrae dalla radice di Iris fiorentina, fiore dal profumo fresco, conosciuto per le sue proprietà lenitive e indicato per le pelli sensibili
+- Modo duso: applica generosamente massaggiando sulla pelle del corpo per mantenerla morbida e vellutata; ideale dopo il bagno o la doccia
+- Crema Corpo Iris: crema nutriente e profumata che idrata e nutre con efficacia il corpo regalando una sensazione di morbidezza e setosità
 - Formato: 1 crema corpo Iris da 200 ml
+- Formulazione: crema vegana, senza parabeni e senza oli naturali, dalla texture leggera e profumata, formulata con latte di iris e burro di karitè, che nutre e ammorbidisce la pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DPHZ4X5Z{{</world>}}

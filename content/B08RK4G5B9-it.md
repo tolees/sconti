@@ -28,11 +28,11 @@ average: '2.99'
 
 ℹ️:
 
-- DETERGE DELICATAMANTE – Lo shampoo neutro Johnsons Baby con Aloe e Vitamina B5 e fragranze uniche e delicate per bambini deterge delicatamente la pelle delicata
-- PER LA PELLE DELICATA – Lo shampoo delicato Johnsons Baby protegge ciò che è prezioso: la pelle e i capelli del tuo bambino e i momenti unici che trascorrete insieme
-- MODO DUSO – Bagnare i capelli del bambino con acqua calda, applicare lo shampoo bambini, insaponare e risciacquare delicatamente
 - DERMATOLOGICAMENTE TESTATO – La formula Non più Lacrime dello shampoo neonato è sviluppata per la pelle delicata, testata da pediatri e dermatologi e con pH bilanciato
+- PER LA PELLE DELICATA – Lo shampoo delicato Johnsons Baby protegge ciò che è prezioso: la pelle e i capelli del tuo bambino e i momenti unici che trascorrete insieme
 - Contenuto della confezione – Shampoo Johnson Baby per neonati, shampoo bambini no lacrime delicato come l’acqua sugli occhi, sviluppato per la pelle delicata, 1 confezione da 500 ml
+- DETERGE DELICATAMANTE – Lo shampoo neutro Johnsons Baby con Aloe e Vitamina B5 e fragranze uniche e delicate per bambini deterge delicatamente la pelle delicata
+- MODO DUSO – Bagnare i capelli del bambino con acqua calda, applicare lo shampoo bambini, insaponare e risciacquare delicatamente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08RK4G5B9{{</world>}}

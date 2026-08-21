@@ -28,8 +28,8 @@ average: '35.0'
 
 ℹ️:
 
-- Soletta OrthoLite Memorytech
 - Tomaia sintetica
+- Soletta OrthoLite Memorytech
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B1N1SL9Y{{</world>}}

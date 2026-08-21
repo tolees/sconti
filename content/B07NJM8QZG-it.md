@@ -28,16 +28,16 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Filtro removibile
 - Luce di funzionamento
-- Potenza: 1370-1630 W
+- Capacità 1.2 Lt
+- Filtro removibile
+- Base di alimentazione ad incastro / Avvolgicavo nella base /
 - Alimentazione: AC 220-240V – 50/60 Hz
-- Caraffa con finestra graduata
 - Rotazione 360°
 - Corpo in acciaio inossidabile
-- Capacità 1.2 Lt
-- Base di alimentazione ad incastro / Avvolgicavo nella base /
+- Potenza: 1370-1630 W
 - Sistema di sicurezza anti surriscaldamento / Interruttore di accensione a rilascio automatico
+- Caraffa con finestra graduata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07NJM8QZG{{</world>}}

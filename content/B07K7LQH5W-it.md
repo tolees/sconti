@@ -28,11 +28,11 @@ average: '37.166'
 
 ℹ️:
 
-- Sistema Bialetti: capsule compatibili con macchine espresso Bialetti sistema chiuso (Gioia, Super, Break)
-- Capsula in alluminio: per mantenere al meglio laroma del caffè nel tempo e proteggerlo dalla luce e dagli agenti esterni; Il caffè conserva così un’inconfondibile sensazione di freschezza, come se fosse appena macinato
-- 7 gr di caffè per un espresso a regola darte
-- Multipack: 128 Capsule (8 Box da 16 Capsule)
 - Qualità Bialetti: miscela tostata e capsule realizzate presso la Torrefazione Bialetti a Coccaglio (Brescia)
+- Multipack: 128 Capsule (8 Box da 16 Capsule)
+- Sistema Bialetti: capsule compatibili con macchine espresso Bialetti sistema chiuso (Gioia, Super, Break)
+- 7 gr di caffè per un espresso a regola darte
+- Capsula in alluminio: per mantenere al meglio laroma del caffè nel tempo e proteggerlo dalla luce e dagli agenti esterni; Il caffè conserva così un’inconfondibile sensazione di freschezza, come se fosse appena macinato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07K7LQH5W{{</world>}}

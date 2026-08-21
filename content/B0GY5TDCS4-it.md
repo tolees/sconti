@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Formulata con Ceramidi riparative e Oli vegetali anti-disidratazione, protegge e rinforza la barriera cutanea.
+- Applicare mattino e/o sera, dopo la detersione, da sola o dopo il siero idratante Defence Hydractive Siero Idratante Intensivo.
 - Trattamento idratante 100 ore, dalla texture ultra-ricca ideale per pelle secca e molto secca.
 - Con Acido Ialuronico multi-molecolare ed Ectoina, crea una barriera di idratazione adattiva che dona alla pelle la capacità di difendersi dalle aggressioni ambientali di ogni tipo (raggi UV, IR, luce blu, inquinamento).
-- Applicare mattino e/o sera, dopo la detersione, da sola o dopo il siero idratante Defence Hydractive Siero Idratante Intensivo.
+- Formulata con Ceramidi riparative e Oli vegetali anti-disidratazione, protegge e rinforza la barriera cutanea.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GY5TDCS4{{</world>}}

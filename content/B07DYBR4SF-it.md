@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Luce bianca calda per benessere e relax in salotto, camera da letto, e ragazzi
-- Consumo energetico 5.kWh/1000h a 300.LM
-- Lunga durata - fino a 15000 ore e fino a 100000 cicli
 - Piena luce immediata, nessun tempo di riscaldamento
+- Lunga durata - fino a 15000 ore e fino a 100000 cicli
 - Semplice sostituzione delle lampadine tradizionali, ricambio per una lampadina da 28 W (applicazioni solo in adeguato luci)
+- Consumo energetico 5.kWh/1000h a 300.LM
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07DYBR4SF{{</world>}}

@@ -28,12 +28,12 @@ average: '46.58'
 
 ℹ️:
 
-- Multifunzionale: ZBMINI Extreme può impostare timer di conto alla rovescia/programmati/a ciclo per progettare la tua vita situazionale. Questo interruttore intelligente funziona bene anche con Amazon Alexa e Google Home per accendere/spegnere la luce tramite comando vocale, il che ti semplifica la vita.
-- Compatibile con Home Assistant: SONOFF ZBMINIL2 si integra perfettamente con Home Assistant utilizzando Zigbee2MQTT tramite SONOFF ZBDongle-P/E, consentendo un controllo intelligente e una gestione senza sforzo del tuo sistema di illuminazione domestica.
 - Dimensioni super ridotte: lo smart switch SONOFF Zigbee può essere facilmente inserito nella scatola di montaggio più piccola di tipo EU/tipo 86/tipo 120. Le dimensioni del prodotto sono 39,5 * 32 * 18,4 mm.
-- Supporta linterruttore esterno: il nostro interruttore della luce intelligente può funzionare con vari interruttori esterni per controllare i tuoi dispositivi, come interruttori a bilanciere, interruttori a parete, ecc. Non è richiesto alcun filo neutro per una facile installazione e utilizzo.
 - Controllo bidirezionale: linterruttore intelligente SONOFF supporta il controllo bidirezionale. Devi solo installare uno ZBMINIL2 per collegare due fili principali tra i due interruttori, il che otterrà doppi interruttori che controllano una luce. Puoi controllare la luce normalmente anche se è bassa come 3 W e non è richiesto alcun modulo anti-sfarfallio.
+- Multifunzionale: ZBMINI Extreme può impostare timer di conto alla rovescia/programmati/a ciclo per progettare la tua vita situazionale. Questo interruttore intelligente funziona bene anche con Amazon Alexa e Google Home per accendere/spegnere la luce tramite comando vocale, il che ti semplifica la vita.
 - Hub Zigbee: questo smart switch deve essere utilizzato con un hub ZigBee 3.0, come: SONOFF NSPanel Pro, SONOFF iHost, SONOFF ZB Bridge/ZB Bridge-P/ZB Bridge-U, hub SmartThings, Amazon Alexa, ecc.
+- Compatibile con Home Assistant: SONOFF ZBMINIL2 si integra perfettamente con Home Assistant utilizzando Zigbee2MQTT tramite SONOFF ZBDongle-P/E, consentendo un controllo intelligente e una gestione senza sforzo del tuo sistema di illuminazione domestica.
+- Supporta linterruttore esterno: il nostro interruttore della luce intelligente può funzionare con vari interruttori esterni per controllare i tuoi dispositivi, come interruttori a bilanciere, interruttori a parete, ecc. Non è richiesto alcun filo neutro per una facile installazione e utilizzo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C5371TQL{{</world>}}

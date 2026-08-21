@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Controllo intelligente del calore: misura la temperatura del flusso daria più di 40 volte al secondo, controllando in modo intelligente lelemento riscaldante per prevenire danni da calore.
 - Alimentato dal motore digitale Dyson V9: la girante a 13 pale gira fino a 110.000 giri/min, generando 3,2 kPa. Abbastanza potente da produrre la pressione atmosferica che crea leffetto Coanda.
 - Tre velocità di flusso daria precise per soddisfare le sue preferenze di stile. Tre impostazioni di calore precise. Liniezione a freddo disattiva immediatamente lelemento riscaldante per far sì che laria fresca si adatti al suo stile.
+- Controllo intelligente del calore: misura la temperatura del flusso daria più di 40 volte al secondo, controllando in modo intelligente lelemento riscaldante per prevenire danni da calore.
 - Ioni negativi: le particelle cariche nel flusso daria aiutano a ridurre lelettricità statica nei capelli.
 - Lo stile Coanda è stato il pioniere di Dyson: il multistyler Dyson Airwrap sfrutta un fenomeno aerodinamico chiamato effetto Coanda. Usa laria per attirare e avvolgere i capelli sulla canna o sulla superficie della spazzola.
 

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Espansione per gioco da tavolo per 1-4 persone dai 12 anni
 - Giocabile anche da solo con campagna in sei sezioni.
+- Ulteriori carte di ordine aprono strategie completamente nuove.
 - Le mappe e gli ingranaggi dellinnovazione consentono treni combinati.
 - Lespansione per il gioco degli intenditori Anno 1800 per maggiori possibilità strategiche e complessità.
-- Ulteriori carte di ordine aprono strategie completamente nuove.
-- Espansione per gioco da tavolo per 1-4 persone dai 12 anni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CST9K4XT{{</world>}}

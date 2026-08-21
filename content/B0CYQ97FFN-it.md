@@ -28,11 +28,11 @@ average: '18.15'
 
 ℹ️:
 
-- Calzata regolare
-- Chiusura a strappo
-- Collarino e fodera in mesh
 - Suola in gomma
+- Calzata regolare
 - Tomaia in materiale sintetico
+- Collarino e fodera in mesh
+- Chiusura a strappo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CYQ97FFN{{</world>}}

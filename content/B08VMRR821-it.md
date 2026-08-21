@@ -28,11 +28,11 @@ average: '40.45'
 
 ℹ️:
 
+- Elevata forza pulente anche con lapplicazione di pressione grazie al potente motore
 - Gli utensili Universal di Bosch – versatili e potenti per unampia gamma di lavori di pulizia
 - La protezione dall’acqua IP X5 la rende adatta a pulizie in ambienti umidi
 - Dotazione: UniversalBrush, 1 cavo micro USB, 1 spazzola con setola, 1 spazzola di forma complessa, 1 attacco pad con fissaggio a gancio e anello, 1 pad antigraffio in microfibra, 1 pad abrasivo per impieghi gravosi, confezione in cartone
 - Grazie agli accessori intercambiabili, la spazzola è adatta a diversi impieghi di pulizia e superfici, ad es. piastrelle del bagno, piano cottura, pentole e padelle, attrezzatura da giardino
-- Elevata forza pulente anche con lapplicazione di pressione grazie al potente motore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08VMRR821{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Formato Quadretti piccoli 5x5: le pagine sono stampate a quadretti viola di 5mm.
-- CARTA CLAIREFONTAINE pergamena extrafine 80g
-- ECOLOGICA: Carta Clairefontaine certificata PEFC è ottenuta da foreste gestite in modo responsabile. Stampa a partire da inchiostri vegetali senza alcool, diluiti con acqua e conformi alle direttive europee REACH. Senza acidi, a PH neutro. Adatto ai vegani
 - 80 FOGLI facilmente staccabili microforati
+- CARTA CLAIREFONTAINE pergamena extrafine 80g
 - CARTA CLAIREFONTAINE pergamena extrafine 80g - Articolo prodotto in Francia
+- ECOLOGICA: Carta Clairefontaine certificata PEFC è ottenuta da foreste gestite in modo responsabile. Stampa a partire da inchiostri vegetali senza alcool, diluiti con acqua e conformi alle direttive europee REACH. Senza acidi, a PH neutro. Adatto ai vegani
+- Formato Quadretti piccoli 5x5: le pagine sono stampate a quadretti viola di 5mm.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B002A6CMGW{{</world>}}

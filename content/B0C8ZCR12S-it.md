@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Multiplayer in locale e online per serate all’insegna del divertimento condiviso tra amici e in famiglia
 - In quanto 2D, il gioco risulta facilmente approcciabile e fruibile da parte di giocatori di tutte le età
-- Il primo nuovo capitolo della serie Super Mario Bros. da più di 10 anni
 - Nuovo potenziamento di Mario che gli permette di trasformarsi in Mario elefante.Oltre ai classici personaggi (Mario, Luigi, Toad e Peach), in questo gioco sarà possibile impersonare anche Daisy e Yoshi
+- Il primo nuovo capitolo della serie Super Mario Bros. da più di 10 anni
 - Una rivoluzione nel mondo dei giochi a scorrimento orizzontale 2D grazie all’introduzione dei «fiori meraviglia» che trasformano il gameplay in modi imprevedibili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

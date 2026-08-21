@@ -28,9 +28,9 @@ average: '2.49'
 
 ℹ️:
 
+- Protegge e disciplina i capelli
 - Agisce in maniera efficace sui capelli crespi
 - Prodotto adatto ai capelli danneggiati
-- Protegge e disciplina i capelli
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B084K39WSG{{</world>}}

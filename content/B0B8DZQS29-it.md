@@ -28,8 +28,8 @@ average: '39.99'
 
 ℹ️:
 
-- Maschio
 - Palla da pallone
+- Maschio
 - 106695 02
 - Passante (NOS)
 

@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
-- PROFUMO DI LUNGA DURATA
-- PROFUMI DA INDOSSARE
-- 100% RICICLABILE, CON PLASTICA RICICLATA
 - TAPPO DOSATORE CON -40% DI PLASTICA
-- FORMULA CONCENTRATA
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
+- 100% RICICLABILE, CON PLASTICA RICICLATA
+- PROFUMI DA INDOSSARE
 - DERMATOLOGICAMENTE TESTATO
+- PROFUMO DI LUNGA DURATA
+- FORMULA CONCENTRATA
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DJNQXFHM{{</world>}}

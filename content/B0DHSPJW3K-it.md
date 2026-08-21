@@ -28,11 +28,11 @@ average: '50.0'
 
 ℹ️:
 
-- Tomaia Hybridfeel con elementi Strikescale
-- Tacchetti rimovibili
-- Fodera in tessuto
 - Linguetta ripiegabile
+- Tomaia Hybridfeel con elementi Strikescale
 - Suola Controlplate per terreni naturali morbidi
+- Fodera in tessuto
+- Tacchetti rimovibili
 - Vestibilità regolare
 - Chiusura con lacci
 

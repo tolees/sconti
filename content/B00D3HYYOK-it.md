@@ -28,11 +28,11 @@ average: '7.95'
 
 ℹ️:
 
-- Azione: la regolarità del transito intestinale è favorita dal tarassaco, che ha inoltre funzione epatica e digestiva
 - Le Dieci Erbe: integratore alimentare a base di erbe in polvere indicato per risolvere problemi intestinali, meteorismo e flatulenze
-- ESI Benessere Naturale: dal 1975 lazienda italiana ESI offre prodotti fitoterapici, dietetici e integratori alimentari dallelevato standard qualitativo
-- Formula: a base di ingredienti attivi di origine naturale, utili a favorire la fisiologica digestione e il transito intestinale
 - Modalità duso: assumere 1-4 tavolette al giorno con abbondante acqua la sera, prima di dormire
+- Formula: a base di ingredienti attivi di origine naturale, utili a favorire la fisiologica digestione e il transito intestinale
+- Azione: la regolarità del transito intestinale è favorita dal tarassaco, che ha inoltre funzione epatica e digestiva
+- ESI Benessere Naturale: dal 1975 lazienda italiana ESI offre prodotti fitoterapici, dietetici e integratori alimentari dallelevato standard qualitativo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00D3HYYOK{{</world>}}

@@ -28,10 +28,10 @@ average: '18.4264864864866'
 
 ℹ️:
 
-- 4. Diametro di tolleranza +/- 0,02 mm
-- 3. Temperatura raccomandata: 180-210 ℃;
-- 2. Nessuna impurità, nessun intasamento
 - 5. Rispetto per lambiente, ottenuto da materie prime di amido derivate da risorse vegetali rinnovabili
+- 4. Diametro di tolleranza +/- 0,02 mm
+- 2. Nessuna impurità, nessun intasamento
+- 3. Temperatura raccomandata: 180-210 ℃;
 - 1. Bobina da 1 kg di filamento in PLA da 1,75 mm in confezione sottovuoto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

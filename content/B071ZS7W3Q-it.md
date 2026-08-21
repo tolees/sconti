@@ -28,8 +28,8 @@ average: '6.65'
 
 ℹ️:
 
-- Prodotto di ottima qualità
 - Potenza massima 1500w
+- Prodotto di ottima qualità
 - Set 5 adattatori da schuko a spina piccola 10a
 - Ideali per elettrodomestici, tostapane, aspirapolvere, ferro sa stiro, macchina del caffè
 

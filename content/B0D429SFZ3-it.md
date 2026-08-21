@@ -28,11 +28,11 @@ average: '6.94'
 
 ℹ️:
 
-- Multicomplex: integratore alimentare per uomini sotto i 50 anni di età, utile in caso di carenze alimentari, aumentato fabbisogno, supporto del sistema immunitario e del metabolismo energetico
-- Modalità duso: si consiglia lassunzione di 1 compressa al giorno, preferibilmente al mattino, con abbondante acqua
-- ESI Benessere Naturale: dal 1975 ESI offre prodotti fitoterapici, dietetici e integratori alimentari Made in Italy dallelevato standard qualitativo
-- Formula: compresse rivestite fonte di vitamine e minerali, utili per colmare le carenze alimentari e apportare il giusto fabbisogno di nutrienti allorganismo
 - Azione: con lintegrazione di vitamine e minerali, le carenze nutritive o laumentato fabbisogno vengono colmati, combattendo la sensazione di stanchezza e restituendo energia
+- ESI Benessere Naturale: dal 1975 ESI offre prodotti fitoterapici, dietetici e integratori alimentari Made in Italy dallelevato standard qualitativo
+- Modalità duso: si consiglia lassunzione di 1 compressa al giorno, preferibilmente al mattino, con abbondante acqua
+- Multicomplex: integratore alimentare per uomini sotto i 50 anni di età, utile in caso di carenze alimentari, aumentato fabbisogno, supporto del sistema immunitario e del metabolismo energetico
+- Formula: compresse rivestite fonte di vitamine e minerali, utili per colmare le carenze alimentari e apportare il giusto fabbisogno di nutrienti allorganismo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D429SFZ3{{</world>}}

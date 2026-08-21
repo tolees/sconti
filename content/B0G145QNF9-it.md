@@ -30,8 +30,8 @@ average: '6.34'
 
 - Abbiamo un universo di mondi a tua disposizione! Creiamo oggetti di qualità sempre diversi, colorati, positivi e divertenti, perfetti per ognuno e per ogni stato d’animo. In Legami puoi sempre trovare il tuo mondo ideale, da scoprire ed esplorare giorno per giorno: un mondo di felicità per quando sei un po’ giù, un mondo di sorprese per quando ti annoi, un mondo di ispirazioni per quando sei a corto di idee, un mondo di emozioni diverse in continua evoluzione.
 - Se tu e l’Insegna Luminosa Led a Effetto Neon, Its a Sign, All You Need is Love di Legami vi siete incontrati, è chiaramente un segno; sì, è il segno che sei pronto per l’amore; tienila sul tuo tavolo per dare un messaggio o regalala a chi ami e vuoi che la appenda sulla parete; donala a San Valentino o usala per dire “ti amo” nel resto dell’anno; scegli tu quale momento e stanza illuminare; l’importante è metterci il cuore
-- AVVERTENZE: Non adatto per lilluminazione di ambienti domestici. Solo per scopo decorativo. Questo prodotto non è un giocattolo. Istruzioni incluse.
 - CARATTERISTICHE: Base d’appoggio removibile e fori di fissaggio per appendere l’insegna al muro. Alimentazione tramite cavo Tipo-C (incluso), Interruttore ON/OFF.
+- AVVERTENZE: Non adatto per lilluminazione di ambienti domestici. Solo per scopo decorativo. Questo prodotto non è un giocattolo. Istruzioni incluse.
 - DIMENSIONI: Lunghezza 25 cm, Altezza 21.5 cm, Larghezza 8 cm. Lunghezza cavo: 1.8 m. MATERIALI: plastica, plexiglass.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

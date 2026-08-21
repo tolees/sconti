@@ -28,9 +28,9 @@ average: '1.99'
 
 ℹ️:
 
-- Miscela d’altura da Etiopia e America Latina
-- Tostatura lenta con fine acidità e gusto equilibrato
 - Aroma intenso e tenore di caffeina ridotto
+- Tostatura lenta con fine acidità e gusto equilibrato
+- Miscela d’altura da Etiopia e America Latina
 - Caffè 100% arabica biologico macinato per moka
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

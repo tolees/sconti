@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Possibilità di gioco aggiuntive: esplora la gamma completa di set Mario Kart LEGO Super Mario (disponibili separatamente) e scopri altri veicoli giocattolo e personaggi Mario Kart in mattoncini costruibili, con cui gareggiare
-- Macchina giocattolo personalizzabile: posiziona il kart sulla piattaforma elevatrice per auto e monta pneumatici standard o blu, monta il clacson o il motore delle macchine di personalizzazione e altro ancora
 - 2 personaggi Mario Kart da collezione: il set include 2 Toad giocattolo (pit stop) con la tuta blu da meccanico, oltre ad accessori assortiti per modificare i veicoli giocattolo
 - Regalo di compleanno Super Mario LEGO: regala questo set di giochi davventura Mario Kart per bambini e bambine da 8 anni in su, ai fan Nintendo; per il gioco interattivo è necessario uno dei set 71439, 71440 o 71441 (disponibili a parte)
 - Idea regalo con personaggi Nintendo da collezione: lascia che i piccoli si divertano con il garage giocattolo di Mario Kart : Officina di Toa, giocando a personalizzare lauto da corsa kart Fulmine, per tante sfide con i giochi LEGO Super Mario
 - Gioco interattivo: posiziona i personaggi Mario Kart giocattolo come LEGO Mario, LEGO Luigi o LEGO Peach (personaggi non inclusi) nel kart o sulle Action Tag delle macchine di personalizzazione, per le interazioni digitali
+- Macchina giocattolo personalizzabile: posiziona il kart sulla piattaforma elevatrice per auto e monta pneumatici standard o blu, monta il clacson o il motore delle macchine di personalizzazione e altro ancora
+- Possibilità di gioco aggiuntive: esplora la gamma completa di set Mario Kart LEGO Super Mario (disponibili separatamente) e scopri altri veicoli giocattolo e personaggi Mario Kart in mattoncini costruibili, con cui gareggiare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DHSHGWHZ{{</world>}}

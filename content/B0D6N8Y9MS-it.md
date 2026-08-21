@@ -28,8 +28,8 @@ average: '12.76'
 
 ℹ️:
 
-- Strutturato quotidiano
 - Maniche lunghe
+- Strutturato quotidiano
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D6N8Y9MS{{</world>}}

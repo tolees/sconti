@@ -30,9 +30,9 @@ average: '69.99'
 
 - La soluzione piletta elegante: una leva discreta sul retro del rubinetto permette di chiudere la piletta per riempire il lavabo e aprirla per lo scarico senza immergere le mani nell’acqua usata; semplicità e comfort in un’unica funzione pratica.
 - La tecnologia GROHE Water Saving riduce il consumo d’acqua fino al 50% senza compromettere le prestazioni; ogni volta che apri il rubinetto, potrai godere di un pieno getto d’acqua risparmiando comunque.
-- Avere una cartuccia GROHE SilkMove nei tuoi rubinetti è il massimo della comodità: puoi regolare temperatura e flusso dell’acqua con un semplice tocco della leva, e la superiore ingegneria e lavorazione tedesca di GROHE garantisce prestazioni eccellenti per anni.
-- Lo standard per i normali lavabi da bagno: la bocca standard del rubinetto da bagno GROHE lascia la giusta altezza sotto il getto, sia per lavarsi le mani o il viso, sia per lavarsi i denti; progettata e realizzata pensando al tuo comfort.
 - Risparmia tempo nell’installazione del tuo rubinetto da lavabo con il GROHE QuickTool, per un montaggio ancora più facile e rapido; usa l’utensile per serrare il dado per l’installazione a foro singolo, avvitare i flessibili di collegamento e rimuovere o reinstallare l’aeratore per la manutenzione.
+- Lo standard per i normali lavabi da bagno: la bocca standard del rubinetto da bagno GROHE lascia la giusta altezza sotto il getto, sia per lavarsi le mani o il viso, sia per lavarsi i denti; progettata e realizzata pensando al tuo comfort.
+- Avere una cartuccia GROHE SilkMove nei tuoi rubinetti è il massimo della comodità: puoi regolare temperatura e flusso dell’acqua con un semplice tocco della leva, e la superiore ingegneria e lavorazione tedesca di GROHE garantisce prestazioni eccellenti per anni.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FL2VXMJ9{{</world>}}

@@ -29,11 +29,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - FORMULA CONCENTRATA con Potassio e Magnesio per combattere stanchezza e fatica
-- PRODOTTO IN ITALIA
 - Il MAGNESIO contribuisce alla riduzione di stanchezza e fatica e al normale metabolismo energetico, inoltre aiuta a ripristinare l’equilibrio elettrolitico.
-- SENZA GLUTINE, VEGETARIANO, CON INGREDIENTI NATURALMENTE PRIVI DI LATTOSIO
 - Il POTASSIO supporta la normale funzione muscolare e il mantenimento di una normale pressione sanguigna
+- PRODOTTO IN ITALIA
 - NOVITA OROSOLUBILE: POLASE POCKET è in formato stick con mini granuli da sciogliere direttamente in bocca per ricaricarsi quando si è fuori casa, con un solo stick al giorno.
+- SENZA GLUTINE, VEGETARIANO, CON INGREDIENTI NATURALMENTE PRIVI DI LATTOSIO
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D66TX2JC{{</world>}}

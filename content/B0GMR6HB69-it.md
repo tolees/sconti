@@ -28,8 +28,8 @@ average: '2.99'
 
 ℹ️:
 
-- IDEALE PER LA NOTTE: Pensato per diventare il tuo rituale serale, prepara la pelle e i sensi al riposo con una fragranza rilassante e con la texture cremosa che favorisce calma e distensione
 - PROPRIETÀ: Regala una piacevole sensazione rilassante durante la doccia e lascia la pelle morbida e profumata dopo il risciacquo. La texture avvolgente è ideale per concludere la giornata con una coccola di dolcezza
+- IDEALE PER LA NOTTE: Pensato per diventare il tuo rituale serale, prepara la pelle e i sensi al riposo con una fragranza rilassante e con la texture cremosa che favorisce calma e distensione
 - TESTATO: Rispetta il pH naturale della pelle. Dermatologicamente testato per garantire massima tollerabilità e sicurezza cutanea
 - FORMULA: Con essenza cremosa, offre un momento di relax quotidiano e ricopre la pelle di morbidezza. La sua schiuma ricca deterge delicatamente, lasciando la pelle liscia e vellutata
 - BAGNODOCCIA: Bagnodoccia Buonanotte Rilassante di Borotalco è pensato per ritrovare relax e comfort a fine giornata. La sua texture avvolgente con essenza cremosa coccola la pelle e la mente, regalando una piacevole sensazione tranquillità

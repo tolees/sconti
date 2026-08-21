@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Caramelle gommose miste
 - Confezione da 500 g
-- Ottimo per il viaggio e feste
+- Caramelle gommose miste
 - Con gusto da frutta e liqurizia
 - Allergeni: Può contenere tracce di frumento, latte
+- Ottimo per il viaggio e feste
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09GK6ZB4S{{</world>}}

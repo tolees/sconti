@@ -28,10 +28,10 @@ average: '28.83'
 
 ℹ️:
 
-- Rotazione a 360 gradi (per la modalità orizzontale o verticale); braccio regolabile in altezza da 20 a 36 cm
-- Grande capacità di movimento; inclinazione del monitor regolabile da -15 a +85 gradi; il sistema di gestione dei cavi evita che i fili siano dintralcio
 - Le piastre VESA rimovibili (100 x 100 mm e 75 x 75 mm) garantiscono una facile installazione; tutti gli strumenti e gli attrezzi necessari sono inclusi; realizzato in acciaio resistente
 - Supporto per 2 monitor, con montaggio a scrivania, adatto per la maggior parte dei monitor di dimensione tra i 33 e 60.96 cm e con un peso fino a 10 kg (per braccio); adatto per scrivanie con spessore tra 2 e 9 cm
+- Rotazione a 360 gradi (per la modalità orizzontale o verticale); braccio regolabile in altezza da 20 a 36 cm
+- Grande capacità di movimento; inclinazione del monitor regolabile da -15 a +85 gradi; il sistema di gestione dei cavi evita che i fili siano dintralcio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07DHK5DHN{{</world>}}

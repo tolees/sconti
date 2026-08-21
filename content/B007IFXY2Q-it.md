@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Un kit termoformato da muro con tutti i componenti necessari per un efficace lavaggio oculare di primo soccorso
 - Stazione lavaggio
 - 2 coppette per occhi ed uno specchio
-- Un kit termoformato da muro con tutti i componenti necessari per un efficace lavaggio oculare di primo soccorso
 - 2 soluzioni saline sterili da 500ml
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

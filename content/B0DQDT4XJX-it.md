@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - RICORDA Sei stato un grande eroe, come non se ne vedranno più nella storia di Arad. Ricorda le abilità di battaglia, dimenticate dopo orribili torture, e abbatti coloro che ti calunniano e ti sfidano.
-- SOPRAVVIVI Sfuggi alla caccia spietata delle forze imperiali, sventa le congiure volte a uccidere Khazan e supera gli ambienti ostili che incontrerai.
 - RICONQUISTA Scova i tuoi potenziali nemici, riprenditi tutto ciò che ti è stato tolto e vendicati. Riconquista lonore e la gloria che meriti.
+- SOPRAVVIVI Sfuggi alla caccia spietata delle forze imperiali, sventa le congiure volte a uccidere Khazan e supera gli ambienti ostili che incontrerai.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DQDT4XJX{{</world>}}

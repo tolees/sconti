@@ -28,11 +28,11 @@ average: '226.99'
 
 ℹ️:
 
-- Batterie PowerShare compatibili: utilizzabili con tutti gli attrezzi Worx della stessa piattaforma energetica.
-- Sistema IntelliCut: gestisce automaticamente la coppia motrice per affrontare anche lerba più spessa.
-- Funzione 2 in 1: permette sia la raccolta con cesto sia il taglio mulching per fertilizzare il prato.
-- Regolazione altezza centralizzata a 6 posizioni: da 20 a 70 mm per adattarsi a ogni tipo di prato.
 - Motore brushless 2.0 ad alta efficienza: garantisce maggiore potenza, meno usura e maggiore autonomia di lavoro.
+- Funzione 2 in 1: permette sia la raccolta con cesto sia il taglio mulching per fertilizzare il prato.
+- Batterie PowerShare compatibili: utilizzabili con tutti gli attrezzi Worx della stessa piattaforma energetica.
+- Regolazione altezza centralizzata a 6 posizioni: da 20 a 70 mm per adattarsi a ogni tipo di prato.
+- Sistema IntelliCut: gestisce automaticamente la coppia motrice per affrontare anche lerba più spessa.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CN1FKVDW{{</world>}}

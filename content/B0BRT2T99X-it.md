@@ -28,10 +28,10 @@ average: '5.99'
 
 ℹ️:
 
-- TESTATO NELL’UE: questo olio da massaggio che si prende cura della pelle è sviluppato in Germania e testato e imbottigliato nell’UE.
-- RISCALDANTE: olio da massaggio riscaldante che stimola i sensi e risveglia le sensazioni erotiche. Per momenti eccitanti e di puro erotismo. Volume circa 100 ml.
 - TAPPO DOSATORE: grazie al tappo dosatore ergonomico, l’olio per il corpo può essere dispensato in modo semplice e controllato. Comodo da usare senza fuoriuscite e collosità per un’esperienza di massaggio superlativa.
+- TESTATO NELL’UE: questo olio da massaggio che si prende cura della pelle è sviluppato in Germania e testato e imbottigliato nell’UE.
 - NON USARE CON PRODOTTI IN LATTICE DI GOMMA NATURALE: non adatto per l’uso in combinazione con prodotti in lattice di gomma naturale.
+- RISCALDANTE: olio da massaggio riscaldante che stimola i sensi e risveglia le sensazioni erotiche. Per momenti eccitanti e di puro erotismo. Volume circa 100 ml.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BRT2T99X{{</world>}}

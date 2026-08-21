@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- MISCELA DI CERA PREMIUM: Produce una bella combustione senza residui fastidiosi
 - SCOPPIETTA MENTRE ARDE: Lo stoppino in legno PlusWick Innovation produce uno scoppiettio caratteristico, per unatmosfera sofisticata come quella di un caminetto
-- DESIGN A CLESSIDRA: crea unapertura più ampia per una pozzetta di cera completamente fusa che produce unesperienza di profumazione più consistente
 - GOLDEN BOURBON:Profumi inebrianti di whisky al miele, zafferano e pepe in grani
+- MISCELA DI CERA PREMIUM: Produce una bella combustione senza residui fastidiosi
+- DESIGN A CLESSIDRA: crea unapertura più ampia per una pozzetta di cera completamente fusa che produce unesperienza di profumazione più consistente
 - FRAGRANZA PERSISTENTE: Ogni fragranza è accuratamente selezionata e testata per garantire che questa candela inondi lambiente del suo profumo di lunga durata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

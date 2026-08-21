@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Installare: Durante listallazione,fa attenzione a lasciare circa 20-40 cm tra lanello D e il punto di fissazione per stingere bene la vela. Consigliamo dinstallare la vela con due angoli diagonali più alti rispetto gli altri due per permettere alla pioggia di fluire e non formare stagno dacqua al centro.
 - Service: Offiamo servizi di cambio e restituzione senza condizioni entro 30 giorni dalla data di consegna.
 - Protezione UV: Blocca efficacemente oltre il 98% dei raggi UV dannosi per la pelle. Soluzione ideale per creare una zona ombreggiata e fresca nel giardino, cortili, parcheggi, piscine, terrazzo, ecc. Non è consigliato utilizzare la vela nella situazione della tempesta, vento forte per allungare la sua vita di utilizzo.
-- Misure: La misura della tenda a vela è misurata da angolo ad angolo. Ogni lato è incurvato internamente per permettere una maggiore resistenza. La zona dombra sarà
-- Installare: Durante listallazione,fa attenzione a lasciare circa 20-40 cm tra lanello D e il punto di fissazione per stingere bene la vela. Consigliamo dinstallare la vela con due angoli diagonali più alti rispetto gli altri due per permettere alla pioggia di fluire e non formare stagno dacqua al centro.
 - Materiale: La tenda a vela è fatta di poliestere ad alta densità ( PES di 160 gr/mq) con un rivestimento PU (impermeabile). A ogni angolo è fornito un anello di acciacio inox e una corda di 1,5 metri per facilitare linstallazione.
+- Misure: La misura della tenda a vela è misurata da angolo ad angolo. Ogni lato è incurvato internamente per permettere una maggiore resistenza. La zona dombra sarà
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B082WX8QLN{{</world>}}

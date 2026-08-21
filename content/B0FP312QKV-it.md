@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Con un campo visivo più ampio e più alto, quasi niente resta fuori dallinquadratura, anche in un vialetto lungo o in un grande cortile.
 - Con Zoom e ritaglio nellapp Google Home, puoi ingrandire e ritagliare la visuale di Nest Cam per concentrarti su un punto importante, ad esempio una culla.
 - Nest Cam invia avvisi integrati quando rileva la presenza di persone, veicoli o animali.
 - Le immagini dei video sono nitide e chiare grazie al 2K, la più alta risoluzione mai realizzata per Nest Cam. Vedi colori più luminosi e dettagli più nitidi anche al buio con la visione notturna.
-- Ottieni 30 giorni di cronologia video degli eventi o 60 giorni di cronologia degli eventi più 10 giorni di registrazione continua con un abbonamento Advanced.
 - Se perdi un avviso, controlla le anteprime con video clip di 10 secondi di ogni evento accaduto nelle 3 ore precedenti.
-- Con un abbonamento a Google Home Premium, Nest Cam è in grado di riconoscere i volti di amici e familiari, così puoi sapere chi ti viene a trovare.
+- Ottieni 30 giorni di cronologia video degli eventi o 60 giorni di cronologia degli eventi più 10 giorni di registrazione continua con un abbonamento Advanced.
 - Non è necessario ricaricare le batterie o sostituirle. Nest Cam consente inoltre la registrazione video continua 24 ore su 24, 7 giorni su 7, se ti abboni a Google Home Premium Advanced.
+- Con un campo visivo più ampio e più alto, quasi niente resta fuori dallinquadratura, anche in un vialetto lungo o in un grande cortile.
+- Con un abbonamento a Google Home Premium, Nest Cam è in grado di riconoscere i volti di amici e familiari, così puoi sapere chi ti viene a trovare.
 - Guarda il feed live della ripresa dallapp Google Home. Controlla la cronologia video per vedere cosa ti sei perso e parla con chi è in casa.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

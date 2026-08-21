@@ -30,8 +30,8 @@ average: '28.31'
 
 - Ogni tazzina di caffè LOR rappresenta unesperienza unica, un momento di puro e semplice piacere. Sapori intensi, delicati e corposi che sorprenderanno il tuo palato
 - Ogni miscela di caffè LOR è coltivata con metodi di produzione sostenibili certificati, preservando la natura e proteggendo lambiente
-- *Marchio di terzi senza alcun collegamento con JACOBS DOUWE EGBERTS
 - La pratica capsula in alluminio conserva al meglio gli aromi del caffe, per unesperienza intensa. Capsule compatibili con le macchine da caffè Nespresso, una pausa caffè a casa tua come al bar
+- *Marchio di terzi senza alcun collegamento con JACOBS DOUWE EGBERTS
 - LOr Espresso Ristretto. Una miscela di caffè ispirata ai mercati di Sumatra, dove gli aromi delle spezie tostate riempiono laria. Un caffè dalla personalità fresca ed espressiva ricco di note speziate. Forte, audace, pieno di carattere. 100 capsule. Intensità 11
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

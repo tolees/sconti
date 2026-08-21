@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Unità di misura: millilitro
-- Effetti e benefici: imperfezioni minimizzate, incarnato luminoso ed uniforme. Non segna le righe despressione ed idrata la pelle fino a 25 ore
 - Tonalità: 040 Ivory
-- The Multi-Tasker Concealer: correttore multiuso, corregge, illumina e uniforma non solo larea occhi ma tutto il volto
 - Unità: 10.0
+- Unità di misura: millilitro
+- The Multi-Tasker Concealer: correttore multiuso, corregge, illumina e uniforma non solo larea occhi ma tutto il volto
 - Applicazione: lapplicatore extra large, morbido al tatto, rilascia il quantitativo ottimale di prodotto
 - Formula: ultra sfumabile, si fonde perfettamente con lincarnato. Waterproof, a lunga tenuta, adatta allutilizzo con la mascherina
+- Effetti e benefici: imperfezioni minimizzate, incarnato luminoso ed uniforme. Non segna le righe despressione ed idrata la pelle fino a 25 ore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08VG8GMZQ{{</world>}}

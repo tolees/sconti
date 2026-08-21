@@ -28,11 +28,11 @@ average: '39.432'
 
 ℹ️:
 
-- Servire ad una temperatura tra 6-8°C preferibilmente nel tradizionale calice Leffe
-- Leffe Rituel 9 è un’autentica birra d’Abbazia doppio malto, ad alta fermentazione, dal colore ambrato
 - Confezione da 24 bottiglie da 33 cl di Leffe Rituel 9, birra belga d’Abbazia 9% alcool
 - Si abbina ottimamente ad una grande varietà di piatti, specialmente salumi, formaggi e cibi affumicati
+- Leffe Rituel 9 è un’autentica birra d’Abbazia doppio malto, ad alta fermentazione, dal colore ambrato
 - Ha un sapore intenso, un aroma tostato con note di frutta secca
+- Servire ad una temperatura tra 6-8°C preferibilmente nel tradizionale calice Leffe
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B091ZCJ9BK{{</world>}}

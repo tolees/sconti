@@ -28,8 +28,8 @@ average: '23.39'
 
 ℹ️:
 
-- Confezione da 5, Pull-On, maniche corte
 - Maglietta da uomo con scollo rotondo, vestibilità normale
+- Confezione da 5, Pull-On, maniche corte
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CQCP285Z{{</world>}}

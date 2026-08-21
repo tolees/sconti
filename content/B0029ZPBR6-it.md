@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - GUAINA DEL CAVO: La guaina esterna del cavo di rete in fibra ottica è realizzata in materiale privo di alogeni (LSZH = Low Smoke Zero Halogen) e ha un comportamento ignifugo
-- CARATTERISTICHE: Cavo in fibra ottica con connettore in fibra ottica (ghiere in ceramica con tappi antipolvere, gommini antipiega e identificazione della fibra) - Perdita di inserzione: ≤ 0,30 dB - Perdita di ritorno: ≥ 30 dB (UPC)
-- SINGLEMODE-DUPLEX: La fibra OS2 è utilizzata per distanze di trasmissione di diversi chilometri - Lunghezza donda: 1270 nm, 1300 nm, 1310 nm, 1330 nm, 1383 nm e 1550 nm
 - QUALITÀ: Ogni cavo in fibra ottica viene fornito con un rapporto di prova o di misurazione individuale, poiché tutti i cavi patch in fibra ottica sono sottoposti a un rigoroso controllo di qualità dopo la produzione
 - BANDWIDTH: 10 Gbit/s a 10 km (10GBASE SE-SR) - 1 Gbit/s a 5 km (1G Ethernet 1000BASE-LX) - 1 Gbit/s a 5000 m (1G Ethernet 1000BASE-SX) - 100 Mbit/s a 200 m (Fast Ethernet 100BASE-FX)
+- SINGLEMODE-DUPLEX: La fibra OS2 è utilizzata per distanze di trasmissione di diversi chilometri - Lunghezza donda: 1270 nm, 1300 nm, 1310 nm, 1330 nm, 1383 nm e 1550 nm
+- CARATTERISTICHE: Cavo in fibra ottica con connettore in fibra ottica (ghiere in ceramica con tappi antipolvere, gommini antipiega e identificazione della fibra) - Perdita di inserzione: ≤ 0,30 dB - Perdita di ritorno: ≥ 30 dB (UPC)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0029ZPBR6{{</world>}}

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Costruzione con stivali alti
 - Dettagli del marchio PUMA
+- Costruzione con stivali alti
 - Impermeabilizzazione PureTeX
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Maniche corte e colletto a polo
 - Forma e vestibilità con ricamo con monogramma
 - Elementi essenziali minimalisti in silhouette distintive
+- Maniche corte e colletto a polo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F4NXLXDS{{</world>}}

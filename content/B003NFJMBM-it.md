@@ -28,11 +28,11 @@ average: '9.95'
 
 ℹ️:
 
-- Eta consigliata: dagli 8 anni in su
+- Originale e divertente, gioco non competitivo
 - Scatola, materiali e regolamento interno: in italiano
 - Cubo dei racconti. Per creare racconti a partire dalle figure
-- Originale e divertente, gioco non competitivo
 - Lancia i dadi per ispirare aneddoti pieni dazione
+- Eta consigliata: dagli 8 anni in su
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B003NFJMBM{{</world>}}

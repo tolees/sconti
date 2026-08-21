@@ -28,15 +28,15 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Materiale principale 2: Jacquard double face
-- Indossata dai giocatori durante la stagione 25/26
-- Collo: Girocollo
 - Lunghezza: Regolare
+- Dettagli del marchio della squadra e PUMA
+- Maniche corte
 - Realizzato al 100% in materiale riciclato, escluse finiture e decorazioni
 - Vestibilità: Slim
-- Dettagli del marchio della squadra e PUMA
+- Indossata dai giocatori durante la stagione 25/26
 - dryCELL: I materiali ad alte prestazioni eliminano il sudore dalla pelle e garantiscono freschezza e comodità durante l’esercizio fisico
-- Maniche corte
+- Collo: Girocollo
+- Materiale principale 2: Jacquard double face
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DKJQFKTD{{</world>}}

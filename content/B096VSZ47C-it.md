@@ -29,10 +29,10 @@ average: '10.7'
 ℹ️:
 
 - L’iconica bottiglia di forma cilindrica è in versione rosa matte e arricchita da un pattern honeycomb, il design è completato dal tappo a baionetta, che custodisce l’atomizzatore spray
-- Il fondo avvolgente e ipnotico svela le note coinvolgenti di muschio bianco, accostate alla robustezza del legno di cedro
-- ICEBERG Twice ROSA Woman racchiude il fascino del lifestyle attivo e bilanciato: una Eau de Toilette caratterizzata da note vivaci e frizzanti in apertura, per poi svelare un lato avvolgente e raffinato
-- La fragranza da donna si apre con note di testa frizzanti e vivaci, il sentore agrumato di pompelmo rosa incontra la nota fruttata e pungente di ribes rosso
 - Il cuore rivela un accordo elegante e raffinato in cui la fioritura del gelsomino incontra una nota fresca e speziata di semi di carota
+- ICEBERG Twice ROSA Woman racchiude il fascino del lifestyle attivo e bilanciato: una Eau de Toilette caratterizzata da note vivaci e frizzanti in apertura, per poi svelare un lato avvolgente e raffinato
+- Il fondo avvolgente e ipnotico svela le note coinvolgenti di muschio bianco, accostate alla robustezza del legno di cedro
+- La fragranza da donna si apre con note di testa frizzanti e vivaci, il sentore agrumato di pompelmo rosa incontra la nota fruttata e pungente di ribes rosso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B096VSZ47C{{</world>}}

@@ -28,10 +28,10 @@ average: '15.66'
 
 ℹ️:
 
-- Contenuto: Bottiglia 1L
 - Prima dell’uso svitare il cappuccio verde di chiusura tenendo premuto il bottone giallo; far uscire il prodotto tenendo la bottiglia rovesciata; non tagliare o rimuovere parti del sottotappo
 - Tangit KS è un detergente specifico per giunzioni da termosaldare in plastica, adatto particolarmente per polietilene (PE), polipropilene (PP) e polivinildietilfluoruro (PVDF)
 - Tangit KS detergente speciale è infiammabile; i vapori di solvente possono creare una miscela esplosiva: assicurarsi quindi che vi sia una sufficiente aerazione mentre si lavora; il detergente scioglie l’isolamento dei cavi elettrici, quindi non avvicinare i cavi al detergente versato
+- Contenuto: Bottiglia 1L
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00W1SPZTA{{</world>}}

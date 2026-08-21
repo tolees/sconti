@@ -30,11 +30,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Motore Direct Axial Drive di nuova generazione (5 Nm di coppia costante) senza cogging
 - Schermo Race Dash per configurare il Force Feedback e visualizzare le informazioni di gioco
-- La tecnologia HARMONY genera una coppia ad alta frequenza, per percepire ogni singolo dettaglio come mai prima
-- Compatibile con lecosistema di volanti, pedaliere, cambi e freni a mano Thrustmaster
-- Compatibile con PS5, PS4, PC e Plug and Play in oltre 100 giochi
 - Compatibile con abitacoli o tavoli/scrivanie: 4 punti di attacco presenti sotto la base per il montaggio in abitacoli, oppure direttamente adattabile grazie al Desk Mounting Kit (Venduto separatamente)
 - Capacità di overshoot del +100%, per un considerevole aumento della potenza massima degli effetti
+- Compatibile con PS5, PS4, PC e Plug and Play in oltre 100 giochi
+- La tecnologia HARMONY genera una coppia ad alta frequenza, per percepire ogni singolo dettaglio come mai prima
+- Compatibile con lecosistema di volanti, pedaliere, cambi e freni a mano Thrustmaster
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FCRT1738{{</world>}}

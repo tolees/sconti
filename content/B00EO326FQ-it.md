@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Chiusura: bottoni
-- Taglio dritto
 - Qualità robusta
+- Taglio dritto
 - Maniche lunghe
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

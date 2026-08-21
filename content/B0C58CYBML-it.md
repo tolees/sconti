@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Cuciture tono su tono
 - Con orlo/bordo trapuntato
 - Con tasche laterali
+- Cuciture tono su tono
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C58CYBML{{</world>}}

@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- 2 anni di garanzia
+- Con invertitore di direzione per il recupero del calore invernale
 - Con Lampada in vetro è possibile installare qualsiasi tipo di lampadina di tipo E27 standard
 - venduto senza fonte di luce inclusa
-- Con invertitore di direzione per il recupero del calore invernale
-- 2 anni di garanzia
-- 5 Pale in Legno da 128cm diametro
 - Con Telecomando a 3 velocità e timer
+- 5 Pale in Legno da 128cm diametro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07B4J2WKZ{{</world>}}

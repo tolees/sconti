@@ -28,9 +28,9 @@ average: '1.99'
 
 ℹ️:
 
+- IDEALE PER HAMBURGER: la Salsa Burger Calvé è la Salsa Extragusto che ha il sapore di America, dai un tocco di America ai tuoi sandwich e ai tuoi burger super golosi!
 - SALSA BURGER CALVÉ: basata sugli ingredienti della maionese, ma equilibrata da un tocco di senape, irrobustita da un fondo di cipolla e arricchita dalla punta piccante della salsa Worcestershire
 - CALVÉ: dai voce alla tua creatività rendendo i tuoi piatti super gustosi. Calvé, perchè buono può diventare buonissimo!
-- IDEALE PER HAMBURGER: la Salsa Burger Calvé è la Salsa Extragusto che ha il sapore di America, dai un tocco di America ai tuoi sandwich e ai tuoi burger super golosi!
 - FORMATO 430 ML: disponibile nel comodo formato 430 ml
 - GUSTO UNICO E SUPER GOLOSO: dagli ingredienti della Maionese Calvé, con salsa Worcestershire
 

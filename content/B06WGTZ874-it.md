@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Macchina del caffè espresso a pompa DEDICA: interamente in metallo e compatta nelle dimensioni, solo 15 cm
+- PORTA FILTRO: Dedica è dotata di un porta filtro con dispositivo crema per utilizzare sia il caffè in polvere che le cialde E.S.E.
+- CAPPUCCINATORE: grazie al cappuccinatore regolabile puoi schiumare facilmente il latte per un cappuccino ottimale o aggiungere vapore per un ottimo latte macchiato
 - CAFFÈ PERSONALIZZATO: grazie alla Funzione Flow Stop per personalizzare la lunghezza del proprio caffè e al pannello elettronico, lespresso a casa tua come al bar; riscaldamento in soli 40 secondi
 - SPEGNIMENTO AUTOMATICO dopo 9 minuti di inutilizzo e serbatoio dacqua da 1 l, trasparente ed estraibile per agevolare riempimento e pulizia; raccogli gocce regolabile in altezza. Scaldatazze passivo.
-- CAPPUCCINATORE: grazie al cappuccinatore regolabile puoi schiumare facilmente il latte per un cappuccino ottimale o aggiungere vapore per un ottimo latte macchiato
-- PORTA FILTRO: Dedica è dotata di un porta filtro con dispositivo crema per utilizzare sia il caffè in polvere che le cialde E.S.E.
+- Macchina del caffè espresso a pompa DEDICA: interamente in metallo e compatta nelle dimensioni, solo 15 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B06WGTZ874{{</world>}}

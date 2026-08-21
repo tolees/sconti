@@ -29,10 +29,10 @@ average: '12.05'
 ℹ️:
 
 - Puὸ essere levigato, inchiodato, verniciato, cerato, laccato, ecc.
+- Non si screpola. Offre unottima presa e non si stacca dopo lessiccazione
 - Chiude buchi, fessure, crepe, nodi e qualsiasi deterioramento della superficie del legno
 - Scegliere la tinta in funzione del colore definitivo desiderato, eventualmente una tonalità leggermente più scura
 - Essicazione rapida
-- Non si screpola. Offre unottima presa e non si stacca dopo lessiccazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07D5WMXZ3{{</world>}}

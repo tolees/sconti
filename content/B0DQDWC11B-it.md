@@ -28,9 +28,9 @@ average: '3.84'
 
 ℹ️:
 
-- Quando usarlo: dopo i pasti in caso di senso di pesantezza, senso di gonfiore, acidità di stomaco, o come momento dissetante durante tutta la giornata
 - Conservare ben chiuso in un luogo fresco e asciutto.
 - Porta la pratica confezione sempre con te.
+- Quando usarlo: dopo i pasti in caso di senso di pesantezza, senso di gonfiore, acidità di stomaco, o come momento dissetante durante tutta la giornata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DQDWC11B{{</world>}}

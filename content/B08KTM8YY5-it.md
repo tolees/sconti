@@ -29,10 +29,10 @@ average: '177.49'
 ℹ️:
 
 - Il fucile da pesca sub Seac Asso con regolatore di potenza è venduto con: asta in acciaio Ø8mm, iniettore, arpione, carica arpione, sagola e sacca porta fucile.
+- Seac Asso con regolatore è disponibile in 6 lunghezze.
+- UN CLASSICO CHE SI RINNOVA: dal 1985 il fucile pneumatico Seac Asso è sinonimo di pesca subacquea. Questa nuova edizione è caratterizzata da uno studio ancora più attento sullergonomia e un design più sportivo.
 - SERBATOIO cilindrico in lega di alluminio anodizzato del diametro di 40mm con nuova grafica sportiva e logo storico Seac inciso. Testata con fori maggiorati per ottimizzare luscita dellacqua.
 - IMPUGNATURA IN GOMMA. Maggiore ergonomia per una presa naturale, sicura e senza compressioni nervose, adatta a tutti. La nuova impugnatura garantisce stabilità e maneggevolezza sia che si indossino i guanti sia che si vada a pesca a mani nude.
-- UN CLASSICO CHE SI RINNOVA: dal 1985 il fucile pneumatico Seac Asso è sinonimo di pesca subacquea. Questa nuova edizione è caratterizzata da uno studio ancora più attento sullergonomia e un design più sportivo.
-- Seac Asso con regolatore è disponibile in 6 lunghezze.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08KTM8YY5{{</world>}}

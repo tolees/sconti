@@ -28,8 +28,8 @@ average: '19.89'
 
 ℹ️:
 
-- Adatto per: clima freddo
 - Realizzati con materiali sostenibili
+- Adatto per: clima freddo
 - Maglione del marchio ONLY
 - Design caldo e confortevole
 

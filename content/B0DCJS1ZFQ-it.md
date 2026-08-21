@@ -28,11 +28,11 @@ average: '9.99'
 
 ℹ️:
 
+- MULTIVITAMINICO PER BAMBINI 3+: Integratore alimentare di vitamine e minerali appositamente formulato per i bambini dai 3 anni in su
+- al gusto di frutta mista (ciliegia, arancia, fragola/lampone)
 - APPORTO DI VITAMINE E MINERALI: la formulazione di Multicentrum VitaGummy contiene livelli ottimali di VITAMINA D, che contribuisce alla normale funzione del sistema immunitario, e IODIO che contribuisce alla crescita normale dei bambini.
 - Conservare il prodotto in un luogo asciutto e ad una temperatura non superiore a 25 °C
-- al gusto di frutta mista (ciliegia, arancia, fragola/lampone)
 - Confezione da 60 caramelle gommose (108g)
-- MULTIVITAMINICO PER BAMBINI 3+: Integratore alimentare di vitamine e minerali appositamente formulato per i bambini dai 3 anni in su
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DCJS1ZFQ{{</world>}}

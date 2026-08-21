@@ -28,11 +28,11 @@ average: '9.9'
 
 ℹ️:
 
-- Statuetta da collezione || Molto confortevole
-- Materiale: Resistente
 - Non può mancare a casa tua!
-- Funko Pop! con le seguenti caratteristiche:
 - Band, Band merch
+- Statuetta da collezione || Molto confortevole
+- Funko Pop! con le seguenti caratteristiche:
+- Materiale: Resistente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CCCBGVY5{{</world>}}

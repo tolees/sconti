@@ -29,11 +29,11 @@ average: '9.49'
 ℹ️:
 
 - DIEGO DALLA PALMA: Storico brand italiano conosciuto per l’expertise nel make-up, nella skincare e nell’haircare, una realtà beauty a tutto tondo rinomata per l’alta professionalità e performance dei suoi prodotti.
-- SHAMPOO CAPELLI LISCI: Shampoo disciplinante con Extra Liss Complex che leviga i capelli per un liscio perfetto.
-- RISULTATI TEST SHAMPOO LISCIANTE + MASCHERA LISCIANTE: 100% Capelli lisci e brillanti. 100% Capelli più disciplinati e districati. 100% Capelli più morbidi. 100% Azione anti crespo in caso di umidità. 90% Capelli lisci a lungo. 90% Capelli dall’aspetto più sano. Test di autovalutazione su 20 soggetti condotto presso Università degli studi di Napoli Federico II. Percentuale dei soggetti che ha percepito positivamente l’effetto vantato.
 - BENEFICI: Shampoo disciplinante per un liscio perfetto libero dal crespo che dura per più e più giorni.
-- CONSIGLI DI UTILIZZO: Applicare sui capelli bagnati, massaggiare e risciacquare. Ripetere se necessario.
+- SHAMPOO CAPELLI LISCI: Shampoo disciplinante con Extra Liss Complex che leviga i capelli per un liscio perfetto.
 - LISCIOSPAGHETTO: Formulazione innovativa per capelli lisci e setosi. EXTRA LISS COMPLEX crea un film sulla supercie del capello che leviga le squame per un liscio perfetto libero dal crespo.
+- CONSIGLI DI UTILIZZO: Applicare sui capelli bagnati, massaggiare e risciacquare. Ripetere se necessario.
+- RISULTATI TEST SHAMPOO LISCIANTE + MASCHERA LISCIANTE: 100% Capelli lisci e brillanti. 100% Capelli più disciplinati e districati. 100% Capelli più morbidi. 100% Azione anti crespo in caso di umidità. 90% Capelli lisci a lungo. 90% Capelli dall’aspetto più sano. Test di autovalutazione su 20 soggetti condotto presso Università degli studi di Napoli Federico II. Percentuale dei soggetti che ha percepito positivamente l’effetto vantato.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F9KPNW55{{</world>}}

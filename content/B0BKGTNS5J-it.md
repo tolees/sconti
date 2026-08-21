@@ -28,10 +28,10 @@ average: '12.78'
 
 ℹ️:
 
-- ESI Benessere di origine naturale: dal 1975 lazienda italiana ESI offre prodotti fitoterapici, dietetici e integratori alimentari dallelevato standard qualitativo
-- Formula: a base di collagene, acido ialuronico, glucosamina ed estratto di boswellia, ad azione antiossidante, contribuiscono alla normale funzione articolare e delle cartilagini; senza glutine
-- No-Dol Tendini e Legamenti: integratore alimentare per adulti tutte le età, utile per favorire la protezione delle cartilagini e contrastare tensioni localizzate
 - Azione: contrastando la rigidità della cartilagine e contribuendo alla di origine naturale formazione di collagene, permette di mantenere una regolare funzionalità articolare
+- ESI Benessere di origine naturale: dal 1975 lazienda italiana ESI offre prodotti fitoterapici, dietetici e integratori alimentari dallelevato standard qualitativo
+- No-Dol Tendini e Legamenti: integratore alimentare per adulti tutte le età, utile per favorire la protezione delle cartilagini e contrastare tensioni localizzate
+- Formula: a base di collagene, acido ialuronico, glucosamina ed estratto di boswellia, ad azione antiossidante, contribuiscono alla normale funzione articolare e delle cartilagini; senza glutine
 - Modalità duso: assumere 1 bustina due volte al giorno, in 150 ml di acqua non gasata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

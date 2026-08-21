@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - 3 giochi in 1: HITMAN, HITMAN 2 e HITMAN 3
-- Versione Nintendo Switch 2 su Scheda con Chiave di Gioco
 - Oltre 100 ore di gioco
 - 25 località, missioni e contenuti premium
+- Versione Nintendo Switch 2 su Scheda con Chiave di Gioco
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F676GL8F{{</world>}}

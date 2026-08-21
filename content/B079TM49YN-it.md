@@ -28,11 +28,11 @@ average: '36.23'
 
 ℹ️:
 
-- Potenza da 65W per ricarica rapida: Supporta la ricarica veloce dei dispositivi della famiglia ThinkPad X1, riducendo i tempi di attesa.
-- Supporto PD 3.0 e profili multipli: Compatibile con profili di alimentazione 5V, 9V, 15V e 20V, adatto a notebook, tablet e telefoni.
-- Compatibile con presa auto: Si collega direttamente all’accendisigari dell’auto per alimentare e ricaricare notebook Lenovo/ThinkPad durante gli spostamenti.
 - Ricarica USB-C universale: Alimenta laptop, tablet e smartphone tramite porta USB-C, ideale per restare produttivi anche in viaggio.
+- Compatibile con presa auto: Si collega direttamente all’accendisigari dell’auto per alimentare e ricaricare notebook Lenovo/ThinkPad durante gli spostamenti.
 - Design slim e leggero: Struttura compatta pensata per il viaggio, facile da trasportare e da riporre in borse o zaini.
+- Supporto PD 3.0 e profili multipli: Compatibile con profili di alimentazione 5V, 9V, 15V e 20V, adatto a notebook, tablet e telefoni.
+- Potenza da 65W per ricarica rapida: Supporta la ricarica veloce dei dispositivi della famiglia ThinkPad X1, riducendo i tempi di attesa.
 - Retrocompatibile con PD 2.0: Funziona anche con dispositivi meno recenti, garantendo versatilità e continuità d’uso.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

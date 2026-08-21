@@ -28,10 +28,10 @@ average: '13.99'
 
 ℹ️:
 
-- ISTRUZIONI PER LA COSTRUZIONE DIGITALE: l’app LEGO Builder presenta una versione digitale delle istruzioni incluse in questo set di gioco prescolare, testata a fondo per garantire un’esperienza di gioco sicura
 - GIOCATTOLO DI FANTASIA: questo gioco educativo LEGO DUPLO è un divertente regalo di compleanno per bambine e bambini, per gli amanti dei giochi a tema natura, e per i giovani fan di Peppa Pig
-- GIOCO MONTESSORI LEGO DUPLO: i piccoli in età prescolare aiutano Peppa Pig e Papà Pig ad allestire l’accampamento e a montare la tenda, dando vita a storie creative con la canoa giocattolo
 - GIOCHI DIDATTICI PER BAMBINE E BAMBINI DA 2 ANNI IN SU: il set Gita in campeggio Peppa Pig LEGO DUPLO, trasporta i piccoli in età prescolare nei boschi per vivere avventure con i personaggi Peppa Pig e Papà Pig
+- ISTRUZIONI PER LA COSTRUZIONE DIGITALE: l’app LEGO Builder presenta una versione digitale delle istruzioni incluse in questo set di gioco prescolare, testata a fondo per garantire un’esperienza di gioco sicura
+- GIOCO MONTESSORI LEGO DUPLO: i piccoli in età prescolare aiutano Peppa Pig e Papà Pig ad allestire l’accampamento e a montare la tenda, dando vita a storie creative con la canoa giocattolo
 - GIOCO DIDATTICO PER LAPPRENDIMENTO CREATIVO: questo set insegna ai piccoli come prendersi cura della natura e dell’ambiente e li aiuta a scoprire le proprie emozioni durante la loro prima avventura in campeggio
 - ACCESSORI PER LA MOTRICITÀ FINE: ricco di elementi play-starter come una fotocamera giocattolo, 2 tazze, 2 sacchi a pelo, un falò, una mappa, una tenda costruibile, un albero e dei fiori
 

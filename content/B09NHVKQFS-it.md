@@ -28,10 +28,10 @@ average: '35.0'
 
 ℹ️:
 
-- Chiusura con lacci
-- Ammortizzazione e comfort
-- Calzata regolare
 - Soletta in EVA
+- Ammortizzazione e comfort
+- Chiusura con lacci
+- Calzata regolare
 - Fodera in tessuto
 - Tomaia in pelle sintetica
 

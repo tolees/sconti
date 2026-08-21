@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Salva il pianeta contro ogni previsione immaginabile.
 - Collabora con i tuoi amici per affrontare orde di mostri che vogliono mangiarti la faccia.
-- Un cocktail esplosivo tra sparatutto viscerale e ambientazioni apocalittiche.
 - Vesti i panni di uno dei commando, alleati con i tuoi amici e rispedisci lo Sludge God e la sua orda di orrori innominabili nei loro inferi.
+- Un cocktail esplosivo tra sparatutto viscerale e ambientazioni apocalittiche.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FP2QQLKH{{</world>}}

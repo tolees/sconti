@@ -30,9 +30,9 @@ average: '41.48'
 
 - 🌿 Espandete il formicaio, segnate il terreno con i feromoni, raccogliete cibo e foglie e affrontate insetti rivali
 - 👥 Numero di giocatori: 2-4 | Età consigliata: 13+ | Durata media: 90 min | Edizione in Lingua Italiana
-- 🥚 Deponete uova, fate schiudere larve e sviluppate una forza lavoro composta da formiche specializzate
 - 👑 Sbloccate abilità uniche, superate in astuzia gli avversari e conquistate il controllo dei nidi nemici
 - 🐜 In Ants, controllate una colonia di formiche in lotta per il dominio del giardino
+- 🥚 Deponete uova, fate schiudere larve e sviluppate una forza lavoro composta da formiche specializzate
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FP5BX1WZ{{</world>}}

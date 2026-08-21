@@ -30,9 +30,9 @@ average: '98.8'
 
 - Misure: Profondità 54 x Larghezza 46 x Altezza 81 cm, Altezza Seduta 43,5 cm, Peso 3,5Kg;
 - Prodotto 100% MADE IN ITALY, Spedito dallItalia!
-- Sedie pratiche e impilabili, ideali per Interni ed esterni, giardino, casa, bar, ristorante, grazie alla certificazione CONTRACT
-- Struttura rinforzata in polipropilene in fibra di vetro resistente al sole e alle intemperie
 - Una Sedia dalle forme semplici e squadrate con un foro sullo schienale che la rende flessibile e adattabile al corpo, facilitando la presa della seduta
+- Struttura rinforzata in polipropilene in fibra di vetro resistente al sole e alle intemperie
+- Sedie pratiche e impilabili, ideali per Interni ed esterni, giardino, casa, bar, ristorante, grazie alla certificazione CONTRACT
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09YYD8N5P{{</world>}}

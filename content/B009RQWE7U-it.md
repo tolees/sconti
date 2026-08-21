@@ -28,10 +28,10 @@ average: '17.9'
 
 ℹ️:
 
-- Trasparente e fresco, penetra immediatamente, si asciuga subito e lascia la pelle morbida, elastica e idratata; difende dai danni dell’ozono e ha unazione anti-radicali liberi e antinvecchiamento; assicura una completa e costante protezione dai raggi UVA e UVB, mentre stimola la formazione di melanina accelerando e intensificando l’abbronzatura
-- Adatto per uomini sportivi
 - Praticità, rapidità e sicurezza per labbronzatura; un solare ottenuto grazie allabbinamento di una formula abbronzante con il nebulizzatore a 360°, che consente una rapida applicazione del prodotto su tutto il corpo, anche nelle zone difficili da raggiungere
+- Adatto per uomini sportivi
 - Può essere usato su viso, corpo, capelli e cuoio capelluto; bisogna fare attenzione a non spruzzarlo negli occhi e su pelle irritata; agitare prima delluso, spruzzare a circa 20 cm di distanza; ripetere l’applicazione dopo bagni prolungati e lunghe esposizioni al sole
+- Trasparente e fresco, penetra immediatamente, si asciuga subito e lascia la pelle morbida, elastica e idratata; difende dai danni dell’ozono e ha unazione anti-radicali liberi e antinvecchiamento; assicura una completa e costante protezione dai raggi UVA e UVB, mentre stimola la formazione di melanina accelerando e intensificando l’abbronzatura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B009RQWE7U{{</world>}}

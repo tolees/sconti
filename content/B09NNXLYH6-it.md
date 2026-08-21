@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 😈Potete mescolare queste carte con le altre versioni di Coco Rido, per ore e ore di puro divertimento. solo per amanti del black humor
-- 💻Non si tratta di unespansione, ma di unalternativa a tema web, in collaborazione con iNoobChannel
 - 😂Una nuova scatola per Coco Rido le regole sono facilissime: rispondi alla domanda nel modo più esilarante possibile e vinci
+- 💻Non si tratta di unespansione, ma di unalternativa a tema web, in collaborazione con iNoobChannel
+- 😈Potete mescolare queste carte con le altre versioni di Coco Rido, per ore e ore di puro divertimento. solo per amanti del black humor
 - 📦160 carte risposta e 40 carte domanda per un totale di 200 carte nuove per divertirsi insieme
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ average: '10.89'
 
 ℹ️:
 
+- Riduce Rossore e Irritazione
 - BioNike Defence Sun - Fluido Doposole Corpo Idratante per Pelli Sensibili e Intolleranti, Azione Riparatrice e Antiossidante
 - Contrasta la Secchezza e Rinfresca la Pelle
-- Riduce Rossore e Irritazione
 - 400 ml
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

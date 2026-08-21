@@ -28,11 +28,11 @@ average: '63.55'
 
 ℹ️:
 
-- Calzata regolare
-- Fodera in tessuto
-- Tomaia in tessuto
 - Chiusura con lacci
+- Fodera in tessuto
+- Calzata regolare
 - Intersuola Bounce
+- Tomaia in tessuto
 - Suola in gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

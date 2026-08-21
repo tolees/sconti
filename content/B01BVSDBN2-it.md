@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Integratore alimentare a base di Fibra di Konjac e Alga Fucus. Senza Glutine
-- DA ASSUMERE QUOTIDIANAMENTE - 6 capsule al giorno. L’effetto si ottiene con l’assunzione giornaliera di 3 g di glucomannano in 3 dosi da 1 g ciascuna, con 1-2 bicchieri d’acqua prima dei pasti
 - PER IL METABOLISMO - LAlga Fucus favorisce il metabolismo. Lo iodio contribuisce al normale metabolismo energetico, alla normale produzione di ormoni della tiroide e alla normale funzione tiroidea
 - EQUILIBRA - Da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto dellequilibrio tra rispetto, efficacia, benessere e bellezza
+- Integratore alimentare a base di Fibra di Konjac e Alga Fucus. Senza Glutine
+- DA ASSUMERE QUOTIDIANAMENTE - 6 capsule al giorno. L’effetto si ottiene con l’assunzione giornaliera di 3 g di glucomannano in 3 dosi da 1 g ciascuna, con 1-2 bicchieri d’acqua prima dei pasti
 - CARATTERISTICHE - Il glucomannano è una fibra vegetale ottenuta dai tuberi di Konjac.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Stringate
 - Caviglia
-- Basso-Top
 - Sneaker
+- Basso-Top
 - Piatto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

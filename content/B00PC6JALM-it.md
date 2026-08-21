@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Prodotti compatibili: Playstation 2, Playstation 3, Xbox, Xbox 360, Wii, Mac, PC
 - Compatibilità interfaccia di montaggio (min): 400 x 400 mm, Compatibilità interfaccia di montaggio (max): 400 x 400 mm
 - Playseats R.AC.00088, Colore del prodotto: Acciaio inossidabile, Tipo: Fisso
+- Prodotti compatibili: Playstation 2, Playstation 3, Xbox, Xbox 360, Wii, Mac, PC
 - Larghezza: 730 mm, Profondità: 500 mm, Altezza: 1220 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

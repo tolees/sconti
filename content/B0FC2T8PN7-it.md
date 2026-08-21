@@ -28,8 +28,8 @@ average: '50.39'
 
 ℹ️:
 
-- Filmore Sneakers di Vans - Sneaker basse da uomo, con un cenno al nostro classico design ispirato alle scarpe da skate
 - Calzature con silhouette a basso profilo: il paio ideale di scarpe da ginnastica da uomo autentiche, con tiranti sul tallone per indossarle e toglierle facilmente
+- Filmore Sneakers di Vans - Sneaker basse da uomo, con un cenno al nostro classico design ispirato alle scarpe da skate
 - Scarpe ispirate agli anni 90: un modello ristampato degli anni 90, quando le scarpe sportive erano gonfie, combinando comfort e stile contemporaneo
 - Scarpe in tela con lacci e striscia laterale Vans in stile jazz con tomaia in pelle scamosciata liscia e tela, oltre a plantare imbottito per unimbottitura extra
 

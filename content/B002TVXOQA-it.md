@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Nero
 - Punta media
 - Clip puntale e anello in metallo
+- Nero
 - Clip puntale e anello in metallo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

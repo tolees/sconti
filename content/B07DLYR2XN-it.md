@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Questo dispositivo utilizza la radiazione infrarossa emessa dalluomo come segnale per iniziare a lavorare quando qualcuno sta dentro il raggio di rilevamento.
 - Grazie al nostro sensore, risparmierai sulle bollette elettriche perché lilluminazione si accenderà solo quando ne avrai bisogno! Angolo di rilevamento: 360 °
-- Il prodotto si distingue per lelevata sensibilità attraverso luso di un circuito integrato. Combina automatismo, praticità duso, risparmio energetico e funzioni pratiche
-- Il rilevatore viene utilizzato per il controllo automatico dellilluminazione o di altri dispositivi elettrici.
 - Il sensore ha 2 manopole: la manopola LUX consente di regolare lintensità della luce di soglia e la manopola TIME, che consente di regolare il tempo di accensione.
+- Questo dispositivo utilizza la radiazione infrarossa emessa dalluomo come segnale per iniziare a lavorare quando qualcuno sta dentro il raggio di rilevamento.
+- Il rilevatore viene utilizzato per il controllo automatico dellilluminazione o di altri dispositivi elettrici.
+- Il prodotto si distingue per lelevata sensibilità attraverso luso di un circuito integrato. Combina automatismo, praticità duso, risparmio energetico e funzioni pratiche
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07DLYR2XN{{</world>}}

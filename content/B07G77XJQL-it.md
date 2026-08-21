@@ -28,11 +28,11 @@ average: '8.99'
 
 ℹ️:
 
-- Maggior stabilità grazie al nocciolo e alla struttura rinforzati
 - La punta con quattro taglienti rinforzati evita il grippaggio quando si incontrano barre di armatura nel calcestruzzo
-- Maggiore velocità di foratura e maggiore durata della punta
 - Testa metallica della punta in carburo pieno
+- Maggior stabilità grazie al nocciolo e alla struttura rinforzati
 - Segnalatori di consumo punta presenti sulla testa in accordo alla certificazione PGM
+- Maggiore velocità di foratura e maggiore durata della punta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07G77XJQL{{</world>}}

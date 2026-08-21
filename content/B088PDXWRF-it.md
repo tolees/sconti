@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Dona una piacevole sensazione di sollievo, agendo delicatamente dal giorno successivo, con un effetto contro irregolarità, stitichezza, feci dure
+- Per la sua azione delicata, è adatto anche ai bambini dagli 8 anni. Principio attivo: Macrogol 4000 (non viene assorbito dall’organismo)
+- DulcoSoft polvere per soluzione orale è un lassativo delicato che utilizza l’acqua del tuo intestino per liberarti delicatamente dalla stitichezza, senza crampi e senza urgenza
 - Confezione da 20 bustine predosate: sciogliere il contenuto in circa 150 ml di una bevanda a scelta, calda o fredda. È preferibile assumere in dose singola al mattino.
 - Può essere assunto in gravidanza e allattamento (si consiglia di consultare il medico). Senza aroma, senza glutine e senza zucchero. Adatto a chi soffre di diabete e celiachia
-- DulcoSoft polvere per soluzione orale è un lassativo delicato che utilizza l’acqua del tuo intestino per liberarti delicatamente dalla stitichezza, senza crampi e senza urgenza
-- Per la sua azione delicata, è adatto anche ai bambini dagli 8 anni. Principio attivo: Macrogol 4000 (non viene assorbito dall’organismo)
-- Dona una piacevole sensazione di sollievo, agendo delicatamente dal giorno successivo, con un effetto contro irregolarità, stitichezza, feci dure
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B088PDXWRF{{</world>}}

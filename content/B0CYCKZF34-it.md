@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- NETGEAR
 - Accessori di Rete
+- NETGEAR
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CYCKZF34{{</world>}}

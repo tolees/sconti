@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - La leggera tonalità ambrata e gli aromi di legno e agave fresca regalano unesperienza gustativa morbida e fruttata, con le note agrumate e mielose che rendono il suo sapore ancora più intenso
 - Perfetta da gustare in compagnia, ideale per creare drink deliziosi e la giusta atmosfera, PATRÓN Reposado ha un gusto complesso e profondo che la rende una tequila a regola darte
+- La tequila artigianale che nasce da un processo complesso in tradizionali forni in pietra, macine Tahona in pietra vulcanica e vasche in legno di pino, senza trucchi e solo con i migliori ingredienti
 - PATRÓN Reposado, una tequila artigianale morbida e pregiata che nasce in Messico dal 100% di agave blu weber. Prodotta in piccoli lotti, invecchiata in rovere e presentata in bottiglie numerate a mano
 - Questa tequila PATRÓN diventa protagonista in cocktail come il PATRÓN Perfect Margarita o in un drink secco e dissetante come il Reposado Paloma e tanti altri
-- La tequila artigianale che nasce da un processo complesso in tradizionali forni in pietra, macine Tahona in pietra vulcanica e vasche in legno di pino, senza trucchi e solo con i migliori ingredienti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00DEYEIFM{{</world>}}

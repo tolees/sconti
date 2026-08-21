@@ -28,10 +28,10 @@ average: '9.0'
 
 ℹ️:
 
-- FORMULA POTENZIATA: la combinazione di Acetato di Zinco e Clorexidina unita alla Gomma di Xantana aumenta la mucoadesività ai tessuti orali permettendo ai principi attivi di agire più a lungo
-- CB12 COLLUTORIO: il collutorio CB12 Original con fluoro protegge lo smalto dei denti e agisce direttamente sulla causa principale dellalito cattivo eliminando i batteri responsabili dellalito cattivo, assicurando una bocca sana e pulita
 - AVVERTENZE: non ingerire il prodotto
+- FORMULA POTENZIATA: la combinazione di Acetato di Zinco e Clorexidina unita alla Gomma di Xantana aumenta la mucoadesività ai tessuti orali permettendo ai principi attivi di agire più a lungo
 - PROTEZIONE 16 ORE: assicura fino a 16 ore di protezione dallalitosi con un solo risciacquo grazie a una formula esclusiva e clinicamente testata per essere efficace anche durante la notte
+- CB12 COLLUTORIO: il collutorio CB12 Original con fluoro protegge lo smalto dei denti e agisce direttamente sulla causa principale dellalito cattivo eliminando i batteri responsabili dellalito cattivo, assicurando una bocca sana e pulita
 - FRESCHEZZA IMMEDIATA: la tecnologia brevettata Freezewave Technology unita a un intenso aroma di menta garantisce una sensazione di freschezza immediata, profonda e ancora più persistente nel tempo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

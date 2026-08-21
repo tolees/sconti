@@ -28,10 +28,10 @@ average: '29.95'
 
 ℹ️:
 
-- Linee verticali più ampie sul tallone
-- Logo PUMA Cat sul tallone
 - Intersuola e suola in gomma
+- Logo PUMA Cat sul tallone
 - Striscia sagomata PUMA sui lati mediale e laterale
+- Linee verticali più ampie sul tallone
 - Tomaia in pelle con tomaia traforata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

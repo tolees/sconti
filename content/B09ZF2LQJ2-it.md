@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - audioCD
-- Bts
 - Proof (Standard Edition)
+- Bts
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09ZF2LQJ2{{</world>}}

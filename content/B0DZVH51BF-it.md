@@ -28,8 +28,8 @@ average: '38.29'
 
 ℹ️:
 
-- Bandierina Tommy Hilfiger ricamata sul petto
 - Nastro allinterno del collo
+- Bandierina Tommy Hilfiger ricamata sul petto
 - Colletto e fondo manica a coste
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

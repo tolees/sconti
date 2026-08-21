@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Dimensioni (L/P): Ø 7,5 cm
-- In plastica
 - Ciuffo bianco
+- In plastica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B002SAH2M4{{</world>}}

@@ -28,9 +28,9 @@ average: '28.3525'
 
 ℹ️:
 
-- Genere: Azione, Avventura
 - Età consigliata: 18 +
 - Travis Touchdown torna a Santa Destroy dopo dieci anni di assenza Quali pericolosi assassini dovrà affrontare questa volta?
+- Genere: Azione, Avventura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08X5T9XVT{{</world>}}

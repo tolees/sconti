@@ -28,15 +28,15 @@ average: '90.57'
 
 ℹ️:
 
+- La modalità priorità garantisce unelevata priorità delle porte 1–2 per garantire la qualità delle applicazioni sensibili
+- Fino a 250 m di portata di trasmissione dati e potenza in modalità estesa
+- 9 porte RJ45 gigabit e 1 porta SFP/RJ45 combinata gigabit
 - Conforme a IEEE 802.3af/at PoE+, lo switch supporta PoE Power fino a 30 W per ciascuna porta PoE
+- Il design senza ventola riduce il consumo energetico e funziona silenziosamente nella sua posizione
 - Plug and play senza bisogno di configurazione
+- La modalità di isolamento consente la separazione del traffico client con un clic per una maggiore sicurezza e prestazioni
 - 8 porte PoE+ trasferiscono dati e alimentazione tramite un unico cavo con un budget di potenza totale di 123 W
 - Riavvia automaticamente i dispositivi PoE caduti o che non rispondono con PoE Auto Recovery.
-- Fino a 250 m di portata di trasmissione dati e potenza in modalità estesa
-- La modalità priorità garantisce unelevata priorità delle porte 1–2 per garantire la qualità delle applicazioni sensibili
-- 9 porte RJ45 gigabit e 1 porta SFP/RJ45 combinata gigabit
-- La modalità di isolamento consente la separazione del traffico client con un clic per una maggiore sicurezza e prestazioni
-- Il design senza ventola riduce il consumo energetico e funziona silenziosamente nella sua posizione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09BDC9VCL{{</world>}}

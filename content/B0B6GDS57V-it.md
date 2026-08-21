@@ -28,10 +28,10 @@ average: '5.6'
 
 ℹ️:
 
-- Funko Pop! con le seguenti caratteristiche:
-- Statuetta da collezione || Molto confortevole
-- Animazione, Fan merch, Film
 - Materiale: Resistente
+- Funko Pop! con le seguenti caratteristiche:
+- Animazione, Fan merch, Film
+- Statuetta da collezione || Molto confortevole
 - Non può mancare a casa tua!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

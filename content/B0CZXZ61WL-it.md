@@ -28,15 +28,15 @@ average: '50.99'
 
 ℹ️:
 
-- Polsini a coste e orlo elasticizzato sulla giacca
-- 53% cotone / 47% poliestere (riciclato)
 - Vita alta
-- Girovita elasticizzato con cordino
+- 53% cotone / 47% poliestere (riciclato)
 - Orlo aperto
-- Zip integrale e collo alto
-- Questo prodotto contiene almeno il 70% di materiali riciclati e rinnovabili
 - Giacca dalla vestibilità aderente e pantaloni dalla vestibilità regolare
 - Tasche anteriori sulla giacca e sui pantaloni
+- Girovita elasticizzato con cordino
+- Zip integrale e collo alto
+- Polsini a coste e orlo elasticizzato sulla giacca
+- Questo prodotto contiene almeno il 70% di materiali riciclati e rinnovabili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZXZ61WL{{</world>}}

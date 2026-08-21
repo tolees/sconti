@@ -28,11 +28,11 @@ average: '93.1915789473685'
 
 ℹ️:
 
-- Tipologia: soundbar della serie t, 150w, 2.1 canali e 3 speaker, nero
 - Game mode: tuffati nel tuo gioco preferito con unimpostazione specifica per potenziare gli effetti sonori della tua console
-- speaker_type: Da Parete
+- Tipologia: soundbar della serie t, 150w, 2.1 canali e 3 speaker, nero
 - Surround sound expansion: la soundbar espande il suono lateralmente e verticalmente per garantirti effetti surround coinvolgenti
 - Smart sound: la soundbar analizza automaticamente le fonti sonore per ottimizzare la traccia audio in base al contenuto
+- speaker_type: Da Parete
 - Bassi potenti con subwoofer 6.5”: circondati di bassi potenti e profondi per vivere unesperienza sonora davvero completa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

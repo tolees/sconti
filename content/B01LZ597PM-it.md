@@ -28,8 +28,8 @@ average: '9.99'
 
 ℹ️:
 
-- Fondo ad alto spessore, per risparmio energetico.
 - Guarnizioni in silicone a lunga durata.
+- Fondo ad alto spessore, per risparmio energetico.
 - Corpo in fusione dalluminio, mantiene caldo il caffè.
 - Manici in finitura soft touch, ergonomico e sicuro
 

@@ -29,11 +29,11 @@ average: '6.7'
 ℹ️:
 
 - Questo prodotto è un apparato di illuminazione che può essere smontato per controllare separatamente le fonti di illuminazione presenti al suo interno
-- Allineamento orizzontale o verticale su pareti o oggetti
-- Tensione nominale: 4.5V
-- Potenza nominale: 0.6W
-- Tecnologia LED recente e sostenibile; nessuna lampadina normale inclusa
 - Apparecchio di illuminazione LED compatto
+- Tensione nominale: 4.5V
+- Tecnologia LED recente e sostenibile; nessuna lampadina normale inclusa
+- Allineamento orizzontale o verticale su pareti o oggetti
+- Potenza nominale: 0.6W
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07TY8M3QK{{</world>}}

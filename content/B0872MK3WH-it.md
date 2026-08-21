@@ -28,9 +28,9 @@ average: '21.99'
 
 ℹ️:
 
-- Pannelli in mesh sul retro e sotto le braccia per una ventilazione strategica
 - Il tessuto ultra leggero HeatGear offre una copertura ottimale senza appesantire
 - Il design ergonomico presenta cuciture lontane dalle aree pià¹ soggette ad abrasione e offre maggiore resistenza
+- Pannelli in mesh sul retro e sotto le braccia per una ventilazione strategica
 - Il materiale assorbe il sudore e si asciuga molto velocemente
 - Design con maniche raglan ibride per maggiore libertà di movimento e comfort
 

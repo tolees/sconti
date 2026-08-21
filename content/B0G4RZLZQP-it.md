@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Zinco per contribuire al normale metabolismo dei macronutrienti e alla normale funzione cognitiva.
-- Adatto in ogni periodo dellanno, per lesigenza quotidiana di energia fisica e mentale, ma anche per il cambio di stagione e in periodi particolarmente intensi.
-- Fino a un massimo di 3 gommose da gustare nellarco della giornata.
-- Complesso di aminoacidi: L-carnitina e Beta Alanina.
 - Vitamina B6 per contribuire al normale metabolismo energetico, alla riduzione della stanchezza e dellaffaticamento e alla normale funzione psicologica.
 - Sustenium Plus Gommose è un integratore alimentare in gustose caramelle gommose con una formulazione a base di un complesso di aminoacidi, vitamina B6 e zinco. Per il supporto quotidiano di energia fisica e mentale.
+- Zinco per contribuire al normale metabolismo dei macronutrienti e alla normale funzione cognitiva.
+- Complesso di aminoacidi: L-carnitina e Beta Alanina.
+- Adatto in ogni periodo dellanno, per lesigenza quotidiana di energia fisica e mentale, ma anche per il cambio di stagione e in periodi particolarmente intensi.
+- Fino a un massimo di 3 gommose da gustare nellarco della giornata.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0G4RZLZQP{{</world>}}

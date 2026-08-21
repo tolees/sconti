@@ -28,10 +28,10 @@ average: '20.13'
 
 ℹ️:
 
-- Realizzata in materiale TR90, materiale montatura che assicura una resistenza eccezionale in ogni tipo di ambiente e uso.
-- Telaio e lenti degli occhiali da sole sono antiurto, antigraffio, durevoli e infrangibili.
 - Naselli ergonomici con design anti caduta comodi da indossare, utili in ogni tipo di attivita e uso.
 - Lenti Polarizzate con Protezione UV400 al 100% peri raggi UVA e UVB
+- Realizzata in materiale TR90, materiale montatura che assicura una resistenza eccezionale in ogni tipo di ambiente e uso.
+- Telaio e lenti degli occhiali da sole sono antiurto, antigraffio, durevoli e infrangibili.
 - Cressi è un’azienda di proprietà famigliare che sviluppa con passione prodotti sportivi acquatici dal 1946
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

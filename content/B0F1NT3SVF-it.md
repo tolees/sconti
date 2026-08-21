@@ -30,9 +30,9 @@ average: '0.55'
 
 - La confezione contiene circa 6 porzioni
 - Pasta di semola di grano duro
+- Adatto per diete vegetariane e vegane
 - 100% semola di grano duro
 - Conservare in luogo fresco e asciutto
-- Adatto per diete vegetariane e vegane
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F1NT3SVF{{</world>}}

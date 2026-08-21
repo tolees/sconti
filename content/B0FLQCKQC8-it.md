@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- CONFIGURAZIONE SEMPLICE E PEDALATA STABILE, CONNESSO E SOTTO CONTROLLO: Il Wi-Fi integrato offre un accoppiamento più rapido e aggiornamenti automatici quando connesso a una rete Wi-Fi attiva.
-- SENSAZIONE DI PEDALATA LEGGENDARIA KICKR: KICKR CORE offre una resistenza fluida e una sensazione simile alla strada, è costruito per sforzi intensi e allenamenti strutturati.
 - KICKR CORE è il modo più intelligente per iniziare a pedalare indoor. Il nuovo KICKR CORE si basa sulle prestazioni affidabili del CORE originale e introduce una configurazione più rapida e semplice, una migliore connettività e laggiunta di funzionalità chiave dellecosistema KICKR.
+- CONFIGURAZIONE SEMPLICE E PEDALATA STABILE, CONNESSO E SOTTO CONTROLLO: Il Wi-Fi integrato offre un accoppiamento più rapido e aggiornamenti automatici quando connesso a una rete Wi-Fi attiva.
 - KICKR CORE è il modo più intelligente per iniziare a pedalare indoor.
+- SENSAZIONE DI PEDALATA LEGGENDARIA KICKR: KICKR CORE offre una resistenza fluida e una sensazione simile alla strada, è costruito per sforzi intensi e allenamenti strutturati.
 - Integrazione KICKR Core 2: Supporta il cambio virtuale Zwift per rapporti personalizzati. Cambio Virtuale: Abbina la tua configurazione preferita indoor utilizzando Zwift Cog e Click. KICKR BRIDGE: Trasmette dati da cardiofrequenzimetri e altri controller. MODALITÀ GARA: Trasmette i dati di potenza fino a 10 volte più velocemente rispetto al precedente CORE per una reattività rapida. Sistema LED aggiornato: I LED multicolore mostrano lo stato di connessione, firmware e funzionalità. Potenza massima: 1800W. Precisione: ±2%. Calibrazione automatica: Non sono necessarie calibrazioni programmate.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

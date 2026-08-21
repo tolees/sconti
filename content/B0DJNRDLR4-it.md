@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Respira il profumo del bagnodoccia Classico Felce Azzurra e scopri il piacere di prenderti cura del tuo corpo
-- Il pacchetto può variare
 - 650 ml
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
+- Respira il profumo del bagnodoccia Classico Felce Azzurra e scopri il piacere di prenderti cura del tuo corpo
+- Il pacchetto può variare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DJNRDLR4{{</world>}}

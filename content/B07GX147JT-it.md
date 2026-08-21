@@ -28,9 +28,9 @@ average: '37.9'
 
 ℹ️:
 
-- Con ottima libertà di movimento
 - Adatto per lallenamento
 - Prodotto di marca Leone 1947
+- Con ottima libertà di movimento
 - Con logo sul petto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

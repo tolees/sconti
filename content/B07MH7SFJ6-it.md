@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Il materasso Summit 90x190 cm in waterfoam è un dispositivo medico ed ha una garanzia di 15 anni
 - Il materasso è un Dispositivo Medico Classe1 e soddisfa gli standard imposti dalla direttiva europea
-- Il materasso Summit in waterfoam è pieghevole ed adatto a tutte le strutture salvaspazio
 - Il rivestimento del materasso Summit è completamente anallergico antiacaro ed altamente traspirante
+- Il materasso Summit 90x190 cm in waterfoam è un dispositivo medico ed ha una garanzia di 15 anni
+- Il materasso Summit in waterfoam è pieghevole ed adatto a tutte le strutture salvaspazio
 - Allinterno del materasso è presente una lastra di supporto con doppia pantografia in water foam alta 11 centimetri, il rivestimento esterno è alto circa 1 centimetro per lato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

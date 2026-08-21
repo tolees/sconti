@@ -28,10 +28,10 @@ average: '53.2'
 
 ℹ️:
 
-- Ammortizzazione: bassa
 - Marca dellintersuola in pezzo gioiello
-- Gabbia in TPU
 - Pronazione: neutra
+- Ammortizzazione: bassa
+- Gabbia in TPU
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DJ92C83Z{{</world>}}

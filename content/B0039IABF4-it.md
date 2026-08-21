@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Circonferenza: 2.17 pollici
-- Collegamento: esagonale 5/8 di pollice
 - Sono disponibili gli adattatori idonei e bulloni tra gli accessori opzionali
+- Collegamento: esagonale 5/8 di pollice
 - Può essere avvitato su tutte le barre o piastre con viti di diametro compreso tra i 13 ed i 2.17 pollici
+- Circonferenza: 2.17 pollici
 - Presa 1/4 di pollice e filettatura m5
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

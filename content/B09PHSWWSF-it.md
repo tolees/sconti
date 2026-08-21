@@ -28,14 +28,14 @@ average: '29.74'
 
 ℹ️:
 
-- Ricarica USB per una ricarica facile e ovunque
 - 2 luci a LED integrate per lilluminazione di aree di lavoro poco luminose
-- Punte intercambiabili in modo rapido e semplice con collo esagonale da 1/4" (6,35 mm)
-- Coppia di 5 Nm; 3 impostazioni di coppia (bassa, media, alta) con la semplice pressione di un pulsante
 - Avvitatore elettrico a batteria con velocità fino a 300 giri/min; ideale per piccoli lavori e progetti fai-da-te
 - In precedenza marchio Denali, ora Amazon Basics
-- Le dimensioni sottili e compatte facilitano laccesso in spazi ristretti
 - Include un avvitatore da 3,6 V (4 V max), una batteria integrata agli ioni di litio da 2000 mAh ricaricabile, un cavo di ricarica USB-C e un set di 34 punte
+- Coppia di 5 Nm; 3 impostazioni di coppia (bassa, media, alta) con la semplice pressione di un pulsante
+- Ricarica USB per una ricarica facile e ovunque
+- Le dimensioni sottili e compatte facilitano laccesso in spazi ristretti
+- Punte intercambiabili in modo rapido e semplice con collo esagonale da 1/4" (6,35 mm)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09PHSWWSF{{</world>}}

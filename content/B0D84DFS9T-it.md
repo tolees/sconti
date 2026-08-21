@@ -28,10 +28,10 @@ average: '11.99'
 
 ℹ️:
 
+- MADE FOR WARRIORS – SI COMBINA CON WHEY ED EAA – Gli atleti si affidano a Warrior da anni. In massa o definizione, questa polvere di creatina è la base del tuo stack e si combina con Whey, BCAA, EAA o Pre Workout.
 - VEGANA, SENZA ADDITIVI ARTIFICIALI E TESTATA IN LABORATORIO – Creatina monoidrata pura senza zucchero né riempitivi inutili. Vegana, senza glutine e senza lattosio – perfetta per uomini e donne che cercano integratori di qualità.
 - CREATINA MONOIDRATA PURA PER FORZA E MASSA MUSCOLARE – La Creatina Monoidrata in Polvere Warrior fornisce 3 g di creatina pura per porzione e supporta forza, aumento della massa muscolare ed esplosività in palestra. Polvere di creatina micronizzata, rapidamente assimilata.
 - CREATINA MICRONIZZATA PER MASSIMA SOLUBILITÀ – La nostra polvere di creatina ultrafine si scioglie senza grumi in acqua, succo o frullato proteico. Ideale per lintegrazione quotidiana di creatina intorno allallenamento – neutra o aromatizzata.
-- MADE FOR WARRIORS – SI COMBINA CON WHEY ED EAA – Gli atleti si affidano a Warrior da anni. In massa o definizione, questa polvere di creatina è la base del tuo stack e si combina con Whey, BCAA, EAA o Pre Workout.
 - PORZIONI PER FASE DI CARICO E MANTENIMENTO – 3 g di creatina per porzione, adatta alla fase di carico e alla dose di mantenimento. Ideale per bodybuilding, crossfit o qualsiasi allenamento di forza – per recupero ed endurance migliori.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

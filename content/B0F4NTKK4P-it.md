@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Manica lunga
 - Tessuto morbido
+- Manica lunga
 - Logo monogramma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

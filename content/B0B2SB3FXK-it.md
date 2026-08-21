@@ -28,12 +28,12 @@ average: '8.99'
 
 ℹ️:
 
-- Formato: 1 crema viso anti imperfezioni da 50 ml
-- Alcune immagini o video presenti in questa pagina sono state create o elaborate mediante sistemi di intelligenza artificiale
 - Formulazione: crema formulata con vitamina B3, che contribuisce a normalizzare la secrezione sebacea, acido mandelico dallazione esfoliante, bergamotto e acido azelaico dallazione purificante
+- Linea Vitamina B3 di Bottega Verde: gamma viso anti imperfezione con Bergamotto e Vitamina B3 per una beauty routine per purificare e opacizzare le pelli grasse o miste
 - Modo duso: applica quotidianamente la crema sulla pelle del viso con movimenti delicati dal basso verso lalto e dal centro verso i lati fino al completo assorbimento evitando la zona contorno occhi
 - Crema Viso Estratti di Bellezza Vitamina B3+: crema viso purificante e opacizzante per pelli miste o grasse che combatte gli inestetismi, le imperfezioni e la lucidità delle pelle, uniformando lincarnato
-- Linea Vitamina B3 di Bottega Verde: gamma viso anti imperfezione con Bergamotto e Vitamina B3 per una beauty routine per purificare e opacizzare le pelli grasse o miste
+- Alcune immagini o video presenti in questa pagina sono state create o elaborate mediante sistemi di intelligenza artificiale
+- Formato: 1 crema viso anti imperfezioni da 50 ml
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B2SB3FXK{{</world>}}

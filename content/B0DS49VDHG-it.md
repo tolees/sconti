@@ -28,15 +28,15 @@ average: '2972.99666666667'
 
 ℹ️:
 
-- Fotocamera principale da 100 MP - La fotocamera Hasselblad da 100 MP del DJI Mavic 4 Pro con video HDR 6K/60fps cattura riprese aeree mozzafiato con dettagli vividi.
-- Trasmissione video a lungo raggio - LO4+ da 30 km del drone fornisce una trasmissione video HDR a 10 bit [11], garantendo flussi fluidi per i professionisti in movimento.
-- Display professionale in movimento - Il radiocomando RC Pro 2 [8] del drone, con display girevole da 7″ ad alta luminosità, è pieghevole per un trasporto facile e un controllo professionale ovunque.
-- Angolazioni più dinamiche - Lo Stabilizzatore Infinity a 360° del drone con fotocamera [4] offre movimenti dinamici della fotocamera per riprese cinematografiche.
-- Voli notturni sicuri - Il rilevamento omnidirezionale degli ostacoli in notturna con 0,1 lux [1] di questo drone rileva ostacoli in condizioni di scarsa illuminazione, ideale per le riprese notturne.
-- A causa di problemi di compatibilità della piattaforma, lapp DJI Fly è stata rimossa da Google Play. Visita il sito Web ufficiale DJI per scaricare il manuale utente e lultima versione dellapp DJI Fly per una migliore esperienza.
-- Immagini tele versatili - Il doppio teleobiettivo di questo drone offre zoom nitidi e dettagliati per la fotografia aerea professionale.
 - Include DJI Mavic 4 Pro 512 GB che supporta video codificati ALL-I 4:2:2, radiocomando RC Pro 2, tre batterie, un adattatore di alimentazione da 240 W, un hub di ricarica parallela e altro, ideale per film-maker e creatori.
+- Angolazioni più dinamiche - Lo Stabilizzatore Infinity a 360° del drone con fotocamera [4] offre movimenti dinamici della fotocamera per riprese cinematografiche.
 - Tempo di volo esteso - Goditi 51 minuti di volo [10] con questo drone con fotocamera, ideale per catturare lunghe scene professionali.
+- Immagini tele versatili - Il doppio teleobiettivo di questo drone offre zoom nitidi e dettagliati per la fotografia aerea professionale.
+- Trasmissione video a lungo raggio - LO4+ da 30 km del drone fornisce una trasmissione video HDR a 10 bit [11], garantendo flussi fluidi per i professionisti in movimento.
+- Voli notturni sicuri - Il rilevamento omnidirezionale degli ostacoli in notturna con 0,1 lux [1] di questo drone rileva ostacoli in condizioni di scarsa illuminazione, ideale per le riprese notturne.
+- Fotocamera principale da 100 MP - La fotocamera Hasselblad da 100 MP del DJI Mavic 4 Pro con video HDR 6K/60fps cattura riprese aeree mozzafiato con dettagli vividi.
+- Display professionale in movimento - Il radiocomando RC Pro 2 [8] del drone, con display girevole da 7″ ad alta luminosità, è pieghevole per un trasporto facile e un controllo professionale ovunque.
+- A causa di problemi di compatibilità della piattaforma, lapp DJI Fly è stata rimossa da Google Play. Visita il sito Web ufficiale DJI per scaricare il manuale utente e lultima versione dellapp DJI Fly per una migliore esperienza.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DS49VDHG{{</world>}}

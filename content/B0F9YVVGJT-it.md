@@ -29,10 +29,10 @@ average: '3.59'
 ℹ️:
 
 - OVER 50: Dopo i 50 anni la sensibilità dentale e la ridotta salivazione possono aumentare il rischio di carie e fastidi gengivali. Biorepair offre unazione mirata per un maggiore benessere
-- AROMA SPECIALE BREVETTATO: Stimola il flusso salivare, donando sollievo alla bocca secca e una freschezza prolungata
-- PROTEZIONE COMPLETA 50+: Dentifricio appositamente studiato per rispondere alle esigenze di igiene orale quotidiana degli adulti over 50
 - PROBIOTICI ED ESTRATTI NATURALI ANTIOSSIDANTI: Aiutano a contrastare le cause di sanguinamento gengivale, alitosi e infiammazioni
 - CON MICROREPAIR: Deposita nuovo smalto, proteggendo i denti da carie, sensibilità ed erosione
+- PROTEZIONE COMPLETA 50+: Dentifricio appositamente studiato per rispondere alle esigenze di igiene orale quotidiana degli adulti over 50
+- AROMA SPECIALE BREVETTATO: Stimola il flusso salivare, donando sollievo alla bocca secca e una freschezza prolungata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F9YVVGJT{{</world>}}

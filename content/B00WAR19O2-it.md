@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - al bouquet è fruttato e floreale con note di mela golden e fiori di montagna
-- al gusto è secco,fresco e sapido con retrogusto fruttato e armonico
 - Ha un colore giallo paglierino scarico, perlage fine e persistente
+- al gusto è secco,fresco e sapido con retrogusto fruttato e armonico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00WAR19O2{{</world>}}

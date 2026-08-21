@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- MERENDA GOLOSA IN VIAGGIO: Snack goloso dal basso contenuto di zucchero, perfetto da gustare in ogni momento della giornata, per una deliziosa pausa o per concedersi uno sfizio dopo lallenamento; barrette proteiche grenade partner ufficiali AC Milan
-- CERTIFICATO SPORT INFORMATO: Prodotto certificato dallassociazione Informed Sport e idoneo al consumo da parte di atleti sottoposti a controlli anti-doping e personale militare
 - ALTO CONTENUTO PROTEICO: Ricca di proteine, con oltre 21 g per barretta
-- A BASSO CONTENUTO DI ZUCCHERI: Basso contenuto di zuccheri, con solo 1,5 g per barretta
+- MERENDA GOLOSA IN VIAGGIO: Snack goloso dal basso contenuto di zucchero, perfetto da gustare in ogni momento della giornata, per una deliziosa pausa o per concedersi uno sfizio dopo lallenamento; barrette proteiche grenade partner ufficiali AC Milan
 - SENZA SENSI DI COLPA: Barretta a triplo strato composto di torrone di proteine, ricoperto di caramello, rivestito di cioccolato al latte e scaglie di cioccolato
+- CERTIFICATO SPORT INFORMATO: Prodotto certificato dallassociazione Informed Sport e idoneo al consumo da parte di atleti sottoposti a controlli anti-doping e personale militare
+- A BASSO CONTENUTO DI ZUCCHERI: Basso contenuto di zuccheri, con solo 1,5 g per barretta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B75JXFW2{{</world>}}

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Intersuola ammortizzata
-- Calzata regolare
 - Fodera in tessuto
 - Chiusura con lacci
+- Intersuola ammortizzata
+- Calzata regolare
 - Tomaia in pelle rivestita
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

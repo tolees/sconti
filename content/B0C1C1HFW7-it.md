@@ -28,11 +28,11 @@ average: '9.2'
 
 ℹ️:
 
-- RICOSTITUENTE NATURALE: Astragalo e Thè Verde supportano la risposta difensiva dellorganismo.
-- UTILIZZO FACILE: Somministrare 1 compressa al giorno ogni 10kg di peso dellanimale per 30 giorni.
-- FUNGHIDAPTOGENI: Contiene Cordyceps e Ganoderma Lucidum, noti per le loro proprietà benefiche sul sistema immunitario.
 - ALIMENTO COMPLEMENTARE: Sostiene le difese immunitarie di cani e gatti, con ingredienti naturali.
+- FUNGHIDAPTOGENI: Contiene Cordyceps e Ganoderma Lucidum, noti per le loro proprietà benefiche sul sistema immunitario.
 - CAMON: Camon è lazienda che si dedica alla cura e al benessere dei tuoi piccoli amici. Dal 1985, il nostro maggior impegno è offrire prodotti e soluzioni di qualità per gli animali da compagnia.
+- UTILIZZO FACILE: Somministrare 1 compressa al giorno ogni 10kg di peso dellanimale per 30 giorni.
+- RICOSTITUENTE NATURALE: Astragalo e Thè Verde supportano la risposta difensiva dellorganismo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C1C1HFW7{{</world>}}

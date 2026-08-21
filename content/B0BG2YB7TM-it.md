@@ -28,11 +28,11 @@ average: '18.81'
 
 ℹ️:
 
-- Detergente tradizionale
+- Profumo naturale di marsiglia e lavanda
 - Con ingredienti a base vegetale (82% del tensioattivo totale, soggetto a processi di lavorazione)
 - Sicuro a contatto con gli alimenti
-- Profumo naturale di marsiglia e lavanda
 - Rimuove fino al 100% di sporco, grasso e sporcizia. Rimuove macchie e odori
+- Detergente tradizionale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BG2YB7TM{{</world>}}

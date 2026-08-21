@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Potente cricchetto con coppia massima di 74-93 Nm, superiore fino al 50% rispetto allo standard DIN
+- Controllo ottimale e impiego versatile, grazie all’ergonomica impugnatura SoftGgrip
 - Il portabit magnetico previene l’apertura accidentale della bussola
 - Dotazione: 1 cricchetto da ¼, 1 adattatore, 10 bussole, 2 aste di prolunga, valigetta
-- Potente cricchetto con coppia massima di 74-93 Nm, superiore fino al 50% rispetto allo standard DIN
 - Pratica valigetta, per un trasporto e uno stivaggio agevoli
-- Controllo ottimale e impiego versatile, grazie all’ergonomica impugnatura SoftGgrip
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C3CN368P{{</world>}}

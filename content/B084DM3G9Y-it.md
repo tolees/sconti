@@ -29,10 +29,10 @@ average: '4.99'
 ℹ️:
 
 - MULTIUSO: Ideale per preparazioni e per servire piatti in tavola dalla pasta allinsalata e molto altro
-- DIMENSIONI: Ø18 x H7,6cm | 1090 cc
 - MATERIALE: Il contenitore TIERRA è realizzato con plastica riciclata di bottiglie e flaconi usa e getta
-- Contenitore M della collezione Tierra - MADE IN ITALY
 - FACILE DA PULIRE: Lavabile in lavastoviglie con lavaggio ECO-Cycle o con lavaggio MAX 55°C – cestello superiore
+- Contenitore M della collezione Tierra - MADE IN ITALY
+- DIMENSIONI: Ø18 x H7,6cm | 1090 cc
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B084DM3G9Y{{</world>}}

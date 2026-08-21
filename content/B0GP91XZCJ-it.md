@@ -28,11 +28,11 @@ average: '23.93'
 
 ℹ️:
 
-- UNA COMBUSTIONE PULITA E UNIFORME: lo stoppino in cotone a fibra naturale al 100% è raddrizzato e centrato
 - SPICED PUMPKIN: Una fragranza morbida e avvolgente che unisce la zucca a note di cannella, noce moscata e chiodi di garofano. Un tocco di vaniglia delicata e aromi di dolci appena sfornati completano la base, creando una profumazione gourmand calda e appagante.
-- UNA FRAGRANZA PER OGNI MOMENTO: Da Yankee Candle, crediamo che ogni giorno sia una pagina della storia di qualcuno. Dai piccoli momenti di gioia alle occasioni che meritano di essere celebrate, ogni momento conta.
-- FRAGRANZA CHE RIEMPIE LA STANZA: Ingredienti di alta qualità e cera premium garantiscono un aroma duraturo e costante
 - CANDELE A LUNGA DURATA: Fino a 150 ore; 17 cm di altezza x 10 cm di larghezza (623 g)
+- UNA COMBUSTIONE PULITA E UNIFORME: lo stoppino in cotone a fibra naturale al 100% è raddrizzato e centrato
+- FRAGRANZA CHE RIEMPIE LA STANZA: Ingredienti di alta qualità e cera premium garantiscono un aroma duraturo e costante
+- UNA FRAGRANZA PER OGNI MOMENTO: Da Yankee Candle, crediamo che ogni giorno sia una pagina della storia di qualcuno. Dai piccoli momenti di gioia alle occasioni che meritano di essere celebrate, ogni momento conta.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GP91XZCJ{{</world>}}

@@ -28,11 +28,11 @@ average: '10.02'
 
 ℹ️:
 
-- ELIMINA ODORI: elimina i cattivi odori grazie alle essenze di origine vegetale, lasciando nellambiente un piacevole profumo di lavanda
 - AZIONE DISINFETTANTE: grazie alla sua azione disinfettante elimina fino al 99,9% di virus, batteri, muffe e lieviti
 - COME USARE: spruzzare da almeno 25 cm di distanza in maniera uniforme su tutta la superficie finché non sia visibilmente bagnata
 - DOVE USARE: il prodotto può essere utilizzato sia su tessuti darredo (divani, poltrone e cuscini) sia su superfici dure della casa (tavoli, sanitari e pattumiere)
 - PRODOTTO: Citrosil spray disinfettante elimina virus, batteri e cattivi odori senza lasciare residui né macchie sui tessuti
+- ELIMINA ODORI: elimina i cattivi odori grazie alle essenze di origine vegetale, lasciando nellambiente un piacevole profumo di lavanda
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CYQJKG1Q{{</world>}}

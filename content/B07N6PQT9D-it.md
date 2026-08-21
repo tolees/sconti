@@ -28,9 +28,9 @@ average: '52.06'
 
 ℹ️:
 
+- Numerosi accessori e snodi attentamente progettati rendono questo modello un prodotto "must have"
 - Bandai spirits porta per la prima volta in veste di model kit il goldrake nello stile "infinity"
 - Altezza in cm: 20; materiale: PVC
-- Numerosi accessori e snodi attentamente progettati rendono questo modello un prodotto "must have"
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07N6PQT9D{{</world>}}

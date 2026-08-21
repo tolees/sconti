@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- FACILE DA MANIOBRAR E IMMAGAZZINARE – le grandi ruote posteriori da 20,32 cm rendono molto semplice muoversi su qualsiasi tipo di terreno, dispone di un maniglione comodo per una facile gestione che si piega per risparmiare spazio di immagazzinamento quando non è in uso.
 - GARANTIA DI 3 ANNI, CON 2 ANNI DI GARANTIA PER LA BATTERIA: Offerta da Greenworks, leader mondiale nelle attrezzi elettriche e nella tecnologia delle batterie, con una reputazione globale per progettazione intelligente, alto rendimento e eccellente servizio clienti
-- 6 ALTEZZE DI TAGLIO E COPERTURA O RACCOLTA 2 IN 1 – un’unica leva del tagliaerba elettrico regola l’altezza delle lame da 30 a 80 mm, i ritagli possono essere raccolti nel grande sacco da 30L o depositati come copertura in pezzi finemente triturati per aggiungere nutrienti al prato.
 - IDEALE PER GIARDINI MEDIO – motore senza spazzole per potenza aggiuntiva e durata maggiore, richiede batteria 24V 4Ah fino a 400 m², con tutte le prestazioni di un tagliaerba a benzina ma senza disordine.
+- FACILE DA MANIOBRAR E IMMAGAZZINARE – le grandi ruote posteriori da 20,32 cm rendono molto semplice muoversi su qualsiasi tipo di terreno, dispone di un maniglione comodo per una facile gestione che si piega per risparmiare spazio di immagazzinamento quando non è in uso.
+- 6 ALTEZZE DI TAGLIO E COPERTURA O RACCOLTA 2 IN 1 – un’unica leva del tagliaerba elettrico regola l’altezza delle lame da 30 a 80 mm, i ritagli possono essere raccolti nel grande sacco da 30L o depositati come copertura in pezzi finemente triturati per aggiungere nutrienti al prato.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GQZ8SK8C{{</world>}}

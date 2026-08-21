@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Provenienza: Italia
-- Abbinamenti: Consigliato con risotti a base di funghi o con fritture. Si sposa molto bene anche con delle linguine allastice servite su una vellutata di avogado o con dei gamberoni scottati in camicia di lardo croccante.
-- Temperatura di servizio: Si serve fresco alla temperatura di 4-6°C
-- Tipo: Vino spumante Brut che nasce dalla rifermentazione di vini rosati vini bianchi di origine comunitaria.
 - Contenuto alcolico: 12% vol
+- Temperatura di servizio: Si serve fresco alla temperatura di 4-6°C
+- Abbinamenti: Consigliato con risotti a base di funghi o con fritture. Si sposa molto bene anche con delle linguine allastice servite su una vellutata di avogado o con dei gamberoni scottati in camicia di lardo croccante.
+- Provenienza: Italia
+- Tipo: Vino spumante Brut che nasce dalla rifermentazione di vini rosati vini bianchi di origine comunitaria.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FDG88G54{{</world>}}

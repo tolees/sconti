@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Vaporizza HUGO JEANS Eau de Toilette Uomo sui punti di pulsazione del corpo per aumentare la persistenza della fragranza.
-- Pompelmo
 - Accordo di legno di sandalo
+- Vaporizza HUGO JEANS Eau de Toilette Uomo sui punti di pulsazione del corpo per aumentare la persistenza della fragranza.
 - Menta piperita
+- Pompelmo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BSLGLKV6{{</world>}}

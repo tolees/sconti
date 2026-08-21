@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Cotone
 - Leggings
+- Cotone
 - Elastico in vita
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

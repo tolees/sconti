@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Texture vellutata e impalpabile: si assorbe rapidamente e lascia la pelle setosa, con delicate note pure e vibranti.
-- Con Manna delle Madonie e Fiori di Verbasco italiani: ricchi di polisaccaridi e polifenoli, contribuiscono a idratare e illuminare la pelle.
-- Siero corpo idra-illuminante: aiuta a donare luminosità e idratazione intensa per una pelle visibilmente più radiosa.
 - Niacinamide e Pantenolo: levigano, rafforzano la barriera cutanea e favoriscono un’azione riparatrice e rigenerante.
 - Idratazione profonda fino a 72 ore: la formula aiuta a mantenere la pelle morbida, nutrita e luminosa a lungo.
+- Texture vellutata e impalpabile: si assorbe rapidamente e lascia la pelle setosa, con delicate note pure e vibranti.
+- Siero corpo idra-illuminante: aiuta a donare luminosità e idratazione intensa per una pelle visibilmente più radiosa.
+- Con Manna delle Madonie e Fiori di Verbasco italiani: ricchi di polisaccaridi e polifenoli, contribuiscono a idratare e illuminare la pelle.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GSG8GTB2{{</world>}}

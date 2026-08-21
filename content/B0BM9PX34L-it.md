@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Places the GPU away from the side panel
-- Supports full-length GPUs with any number of slot brackets and coolers of any size
 - Mounts easily with included captive thumbscrews
-- PCIe Gen 4.0 x 16 Riser cable
 - Fits ATX cases with bridgeless expansion slot covers (no bars between slots)
+- Supports full-length GPUs with any number of slot brackets and coolers of any size
+- PCIe Gen 4.0 x 16 Riser cable
+- Places the GPU away from the side panel
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BM9PX34L{{</world>}}

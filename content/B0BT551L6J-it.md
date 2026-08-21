@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Adatto a ogni ricetta, come pasta fredda, patate e fagiolini, insalata di pollo. Il gusto fruttato è medio-leggero, con gradevoli note di mandorla e vaniglia.
-- Costa d’Oro si impegna dal 1968 a produrre prodotti di qualità con una particolare dedizione all’innovazione e alla trasparenza.
-- L’Extra Squeeze Costa dOro, in formato Bipack 2 x 500 ml, è l’olio extravergine di oliva estratto a freddo frutto di esperienza e attenzione al miglioramento continuo della qualità dei raccolti e del prodotto.
 - PROVENIENZA DELLE OLIVE: ‎Italia, Spagna, Grecia, Tunisia, Marocco
+- Costa d’Oro si impegna dal 1968 a produrre prodotti di qualità con una particolare dedizione all’innovazione e alla trasparenza.
 - Grazie al suo tappo salva goccia, questo olio doliva è ideale per condire pasti consumati fuori casa, al lavoro, durante grigliate o pic nic.
+- L’Extra Squeeze Costa dOro, in formato Bipack 2 x 500 ml, è l’olio extravergine di oliva estratto a freddo frutto di esperienza e attenzione al miglioramento continuo della qualità dei raccolti e del prodotto.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BT551L6J{{</world>}}

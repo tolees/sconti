@@ -28,11 +28,11 @@ average: '6.22'
 
 ℹ️:
 
+- In morbido jersey di qualità
 - Con scollo rotondo
-- Vestibilità normale
 - Con logo stampato, in cotone, ha una stampa sul davanti
 - Le maniche sono corte
-- In morbido jersey di qualità
+- Vestibilità normale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DW8THK87{{</world>}}

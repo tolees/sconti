@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Contenuto: 1x Samsung Monitor Gaming Odyssey G5 32", Include cavo di alimentazione, cavo HDMI e cavo DP, Dimensioni con base (LxAxP): 71,01 x 53,36 x 27,26 cm, Peso con base: 5,2 kg
 - 2560x1440 (QHD 2K), Pannello VA, 16:9, HDR10
-- Refresh Rate 165Hz, Response Time 1ms (MPRT), AMD FreeSync
 - 1 HDMI, 1 Display Port, Ingresso Audio, Eye Saver Mode, Flicker Free
+- Contenuto: 1x Samsung Monitor Gaming Odyssey G5 32", Include cavo di alimentazione, cavo HDMI e cavo DP, Dimensioni con base (LxAxP): 71,01 x 53,36 x 27,26 cm, Peso con base: 5,2 kg
+- Refresh Rate 165Hz, Response Time 1ms (MPRT), AMD FreeSync
 - Samsung Monitor Gaming Odyssey G5, 32, Curvo (1000R)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

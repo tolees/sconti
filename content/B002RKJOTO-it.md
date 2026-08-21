@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- DISTILLAZIONE:Metodo discontinuo eseguito in esclusivi alambicchi a vapore in rame, frutto di innovazione e continue ricerche di Benito Nonino
 - ABBINAMENTI CONSIGLIATI: Va servita a temperatura ambiente in un bicchiere ampio tipo ballon. Si consiglia di lasciarla riposare qualche minuto prima dell’assaggio per esaltarne i profumi
+- MATERIA PRIMA: Vinacce fresche, morbide e diraspate di uva Chardonnay
+- DISTILLAZIONE:Metodo discontinuo eseguito in esclusivi alambicchi a vapore in rame, frutto di innovazione e continue ricerche di Benito Nonino
 - INVECCHIAMENTO NATURALE: 12 mesi in barriques sotto sigillo M.I.G., senza aggiunta di coloranti. Gradazione alcolica: 41% vol
 - GUSTO: Leggermente ambrata grazie al riposo in barrique, si presenta fine ed elegante, con profumi di pane fresco, vaniglia e pasticceria. Al palato, note di cioccolato e mandorle appena sgusciate
-- MATERIA PRIMA: Vinacce fresche, morbide e diraspate di uva Chardonnay
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B002RKJOTO{{</world>}}

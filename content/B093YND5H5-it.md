@@ -28,10 +28,10 @@ average: '538.49'
 
 ℹ️:
 
-- Distanza del doppio tetto dalla base regolabile per tensionare in maniera ottimale e apertura per il passaggio dei cavi elettrici. Gancio interno porta lampada e camera interna separata da divisorio amovibile.
 - Tenda munita di ampio abside, cuffie e finestre di aerazione, sistema di ventilazione con ampia zanzariera, porta frontale e laterale con zanzariera interna e finestre trasparenti sulla parte frontale del doppio tetto.
 - Compresi Kit di riparazione, picchetti, ampia borsa a custodia in Supertex e istruzioni video per il montaggio attivabile inquadrando il QRCode
 - Paleria esterna in vetroresina e camera interna sospesa alla paleria con nastri e olivette.
+- Distanza del doppio tetto dalla base regolabile per tensionare in maniera ottimale e apertura per il passaggio dei cavi elettrici. Gancio interno porta lampada e camera interna separata da divisorio amovibile.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B093YND5H5{{</world>}}

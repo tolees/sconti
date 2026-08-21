@@ -29,9 +29,9 @@ average: '6.29'
 ℹ️:
 
 - SPF 30 - Offre unalta protezione da UVA e UVB. Protegge contro linvecchiamento della pelle causato dal sole
-- ETICAMENTE RESPONSABILE - Vegano, Contro la sperimentazione sugli animali
-- PROFUMO TROPICALE
 - 12 ORE DI IDRATAZIONE - grazie allinnovativa doppia fascia idratante arricchita con burro di cacao
+- PROFUMO TROPICALE
+- ETICAMENTE RESPONSABILE - Vegano, Contro la sperimentazione sugli animali
 - DERMATOLOGICAMENTE TESTATO - Vivi lavventura con sicurezza grazie a questa formula resistente e protettiva
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ average: '9.99'
 
 ℹ️:
 
-- Cavo sottile con 2 connettori E-Tube
 - Trasmette segnali interattivi e fornisce corrente a tutti i componenti
+- Cavo sottile con 2 connettori E-Tube
 - Gestione cavi interna ed esterna
 - Connettore impermeabile.
 

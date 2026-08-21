@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Materiale robusto e di facile manutenzione.
 - Effetto “usato” attraverso l’ottica slavata vintage.
-- Giacca Streetwear in stile M65.
+- Materiale robusto e di facile manutenzione.
 - Maniche lunghe.
+- Giacca Streetwear in stile M65.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00EDK1NO0{{</world>}}

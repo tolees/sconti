@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- berretto baseball, cappellino, baseball cap, fitted cap, MLB Cap, Cappellini baseball
-- Marchi: New Era
 - Snapback,con visiera
+- Marchi: New Era
+- berretto baseball, cappellino, baseball cap, fitted cap, MLB Cap, Cappellini baseball
 - Se fate il tifo per la squadra New York Yankees, questo e il copricapo perfetto per voi. Completamente chiuso dietro la nuca, il Cappellino 9Forty MLB Ess Yankees del marchio New Era ha il frontalino rinforzato e la visiera ricurva.
 - Taglia unica (circa 55-60 cm),Taglia regolabile, Lunghezza visiera: 7 cm,Altezza corona: circa 10 cm
 

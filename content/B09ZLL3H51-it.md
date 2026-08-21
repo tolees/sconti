@@ -28,9 +28,9 @@ average: '15.04'
 
 ℹ️:
 
-- Il cavo DisplayPort (spina DP a spina DP) soddisfa lo standard DisplayPort 2.0 recente e è completamente compatibile con versioni precedenti come DP 1.4
 - Progettato per la ottime sicurezza: la pin 20 (secondo le specifiche VESA) non è connessa per evitare danni dovuti a cortocircuiti; il cavo DisplayPort funziona bidirezionalmente con PC, laptop/notebook, monitor e proiettori
 - Per prestazioni: il cavo DisplayPort 2.0 è progettato per risoluzioni UHD di 4K (3840x2160) a 144Hz o addirittura 8K (7680x4320) a 60Hz, nonché WQHD (2560x1440) a 360Hz, immagini HDR10 e segnali audio surround 7.1
+- Il cavo DisplayPort (spina DP a spina DP) soddisfa lo standard DisplayPort 2.0 recente e è completamente compatibile con versioni precedenti come DP 1.4
 - Il cavo KabelDirekt DP 2.0 ha un design speciale con protezione anti-interferenze A.I.S., con schermatura a strati in metallo nel connettore e guaina aggiuntiva dei conduttori di rame per una protezione ottimale dalle interferenze
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

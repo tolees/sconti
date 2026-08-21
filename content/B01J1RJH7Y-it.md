@@ -28,12 +28,12 @@ average: '42.1'
 
 ℹ️:
 
-- Manico soft-touch e base girevole a 360°
 - Beccuccio per versare lacqua senza farla fuoriuscire
-- Zone a bollitura rapida per scaldare solo 1/2/3 tazze
+- Manico soft-touch e base girevole a 360°
 - Capacita: 1.7 litri
-- Bollitore in acciaio inox con dettagli in stile retro
 - Filtro rimovibile e lavabile
+- Zone a bollitura rapida per scaldare solo 1/2/3 tazze
+- Bollitore in acciaio inox con dettagli in stile retro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01J1RJH7Y{{</world>}}

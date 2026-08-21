@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Regalo di compleanno Nintendo Mario Kart per bambini: regala questo set a bambini, bambine e fan di LEGO Super Mario da 8 anni in su; per il gioco interattivo è necessario uno dei set 71439, 71440 o 71441 (disponibili separatamente)
-- Set di giochi Mario Kart per bambini e bambine da 8 anni in su: unisci le forze con Baby Mario o Baby Luigi giocattolo per battaglie con i palloncini e corse ricche di divertimento, con questo set di giochi d’avventura LEGO Super Mario
-- Gioco interattivo: guida il Coccinello volante o il Tribolide con LEGO Mario, LEGO Luigi o LEGO Peach (personaggi non inclusi) per attivare gli effetti sonori/visivi delle macchine Mario Kart per suonare il clacson, derapare e altro ancora
-- 2 personaggi Nintendo Mario Kart da collezione per i giochi di ruolo: questo set di giochi Super Mario include i personaggi giocattolo di Baby Mario e Baby Luigi, oltre a 6 palloncini costruibili (3 rossi e 3 verdi)
-- Set da Nintendo da collezione: esplora la gamma LEGO Mario Kart Super Mario (set disponibili separatamente) e trova altri veicoli, personaggi e macchine Mario Kart giocattolo con cui gareggiare e creare storie
 - Auto da corsa da costruire Mario Kart: posiziona Baby Mario nel suo Coccinello volante e Baby Luigi nel suo Tribolide, e lancia i gusci per abbattere i palloncini
+- Regalo di compleanno Nintendo Mario Kart per bambini: regala questo set a bambini, bambine e fan di LEGO Super Mario da 8 anni in su; per il gioco interattivo è necessario uno dei set 71439, 71440 o 71441 (disponibili separatamente)
+- Gioco interattivo: guida il Coccinello volante o il Tribolide con LEGO Mario, LEGO Luigi o LEGO Peach (personaggi non inclusi) per attivare gli effetti sonori/visivi delle macchine Mario Kart per suonare il clacson, derapare e altro ancora
+- Set da Nintendo da collezione: esplora la gamma LEGO Mario Kart Super Mario (set disponibili separatamente) e trova altri veicoli, personaggi e macchine Mario Kart giocattolo con cui gareggiare e creare storie
+- 2 personaggi Nintendo Mario Kart da collezione per i giochi di ruolo: questo set di giochi Super Mario include i personaggi giocattolo di Baby Mario e Baby Luigi, oltre a 6 palloncini costruibili (3 rossi e 3 verdi)
+- Set di giochi Mario Kart per bambini e bambine da 8 anni in su: unisci le forze con Baby Mario o Baby Luigi giocattolo per battaglie con i palloncini e corse ricche di divertimento, con questo set di giochi d’avventura LEGO Super Mario
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DHSDXPLY{{</world>}}

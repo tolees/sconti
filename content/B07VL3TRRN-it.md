@@ -28,14 +28,14 @@ average: '15.4525'
 
 ℹ️:
 
-- Clinicamente testato; testato su nichel, cobalto, cromo, palladio e mercurio
 - CORRETTORE COPRENTE Maschera le imperfezioni cutanee del viso come nei, cicatrici, vitiligine e acne, uniformando l’incarnato e donando un colore effetto “abbronzatura naturale”
-- Formulato senza profumo, derivati ​​del grano e coloranti; ipoallergenico e composto solo con filtri fisici
-- FORMULA con DNA PRO-DNA Complex azione elasticizzante
-- MODO DUSO Utilizzando l’apposita spugnetta, applicare il prodotto almeno 30 minuti prima dell’esposizione solare, sfumando il colore verso l’esterno, regolandone a piacere l’intensità
 - FONDOTINTA compatto dall’elevato potere coprente, cremoso e facilmente spalmabile
 - Foto-trucco compatto che corregge le imperfezioni e uniforma il tono, donando un colore dal naturale effetto abbronzatura
+- Clinicamente testato; testato su nichel, cobalto, cromo, palladio e mercurio
 - AZIONE Protegge la pelle dai raggi UVB e UVA, promuovendone la naturale elasticità e lasciandola morbida e liscia
+- FORMULA con DNA PRO-DNA Complex azione elasticizzante
+- MODO DUSO Utilizzando l’apposita spugnetta, applicare il prodotto almeno 30 minuti prima dell’esposizione solare, sfumando il colore verso l’esterno, regolandone a piacere l’intensità
+- Formulato senza profumo, derivati ​​del grano e coloranti; ipoallergenico e composto solo con filtri fisici
 - Protegge la pelle dai raggi UVB e UVA, favorendone lelasticità naturale e lasciandola morbida e liscia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

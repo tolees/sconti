@@ -28,11 +28,11 @@ average: '164.68'
 
 ℹ️:
 
-- Una protezione attiva della batteria impedisce la scarica profonda della batteria del veicolo
+- Pratica borsa frigo per 12 o 24 V CC e 230 V AC
 - Circuito prioritario per il funzionamento di
+- Una protezione attiva della batteria impedisce la scarica profonda della batteria del veicolo
 - La funzione di memoria mantiene le preferenze quando il sistema è spento
 - Raffredda fino a 27 °C al di sotto della temperatura ambiente, riscaldato fino a +65 °C
-- Pratica borsa frigo per 12 o 24 V CC e 230 V AC
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07QR5QHRH{{</world>}}

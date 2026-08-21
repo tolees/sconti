@@ -28,10 +28,10 @@ average: '19.855'
 
 ℹ️:
 
-- Birra lager da 4,5% vol
-- Gusto meravigliosamente rinfrescante con note agrumate
 - Esperienza di bevuta che invita a un altro sorso
+- Birra lager da 4,5% vol
 - Da servire tra i 3 e i 5°C
+- Gusto meravigliosamente rinfrescante con note agrumate
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GNS9QW15{{</world>}}

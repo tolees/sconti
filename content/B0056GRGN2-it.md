@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- STRUMENTI FACILI PER LA COSTRUZIONE: con l’app LEGO Builder i giovani possono seguire facilmente tutte le fasi di costruzione, utilizzando tool digitali per ingrandire e per ruotare in 3D il modello durante il montaggio
-- RAFFORZARE LA FIDUCIA IN SÉ STESSI: i piccoli migliorano le motricità fine mentre costruiscono la ruspa giocattolo, dotata di pneumatici in gomma, cabina di guida, benna frontale e retroescavatore con gancio
-- MINIFIGURE JUNIOR DELLOPERAIO EDILE: metti la minifigure junior LEGO nella cabina del veicolo giocattolo, per dare vita a grandi avventure e a giochi creativi di costruzione
 - MINI ESCAVATORE GIOCATTOLO: i piccoli amanti delle costruzioni edili ameranno il set LEGO City Veicoli – Ruspa da Cantiere, un divertente gioco di ruolo per bambini e bambine da 5 anni in su
 - PICCOLO REGALO: lescavatore LEGO è un gradito pensiero per gli amanti dei giochi da cantiere, e un ottimo regalino di fine festa di compleanno per bambini e bambine da 5 anni in su
+- RAFFORZARE LA FIDUCIA IN SÉ STESSI: i piccoli migliorano le motricità fine mentre costruiscono la ruspa giocattolo, dotata di pneumatici in gomma, cabina di guida, benna frontale e retroescavatore con gancio
 - PARTE DELLA COLLEZIONE LEGO CITY: aggiungi questo set con ruspa ai set Veicoli – SUV della Polizia (60481), Veicoli – Autopompa (60482) o Veicoli – Auto da Corsa da Gioco (60484), venduti a parte, per creare una collezione di mini veicoli
+- STRUMENTI FACILI PER LA COSTRUZIONE: con l’app LEGO Builder i giovani possono seguire facilmente tutte le fasi di costruzione, utilizzando tool digitali per ingrandire e per ruotare in 3D il modello durante il montaggio
+- MINIFIGURE JUNIOR DELLOPERAIO EDILE: metti la minifigure junior LEGO nella cabina del veicolo giocattolo, per dare vita a grandi avventure e a giochi creativi di costruzione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0056GRGN2{{</world>}}

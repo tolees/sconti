@@ -29,10 +29,10 @@ average: '2.38'
 ℹ️:
 
 - LIP & CHEEK – La formula 3 in 1 del burrocacao colorato Labello Caring Beauty dona un colore nude e permette di creare un soft make up look per labbra e guance con un solo prodotto
-- ORIGINE NATURALE – Privo di oli minerali e paraffine, questo burro cacao colorato che agisce anche come blush in crema è arricchito con Burro di Karité, Vitamina E e Olio di Mandorla Bio
-- CONTENUTO DELLA CONFEZIONE – Burrocacao Labbra Labello Caring Beauty Lip & Cheek Nude, burrocacao protezione solare SPF30 colorato per labbra e guance, 1 stick da 4.8 g, numero articolo: 88054
 - LE TUE LABBRA, IL TUO STILE – Combina e abbina i 5 diversi colori di burro cacao labbra della linea Caring Beauty per creare una gamma personalizzata di tonalità illimitate per le tue labbra
+- ORIGINE NATURALE – Privo di oli minerali e paraffine, questo burro cacao colorato che agisce anche come blush in crema è arricchito con Burro di Karité, Vitamina E e Olio di Mandorla Bio
 - BURRO DI CACAO LABBRA NUTRIENTE – Questo balsamo labbra idratante dona nutrimento per 24h e aiuta a proteggere le labbra dalla perdita di collagene grazie alla protezione solare SPF30*
+- CONTENUTO DELLA CONFEZIONE – Burrocacao Labbra Labello Caring Beauty Lip & Cheek Nude, burrocacao protezione solare SPF30 colorato per labbra e guance, 1 stick da 4.8 g, numero articolo: 88054
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D81FX27T{{</world>}}

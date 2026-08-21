@@ -29,10 +29,10 @@ average: '53.19'
 ℹ️:
 
 - CAPACITÀ: 30 lt
-- DIMENSIONI: 31 x 47 x 21 cm
-- SPALLACCI: Extralarge imbottito per il massimo comfort e rivestito in tessuto. Con sotto spallaccio in rete e nastro torace regolabile.
 - TESSUTO: 100% Poliestere riciclato, certificato "GRS"
 - SCHIENALE: Rivestito in tessuto ed imbottito con inserti 3D in rete per assicurare il massimo comfort.
+- SPALLACCI: Extralarge imbottito per il massimo comfort e rivestito in tessuto. Con sotto spallaccio in rete e nastro torace regolabile.
+- DIMENSIONI: 31 x 47 x 21 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CYT9GGF7{{</world>}}

@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Polsini e orli a coste
-- Taglio leggermente corto sul retro
-- Questo prodotto contiene almeno il 70% di materiali riciclati e rinnovabili
 - Calzata regolare
-- Girocollo a coste
 - 55% cotone / 36% poliestere (riciclato) / 9% viscosa
 - Spalle basse
+- Questo prodotto contiene almeno il 70% di materiali riciclati e rinnovabili
+- Girocollo a coste
+- Taglio leggermente corto sul retro
+- Polsini e orli a coste
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D19GFB38{{</world>}}

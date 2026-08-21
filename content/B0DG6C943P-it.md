@@ -28,8 +28,8 @@ average: '2.09'
 
 ℹ️:
 
-- INGREDIENTI - Biscotti con morbida pasta frolla, farcitura di lamponi, mirtilli e amarene. Senza olio di palma, con farina da agricoltura sostenibile
 - MULINO BIANCO - Al Mulino Bianco si ricerca da sempre la qualità. Biscotti, Dolcetti, Merendine, Pani e Snack per accompagnarti in ogni momento della giornata
+- INGREDIENTI - Biscotti con morbida pasta frolla, farcitura di lamponi, mirtilli e amarene. Senza olio di palma, con farina da agricoltura sostenibile
 - CUOR DI BOSCO - I Cuor di Bosco sono scrigni di fragrante pasta frolla ripieni di farcitura di lamponi, mirtilli e avena
 - BISCOTTI ALLA FRUTTA: scopri tutti i Biscotti alla Frutta di Mulino Bianco. La gamma include Cuor di Mela, Settembrini e Cuor di Bosco: tre biscotti frollini golosi, con un delizioso ripieno alla frutta
 - PER LA TUA COLAZIONE E SNACK - Ideali per la tua colazione e snack, danno un piacere intenso fin dal primo morso

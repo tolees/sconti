@@ -30,8 +30,8 @@ average: '262.5'
 
 - AirPlay2 + Android Screen Sharing
 - Audio Dolby Atmos con Bluetooth
-- QLED Display
 - Hisense Smart TV QLED 43" 4K TV 43E7DS
+- QLED Display
 - Smart TV VIDAA con +1000 APP
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

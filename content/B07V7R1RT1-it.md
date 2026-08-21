@@ -28,9 +28,9 @@ average: '28.1'
 
 ℹ️:
 
-- Letichetta cult italiana
-- Classica sneaker Fila con intersuola in EVA
 - Loghi Fila classici ricamati
+- Classica sneaker Fila con intersuola in EVA
+- Letichetta cult italiana
 - Chiusura: stringata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

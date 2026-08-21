@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Punta a scalpello
 - FUBAR 2 - 4 utensili in 1
-- Lunghezza cm 380
 - Impugnatura rivestita in materiale morbido
+- Lunghezza cm 380
+- Punta a scalpello
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000WCFZN8{{</world>}}

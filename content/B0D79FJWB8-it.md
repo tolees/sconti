@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Controller Nintendo Switch con una batteria ricaricabile interna: fino a 20 ore di ricarica*
-- Garanzia limitata di due anni - visita PowerA.com/Support
-- Calotta ergonomica compatta con pulsanti e controlli di dimensioni standard
-- Cavo di ricarica USB-C da 6 piedi (1,8 m) incluso
-- Controller di gioco senza fili con licenza ufficiale per Nintendo Switch, Nintendo Switch (modello OLED) e Nintendo Switch Lite
-- Dispone di controlli di movimento* e pulsanti di gioco avanzato mappabili
 - Luci a LED per numero del giocatore, mappatura dei pulsanti e avviso di batteria scarica
+- Garanzia limitata di due anni - visita PowerA.com/Support
+- Controller Nintendo Switch con una batteria ricaricabile interna: fino a 20 ore di ricarica*
+- Cavo di ricarica USB-C da 6 piedi (1,8 m) incluso
+- Dispone di controlli di movimento* e pulsanti di gioco avanzato mappabili
+- Calotta ergonomica compatta con pulsanti e controlli di dimensioni standard
 - Controller senza fili con tecnologia Bluetooth 5.0
+- Controller di gioco senza fili con licenza ufficiale per Nintendo Switch, Nintendo Switch (modello OLED) e Nintendo Switch Lite
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D79FJWB8{{</world>}}

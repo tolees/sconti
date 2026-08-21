@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- SPRAY ANTI-CRESPO PER CAPELLI LUCENTI: Il nostro spray senza risciacquo leviga la cuticola, controlla il crespo e aumenta la lucentezza naturale per capelli lisci, radiosi e forti
-- SPRAY PROTETTIVO PER CAPELLI: Il nostro spray districante contiene un complesso di filtri UV per proteggere contro i raggi solari dannosi, prevenendo sbiadimento del colore e danni
-- Scuoti e spruzza su capelli umidi o asciutti. Non serve risciacquare! Portalo con te nella borsa e spruzzalo dopo ogni bagno o esposizione solare
 - IDRATAZIONE LEGGERA: Goditi unidratazione che non unge e che mantiene i capelli freschi, morbidi e sani. Ideale per le giornate estive umide e soleggiate
+- Scuoti e spruzza su capelli umidi o asciutti. Non serve risciacquare! Portalo con te nella borsa e spruzzalo dopo ogni bagno o esposizione solare
+- SPRAY PROTETTIVO PER CAPELLI: Il nostro spray districante contiene un complesso di filtri UV per proteggere contro i raggi solari dannosi, prevenendo sbiadimento del colore e danni
 - Visita il sito it.pg.com per la composizione della confezione e le modalità di smaltimento
+- SPRAY ANTI-CRESPO PER CAPELLI LUCENTI: Il nostro spray senza risciacquo leviga la cuticola, controlla il crespo e aumenta la lucentezza naturale per capelli lisci, radiosi e forti
 - NUTRE E RIPARA: Arricchita con Pro-Vitamina B5 e Vitamina E, questa formula ripara e rinforza in profondità i capelli, migliorando resistenza e vitalità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

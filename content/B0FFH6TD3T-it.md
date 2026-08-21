@@ -28,11 +28,11 @@ average: '7.99'
 
 ℹ️:
 
-- ETÀ CONSIGLIATA PER L’ASCOLTO: 5-10 anni, AREE DI SVILUPPO: Apprendimento, Pensiero e Comunicazione. STIMOLA IL LINGUAGGIO: Uno studio dellUniversità di Trieste ha mostrato un miglioramento del 46% nel vocabolario di bambini in età prescolare che ascoltano contenuti audio con il Raccontastorie FABA per unora a settimana.
-- STORIE DI PIRATI E CORSARI: Quattro racconti di pirati e corsari che hanno fatto la storia, liberamente ispirati ad alcuni dei più celebri romanzi davventura. Le straordinarie avventure di Barbanera, Sir Francis Drake, Henry Morgan e Mary Read regaleranno a bambini e bambine avventure indimenticabili.
-- DURATA: circa 35 minuti, EDITORE: Faba
 - DISCO SONORO da posizionare su FABA Raccontastorie o su FABA+ grazie al quale bambini e bambine possono ascoltare in autonomia storie, canzoni e filastrocche.
 - COMPATIBILITÀ: compatibile con entrambi i Raccontastorie FABA. Il Raccontastorie non è incluso. Per ascoltare il contenuto, se hai FABA Raccontastorie aggiornalo con lapp per computer MyFaba, se hai FABA+ connettiti al Wi-Fi.
+- STORIE DI PIRATI E CORSARI: Quattro racconti di pirati e corsari che hanno fatto la storia, liberamente ispirati ad alcuni dei più celebri romanzi davventura. Le straordinarie avventure di Barbanera, Sir Francis Drake, Henry Morgan e Mary Read regaleranno a bambini e bambine avventure indimenticabili.
+- DURATA: circa 35 minuti, EDITORE: Faba
+- ETÀ CONSIGLIATA PER L’ASCOLTO: 5-10 anni, AREE DI SVILUPPO: Apprendimento, Pensiero e Comunicazione. STIMOLA IL LINGUAGGIO: Uno studio dellUniversità di Trieste ha mostrato un miglioramento del 46% nel vocabolario di bambini in età prescolare che ascoltano contenuti audio con il Raccontastorie FABA per unora a settimana.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FFH6TD3T{{</world>}}

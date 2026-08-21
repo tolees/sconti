@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Snack salato, vegano
 - Gustose, irresistibili e divertenti!
+- Snack salato, vegano
 - Il primo snack salato dall’iconica forma a paraboloide iperbolico!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

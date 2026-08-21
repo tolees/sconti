@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Applica il prodotto sulla pelle pulita e asciutta
 - Il naturale fenomeno della sudorazione viene rispettato senza essere bloccato; i pori non vengono ostruiti, la cute può respirare
+- Applica il prodotto sulla pelle pulita e asciutta
 - Questo Deodorante Roll-on alla Verbena e agli Agrumi neutralizza i cattivi odori profumando la pelle con una fragranza fresca e agrumata. È formulato senza sali di alluminio né alcool
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Special pack composto da: 1 btg; akashi Meisei e 2 bicchieri da degustazione
-- 40% Vol
 - Prodotto che rispetta le regole di produzione
+- 40% Vol
 - 55% Whisky giapponese di cereali, 45% orzo maltato; doppia distillazione attraverso 2 “pot still”; invecchiamento tra i 3 e 4 anni in botti hogshead
+- Special pack composto da: 1 btg; akashi Meisei e 2 bicchieri da degustazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09LR4X1L8{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Preparazione Semplice: 1) Mescola il preparato con burro e acqua, stendi la pasta e ritaglia i cuori con lo stampino incluso; 2) Cuoci in forno (elettrico 180°C, ventilato 160°C, a gas 190°C) e cuoci sul ripiano medio, alto per forno a gas, per circa 12-13 minuti; 3) Una volta raffreddati, prepara la glassa rosa con acqua calda e decora a piacere con la matita al cioccolato.
+- Il Kit Romantico: Love Cookies cameo è un preparato completo per realizzare biscotti di pasta frolla a forma di cuore, ideali per San Valentino o per un dolce pensiero. La confezione contiene tutto loccorrente per creare messaggi damore commestibili: preparato per biscotti e glassa rosa, matita al gusto cioccolato e uno stampino a forma di cuore.
 - Consigli per il risultato perfetto: Lascia raffreddare bene i biscotti prima di decorarli. Se la glassa rosa risulta troppo asciutta durante la stesura, aggiungi qualche goccia dacqua. I biscotti si conservano meglio se tenuti coperti in luogo fresco e asciutto.
+- Preparazione Semplice: 1) Mescola il preparato con burro e acqua, stendi la pasta e ritaglia i cuori con lo stampino incluso; 2) Cuoci in forno (elettrico 180°C, ventilato 160°C, a gas 190°C) e cuoci sul ripiano medio, alto per forno a gas, per circa 12-13 minuti; 3) Una volta raffreddati, prepara la glassa rosa con acqua calda e decora a piacere con la matita al cioccolato.
 - Tu devi aggiungere: Per limpasto ti servono solo 75 g di burro a temperatura ambiente e 10 ml di acqua (circa 1 cucchiaio). Per la glassa servirà solo 25 ml di acqua calda (circa 2 cucchiai e mezzo).
 - Cosa trovi nella confezione: Dentro trovi 1 busta di preparato per biscotti, 1 busta di preparato per glassa rosa, 1 matita di glassa al gusto cioccolato e 1 stampino a forma di cuore. Il contenuto della confezione è studiato per ottenere circa 14 biscotti.
-- Il Kit Romantico: Love Cookies cameo è un preparato completo per realizzare biscotti di pasta frolla a forma di cuore, ideali per San Valentino o per un dolce pensiero. La confezione contiene tutto loccorrente per creare messaggi damore commestibili: preparato per biscotti e glassa rosa, matita al gusto cioccolato e uno stampino a forma di cuore.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GHSLWQMD{{</world>}}

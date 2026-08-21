@@ -29,8 +29,8 @@ average: '38.262'
 ℹ️:
 
 - Eclass-No. 21040302
-- EAN-Code 4042146224946
 - Numero di tariffa doganale 8203 4000
+- EAN-Code 4042146224946
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B001NYUZZM{{</world>}}

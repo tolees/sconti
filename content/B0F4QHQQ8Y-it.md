@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Maglietta a girocollo
 - Logo ricamato sul petto
+- Maglietta a girocollo
 - Maglietta a maniche corte
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Finitura fosfatata nera
 - Chiave regolabile a rullino
 - Lunghezza mm 200
-- Finitura fosfatata nera
 - Apertura mm 29
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

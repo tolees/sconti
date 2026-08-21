@@ -28,11 +28,11 @@ average: '1.87'
 
 ℹ️:
 
-- TUC ti accompagna sia a casa che fuori con tantissimi gusti e forme
+- Con un pizzico di sale e cotte al forno per darti una consistenza fine e un sapore insuperabile
 - TUC Crisp è ideale per laperitivo, mentre guardi una partita o un film.
+- TUC ti accompagna sia a casa che fuori con tantissimi gusti e forme
 - Tuc Crisp, la linea di sfogliatine croccanti a base di patate ... irresistibilmente fini e fragranti!
 - Fatto con 100% Grano Italiano, prodotto in Italia nello stabilimento di Capriata D’Orba in Piemonte.
-- Con un pizzico di sale e cotte al forno per darti una consistenza fine e un sapore insuperabile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07GT9Q9JY{{</world>}}

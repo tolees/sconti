@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Schiuma Detergente: Rimuove efficacemente il sebo in eccesso, Ripristina la barriera protettiva della pelle; Crema Idratante SPF 30: Pelle liscia e idratata fino a 24h, Protezione dai raggi UV
 - Detergente: Usare mattina, sera e quando necessario, massaggiando sulla pelle umida e risciacquare; Crema Idratante SPF30: Applica il prodotto ogni volta che ne senti il bisogno
 - Contenuto: 1x Schiuma Detergente Seboregolatrice, Per Viso e Corpo, Con 3 Ceramidi, 236 ml + 1x Crema Idratante Viso SPF 30, Per Pelli da Normali a Secche, 52 ml
+- Schiuma Detergente: Rimuove efficacemente il sebo in eccesso, Ripristina la barriera protettiva della pelle; Crema Idratante SPF 30: Pelle liscia e idratata fino a 24h, Protezione dai raggi UV
 - Formula Schiuma Detergente: Ipoallergenica, Con 3 Ceramidi, Acido Ialuronico e Niacinamide; Formula Crema Idratante SPF30: Ipoallergenica, Con 3 Ceramidi e Acido Ialuronico
 - Schiuma Detergente che pulisce in profondità la pelle, donandole freschezza; Crema Viso Idratante SPF30 che ripristina la barriera protettiva della pelle, Per una sensazione didratazione prolungata
 

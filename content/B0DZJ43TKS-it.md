@@ -29,10 +29,10 @@ average: '21.19'
 ℹ️:
 
 - GRADAZIONE ALCOLICA: 5.1 % vol
+- PERONI GRAN RISERVA BIANCA: birra bianca ad alta fermentazione dal colore biondo torbido, da servire a 6-8° C in calice per birre speciali
 - IDEALE CON: carni di maiale, insalate, dolci
 - GUSTO: aromatico e fresco, piacevolmente beverino con un aroma fruttato e speziato con un sentore di chiodi di garofano
 - FORMATO: cassa di birra con 24 bottiglie da 33 cl
-- PERONI GRAN RISERVA BIANCA: birra bianca ad alta fermentazione dal colore biondo torbido, da servire a 6-8° C in calice per birre speciali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DZJ43TKS{{</world>}}

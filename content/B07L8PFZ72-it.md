@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- CAPSULE IPERESPRESSO: Utilizzabili con il sistema proprietario Iperespresso, garantiscono unesperienza di caffè come al bar. Grazie al processo di estrazione, gli aromi vengono estratti al meglio, creando una crema densa e persistente
-- DECAFFEINATO: Il profilo di tostatura Decaffeinato si caratterizza per delicate note di caramello, cioccolato, pan tostato e un retrogusto dolce. Caffeina inferiore a 0.1%
-- IL NOSTRO IMPEGNO: Selezioniamo solo l’1% dei chicchi di Arabica per garantire zero difetti nella nostra tazzina, grazie alle relazioni instaurate generazione dopo generazione con i coltivatori
 - FORMATO: Ogni confezione contiene 18 capsule per un totale di 108 capsule Iperespresso. L’atmosfera protettiva preserva gli aromi del caffè, mantenendo intatta la sua fragranza fino al momento dellapertura
+- IL NOSTRO IMPEGNO: Selezioniamo solo l’1% dei chicchi di Arabica per garantire zero difetti nella nostra tazzina, grazie alle relazioni instaurate generazione dopo generazione con i coltivatori
 - GUSTO: Il caffè è 100% arabica, adatto per gli amanti del caffè dal gusto equilibrato
+- DECAFFEINATO: Il profilo di tostatura Decaffeinato si caratterizza per delicate note di caramello, cioccolato, pan tostato e un retrogusto dolce. Caffeina inferiore a 0.1%
+- CAPSULE IPERESPRESSO: Utilizzabili con il sistema proprietario Iperespresso, garantiscono unesperienza di caffè come al bar. Grazie al processo di estrazione, gli aromi vengono estratti al meglio, creando una crema densa e persistente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07L8PFZ72{{</world>}}

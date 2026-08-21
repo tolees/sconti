@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Alan Wake 2 Deluxe Edition - PS5'
-date: 2026-05-22 01:49:12
+date: 2026-08-20 22:56:13
 image: 'https://m.media-amazon.com/images/I/51QaNmshVtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0D66F2YQ4-it Alan Wake 2 Deluxe Edition - PS5'
 sku: 'B0D66F2YQ4-it'
 tags: [ '🇮🇹', ]
-actualPrice: 29.15 EUR
+actualPrice: 26.34 EUR
 currency: EUR
-price: 29.15
-comparePrice: 59.99 EUR
+price: 26.34
+comparePrice: 30.99 EUR
 prodname: 'Alan Wake 2 Deluxe Edition - PS5'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0D66F2YQ4/?tag=tolees00-21'
-descuento: '51.41'
-average: '32.2574999999999'
+descuento: '15.00'
+average: '31.0739999999999'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Vesti i panni di due personaggi: Scopri le storie di Alan Wake e di Saga Anderson e assisti allo svolgersi degli eventi da due prospettive diverse. Alterna tra la corsa per la sopravvivenza di Anderson per risolvere il caso e il disperato tentativo di Wake di riscrivere la realtà per scappare dalle profondità del Luogo buio
-- Risolvi un terribile mistero: Quella che sembra una semplice indagine per omicidio in una cittadina si trasforma presto in un incubo. Scopri da dove proviene loscurità sovrannaturale in questa storia horror psicologica ricca di suspense e colpi di scena inaspettati
-- La luce ti salverà: Con risorse limitate, affronta potenti nemici sovrannaturali in disperati combattimenti ravvicinati. Servirà più di una pistola per sopravvivere: la luce è larma definitiva nella battaglia contro loscurità e sarà il tuo rifugio quando ti troverai in pericolo
 - Esplora due mondi: Scopri due mondi meravigliosi ma terrificanti, ognuno popolato da diversi personaggi e da minacce mortali. Scopri i magnifici panorami di Cauldron Lake nel nordovest del Pacifico e le suggestive cittadine di Bright Falls e Watery. Dallaltro lato, cerca di fuggire dal paesaggio urbano da incubo del Luogo buio
+- La luce ti salverà: Con risorse limitate, affronta potenti nemici sovrannaturali in disperati combattimenti ravvicinati. Servirà più di una pistola per sopravvivere: la luce è larma definitiva nella battaglia contro loscurità e sarà il tuo rifugio quando ti troverai in pericolo
+- Risolvi un terribile mistero: Quella che sembra una semplice indagine per omicidio in una cittadina si trasforma presto in un incubo. Scopri da dove proviene loscurità sovrannaturale in questa storia horror psicologica ricca di suspense e colpi di scena inaspettati
+- Vesti i panni di due personaggi: Scopri le storie di Alan Wake e di Saga Anderson e assisti allo svolgersi degli eventi da due prospettive diverse. Alterna tra la corsa per la sopravvivenza di Anderson per risolvere il caso e il disperato tentativo di Wake di riscrivere la realtà per scappare dalle profondità del Luogo buio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D66F2YQ4{{</world>}}

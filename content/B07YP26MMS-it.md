@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- INFORMAZIONI TECNICHE: Set di pastiglie freno, freno a disco, Numero WVA: 22091, Numero WVA: 22093, Numero WVA: 22092, Lunghezza contatto di avvertimento mm: 150, Sistema frenante: Brembo, Contatto di avvertimento usura: incluso contatto di avvertimento usura. Contatto di segnalazione usura, Numero di indicatori di usura [per asse]: 2, Altezza mm: 77,1, Larghezza mm: 114,5, Spessore mm: 15,2
 - ATTENZIONE - Per verificare la compatibilità di questo ricambio con il vostro veicolo, utilizzate i dati del vostro veicolo e rispettate eventuali restrizioni/criteri esistenti.
 - COMPATIBILE CON: ALFA ROMEO GIULIA
-- INFORMAZIONI TECNICHE: Set di pastiglie freno, freno a disco, Numero WVA: 22091, Numero WVA: 22093, Numero WVA: 22092, Lunghezza contatto di avvertimento mm: 150, Sistema frenante: Brembo, Contatto di avvertimento usura: incluso contatto di avvertimento usura. Contatto di segnalazione usura, Numero di indicatori di usura [per asse]: 2, Altezza mm: 77,1, Larghezza mm: 114,5, Spessore mm: 15,2
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07YP26MMS{{</world>}}

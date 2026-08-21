@@ -28,12 +28,12 @@ average: '18.305'
 
 ℹ️:
 
-- Include un morbido composto stampabile
 - Divertiti ad evitare la cacca bendato
 - Anche gli adulti vorranno giocare
-- Una variante super divertente e colorata del classico gioco in scatola Non Calpestarla
+- Include un morbido composto stampabile
 - Gioca con i tuoi amici o anche da solo
 - Versione Italiana
+- Una variante super divertente e colorata del classico gioco in scatola Non Calpestarla
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07N9HSH1F{{</world>}}

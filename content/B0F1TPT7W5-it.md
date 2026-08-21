@@ -28,10 +28,10 @@ average: '4.79'
 
 ℹ️:
 
-- Punte durevoli e resistenti alla pressione: La robusta punta in fibra permette di disegnare con precisione senza che le punte si sfilaccino sotto una forte pressione
 - Con simpatici adesivi di dinosauri: il set non contiene solo pennarelli, ma anche coloratissimi adesivi di dinosauri che rendono il crafting ancora più entusiasmante e stimolano la fantasia dei bambini
-- Sicuro e rispettoso dellambiente: linchiostro dei pennarelli è a base dacqua e non tossico, quindi sicuro per bambini e adulti
 - Colori brillanti ed effetti speciali: Con i pennarelli luminosi è possibile creare opere darte di grande effetto: i colori metallici e al neon conferiscono alle opere una lucentezza speciale
+- Sicuro e rispettoso dellambiente: linchiostro dei pennarelli è a base dacqua e non tossico, quindi sicuro per bambini e adulti
+- Punte durevoli e resistenti alla pressione: La robusta punta in fibra permette di disegnare con precisione senza che le punte si sfilaccino sotto una forte pressione
 - Set di pennarelli colorati per menti creative: il set contiene 18 pennarelli in vivaci colori standard, oltre a 3 pennarelli metallizzati e 3 pennarelli al neon, ideali per tutti coloro che amano disegnare, dipingere ed essere creativi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

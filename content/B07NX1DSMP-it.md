@@ -28,11 +28,11 @@ average: '14.116'
 
 ℹ️:
 
-- Confezione da 12 AAA batterie ricaricabili ad alta capacità
 - Dopo 3 anni di conservazione, mantiene 65% della carica originale
-- Capacità: 850mAh, minimo 800mAh
 - NOTA: Per evitare danni o un rapido esaurimento delle batterie, NON MISCHIARE: batterie non ricaricabili con ricaricabili; batterie completamente cariche con batterie a carica medio-bassa; batterie nuove con vecchie; batterie con capacità (mAh) diverse; marche diverse.
+- Confezione da 12 AAA batterie ricaricabili ad alta capacità
 - Pre-caricate tramite energia solare
+- Capacità: 850mAh, minimo 800mAh
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07NX1DSMP{{</world>}}

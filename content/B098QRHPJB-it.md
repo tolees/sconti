@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Lame in titanio, accessori intercambiabili per raggiungere tutte le zone
 - Lama principale da 20 mm per una rifinitura di precisione
-- Testina principale con pettine regolabile 1- 5 mm
-- Batteria, inclusa pila 1 x AA, resistente allacqua, astuccio da viaggio
 - Accessorio rotante per naso e orecchie + rifinitore lineare per sopracciglia (2 pettini da 2 e 4 mm)
+- Batteria, inclusa pila 1 x AA, resistente allacqua, astuccio da viaggio
+- Testina principale con pettine regolabile 1- 5 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B098QRHPJB{{</world>}}

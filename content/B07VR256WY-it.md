@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Le originali: le caramelle gommose per eccellenza: uniche, originali, travolgenti, colorate e irresistibilmente gustose!
 - Qualita’: materie prime di prima classe e un controllo meticoloso dell’intero processo di produzione con tecnologia ai massimi livelli: ecco la filosofia haribo!
-- Lunga tradizione: in italia dai primi anni 70 è oggi simbolo di gusto e qualità e conosciuta a livello mondiale.
+- Le originali: le caramelle gommose per eccellenza: uniche, originali, travolgenti, colorate e irresistibilmente gustose!
 - Sciroppo di glucosio, zucchero e destrosio, agenti gelificanti
+- Lunga tradizione: in italia dai primi anni 70 è oggi simbolo di gusto e qualità e conosciuta a livello mondiale.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07VR256WY{{</world>}}

@@ -28,9 +28,9 @@ average: '112.9'
 
 ℹ️:
 
-- Legendary Duophonic Analog Synthesizer with Dual Vcos, 4 Mixable Waveforms, External Signal Processor
 - Behringer
 - CAT
+- Legendary Duophonic Analog Synthesizer with Dual Vcos, 4 Mixable Waveforms, External Signal Processor
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0863FCV3S{{</world>}}

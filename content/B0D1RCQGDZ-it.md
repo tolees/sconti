@@ -29,9 +29,9 @@ average: '6.19'
 ℹ️:
 
 - DA ASSUMERE QUOTIDIANAMENTE: si consiglia l’assunzione di 1 bustina al giorno. Sciogliere il contenuto di 1 bustina in 200 ml di acqua o altro liquido non caldo
+- CARATTERISTICHE: fonte giornaliera di 3 g di Creatina, che incrementa le prestazioni fisiche. La formulazione è arricchita con 2 g dellaminoacido L-Arginina e 400 mg di Beta-Alanina. Senza zuccheri
 - EQUILIBRA: da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto dellequilibrio tra rispetto, efficacia, benessere e bellezza
 - PER IL NORMALE MATABOLISMO ENERGETICO: Magnesio, Vitamina C, Ferro contribuiscono alla riduzione della stanchezza e dell’affaticamento, con Vitamine C, B1, e Magnesio
-- CARATTERISTICHE: fonte giornaliera di 3 g di Creatina, che incrementa le prestazioni fisiche. La formulazione è arricchita con 2 g dellaminoacido L-Arginina e 400 mg di Beta-Alanina. Senza zuccheri
 - PER RIDURRE STANCHEZZA E AFFATICAMENTO: integratore alimentare a base di Ferro, Magnesio, Creatina, Arginina, Beta-Alanina, gusto arancia e limone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

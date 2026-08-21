@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Lavabili in lavastoviglie.
 - Taglia capsule per bottiglie di vino
 - Ideale per rimuovere facilmente e con precisione le capsule dalle bottiglie di vino
-- Lavabili in lavastoviglie.
 - Posizionare il taglia capsule sul collo della bottiglia e muoverlo lentamente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

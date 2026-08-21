@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Raffreddamento costante: La potente ventola a controllo PWM, con un intervallo di velocità da 480 a 2.400 giri/min, è in grado di funzionare in base alle necessità e garantisce una portata d’aria massima di 107,2 m³/h con pressione statica di 3,8 mm-H2O.
 - Espandi il tuo ecosistema iCUE LINK: usa altri cavi per collegare più dispositivi come ventole, AIO e altro al tuo sistema iCUE LINK esistente.
 - Esclusiva modalità di illuminazione Time Warp: I 34 LED RGB distribuiti in due zone luminose separate su ogni lato e gestite attraverso il controller iCUE LINK permettono di usufruire di esclusive modalità di illuminazione come Time Warp con effetto stroboscopico.
-- Funzionamento silenzioso grazie al cuscinetto magnetico a cupola: Il cuscinetto magnetico a cupola di CORSAIR vanta le performance della tecnologia ML e riduce ulteriormente l’attrito alle basse velocità di rotazione delle ventole.
 - Flessibili opzioni di posizionamento: con un diametro di soli 5 mm e teste del cavo reversibili per semplificare le connessioni, potrai posizionare i tuoi dispositivi iCUE LINK nel tuo case con facilità.
+- Raffreddamento costante: La potente ventola a controllo PWM, con un intervallo di velocità da 480 a 2.400 giri/min, è in grado di funzionare in base alle necessità e garantisce una portata d’aria massima di 107,2 m³/h con pressione statica di 3,8 mm-H2O.
+- Funzionamento silenzioso grazie al cuscinetto magnetico a cupola: Il cuscinetto magnetico a cupola di CORSAIR vanta le performance della tecnologia ML e riduce ulteriormente l’attrito alle basse velocità di rotazione delle ventole.
 - Trasmette il segnale digitale e la corrente fino a 7 A: trasporta i dati e l’alimentazione ai tuoi dispositivi.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

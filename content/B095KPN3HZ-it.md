@@ -28,11 +28,11 @@ average: '11.29'
 
 ℹ️:
 
-- Profilo sensoriale: caffè dal gusto deciso e corposo con note di pane tostato e biscotto
-- Formato: Confezione da 100 Cialde da 44 mm
 - Intensità: 12
+- Formato: Confezione da 100 Cialde da 44 mm
 - Made in Italy: Gruppo Gimoka - Caffè per passione sin dagli anni 80, si impegna attivamente per sviluppare soluzioni di packaging facilmente riciclabili, compostabili ed ecosostenibili
 - Attenzione allambiente: Cialde Bio Based, prodotte con materiale derivante per l80% da origine vegetale
+- Profilo sensoriale: caffè dal gusto deciso e corposo con note di pane tostato e biscotto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B095KPN3HZ{{</world>}}

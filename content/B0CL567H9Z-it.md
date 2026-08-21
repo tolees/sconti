@@ -28,12 +28,12 @@ average: '39.0'
 
 ℹ️:
 
+- Almeno il 20% del materiale proviene da fonti riciclate
 - Calzata regolare
-- Tomaia in mesh traspirante con rivestimenti in materiale sintetico
-- Fodera in tessuto
 - Suola in gomma
 - Intersuola Bounce
-- Almeno il 20% del materiale proviene da fonti riciclate
+- Tomaia in mesh traspirante con rivestimenti in materiale sintetico
+- Fodera in tessuto
 - Chiusura con lacci
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -29,11 +29,11 @@ average: '24.95'
 ℹ️:
 
 - Passanti per cintura
-- Tinta unita
 - Chiusura lampo e bottone
-- Composizione: 64% viscosa; 31% poliestere; 5% elastan
+- Tinta unita
 - Chino con tasche laterali
 - Pantaloni classici skinny
+- Composizione: 64% viscosa; 31% poliestere; 5% elastan
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07WC85F1L{{</world>}}

@@ -28,9 +28,9 @@ average: '13.945'
 
 ℹ️:
 
-- Comanda la tua nave, la Jackdaw, e incuti timore con la sua sola comparsa
-- Scopri il più vasto e ricco mondo che sia mai stato creato nelluniverso di Assassins Creed; da Kingston a Nassau, esplora oltre 75 ambientazioni uniche dove potrai diventare un vero pirata
 - Vesti i panni di Edward Kenway, un capitano pirata tanto carismatico quanto brutale, addestrato dagli stessi Assassini
+- Scopri il più vasto e ricco mondo che sia mai stato creato nelluniverso di Assassins Creed; da Kingston a Nassau, esplora oltre 75 ambientazioni uniche dove potrai diventare un vero pirata
+- Comanda la tua nave, la Jackdaw, e incuti timore con la sua sola comparsa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07FB17ZK9{{</world>}}

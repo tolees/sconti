@@ -28,9 +28,9 @@ average: '80.74'
 
 ℹ️:
 
+- Taglia 52/21/145
 - Colore 038 MATTE LIGHT GUNMETAL
 - 2 anni di garanzia internazionale
-- Taglia 52/21/145
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CDCGB91G{{</world>}}

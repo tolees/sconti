@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Long Sleeves
-- Bomber jacket
-- materialFabricComposition: Outer: 100% Polyester; Lining: 100% Polyester; Sleeve: 100% Polyester; Rib: 100% Polyester
 - Regular Fit
+- materialFabricComposition: Outer: 100% Polyester; Lining: 100% Polyester; Sleeve: 100% Polyester; Rib: 100% Polyester
+- Bomber jacket
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08KXWQGKT{{</world>}}

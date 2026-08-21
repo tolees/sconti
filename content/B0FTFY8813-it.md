@@ -28,11 +28,11 @@ average: '18.99'
 
 ℹ️:
 
-- Senza coloranti e conservanti aggiunti
-- con Pollo
-- Contiene tutti i nutrienti essenziali di cui ha bisogno il tuo cucciolo
-- Alimento umido, completo ed equilibrato, per cani adulti di taglia media e grande (>11 kg) a partire dai 12 mesi di vita
 - Con Ingredienti naturali
+- Alimento umido, completo ed equilibrato, per cani adulti di taglia media e grande (>11 kg) a partire dai 12 mesi di vita
+- con Pollo
+- Senza coloranti e conservanti aggiunti
+- Contiene tutti i nutrienti essenziali di cui ha bisogno il tuo cucciolo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FTFY8813{{</world>}}

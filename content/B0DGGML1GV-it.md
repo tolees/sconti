@@ -28,13 +28,13 @@ average: '216.0'
 
 ℹ️:
 
-- Forno Elettrico Statico
 - Gas Safety
 - Piano con 4 bruciatori a gas e griglie a piattina
-- Cucina 50X50
-- Controllo Meccanico
 - Colore bianco
+- Cucina 50X50
 - Classe A
+- Controllo Meccanico
+- Forno Elettrico Statico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DGGML1GV{{</world>}}

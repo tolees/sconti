@@ -30,8 +30,8 @@ average: '8.82'
 
 - Con cerniera apribile e fondo estraibile
 - Resistente ad alte temperature
-- Non lavare in lavastoviglie
 - Tortiera apribile con rivestimento antiaderente di ottima qualità
+- Non lavare in lavastoviglie
 - Adatta all’uso in forno elettrico, a gas e ad aria calda
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

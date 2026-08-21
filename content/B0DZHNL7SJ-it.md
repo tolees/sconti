@@ -28,12 +28,12 @@ average: '10.95'
 
 ℹ️:
 
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
-- Garantisce la massima tollerabilità, ideale anche per la pelle delicata dei bambini dai 9 anni in su.
-- Neutro Roberts da più di 100 anni si prende cura della pelle, ogni giorno. Neutro Roberts. Restituire, ogni giorno
-- Formula deodorante senza alcool e senza sali di alluminio, dermatologicamente testata. Formato stick. Efficacia 48h
-- Con puro olio di glicerina, studiato per restituire alla pelle la sua naturale idratazione e proteggerla ogni giorno.
 - Formula studiata per minimizzare il rischio di allergie. Testato al Nichel.
+- Con puro olio di glicerina, studiato per restituire alla pelle la sua naturale idratazione e proteggerla ogni giorno.
+- Garantisce la massima tollerabilità, ideale anche per la pelle delicata dei bambini dai 9 anni in su.
+- Formula deodorante senza alcool e senza sali di alluminio, dermatologicamente testata. Formato stick. Efficacia 48h
+- Neutro Roberts da più di 100 anni si prende cura della pelle, ogni giorno. Neutro Roberts. Restituire, ogni giorno
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DZHNL7SJ{{</world>}}

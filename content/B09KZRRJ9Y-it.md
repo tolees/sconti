@@ -29,8 +29,8 @@ average: '183.323333333333'
 ℹ️:
 
 - Grazie al design pieghevole è facile da riporre
-- La Base per Sedile Next Level Racing consente di unire il supporto al sedile
 - Ampia gamma di regolazione per volante e pedali
+- La Base per Sedile Next Level Racing consente di unire il supporto al sedile
 - Supporto per la leva del cambio e freno a mano incluso, posizionabile su entrambi i lati del supporto con regolazione dell’altezza
 - Compatibile con il Sedile GT Next Level Racing e trasformabile in una postazione completa
 

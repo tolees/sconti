@@ -28,10 +28,10 @@ average: '81.8592307692309'
 
 ℹ️:
 
-- Canalizza la tua Forza creativa per ricreare il casco da cacciatore di premi indossato dalla Principessa Leia per entrare nel Palazzo di Jabba the Hutt in, Il ritorno del Jedi.
-- - Il casco è accompagnato da un supporto in mattoni e da un cartello.
 - Numero di pezzi: 670
 - Il casco della Principessa Leia (Boushh) - Lego 75351.
+- - Il casco è accompagnato da un supporto in mattoni e da un cartello.
+- Canalizza la tua Forza creativa per ricreare il casco da cacciatore di premi indossato dalla Principessa Leia per entrare nel Palazzo di Jabba the Hutt in, Il ritorno del Jedi.
 - - Dimensioni del modello: 11 x 14 x 17 cm (lunghezza x larghezza x altezza)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '11.1'
 
 ℹ️:
 
+- Vasta gamma di colori che permette di scegliere il tovagliolo ideale per ogni occasione, coordinandolo con larredo o il tema della serata: colori energici e brillanti o discreti e raffinati
 - I tovaglioli Fato di colore giallo si presentano piegati in 4, con un formato aperto del tovagliolo di 24x24
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
 - La confezione contiene 100 tovaglioli in carta a 2 veli. Carta certificata FSC a testimonianza del rispetto di rigorosi standard ambientali. Perfetti per te e per il pianeta
-- Vasta gamma di colori che permette di scegliere il tovagliolo ideale per ogni occasione, coordinandolo con larredo o il tema della serata: colori energici e brillanti o discreti e raffinati
 - Express your mood e colora la tua tavola. Qualsiasi sia il tuo stile, Fato lo rende unico
 - Ideali per un aperitivo con gli amici a casa, così come nei locali. Perfetti come sottobicchieri o in accompagnamento a buffet e snack in compagnia
 

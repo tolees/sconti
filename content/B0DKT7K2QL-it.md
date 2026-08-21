@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Gilet da donna in piumino
 - Prodotto di ottima fattura
+- Gilet da donna in piumino
 - Altamente chiuso, senza maniche
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

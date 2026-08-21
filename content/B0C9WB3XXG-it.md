@@ -28,11 +28,11 @@ average: '11.68'
 
 ℹ️:
 
-- È fornito in una confezione appositamente progettata per essere esposta che include alcune immagini del film, tra cui la misteriosa Camera dei Segreti, oltre a numerosi dettagli nascosti che i fan potranno scoprire
 - Ogni personaggio è alto poco più di 6 cm
-- Cerca altri set di personaggi Little People Collector Harry Potter per espandere la tua collezione Wizarding World! Ognuno in vendita separatamente, secondo disponibilità.
-- Set in edizione speciale Little People Collector che celebra il secondo film della serie Harry Potter, Harry Potter e La Camera dei Segreti
+- È fornito in una confezione appositamente progettata per essere esposta che include alcune immagini del film, tra cui la misteriosa Camera dei Segreti, oltre a numerosi dettagli nascosti che i fan potranno scoprire
 - Include Harry Potter con la spada di Grifondoro in mano e la zanna del Basilisco, Ginny Weasley con il diario di Tom Riddle, il giovane Tom Riddle e il Basilisco
+- Set in edizione speciale Little People Collector che celebra il secondo film della serie Harry Potter, Harry Potter e La Camera dei Segreti
+- Cerca altri set di personaggi Little People Collector Harry Potter per espandere la tua collezione Wizarding World! Ognuno in vendita separatamente, secondo disponibilità.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C9WB3XXG{{</world>}}

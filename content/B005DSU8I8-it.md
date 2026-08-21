@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Spigoli argentati
-- Pastelli Giotto dai colori intensi
 - Forma esagonale
 - Semplici da utilizzare
+- Pastelli Giotto dai colori intensi
+- Spigoli argentati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B005DSU8I8{{</world>}}

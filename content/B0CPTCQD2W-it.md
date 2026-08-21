@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Tutte le regole costringono i giocatori a fare qualcosa: Muggisci!, Alzati, Toccati il naso, e lultimo giocatore che lo fa deve pescare una carta.
 - La carta Cambia Gioco è lunico modo per cambiare una regola esistente!
 - È un fantastico regalo per aggiungere una nuova dimensione alle serate in famiglia, alle serate di gioco e alle feste!
 - Il gioco di carte UNO House Rules consente ai giocatori di inventare le proprie regole durante il gioco!
-- Ci possono essere fino a 5 regole alla volta!
-- Tutte le regole costringono i giocatori a fare qualcosa: Muggisci!, Alzati, Toccati il naso, e lultimo giocatore che lo fa deve pescare una carta.
 - I giocatori devono comunque urlare UNO! quando hanno una sola carta!
+- Ci possono essere fino a 5 regole alla volta!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CPTCQD2W{{</world>}}

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Cerniera
 - Casuale
 - Manica lunga
+- Cerniera
 - SCHOTT NYC di qualità dal 1913
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

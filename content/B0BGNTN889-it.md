@@ -28,9 +28,9 @@ average: '14.99'
 
 ℹ️:
 
-- Facile da pulire: componenti adatti per la lavastoviglie, protezione da surriscaldamento, piedini antiscivolo e spia luminosa per la massima sicurezza
-- 2 impostazioni (funzione di mantenimento e fontana), temperatura ottimale per cioccolato sempre liquido grazie al termostato elettronico (48 – 52 °C)
 - Con robusta torre in acciaio inox (3 ripiani) per uno speciale effetto fontana, ciotola riscaldata in acciaio inox per scaldare/mantenere il cioccolato caldo (250-300 g)
+- 2 impostazioni (funzione di mantenimento e fontana), temperatura ottimale per cioccolato sempre liquido grazie al termostato elettronico (48 – 52 °C)
+- Facile da pulire: componenti adatti per la lavastoviglie, protezione da surriscaldamento, piedini antiscivolo e spia luminosa per la massima sicurezza
 - Contenuto della confezione: 1 Bestron fontana di cioccolato, peso: 0,83 kg, dimensioni: 15,5 x 15,5 x 24,5 cm, materiale: plastica/acciaio inossidabile, colore: menta, 60 Watt, ACF300M
 - Fontana di cioccolato decorativa per sciogliere cioccolato e salse fragole, banane, biscotti, ecc. Ideale per spuntini da tavola
 

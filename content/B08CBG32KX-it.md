@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- La forma a due lati si adatta perfettamente a tutti gli scaldacera elettrici e non elettrici
-- Le tart senza stoppino sono facilmente modulabili e miscelabili, per profumare il tuo ambiente come vuoi tu
-- Si scioglie rapidamente, garantendo fino a 8 ore di fragranza
 - Avvolti in dolci sogni… una ninna nanna di aromi che evocano le note degli agrumi unite alla raffinatezza di note ispirate alla vaniglia e alle calde note dell’ambra
+- Le tart senza stoppino sono facilmente modulabili e miscelabili, per profumare il tuo ambiente come vuoi tu
+- La forma a due lati si adatta perfettamente a tutti gli scaldacera elettrici e non elettrici
+- Si scioglie rapidamente, garantendo fino a 8 ore di fragranza
 - Ingredienti ricercati e una cera di qualità premium garantiscono un aroma puro, persistente e avvolgente, ora con una nuova formula che disperde la fragranza ancora più rapidamente di prima*
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

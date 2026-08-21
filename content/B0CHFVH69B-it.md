@@ -28,11 +28,11 @@ average: '96.99'
 
 ℹ️:
 
-- AFFIDABILE: La testa a sfera 494 può sostenere fino a 9 kg ed è adatta a tutti i tipi di fotocamere mirrorless con obiettivi zoom e persino alle reflex digitali di medio formato
-- MASSIME PRESTAZIONI: Il fluido ad alte prestazioni della testa a 3 vie (piastra 200PL PRO inclusa) offre massima fluidità, il controllo dei movimenti e la stabilità a temperature estreme (-30°/+ 70°)
-- VERSATILE: Il kit treppiede è progettato per foto e video, combina precisione e versatilità con caratteristiche uniche durante la lo scatto e la registrazione di video
-- PERSONALIZZABILE: Questo kit per video e foto fornisce 3 vie e una testa a sfera che rispondono allesigenza di un fotografo/videografo creativo di realizzare video e foto con un unico supporto
 - LEGGERO E COMPATTO: La testa a sfera 494 Photo, realizzata in alluminio leggero, è estremamente portatile ma anche robusta, con un design che la rende facile da usare in qualsiasi configurazione
+- VERSATILE: Il kit treppiede è progettato per foto e video, combina precisione e versatilità con caratteristiche uniche durante la lo scatto e la registrazione di video
+- AFFIDABILE: La testa a sfera 494 può sostenere fino a 9 kg ed è adatta a tutti i tipi di fotocamere mirrorless con obiettivi zoom e persino alle reflex digitali di medio formato
+- PERSONALIZZABILE: Questo kit per video e foto fornisce 3 vie e una testa a sfera che rispondono allesigenza di un fotografo/videografo creativo di realizzare video e foto con un unico supporto
+- MASSIME PRESTAZIONI: Il fluido ad alte prestazioni della testa a 3 vie (piastra 200PL PRO inclusa) offre massima fluidità, il controllo dei movimenti e la stabilità a temperature estreme (-30°/+ 70°)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CHFVH69B{{</world>}}

@@ -28,12 +28,12 @@ average: '24.4984615384616'
 
 ℹ️:
 
-- Visita il sito Nestlé per scoprire come le nostre marche sono scese in campo e contribuiscono al raggiungimento degli obiettivi di sostenibilità del Gruppo Nestlé con progetti concreti
-- Caffè espresso dal gusto denso e cremoso, intensità 9/13
 - Capsule originali per macchine NESCAFÉ DOLCE GUSTO
-- 6 confezioni da 16 capsule: 96 capsule totali
 - Caffè torrefatto e macinato ricavato da chicchi di Arabica Sudamericana, Robusta Asiatica e dall Africa Orientale
+- Caffè espresso dal gusto denso e cremoso, intensità 9/13
 - Capsule compatibili con macchina per caffè espresso e altre bevande NESCAFÉ DOLCE GUSTO
+- Visita il sito Nestlé per scoprire come le nostre marche sono scese in campo e contribuiscono al raggiungimento degli obiettivi di sostenibilità del Gruppo Nestlé con progetti concreti
+- 6 confezioni da 16 capsule: 96 capsule totali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00C7N1TQW{{</world>}}

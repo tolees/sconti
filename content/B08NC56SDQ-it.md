@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- 2 batterie incluse
 - Previsioni del tempo
 - Dimensioni: 390 x 240 x 24 mm
-- 2 batterie incluse
 - Visione nitida e luminosa
 - Sensore temperature esterna incluso, rilevazione Temperatura interna
 

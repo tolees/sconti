@@ -28,11 +28,11 @@ average: '19.85'
 
 ℹ️:
 
-- Dimensioni: frontale 140 mm; aste 148 mm; ponte 18 mm; altezza 52,5 mm. Modello Unisex
-- Occhiali da sole realizzati in TR90 con sigillo EMS, considerato il miglior nylon per montature al mondo che offre maggiore flessibilità e resistenza. Anello metallico in acciaio inossidabile privo di nichel che li rende altamente resistenti alla corrosione e molto più forti. Cuscinetti in silicone regolabili.
 - In questo design di occhiali da sole classici, le aste e gli anelli superiori TR90 neri lucidi sono combinati con il ponte e gli anelli inferiori in acciaio inossidabile argento lucido. Le lenti polarizzate grigio scuro completano il look.
-- Prodotto originale Hawkers. La confezione include custodia in microfibra e scatola
 - Occhiali da sole polarizzati: offre una visione senza riflessi e contrasto naturale dei colori. Lenti categoria 3 realizzate con materiale bio tac polarizzato e protezione UV400.
+- Prodotto originale Hawkers. La confezione include custodia in microfibra e scatola
+- Occhiali da sole realizzati in TR90 con sigillo EMS, considerato il miglior nylon per montature al mondo che offre maggiore flessibilità e resistenza. Anello metallico in acciaio inossidabile privo di nichel che li rende altamente resistenti alla corrosione e molto più forti. Cuscinetti in silicone regolabili.
+- Dimensioni: frontale 140 mm; aste 148 mm; ponte 18 mm; altezza 52,5 mm. Modello Unisex
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09RPPZJSD{{</world>}}

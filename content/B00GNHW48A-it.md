@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- INGREDIENTE PRINCIPALE: LAloe Vera del Salento viene lavorata a freddo entro 2 ore dalla raccolta per ridurne l’ossidazione e preservarne intatti tutti i principi attivi idratanti
+- TESTATO: Il prodotto è testato al Nichel Cobalto e Cromo e dermatologicamente testato anche su cute sensibile, con formula vegan ecobio certificata ICEA, senza sapone, Sles e PEG
 - AZIONE: LAloe Vera del Salento contenuta nella formula svolge unazione lenitiva e decongestionante mentre lAcido Lattico di origine naturale regola il pH delle parti intime
 - MODO DUSO: Applicare una piccola quantità sulle parti intime esterne, detergere e risciacquare accuratamente, adatto anche per la cute sensibile
+- INGREDIENTE PRINCIPALE: LAloe Vera del Salento viene lavorata a freddo entro 2 ore dalla raccolta per ridurne l’ossidazione e preservarne intatti tutti i principi attivi idratanti
 - FORMULA: La nuova formula dellIntimo pH 3.5 con Aloe Vera del Salento è un detergente dermo-liquido per ligiene intima quotidiana con addittivi naturali dalle proprietà idratanti e rinfrescanti
-- TESTATO: Il prodotto è testato al Nichel Cobalto e Cromo e dermatologicamente testato anche su cute sensibile, con formula vegan ecobio certificata ICEA, senza sapone, Sles e PEG
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00GNHW48A{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 🚋 UN PARTY GAME DI OMICIDI SUI BINARI: A turno, un giocatore è il conducente del tram e deve scegliere su quale dei due binari mandare un tram fuori controllo, investendo tutti quelli presenti sulla tratta scelta.
-- 😈 CONVINCI IL CONDUCENTE A TRAVOLGERE LALTRA SQUADRA: Le due squadre in gioco cercheranno di convincere il conducente a risparmiare coloro che si trovano sul proprio binario, uccidendo così tutti quelli sull’altro.
-- 🎉LANIMA DELLE TUE SERATE: Il Trauma del Tram è un gioco irriverente, crudele e senza pietà, capace di far divertire tutti!
-- 🤔 UN GIOCO DI DILEMMI MORALI: Il conducente dovrà seglire se travolgere una classe di prima elementare in gita o una donna in travaglio che sta correndo in ospedale! E tu, chi risparmieresti?
 - 📜 INFORMAZIONI SUL GIOCO: Numero giocatori: 3-13 – Età consigliata: 16+ anni – Durata media: 15 min. – Edizione in italiano.
+- 😈 CONVINCI IL CONDUCENTE A TRAVOLGERE LALTRA SQUADRA: Le due squadre in gioco cercheranno di convincere il conducente a risparmiare coloro che si trovano sul proprio binario, uccidendo così tutti quelli sull’altro.
+- 🚋 UN PARTY GAME DI OMICIDI SUI BINARI: A turno, un giocatore è il conducente del tram e deve scegliere su quale dei due binari mandare un tram fuori controllo, investendo tutti quelli presenti sulla tratta scelta.
+- 🤔 UN GIOCO DI DILEMMI MORALI: Il conducente dovrà seglire se travolgere una classe di prima elementare in gita o una donna in travaglio che sta correndo in ospedale! E tu, chi risparmieresti?
+- 🎉LANIMA DELLE TUE SERATE: Il Trauma del Tram è un gioco irriverente, crudele e senza pietà, capace di far divertire tutti!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08C254NMN{{</world>}}

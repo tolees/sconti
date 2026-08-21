@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Istruzioni e codici colore per costruire semplici e organizzati
-- Eevee, Vaporeon, Jolteon, Flareon, Espeon, Umbreon, Leafeon, Glaceon, Sylveon personaggi da costruire
-- Combinalo con altri set da costruire Pokémon da Mega Construx
 - Costruisci il tuo mondo Pokémon!
+- Istruzioni e codici colore per costruire semplici e organizzati
+- Combinalo con altri set da costruire Pokémon da Mega Construx
+- Eevee, Vaporeon, Jolteon, Flareon, Espeon, Umbreon, Leafeon, Glaceon, Sylveon personaggi da costruire
 - Ogni personaggio è completamente snodato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

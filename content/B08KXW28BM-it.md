@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Composizione del materiale: 85% cotone, 15% poliestere
+- In morbida fibra misto cotone
 - Felpa semplice con scollo rotondo
 - Classico scollo rotondo
-- In morbida fibra misto cotone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08KXW28BM{{</world>}}

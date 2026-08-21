@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 🐑 UN GIOCO DI SINTONIA MENTALE – Pensa come i tuoi compagni e prova a dare la stessa risposta a domande stravaganti! Più siete sincronizzati, più punti guadagnate!
-- 🌱 UN GIOCO RESPONSABILE – Creato in Europa dai creatori di Quick Stop, con carta certificata eco-sostenibile. Parte dei profitti è destinata ad associazioni benefiche.
-- 👨‍👩‍👧‍👦 PER FAMIGLIE E AMICI – Da 3 a 9 giocatori, dai 12 anni in su. Ideale per serate, weekend, aperitivi o vacanze. Regole spiegate in 1 minuto, partite da 20 minuti.
 - 🤣 DIVERTENTE E IMMEDIATO – Completa frasi come “Il Papa…” o “Vorrei avere…” e anticipa le risposte degli altri. Una sola parola per giocatore… ma senza parlarsi!
+- 👨‍👩‍👧‍👦 PER FAMIGLIE E AMICI – Da 3 a 9 giocatori, dai 12 anni in su. Ideale per serate, weekend, aperitivi o vacanze. Regole spiegate in 1 minuto, partite da 20 minuti.
+- 🌱 UN GIOCO RESPONSABILE – Creato in Europa dai creatori di Quick Stop, con carta certificata eco-sostenibile. Parte dei profitti è destinata ad associazioni benefiche.
+- 🐑 UN GIOCO DI SINTONIA MENTALE – Pensa come i tuoi compagni e prova a dare la stessa risposta a domande stravaganti! Più siete sincronizzati, più punti guadagnate!
 - ⚡ +700 TEMI ORIGINALI – Un mix di domande assurde, buffe e semplicissime, perfette per testare la vostra connessione mentale in allegria.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

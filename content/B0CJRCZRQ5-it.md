@@ -28,8 +28,8 @@ average: '26.79'
 
 ℹ️:
 
-- Due eroi incredibili uniti dalla mano del destino, o forse qualcosa di più sinistro...
 - Goditi un combattimento unico nel suo genere con battaglie GDR dinamiche e frenetiche in cui il campo di battaglia stesso diventa la tua arma e non ci sono regole.
+- Due eroi incredibili uniti dalla mano del destino, o forse qualcosa di più sinistro...
 - Spassatela in Giappone ed esplora tutto ciò che le Hawaii possono offrirti in unavventura così grande da ricoprire tutto il Pacifico.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

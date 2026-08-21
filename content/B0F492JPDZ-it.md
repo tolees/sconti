@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Biofermentazione: è un processo di trasformazione naturale con cui lieviti selezionati fermentano e trasformano oli e zuccheri in attivi pulenti 100% naturali
-- Prodotto: pastiglie lavastoviglie con formula concentrata a base di sgrassanti di origine 100% vegetale da Biofermentazione, efficace nel rimuovere lunto più ostinato già a basse temperature
-- Idrosolubili: efficaci già a basse temperature e anche nei cicli brevi, hanno un involucro idrosolubile e si biodegradano velocemente rispettando lambiente
 - Come usare: inserire le pastiglie allinterno della vaschetta del detersivo senza toglierle dallinvolucro; non rompere la pastiglia e non utilizzare per il lavaggio a mano
+- Prodotto: pastiglie lavastoviglie con formula concentrata a base di sgrassanti di origine 100% vegetale da Biofermentazione, efficace nel rimuovere lunto più ostinato già a basse temperature
+- Biofermentazione: è un processo di trasformazione naturale con cui lieviti selezionati fermentano e trasformano oli e zuccheri in attivi pulenti 100% naturali
+- Idrosolubili: efficaci già a basse temperature e anche nei cicli brevi, hanno un involucro idrosolubile e si biodegradano velocemente rispettando lambiente
 - Azione: formula multiazione ad effetto detergente, brillantante, sgrassante e anticalcare, per un pulito perfetto e la massima igiene su piatti e stoviglie
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

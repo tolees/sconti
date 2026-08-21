@@ -28,8 +28,8 @@ average: '20.882'
 
 ℹ️:
 
-- Lego Worlds è un ambiente aperto composto di Mondi fatti interamente di mattoncini Lego, che puoi controllare in libertà e popolare con i modelli Lego
 - Affronta una galassia di Mondi fatti interamente di Mattoncini Lego, esplora paesaggi sterminati, scopri innumerevoli sorprese e crea ciò che ti viene in mente usando i Mattoncini Lego
+- Lego Worlds è un ambiente aperto composto di Mondi fatti interamente di mattoncini Lego, che puoi controllare in libertà e popolare con i modelli Lego
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0742L1DRM{{</world>}}

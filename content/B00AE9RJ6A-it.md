@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Sviluppano il riconoscimento dei colori
 - Incoraggiano il gioco immaginativo
 - Rafforzano il riconoscimento delle forme.
-- Sviluppano il riconoscimento dei colori
 - I colori vivaci conquistano i piccoli che stanno imparando
 - Sviluppano le abilità fino-motorie dei bambini
 

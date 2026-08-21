@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Funzione “TARA”
-- Autospegnimento
 - Alimentazione: 2 batterie AAA, 1.5V ministilo
+- Autospegnimento
 - Indicatori di errore e di esaurimento batterie
 - Capacità 5 Kg con divisione di 0,1 grammo
-- Unità di misura: g, lb’oz, ml, fl’oz
 - Grande display 58 x 27mm
+- Funzione “TARA”
+- Unità di misura: g, lb’oz, ml, fl’oz
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CRVQKFTQ{{</world>}}

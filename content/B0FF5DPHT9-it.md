@@ -29,11 +29,11 @@ average: '43.745'
 ℹ️:
 
 - MISTO LANA SPAZZOLATO: melton morbido e spazzolato, dall’aspetto lussuoso e raffinato
-- SCELTO DA DEMI: questo prodotto della nostra nuova collezione Amazon Essentials è stato scelto da Demi Lovato
-- DETTAGLI: chiusura frontale a doppiopetto con bottoni, revers classico, completamente foderato, tasche a filetto, spacco posteriore, dettaglio con bottoni sul retro della manica
 - LUNGHEZZA DEL CAPO: 121,9cm dal lato del collo nella taglia Medio (IT)
 - SOPRABITO LUNGO: soprabito moderno dallo stile sartoriale per un’eleganza calda e sofisticata
+- SCELTO DA DEMI: questo prodotto della nostra nuova collezione Amazon Essentials è stato scelto da Demi Lovato
 - VESTIBILITÀ COMODA: vestibilità comoda e rilassata su spalle, petto e vita
+- DETTAGLI: chiusura frontale a doppiopetto con bottoni, revers classico, completamente foderato, tasche a filetto, spacco posteriore, dettaglio con bottoni sul retro della manica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FF5DPHT9{{</world>}}

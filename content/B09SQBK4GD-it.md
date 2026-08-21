@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- DA ASSUMERE QUOTIDIANAMENTE: 1 compressa al giorno preferibilmente la sera dopo cena, accompagnata da un bicchiere dacqua
-- PER IL METABOLISMO DEL COLESTEROLO: integratore alimentare in compresse a base di NOVAMETABOLIC, complesso a base di Amaranto ed estratti vegetali di Ulivo e Mela Cotogna
-- SENZA MONACOLINE: Colest OK non contiene Monacoline, pertanto non ha controindicazioni per lutilizzo da parte degli adulti sopra i 70 anni di età, si consiglia comunque di consultare il medico
 - EQUILIBRA: Da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto dellequilibrio tra rispetto, efficacia, benessere e bellezza
+- DA ASSUMERE QUOTIDIANAMENTE: 1 compressa al giorno preferibilmente la sera dopo cena, accompagnata da un bicchiere dacqua
+- SENZA MONACOLINE: Colest OK non contiene Monacoline, pertanto non ha controindicazioni per lutilizzo da parte degli adulti sopra i 70 anni di età, si consiglia comunque di consultare il medico
+- PER IL METABOLISMO DEL COLESTEROLO: integratore alimentare in compresse a base di NOVAMETABOLIC, complesso a base di Amaranto ed estratti vegetali di Ulivo e Mela Cotogna
 - FORMULA RINNOVATA: con Amaranto che favorisce il normale metabolismo del colesterolo, Ulivo per il normale metabolismo dei carboidrati e dei lipidi, la normale circolazione del sangue
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

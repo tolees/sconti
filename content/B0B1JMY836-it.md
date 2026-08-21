@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tasche: tasca interna con zip, scomparto interno porta laptop fino a 14â€ , tasche laterali porta borraccia. . Altre caratteristiche: inserto rifrangente sulla pattina con logo invicta ricamato, fibbia in nylon personalizzata
-- Pronto ad accompagnarti ovunque: a scuola, allâ€università, in ufficio o in città. In bus, in bici oppure a piedi. Lo zaino square invicta è dotato di un doppio scomparto estensibile grazie alle pratiche zip laterali per raggiungere una capacità di 27 litri. Ha tasche dedicate per pc e borraccia ed è comodo da indossare grazie allo schienale preformato e agli spallacci imbottiti. In il tessuto è ottenuto dal riciclo di 28 bottiglie in pet da 500 ml mantenendo i nostri standard qualitativi
 - Schienale: preformato. Spallacci: imbottiti e personalizzati con nastro jaquard
+- Pronto ad accompagnarti ovunque: a scuola, allâ€università, in ufficio o in città. In bus, in bici oppure a piedi. Lo zaino square invicta è dotato di un doppio scomparto estensibile grazie alle pratiche zip laterali per raggiungere una capacità di 27 litri. Ha tasche dedicate per pc e borraccia ed è comodo da indossare grazie allo schienale preformato e agli spallacci imbottiti. In il tessuto è ottenuto dal riciclo di 28 bottiglie in pet da 500 ml mantenendo i nostri standard qualitativi
 - Dimensioni: 28 x 42 x 16 cm. Capacita: 27 litri
 - Tessuto: 100 percent poliestere riciclato, certificato "grs"
+- Tasche: tasca interna con zip, scomparto interno porta laptop fino a 14â€ , tasche laterali porta borraccia. . Altre caratteristiche: inserto rifrangente sulla pattina con logo invicta ricamato, fibbia in nylon personalizzata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B1JMY836{{</world>}}

@@ -28,10 +28,10 @@ average: '21.835'
 
 ℹ️:
 
+- Possibilità di regolare la velocità del gioco.​
+- Gestisci tu la frequenza degli incontri con i nemici.​
 - Rivisitazione del classico RPG; ​Grafica ad alta definizione.​
 - Interfaccia utente completamente ridisegnata.​
-- Gestisci tu la frequenza degli incontri con i nemici.​
-- Possibilità di regolare la velocità del gioco.​
 - Supporto alla componente online​; Nuovi minigiochi​
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ average: '24.895'
 ℹ️:
 
 - FORMATO: cassa di birre con 24 bottiglie da 33 cl
-- GUSTO: pieno, intensamente luppolato
 - IDEALE CON: formaggi freschi, salumi stagionati, selvaggina, pesce, carciofi, primi piatti in bianco
-- PILSNER URQUELL: birra Pils a bassa fermentazione dal colore dorato, da servire a 6-7°C
+- GUSTO: pieno, intensamente luppolato
 - GRADAZIONE ALCOLICA: 4.4 % vol
+- PILSNER URQUELL: birra Pils a bassa fermentazione dal colore dorato, da servire a 6-7°C
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B007UOKTEG{{</world>}}

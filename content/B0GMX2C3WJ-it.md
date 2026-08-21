@@ -29,10 +29,10 @@ average: '31.44'
 ℹ️:
 
 - CONTORNO OCCHI FRESCO E LUMINOSO: Hydro-Gel Contorno Occhi dalla texture leggera e rinfrescante: aiuta a ridurre borse e occhiaie, idratando e distendendo lo sguardo.
-- AZIONE ANTI-INQUINAMENTO & ANTI-OSSIDANTE: Con Iperfermentato di Peonia Italiana, oggi due volte più efficace nel contrastare lo stress ossidativo causato da smog e agenti ambientali.
 - IDRATAZIONE INTENSA FINO A 100 ORE: Grazie all’IDROATTIVA+ Complex con zuccheri e inulina, la pelle è idratata a lungo e protetta dalla perdita d’acqua, per un comfort immediato e duraturo.
-- BEAUTY MADE IN ITALY + ECO-DESIGN: Cofanetto skincare completo viso e occhi con packaging sostenibile, perfetto come idea regalo o per una routine idratante quotidiana.
+- AZIONE ANTI-INQUINAMENTO & ANTI-OSSIDANTE: Con Iperfermentato di Peonia Italiana, oggi due volte più efficace nel contrastare lo stress ossidativo causato da smog e agenti ambientali.
 - FORMULE CLEAN & 100% VEGAN: Oltre il 95% di ingredienti di origine naturale, 0% siliconi, senza ingredienti di origine animale. Alta tollerabilità, ideale per pelli normali e secche.
+- BEAUTY MADE IN ITALY + ECO-DESIGN: Cofanetto skincare completo viso e occhi con packaging sostenibile, perfetto come idea regalo o per una routine idratante quotidiana.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GMX2C3WJ{{</world>}}

@@ -30,10 +30,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Nuovo tono di pianoforte migliorato con decadimento esteso
 - Nuovo motore sonoro pianoforte: aumento della gamma dinamica da pianissimo a fortissimo
-- Lingresso audio consente di collegare una sorgente audio esterna; compatibile con lapp chordana di Casio
-- 2 anni di garanzia da Casio
 - 88 tasti per pianoforte a risposta tattile con effetto martellato con effetto martellato
+- 2 anni di garanzia da Casio
 - Design ultra compatto/portatile e leggero (10,5 Kg), A/C e batteria
+- Lingresso audio consente di collegare una sorgente audio esterna; compatibile con lapp chordana di Casio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B091G1HSH2{{</world>}}

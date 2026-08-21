@@ -28,8 +28,8 @@ average: '11.4572727272727'
 
 ℹ️:
 
-- Nuovi Trofei «Photo Mode» per personalizzare i propri scatti su PS4 Accesso esclusivo alla beta multiplayer di «Uncharted 4: A Thief’s End» non appena disponibile
 - Una della saghe di maggior successo in esclusiva PlayStation «Uncharted: Drake’s Fortune», «Uncharted 2: Il Covo dei Ladri» e «Uncharted 3: L’inganno di Drake» tutti insieme in un unico gioco
+- Nuovi Trofei «Photo Mode» per personalizzare i propri scatti su PS4 Accesso esclusivo alla beta multiplayer di «Uncharted 4: A Thief’s End» non appena disponibile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07JYHV373{{</world>}}

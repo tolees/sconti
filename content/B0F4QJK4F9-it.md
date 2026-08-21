@@ -28,8 +28,8 @@ average: '50.11'
 
 ℹ️:
 
-- Questo stile è stato prodotto in modo sostenibile
 - Questo è un prodotto originale e autentico Tommy Hilfiger
+- Questo stile è stato prodotto in modo sostenibile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F4QJK4F9{{</world>}}

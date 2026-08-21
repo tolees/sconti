@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- In precedenza marchio Denali, ora Amazon Basics
-- Cacciavite multipunta 6 in 1 e strumento per serrare viti, dadi e bulloni
-- Include un cacciavite H 1/4" (6,35 mm) e H 8 mm, a croce n. 1 e n. 2, 1/4" (6,35 mm) e 8 mm
-- Punta intercambiabile per un montaggio facile e veloce; comoda impugnatura morbida
 - La finitura della punta fornisce una presa salda ed evita che questa fuoriesca
+- Cacciavite multipunta 6 in 1 e strumento per serrare viti, dadi e bulloni
+- Punta intercambiabile per un montaggio facile e veloce; comoda impugnatura morbida
+- In precedenza marchio Denali, ora Amazon Basics
+- Include un cacciavite H 1/4" (6,35 mm) e H 8 mm, a croce n. 1 e n. 2, 1/4" (6,35 mm) e 8 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09G7J1X2N{{</world>}}

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Maniche corte e taglio aderente
 - Maglietta essenziale girocollo
+- Maniche corte e taglio aderente
 - Logo stampato in posizione sul davanti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

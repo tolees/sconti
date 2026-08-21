@@ -30,8 +30,8 @@ average: '365.19'
 
 - Solo lavaggio a secco
 - Cuciture in pelle con cordoncino, cerniera in ottone e collo con fibbia
-- Composizione materiale principale in pelle Nappa spessa, pelliccia naturale di pecora
 - Cinturini regolabili in vita realizzati in pelle bovina
+- Composizione materiale principale in pelle Nappa spessa, pelliccia naturale di pecora
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B007V31TWC{{</world>}}

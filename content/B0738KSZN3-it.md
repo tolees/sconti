@@ -28,11 +28,11 @@ average: '19.45'
 
 ℹ️:
 
-- Questa nota collezione offre combinazioni di fragranze che creano unesperienza unica nata dalla fusione di più aromi.
-- Gli stoppini in legno Pluswick Innovation che ricreano il crepitio del fuoco offrono unatmosfera accogliente
-- Paraffina e cere di soia di alta qualità si uniscono per dare vita a una fiamma meravigliosa
-- Questa candela Trilogy dispone di tre strati con le fragranze più apprezzate: Acqua termale alla lavanda, Cotone e sale marino e Tè bianco e al gelsomino
 - Dura fino a 130 ore
+- Paraffina e cere di soia di alta qualità si uniscono per dare vita a una fiamma meravigliosa
+- Gli stoppini in legno Pluswick Innovation che ricreano il crepitio del fuoco offrono unatmosfera accogliente
+- Questa nota collezione offre combinazioni di fragranze che creano unesperienza unica nata dalla fusione di più aromi.
+- Questa candela Trilogy dispone di tre strati con le fragranze più apprezzate: Acqua termale alla lavanda, Cotone e sale marino e Tè bianco e al gelsomino
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0738KSZN3{{</world>}}

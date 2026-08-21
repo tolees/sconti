@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - CALVÉ: dai voce alla tua creatività rendendo i tuoi piatti super gustosi. Calvé, perchè buono può diventare buonissimo!
 - IDEALE CON: carne alla griglia, panini ricchi o piatti vegetariani.
-- FORMATO TOP DOWN 250ML: disponibile nel comodo formato Top Down 250 ml.
-- KETCHUP SPEZIATO CALVÉ: ketchup saporito, arricchito da un mix ricercato di spezie e aromi naturali: zenzero, cannella, fieno greco, pepe di cayenna, pepe bianco e chiodo di garofano.
 - GUSTO UNICO ED ESOTICO: lunico ketchup speziato presente sul mercato, preparati a un viaggio di sapori!
+- KETCHUP SPEZIATO CALVÉ: ketchup saporito, arricchito da un mix ricercato di spezie e aromi naturali: zenzero, cannella, fieno greco, pepe di cayenna, pepe bianco e chiodo di garofano.
+- FORMATO TOP DOWN 250ML: disponibile nel comodo formato Top Down 250 ml.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FJG7RR98{{</world>}}

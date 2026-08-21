@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Ideale per forare tasselli in cemento e mattoni da 4 mm a 22 mm
+- Impact Stop per forare legno, ceramica o metallo
 - Il motore brushless offre la massima autonomia
 - SPECIALIST in TOOLS FOR PROFESSIONALS
-- Impact Stop per forare legno, ceramica o metallo
-- Ideale per forare tasselli in cemento e mattoni da 4 mm a 22 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B06XJ5SMR6{{</world>}}

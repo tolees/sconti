@@ -28,9 +28,9 @@ average: '2.25'
 
 ℹ️:
 
+- Bar
 - V/a
 - Buddha
-- Bar
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B001IDPPWG{{</world>}}

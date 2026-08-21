@@ -28,9 +28,9 @@ average: '39.07'
 
 ℹ️:
 
+- Questo prodotto non contiene una sorgente luminosa
 - Compatibile con lampadine GU10: I due faretti cucina supportano lampadine GU10 fino a 10W (non incluse), permettendo di personalizzare tonalità e intensità della luce in base alle proprie esigenze
 - Stile moderno e materiali resistenti: Questo lampadario soffitto in grigio chiaro e Coffee in metallo unisce eleganza e funzionalità, perfetto per valorizzare soggiorni, corridoi o zone di lavoro
-- Questo prodotto non contiene una sorgente luminosa
 - Design solido e raffinato: Grazie ai materiali di qualità, questa plafoniere garantisce un’estetica elegante e una lunga durata, perfetta per completare ogni spazio con gusto e funzionalità
 - Spot orientabili con precisione: I faretti del binario faretti sono ruotabili e inclinabili, ideali per illuminare con precisione superfici di lavoro, mobili o elementi decorativi
 - Dimensioni equilibrate e versatili: Con i suoi 400x140mm, questo faretti da soffitto si adatta perfettamente a diversi ambienti, integrandosi armoniosamente in stili sia moderni che classici

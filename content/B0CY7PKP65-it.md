@@ -29,10 +29,10 @@ average: '1.95'
 ℹ️:
 
 - MODO DUSO: Applicare sotto la doccia dopo l’esposizione al sole, per idratare e rigenerare la pelle stressata e inaridita dai raggi solari
-- PROFUMAZIONE INTENSA: La profumazione di questo docciaschiuma doposole è intensa e accarezza delicatamente la pelle, lasciandola liscia e vellutata
-- LEOCREMA: Con formule 100% Made in Italy e ingredienti selezionati, Leocrema unisce tradizione e innovazione per offrire benessere e protezione quotidiana alla pelle di tutta la famiglia
 - DETERGE E PROLUNGA LABBRONZATURA: La formulazione di questo bagnoschiuma doposole è specificatamente studiata per detergere delicatamente la tua pelle, contribuendo a preservare e a prolungare la tua abbronzatura
 - MENTA E ALOE VERA: Arricchito con estratto di Menta e Aloe Vera, ingredienti noti per le proprietà rinfrescanti e lenitive, adatto allapplicazione dopo l’esposizione al sole
+- PROFUMAZIONE INTENSA: La profumazione di questo docciaschiuma doposole è intensa e accarezza delicatamente la pelle, lasciandola liscia e vellutata
+- LEOCREMA: Con formule 100% Made in Italy e ingredienti selezionati, Leocrema unisce tradizione e innovazione per offrire benessere e protezione quotidiana alla pelle di tutta la famiglia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CY7PKP65{{</world>}}

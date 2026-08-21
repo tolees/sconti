@@ -28,8 +28,8 @@ average: '78.0'
 
 ℹ️:
 
-- Grande marchio N
 - Suola a tappini ispirata alle scarpe da trail running 355
+- Grande marchio N
 - Marchio lineare in posizione centrale con testo "New Balance"
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

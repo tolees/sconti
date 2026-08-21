@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Valori nutrizionali: trancetti di tonno in vetro a basso contenuto di grassi e carboidrati e con 30g di proteine per 100g di prodotto sgocciolato, aiuta a rimanere in forma grazie ai suoi benefici nutrizionali e il sapore fresco del pesce azzurro
-- Consigli duso: ottimi come protagonisti di un secondo piatto con contorno di verdure, come condimento per piatti caldi come la pasta oppure per creare crostini e bruschette veloci
-- Sostenibilità: Nostromo si impegna da tempo per fornire prodotti rispettosi delle politiche di sostenibilità grazie alle flotte che pescano rispettando le zone FAO e seguendo le linee guida in materia ittica
-- Formato: 6 vasetti in vetro da 180 gr ciascuno
 - Trancetti di Tonno allOlio di Oliva provenienti da materia prima selezionata e lavorata secondo tradizione ed esperienza per un prodotto gustoso, dallaspetto compatto e dalla consistenza tenera
+- Formato: 6 vasetti in vetro da 180 gr ciascuno
+- Sostenibilità: Nostromo si impegna da tempo per fornire prodotti rispettosi delle politiche di sostenibilità grazie alle flotte che pescano rispettando le zone FAO e seguendo le linee guida in materia ittica
+- Consigli duso: ottimi come protagonisti di un secondo piatto con contorno di verdure, come condimento per piatti caldi come la pasta oppure per creare crostini e bruschette veloci
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BP26G7R6{{</world>}}

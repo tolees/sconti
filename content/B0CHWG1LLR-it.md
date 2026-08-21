@@ -28,11 +28,11 @@ average: '19.1'
 
 ℹ️:
 
-- [1] -COMPATIBILITA: Staffa Supporto Universale a Muro per TV da 32" a 65" // Peso Max 35Kg
-- [4] - STANDARD VESA: Supporta lo standard VESA 50x50, 75x75m, 100x100, 200x200, 300x300, 400x400 // Colore Nero
-- [5] - Il KIT include manuale viti e stumenti per il montaggio.
-- [3] - INCLINAZIONE: Inclinazione verticale regolabile da -12° a +12° // struttura Estensibile, pieghevole e snodabile sino a 37cm // Distanza da muro da 8cm a 37cm.
 - [2] - REGOLAZIONI: Rotazione a Destra e Sinistra (Swivel) di 180°
+- [5] - Il KIT include manuale viti e stumenti per il montaggio.
+- [4] - STANDARD VESA: Supporta lo standard VESA 50x50, 75x75m, 100x100, 200x200, 300x300, 400x400 // Colore Nero
+- [1] -COMPATIBILITA: Staffa Supporto Universale a Muro per TV da 32" a 65" // Peso Max 35Kg
+- [3] - INCLINAZIONE: Inclinazione verticale regolabile da -12° a +12° // struttura Estensibile, pieghevole e snodabile sino a 37cm // Distanza da muro da 8cm a 37cm.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CHWG1LLR{{</world>}}

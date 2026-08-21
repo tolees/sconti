@@ -29,10 +29,10 @@ average: '19.85'
 ℹ️:
 
 - CARATTERISTICHE: Contiene Zinco per il mantenimento di normali livelli di testosterone nel sangue, Vitamine B6 e B12 per il normale metabolismo energetico e la riduzione di stanchezza e affaticamento
-- ALTO DOSAGGIO: 2 compresse contengono 1000 mg di estratto che corrispondono a 4000 mg di polvere di radice di Maca, 200 mg di L-Arginina, Zinco, Vitamina B6 e B12
 - DA ASSUMERE QUOTIDIANAMENTE: 1-2 compresse al giorno, da deglutire con acqua preferibilmente nella prima parte della giornata. E possibile dividere le compresse in 2 parti grazie al pre-taglio
-- PRODOTTO IN ITALIA, VEGAN, PACKAGING ECOSOSTENIBILE: Prodotto Vegano, Senza Glutine, Senza Coloranti, Naturalmente Privo di Lattosio. Flacone R-Pet 100% Riciclato con Sigillo di Sicurezza
 - PER IL SOSTEGNO E VIGORE FISICO: La Maca, nota per lazione tonico-adattogena, supporta lorganismo in caso di stress, stanchezza fisica e mentale. Equilibra utilizza un estratto di Maca 4:1
+- PRODOTTO IN ITALIA, VEGAN, PACKAGING ECOSOSTENIBILE: Prodotto Vegano, Senza Glutine, Senza Coloranti, Naturalmente Privo di Lattosio. Flacone R-Pet 100% Riciclato con Sigillo di Sicurezza
+- ALTO DOSAGGIO: 2 compresse contengono 1000 mg di estratto che corrispondono a 4000 mg di polvere di radice di Maca, 200 mg di L-Arginina, Zinco, Vitamina B6 e B12
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BVRCZ7YP{{</world>}}

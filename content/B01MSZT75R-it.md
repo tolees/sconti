@@ -28,13 +28,13 @@ average: '33.48'
 
 ℹ️:
 
-- Contiene agnello di come primo ingrediente e ingredienti altamente digeribili.
-- Confezione da 12 kg, ideale per la fase di crescita dei cuccioli di taglia media .
-- Vitamina D e minerali per denti forti e sani nei cuccioli.
-- Crocchette cani puppy pensate per una nutrizione bilanciata e una digestione ottimale.
-- PURINA PRO PLAN Sensitive Digestion crocchette cani puppy per cuccioli di taglia media fino a 12 mesi.
-- Elevato contenuto proteico per muscoli forti, condizione corporea ideale e crescita sana.
 - Prebiotici favoriscono l’equilibrio della microflora intestinale , bentonite migliora la qualità delle feci.
+- Vitamina D e minerali per denti forti e sani nei cuccioli.
+- Contiene agnello di come primo ingrediente e ingredienti altamente digeribili.
+- PURINA PRO PLAN Sensitive Digestion crocchette cani puppy per cuccioli di taglia media fino a 12 mesi.
+- Confezione da 12 kg, ideale per la fase di crescita dei cuccioli di taglia media .
+- Crocchette cani puppy pensate per una nutrizione bilanciata e una digestione ottimale.
+- Elevato contenuto proteico per muscoli forti, condizione corporea ideale e crescita sana.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01MSZT75R{{</world>}}

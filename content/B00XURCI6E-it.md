@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Conservare in luogo fresco e asciutto, lontano da fonti di calore e dalla luce diretta del sole
-- Carne 100% italiana
 - Senza conservanti e glutine
+- Conservare in luogo fresco e asciutto, lontano da fonti di calore e dalla luce diretta del sole
 - Contiene 2 lattine da 180g
+- Carne 100% italiana
 - Può contenere tracce di latte, pesce e uovo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

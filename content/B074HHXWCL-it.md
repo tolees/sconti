@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Conservabilità: 24 mesi dalla data di produzione. Modalità di conservazione: conservare in luogo fresco e asciutto, lontano da fonti di calore e umidità
+- Un corpo ricco e persistente con nuance leggermente amare date dalla presenza di una ridotta quantità di Robusta africani
+- 50 capsule compatibili con le macchine ad uso domestico a marchio e con le macchine Èspresso1882 TRÈ di Caffè Vergnano
 - CAPSULA COMPOSTABILE: La capsula deve essere recuperata, senza separarla dal caffè, nella raccolta differenziata dellorganico.
 - Una miscela caratterizzata dall’aroma pieno e fragrante che ricorda note speziate e cioccolatose
-- 50 capsule compatibili con le macchine ad uso domestico a marchio e con le macchine Èspresso1882 TRÈ di Caffè Vergnano
-- Un corpo ricco e persistente con nuance leggermente amare date dalla presenza di una ridotta quantità di Robusta africani
+- Conservabilità: 24 mesi dalla data di produzione. Modalità di conservazione: conservare in luogo fresco e asciutto, lontano da fonti di calore e umidità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B074HHXWCL{{</world>}}

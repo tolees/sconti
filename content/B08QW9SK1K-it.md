@@ -29,8 +29,8 @@ average: '17.1'
 ℹ️:
 
 - T-shirt per la formazione o la presentazione
-- Rundhalskrasen
 - Grande stampa del logo Nike
+- Rundhalskrasen
 - Leggero proprietà elastiche
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

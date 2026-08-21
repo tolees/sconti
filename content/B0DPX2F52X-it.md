@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Scollo a
 - Frontale abbottonato
-- Composizione del materiale: 50% viscosa – Livaeco by Birla cellulosa, 28% poliestere, 22% nylon
+- Scollo a
 - Cardigan
+- Composizione del materiale: 50% viscosa – Livaeco by Birla cellulosa, 28% poliestere, 22% nylon
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DPX2F52X{{</world>}}

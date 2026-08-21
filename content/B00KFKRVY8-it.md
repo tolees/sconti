@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Ottima base per il make-up
-- Formato 50 ml
 - Indicazioni e caratteristiche: attenuare i primi segni di invecchiamento, migliorando il tono, lelasticità e la levigatezza della pelle secca e nei periodi più freddi dellanno
+- Ottima base per il make-up
 - Per capelli: Asciutto
+- Formato 50 ml
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00KFKRVY8{{</world>}}

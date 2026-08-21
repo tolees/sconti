@@ -28,10 +28,10 @@ average: '12.99'
 
 ℹ️:
 
-- Vestibilità regolare
+- 100% cotone
 - Girocollo a coste
 - Spalle leggermente basse
-- 100% cotone
+- Vestibilità regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZV11BVS{{</world>}}

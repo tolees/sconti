@@ -28,11 +28,11 @@ average: '21.3166666666667'
 
 ℹ️:
 
-- Punta conica super resistente e doppio tratto a seconda dellinclinazione, 2 mm per disegnare e 4,5 mm per colorare
-- Inchiostri facilmente rimovibili dalla pelle e dalla maggior parte dei tessuti
-- Inchiostri sicuri, superlavabili, dermatologicamente testati, in 100 colori differenti, per dare ilmassimo spazio alla creatività
 - Made in Italy, produzione con energia solare
 - Età duso 3+
+- Punta conica super resistente e doppio tratto a seconda dellinclinazione, 2 mm per disegnare e 4,5 mm per colorare
+- Inchiostri sicuri, superlavabili, dermatologicamente testati, in 100 colori differenti, per dare ilmassimo spazio alla creatività
+- Inchiostri facilmente rimovibili dalla pelle e dalla maggior parte dei tessuti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B001AO1MLG{{</world>}}

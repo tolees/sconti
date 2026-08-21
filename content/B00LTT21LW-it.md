@@ -28,10 +28,10 @@ average: '17.8'
 
 ℹ️:
 
-- Alluminio fuso
-- Diametro base: 173 mm
-- Manico ergonomico e impilabile
 - Adatta a tutti i tipi di piani cottura, induzione inclusa
+- Alluminio fuso
+- Manico ergonomico e impilabile
+- Diametro base: 173 mm
 - Rivestimento antiaderente di qualità a tre strati senza PFOA
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ average: '42.8855555555555'
 
 ℹ️:
 
-- Adatta a tutti i tipi di pelle
 - E progettata per fortificare la pelle del contorno occhi rendendola forte, maggiormente liscia e resistente
+- Adatta a tutti i tipi di pelle
 - Aumenta il collagene naturale della pelle, aiuta a sostenere la struttura naturale della pelle e rafforza la sua barriera idratante
 - Crema contorno occhi antirughe
 

@@ -28,10 +28,10 @@ average: '2.65333333333333'
 
 ℹ️:
 
-- Per capelli liberi dalla forfora, Forti allestero e brillanti allesterno, Anti-ricomparsa della forfora per 4 settimane* *Test cosmetoclinico
 - Applicare sui capelli bagnati e risciacquare abbondantemente
-- Shampoo lenitivo 2in1 con azione antiforfora per capelli normali, Idrata la fibra capillare e lenisce la cute, Elimina il sebo in eccesso
 - Contenuto: 1x Garnier Fructis Shampoo Lenitivo 2in1, Per Capelli normali, Azione Antiforfora, Con Tè Verde e Piroctone Olamina, 250 ml
+- Per capelli liberi dalla forfora, Forti allestero e brillanti allesterno, Anti-ricomparsa della forfora per 4 settimane* *Test cosmetoclinico
+- Shampoo lenitivo 2in1 con azione antiforfora per capelli normali, Idrata la fibra capillare e lenisce la cute, Elimina il sebo in eccesso
 - Formula arricchita con tè verde per idratare a fondo i capelli e lenire la cute, Piroctone Olamina per rimuovere la forfora visibile e il sebo in eccesso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

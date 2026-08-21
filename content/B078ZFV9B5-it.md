@@ -28,11 +28,11 @@ average: '14.88'
 
 ℹ️:
 
+- Cibo Umido per gatti con Manzo e pomodori
 - Cibo per gatti Purina Gourmet Gold Tortini con Verdure nel formato da 24 lattine da 85g
+- Alimento Completo per Gatti Adulti
 - Tutte le ricette di cibo umido per gatti Gourmet Gold non contengono coloranti, conservanti e aromi artificiali aggiunti.
 - Purina Gourmet Gold Tortini cibo umido gatti con piccoli bocconi tagliati finemente accompagnati da un pizzico di salsa
-- Alimento Completo per Gatti Adulti
-- Cibo Umido per gatti con Manzo e pomodori
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B078ZFV9B5{{</world>}}

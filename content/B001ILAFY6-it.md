@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Coppia massima: 682 Nm
-- Lunghezza: 78 mm
 - Realizzato in acciaio al cromo-molibdeno
 - Profilo di uscita: esagonale
-- Con attacco per perno di bloccaggio e anello in gomma
 - Apertura chiave: 32 mm
-- Adatto per avvitatori manuali e a impulsi
 - Trattamento superficiale: fosfatato
+- Lunghezza: 78 mm
+- Coppia massima: 682 Nm
+- Con attacco per perno di bloccaggio e anello in gomma
+- Adatto per avvitatori manuali e a impulsi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B001ILAFY6{{</world>}}

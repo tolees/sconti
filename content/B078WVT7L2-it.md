@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Chiusura: Sintetico
-- Collezione: Autunno/Inverno 19
 - Antiscivolo
+- Collezione: Autunno/Inverno 19
+- Chiusura: Sintetico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B078WVT7L2{{</world>}}

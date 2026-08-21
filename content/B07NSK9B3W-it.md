@@ -28,10 +28,10 @@ average: '41.8233333333333'
 
 ℹ️:
 
+- Questa batteria di ricambio è compatibile con Ricoh Gr III e Ricoh WG-6
+- 1350 mAh
 - 3,6 V
 - 4,9 Wh
-- 1350 mAh
-- Questa batteria di ricambio è compatibile con Ricoh Gr III e Ricoh WG-6
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07NSK9B3W{{</world>}}

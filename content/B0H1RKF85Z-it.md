@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OPPO Reno16 Pro 5G 200MP 6 32" 144Hz 6000mAh 12+512GB Pop White'
-date: 2026-08-17 06:11:40
+date: 2026-08-21 13:32:37
 image: 'https://m.media-amazon.com/images/I/41nFetnIK4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0H1RKF85Z-it OPPO Reno16 Pro 5G 200MP 6 32" 144Hz 6000mAh 12+512GB Pop...'
 sku: 'B0H1RKF85Z-it'
 tags: [ '🇮🇹', ]
-actualPrice: 899.99 EUR
+actualPrice: 875.97 EUR
 currency: EUR
-price: 899.99
+price: 875.97
 comparePrice: 1099.99 EUR
 prodname: 'OPPO Reno16 Pro 5G 200MP 6 32" 144Hz 6000mAh 12+512GB Pop White'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0H1RKF85Z/?tag=tolees00-21'
-descuento: '18.18'
-average: '899.99'
+descuento: '20.37'
+average: '887.98'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

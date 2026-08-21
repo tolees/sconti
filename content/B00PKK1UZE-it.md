@@ -28,9 +28,9 @@ average: '4.99'
 
 ℹ️:
 
-- Acqua distillata di menta:.con proprietà idratanti e rinfrescanti delicate.
-- Agente deodorante/anti-odore:.contrasta i batteri responsabili del cattivo odore e svolge una piacevole azione deodorante.
 - Mentolo e mentil lattato:.mix di attivi rinfrescanti che conferisce un effetto fresco immediato e prolungato nel tempo. Regala una durevole sensazione di benessere.
+- Agente deodorante/anti-odore:.contrasta i batteri responsabili del cattivo odore e svolge una piacevole azione deodorante.
+- Acqua distillata di menta:.con proprietà idratanti e rinfrescanti delicate.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00PKK1UZE{{</world>}}

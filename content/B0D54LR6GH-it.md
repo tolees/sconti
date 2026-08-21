@@ -30,10 +30,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Vestibilità ampia
 - 100% cotone
-- Lavabile in lavatrice
-- Girocollo
 - Con grafica sorprendente
+- Girocollo
 - Un classico senza tempo che puoi indossare con qualsiasi cosa
+- Lavabile in lavatrice
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D54LR6GH{{</world>}}

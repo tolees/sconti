@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Zona notte 2,9 m²; giorno 0,3 m²; sovrastrutt.: prima la tenda interna: Mis imballo: 45 x 17 x 17 cm; peso 2,8 kg; colonna dacqua 3.000 mm; sacca da trasporto con cerniera, tiranti e picchetti
 - MONTAGGIO RAPIDO: Struttura leggera e robusta, realizzata con pali in fibra di vetro molto flessibili e leggeri, resiste a forti venti; ideale per il campeggio, le escursioni o i festival
+- IMPERMEABILE AL 100%: Colonna dacqua di 3.000 mm con cuciture e fondo completamente cucito, impermeabile e protegge dagli insetti; UV Guard 50+ per un’elevata protezione 50+ dalle radiazioni solari
 - TANTE CARATTERISTICHE: aperture di ventilazione per una circolazione ottimale dellaria evitano la condensa; la piccola tenda è sufficiente per riporre bagagli, attrezzature e scarpe allasciutto
 - COMPATTA E LEGGERA: Con soli 2.800 g, è particolarmente leggera e, grazie alle sue dimensioni ridotte, può essere facilmente inserita in qualsiasi zaino, ideale per escursioni e gite di un giorno
-- Zona notte 2,9 m²; giorno 0,3 m²; sovrastrutt.: prima la tenda interna: Mis imballo: 45 x 17 x 17 cm; peso 2,8 kg; colonna dacqua 3.000 mm; sacca da trasporto con cerniera, tiranti e picchetti
-- IMPERMEABILE AL 100%: Colonna dacqua di 3.000 mm con cuciture e fondo completamente cucito, impermeabile e protegge dagli insetti; UV Guard 50+ per un’elevata protezione 50+ dalle radiazioni solari
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BHZB6HDJ{{</world>}}

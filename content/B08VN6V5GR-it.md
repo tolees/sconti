@@ -28,10 +28,10 @@ average: '15.682'
 
 ℹ️:
 
-- Composizione: 100% cotone
-- Vestibilità comoda
-- Polo da uomo della marca danese Jack & Jones
 - Design moderno
+- Composizione: 100% cotone
+- Polo da uomo della marca danese Jack & Jones
+- Vestibilità comoda
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08VN6V5GR{{</world>}}

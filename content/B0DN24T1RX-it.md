@@ -28,10 +28,10 @@ average: '48.0'
 
 ℹ️:
 
-- Suola in gomma
-- Chiusura con lacci
-- Fodera in mesh
 - Calzata regolare
+- Suola in gomma
+- Fodera in mesh
+- Chiusura con lacci
 - Tomaia in materiale sintetico con rivestimenti in suede
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ average: '69.99'
 
 ℹ️:
 
+- ✅ Schermo privacy e frangivento: la tenda da sole laterale 500 x 160 cm (antracite) offre maggiore privacy sul balcone e sulla terrazza. La tenda da sole laterale protegge dal vento e dagli sguardi dei vicini.
 - ✅ Estensibile: completamente estesa, la tenda laterale è lunga 5 metri. La tenda da sole può essere comodamente fissata al palo della tenda e riposta nel cassonetto.
 - ✅ Opaco e idrorepellente: tessuto da tenda opaco in 100% poliestere (180g/m²) con rivestimento in PU idrorepellente. Il tessuto è resistente agli agenti atmosferici, robusto e durevole.
-- ✅ Schermo privacy e frangivento: la tenda da sole laterale 500 x 160 cm (antracite) offre maggiore privacy sul balcone e sulla terrazza. La tenda da sole laterale protegge dal vento e dagli sguardi dei vicini.
 - ✅ Facile da assemblare: viti e tasselli inclusi nella confezione. Fissare il cassonetto della tenda da sole a una parete adatta e ancori il palo della tenda da sole opposto al terreno. Pronti!
 - ✅ Design moderno: il nostro frangivento si distingue per il suo design semplice e moderno, che si adatta perfettamente a qualsiasi giardino. Il grigio scuro crea unatmosfera familiare.
 

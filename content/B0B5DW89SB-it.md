@@ -28,11 +28,11 @@ average: '17.24'
 
 ℹ️:
 
-- Disponibile in 11 colori di tendenza, uno per ogni outfit
-- Lunghezza regolabile: da 76.2 cm a 83.8 cm circa, per una ottima vestibilità in ogni taglia
 - Orlo dritto, leggermente più lungo sul retro, con spacchi laterali
-- Colletto intelligente, da indossare alzato o abbassato, unottima alternativa alla camicia
+- Disponibile in 11 colori di tendenza, uno per ogni outfit
 - Polo dal taglio classico, a maniche corte
+- Lunghezza regolabile: da 76.2 cm a 83.8 cm circa, per una ottima vestibilità in ogni taglia
+- Colletto intelligente, da indossare alzato o abbassato, unottima alternativa alla camicia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B5DW89SB{{</world>}}

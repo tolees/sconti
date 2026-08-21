@@ -30,8 +30,8 @@ average: '4.62'
 
 - ALOE IALURONICA MOUSSE DETERGENTE: è una morbida mousse ideale per la detersione della pelle del viso. Rappresenta il secondo step di una skincare routine completa
 - EFFICACE AZIONE DETERGENTE: prodotto dalla texture soffice. Agitare il flacone e applicare la mousse sulla pelle del viso inumidita, massaggiando delicatamente. Risciacquare con acqua
-- EQUILIBRA: da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto dellequilibrio tra rispetto, efficacia, benessere e bellezza
 - LA TUA SKINCARE ROUTINE: la Mousse Detergente Aloe Ialuronica rappresenta lo step ideale di detersione schiumosa viso all’interno di una beauty routine completa. Ideale per la doppia detersione
+- EQUILIBRA: da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto dellequilibrio tra rispetto, efficacia, benessere e bellezza
 - COSA CONTIENE: Succo di Aloe ad azione idratante e rinfrescante, Acido Ialuronico ai 3 Pesi Molecolari idratante, Centella Asiatica ad azione levigante, Glicerina umettante ed emolliente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

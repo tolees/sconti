@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tipo di tacco: Tacco piatto
-- Fibbia: Lacci
 - Larghezza: Regolare
+- Fibbia: Lacci
 - Fodera: Tessuto
 - Suola: Gomma
+- Tipo di tacco: Tacco piatto
 - Tipo di punta: Rotonda
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

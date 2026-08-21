@@ -28,11 +28,11 @@ average: '4.49'
 
 ℹ️:
 
-- Assegnazione 1:1 - 2x connettore RJ45
-- Categoria: CAT 6 - non schermato
 - Certificato UL - Busta in plastica con codice EAN - Colore: Rosso - Lunghezza: 7 m
-- Conduttori 4x2 - Conduttori 100% Rame AWG26/7
 - Cavo patch CAT 6 UTP, 1Gbit/s
+- Categoria: CAT 6 - non schermato
+- Assegnazione 1:1 - 2x connettore RJ45
+- Conduttori 4x2 - Conduttori 100% Rame AWG26/7
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07NSQ51FQ{{</world>}}

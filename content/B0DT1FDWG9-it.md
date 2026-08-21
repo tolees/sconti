@@ -28,11 +28,11 @@ average: '1.825'
 
 ℹ️:
 
-- Risultato: pelle straordinariamente morbida, setosa e luminosa
-- Contenuto: n.1 x Leocrema Crema Corpo allOlio di Argan 250ml
 - Formula: con Olio di Argan 100% Biologico e formulata con il 95% di ingredienti origine naturale. Contiene inoltre Hydra 3 Skin Serum, un complesso idratante con Vitamina E, Glicerina e Oli Cosmetici
+- Risultato: pelle straordinariamente morbida, setosa e luminosa
 - Ideale per: Tutti i tipi di Pelle
 - Prodotto: crema ricca e vellutante, si fonde delicatamente sulla pelle senza ungere e si assorbe in un soffio, avvolgendola con una calda profumazione.
+- Contenuto: n.1 x Leocrema Crema Corpo allOlio di Argan 250ml
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DT1FDWG9{{</world>}}

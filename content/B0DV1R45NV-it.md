@@ -28,11 +28,11 @@ average: '25.13'
 
 ℹ️:
 
-- RESA DEI CONTI SENSAZIONALE DI SPIDEY: una subdola imboscata aggiunge il triplo dei problemi per Spider-Man! Riuscirà a salvare la città e ad arrivare in tempo all’appuntamento con MJ?
-- INCLUDE 3 BUSTE DI GIOCO: ogni confezione scena contiene 3 buste di gioco, ideali per scoprire il potenziale di Magic; sono perfette per costruire mazzi, giocare con gli amici e sono divertentissime da aprire
 - FAI SFOGGIO DELLE ILLUSTRAZIONI: tutte le carte scena sono carte di Magic giocabili (compreso il testo del gioco), ma questa confezione contiene anche 6 carte con illustrazione prive del testo di gioco, permettendo così di ammirare la scena in tutto il suo splendore dal cavalletto incluso incluso nella confezione
 - UNISCI 6 CARTE SENZA BORDO PER CREARE QUESTA SCENA: potenzia il tuo mazzo o la tua collezione con sei carte scena senza bordo foil e uniscile per svelare l’intera storia
 - CONTENUTO DELLA CONFEZIONE SCENA: 6 carte scena foil senza bordo, 6 carte scena solo illustrazione, 3 buste di gioco e un cavalletto di carta
+- RESA DEI CONTI SENSAZIONALE DI SPIDEY: una subdola imboscata aggiunge il triplo dei problemi per Spider-Man! Riuscirà a salvare la città e ad arrivare in tempo all’appuntamento con MJ?
+- INCLUDE 3 BUSTE DI GIOCO: ogni confezione scena contiene 3 buste di gioco, ideali per scoprire il potenziale di Magic; sono perfette per costruire mazzi, giocare con gli amici e sono divertentissime da aprire
 - UNA SCENA LEGGENDARIA PRENDE VITA: il tuo amichevole Spider-Man di quartiere arriva in Magic: The Gathering con carte che mostrano l’eroe lancia-ragnatele e gli iconici cattivi di Spider-Man
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

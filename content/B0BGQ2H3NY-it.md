@@ -28,12 +28,12 @@ average: '12.33'
 
 ℹ️:
 
-- Piatto
 - Punta rotonda
 - Tong
-- Sintetico
 - Attaccare
+- Sintetico
 - Gomma
+- Piatto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BGQ2H3NY{{</world>}}

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Skechers Dettaglio logo Bobs Sport
 - Suola flessibile di trazione
+- Skechers Dettaglio logo Bobs Sport
 - Soletta imbottita e confortevole
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

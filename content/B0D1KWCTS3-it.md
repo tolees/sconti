@@ -28,11 +28,11 @@ average: '185.89'
 
 ℹ️:
 
-- Numero di porte HP: 1. Numero di porte LP: 4. Tutti i componenti sono Made in Italy.
-- Primo stadio a pistone semplice composto da un’uscita di alta pressione e 4 uscite di bassa pressione. Secondo stadio ha un design semplice e funzionale.
-- Il condotto di scarico evita infiltrazioni d’acqua nel secondo stadio anche in presenza di forti correnti laterali
 - Possibilità di regolazione dello sforzo respiratorio ed Effetto Venturi (Dive/PreDive)
 - Set composto dall’erogatore SEAC PX100 con attacco INT o DIN 230 BAR e dal secondo stadio di emergenza SEAC PX100 OCTO
+- Primo stadio a pistone semplice composto da un’uscita di alta pressione e 4 uscite di bassa pressione. Secondo stadio ha un design semplice e funzionale.
+- Numero di porte HP: 1. Numero di porte LP: 4. Tutti i componenti sono Made in Italy.
+- Il condotto di scarico evita infiltrazioni d’acqua nel secondo stadio anche in presenza di forti correnti laterali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D1KWCTS3{{</world>}}

@@ -28,10 +28,10 @@ average: '17.5233333333333'
 
 ℹ️:
 
-- Confezione di 8 animali della fattoria
 - Personaggi della misura giusta per le manine dei bambini nella fase dei primi passi
-- Include il lama, la gallina, la mucca, la capretta, il cavallo, il maialino, la pecora e il cane
 - Per bambini di 1-5 anni
+- Include il lama, la gallina, la mucca, la capretta, il cavallo, il maialino, la pecora e il cane
+- Confezione di 8 animali della fattoria
 - Questi nuovi amici sono perfetti da usare con la Fattoria Little People per un divertimento senza fine! (Playset in vendita separatamente).
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

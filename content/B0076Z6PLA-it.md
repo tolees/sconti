@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Ricaricabile, fino a 40 minuti di autonomia
+- Presa antiscivolo
 - Potenza di 3.2 cd, 1500mA.
 - 2 pettini per differenti lunghezze (1-16mm)
-- Presa antiscivolo
 - Indicatore luminoso di ricarica
 - Testine lavabili per una facile pulizia
-- Ricaricabile, fino a 40 minuti di autonomia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0076Z6PLA{{</world>}}

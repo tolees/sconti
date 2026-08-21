@@ -30,9 +30,9 @@ average: '4.48'
 
 - SOSTENIBILE: In una confezione senza plastica, il tuo salto in avanti nella gestualità maschile per il bene del pianeta. Formula a risciacquo rapido, chiudi l’acqua per ridurre il consumo.
 - PELLI SENSIBILI: il nostro shampoo solido è stato formulato, grazie ai suoi ingredienti naturali, in modo che non alteri il normale equilibrio del tuo cuoio capelluto.
+- SHAMPOO SOLIDO: Il nostro #1F Shampoo Solido con estratto di caffè e con caffeina, è adatto a tutti i tipi di barba e capelli, per un effetto morbido, energizzante e piacevole al tatto.
 - MODALTÀ DUSO: Inumidire i capelli, la barba e lo shampoo solido per creare la schiuma. Applicare lo shampoo solido su tutta la superficie da trattare. Massaggiare la barba e i capelli dalla radice alle punte, risciacquare.
 - LINEA FIGARO: Novità della Linea Figaro, il detergente 3 in 1 specifico per detergere in un solo gesto barba, capelli e viso e lo shampoo solido 2 in 1 barba e capelli, il tuo salto in avanti nella gestualità maschile per il bene del pianeta.
-- SHAMPOO SOLIDO: Il nostro #1F Shampoo Solido con estratto di caffè e con caffeina, è adatto a tutti i tipi di barba e capelli, per un effetto morbido, energizzante e piacevole al tatto.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B4685HYP{{</world>}}

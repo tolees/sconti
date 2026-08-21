@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- CHE COSE MELATONINA ACT +FORTE 5 COMPLEX? È un integratore alimentare che contribuisce alla riduzione del tempo richiesto per prendere sonno;
+- INGREDIENTI: Vitamina B3; Vitamina B1; biossido di silicio, sali di magnesio degli acidi grassi; Escolzia erba; Triptofano; Melatonina; Griffonia;
 - I BENEFICI: La melatonina contribuisce alla riduzione del tempo richiesto per prendere sonno. 5 COMPLEX: Escolzia, Triptofano, Niacina, Griffonia e Vitamina B1 favoriscono il rilassamento e il sonno;
 - ALLINTERNO DELLA CONFEZIONE: Confezione da 90 pratiche compresse per un assorbimento rapido e una facile assunzione; Ogni compressa contiene 1mg di Melatonina;
-- INGREDIENTI: Vitamina B3; Vitamina B1; biossido di silicio, sali di magnesio degli acidi grassi; Escolzia erba; Triptofano; Melatonina; Griffonia;
+- CHE COSE MELATONINA ACT +FORTE 5 COMPLEX? È un integratore alimentare che contribuisce alla riduzione del tempo richiesto per prendere sonno;
 - MODALITA DI ASSUNZIONE: Si consiglia di assumere 1 compressa la sera poco prima di coricarsi, da deglutire con un po dacqua; AVVERTENZE: Non superare la dose giornaliera consigliata;
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

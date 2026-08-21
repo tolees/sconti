@@ -28,10 +28,10 @@ average: '39.99'
 
 ℹ️:
 
-- Esplora un mondo vibrante caratterizzato da ambientazioni uniche e variegate
 - Vivi nuovi contenuti narrativi grazie all’espansione
-- Una storia intensa con un cast di personaggi carismatici
 - Sistema di combattimento action dinamico ed elegante
+- Una storia intensa con un cast di personaggi carismatici
+- Esplora un mondo vibrante caratterizzato da ambientazioni uniche e variegate
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GM1NHR5R{{</world>}}

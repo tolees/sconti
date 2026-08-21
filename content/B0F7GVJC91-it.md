@@ -28,8 +28,8 @@ average: '5.96'
 
 ℹ️:
 
-- Include un foglio di adesivi.
 - Quaderno formato A4 con rilegatura a spirale e copertina rigida. 160 pagine quadrettate da 90gsm, certificate FSC, che garantiscono che la carta proviene da foreste gestite in modo responsabile.
+- Include un foglio di adesivi.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F7GVJC91{{</world>}}

@@ -28,12 +28,12 @@ average: '20.24'
 
 ℹ️:
 
-- La forma moderna e il look semplice rendono questi faretti da incasso adatti ad ogni arredamento. Sono direzionabili in modo da poter illuminare lambiente come si preferisce. In soggiorno, in camera da letto o in corridoio, le lampade creano unatmosfera piacevole
-- Dimensioni del prodotto: diametro esterno 86 mm - profondità di installazione 60 mm - foratura del soffitto diametro 68 mm. Materiale: matallo. Colore: nickel opaco
-- 10 faretti orientabili e 10 lampadine LED GU10 da 3W incluse. Non è necessario il trasformatore. Cavi di collegamento non inclusi
 - Gli apparecchi da incasso a LED creano una bella atmosfera nella vostra casa
+- Dimensioni del prodotto: diametro esterno 86 mm - profondità di installazione 60 mm - foratura del soffitto diametro 68 mm. Materiale: matallo. Colore: nickel opaco
 - Questo prodotto è un prodotto perimetrale. I prodotti circostanti sono apparecchi di illuminazione che possono essere smontati per lispezione separata delle sorgenti luminose che contengono.
 - Ad ogni accensione lambiente verrà illuminato con una luce bianca calda (3000 Kelvin) ed intensa (10 x 250 Lumen)
+- La forma moderna e il look semplice rendono questi faretti da incasso adatti ad ogni arredamento. Sono direzionabili in modo da poter illuminare lambiente come si preferisce. In soggiorno, in camera da letto o in corridoio, le lampade creano unatmosfera piacevole
+- 10 faretti orientabili e 10 lampadine LED GU10 da 3W incluse. Non è necessario il trasformatore. Cavi di collegamento non inclusi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01DNM05LK{{</world>}}

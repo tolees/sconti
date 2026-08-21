@@ -28,8 +28,8 @@ average: '46.95'
 
 ℹ️:
 
-- Intersuola ammortizzante
 - Suola flessibile di trazione
+- Intersuola ammortizzante
 - Soletta imbottita e confortevole
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

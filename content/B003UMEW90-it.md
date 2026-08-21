@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- IDEALI CON: con laccompagnamento di sughi al pomodoro. Provatele anche nelle insalate di pasta, insieme ad una colorata sinfonia di prodotti genuini
 - BARILLA: unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
+- IDEALI CON: con laccompagnamento di sughi al pomodoro. Provatele anche nelle insalate di pasta, insieme ad una colorata sinfonia di prodotti genuini
 - MEZZE MANICHE RIGATE: la forma cilindrica e la rigatura esterna delle Mezze Maniche Rigate Barilla sono ideali anche per piatti saltati in padella, in cui viene esaltato tutto il loro ricco sapore
 - BLUE BOX: la nuova confezione di pasta in cartoncino, nata per abbracciare limpegno di Barilla nello sviluppo di soluzioni volte a ridurre il suo impatto sul pianeta
 - QUALITÀ: pasta corta sempre al dente grazie alla selezione di grani duri, tempo di cottura di 12 minuti. Poniamo grande attenzione lungo tutta la filiera per garantire qualità e sicurezza alimentare

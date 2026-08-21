@@ -28,8 +28,8 @@ average: '10.99'
 
 ℹ️:
 
-- Per gustare al meglio il caffè: il magnesio non solo migliora il sapore dellacqua del rubinetto, ma intensifica anche laroma dellespresso e garantisce una crema più stabile.
 - Purezza e migliore sapore: filtra i sedimenti, trattiene i metalli pesanti tramite un filtro a carbone attivo e scambiatori ionici ed elimina efficacemente le sostanze che alterano il sapore, come ad esempio il cloro presente nellacqua.
+- Per gustare al meglio il caffè: il magnesio non solo migliora il sapore dellacqua del rubinetto, ma intensifica anche laroma dellespresso e garantisce una crema più stabile.
 - Filtro anticalcare che aiuta a risparmiare energia: previene laccumulo di calcare nella caffettiera o nel bollitore e garantisce un flusso ottimale e una conduzione del calore duratura, prolungando inoltre la durata di questi elettrodomestici.
 - Favorisce la vitalità: la nostra tecnologia brevettata arricchisce lacqua con il magnesio, un minerale che favorisce sia le prestazioni e la resistenza che la concentrazione e la rigenerazione, soprattutto nelle fasi più impegnative della vita.
 - Pratica e semplice: per ricordarsi in tempo, impostazione manuale della prossima sostituzione del filtro sul coperchio. Il coperchio di riempimento autoapribile consente di riempire con acqua con una sola mano e senza schizzi.

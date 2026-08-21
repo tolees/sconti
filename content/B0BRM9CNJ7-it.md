@@ -28,10 +28,10 @@ average: '44.99'
 
 ℹ️:
 
-- Leather
-- materialFabricComposition: Upper: 100% Leather; Sole: 100% Rubber; Inner: 100% Cotton; Insole: 100% Cotton
-- Boots
 - Plain
+- Leather
+- Boots
+- materialFabricComposition: Upper: 100% Leather; Sole: 100% Rubber; Inner: 100% Cotton; Insole: 100% Cotton
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BRM9CNJ7{{</world>}}

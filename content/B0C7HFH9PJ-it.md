@@ -30,9 +30,9 @@ average: '14.07'
 
 - Vestibilità comoda
 - Composizione: 61% poliestere, 39% cotone
+- Scollo rotondo, polsini elasticizzati su maniche e orlo
 - Maniche lunghe
 - Felpa da uomo della marca danese Jack & Jones
-- Scollo rotondo, polsini elasticizzati su maniche e orlo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C7HFH9PJ{{</world>}}

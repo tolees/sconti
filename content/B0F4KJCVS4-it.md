@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Nastro firmato allinterno della scollatura
-- Jersey di puro cotone
 - Scollo rotondo
 - Tommy Hilfiger branding
+- Nastro firmato allinterno della scollatura
+- Jersey di puro cotone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F4KJCVS4{{</world>}}

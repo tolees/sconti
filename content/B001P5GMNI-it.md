@@ -28,8 +28,8 @@ average: '11.56'
 
 ℹ️:
 
-- Ampia area personalizzabile con il logo della tua squadra
 - Capacità di 110 litri, per contenere divise da gioco, tute, pettorine, coni e altro ancora
+- Ampia area personalizzabile con il logo della tua squadra
 - Borsa kit con due cinghie di trasporto e tracolla regolabile, per portare con te tutto l’essenziale per il campionato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

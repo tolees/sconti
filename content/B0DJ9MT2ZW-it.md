@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Chiusura: Lacci
-- Punta arrotondata
 - Suola in EVA
 - Larghezza regolare
+- Chiusura: Lacci
+- Punta arrotondata
 - Tipo di tacco: Tacco piatto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

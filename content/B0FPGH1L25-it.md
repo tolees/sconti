@@ -28,11 +28,11 @@ average: '13.69'
 
 ℹ️:
 
-- Aiuta a la sua digestione: Formula integrata con prebiotici naturali dalla radice di cicoria
 - Ricetta monoproteica animale per gatti adulti, anche sterilizzati (> 1 anno)
-- SENZA coloranti, conservanti e zuccheri aggiunti
 - Favorisce un tratto urinario sano: Formula integrata con MIRTILLO ROSSO
 - Con ingredienti specifici di origine naturale
+- SENZA coloranti, conservanti e zuccheri aggiunti
+- Aiuta a la sua digestione: Formula integrata con prebiotici naturali dalla radice di cicoria
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FPGH1L25{{</world>}}

@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Lunghezza al polpaccio
 - 75% cotone / 22% poliestere riciclato / 2% elastane / 1% nylon riciclato
-- Orli a coste
 - Ammortizzazione della suola in punta e sul tallone
+- Orli a coste
 - Confezione da tre paia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

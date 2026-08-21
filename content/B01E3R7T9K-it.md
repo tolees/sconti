@@ -29,11 +29,11 @@ average: '32.808'
 ℹ️:
 
 - Distruggi documenti, taglio a strisce
-- Tempo di funzionamento continuo di 2 minuti con un tempo di raffreddamento di 15 minuti; Funzione auto start e inversione di direzione per rimuovere la carta inceppata
-- Taglia a striscioline fino a 8 fogli alla volta, con funzione distruggi carte di credito, CD e DVD (uno alla volta)
-- Cestino da 12 litri; Protezione termica contro il surriscaldamento e funzione di stop automatico
-- Riduce i documenti in striscioline di larghezza 6mm, livello di sicurezza P-2
 - Dimensioni distruggi documenti: 33 x 32,5 x 16.5 cm. Voltage: 220v_240v_60hz
+- Taglia a striscioline fino a 8 fogli alla volta, con funzione distruggi carte di credito, CD e DVD (uno alla volta)
+- Tempo di funzionamento continuo di 2 minuti con un tempo di raffreddamento di 15 minuti; Funzione auto start e inversione di direzione per rimuovere la carta inceppata
+- Riduce i documenti in striscioline di larghezza 6mm, livello di sicurezza P-2
+- Cestino da 12 litri; Protezione termica contro il surriscaldamento e funzione di stop automatico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01E3R7T9K{{</world>}}

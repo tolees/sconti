@@ -28,11 +28,11 @@ average: '11.4'
 
 ℹ️:
 
-- Asciuga subito e non macchia
-- Punta 0,7 mm; tratto 0,35 mm
-- Il roller gel che costa come una penna a sfera
 - La qualità di energel alla portata di tutti
+- Punta 0,7 mm; tratto 0,35 mm
+- Asciuga subito e non macchia
 - Scrittura ultrascorrevole e massima precisione nel tratto
+- Il roller gel che costa come una penna a sfera
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07QRRXMTV{{</world>}}

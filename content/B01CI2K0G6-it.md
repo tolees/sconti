@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Materiale del corpo e filtro in plastica
 - Lavabile in lavastoviglie
-- Potenza: 25 W
 - Due filtri
+- Potenza: 25 W
 - Funzione spremiagrumi
+- Materiale del corpo e filtro in plastica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01CI2K0G6{{</world>}}

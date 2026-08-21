@@ -28,9 +28,9 @@ average: '22.0'
 
 ℹ️:
 
-- Vestibilità regolare
-- 3 Bar Logo multicolore serigrafato sul petto
 - 100% cotone
+- 3 Bar Logo multicolore serigrafato sul petto
+- Vestibilità regolare
 - Girocollo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

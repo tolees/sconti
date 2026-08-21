@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - FORMULA: La sua formula con Aloe Vera Bio, arricchita da una selezione di sostanze naturali e bio, idrata la pelle rimuovendo il make-up e riducendo l’untuosità della cute senza seccare la pelle
-- ESIGENZA: Questo tipo di pelle necessita di detersione specifica, purificazione, idratazione e sebo-normalizzazione
 - TIPO DI PELLE: Le pelli normali e miste con zone grasse appaiono oleose, lucide e untuose. La pelle untuosa assorbe male le creme tradizionali
+- ESIGENZA: Questo tipo di pelle necessita di detersione specifica, purificazione, idratazione e sebo-normalizzazione
 - MODO DUSO: Distribuire piccole quantità di prodotto sulla pelle del viso già bagnata. Applicare con cura, anche sugli occhi chiusi, se truccati. Risciacquare abbondantemente. Uso esterno
 - TESTATO: I risultati dei test sono stati verificati dai dermatologi e cosmetologi di AIDECO. Il prodotto è inoltre testato al NICHEL COBALTO E CROMO valori < 0,0001%
 

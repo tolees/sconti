@@ -28,12 +28,12 @@ average: '39.99'
 
 ℹ️:
 
-- Batteria da 4900mAh che supporta ricarica e riprese allo stesso tempo.
-- Design compatto che funziona anche come hub di alimentazione portatile.
-- Treppiede integrato per passare rapidamente a un supporto da tavolo stabile per vlog o streaming.
-- GO Ultra Supporto a sgancio rapido / Venduto separatamente.
 - Controllo diretto e semplicedella videocamera con un solo tocco per registrazioni immediate.
 - Attacco universale da 1/4" per collegare accessori mantenendo stabili le riprese a mano.
+- GO Ultra Supporto a sgancio rapido / Venduto separatamente.
+- Design compatto che funziona anche come hub di alimentazione portatile.
+- Treppiede integrato per passare rapidamente a un supporto da tavolo stabile per vlog o streaming.
+- Batteria da 4900mAh che supporta ricarica e riprese allo stesso tempo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FLDBN7W5{{</world>}}

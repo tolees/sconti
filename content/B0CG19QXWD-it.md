@@ -28,16 +28,16 @@ average: '385.846785714287'
 
 ℹ️:
 
-- Include Osmo Pocket 3, una custodia protettiva, un cinturino da polso, un manico con filettatura da 1/4" e molto altro ancora. La scelta ideale per i vlogger alle prime armi.
-- DJI OsmoAudio - Pocket 3 può connettersi direttamente a due trasmettitori DJI Mic 2/Mic Mini, garantendo audio di alta qualità per vlog, interviste e dirette streaming, e semplificando lattrezzatura e il flusso di lavoro.
-- Audio immersivi - La registrazione stereo cattura suoni di alta qualità, migliorando i tuoi video con un audio cristallini. Dalle avventure intriganti ai momenti più preziosi, questa fotocamera compatta darà vita ai tuoi ricordi.
-- Pratica e compatta - Questa fotocamera stabilizzata tascabile è incredibilmente portatile, resistente e non ti farà perdere neanche singolo un momento. Affronta avventure di ogni tipo, dai viaggi allestero alle riunioni di famiglia.
-- Vlog accattivanti con ActiveTrack 6.0 - Rimani sempre sul pezzo mentre riprendi. Posiziona Osmo Pocket 3 su un treppiede e rimani sempre al centro dellinquadratura.
-- Gradazione del colore avanzata - Con D-Log M e la profondità di colore a 10 bit, puoi registrare facilmente fino a un miliardo di colori e ottenere effetti visivi sorprendenti durante la post-produzione. Ideale durante albe e tramonti.
-- Inquadra i tuoi scatti senza sforzo - Ottieni la composizione ideale grazie allampio touch screen ruotabile da 2 pollici di Osmo Pocket 3, per riprese sia orizzontali che verticali.
 - Messa a fuoco rapida e precisa - Osmo Pocket 3 si fissa sul soggetto per riprese nitide e chiare. Che si tratti di scene ricche di azione o di riprese fisse, garantisce che ogni dettaglio venga catturato.
-- Cattura filmati straordinari - Osmo Pocket 3 è dotata di un sensore con CMOS da 1” e registra video con risoluzione in 4K a un’impressionante velocità di 120 fps. Immortala panorami notturni e tramonti mozzafiato con maggiore nitidezza.
+- Inquadra i tuoi scatti senza sforzo - Ottieni la composizione ideale grazie allampio touch screen ruotabile da 2 pollici di Osmo Pocket 3, per riprese sia orizzontali che verticali.
+- Gradazione del colore avanzata - Con D-Log M e la profondità di colore a 10 bit, puoi registrare facilmente fino a un miliardo di colori e ottenere effetti visivi sorprendenti durante la post-produzione. Ideale durante albe e tramonti.
+- Include Osmo Pocket 3, una custodia protettiva, un cinturino da polso, un manico con filettatura da 1/4" e molto altro ancora. La scelta ideale per i vlogger alle prime armi.
+- Vlog accattivanti con ActiveTrack 6.0 - Rimani sempre sul pezzo mentre riprendi. Posiziona Osmo Pocket 3 su un treppiede e rimani sempre al centro dellinquadratura.
+- Audio immersivi - La registrazione stereo cattura suoni di alta qualità, migliorando i tuoi video con un audio cristallini. Dalle avventure intriganti ai momenti più preziosi, questa fotocamera compatta darà vita ai tuoi ricordi.
+- DJI OsmoAudio - Pocket 3 può connettersi direttamente a due trasmettitori DJI Mic 2/Mic Mini, garantendo audio di alta qualità per vlog, interviste e dirette streaming, e semplificando lattrezzatura e il flusso di lavoro.
 - Riprese ultra stabili - Dì addio ai video mossi! Lavanzata stabilizzazione meccanica a 3 assi di Osmo Pocket 3 offre una stabilità eccezionale. Goditi riprese fluide mentre balli, giochi con i tuoi cuccioli o durante delle escursioni.
+- Pratica e compatta - Questa fotocamera stabilizzata tascabile è incredibilmente portatile, resistente e non ti farà perdere neanche singolo un momento. Affronta avventure di ogni tipo, dai viaggi allestero alle riunioni di famiglia.
+- Cattura filmati straordinari - Osmo Pocket 3 è dotata di un sensore con CMOS da 1” e registra video con risoluzione in 4K a un’impressionante velocità di 120 fps. Immortala panorami notturni e tramonti mozzafiato con maggiore nitidezza.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CG19QXWD{{</world>}}

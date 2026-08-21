@@ -28,8 +28,8 @@ average: '31.44'
 
 ℹ️:
 
-- Indicatore LED a 5 tacche per controllo immediato nel livello di carica
 - Celle agli ioni di litio ad alta efficienza
+- Indicatore LED a 5 tacche per controllo immediato nel livello di carica
 - Tecnologia Powershare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

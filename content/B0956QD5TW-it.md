@@ -28,11 +28,11 @@ average: '84.7'
 
 ℹ️:
 
-- Materiale superiore: pelle, Materiale interno: sintetico, Suola esterna: Gomma
-- senza sottopiede removibile
 - Tipo di tacco: tacco a blocco, Altezza di tacco: 6.50 cm, Albero: polpaccio, Altezza albero: 19 cm
 - Tipo di prodotto: Stivali,Stivaletti Chelsea,bottini,boots,stivaletti,stivaletto,stivaletto slip-on,piatto
 - Larghezza: normale (Normal), Closure type: senza chiusura
+- senza sottopiede removibile
+- Materiale superiore: pelle, Materiale interno: sintetico, Suola esterna: Gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0956QD5TW{{</world>}}

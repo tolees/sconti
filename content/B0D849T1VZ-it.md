@@ -28,11 +28,11 @@ average: '55.94'
 
 ℹ️:
 
-- Memory foam raffreddato ad aria
+- Vegano
 - Lavabile in lavatrice
 - Slip-in
-- Vegano
 - Cuscino per tallone
+- Memory foam raffreddato ad aria
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D849T1VZ{{</world>}}

@@ -28,11 +28,11 @@ average: '25.77'
 
 ℹ️:
 
-- Colletto e abbottonatura con bottoni
-- M Nk Df Acd23 Polo Ss
-- Materiale a contrasto lungo la maglia con struttura a rete
-- La polo Nike sarà perfetta per luso quotidiano e durante lallenamento.
 - La tecnologia Dri-FIT assorbe lumidità
+- M Nk Df Acd23 Polo Ss
+- La polo Nike sarà perfetta per luso quotidiano e durante lallenamento.
+- Materiale a contrasto lungo la maglia con struttura a rete
+- Colletto e abbottonatura con bottoni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B59NRF1Y{{</world>}}

@@ -28,10 +28,10 @@ average: '46.99'
 
 ℹ️:
 
+- Cestello con finestra trasparente: controlla la cottura senza aprire
 - Display LED a colori, 8 programmi preimpostati, timer 1-30 min, temperatura 80-200°C
 - Riduce grassi fino all’80%: cucina più sana senza rinunciare al gusto dei fritti
 - Friggitrice ad aria da 6,5L con doppia resistenza: cottura veloce, uniforme e senza olio
-- Cestello con finestra trasparente: controlla la cottura senza aprire
 - Potente e sicura: 2000W, alimentazione 220–240V, design moderno e compatto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

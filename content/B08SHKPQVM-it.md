@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Sistema «Anti-Blocking» Bosch, per un taglio senza interruzioni
+- Lama da 45 cm e spessore di taglio di 15 mm per lavori di taglio leggeri
 - La flessibilità della batteria consente tagli rapidi e precisi in tutto il giardino
 - Tagliasiepi leggero e ben bilanciato per tagliare piccole siepi
 - Dotazione: EasyHedgeCut 18-45, confezione in cartone
-- Lama da 45 cm e spessore di taglio di 15 mm per lavori di taglio leggeri
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08SHKPQVM{{</world>}}

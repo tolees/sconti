@@ -28,15 +28,15 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Pietra staccabile per pirolisi e pulizia
-- Potenza: 1800 W
-- Timer 30 minuti con segnale acustico
 - Doppia spia di funzionamento
-- Doppia resistenza, superiore 1200W e inferiore 600W
+- Potenza: 1800 W
 - Pareti fredde
-- Piatto in pietra refrattaria (ø 31 cm)
-- Calotta riflettente inox
+- Pietra staccabile per pirolisi e pulizia
+- Timer 30 minuti con segnale acustico
 - Termostato regolabile fino a 420°C
+- Piatto in pietra refrattaria (ø 31 cm)
+- Doppia resistenza, superiore 1200W e inferiore 600W
+- Calotta riflettente inox
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DQY1X6BW{{</world>}}

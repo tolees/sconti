@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Note di VANIGLIA e ZENZERO rivelano le note calde ed avvolgenti delle terre lontane.
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
-- Il Rituale delle SPEZIE, un avventuroso viaggio lungo la rotta delle Indie Coloniali, alla scoperta degli aromi e delle spezie più pregiate
-- Un connubio morbido ma deciso, dove il cuore lievemente speziato dello Zenzero è scaldato dall’aroma avvolgente della Vaniglia del Madagascar
 - Deterge con dolcezza lasciando la pelle morbida ed idratata.
+- Un connubio morbido ma deciso, dove il cuore lievemente speziato dello Zenzero è scaldato dall’aroma avvolgente della Vaniglia del Madagascar
+- Il Rituale delle SPEZIE, un avventuroso viaggio lungo la rotta delle Indie Coloniali, alla scoperta degli aromi e delle spezie più pregiate
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
+- Note di VANIGLIA e ZENZERO rivelano le note calde ed avvolgenti delle terre lontane.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CN2LMKKT{{</world>}}

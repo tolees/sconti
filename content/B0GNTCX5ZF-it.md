@@ -28,11 +28,11 @@ average: '9.23'
 
 ℹ️:
 
-- Senza glutine, senza zuccheri aggiunti e adatti ai vegetariani.
-- Prodotto nei nostri stabilimenti produttivi in Italia, con materie prime selezionate e controlli di qualità accurati per garantire sicurezza ed efficacia.
 - Nutritask All in One è un drink funzionale pronto da bere con vitamina C, D ed E, estratti di frutta e Rodiola rosea per un boost completo per lorganismo, le difese immunitarie e la resistenza a stress e stanchezza. Gusto Mirtillo.
 - Formato pratico ready to drink, facile da portare con sé e da consumare in ogni momento della giornata.
+- Prodotto nei nostri stabilimenti produttivi in Italia, con materie prime selezionate e controlli di qualità accurati per garantire sicurezza ed efficacia.
 - Gli shot booster Nutritask sono drink funzioniali pronti da bere con estratti di frutta, vitamine ed estratti vegetali, formulati per una carica immediata di energia, per sostenere le tue difese e per il tuo benessere generale.
+- Senza glutine, senza zuccheri aggiunti e adatti ai vegetariani.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GNTCX5ZF{{</world>}}

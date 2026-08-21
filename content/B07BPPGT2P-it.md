@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tomaia: Pelle
-- Suola/Caratteristiche: TPU
-- Tacco
 - Colore: Nero
+- Tomaia: Pelle
+- Tacco
 - Fodera: 87% sintetico - 13% poliestere riciclato
+- Suola/Caratteristiche: TPU
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07BPPGT2P{{</world>}}

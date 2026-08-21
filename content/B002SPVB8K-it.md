@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Senza irritazione della pelle
 - Allergia testato
 - Efficace
+- Senza irritazione della pelle
 - 100% senza profumo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

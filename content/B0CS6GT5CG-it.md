@@ -28,11 +28,11 @@ average: '20.99'
 
 ℹ️:
 
+- Cavo 2m, H05VV-F, Sezione, 3G1.5 mm², Spina Schuko 16A
+- Carica rapida per tutti ed efficiente per tutti i dispositivi
+- Output single USB port: C1=PD35W, C2=15W, C3=15W, A1=15W
 - Installazione su scrivania semplice ed efficiente grazie al supporto incluso, garentendo una fissazione sicura senza danneggiare le superfici della scrivania
 - Multipresa Scrivania/Tavolo 2 Posti Schuko, Spina Schuko 16A, + 4 Porte USB: 1 porta USB A , + 3 porte USB di tipo C Power Delivery (PD 35W) max 35W
-- Carica rapida per tutti ed efficiente per tutti i dispositivi
-- Cavo 2m, H05VV-F, Sezione, 3G1.5 mm², Spina Schuko 16A
-- Output single USB port: C1=PD35W, C2=15W, C3=15W, A1=15W
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CS6GT5CG{{</world>}}

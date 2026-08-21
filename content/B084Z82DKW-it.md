@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Morissette, alanis
 - Such
 - Pretty
+- Morissette, alanis
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B084Z82DKW{{</world>}}

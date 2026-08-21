@@ -28,11 +28,11 @@ average: '16.68'
 
 ℹ️:
 
-- CARATTERISTICHE: per la normale funzione del sistema immunitario e riduzione di stanchezza e affaticamento, protegge le cellule da stress ossidativo e accresce lassorbimento del ferro
-- TECNOLOGIA RETARD: l’innovativa tecnologia RETARD permette un rilascio graduale nel tempo, fino a 6 ore, della Vitamina C per favorire una progressiva assimilazione da parte dell’organismo
 - PRODOTTO IN ITALIA, VEGAN, PACKAGING ECOSOSTENIBILE: Prodotto Vegano, Senza Glutine, Senza Coloranti, Naturalmente Privo di Lattosio. Flacone R-Pet 100% Riciclato con Sigillo di Sicurezza
-- PER LA NORMALE FUNZIONE DEL SISTEMA IMMUNITARIO: integratore alimentare altodosato con 1000 mg di Vitamina C per singola compressa pari al 1250% del fabbisogno giornaliero
 - DA ASSUMERE QUOTIDIANAMENTE: 1 compressa al giorno preferibilmente dopo i pasti apporta 1000 mg di Vitamina C, è possibile dividere la compressa in 2 parti grazie al pre-taglio
+- TECNOLOGIA RETARD: l’innovativa tecnologia RETARD permette un rilascio graduale nel tempo, fino a 6 ore, della Vitamina C per favorire una progressiva assimilazione da parte dell’organismo
+- PER LA NORMALE FUNZIONE DEL SISTEMA IMMUNITARIO: integratore alimentare altodosato con 1000 mg di Vitamina C per singola compressa pari al 1250% del fabbisogno giornaliero
+- CARATTERISTICHE: per la normale funzione del sistema immunitario e riduzione di stanchezza e affaticamento, protegge le cellule da stress ossidativo e accresce lassorbimento del ferro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FBBSL7ZC{{</world>}}

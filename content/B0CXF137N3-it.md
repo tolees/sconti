@@ -28,10 +28,10 @@ average: '18.04'
 
 ℹ️:
 
-- MEGLIO IL CARAPACE DEL MANTELLO: Combatti e cresci nei panni dei 4 eroi, sbloccando mosse e abilità per sfruttare al massimo il loro potenziale.
 - INSIEME PER AFFRONTARE LA SFIDA: Fai squadra con un amico in co-op da divano per due giocatori.
-- UN BEL GIRETTO NEL VICINATO: Attraversa i 5 quartieri incontrando facce nuove e già viste come April, Splinter e tante altre.
 - TARTARUGHE UNITE: Pattuglia le strade e combatti contro i nemici che mutano in tutto il gioco.
+- MEGLIO IL CARAPACE DEL MANTELLO: Combatti e cresci nei panni dei 4 eroi, sbloccando mosse e abilità per sfruttare al massimo il loro potenziale.
+- UN BEL GIRETTO NEL VICINATO: Attraversa i 5 quartieri incontrando facce nuove e già viste come April, Splinter e tante altre.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CXF137N3{{</world>}}

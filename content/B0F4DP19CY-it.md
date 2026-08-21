@@ -30,14 +30,14 @@ average: '28.95'
 
 - Spallacci imbottiti regolabili
 - Volume: 25,75 L
-- Pannello posteriore in mesh
-- Pannello posteriore in rete
-- Esterno: 100% poliestere (riciclato); Interno: 100% elastomero termoplastico
-- Pannello posteriore in rete
-- Spallacci imbottiti regolabili
-- Dimensioni: 16,5 cm x 30 cm x 50 cm
-- Base rivestita
 - Tasche laterali aperte e tasche anteriori con chiusura a zip
+- Pannello posteriore in rete
+- Pannello posteriore in mesh
+- Esterno: 100% poliestere (riciclato); Interno: 100% elastomero termoplastico
+- Spallacci imbottiti regolabili
+- Base rivestita
+- Dimensioni: 16,5 cm x 30 cm x 50 cm
+- Pannello posteriore in rete
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F4DP19CY{{</world>}}

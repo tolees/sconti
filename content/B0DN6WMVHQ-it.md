@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- COMPOSIZIONE: Queste capsule sono realizzate con caffè 100% Arabica del Centro e Sud America, attentamente selezionato
 - LAVAZZA: Il Gruppo Lavazza opera in ogni settore dellindustria del caffè, offrendo prodotti di alta qualità, ottenuti attraverso un modello basato su innovazione, passione e competenza
 - ESPRESSO GOURMET CHOCOLATE: Scopri il nuovo Espresso Gourmet Caramel di Lavazza. La confezione include 100 capsule in alluminio compatibili con le macchine originali Nespresso* Original. *Lavazza non è affiliata a, né promossa o sponsorizzata da Nespresso
-- COMPOSIZIONE: Queste capsule sono realizzate con caffè 100% Arabica del Centro e Sud America, attentamente selezionato
 - NOTE AROMATICHE: Le capsule Espresso Gourmet Caramel sono caratterizzate da un aroma naturale di caramello, per un caffè bilanciato, dolce e delicato
 - INTENSITÀ: La tostatura media e il livello di intensità 8/13 conferiscono a questo caffè un gusto equilibrato, per un espresso dal colore nocciolato
 

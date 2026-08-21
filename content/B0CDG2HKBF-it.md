@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - pulsante per la commutazione della modalità, adatto ai giochi 2D
-- Supporta la configurazione dei tasti nel software 8BitDo Ultimate - versione mobile (solo modalità tastiera)
-- Compatibile con Switch, Android e Raspberry Pi
-- Pesa 24,8 grammi e ha 16 tasti. Ultraportatile e versatile.
 - Supporto per laggiornamento del firmware
+- Pesa 24,8 grammi e ha 16 tasti. Ultraportatile e versatile.
+- Compatibile con Switch, Android e Raspberry Pi
+- Supporta la configurazione dei tasti nel software 8BitDo Ultimate - versione mobile (solo modalità tastiera)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CDG2HKBF{{</world>}}

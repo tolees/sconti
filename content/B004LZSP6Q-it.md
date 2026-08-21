@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Il braccio di lettura può essere regolato individualmente utilizzando il giunto flessibile
 - Essentials: illuminazione adatta ad ogni appartamento
 - Altezza del proiettore: 1,8 m
 - Con interruttore a cavo
+- Il braccio di lettura può essere regolato individualmente utilizzando il giunto flessibile
 - Adatto per lampade a LED
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

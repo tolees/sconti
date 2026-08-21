@@ -28,11 +28,11 @@ average: '189.99'
 
 ℹ️:
 
-- Refresh Rate 180Hz, Response Time 1ms, AMD FreeSync
 - 1 HDMI, 1 Display Port, Ingresso Audio, Flicker Free
+- Refresh Rate 180Hz, Response Time 1ms, AMD FreeSync
+- Samsung Monitor Gaming Odyssey G5, 27", Flat
 - 2560x1440 (QHD), Pannello IPS, 16:9, HDR400
 - Contenuto: 1x Samsung Monitor Gaming Odyssey G5 27", Include cavo di alimentazione, cavo HDMI e cavo DP, Dimensioni con base (LxAxP): 61,3 x 36,15 x 26,3 cm
-- Samsung Monitor Gaming Odyssey G5, 27", Flat
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CW9HZKYW{{</world>}}

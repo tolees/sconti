@@ -28,9 +28,9 @@ average: '17.69'
 
 ℹ️:
 
-- Elimina lo sporco in modo facile senza lasciare aloni su vetri, specchi e superfici brillanti, rendendoli perfettamente trasparenti
-- Ajax è un fidato aiuto per far brillare a lungo la tua casa senza sforzo
 - Ajax Crystal Clean ha una speciale formula con ammoniaca che pulisce rapidamente e perfettamente tutti i tipi di sporco
+- Ajax è un fidato aiuto per far brillare a lungo la tua casa senza sforzo
+- Elimina lo sporco in modo facile senza lasciare aloni su vetri, specchi e superfici brillanti, rendendoli perfettamente trasparenti
 - Non lascia residui ed è 100% anti alone
 - Facile da utilizzare per avere vetri perfettamente puliti e trasparenti
 

@@ -28,11 +28,11 @@ average: '10.23'
 
 ℹ️:
 
-- CREMA MODELLANTE & DISTRICANTE: aiuta a districare i capelli ricci rendendoli morbidi, modellabili e facili da pettinare, per ricci più ordinati, definiti e dall’aspetto sano
 - RICCI DEFINITI FINO A 24 ORE: contribuisce a mantenere la forma naturale del riccio più a lungo, lasciando i capelli elastici, leggeri e visibilmente più disciplinati*
-- SUNSILK LINEA RICCI DA SOGNO: utilizzata insieme allo shampoo della stessa linea, aiuta a ottenere ricci più definiti, elastici e morbidi rispetto all’uso di un generico shampoo*
-- FORMULA CON 11% NUTRI ELASTI COMPLEX: arricchita con Olio di Macadamia, Elastina e Vitamina B5 per nutrire la fibra capillare e migliorare elasticità, morbidezza e vitalità dei ricci
 - MODO D’USO: applica sui capelli bagnati o asciutti e distribuisci sulle lunghezze, pettina come fai solitamente. Non è necessario risciacquare. In caso di contatto con gli occhi, sciacquare immediatamente
+- FORMULA CON 11% NUTRI ELASTI COMPLEX: arricchita con Olio di Macadamia, Elastina e Vitamina B5 per nutrire la fibra capillare e migliorare elasticità, morbidezza e vitalità dei ricci
+- SUNSILK LINEA RICCI DA SOGNO: utilizzata insieme allo shampoo della stessa linea, aiuta a ottenere ricci più definiti, elastici e morbidi rispetto all’uso di un generico shampoo*
+- CREMA MODELLANTE & DISTRICANTE: aiuta a districare i capelli ricci rendendoli morbidi, modellabili e facili da pettinare, per ricci più ordinati, definiti e dall’aspetto sano
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0G83HRMB7{{</world>}}

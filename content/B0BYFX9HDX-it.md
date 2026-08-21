@@ -28,8 +28,8 @@ average: '14.95'
 
 ℹ️:
 
-- Modello 9Twenty: visiera curva, corona destrutturata, chiusura strapback
 - Caratteristiche speciali: Ricamo del logo della squadra sul davanti, etichetta ad anello con logo della squadra sulla chiusura posteriore
+- Modello 9Twenty: visiera curva, corona destrutturata, chiusura strapback
 - Elegante cappellino dei Philadelphia Phillies di New Era
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

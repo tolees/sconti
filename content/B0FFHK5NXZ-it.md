@@ -28,11 +28,11 @@ average: '13.72'
 
 ℹ️:
 
-- TAGLIA: al momento dellacquisto di infradito Havaianas su Amazon, si consiglia di considerare la taglia BR/fornitore equivalente alla taglia UE, indipendentemente da ciò che viene visualizzato sulla suola del prodotto
 - Infradito Colore: Wild Lime
-- Composizione: Cinturino: 100% PVC + Logo: 100% Plastisol. Suola: 100% Gomma
-- Genere: scarpe alla moda da uomo
 - Tipo di suola: confortevole, durevole, leggera, resistente al calore, antiscivolo e impermeabile
+- TAGLIA: al momento dellacquisto di infradito Havaianas su Amazon, si consiglia di considerare la taglia BR/fornitore equivalente alla taglia UE, indipendentemente da ciò che viene visualizzato sulla suola del prodotto
+- Genere: scarpe alla moda da uomo
+- Composizione: Cinturino: 100% PVC + Logo: 100% Plastisol. Suola: 100% Gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FFHK5NXZ{{</world>}}

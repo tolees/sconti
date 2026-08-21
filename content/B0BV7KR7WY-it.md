@@ -28,9 +28,9 @@ average: '40.05'
 
 ℹ️:
 
+- Senza prostaglandina. OFTALMOLOGO TESTATO SICURO PER GLI OCCHI
 - La NUOVA OLAPLEX Peptide Complex Technology supporta il ciclo di crescita naturale e la ritenzione delle ciglia, per ciglia più lunghe, spesse, forti e piene.
 - Compatibile con lenti a contatto, lifting di ciglia, extension ciglia e ciglia finte
-- Senza prostaglandina. OFTALMOLOGO TESTATO SICURO PER GLI OCCHI
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BV7KR7WY{{</world>}}

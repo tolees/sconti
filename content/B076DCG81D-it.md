@@ -28,9 +28,9 @@ average: '5.76'
 
 ℹ️:
 
-- BioNike Dermolenitivo è uno shampoo delicato per cute sensibile formulato con Pro-Vitamina B5 e Aloe Vera, per detergere delicatamente, lenire la pelle sensibile e contrastare i danni ambientali o da trattamenti aggressivi
-- Applicare sui capelli inumiditi e massaggiare delicatamente anche sul cuoio capelluto, lasciare in posa qualche minuto prima di risciacquare; nickel tested e senza conservanti e glutine
 - Defence Hair è la linea per la detersione quotidiana dei capelli e della cute formulata per tutte le esigenze, proteggendo la pelle più sensibile ed esaltando la naturale bellezza della chioma
+- Applicare sui capelli inumiditi e massaggiare delicatamente anche sul cuoio capelluto, lasciare in posa qualche minuto prima di risciacquare; nickel tested e senza conservanti e glutine
+- BioNike Dermolenitivo è uno shampoo delicato per cute sensibile formulato con Pro-Vitamina B5 e Aloe Vera, per detergere delicatamente, lenire la pelle sensibile e contrastare i danni ambientali o da trattamenti aggressivi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B076DCG81D{{</world>}}

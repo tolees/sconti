@@ -28,10 +28,10 @@ average: '4.95'
 
 ℹ️:
 
+- PROTEZIONE GENGIVE: Aiuta a combattere il sanguinamento e le infiammazioni gengivali. Favorisce il riequilibrio del normale microbiota orale
+- COLLUTORIO AD ALTA DENSITÀ 50+: Appositamente formulato per rispondere alle esigenze di igiene orale quotidiana negli adulti over 50
 - CONTRASTA ALITOSI E BOCCA SECCA: Idrata il cavo orale, donando sollievo dalla bocca secca grazie all’aroma specifico per una sensazione di freschezza prolungata
 - CON MICROREPAIR, PROBIOTICI ED ESTRATTI NATURALI ANTIOSSIDANTI: Aiuta a contrastare le principali cause di sanguinamento, alitosi e infiammazioni
-- COLLUTORIO AD ALTA DENSITÀ 50+: Appositamente formulato per rispondere alle esigenze di igiene orale quotidiana negli adulti over 50
-- PROTEZIONE GENGIVE: Aiuta a combattere il sanguinamento e le infiammazioni gengivali. Favorisce il riequilibrio del normale microbiota orale
 - CONTRASTA LIPERSENSIBILITÀ DENTINALE, ANTIBATTERICO E ANTI-CARIE: Ristabilisce la naturale barriera dei denti contro l’ipersensibilità. Protegge da placca, tartaro e carie
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

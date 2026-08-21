@@ -28,11 +28,11 @@ average: '2.49'
 
 ℹ️:
 
-- CARATTERISTICHE: facile e veloce da preparare, si cuoce in 9 minuti, direttamente in acqua salata bollente
-- IDEALE CON: piatti caldi o freddi. Provalo con tonno, peperoni e olive taggiasche
 - BARILLA: unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877; i nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
 - INGREDIENTI: riso, Grano Saraceno, Quinoa Bianca, Quinoa Rossa, Miglio
 - MIX CEREALI E QUINOA: coltivati fin dallantichità Riso, Grano Saraceno, Quinoa, e Miglio, oggi sono ingredienti essenziali per una dieta mediterranea nutriente e gustosa. Un mix privo di glutine, ottimo per piatti caldi o freddi, da condire con verdure o legumi
+- CARATTERISTICHE: facile e veloce da preparare, si cuoce in 9 minuti, direttamente in acqua salata bollente
+- IDEALE CON: piatti caldi o freddi. Provalo con tonno, peperoni e olive taggiasche
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B073WFBVXF{{</world>}}

@@ -28,13 +28,13 @@ average: '459.0'
 
 ℹ️:
 
-- Pulizia personalizzata dei pavimenti sempre: Elimina rapidamente le macchie grazie al sistema dei due moci rotanti, offrendo 32 livelli regolabili per pavimenti senza aloni. Regola il livello dellacqua per adattarsi ad ogni condizione o tipo di pavimento per un risultato impeccabile.
+- Pulizia integrata tramite lapp: Controllo senza sforzo tramite unapp di pulizia intuitiva, con interazione vocale sincronizzata con i tuoi animali domestici quando non ci sei, programmazione delle pulizie, frequenze di lavaggio e aspirazione e altro ancora, tutto con un solo tocco sullapp.
+- Strategie di pulizia di tappeti e moquette: Ottieni una pulizia migliorata con il sollevamento della spazzola laterale e dei moci. Il sistema CleanLift aiuta a passare facilmente dal lavaggio allaspirazione, mantenendo tappeti e moquette asciutti. Personalizza nellapp le varie modalità di pulizia di tappeti e moquette per soddisfare diverse necessità di pulizia.
+- Aspirazione anti-groviglio migliorata: Approfitta di unaspirazione da 19.000 Pa che raccoglie polvere, capelli e altri residui di grandi dimensioni da molteplici superfici. Supporta la spazzola anti-groviglio CleanChop, acquistabile separatamente.
 - Pulizia completamente automatizzata: Ottieni unesperienza di pulizia completa con il robot aspirapolvere e lavapavimenti completamente autonomo. La base auto-sufficiente raccoglie polvere fino a 75 giorni, pulisce i panni per mocio con acqua a 75 °C, aggiunge acqua e asciuga i moci per prevenire la diffusione di cattivi odori.
 - Facile manovrabilità in tutta casa: Mappatura precisa e movimenti senza sforzo. P50 Ultra genera mappe di più piani e pianifica percorsi per una casa immacolata, coprendo più aree e evitando accuratamente gli ostacoli.
-- Strategie di pulizia di tappeti e moquette: Ottieni una pulizia migliorata con il sollevamento della spazzola laterale e dei moci. Il sistema CleanLift aiuta a passare facilmente dal lavaggio allaspirazione, mantenendo tappeti e moquette asciutti. Personalizza nellapp le varie modalità di pulizia di tappeti e moquette per soddisfare diverse necessità di pulizia.
-- Pulizia integrata tramite lapp: Controllo senza sforzo tramite unapp di pulizia intuitiva, con interazione vocale sincronizzata con i tuoi animali domestici quando non ci sei, programmazione delle pulizie, frequenze di lavaggio e aspirazione e altro ancora, tutto con un solo tocco sullapp.
+- Pulizia personalizzata dei pavimenti sempre: Elimina rapidamente le macchie grazie al sistema dei due moci rotanti, offrendo 32 livelli regolabili per pavimenti senza aloni. Regola il livello dellacqua per adattarsi ad ogni condizione o tipo di pavimento per un risultato impeccabile.
 - Dagli angoli ai bordi: Pulisce a fondo angoli, bordi e battiscopa grazie alla spazzola laterale e al mocio estensibile, raggiungendo spazi stretti come gli angoli e le aree sotto ai mobili bassi.
-- Aspirazione anti-groviglio migliorata: Approfitta di unaspirazione da 19.000 Pa che raccoglie polvere, capelli e altri residui di grandi dimensioni da molteplici superfici. Supporta la spazzola anti-groviglio CleanChop, acquistabile separatamente.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DTJSFC1Z{{</world>}}

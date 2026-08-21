@@ -28,16 +28,16 @@ average: '24.95'
 
 ℹ️:
 
-- Zip frontale con patta antivento interna e garage antisfregamento
-- 2 tasche laterali con zip
 - Clima Protect
-- Fondo regolabile con coulisse interna
-- WP 7.000
-- 4 stagioni
 - Cappuccio fisso con bordo elastico
+- 2 tasche laterali con zip
 - Water Repellent
-- MVP 1.000
+- WP 7.000
+- Zip frontale con patta antivento interna e garage antisfregamento
 - Interno in pile in contrasto colore
+- 4 stagioni
+- MVP 1.000
+- Fondo regolabile con coulisse interna
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B003Z0O5SA{{</world>}}

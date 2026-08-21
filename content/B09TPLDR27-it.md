@@ -28,10 +28,10 @@ average: '8.24'
 
 ℹ️:
 
-- DETTAGLI: finitura a coste sul collo, etichetta stampata per un maggiore comfort e nastrature in morbida maglia di jersey sul collo.
-- T-SHIRT CLASSICA: questo indumento classico presenta una struttura da t-shirt girocollo a maniche corte.
-- VESTIBILITÀ SLIM: vestibilità slim su spalle, torace e vita.
 - LUNGHEZZA: 73,6 cm dalla base del collo nella taglia US M.
+- T-SHIRT CLASSICA: questo indumento classico presenta una struttura da t-shirt girocollo a maniche corte.
+- DETTAGLI: finitura a coste sul collo, etichetta stampata per un maggiore comfort e nastrature in morbida maglia di jersey sul collo.
+- VESTIBILITÀ SLIM: vestibilità slim su spalle, torace e vita.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09TPLDR27{{</world>}}

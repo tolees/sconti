@@ -28,9 +28,9 @@ average: '48.9333333333333'
 
 ℹ️:
 
-- Con logo sul petto
 - Prodotto di marca Leone 1947
 - Adatto per lallenamento
+- Con logo sul petto
 - Con ottima libertà di movimento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

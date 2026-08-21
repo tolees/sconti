@@ -28,11 +28,11 @@ average: '5.39'
 
 ℹ️:
 
-- MODALITA DI ASSUNZIONE: Si consiglia di assumere 1 bustina poco prima di coricarsi, sciolta in 150ml di acqua tiepida (o calda); La presenza di eventuali grumi non pregiudica la qualità del prodotto;
-- INGREDIENTI: Sorbitolo; Magnesio; Melissa; Camomilla; biossido di silicio; Aroma; Magnesio ossido; Sucralosio; Melatonina;
-- I BENEFICI: La Melatonina contribuisce alla riduzione del tempo richiesto per prendere sonno. Melissa e Camomilla aiutano il rilassamento. Il Magnesio contribuisce alla normale funzione psicologica;
 - CHE COSE MELATONINA E CAMOMILLA ACT? È una bevanda solubile SENZA ZUCCHERI a base di Melatonina, Camomilla, Melissa e Magnesio
+- I BENEFICI: La Melatonina contribuisce alla riduzione del tempo richiesto per prendere sonno. Melissa e Camomilla aiutano il rilassamento. Il Magnesio contribuisce alla normale funzione psicologica;
 - ALLINTERNO DELLA CONFEZIONE: Confezione da 30 Bustine Solubili al gradevole aroma alla camomilla; Senza Zuccheri; Con Edulcorante;
+- INGREDIENTI: Sorbitolo; Magnesio; Melissa; Camomilla; biossido di silicio; Aroma; Magnesio ossido; Sucralosio; Melatonina;
+- MODALITA DI ASSUNZIONE: Si consiglia di assumere 1 bustina poco prima di coricarsi, sciolta in 150ml di acqua tiepida (o calda); La presenza di eventuali grumi non pregiudica la qualità del prodotto;
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BHJ5XRH5{{</world>}}

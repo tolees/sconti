@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- L’ammorbidente Lenor Amalfi si ispira all’atmosfera magica di Amalfi
+- Profumo con un tocco di olii essenziali
 - Fresco anche dopo l’asciugatura
 - Fresco anche nei cicli brevi e a freddo
-- Profumo con un tocco di olii essenziali
-- L’ammorbidente Lenor Amalfi si ispira all’atmosfera magica di Amalfi
 - Profumo autentico di lunga durata con note di limone e mughetto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

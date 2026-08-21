@@ -29,10 +29,10 @@ average: '10.365'
 ℹ️:
 
 - Ogni confezione contiene 24 bustine da 85 g.
+- Senza coloranti né conservanti aggiunti
 - Alimento Umido completo ed equilibrato per gatti adulti
 - Con Ingredienti di Alta Qualità
 - Con Tonno
-- Senza coloranti né conservanti aggiunti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BDVM5Z1P{{</world>}}

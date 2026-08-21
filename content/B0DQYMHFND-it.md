@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - CONDIVISIONE IMMEDIATA: Trasferimento rapido con Wi-Fi e Bluetooth integrati in questa fotocamera portatile tascabile, con il pulsante di invio dellimmagine per una rapida condivisione su smartphone
 - OTTIMI RISULTATI: Immagini ottimali grazie al sensore MOS da 20,3 MP, allautofocus DFD e alla messa a fuoco a 49 aree, per risultati nitidi e dettagliati anche in condizioni di scarsa illuminazione
-- DESIGN DA VIAGGIO: Concepita per lavventura, questa fotocamera 4K è dotata di un monitor inclinabile da 1.840k punti per selfie istantanei e di una batteria USB-C per la ricarica in viaggio
 - VIDEO E FOTO 4K: Rivivete ogni momento con i video 4K 30p e le foto 4K di questa videocamera per vlogging; i video HD ad alta velocità a 120 fps permettono di creare facilmente scene al rallentatore
 - POTENTE ZOOM 30X: Catturate soggetti distanti in modo nitido con lobiettivo LEICA DC 24-720 mm e lo zoom 30x di questa fotocamera digitale compatta, con OIS+ IBRIDO a 5 assi per foto e video stabili
+- DESIGN DA VIAGGIO: Concepita per lavventura, questa fotocamera 4K è dotata di un monitor inclinabile da 1.840k punti per selfie istantanei e di una batteria USB-C per la ricarica in viaggio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DQYMHFND{{</world>}}

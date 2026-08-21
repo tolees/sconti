@@ -28,8 +28,8 @@ average: '30.49'
 
 ℹ️:
 
-- Punta arrotondata
 - Chiusura con lacci
+- Punta arrotondata
 - Suola leggera in TPU con tacchetti conici
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

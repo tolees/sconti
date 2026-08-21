@@ -28,13 +28,13 @@ average: '29.81'
 
 ℹ️:
 
-- Capacità 600cc - 2 velocità
-- Potenza: 300W
-- Disco reversibile INOX per affettare e julienne
 - Doppia sicurezza nell’incastro del contenitore e nel coperchio.
+- Capacità 600cc - 2 velocità
 - Accessori: Lama inox, 2 dischi, contenitore, coperchio
-- Piedini Antiscivolo
 - Disco inox per grattugiare
+- Piedini Antiscivolo
+- Disco reversibile INOX per affettare e julienne
+- Potenza: 300W
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DG5CMC87{{</world>}}

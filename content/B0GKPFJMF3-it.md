@@ -28,11 +28,11 @@ average: '289.0'
 
 ℹ️:
 
-- La costruzione premium con baionetta in metallo garantisce durata e longevità per fotografi appassionati e creatori professionisti
 - Il design compatto da 49,5 mm pesa solo 140 grammi, rendendolo un compagno leggero ideale per esploratori, escursionisti e fotografi avventurosi
 - Obiettivo macro versatile equivalente a 60 mm su fotocamere 35 mm; perfetto per fotografia naturalistica, viaggi e ritratti con una cattura eccezionale dei dettagli in primo piano
-- Prestazioni ottiche nitidissime su tutto il fotogramma grazie agli elementi in vetro ED e allottica con trattamento multistrato; risultati di qualità professionale
 - Il sistema di autofocus MSC rapido e silenzioso consente una messa a fuoco fluida e affidabile sia per la fotografia che per la creazione di contenuti video
+- La costruzione premium con baionetta in metallo garantisce durata e longevità per fotografi appassionati e creatori professionisti
+- Prestazioni ottiche nitidissime su tutto il fotogramma grazie agli elementi in vetro ED e allottica con trattamento multistrato; risultati di qualità professionale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GKPFJMF3{{</world>}}

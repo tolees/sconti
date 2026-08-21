@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Spedito in una confezione regalo
 - Questo bellissimo pezzo da collezione in legno è lungo circa 23 cm
-- Lunghezza della pipa: 23 cm
 - Riproduzione fedele e completamente funzionante della pipa di Gandalf il Grigio dal film "Lo Hobbit Un viaggio inaspettato"
+- Lunghezza della pipa: 23 cm
 - Riproduzione in legno perfettamente funzionante e molto dettagliata
+- Spedito in una confezione regalo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B009S8FPKA{{</world>}}

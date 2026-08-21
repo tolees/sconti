@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Giocate le carte corrispondenti al colore del terreno per costruire nuove case in città e collezionate carte dello stesso colore per costruire case a più piani e moltiplicare i vostri punti.
-- Dietro l’apparenza di un quartiere residenziale sereno e ameno, si cela una feroce concorrenza tra le imprese di costruzione impegnate nella sua realizzazione. Accaparratevi i terreni più prestigiosi e costruite splendide case, senza dimenticare i requisiti dettati dal piano urbanistico che vi faranno guadagnare punti bonus e ottenere la vittoria.
 - Cercate i terreni più prestigiosi e totalizzate i punti indicati cercando di ottenere i punti bonus di fine partita assegnati alla casa più alta e al maggior numero di case in un quartiere.
 - Numero di giocatori: 2-4 | Età consigliata: 8+ | Durata media: 45 min | Edizione in lingua italiana
+- Dietro l’apparenza di un quartiere residenziale sereno e ameno, si cela una feroce concorrenza tra le imprese di costruzione impegnate nella sua realizzazione. Accaparratevi i terreni più prestigiosi e costruite splendide case, senza dimenticare i requisiti dettati dal piano urbanistico che vi faranno guadagnare punti bonus e ottenere la vittoria.
+- Giocate le carte corrispondenti al colore del terreno per costruire nuove case in città e collezionate carte dello stesso colore per costruire case a più piani e moltiplicare i vostri punti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D4QTRL52{{</world>}}

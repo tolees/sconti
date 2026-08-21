@@ -29,11 +29,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Azioni intelligenti: controlla e imposta più luci, dispositivi elettronici e altri dispositivi intelligenti Tapo con il pulsante.
-- Controllo da più posizioni: controlla gli impianti elettrici da più posizioni con i pulsanti intelligenti Tapo.
-- Lunga durata della batteria: la batteria durerà più di un anno.
-- Azioni personalizzate: le opzioni di tocco singolo, doppio tocco e rotazione ti consentono di attivare più azioni, da un solo pulsante.
-- ATTENZIONE Deve essere utilizzato con Tapo Hub (es. Tapo H100)
 - Allarme con un clic: i membri della famiglia possono utilizzare il dispositivo per ottenere aiuto nei momenti di bisogno.
+- Lunga durata della batteria: la batteria durerà più di un anno.
+- ATTENZIONE Deve essere utilizzato con Tapo Hub (es. Tapo H100)
+- Controllo da più posizioni: controlla gli impianti elettrici da più posizioni con i pulsanti intelligenti Tapo.
+- Azioni personalizzate: le opzioni di tocco singolo, doppio tocco e rotazione ti consentono di attivare più azioni, da un solo pulsante.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BDXQBKQQ{{</world>}}

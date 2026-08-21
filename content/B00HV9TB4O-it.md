@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Mounting_type sony, minolta
 - Stabilizzazione dellimmagine con SteadyShot Ottico (OSS) per immagini nitide anche in condizioni difficili
-- Distanza minima di messa a fuoco ridotta (1 m)
 - Obiettivo con Zoom 55-210 mm F 4.5-6.3 per fotocamere Sony Alpha con sensore APS-C
+- Distanza minima di messa a fuoco ridotta (1 m)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00HV9TB4O{{</world>}}

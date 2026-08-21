@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- CONTENUTO DELLA CONFEZIONE — tre videocamere, un Sync Module Core, sei pile AA al litio metallico, tre kit di montaggio, un cavo USB e un alimentatore.
 - ZONE DI PRIVACY — Crea fino a due zone di privacy per escludere aree specifiche dall’inquadratura di Outdoor 4. Proteggi la privacy dei vicini e personalizza la configurazione a tuo piacimento.
 - RILEVAZIONE DI MOVIMENTO AVANZATA — Ricevi gli avvisi di movimento più velocemente sul tuo smartphone grazie alla rilevazione di movimento avanzata con doppia zona.
 - SCOPRI LE ULTIME NOVITÀ — Blink Outdoor 4 è la nostra videocamera di sicurezza smart wireless di quarta generazione che ti aiuta a proteggere la tua casa dentro e fuori direttamente dall’app Blink sul tuo smartphone.
-- RILEVAMENTO DI PERSONE — Ricevi un avviso quando viene rilevata una persona grazie alla visione artificiale integrata, disponibile con un piano d’abbonamento Blink opzionale (venduto separatamente).
+- CONTENUTO DELLA CONFEZIONE — tre videocamere, un Sync Module Core, sei pile AA al litio metallico, tre kit di montaggio, un cavo USB e un alimentatore.
 - AUTONOMIA DI DUE ANNI — Configura tutto in pochi minuti e approfitta di due anni di autonomia con le pile AA al litio incluse. Estendi l’autonomia a quattro anni per videocamera con il modulo estensione pile (venduto separatamente).
+- RILEVAMENTO DI PERSONE — Ricevi un avviso quando viene rilevata una persona grazie alla visione artificiale integrata, disponibile con un piano d’abbonamento Blink opzionale (venduto separatamente).
 - VEDI, ASCOLTA E PARLA CON L’APP BLINK — Scopri la funzionalità Live View HD a 1080p, usa la visione notturna a infrarossi e comunica con audio bidirezionale nitido.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

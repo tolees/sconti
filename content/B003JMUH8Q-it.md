@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - ECOLOGICA: la carta certificata PEFC è ottenuta da foreste gestite in modo sostenibile e da fonti controllate. Stampa a partire da inchiostri vegetali senza alcool, diluiti con acqua e conformi alle direttive europee REACH. Senza acidi, a PH neutro. Adatto ai vegani
 - Formato Quadretti piccoli 5x5: le pagine sono stampate a quadretti viola di 5mm.
-- PRATICO: rilegatura integrale "a spirale " costituita da un filo di metallo doppio che consente unapertura totale delle pag. e un grande comfort di scrittura Fronte /retro
 - CARTA CLAIREFONTAINE pergamena extrafine 80g - Articolo prodotto in Francia
 - PRATICO: rilegatura integrale "a spirale ", costituita da un filo metallico doppio che consente unapertura totale delle pagine e un grande comfort di scrittura Fronte /retro
+- PRATICO: rilegatura integrale "a spirale " costituita da un filo di metallo doppio che consente unapertura totale delle pag. e un grande comfort di scrittura Fronte /retro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B003JMUH8Q{{</world>}}

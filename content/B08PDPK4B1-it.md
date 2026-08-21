@@ -28,9 +28,9 @@ average: '4.29333333333333'
 
 ℹ️:
 
-- ScandalEyes Exaggerate Eye Definer: matita occhi automatica a durata estrema, fino a 24 ore. Disponibile in 6 tonalità trasversali
-- Applicazione: texture ultra morbida che garantisce un tratto scorrevole dal colore intenso
 - Colore: 001 Intense Black
+- Applicazione: texture ultra morbida che garantisce un tratto scorrevole dal colore intenso
+- ScandalEyes Exaggerate Eye Definer: matita occhi automatica a durata estrema, fino a 24 ore. Disponibile in 6 tonalità trasversali
 - Effetti e benefici: sguardo istantaneamente definito e valorizzato, per un trucco occhi dal forte impatto
 - Formula: waterproof, con elementi idrorepellenti che formano una pellicola resistente allacqua
 

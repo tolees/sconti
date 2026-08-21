@@ -30,8 +30,8 @@ average: '7.44'
 
 - Prodotti in offerta: Sconto dal 50%
 - Linea marchio: Bionike capelli
-- bestcosmesi: capelli
 - Formato: Shampoo
+- bestcosmesi: capelli
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B075WGFSFN{{</world>}}

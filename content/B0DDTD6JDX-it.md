@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - 【Ampliate possibilità di applicazione】Utilizzate lattuatore ZBMINI Extreme Zigbee per il controllo a 2 vie delle lampade delle scale, impostate il timer, lavorate con Amazon Alexa e Google Home, e create scenari intelligenti per semplificare la vita. Nota: è richiesto un hub Zigbee. ZBMINIL2 è un terminale Zigbee.
-- 【 Compatibilità versatile 】 Linterruttore intelligente SONOFF funziona con diversi interruttori esterni, come interruttori a bilanciere e interruttori a parete, e non richiede un conduttore neutro per una facile installazione.
-- Dimensioni minimaliste: linterruttore intelligente Zigbee si adatta facilmente alle scatole di montaggio più piccole, tra cui i tipi EU/86/120. Le sue dimensioni compatte di 39,5 x 32 x 18,4 mm lo rendono una vestibilità perfetta.
 - Controllo sicuro e affidabile: come interruttore intelligente Zigbee 3.0, ZBMINI Extreme può essere utilizzato con Gateway Zigbee come Amazon Alexa Echo, SmartThings Hub, Tuya, SONOFF ZBBridge Pro e altri. Anche senza Internet, puoi controllare i tuoi dispositivi, anche a bassa potenza di soli 3 W.
+- 【 Compatibilità versatile 】 Linterruttore intelligente SONOFF funziona con diversi interruttori esterni, come interruttori a bilanciere e interruttori a parete, e non richiede un conduttore neutro per una facile installazione.
 - 【2 vie di controllo】Oltre al controllo remoto tramite lapp, linterruttore della luce ZBMINI-L2 può anche collegare linterruttore a bilanciere a 2 vie per controllare la luce da diversi luoghi della casa.
+- Dimensioni minimaliste: linterruttore intelligente Zigbee si adatta facilmente alle scatole di montaggio più piccole, tra cui i tipi EU/86/120. Le sue dimensioni compatte di 39,5 x 32 x 18,4 mm lo rendono una vestibilità perfetta.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DDTD6JDX{{</world>}}

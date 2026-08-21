@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Prendi 1-2 flaconcini al giorno. Premi energicamente il tappo fino in fondo in modo che il contenuto cada per intero nella soluzione. Agita bene prima di bere
-- Una formula per ritrovare la giusta concentrazione: Magnesio (per il sistema nervoso), Rhodiola (per stanchezza mentale), vitamine e minerali (protezione delle cellule dallo stress ossidativo)
-- Vitalmix Mente contiene anche Eleuterococco che favorisce memoria e funzioni cognitive. Indicato quando si richiede un supporto alla capacità di memoria, concentrazione e attenzione
 - Formato: Vitalmix Mente è in flaconcini monodose. Confezione da 14 flaconcini con tappo separatore. Vitalmix Mente è un prodotto senza glutine e senza lattosio
+- Una formula per ritrovare la giusta concentrazione: Magnesio (per il sistema nervoso), Rhodiola (per stanchezza mentale), vitamine e minerali (protezione delle cellule dallo stress ossidativo)
+- Prendi 1-2 flaconcini al giorno. Premi energicamente il tappo fino in fondo in modo che il contenuto cada per intero nella soluzione. Agita bene prima di bere
+- Vitalmix Mente contiene anche Eleuterococco che favorisce memoria e funzioni cognitive. Indicato quando si richiede un supporto alla capacità di memoria, concentrazione e attenzione
 - Ci sono periodi di particolare stress e il giusto mix di ingredienti come quelli contenuti in Vitalmix Mente può essere utile per ritrovare la concentrazione e la giusta energia mentale!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

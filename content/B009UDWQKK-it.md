@@ -28,10 +28,10 @@ average: '13.45'
 
 ℹ️:
 
-- 2 bolle
-- Precisione piani di lavoro 0,5 mm/m
 - Livella Classic lunghezza 60 cm
+- Precisione piani di lavoro 0,5 mm/m
 - Profilo liscio ed estremità in gomma
+- 2 bolle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B009UDWQKK{{</world>}}

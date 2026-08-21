@@ -28,10 +28,10 @@ average: '36.72'
 
 ℹ️:
 
-- Bialetti -Sistema: capsule compatibili con Bialetti -Macchine per caffè espresso a sistema chiuso (Gioia, Super, Break)
-- Capsula in alluminio: per preservare in modo ottimale laroma del caffè a lungo termine e proteggerlo dalla luce e dagli influssi esterni, il caffè conserva uninconfondibile sensazione di freschezza come se fosse appena macinato
-- 7 g di caffè per un espresso ideale
 - Bialetti -Qualità: miscela tostata e capsule prodotte nel Bialetti -Rösterei in Coccaglio (Brescia)
+- Bialetti -Sistema: capsule compatibili con Bialetti -Macchine per caffè espresso a sistema chiuso (Gioia, Super, Break)
+- 7 g di caffè per un espresso ideale
+- Capsula in alluminio: per preservare in modo ottimale laroma del caffè a lungo termine e proteggerlo dalla luce e dagli influssi esterni, il caffè conserva uninconfondibile sensazione di freschezza come se fosse appena macinato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07K7LPYD1{{</world>}}

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- COUS COUS: il cous cous nasce da una antica lavorazione della semola in granuli, che abbiamo ripreso per farti scoprire tutto il sapore della cucina mediterranea
-- BARILLA: unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877; i nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
 - FACILE PREPARAZIONE: versa sul prodotto acqua calda salata o brodo bollente, lascialo riposare qualche minuto ed otterrai un prodotto dalla consistenza ideale
+- BARILLA: unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877; i nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
 - IDEALE PER: preparazioni asciutte come vuole la tradizione mediterranea. Prova la ricetta con verdure rosolate in padella, ceci e pomodorini caramellati
+- COUS COUS: il cous cous nasce da una antica lavorazione della semola in granuli, che abbiamo ripreso per farti scoprire tutto il sapore della cucina mediterranea
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00IME2QRG{{</world>}}

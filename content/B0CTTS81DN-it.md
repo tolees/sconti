@@ -28,11 +28,11 @@ average: '19.9'
 
 ℹ️:
 
-- SPRAY SGRASSATORE CON CANDEGGINA - Efficace contro lo sporco più ostinato.
-- RIMUOVE GERMI E BATTERI - Dalle superfici della casa tramite azione meccanica. *Non è un prodotto disinfettante. Rimuove germi e batteri tramite azione meccanica.
 - PROFUMO DI ROSA E LAVANDA - Diffonde nellambiente un fresco ed inebriante profumo.
-- PIU’ VELOCE DA RISCIACQUARE - Rispetto alla formula precedente.
+- RIMUOVE GERMI E BATTERI - Dalle superfici della casa tramite azione meccanica. *Non è un prodotto disinfettante. Rimuove germi e batteri tramite azione meccanica.
+- SPRAY SGRASSATORE CON CANDEGGINA - Efficace contro lo sporco più ostinato.
 - DESTINAZIONE D’USO - Per tutta la cucina (rubinetteria, forni, cappe, grill, piani cottura, piani di lavoro, piastrelle, lavandini, grill, frigoriferi) e per tessuti bianchi.
+- PIU’ VELOCE DA RISCIACQUARE - Rispetto alla formula precedente.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CTTS81DN{{</world>}}

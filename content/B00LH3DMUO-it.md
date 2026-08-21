@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazon Basics 36 batterie alcaline AAA ad alte prestazioni 1 5 Volt durata di 10 anni'
-date: 2026-06-26 09:42:15
+date: 2026-08-20 11:04:35
 image: 'https://m.media-amazon.com/images/I/41VtUi6pMDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B00LH3DMUO-it Amazon Basics 36 batterie alcaline AAA ad alte prestazioni...'
 sku: 'B00LH3DMUO-it'
 tags: [ '🇮🇹', ]
-actualPrice: 7.64 EUR
+actualPrice: 7.86 EUR
 currency: EUR
-price: 7.64
-comparePrice: 8.99 EUR
+price: 7.86
+comparePrice: 10.39 EUR
 prodname: 'Amazon Basics 36 batterie alcaline AAA ad alte prestazioni 1 5 Volt durata di 10 anni'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B00LH3DMUO/?tag=tolees00-21'
-descuento: '15.02'
-average: '9.72263157894728'
+descuento: '24.35'
+average: '9.54523809523801'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

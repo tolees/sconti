@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Girocollo a coste
 - Orlo a doppio ago
+- Girocollo a coste
 - Tasca sul petto a sinistra
 - Manica corta
 - Vestibilità ampia

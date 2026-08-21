@@ -28,8 +28,8 @@ average: '156.376666666667'
 
 ℹ️:
 
-- RICCI E ONDE PERFETTI, SENZA SFORZO: Tecnologia Coanda: avvolge automaticamente ogni ciocca per ricci e onde definiti, anche se hai poca manualità.
 - ASCIUGATURA E STYLING SENZA DANNI*: Ceramica e ioni proteggono i capelli dal calore e dall’effetto crespo: più morbidi, più luminosi, senza effetto crespo
+- RICCI E ONDE PERFETTI, SENZA SFORZO: Tecnologia Coanda: avvolge automaticamente ogni ciocca per ricci e onde definiti, anche se hai poca manualità.
 - ASCIUGATURA RAPIDA E STYLING VELOCE: Il potente motore digitale genera un flusso daria ad alta pressione, asciugando e modellando in tempi ridotti: perfetto per ottimizzare la tua routine
 - STYLING PERSONALIZZATO, SU MISURA PER TE: 3 temperature, 3 velocità e colpo d’aria fredda: controllo totale per adattarsi a ogni tipo di capello e desiderio.
 - UN SOLO STYLER, 6 MODI DI STUPIRE: Sei accessori per creare ogni giorno un look diverso: liscio, mosso, riccio o voluminoso.

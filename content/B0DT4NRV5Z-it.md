@@ -30,8 +30,8 @@ average: '94.0'
 
 - Monitor Portatile Business e Consumer da 15,6"
 - Risoluzione Full HD 1920x1080 (16:9)
-- Tempo di risposta da 5 ms (GTG) e Refresh rate di 60 Hz
 - Schermo piatto WLED/IPS
+- Tempo di risposta da 5 ms (GTG) e Refresh rate di 60 Hz
 - I monitor ASUS Eye Care sono dotati delle tecnologie Flicker-free e Low Blue Light, per garantire unesperienza visiva confortevole anche dopo lunghe ore di utilizzo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

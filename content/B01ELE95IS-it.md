@@ -28,12 +28,12 @@ average: '3.99'
 
 ℹ️:
 
-- 50% FLACONE IN PLASTICA RICICLATA
-- RESISTENTE ALLACQUA - Divertiti e abbronzati in sicurezza grazie a questa formula resistente e protettiva
 - FORMATO DA VIAGGIO
-- PRODOTTO ETICAMENTE - Vegano e contro i test sugli animali
 - SPF15 - Protezione UVA e UVB intermedia. Finitura leggera e luminosa
 - CON BURRO DI KARITÈ & VITAMINA E - Profumo tropicale
+- PRODOTTO ETICAMENTE - Vegano e contro i test sugli animali
+- RESISTENTE ALLACQUA - Divertiti e abbronzati in sicurezza grazie a questa formula resistente e protettiva
+- 50% FLACONE IN PLASTICA RICICLATA
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01ELE95IS{{</world>}}

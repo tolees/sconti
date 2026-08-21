@@ -28,9 +28,9 @@ average: '22.69'
 
 ℹ️:
 
+- Tessuto traspirante
 - Reggiseno sportivo con supporto leggero
 - Design senza cuciture per comfort duraturo
-- Tessuto traspirante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CN2D9ZVT{{</world>}}

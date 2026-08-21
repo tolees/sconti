@@ -30,9 +30,9 @@ average: '4.68'
 
 - Conservabilità: 24 mesi dalla data di produzione; modalità di conservazione: conservare in un luogo fresco e asciutto, lontano da fonti di calore e umidità
 - La Lattina 100% Arabica Macinato Moka è un prodotto di alta qualità, completamente Made in Italy, che nasce dalle ottime varietà di Arabica del centro America e dellAfrica
-- È un caffè aromatico e rotondo al palato che si distingue per il gusto dolce, ma persistente, con note di cioccolata, nocciola, noce, malto, caramello
-- Una miscela esclusiva dal gusto delicato, nata dalla lenta tostatura delle più prestigiose varietà di Arabica tostate secondo il metodo tradizionale
 - La confezione in atmosfera protettiva, lo mantiene sempre fresco e ne aumenta la conservabilità
+- Una miscela esclusiva dal gusto delicato, nata dalla lenta tostatura delle più prestigiose varietà di Arabica tostate secondo il metodo tradizionale
+- È un caffè aromatico e rotondo al palato che si distingue per il gusto dolce, ma persistente, con note di cioccolata, nocciola, noce, malto, caramello
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B001AVSA9G{{</world>}}

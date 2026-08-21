@@ -28,12 +28,12 @@ average: '84.46'
 
 ℹ️:
 
-- COMPATIBILE CON GLI APPARECCHI ACUSTICI: Questo semplice telefono cellulare per anziani offre una qualità audio perfetta se utilizzato con un apparecchio acustico, con compatibilità M3/T4.
+- BATTERIA DI LUNGA DURATA: Con unautonomia di chiamata fino a 6 ore e in standby fino a 290 ore , non dovrete preoccuparvi di ricaricare questo telefono ogni sera o in viaggio.
+- SCHERMO DI FACILE LETTURA: Il telefono cellulare Panasonic KX-TU550 per anziani è dotato di uno schermo a colori TFT LCD da 2,8" di facile lettura, con tasti intuitivi e design a conchiglia leggero ed ergonomico.
+- LUCE LED E FOTOCAMERA: Telefono 4G dotato di una luce LED luminosa per quando è necessaria una torcia e di una fotocamera da 1,2 MP, ideale per catturare momenti o luoghi speciali.
 - CHIAMATE PRIORITARIE IN VIVAVOCE: Questo telefono consente di chiamare 5 contatti preimpostati in vivavoce in caso di emergenza utilizzando il pulsante di chiamata prioritaria. In caso di mancata risposta del primo contatto, compone automaticamente il numero successivo.
 - A PROVA DI URTO: Questo cellulare facilitato a conchiglia è resistente agli urti e può sopportare cadute da unaltezza massima di 1,5 m (secondo gli standard MIL-STD-810G).
-- SCHERMO DI FACILE LETTURA: Il telefono cellulare Panasonic KX-TU550 per anziani è dotato di uno schermo a colori TFT LCD da 2,8" di facile lettura, con tasti intuitivi e design a conchiglia leggero ed ergonomico.
-- BATTERIA DI LUNGA DURATA: Con unautonomia di chiamata fino a 6 ore e in standby fino a 290 ore , non dovrete preoccuparvi di ricaricare questo telefono ogni sera o in viaggio.
-- LUCE LED E FOTOCAMERA: Telefono 4G dotato di una luce LED luminosa per quando è necessaria una torcia e di una fotocamera da 1,2 MP, ideale per catturare momenti o luoghi speciali.
+- COMPATIBILE CON GLI APPARECCHI ACUSTICI: Questo semplice telefono cellulare per anziani offre una qualità audio perfetta se utilizzato con un apparecchio acustico, con compatibilità M3/T4.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C81RYFV1{{</world>}}

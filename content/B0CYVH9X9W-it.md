@@ -28,16 +28,16 @@ average: '72.0'
 
 ℹ️:
 
-- Suola Traxion con alette
-- Calzata regolare
-- Intersuola in EVA
-- Chiusura con lacci
 - Peso: 373 g (misura 42 2/3)
-- Drop intersuola: 7 mm (tallone: 23 mm / avampiede: 16 mm)
-- Fodera in tessuto
 - Tomaia in tessuto con rivestimenti in materiale sintetico
+- Chiusura con lacci
+- Calzata regolare
+- Suola Traxion con alette
 - Questo prodotto contiene almeno il 20% di materiali riciclati
 - Membrana in GORE-TEX
+- Fodera in tessuto
+- Drop intersuola: 7 mm (tallone: 23 mm / avampiede: 16 mm)
+- Intersuola in EVA
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CYVH9X9W{{</world>}}

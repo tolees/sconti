@@ -28,8 +28,8 @@ average: '66.5'
 
 ℹ️:
 
-- Design caldo e confortevole
 - Giacca del marchio GANT
+- Design caldo e confortevole
 - Realizzati con materiali sostenibili
 - Adatto per: clima freddo
 

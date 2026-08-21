@@ -28,11 +28,11 @@ average: '26.97'
 
 ℹ️:
 
-- Ambito di consegna: Intenso Speed Line Chiavetta USB; Tecnologia di connettività: USB typ-a; Tipologia di memoria computer: ddr3 sdram
-- Velocità di trasferimento dati max. 70 MB/s
 - Perfetto per la memorizzazione di documenti, immagini e musica
-- Capacità di memoria 16GB
+- Ambito di consegna: Intenso Speed Line Chiavetta USB; Tecnologia di connettività: USB typ-a; Tipologia di memoria computer: ddr3 sdram
 - USB 3.0 (compatibile con USB 2.0)
+- Capacità di memoria 16GB
+- Velocità di trasferimento dati max. 70 MB/s
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Chiusura: gomma
-- Materiale esterno: tela
-- Materiale interno: tessuto
 - Tipo di tacco: piatto
+- Chiusura: gomma
+- Materiale interno: tessuto
+- Materiale esterno: tela
 - Larghezza scarpa: media
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

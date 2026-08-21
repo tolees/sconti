@@ -28,11 +28,11 @@ average: '153.01'
 
 ℹ️:
 
-- REFRESH RATE 100Hz: le immagini sono più fluide e con una minore sfocatura del movimento, ideale non solo in ambito gaming ma anche per designer e content creator.
 - PANNELLO IPS: osserva immagini nitide, prive di distorsione da qualsiasi punto di osservazione, per una visione ottimale.
+- REFRESH RATE 100Hz: le immagini sono più fluide e con una minore sfocatura del movimento, ideale non solo in ambito gaming ma anche per designer e content creator.
 - CONNESSIONI: una porta HDMI e una porta DisplayPort a tua disposizione.
-- HDR 400 E sRGB 99%: goditi colori vividi e realistici con la copertura al 99% dello spazio colore sRGB e la compatibilità HDR 400.
 - DISPLAY 21:9: goditi unesperienza visiva coinvolgente con il display 21:9 WFHD, ideale per il multitasking e il lavoro di ufficio, offrendo il 33% di spazio in più rispetto ad un display 16:9 FHD.
+- HDR 400 E sRGB 99%: goditi colori vividi e realistici con la copertura al 99% dello spazio colore sRGB e la compatibilità HDR 400.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FDQY69TP{{</world>}}

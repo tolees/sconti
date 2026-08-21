@@ -28,8 +28,8 @@ average: '68.98'
 
 ℹ️:
 
-- A casa, in ufficio o quando sei in giro, l’alimentatore USB‑C da 96W ti permette di ricaricare in modo comodo e veloce.
 - Ƞcompatibile con molti dispositivi e cavi di ricarica USB‑C, ma è pensato per funzionare in modo ottimale quando lo colleghi a un MacBook Pro 14" (2021) usando un cavo da USB‑C a MagSafe 3 o un cavo di ricarica USB‑C: potrai sfruttare la ricarica rapida e portare la batteria da 0% a 50% in circa 30 minuti.
+- A casa, in ufficio o quando sei in giro, l’alimentatore USB‑C da 96W ti permette di ricaricare in modo comodo e veloce.
 - Il cavo di ricarica è in vendita separatamente.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

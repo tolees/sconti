@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - SUGGERIMENTI D’USO: Gran Rosso Integrale 10’ si cucina in meno tempo rispetto ai risi integrali grazie ad un processo produttivo messo a punto nei nostri laboratori
-- È SPECIALE PERCHÉ: È il tuo riso salvatempo: scalda, condisci e mangia! TEMPO DI COTTURA: 10 minuti
-- GRAN ROSSO INTEGRALE 10: Riso integrale dal colore rosso, dal chicco lungo ed affusolato, dal sapore piacevolmente delicato
 - VIVERE BENE CON GUSTO: Per te che hai sempre meno tempo da trascorrere in cucina e che scegli un prodotto facile da preparare, ma al contempo sano ed equilibrato
+- GRAN ROSSO INTEGRALE 10: Riso integrale dal colore rosso, dal chicco lungo ed affusolato, dal sapore piacevolmente delicato
+- È SPECIALE PERCHÉ: È il tuo riso salvatempo: scalda, condisci e mangia! TEMPO DI COTTURA: 10 minuti
 - I prodotti Riso Scotti ti accompagnano con Gusto e Benessere in ogni momento della giornata. Con la stessa attenzione con cui tu scegli prodotti sani, noi ci impegniamo a offrirti la miglior qualità per un’alimentazione equilibrata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

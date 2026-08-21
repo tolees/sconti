@@ -28,10 +28,10 @@ average: '14.0'
 
 ℹ️:
 
+- COMPOSIZIONE: composto da due esclusivi formulati (un lucidante e un sigillante per fari), da 16 carte abrasive in tre diversi livelli di abrasività e da un supporto di lucidatura in poliuretano da utilizzare per rimuovere lo sporco depositatosi sui vetri rimuovendo leffetto opaco e ingiallito tipico dei fari in policarbonato.
 - MODO DUSO: pulire il fanale con Glass Cleaner e 1Shine Vetri, proteggere la zona da trattare con del nastro adesivo, iniziare a carteggiare con la carta più abrasiva (1500) passando poi alla 2500 fino ad arrivare alla 4000. Infine applicare il lucidante e sigillante.
 - CONSIGLI DUSO: lavorare su superficie fredda e non esposta direttamente ai raggi solari. Prima della fase di carteggiatura, sagomare adeguatamente il perimetro del faro con un nastro adesivo da carrozziere facendo particolare attenzione ai bordi interni ed eventuali guarnizioni. Se dopo aver applicato il polish lucidante, il faro risultasse ancora opaco, ripetere la fase di carteggiatura. Durante lultima fase, applicare il sigillante fino ad ottenere un velo omogeneo, lasciar asciugare bene e se necessario ripetere l’operazione
 - Esperienza Italiana di Qualità: da oltre 50 anni, Mafra si impegna nella produzione di soluzioni di alta qualità per la cura dell’auto. Con un forte impegno verso l’innovazione e la sostenibilità, ogni prodotto è il risultato di una ricerca avanzata e di una passione autentica per l’eccellenza del Made in Italy.
-- COMPOSIZIONE: composto da due esclusivi formulati (un lucidante e un sigillante per fari), da 16 carte abrasive in tre diversi livelli di abrasività e da un supporto di lucidatura in poliuretano da utilizzare per rimuovere lo sporco depositatosi sui vetri rimuovendo leffetto opaco e ingiallito tipico dei fari in policarbonato.
 - CONTENUTO: a casa riceverai una confezione di Kit Regénera Fari composto da lucidante per fari, sigillante per fari e 16 carte abrasive a diversa grana.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

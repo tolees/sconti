@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Il tessuto impedisce al vento di penetrare, riducendo il rischio di raffreddamento
 - cappuccio richiudibile allinterno del colletto
 - Weave type: Dobby
+- Il tessuto impedisce al vento di penetrare, riducendo il rischio di raffreddamento
 - Taglio regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

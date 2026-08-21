@@ -29,10 +29,10 @@ average: '6.455'
 ℹ️:
 
 - CARTA CLAIREFONTAINE pergamena extrafine 80g
-- 80 FOGLI FACILMENTE STACCABILI: microforati sullintestazione.
 - CARTA CLAIREFONTAINE pergamena extrafine 80g - Articolo prodotto in Francia
-- PRATICO: retro in cartoncino EXTRA RIGIDO che consente una presa di appunti confOrotevole anche senza appoggio
+- 80 FOGLI FACILMENTE STACCABILI: microforati sullintestazione.
 - Formato PUNTINATO DOT: griglia geometrica composta da punti distanziati di 5mm.
+- PRATICO: retro in cartoncino EXTRA RIGIDO che consente una presa di appunti confOrotevole anche senza appoggio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00BCH0A1O{{</world>}}

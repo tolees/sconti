@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- altoparlanti coassiali da 13 centimetri a 2 vie; Resistenza 250W max / 30W RMS; Gamma di frequenza: 40-22000 Hz
 - Livello di pressione sonora: 91 dB / W.m; Woofer a cono con membrana in fibre composite
-- Magnete al neodimio (Tweeter); Surround ibrida; Profondità di montaggio: 43,5 mm
 - Tweeter polieterimmide equilibrato; Magnete in ferrite (Woofer)
 - Contenuto: JVC CS-J520X, viti di montaggio (8x), cavo dellaltoparlante, staffe di montaggio (8x)
+- Magnete al neodimio (Tweeter); Surround ibrida; Profondità di montaggio: 43,5 mm
+- altoparlanti coassiali da 13 centimetri a 2 vie; Resistenza 250W max / 30W RMS; Gamma di frequenza: 40-22000 Hz
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00JHEVRB6{{</world>}}

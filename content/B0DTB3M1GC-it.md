@@ -28,11 +28,11 @@ average: '33.4'
 
 ℹ️:
 
+- Segui le vicissitudini dei coniugi Mac e Charlie, che si guadagnano da vivere scandagliando loceano in cerca di missioni di salvataggio. Quando però si imbattono in una piattaforma petrolifera abbandonata nel bel mezzo dellOceano Pacifico, portano a galla lorribile segreto che la Cayne Corporation fa di tutto per tenere nascosto.
+- Con splendide grafiche, partitura musicale a cura di Mark Morgan, sceneggiatura composta da una stella di Hollywood, doppiaggio eseguito da attori professionisti e una trama avvincente, STASIS: BONE TOTEM ha tutte le carte in regola per entrare nei cuori degli appassionati di horror e avventure fantascientifiche.
 - Immergiti nelle profondità di STASIS: BONE TOTEM, un inedito capitolo dellantologia STASIS. Nuova storia, nuovi personaggi e nuove ambientazioni subacquee tutte da scoprire.
 - Parti allavventura con Mac, Charlie e il loro fidato super-giocattolo, Moses, e goditi una trama immersiva ricca di raccapriccianti dettagli e colpi di scena inaspettati. STASIS: BONE TOTEM coniuga la narrazione avvincente che costituiva il marchio di fabbrica di STASIS con unambientazione subacquea dando vita a una storia emozionante che metterà alla prova i limiti della resilienza di una famiglia.
-- Segui le vicissitudini dei coniugi Mac e Charlie, che si guadagnano da vivere scandagliando loceano in cerca di missioni di salvataggio. Quando però si imbattono in una piattaforma petrolifera abbandonata nel bel mezzo dellOceano Pacifico, portano a galla lorribile segreto che la Cayne Corporation fa di tutto per tenere nascosto.
 - Fatti strada tra un enorme impianto subacqueo, risolvi enigmi complessi e svela lantico segreto che avviluppa le profondità oceaniche. STASIS: BONE TOTEM include le stesse meccaniche isometriche punta e clicca apprezzate dalla community di STASIS, ma aggiungendo nuovi interpreti e unambientazione inedita per unesperienza in grado di tenere con il fiato sospeso.
-- Con splendide grafiche, partitura musicale a cura di Mark Morgan, sceneggiatura composta da una stella di Hollywood, doppiaggio eseguito da attori professionisti e una trama avvincente, STASIS: BONE TOTEM ha tutte le carte in regola per entrare nei cuori degli appassionati di horror e avventure fantascientifiche.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DTB3M1GC{{</world>}}

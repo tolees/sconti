@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Gonna a maglia
 - attillato
+- Gonna a maglia
 - Vita alta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

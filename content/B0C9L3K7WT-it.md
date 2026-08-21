@@ -28,12 +28,12 @@ average: '3.82333333333333'
 
 ℹ️:
 
-- Prodotto: Omino Bianco detersivo lavatrice liquido igienizzante, grazie alla sua formula concentrata e potenziata con enzimi, rimuove germi e batteri e lascia un fresco profumo che dura a lungo
-- Formula Delicata: la sua formula potenziata è dermatologicamente testata, adatta per il bucato di tutta la famiglia
-- Sostenibilità: detersivo a ridotto impatto ambientale prodotto con il 100% di energia da fonti rinnovabili, con >90% di ingredienti biodegradabili e un eco flacone realizzato con il 50% di plastica riciclata
 - Profumo a Lungo: arricchito da una fresca fragranza di pulito, grazie alle perle di profumo dona capi profumati fino a 72 ore
 - Azione: igienizza e rimuove germi e batteri, smacchia in profondità anche a basse temperature, rispettando i colori e i capi più delicati
+- Formula Delicata: la sua formula potenziata è dermatologicamente testata, adatta per il bucato di tutta la famiglia
+- Sostenibilità: detersivo a ridotto impatto ambientale prodotto con il 100% di energia da fonti rinnovabili, con >90% di ingredienti biodegradabili e un eco flacone realizzato con il 50% di plastica riciclata
 - *Rimozione meccanica di germi e batteri; Non è un disinfettante
+- Prodotto: Omino Bianco detersivo lavatrice liquido igienizzante, grazie alla sua formula concentrata e potenziata con enzimi, rimuove germi e batteri e lascia un fresco profumo che dura a lungo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C9L3K7WT{{</world>}}

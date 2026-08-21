@@ -28,15 +28,15 @@ average: '26.99'
 
 ℹ️:
 
-- Pannello posteriore in mesh
-- Pannello posteriore in mesh
+- Dimensioni: 470,0 mm x 300,0 mm
 - Volume: 26,5 litri
-- Scomparto esterno per il laptop
+- Pannello posteriore in mesh
 - Pannello posteriore in rete
 - Tela: 100% poliestere (100% riciclato)
+- Pannello posteriore in mesh
+- Scomparto esterno per il laptop
 - Tasca anteriore con chiusura a zip
 - Scomparto esterno per il laptop
-- Dimensioni: 470,0 mm x 300,0 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F4DM3T5D{{</world>}}

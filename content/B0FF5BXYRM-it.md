@@ -29,10 +29,10 @@ average: '12.73'
 ℹ️:
 
 - LUNGHEZZA DEL CAPO: 74,9cm circa dal lato del collo nella taglia M (IT)
-- VESTIBILITÀ COMODA: vestibilità comoda e rilassata su spalle, petto e vita
 - FLANELLA CON FINITURA SPAZZOLATA: flanella di cotone 100% di peso medio, con finitura spazzolata per il massimo comfort e morbidezza
 - CAMICIA MODERNA CON BOTTONI: rivisitazione essenziale di un classico, con vestibilità più ampia, da indossare da sola oppure sopra una T-shirt
 - LUNGHEZZA DEL CAPO: 74,9cm dal lato del collo nella taglia M (IT)
+- VESTIBILITÀ COMODA: vestibilità comoda e rilassata su spalle, petto e vita
 - SCELTO DA DEMI: questo prodotto della nostra nuova collezione Amazon Essentials è stato scelto da Demi Lovato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

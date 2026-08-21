@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Completamente accessoriato - Il trapano avvitatore Einhell TE-CD 18/44 Li-i (1x2,5Ah) si consegna con due batterie Power X-Change da 2,5 Ah e un caricabatterie rapido.
-- Si adegua al materiale - Il sistema elettronico di regolazione del numero di giri permette un adattamento ottimale a qualsiasi materiale e garantisce risultati precisi.
-- Mandrino autoserrante - Il mandrino autoserrante in metallo robusto da 13 mm a manicotto singolo si accoppia allaccessorio desiderato in un batter docchio.
-- Power X-Change - Il trapano a percussione Einhell TE-CD 18/44 Li-i (1x2,5Ah) fa parte della famiglia Power X-Change in cui batterie e caricabatterie sono liberamente intercambiabili.
-- Illuminazione ottimale – Quando si lavora in aree buie, la luce a LED integrata garantisce una visibilità ottimale per forare e avvitare con precisione.
-- Potente - La potente trasmissione a due velocità dota l’apparecchi di una potenza che gli consente di forare e avvitare con 44 Nm e 21 livelli di coppia.
 - Comfort - Il design ergonomico e la superficie antiscivolo assicurano una presa salda e comoda del trapano avvitatore a batteria, anche in caso di uso intensivo.
+- Power X-Change - Il trapano a percussione Einhell TE-CD 18/44 Li-i (1x2,5Ah) fa parte della famiglia Power X-Change in cui batterie e caricabatterie sono liberamente intercambiabili.
+- Si adegua al materiale - Il sistema elettronico di regolazione del numero di giri permette un adattamento ottimale a qualsiasi materiale e garantisce risultati precisi.
+- Completamente accessoriato - Il trapano avvitatore Einhell TE-CD 18/44 Li-i (1x2,5Ah) si consegna con due batterie Power X-Change da 2,5 Ah e un caricabatterie rapido.
+- Potente - La potente trasmissione a due velocità dota l’apparecchi di una potenza che gli consente di forare e avvitare con 44 Nm e 21 livelli di coppia.
+- Mandrino autoserrante - Il mandrino autoserrante in metallo robusto da 13 mm a manicotto singolo si accoppia allaccessorio desiderato in un batter docchio.
+- Illuminazione ottimale – Quando si lavora in aree buie, la luce a LED integrata garantisce una visibilità ottimale per forare e avvitare con precisione.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DDXZMYF2{{</world>}}

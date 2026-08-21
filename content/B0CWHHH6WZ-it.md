@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 9,5 cm L x 7 cm A
 - 100% pelle
 - Finiture color argento
+- 9,5 cm L x 7 cm A
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CWHHH6WZ{{</world>}}

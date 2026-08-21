@@ -28,9 +28,9 @@ average: '37.66'
 
 ℹ️:
 
-- Tasca interna con cerniera e tre scomparti per le carte.
-- Scomparto principale con due tasche interne, una delle quali con chiusura lampo.
 - Tracolla 24 cm x 16 cm x 9 cm realizzata in poliestere e dettagli in finta pelle.
+- Scomparto principale con due tasche interne, una delle quali con chiusura lampo.
+- Tasca interna con cerniera e tre scomparti per le carte.
 - Tracolla regolabile per un maggiore comfort.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

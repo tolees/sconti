@@ -28,11 +28,11 @@ average: '2.3'
 
 ℹ️:
 
-- La fase piu chiara è una lozione molto delicata che procura una gradevole sensazione di freschezza
-- La fase più scura, ricca di oli delicati, strucca efficacemente il trucco waterproof e a lunga tenuta
-- Una texture bifase che unisce efficacia struccante e delicatezza senza lasciare alcun residuo grasso sulla pelle
 - Formula delicata adatta anche per occhi sensibili e portatori di lenti a contatto
 - Rimuove con delicatezza anche il trucco a lunga tenuta e waterproof per una routine di pulizia quotidiana completa
+- Una texture bifase che unisce efficacia struccante e delicatezza senza lasciare alcun residuo grasso sulla pelle
+- La fase piu chiara è una lozione molto delicata che procura una gradevole sensazione di freschezza
+- La fase più scura, ricca di oli delicati, strucca efficacemente il trucco waterproof e a lunga tenuta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01LYHKRC7{{</world>}}

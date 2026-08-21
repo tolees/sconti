@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Come usarlo: per unazione ottimale spruzzare a una distanza di 20-25 cm direttamente sulla superficie da pulire, o nebulizzare su un panno asciutto o una spugna
 - Azione: il prodotto deterge e sgrassa a fondo le superfici, lasciandole brillanti e senza aloni. Grazie alla sua azione Antistatica, combatte il depositarsi della polvere
+- Come usarlo: per unazione ottimale spruzzare a una distanza di 20-25 cm direttamente sulla superficie da pulire, o nebulizzare su un panno asciutto o una spugna
 - Praticità: il prodotto è un detergente spray dotato di un getto ampio e nebulizzato per una facile applicazione. Il prodotto asciuga rapidamente e non necessita di risciacquo
 - Ipoallergenico: Vetril Anti-polvere è studiato per ridurre al minimo linsorgenza di reazioni allergiche
 

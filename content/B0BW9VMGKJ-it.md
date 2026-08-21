@@ -28,10 +28,10 @@ average: '2.99'
 
 ℹ️:
 
-- Extra long cap-off: anche se si dimentica il cappuccio continua a colorare per giorni e giorni
-- Confezione da 18 pennarelli: perfetti per lastuccio!
-- Eco-friendly: compact pack per una maggiore sostenibilità
 - Punta fine antirientro diam. 2,8 mm in fibra super-resistente di lunga durata
+- Eco-friendly: compact pack per una maggiore sostenibilità
+- Confezione da 18 pennarelli: perfetti per lastuccio!
+- Extra long cap-off: anche se si dimentica il cappuccio continua a colorare per giorni e giorni
 - Pennarelli Made in Italy con inchiostri innocui e lavabili, cappuccio ventilato e tappo di sicurezza bloccato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

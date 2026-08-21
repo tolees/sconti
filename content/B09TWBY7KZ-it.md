@@ -28,10 +28,10 @@ average: '4.99'
 
 ℹ️:
 
-- Compagno di giochi senza fastidi: Autan Junior Dopopuntura è lalleato ideale per mantenere i bambini al sicuro dalle punture di insetti durante le loro avventure allaperto, che siano in cortile, in spiaggia o al parco;
+- Protezione delicata, risultati efficaci: grazie alla sua formula lenitiva e rinfrescante, Autan Junior Dopopuntura offre un sollievo rapido e duraturo dalle punture di zanzare e tafani, garantendo la tranquillità dei genitori e il comfort dei bambini;
 - Libertà senza preoccupazioni: con Autan Junior Dopopuntura, i bambini possono godersi le loro avventure allaria aperta senza preoccuparsi delle punture di insetti, mantenendo la pelle fresca, protetta e confortevole durante tutto il giorno;
 - Facile da applicare, sollievo istantaneo: applica delicatamente il gel direttamente sulla pelle interessata e goditi un sollievo immediato, Ripeti lapplicazione fino a un massimo di 4 volte al giorno per mantenere la pelle fresca e protetta;
-- Protezione delicata, risultati efficaci: grazie alla sua formula lenitiva e rinfrescante, Autan Junior Dopopuntura offre un sollievo rapido e duraturo dalle punture di zanzare e tafani, garantendo la tranquillità dei genitori e il comfort dei bambini;
+- Compagno di giochi senza fastidi: Autan Junior Dopopuntura è lalleato ideale per mantenere i bambini al sicuro dalle punture di insetti durante le loro avventure allaperto, che siano in cortile, in spiaggia o al parco;
 - Dolce sollievo per i più piccoli: Autan Junior Dopopuntura, arricchito con estratti di Camomilla e Aloe Vera, è la soluzione perfetta per lenire delicatamente la pelle dei bambini dai 6 mesi in su, offrendo un sollievo rapido e naturale dalle punture di zanzare e tafani;
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

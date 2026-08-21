@@ -28,11 +28,11 @@ average: '1223.495'
 
 ℹ️:
 
+- Audio Dolby Atmos 2.1
+- Smart TV Mini-LED 144Hz 4K 85", Risoluzione 3840x2160
 - Dolby Vision IQ / HDR 10+ / HLG
 - Mini-LED con Local Dimming
-- Smart TV Mini-LED 144Hz 4K 85", Risoluzione 3840x2160
 - QLED Display 144Hz
-- Audio Dolby Atmos 2.1
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07JL1BDWD{{</world>}}

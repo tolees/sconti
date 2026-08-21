@@ -28,9 +28,9 @@ average: '6.5'
 
 ℹ️:
 
+- p.s.: la crema solare Coccobello è resistente all’acqua!
 - Illuminerai la spiaggia anche dopo il tramonto!
 - La sua texture leggera e setosa e la sua formula con Filtri Fotostabili UVA/UVB di ultima generazione ti proteggerà aiutandoti a prevenire la formazione di macchie scure.
-- p.s.: la crema solare Coccobello è resistente all’acqua!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DTZ8C1WJ{{</world>}}

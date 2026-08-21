@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- DIMENSIONI: 240L x 90P x 78A cm, capacità 50 kg. Montaggio richiesto. Superficie in melamina facile da pulire, ideale per tavolo da pranzo allungabile
 - CINQUE LUNGHEZZE REGOLABILI: grazie a quattro prolunghe separate, è possibile ottenere un tavolo da pranzo con lunghezze di 48, 96, 144, 192 o 240 cm, trasformandolo in un attimo da un angolo per la colazione in solitaria a un tavolo per un banchetto in famiglia
 - GUIDE IN ACCIAIO SCORREVOLI: le robuste guide in acciaio garantiscono unesperienza fluida e senza intoppi nellallungare e accorciare il tavolo allungabile sala da pranzo, consentendoti di modificarne le dimensioni con il minimo sforzo ogni volta che ne hai bisogno
-- STILE MODERNO MINIMALISTA: Caratterizzato da una superficie liscia con finitura in legno marrone chiaro e da linee pulite, questo tavolo cucina è realizzato in robusto pannello truciolare per integrarsi perfettamente nellarredamento della tua cucina o della tua sala da pranzo
 - DA CONSOLLE A TAVOLO: Trasforma questo tavolo da pranzo allungabile da una consolle compatta di 48 cm a un tavolo da 240 cm per 10 persone, rendendo il tuo piccolo spazio pronto per ogni occasione, dai pasti quotidiani alle grandi riunioni
-- DIMENSIONI: 240L x 90P x 78A cm, capacità 50 kg. Montaggio richiesto. Superficie in melamina facile da pulire, ideale per tavolo da pranzo allungabile
+- STILE MODERNO MINIMALISTA: Caratterizzato da una superficie liscia con finitura in legno marrone chiaro e da linee pulite, questo tavolo cucina è realizzato in robusto pannello truciolare per integrarsi perfettamente nellarredamento della tua cucina o della tua sala da pranzo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0H9L8VQCZ{{</world>}}

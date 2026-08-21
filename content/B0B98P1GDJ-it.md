@@ -28,9 +28,9 @@ average: '48.4'
 
 ℹ️:
 
-- Altezza tacco 3,8 cm
 - Tomaia traforata in materiale sintetico liscio "Durabuck"
 - Classica sneaker alla moda con lacci
+- Altezza tacco 3,8 cm
 - Suola flessibile di trazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

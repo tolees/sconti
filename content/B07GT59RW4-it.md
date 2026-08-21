@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Accessori inclusi
 - Toys
 - Bianco/verde
-- Accessori inclusi
 - Set completo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

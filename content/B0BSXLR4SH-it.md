@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Il nostro design Warwick, con le sue lenti arrotondate, ponte a forma di serratura e aste sottili, è una delle nostre icone; Questo modello, della collezione Made in Spain, è un essenziale perfetto; Disponibile in vari colori di lenti e montatura
 - Modello unisex; Misure: Frontale 142 mm, Asti 140 mm, Ponte 20 mm, Altezza 51.7 mm
-- Original Hawkers product; Package includes microfiber pouch and box
-- Materiale montatura: TR90; Colore montatura: Nero; Colore asta: Nero
 - Occhiali da sole categoria filtro 3, colorazione sufficientemente scura per ambienti esterni con luce diretta del sole; Assorbono tra l82% e il 92% della luce solare; Materiale lenti: Lenti TR18 con sigillo Eastman, gran qualità ottica e buona resistenza; Materiali eco-sostenibili; Protezione 100% UV; Colore lenti: Blu; Aspetto lenti: A specchio
+- Materiale montatura: TR90; Colore montatura: Nero; Colore asta: Nero
+- Il nostro design Warwick, con le sue lenti arrotondate, ponte a forma di serratura e aste sottili, è una delle nostre icone; Questo modello, della collezione Made in Spain, è un essenziale perfetto; Disponibile in vari colori di lenti e montatura
+- Original Hawkers product; Package includes microfiber pouch and box
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BSXLR4SH{{</world>}}

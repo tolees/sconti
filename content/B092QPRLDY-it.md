@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - MULTIPACK: 8 confezioni da 1 Litro. Con questo prodotto stai contribuendo a un futuro più sostenibile per il nostro PIANETA. Questo pack è composto da 88% di materiale di origine vegetale.
 - Bevanda alla MANDORLA, 100% vegetale, della linea ALPRO BARISTA, è lALTERNATIVA VEGETALE AL LATTE, ottimo per gli amanti del caffè per preparare cappuccini e altre deliziose preparazioni
-- Un abbinamento sublime: il tuo caffè preferito con un soffice strato di cremoso Alpro Barista. Prepara il caffè a casa come preferisci, con o senza schiuma, bollente o freddo: con il suo gusto delicato e il basso contenuto di zuccheri, Alpro Barista Soia è perfetto per esaltare la tua miscela
 - NATURALMENTE SENZA LATTOSIO. E ricco IN VITAMINE E DI CALCIO: Contiene vitamina B2, D e B12. Ricco DI FIBRE. Naturalmente povero di grassi e grassi saturi
+- Un abbinamento sublime: il tuo caffè preferito con un soffice strato di cremoso Alpro Barista. Prepara il caffè a casa come preferisci, con o senza schiuma, bollente o freddo: con il suo gusto delicato e il basso contenuto di zuccheri, Alpro Barista Soia è perfetto per esaltare la tua miscela
 - Una bevanda 100% vegetale alla MANDORLA perfetta insieme al tuo caffè preferito, per creare quella microschiuma deliziosa come se fossi al bar!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

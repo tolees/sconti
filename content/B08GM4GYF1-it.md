@@ -28,9 +28,9 @@ average: '83.02'
 
 ℹ️:
 
+- Consegnato con: Back UPS BX Manuale Utente
 - UPS ideale per dispositivi di casa e ufficio; modem e router, smartphone, PC desktop, archiviazione collegata alla rete. La protezione della rete dati da 1 GB protegge i dati e le periferiche importanti
 - Batteria di backup 750VA / 410W
-- Consegnato con: Back UPS BX Manuale Utente
 - 3 prese "FR" con batteria di riserva e anti-sovratensione
 - Automatic Voltage Regulator (AVR) protegge i dispositivi collegati stabilizzando i livelli di tensione in ingresso
 

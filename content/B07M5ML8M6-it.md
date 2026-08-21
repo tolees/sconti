@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- MARCATORE ICONICO: POSCA è il marcatore iconico a tempera acrilica a base d’acqua, articolo che ha fatto la storia della cancelleria nel mondo. Con inchiostro pigmentato ultra denso ad alto potere coprente, scrive e decora su tutte le superfici, inodore e atossico, resistente allacqua e alla luce, privo di alcol e solventi
+- 8 TIPOLOGIE DI TRATTI A DISPOSIZIONE: Il marcatore POSCA è disponibile in 8 diverse punte (punta ultrafine, punta extrafine, punta fine, punta media, punta tonda large, punta scalpello, punta extralarge scalpello e punta pennello) per offrire unampia varietà di applicazioni come scrittura, decorazione, pittura, ecc.
+- SET PER USO ARTISTICO E PROFESSIONALE: Confezione assortita come da immagine, disponibile nella variante pastel, original e metal con pennarelli a punta tonda media 1.8 - 2.5 mm, ideale per adulti e bambini a partire dai 3 anni di età, artisti e ragazzi
 - ACQUERELLABILE, VERSATILE E CREATIVO: Miscelabile con pennello bagnato per creare effetti sfumati, oltre che sovrapponibile, grazie alla sua rapida asciugatura e capace di creare un effetto blowing spray. Copre completamente la superficie sottostante per colori ultra intensi
 - UTILIZZABILE SU TUTTE LE SUPERFICI: Il colore a base dacqua aderisce a tutte le superfici, ideale su legno grezzo o trattato, tessuti, carta, ceramica trattata o ceramica pura per decorazioni permanenti, ferro, alluminio e metalli grezzi per tratti permanenti, plastica trasparente, opaca e lucida, su vetro cancellabile con acqua, pietra naturale, cemento e ciottoli
-- 8 TIPOLOGIE DI TRATTI A DISPOSIZIONE: Il marcatore POSCA è disponibile in 8 diverse punte (punta ultrafine, punta extrafine, punta fine, punta media, punta tonda large, punta scalpello, punta extralarge scalpello e punta pennello) per offrire unampia varietà di applicazioni come scrittura, decorazione, pittura, ecc.
-- MARCATORE ICONICO: POSCA è il marcatore iconico a tempera acrilica a base d’acqua, articolo che ha fatto la storia della cancelleria nel mondo. Con inchiostro pigmentato ultra denso ad alto potere coprente, scrive e decora su tutte le superfici, inodore e atossico, resistente allacqua e alla luce, privo di alcol e solventi
-- SET PER USO ARTISTICO E PROFESSIONALE: Confezione assortita come da immagine, disponibile nella variante pastel, original e metal con pennarelli a punta tonda media 1.8 - 2.5 mm, ideale per adulti e bambini a partire dai 3 anni di età, artisti e ragazzi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07M5ML8M6{{</world>}}

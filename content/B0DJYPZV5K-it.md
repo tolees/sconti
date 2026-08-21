@@ -29,9 +29,9 @@ average: '112.12'
 ℹ️:
 
 - SFIDA GLI ELEMENTI: isolamento Thermarator riciclato, cappuccio regolabile con coulisse, polsini e orlo, bordo in pelliccia sintetica staccabile per il calore
+- CAPISPALLA PRONTO PER LAVVENTURA da uomo: parka da uomo con fodera Omni-Heat Infinity, perfetto per le esplorazioni invernali, le escursioni o la vita in città
 - MATERIALI TECNICI E CURA: Guscio waterproof Omni-Shield e fodera riflettente Omni-Heat, tessuto resistente allacqua, pile ad asciugatura rapida, cuciture rinforzate, lavabile in lavatrice per una facile manutenzione
 - CONTENUTO: 1x Columbia Marquam Peak Fusion II Parka, da uomo, Dimensioni: L, Colore: Delta, Tobacco (Marrone)
-- CAPISPALLA PRONTO PER LAVVENTURA da uomo: parka da uomo con fodera Omni-Heat Infinity, perfetto per le esplorazioni invernali, le escursioni o la vita in città
 - DESIGN AUDACE: indossalo a strati per avventure allaria aperta o uscite in città - tasche per le mani con doppio ingresso e tasca sul petto con cerniera per tenere al sicuro gli oggetti essenziali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

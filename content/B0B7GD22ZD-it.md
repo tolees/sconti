@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - INTEGRATORE CARDIACO CON EPA E DHA : Lacido eicosapentaenoico (EPA) e lacido docosaesaenoico (DHA) contribuiscono alla normale funzione cardiaca.
 - CAPSULE OMEGA 3 AD ALTO DOSAGGIO : Contiene preziosi acidi grassi omega-3 derivanti da 1400 mg di olio di pesce concentrato.
-- ALTA QUALITÀ : Lolio di pesce da pesca sostenibile utilizzato in questo integratore colesterolo è di altissima qualità e rigorosamente controllato per garantire la massima purezza.
 - CONTENUTO : 120 capsule di integratore alimentare - fish oil con acidi grassi omega-3, EPA + DHA e vitamina E.
+- ALTA QUALITÀ : Lolio di pesce da pesca sostenibile utilizzato in questo integratore colesterolo è di altissima qualità e rigorosamente controllato per garantire la massima purezza.
 - VITAMINA E : Oltre a un elevato contenuto di acidi grassi di olio di pesce omega 3, le capsule contengono 20 mg di vitamina E, che contribuisce a proteggere le cellule dallo stress ossidativo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

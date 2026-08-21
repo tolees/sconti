@@ -29,8 +29,8 @@ average: '30.9533333333333'
 ℹ️:
 
 - AZIONE MOZZAFIATO Molto più di una semplice esperienza button-smasher. Padroneggia la componente strategica e impara i pattern dei nemici e attacca al tempo giusto per metterli al tappeto. Raccogli le armi sparse per i livelli e sfrutta le gimmick per alzare il livello degli scontri.
-- NUOVA GRAFICA E STILE DEI PERSONAGGI Goditi i tuoi personaggi preferiti dell’epoca d’oro dei giochi arcade ricreati in una moderna grafica 3D. I potenti nemici di un tempo sono tornati per affrontare i fratelli Lee.
 - UN’ESPERIENZA ACTION A COLPI DI ARTI MARZIALI Divertiti con un gameplay a scorrimento orizzontale semplice e immediato, con controlli e bilanciamento ripensati in chiave moderna. Un’esperienza di gioco messa a punto da Arc System Works per accontentare i neofiti e gli esperti allo stesso tempo.
+- NUOVA GRAFICA E STILE DEI PERSONAGGI Goditi i tuoi personaggi preferiti dell’epoca d’oro dei giochi arcade ricreati in una moderna grafica 3D. I potenti nemici di un tempo sono tornati per affrontare i fratelli Lee.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FFNBS1GV{{</world>}}

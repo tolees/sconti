@@ -28,11 +28,11 @@ average: '22.475'
 
 ℹ️:
 
-- Driver al neodimio da 30 mm
 - Cuffie con archetto dal design leggero e pieghevole, driver da 30 mm e 98 dB/mW di sensibilità
 - Nessun adattatore è incluso con il prodotto. E il volume deve essere controllato tramite il dispositivo di riproduzione.
 - Design pieghevole e compatto
 - Gamma di frequenza 10-24.000 Hz
+- Driver al neodimio da 30 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00I3LUWQA{{</world>}}

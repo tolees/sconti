@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- In bocca risulta equilibrata, dal sapore tostato e mediamente amaro
-- Spicca la leggere nota tostata dellorzo
 - Allolfatto dona ricordi di note affumicate su base di cereali
+- Spicca la leggere nota tostata dellorzo
 - Colore giallo dorato con riflessi oro antico
+- In bocca risulta equilibrata, dal sapore tostato e mediamente amaro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00Y8DIHGE{{</world>}}

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Pile Clarksburg
 - Polsini e vita elasticizzati
-- Vestibilità rilassata
 - Manica lunga
+- Pile Clarksburg
+- Vestibilità rilassata
 - Girocollo in maglia a costine con inserto a V sul collo anteriore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

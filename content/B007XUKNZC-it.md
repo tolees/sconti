@@ -28,10 +28,10 @@ average: '6.59'
 
 ℹ️:
 
-- Migliora i contatti
 - Il diametro esterno della spazzola corrisponde a 20 mm
-- Il diametro interno della spazzola corrisponde a 18 mm
+- Migliora i contatti
 - Per rimuovere la corrosione dai contatti e i depositi di acidi sui poli e morsetti della batteria
+- Il diametro interno della spazzola corrisponde a 18 mm
 - Utilizzabile per la pulizia interna ed esterna dei poli
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

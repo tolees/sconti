@@ -28,11 +28,11 @@ average: '84.78'
 
 ℹ️:
 
-- Numero di giocatori: 2-4 | Età consigliata: 13+ | Durata media: 180 min | Espansione | Edizione in lingua italiana
 - Scegli I Popoli Liberi e aiuta Frodo a distruggere l’Unico Anello, oppure guida L’Esercito dell’Ombra e conquista tutta la Terra di Mezzo.
-- Meccaniche legate alla storia, per unesperienza tematica unica nel suo genere.
-- Una simulazione ricca di miniature e carte con fantastiche illustrazioni.
 - Accompagna le gesta narrate da J. R. R. Tolkien con questo pluripremiato titolo asimmetrico di Ares Games.
+- Meccaniche legate alla storia, per unesperienza tematica unica nel suo genere.
+- Numero di giocatori: 2-4 | Età consigliata: 13+ | Durata media: 180 min | Espansione | Edizione in lingua italiana
+- Una simulazione ricca di miniature e carte con fantastiche illustrazioni.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07D1QSDWY{{</world>}}

@@ -28,9 +28,9 @@ average: '23.09'
 
 ℹ️:
 
-- FONDO GAMBA: 22,9cm, ALTEZZA CAVALLO (DAVANTI): 29,2cm nella taglia 34W (IT)
 - BOOTCUT VERSATILE: stile classico perfetto per occasioni casual e smart-casual
 - DETTAGLI: modello a cinque tasche con patta con zip e bottone
+- FONDO GAMBA: 22,9cm, ALTEZZA CAVALLO (DAVANTI): 29,2cm nella taglia 34W (IT)
 - BOOTCUT SLIM FIT: aderenti su fianchi e cosce con gamba leggermente svasata. Si appoggiano al punto vita
 - DENIM MISTO COTONE: misto denim a bassa elasticità per un look classico e un comfort ottimale
 

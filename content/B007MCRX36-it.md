@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - ACCIAIO AL CARBONIO RINFORZATO: Prodotti in acciaio al carbone rinforzato di alta qualità per garantire la giusta forza e flessibilità necessarie per soddisfare una moltitudine di applicazioni di cucito
 - 30 PEZZI: Set di 30 aghi per cucire a mano, adatti per cucito universale, su misura, impunture, ricamo, filati, tele, rammenti e riparazioni
-- Il set include 16 x aghi universali, 8 x aghi da trapunto, 1 x aghi da ricamo, 5 x da rammendo
-- Lunghezza aghi: Trapunto 3 cm, universali 3,8 e 4 cm, rammendo 4,9 cm e 5,1 cm, ricamo 4,8 cm
 - CUSTODIA: Gli aghi sono forniti in una pratica custodia riutilizzabile, che utilizza un meccanismo a rotazione per estrarre e reinserire l’ago desiderato
+- Lunghezza aghi: Trapunto 3 cm, universali 3,8 e 4 cm, rammendo 4,9 cm e 5,1 cm, ricamo 4,8 cm
+- Il set include 16 x aghi universali, 8 x aghi da trapunto, 1 x aghi da ricamo, 5 x da rammendo
 - CUSTODIA: Gli aghi sono forniti in una pratica custodia riutilizzabile, che utilizza un meccanismo a rotazione per estrarre e reinserire l’ago desiderato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

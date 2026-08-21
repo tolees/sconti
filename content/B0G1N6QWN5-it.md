@@ -30,9 +30,9 @@ average: '46.7057142857143'
 
 - Multiplayer fino a 12 giocatori online o 8 in wireless locale
 - Grafica migliorata fino a 4K in modalità TV (1080p in portatile)
-- GameChat e compatibilità con telecamera USB-C per video e chat vocale
 - Nuovi comandi stile mouse per una creatività senza limiti
 - Megafono dalla Bottega di Nook per chiamare amici grazie al microfono integrato
+- GameChat e compatibilità con telecamera USB-C per video e chat vocale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0G1N6QWN5{{</world>}}

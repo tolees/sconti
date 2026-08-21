@@ -29,11 +29,11 @@ average: '2.79'
 ℹ️:
 
 - NESCAFÉ in Europa è realizzato con caffè proveniente al 100% da fonti responsabili, Scopri di più sul sito NESCAFÉ
-- Un cappuccino dalla schiuma soffice e cremosa con tutta la golosità del doppio cioccolato
 - I chicchi di caffè NESCAFÉ vengono selezionati e tostati singolarmente con cura
 - NESCAFÉ Cappuccino Double Choco è un morbido e goloso cappuccino realizzato con cioccolato, cacao e caffè di alta qualità uniti a una deliziosa e vellutata schiuma di latte
-- Naturalmente senza glutine
 - Visita il sito Nestlé per scoprire come le nostre marche sono scese in campo e contribuiscono al raggiungimento degli obiettivi di sostenibilità del Gruppo Nestlé con progetti concreti
+- Naturalmente senza glutine
+- Un cappuccino dalla schiuma soffice e cremosa con tutta la golosità del doppio cioccolato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07KW1KQBW{{</world>}}

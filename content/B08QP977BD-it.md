@@ -28,8 +28,8 @@ average: '58.2916666666667'
 
 ℹ️:
 
-- RETURNAL - ROMPI IL CERCHIO è un Thriller psicologico con un gameplay molto action, stile bullet-hell, che riesce a sfruttare e mettere in risalto tutte le caratteristiche HW di PS5. Uno sparatutto strategico e frenetico, con infinite variazioni e rigiocabilità, che offre un mix di mondi generati proceduralmente e narrazione complessa e profonda.
 - Scopri la nuova esclusiva Sony PlayStation
+- RETURNAL - ROMPI IL CERCHIO è un Thriller psicologico con un gameplay molto action, stile bullet-hell, che riesce a sfruttare e mettere in risalto tutte le caratteristiche HW di PS5. Uno sparatutto strategico e frenetico, con infinite variazioni e rigiocabilità, che offre un mix di mondi generati proceduralmente e narrazione complessa e profonda.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08QP977BD{{</world>}}

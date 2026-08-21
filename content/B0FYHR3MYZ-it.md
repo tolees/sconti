@@ -28,11 +28,11 @@ average: '79.0'
 
 ℹ️:
 
+- Pulsanti GL/GR configurabili
+- Rumble HD 2 e Comandi di Movimento
 - Pulsante di cattura
 - Presa audio: mini-jack stereo 3,5 mm a 4 contatti (standard CTIA)
 - Integra un pulsante C, per avviare GameChat
-- Pulsanti GL/GR configurabili
-- Rumble HD 2 e Comandi di Movimento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FYHR3MYZ{{</world>}}

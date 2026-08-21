@@ -28,11 +28,11 @@ average: '15.85'
 
 ℹ️:
 
+- Protezione dello schermo imbottita integrata con spazio per nove carte da gioco
+- Misure interne adatte a entrambi i sistemi, con fodera in feltro e vano portaoggetti con cerniera
+- Prodotto con licenza ufficiale Nintendo e garanzia limitata di due anni: visita PowerA.com/Support
 - Robusto guscio esterno con impugnatura in gomma e doppia cerniera resistente
 - Supporto di gioco integrato per modalità da tavolo
-- Prodotto con licenza ufficiale Nintendo e garanzia limitata di due anni: visita PowerA.com/Support
-- Misure interne adatte a entrambi i sistemi, con fodera in feltro e vano portaoggetti con cerniera
-- Protezione dello schermo imbottita integrata con spazio per nove carte da gioco
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DSFM8W7Z{{</world>}}

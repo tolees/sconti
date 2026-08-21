@@ -28,9 +28,9 @@ average: '44.0'
 
 ℹ️:
 
+- Dettaglio monologo
 - Girocollo e maniche lunghe
 - Finitura a costine
-- Dettaglio monologo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F4NVWMT9{{</world>}}

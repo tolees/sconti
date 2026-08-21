@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Marca: Bburago
 - Riproduzione realistica
-- Scala 1:24
 - Prodotto realizzato con materiali di alta qualità
+- Marca: Bburago
+- Scala 1:24
 - Modellino in metallo da collezione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

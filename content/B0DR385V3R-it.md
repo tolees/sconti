@@ -28,11 +28,11 @@ average: '21.84'
 
 ℹ️:
 
+- Vestibilità: regolare
+- Tipo elasticizzato: non elasticizzato
 - Composizione: 65% poliestere 13% acrilico 13% nylon;poliammide 6% lana 3% elastane
 - Istruzioni di lavaggio: lavabile in lavatrice
 - Maglione
-- Tipo elasticizzato: non elasticizzato
-- Vestibilità: regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DR385V3R{{</world>}}

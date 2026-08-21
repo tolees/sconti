@@ -28,11 +28,11 @@ average: '16.594'
 
 ℹ️:
 
-- Filtro rimovibile e lavabile
 - Beccuccio per versare lacqua senza farla fuoriuscire
+- Doppio indicatore del livello dacqua
+- Filtro rimovibile e lavabile
 - Include 2 tazze con cucchiaio, riponibili allinterno del bollitore
 - Spia di funzionamento al neon e voltaggio universale
-- Doppio indicatore del livello dacqua
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B079TQBQZL{{</world>}}

@@ -29,8 +29,8 @@ average: '18.356'
 ℹ️:
 
 - Ogni tazzina di caffè LOR rappresenta unesperienza unica, un momento di puro e semplice piacere. Sapori intensi, delicati e corposi che sorprenderanno il tuo palato
-- La pratica capsula in alluminio conserva al meglio gli aromi del caffe, per unesperienza intensa. Capsule compatibili con le macchine da caffè Nespresso, una pausa caffè a casa tua come al bar
 - LOr Espresso Barista. Gusta un espresso dalla tostatura scura, forte e intenso. Un sapore corposo fin dal primo sorso, seguito da un lungo e intenso retrogusto di caffè tostato e note di cioccolato. 100 capsule. Intensità 13
+- La pratica capsula in alluminio conserva al meglio gli aromi del caffe, per unesperienza intensa. Capsule compatibili con le macchine da caffè Nespresso, una pausa caffè a casa tua come al bar
 - *Marchio di terzi senza alcun collegamento con JACOBS DOUWE EGBERTS
 - Ogni miscela di caffè LOR è coltivata con metodi di produzione sostenibili certificati, preservando la natura e proteggendo lambiente
 

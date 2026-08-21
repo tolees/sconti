@@ -28,10 +28,10 @@ average: '499.0'
 
 ℹ️:
 
-- 2 HDMI, 1 Display Port, Ingresso audio
-- Contenuto: 1x Samsung Monitor Gaming Odyssey G75F 37" Curvo, Include cavo di alimentazione e cavo DP, Dimensioni con base (LxAxP): 81,6 x 67,44 x 30,38 cm
-- 3840x2160 (UHD 4K), Pannello VA, 16:9, Display HDR 600, HDR10+
 - Refresh Rate 165Hz, Response Time 1ms (GtG), FreeSync Premium Pro
+- 2 HDMI, 1 Display Port, Ingresso audio
+- 3840x2160 (UHD 4K), Pannello VA, 16:9, Display HDR 600, HDR10+
+- Contenuto: 1x Samsung Monitor Gaming Odyssey G75F 37" Curvo, Include cavo di alimentazione e cavo DP, Dimensioni con base (LxAxP): 81,6 x 67,44 x 30,38 cm
 - Samsung Monitor Gaming Odyssey G75F, 37, Curvo (1000R)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

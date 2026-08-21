@@ -28,9 +28,9 @@ average: '567.65'
 
 ℹ️:
 
+- Cinturini regolabili in vita realizzati in pelle bovina
 - Composizione materiale principale in pelle Nappa spessa, pelliccia naturale di pecora
 - Solo lavaggio a secco
-- Cinturini regolabili in vita realizzati in pelle bovina
 - Cuciture in pelle con cordoncino, cerniera in ottone e collo con fibbia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

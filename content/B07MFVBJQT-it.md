@@ -28,10 +28,10 @@ average: '39.96'
 
 ℹ️:
 
-- Materiale suola: gomma
+- Materiale esterno: sintetico
 - Fodera: sintetico
 - Lacci a chiusura rapida
-- Materiale esterno: sintetico
+- Materiale suola: gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07MFVBJQT{{</world>}}

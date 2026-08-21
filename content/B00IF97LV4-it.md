@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Indicatore on/off luminoso
 - Tutte le prese sono dotate di children safety - impedisce di introdurre corpi estranei nella presa in tensione
 - Cavo ho5 vv-f sezione 3g1 mm² lunghezza 1, 5 metri
+- Indicatore on/off luminoso
 - Multipresa con 4 prese polivalenti (schuko + 16a +10a); spina 16a
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

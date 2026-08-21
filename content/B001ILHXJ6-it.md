@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- INFORMAZIONI TECNICHE: Set di trapani manualiBGS DIY, 2 - 5 mm, 4 pezzi, Peso lordo: 88 g
 - LIMITAZIONI: Contenuto della fornitura:Trapano a mano Ø 2 mm, Trapano a mano Ø 3 mm, Trapano a mano Ø 4 mm, Trapano a mano Ø 5 mm
 - ATTENZIONE - Per verificare la compatibilità di questo ricambio con il vostro veicolo, utilizzate i dati del vostro veicolo e rispettate eventuali restrizioni/criteri esistenti.
-- INFORMAZIONI TECNICHE: Set di trapani manualiBGS DIY, 2 - 5 mm, 4 pezzi, Peso lordo: 88 g
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B001ILHXJ6{{</world>}}

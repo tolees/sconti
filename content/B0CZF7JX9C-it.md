@@ -28,8 +28,8 @@ average: '5.21333333333333'
 
 ℹ️:
 
-- *Macchie causate da cibi e bevande. Conservare il dentifricio ad una temperatura superiore a 18 gradi centigradi
 - SBIANCAMENTO DEI DENTI: Mostra un sorriso bianco e luminoso quando ti spazzoli con il Dentifricio Sbiancante Colgate Max White Ultra Active Foam
+- *Macchie causate da cibi e bevande. Conservare il dentifricio ad una temperatura superiore a 18 gradi centigradi
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
 - SICURO PER LUSO QUOTIDIANO: Il dentifricio sbiancante sbianca le macchie profonde in maniera non abrasiva e allo stesso tempo è sicuro per lo smalto
 - RIMOZIONE DELLE MACCHIE DAI DENTI: Le molecole di questo dentifricio sbiancante rilevano in modo intelligente e rimuovono le macchie superficiali e profonde per denti più bianchi in soli 3 giorni*; Ed è clinicamente provato

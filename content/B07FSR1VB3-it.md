@@ -28,11 +28,11 @@ average: '5.598'
 
 ℹ️:
 
-- IL NOSTRO IMPEGNO: Selezioniamo solo l’1% dei chicchi di Arabica per garantire zero difetti nella nostra tazzina, grazie alle relazioni instaurate generazione dopo generazione con i coltivatori
+- GUSTO: Il caffè è 100% arabica, adatto per gli amanti del caffè dal gusto morbido
+- CLASSICO: ll profilo di tostatura CLASSICO si caratterizza per delicate note di caramello, fiori darancio, gelsomino e un retrogusto dolce
 - MACINATO PER ESPRESSO: La macinatura del caffè è specifica per la preparazione dellespresso. Il processo di pressurizzazione affina ed esalta gli aromi del blend nel barattolo, mantenendo una fragranza che all’apertura si sprigiona nellaria
 - FORMATO: Il barattolo contiene 250g di caffè macinato ideale per espresso
-- CLASSICO: ll profilo di tostatura CLASSICO si caratterizza per delicate note di caramello, fiori darancio, gelsomino e un retrogusto dolce
-- GUSTO: Il caffè è 100% arabica, adatto per gli amanti del caffè dal gusto morbido
+- IL NOSTRO IMPEGNO: Selezioniamo solo l’1% dei chicchi di Arabica per garantire zero difetti nella nostra tazzina, grazie alle relazioni instaurate generazione dopo generazione con i coltivatori
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07FSR1VB3{{</world>}}

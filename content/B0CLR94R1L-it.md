@@ -28,10 +28,10 @@ average: '126.0'
 
 ℹ️:
 
-- Orlo regolabile con coulisse per adattare la vestibilità, Colletto alto e polsini regolabili per trattenere il calore
-- Contents: 1x Columbia Pike Lake, Giubbotto Imbottito con Cappuccio da Uomo, Colore: Nero, Taglia: L, Articolo: 2050931
-- Cerniera a tutta lunghezza, 2 tasche con cerniera per tenere le mani al caldo e al sicuro, Tasca interna di sicurezza per custodire oggetti di valore
 - Particolarmente calda grazie alla tecnologia Omni-Heat con fodera termoriflettente, Imbottitura Thermarator per una protezione ottimale dal vento e dalle intemperie
+- Contents: 1x Columbia Pike Lake, Giubbotto Imbottito con Cappuccio da Uomo, Colore: Nero, Taglia: L, Articolo: 2050931
+- Orlo regolabile con coulisse per adattare la vestibilità, Colletto alto e polsini regolabili per trattenere il calore
+- Cerniera a tutta lunghezza, 2 tasche con cerniera per tenere le mani al caldo e al sicuro, Tasca interna di sicurezza per custodire oggetti di valore
 - Giacca idrorepellente con cappuccio da uomo, Ideale per fredde giornate in città, lungo i sentieri e per altre attività allaperto, Taglio moderno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

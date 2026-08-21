@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- deodorante
 - Arbre Magique tris fruit cocktail
+- deodorante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01D8IDO4Y{{</world>}}

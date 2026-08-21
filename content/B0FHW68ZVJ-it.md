@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- CARATTERISTICHE: Idratante e protettivo, è ideale su viso e corpo. Senza parabeni, petrolati, coloranti, delicatamente profumato
-- OLIO DI KARITÉ: Olio Vegetale, ottenuto dal Burro di Karité, che idrata e protegge la pelle del viso e del corpo
-- COSA CONTIENE: Contiene i fitosteroli dall’azione emolliente ed elasticizzante e la vitamina E dall’efficace attività antiossidante
 - EQUILIBRA: Da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto dellequilibrio tra rispetto, efficacia, benessere e bellezza
+- OLIO DI KARITÉ: Olio Vegetale, ottenuto dal Burro di Karité, che idrata e protegge la pelle del viso e del corpo
 - IDRATA SENZA UNGERE: Utilizzato dopo ogni doccia o bagno, sulla pelle asciutta o bagnata, la idrata profondamente e la protegge senza ungere. 99% di ingredienti di origine naturale
+- COSA CONTIENE: Contiene i fitosteroli dall’azione emolliente ed elasticizzante e la vitamina E dall’efficace attività antiossidante
+- CARATTERISTICHE: Idratante e protettivo, è ideale su viso e corpo. Senza parabeni, petrolati, coloranti, delicatamente profumato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FHW68ZVJ{{</world>}}

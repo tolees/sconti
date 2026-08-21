@@ -28,9 +28,9 @@ average: '17.5'
 
 ℹ️:
 
+- 0
+- 0
 - NF0A52TH4H0
-- 0
-- 0
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DF3BBM23{{</world>}}

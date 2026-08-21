@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Il famoso gioco per PC Anno 1800 è ora disponibile in versione da tavolo per giocare offline (versione tedesca)
+- Azioni di gioco brevi e un meccanismo di scambio particolare
 - Dallautore di successo mondiale di giochi di strategia per esperti Martin Wallace
 - Con immagini originali e suggestive tratte dal famoso videogioco per PC
-- Il famoso gioco per PC Anno 1800 è ora disponibile in versione da tavolo per giocare offline (versione tedesca)
 - Gioco di strategia per 2-4 giocatori, dai 12 anni in su
-- Azioni di gioco brevi e un meccanismo di scambio particolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08BWCKYYQ{{</world>}}

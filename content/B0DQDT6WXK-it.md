@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Quando usarlo: dopo i pasti in caso di senso di pesantezza, senso di gonfiore, acidità di stomaco.
 - Usalo sempre in casa dopo i pasti.
+- Quando usarlo: dopo i pasti in caso di senso di pesantezza, senso di gonfiore, acidità di stomaco.
 - Conservare ben chiuso in un luogo fresco e asciutto.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

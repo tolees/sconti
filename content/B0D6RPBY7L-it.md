@@ -28,11 +28,11 @@ average: '19.98'
 
 ℹ️:
 
-- Istruzioni di lavaggio: lavabile in lavatrice
 - Composizione: 100% cotone
+- Vestibilità: regolare
+- Istruzioni di lavaggio: lavabile in lavatrice
 - Tipo elasticizzato: non elasticizzato
 - Polo casual
-- Vestibilità: regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D6RPBY7L{{</world>}}

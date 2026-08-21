@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- FORI PER FORI PULI: la punta per legno ha una punta di centraggio brevettata e due taglierine, con cui è possibile una velocità di foratura molto elevata e fori senza strappi in legno duro e morbido, truciolato, cartongesso e plastica.
 - Design con scanalature Twin-Land: grazie alla spirale con design a doppia scanalatura sono garantiti un flusso preciso di concentrazione, unelevata stabilità laterale e un buon trasporto della polvere di perforazione della punta per legno duro.
 - ALTA PRECISIONE: Lelevata precisione si ottiene grazie al trapano elicoidale rettificato di precisione per legno, che con il suo fusto cilindrico si adatta a tutti i trapani rotativi e a percussione con mandrino da 10 e 13 mm.
 - Lunga durata: la punta elicoidale per legno FCE è realizzata in acciaio HSS M2 di alta qualità, che garantisce una lunga durata anche in legno particolarmente duro, come ad esempio Bangkirai e Douglasie.
-- FORI PER FORI PULI: la punta per legno ha una punta di centraggio brevettata e due taglierine, con cui è possibile una velocità di foratura molto elevata e fori senza strappi in legno duro e morbido, truciolato, cartongesso e plastica.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00GR2RFNK{{</world>}}

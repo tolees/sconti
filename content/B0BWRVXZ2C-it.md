@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - È possibile consumare il bar in qualsiasi momento durante questo periodo.
-- Proteine vegetali 30%
 - sapori deliziosi
 - Senza coloranti o conservanti artificiali
+- Proteine vegetali 30%
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BWRVXZ2C{{</world>}}

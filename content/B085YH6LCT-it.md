@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Formula dermotestata, senza sapone e a pH fisiologico, studiata per detergere corpo e capelli, rispettandone le specifiche esigenze
-- Nutrimento e rispetto della pelle e del cuoio capelluto
 - Con Puro Olio di Glicerina, studiato per restituire alla pelle la sua naturale idratazione e proteggerla ogni giorno
+- Nutrimento e rispetto della pelle e del cuoio capelluto
+- Formula dermotestata, senza sapone e a pH fisiologico, studiata per detergere corpo e capelli, rispettandone le specifiche esigenze
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B085YH6LCT{{</world>}}

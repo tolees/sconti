@@ -28,11 +28,11 @@ average: '28.3614285714286'
 
 ℹ️:
 
+- Length: 19 cm
 - Nominal width: 5.4 cm
 - Adapta shaped.
 - Thin, smooth, anatomically, transparent, lubricated with reservoir.
 - Nominal width: 5.4 cm
-- Length: 19 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07P3MVJZZ{{</world>}}

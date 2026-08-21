@@ -29,9 +29,9 @@ average: '6.745'
 ℹ️:
 
 - Confezione da tre paia
+- Taglio sopra la caviglia
 - 71% cotone / 26% poliestere riciclato / 2% elastane / 1% nylon riciclato
 - Ammortizzazione della suola in punta e sul tallone
-- Taglio sopra la caviglia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BP2SBRG7{{</world>}}

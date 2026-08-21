@@ -28,8 +28,8 @@ average: '16.39'
 
 ℹ️:
 
-- Confezione da 24 pezzi
 - Forma confortevole e dimensione grande
+- Confezione da 24 pezzi
 - Preservativo Extra Large
 - Profilattico in lattice di gomma naturale
 

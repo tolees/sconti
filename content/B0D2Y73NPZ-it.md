@@ -29,10 +29,10 @@ average: '10.17'
 ℹ️:
 
 - PROTEZIONE NATURALE SPRAY – Lo spray LERAVA olio di neem pronto all’uso protegge piante da cocciniglia, afidi e insetti, offrendo un trattamento biologico efficace per orto, giardino e coltivazioni domestiche.
-- UTILIZZO RAPIDO E PRATICO – Formula pronta senza diluizione, ideale per fiori, piante ornamentali, ortaggi e alberi da frutto. Nebulizzazione uniforme che semplifica l’applicazione in ogni stagione e su ogni tipo di coltivazione.
 - QUALITÀ LERAVA GARANTITA – Da anni forniamo prodotti sicuri e testati. Oltre allo spray neem offriamo sapone molle e olio di neem concentrato, assicurando un trattamento antiparassitario completo e affidabile per tutte le piante.
-- SOLUZIONE BIOLOGICA AFFIDABILE – L’olio di neem riduce la diffusione degli insetti rispettando l’ambiente. Disponiamo anche di olio di neem puro concentrato per trattamenti specifici e personalizzati in base alle esigenze.
+- UTILIZZO RAPIDO E PRATICO – Formula pronta senza diluizione, ideale per fiori, piante ornamentali, ortaggi e alberi da frutto. Nebulizzazione uniforme che semplifica l’applicazione in ogni stagione e su ogni tipo di coltivazione.
 - AZIONE SINERGICA POTENTE – In combinazione con sapone molle per piante, il neem agisce in modo mirato contro parassiti e funghi, migliorando la resistenza delle colture e favorendo una crescita sana e vigorosa.
+- SOLUZIONE BIOLOGICA AFFIDABILE – L’olio di neem riduce la diffusione degli insetti rispettando l’ambiente. Disponiamo anche di olio di neem puro concentrato per trattamenti specifici e personalizzati in base alle esigenze.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D2Y73NPZ{{</world>}}

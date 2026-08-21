@@ -28,8 +28,8 @@ average: '15.99'
 
 ℹ️:
 
-- T-shirt per uomo Nike Sportswear Just Do It Swoosh
 - Maniche corte
+- T-shirt per uomo Nike Sportswear Just Do It Swoosh
 - Girocollo
 - Composizione materiale: 100% cotone
 - Stile scollo: Collo a U

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- L-CITRULLINA e GLICEROLO: La citrullina è utile per la vasodilatazione e aiuta a migliorare lafflusso del sangue ai muscoli impegnati nellallenamento; mentre il glicerolo aiuta ad aumentare lidratazione e il volume cellulare stimolando il volume muscolare
-- ENERGAN: bevanda a base di ciclodestrine altamente ramificate "HBCD", Cluster Dextrin; questo rappresenta un vero supporto e sostegno marcatamente influente sulla performance e sul recupero muscolare
-- FLEX LEWIS: questo prodotto è stato sviluppato in collaborazione con il 7 volte Mr; olympia 212 Flex Lewis
-- MODO DUSO: aggiungere 3 misurini da 42gr in 500ml di acqua o altra bevanda ed assumere una volta al giorno, nelle 4 ore successive allattività fisica ed entro 6 ore dallattività stessa; non superare la dose giornaliera consigliata
 - AMMINOACIDI ESSENZIALI: Oltre ad unazione energetica, Energan contiene una miscela di amminoacidi essenziali da fermentazione vegetale in grado di sostenere la sintesi proteica senza alcun bisogno di impegno digestivo
+- L-CITRULLINA e GLICEROLO: La citrullina è utile per la vasodilatazione e aiuta a migliorare lafflusso del sangue ai muscoli impegnati nellallenamento; mentre il glicerolo aiuta ad aumentare lidratazione e il volume cellulare stimolando il volume muscolare
+- MODO DUSO: aggiungere 3 misurini da 42gr in 500ml di acqua o altra bevanda ed assumere una volta al giorno, nelle 4 ore successive allattività fisica ed entro 6 ore dallattività stessa; non superare la dose giornaliera consigliata
+- FLEX LEWIS: questo prodotto è stato sviluppato in collaborazione con il 7 volte Mr; olympia 212 Flex Lewis
+- ENERGAN: bevanda a base di ciclodestrine altamente ramificate "HBCD", Cluster Dextrin; questo rappresenta un vero supporto e sostegno marcatamente influente sulla performance e sul recupero muscolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07SH8CSVP{{</world>}}

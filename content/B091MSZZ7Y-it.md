@@ -28,9 +28,9 @@ average: '19.95'
 
 ℹ️:
 
-- Pallone da basket con design speciale dei New Orleans Pelicans per appassionati, Utilizzabile su tutti i campi da gioco
 - Rivestimento in gomma Performance Cover con grip ottimale su superfici ruvide allaperto
 - Struttura davanguardia con scanalature NBA Pro Seams per rispondere in modo ottimale alle esigenze dei giocatori
+- Pallone da basket con design speciale dei New Orleans Pelicans per appassionati, Utilizzabile su tutti i campi da gioco
 - Contenuto: 1 Pallone da basket Wilson, NBA TEAM TRIBUTE, NEW ORLEANS PELICANS, Misura: 7, Materiale: Gomma, WTB1300XBNO
 - Design bicolore che richiama gli inconfondibili colori della squadra
 

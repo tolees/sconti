@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Lunghezza focale 50 mm (corrisponde a APS-C 75 mm), apertura F1.8 (apertura più piccola F22)
+- Bellissimi effetti bokeh con unemissione luminosa massima di F1.8; maggiore durata grazie al robusto alloggiamento in metallo
 - Pulire lobiettivo per evitare errori di applicazione
+- consegna Sony Obiettivo full frame SEL50F18F.SYX E-mount
 - Qualità dellimmagine eccentrica grazie a un design ottico con un elemento asferico
 - Per fotocamere full-frame con attacco E, compatte, leggere e maneggevoli
-- Bellissimi effetti bokeh con unemissione luminosa massima di F1.8; maggiore durata grazie al robusto alloggiamento in metallo
-- Lunghezza focale 50 mm (corrisponde a APS-C 75 mm), apertura F1.8 (apertura più piccola F22)
-- consegna Sony Obiettivo full frame SEL50F18F.SYX E-mount
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01DLMD5O6{{</world>}}

@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - IDEALI PER SCUOLA E UFFICIO: La robustezza e la qualità delle matite Noris 120 le rendono perfette per luso quotidiano in ambito scolastico e professionale, offrendo una soluzione affidabile per tutte le esigenze di scrittura e disegno
 - QUALITÀ SUPERIORE: Realizzate con trucioli di legno riciclati, le matite Noris 120 garantiscono una scrittura fluida e precisa, adatta a ogni tipo di attività artistica e scolastica
-- SET DI MATITE COMPLETO: Questo set Noris include 6 matite HB e 2 gomme da cancellare in un pratico blister, ideale per scrittura, disegno e schizzi, perfetto per studenti e professionisti
 - LEGNO SOSTENIBILE: Le matite sono prodotte con legno certificato PEFC, proveniente da foreste a gestione sostenibile, assicurando una scelta ecologica e rispettosa dellambiente
+- SET DI MATITE COMPLETO: Questo set Noris include 6 matite HB e 2 gomme da cancellare in un pratico blister, ideale per scrittura, disegno e schizzi, perfetto per studenti e professionisti
 - PRATICHE E VERSATILI: La gradazione HB delle matite permette di ottenere linee chiare e scure con facilità, coprendo una vasta gamma di esigenze artistiche e di scrittura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

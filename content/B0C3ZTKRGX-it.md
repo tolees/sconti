@@ -28,11 +28,11 @@ average: '19.85'
 
 ℹ️:
 
-- RICARICABILE - Una ricarica di soli 30 minuti garantisce fino a 1.000 lanci (nelle modalità B1 e T0) oppure un’intera partita di Ultimate della durata di 90 minuti. La confezione include 1 cavo USB Type-C a Type-C (alimentatore non incluso).
 - 16 MILIONI DI COLORI - Goditi gli straordinari effetti luminosi creati da 16,7 milioni di variazioni di colore generate dai 108 LED RGB (24 bit). Lasciati sorprendere dagli innumerevoli stili e combinazioni che puoi esplorare grazie alla nostra invenzione originale e brevettata.
-- MODALITÀ INTELLIGENTI E SENSORI DI MOVIMENTO - Seleziona e controlla facilmente tutte le modalità disponibili per luminosità, timer, colore e stile. I LED si accendono e si spengono automaticamente grazie ai sensori di movimento integrati, contribuendo a ottimizzare il consumo della batteria.
 - 175 GRAMMI - Vincitore del premio TIME Best Inventions 2024. Conforme agli standard professionali dell’Ultimate Frisbee, offre voli lunghi, precisi e stabili, una presa estremamente confortevole ed è perfetto anche per i trick freestyle.
 - RIVOLUZIONA IL GIOCO - Rendi ancora più divertenti i tuoi giochi di lancio preferiti come Beersbee e Polish Horseshoes grazie a questo disco premium, resistente e impermeabile. Un regalo ideale per Natale, Pasqua, compleanni, lauree, campeggio e qualsiasi occasione speciale.
+- MODALITÀ INTELLIGENTI E SENSORI DI MOVIMENTO - Seleziona e controlla facilmente tutte le modalità disponibili per luminosità, timer, colore e stile. I LED si accendono e si spengono automaticamente grazie ai sensori di movimento integrati, contribuendo a ottimizzare il consumo della batteria.
+- RICARICABILE - Una ricarica di soli 30 minuti garantisce fino a 1.000 lanci (nelle modalità B1 e T0) oppure un’intera partita di Ultimate della durata di 90 minuti. La confezione include 1 cavo USB Type-C a Type-C (alimentatore non incluso).
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C3ZTKRGX{{</world>}}

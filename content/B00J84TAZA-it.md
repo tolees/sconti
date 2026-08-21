@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Un riso integrale dal colore nero “naturale”
 - Riso nero
 - Si adatta molto bene ai piatti di pesce o crostacei
-- Un riso integrale dal colore nero “naturale”
 - Possiede un caratteristico aroma di pane appena sfornato
 - Cuoce in 18 minuti
 

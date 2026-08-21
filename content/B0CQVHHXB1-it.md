@@ -28,8 +28,8 @@ average: '24.9'
 
 ℹ️:
 
-- Materiale: Alluminio
 - Colore: Grigio
+- Materiale: Alluminio
 - Casseruola antiaderente con coperchio e corpo in alluminio ad alto spessore, per cotture rapide, uniformi e senza grassi aggiunti. Nei manici è integrato linserto in silicone per una presa antiscivolo. Adatta a tutti i piani, anche a induzione.
 - Dimensioni prodotto: L. 32.40 cm x H. 15.60 cm x P. 21.00 cm
 

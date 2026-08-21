@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Il pizzo è un bellissimo materiale leggero, d
-- Composizione del materiale: 90% poliammide, 10% elastan
-- Dettaglio in pizzo
 - Reggiseno
+- Il pizzo è un bellissimo materiale leggero, d
+- Dettaglio in pizzo
+- Composizione del materiale: 90% poliammide, 10% elastan
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B075TYF8MS{{</world>}}

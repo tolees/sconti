@@ -28,10 +28,10 @@ average: '1.77'
 
 ℹ️:
 
-- Fatto in Italia da sempre con nettare di frutta italiana!
+- Golose caramelle gelèes dall’inconfondibile morbidezza, ricche di nettare di frutta e gustosi cristalli di zucchero: fragola, pesca, mandarino, ananas, assaggia tutti i gusti!
 - Questo prodotto è senza gelatina animale, senza coloranti artificiali e senza glutine
 - All’interno della confezione trovi 400 g di Caramelle Gran Gelèes Frutti Del Sole Sperlari
-- Golose caramelle gelèes dall’inconfondibile morbidezza, ricche di nettare di frutta e gustosi cristalli di zucchero: fragola, pesca, mandarino, ananas, assaggia tutti i gusti!
+- Fatto in Italia da sempre con nettare di frutta italiana!
 - Fai Festa con Sperlari: compleanno, Natale, Halloween, Laurea, le nostre caramelle rendono ogni occasione unica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

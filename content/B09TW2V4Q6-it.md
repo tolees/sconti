@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Zardetto Prosecco Rosè Extra Dry Doc - Cartone da 6 x 750 ML
-- Glera, Pinot Nero
 - Italia-Veneto
+- Glera, Pinot Nero
+- Zardetto Prosecco Rosè Extra Dry Doc - Cartone da 6 x 750 ML
 - 6 Bottiglie da 75 cl
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

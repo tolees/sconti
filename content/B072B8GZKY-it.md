@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nostromo - Trancetti di tonno all olio di oliva 1 busta da 1kg. Facili da aprire e pronti all uso già sgocciolati.'
-date: 2026-08-05 08:05:04
+date: 2026-08-21 13:03:52
 image: 'https://m.media-amazon.com/images/I/41kDGDq4LpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B072B8GZKY-it Nostromo - Trancetti di tonno all olio di oliva 1 busta da...'
 sku: 'B072B8GZKY-it'
 tags: [ '🇮🇹', ]
-actualPrice: 10.67 EUR
+actualPrice: 10.14 EUR
 currency: EUR
-price: 10.67
+price: 10.14
 comparePrice: 15.69 EUR
 prodname: 'Nostromo - Trancetti di tonno all olio di oliva 1 busta da 1kg. Facili da aprire e pronti all uso già sgocciolati.'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B072B8GZKY/?tag=tolees00-21'
-descuento: '31.99'
-average: '13.0844444444444'
+descuento: '35.37'
+average: '12.5490909090909'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

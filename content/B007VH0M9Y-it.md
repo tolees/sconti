@@ -28,11 +28,11 @@ average: '1.19'
 
 ℹ️:
 
+- Questo prodotto è senza glutine e senza coloranti artificiali
 - Ogni momento è adatto per gustare una caramella Sperlari: quando vai dalla Nonna, quando sei in ufficio, quando sei nel traffico, quando porti al parco tuo figlio, fatti accompagnare da Sperlari
+- Fatto in Italia da sempre, con menta glaciale e menta piperita piemontese!
 - Fai Festa con Sperlari: compleanno, Natale, Halloween, Laurea, le nostre caramelle rendono ogni occasione unica
 - All’interno della confezione trovi 200 gr di caramelle alla menta piperita e menta glaciale Sperlari, ogni caramella è incartata singolarmente
-- Fatto in Italia da sempre, con menta glaciale e menta piperita piemontese!
-- Questo prodotto è senza glutine e senza coloranti artificiali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B007VH0M9Y{{</world>}}

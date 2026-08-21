@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Riflessi brillanti e visibili
 - Colore trattamento senza ammoniaca, dura fino a 28 shampoo
-- Nutrizione intensa, capelli rimpolpati e voluttuosi
 - Colore trattamento senza ammoniaca, dura fino a 28 shampoo
+- Nutrizione intensa, capelli rimpolpati e voluttuosi
 - Nutrizione intensa, capelli rimpolpati e voluttuosi
 - Nutrizione intensa, capelli rimpolpati e voluttuosi
 - Riflessi brillanti e visibili

@@ -28,9 +28,9 @@ average: '59.99'
 
 ℹ️:
 
-- Leggero, comodo e alla moda
-- Skechers Nome stile: SPORTS
 - Materiale: TESSUTO
+- Skechers Nome stile: SPORTS
+- Leggero, comodo e alla moda
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CM6LG1NM{{</world>}}

@@ -28,10 +28,10 @@ average: '30.145'
 
 ℹ️:
 
+- CARATTERISTICHE: Prodotto esclusivamente in molini tracciabili con olive 100% italiane, lavorate a freddo il più rapidamente possibile dall’arrivo in frantoio.
+- IL PRODOTTO: Il Grezzo Novello Costa dOro è la celebrazione dellolio extravergine di oliva italiano non filtrato. E ricco in polifenoli, antiossidanti naturali, e la non filtrazione permette di conservare la freschezza delle olive appena spremute.
 - ABBINAMENTI IDEALI: Questo olio non filtrato è perfetto quando assaporato a crudo, ma è anche ideale se abbinato a piatti caldi o in cotture lente per ammorbidire i tratti amaro e piccante o rivelare il bouquet fruttato.
 - MISSION: Costa d’Oro si impegna dal 1968 a produrre prodotti di qualità con una particolare dedizione all’innovazione e alla trasparenza.
-- IL PRODOTTO: Il Grezzo Novello Costa dOro è la celebrazione dellolio extravergine di oliva italiano non filtrato. E ricco in polifenoli, antiossidanti naturali, e la non filtrazione permette di conservare la freschezza delle olive appena spremute.
-- CARATTERISTICHE: Prodotto esclusivamente in molini tracciabili con olive 100% italiane, lavorate a freddo il più rapidamente possibile dall’arrivo in frantoio.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09JZCSGC9{{</world>}}

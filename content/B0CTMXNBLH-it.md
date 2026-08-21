@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'XIAOMI Watch 2 Google WearOS 1.43" AMOLED GPS 5ATM Nero'
-date: 2026-08-17 14:51:49
+date: 2026-08-20 10:22:47
 image: 'https://m.media-amazon.com/images/I/41kGwtQNlWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

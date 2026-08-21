@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Scarpe Sportive Classiche
 - Dettagli classici
 - Tomaia in tela
-- Scarpe Sportive Classiche
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07BTL18RB{{</world>}}

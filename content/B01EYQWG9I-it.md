@@ -28,9 +28,9 @@ average: '4.14'
 
 ℹ️:
 
-- Biopoint Solaire è la linea di bellezza per la protezione solare di corpo e capelli, formulata con oli per nutrire e idratare la pelle e con protezione dai raggi UVA, UVB e infrarossi
-- Trattamento doposole ristrutturante per capelli secchi e stressati da sole e mare, nutre e ristruttura il capello donando una chioma soffice e idratata
 - Applicare dopo lo shampoo sui capelli umidi, lasciare in posa alcuni minuti e risciacquare
+- Trattamento doposole ristrutturante per capelli secchi e stressati da sole e mare, nutre e ristruttura il capello donando una chioma soffice e idratata
+- Biopoint Solaire è la linea di bellezza per la protezione solare di corpo e capelli, formulata con oli per nutrire e idratare la pelle e con protezione dai raggi UVA, UVB e infrarossi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01EYQWG9I{{</world>}}

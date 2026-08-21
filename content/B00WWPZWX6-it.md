@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Tessuto elasticizzato
-- Camicia da uomo in standard della marca danese Jack & Jones
 - Vestibilità sottile
+- Camicia da uomo in standard della marca danese Jack & Jones
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00WWPZWX6{{</world>}}

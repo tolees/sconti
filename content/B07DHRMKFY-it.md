@@ -28,11 +28,11 @@ average: '22.3066666666667'
 
 ℹ️:
 
+- Ogni fragranza è stata accuratamente selezionata e testata per diffondere un profumo a lunga durata in tutta la stanza
 - Lo stoppino in legno brevettato delle candele con fiamma Hearthwick crea una fiamma danzante che brucia a lungo con il suo tipico scoppiettio per ricreare una sofisticata atmosfera che ricorda il camino
 - La forma a ellisse del vaso permette una diffusione continua della fragranza con unapertura più ampia che consente lo scioglimento completo della cera
-- La miscela di cere di qualità premium produce una meravigliosa fiamma senza residui
 - Lasciatevi avvolgere dal caldo, naturale profumo che ricorda i baccelli di pura vaniglia.
-- Ogni fragranza è stata accuratamente selezionata e testata per diffondere un profumo a lunga durata in tutta la stanza
+- La miscela di cere di qualità premium produce una meravigliosa fiamma senza residui
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07DHRMKFY{{</world>}}

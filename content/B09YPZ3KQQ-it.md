@@ -28,10 +28,10 @@ average: '90.32'
 
 ℹ️:
 
-- POTENTE BATTERIA AL LITIO 24V 4Ah DI NUOVA GENERAZIONE E POWER BANK - progettata con precisione con tecnologia al litio avanzata per offrire potenza, durata e prestazioni eccezionali
-- COMPATIBILE CON TUTTI GLI ATTREZZI GREENWORKS 24V - robusta e affidabile, questa batteria di ultima generazione può alimentare tutti gli attrezzi della gamma Greenworks da 24V, consentendoti di ridurre gli sprechi e di risparmiare spazio e denaro
 - RICARICA FACILE E VELOCE - basta inserire la batteria in un caricabatterie Greenworks per ricaricarla completamente in 120 minuti. Inoltre, la batteria è dotata di un indicatore LED a tre livelli che visualizza il livello di carica raggiunto
+- POTENTE BATTERIA AL LITIO 24V 4Ah DI NUOVA GENERAZIONE E POWER BANK - progettata con precisione con tecnologia al litio avanzata per offrire potenza, durata e prestazioni eccezionali
 - CARICA TELEFONO, LAPTOP E TABLET - la torcia portatile è dotata di una porta USB e di una porta di tipo C e può essere usata come una enorme powerbank per ricaricare telefoni, laptop e cellulari durante un blackout o uninterruzione di corrente
+- COMPATIBILE CON TUTTI GLI ATTREZZI GREENWORKS 24V - robusta e affidabile, questa batteria di ultima generazione può alimentare tutti gli attrezzi della gamma Greenworks da 24V, consentendoti di ridurre gli sprechi e di risparmiare spazio e denaro
 - 3 ANNI DI GARANZIA – Offerti da Greenworks, leader mondiale negli strumenti senza fili e nella tecnologia a batterie con una reputazione a livello globale per design smart, prestazioni elevate e un servizio clienti eccezionale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ average: '7.99'
 
 ℹ️:
 
-- 2 L
 - Pannelli trasparenti e traspiranti; maniglione di fettuccia
+- 2 L
 - Ampia apertura con cerniera a J
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

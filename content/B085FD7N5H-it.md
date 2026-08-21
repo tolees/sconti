@@ -28,10 +28,10 @@ average: '43.58'
 
 ℹ️:
 
-- Impugnatura con foggia ergonomica
 - Meccanismo di percussione "DOUBLE-Hammer"
-- Robusto
 - Estremamente potente con 1.450 Nm
+- Robusto
+- Impugnatura con foggia ergonomica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B085FD7N5H{{</world>}}

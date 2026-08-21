@@ -28,10 +28,10 @@ average: '31.55'
 
 ℹ️:
 
-- Dimensioni del prodotto: 34,04 (L) x 57,91 (A) x 29,21 (P) cm.
-- Supporta fino a 4.5 kg per livello.
-- CARATTERISTICA DI SICUREZZA AGGIUNTA: langolo arrotondato riduce il rischio di lesioni
 - DESIGN SEMPLICE ED ELEGANTE: tavolino a 3 livelli di piccole dimensioni adatto a piccoli spazi
+- Dimensioni del prodotto: 34,04 (L) x 57,91 (A) x 29,21 (P) cm.
+- CARATTERISTICA DI SICUREZZA AGGIUNTA: langolo arrotondato riduce il rischio di lesioni
+- Supporta fino a 4.5 kg per livello.
 - MATERIALE DI QUALITÀ: tubi compositi in legno e plastica di media densità di alta qualità.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ average: '16.34'
 
 ℹ️:
 
-- Numero di giocatori: 1-5 | Età consigliata: 6+ | Durata media: 15 min | Edizione in Lingua Italiana |
-- E ora di uscire con i vostri amici e vedere chi cè ancora in giro.Prendete la vostra fidata torcia e partite alla pazza ricerca di tutti i personaggi bizzarri nascosti là fuori.Cercate di trovarli tutti e correte a casa prima che sorga la luna.
 - Importante: non sono necessarie batterie.
-- Luminus è un gioco per tutte le età in cui dovremo trovare personaggi che si nascondono nel buio!
+- Numero di giocatori: 1-5 | Età consigliata: 6+ | Durata media: 15 min | Edizione in Lingua Italiana |
 - Gioco nominato As DOr 2025 - Categoria Kids
+- E ora di uscire con i vostri amici e vedere chi cè ancora in giro.Prendete la vostra fidata torcia e partite alla pazza ricerca di tutti i personaggi bizzarri nascosti là fuori.Cercate di trovarli tutti e correte a casa prima che sorga la luna.
+- Luminus è un gioco per tutte le età in cui dovremo trovare personaggi che si nascondono nel buio!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DB99W91W{{</world>}}

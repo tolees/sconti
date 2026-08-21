@@ -30,8 +30,8 @@ average: '6.88'
 
 - Tessuto : Poliestere 100D
 - Uso : Interno ed esterno moderato
-- Finiture : Cuciti raddoppiati e bordi rinforzati
 - Imballaggio : Envoltorio de plástico
+- Finiture : Cuciti raddoppiati e bordi rinforzati
 - Aggancio : Occhielli metallici
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

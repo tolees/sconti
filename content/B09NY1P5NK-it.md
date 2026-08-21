@@ -28,11 +28,11 @@ average: '42.59'
 
 ℹ️:
 
+- CARATTERISTICHE - Grazie alla velocità costante del motore brushless elettrico, non viene persa potenza in caso di carico maggiore - inoltre la velocità è regolabile
+- AIUTO PRATICO IN OFFICINA - Questo attrezzo multifunzionale di Greenworks ha una luce LED per lavorare in modo preciso in condizioni di luce sfavorevoli e la lama si sostituisce senza utensili
+- FACILE DA AVVIARE - Inserisci la batteria da 24V e parti: con questo strumento versatile inizi subito i lavori di costruzione libero e senza fili - Non sono inclusi batteria e caricatore
 - POTENTE - L’utensile multifunzione Greenworks conquista con 18000 oscillazioni al minuto e un arco di oscillazione di 3° per lavorare in modo professionale
 - UNA BATTERIA PER TUTTI - Le batterie Greenworks da 24V dalle 2Ah fino alle più potenti 4Ah sono versatili e compatibili con molti prodotti a marchio Greenworks del settore giardinaggio e manifattura
-- CARATTERISTICHE - Grazie alla velocità costante del motore brushless elettrico, non viene persa potenza in caso di carico maggiore - inoltre la velocità è regolabile
-- FACILE DA AVVIARE - Inserisci la batteria da 24V e parti: con questo strumento versatile inizi subito i lavori di costruzione libero e senza fili - Non sono inclusi batteria e caricatore
-- AIUTO PRATICO IN OFFICINA - Questo attrezzo multifunzionale di Greenworks ha una luce LED per lavorare in modo preciso in condizioni di luce sfavorevoli e la lama si sostituisce senza utensili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09NY1P5NK{{</world>}}

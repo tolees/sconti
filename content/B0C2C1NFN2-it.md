@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Taglia:__ Taglio aderente
 - Resistente al cloro
 - __Protezione UV:__ Indice di protezione solare UPF 50
 - Materiale: materiale resistente allacqua salata e realizzato con filati riciclati
-- Taglia:__ Taglio aderente
 - Anti-umidità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

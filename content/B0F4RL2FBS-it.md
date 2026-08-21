@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Collo rotondo
 - Tessuto interlock
-- Vestibilità regolare
-- 100% poliestere (100% riciclato)
+- Collo rotondo
 - Tecnologia CLIMACOOL
 - Logo tecnico riflettente
+- 100% poliestere (100% riciclato)
+- Vestibilità regolare
 - Logo tecnico riflettente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

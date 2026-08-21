@@ -28,11 +28,11 @@ average: '11.16'
 
 ℹ️:
 
+- PRODOTTO: Condimento di verdure da agricoltura biologica per insalate di riso e altri cereali Saclà. Ricetta classica, in olio di semi di girasole
+- F.lli Saclà S.p.A., azienda familiare che dal 1939 accompagna lo stare a tavola in Italia e nel Mondo coniugando tradizione e innovazione. "E per tutti. E Saclà." è limpegno di Saclà nelloffrire a tutti i consumatori la giusta soluzione di gusto e formato per ogni occasione
 - LE MIGLIORI VERDURE: Un Mix ricco di verdure da agricoltura biologica (carote, peperoni, carciofi, cetrioli, mais, sedano, cipolla, piselli, capperi, olive)
 - SAPORI AUTENTICI OGNI GIORNO: Condiverde Saclà è ideale per dare tutto il gusto dellestate alle tue insalate di riso, di pasta, farro o altri cereali
-- PRODOTTO: Condimento di verdure da agricoltura biologica per insalate di riso e altri cereali Saclà. Ricetta classica, in olio di semi di girasole
 - CONDIVERDERISO, TUTTO IL GUSTO DELLESTATE
-- F.lli Saclà S.p.A., azienda familiare che dal 1939 accompagna lo stare a tavola in Italia e nel Mondo coniugando tradizione e innovazione. "E per tutti. E Saclà." è limpegno di Saclà nelloffrire a tutti i consumatori la giusta soluzione di gusto e formato per ogni occasione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01M1BPG9F{{</world>}}

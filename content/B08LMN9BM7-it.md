@@ -28,11 +28,11 @@ average: '5.91'
 
 ℹ️:
 
+- Connettore RJ45 dritto ad angolo su connettore RJ45, soluzione ideale in spazi minimi, protezione del nasello e indicazione della lunghezza sul connettore dritto
+- Cavo di rete LAN/adatto per reti Gigabit 10/100/1000/10000 Mbit, larghezza di banda massima 500 MHz, adatto per Power over Ethernet (PoE/PoE+)
 - Cavo rotondo in rivestimento in PVC, conduttore interno in alluminio rivestito in rame, protezione antipiega su entrambi i lati
 - Retrocompatibile con cavi CAT 5
-- Connettore RJ45 dritto ad angolo su connettore RJ45, soluzione ideale in spazi minimi, protezione del nasello e indicazione della lunghezza sul connettore dritto
 - Ideale per console con immagini ad alta risoluzione, come ad esempio PS 4, PS 5, Xbox One, Xbox One X, Nintendo ecc.
-- Cavo di rete LAN/adatto per reti Gigabit 10/100/1000/10000 Mbit, larghezza di banda massima 500 MHz, adatto per Power over Ethernet (PoE/PoE+)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08LMN9BM7{{</world>}}

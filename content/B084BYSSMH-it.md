@@ -28,20 +28,20 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- sveglia con due allarmi e tre suonerie
+- Sveglia con due allarmi e tre suonerie
+- Ingresso audio aux-in
+- Radio dab/dab+/fm
 - radio dab/dab+/fm
+- uscita cuffie da 3,5 mm
 - alimentatore incluso
+- Uscita cuffie da 3,5 mm
+- sveglia con due allarmi e tre suonerie
+- Bluetooth v5,0
+- display lcd tft da 2,4 multifunzione con luminosità variabile
 - ingresso audio aux-in
 - bluetooth v5,0
-- Radio dab/dab+/fm
-- Sveglia con due allarmi e tre suonerie
-- uscita cuffie da 3,5 mm
-- display lcd tft da 2,4 multifunzione con luminosità variabile
-- Ingresso audio aux-in
-- Bluetooth v5,0
-- Uscita cuffie da 3,5 mm
-- Alimentatore incluso
 - Display lcd tft da 2,4 multifunzione con luminosità variabile
+- Alimentatore incluso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B084BYSSMH{{</world>}}

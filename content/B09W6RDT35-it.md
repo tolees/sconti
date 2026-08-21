@@ -28,9 +28,9 @@ average: '16.2285714285715'
 
 ℹ️:
 
+- FILIERA CONTROLLATA: il grano è coltivato solo dagli agricoltori della filiera Armando che garantisce zero residui di pesticidi e glifosato, utilizzati nella coltivazione e nella conservazione del grano
 - PASTA ARMANDO: Pasta di Semola di Grano Duro 100% Italiano, Trafila al Bronzo ed Essiccata Lentamente, lavorata secondo il Metodo Tradizionale. Il suo sapore speciale è riconoscibile tra mille
 - LO SPAGHETTONE: formato di pasta pensato dallo Chef Alessandro Borghese, dalla perfetta tenuta in cottura e al morso. Il più grosso tra gli spaghetti Armando
-- FILIERA CONTROLLATA: il grano è coltivato solo dagli agricoltori della filiera Armando che garantisce zero residui di pesticidi e glifosato, utilizzati nella coltivazione e nella conservazione del grano
 - COTTURA: 13 minuti per una pasta "al dente" e 14 minuti per una cottura completa. La trafilatura al bronzo e laccurata selezione dei grani duri garantiscono una pasta sempre al dente, buona e sana. Con un contenuto proteico del 14%
 - PACK ECOSOSTENIBILE: Armando si prende cura dellambiente, grazie al pack completamente riciclabile con la carta
 

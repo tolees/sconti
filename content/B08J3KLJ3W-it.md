@@ -28,12 +28,12 @@ average: '131.54'
 
 ℹ️:
 
-- Il decespugliatore a batteria AGILLO 18/200 offre tutti i vantaggi dellintelligente serie di prodotti Power X-Change alimentati da sistema di batterie agli ioni di litio ad alte prestazioni; essendo un componente della famiglia di prodotti PXC, il decespugliatore AGILLO può essere comodamente alimentato da tutte le batterie appartenenti a questa serie
-- Batteria e caricabatteria non in dotazione; per il funzionamento è necessaria 1 batteria Power X-Change da 18 Volt, acquistabile separatamente, ad esempio con il pratico Starter Set
 - La comoda cinghia di trasporto ottimizza la manipolazione dellattrezzo; limpugnatura di guida in alluminio leggero previene la stanchezza durante luso essendo ergonomica e dotata di rivestimento antiscivolo Softgrip
-- La robusta bobina con testina automatica è idonea per il taglio di sterpi fitte ed erba alta; la potente lama a 3 denti è in grado di abbattere boscaglia fitta e sterpi; il blocco dellalbero agevola la sostituzione dellattrezzo da taglio
-- Sistema Split Shaft che agevola il trasporto e riduce lingombro dellattrezzo quando viene riposto; il supporto a parete incorporato permette di riporre lattrezzo facilmente e in sicurezza
 - Il maneggevole decespugliatore a batterie è azionato da motore anteriore che garantisce una trasmissione di potenza e una distribuzione del peso ottimali; il manubrio, versione "bike", dispone di impostazione universale
+- Batteria e caricabatteria non in dotazione; per il funzionamento è necessaria 1 batteria Power X-Change da 18 Volt, acquistabile separatamente, ad esempio con il pratico Starter Set
+- La robusta bobina con testina automatica è idonea per il taglio di sterpi fitte ed erba alta; la potente lama a 3 denti è in grado di abbattere boscaglia fitta e sterpi; il blocco dellalbero agevola la sostituzione dellattrezzo da taglio
+- Il decespugliatore a batteria AGILLO 18/200 offre tutti i vantaggi dellintelligente serie di prodotti Power X-Change alimentati da sistema di batterie agli ioni di litio ad alte prestazioni; essendo un componente della famiglia di prodotti PXC, il decespugliatore AGILLO può essere comodamente alimentato da tutte le batterie appartenenti a questa serie
+- Sistema Split Shaft che agevola il trasporto e riduce lingombro dellattrezzo quando viene riposto; il supporto a parete incorporato permette di riporre lattrezzo facilmente e in sicurezza
 - Il decespugliatore AGILLO raggiunge un regime massimo di 7.200 giri al minuto; attraverso la regolazione dei giri è possibile mantenere sotto controllo la potenza e quindi impostare lattrezzo in funzione del tipo di uso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

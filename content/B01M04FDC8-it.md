@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Corpo in fusione dalluminio, matiene caldo il caffè.
-- Guarnizioni in silicone a lunga durata.
-- Manici in finitura soft touch, ergonomico e sicuro
 - Fondo ad alto spessore, per risparmio energetico.
+- Guarnizioni in silicone a lunga durata.
+- Corpo in fusione dalluminio, matiene caldo il caffè.
+- Manici in finitura soft touch, ergonomico e sicuro
 - Nota non adatto per induzione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

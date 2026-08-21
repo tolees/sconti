@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Confezionato in scatola antiurto impilabile
 - Contiene 6 punte e 6 punte piatte flat
 - Kit di foratura per legno da 12 pezzi
-- Confezionato in scatola antiurto impilabile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07FMFQV6R{{</world>}}

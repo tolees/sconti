@@ -28,11 +28,11 @@ average: '5.95'
 
 ℹ️:
 
-- LE HAWAII IN OGNI SPRUZZO: ogni protezione solare Hawaiian Tropic ha un profumo unico nel suo genere che trasforma la tua protezione solare quotidiana in qualcosa di cui non potrai più fare a meno
-- PROTEZIONE SOLARE DALLA TESTA AI PIEDI: testato per le avventure sotto il sole in spiaggia, escursioni, sport e spostamenti quotidiani. Per una protezione completa, combinare con la protezione solare viso e corpo Hawaiian Tropic
-- PROTEZIONE SOLARE SPRAY INVISIBILE UVA/UVB SPF 30: protegge il cuoio capelluto, si assorbe istantaneamente senza lasciare residui bianchi e senza ungere. Previene le scottature e i danni da raggi UV con unazione superiore rispetto alle lozioni solari
 - PROTEZIONE SOLARE E CURA DEL CUOIO CAPELLUTO IN UN UNICO PRODOTTO: con Pantenolo e Vitamina E, protegge senza appesantire i capelli e senza accumuli, perfetta per tutti i tipi e colori di capelli
 - RESISTENTE ALLACQUA PER 40 MINUTI: resiste allacqua e allattività fisica. Per una protezione SPF 30 continua, riapplicare dopo lesposizione allacqua o una forte sudorazione
+- PROTEZIONE SOLARE DALLA TESTA AI PIEDI: testato per le avventure sotto il sole in spiaggia, escursioni, sport e spostamenti quotidiani. Per una protezione completa, combinare con la protezione solare viso e corpo Hawaiian Tropic
+- LE HAWAII IN OGNI SPRUZZO: ogni protezione solare Hawaiian Tropic ha un profumo unico nel suo genere che trasforma la tua protezione solare quotidiana in qualcosa di cui non potrai più fare a meno
+- PROTEZIONE SOLARE SPRAY INVISIBILE UVA/UVB SPF 30: protegge il cuoio capelluto, si assorbe istantaneamente senza lasciare residui bianchi e senza ungere. Previene le scottature e i danni da raggi UV con unazione superiore rispetto alle lozioni solari
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GY8PSR9R{{</world>}}

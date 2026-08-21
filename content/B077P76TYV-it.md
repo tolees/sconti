@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- IDEALE CON: momenti di divertimento a ritmo di musica.
-- FORMATO: cassa di birra con 24 Lattine da 50cl.
-- TUBORG: birra premium lager con note di cereale e un gusto secco, determinato da un amaro ridotto ma presente durante lintero assaggio, che la rendono particolarmente dissetante. Queste caratteristiche, unite al suo moderato grado alcolico la rendono la colonna sonora perfetta per dare il giusto ritmo ai momenti di divertimento in compagnia!
 - FRESCA COME ALLA SPINA: birra premium lager che si caratterizza per la sua purezza e bevibilità.
 - GRADAZIONE ALCOLICA: 5.0% Vol.
+- TUBORG: birra premium lager con note di cereale e un gusto secco, determinato da un amaro ridotto ma presente durante lintero assaggio, che la rendono particolarmente dissetante. Queste caratteristiche, unite al suo moderato grado alcolico la rendono la colonna sonora perfetta per dare il giusto ritmo ai momenti di divertimento in compagnia!
+- FORMATO: cassa di birra con 24 Lattine da 50cl.
+- IDEALE CON: momenti di divertimento a ritmo di musica.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B077P76TYV{{</world>}}

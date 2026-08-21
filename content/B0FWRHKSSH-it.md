@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Carrello integrato con ruote – per trascinare e posizionare rapidamente senza sollevare
 - Bruciatore potente (3,8 kW) – raggiunge fino a 320 °C per una grigliata intensa
+- Compatto e pieghevole – si apre e si chiude in pochi secondi, ideale per gli spostamenti
 - Contenuto della confezione: 1 × Weber Traveler barbecue a gas con ruote, nero
 - Ampia superficie di cottura (circa 63 × 34 cm) – spazio sufficiente per una grande varietà di piatti alla griglia
-- Compatto e pieghevole – si apre e si chiude in pochi secondi, ideale per gli spostamenti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FWRHKSSH{{</world>}}

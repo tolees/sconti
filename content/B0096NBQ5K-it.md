@@ -28,8 +28,8 @@ average: '17.81'
 
 ℹ️:
 
-- Scelga il Suo veicolo nel selettore per verificarne la compatibilità con il prodotto.
 - LAMPA Interruttore principale, Batteria
+- Scelga il Suo veicolo nel selettore per verificarne la compatibilità con il prodotto.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0096NBQ5K{{</world>}}

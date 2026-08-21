@@ -28,11 +28,11 @@ average: '11.5'
 
 ℹ️:
 
-- 💎 GASTROPROTEZIONE: La formulazione unica gastroprotetta scherma la bromelina pura dagli acidi digestivi, assicurandone lassorbimento completo per benefici superiori alle comuni bromeline.
 - 🌱SENZA GLUTINE E LATTOSIO, ADATTO AI VEGANI: non contiene Glutine ed è adatto a chi segue uno stile di vita Vegano
-- 💧 BROMELINA: con Bromelina purissima estratta dal gambo di ananas, con gastroprotezione. Ingredienti di origine naturale selezionati per qualità, purezza e standardizzazione.
-- 🏆 MADE IN ITALY: Il nostro integratore drenante è prodotto secondo rigorosi standard di qualità in uno stabilimento GMP, Made in Italy. Ogni confezione contiene 120 compresse, sufficienti per 4 mesi di trattamento.
+- 💎 GASTROPROTEZIONE: La formulazione unica gastroprotetta scherma la bromelina pura dagli acidi digestivi, assicurandone lassorbimento completo per benefici superiori alle comuni bromeline.
 - 🍍 PROMUOVE LA DIGESTIONE: La bromelina è un enzima naturale estratto dall’ananas che contribuisce a scomporre le proteine favorendo il regolare processo digestivo.
+- 🏆 MADE IN ITALY: Il nostro integratore drenante è prodotto secondo rigorosi standard di qualità in uno stabilimento GMP, Made in Italy. Ogni confezione contiene 120 compresse, sufficienti per 4 mesi di trattamento.
+- 💧 BROMELINA: con Bromelina purissima estratta dal gambo di ananas, con gastroprotezione. Ingredienti di origine naturale selezionati per qualità, purezza e standardizzazione.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CT97T91L{{</world>}}

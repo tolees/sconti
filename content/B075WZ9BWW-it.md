@@ -28,11 +28,11 @@ average: '10.45'
 
 ℹ️:
 
+- Fusto ergonomico triangolare con grip in gomma
 - punta media 1,0 mm
 - meccanismo a scatto laterale
-- Asciugatura immediata
 - Nuovo inchiostro Feel-it a bassa viscosità ancora più scorrevole sul foglio
-- Fusto ergonomico triangolare con grip in gomma
+- Asciugatura immediata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B075WZ9BWW{{</world>}}

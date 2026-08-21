@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Lavare: per una maggiore durata, lavare a una temperatura non superiore a 30°, non candeggiare o lavare a secco. Asciugare in asciugatrice a bassa velocità e stirare a media temperatura; In cotone
-- T-shirt classica a maniche corte da uomo realizzata in 100% cotone con logo Dickies ricamato sul taschino. Senza etichetta sul collo per evitare sfregamenti
-- Contenuto: 1 x T-Shirt Uomo Dickies; Maglietta maniche corte con taschino frontale; Tessuto: 100% cotone; Colore: Blu Marino; Taglia: XXL
 - Ideale per tutte le occasioni quotidiane, ma anche per essere indossata sul lavoro; 100% cotone prelavato traspirante, girocollo confortevole.
+- T-shirt classica a maniche corte da uomo realizzata in 100% cotone con logo Dickies ricamato sul taschino. Senza etichetta sul collo per evitare sfregamenti
+- Lavare: per una maggiore durata, lavare a una temperatura non superiore a 30°, non candeggiare o lavare a secco. Asciugare in asciugatrice a bassa velocità e stirare a media temperatura; In cotone
+- Contenuto: 1 x T-Shirt Uomo Dickies; Maglietta maniche corte con taschino frontale; Tessuto: 100% cotone; Colore: Blu Marino; Taglia: XXL
 - Un classico assoluto, è uno dei must-have iconici Dickies. Disponibile in 6 taglie, dalla S alla XXXL
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ average: '14.63'
 
 ℹ️:
 
-- Camicetta alta da donna con bottoni
-- Tasca sul petto
 - Maniche arrotolate
+- Tasca sul petto
+- Camicetta alta da donna con bottoni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BN3V9R5C{{</world>}}

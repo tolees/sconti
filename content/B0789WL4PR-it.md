@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Motore monofase ad induzione con protezione termica incorporata
-- Attenzione: Assicurarsi che il diametro del canotto del QD100 (99mm) sia adatto per lapplicazione: se troppo grande, scegliere il modello QD90 (90mm)
-- Aspiratore assiale con frontale design; struttura realizzata in ABS di alta qualità, colore RAL9010
-- IPX4 - 8W - 83m3/h - 26dB(A) - 220-240V 50/60Hz -T max 50°C
 - Marcatura CE - Certificato TÜV Rheinland
+- Attenzione: Assicurarsi che il diametro del canotto del QD100 (99mm) sia adatto per lapplicazione: se troppo grande, scegliere il modello QD90 (90mm)
+- Motore monofase ad induzione con protezione termica incorporata
+- IPX4 - 8W - 83m3/h - 26dB(A) - 220-240V 50/60Hz -T max 50°C
+- Aspiratore assiale con frontale design; struttura realizzata in ABS di alta qualità, colore RAL9010
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0789WL4PR{{</world>}}

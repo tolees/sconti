@@ -28,8 +28,8 @@ average: '21.99'
 
 ℹ️:
 
-- GIN CON ARANCIA: distillato con più di 9 prodotti botanici tra cui arance rosse di Sicilia, ginepro e acqua proveniente dal Monviso. PROFILO SENSORIALE: a metà tra lamaro e il dolce agrumato delle arance, Malfy Gin con Arancia è anche piccante e speziato grazie al ginepro. COLORE E FINITURA: Malfy Gin con Arancia è color rosso rubino, con un finale lungo e deliziosamente complesso. MADE IN ITALY: Malfy Gin è prodotto in Italia tramite il processo di distillazione a freddo. La bottiglia è in vetro, il tappo in rovere italiano. COCKTAILS: gusta il tuo gin agrumato con arancia insieme alla tonica o alla soda, mescolato con una spruzzata di vermouth e sempre servito con una fetta di arancia.
 - ‎Pernod Ricard Italia S.p.A. - Via De Costilio n. 23 - Milano Italia *Imbotigliato nello stabilimento di Via Bosca n. 40 - Conelli (AT) Italia
+- GIN CON ARANCIA: distillato con più di 9 prodotti botanici tra cui arance rosse di Sicilia, ginepro e acqua proveniente dal Monviso. PROFILO SENSORIALE: a metà tra lamaro e il dolce agrumato delle arance, Malfy Gin con Arancia è anche piccante e speziato grazie al ginepro. COLORE E FINITURA: Malfy Gin con Arancia è color rosso rubino, con un finale lungo e deliziosamente complesso. MADE IN ITALY: Malfy Gin è prodotto in Italia tramite il processo di distillazione a freddo. La bottiglia è in vetro, il tappo in rovere italiano. COCKTAILS: gusta il tuo gin agrumato con arancia insieme alla tonica o alla soda, mescolato con una spruzzata di vermouth e sempre servito con una fetta di arancia.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0795ZW5LB{{</world>}}

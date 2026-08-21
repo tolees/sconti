@@ -28,11 +28,11 @@ average: '7.99'
 
 ℹ️:
 
-- Include: 110 g di sabbia azzurra, 110 g di sabbia rosa, 110 g di sabbia viola
-- Kinetic Sand non contiene glutine, caseina e frumento Divertentissima da modellare e sicura per tutti
 - Kinetic Sand è adatto ai bambini e alle bambine dai 3 anni in su
+- Include: 110 g di sabbia azzurra, 110 g di sabbia rosa, 110 g di sabbia viola
 - TRE COLORI BRILLANTI UNICI: usando le tre diverse tonalità pastello di Kinetic Sand, disponibili solo nella confezione Sabbia Brillante da 3, si può creare e ricreare allinfinito
 - Sabbia Rosa, Viola e Azzurro brillante per stimolare la creatività. Le confezioni a forma di castello possono essere usate come formine
+- Kinetic Sand non contiene glutine, caseina e frumento Divertentissima da modellare e sicura per tutti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07NSM2Z9T{{</world>}}

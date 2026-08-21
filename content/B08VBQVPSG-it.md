@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Da servire a temperatura ambiente
-- Contiene 20 bicchierini in cialda croccante
-- Da bere puro, ma anche sul gelato, nel caffè, per guarnire o insaporire dolci e semifreddo
 - Loriginale liquore con cioccolato e grappa
+- Contiene 20 bicchierini in cialda croccante
+- Da servire a temperatura ambiente
+- Da bere puro, ma anche sul gelato, nel caffè, per guarnire o insaporire dolci e semifreddo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08VBQVPSG{{</world>}}

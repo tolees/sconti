@@ -29,11 +29,11 @@ average: '10.58'
 ℹ️:
 
 - EQUILIBRA: da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto di un perfetto equilibrio tra rispetto, efficacia, benessere e bellezza
-- MELATONINA LIPOSOMIALE SPRAY: la Melatonina, assunta poco prima di coricarsi, riduce il tempo richiesto per prendere sonno e può inoltre contribuire ad alleviare gli effetti del jet-lag
 - ADATTO AI VEGANI: integratore adatto ai vegani, senza glutine e naturalmente privo di lattosio
-- DA ASSUMERE PRIMA DI CORICARSI: 4 spruzzi sotto la lingua poco prima di coricarsi. Per il jet-lag, 2 spruzzi. L’eventuale deposito è dato dalla naturalità del prodotto, non ne pregiudica la qualità
 - AZIONE RAPIDA: spray assorbito rapidamente dalla mucosa orale, con Tecnologia Micropuff che eroga il prodotto in gocce piccole e uniformi, massimizzando lassorbimento della melatonina
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
+- MELATONINA LIPOSOMIALE SPRAY: la Melatonina, assunta poco prima di coricarsi, riduce il tempo richiesto per prendere sonno e può inoltre contribuire ad alleviare gli effetti del jet-lag
+- DA ASSUMERE PRIMA DI CORICARSI: 4 spruzzi sotto la lingua poco prima di coricarsi. Per il jet-lag, 2 spruzzi. L’eventuale deposito è dato dalla naturalità del prodotto, non ne pregiudica la qualità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0G543LXZC{{</world>}}

@@ -28,9 +28,9 @@ average: '29.0'
 
 ℹ️:
 
-- Lunga durata
-- Prodotto di ottima fattura
 - Maglietta a maniche lunghe da adulto
+- Prodotto di ottima fattura
+- Lunga durata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F4NW2K3H{{</world>}}

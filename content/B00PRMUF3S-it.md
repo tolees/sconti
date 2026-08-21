@@ -28,8 +28,8 @@ average: '9.08'
 
 ℹ️:
 
-- 325 mm ampiezza
 - 530 mm lunghezza
+- 325 mm ampiezza
 - 100 mm altezza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

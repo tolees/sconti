@@ -28,12 +28,12 @@ average: '126.88'
 
 ℹ️:
 
+- Display potente: con una luminosità dino a 1035 lm, Hue Play Wall Washer emette una luce instensa e brillante. Grazie alla funzione di dimmerazione profonda, può diventare anche unincantevole luce ambientale o una accogliente luce notturna.
+- Materiali di alta qualità: Realizzato in alluminio con finitura opaca, così da non produrre alcun riflesso dal televisore.
 - Questo prodotto è un prodotto contenitore. I prodotti contenitori gli apparecchi di illuminazione che possono essere smontati per consentire la verifica separata della o delle sorgenti luminose ivi contenute. Questo prodotto contiene una sorgente luminosa di classe di efficienza energetica G.
 - Design compatto: Nonostante la sua potente emissione luminosa, Hue Play Wall Washer ha dimensioni ridotte - solo 15,7 cm x 9,1 cm - si adatta a spazi anche molto piccoli, come un mobile TV o una mensola.
-- Area di illuminazione più ampia: il wall washer Play illumina una superficie fino a tre volte più ampia rispetto ai modelli tradizionali, indipendentemente dalla distanza dalla parete. Unesperienza visiva avvolgente, ovunque lo posizioni.
-- Display potente: con una luminosità dino a 1035 lm, Hue Play Wall Washer emette una luce instensa e brillante. Grazie alla funzione di dimmerazione profonda, può diventare anche unincantevole luce ambientale o una accogliente luce notturna.
 - Tecnologia ColorCast: Primo nel suo genere, il nostro design innovativo con LED disposti con precisione proietta il colore in modo unico, creando sfumature di luce senza pari.
-- Materiali di alta qualità: Realizzato in alluminio con finitura opaca, così da non produrre alcun riflesso dal televisore.
+- Area di illuminazione più ampia: il wall washer Play illumina una superficie fino a tre volte più ampia rispetto ai modelli tradizionali, indipendentemente dalla distanza dalla parete. Unesperienza visiva avvolgente, ovunque lo posizioni.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F9FT5X31{{</world>}}

@@ -28,11 +28,11 @@ average: '19.505'
 
 ℹ️:
 
+- FORMULA con l’esclusivo Alfa Bioma Complex (estratto di Alfalfa e un sistema multi-attivo che combina Lactobacillus Ferment, Niacinamide e Acido Salicilico), Niacinamide e Menthyl PCA
 - AGELESS SC SEBUM CONTROL - Crema viso antirughe oil free
+- AZIONE Minimizza la visibilità delle rughe, leviga e idrata.
 - MODO DUSO Applicare mattina e sera su viso, collo e décolleté dopo Ageless SC Siero.
 - PELLE Matura, mista e grassa
-- FORMULA con l’esclusivo Alfa Bioma Complex (estratto di Alfalfa e un sistema multi-attivo che combina Lactobacillus Ferment, Niacinamide e Acido Salicilico), Niacinamide e Menthyl PCA
-- AZIONE Minimizza la visibilità delle rughe, leviga e idrata.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F38SWZ3P{{</world>}}

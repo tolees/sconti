@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- FORMULA: Il Deo Spray contiene solo gas di origine naturale. Anti-odore, idrata e regola la sudorazione, senza ostacolare la traspirazione fisiologica della pelle. Senza Sali d’Alluminio
-- AZIONE: Il Deo Spray si applica velocemente, non lascia aloni e non macchia i tessuti e lascia una piacevole sensazione di freschezza fino a 24 ore, ha un’azione anti odore naturale
 - MODO DUSO: Agitare bene prima dell’uso, applicare da una distanza di circa 15cm. Non applicare su pelle lesa o irritata. Lasciare svanire prima di indossare abiti. Non inalare direttamente
 - TIPO DI PELLE: Per persone con odorazione intensa, pungente e muschiata
+- FORMULA: Il Deo Spray contiene solo gas di origine naturale. Anti-odore, idrata e regola la sudorazione, senza ostacolare la traspirazione fisiologica della pelle. Senza Sali d’Alluminio
+- AZIONE: Il Deo Spray si applica velocemente, non lascia aloni e non macchia i tessuti e lascia una piacevole sensazione di freschezza fino a 24 ore, ha un’azione anti odore naturale
 - TESTATO: Il prodotto è dermatologicamente testato su cute sensibile. Non macchia i tessuti. Il prodotto è testato al Nichel Cobalto e Cromo valori < 0,0001%.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

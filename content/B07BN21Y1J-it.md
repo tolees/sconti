@@ -28,8 +28,8 @@ average: '51.7484337349399'
 
 ℹ️:
 
-- Materiale suola: Gomma
 - Fodera: Sintetico
+- Materiale suola: Gomma
 - Materiale esterno: Tela
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

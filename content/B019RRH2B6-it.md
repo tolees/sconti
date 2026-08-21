@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Sia fan affezionati che nuovi si tufferanno nel gioco con un gratificante gameplay ed una grafica immersiva. Ora rimane solo la cenere...
 - Mondo interconnesso: Sapientemente realizzato per stimolare la tua voglia di esplorare i vasti paesaggi mozzafiato
+- Sia fan affezionati che nuovi si tufferanno nel gioco con un gratificante gameplay ed una grafica immersiva. Ora rimane solo la cenere...
 - Atmosfera grafica: Illuminazione dinamica ed effetti particellari che ti immergono in un oscuro mondo fantasy in rovina.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

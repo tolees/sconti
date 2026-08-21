@@ -28,11 +28,11 @@ average: '6.69'
 
 ℹ️:
 
-- COMPATIBILITÀ: smartphone, tablet, inclusi iPhone, Samsung, iPad/iPad Pro, MacBook Air e altri
 - SICURO, ROBUSTO E AFFIDABILE: design resistente con protezione da sovratemperatura, cortocircuito, sovratensione e sovracorrente. Conforme agli standard di sicurezza UL 2089 e ai requisiti CE, FCC, RoHS ecc.
-- Caricabatteria per Auto a Doppia Porta: Adattatore per Auto con Due Porte USB-A e USB-C da 48W per la Ricarica Rapida. La porta USB-C offre una potenza di ricarica massima di 36W mentre la porta USB-A eroga fino a 12W, per poter ricaricare 2 dispositivi contemporaneamente.
 - DIMENSIONI COMPATTE: piccolo e leggero con indicatore LED bianco
 - DIMENSIONI DEL PRODOTTO: 3,0cm x 3,0cm x 7,5cm (LxPxA) Nota: utilizzare con un cavo (CAVO NON INCLUSO)
+- COMPATIBILITÀ: smartphone, tablet, inclusi iPhone, Samsung, iPad/iPad Pro, MacBook Air e altri
+- Caricabatteria per Auto a Doppia Porta: Adattatore per Auto con Due Porte USB-A e USB-C da 48W per la Ricarica Rapida. La porta USB-C offre una potenza di ricarica massima di 36W mentre la porta USB-A eroga fino a 12W, per poter ricaricare 2 dispositivi contemporaneamente.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DB55JYG9{{</world>}}

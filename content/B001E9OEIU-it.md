@@ -28,9 +28,9 @@ average: '4.04'
 
 ℹ️:
 
+- Prodotti di salute e cura personale originali ed esclusivi
 - Contenuto - 50 gr
 - Marca - Old Spice
-- Prodotti di salute e cura personale originali ed esclusivi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B001E9OEIU{{</world>}}

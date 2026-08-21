@@ -28,13 +28,13 @@ average: '19.99'
 
 ℹ️:
 
-- Pausa in viaggio: 600 W per riscaldare l’acqua e preparare in pochi istanti tè, tisane o caffè solubile.
-- Compagno di viaggio: Minimo ingombro e massima versatilità. Per gustare una pausa dovunque. Basta davvero poco per sentirsi a casa.
-- Salvaspazio: Caraffa pieghevole da 600 ml e cavo removibile riducono al minimo l’ingombro. Facile da riporre, ancor più da trasportare.
-- Mantenimento temperatura: Se lasciato acceso, il bollitore mantiene lacqua a una temperatura compresa tra 70° C e 100°C.
 - Alimentazione: AC 220-240V ~ 50-60Hz | Dimensioni (mm): 145 x 75/180 x 120 | Peso: 0,54 Kg
+- Compagno di viaggio: Minimo ingombro e massima versatilità. Per gustare una pausa dovunque. Basta davvero poco per sentirsi a casa.
 - Pieghevole: Occupa solo 7,5 cm una volta piegato. Trova spazio ovunque con facilità: in valigia, nello zaino, perfino in borsa.
+- Salvaspazio: Caraffa pieghevole da 600 ml e cavo removibile riducono al minimo l’ingombro. Facile da riporre, ancor più da trasportare.
 - Sistema di sicurezza: Il sistema anti-surriscaldamento blocca il funzionamento in assenza d’acqua.
+- Mantenimento temperatura: Se lasciato acceso, il bollitore mantiene lacqua a una temperatura compresa tra 70° C e 100°C.
+- Pausa in viaggio: 600 W per riscaldare l’acqua e preparare in pochi istanti tè, tisane o caffè solubile.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B59V9SVM{{</world>}}

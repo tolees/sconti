@@ -29,9 +29,9 @@ average: '5.37'
 ℹ️:
 
 - Snack di mais al gusto di formaggio, in confezione da 140gr.
-- Per una pausa croccante o una festa tra amici, assapora tutto il gusto irresistibile delle tortillas Doritos Tex Mex, deliziose in abbinamento a salse fresche e dal sapore deciso
-- Conservare in un luogo fresco e asciutto. Confezionato in atmosfera protettiva
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
+- Conservare in un luogo fresco e asciutto. Confezionato in atmosfera protettiva
+- Per una pausa croccante o una festa tra amici, assapora tutto il gusto irresistibile delle tortillas Doritos Tex Mex, deliziose in abbinamento a salse fresche e dal sapore deciso
 - Ingredienti: Mais (80%), olio di girasole, preparazione al gusto formaggio, [siero di LATTE in polvere, farina di GRANO, sale, formaggio in polvere (da LATTE), pomodoro in polvere, aromi (con LATTE), cipolla e aglio in polvere, LATTICELLO in polvere, cloruro di potassio, esaltatore di sapidità, (glutammato monosodico), proteine del LATTE, destrosio, regolatori di acidità (acido lattico, acido citrico) (estratto di paprika), annato, caramello semplice, spezie, zucchero, LATTE scremato in polvere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

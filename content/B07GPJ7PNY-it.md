@@ -28,10 +28,10 @@ average: '19.89'
 
 ℹ️:
 
-- Ultra compatto: non lasciare che la pompa ti appesantisca. Il nostro design ultracompatto offre potenza senza ingombro. È abbastanza piccolo da poter essere messo facilmente in uno zaino, una valigia o una borsa per attrezzi. Sei sempre pronto a gonfiare il tuo pallone da spiaggia, la tua casa dei salti, il tuo materasso gonfiabile, la tua barca gonfiabile, la tua piscina gonfiabile e altro ancora.
-- Può anche servire come caricabatterie portatile: è molto più di una pompa ad aria. È anche un caricabatterie ideale per chi è in viaggio. La porta di uscita USB da 5 V è un modo ideale per caricare il tuo telefono, tablet, laptop e altro ancora.
 - Gonfiaggio in un batter docchio: il motore piccolo ma potente massimizza la circolazione dellaria per un gonfiaggio rapido e senza sforzo. È finita per il giorno? La pompa ad aria Dr.meter sgonfia i tuoi oggetti altrettanto rapidamente.
 - 【Senza fili e ricaricabile】Senza fili è il nome del gioco. La pompa ad aria Dr.meter utilizza una potente batteria al litio da 4000 mAh per un gonfiaggio istantaneo. Una porta USB integrata consente una facile ricarica a casa o in auto. Sarà pronto per partire quando e ovunque.
+- Ultra compatto: non lasciare che la pompa ti appesantisca. Il nostro design ultracompatto offre potenza senza ingombro. È abbastanza piccolo da poter essere messo facilmente in uno zaino, una valigia o una borsa per attrezzi. Sei sempre pronto a gonfiare il tuo pallone da spiaggia, la tua casa dei salti, il tuo materasso gonfiabile, la tua barca gonfiabile, la tua piscina gonfiabile e altro ancora.
+- Può anche servire come caricabatterie portatile: è molto più di una pompa ad aria. È anche un caricabatterie ideale per chi è in viaggio. La porta di uscita USB da 5 V è un modo ideale per caricare il tuo telefono, tablet, laptop e altro ancora.
 - 3 dimensioni dellugello: taglia unica non sempre adatta a tutti. Tre ugelli di diverse dimensioni (S-0,7 cm, M-0,9 cm, L-1,4 cm) garantiscono un adattamento perfetto per una varietà di gonfiabili. Non importa se è grande, largo o piccolo, se ha una valvola, può essere gonfiato.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

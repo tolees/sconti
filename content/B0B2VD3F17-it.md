@@ -29,9 +29,9 @@ average: '1.79'
 ℹ️:
 
 - Per chi cerca una fonte di fibre gustosa e genuina, adatto per iniziare la giornata allinsegna della regolarità
+- Sapevi che le fibre di crusca di frumento favoriscono il transito intestinale?
 - Oro Fibrattiva: il biscotto alleato del tuo benessere, fatto con 100% grano italiano
 - Prodotto in Italia nello stabilimento di Capriata DOrba in Piemonte
-- Sapevi che le fibre di crusca di frumento favoriscono il transito intestinale?
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B2VD3F17{{</world>}}

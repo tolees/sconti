@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Confezionato in Italia
-- La confezione contiene 2 porzioni
 - Adatto per diete vegetariane e vegane
 - Conservare in luogo fresco e asciutto
+- Confezionato in Italia
+- La confezione contiene 2 porzioni
 - Fagioli cannellini in acqua
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

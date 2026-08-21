@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Due T-shirt essenziali in una pratica confezione
 - Questo è un prodotto originale Levis
 - Realizzata in jersey morbido
-- Due T-shirt essenziali in una pratica confezione
 - Logo Levis sul petto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

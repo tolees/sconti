@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Rende onde e ricci definiti, elastici e leggeri, riducendo l’effetto crespo
 - Livello di nutrimento equilibrato
+- Rende onde e ricci definiti, elastici e leggeri, riducendo l’effetto crespo
 - Shampoo micellare per capelli ricci che rimuove delicatamente le impurità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

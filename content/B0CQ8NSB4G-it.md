@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Forma dellarticolo: acqua
 - Scent : Legno di sandalo
 - Fragrance concentrazione: eau de parfum
-- Forma dellarticolo: acqua
 - Scent : legno di sandalo
 - Special feature : Portatile
 

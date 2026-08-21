@@ -28,11 +28,11 @@ average: '8.95'
 
 ℹ️:
 
-- Contenuto: 1x Cartone di COMPO BIO Concime organo-minerale per acidofile, Peso: 750 g, Art. N. 2861602005
 - Concime organo-minerale per splendide fioriture di azalee, rododendri, camelie, ortensie, eriche, gardenie, ciclamini e tutte le altre piante acidofile
-- Con azoto per la crescita di piante sane e forti, Potassio per fioriture abbondanti dai colori brillanti, Ferro e magnesio per la colorazione verde delle foglie
-- Con guano naturale ricco di sostanze nutritive per promuovere la fertilità del terreno e favorire fioriture più intense
 - Consentito in agricoltura biologica con 100% di materie prime naturali, Dosaggio, modalità e periodo di applicazione riportati sulla confezione
+- Contenuto: 1x Cartone di COMPO BIO Concime organo-minerale per acidofile, Peso: 750 g, Art. N. 2861602005
+- Con guano naturale ricco di sostanze nutritive per promuovere la fertilità del terreno e favorire fioriture più intense
+- Con azoto per la crescita di piante sane e forti, Potassio per fioriture abbondanti dai colori brillanti, Ferro e magnesio per la colorazione verde delle foglie
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BJQRTNP5{{</world>}}

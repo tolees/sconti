@@ -28,9 +28,9 @@ average: '15.92'
 
 ℹ️:
 
-- 【Sicuro e affidabile】 Le certificazioni TÜV, CE e FCC garantiscono un prodotto più sicuro e affidabile.
-- 【Dimensioni super minuscole】 Le sue dimensioni compatte ne consentono linstallazione in varie scatole di montaggio, incluso il più piccolo standard europeo.
 - 【eWeLink-Remote Control】MINIR4 è uno smart switch con la funzione gateway di "eWeLink-Remote". È possibile aggiungere sottodispositivi "eWeLink-Remote", R5 e S-MATE, dopo lassociazione con MINIR4, sia R5 che S-MATE possono fungere da telecomandi per controllare MINIR4 localmente tramite il segnale eWeLink-Remote.
+- 【Dimensioni super minuscole】 Le sue dimensioni compatte ne consentono linstallazione in varie scatole di montaggio, incluso il più piccolo standard europeo.
+- 【Sicuro e affidabile】 Le certificazioni TÜV, CE e FCC garantiscono un prodotto più sicuro e affidabile.
 - 【Controllo interruttore esterno】Collegati facilmente allinterruttore momentaneo, allinterruttore di uscita della porta, allinterruttore SPDT, allinterruttore a scatto e persino ai sensori di contatto a secco.
 - 【Detach Relay Mode】 MINIR4 ha la modalità "detach relay", il che significa che gli stati degli interruttori esterni e del relè sono separati, quindi lutilizzo del pulsante dellinterruttore esterno non influirà sullo stato del relè.
 

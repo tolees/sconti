@@ -29,9 +29,9 @@ average: '6.6'
 ℹ️:
 
 - Il nostro obiettivo principale è la soddisfazione del cliente
+- Colore: blu
 - Maglietta; tipo di sport: multisports
 - Marca del prodotto: Joma
-- Colore: blu
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01E5NELZM{{</world>}}

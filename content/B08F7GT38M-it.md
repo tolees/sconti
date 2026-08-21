@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Con le note di sandalo, cedro, bergamotto, semi di cardamomo e mandarino, per una fragranza rinfrescante
 - Un Kit regalo per gli uomini che vogliono prendersi veramente cura della loro barba
-- Per i peli corti e lunghi del viso
 - Contiene il detergente King C. Gillette 3 in 1 Barba, Viso e Capelli, Balsamo per Barba e una pochette da viaggio
+- Con le note di sandalo, cedro, bergamotto, semi di cardamomo e mandarino, per una fragranza rinfrescante
+- Per i peli corti e lunghi del viso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08F7GT38M{{</world>}}

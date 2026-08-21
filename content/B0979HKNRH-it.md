@@ -28,10 +28,10 @@ average: '149.99'
 
 ℹ️:
 
-- CONTENUTO: coperchio della pentola a pressione, pentola interna, griglia per cottura a vapore con manici, cestello per friggitrice, vassoio disidratante, coperchio protettivo, cuscinetti e cavi UK
 - PENTOLA A PRESSIONE / FRIGGITRICE INSTANT POT DUO: un solo accessorio dalla generosa capacità di 5,7 L, contiene fino a 6 porzioni, quindi è adatta a preparare cene di famiglia e pasti tra amici
-- FACILE DA PULIRE: la pentola, il coperchio, il cestello ed il vassoio per grigliare sono lavabili in lavastoviglie e aggiungono ulteriore praticità anche al dopo cena
 - 11 PROGRAMMI: sostituisce pentole a pressione, padelle e vaporiere, scaldavivande, friggitrice ad aria, forno, griglia e disidratato, oltre a riprodurre la cottura arrosto e a fuoco basso
+- CONTENUTO: coperchio della pentola a pressione, pentola interna, griglia per cottura a vapore con manici, cestello per friggitrice, vassoio disidratante, coperchio protettivo, cuscinetti e cavi UK
+- FACILE DA PULIRE: la pentola, il coperchio, il cestello ed il vassoio per grigliare sono lavabili in lavastoviglie e aggiungono ulteriore praticità anche al dopo cena
 - RAPIDA E FUNZIONALE: garantisce cotture più veloci rispetto alle tradizionali ricette al forno o ai fornelli ed offre 6 opzioni di cottura a pressione e 5 per la funzione di friggitrice
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
