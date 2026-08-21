@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'SONGMICS Poltrona Direzionale Ergonomica Sedia Girevole Regolabile'
+date: 2026-08-10 16:48:05
+image: 'https://m.media-amazon.com/images/I/41jUYj5eHmL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0CF26BTV3-it SONGMICS Poltrona Direzionale Ergonomica Sedia Girevole...'
+sku: 'B0CF26BTV3-it'
+tags: [ '🇮🇹', ]
+actualPrice: 86.99 EUR
+currency: EUR
+price: 86.99
+comparePrice: 109.99 EUR
+prodname: 'SONGMICS Poltrona Direzionale Ergonomica Sedia Girevole Regolabile'
+country: 'it'
+flag: '🇮🇹'
+brand: ''
+buyurl: 'https://www.amazon.it/dp/B0CF26BTV3/?tag=tolees00-21'
+descuento: '20.91'
+average: '88.24'
+---
+
+[{{< param title >}}]({{< param buyurl >}}) qui:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- [Cosa ricevi] Una sedia da ufficio con ruote silenziose in PU, che è adatta a diversi tipi di pavimento (utilizza un tappeto su pavimento in laminato o legno). Sia per lavorare che per rilassarsi, questa sedia girevole fornisce sempre un supporto stabile
+- [Design ergonomico] Sedia ergonomica con curvatura adatta al corpo, braccioli distanti 69 cm, altezza regolabile tra 68-78 cm e rotazione a 360°. Favorisce una postura corretta per chi passa ore alla scrivania
+- [Parti invisibili di qualità] La superficie del tessuto simile al lino è resistente allusura e traspirante. La seduta, lo schienale e i braccioli sono tutti imbottiti con gommapiuma ad alta densità morbida, confortevole e indeformabile
+- [Il tuo successo nel lavoro inizia qui] Questa sedia da ufficio con design ergonomico segue le linee del tuo corpo e riduce la pressione su collo, spalle e schiena, per una postura corretta che ti aiuta a mantenere la concentrazione
+- [Ingegnoso disegno ad ondeggiamento] Meccanismo di inclinazione, che è regolabile secondo il tuo peso corporeo, e bloccabile. Lavora con l’altezza di seduta regolabile da 44 a 54 cm, ti mantiene fisicamente e mentalmente a suo agio
+
+[🛒 Acquista qui!!]({{< param buyurl >}})
+{{<world>}}B0CF26BTV3{{</world>}}

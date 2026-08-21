@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'PLAYSEAT® Floor Mat - XL'
+date: 2026-08-12 08:08:15
+image: 'https://m.media-amazon.com/images/I/21aiuceK3bL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B07N7XRCKG-it PLAYSEAT® Floor Mat - XL'
+sku: 'B07N7XRCKG-it'
+tags: [ '🇮🇹', ]
+actualPrice: 29.0 EUR
+currency: EUR
+price: 29.0
+comparePrice: 45.02 EUR
+prodname: 'PLAYSEAT® Floor Mat - XL'
+country: 'it'
+flag: '🇮🇹'
+brand: ''
+buyurl: 'https://www.amazon.it/dp/B07N7XRCKG/?tag=tolees00-21'
+descuento: '35.58'
+average: '30.9538461538462'
+---
+
+[{{< param title >}}]({{< param buyurl >}}) qui:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Protects all types of floors from scratches and abrasions
+- Keeps your Playseat chair in place during intense gaming sessions
+- Even better Floor protection for all Playseat models, but perfectly suits the Sensation Pro models
+- Washable: easy to keep clean and tidy.Features a soft cloth fabric coating on top.Features official Playseat logos.Providing nice flair to your Playseat setup
+- Anti-slip layer underneath to keep the mat in place on slick surfaces
+
+[🛒 Acquista qui!!]({{< param buyurl >}})
+{{<world>}}B07N7XRCKG{{</world>}}

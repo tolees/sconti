@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'TP-Link LS1005G Switch Ethernet 5 Porte Gigabit Sdoppiatore Ethernet Ideale per la Casa e il Ufficio Plug-and-Play Funzionamento Silenzioso Montaggio Desktop'
+date: 2026-08-02 08:39:29
+image: 'https://m.media-amazon.com/images/I/41qL23HyLNL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B07VC68RW1-it TP-Link LS1005G Switch Ethernet 5 Porte Gigabit...'
+sku: 'B07VC68RW1-it'
+tags: [ '🇮🇹', ]
+actualPrice: 10.99 EUR
+currency: EUR
+price: 10.99
+comparePrice: 14.99 EUR
+prodname: 'TP-Link LS1005G Switch Ethernet 5 Porte Gigabit Sdoppiatore Ethernet Ideale per la Casa e il Ufficio Plug-and-Play Funzionamento Silenzioso Montaggio Desktop'
+country: 'it'
+flag: '🇮🇹'
+brand: ''
+buyurl: 'https://www.amazon.it/dp/B07VC68RW1/?tag=tolees00-21'
+descuento: '26.68'
+average: '11.6400000000001'
+---
+
+[{{< param title >}}]({{< param buyurl >}}) qui:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Fanless per funzionamento silenzioso
+- Rirmio energetico con tecnologia green ethernet
+- Design innovativo, installazione desktop o a parete
+- Nessuna configurazione richiesta, Installazione rapida Plug & Play
+- 5 porte rj45 10/100/1000mbps auto-mdi/mdix
+
+[🛒 Acquista qui!!]({{< param buyurl >}})
+{{<world>}}B07VC68RW1{{</world>}}

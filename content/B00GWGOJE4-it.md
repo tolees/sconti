@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Tuc Cracker Classico Cotto al Forno con 100% Grano Italiano 250g'
+date: 2026-08-12 11:28:09
+image: 'https://m.media-amazon.com/images/I/417vrSkR9aL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B00GWGOJE4-it Tuc Cracker Classico Cotto al Forno con 100% Grano...'
+sku: 'B00GWGOJE4-it'
+tags: [ '🇮🇹', ]
+actualPrice: 1.34 EUR
+currency: EUR
+price: 1.34
+comparePrice: 2.39 EUR
+prodname: 'Tuc Cracker Classico Cotto al Forno con 100% Grano Italiano 250g'
+country: 'it'
+flag: '🇮🇹'
+brand: ''
+buyurl: 'https://www.amazon.it/dp/B00GWGOJE4/?tag=tolees00-21'
+descuento: '43.93'
+average: '1.25488888888889'
+---
+
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- TUC Cracker è il gusto croccante per ogni occasione, ideale per i momenti di pausa di tutta la giornata!
+- Scopri anche Tuc Cracker Integrale, Rosmarino ed Erbe, Pomodoro e Grana Padano DOP
+- Un classico di bontà: forma ottagonale per un gusto sensazionale!
+- TUC ti accompagna sia a casa che fuori con tantissimi gusti e forme
+- Fatto con 100% Grano Italiano, prodotto in Italia nello stabilimento di Capriata D’Orba in Piemonte.
+
+[🛒 Acquista qui!!]({{< param buyurl >}})
+{{<world>}}B00GWGOJE4{{</world>}}

@@ -1,0 +1,39 @@
+---
+layout: post
+title: 'LEGO Star Wars 75379 R2-D2 - Giocattolo da Costruire - Figura di Droide da Esposizione con Testa Rotante Periscopio e Strumenti - Incl. una Minifigure di Darth Malek - Regalo per Bambini da 10 Anni'
+date: 2026-08-12 14:16:11
+image: 'https://m.media-amazon.com/images/I/51Oh+fIZRwL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0CFVZC2GF-it LEGO Star Wars 75379 R2-D2 - Giocattolo da Costruire -...'
+sku: 'B0CFVZC2GF-it'
+tags: [ '🇮🇹', ]
+actualPrice: 59.99 EUR
+currency: EUR
+price: 59.99
+comparePrice: 99.99 EUR
+prodname: 'LEGO Star Wars 75379 R2-D2 - Giocattolo da Costruire - Figura di Droide da Esposizione con Testa Rotante Periscopio e Strumenti - Incl. una Minifigure di Darth Malek - Regalo per Bambini da 10 Anni'
+country: 'it'
+flag: '🇮🇹'
+brand: ''
+buyurl: 'https://www.amazon.it/dp/B0CFVZC2GF/?tag=tolees00-21'
+descuento: '40.00'
+average: '75.9667307692307'
+---
+
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Costruzione digitale interattiva: utilizzando l’app LEGO Builder, i bambini possono ingrandire, ruotare e visualizzare una versione digitale di questo giocattolo mentre costruiscono, tengono traccia dei progressi, salvano i set e altro ancora
+- Idea regalo per i bambini e le bambine fan di Star Wars: regala questo giocattolo da costruire con R2-D2 LEGO, ai piccoli appassionati di Star Wars e ai collezionisti fan della serie
+- Gioco Star Wars ricco di dettagli da esposizione: il modello di R2-D2 giocattolo è dotato di testa girevole a 360 gradi, di una terza gamba collegabile, di un periscopio da collegare e di strumenti montabili
+- Un droide LEGO R2-D2 e una minifigure LEGO Star Wars: insieme al personaggio da costruire di R2-D2, questo set comprende una minifigure LEGO Star Wars di Darth Malak dotata di spada laser
+- Divertente gadget Star Wars da collezione: il set include una targhetta informativa su R2-D2 e un supporto decorato per la minifigure compresa, con il logo del 25° anniversario LEGO Star Wars
+- Personaggio LEGO Star Wars da costruire: questo set di giochi per bambini e bambine da 10 anni, permette di costruire il modellino del droide R2-D2 LEGO in mattoncini, uno dei personaggi maggiormente amati dell’universo di Star Wars
+
+[🛒 Acquista qui!!]({{< param buyurl >}})
+{{<world>}}B0CFVZC2GF{{</world>}}

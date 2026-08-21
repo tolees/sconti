@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Felce Azzurra Bagnoschiuma Profumato Cocco e Bamboo 650 ml'
+date: 2026-07-27 13:13:33
+image: 'https://m.media-amazon.com/images/I/313FzYbH0CL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B07V5JMTNK-it Felce Azzurra Bagnoschiuma Profumato Cocco e Bamboo 650 ml'
+sku: 'B07V5JMTNK-it'
+tags: [ '🇮🇹', ]
+actualPrice: 1.89 EUR
+currency: EUR
+price: 1.89
+comparePrice: 3.29 EUR
+prodname: 'Felce Azzurra Bagnoschiuma Profumato Cocco e Bamboo 650 ml'
+country: 'it'
+flag: '🇮🇹'
+brand: ''
+buyurl: 'https://www.amazon.it/dp/B07V5JMTNK/?tag=tolees00-21'
+descuento: '42.55'
+average: '1.76142857142857'
+---
+
+[{{< param title >}}]({{< param buyurl >}}) qui:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- FELCE AZZURRA, PROFUMO INCONFONDIBILE: Dal 1923, porta nelle case il fascino di fragranze uniche tramandate nel tempo. Sinonimo di qualità e artigianalità, offre prodotti per la cura del corpo e della casa, regalando un’autentica esperienza sensoriale
+- DELICATO E DERMATOLOGICAMENTE TESTATO, ADATTO A TUTTI I TIPI DI PELLE: Il prodotto dermatologicamente testato deterge delicatamente ogni tipo di pelle, donando morbidezza e idratazione
+- AMPLIFICA I BENEFICI AROMATERAPICI PER IL TUO BENESSERE: Per una doccia rigenerante, applica una piccola quantità sul corpo e massaggia delicatamente, risciacquando lentamente. Per il bagno, versa il prodotto nellacqua tiepida per una schiuma avvolgente
+- BAGNOSCHIUMA PROFUMATO FRIZZANTE CON NOTE AGRUMATE E ESOTICHE: Le prime note di Cocco e Bergamotto rinfrescano i sensi, lasciando spazio a un cuore di Bamboo, Aloe e Gelsomino. Il fondo si illumina di note Musk avvolte dai toni dolci della Fava Tonka
+- MORBIDO E VELLUTANTE, DETERGE E IDRATA LA PELLE: Il prodotto nutre delicatamente la pelle, lasciando un effetto vellutante che deterge e idrata, senza alternare il PH cutaneo
+
+[🛒 Acquista qui!!]({{< param buyurl >}})
+{{<world>}}B07V5JMTNK{{</world>}}

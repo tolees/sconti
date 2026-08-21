@@ -1,0 +1,41 @@
+---
+layout: post
+title: 'Logitech Combo Touch per iPad Air da 11 pollici M2 M3 e M4 iPad Air 5a generazione Custodia con tastiera - Tastiera retroilluminata staccabile con supporto - Layout Italiano QWERTY - Grigio'
+date: 2026-07-27 18:38:34
+image: 'https://m.media-amazon.com/images/I/31t6bKry58L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0D42BR1WT-it Logitech Combo Touch per iPad Air da 11 pollici M2 M3 e M4...'
+sku: 'B0D42BR1WT-it'
+tags: [ '🇮🇹', ]
+actualPrice: 172.64 EUR
+currency: EUR
+price: 172.64
+comparePrice: 229.0 EUR
+prodname: 'Logitech Combo Touch per iPad Air da 11 pollici M2 M3 e M4 iPad Air 5a generazione Custodia con tastiera - Tastiera retroilluminata staccabile con supporto - Layout Italiano QWERTY - Grigio'
+country: 'it'
+flag: '🇮🇹'
+brand: ''
+buyurl: 'https://www.amazon.it/dp/B0D42BR1WT/?tag=tolees00-21'
+descuento: '24.61'
+average: '150.584444444444'
+---
+
+[{{< param title >}}]({{< param buyurl >}}) qui:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Supporto flessibile, tastiera rimovibile: trova langolazione perfetta per il lavoro con il supporto ultraflessibile; stacca la tastiera per disegnare, guardare video o leggere in totale libertà
+- Smart Connector: la custodia con tastiera Combo Touch per iPad Pro offre una connettività fluida, istantanea e sicura senza bisogno di ricarica: è alimentata dal tuo iPad
+- Protezione completa: la custodia con tastiera robusta e leggera protegge il tuo iPad da urti e graffi, per portarlo ovunque in totale tranquillità
+- Ampio trackpad multi-touch: il trackpad più grande di sempre, che offre unesperienza di tracciamento intuitiva; i familiari controlli con gestualità multi-touch ti consentono di scorrere, avvicinare le dita, toccare due volte e altro ancora
+- Modalità personalizzabili: molteplici modalità di utilizzo e infinite possibilità; digita, disegna, guarda video, leggi o partecipa a una videochiamata senza rimuovere l’iPad Pro dalla custodia con tastiera.
+- Compatibilità: iPad Air da 11 pollici (M2, M3 e M4), iPad Air (5a generazione) - A2902, A2903, A2904, A3266, A3267, A3270, A2588, A2589, A2591
+- Digita giorno e notte: la tastiera retroilluminata wireless regolabile si illumina con eleganza grazie a unilluminazione precisa, per sessioni di lavoro perfette
+- Le parti in plastica di Combo Touch includono plastica riciclata post-consumo certificata (Oxford Grey: 24%)*.
+
+[🛒 Acquista qui!!]({{< param buyurl >}})
+{{<world>}}B0D42BR1WT{{</world>}}

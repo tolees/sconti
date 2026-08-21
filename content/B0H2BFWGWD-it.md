@@ -1,0 +1,42 @@
+---
+layout: post
+title: 'Bose SoundLink Flex 2ª Gen Altoparlante Portatile Bluetooth Alta Fedeltà 12 h Autonomia Speaker Portatile Stereo Impermeabile e Antipolvere Menta fresca - Edizione limitata'
+date: 2026-08-03 14:15:36
+image: 'https://m.media-amazon.com/images/I/41IRbiykISL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0H2BFWGWD-it Bose SoundLink Flex 2ª Gen Altoparlante Portatile...'
+sku: 'B0H2BFWGWD-it'
+tags: [ '🇮🇹', ]
+actualPrice: 117.99 EUR
+currency: EUR
+price: 117.99
+comparePrice: 179.95 EUR
+prodname: 'Bose SoundLink Flex 2ª Gen Altoparlante Portatile Bluetooth Alta Fedeltà 12 h Autonomia Speaker Portatile Stereo Impermeabile e Antipolvere Menta fresca - Edizione limitata'
+country: 'it'
+flag: '🇮🇹'
+brand: ''
+buyurl: 'https://www.amazon.it/dp/B0H2BFWGWD/?tag=tolees00-21'
+descuento: '34.43'
+average: '117.99'
+---
+
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- LA MUSICA CHIAMA: laltoparlante stereo bluetooth e portatile potente Bose SoundLink Flex (2ª Gen) assicura un suono potente e avvolgente in un formato super compatto, ideale per ascoltare musica e condividere momenti speciali ovunque ti trovi
+- UN NUOVO COLORE RINFRESCANTE: Evadi la monotonia con il diffusore SoundLink Flex (2ª Gen) in Menta Fresca, una nuova tonalità in edizione limitata esclusiva per Amazon
+- PERFETTAMENTE PORTATILE, CON UN’AUTONOMIA DELLA BATTERIA ECCEZIONALE: lo speaker portatile Bluetooth Bose, così compatto che sta in una mano o agganciato a una borsa con lapposito passante, offre 12 ore di autonomia* per il massimo divertimento
+- SUONO STEREO SEMPRE CON TE: amplifica lavventura con un suono più intenso, collega altri due speaker portatili Bluetooth Bose compatibili, scegli la modalità Stereo e separa i canali destro e sinistro o la modalità Festa per un suono più potente
+- APP BOSE: Scarica l’app Bose per ricevere gli ultimi aggiornamenti del software. Goditi un funzionamento ottimale con tutte le ultime funzionalità e una tecnologia sempre aggiornata
+- UN SUONO CHE TI PORTERÀ LONTANO: goditi la sorprendente potenza di questo speaker bluetooth portatile Bose che combina un audio nitido, bilanciato e ad alta fedeltà con bassi profondi, il tutto in un formato facile da trasportare
+- MANTIENI LA CONNESSIONE CON L’EVOLUTO BLUETOOTH 5.3: questo altoparlante waterproof da esterno con Bluetooth 5.3 garantisce una connessione stabile fino a 9 m ed è associabile a più dispositivi contemporaneamente grazie alla tecnologia multipoint
+- AUDIO PERFETTO IN OGNI POSIZIONE: appoggialo in verticale, in orizzontale o appendilo a testa in giù: la tecnologia PositionIQ rileva l’orientamento di altoparlante ip67 Bluetooth compatto e regola automaticamente il suono per prestazioni ottimali
+- COLPI? CADUTE? NESSUN PROBLEMA: questo altoparlante portatile stereo Bose con grado di protezione IP67 è impermeabile e a prova di polvere, grazie al corpo robusto rivestito in silicone che lo protegge da cadute, urti e ruggine
+
+[🛒 Acquista qui!!]({{< param buyurl >}})
+{{<world>}}B0H2BFWGWD{{</world>}}
