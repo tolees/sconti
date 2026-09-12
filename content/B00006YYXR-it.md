@@ -1,0 +1,40 @@
+---
+layout: post
+title: 'Amigo - Serpentina Gioco da Tavolo [Importato dalla Germania]'
+date: 2026-03-23 10:31:46
+image: 'https://m.media-amazon.com/images/I/51cF27ElRtL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B00006YYXR-it Amigo - Serpentina Gioco da Tavolo [Importato dalla Germania]'
+sku: 'B00006YYXR-it'
+tags: [ '🇮🇹', ]
+actualPrice: 9.17 EUR
+currency: EUR
+price: 9.17
+comparePrice: 13.19 EUR
+prodname: 'Amigo - Serpentina Gioco da Tavolo [Importato dalla Germania]'
+country: 'it'
+flag: '🇮🇹'
+brand: ''
+buyurl: 'https://www.amazon.it/dp/B00006YYXR/?tag=tolees00-21'
+descuento: '30.48'
+average: '9.17'
+---
+
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Fascia detà: scuola elementare
+- Avvertenze: Attenzione! Non adatto ai bambini di età inferiore a 36 mesi
+- Istruzioni in lingua tedesca
+- Per bambini e bambine
+- Certificazione Spiel Gut: sì
+- Autore del gioco: Pokornik, Brigitte
+- Durata del gioco: 15 minuti circa
+
+[🛒 Acquista qui!!]({{< param buyurl >}})
+{{<world>}}B00006YYXR{{</world>}}

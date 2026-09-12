@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Google Pixel 10a - 7 anni di nuovi aggiornamenti e funzionalità oltre 30 ore di autonomia Guida fotografica Gemini Live Sicurezza Pixel - Viola lavanda 128GB'
+date: 2026-09-05 19:40:19
+image: 'https://m.media-amazon.com/images/I/41f63csINZL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0GGCBQWG4-it Google Pixel 10a - 7 anni di nuovi aggiornamenti e...'
+sku: 'B0GGCBQWG4-it'
+tags: [ '🇮🇹', ]
+actualPrice: 399.0 EUR
+currency: EUR
+price: 399.0
+comparePrice: 549.0 EUR
+prodname: 'Google Pixel 10a - 7 anni di nuovi aggiornamenti e funzionalità oltre 30 ore di autonomia Guida fotografica Gemini Live Sicurezza Pixel - Viola lavanda 128GB'
+country: 'it'
+flag: '🇮🇹'
+brand: ''
+buyurl: 'https://www.amazon.it/dp/B0GGCBQWG4/?tag=tolees00-21'
+descuento: '27.32'
+average: '438.198'
+---
+
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Non cè campo né Wi-Fi? Connettiti ai servizi di emergenza via satellite per ricevere assistenza e condividere la tua posizione con i tuoi contatti.
+- Ritocca le tue foto con pochi tocchi. Rimuovi oggetti, cambia sfondi e altro ancora direttamente da Foto.
+- Gemini ti semplifica la vita prendendosi cura delle tue cose da fare.
+- Oltre 30 ore di autonomia e ricarica rapida.
+- Super piatto e super resistente.
+
+[🛒 Acquista qui!!]({{< param buyurl >}})
+{{<world>}}B0GGCBQWG4{{</world>}}

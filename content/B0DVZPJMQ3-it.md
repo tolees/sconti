@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Russell Hobbs Ferro da Stiro a Vapore 2400W Colpo 115 g/min Autosteam'
+date: 2026-08-25 06:12:14
+image: 'https://m.media-amazon.com/images/I/31vUBBm505L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0DVZPJMQ3-it Russell Hobbs Ferro da Stiro a Vapore 2400W Colpo 115...'
+sku: 'B0DVZPJMQ3-it'
+tags: [ '🇮🇹', ]
+actualPrice: 18.99 EUR
+currency: EUR
+price: 18.99
+comparePrice: 26.99 EUR
+prodname: 'Russell Hobbs Ferro da Stiro a Vapore 2400W Colpo 115 g/min Autosteam'
+country: 'it'
+flag: '🇮🇹'
+brand: ''
+buyurl: 'https://www.amazon.it/dp/B0DVZPJMQ3/?tag=tolees00-21'
+descuento: '29.64'
+average: '17.945'
+---
+
+[{{< param title >}}]({{< param buyurl >}}) qui:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- STIRATURA SENZA SFORZO – La piastra con scanalatura per bottoni facilita la stiratura nelle zone difficili, mentre la tecnologia Autosteam seleziona automaticamente il livello di vapore ottimale per risultati perfetti.
+- PIASTRA CON AMMORBIDENTE INFUSO – Leggero ed elegante, questo ferro da stiro è dotato di una piastra infusa con ammorbidente, che aiuta a mantenere i tessuti morbidi e senza pieghe.
+- POTENTE GETTO DI VAPORE – Colpo di vapore da 115g e vapore continuo da 35g/min, perfetti per eliminare anche le pieghe più ostinate. Serbatoio da 240ml per stirare più a lungo senza bisogno di continue ricariche.
+- PRESTAZIONI A LUNGA DURATA – La funzione anti-goccia previene le macchie dacqua, mentre il sistema anti-calcare protegge dallaccumulo di calcare per prestazioni durature. Indicatore luminoso di sicurezza e cavo da 2m per un utilizzo più flessibile.
+- FERRO DA STIRO COLORATO CON PIASTRA INNOVATIVA – Il Light & Easy Brights Aqua rende la stiratura più semplice grazie alla piastra in ceramica 2 volte più resistente*, una scorrevolezza 50% più fluida* e uninfusione di ammorbidente che protegge i tessuti e riduce le pieghe. Rispetto alla ceramica standard Russell Hobbs.
+
+[🛒 Acquista qui!!]({{< param buyurl >}})
+{{<world>}}B0DVZPJMQ3{{</world>}}

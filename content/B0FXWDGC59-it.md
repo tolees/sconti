@@ -1,0 +1,41 @@
+---
+layout: post
+title: 'Bose SoundLink Flex SE 2ª Gen Altoparlante Portatile Bluetooth Alta Fedeltà'
+date: 2026-08-27 10:44:42
+image: 'https://m.media-amazon.com/images/I/415WfdWr7BL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0FXWDGC59-it Bose SoundLink Flex SE 2ª Gen Altoparlante Portatile...'
+sku: 'B0FXWDGC59-it'
+tags: [ '🇮🇹', ]
+actualPrice: 99.95 EUR
+currency: EUR
+price: 99.95
+comparePrice: 159.95 EUR
+prodname: 'Bose SoundLink Flex SE 2ª Gen Altoparlante Portatile Bluetooth Alta Fedeltà'
+country: 'it'
+flag: '🇮🇹'
+brand: ''
+buyurl: 'https://www.amazon.it/dp/B0FXWDGC59/?tag=tolees00-21'
+descuento: '37.51'
+average: '99.95'
+---
+
+[{{< param title >}}]({{< param buyurl >}}) qui:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- SUONO STEREO SEMPRE CON TE: amplifica lavventura con un suono più intenso, collega altri due speaker portatili Bluetooth Bose compatibili, scegli la modalità Stereo e separa i canali destro e sinistro o la modalità Festa per un suono più potente
+- MANTIENI LA CONNESSIONE CON L’EVOLUTO BLUETOOTH 5.3: questo altoparlante waterproof da esterno con Bluetooth 5.3 garantisce una connessione stabile fino a 9 m ed è associabile a più dispositivi contemporaneamente grazie alla tecnologia multipoint
+- APP BOSE: Scarica l’app Bose per ricevere gli ultimi aggiornamenti del software. Goditi un funzionamento ottimale con tutte le ultime funzionalità e una tecnologia sempre aggiornata
+- AUDIO PERFETTO IN OGNI POSIZIONE: appoggialo in verticale, in orizzontale o appendilo a testa in giù: la tecnologia PositionIQ rileva l’orientamento di altoparlante ip67 Bluetooth compatto e regola automaticamente il suono per prestazioni ottimali
+- UN SUONO CHE TI PORTERÀ LONTANO: goditi la sorprendente potenza di questo speaker bluetooth portatile Bose che combina un audio nitido, bilanciato e ad alta fedeltà con bassi profondi, il tutto in un formato facile da trasportare
+- LA MUSICA CHIAMA: laltoparlante stereo bluetooth e portatile potente Bose SoundLink Flex (2ª Gen) assicura un suono potente e avvolgente in un formato super compatto, ideale per ascoltare musica e condividere momenti speciali ovunque ti trovi
+- PERFETTAMENTE PORTATILE, CON UN’AUTONOMIA DELLA BATTERIA ECCEZIONALE: lo speaker portatile Bluetooth Bose, così compatto che sta in una mano o agganciato a una borsa con lapposito passante, offre 12 ore di autonomia* per il massimo divertimento
+- COLPI? CADUTE? NESSUN PROBLEMA: questo altoparlante portatile stereo Bose con grado di protezione IP67 è impermeabile e a prova di polvere, grazie al corpo robusto rivestito in silicone che lo protegge da cadute, urti e ruggine
+
+[🛒 Acquista qui!!]({{< param buyurl >}})
+{{<world>}}B0FXWDGC59{{</world>}}
