@@ -28,10 +28,10 @@ average: '7.7'
 
 ℹ️:
 
-- Cavo USB tipo C di 2,4 m
-- Fascetta per cavo
 - Con licenza ufficiale Nintendo
+- Cavo USB tipo C di 2,4 m
 - Compatibile per ricarica e sincronizzazione
+- Fascetta per cavo
 - Design resistente con cavo intrecciato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

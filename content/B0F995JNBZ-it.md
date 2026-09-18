@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DJI Mic 3 1 TX + 1 RX microfono lavalier wireless'
-date: 2026-07-29 12:11:15
+date: 2026-09-18 10:50:53
 image: 'https://m.media-amazon.com/images/I/31+iOEj9XTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0F995JNBZ/?tag=tolees00-21'
 descuento: '36.40'
-average: '125.745'
+average: '119.66'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,14 +28,6 @@ average: '125.745'
 
 ℹ️:
 
-- Leggero e intuitivo, dimensioni compatte [9] - Portalo ovunque desideri: in tasca o nella borsa, è pronto per vlog di viaggi, interviste in strada
-- Audio uniforme e bilanciato in ogni scena - Che tu stia sussurrando o urlando, il controllo adattivo del guadagno di questo microfono wireless[5] mantiene il tuo audio nitido.
-- Non perdere mai una ripresa con il backup di livello professionale - La registrazione interna con float a 32 bit (dual-file) di questo microfono wireless cattura ogni minimo dettaglio.
-- Include un trasmettitore per DJI Mic 3, un ricevitore, un adattatore per telefono cellulare Mic 3 (USB-C) e molto altro. Ideale per creatori solitari che desiderano attrezzature affidabili e flessibili per iPhone, fotocamera o Android.
-- Funzionalità 4TX + 8RX e uscita a quattro canali [1] - Il ricevitore di questo microfono lavalier può collegarsi a 4 trasmettitori e sincronizzare laudio con 7 ricevitori aggiuntivi, ideale per podcast o interviste di gruppo.
-- Connessione diretta con l’ecosistema DJI – Con DJI OsmoAudio, un trasmettitore può connettersi a Osmo Nano, Osmo 360, Osmo Mobile 7P, Osmo Action 5 Pro, Osmo Action 4 o Osmo Pocket 3 senza l’uso del ricevitore, per un audio di qualità superiore.
-- Audio perfetto, ovunque registri - Scegli le tre tonalità vocali [3] e due livelli di cancellazione del rumore [5] di questo microfono wireless più adatti al tuo stile per eliminare il rumore in parchi o strade.
-- Audio cristallino, anche in spazi affollati - Lanti-interferenza a doppia banda [2] di questo microfono wireless garantisce una trasmissione audio impeccabile e senza perdita di qualità, anche durante eventi dal vivo o in uffici affollati.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F995JNBZ{{</world>}}

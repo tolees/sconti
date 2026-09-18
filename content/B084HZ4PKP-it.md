@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- CREMA VISO ALOE IALURONIC: Coccola la tua pelle con questa crema viso idratante e nutriente, morbida e corposa, dermatologicamente testata
 - BENEFICI: Dona alla pelle una doppia idratazione, nutrendola intensamente e restituendole compattezza e morbidezza naturali. Adatta ad ogni tipo di pelle, si assorbe velocemente senza ungere donando una sensazione di benessere per 24 h
 - MODO DUSO: Applicare quotidianamente mattina e sera su viso e collo perfettamente struccati, massaggiando con movimenti circolari
 - FORMULA: Composta al 50% di Aloe Vera Biologica e Acido Ialuronico di derivazione naturale da biofermentazione, è arricchita con Olio di Cocco, Mandorle Dolci, Ricino e Burro di Karitè. Non include ingredienti di origine animale ed è adatto ai vegani
-- CREMA VISO ALOE IALURONIC: Coccola la tua pelle con questa crema viso idratante e nutriente, morbida e corposa, dermatologicamente testata
 - MATT: Integratori alimentari, dispositivi medici, alimenti e cosmesi per tutte le tue esigenze. Scopri le linee di Matt Divisione Pharma, Matt Benessere, Matt Erboristeria, Matt Nutrition, Matt Sport e Matt Divisione Cosmetica per la cura del tuo corpo a 360°
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

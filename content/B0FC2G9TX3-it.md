@@ -28,11 +28,11 @@ average: '2.36'
 
 ℹ️:
 
-- Contenuto della confezione – Neutrogena Hydro Boost Fluido Idratante crema solare viso SPF50, pratica protezione solare viso 50 ad ampio spettro, senza profumo, 1 formato da viaggio da 15 ml
 - Protezione ad ampio spettro – La pratica travel size della protezione solare 50 viso in fluido leggero garantisce unelevata protezione ad ampio spettro dai raggi UVA/UVB e dai raggi UVA lunghi
 - Boost didratazione – Il fluido con SPF 50 viso potenzia lidratazione vitale della pelle mantenendo attiva la sua barriera dinamica, per unidratazione clinicamente testata per tutto il giorno
 - SPF viso con finitura invisibile – Questa crema solare viso pelle grassa dalla formula dermatologicamente testata e non comedogenica ha una leggera finitura invisibile ideale come base per il make-up
 - Ingredienti potenti – La crema solare 50 viso contiene Acido ialuronico idratante, Pro-Vitamina B5, Niacinamide illuminante e antiossidanti Vitamine C ed E contro lo stress ossidativo.
+- Contenuto della confezione – Neutrogena Hydro Boost Fluido Idratante crema solare viso SPF50, pratica protezione solare viso 50 ad ampio spettro, senza profumo, 1 formato da viaggio da 15 ml
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FC2G9TX3{{</world>}}

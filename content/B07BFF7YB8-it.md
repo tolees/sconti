@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Ricetta nutrizionalmente completa senza cereali per cani adulti dai 4 mesi in su
-- Ingredienti naturali senza zuccheri aggiunti
 - Ricco di verdure sane come piselli zuccherati, carote e spinaci
+- Ingredienti naturali senza zuccheri aggiunti
+- Ricetta nutrizionalmente completa senza cereali per cani adulti dai 4 mesi in su
 - Botanici ed erbe aiutano a sostenere una sana digestione
 - Preparato al momento con il 60% di pollo
 

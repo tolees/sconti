@@ -28,11 +28,11 @@ average: '24.99'
 
 ℹ️:
 
-- Elemento di riscaldamento nascosto con base girevole a 360 °
-- Corpo in acciaio inossidabile lucido
 - Indicatore luminoso di funzionamento
+- Elemento di riscaldamento nascosto con base girevole a 360 °
 - Beccuccio per versare lacqua senza farla fuoriuscire
 - Porta ad ebollizione 1 tazza (235 ml) in 55 secondi
+- Corpo in acciaio inossidabile lucido
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07G8PJ19P{{</world>}}

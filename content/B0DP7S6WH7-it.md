@@ -28,8 +28,8 @@ average: '69.3'
 
 ℹ️:
 
-- Chiusura con lacci
 - Sottopiede estraibile
+- Chiusura con lacci
 - Traspirante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

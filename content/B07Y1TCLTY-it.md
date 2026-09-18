@@ -28,11 +28,11 @@ average: '14.0'
 
 ℹ️:
 
+- Prodotto Cosmetico ad uso umano
 - E’ una pianta appartenente alla famiglia delle Asteraceae.
 - Massaggio ad articolazioni, nuca, e schiena
-- L’ Arnica Montana è uno tra i più utilizzati rimedi naturali.
 - È utile per ridonare benessere in caso di dolori muscolari.
-- Prodotto Cosmetico ad uso umano
+- L’ Arnica Montana è uno tra i più utilizzati rimedi naturali.
 - Ridona immediato sollievo e benessere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

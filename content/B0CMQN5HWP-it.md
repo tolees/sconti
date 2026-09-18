@@ -29,10 +29,10 @@ average: '17.6'
 ℹ️:
 
 - CON VITAMINA B6: La vitamina B6 contribuisce al normale funzionamento del sistema nervoso e alla normale funzione psicologica
-- HIPP TRIPTO: Integratore alimentare a base di Triptofano, Melatonina, Melissa e Vitamina B6, per favorire il sonno e il rilassamento del bambino
-- CON MELATONINA e MELISSA: La Melatonina contribuisce alla riduzione del tempo richiesto per prendere sonno (con lassunzione di 1 mg di melatonina poco prima di coricarsi). La Melissa contribuisce al rilassamento e al benessere mentale
 - CONSIGLI DI UTILIZZO: 1 ml al giorno, 30 minuti prima di coricarsi, salvo diversa indicazione del medico. Flacone da 30 ml con pipetta dosatrice. Si consiglia di agitare bene il prodotto prima delluso. Senza glutine
 - HIPP: Per profonda convinzione impieghiamo solo ingredienti di altissima qualità. Controlliamo le nostre materie prime secondo parametri inflessibili per garantirti la massima sicurezza
+- HIPP TRIPTO: Integratore alimentare a base di Triptofano, Melatonina, Melissa e Vitamina B6, per favorire il sonno e il rilassamento del bambino
+- CON MELATONINA e MELISSA: La Melatonina contribuisce alla riduzione del tempo richiesto per prendere sonno (con lassunzione di 1 mg di melatonina poco prima di coricarsi). La Melissa contribuisce al rilassamento e al benessere mentale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CMQN5HWP{{</world>}}

@@ -29,9 +29,9 @@ average: '20.6333333333333'
 ℹ️:
 
 - Modalità di applicazione: versare nell’acqua del bagnetto o massaggiare direttamente sulla pelle inumidita del neonato e del bambino; sciacquare con abbondante acqua
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
 - La sua particolare formulazione lo rende indicato anche per le pelli secche e irritate; deterge delicatamente senza alterare il film idrolipidico, lasciando la pelle morbida e idratata
 - Detergente a risciacquo leggermente schiumogeno per la pulizia quotidiana di neonati e bambini, ad elevata tollerabilità
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F54RM1YJ{{</world>}}

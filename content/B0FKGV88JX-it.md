@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Compatibile con: PlayStation 5, PlayStation 4 e Windows 10/11; visita il sito web di Logitech G per lelenco completo dei giochi supportati per il ritorno di forza dinamico
 - Lallestimento comprende: base per volante, mozzo per volante, volante rotondo, alimentatore, cavo USB, morsetto da tavolo e componenti per il montaggio su sedile da corsa e tavolo (2 attrezzi di supporto, 4 dadi a griffe/bulloni, rondelle, chiave esagonale)
-- RS Wheel Hub: mozzo per volante con 13 pulsanti specifici per la console, comandi al volante regolabili per adattarsi a raggi di diverse dimensioni (fino a 12 mm di larghezza) e sgancio rapido integrato per una facile sostituzione
 - Componenti personalizzabili: sostituisci RS Round Wheel con altri volanti Racing Series, PRO Series e Logitech G x MOMO per un controllo personalizzato e una maggiore versatilità
-- RS50 Base: compatibile con qualsiasi volante da corsa di simulazione Logitech G RS o PRO con coppia di picco da 8 Nm a trasmissione diretta per un ritorno di forza TRUEFORCE ultra-realistico
 - RS Round Wheel (11 pollici): volante per simulatore di corse con profilo di presa istintivo e più pieno, con pelle siliconica ad alte prestazioni; ideale per il rally o il drifting con una rotazione rapida del volante più facile
+- RS50 Base: compatibile con qualsiasi volante da corsa di simulazione Logitech G RS o PRO con coppia di picco da 8 Nm a trasmissione diretta per un ritorno di forza TRUEFORCE ultra-realistico
+- RS Wheel Hub: mozzo per volante con 13 pulsanti specifici per la console, comandi al volante regolabili per adattarsi a raggi di diverse dimensioni (fino a 12 mm di larghezza) e sgancio rapido integrato per una facile sostituzione
+- Compatibile con: PlayStation 5, PlayStation 4 e Windows 10/11; visita il sito web di Logitech G per lelenco completo dei giochi supportati per il ritorno di forza dinamico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FKGV88JX{{</world>}}

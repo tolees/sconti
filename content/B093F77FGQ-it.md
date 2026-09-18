@@ -28,9 +28,9 @@ average: '46.99'
 
 ℹ️:
 
+- Chiusura: Stringata
 - Materiale esterno: Pelle
 - Materiale suola: Gomma
-- Chiusura: Stringata
 - Fodera: Tela
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

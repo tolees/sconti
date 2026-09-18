@@ -29,14 +29,14 @@ average: '134.99'
 ℹ️:
 
 - 6 velocità di funzionamento + PULSE
-- Contenitore 10 litri in acciaio inox con coperchio
-- Alimentazione: AC 220-240V - 50/60 Hz
-- Piedini con ventosa per maggiore stabilità
-- Potrai utilizzare in diversi modi il tuo Pastaio 10&Lode, grazir agli accessori opzionali che potrai acquistare separatamente come: G20114, G20116, G20117.
-- Accessori inclusi: uncino impastatore e mescolatore in alluminio, frusta sbattitrice (o planetario) in acciaio inox, coperchio in plastica trasparente
-- Dimensioni (L x H x P): 40 X 39.5 X 27 | Peso: 6,4 Kg
-- Potenza 2200W (Max)
 - Possibilità di lavorare impasti di max 4kg (a seconda degli alimenti da impastare)
+- Accessori inclusi: uncino impastatore e mescolatore in alluminio, frusta sbattitrice (o planetario) in acciaio inox, coperchio in plastica trasparente
+- Piedini con ventosa per maggiore stabilità
+- Contenitore 10 litri in acciaio inox con coperchio
+- Potrai utilizzare in diversi modi il tuo Pastaio 10&Lode, grazir agli accessori opzionali che potrai acquistare separatamente come: G20114, G20116, G20117.
+- Potenza 2200W (Max)
+- Alimentazione: AC 220-240V - 50/60 Hz
+- Dimensioni (L x H x P): 40 X 39.5 X 27 | Peso: 6,4 Kg
 - Dispositivo di sicurezza che impedisce uso involontario
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

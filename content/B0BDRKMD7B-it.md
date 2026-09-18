@@ -28,11 +28,11 @@ average: '49.29'
 
 ℹ️:
 
-- Tessuto: 100% poliestere riciclato, certificato "grs"
+- Caratteristiche: logo invicta in pvc. Anello portachiavi. Nastro con terminale in silicone
+- Schienale: imbottito e rivestito in tessuto. ; spallacci: regolabili in nastro
 - Tasche: ampie tasche frontali e laterali. Tasca interna porta tablet
 - Dimensioni: 26 x 28 x 15 cm; capacita: 16 litri
-- Schienale: imbottito e rivestito in tessuto. ; spallacci: regolabili in nastro
-- Caratteristiche: logo invicta in pvc. Anello portachiavi. Nastro con terminale in silicone
+- Tessuto: 100% poliestere riciclato, certificato "grs"
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BDRKMD7B{{</world>}}

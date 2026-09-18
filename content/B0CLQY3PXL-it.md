@@ -29,10 +29,10 @@ average: '72.0'
 ℹ️:
 
 - Termoriflettente Omni-Heat
-- Tasche laterali con cerniera
-- Orlo regolabile con coulisse.
 - Tasca interna di sicurezza
+- Tasche laterali con cerniera
 - Isolamento Thermarator 100% poliestere riciclato
+- Orlo regolabile con coulisse.
 - La repellenza avanzata Omni-Shield sigilla gli schizzi e le macchie repellenza avanzata
 - Orlo sui polsini
 - Protezione mento

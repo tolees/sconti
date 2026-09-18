@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tessuto idrorepellente
-- EK30Y, 30 anni
 - Tessuto resistente allacqua
 - Spallacci imbottiti regolabili
+- EK30Y, 30 anni
+- Tessuto idrorepellente
 - Organizer integrato con portachiavi, tasca nascosta e tasca in rete con cerniera
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

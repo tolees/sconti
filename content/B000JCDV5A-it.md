@@ -28,8 +28,8 @@ average: '22.85'
 
 ℹ️:
 
-- Prodotti di ottima qualita
 - Comodo e facile da utilizzare
+- Prodotti di ottima qualita
 - Prodotti di bellezza
 - Formula migliorata e completa
 

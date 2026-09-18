@@ -28,8 +28,8 @@ average: '9.49'
 
 ℹ️:
 
-- Protezione solare certificata UPF 50; ottima protezione per le attività allaperto in condizioni di sole
 - Progettato per adattarsi a unampia gamma di temperature con grande versatilità. Intervallo di temperatura: da 0ºC a 20ºC. Adatto tutto lanno per attività allaperto in condizioni climatiche non estreme
+- Protezione solare certificata UPF 50; ottima protezione per le attività allaperto in condizioni di sole
 - Ottima elasticità e comfort senza cuciture
 - Realizzato con il 95% di contenuto riciclato
 

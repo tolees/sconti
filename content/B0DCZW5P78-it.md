@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech G PRO X TKL RAPID tastiera gaming senza - US INT L QWERTY'
-date: 2026-09-16 15:29:20
+date: 2026-09-18 12:16:30
 image: 'https://m.media-amazon.com/images/I/31+MYBykx7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

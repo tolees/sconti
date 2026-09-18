@@ -28,11 +28,11 @@ average: '7.69'
 
 ℹ️:
 
-- Dimensioni della maglia 10x10 - La rete misura 0,50x3 m
-- Questa rete in plastica è stabilizzata ai raggi UV, non si scolorisce ed è inataccabile dagli agenti atmosferici. Rifinita con bordo rinforzato liscio e non tagliente
 - Facile da installare, può essere tagliata a misura con semplice forbici
-- Una soluzione semplice, versatile e colorata per molte applicazioni. Tenax Quadra è una rete multiuso, ideale da applicare su inferriate, ringhiere e cancellate. Impedisce il passaggio di animali o la caduta di piccoli oggetti dal balcone
+- Dimensioni della maglia 10x10 - La rete misura 0,50x3 m
 - Rete in plastica a maglia quadrata prodotta con HDPE, polietilene ad alta densità, con polimeri completamente riciclabili e atossici
+- Una soluzione semplice, versatile e colorata per molte applicazioni. Tenax Quadra è una rete multiuso, ideale da applicare su inferriate, ringhiere e cancellate. Impedisce il passaggio di animali o la caduta di piccoli oggetti dal balcone
+- Questa rete in plastica è stabilizzata ai raggi UV, non si scolorisce ed è inataccabile dagli agenti atmosferici. Rifinita con bordo rinforzato liscio e non tagliente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00VJFQT3M{{</world>}}

@@ -30,8 +30,8 @@ average: '11.0'
 
 - Dimensioni: 10 x 25 x 30 cm
 - Include una targhetta con il nome sul retro
-- Schienale e spallacci imbottiti
 - Design frontale in rilievo e tasca laterale in rete
+- Schienale e spallacci imbottiti
 - Zainetto prescolare a scomparto unico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

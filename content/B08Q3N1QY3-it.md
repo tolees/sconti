@@ -28,9 +28,9 @@ average: '27.16'
 
 ℹ️:
 
+- Carrera RC Quad - Pesca
 - NUOVA batteria mt 3.2V 700mAh LiFePo4
 - Con Peach sopra la collina e la valle
-- Carrera RC Quad - Pesca
 - 19 5 cm di lunghezza
 - Carrera RC Quad
 

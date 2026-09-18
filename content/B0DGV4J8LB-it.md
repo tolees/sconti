@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 𝐋𝐔𝐍𝐆𝐀 𝐃𝐔𝐑𝐀𝐓𝐀 𝐃𝐄𝐋𝐋𝐀 𝐁𝐀𝐓𝐓𝐄𝐑𝐈𝐀: Ricarica Type-C con una batteria ad alta capacità da 580 mAh che dura fino a 144 ore in modalità moonlight
+- 𝐈𝐌𝐏𝐎𝐑𝐓𝐀𝐍𝐓𝐈 𝐀𝐆𝐆𝐈𝐎𝐑𝐍𝐀𝐌𝐄𝐍𝐓𝐈: Un faretto con portata fino a 120 metri e un potente proiettore da 500 lumen, oltre a una luce rossa da 40 lumen. Il passaggio da una modalità allaltra è facile e veloce grazie al nuovo interruttore rotante
 - 𝐃𝐄𝐒𝐈𝐆𝐍 𝐀 𝐓𝐑𝐈𝐏𝐋𝐀 𝐒𝐎𝐑𝐆𝐄𝐍𝐓𝐄 𝐋𝐔𝐌𝐈𝐍𝐎𝐒𝐀: Consente di selezionare in modo flessibile le modalità di illuminazione (Flood, Spot e Rosso) per soddisfare diverse esigenze di illuminazione
 - 𝐒𝐂𝐄𝐍𝐀𝐑𝐈 𝐃𝐈 𝐀𝐏𝐏𝐋𝐈𝐂𝐀𝐙𝐈𝐎𝐍𝐄: Unampia gamma di scenari di applicazione, come lescursionismo, il riempimento di foto, il ciclismo, la lettura, lavviso di sicurezza e così via
-- 𝐈𝐌𝐏𝐎𝐑𝐓𝐀𝐍𝐓𝐈 𝐀𝐆𝐆𝐈𝐎𝐑𝐍𝐀𝐌𝐄𝐍𝐓𝐈: Un faretto con portata fino a 120 metri e un potente proiettore da 500 lumen, oltre a una luce rossa da 40 lumen. Il passaggio da una modalità allaltra è facile e veloce grazie al nuovo interruttore rotante
+- 𝐋𝐔𝐍𝐆𝐀 𝐃𝐔𝐑𝐀𝐓𝐀 𝐃𝐄𝐋𝐋𝐀 𝐁𝐀𝐓𝐓𝐄𝐑𝐈𝐀: Ricarica Type-C con una batteria ad alta capacità da 580 mAh che dura fino a 144 ore in modalità moonlight
 - 𝐌𝐔𝐋𝐓𝐈𝐏𝐋𝐈 𝐌𝐄𝐓𝐎𝐃𝐈 𝐃𝐈 𝐅𝐈𝐒𝐒𝐀𝐆𝐆𝐈𝐎: Dimensioni compatte, facile da trasportare, offre tre metodi di montaggio (a Clip, a Sospensione e Magnetico) e un forte magnete in grado di stabilizzare langolo di illuminazione regolabile. Può liberare le mani quando è necessario operare con entrambe le mani
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

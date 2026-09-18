@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dash Detersivo Liquido Lavatrice 100 Lavaggi Salva Colore Rimuove Le Macchie Igienizza Brillantezza Per I Capi'
-date: 2026-09-13 08:29:20
+date: 2026-09-18 16:32:35
 image: 'https://m.media-amazon.com/images/I/41ZCql3MhrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0DZ2W6DTR/?tag=tolees00-21'
 descuento: '42.51'
-average: '20.4333333333333'
+average: '20.8981818181818'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

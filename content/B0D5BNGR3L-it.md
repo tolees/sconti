@@ -28,10 +28,10 @@ average: '16.95'
 
 ℹ️:
 
-- Crazy Stupid Love Reggiseno
-- Reggiseni classici
 - Reggiseno donna
+- Reggiseni classici
 - Triumph
+- Crazy Stupid Love Reggiseno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D5BNGR3L{{</world>}}

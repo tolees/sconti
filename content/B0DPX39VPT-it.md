@@ -28,10 +28,10 @@ average: '13.04'
 
 ℹ️:
 
-- Bottoni effetto tartarugato
 - Maglia morbida ed elastica
-- Spalle scese
 - Bordi a costine
+- Bottoni effetto tartarugato
+- Spalle scese
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DPX39VPT{{</world>}}

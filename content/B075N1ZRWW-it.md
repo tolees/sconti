@@ -28,10 +28,10 @@ average: '5.04'
 
 ℹ️:
 
-- Realizzate senza legno, che garantisce lassenza di schegge in caso di rottura
-- Mine da 3,2mm: resistenti, antiurto e facili da temperare
 - Riscopri la tua creatività con questo set di matite colorate dai colori vivaci e acquerellabili
 - Qualità garantita BIC
+- Realizzate senza legno, che garantisce lassenza di schegge in caso di rottura
+- Mine da 3,2mm: resistenti, antiurto e facili da temperare
 - Matite con fusto triangolare, ideali per disegnare e studiare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

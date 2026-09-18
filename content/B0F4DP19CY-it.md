@@ -29,15 +29,15 @@ average: '28.95'
 ℹ️:
 
 - Tasche laterali aperte e tasche anteriori con chiusura a zip
-- Pannello posteriore in rete
-- Esterno: 100% poliestere (riciclato); Interno: 100% elastomero termoplastico
-- Volume: 25,75 L
 - Spallacci imbottiti regolabili
+- Esterno: 100% poliestere (riciclato); Interno: 100% elastomero termoplastico
 - Pannello posteriore in mesh
 - Pannello posteriore in rete
-- Base rivestita
-- Spallacci imbottiti regolabili
+- Volume: 25,75 L
 - Dimensioni: 16,5 cm x 30 cm x 50 cm
+- Spallacci imbottiti regolabili
+- Base rivestita
+- Pannello posteriore in rete
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F4DP19CY{{</world>}}

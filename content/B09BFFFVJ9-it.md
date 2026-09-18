@@ -28,11 +28,11 @@ average: '29.1085714285714'
 
 ℹ️:
 
-- INTENSITÀ: La tostatura media e lintensità 10/13 donano un sapore pieno e corposo a questa particolare miscela, creando un caffè dal colore dorato
 - NOTE AROMATICHE: Queste capsule di caffè sono ideali per un espresso equilibrato e corposo, con note di cioccolato e un retrogusto di frutta secca
-- LAVAZZA: Il Gruppo Lavazza opera in ogni settore dellindustria del caffè, offrendo prodotti di alta qualità, ottenuti attraverso un modello basato su innovazione, passione e competenza
+- INTENSITÀ: La tostatura media e lintensità 10/13 donano un sapore pieno e corposo a questa particolare miscela, creando un caffè dal colore dorato
 - QUALITÀ ROSSA: Assapora un caffè in capsula che racchiude in sé tutto lo stile di vita italiano. 100 Capsule in alluminio compatibili con le macchine Nespresso* Original. *Lavazza non è affiliata a, né promossa o sponsorizzata da Nespresso
 - COMPOSIZIONE: Le capsule Qualità Rossa di Lavazza sono realizzate con una miscela di Arabica e Robusta dal Centro-sud America, Africa e Sud-est Asiatico, per un espresso equilibrato
+- LAVAZZA: Il Gruppo Lavazza opera in ogni settore dellindustria del caffè, offrendo prodotti di alta qualità, ottenuti attraverso un modello basato su innovazione, passione e competenza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09BFFFVJ9{{</world>}}

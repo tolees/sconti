@@ -28,10 +28,10 @@ average: '39.945'
 
 ℹ️:
 
-- Completamente lavabile + spazzolina per la pulizia
-- Design ergonomico impugnatura nel palmo + 12 pettini fissi per le lunghezze (1.5-2mm)
-- Lame con tecnologia CurveCut per seguire il profilo della testa e ottenere un taglio più omogeneo
 - lame in acciaio inox e modalità Turbo per i capelli più folti
+- Lame con tecnologia CurveCut per seguire il profilo della testa e ottenere un taglio più omogeneo
+- Design ergonomico impugnatura nel palmo + 12 pettini fissi per le lunghezze (1.5-2mm)
+- Completamente lavabile + spazzolina per la pulizia
 - 70 minuti di autonomia, 4 h ricarica completa /5 min ricarica rapida
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

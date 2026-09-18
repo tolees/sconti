@@ -28,10 +28,10 @@ average: '20.205'
 
 ℹ️:
 
-- Virche de la coda -Émotion- Discover what future awaits these characters: Happiness? Promise? Eternal salvation? This mode includes epilogues for the Despair and Salvation endings of the original game.
-- Side Story -Interlude- Various events within the main story, what-if stories, the men’s pasts, and other stories yet to be told.
 - Virche du Salut -Ankou- A new story of the Watchman of Death and the key he holds to the maiden of deaths future.
 - Tradition -Drifter- An untold story of the founder of the family that secretly guards the lycoris flowers, and how he changed the countrys fate.
+- Virche de la coda -Émotion- Discover what future awaits these characters: Happiness? Promise? Eternal salvation? This mode includes epilogues for the Despair and Salvation endings of the original game.
+- Side Story -Interlude- Various events within the main story, what-if stories, the men’s pasts, and other stories yet to be told.
 - Side End -Encore- New, extended pathways created by the girl called “Death” and the men surrounding her.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

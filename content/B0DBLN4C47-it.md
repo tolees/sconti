@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony WF-C510 Auricolari True Wireless'
-date: 2026-09-13 19:13:56
+date: 2026-09-18 11:23:53
 image: 'https://m.media-amazon.com/images/I/31UxHmBTinL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0DBLN4C47/?tag=tolees00-21'
 descuento: '45.96'
-average: '39.5367307692309'
+average: '39.2712962962964'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

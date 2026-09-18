@@ -29,9 +29,9 @@ average: '4.2'
 ℹ️:
 
 - EFFICACIA: Efficace anche contro le zecche, permettendo una protezione per 6 ore e mezzo e dalle zanzare tigre e comuni per 6 ore
-- AVVERTENZE: Non applicare il prodotto per più di una volta al giorno. Evitare il contatto con gli occhi, il naso e la bocca e le ferite. Non applicare su pelli scottate
 - MODO DUSO: Per uso topico. Applicare il prodotto spalmandolo uniformemente sulla pelle da proteggere per ottenere un’azione efficace contro zanzare e zecche
 - PREP: Dal 1860 Prep è lo specialista della pelle, una soluzione per ogni tipo di esigenza e irritazione
+- AVVERTENZE: Non applicare il prodotto per più di una volta al giorno. Evitare il contatto con gli occhi, il naso e la bocca e le ferite. Non applicare su pelli scottate
 - LOZIONE INSETTO REPELLENTE: Lozione antipuntura pronta alluso, ideale contro le punture di zanzara comune, tigre, tropicale e zecche
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

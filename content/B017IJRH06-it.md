@@ -34,9 +34,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 - Autospegnimento e funzione tara
 - Alimentazione: 1xcr2032, 3v litio
 - Funzione di blocco pesata
-- Alimentazione: battery-powered
 - Display LCD (72 x 28 mm)
 - Ampia pedana in confortevole materiale plastico
+- Alimentazione: battery-powered
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B017IJRH06{{</world>}}

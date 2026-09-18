@@ -28,8 +28,8 @@ average: '29.0'
 
 ℹ️:
 
-- Polsini in maglia
 - Stemma con monogramma Calvin Klein sulla manica
+- Polsini in maglia
 - Offre un comfort ottimale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

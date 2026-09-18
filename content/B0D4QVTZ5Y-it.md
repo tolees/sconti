@@ -28,9 +28,9 @@ average: '103.323333333333'
 
 ℹ️:
 
-- Refresh Rate 180Hz, Response Time 1ms, AMD FreeSync
 - Contenuto: 1x Monitor Gaming Odyssey G3 24", Include cavo di alimentazione, cavo HDMI e cavo DP, Dimensioni con base (LxAxP): 54,40 x 49,87 x 23,42 cm
 - 1 HDMI, 1 Display Port, Ingresso Audio, HAS, Pivot, Flicker Free, Eye Saver Mode
+- Refresh Rate 180Hz, Response Time 1ms, AMD FreeSync
 - Samsung Monitor Gaming Odyssey G3, 24", Flat
 - 1920x1080 (Full HD), Pannello VA, 16:9
 

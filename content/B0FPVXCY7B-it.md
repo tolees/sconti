@@ -28,12 +28,12 @@ average: '122.795000000001'
 
 ℹ️:
 
-- REGALO PER I FAN DEI FILM DISNEY: un set LEGO da esposizione ottimo come idea regalo per un uomo o una donna fan dei gadget Disney e di Winnie the Pooh, con cui festeggiare un compleanno o unoccasione speciale
-- RICORDI INDELEBILI: il vaso di miele apribile include 2 api; al suo interno ci sono due stanze nascoste con la minifigure LEGO di Winnie the Pooh, la figura di Ih-Oh e molto altro
-- DAL BOSCO DEI CENTO ACRI: include laction figure del personaggio Disney di Winnie the Pooh in mattoncini, un vasetto di miele costruibile con sorprese nascoste, oltre a due piccole figure da scoprire
-- POSIZIONI CREATIVE: metti in posa lorsetto girando la testa, muovendo le orecchie, sollevando le braccia e ruotando le mani, e crea una decorazione per la casa fai da te ricca di effetto
 - KIT DI MODELLISMO LEGO DA COLLEZIONE: festeggia il 100° compleanno di Winnie the Pooh con questo set da costruire LEGO Disney per adulti, che celebra un iconico personaggio amato da tutti
+- DAL BOSCO DEI CENTO ACRI: include laction figure del personaggio Disney di Winnie the Pooh in mattoncini, un vasetto di miele costruibile con sorprese nascoste, oltre a due piccole figure da scoprire
+- REGALO PER I FAN DEI FILM DISNEY: un set LEGO da esposizione ottimo come idea regalo per un uomo o una donna fan dei gadget Disney e di Winnie the Pooh, con cui festeggiare un compleanno o unoccasione speciale
 - COSTRUISCI ED ESPONI: questa costruzione, parte della gamma LEGO Disney da esposizione (altri set disponibili separatamente), è pensata per i collezionisti e i fan adulti, e può essere abbinata al set Il Divertente Compleanno di Pimpi (43305)
+- RICORDI INDELEBILI: il vaso di miele apribile include 2 api; al suo interno ci sono due stanze nascoste con la minifigure LEGO di Winnie the Pooh, la figura di Ih-Oh e molto altro
+- POSIZIONI CREATIVE: metti in posa lorsetto girando la testa, muovendo le orecchie, sollevando le braccia e ruotando le mani, e crea una decorazione per la casa fai da te ricca di effetto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FPVXCY7B{{</world>}}

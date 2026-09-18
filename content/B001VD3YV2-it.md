@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- DEFINISCE E SEPARA: lapplicatore in fibre morbide pettina e separa le ciglia per una definizione impeccabile.
 - BASATO SULLA SCIENZA DERMATOLOGICA: limpegno di Clinique per la sicurezza si basa sulla scienza della skincare. Collaboriamo con i dermatologi per formulare prodotti adatti a ogni tipo, tono ed esigenza della pelle.
 - MASCARA A VOLUME MODULABILE: mascara volumizzante e allungante che permette di costruire l’intensità desiderata ed è resistente ai grumi.
-- VOLUME DA NATURALE A INTENSO: la formula stratificabile consente di creare look che vanno da un effetto naturale a uno più deciso.
 - LA PROMESSA CLINIQUE PER LA SICUREZZA DEI TUOI OCCHI: come tutto il nostro makeup occhi, anche questo prodotto è testato oftalmologicamente, sicuro per occhi sensibili e chi porta lenti a contatto, e testato contro le allergie e privo di profumo al 100%.
-- DEFINISCE E SEPARA: lapplicatore in fibre morbide pettina e separa le ciglia per una definizione impeccabile.
+- VOLUME DA NATURALE A INTENSO: la formula stratificabile consente di creare look che vanno da un effetto naturale a uno più deciso.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B001VD3YV2{{</world>}}

@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Made in Italy
-- Dimensioni: 28x28x4cm
 - Adatto al forno tradizionale
+- Dimensioni: 28x28x4cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01GIDLH18{{</world>}}

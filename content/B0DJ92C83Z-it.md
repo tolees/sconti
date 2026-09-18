@@ -28,8 +28,8 @@ average: '53.2'
 
 ℹ️:
 
-- Gabbia in TPU
 - Pronazione: neutra
+- Gabbia in TPU
 - Marca dellintersuola in pezzo gioiello
 - Ammortizzazione: bassa
 

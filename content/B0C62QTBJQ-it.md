@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bio Presto Polvere 62 mis'
-date: 2026-09-12 17:28:03
+date: 2026-09-18 16:41:18
 image: 'https://m.media-amazon.com/images/I/51W3tc7VRsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0C62QTBJQ/?tag=tolees00-21'
 descuento: '41.85'
-average: '8.45666666666667'
+average: '8.66'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

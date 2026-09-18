@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- SEMPRE CON TE: grazie alla pratica confezione, NUTELLA&GO è la merenda che porta il gusto unico di Nutella ovunque tu vada
 - QUALITÀ INCONFONDIBILE: la ricetta di Nutella contiene 7 ingredienti di qualità accuratamente selezionati ed è senza coloranti, senza conservanti e senza grassi idrogenati
+- SEMPRE CON TE: grazie alla pratica confezione, NUTELLA&GO è la merenda che porta il gusto unico di Nutella ovunque tu vada
 - NUTELLA&GO: liconica crema spalmabile, celebre per la sua irresistibile cremosità e il genuino gusto di nocciole e cacao, si incontra con croccanti biscotti salati in uno snack pratico e divertente
 - SEMPLICE E BUONO: l’inimitabile combinazione tra crema e biscotti salati, rende NUTELLA&GO un’esperienza unica, risvegliando il buonumore in ogni singolo affondo
 

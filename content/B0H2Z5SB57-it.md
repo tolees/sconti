@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Stanley Idropulitrice SXPW25HFDSSP ad Alta Pressione con Doppia Velocità per Auto ed Esterni Casa con Lavapavimenti Spazzola Fissa e Manico Pieghevole 170 bar 500 l/h 2500 W'
-date: 2026-09-14 12:30:39
+date: 2026-09-17 17:04:01
 image: 'https://m.media-amazon.com/images/I/41vTPUlL5bL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

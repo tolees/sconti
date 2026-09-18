@@ -29,10 +29,10 @@ average: '8.0'
 ℹ️:
 
 - NON È NECESSARIO AGITARE: per una finitura decisa, simile a vernice, senza la complicazione e tempi del primer, togli il tappo e crea (per un risultato ottimale, riporre i pennarelli in orizzontale)
-- PER SUPERFICI CHIARE E SCURE: Segni decisi su metallo, legno, ceramica, vetro, roccia, tela e altro ancora
-- Contiene 6 penne da pittura a base dacqua con inchiostro Rosa
 - STRATIFICAZIONE SENZA SBAVATURE: Aggiungi dimensionalità alle tue creazioni con colori che si stratificano magnificamente senza mescolarsi
 - INCHIOSTRO SIMILE ALLA VERNICE: Pennarelli creativi in una varietà di colori vivaci che non lasciano sbavature
+- Contiene 6 penne da pittura a base dacqua con inchiostro Rosa
+- PER SUPERFICI CHIARE E SCURE: Segni decisi su metallo, legno, ceramica, vetro, roccia, tela e altro ancora
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DWSRT59F{{</world>}}

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Idrata intensamente e aiuta a contrastare gli effetti disidratanti di sole, vento e salsedine.
+- Nebulizzatore “doccia” pratica da vaporizzare più volte al giorno su viso, corpo e capelli; senza SPF, da usare sopra un solare protettivo.
 - Limited edition ORO con perle dorate: illumina subito viso e corpo con un glow mediterraneo.
 - Rinfresca e dona sollievo: attenua il senso di calore ed elimina la fastidiosa sensazione di sale sulla pelle.
-- Nebulizzatore “doccia” pratica da vaporizzare più volte al giorno su viso, corpo e capelli; senza SPF, da usare sopra un solare protettivo.
-- Idrata intensamente e aiuta a contrastare gli effetti disidratanti di sole, vento e salsedine.
 - Accelera e intensifica l’abbronzatura grazie all’esclusivo complesso Unipertan, per un colorito più rapido e uniforme.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

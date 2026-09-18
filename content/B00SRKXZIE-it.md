@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Charges whilst on standby
-- Polished black & matt finish to match controllers & PS4 system.Red LED charge indicators turn to blue once controllers are fully charged.Charges via USB cable (included).Note: Check packaging thoroughly to locate the charging dongles. Ensure the dongles make full connection with charging points on the dock Corre
 - Dock, store & charge 2 x DUALSHOCK4 wireless controllers
-- Keep controllers fully charged & ready to use
+- Charges whilst on standby
 - Supplied with x2 Micro USB Dongles
+- Polished black & matt finish to match controllers & PS4 system.Red LED charge indicators turn to blue once controllers are fully charged.Charges via USB cable (included).Note: Check packaging thoroughly to locate the charging dongles. Ensure the dongles make full connection with charging points on the dock Corre
+- Keep controllers fully charged & ready to use
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00SRKXZIE{{</world>}}

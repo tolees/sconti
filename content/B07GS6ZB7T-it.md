@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech G G502 HERO Mouse Gaming Prestazioni Elevate'
-date: 2026-09-13 10:13:50
+date: 2026-09-17 13:42:26
 image: 'https://m.media-amazon.com/images/I/4189N8RLVYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07GS6ZB7T-it Logitech G G502 HERO Mouse Gaming Prestazioni Elevate'
 sku: 'B07GS6ZB7T-it'
 tags: [ '🇮🇹', ]
-actualPrice: 35.99 EUR
+actualPrice: 34.99 EUR
 currency: EUR
-price: 35.99
+price: 34.99
 comparePrice: 59.99 EUR
 prodname: 'Logitech G G502 HERO Mouse Gaming Prestazioni Elevate'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B07GS6ZB7T/?tag=tolees00-21'
-descuento: '40.01'
-average: '40.5970454545457'
+descuento: '41.67'
+average: '40.4724444444447'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

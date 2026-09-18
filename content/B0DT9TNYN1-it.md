@@ -28,16 +28,16 @@ average: '1449.99'
 
 ℹ️:
 
+- Il due-in-uno più potente sul mercato, più veloce di MacBook Air M3¹. Velocità eccezionale e funzionalità di nuova generazione grazie a un potente acceleratore basato sullAI e a un nuovo processore perfetto per il multitasking
 - Sempre connessi ovunque: Una velocità eccezionale ovunque con la connettività Wi-Fi 7 wireless³
 - Il tuo assistente basato sullAI in versione accelerata: Cerca ciò che ti serve con un linguaggio naturale e Recall lo troverà allistante, su qualsiasi piattaforma tu labbia visto, inviato o salvato²
-- Copilot+ PC: Una nuova era AI. Il dispositivo Surface Pro più veloce e intelligente di sempre
-- Nellambito delle iniziative di sostenibilità volte a ridurre i rifiuti elettronici, ora lalimentatore è venduto separatamente. ​La potenza minima necessaria per caricare Surface Pro (11ª edizione) è 39 W
-- Una flessibilità senza pari: Prestazioni allavanguardia in un design ultraflessibile grazie allesclusivo sostegno a 165 °
-- Il due-in-uno più potente sul mercato, più veloce di MacBook Air M3¹. Velocità eccezionale e funzionalità di nuova generazione grazie a un potente acceleratore basato sullAI e a un nuovo processore perfetto per il multitasking
 - Fotocamera Studio potenziata dallAI: Le fotocamere HD anteriore e posteriore grazie allAI garantiscono una luminosità perfetta e suoni nitidi
-- Progettato per la sostenibilità: il dispositivo due-in-uno più sostenibile con alluminio riciclato e un maggior numero di componenti sostituibili
-- Colori splendidi: Nero, Platino, Zaffiro e il nuovissimo colore Duna con tastiere abbinate in tessuto Alcantara di alta qualità (vendute separatamente)
+- Nellambito delle iniziative di sostenibilità volte a ridurre i rifiuti elettronici, ora lalimentatore è venduto separatamente. ​La potenza minima necessaria per caricare Surface Pro (11ª edizione) è 39 W
 - Una batteria che dura tutto il giorno: 14 ore di autonomia⁴ e tempi minori per la ricarica. Ricarica rapida disponibile
+- Copilot+ PC: Una nuova era AI. Il dispositivo Surface Pro più veloce e intelligente di sempre
+- Colori splendidi: Nero, Platino, Zaffiro e il nuovissimo colore Duna con tastiere abbinate in tessuto Alcantara di alta qualità (vendute separatamente)
+- Progettato per la sostenibilità: il dispositivo due-in-uno più sostenibile con alluminio riciclato e un maggior numero di componenti sostituibili
+- Una flessibilità senza pari: Prestazioni allavanguardia in un design ultraflessibile grazie allesclusivo sostegno a 165 °
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DT9TNYN1{{</world>}}

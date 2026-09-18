@@ -28,11 +28,11 @@ average: '101.62'
 
 ℹ️:
 
-- Bracciale in acciaio inossidabile
 - Movimento multifunzione al quarzo
-- Spessore della cassa 9,7mm / Diametro della cassa: 46 mm
 - Resistente allacqua a 5 ATM Può essere indossato durante la doccia o il nuoto, ma non durante le immersioni
+- Bracciale in acciaio inossidabile
 - Quadrante grigio
+- Spessore della cassa 9,7mm / Diametro della cassa: 46 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07KTQDFQ1{{</world>}}

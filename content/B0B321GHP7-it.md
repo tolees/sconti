@@ -28,11 +28,11 @@ average: '18.99'
 
 ℹ️:
 
-- Tipo di dettaglio: T-shirt
 - Occasione/stile: maglietta di qualità da indossare tutti i giorni
-- Vestibilità: vestibilità regolare
-- Tipo di collo: rotondo
 - Tessuto: tessuto jersey morbido al tatto
+- Tipo di dettaglio: T-shirt
+- Tipo di collo: rotondo
+- Vestibilità: vestibilità regolare
 - LUNGHEZZA MANICA: Maniche corte (S/S)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

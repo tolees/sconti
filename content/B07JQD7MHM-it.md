@@ -28,11 +28,11 @@ average: '41.91'
 
 ℹ️:
 
+- Piedini in gomma che creano frizione sulla superficie durante il taglio
+- Struttura in metallo che consente lutilizzo con morsetti
 - Capacità di carico kg 450 (l coppia)
 - Dimensioni cm 85, 5x73, 6x42, 4
-- Piedini in gomma che creano frizione sulla superficie durante il taglio
 - Facile apertura e chiusura, dimensioni compatte, semplice da trasportare e riporre
-- Struttura in metallo che consente lutilizzo con morsetti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07JQD7MHM{{</world>}}

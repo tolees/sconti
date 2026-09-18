@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Idrata e nutre i capelli
 - Lascia i capelli sani e lucenti
+- Idrata e nutre i capelli
 - Ravviva ed esalta il colore
 - Maschera colorata protettiva
 

@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Base di appoggio
-- Pettine corpo verticale
-- Completamente lavabile
-- Lame auto-affilanti rivestite di Titanio
-- Cinque testine accessorie
-- Fino a 40 minuti di autonomia
-- Un pettine regolabile (2-20 mm), cinque pettini fissi da 1.5, 3, 6, 9, 12 mm
 - Indicatore luminoso di carica
+- Cinque testine accessorie
+- Pettine corpo verticale
+- Lame auto-affilanti rivestite di Titanio
+- Completamente lavabile
+- Fino a 40 minuti di autonomia
+- Base di appoggio
+- Un pettine regolabile (2-20 mm), cinque pettini fissi da 1.5, 3, 6, 9, 12 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B013U9RSH0{{</world>}}

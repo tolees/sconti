@@ -30,8 +30,8 @@ average: '3.95'
 
 - PER LA FUNZIONE MUSCOLARE: La Vitamina D3 promuove il mantenimento di ossa normali e una fisiologica funzione muscolare
 - PRATICO FORMATO IN STICK: versare uno stick in 500 ml d’acqua, agitare bene fino allo scioglimento completo della polvere e bere nell’arco della giornata
-- EQUILIBRA: da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto di un perfetto equilibrio tra rispetto, efficacia, benessere e bellezza
 - DAI PIÙ GUSTO ALLA TUA ACQUA: trasforma lidratazione quotidiana in un momento di piacere al gusto cocco e lime; zero zuccheri e zero calorie, un gesto di benessere ricchissimo di gusto
+- EQUILIBRA: da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto di un perfetto equilibrio tra rispetto, efficacia, benessere e bellezza
 - PER LEQUILIBRIO ELETTROLITICO: il Magnesio contribuisce all’equilibrio elettrolitico e, con la Niacina, è utile in caso di caldo e affaticamento fisico e mentale per il normale metabolismo energetico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ average: '3.168'
 ℹ️:
 
 - Mutti | Dal 1899 Mutti si impegna a valorizzare la qualità del pomodoro italiano, dal campo direttamente alla tavola, con una filiera controllata e certificata.
+- Qualità | I pomodori vengono selezionati con cura e tagliati finemente con un processo unico che preserva al meglio tutte le caratteristiche del pomodoro fresco.
+- Ingredienti | Preparata con pomodori 100% italiani, raccolti al perfetto grado di maturazione e lavorati in poche ore dalla raccolta per preservare al massimo tutta la freschezza del pomodoro appena raccolto. Con l’aggiunta di un pizzico di sale.
 - Utilizzo | Ideale per preparazioni che richiedono freschezza e corpo, come sughi, salse per la pasta, o come base per bruschette e piatti rustici. Perfetta sia per cotture brevi che lunghe o ad alta temperatura.
 - Caratteristiche | Ha un colore rosso vivo, una consistenza ricca di pezzettini tritati finemente ed un gusto incredibilmente fresco.
-- Ingredienti | Preparata con pomodori 100% italiani, raccolti al perfetto grado di maturazione e lavorati in poche ore dalla raccolta per preservare al massimo tutta la freschezza del pomodoro appena raccolto. Con l’aggiunta di un pizzico di sale.
-- Qualità | I pomodori vengono selezionati con cura e tagliati finemente con un processo unico che preserva al meglio tutte le caratteristiche del pomodoro fresco.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DLH7DJ75{{</world>}}

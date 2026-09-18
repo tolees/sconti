@@ -28,9 +28,9 @@ average: '17.1'
 
 ℹ️:
 
+- Leggero proprietà elastiche
 - Grande stampa del logo Nike
 - Rundhalskrasen
-- Leggero proprietà elastiche
 - T-shirt per la formazione o la presentazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dispositivo blocco albero per una rapida sostituzione del disco e interruttore di accensione a slitta con blocco
 - Smerigliatrice angolare per dischi diámetro 115mm
+- Dispositivo blocco albero per una rapida sostituzione del disco e interruttore di accensione a slitta con blocco
 - Feritoie di ventilazione protette contro linfiltrazione della polvere per un raffreddamento ottimale, con chiave di servizio in dotazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

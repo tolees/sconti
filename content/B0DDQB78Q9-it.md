@@ -28,11 +28,11 @@ average: '6.19'
 
 ℹ️:
 
+- Perfetto per uno spuntino
+- Richiudibile
 - Indicazioni sul riciclaggio (Vedere retro della confezione)
 - Confezionato in atmosfera protettiva per la freschezza.
-- Perfetto per uno spuntino
 - Alto contenuto di fibre.
-- Richiudibile
 - Adatto per diete vegetariane e vegane.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ average: '1.3'
 
 ℹ️:
 
-- CARATTERISTICHE: L’Aloe Vera Equilibra (40%) idrata, rinfresca e riequilibra la pelle arrossata dal sole, dal vento e dalla salsedine
 - PER LA PELLE DISIDRATATA DAL SOLE: Aloe Latte Doposole è un latte dalla texture leggera e setosa che si assorbe velocemente senza ungere
+- CARATTERISTICHE: L’Aloe Vera Equilibra (40%) idrata, rinfresca e riequilibra la pelle arrossata dal sole, dal vento e dalla salsedine
 - PELLE IDRATATA: Restituisce idratazione e nutrimento alla pelle disidratata dal sole lasciandola liscia e luminosa
 - EQUILIBRA: da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto dellequilibrio tra rispetto, efficacia, benessere e bellezza
 - COSA CONTIENE: Il latte doposole contiene Olio di Carota, Vitamina E Aloe Vera Equilibra (40%)

@@ -28,10 +28,10 @@ average: '13.0'
 
 ℹ️:
 
-- Capacità sensoriali, coordianzione occhio mano, sviluppo della creatività, autonomia
-- Banchetto, sgabellino, maxi lavagna led, 20 giochi educativi, manuale di istruzioni
 - Un divertente kit a misura di bambino
 - Lavagna maxi formato, led cambia colore, robusto banchetto con seduta, 20 giochi educativi
+- Banchetto, sgabellino, maxi lavagna led, 20 giochi educativi, manuale di istruzioni
+- Capacità sensoriali, coordianzione occhio mano, sviluppo della creatività, autonomia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B5GRHDFW{{</world>}}

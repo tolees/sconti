@@ -28,17 +28,17 @@ average: '13.04'
 
 ℹ️:
 
-- Adatto a tutte le marche di elettroutensili
-- Assortimento completo
-- 11 punte per metallo HSS-TIN ø 1,5-6,5 mm; 4 punte per muro ø 4-7 mm; 4 punte per legno ø 4-8 mm; 10 bit di avvitamento; l = 25 mm; (PH 1/2/3, pz 1/2/3, s 4/6, t 20/251); portabit universale, magnetico; 1 svasatore
+- Quattro punte per legno affilate con un diametro di 4-8 mm, con punta di centraggio e fresa a gradino per forature precise e senza rotture
 - Valigetta pratica e robusta
 - Dieci punte extra rigide per le viti più comuni, con Phillips, Pozidriv, Torx e testa scanalata longitudinale
-- Quattro robusti trapani in pietra e rinforzati con metallo duro diametro 4-7 mm; Convincono per la loro lunga durata, la rapida rimozione del materiale, la bassa generazione di calore e la precisione
-- Quattro punte per legno affilate con un diametro di 4-8 mm, con punta di centraggio e fresa a gradino per forature precise e senza rotture
-- Accessori universali per tutte le marche
+- Adatto a tutte le marche di elettroutensili
 - Include un supporto magnetico universale
+- 11 punte per metallo HSS-TIN ø 1,5-6,5 mm; 4 punte per muro ø 4-7 mm; 4 punte per legno ø 4-8 mm; 10 bit di avvitamento; l = 25 mm; (PH 1/2/3, pz 1/2/3, s 4/6, t 20/251); portabit universale, magnetico; 1 svasatore
 - Undici punte per metallo con un diametro di 1,5-6,5 mm con rivestimento in nitruro di titanio, caratterizzate da rapidi avanzamenti di foratura e lunga durata (non utilizzare per lalluminio)
+- Assortimento completo
+- Accessori universali per tutte le marche
 - Titanium
+- Quattro robusti trapani in pietra e rinforzati con metallo duro diametro 4-7 mm; Convincono per la loro lunga durata, la rapida rimozione del materiale, la bassa generazione di calore e la precisione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000P4KR5E{{</world>}}

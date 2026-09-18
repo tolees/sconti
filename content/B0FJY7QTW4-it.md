@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - KitKat è parte di un programma innovativo, lIncome Accelerator Program, che aiuta a distribuire circa 1 milione di piante allanno in Costa dAvorio per supportare la biodiversità nelle coltivazioni di cacao
-- Break better con KitKat: le nuove tavolette dal cuore cremoso e dall’effetto marmorizzato sono pensate per una pausa più lunga, da gustare a casa, da soli davanti a una serie o in compagnia durante un momento conviviale
+- KITKAT Tablets Caramello Salato: una tavoletta di wafer croccante e un irresistibile gusto di caramello salato, il tutto avvolto da una copertura dalleffetto variegato
 - Visita il sito Nestlé per scoprire il percorso di sostenibilità del nostro Gruppo.
 - Confezione singola da 99g
-- KITKAT Tablets Caramello Salato: una tavoletta di wafer croccante e un irresistibile gusto di caramello salato, il tutto avvolto da una copertura dalleffetto variegato
+- Break better con KitKat: le nuove tavolette dal cuore cremoso e dall’effetto marmorizzato sono pensate per una pausa più lunga, da gustare a casa, da soli davanti a una serie o in compagnia durante un momento conviviale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FJY7QTW4{{</world>}}

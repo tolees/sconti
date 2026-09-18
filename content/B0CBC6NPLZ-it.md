@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - PER SMARTPHONE E FOTOCAMERA: Puoi usare treppiede, luce e microfono insieme o separatamente con smartphone o fotocamera. Design ergonomico adatto al palmo della mano per una creazione portatile
 - IDEALE PER IL VLOGGING: On/off e controllo luminosità ruotando il bordo della luce. Controllo frontale durante la realizzazione di un vlog. Nessuna necessità di trovare i pulsanti sul retro
+- GRANDE FLESSIBLITÀ: Treppiede flessibile PodZilla per uso Grip It, Wrap It, Stand It. Ruota la clamp per smartphone per riprese verticali/orizzontali. Posizionamento e attacco multipli per luce
 - SUONO NITIDO: Dotato di Wavo Mobile compatibile con smartphone/fotocamera per qualità audio. Include: Treppiede, luce attacco per smartphone, attacco cold shoe, cavi TRS e TRRS, cavo di ricarica
 - LUCE CALDA E FREDDA: Scegli tra luce bianca calda, naturale o fredda con un solo pulsante. Diffusione integrata per luce morbida e piacevole fino a 250lx a 0,5 m. Fino a 7 ore con luminosità al 50%
-- GRANDE FLESSIBLITÀ: Treppiede flessibile PodZilla per uso Grip It, Wrap It, Stand It. Ruota la clamp per smartphone per riprese verticali/orizzontali. Posizionamento e attacco multipli per luce
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CBC6NPLZ{{</world>}}

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Ideale per capelli secchi e disidratati, nutre in profondità e restituisce morbidezza e lucentezza.
-- Idrata e districa i capelli per domare l’effetto crespo e ripristinare morbidezza e setosità al tocco.
 - Adatto per capelli colorati e trattati chimicamente, protegge la fibra e mantiene colore e lucentezza.
 - Balsamo idratante che nutre e ammorbidisce i capelli secchi, lasciandoli morbidi e lucenti.
+- Ideale per capelli secchi e disidratati, nutre in profondità e restituisce morbidezza e lucentezza.
+- Idrata e districa i capelli per domare l’effetto crespo e ripristinare morbidezza e setosità al tocco.
 - Aiuta a domare i capelli crespi e a renderli morbidi, disciplinati e luminosi come la seta.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

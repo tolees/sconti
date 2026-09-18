@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'UGREEN Zapix Caricatore USB C 30W Carica Rapida GaN Alimentatore PD Nero'
-date: 2026-09-14 11:54:01
+date: 2026-09-17 16:13:15
 image: 'https://m.media-amazon.com/images/I/217A3l87sAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0DG8RMHLN/?tag=tolees00-21'
 descuento: '22.66'
-average: '9.57555555555555'
+average: '9.80181818181817'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

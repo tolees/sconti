@@ -30,8 +30,8 @@ average: '48.95'
 
 - Tappetino Goga raffreddato ad aria
 - Il nostro pianeta è importante: riciclato
-- Passeggiata morbida
 - Idrorepellente
+- Passeggiata morbida
 - Trail
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

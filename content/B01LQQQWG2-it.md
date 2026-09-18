@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- FRAGRANZA E AROMA: Una miscela raffinata e persistente, che si presenta con: Corpo: 8.5 - Intensità: 8.5 - Persistenza: 9 - Dolcezza: 9 - Acidità: 5
+- Capsule Compatibili Nespresso* con i seguenti modelli di macchine da caffè: Delonghi - Essenza, Essenza Mini EN85R, Citiz, Inissia, Lattissima Premium, Pixie, Prodigio Silver, U; Krups - Citiz, Essenza, Essenza Mini, Inissia, Pixie, Prodigio Titan, U; Nespresso - Essenza Mini C30 Matt Black, Lattissima One; Didiesse
 - FORMATO: Confezione da 100 Capsule
 - MISCELA BLU: Ottenuta dalla selezione di miscele per un equilibrio perfetto tra corpo, persistenza e dolcezza. La miscela Blu si caratterizza per il suo sapore nobile, il carattere vigoroso e l’aroma intenso. Confezionato in atmosfera protettiva, un equilibrato mix tra Arabica e Robusta
+- FRAGRANZA E AROMA: Una miscela raffinata e persistente, che si presenta con: Corpo: 8.5 - Intensità: 8.5 - Persistenza: 9 - Dolcezza: 9 - Acidità: 5
 - *Nespresso è un marchio registrato di Societè des Produits Nestlè S.A. Caffè Borbone Srl è produttore autonomo non collegato alla Societè des Produits Nestlè S.A. La compatibilità delle capsule Caffè Borbone è funzionale allutilizzo con macchine da caffè ad uso domestico *Nespresso
-- Capsule Compatibili Nespresso* con i seguenti modelli di macchine da caffè: Delonghi - Essenza, Essenza Mini EN85R, Citiz, Inissia, Lattissima Premium, Pixie, Prodigio Silver, U; Krups - Citiz, Essenza, Essenza Mini, Inissia, Pixie, Prodigio Titan, U; Nespresso - Essenza Mini C30 Matt Black, Lattissima One; Didiesse
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01LQQQWG2{{</world>}}

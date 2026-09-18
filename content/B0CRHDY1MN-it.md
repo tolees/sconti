@@ -28,11 +28,11 @@ average: '3.59'
 
 ℹ️:
 
-- ACQUA ALLE ROSE: il modo più semplice e naturale per prendersi cura della propria bellezza, dal 1867. Una bellezza senza età​ che anno dopo anno si rinnova e fiorisce
 - USO QUOTIDIANO: Ideale per luso quotidiano, deterge delicatamente senza aggredire la pelle, preparandola ai trattamenti successivi
-- DETERSIONE PROFONDA: Il gel lavaviso deterge e strucca delicatamente la pelle, rimuovendo impurità e tracce di make-up
 - AZIONE ILLUMINANTE: Formulato con Vitamina C di Rosa Canina, ravviva l’incarnato spento e opaco, donando luminosità alla pelle
 - EFFETTO ENERGIZZANTE: La Vitamina C di Rosa Canina energizza la pelle del viso, per un aspetto fresco e radioso ogni giorno
+- DETERSIONE PROFONDA: Il gel lavaviso deterge e strucca delicatamente la pelle, rimuovendo impurità e tracce di make-up
+- ACQUA ALLE ROSE: il modo più semplice e naturale per prendersi cura della propria bellezza, dal 1867. Una bellezza senza età​ che anno dopo anno si rinnova e fiorisce
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CRHDY1MN{{</world>}}

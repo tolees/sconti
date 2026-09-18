@@ -29,8 +29,8 @@ average: '15.85'
 ℹ️:
 
 - Misure interne adatte a entrambi i sistemi, con fodera in feltro e vano portaoggetti con cerniera
-- Supporto di gioco integrato per modalità da tavolo
 - Robusto guscio esterno con impugnatura in gomma e doppia cerniera resistente
+- Supporto di gioco integrato per modalità da tavolo
 - Prodotto con licenza ufficiale Nintendo e garanzia limitata di due anni: visita PowerA.com/Support
 - Protezione dello schermo imbottita integrata con spazio per nove carte da gioco
 

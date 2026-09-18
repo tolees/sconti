@@ -28,11 +28,11 @@ average: '36.98'
 
 ℹ️:
 
-- Comodi jeans Lee dal taglio dritto con gamba dritta dalla coscia alla caviglia, Un modello fresco e contemporaneo per un look adatto a tutte le situazioni
-- Un capo dallo stile classico e moderno che slancia la figura, Indispensabile in ogni guardaroba e ideale per un uso quotidiano
+- Jeans dal taglio inconfondibilmente moderno realizzati in cotone resistente, Lavabili in lavatrice a freddo, Lava al rovescio, Il colore può trasferirsi con lo sfregamento su materiali chiari
 - Jeans casual a vita regolare con dettagli unici: 5 tasche, patta con zip, 5 passanti classici e bottoni in metallo
 - Contenuto: 1x Jeans Uomo Lee, Modello: 112119621, Numero di lotto: L72BSOSL, Lunghezza: 34, Taglia: 31, Materiale: 77% cotone 21% poliestere 2% elastan, Stretch: media elasticità, Colore: Brady (Blu)
-- Jeans dal taglio inconfondibilmente moderno realizzati in cotone resistente, Lavabili in lavatrice a freddo, Lava al rovescio, Il colore può trasferirsi con lo sfregamento su materiali chiari
+- Un capo dallo stile classico e moderno che slancia la figura, Indispensabile in ogni guardaroba e ideale per un uso quotidiano
+- Comodi jeans Lee dal taglio dritto con gamba dritta dalla coscia alla caviglia, Un modello fresco e contemporaneo per un look adatto a tutte le situazioni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08CXWNFJ3{{</world>}}

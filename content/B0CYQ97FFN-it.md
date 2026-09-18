@@ -30,8 +30,8 @@ average: '18.15'
 
 - Calzata regolare
 - Suola in gomma
-- Collarino e fodera in mesh
 - Chiusura a strappo
+- Collarino e fodera in mesh
 - Tomaia in materiale sintetico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

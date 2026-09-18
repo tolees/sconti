@@ -28,12 +28,12 @@ average: '7.80333333333333'
 
 ℹ️:
 
-- Indicatore a "semaforo" a LED, con occhielli da 8 mm, che mostra lo stato di carica della batteria in modo semplice e chiaro, indicando quando è il momento di ricaricare.
-- Display a LED di facile lettura: la luce rossa significa carica IMMEDIATAMENTE, la luce gialla significa carica APPENA POSSIBILE, la luce verde significa BATTERIA CARICA Non è necessario caricare la batteria.
-- 2 anni di garanzia.
-- Collegamento a occhiello: Fornisce una connessione permanente e sicura per le batterie difficili da raggiungere. Dotato dello specifico sistema CONNECT di CTEK, lINDICATOR EYELET M8 offre un modo rapido, sicuro e semplice per ricaricare la batteria.
 - Duraturo: progettato e testato in Svezia, con cavi resistenti e flessibili costruiti per durare nel tempo.
+- Collegamento a occhiello: Fornisce una connessione permanente e sicura per le batterie difficili da raggiungere. Dotato dello specifico sistema CONNECT di CTEK, lINDICATOR EYELET M8 offre un modo rapido, sicuro e semplice per ricaricare la batteria.
+- Indicatore a "semaforo" a LED, con occhielli da 8 mm, che mostra lo stato di carica della batteria in modo semplice e chiaro, indicando quando è il momento di ricaricare.
 - Compatibile: funziona con tutte le batterie al piombo da 12V e con i caricabatterie CTEK fino a 10A
+- 2 anni di garanzia.
+- Display a LED di facile lettura: la luce rossa significa carica IMMEDIATAMENTE, la luce gialla significa carica APPENA POSSIBILE, la luce verde significa BATTERIA CARICA Non è necessario caricare la batteria.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B002MT8S7E{{</world>}}

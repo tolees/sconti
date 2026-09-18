@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Top in pizzo a maniche corte
-- Chiusura con bottone sul retro
 - Composizione materiale: 90% nylon, 10% elastan
+- Chiusura con bottone sul retro
 - Collo alto con orlo smerlato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

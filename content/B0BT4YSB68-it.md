@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Venduto in coppie
 - Senza controdado specifico
 - Con piastre di rilascio semplificate
 - Per SPD, tipo di rilascio multidirezionale
+- Venduto in coppie
 - Compatibile con tutti i pedali aperti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

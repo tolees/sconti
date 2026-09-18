@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Collegare il dimmer tramite morsetti a vite. Può essere utilizzato per lampade a incandescenza e lampade alogene ad alta tensione da 20-500 W
+- Interruttore con dimmer con pressacavo, 230V~,50Hz, per lampade da tavolo e da terra
+- Interruttore dimmer per cavi di collegamento a tre fili (3 x 0,75 mm²). Controllo continuo della luminosità. Lampada a incandescenza: luminosità in base allimpostazione di attenuazione: alta = scura/bassa = luminosa
 - Interruttore a scorrimento per luso in ambienti asciutti da 0°C a max. +35°C. Fusibile fine F3:15AH
 - Solo per linee di alimentazione: H03VVH2-F 3x0,75 mm². Dimensioni dellinterruttore intermedio (LxPxH): 99 x 69 x 33 mm, peso 126 g. Colore nero
-- Interruttore dimmer per cavi di collegamento a tre fili (3 x 0,75 mm²). Controllo continuo della luminosità. Lampada a incandescenza: luminosità in base allimpostazione di attenuazione: alta = scura/bassa = luminosa
-- Interruttore con dimmer con pressacavo, 230V~,50Hz, per lampade da tavolo e da terra
-- Collegare il dimmer tramite morsetti a vite. Può essere utilizzato per lampade a incandescenza e lampade alogene ad alta tensione da 20-500 W
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B001B4VIUK{{</world>}}

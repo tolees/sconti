@@ -28,12 +28,12 @@ average: '16.72'
 
 ℹ️:
 
-- Una polo versatile, elegante, lineare ma non troppo formale
-- Scegli una taglia in più per uno stile casual naturale o la tua taglia per un look classico
 - Rifinita con un logo discreto sul petto
-- Dettagli e silhouette slanciati per unottima versatilità
-- Drena l’umidità, mantenendo la freschezza
 - Realizzata in un tessuto piqué leggero e traspirante
+- Scegli una taglia in più per uno stile casual naturale o la tua taglia per un look classico
+- Drena l’umidità, mantenendo la freschezza
+- Una polo versatile, elegante, lineare ma non troppo formale
+- Dettagli e silhouette slanciati per unottima versatilità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09MWPKPFF{{</world>}}

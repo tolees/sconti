@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Le canaline passacavo D-Line hanno una cavità interna in grado di proteggere fino a 3 cavi da 8mm di diametro.
-- Canaline per cavi elettrici ideali per ambienti a traffico pedestre regolare.
-- Le canaline calpestabili D-Line hanno una superficie zigrinata anti scivolo ed un retro aperto per una maggiore facilità duso.
 - Le canaline elettriche D-Line prevengono i pericoli più comuni di cadute ed inciampi causati da cavi liberi.
+- Le canaline calpestabili D-Line hanno una superficie zigrinata anti scivolo ed un retro aperto per una maggiore facilità duso.
+- Canaline per cavi elettrici ideali per ambienti a traffico pedestre regolare.
+- Le canaline passacavo D-Line hanno una cavità interna in grado di proteggere fino a 3 cavi da 8mm di diametro.
 - Le canaline per cavi D-Line sono prodotte in pvc flessible. Presentano un bel design e si srotolano per essere applicate dove più si desidera.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

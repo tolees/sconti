@@ -28,13 +28,13 @@ average: '26.3233333333333'
 
 ℹ️:
 
-- Cappuccio regolabile con cordino
-- Con questo modello supportiamo la Better Cotton Initiative
 - Tasca a marsupio
 - Con questo modello supportiamo la Better Cotton Initiative
-- Taglio regolare
 - 70% cotone / 30% poliestere (riciclato)
 - Polsini e orli a coste
+- Cappuccio regolabile con cordino
+- Taglio regolare
+- Con questo modello supportiamo la Better Cotton Initiative
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09H6VS55X{{</world>}}

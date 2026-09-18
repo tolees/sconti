@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- IMMERGITI NEL SURREALE: Scopri un universo surreale e senza senso con The Many Pieces of Mr. Coo, dove ogni clic ti catapulta in unavventura grafica unica piena di mistero e originalità. Include Portachiavi.
-- FAI PARTE DELLA COMUNITÀ SURREALE: Unisciti ad altri esploratori in eventi online, condividendo storie e scoprendo i segreti dietro lo sviluppo del gioco. La tua partecipazione è fondamentale in questo viaggio surreale.
 - NARRATIVA INTRIGANTE IN OGNI CLIC: Ogni clic è un pezzo del rompicapo narrativo, immergendoti in una trama intrigante in cui la filosofia si mescola con lassurdo. Sei pronto a svelare il mistero?
-- MR. COO HA BISOGNO DEL TUO AIUTO: Aiuta Mr. Coo a trovare i suoi pezzi in un mondo caotico pieno di mostri e robot pazzi. Che filosofia si cela dietro a queste sciocchezze? Unisciti alla ricerca e scopri da solo.
+- IMMERGITI NEL SURREALE: Scopri un universo surreale e senza senso con The Many Pieces of Mr. Coo, dove ogni clic ti catapulta in unavventura grafica unica piena di mistero e originalità. Include Portachiavi.
 - COLLEZIONE COOLLECTOR ESCLUSIVA: Acquista ledizione Coollector, un pezzo unico da collezione che va oltre il semplice gioco, offrendoti unesperienza artistica ed esclusiva che non troverai da nessunaltra parte.
+- FAI PARTE DELLA COMUNITÀ SURREALE: Unisciti ad altri esploratori in eventi online, condividendo storie e scoprendo i segreti dietro lo sviluppo del gioco. La tua partecipazione è fondamentale in questo viaggio surreale.
+- MR. COO HA BISOGNO DEL TUO AIUTO: Aiuta Mr. Coo a trovare i suoi pezzi in un mondo caotico pieno di mostri e robot pazzi. Che filosofia si cela dietro a queste sciocchezze? Unisciti alla ricerca e scopri da solo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C28BLQCG{{</world>}}

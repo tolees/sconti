@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Break better con KitKat: le nuove tavolette dal cuore cremoso e dall’effetto marmorizzato sono pensate per una pausa più lunga, da gustare a casa, da soli davanti a una serie o in compagnia durante un momento conviviale
 - KITKAT Tablets Nocciola: una tavoletta di wafer croccante e un irresistibile gusto di nocciola , il tutto avvolto da goloso cioccolato al latte e fondente dalleffetto variegato
-- Confezione singola da 99g
 - Visita il sito Nestlé per scoprire il percorso di sostenibilità del nostro Gruppo.
+- Break better con KitKat: le nuove tavolette dal cuore cremoso e dall’effetto marmorizzato sono pensate per una pausa più lunga, da gustare a casa, da soli davanti a una serie o in compagnia durante un momento conviviale
+- Confezione singola da 99g
 - KitKat è parte di un programma innovativo, lIncome Accelerator Program, che aiuta a distribuire circa 1 milione di piante allanno in Costa dAvorio per supportare la biodiversità nelle coltivazioni di cacao
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

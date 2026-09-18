@@ -28,16 +28,16 @@ average: '349.0'
 
 ℹ️:
 
-- Scopri le cuffie wireless con Noise Cancelling Sony WH-1000XM6: il modello flagship con la migliore cancellazione del rumore e il miglior suono ambientale Sony mai realizzato per cuffie over-ear.
-- Suono distintivo: sviluppato con ingegneri di mastering vincitori di Grammy Award, con driver da 30 mm, Hi-Res Audio, DSEE Extreme e EQ personalizzabile a 10 bande.
-- Qualità di chiamata eccezionale: ora con sei microfoni beamforming con AI, le chiamate sono cristalline anche negli ambienti più affollati. L’AI Noise Reduction filtra i rumori indesiderati.
-- Connetti due dispositivi contemporaneamente: la connessione multipoint ti consente di passare senza interruzioni tra i tuoi dispositivi Bluetooth, inclusi iPhone, Android, PC e Mac.
-- Funzioni aggiuntive: Adaptive Sound Control, Quick Attention Mode, Background Music Mode, Audio spaziale personalizzato, riduzione del rumore del vento, 360 Reality Audio con Head Tracking e Speak to Chat.
-- Design pieghevole e custodia resistente: le Sony WH-1000XM6 si ripiegano in modo compatto per essere trasportate facilmente. La custodia con chiusura magnetica protegge e consente un accesso rapido..
 - Comfort assoluto: leggere per l’uso quotidiano, con un nuovo archetto ancora più comodo e stabile rispetto al modello precedente e padiglioni morbidi e imbottiti per una sensazione premium.
+- Qualità di chiamata eccezionale: ora con sei microfoni beamforming con AI, le chiamate sono cristalline anche negli ambienti più affollati. L’AI Noise Reduction filtra i rumori indesiderati.
+- Funzioni aggiuntive: Adaptive Sound Control, Quick Attention Mode, Background Music Mode, Audio spaziale personalizzato, riduzione del rumore del vento, 360 Reality Audio con Head Tracking e Speak to Chat.
+- Autonomia estesa – fino a 30 ore*: una ricarica rapida di 3 minuti offre 3 ore di ascolto e puoi usare le WH-1000XM6 anche durante la ricarica.
+- Connetti due dispositivi contemporaneamente: la connessione multipoint ti consente di passare senza interruzioni tra i tuoi dispositivi Bluetooth, inclusi iPhone, Android, PC e Mac.
 - Non solo per la musica: 360 Upmix for Cinema trasforma i contenuti stereo in un surround immersivo, con suoni provenienti dai lati, da dietro e dall’alto. Game EQ migliora chiarezza e dettagli nel gaming.
 - IL MIGLIOR NOISE CANCELLING:Grazie al nuovo HD Noise Cancelling Processor QN3 e a 12 microfoni, la tecnologia Multi Noise Sensor con Auto NC Optimizer garantisce prestazioni ottimali ovunque tu vada.
-- Autonomia estesa – fino a 30 ore*: una ricarica rapida di 3 minuti offre 3 ore di ascolto e puoi usare le WH-1000XM6 anche durante la ricarica.
+- Scopri le cuffie wireless con Noise Cancelling Sony WH-1000XM6: il modello flagship con la migliore cancellazione del rumore e il miglior suono ambientale Sony mai realizzato per cuffie over-ear.
+- Design pieghevole e custodia resistente: le Sony WH-1000XM6 si ripiegano in modo compatto per essere trasportate facilmente. La custodia con chiusura magnetica protegge e consente un accesso rapido..
+- Suono distintivo: sviluppato con ingegneri di mastering vincitori di Grammy Award, con driver da 30 mm, Hi-Res Audio, DSEE Extreme e EQ personalizzabile a 10 bande.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0H841TSTF{{</world>}}

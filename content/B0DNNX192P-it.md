@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Stile cinque tasche
 - Con passanti per cintura
+- Stile cinque tasche
 - Dettagli distintivi del marchio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

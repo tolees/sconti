@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Ottimo per diversi i tipi di carta in commercio
-- Colore: nero
-- Modello: 148742
 - Marca: Faber Castell
+- Ottimo per diversi i tipi di carta in commercio
+- Modello: 148742
+- Colore: nero
 - Tratto: 1.2 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

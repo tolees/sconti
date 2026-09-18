@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Polsini rotondi con un bottone
-- Colletto abbottonato
-- Pieghe sul retro
-- Popeline di cotone pesca
 - Tecnologia Flex
+- Pieghe sul retro
+- Colletto abbottonato
+- Popeline di cotone pesca
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F4KFY8GY{{</world>}}

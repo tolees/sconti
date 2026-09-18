@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - PROTEZIONE Protegge la pelle dai raggi UVB e UVA, promuove la sua naturale elasticità e la rende morbida e liscia
-- SUN SYSTEM Protezione ad ampio spettro dai raggi UVB UVA. Resistente allacqua
 - PRATICO Lerogazione multidirezionale a 360° permette una completa protezione anche per le parti difficili da raggiungere, come la schiena
+- SUN SYSTEM Protezione ad ampio spettro dai raggi UVB UVA. Resistente allacqua
 - TRANSPARENT SPRAY Innovativa formula trasparente, che permette di applicare il prodotto anche sulla pelle bagnata, garantendo la protezione solare indicata
 - MODO DUSO Applicare il prodotto in modo uniforme sulla pelle del corpo almeno 30 minuti prima di esporsi al sole
 

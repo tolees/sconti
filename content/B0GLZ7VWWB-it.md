@@ -28,8 +28,8 @@ average: '64.74'
 
 ℹ️:
 
-- Per spezzare una maledizione, Elliot e Faie attraverseranno la Porta del Tempo per visitare diversi periodi storici. In ogni era, una terribile minaccia incombe sul loro viaggio.
 - The Adventures of Elliot: The Millennium Tales offre una narrazione intensa, un’esplorazione profonda, un articolato sistema di personalizzazione e combattimenti action in tempo reale.
+- Per spezzare una maledizione, Elliot e Faie attraverseranno la Porta del Tempo per visitare diversi periodi storici. In ogni era, una terribile minaccia incombe sul loro viaggio.
 - Personalizza le armi di Elliot equipaggiando diverse combinazioni di magicite ottenute durante l’avventura. Sperimenta numerose varianti e affronta ogni ostacolo seguendo il tuo stile.
 - Equipaggia fino a due armi contemporaneamente per affrontare le tribù di bestie che infestano il continente. La magia fatata di Faie si rivelerà fondamentale sia nei combattimenti sia nella risoluzione degli enigmi che ostacolano il tuo cammino.
 

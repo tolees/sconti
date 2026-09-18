@@ -28,12 +28,12 @@ average: '22.9'
 
 ℹ️:
 
-- AMPLIA IL DIVERTIMENTO IN PISTA: scopri altre sport car costruibili della gamma (disponibili separatamente), ognuna ricca di dettagli e da collezionare
-- MACCHINA LEGO RICCA DI DETTAGLI: le caratteristiche dellauto da corsa in mattoncini sono ispirate alla versione reale, come il cofano squadrato, la piccola presa d’aria anteriore e l’alettone posteriore
+- DECORAZIONE DA CAMERA DA LETTO: un modello da esposizone, ottimo per la cameretta dei piccoli, che comprende anche una minifigure del pilota in tuta BMW, con parrucca e chiave inglese
 - DESIGN IN EDIZIONE SPECIALE: i designer di LEGO Group e di BMW hanno co-creato la livrea di questo veicolo giocattolo, una replica con colori e grafica ispirati alla leggendaria divisione motorsport di BMW
 - MACCHINA GIOCATTOLO DA COSTRUIRE: celebra il 40° anniversario di un’icona dell’automobilismo con il modello di auto LEGO Speed Champions BMW M3 (E30), un avvincente gioco per bambini e bambine da 9 anni in su
+- MACCHINA LEGO RICCA DI DETTAGLI: le caratteristiche dellauto da corsa in mattoncini sono ispirate alla versione reale, come il cofano squadrato, la piccola presa d’aria anteriore e l’alettone posteriore
 - REGALO DI COMPLEANNO PER BAMBINI E BAMBINE: una gradita idea regalo per i fan di tutte le età degli sport e dellautomobilismo, pensata per amanti dei set LEGO BMW da collezione
-- DECORAZIONE DA CAMERA DA LETTO: un modello da esposizone, ottimo per la cameretta dei piccoli, che comprende anche una minifigure del pilota in tuta BMW, con parrucca e chiave inglese
+- AMPLIA IL DIVERTIMENTO IN PISTA: scopri altre sport car costruibili della gamma (disponibili separatamente), ognuna ricca di dettagli e da collezionare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GGSVM789{{</world>}}

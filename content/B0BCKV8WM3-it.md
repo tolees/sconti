@@ -28,10 +28,10 @@ average: '5.16857142857143'
 
 ℹ️:
 
-- Presa 10A 2P+T
-- Con l’adattatore Emilia Flat è possibile alimentare casa o ufficio senza l’ingombro di vistosi attacchi elettrici. Può agevolmente essere posizionato dietro ad un mobile, un divano o un grande elettrodomestico, senza creare fastidiosi ed antiestetici ingombri.
-- Adattatore ultrapiatto EMILIA FLAT
 - Spina 10A 2P+T
+- Adattatore ultrapiatto EMILIA FLAT
+- Con l’adattatore Emilia Flat è possibile alimentare casa o ufficio senza l’ingombro di vistosi attacchi elettrici. Può agevolmente essere posizionato dietro ad un mobile, un divano o un grande elettrodomestico, senza creare fastidiosi ed antiestetici ingombri.
+- Presa 10A 2P+T
 - Bianco
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lavazza Espresso Barista Gran Crema Caffè in Grani Tostati a Tamburo Ideali per Macchine da Caffè Espresso Note Aromatiche di Fiori Arabica e Robusta Intensità 7/10 Tostatura Leggera 1 kg'
-date: 2026-09-14 07:31:44
+date: 2026-09-17 06:40:28
 image: 'https://m.media-amazon.com/images/I/41GadNWEraL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B01CAADVJO/?tag=tolees00-21'
 descuento: '26.68'
-average: '19.72'
+average: '20.4766666666667'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

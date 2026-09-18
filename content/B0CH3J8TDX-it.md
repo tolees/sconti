@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- BARILLA - Unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
 - PESTI RUSTICI - I Pesti Rustici Barilla sono un condimento originale e dalla consistenza rustica, che esalta il gusto dei tuoi piatti
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
 - CARATTERISTICHE - Senza conservanti aggiunti. Senza glutine. Ideale per pasta e bruschetta
 - PESTO RUSTICO - Zucchine, peperoni e pomodori. Solo ingredienti di qualità. Un condimento rustico ideale per dare un sapore ancora più intenso e gustoso alle tue ricette
 - IDEALE CON - Ideale per pasta e bruschetta: il Pesto Rustico Mediterraneo è un piacere per gli occhi e per il palato
+- BARILLA - Unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CH3J8TDX{{</world>}}

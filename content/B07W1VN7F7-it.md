@@ -28,8 +28,8 @@ average: '48.67'
 
 ℹ️:
 
-- Chiusura: A strappo
 - Materiale esterno:Sintetico
+- Chiusura: A strappo
 - Fodera: Sintetico
 - Materiale suola: Sintetico
 

@@ -28,11 +28,11 @@ average: '5.79'
 
 ℹ️:
 
-- Certificato UL - Busta in plastica con codice EAN - Colore: Grigio - Lunghezza: 3 m
-- Assegnazione 1:1 - 2x connettore RJ45
-- Cavo patch CAT 6a S/FTP, 10Gbit/s
 - Conduttori 4x2 - Conduttori 100% Rame AWG26/7
 - Categoria: CAT 6a - Schermatura: S/FTP PIMF, Schermatura a doppio lamina
+- Cavo patch CAT 6a S/FTP, 10Gbit/s
+- Assegnazione 1:1 - 2x connettore RJ45
+- Certificato UL - Busta in plastica con codice EAN - Colore: Grigio - Lunghezza: 3 m
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07L5LD5XM{{</world>}}

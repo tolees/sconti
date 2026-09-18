@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Jersey di puro cotone
-- Con girocollo
 - Bandierina Tommy ricamata sul petto
+- Con girocollo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F4QSNWFG{{</world>}}

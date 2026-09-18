@@ -28,9 +28,9 @@ average: '19.0'
 
 ℹ️:
 
-- Contenuto confezione: cuffie Bluetooth, base di ricarica, cavo di ricarica USB-C, istruzioni.
 - Ideale per le videochiamate da smartphone, tablet o computer grazie al microfono regolabile
 - Wireless: tecnologia di comunicazione senza fili. Compatibile con iPhone, Samsung, Huawei, Xiaomi e tutti i dispositivi dotati di Bluetooth.
+- Contenuto confezione: cuffie Bluetooth, base di ricarica, cavo di ricarica USB-C, istruzioni.
 - Cuffie stereo BluetIooth per lo smart working e la didattica a distanza
 - Long lasting battery: 35 ore di talk time
 

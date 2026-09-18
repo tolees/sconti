@@ -28,8 +28,8 @@ average: '22.98'
 
 ℹ️:
 
-- Cintura elastica grigio argento intrecciata con logo sloggi
 - Inserto a tassello monostrato per un ottimo comfort
+- Cintura elastica grigio argento intrecciata con logo sloggi
 - Morbido misto cotone ed elastan
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

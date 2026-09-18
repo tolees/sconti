@@ -28,14 +28,14 @@ average: '109.75'
 
 ℹ️:
 
-- Aspirazione ultra-potente da 5300 Pa - Garantisce che il robot raccolga in modo efficiente polvere, peli di animali, briciole e detriti vari da tutte le superfici del pavimento, lasciando la tua casa impeccabile.
+- Sistema di navigazione doppio LiDAR+IMU - Mappa accuratamente la tua casa in pochi minuti, evita omissioni e pulizie ripetute e funziona bene anche al buio.
+- Tapo IQ+ Smart Cleaning - Funge da cervello del robot, alimentato da più sensori e algoritmi avanzati.
 - Nessun punto dimenticato - Utilizza Mesh Grid per una pulizia più completa e accurata.
 - Evitamento tappeti - Evita di bagnare le aree dei tappeti in modalità lavaggio.
-- Pulizia personalizzabile - Unisci e separa le aree, imposta un programma di pulizia e personalizza le modalità di pulizia per ogni stanza.
-- 4 Mappe multi-piano - Rileva con precisione i diversi piani e crea 3+1 mappe multi-piano memorizzate localmente per avere una vista completa della tua casa.
-- Tapo IQ+ Smart Cleaning - Funge da cervello del robot, alimentato da più sensori e algoritmi avanzati.
 - Controllo vocale e remoto - Associa Tapo RV30 Max ad Amazon Alexa o Google Assistant per controllarlo con semplici comandi vocali.
-- Sistema di navigazione doppio LiDAR+IMU - Mappa accuratamente la tua casa in pochi minuti, evita omissioni e pulizie ripetute e funziona bene anche al buio.
+- Aspirazione ultra-potente da 5300 Pa - Garantisce che il robot raccolga in modo efficiente polvere, peli di animali, briciole e detriti vari da tutte le superfici del pavimento, lasciando la tua casa impeccabile.
+- 4 Mappe multi-piano - Rileva con precisione i diversi piani e crea 3+1 mappe multi-piano memorizzate localmente per avere una vista completa della tua casa.
+- Pulizia personalizzabile - Unisci e separa le aree, imposta un programma di pulizia e personalizza le modalità di pulizia per ogni stanza.
 - Ricarica automatica - Ritorna automaticamente alla base di ricarica quando la batteria si scarica e riprende la pulizia esattamente da dove si era interrotto.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

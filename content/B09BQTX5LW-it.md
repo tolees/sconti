@@ -28,11 +28,11 @@ average: '23.75'
 
 ℹ️:
 
-- Tomaia in PU riciclato al 24%
 - Suola in EVA riciclata
+- Tomaia in PU riciclato al 24%
+- Sottopiede in pelle scamosciata
 - Made in Europe
 - Intersuola in sughero
-- Sottopiede in pelle scamosciata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09BQTX5LW{{</world>}}

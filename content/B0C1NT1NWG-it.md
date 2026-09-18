@@ -28,10 +28,10 @@ average: '60.4'
 
 ℹ️:
 
-- Senza PFC
-- baldacchino
 - 1 abside
 - Materiali riciclati
+- Senza PFC
+- baldacchino
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C1NT1NWG{{</world>}}

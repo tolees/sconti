@@ -30,8 +30,8 @@ average: '15.23'
 
 - Tensione di interruzione 11,6 v DC, tensione di riaccensione 12,8 v DC, corrente fino a 5 A, connettore a spina per presa accendisigari
 - controllore di tensione integrato nel cavo di alimentazione per applicazioni universali a 12v che utilizzano come uscita la presa dellaccendisigari
-- Disinserimento automatico dellapparecchio in caso di sottotensione e riaccensione quando viene raggiunta la tensione normale
 - Visualizzazione dello stato di funzionamento tramite Led.
+- Disinserimento automatico dellapparecchio in caso di sottotensione e riaccensione quando viene raggiunta la tensione normale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00I5DAHNO{{</world>}}

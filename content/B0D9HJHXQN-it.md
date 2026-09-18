@@ -28,9 +28,9 @@ average: '104.95'
 
 ℹ️:
 
-- Polsini elastici legati
 - Tasca sul petto
 - Il nostro nuovo softshell WindWall combina una bassa permeabilità allaria con un tessuto interno in pile super caldo
+- Polsini elastici legati
 - Cappuccio regolabile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

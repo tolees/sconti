@@ -28,11 +28,11 @@ average: '109.5'
 
 ℹ️:
 
-- Disegno del cerchione inciso sul retro della cassa
-- Materiali: Acciaio, PVD Oro
-- Diametro cassa: 52x44mm - Lunghezza totale cinturino: 210mm
-- Funzioni: cronografo
 - I dettagli iconici di Maserati riflettono il DNA del marchio e lo stile italiano unico, riconoscibile in tutto il mondo per un prodotto sportivo-elegante.
+- Disegno del cerchione inciso sul retro della cassa
+- Funzioni: cronografo
+- Diametro cassa: 52x44mm - Lunghezza totale cinturino: 210mm
+- Materiali: Acciaio, PVD Oro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07WSNV1VP{{</world>}}

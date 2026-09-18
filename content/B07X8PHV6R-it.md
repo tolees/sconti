@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Cotone, poliestere ed elastan
 - Cappuccio con coulisse
+- Cotone, poliestere ed elastan
+- Tasca frontale a marsupio
 - Maniche lunghe
 - Logo PUMA Cat sul petto a destra
-- Tasca frontale a marsupio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07X8PHV6R{{</world>}}

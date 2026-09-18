@@ -29,9 +29,9 @@ average: '31.9'
 ℹ️:
 
 - I sistemi brevettati Geox assicurano traspirabilità della suola e benessere del piede
+- Sottopiede estraibile
 - Facile da indossare per un comfort unico
 - Calzata facile e regolabile con zip e lacci
-- Sottopiede estraibile
 - Sottopiede in pelle atossica chrome-free
 - Sottopiede antibatterico
 

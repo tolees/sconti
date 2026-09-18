@@ -28,12 +28,12 @@ average: '5.0'
 
 ℹ️:
 
-- Formato: 1 crema viso Aloe da 50 ml
-- Linea Aloe di Bottega Verde: gamma di prodotti con Aloe Vera, il cui succo contiene più di 200 sostanze funzionali che svolgono una potente azione idratante, lenitiva e restitutiva per una pelle fresca, distesa e uniforme
-- Formulazione: crema gel dalla texture leggera, formulata con il 30% di Aloe Vera Biologico dalle proprietà idratanti e lenitive e con il 95% di ingredienti di origine naturale
-- Modo duso: applica quotidianamente la crema sulla pelle del viso con i polpastrelli con movimenti delicati dal basso verso lalto e dal centro verso i lati
-- Crema Gel Viso Aloe: ottima come trattamento quotidiano, offre idratazione profonda alle pelli miste che tendono a ingrassarsi e aiuta a contrastare laspetto lucido
 - Alcune immagini o video presenti in questa pagina sono state create o elaborate mediante sistemi di intelligenza artificiale
+- Formulazione: crema gel dalla texture leggera, formulata con il 30% di Aloe Vera Biologico dalle proprietà idratanti e lenitive e con il 95% di ingredienti di origine naturale
+- Linea Aloe di Bottega Verde: gamma di prodotti con Aloe Vera, il cui succo contiene più di 200 sostanze funzionali che svolgono una potente azione idratante, lenitiva e restitutiva per una pelle fresca, distesa e uniforme
+- Formato: 1 crema viso Aloe da 50 ml
+- Crema Gel Viso Aloe: ottima come trattamento quotidiano, offre idratazione profonda alle pelli miste che tendono a ingrassarsi e aiuta a contrastare laspetto lucido
+- Modo duso: applica quotidianamente la crema sulla pelle del viso con i polpastrelli con movimenti delicati dal basso verso lalto e dal centro verso i lati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0881SFNNQ{{</world>}}

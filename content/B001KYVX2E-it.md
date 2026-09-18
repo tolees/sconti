@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Applicazione - Lo scovolino applicatore cattura anche le ciglia più corte
 - Effetti e benefici - Ciglia lunghe, fonte e perfettamente definite
-- Live the London Look! Rimmel London è la certezza di avere sempre uno stile cool, irriverente, imprevedibile e in continua evoluzione. Rimmel non aspira alla perfezione e non vuole intimidire. È come Londra: giovane, eclettico, metropolitano e allavanguardia. Unespressione senza regole, reale e accessibile
 - Formula ricca e cremosa, si applica facilmente senza creare grumi.
+- Live the London Look! Rimmel London è la certezza di avere sempre uno stile cool, irriverente, imprevedibile e in continua evoluzione. Rimmel non aspira alla perfezione e non vuole intimidire. È come Londra: giovane, eclettico, metropolitano e allavanguardia. Unespressione senza regole, reale e accessibile
+- Applicazione - Lo scovolino applicatore cattura anche le ciglia più corte
 - Extra Super Lash - Un mascara allungante e volumizzante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

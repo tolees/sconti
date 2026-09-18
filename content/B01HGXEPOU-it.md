@@ -28,10 +28,10 @@ average: '1.4'
 
 ℹ️:
 
-- All’interno della confezione trovi 2 Astucci di Liquirizia Purissima Saila da 36 g cadauno, per un totale di 72 g
-- Questo prodotto è senza glutine
-- Fatto in Italia da sempre con puro estratto di liquirizia 100 % italiana
 - Un gusto intenso e morbido, la tenerezza della consistenza cede il passo alle eccezionali essenze della liquirizia
+- Questo prodotto è senza glutine
+- All’interno della confezione trovi 2 Astucci di Liquirizia Purissima Saila da 36 g cadauno, per un totale di 72 g
+- Fatto in Italia da sempre con puro estratto di liquirizia 100 % italiana
 - Ogni momento è adatto per gustare la liquirizia Saila: quando vai dalla Nonna, quando sei in ufficio, quando sei nel traffico, quando porti al parco tuo figlio, fatti accompagnare da Saila
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

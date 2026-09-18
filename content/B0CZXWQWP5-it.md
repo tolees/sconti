@@ -29,8 +29,8 @@ average: '12.99'
 ℹ️:
 
 - 100% cotone
-- Girocollo
 - Calzata regolare
+- Girocollo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZXWQWP5{{</world>}}

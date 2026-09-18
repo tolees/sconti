@@ -28,11 +28,11 @@ average: '3.14'
 
 ℹ️:
 
-- PREP: Dal 1860 lo specialista della pelle, una soluzione per ogni tipo di irritazione
 - PENNA ROLL-ON DOPOPUNTURA: Ideata per attenuare le sensazioni fastidiose della pelle causate da fattori esterni, come il morso di zanzara
 - MODO DUSO: Massaggiare la zona passando la sfera inumidita dal liquido e richiudere accuratamente la confezione. Se necessario, ripetere lapplicazione dopo qualche minuto
-- FORMULA: La formula della penna roll-on dopopuntura PREP è caratterizzata da proprietà lenitive e idratanti per ridurre il fastidio derivante dalle punture di zanzara
 - SOLLIEVO IMMEDIATO: Applicato dopo una puntura di zanzara, la penna roll-on dopopuntura di PREP dona un’immediata sensazione di sollievo
+- FORMULA: La formula della penna roll-on dopopuntura PREP è caratterizzata da proprietà lenitive e idratanti per ridurre il fastidio derivante dalle punture di zanzara
+- PREP: Dal 1860 lo specialista della pelle, una soluzione per ogni tipo di irritazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09RQQXT9D{{</world>}}

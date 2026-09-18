@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Modello: Free Building
-- Dimensione prodotto: 300 x 250 x 120 mm
 - Indicato ai bambini di età superiore ai tre anni
+- Dimensione prodotto: 300 x 250 x 120 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07KYL2CSM{{</world>}}

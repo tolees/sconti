@@ -28,10 +28,10 @@ average: '9.99'
 
 ℹ️:
 
-- Dotazione: 1 cutter, 1 lama SK5 da 18 mm
 - Taglio netto con lame in acciaio SK5 da 18 mm con 7 segmenti spezzabili
 - Funzionamento sicuro grazie al bloccaggio automatico della lama
 - La ricarica automatica della lama consente una sostituzione sicura
+- Dotazione: 1 cutter, 1 lama SK5 da 18 mm
 - Comfort e controllo ai massimi livelli, grazie al design ergonomico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

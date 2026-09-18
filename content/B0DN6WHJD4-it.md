@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Capsule compatibili Nespresso* (* Non registrate ad Amazon EU S.a.r.l.). Non compatibile con macchine Nespresso Vertuo. Assicurati sempre di seguire le istruzioni del produttore della macchina
 - Arrosto e confezionato in Belgio
 - Certificato Rainforest Alliance: il caffè che forniamo per questo prodotto è certificato Rainforest Alliance, il che significa che non solo ha un buon sapore, ma anche buono. Con ogni acquisto, aiuti centinaia di agricoltori e le loro famiglie in tutto il mondo, inoltre, fai la tua parte anche per la foresta pluviale: bevi meglio, fai meglio
-- 100% Arabica. Intensità: 7, Medio-Forte
 - Il caffè ha un carattere deciso, con retrogusto aspro e nocciola
+- 100% Arabica. Intensità: 7, Medio-Forte
+- Capsule compatibili Nespresso* (* Non registrate ad Amazon EU S.a.r.l.). Non compatibile con macchine Nespresso Vertuo. Assicurati sempre di seguire le istruzioni del produttore della macchina
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DN6WHJD4{{</world>}}

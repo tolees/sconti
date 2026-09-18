@@ -30,9 +30,9 @@ average: '9.25'
 
 - COMIX: Dallomonimo giornale di umorismo e fumetti, nel 1994 in casa Franco Cosimo Panini Editore nasce la prima agenda Comix. Oggi Comix include unampia gamma di prodotti per la scuola, luniversità, il lavoro e il tempo libero
 - TASCABILE: Grazie alle dimensioni ridotte (11x15.3h cm) è comoda da portare sempre con te, per prendere appunti e pianificare le tue giornate scolastiche
-- AGENDA COMIX 16 MESI MINI: Questa agenda Comix 16 mesi, dal 1° settembre 2025 al 31 dicembre 2026, è ideale per la Scuola Media e Superiore
-- ACCESSORI COMIX: Scopri tutti gli accessori Comix per scuola, università e lavoro, dagli zaini e gli astucci in morbido poliestere, alle agende di diversi formati
 - MATERIALE DI QUALITÀ: Realizzato con materiali resistenti e durevoli, per durare tutto lanno scolastico
+- ACCESSORI COMIX: Scopri tutti gli accessori Comix per scuola, università e lavoro, dagli zaini e gli astucci in morbido poliestere, alle agende di diversi formati
+- AGENDA COMIX 16 MESI MINI: Questa agenda Comix 16 mesi, dal 1° settembre 2025 al 31 dicembre 2026, è ideale per la Scuola Media e Superiore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F9PL9CYQ{{</world>}}

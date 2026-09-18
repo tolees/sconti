@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Manica corta
 - Girocollo a coste
 - Orlo a doppio ago
-- Manica corta
 - Tasca sul petto a sinistra
 - Vestibilità ampia
 

@@ -28,11 +28,11 @@ average: '17.49'
 
 ℹ️:
 
-- Mellin Comfort 2 è pensato per il suo pancino
-- Mellin Comfort 2 è un latte di proseguimento in polvere, di cui il 44% è stato fermentato con un processo esclusivo che utilizza fermenti lattici selezionati e ispessito con amido (mais e patata)
-- CONSIGLI PER LUSO: Conservare in luogo asciutto, pulito e lontano da fonti di calore. Si raccomanda di preparare il latte solo al momento del pasto e di non riscaldare o bollire una volta preparato
-- AVVERTENZE IMPORTANTI: Il latte materno è lalimento ideale per il lattante ed è raccomandato come alimento esclusivo fino al 6° mese e come componente lattea di una dieta equilibrata
 - AVVERTENZE IMPORTANTI: Mellin Comfort 2 è idoneo per la particolare alimentazione dei lattanti fin dalla nascita qualora non siano allattati al seno
+- Mellin Comfort 2 è un latte di proseguimento in polvere, di cui il 44% è stato fermentato con un processo esclusivo che utilizza fermenti lattici selezionati e ispessito con amido (mais e patata)
+- AVVERTENZE IMPORTANTI: Il latte materno è lalimento ideale per il lattante ed è raccomandato come alimento esclusivo fino al 6° mese e come componente lattea di una dieta equilibrata
+- CONSIGLI PER LUSO: Conservare in luogo asciutto, pulito e lontano da fonti di calore. Si raccomanda di preparare il latte solo al momento del pasto e di non riscaldare o bollire una volta preparato
+- Mellin Comfort 2 è pensato per il suo pancino
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BBMDWN7K{{</world>}}

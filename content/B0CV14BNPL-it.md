@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 100% amminoacidi essenziali ottenuti da fermentazione vegetale
 - Il sostegno ottimale per la tua performance
+- 100% amminoacidi essenziali ottenuti da fermentazione vegetale
 - Supporto alla sintesi proteica e allo sviluppo della massa muscolare
 - Rapporto l-leucina, l-isoleucina, l-valina di 2:1:1
 - Contrasto al catabolismo muscolare

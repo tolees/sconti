@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Icons Giardino Autunnale del Cottage - Costruzione per Adulti - Kit di Modellismo da Esposizione con Casa 4 Alberi Animali e Fiori - Decorazione Camera da Letto Fai da Te - Idea Regalo - 11372'
-date: 2026-09-16 06:15:07
+date: 2026-09-17 16:48:49
 image: 'https://m.media-amazon.com/images/I/51BAtUh03HL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0FPXG6FS8/?tag=tolees00-21'
 descuento: '22.73'
-average: '82.5233333333334'
+average: '82.7700000000001'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

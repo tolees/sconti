@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colgate - Dentifricio Triple Action 12x75ml Consegna in 48 Ore Dentifricio Protezione contro la Carie Denti Bianchi Alito Fresco Protezione Smalto Formula Sbiancante e Rinfrescante'
-date: 2026-09-11 07:32:28
+date: 2026-09-18 07:05:51
 image: 'https://m.media-amazon.com/images/I/51xwAmDEI2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0C5J61HYJ/?tag=tolees00-21'
 descuento: '53.74'
-average: '12.832894736842'
+average: '12.7852499999999'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

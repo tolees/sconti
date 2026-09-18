@@ -28,13 +28,13 @@ average: '79.9'
 
 ℹ️:
 
-- ALTOPARLANTI A DOPPIO ORIENTAMENTO – Gli eleganti altoparlanti satellite dalla forma ovale sono disponibili in un raffinato grigio grafite. Posizionali in verticale o in orizzontale.
-- Hardware supportato (al rilascio) - Supporta dispositivi USB (Tipo A, Tipo C)
-- Protocollo USB: slot micro USB, connessione ad altri dispositivi USB, non carica dispositivi USB
-- UNA MANOPOLA PER IL CONTROLLO WIRELESS TOTALE – Con un raggio dazione di 30 metri in linea di vista, la manopola di controllo wireless consente di regolare laudio a distanza. Toccala e girala per riprodurre, mettere in pausa e disattivare laudio e controllare il volume e i bassi. È semplice e non devi neanche alzarti dal divano.
-- DIVERSE MODALITÀ DI CONNESSIONE E PASSAGGIO FRA DISPOSITIVI – Hai diverse opzioni. Collega fino a tre dispositivi tramite Bluetooth, micro-USB e ingresso da 3,5 mm. Il pulsante di selezione della sorgente nella parte inferiore della manopola consente di scegliere fra le connessioni cablate (3,5 mm e micro-USB). Passa rapidamente al Bluetooth premendo il relativo pulsante.
-- Requisiti di sistema - Funziona con computer basati su Windows, Mac o Chrome tramite AUX, USB-A, Bluetooth e dispositivi abilitati Bluetooth iOS o Android.
 - SUONO AVVOLGENTE – Il sistema di altoparlanti 2.1 accuratamente sintonizzato presenta una potenza di picco di 80 Watt e un RMS di 40 Watt. Lelaborazione dei segnali digitali offre un profilo audio bilanciato e bassi potenziati, così puoi ottenere un suono avvolgente e realistico, dalle note più acute ai potenti suoni della gamma medio-bassa, senza compromettere la profondità dei bassi.
+- DIVERSE MODALITÀ DI CONNESSIONE E PASSAGGIO FRA DISPOSITIVI – Hai diverse opzioni. Collega fino a tre dispositivi tramite Bluetooth, micro-USB e ingresso da 3,5 mm. Il pulsante di selezione della sorgente nella parte inferiore della manopola consente di scegliere fra le connessioni cablate (3,5 mm e micro-USB). Passa rapidamente al Bluetooth premendo il relativo pulsante.
+- Protocollo USB: slot micro USB, connessione ad altri dispositivi USB, non carica dispositivi USB
+- Requisiti di sistema - Funziona con computer basati su Windows, Mac o Chrome tramite AUX, USB-A, Bluetooth e dispositivi abilitati Bluetooth iOS o Android.
+- Hardware supportato (al rilascio) - Supporta dispositivi USB (Tipo A, Tipo C)
+- UNA MANOPOLA PER IL CONTROLLO WIRELESS TOTALE – Con un raggio dazione di 30 metri in linea di vista, la manopola di controllo wireless consente di regolare laudio a distanza. Toccala e girala per riprodurre, mettere in pausa e disattivare laudio e controllare il volume e i bassi. È semplice e non devi neanche alzarti dal divano.
+- ALTOPARLANTI A DOPPIO ORIENTAMENTO – Gli eleganti altoparlanti satellite dalla forma ovale sono disponibili in un raffinato grigio grafite. Posizionali in verticale o in orizzontale.
 - BASSI POTENTI E MASSIMA NITIDEZZA – I bassi da 20 Watt con elaborazione dei segnali digitali sono profondi e nitidi per prestazioni audio superiori. Il subwoofer con cavità down-firing dà una marcia in più a musica, film e giochi mantenendo un suono ricco e nitido.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

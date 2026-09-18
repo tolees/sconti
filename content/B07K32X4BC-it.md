@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Attacco a slitta
 - Batterie al lito da 14,4 V a 18 V (con attacco a slitta)
+- Attacco a slitta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07K32X4BC{{</world>}}

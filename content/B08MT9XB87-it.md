@@ -28,10 +28,10 @@ average: '25.73'
 
 ℹ️:
 
-- Soletta comfort ammortizzata
-- Leggera
 - Gomma flessibile
+- Soletta comfort ammortizzata
 - Tomaia sintetica
+- Leggera
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08MT9XB87{{</world>}}

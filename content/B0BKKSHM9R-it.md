@@ -28,9 +28,9 @@ average: '6.114'
 
 ℹ️:
 
+- Adattatore ultrapiatto EMILIA FLAT
 - Con l’adattatore Emilia Flat è possibile alimentare casa o ufficio senza l’ingombro di vistosi attacchi elettrici. Può agevolmente essere posizionato dietro ad un mobile, un divano o un grande elettrodomestico, senza creare fastidiosi ed antiestetici ingombri.
 - Bianco
-- Adattatore ultrapiatto EMILIA FLAT
 - Spina 16A 2P+T
 - Presa 10/16A 2P+T
 

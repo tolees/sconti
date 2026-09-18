@@ -28,13 +28,13 @@ average: '15.99'
 
 ℹ️:
 
-- Dimensioni: 26 cm x 65 cm x 33 cm
-- Scomparto separato per le scarpe
-- Tracolla regolabile con imbottitura mobile
 - Volume: 65,5 L
+- Tracolla regolabile con imbottitura mobile
 - Tasche laterali e alle estremità con chiusura a zip
-- Doppi manici con impugnatura imbottita
+- Dimensioni: 26 cm x 65 cm x 33 cm
 - Esterno: 100% poliestere (riciclato); interno: 100% elastomero termoplastico
+- Scomparto separato per le scarpe
+- Doppi manici con impugnatura imbottita
 - Tasche interne con zip e aperte
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

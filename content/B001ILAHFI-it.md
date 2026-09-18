@@ -28,10 +28,10 @@ average: '2.78'
 
 ℹ️:
 
-- Lunghezza: 38 mm
-- Profilo di uscita: profilo a T (per Torx) T27
-- Realizzato in acciaio al cromo vanadio
 - Con zigrinatura
+- Lunghezza: 38 mm
+- Realizzato in acciaio al cromo vanadio
+- Profilo di uscita: profilo a T (per Torx) T27
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B001ILAHFI{{</world>}}

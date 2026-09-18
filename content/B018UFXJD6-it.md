@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Disponibili in un barattolo da 200 pezzi
 - Caramelle gommose al gusto di cola
-- Conservare in luogo fresco ed asciutto
 - Può contenere tracce di frumento, latte
+- Disponibili in un barattolo da 200 pezzi
+- Conservare in luogo fresco ed asciutto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B018UFXJD6{{</world>}}

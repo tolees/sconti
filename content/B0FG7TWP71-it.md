@@ -29,11 +29,11 @@ average: '88.5'
 ℹ️:
 
 - ACCESSORI INCLUSI: Mandrino SDS-PLUS, 3 punte muro Ø 8-10-12 mm, 2 scalpelli, asta di profondità, impugnatura laterale
-- FUNZIONI DI UTILIZZO: Trapano, martello e scalpello con sistema Vario-Lock a 36 posizioni per la migliore angolazione di lavoro
-- DESIGN COMPATTO: Ergonomico e leggero, ideale per lavorare in spazi ristretti con impugnatura laterale orientabile a 360°
-- CAVO ANTIGROVIGLIO: Lunghezza 4 m per la massima libertà di movimento durante l’uso in cantiere o in casa
 - FORATURA PRECISA: Diametro max: 30 mm su legno, 13 mm su metallo, 26 mm su calcestruzzo, con frizione di sicurezza e funzione reversibile
 - MOTORE POTENTE: 800 W con colpo da 3,2 J, fino a 5700 colpi/min e 1350 giri/min per forature efficienti e veloci
+- FUNZIONI DI UTILIZZO: Trapano, martello e scalpello con sistema Vario-Lock a 36 posizioni per la migliore angolazione di lavoro
+- CAVO ANTIGROVIGLIO: Lunghezza 4 m per la massima libertà di movimento durante l’uso in cantiere o in casa
+- DESIGN COMPATTO: Ergonomico e leggero, ideale per lavorare in spazi ristretti con impugnatura laterale orientabile a 360°
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FG7TWP71{{</world>}}

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tipo di tacco: Tacco Piatto
-- Fodera: Maglia
 - Materiale suola: Gomma
 - Chiusura: A strappo
+- Tipo di tacco: Tacco Piatto
+- Fodera: Maglia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07DJ6XXLS{{</world>}}

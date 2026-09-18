@@ -28,10 +28,10 @@ average: '37.4166666666667'
 
 ℹ️:
 
-- Questo Natale, immergiti nella vitalità rinvigorente dell’oceano e nella pura virilità del profumo Cool Water Eau de Toilette.
-- Il cofanetto regalo Cool Water Eau de Toilette for Men è il regalo perfetto per gli amanti dell’avventura.
 - Un profumo fougère aromatico che risveglia i sensi.
+- Il cofanetto regalo Cool Water Eau de Toilette for Men è il regalo perfetto per gli amanti dell’avventura.
 - Riunendo tutti gli elementi essenziali della routine quotidiana, questo cofanetto regalo per le feste include Cool Water Eau de Toilette for Men e un gel doccia per corpo e capelli che deterge e rinfresca.
+- Questo Natale, immergiti nella vitalità rinvigorente dell’oceano e nella pura virilità del profumo Cool Water Eau de Toilette.
 - Il cofanetto regalo per le feste contiene: - Davidoff Cool Water Eau de Toilette for Men 38ml - Davidoff Cool Water Shower Gel for Men 75ml
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

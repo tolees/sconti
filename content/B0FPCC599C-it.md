@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'medicube Body Peel Shot with Hypochlorous Acid'
-date: 2026-08-28 06:47:47
-image: 'https://m.media-amazon.com/images/I/41VdK0Ajs8L._SL500_._SL400_.jpg'
+date: 2026-09-18 08:19:37
+image: 'https://m.media-amazon.com/images/I/31UX0zWFBgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B0FPCC599C-it medicube Body Peel Shot with Hypochlorous Acid'
 sku: 'B0FPCC599C-it'
 tags: [ '🇮🇹', ]
-actualPrice: 13.77 EUR
+actualPrice: 13.08 EUR
 currency: EUR
-price: 13.77
-comparePrice: 21.9 EUR
+price: 13.08
+comparePrice: 24.09 EUR
 prodname: 'medicube Body Peel Shot with Hypochlorous Acid'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0FPCC599C/?tag=tolees00-21'
-descuento: '37.12'
-average: '13.9525'
+descuento: '45.70'
+average: '13.778'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

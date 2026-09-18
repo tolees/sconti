@@ -1,19 +1,19 @@
 ---
 layout: post
-title: 'Borotalco Bagnodoccia Buongiorno Setificante con Attivi Vellutanti e Profumo di Vaniglia Cremosa Texture Leggera Dona Morbidezza e Comfort Ideale per il Mattino Flacone 500 ml'
-date: 2026-09-14 15:43:03
+title: 'Borotalco Bagnodoccia Buongiorno Setificante 500 ml'
+date: 2026-09-18 17:24:25
 image: 'https://m.media-amazon.com/images/I/412pkHwYahL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0GMQNK641-it Borotalco Bagnodoccia Buongiorno Setificante con Attivi...'
+slug: 'B0GMQNK641-it Borotalco Bagnodoccia Buongiorno Setificante 500 ml'
 sku: 'B0GMQNK641-it'
 tags: [ '🇮🇹', ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99
 comparePrice: 4.99 EUR
-prodname: 'Borotalco Bagnodoccia Buongiorno Setificante con Attivi Vellutanti e Profumo di Vaniglia Cremosa Texture Leggera Dona Morbidezza e Comfort Ideale per il Mattino Flacone 500 ml'
+prodname: 'Borotalco Bagnodoccia Buongiorno Setificante 500 ml'
 country: 'it'
 flag: '🇮🇹'
 brand: ''

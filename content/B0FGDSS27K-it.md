@@ -28,9 +28,9 @@ average: '129.99'
 
 ℹ️:
 
-- Peso: 3,15 kg
 - Materiale: ABS colorato in massa o verniciato
 - Made in Italy
+- Peso: 3,15 kg
 - Misure: Ø 32 x H 58,5 cm
 - Design Anna Castelli Ferrieri, 1969
 

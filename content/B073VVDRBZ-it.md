@@ -28,8 +28,8 @@ average: '13.6266666666667'
 
 ℹ️:
 
-- Harrison Ford
 - Blade Runner - The Final Cut (4K+Br)
+- Harrison Ford
 - Harrison Ford
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

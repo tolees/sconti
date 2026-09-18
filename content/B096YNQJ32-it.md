@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - VESTIBILITÀ ADERENTE: aderente su spalle, maniche, petto e vita
-- DETTAGLI: chiusura a tre bottoni, tessuto traspirante, colletto a costine e spacchi laterali per offrire libertà di movimento
 - POLO SPORTIVA: pensata per il golf e labbigliamento sportivo
 - PIQUÉ AD ASCIUGATURA RAPIDA: il piqué in poliestere presenta una superficie testurizzata con proprietà traspiranti per un comfort attivo
+- DETTAGLI: chiusura a tre bottoni, tessuto traspirante, colletto a costine e spacchi laterali per offrire libertà di movimento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B096YNQJ32{{</world>}}

@@ -28,11 +28,11 @@ average: '23.09'
 
 ℹ️:
 
-- DENIM MISTO COTONE: misto denim a bassa elasticità per un look classico e un comfort ottimale
+- FONDO GAMBA: 22,9cm, ALTEZZA CAVALLO (DAVANTI): 29,2cm nella taglia 34W (IT)
+- BOOTCUT VERSATILE: stile classico perfetto per occasioni casual e smart-casual
 - BOOTCUT SLIM FIT: aderenti su fianchi e cosce con gamba leggermente svasata. Si appoggiano al punto vita
 - DETTAGLI: modello a cinque tasche con patta con zip e bottone
-- BOOTCUT VERSATILE: stile classico perfetto per occasioni casual e smart-casual
-- FONDO GAMBA: 22,9cm, ALTEZZA CAVALLO (DAVANTI): 29,2cm nella taglia 34W (IT)
+- DENIM MISTO COTONE: misto denim a bassa elasticità per un look classico e un comfort ottimale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F7NB69TM{{</world>}}

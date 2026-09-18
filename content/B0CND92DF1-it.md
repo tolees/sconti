@@ -28,9 +28,9 @@ average: '35.4'
 
 ℹ️:
 
-- Taglia 52
 - argento sterling
 - Zirconia cubica
+- Taglia 52
 - trasparente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

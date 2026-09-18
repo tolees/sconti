@@ -29,8 +29,8 @@ average: '14.97'
 ℹ️:
 
 - Applicare con piccoli tocchi utilizzando l’apposito pennello o direttamente con la punta delle dita.
-- Fondotinta che dona un incarnato naturale e mantiene la pelle idratata e protetta fino a 24h.
 - Arricchito con acido ialuronico che aiuta a contrastare la perdita dacqua transepidermica e prebiotico che contribuisce a rafforzare le difese cutanee, favorendo il naturale benessere della pelle.
+- Fondotinta che dona un incarnato naturale e mantiene la pelle idratata e protetta fino a 24h.
 - Con vitamina E, dalle proprietà anti-ossidanti, ravviva lincarnato donando un aspetto sano e radioso. SPF 15
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

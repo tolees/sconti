@@ -29,9 +29,9 @@ average: '54.0'
 ℹ️:
 
 - Intersuola leggera Techlite per un comfort di lunga durata, ammortizzazione superiore e alto ritorno energetico
-- Gomma di trazione anti-marcatura Omni-Grip
 - La tomaia in rete e pelle scamosciata offre una vestibilità e un supporto eccezionLa linguetta a soffietto mantiene i detriti fuori
 - Costruzione impermeabile traspirante Omni-Tech
+- Gomma di trazione anti-marcatura Omni-Grip
 - Le sovrapposizioni in pelle sintetica forniscono protezione e un blocco naturale
 - Puntale sagomato per protezione.
 

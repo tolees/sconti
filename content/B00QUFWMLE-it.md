@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tipo: bd-r
-- Max; velocità di scrittura: 6x
 - Qtà supporti in dotazione: 25
-- Colore: bianco
 - Capacità di memoria: 50.0
+- Colore: bianco
+- Max; velocità di scrittura: 6x
+- Tipo: bd-r
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00QUFWMLE{{</world>}}

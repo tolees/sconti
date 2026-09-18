@@ -28,9 +28,9 @@ average: '9.49'
 
 ℹ️:
 
+- Sandals
 - Sandalo Basic
 - BILLABONG Uomo Taglia Avuto 39 Blu
-- Sandals
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BNQWHYM9{{</world>}}

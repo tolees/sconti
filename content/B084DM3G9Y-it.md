@@ -28,8 +28,8 @@ average: '4.99'
 
 ℹ️:
 
-- MULTIUSO: Ideale per preparazioni e per servire piatti in tavola dalla pasta allinsalata e molto altro
 - FACILE DA PULIRE: Lavabile in lavastoviglie con lavaggio ECO-Cycle o con lavaggio MAX 55°C – cestello superiore
+- MULTIUSO: Ideale per preparazioni e per servire piatti in tavola dalla pasta allinsalata e molto altro
 - MATERIALE: Il contenitore TIERRA è realizzato con plastica riciclata di bottiglie e flaconi usa e getta
 - Contenitore M della collezione Tierra - MADE IN ITALY
 - DIMENSIONI: Ø18 x H7,6cm | 1090 cc

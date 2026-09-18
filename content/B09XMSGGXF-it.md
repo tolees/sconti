@@ -28,10 +28,10 @@ average: '13.12'
 
 ℹ️:
 
-- Prodotto di qualità
-- Big Kids Short-Sleeve Soccer Jersey
-- Marca: Nike
 - Modello: Y Nk Df Tiempo Prem Ii Jsy Ss
+- Marca: Nike
+- Big Kids Short-Sleeve Soccer Jersey
+- Prodotto di qualità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09XMSGGXF{{</world>}}

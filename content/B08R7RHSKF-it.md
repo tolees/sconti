@@ -28,11 +28,11 @@ average: '8.99'
 
 ℹ️:
 
-- DIMENSIONI - 7 h cm, base 3,5 cm
 - CURA DEL PRODOTTO - Ruotare in senso orario fino a 60. Ruotare in senso inverso e puntare sul numero minuti desiderato
 - PRODOTTO - Timer da cucina decorato con farfalla e fiore
-- MATERIALI - Acrilonitrile-Butadiene-Stirene (ABS)
 - CATEGORIA - Cucina, Altro per la cucina
+- DIMENSIONI - 7 h cm, base 3,5 cm
+- MATERIALI - Acrilonitrile-Butadiene-Stirene (ABS)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08R7RHSKF{{</world>}}

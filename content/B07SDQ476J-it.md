@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Pratica stazione di ricarica per tutte le batterie worx powershare da 20 v / compatibile con worx
 - Worx safety: la stazione di ricarica della batteria è conforme ai normali standard di sicurezza
-- Contenuto della confezione: 1 stazione di ricarica worx 20 v wa3880 / caricabatterie rapido per tutte le batterie worx da 20 v
-- Ricarica rapida delle batterie worx da 20 v: 2000 mAh in 60 min; tempo di ricarica: 2500 mAh in 80 min; tempo di ricarica: 4000 mAh in 125 min; tempo di ricarica e 5000 mAh in 150 min
 - La stazione di ricarica perfetta per la batteria: leggera, maneggevole, facile da usare, con protezione da sovraccarico e indicatore di carica integrato
+- Pratica stazione di ricarica per tutte le batterie worx powershare da 20 v / compatibile con worx
+- Ricarica rapida delle batterie worx da 20 v: 2000 mAh in 60 min; tempo di ricarica: 2500 mAh in 80 min; tempo di ricarica: 4000 mAh in 125 min; tempo di ricarica e 5000 mAh in 150 min
+- Contenuto della confezione: 1 stazione di ricarica worx 20 v wa3880 / caricabatterie rapido per tutte le batterie worx da 20 v
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07SDQ476J{{</world>}}

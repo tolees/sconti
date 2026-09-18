@@ -28,10 +28,10 @@ average: '138.0'
 
 ℹ️:
 
-- PERFORMANCE E STILE: Con il suo mix di tecnologia e di stile un po’ retro, il tostapane Smeg rende ogni momento in cucina più speciale
-- AMPI SCOMPARTI: La centratura automatica delle fette di pane all’interno degli ampi scomparti permette una doratura perfettamente omogenea
 - ESPULSIONE AUTOMATICA: Terminato il tempo selezionato per la tostatura, le fette vengono espulse in modo automatico per poterle estrarre in tutta sicurezza
+- AMPI SCOMPARTI: La centratura automatica delle fette di pane all’interno degli ampi scomparti permette una doratura perfettamente omogenea
 - TOSTAPANE 2X2: Con 2 scomparti da 36 mm per tostare fino a 2 fette di pane a tuo piacimento
+- PERFORMANCE E STILE: Con il suo mix di tecnologia e di stile un po’ retro, il tostapane Smeg rende ogni momento in cucina più speciale
 - PROGRAMMI PREIMPOSTATI: Funzione riscaldamento per scaldare toast o fette di pane o per continuare la tostatura, scongelamento per scongelare il pane che si desidera tostare immediatamente, bagel per brunire solo un lato del pane senza tostare l’altro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ average: '47.45'
 
 ℹ️:
 
-- Tomaia in materiali effetto pelle e scamosciato dal design ispirato al running
 - Sistema traspirante brevettato Geox sulla suola per il benessere del piede
+- Tomaia in materiali effetto pelle e scamosciato dal design ispirato al running
 - Suola in EVA ammortizzata e sottopiede estraibile per unigiene ottimale
 - Chiusura con lacci e zip laterale per regolare la calzata in modo rapido
 

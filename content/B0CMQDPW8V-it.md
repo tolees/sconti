@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- High Neck
 - Long Sleeves
-- materialFabricComposition: 100% Polyester
 - Jacket
 - Care Label:
+- materialFabricComposition: 100% Polyester
+- High Neck
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CMQDPW8V{{</world>}}

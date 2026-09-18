@@ -29,8 +29,8 @@ average: '13.42'
 ℹ️:
 
 - Strucca, deterge e idrata la pelle di viso, occhi e labbra
-- Non lascia residui
 - Adatta a qualsiasi tipologia di pelle
+- Non lascia residui
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CWMJ3L9Y{{</world>}}

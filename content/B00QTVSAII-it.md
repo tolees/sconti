@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - ACCESSORI PER TAGLIAERBA - filo in nylon diametro 1,65 mm - 4,8 m per rocchetto
-- Compatibile: la bobina a doppio filo è compatibile con il tagliaerba Greenworks G40LT/G40LTK2/G40LTK2X/2101507/2101507UA/2101507UA/2101507UC
 - GREENWORKS - Offri una vasta gamma di prodotti nel settore del giardino e dellofficina
 - Contenuto della confezione - Sono inclusi 3 bobine di filo per tagliaerba - lunghezza totale 14,4 m
+- Compatibile: la bobina a doppio filo è compatibile con il tagliaerba Greenworks G40LT/G40LTK2/G40LTK2X/2101507/2101507UA/2101507UA/2101507UC
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00QTVSAII{{</world>}}

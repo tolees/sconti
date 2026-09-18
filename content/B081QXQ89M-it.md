@@ -28,11 +28,11 @@ average: '1.99'
 
 ℹ️:
 
+- Prova anche gli altri tè cupper per concederti una pausa nel rispetto lambiente: tè verde limone e aloe vera, tè verde lime e zenzero e tè nero earl grigio
 - Bustine non sbiancate chimicamente
 - Contine solo con ingredienti 100% naturali di altà qualità; senza nulla di artificale
-- Filtri 100% biodegradabili; fai una scelta green e sostenibile e scegli tè e tisane cupper
-- Prova anche gli altri tè cupper per concederti una pausa nel rispetto lambiente: tè verde limone e aloe vera, tè verde lime e zenzero e tè nero earl grigio
 - Una miscela maestosa di tè nero biologico e fairtrade che mixa la corposo varietà assam e il delicato ceylon
+- Filtri 100% biodegradabili; fai una scelta green e sostenibile e scegli tè e tisane cupper
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B081QXQ89M{{</world>}}

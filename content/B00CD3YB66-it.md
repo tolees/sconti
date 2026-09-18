@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Giacca || Vestibilità standard || Scollo tondo Colletto alto || Patch con logo, Cuciture decorative
-- Giacca di mezza stagione con le seguenti caratteristiche:
-- Vestibilità : Regular
 - Scopri tutti i top brand su EMP!
 - Basic
+- Vestibilità : Regular
+- Giacca di mezza stagione con le seguenti caratteristiche:
+- Giacca || Vestibilità standard || Scollo tondo Colletto alto || Patch con logo, Cuciture decorative
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00CD3YB66{{</world>}}

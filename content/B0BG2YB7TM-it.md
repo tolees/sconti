@@ -28,8 +28,8 @@ average: '18.81'
 
 ℹ️:
 
-- Sicuro a contatto con gli alimenti
 - Profumo naturale di marsiglia e lavanda
+- Sicuro a contatto con gli alimenti
 - Rimuove fino al 100% di sporco, grasso e sporcizia. Rimuove macchie e odori
 - Detergente tradizionale
 - Con ingredienti a base vegetale (82% del tensioattivo totale, soggetto a processi di lavorazione)

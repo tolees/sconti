@@ -28,10 +28,10 @@ average: '35.055'
 
 ℹ️:
 
-- Leggero
-- Comodo
 - Pelle responsabile
+- Comodo
 - Cuoio morbido
+- Leggero
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07FKJ39LX{{</world>}}

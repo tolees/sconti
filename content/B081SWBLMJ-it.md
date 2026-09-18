@@ -30,9 +30,9 @@ average: '5.7'
 
 - Oftalmologicamente testato
 - Formula: si stende facilmente senza creare grumi
-- Applicazione: fai oscillare lo scovolino alla radice delle ciglia con un movimento a zig zag per catturare anche le ciglia più corte
 - Effetti e benefici: infoltisce, volumizza e definisce per un effetto ciglia finte
 - False Lash Effect: Mascara nero volumizzante effetto ciglia finte; la formula brevettata Liquid Lash riveste le ciglia dalla radice alla punta
+- Applicazione: fai oscillare lo scovolino alla radice delle ciglia con un movimento a zig zag per catturare anche le ciglia più corte
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B081SWBLMJ{{</world>}}

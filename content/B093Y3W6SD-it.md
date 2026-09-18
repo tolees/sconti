@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Lampada da scrivania
 - La scritta Star Wars si illumina
 - Lunghezza 28 cm
-- Lampada da scrivania
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B093Y3W6SD{{</world>}}

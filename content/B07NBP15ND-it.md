@@ -28,9 +28,9 @@ average: '11.47'
 
 ℹ️:
 
-- Dimensioni 10 x 26 cm
-- Cuscino riutilizzabile per la terapia caldo freddo
 - Con fascia elastica regolabile
+- Cuscino riutilizzabile per la terapia caldo freddo
+- Dimensioni 10 x 26 cm
 - In tessuto confortevole
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

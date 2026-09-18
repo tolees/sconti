@@ -28,11 +28,11 @@ average: '9.99'
 
 ℹ️:
 
-- ✨UNA PARTITA: 30-45min, dai 16 anni in su, da 2 a 8 giocatori creativi (e un po’ fuori di testa). Chi sarà il più ispirato?
 - 🔥 🃏 GIOCA ALL’INFINITO: categorie folli, insolite e sempre diverse (“Motivo per lasciare qualcuno”, “Qualcosa di appiccicoso”, “Titolo perfetto per un cinepanettone”, “Argomento che rovina l’atmosfera”...) che rivisitano il classico ‘Nomi, cose, città’. Gioca più volte con lettere sempre diverse e scopri risposte sempre più divertenti!
-- 💡 REGOLE SEMPLICISSIME: un giocatore lancia un dado a 20 facce, ognuna corrispondente a una lettera. Tutti hanno 2 minuti per trovare risposte che iniziano con quella lettera in ogni categoria! Poi… via alle votazioni spietate degli altri giocatori!
 - 🤣GIOCO ESILARANTE E CREATIVO: Mamma Mucca Magia è il gioco di società che stimola la tua creatività! Trova le risposte più brillanti per categorie assurde e difendile davanti ai tuoi avversari. Risate garantite! Perfetto per animare qualsiasi serata e creare momenti indimenticabili. 🎉
 - 🎉🎁 IL REGALO PERFETTO PER RIDERE: ideale per aperitivi, serate giochi da tavolo, addii al celibato/nubilato, weekend e vacanze… Mamma Mucca Magia è il gioco perfetto per far partire subito il divertimento!
+- ✨UNA PARTITA: 30-45min, dai 16 anni in su, da 2 a 8 giocatori creativi (e un po’ fuori di testa). Chi sarà il più ispirato?
+- 💡 REGOLE SEMPLICISSIME: un giocatore lancia un dado a 20 facce, ognuna corrispondente a una lettera. Tutti hanno 2 minuti per trovare risposte che iniziano con quella lettera in ogni categoria! Poi… via alle votazioni spietate degli altri giocatori!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FS831SQH{{</world>}}

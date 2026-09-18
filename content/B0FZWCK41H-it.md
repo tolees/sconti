@@ -29,9 +29,9 @@ average: '75.19'
 ℹ️:
 
 - 100% IMPERMEABILE: colonna dacqua da 2000 mm in combinazione con cuciture nastrate e un telo di fondo cucito; Assolutamente impermeabile con protezione dagli insetti; Protezione UV 50+
-- Superficie notte: 3,8 m²; Superficie abitabile: 1,8 m²; Costruzione: prima la tenda interna; Dimensioni da chiuso: 57x19x19 cm; Peso: 4,5 kg; Colonna dacqua: 2000 mm; Corde di tensione e picchetti
 - COMPATTA E LEGGERA: Con soli 4,5 kg, la tenda da trekking è particolarmente leggera e può essere inserita in qualsiasi zaino grazie alle dimensioni ridotte; ideale per trekking e escursioni
 - MOLTE CARATTERISTICHE: Le alette di ventilazione garantiscono una circolazione ottimale dellaria per evitare la condensa; La tenda è abbastanza grande da poter riporre allasciutto attrezzature
+- Superficie notte: 3,8 m²; Superficie abitabile: 1,8 m²; Costruzione: prima la tenda interna; Dimensioni da chiuso: 57x19x19 cm; Peso: 4,5 kg; Colonna dacqua: 2000 mm; Corde di tensione e picchetti
 - MONTAGGIO RAPIDO: costruzione leggera ma stabile realizzata con aste in fibra di vetro altamente flessibili che possono anche resistere a forti venti; ideale per campeggio, escursioni o festival
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

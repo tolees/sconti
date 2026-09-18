@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'San Benedetto Succoso Zero Frutta Mix 900 ml. Bevanda a base di frutta leggera e dissetante in Acqua Minerale Naturale zero zuccheri aggiunti e pochissime calorie'
-date: 2026-09-15 08:12:45
+date: 2026-09-17 10:12:54
 image: 'https://m.media-amazon.com/images/I/31pADdYPQ2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

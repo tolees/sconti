@@ -30,9 +30,9 @@ average: '18.7'
 
 - CIOCCOLATO VEGANO FONDENTE: 11 tavolette vegane di cioccolato fondente con mandorle intere, pasta di nocciole e quinoa croccante da 100 g cad.
 - INGREDIENTI: zucchero, NOCCIOLE, burro di cacao, pasta di cacao, farina di MANDORLE a ridotto contenuto di grassi, pasta di NOCCIOLE, sale, emulsionante (lecitine di SOIA), semi di vaniglia macinati. Può contenere tracce di altra frutta a guscio, cereali contenenti glutine, latte e uova.
+- RITTER SPORT: creiamo il tuo cioccolato preferito con i nostri migliori ingredienti insieme a persone esperte nelle coltivazione del cacao e accumunate dalla stessa passione.
 - MULTIPACK: confezione da 11 pezzi. Ingredienti naturali selezionati e di alta qualità. Ricette ridotte all’essenziale. No OGM, No Aromi, No Additivi. Confezione interamente riciclabile. Produzione climaticamente neutra.
 - PERCHÉ PROVARLO: la nuova tavoletta Ritter Sport con arachidi tostate è la perfetta compagnia vegana per ogni serata davanti alle serie TV. Una volta iniziata, non ci si ferma di certo a metà perchè le arachidi tostate e salate, immerse nel cioccolato con una base di mandorle, diventano più gustose di qualsiasi puntata.
-- RITTER SPORT: creiamo il tuo cioccolato preferito con i nostri migliori ingredienti insieme a persone esperte nelle coltivazione del cacao e accumunate dalla stessa passione.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CKFJVK3C{{</world>}}

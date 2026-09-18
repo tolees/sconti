@@ -28,9 +28,9 @@ average: '42.0'
 
 ℹ️:
 
-- Testo "New Balance" angolato sulla linguetta del tallone
 - Suola con increspature di grandi dimensioni e marchio con testo
 - Linguetta in schiuma visibile
+- Testo "New Balance" angolato sulla linguetta del tallone
 - Copertura della punta in gomma asimmetrica
 - Intersuola in EVA
 

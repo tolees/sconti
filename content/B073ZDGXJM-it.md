@@ -28,10 +28,10 @@ average: '15.334'
 
 ℹ️:
 
+- Rifinitore verticale su entrambi i lati con 2 pettini di fissaggio per peli di naso, orecchie e sopracciglia
+- Lame ComfortTip per un uso sicuro e facile
 - Taglia peli igenico per peli del Naso, orecchie, sopracciglia, rifinitore barba
 - Alloggiamento antimicrobico nano argento per rifiniture igieniche
-- Lame ComfortTip per un uso sicuro e facile
-- Rifinitore verticale su entrambi i lati con 2 pettini di fissaggio per peli di naso, orecchie e sopracciglia
 - Sistema Active BladeClean con funzione wash-out per prestazioni ottimali e massima pulizia
 - Attacco per rifinitore di dettaglio con pettine di fissaggio regolabile (1-5 mm)
 

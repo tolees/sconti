@@ -30,10 +30,10 @@ average: '35.99'
 
 - Viaggia verso Hogwarts con Harry Potter, Ron e Hermione dalla stazione di Kings Cross. Arriva la sera e naviga verso il castello di Hogwarts.
 - ​Perfetto per i collezionisti, questo set è dotato di una speciale confezione espositore, realizzata con materiali di alta qualità e dettagli ricercati per soddisfare il fandom di Harry Potter.
-- Allarrivo, usa il cappello parlante per scoprire chi appartiene a quale casa! Celebra linizio di un nuovo anno scolastico insieme al Professor Silente e alla Professoressa McGranitt con una festa nel refettorio.
 - È un regalo fantastico per i fan di Polly e in particolare per gli appassionati di Harry Potter!
-- Fai un tuffo nel passato con questo cofanetto Harry Potter x Polly Pocket a forma di Hogwarts con stelle scintillanti.
+- Allarrivo, usa il cappello parlante per scoprire chi appartiene a quale casa! Celebra linizio di un nuovo anno scolastico insieme al Professor Silente e alla Professoressa McGranitt con una festa nel refettorio.
 - Gli appassionati possono divertirsi giocando con le 5 bambole dei personaggi principali, gli 11 accessori e le 4 iconiche location del primo film di Harry Potter, "Harry Potter e la Pietra Filosofale"!
+- Fai un tuffo nel passato con questo cofanetto Harry Potter x Polly Pocket a forma di Hogwarts con stelle scintillanti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CCSZWMW1{{</world>}}

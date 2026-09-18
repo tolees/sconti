@@ -28,11 +28,11 @@ average: '8.78'
 
 ℹ️:
 
+- Casa SantOrsola è un mondo di stile, tradizione e gioia di vivere: dalla ricerca dellaperitivo più avvolgente nasce 25 Aperitivo, la linea per gustare lo stile italiano nella tua pausa cocktail
 - Caratteristiche: aperitivo Sant’Orsola 25 dal un gusto intensamente speziato e ricco, con una concentrazione superiore per gustare 25 Spritz da ununica bottiglia
 - Gusto: il naso dalla complessità aromatica con note fortemente agrumate e speziate lascia spazio a un palato equilibrato e morbido
-- Colore: arancio tarocco brillante cattura l’anima vibrante e solare del Bel Paese
-- Casa SantOrsola è un mondo di stile, tradizione e gioia di vivere: dalla ricerca dellaperitivo più avvolgente nasce 25 Aperitivo, la linea per gustare lo stile italiano nella tua pausa cocktail
 - Abbinamento: da bere puro come digestivo o mixato in un gustoso Spritz (3 parti Prosecco Santorsola, 2 parti Aperitivo 25, 1 parte Seltz e 1 fetta di arancia)
+- Colore: arancio tarocco brillante cattura l’anima vibrante e solare del Bel Paese
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D31NGYXV{{</world>}}

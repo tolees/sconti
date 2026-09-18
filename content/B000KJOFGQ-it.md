@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Prese con elevata protezione da contatto e pratica disposizione a 45°
 - Con spia di controllo del funzionamento
 - Protegge apparecchi elettrici di valore dalla sovratensione fino a 13.500 A
-- Prese con elevata protezione da contatto e pratica disposizione a 45°
 - Interruttore di sicurezza on/off illuminato, bipolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

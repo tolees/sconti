@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- resiste alle intemperie
 - idrorepellente
+- resiste alle intemperie
 - Certificata A+, senza formaldeide, contenitore in metallo riciclabile
 - gelatinoso, non gocciola
 

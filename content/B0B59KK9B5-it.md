@@ -29,8 +29,8 @@ average: '14.85'
 ℹ️:
 
 - La tecnologia Nike Dri-FIT
-- Maniche corte
 - Maglia sportiva
+- Maniche corte
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B59KK9B5{{</world>}}

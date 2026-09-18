@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Bordi semi-trasparenti colorati, in combinazione con con magnete full color
 - Protegge bordi e connettori. In particolare la custodia presenta dei bordi rialzati nell’area della fotocamera e del display per una maggiore protezione.
+- Bordi semi-trasparenti colorati, in combinazione con con magnete full color
 - Doppio materiale per una maggiore protezione del device
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

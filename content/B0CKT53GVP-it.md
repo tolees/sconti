@@ -28,18 +28,18 @@ average: '19.95'
 
 ℹ️:
 
-- Care instructions: Lavare in lavatrice
 - Underwire type: Senza ferretto
-- Strap type: Incrociato
-- Special feature: Banda elastica
 - Bra design: sports
-- Bra cup coverage: full_coverage
-- Occasion type: Sportivo
-- Back style: Incrociato
-- Fabric type: 87% Poliestere, 13% Elastan
-- 87% poliestere/13% elastan
-- Bra padding level: medium
+- Strap type: Incrociato
 - Material: Sintetico
+- Fabric type: 87% Poliestere, 13% Elastan
+- Bra padding level: medium
+- Care instructions: Lavare in lavatrice
+- Bra cup coverage: full_coverage
+- 87% poliestere/13% elastan
+- Back style: Incrociato
+- Occasion type: Sportivo
+- Special feature: Banda elastica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CKT53GVP{{</world>}}

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Applicare sui capelli bagnati. Insaponare. Risciacquare. Proseguire con N°.5FINE BOND MAINTENANCE CONDITIONER.
 - Rimuove i residui per aiutare a donare volume e sollevare alle radici
+- Applicare sui capelli bagnati. Insaponare. Risciacquare. Proseguire con N°.5FINE BOND MAINTENANCE CONDITIONER.
 - Deterge delicatamente senza danneggiare
 - Rinforza e protegge
 

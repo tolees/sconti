@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- T-Shirt con le seguenti caratteristiche:
 - Basic, Streetwear
-- Scopri tutti i top brand su EMP!
 - Vestibilità : Taglia Extra
+- T-Shirt con le seguenti caratteristiche:
+- Scopri tutti i top brand su EMP!
 - T-Shirt || Vestibilità standard || Scollo tondo || Materiali resistenti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

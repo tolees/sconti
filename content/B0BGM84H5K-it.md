@@ -28,11 +28,11 @@ average: '129.94'
 
 ℹ️:
 
-- INTERFACCIA UTENTE SMART CON SENSORE INCLINAZIONE: presenta un display a colori con sensore per misurare inclinazione e angoli e un tasto personalizzabile per definire le funzioni preferite.
-- DOTAZIONE: distanziometro laser GLM 50-23 G (con sensore inclinazione), 2 batterie AA, tracolla e sacchetto
 - ESTREMAMENTE ROBUSTO: il distanziometro laser è pronto alluso, con protezione IP65, molto resistente e adatto a condizioni gravose. Resiste a cadute su cemento duro da unaltezza max. di 1,5 m.
+- INTERFACCIA UTENTE SMART CON SENSORE INCLINAZIONE: presenta un display a colori con sensore per misurare inclinazione e angoli e un tasto personalizzabile per definire le funzioni preferite.
 - VISIBILITÀ ECCELLENTE: il punto laser verde è molto più visibile rispetto a quello rosso, rendendolo ideale specialmente per le misurazioni su lunghe distanze in ambienti interni luminosi.
 - APPLICAZIONI: ideale per posare e inserire elementi nella costruzione generale. Facilita il calcolo del materiale necessario per imbianchini, pavimentatori, piastrellisti e carpentieri.
+- DOTAZIONE: distanziometro laser GLM 50-23 G (con sensore inclinazione), 2 batterie AA, tracolla e sacchetto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BGM84H5K{{</world>}}

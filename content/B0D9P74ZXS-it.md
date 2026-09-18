@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Complesso di erbe con Salvia e Menta
 - Sbiancante: Denti più bianchi in 10 giorni
 - Almeno 98% di ingredienti di origine naturale
 - Formula vegana
+- Complesso di erbe con Salvia e Menta
 - Pack sostenibile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '181.323333333333'
 
 ℹ️:
 
-- Grazie allammortizzatore compatto e allimbracatura regolabile, il set per via ferrata è adatto a persone di peso compreso tra circa 40 e 120 kg, compresi gli utenti stabili con uno zaino pesante.
-- I bracci di carico elasticizzati mantengono il set vicino al corpo, mentre le fibbie 90SafX consentono di regolare la cintura e i cosciali in modo rapido e sicuro.
-- Leggero e ventilato - Il casco Toxo 3.0, realizzato in materiale EPS riciclato, protegge grazie allassorbimento degli impatti a 360° e al sistema di regolazione manuale.
 - Massima protezione con il robusto Toxo Helmet 3.0 e il Premium Attac Set, che offre unimbracatura robusta, moschettoni sicuri e anelli elastici per un affidabile assorbimento delle cadute.
+- Leggero e ventilato - Il casco Toxo 3.0, realizzato in materiale EPS riciclato, protegge grazie allassorbimento degli impatti a 360° e al sistema di regolazione manuale.
+- I bracci di carico elasticizzati mantengono il set vicino al corpo, mentre le fibbie 90SafX consentono di regolare la cintura e i cosciali in modo rapido e sicuro.
+- Grazie allammortizzatore compatto e allimbracatura regolabile, il set per via ferrata è adatto a persone di peso compreso tra circa 40 e 120 kg, compresi gli utenti stabili con uno zaino pesante.
 - Set completo di pratici accessori - kit da via ferrata, borsa da trasporto in rete e casco - perfetto per le vie ferrate, le avventure in montagna e le avventure in sicurezza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

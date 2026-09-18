@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Speed Champions Auto da Corsa Aston Martin Aramco F1 AMR24 Macchina Giocattolo da Collezione con Minifigure del Pilota Modello per Bambini da 10 Anni o per Adulti Fan della Formula 1 77245'
-date: 2026-09-15 09:59:02
+date: 2026-09-18 14:08:52
 image: 'https://m.media-amazon.com/images/I/51yL++qw8XL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0DHSDWPP2/?tag=tolees00-21'
 descuento: '40.01'
-average: '19.2444444444444'
+average: '19.1353571428571'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

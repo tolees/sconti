@@ -28,11 +28,11 @@ average: '33.9166666666667'
 
 ℹ️:
 
-- Macchina da caffè a goccia programmabile 24 ore su 24 che prepara automaticamente il caffè allora desiderata con tecnologia ExtremeAroma, finiture in acciaio inossidabile e display LCD retroilluminato.
-- Capacità di 1,2 litri per preparare fino a 10 tazze di caffè. Funzione di mantenimento in caldo.
 - Include un filtro extra e un cucchiaio dosatore per aiutarti a preparare e misurare la quantità di caffè.
+- Macchina da caffè a goccia programmabile 24 ore su 24 che prepara automaticamente il caffè allora desiderata con tecnologia ExtremeAroma, finiture in acciaio inossidabile e display LCD retroilluminato.
 - Potenza di 800 W. Ugello antigoccia. Filtro permanente e possibilità di utilizzare anche filtri di carta.
 - Funzione di spegnimento automatico. Serbatoio con finestra.
+- Capacità di 1,2 litri per preparare fino a 10 tazze di caffè. Funzione di mantenimento in caldo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GVTJM3TW{{</world>}}

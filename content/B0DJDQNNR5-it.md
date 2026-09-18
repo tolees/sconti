@@ -28,9 +28,9 @@ average: '6.11'
 
 ℹ️:
 
-- T-shirt realizzata con materiali di qualità
-- Morbida da indossare
 - Comoda e pratica
+- Morbida da indossare
+- T-shirt realizzata con materiali di qualità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DJDQNNR5{{</world>}}

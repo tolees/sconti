@@ -29,11 +29,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Registrazione video e immagini - micro SD card da 4 a 32 GB (non inclusa)
-- Compatibile con espansione fino a 3 monitor interni e 2 targhe esterne per configurazioni più complete
 - Targa esterna in alluminio anodizzato con grado di protezione IP54 e IK07, Serratura e servizi ausiliari, collegabile con pulsante apriporta
-- Posti interni intercomunicanti nella stessa unità abitativa
-- Monitor con WI-Fi integrato
 - Kit videocitofonico Wi-Fi con monitor touch screen LCD a colori da 7″ per videocitofonia moderna e intuitiva
+- Monitor con WI-Fi integrato
+- Posti interni intercomunicanti nella stessa unità abitativa
+- Compatibile con espansione fino a 3 monitor interni e 2 targhe esterne per configurazioni più complete
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CVN7474S{{</world>}}

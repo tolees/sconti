@@ -29,9 +29,9 @@ average: '9.075'
 ℹ️:
 
 - Punteggio metacritic PS3 pari 92 %
-- Photo mode che permetterà di catturare, editare e condividere i momenti di gioco più emozionanti
-- Grafica mozzafiato grazie ad una rimasterizzazione in 1080p e 60FPS
 - Titolo attesissimo su PS4 (circa 180Mila copie vendute su PS3)
+- Grafica mozzafiato grazie ad una rimasterizzazione in 1080p e 60FPS
+- Photo mode che permetterà di catturare, editare e condividere i momenti di gioco più emozionanti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07TKXVQSC{{</world>}}

@@ -28,9 +28,9 @@ average: '239.0'
 
 ℹ️:
 
-- Frigorifero Doppia Porta in Classe di efficienza energetica E
-- Capacità 206 L, Colore Nero
 - Illuminazione led, altamente efficiente, assicura una visione più chiara e dettagliata dei contenuti allinterno del frigorifero
+- Capacità 206 L, Colore Nero
+- Frigorifero Doppia Porta in Classe di efficienza energetica E
 - Porte reversibili, è possibile decidere da che parte far aprire la porta del frigo a seconda del layout della vostra cucina e della vostra preferenza
 - Ripiani porta XXL, lampiezza del balconcino permette di conservare bottiglie più large oppure due strati di lattine per risparmiare spazio sui ripiani
 

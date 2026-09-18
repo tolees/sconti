@@ -28,9 +28,9 @@ average: '284.05'
 
 ℹ️:
 
-- Testa con luce verde DustReveal per il rilevamento della polvere: La luce grandangolare a 150° illumina unarea più ampia e rivela chiaramente le particelle di polvere.
 - 9,9 cm Corpo ultra-sottile: Pulisce senza fatica sotto letti e divani, raggiungendo la polvere nascosta.
 - Sistema autopulente FlashDry: Autopulizia con acqua riscaldata e asciugatura con aria calda a 85 ℃. Doppia modalità di asciugatura per ogni esigenza. Modalità FlashDry: 5 min* Modalità SilentDry: 40 min* (*In base ai dati di laboratorio Tineco).
+- Testa con luce verde DustReveal per il rilevamento della polvere: La luce grandangolare a 150° illumina unarea più ampia e rivela chiaramente le particelle di polvere.
 - Raschietto StreakFree: Le superfici raschiate si asciugano rapidamente, lasciandole pronte per essere calpestate senza macchie dacqua.
 - Potente aspirazione da 23.000 Pa: Solleva facilmente sporco, detriti e capelli da tutte le superfici, assicurando una pulizia profonda e accurata.
 

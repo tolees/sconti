@@ -28,8 +28,8 @@ average: '23.9'
 
 ℹ️:
 
-- Usa solo un panno morbido asciutto per la pulizia; evita che vengano a contatto con lacqua, liquidi o prodotti aggressivi (es: profumo, sapone, detergenti, lozioni corpo, …); dopo lutilizzo riponi con cura il tuo bijoux, possibilmente in un panno morbido asciutto o nella sua custodia
 - Parti metalliche: ottone e bronzo galvanizzato con oro o palladio; altri materiali: vetro, resina, gomma
+- Usa solo un panno morbido asciutto per la pulizia; evita che vengano a contatto con lacqua, liquidi o prodotti aggressivi (es: profumo, sapone, detergenti, lozioni corpo, …); dopo lutilizzo riponi con cura il tuo bijoux, possibilmente in un panno morbido asciutto o nella sua custodia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F32TX7XF{{</world>}}

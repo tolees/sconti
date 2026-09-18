@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Modalità online in cross platform per sfidare i giocatori di tutto il mondo.
 - 60 fps sia in modalità portatile che TV​
 - 26 personaggi giocabili e 20 stage unici. ​
+- Modalità online in cross platform per sfidare i giocatori di tutto il mondo.
 - Tante modalità di gioco, alcune esclusive per Nintendo Switch 2​
 - La leggenda è tornata – Uno dei picchiaduro più iconici arriva su Nintendo Switch 2 con i DLC dei primi due anni inclusi.​
 

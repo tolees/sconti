@@ -28,13 +28,13 @@ average: '27.63'
 
 ℹ️:
 
-- Spalle basse
-- Questo prodotto contiene almeno il 70% di materiali riciclati e rinnovabili
-- Taglio leggermente corto sul retro
 - Cappuccio regolabile con cordino
-- Calzata regolare
-- Tasca a marsupio
+- Spalle basse
 - 55% cotone / 36% poliestere (riciclato) / 9% viscosa
+- Taglio leggermente corto sul retro
+- Questo prodotto contiene almeno il 70% di materiali riciclati e rinnovabili
+- Tasca a marsupio
+- Calzata regolare
 - Orli a coste
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

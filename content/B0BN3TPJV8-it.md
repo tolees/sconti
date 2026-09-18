@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Sportiva e comoda
 - Camicetta da donna con colletto e scollo a V, righe verticali su tutto lindumento a parte le tasche sul petto dove sono orizzontali
+- Sportiva e comoda
 - Prodotto di ottima fattura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Azione rigenerante e cicatrizzante (Chitosan)
 - Antisettico ad ampio spettro (Clorexidina 0,2%)
+- Efficacia clinicamente testata; senza glutine
 - Riduce linfiammazione (espantenolo e allantoina) e ha eccipiente bioadesivo
 - Gel topico Post Intervento a tripla azione, cicatrizzante, antisettica e antinfiammatoria
-- Efficacia clinicamente testata; senza glutine
-- Azione rigenerante e cicatrizzante (Chitosan)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00J5FTOE4{{</world>}}

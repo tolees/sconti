@@ -28,10 +28,10 @@ average: '100.07'
 
 ℹ️:
 
-- Fodera: 58% Cotone 22% Poliestere 20% Tessuto 60% Nylon - 40% PU
-- Colore: Nero
 - Tomaia: Pelle Pelle di vitello
 - Soletta: OrthoLite per un’ammortizzazione ottimale
+- Fodera: 58% Cotone 22% Poliestere 20% Tessuto 60% Nylon - 40% PU
+- Colore: Nero
 - Suola/Caratteristiche: Gomma per un’aderenza notevolia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

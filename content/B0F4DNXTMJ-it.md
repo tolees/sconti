@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Maglia in misto cotone felpato
 - Grafica con logo retrò sul lato
+- Maglia in misto cotone felpato
 - Tasche con cuciture laterali e tasca posteriore con zip
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

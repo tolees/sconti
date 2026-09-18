@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Product Dimension: 49.8(W) x 11.7(H) x 26.9(D) cm.
 - Unique structure and simple design that fits any room designs
+- Product Dimension: 49.8(W) x 11.7(H) x 26.9(D) cm.
 - Comes in various color options.
 - It can hold up to 7 kg
 - Manufactured from durable CARB Grade composite wood and stainless steel tubes.

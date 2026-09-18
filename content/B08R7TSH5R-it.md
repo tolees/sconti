@@ -28,9 +28,9 @@ average: '88.2066666666667'
 
 ℹ️:
 
-- Colore: Nero
-- Fodera: 100% Poliestere Riciclato
 - Tomaia: Pelle
+- Fodera: 100% Poliestere Riciclato
+- Colore: Nero
 - Suola/Caratteristiche: EVA per leggerezza; Lacci
 - Soletta: Soletta in PU; Altezza: 3,1 cm
 

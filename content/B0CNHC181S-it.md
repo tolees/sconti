@@ -28,10 +28,10 @@ average: '37.52'
 
 ℹ️:
 
-- Con cappuccio con coulisse
-- Una felpa con cappuccio di ispirazione vintage
 - Per chi ama il vintage: abbiamo scelto la tintura in capo per donare un irresistibile effetto vissuto
 - Vestibilità comoda
+- Con cappuccio con coulisse
+- Una felpa con cappuccio di ispirazione vintage
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CNHC181S{{</world>}}

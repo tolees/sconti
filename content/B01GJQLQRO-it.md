@@ -28,8 +28,8 @@ average: '110.49'
 
 ℹ️:
 
-- Calotta robusta in ABS
 - Imbottitura Multi Impatto EPP
+- Calotta robusta in ABS
 - Regolazione taglia millimetrica
 - Ventilazione regolabile
 

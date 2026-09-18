@@ -28,12 +28,12 @@ average: '48.98'
 
 ℹ️:
 
-- Modello a punta a conchiglia
-- Vestibilità regolare
 - Tomaia in materiale sintetico
-- Lacci
 - Suola in gomma preformata
+- Vestibilità regolare
+- Modello a punta a conchiglia
 - Soletta in tessuto
+- Lacci
 - Suola in gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '16.89'
 
 ℹ️:
 
-- Realizzato con tartufi di quercia decorati in MDF
-- con specchio
 - Può essere utilizzato sia in modalità ritratto che in modalità orizzontale
 - Bottoni cromati per guardaroba
+- Realizzato con tartufi di quercia decorati in MDF
+- con specchio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00GF56L7K{{</world>}}

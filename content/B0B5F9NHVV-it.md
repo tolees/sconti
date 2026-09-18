@@ -28,10 +28,10 @@ average: '19.43'
 
 ℹ️:
 
-- FORMATO CONVENIENZA: 100 capsule compatibili con macchine Nespresso*, ideali per gustare un caffè di qualità superiore comodamente a casa tua.
-- 100% ARABICA SELEZIONATA: Pregiata miscela di caffè Arabica, scelta con cura per offrirti un’esperienza di gusto raffinata e autentica.
-- INTENSITÀ E PERSISTENZA: Capsule avvolte singolarmente in un sacchetto speciale per conservare il profumo e la fragranza come appena macinato.
 - FRESCHEZZA PROTETTA: Ogni capsula è confezionata singolarmente in atmosfera protettiva per mantenere intatti aroma e qualità del caffè.
+- FORMATO CONVENIENZA: 100 capsule compatibili con macchine Nespresso*, ideali per gustare un caffè di qualità superiore comodamente a casa tua.
+- INTENSITÀ E PERSISTENZA: Capsule avvolte singolarmente in un sacchetto speciale per conservare il profumo e la fragranza come appena macinato.
+- 100% ARABICA SELEZIONATA: Pregiata miscela di caffè Arabica, scelta con cura per offrirti un’esperienza di gusto raffinata e autentica.
 - 100% ARABICA SELEZIONATA: Pregiata miscela di caffè Arabica, scelta con cura per offrirti un’esperienza di gusto raffinata e autentica.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

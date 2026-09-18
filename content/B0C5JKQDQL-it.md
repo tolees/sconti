@@ -28,8 +28,8 @@ average: '25.0'
 
 ℹ️:
 
-- Impermeabile
 - Cappuccio
+- Impermeabile
 - Estendi la stagione con Outerwear per le taglie forti
 - Composizione del materiale: strato esterno: 100% poliestere; fodera: 100% poliestere
 

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Impermeabilizzazione PureTeX
 - Costruzione con stivali alti
+- Impermeabilizzazione PureTeX
 - Dettagli del marchio PUMA
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

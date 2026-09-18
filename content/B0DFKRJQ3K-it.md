@@ -28,9 +28,9 @@ average: '59.99'
 
 ℹ️:
 
+- Giacca da donna
 - Orlo con coulisse, bottoni. chiusura lampo, cappuccio
 - Prodotto di ottima fattura
-- Giacca da donna
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DFKRJQ3K{{</world>}}

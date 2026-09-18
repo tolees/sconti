@@ -28,9 +28,9 @@ average: '70.99'
 
 ℹ️:
 
-- Tomaia in suede e materiale sintetico
 - Suola in gomma a carrarmato.
 - Logo N oversize
+- Tomaia in suede e materiale sintetico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DM3RP1SZ{{</world>}}

@@ -28,13 +28,13 @@ average: '8.0'
 
 ℹ️:
 
-- 41% di frutta secca
-- Fonte di proteine
-- Per una pausa gustosa
-- Naturalmente deliziosa
-- Con ingredienti tutti da gustare
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
+- Per una pausa gustosa
 - Kellogg Italia Spa, Via Torri Biancheb 6, Vimercate, MB 20871, Italia.
+- 41% di frutta secca
+- Naturalmente deliziosa
+- Fonte di proteine
+- Con ingredienti tutti da gustare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DJNS3QWP{{</world>}}

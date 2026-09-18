@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Spray adatto a proteggere la pelle dai raggi solari
 - Agisce efficacemente senza ungere
+- Spray adatto a proteggere la pelle dai raggi solari
 - Sulla pelle risulta leggero e non appiccicoso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

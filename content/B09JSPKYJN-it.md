@@ -28,11 +28,11 @@ average: '28.99'
 
 ℹ️:
 
+- Composizione del materiale: strato esterno: 100% poliestere; fodera: 100% poliestere; imbottitura: 100% poliestere; lunghezza della manica: 100% poliestere
+- Vestibilità normale
 - Non utilizzare lasciugatrice
 - Maniche lunghe
 - Articolo realizzato in materiale resistente e leggero
-- Composizione del materiale: strato esterno: 100% poliestere; fodera: 100% poliestere; imbottitura: 100% poliestere; lunghezza della manica: 100% poliestere
-- Vestibilità normale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09JSPKYJN{{</world>}}

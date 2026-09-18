@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Slim Fit
-- VITA BASSA
 - Composizione: 60% cotone, 20% cotone riciclato, 18% poliestere, 2% elastan
 - Jeans slim fit
+- Slim Fit
+- VITA BASSA
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C36SWJBN{{</world>}}

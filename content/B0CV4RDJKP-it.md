@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Numero di modello: 1015-01290-00670-115
 - Maniche lunghe
+- Numero di modello: 1015-01290-00670-115
 - 52% cotone organico, 28% kapok, 20% lyocell
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

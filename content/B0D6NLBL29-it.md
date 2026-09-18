@@ -30,8 +30,8 @@ average: '7.66'
 
 - Manualità fine e coordinazione occhio-mano, Creatività e fantasia, Curiosità e capacità di osservazione, Decodificazione di immagini
 - CONTENUTO: 4 lavagnette scrivi e cancella, pennarelli profumati, manuale di istruzioni
-- Quaderno operativo didattico, 4 pennarelli profumati, Pennarello cancellabile, 4 lavagnette scrivi & cancella
 - Impara a disegnare con Stitch
+- Quaderno operativo didattico, 4 pennarelli profumati, Pennarello cancellabile, 4 lavagnette scrivi & cancella
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D6NLBL29{{</world>}}

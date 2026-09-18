@@ -28,8 +28,8 @@ average: '42.0'
 
 ℹ️:
 
-- Ampio logo N
 - Tomaia in mesh e suede senza struttura
+- Ampio logo N
 - Intersuola in EVA
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

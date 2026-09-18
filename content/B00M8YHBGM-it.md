@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Funzioni per scongelare ed annullare la tostatura
 - Regolazione della tostatura
 - Sistema "High Lift"
 - 2 ampie fessure
-- Funzioni per scongelare ed annullare la tostatura
 - Include: Vassoio raccogli briciole rimovibile; griglia per scaldare panini e brioche
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

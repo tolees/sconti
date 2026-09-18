@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Lunghezza focale 12-60 mm
-- Obiettivo leica dg h-es12060
 - Range diaframma f2.8 (grandangolo), f4 (teleobiettivo)
 - Φ 62 mm/2,44 pollici dimensioni dei filtri
+- Obiettivo leica dg h-es12060
+- Lunghezza focale 12-60 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01NCU2H8W{{</world>}}

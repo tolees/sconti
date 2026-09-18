@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Applicazioni: per legno, metallo, muratura/gesso, plastica e vernice
 - Con grana assortita
+- Applicazioni: per legno, metallo, muratura/gesso, plastica e vernice
 - Carta vetrata a 15 punte
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

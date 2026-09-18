@@ -28,11 +28,11 @@ average: '42.1'
 
 ℹ️:
 
-- Zone a bollitura rapida per scaldare solo 1/2/3 tazze
-- Capacita: 1.7 litri
 - Filtro rimovibile e lavabile
-- Beccuccio per versare lacqua senza farla fuoriuscire
+- Capacita: 1.7 litri
+- Zone a bollitura rapida per scaldare solo 1/2/3 tazze
 - Manico soft-touch e base girevole a 360°
+- Beccuccio per versare lacqua senza farla fuoriuscire
 - Bollitore in acciaio inox con dettagli in stile retro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

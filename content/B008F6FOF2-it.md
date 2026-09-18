@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Alloggiamento sottilissimo
 - Piccolo e comodo
+- Alloggiamento sottilissimo
 - Batteria inclusa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

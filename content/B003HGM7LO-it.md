@@ -29,9 +29,9 @@ average: '25.49'
 ℹ️:
 
 - Profilo di azionamento: 3/8" quadrato
-- Facile da usare
 - Materiale: acciaio al cromo vanadio
 - Dimensioni attacco: 5/16", 11/32", 3/8", 7/16", 1/2", 9/16", 5/8", 11/16", 3/4", 13/16", 7/8"
+- Facile da usare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B003HGM7LO{{</world>}}

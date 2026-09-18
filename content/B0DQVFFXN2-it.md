@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Rasoio elettrico senza fili di lunga durata; progettato e prodotto in Germania da Braun
 - 3 elementi di rasatura sensibili alla pressione per efficienza e comfort sulla pelle
-- Lo speciale sistema Micro Comb cattura più peli a ogni passata (rispetto a Braun Series 3; testato su barbe di 3 giorni)
 - 2 batterie ricaricabili Ni-MH a lunga durata
+- Lo speciale sistema Micro Comb cattura più peli a ogni passata (rispetto a Braun Series 3; testato su barbe di 3 giorni)
 - Rasoio elettrico Wet&Dry per l’utilizzo sotto l’acqua, con schiuma o gel; impermeabile fino a 5 metri
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

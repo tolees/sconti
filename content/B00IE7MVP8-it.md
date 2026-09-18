@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Plug & Play
 - Chipset: SN65LVPE502
+- Plug & Play
 - Conforme alle specifiche USB 3.0, retrocompatibile con USB 2.0/1.1
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

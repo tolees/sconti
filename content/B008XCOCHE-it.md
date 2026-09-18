@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Profilo rettangolare in plastica
 - Con vetro trasparente lavato
 - Dotate con un passepartout
 - Disponibile in molti colori e formati
+- Profilo rettangolare in plastica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B008XCOCHE{{</world>}}

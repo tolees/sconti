@@ -30,9 +30,9 @@ average: '29.46'
 
 - INTENSITÀ: La tostatura media e lintensità 12/13 creano un caffè dalla crema scura, ideale per un espresso nero e per il caffè latte
 - CREMA E GUSTO CLASSICO: Lequilibrio tra forza di volontà e la soddisfazione dei piccoli piaceri del mattino. 100 Capsule in alluminio compatibili con le macchine Nespresso* Original. *Lavazza non è affiliata a, né promossa o sponsorizzata da Nespresso
-- LAVAZZA: Il Gruppo Lavazza opera in ogni settore dellindustria del caffè, offrendo prodotti di alta qualità, ottenuti attraverso un modello basato su innovazione, passione e competenza
 - COMPOSIZIONE: Le capsule Crema e Gusto Classico di Lavazza sono realizzate con caffè Arabica e Robusta proveniente dal Sud America, dallAfrica e dallAsia
 - NOTE AROMATICHE: Queste capsule di caffè con note aromatiche di spezie, cioccolato e legno sono ideali per un espresso intenso, per una pausa caffè firmata Lavazza
+- LAVAZZA: Il Gruppo Lavazza opera in ogni settore dellindustria del caffè, offrendo prodotti di alta qualità, ottenuti attraverso un modello basato su innovazione, passione e competenza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09BFG23X3{{</world>}}

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- T-shirt classica semplice
 - Vestibilità: taglio normale
 - Tessuto jersey con impugnatura morbida
+- T-shirt classica semplice
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C4TYD8VY{{</world>}}

@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Particolarmente indicato per lutilizzo con i dispositivi di assicurazione
-- Forma lavorata ed alleggerita, per una migliore impugnatura
-- Ampio spazio interno per lutilizzo del nodo mezzo barcaiolo e per le manovre di corda in sosta
-- Moschettone hms in lega leggera forgiato a caldo con ghiera a vite, concepito per larrampicata tradizionale, sportiva e per lalpinismo in generale
-- Sistema acl, che permette di fissarlo allanello di servizio dellimbracatura, stabilizzandolo e prevenendo la possibilità di carico sullasse minore
-- Chiusura catch-free che evita limpiglio accidentale durante luso
 - Accentuato profilo a doppia t, per un ottimo rapporto peso / resistenza
 - Con speciale anodizzazione dura anti-usura, Ottimo per usi intensivi e prolungati
+- Forma lavorata ed alleggerita, per una migliore impugnatura
+- Particolarmente indicato per lutilizzo con i dispositivi di assicurazione
+- Ampio spazio interno per lutilizzo del nodo mezzo barcaiolo e per le manovre di corda in sosta
+- Sistema acl, che permette di fissarlo allanello di servizio dellimbracatura, stabilizzandolo e prevenendo la possibilità di carico sullasse minore
+- Chiusura catch-free che evita limpiglio accidentale durante luso
+- Moschettone hms in lega leggera forgiato a caldo con ghiera a vite, concepito per larrampicata tradizionale, sportiva e per lalpinismo in generale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00CJE6QBC{{</world>}}

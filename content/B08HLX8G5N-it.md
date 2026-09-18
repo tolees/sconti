@@ -28,11 +28,11 @@ average: '26.99'
 
 ℹ️:
 
+- Resistente alle intemperie
 - Tiene in carica continua la videocamera Arlo Ultra, Ultra 2, Pro 3, Pro 4 e Pro 3 Floodlight
-- Idoneo ad uso esterno - interno
 - Attacco magnetico per una comoda installazione
 - Lunghezza: 7,62 mt
-- Resistente alle intemperie
+- Idoneo ad uso esterno - interno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08HLX8G5N{{</world>}}

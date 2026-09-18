@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Profumo aromatico e speziato.
 - Formula vegana.
-- Profumo a lunga durata.
-- Rinfrescante.
 - Profumo fresco a lunga durata.
+- Profumo a lunga durata.
+- Profumo aromatico e speziato.
+- Rinfrescante.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FFTFBGL2{{</world>}}

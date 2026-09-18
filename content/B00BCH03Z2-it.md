@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- INTELLIGENTE: un rinforzo in cartone sul retro del blocco permette una presa di appunti confortevole anche senza appoggio!
 - RESISTENTE: COPERTINA in polipropilene solida e impermeabile - i vostri appunti sono ben protetti.
 - ECOLOGICA: Carta Clairefontaine certificata PEFC è ottenuta da foreste gestite in modo responsabile. Stampa a partire da inchiostri vegetali senza alcool, diluiti con acqua e conformi alle direttive europee REACH. Senza acidi, a PH neutro. Adatto ai vegani
-- Formato PUNTINATO DOT: puntini grigi spaziati di 5mm.
 - CARTA CLAIREFONTAINE pergamena extrafine 80g
+- Formato PUNTINATO DOT: puntini grigi spaziati di 5mm.
+- INTELLIGENTE: un rinforzo in cartone sul retro del blocco permette una presa di appunti confortevole anche senza appoggio!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00BCH03Z2{{</world>}}

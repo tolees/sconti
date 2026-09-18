@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Sperimentazione scientifica, apprendimento di nozioni fisiche e chimiche
-- Provette, bicchiere graduato, ampolla graduata, card stand, pipetta, cilindri, pioli ferma carte, palettine di legno, vaschetta, palloncini, cannucce, tiosolfato, bicarbonato di sodio, bottiglietta ,pietrine, guanti, ruota dentata, manuale illustrato
 - Realizza 50 esperienze scientifiche
+- Provette, bicchiere graduato, ampolla graduata, card stand, pipetta, cilindri, pioli ferma carte, palettine di legno, vaschetta, palloncini, cannucce, tiosolfato, bicarbonato di sodio, bottiglietta ,pietrine, guanti, ruota dentata, manuale illustrato
+- Sperimentazione scientifica, apprendimento di nozioni fisiche e chimiche
 - Esperimenti facili, sicuri e divertenti, 50 esperienze su tante materie scientifiche, Scopri il mondo delle scienze
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

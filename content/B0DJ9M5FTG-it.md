@@ -28,8 +28,8 @@ average: '35.0'
 
 ℹ️:
 
-- Con un tacco più spesso
 - Larghezza regolare
+- Con un tacco più spesso
 - Dettagli distintivi del marchio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

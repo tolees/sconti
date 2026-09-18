@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Chanteclair - Anticalcare Universale Antigoccia - Ideale Contro il Calcare su Acciaio Rubinetti e Ceramica Azione Antiruggine Forza&Igiene - 625 ml'
-date: 2026-09-16 07:19:27
+date: 2026-09-17 12:13:44
 image: 'https://m.media-amazon.com/images/I/31b9nHatjhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B079ZYD5Y4/?tag=tolees00-21'
 descuento: '53.05'
-average: '1.698'
+average: '1.58714285714285'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

@@ -28,11 +28,11 @@ average: '9.54'
 
 ℹ️:
 
-- Sicurezza fin dalla nascita: testata sotto controllo dermatologico e pediatrico. Ipoallergenica: formulata per minimizzare il rischio di reazioni allergiche e garantire elevata tollerabilità
-- Acqua micellare senza risciacquo per la detersione del viso, del cambio pannolino, anche per la rimozione del make up leggero. Prodotto vegano, eco concepito: flacone riciclabile di origine vegetale
 - Contiene il 99% di ingredienti di origine naturale, il restante 1% sono ingredienti selezionati per la loro elevata tollerabilità. Con il 50% di ingredienti biologici (Olio di Oliva e Aloe Vera)
-- Deterge delicatamente senza seccare. Nutre in profondità, ammorbidisce e lenisce la pelle. Utilizzabile fin dalla nascita e da tutta la famiglia. Senza profumo
+- Sicurezza fin dalla nascita: testata sotto controllo dermatologico e pediatrico. Ipoallergenica: formulata per minimizzare il rischio di reazioni allergiche e garantire elevata tollerabilità
 - Consigli d’uso: con 1-2 erogazioni avrai la quantità ideale di prodotto da utilizzare su un dischetto di cotone o una salvietta riutilizzabile. Non serve risciacquare
+- Deterge delicatamente senza seccare. Nutre in profondità, ammorbidisce e lenisce la pelle. Utilizzabile fin dalla nascita e da tutta la famiglia. Senza profumo
+- Acqua micellare senza risciacquo per la detersione del viso, del cambio pannolino, anche per la rimozione del make up leggero. Prodotto vegano, eco concepito: flacone riciclabile di origine vegetale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B086M1HVSD{{</world>}}

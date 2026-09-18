@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- T-shirt manica corta
 - T-shirt uomo in cotone
+- T-shirt manica corta
 - T-shirt basic dal taglio dritto
 - Confezione da 3 magliette basic da uomo con scollo rotondo
 

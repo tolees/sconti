@@ -30,10 +30,10 @@ average: '14.49'
 
 - USB tipo A Quick Charge: 5.0V 2.4A
 - USB tipo C: 5.0V 3A, 9.0V 2A, 12.0V 1.5A. 15W
+- Soluzione di design comoda e leggera da portare dove vuoi: a casa, in ufficio, in viaggio
+- Spina Europea Tipo C. Adatta a tutti i dispositivi per caricare smartphone e tablet
 - Output Totale 2 USB insieme: 5V 3.5A 17.5W per caricare telefono e tablet insieme
 - Prolunga Elettrica Gummy Line lunghezza 1.5 Metri
-- Spina Europea Tipo C. Adatta a tutti i dispositivi per caricare smartphone e tablet
-- Soluzione di design comoda e leggera da portare dove vuoi: a casa, in ufficio, in viaggio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09HMQFVZC{{</world>}}

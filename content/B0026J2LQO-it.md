@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Pezzi 24
+- Modello 256600, Confezione da 24 - Forma fusto esagonale
 - Peso 118 g
 - Giotto - Pastelli Stilnovo - Tratto 3,3 mm - Forma fusto esagonale
 - Matite colorate Giotto
-- Pezzi 24
-- Modello 256600, Confezione da 24 - Forma fusto esagonale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0026J2LQO{{</world>}}

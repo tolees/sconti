@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Spegnimento automatico
+- Capacità: 1.7 l
 - Indicatore del livello dellacqua
+- Spegnimento automatico
 - Base girevole a 360° con avvolgicavo
 - Coperchio con apertura a pressione
-- Capacità: 1.7 l
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0795R8ZNN{{</world>}}

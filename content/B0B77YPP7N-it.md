@@ -28,11 +28,11 @@ average: '14.12'
 
 ℹ️:
 
-- *Lavazza, *A Modo Mio, *Lavazza A Modo Mio sono marchi di proprietà di Luigi Lavazza S.p.A; Caffè Borbone Srl è produttore autonomo non collegato alla Luigi Lavazza S.p.A; La compatibilità delle capsule Caffè Borbone è funzionale all’utilizzo con macchine da caffè ad uso domestico *Lavazza *A Modo Mio
-- FORMATO: 96 Capsule - 6 Confezioni da 16
 - Un tè caldo tra le mani e ti senti subito a casa: prova le capsule Borbone e prepara una deliziosa bevanda al gusto di tè al limone per scaldare la tua pausa; Sono arrivate le “Nuove emozioni di gusto” Caffè Borbone: per ogni occasione, un’esplosione di gusto; Regalati un momento unico e goloso con i prodotti della linea Capriccio: tanti gusti sfiziosi per un break ogni volta diverso, ma sempre speciale
 - Capsule Compatibili Lavazza* A Modo Mio* con i seguenti modelli di macchina da caffè: Espressgo, Espria, Extra, Fantasia, Favola Electrolux, Idola, Jolie, Magia, Minù, Minù Caffè Latte,Simpla, Tiny
 - Capsule Caffè Borbone per bevanda solubile al gusto Tè al limone perfette per scaldare ogni tua pausa, compatibili con macchine a marchio Lavazza*A Modo Mio*; Le capsule compatibili Borbone Tè al limone fanno parte della linea Capriccio, la più sfiziosa delle 4 nuove linee di bevande aromatizzate in capsula “Nuove emozioni di gusto”, dedicata a chi vuole gustare una pausa diversa dal solito, ma sempre golosa
+- FORMATO: 96 Capsule - 6 Confezioni da 16
+- *Lavazza, *A Modo Mio, *Lavazza A Modo Mio sono marchi di proprietà di Luigi Lavazza S.p.A; Caffè Borbone Srl è produttore autonomo non collegato alla Luigi Lavazza S.p.A; La compatibilità delle capsule Caffè Borbone è funzionale all’utilizzo con macchine da caffè ad uso domestico *Lavazza *A Modo Mio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B77YPP7N{{</world>}}

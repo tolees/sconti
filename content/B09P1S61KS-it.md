@@ -29,10 +29,10 @@ average: '13.59'
 ℹ️:
 
 - Ricette di alta qualità di filetti succosi, intarsiati in una salsa eccezionale. Cibo per gatti squisito che impressionerà anche il gatto più esigente.
-- Delicatamente preparato con ingredienti pregiati
 - Servito in una pratica ciotola da 60 g. Realizzato con pesce pescato in modo sostenibile al 100%
-- Mangime complementare per gatti adulti
+- Delicatamente preparato con ingredienti pregiati
 - Senza coloranti artificiali e conservanti
+- Mangime complementare per gatti adulti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09P1S61KS{{</world>}}

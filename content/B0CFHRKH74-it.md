@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- MORBIDEZZA E DISTRICAMENTO LEGGERI
 - BIONDI E GRIGI FORTI E DALL’ASPETTO SANO
+- MORBIDEZZA E DISTRICAMENTO LEGGERI
 - BLOCCA LA LUMINOSITÀ E IL TONO DALLA RADICE ALLA PUNTA
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

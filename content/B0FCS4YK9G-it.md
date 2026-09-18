@@ -28,11 +28,11 @@ average: '147.9'
 
 ℹ️:
 
-- ERGONOMICA: Peso di soli 0,83 kg e design ergonomico per una facile maneggevolezza durante le lunghe sessioni di potatura
-- IDEALE PER: Questo potatore a batteria è ideale per potare arbusti, cespugli e alberi da frutto
 - PRESTAZIONI ELEVATE: La batteria da 12 V ad alte prestazioni consente fino a 4500 tagli per ogni carica
-- MOTORE BRUSHLESS: Taglia senza fatica rami con diametro fino a 25 mm grazie al potente motore brushless
+- ERGONOMICA: Peso di soli 0,83 kg e design ergonomico per una facile maneggevolezza durante le lunghe sessioni di potatura
 - Dotazione: GGP 12V-25
+- MOTORE BRUSHLESS: Taglia senza fatica rami con diametro fino a 25 mm grazie al potente motore brushless
+- IDEALE PER: Questo potatore a batteria è ideale per potare arbusti, cespugli e alberi da frutto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FCS4YK9G{{</world>}}

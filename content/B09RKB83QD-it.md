@@ -29,9 +29,9 @@ average: '71.09'
 ℹ️:
 
 - Valvola in ottone rivestita in gomma.
-- R VALUE = 4 (utilizzo invernale) MISURE: 183 x 51 x 5 cm
-- Materassino per alpinismo e trekking in poliestere ad alta densità che garantisce comfort ed isolamento termico.
 - Incluso il kit di riparazione, i nastri elastici di contenimento ed una stuff bag
+- Materassino per alpinismo e trekking in poliestere ad alta densità che garantisce comfort ed isolamento termico.
+- R VALUE = 4 (utilizzo invernale) MISURE: 183 x 51 x 5 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09RKB83QD{{</world>}}

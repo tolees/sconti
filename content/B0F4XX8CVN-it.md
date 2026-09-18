@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Giacca: Polsini e orli a coste
+- Giacca: Polsini e orli a coste
+- 100% poliestere (riciclato)
+- Giacca con vestibilità regolare e pantaloni con vestibilità aderente
 - Pantaloni: Girovita elasticizzato con cordino
-- Giacca: Polsini e orli a coste
-- Giacca: Polsini e orli a coste
 - Tasche lungo le cuciture laterali
 - Zip integrale e cappuccio
-- Giacca con vestibilità regolare e pantaloni con vestibilità aderente
-- 100% poliestere (riciclato)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F4XX8CVN{{</world>}}

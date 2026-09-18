@@ -28,11 +28,11 @@ average: '251.25'
 
 ℹ️:
 
-- Galaxy A25
-- 256 GB
-- Smartphone 5G
-- Display 6.5"
 - A25
+- 256 GB
+- Display 6.5"
+- Smartphone 5G
+- Galaxy A25
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CN123NZ1{{</world>}}

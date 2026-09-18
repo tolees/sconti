@@ -29,9 +29,9 @@ average: '6.45'
 ℹ️:
 
 - Con un design pulito ed elegante, è la soluzione ottima per la sostituzione delle lampadine tradizionali
-- Basso consumo energetico: fino al 90% di risparmio energetico rispetto alle lampade convenzionali
 - Tecnologia LED allavanguardia: durata lunga fino a 15 anni
 - Luce immediata allaccensione, lampadina non dimmerabile, fascio 36°
+- Basso consumo energetico: fino al 90% di risparmio energetico rispetto alle lampade convenzionali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08HT3B9DV{{</world>}}

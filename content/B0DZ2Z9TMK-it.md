@@ -28,9 +28,9 @@ average: '40.49'
 
 ℹ️:
 
+- Giocatore singolo: Modalità storia Gioca nei panni di Tanjiro Kamado e rivivi i capitoli del Quartiere dei piaceri, del Villaggio dei forgiatori e delladdestramento dei pilastri dalla serie animata "Demon Slayer: Kimetsu no Yaiba"! Affronta le lune crescenti con i tuoi alleati!
 - Modalità scontro: I pilastri uniti! Il gioco include più di 40 personaggi, compresi i nove pilastri, gli spadaccini di grado più alto della squadra ammazzademoni!
 - Bonus prenotazione Codici di sblocco personaggi: Tokito Muichiro e Kanroji Mitsuri
-- Giocatore singolo: Modalità storia Gioca nei panni di Tanjiro Kamado e rivivi i capitoli del Quartiere dei piaceri, del Villaggio dei forgiatori e delladdestramento dei pilastri dalla serie animata "Demon Slayer: Kimetsu no Yaiba"! Affronta le lune crescenti con i tuoi alleati!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DZ2Z9TMK{{</world>}}

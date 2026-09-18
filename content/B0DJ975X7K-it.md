@@ -28,9 +28,9 @@ average: '32.2'
 
 ℹ️:
 
-- Realizzati con materiali sostenibili
 - Sneaker del marchio PUMA
 - Suola morbida per movimenti fluidi
+- Realizzati con materiali sostenibili
 - Adatto per: tutte le stagioni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

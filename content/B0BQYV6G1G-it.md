@@ -29,9 +29,9 @@ average: '13.76'
 ℹ️:
 
 - Serve come barretta energetica
-- ogni barretta contiene 36 g di carboidrati
 - Arricchito con sodio
 - Il momento ideale per lassunzione è 1 ora prima di iniziare lattività fisica e si dovrebbero consumare 1-4 barrette al giorno.
+- ogni barretta contiene 36 g di carboidrati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BQYV6G1G{{</world>}}

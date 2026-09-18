@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Rifinita con un piccolo logo
 - La T-shirt essenziale, ottimizzata
+- Rifinita con un piccolo logo
 - Da indossare con qualsiasi jeans
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

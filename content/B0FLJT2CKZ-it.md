@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- DIMENSIONI E INSTALLAZIONE: questo prodotto misura 80,2 x 52,2 cm (LxP) e per la sua installazione è richiesto un foro di 75 x 49–50 cm (LxP). Per una corretta installazione attenersi ai disegni tecnici e alle distanze minime indicate.
-- COMBINDUCTION: possibilità di combinare due zone cottura assieme per utilizzare pentole e padelle più grandi.
-- RISCALDAMENTO ULTRA RAPIDO: grazie a PowerBoost puoi aggiungere fino al 50% in più di potenza per piatti pronti ancora più velocemente.
-- CAPPA INTEGRATA: il vapore e gli odori vengono aspirati subito, prima che si diffondano, per unaria sempre pulita e fresca in cucina.
-- TIMER: imposta il tempo di cottura e la zona selezionata si spegnerà automaticamente al termine. Per una cottura precisa, senza pensieri.
 - CONTROLLO DEI CONSUMI: imposta il limite massimo di assorbimento energetico in base al tuo impianto (a partire da 1 kW, con pratici step da 0,5 kW) così che il piano cottura non superi mai la soglia e non faccia saltare il contatore.
 - CUCINA SENZA INTERRUZIONI: il piano cottura memorizza le tue impostazioni di cottura così in caso di spegnimento accidentale puoi riprendere a cucinare da dove avevi lasciato.
 - CONTROLLI INTUITIVI: con TouchSelect imposti e regoli il piano cottura con un solo dito. Usa i controlli + e - per impostare il livello di potenza desiderato.
+- DIMENSIONI E INSTALLAZIONE: questo prodotto misura 80,2 x 52,2 cm (LxP) e per la sua installazione è richiesto un foro di 75 x 49–50 cm (LxP). Per una corretta installazione attenersi ai disegni tecnici e alle distanze minime indicate.
+- CAPPA INTEGRATA: il vapore e gli odori vengono aspirati subito, prima che si diffondano, per unaria sempre pulita e fresca in cucina.
+- RISCALDAMENTO ULTRA RAPIDO: grazie a PowerBoost puoi aggiungere fino al 50% in più di potenza per piatti pronti ancora più velocemente.
+- TIMER: imposta il tempo di cottura e la zona selezionata si spegnerà automaticamente al termine. Per una cottura precisa, senza pensieri.
+- COMBINDUCTION: possibilità di combinare due zone cottura assieme per utilizzare pentole e padelle più grandi.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FLJT2CKZ{{</world>}}

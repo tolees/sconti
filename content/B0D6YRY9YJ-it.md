@@ -28,9 +28,9 @@ average: '47.99'
 
 ℹ️:
 
-- Scarpe da basket
 - Stile retrò
 - Suola in gomma resistente
+- Scarpe da basket
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D6YRY9YJ{{</world>}}

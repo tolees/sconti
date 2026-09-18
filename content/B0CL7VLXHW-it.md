@@ -28,9 +28,9 @@ average: '16.9866666666667'
 
 ℹ️:
 
-- Ottimo per luso quotidiano
-- Collo a costine
 - Facile da indossare
+- Collo a costine
+- Ottimo per luso quotidiano
 - Maglione basic lavorato a maglia con collo alto
 - Realizzato in morbida fibra di misto cotone
 

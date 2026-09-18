@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cecotec Friggitrice ad Aria Cecofry Fantastik Window 4000. Air Fryer Air Fryer. 1400 W Capacità 4 L 9 Menu Controllo Tattile Tecnologia Perfectcoo Tempo Regolabile 80-200ºc 0-60 Minuti'
-date: 2026-09-16 16:40:27
+date: 2026-09-18 16:24:42
 image: 'https://m.media-amazon.com/images/I/31zFNfil6DL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0BQ1DJ65N/?tag=tolees00-21'
 descuento: '37.59'
-average: '27.2333333333333'
+average: '26.8999999999999'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

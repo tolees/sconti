@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Design Resistente
+- Molteplici opzioni di fissaggio.
+- Testina girevole a 360° per focalizzare la luce in molteplici direzioni.
 - Luce LED con luminosità di 1500 lumen.
 - Batteria e caricabatteria non sono inclusi.
-- Molteplici opzioni di fissaggio.
 - Piattaforma Powershare di Worx. Batterie 20 V intercambiabili con altre macchine di Worx.
-- Design Resistente
-- Testina girevole a 360° per focalizzare la luce in molteplici direzioni.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B06XH1JWZ2{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fabuloso Detersivo Pavimenti Lavanda 950ml | Detergente Multiuso | 100% Pulizia Istantanea | Profumo per 24 ore | Formula Biodegradabile al 98% | 99% Ingredienti di Origine Naturale*'
-date: 2026-09-16 12:45:39
+date: 2026-09-18 14:02:48
 image: 'https://m.media-amazon.com/images/I/513Qj2kT6eL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0B5HJRZHL/?tag=tolees00-21'
 descuento: '46.09'
-average: '19.2616666666667'
+average: '18.40625'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

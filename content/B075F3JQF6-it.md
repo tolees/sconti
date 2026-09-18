@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- pedagogico
 - Gioco evolutivo
 - Scatola, gioco e regole in francese
 - Intelligente
+- pedagogico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B075F3JQF6{{</world>}}

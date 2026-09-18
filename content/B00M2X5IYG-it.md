@@ -28,11 +28,11 @@ average: '16.87'
 
 ℹ️:
 
-- Fornitura: chiavetta USB Intenso con pratico cordino
 - Peso: leggero 2 g; Dimensioni: 20 x 15 x 7 mm
-- Max. Velocità di trasferimento dati: fino a 100 MB / s
-- Ottimale per autoradio e notebook grazie alle dimensioni minime
 - SuperSpeed USB 3.0 (retrocompatibile) - La velocità specificata è possibile solo con uninterfaccia USB 3.0
+- Fornitura: chiavetta USB Intenso con pratico cordino
+- Ottimale per autoradio e notebook grazie alle dimensioni minime
+- Max. Velocità di trasferimento dati: fino a 100 MB / s
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00M2X5IYG{{</world>}}

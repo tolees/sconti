@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Elegante confezione a forma di cuore, ottima da regalare a San Valentino, in un formato maxi assortito
 - Cioccolatini assortiti BACI PERUGINA gusto classico LUISA, Fondente 70% Intenso, Latte Vellutato
-- Celebra San Valentino con un dono elegante e ricco di emozioni: 12 cioccolatini assortiti BACI PERUGINA. Un gesto unico per sorprendere chi ami
+- Elegante confezione a forma di cuore, ottima da regalare a San Valentino, in un formato maxi assortito
 - Senza glutine. Cacao approvvigionato in maniera sostenibile, certificato Rainforest Alliance
+- Celebra San Valentino con un dono elegante e ricco di emozioni: 12 cioccolatini assortiti BACI PERUGINA. Un gesto unico per sorprendere chi ami
 - Scatola a forma di cuore da 150g, contiene minimo 12 cioccolatini assortiti BACI PERUGINA gusto assortito
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

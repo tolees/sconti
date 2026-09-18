@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Con colletto polo, maniche corte
-- Vestibilità: vestibilità normale, lunghezza schiena per taglia M circa 72 cm
 - Polo a maniche corte con piccola etichetta del logo. In diversi colori a tinta unita e anche leggermente sfumata
+- Vestibilità: vestibilità normale, lunghezza schiena per taglia M circa 72 cm
+- Con colletto polo, maniche corte
 - In classico tessuto piqué leggermente strutturato con percentuale di elasticità per una maggiore libertà di movimento e un piacevole comfort
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '149.99'
 
 ℹ️:
 
-- INCLUDE: due cestelli antiaderenti lavabili in lavastoviglie da 3,8 L (7,6 L in totale) e piastre per frittura antiaderenti. Ricettario creato appositamente da uno chef. Peso: 8,2 kg. Colore: grigio piombo. 31,5 cm x L: 38 cm x P: 26,5 cm.
-- RISPARMIO ENERGETICO: risparmia fino al 75% sulla bolletta* (*Test e calcoli basati sul tempo di cottura consigliato per le salsicce, utilizzando la funzione di frittura ad aria rispetto ad un forno da 68 L classe “A” e 71 L classe “A+”.)
 - 2 ZONE DI COTTURA INDIPENDENTI: Cuoci 2 pietanze in 2 modi differenti. Imposta programmi, temperature e tempi diversi in ogni scomparto per preparare pasti completi o semplicemente soddisfare più palati.
+- INCLUDE: due cestelli antiaderenti lavabili in lavastoviglie da 3,8 L (7,6 L in totale) e piastre per frittura antiaderenti. Ricettario creato appositamente da uno chef. Peso: 8,2 kg. Colore: grigio piombo. 31,5 cm x L: 38 cm x P: 26,5 cm.
 - 6 PROGRAMMI DI COTTURA: Max Crisp, Air Fry, Roast, Bake, Reheat, Dehydrate. Da surgelato a croccante. Fino a 75% di grassi in meno* (*Test con patate tagliate a mano e fritte in modo tradizionale).
+- RISPARMIO ENERGETICO: risparmia fino al 75% sulla bolletta* (*Test e calcoli basati sul tempo di cottura consigliato per le salsicce, utilizzando la funzione di frittura ad aria rispetto ad un forno da 68 L classe “A” e 71 L classe “A+”.)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F4KKZ7HH{{</world>}}

@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - A diverse occasioni
-- Cappello sportivo
 - Confortevole
+- Cappello sportivo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D2LJZ2LS{{</world>}}

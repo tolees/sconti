@@ -28,8 +28,8 @@ average: '19.7'
 
 ℹ️:
 
-- Lo scopo del gioco è indovinare lidentità famosa usando meno indizi possibile. Ma cè un piccolo dettaglio...gli indizi sono scritti a mo di irriverenti post social.
 - Se hai senso dellumorismo, ti intendi di cultura pop e hai sempre unito la passione per Cioè ai libri di scuola/ al sussidiario, abbiamo creato il gioco adatto a te!
+- Lo scopo del gioco è indovinare lidentità famosa usando meno indizi possibile. Ma cè un piccolo dettaglio...gli indizi sono scritti a mo di irriverenti post social.
 - Da 2 a più giocatori
 - Gioco per adulti dai 18 anni in su
 

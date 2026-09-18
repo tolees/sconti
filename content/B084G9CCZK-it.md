@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lactoflorene Plus Fermenti Lattici Probiotici Senza Glutine Senza Lattosio - Integratori Adulti a base di Probiotici con Zinco e Vitamina B per l’Equilibrio della Flora Intestinale 12 Flaconcini'
-date: 2026-09-12 17:13:49
+date: 2026-09-16 18:43:31
 image: 'https://m.media-amazon.com/images/I/419Gpmu83JL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B084G9CCZK/?tag=tolees00-21'
 descuento: '61.60'
-average: '6.55666666666666'
+average: '6.55'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

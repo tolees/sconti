@@ -28,10 +28,10 @@ average: '15.99'
 
 ℹ️:
 
-- Preservativo Extra Large
-- Confezione da 48 pezzi
 - Profilattico in lattice di gomma naturale
 - Forma confortevole e dimensione grande
+- Preservativo Extra Large
+- Confezione da 48 pezzi
 - Forma anatomica e lati non paralleli, liscio, di colore naturale, con serbatoio e lubrificato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

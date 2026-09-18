@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Taglia unica
-- 100% poliestere (riciclato)
 - Visiera preformata di lunghezza media
+- 100% poliestere (riciclato)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZCNVCBT{{</world>}}

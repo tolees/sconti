@@ -28,15 +28,15 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Polsini a coste e orlo elasticizzato sulla giacca
-- Orlo aperto
-- Zip integrale e collo alto
-- Giacca dalla vestibilità aderente e pantaloni dalla vestibilità regolare
-- Polsini a coste e orlo elasticizzato sulla giacca
 - Tasche anteriori sulla giacca e sui pantaloni
 - 53% cotone / 47% poliestere (riciclato)
+- Orlo aperto
+- Giacca dalla vestibilità aderente e pantaloni dalla vestibilità regolare
+- Polsini a coste e orlo elasticizzato sulla giacca
+- Zip integrale e collo alto
 - Girovita elasticizzato con cordino
 - Orlo aperto
+- Polsini a coste e orlo elasticizzato sulla giacca
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F4Y1DG8K{{</world>}}

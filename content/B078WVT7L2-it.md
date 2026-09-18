@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Antiscivolo
 - Collezione: Autunno/Inverno 19
+- Antiscivolo
 - Chiusura: Sintetico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

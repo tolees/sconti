@@ -28,8 +28,8 @@ average: '24.59'
 
 ℹ️:
 
-- CONTENUTO 45 PEZZI: 1 Penna cancellabile blu, 1 Penna a sfera rossa, 18 Pastelli a colori, 18 Pennarelli, 1 Matita HB, 1 Colla stick, 1 Gomma, 1 Temperino barilotto a 2 fori, 1 Righello, 1 Pastello Tondo 4.0 Bicolor, 1 Paio di Forbici in metallo
 - TASCHE: Taschino interno con zip TESSUTO: Poliestere
+- CONTENUTO 45 PEZZI: 1 Penna cancellabile blu, 1 Penna a sfera rossa, 18 Pastelli a colori, 18 Pennarelli, 1 Matita HB, 1 Colla stick, 1 Gomma, 1 Temperino barilotto a 2 fori, 1 Righello, 1 Pastello Tondo 4.0 Bicolor, 1 Paio di Forbici in metallo
 - DIMENSIONI: 12,5 x 20 x 7 cm
 - Questo astuccio Seven 3 zip ha tre scomparti in cui troverai tutto il materiale necessario per la tua giornata di scuola. A te non resta altro che abbinarlo a uno zaino o trolley Seven.
 

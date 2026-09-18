@@ -28,12 +28,12 @@ average: '8.4'
 
 ℹ️:
 
-- SENZA ACIDI: questa carta certificata PEFC e senza acidi a pH neutro per una perfetta conservazione dei disegni o delle realizzazioni nel tempo.
-- FORMATO A4 : questa confezione economica contiene 25 fogli di carta da disegno dello stesso colore.
-- CARTA LISCIA: questa carta da disegno ha una superficie perfettamente liscia su ogni lato del foglio, ideale per moltiplicare le attività creative! E anche adatta al disegno preciso.
 - SPECIALISTI BELLE ARTI PER ECCELLENZA: Clairefontaine Rhodia propone prodotti di alta qualità, adatti alle vostre esigenze e a tutte le tecniche di disegno.
 - CARTA DA DISEGNO COLORATA: questa carta è tinta in massa, che significa tinta in superficie ma anche nel suo spessore, è perfettamente resistente alla luce.
+- FORMATO A4 : questa confezione economica contiene 25 fogli di carta da disegno dello stesso colore.
+- CARTA LISCIA: questa carta da disegno ha una superficie perfettamente liscia su ogni lato del foglio, ideale per moltiplicare le attività creative! E anche adatta al disegno preciso.
 - CARTA 185g : resistente, questa carta è anche adatta per il disegno a matita, a pennarello o a gesso cosi come pure per i lavori di decoupage, piegatura e collage.
+- SENZA ACIDI: questa carta certificata PEFC e senza acidi a pH neutro per una perfetta conservazione dei disegni o delle realizzazioni nel tempo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B079QBH3D1{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dash Pods Detersivo Lavatrice In Capsule 76 Lavaggi 2x38 Classico Fresco Rimuove Le Macchie Efficace A Freddo Anche E In Cicli Brevi'
-date: 2026-09-13 11:29:54
+date: 2026-09-18 17:04:12
 image: 'https://m.media-amazon.com/images/I/51Fb4A0yc8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

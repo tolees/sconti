@@ -28,11 +28,11 @@ average: '89.43'
 
 ℹ️:
 
+- Facile da usare: ruote girevoli e sella per un rapido e facile posizionamento del cric sotto il veicolo. Il manico staccabile consente una facile conservazione, maniglia integrata per il trasporto del martinetto da pavimento.
 - Protezione del veicolo: viene fornito con 2 cuscinetti in gomma e un manico strutturato per una facile presa. Altezza massima da 15-1/2  a 16,1  quando si utilizza con i cuscinetti.
 - Valore di sicurezza e struttura in acciaio: la valvola di sicurezza integrata fornisce protezione da sovraccarico. La solida struttura in acciaio resistente offre una lunga durata.
 - Specifiche: campo di sollevamento da 3-3/8" a 14-15/16". Capacità di 2,5 tonnellate.
 - Telaio a basso profilo: per un facile accesso sotto veicoli a bassa altezza da terra.
-- Facile da usare: ruote girevoli e sella per un rapido e facile posizionamento del cric sotto il veicolo. Il manico staccabile consente una facile conservazione, maniglia integrata per il trasporto del martinetto da pavimento.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BL7Y413W{{</world>}}

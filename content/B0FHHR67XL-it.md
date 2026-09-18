@@ -28,9 +28,9 @@ average: '31.39'
 
 ℹ️:
 
-- Scomparti per telefoni cellulari
-- Tasca con zip
 - Tracolla regolabile
+- Tasca con zip
+- Scomparti per telefoni cellulari
 - Scomparto principale con cerniera e magnetico con
 - Logo Kipling rotondo
 

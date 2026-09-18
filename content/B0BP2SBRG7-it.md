@@ -28,8 +28,8 @@ average: '6.745'
 
 ℹ️:
 
-- Confezione da tre paia
 - 71% cotone / 26% poliestere riciclato / 2% elastane / 1% nylon riciclato
+- Confezione da tre paia
 - Taglio sopra la caviglia
 - Ammortizzazione della suola in punta e sul tallone
 

@@ -28,11 +28,11 @@ average: '11.14'
 
 ℹ️:
 
-- zigrinato
 - Finitura superficiale: cromo satinato
-- profilo: Pro torque (esagono)
 - In acciaio al cromo vanadio
+- zigrinato
 - dimensione chiave: 30 mm
+- profilo: Pro torque (esagono)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0092JM9OK{{</world>}}

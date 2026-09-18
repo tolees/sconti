@@ -28,9 +28,9 @@ average: '6.92'
 
 ℹ️:
 
+- Pompa a piede 28 cm
 - Per gonfiaggio e sgonfiaggio
 - Colorato
-- Pompa a piede 28 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B001ANYRGE{{</world>}}

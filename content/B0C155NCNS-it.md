@@ -28,9 +28,9 @@ average: '89.5'
 
 ℹ️:
 
-- Cassa da 36 mm, larghezza del cinturino di 14 mm, cristallo minerale, movimento al quarzo, display analogico con cronografo, importato
-- Cassa rotonda in acciaio con quadrante bianco
 - Bracciale in acciaio bicolore
+- Cassa rotonda in acciaio con quadrante bianco
+- Cassa da 36 mm, larghezza del cinturino di 14 mm, cristallo minerale, movimento al quarzo, display analogico con cronografo, importato
 - Resistente all’acqua fino a 50 m: indossabile per nuotare in acque basse
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

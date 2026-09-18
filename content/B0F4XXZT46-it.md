@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Zip integrale e collo alto
-- 53% cotone / 47% poliestere (riciclato)
 - Orlo aperto
+- Zip integrale e collo alto
 - Orlo aperto
 - Girovita elasticizzato con cordino
 - Polsini a coste e orlo elasticizzato sulla giacca
 - Polsini a coste e orlo elasticizzato sulla giacca
+- 53% cotone / 47% poliestere (riciclato)
 - Tasche anteriori sulla giacca e sui pantaloni
 - Giacca dalla vestibilità aderente e pantaloni dalla vestibilità regolare
 

@@ -28,9 +28,9 @@ average: '17.99'
 
 ℹ️:
 
-- Lingerie
 - Da donna
 - Reggiseno
+- Lingerie
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D5BN855D{{</world>}}

@@ -28,8 +28,8 @@ average: '11.46'
 
 ℹ️:
 
-- Include tutte le etichette/imballaggi originali direttamente dal produttore/distributoreRPA2023Licenza ufficiale Funko
 - Ottima idea regalo per chi ama Bobbleheads
+- Include tutte le etichette/imballaggi originali direttamente dal produttore/distributoreRPA2023Licenza ufficiale Funko
 - Prodotto autentico al 100%
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

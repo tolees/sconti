@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Potente - La potente trasmissione a due velocità dota l’apparecchi di una potenza che gli consente di forare e avvitare con 44 Nm e 21 livelli di coppia.
+- Power X-Change - Il trapano a percussione Einhell TE-CD 18/44 Li-i (1x2,5Ah) fa parte della famiglia Power X-Change in cui batterie e caricabatterie sono liberamente intercambiabili.
 - Illuminazione ottimale – Quando si lavora in aree buie, la luce a LED integrata garantisce una visibilità ottimale per forare e avvitare con precisione.
+- Completamente accessoriato - Il trapano avvitatore Einhell TE-CD 18/44 Li-i (1x2,5Ah) si consegna con due batterie Power X-Change da 2,5 Ah e un caricabatterie rapido.
+- Comfort - Il design ergonomico e la superficie antiscivolo assicurano una presa salda e comoda del trapano avvitatore a batteria, anche in caso di uso intensivo.
 - Mandrino autoserrante - Il mandrino autoserrante in metallo robusto da 13 mm a manicotto singolo si accoppia allaccessorio desiderato in un batter docchio.
 - Si adegua al materiale - Il sistema elettronico di regolazione del numero di giri permette un adattamento ottimale a qualsiasi materiale e garantisce risultati precisi.
-- Potente - La potente trasmissione a due velocità dota l’apparecchi di una potenza che gli consente di forare e avvitare con 44 Nm e 21 livelli di coppia.
-- Comfort - Il design ergonomico e la superficie antiscivolo assicurano una presa salda e comoda del trapano avvitatore a batteria, anche in caso di uso intensivo.
-- Completamente accessoriato - Il trapano avvitatore Einhell TE-CD 18/44 Li-i (1x2,5Ah) si consegna con due batterie Power X-Change da 2,5 Ah e un caricabatterie rapido.
-- Power X-Change - Il trapano a percussione Einhell TE-CD 18/44 Li-i (1x2,5Ah) fa parte della famiglia Power X-Change in cui batterie e caricabatterie sono liberamente intercambiabili.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DDXZMYF2{{</world>}}

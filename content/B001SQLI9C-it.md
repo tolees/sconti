@@ -30,8 +30,8 @@ average: '79.7566666666667'
 
 - Custodia in acciaio inossidabile rotondo, con quadrante marrone
 - Cassa da 45 mm, larghezza della banda 22 mm, cristallo minerale, movimento al quarzo con display analogico cronografo, importato
-- Resistente allacqua fino a 100 m: può essere indossato bagni, nuotare o snorkeling e immersioni poco profonde
 - Bracciale in vera pelle colore marrone
+- Resistente allacqua fino a 100 m: può essere indossato bagni, nuotare o snorkeling e immersioni poco profonde
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B001SQLI9C{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- 3 PERSONAGGI NINJAGO: amplia la tua collezione LEGO di minifigure con un Guerriero Oni, Kai e Nya con tuta da pilota; i volti di Kai e Nya possono essere scambiati per trasformarli in Jin e Mira
 - MECH ALTAMENTE SNODABILI: ogni robot giocattolo è dotato di cockpit per una minifigure, di testa, collo, spalle, gambe, ginocchia e caviglie mobili, oltre che di armi e braccia intercambiabili
 - ESPANDI IL DIVERTIMENTO: i fan possono entrare in un mondo fantasy con gli altri set della gamma (disponibili separatamente), per ampliare le possibilità di gioco
 - DECORAZIONE DA CAMERETTA DINAMICA: dopo aver assemblato i due robot LEGO, i piccoli possono posizionarne uno sul supporto incluso per creare pose a mezz’aria e dar vita a una decorazione per la camera da letto
 - 2 ACTION FIGURE COSTRUIBILI: il set LEGO NINJAGO Mech Titanici Gemelli è un gioco di ruolo per bambini e bambine da 12 anni in su, con cui ricreare le scene della nuova storyline NINJAGO Legends: Crepuscolo
-- 3 PERSONAGGI NINJAGO: amplia la tua collezione LEGO di minifigure con un Guerriero Oni, Kai e Nya con tuta da pilota; i volti di Kai e Nya possono essere scambiati per trasformarli in Jin e Mira
 - REGALO CREATIVO: unottima idea regalo di compleanno per bambini e bambine amanti dei modellini da costruire di action figure mobili, pensata anche per gli appassionati di giocattoli LEGO NINJAGO
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

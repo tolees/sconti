@@ -28,12 +28,12 @@ average: '6.33333333333333'
 
 ℹ️:
 
-- COMPATIBILITÀ: Il Mouse 100 cablato è compatibile con tutti i dispositivi elettronici dotati di porta USB-A, e in un istante è già pronto per luso
-- SENSIBILITÀ: risposta immediata grazie al sensore ottico ottimizzato con configurazione a 1600 DPI, che assicura movimenti precisi e un controllo uniforme su unampia gamma di superfici
-- DIMENSIONI: il mouse cablato 100 misura 11,6 x 6,4 x 3,7 cm (L x P x A) e ha un peso di 90 grammi
-- CONTENUTO DELLA CONFEZIONE: Mouse cablato HP 100 Wired, scheda di garanzia, informativa prodotto
 - ERGONOMIA e DESIGN: i 3 pulsanti e la rotella di scorrimento integrata offrono maggiore produttività; il design ergonomico è pensato per adattarsi in modo naturale al palmo, rendendolo facile da utilizzare sia con la mano sinistra che con la destra
 - CONNETTIVITÀ: lavora senza alcun tipo di restrizioni, con un cavo da 1,5 m che ti offre ampia libertà di movimento quando collegato al tuo PC
+- SENSIBILITÀ: risposta immediata grazie al sensore ottico ottimizzato con configurazione a 1600 DPI, che assicura movimenti precisi e un controllo uniforme su unampia gamma di superfici
+- CONTENUTO DELLA CONFEZIONE: Mouse cablato HP 100 Wired, scheda di garanzia, informativa prodotto
+- COMPATIBILITÀ: Il Mouse 100 cablato è compatibile con tutti i dispositivi elettronici dotati di porta USB-A, e in un istante è già pronto per luso
+- DIMENSIONI: il mouse cablato 100 misura 11,6 x 6,4 x 3,7 cm (L x P x A) e ha un peso di 90 grammi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08X5KM71D{{</world>}}

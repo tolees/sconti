@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Cuoce in 18 minuti
-- Possiede un caratteristico aroma di pane appena sfornato
-- Si adatta molto bene ai piatti di pesce o crostacei
 - Riso nero
 - Un riso integrale dal colore nero “naturale”
+- Possiede un caratteristico aroma di pane appena sfornato
+- Si adatta molto bene ai piatti di pesce o crostacei
+- Cuoce in 18 minuti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00J84TAZA{{</world>}}

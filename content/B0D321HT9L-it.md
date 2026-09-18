@@ -28,12 +28,12 @@ average: '39.0'
 
 ℹ️:
 
+- Suola in gomma preformata
 - Almeno il 20% del materiale proviene da fonti riciclate
 - Chiusura in pizzo
-- Vestibilità regolare
 - Tomaia in suede
+- Vestibilità regolare
 - Fodera in tessuto
-- Suola in gomma preformata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D321HT9L{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Un caffè capace di combinare dolcezza a intensità gustativa grazie ad un sapiente equilibrio tra le migliori origini Arabica e Robusta
 - Una perfetta armonia tra aroma e corpo con un aroma unico e intenso dal piacevole retrogusto cioccolato
-- Le migliori varietà di Arabica e Robusta e una tostatura dei chicchi di caffè lenta e tradizionale, donano alla tazzina un profumo intenso
-- Conservabilità: 24 mesi dalla data di produzione. Modalità di conservazione: conservare in un luogo fresco e asciutto, lontano da fonti di calore e umidità
 - Ricca e persistente, la miscela è caratterizzata da sentori di cacao, liquirizia e frutta secca, un classico per un piacere quotidiano in famiglia
+- Conservabilità: 24 mesi dalla data di produzione. Modalità di conservazione: conservare in un luogo fresco e asciutto, lontano da fonti di calore e umidità
+- Un caffè capace di combinare dolcezza a intensità gustativa grazie ad un sapiente equilibrio tra le migliori origini Arabica e Robusta
+- Le migliori varietà di Arabica e Robusta e una tostatura dei chicchi di caffè lenta e tradizionale, donano alla tazzina un profumo intenso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B002I2BMRS{{</world>}}

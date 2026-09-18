@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Maniglia ergonomica e clip fermacavo con meccanismo di riavvolgimento manuale del cavo
 - 4 Prese universali con otturatore di protezione SICURY, prolunga elettrica 30 m, cavo in PVC con spina 2P+T 16 A (S17)
-- Progettato e prodotto in conformità alla norma CEI EN 61242 relativa alla sicurezza elettrica
-- Potenza massima prelevabile con cavo completamente avvolto 1200 W 230 V~, con cavo completamente svolto 2000 W 230 V~
 - Disgiuntore termico di protezione contro il sovraccarico
+- Potenza massima prelevabile con cavo completamente avvolto 1200 W 230 V~, con cavo completamente svolto 2000 W 230 V~
+- Maniglia ergonomica e clip fermacavo con meccanismo di riavvolgimento manuale del cavo
+- Progettato e prodotto in conformità alla norma CEI EN 61242 relativa alla sicurezza elettrica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00OM8PMPE{{</world>}}

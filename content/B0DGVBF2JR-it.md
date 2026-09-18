@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Contenuto: 1xBiopoint - Kit Hyaluplex, Shampoo 250ml e Hair Oil 50ml, Nuova Vitalità ai capelli, Colore Intenso e Lucente
 - Effetti: fortifica il capello avvolgendolo con una barriera protettiva, crea nuovi legami con la fibra capillare, rinforzandone i punti danneggiati e stressati.
+- Contenuto: 1xBiopoint - Kit Hyaluplex, Shampoo 250ml e Hair Oil 50ml, Nuova Vitalità ai capelli, Colore Intenso e Lucente
 - Una tecnologia di ultima generazione, studiata per proteggere la fibra capillare danneggiata donando ai capelli colorati e trattati un colore vibrante, luminoso e intenso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

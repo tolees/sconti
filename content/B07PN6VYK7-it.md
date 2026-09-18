@@ -28,13 +28,13 @@ average: '149.9'
 
 ℹ️:
 
-- Dotata di DOUBLE SPEED SYSTEM: possibilità di modulare le prestazioni dellidropulitrice adeguandole alle diverse esigenze di pulizia, scegliendo tra due modalità: low speed e high speed
 - Dotata di avvolgitubo, porta accessori integrato, manico a scorrimento telescopico e funzione autoadescante da serbatoio esterno
-- Pressione (bar) max. 170; potenza assorbita (kw) 2,5; portata (lh) max. 500; temperatura di alimentazione (°c) max. 50
-- Accessori inclusi: pistola, lancia e tubo ad alta pressione (8 m), testina a getto rotante, testina a getto regolabile, kit schiumogeno, patio cleaner con regolazione di pressione e spazzola fissa
-- Dotata di funzione autoadescante: se non è possibile collegarla alla rete idrica, lidropulitrice è in grado di aspirare acqua da un serbatoio
-- Attacco rapido ingresso acqua con filtro ispezionabile che trattiene le impurità e garantisce il perfetto funzionamento dellidropulitrice
 - Total stop system: quando si rilascia la leva della pistola lidropulitrice si spegne assicurando una minore usura e risparmio di energia elettrica
+- Accessori inclusi: pistola, lancia e tubo ad alta pressione (8 m), testina a getto rotante, testina a getto regolabile, kit schiumogeno, patio cleaner con regolazione di pressione e spazzola fissa
+- Dotata di DOUBLE SPEED SYSTEM: possibilità di modulare le prestazioni dellidropulitrice adeguandole alle diverse esigenze di pulizia, scegliendo tra due modalità: low speed e high speed
+- Attacco rapido ingresso acqua con filtro ispezionabile che trattiene le impurità e garantisce il perfetto funzionamento dellidropulitrice
+- Pressione (bar) max. 170; potenza assorbita (kw) 2,5; portata (lh) max. 500; temperatura di alimentazione (°c) max. 50
+- Dotata di funzione autoadescante: se non è possibile collegarla alla rete idrica, lidropulitrice è in grado di aspirare acqua da un serbatoio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07PN6VYK7{{</world>}}

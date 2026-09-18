@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Composizione dei materiali: 100% cotone
-- Vestibilità regolare
-- Lunghezza standard
-- Tipo di chiusura: bottoni
 - Camicia a maniche lunghe della JACK&JONES
+- Vestibilità regolare
+- Composizione dei materiali: 100% cotone
+- Tipo di chiusura: bottoni
+- Lunghezza standard
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07CCJJCW4{{</world>}}

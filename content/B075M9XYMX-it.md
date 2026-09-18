@@ -29,9 +29,9 @@ average: '5.215'
 ℹ️:
 
 - Design compatto per posizionamento flessibile
-- Estensione semplice della rete cablata
-- Plug and play: nessuna configurazione richiesta
 - 5 porte 10/100Mbps RJ45, con auto-negoziazione e auto MDI / MDIX
+- Plug and play: nessuna configurazione richiesta
+- Estensione semplice della rete cablata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B075M9XYMX{{</world>}}

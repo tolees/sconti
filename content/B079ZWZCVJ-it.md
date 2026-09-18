@@ -28,9 +28,9 @@ average: '15.71'
 
 ℹ️:
 
-- Con nucleotide che contribuisce allo sviluppo del sistema immunitario, stimolando i meccanismi di difesa
 - Confezione da 7 pacchi con 150 g di prodotto luno
 - Per una microflora intestinale sana
+- Con nucleotide che contribuisce allo sviluppo del sistema immunitario, stimolando i meccanismi di difesa
 - Con omega 3 che sviluppa la mente e le capacità cognitive
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

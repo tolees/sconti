@@ -29,9 +29,9 @@ average: '23.6'
 ℹ️:
 
 - Larghezza nastro: 19 mm
-- Lettura diretta sulla finestrella superiore
-- Materiale: acciaio al carbonio rivestito in Mylar
 - Con pulsante di bloccaggio
+- Materiale: acciaio al carbonio rivestito in Mylar
+- Lettura diretta sulla finestrella superiore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B001IZOIGS{{</world>}}

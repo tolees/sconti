@@ -28,11 +28,11 @@ average: '9.9'
 
 ℹ️:
 
-- Non adatto al lavaggio in Lavastoviglie
 - Capacità 300ml
-- Prodotto con effetto termo-sensibile: a contatto con il calore il prodotto cambia colore, passando da nero a rosso e svelando le radici del sottosopra
-- Non usare in Microonde
 - Prodotto con effetto termo-sensibile: a contatto con il calore il prodotto cambia colore, passando da nero a rosso e svelando le radici Capacità 300ml Prodotto in ceramica
+- Non usare in Microonde
+- Prodotto con effetto termo-sensibile: a contatto con il calore il prodotto cambia colore, passando da nero a rosso e svelando le radici del sottosopra
+- Non adatto al lavaggio in Lavastoviglie
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FJ9PDY9B{{</world>}}

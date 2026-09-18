@@ -28,8 +28,8 @@ average: '49.0'
 
 ℹ️:
 
-- Collo, polsini e orlo a costine
 - Nastro distintivo interno dello scollo
+- Collo, polsini e orlo a costine
 - Puro cotone pettinato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -31,8 +31,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 - Biscotti frollini a doppia consistenza, con base al latte e al cacao
 - Ogni incarto individuale contiene 2 biscotti
 - Caratterizzati dai piccoli decori cremosi
-- Box/Espositore da 24 confezioni singole
 - Gusto Unico Kinder
+- Box/Espositore da 24 confezioni singole
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FYPY9C2Z{{</world>}}

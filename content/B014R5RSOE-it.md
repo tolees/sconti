@@ -28,9 +28,9 @@ average: '13.49'
 
 ℹ️:
 
-- Attacco: Profilo trazione doppio esagono esterno
 - Resistenza almeno due volte maggiore rispetto a DIN
 - Più lunga almeno del 25% rispetto alle chiavi standard paragonabili Migliore accessibilità per avvitamenti molto profondi Corpo con doppio profilo a T estremamente stabile forma sottile
+- Attacco: Profilo trazione doppio esagono esterno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B014R5RSOE{{</world>}}

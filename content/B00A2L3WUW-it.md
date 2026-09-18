@@ -28,10 +28,10 @@ average: '5.09'
 
 ℹ️:
 
-- AVVERTENZE: non ingerire il prodotto
 - LUNGA DURATA: CB12 neutralizza i cattivi odori fino a 12 ore garantendo una freschezza prolungata e una protezione completa
 - CB12 COLLUTORIO: il collutorio CB12 elimina i batteri responsabili dellalitosi, assicurando unefficacia scientificamente dimostrata, combattendo il problema alla radice
 - RINFRESCANTE: il sapore alla menta delicata senza alcool garantisce unesperienza piacevole e confortevole
+- AVVERTENZE: non ingerire il prodotto
 - USO QUOTIDIANO: grazie al fluoruro il collutorio ha unazione delicata sulle gengive, proteggendo e rinforzando la salute orale senza irritare le zone delicate
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

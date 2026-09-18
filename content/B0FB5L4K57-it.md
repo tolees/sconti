@@ -28,8 +28,8 @@ average: '21.09'
 
 ℹ️:
 
-- Estampado gráfico al agua en la parte delantera
 - Tejido | Punto sencillo de algodón 100 % de 180 g/m² Tallas | XS-XXL
+- Estampado gráfico al agua en la parte delantera
 - Se puede lavar a máquina Colgar a secar Usar detergente suave Comprobar antes de lavar
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

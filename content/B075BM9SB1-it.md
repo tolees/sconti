@@ -30,9 +30,9 @@ average: '7.75'
 
 - Possibilità di fissaggio con chiodo, vite o fascette; spina orientabile per utilizzo anche salvaspazio
 - Disponibili anche con USB High Power
+- Prese per collegamento elettrodomestici: 2 biprese, 1 Presa universale
 - Prese sicure grazie al dispositivo Sicury, che protegge da contatti accidentali con le parti in tensione
 - Limitatore di sovratensione per evitare il cortocircuito dei dispositivi collegati
-- Prese per collegamento elettrodomestici: 2 biprese, 1 Presa universale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B075BM9SB1{{</world>}}

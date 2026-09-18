@@ -28,8 +28,8 @@ average: '11.74'
 
 ℹ️:
 
-- Perfect flavour in every bite
 - Concediti una porzione o servile come gustoso snack da condividere
+- Perfect flavour in every bite
 - Idoneo ai vegetariani
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

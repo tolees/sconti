@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Ottimo come digestivo insieme a 2/3 di champagne, è delizioso anche come aperitivo
-- Mélange unico e armonioso
 - Unisce i sentori olfattivi tipici del cognac ai profumi fruttati delle pere Williams
-- Gradazione alcolica: 30%
+- Ottimo come digestivo insieme a 2/3 di champagne, è delizioso anche come aperitivo
 - Piacevole e dal gusto avvolgente
+- Gradazione alcolica: 30%
+- Mélange unico e armonioso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01M0XCDOJ{{</world>}}

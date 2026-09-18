@@ -28,8 +28,8 @@ average: '32.7'
 
 ℹ️:
 
-- Comfort
 - Tomaia in rete
+- Comfort
 - Skechers Dettaglio Logo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

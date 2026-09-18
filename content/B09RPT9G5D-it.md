@@ -28,11 +28,11 @@ average: '49.9'
 
 ℹ️:
 
-- Indicatore di batteria a LED
 - 10 pettini diagonali per le sfumature fino a 16 mm + 9 pettini fissi per le lunghezze (1.5-2.5 mm)
 - 100% Resistente allacqua
-- Autonomia di 120 min, ricarica completa in 4h
+- Indicatore di batteria a LED
 - Lame in acciaio giapponese autoaffilanti, lama principale da 45 mm removibile
+- Autonomia di 120 min, ricarica completa in 4h
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09RPT9G5D{{</world>}}

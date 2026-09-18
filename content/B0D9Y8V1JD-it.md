@@ -28,11 +28,11 @@ average: '39.5'
 
 ℹ️:
 
-- Aroma: crema di fichi e confetture di frutti di bosco; Aromi pronunciati di butterscotch inglese e ciliegie essiccate;
 - Metodo di Produzione: i rum domenicani più pregiati vengono selezionati da esperti maestri bottai; il blend viene fatto invecchiare 10 anni in botti di Tawny 10 con diversi gradi di tostatura;
 - Ideale per: Formaggi, dessert eleganti e tagli selezionati di carni rosse che esaltano la complessità e la ricchezza unica che caratterizzano questo esuberante liquore al rum;
-- Colore: ambrato violaceo esuberante; Gradazione (% Vol.): 40;
 - Al palato: setoso e dolce al palato, con un finale lungo e persistente; Al naso: offre un sentore di legno sottile ma persistente;
+- Colore: ambrato violaceo esuberante; Gradazione (% Vol.): 40;
+- Aroma: crema di fichi e confetture di frutti di bosco; Aromi pronunciati di butterscotch inglese e ciliegie essiccate;
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D9Y8V1JD{{</world>}}

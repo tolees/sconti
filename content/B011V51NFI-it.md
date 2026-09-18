@@ -30,8 +30,8 @@ average: '10.14'
 
 - Logo PUMA sul cinturino
 - Cinturino in EVA
-- Suola in EVA per la presa
 - Motivo inferiore testurizzato per presa e durata
+- Suola in EVA per la presa
 - Plantare sagomato in EVA per un comfort ottimale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

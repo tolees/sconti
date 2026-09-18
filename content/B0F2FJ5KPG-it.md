@@ -28,11 +28,11 @@ average: '29.99'
 
 ℹ️:
 
-- Tomaia in pelle e materiale sintetico
-- Fodera in tessuto
+- Tomaia traforata
 - Chiusura con lacci
 - Calzata regolare
-- Tomaia traforata
+- Fodera in tessuto
+- Tomaia in pelle e materiale sintetico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F2FJ5KPG{{</world>}}

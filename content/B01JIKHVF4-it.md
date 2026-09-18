@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Adattatore con interruttore esterno a pedale
 - Pratica spia dello stato di commutazione sullinterruttore esterno
 - Robusto interruttore a pedale con cavo flessibile di 1.5 m
-- Adattatore con interruttore esterno a pedale
 - Pratica spia dello stato di commutazione sullinterruttore esterno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

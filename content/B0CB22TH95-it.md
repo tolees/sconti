@@ -28,8 +28,8 @@ average: '38.97'
 
 ℹ️:
 
-- Intersuola ammortizzata flessibile
 - Altezza tacco 3/4"
+- Intersuola ammortizzata flessibile
 - Allenamento leggero con lacci con rete ingegnerizzata e tomaia sintetica
 - Suola di trazione super flessibile
 

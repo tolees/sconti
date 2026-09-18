@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- FORMULA VEGANA : rispettosa dei capelli e dellambiente.
-- ANTI-CRESPO : controlla leffetto crespo per capelli gestibili e ordinati.
 - RIPARAZIONE PROFONDA : penetra nella fibra capillare per ripristinare capelli secchi e danneggiati.
+- ANTI-CRESPO : controlla leffetto crespo per capelli gestibili e ordinati.
 - LUCENTEZZA NATURALE : dona luminosità senza appesantire, risultato sano.
+- FORMULA VEGANA : rispettosa dei capelli e dellambiente.
 - MASCHERA IDRATANTE : arricchita con Arancia, Chia e Olio di Marula, nutre i capelli in profondità.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

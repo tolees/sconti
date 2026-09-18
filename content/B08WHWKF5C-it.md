@@ -28,11 +28,11 @@ average: '8.50666666666667'
 
 ℹ️:
 
-- Applicazione: applicare due volte al giorno con un leggero massaggio
-- Formula: con acido ialuronico e prebiotici naturali, rinforza ed equilibra la flora cutanea, contribuendo a proteggere la pelle
 - Contenuto: 1x Crema Corpo Super Idratante 48H; quantità: 400 ml
 - Prodotto: crema corpo super idratante 48h, con olio di melograno che svolge unazione antiossidante, si assorbe rapidamente lasciando la pelle liscia
 - Effetto: la pelle si mantiene tonica ed elastica, oltre che irresistibilmente liscia e setosa
+- Applicazione: applicare due volte al giorno con un leggero massaggio
+- Formula: con acido ialuronico e prebiotici naturali, rinforza ed equilibra la flora cutanea, contribuendo a proteggere la pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08WHWKF5C{{</world>}}

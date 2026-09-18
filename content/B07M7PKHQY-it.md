@@ -28,9 +28,9 @@ average: '8.65'
 
 ℹ️:
 
-- Girocollo, lunghezza ai fianchi, taglio dritto
-- Tinta unita, grande etichetta stampata sul davanti
 - T-shirt da uomo moderna del marchio Jack&Jones
+- Tinta unita, grande etichetta stampata sul davanti
+- Girocollo, lunghezza ai fianchi, taglio dritto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07M7PKHQY{{</world>}}

@@ -28,9 +28,9 @@ average: '40.49'
 
 ℹ️:
 
-- L’innovativo sistema di combattimento unisce un gameplay strategico basato sui comandi con azione frenetica. Passa rapidamente da un personaggio all’altro, domina il potere della materia, evoca creature iconiche e scatena devastanti tecniche limite.
-- FINAL FANTASY VII REMAKE INTERGRADE offre missioni e minigiochi, in aree espanse di Midgar. Incontra nuovi personaggi e divertiti con contenuti aggiuntivi che donano ancora più profondità alla storia.
 - Esplora Midgar come mai prima d’ora con una grafica mozzafiato e ambienti estremamente dettagliati che danno vita ai distretti industriali della città, rimanendo sempre fedeli allo spirito del gioco originale.
+- FINAL FANTASY VII REMAKE INTERGRADE offre missioni e minigiochi, in aree espanse di Midgar. Incontra nuovi personaggi e divertiti con contenuti aggiuntivi che donano ancora più profondità alla storia.
+- L’innovativo sistema di combattimento unisce un gameplay strategico basato sui comandi con azione frenetica. Passa rapidamente da un personaggio all’altro, domina il potere della materia, evoca creature iconiche e scatena devastanti tecniche limite.
 - Segui la storia di Cloud Strife, un ex-SOLDIER diventato mercenario, che si unisce ad Avalanche per affrontare la Compagnia Elettrica Shinra. Cloud e i suoi alleati Barret, Tifa e Aerith sono coinvolti in una battaglia da cui dipendono le sorti del pianeta.
 - La colonna sonora è stata interamente rimasterizzata, con brani riarrangiati e orchestrate che rispondono dinamicamente all’azione, offrendo un’esperienza musicale emozionante e immersiva
 

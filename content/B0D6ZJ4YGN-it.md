@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Bagnodoccia UOMO COOL FRESH: Dove Men Care 3 in 1 dona 24 ore di idratazione dalla testa ai piedi
 - TECNOLOGIA MICROMOISTURE: questa formula altamente efficace ti offre alta idratazione e una sensazione di comfort totale sulla pelle
+- Bagnodoccia UOMO COOL FRESH: Dove Men Care 3 in 1 dona 24 ore di idratazione dalla testa ai piedi
 - AZIONE IDRATANTE: deterge e idrata la cute proteggendola dalla secchezza
 - MODO DUSO: applica il bagnodoccia su capelli, viso e corpo per sentirti rinfrescato dalla testa ai piedi, risciacqua e asciuga con un asciugamano
 - FORMULA 3 in 1: docciaschiuma 3 in 1 che idrata il corpo, deterge il volto e si prende cura dei tuoi capelli

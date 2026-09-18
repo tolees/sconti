@@ -28,11 +28,11 @@ average: '15.05'
 
 ℹ️:
 
+- Original Hawkers product; Package includes microfiber pouch and box
 - Occhiali da sole categoria filtro 3, colorazione sufficientemente scura per ambienti esterni con luce diretta del sole; Assorbono tra l82% e il 92% della luce solare; Materiale lenti: Lenti TR18 con sigillo Eastman, gran qualità ottica e buona resistenza; Materiali eco-sostenibili; Protezione 100% UV; Colore lenti: Oro rosa; Aspetto lenti: A specchio
 - Modello femminile; Misure: Frontale 144 mm, Asti 140 mm, Ponte 19 mm, Altezza 54.9 mm
-- Original Hawkers product; Package includes microfiber pouch and box
-- Occhiali da sole stile farfalla ispirati alla Hollywood degli anni 70; Una silhouette dalle linee sofisticate ed eleganti con un tocco nostalgico in tributo alla femminilità classica; Disponibili in vari colori di montature e lenti
 - Materiale montatura: TR90; Colore montatura: Nero; Colore asta: Nero
+- Occhiali da sole stile farfalla ispirati alla Hollywood degli anni 70; Una silhouette dalle linee sofisticate ed eleganti con un tocco nostalgico in tributo alla femminilità classica; Disponibili in vari colori di montature e lenti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07RQ9JQVH{{</world>}}

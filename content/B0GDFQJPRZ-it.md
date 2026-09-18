@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - 📜 INFORMAZIONI SUL GIOCO: Numero giocatori: 1-4 – Età consigliata: 8+ anni – Durata media: 30-45 min. – Edizione in italiano.
 - MODALITÀ SOLITARIO: Nel regolamento è presente anche la modalità giocatore singolo
-- REGOLAMENTO SEMPLICE: I giocatori devono creare splendidi disegni utilizzando gocce dinchiostro. Ogni mossa lascia un segno permanente e i giocatori devono pensare strategicamente per massimizzare il proprio impatto e limitare le possibilità dell’avversario.
 - OBIETTIVO: Vince il primo giocatore che riesce a piazzare tutte le sue bottigliette d’inchiostro!
+- REGOLAMENTO SEMPLICE: I giocatori devono creare splendidi disegni utilizzando gocce dinchiostro. Ogni mossa lascia un segno permanente e i giocatori devono pensare strategicamente per massimizzare il proprio impatto e limitare le possibilità dell’avversario.
 - RIGIOCABILITÀ: Cambiando il set di Azioni Bonus avrete modo di sperimentare nuove strategie!
 - INK è un gioco da tavolo astratto, strategico e competitivo in cui leleganza minimale del design si intreccia con una profondità tattica.
 

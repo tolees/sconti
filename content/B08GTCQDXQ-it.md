@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Ricchi in fibre: la pasta integrale Misura è preparata con semola di grano duro integrale, naturalmente ricca di fibre
+- Solo grano 100% italiano, proveniente da sementi certificate all’origine e sottoposto a rigorosi controlli di qualità
+- Filiera 100% italiana: tutto il processo produttivo dei tortiglioni Misura è tracciabile, dal seme fino al prodotto finito
 - Lavorati con trafilatura al bronzo per un gusto unico
 - Confezione 100% compostabile: l’imballo di questo prodotto è realizzato con materiali compostabili fra i quali il Mater-Bi
-- Solo grano 100% italiano, proveniente da sementi certificate all’origine e sottoposto a rigorosi controlli di qualità
-- Ricchi in fibre: la pasta integrale Misura è preparata con semola di grano duro integrale, naturalmente ricca di fibre
-- Filiera 100% italiana: tutto il processo produttivo dei tortiglioni Misura è tracciabile, dal seme fino al prodotto finito
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08GTCQDXQ{{</world>}}

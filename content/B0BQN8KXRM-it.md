@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- VERDE INTENSO - Le sementi prato CHAMPION creano un tappeto erboso fitto e uniforme, dal colore verde scuro e dall’aspetto sempre curato, perfetto per ogni tipo di giardino.
 - RICRESCITA RAPIDA - I semi erba prato assicurano germinazione veloce e copertura regolare. Ideali per la rigenerazione di prati danneggiati o usurati, garantendo un risultato omogeneo.
-- ALTA RESISTENZA - Miscuglio con festuca arundinacea di ultima generazione. Sementi per prato altamente resistenti a siccità, malattie e alte temperature, ideali per zone soleggiate e climi caldi.
 - QUALITÀ LERAVA - Sementi per prato selezionate e testate secondo standard elevati. Offrono risultati professionali, lunga durata e una crescita stabile in ogni stagione.
 - BASSA MANUTENZIONE - Il prato ottenuto tollera tagli bassi e mantiene un aspetto sano con poca cura. Perfetto per chi desidera un prato robusto e duraturo tutto l’anno.
+- VERDE INTENSO - Le sementi prato CHAMPION creano un tappeto erboso fitto e uniforme, dal colore verde scuro e dall’aspetto sempre curato, perfetto per ogni tipo di giardino.
+- ALTA RESISTENZA - Miscuglio con festuca arundinacea di ultima generazione. Sementi per prato altamente resistenti a siccità, malattie e alte temperature, ideali per zone soleggiate e climi caldi.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BQN8KXRM{{</world>}}

@@ -28,10 +28,10 @@ average: '120.605555555554'
 
 ℹ️:
 
-- Soletta: suola rimovibile in EVA con sistema di ammortizzazione
+- Fodera:
 - Colore: marrone scuro
 - Materiale tomaia: pelle (pelle bovina)
-- Fodera:
+- Soletta: suola rimovibile in EVA con sistema di ammortizzazione
 - Suola/caratteristiche: suola in EVA per leggerezza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

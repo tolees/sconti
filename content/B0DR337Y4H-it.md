@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- La montatura RXable permette di applicare lenti oftalmiche.
-- Le tonalità delle lenti effetto sfumato richiamano gli stessi toni della montatura.
 - Questo modello è una M
+- Le tonalità delle lenti effetto sfumato richiamano gli stessi toni della montatura.
+- La montatura RXable permette di applicare lenti oftalmiche.
 - La struttura è realizzata in G820, formata per il 60% da resina vegetale
 - Decisa forma rettangolare addolcita da una silhouette fluida, per un look genderless e originale
 

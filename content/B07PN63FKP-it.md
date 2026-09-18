@@ -28,16 +28,16 @@ average: '92.6633333333333'
 
 ℹ️:
 
+- Tanica semitrasparente di 2 litri, è possibile prevedere lo scarico in continuo dellacqua
+- Prodotto di ottima qualità
+- Tanica semitrasparente di 2 litri, è possibile prevedere lo scarico in continuo dellacqua
+- Con gas refrigerante naturale r290 per il minimo impatto sul riscaldamento globale (gwp = 3)
 - Deumidifica fino a 10 litri al giorno (db 32°c -wb 29°c) ambienti fino a 45 m³
 - Maneggevole e facile da trasportare; con soli 185 mm di spessore
-- Tanica semitrasparente di 2 litri, è possibile prevedere lo scarico in continuo dellacqua
-- Tanica semitrasparente di 2 litri, è possibile prevedere lo scarico in continuo dellacqua
-- Maneggevole e facile da trasportare; con soli 185 mm di spessore
-- Prodotto di ottima qualità
 - Massima sicurezza garantita dal dispositivo di sbrinamento e dalla segnalazione tanica piena
 - Con gas refrigerante naturale r290 per il minimo impatto sul riscaldamento globale (gwp = 3)
 - Deumidifica fino a 10 litri al giorno (db 32°c -wb 29°c) ambienti fino a 45 m³
-- Con gas refrigerante naturale r290 per il minimo impatto sul riscaldamento globale (gwp = 3)
+- Maneggevole e facile da trasportare; con soli 185 mm di spessore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07PN63FKP{{</world>}}

@@ -28,9 +28,9 @@ average: '724.25'
 
 ℹ️:
 
+- CAPACITÀ 72 LITRI: Forno da incasso multifunzione PizzaExpert con cavità da 72 litri.
 - CLASSE ENERGETICA A++: Etichetta energetica UE di classe A++ per questo modello.
 - TERMOSONDA INCLUSA: Termosonda per il controllo della temperatura interna degli alimenti.
-- CAPACITÀ 72 LITRI: Forno da incasso multifunzione PizzaExpert con cavità da 72 litri.
 - PULIZIA PIROLITICA: Funzione di pulizia pirolitica che brucia i residui ad alta temperatura.
 - DISPLAY EXCITE TOUCH: Display EXCite touch con connettività Wi-Fi per il controllo del forno.
 

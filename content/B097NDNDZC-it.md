@@ -28,11 +28,11 @@ average: '10.48'
 
 ℹ️:
 
-- LED replacement for conventional compact fluorescent lamps for use in ECG luminaires or on AC mains
-- Durata: fino a 30.000 ore
-- Grado di protezione: IP20
 - Rotatable base around its longitudinal axis (± 90°)
 - Monoattacco a innesto a quattro pin G24q
+- LED replacement for conventional compact fluorescent lamps for use in ECG luminaires or on AC mains
+- Grado di protezione: IP20
+- Durata: fino a 30.000 ore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B097NDNDZC{{</world>}}

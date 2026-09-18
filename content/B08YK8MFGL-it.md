@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - TOUGHAIR 310 è un dissipatore a torre con singola ventola, progettato con 4 tubi per la dissipazione del calore che attraversano le alette, i tubi di calore a forma di U aumentano la circolazione del calore creando una migliore dissipazione dello stesso nel sistema. Supporta fino a 170W.
-- CPU Socket Intel LGA 2066/2011-3/2011/1700/1200/1156/1155/1151/1150 & AMD AM5/AM4/AM3+/AM3/AM2+/AM2/FM2/FM1
 - La serie TOUGHAIR utilizza ventole ad alta pressione statica, che sfruttano il design TOUGHFAN 12 e raggiungono una velocità delle ventole fino a 2000 RPM, fornendo un alto grado di prestazione di raffreddamento per la CPU.
+- CPU Socket Intel LGA 2066/2011-3/2011/1700/1200/1156/1155/1151/1150 & AMD AM5/AM4/AM3+/AM3/AM2+/AM2/FM2/FM1
 - 4 tubi di calore da 6 mm sono a contatto direttamente con la CPU e la pasta termica. Il design a forma di U crea una circolazione perfetta per migliorare le prestazioni di raffreddamento della CPU.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

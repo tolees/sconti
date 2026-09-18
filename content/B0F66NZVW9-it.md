@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Baseus BC1 Open Ear Cuffie clip per orecchie con suono impressionante amplificazione dei bassi adattivi Bluetooth 6.0 cancellazione del rumore durante le chiamate IP55 batteria 38H luce buds'
-date: 2026-09-14 15:27:15
+date: 2026-09-18 16:48:13
 image: 'https://m.media-amazon.com/images/I/21koF7CDsmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0F66NZVW9/?tag=tolees00-21'
 descuento: '30.01'
-average: '29.1225'
+average: '28.896'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

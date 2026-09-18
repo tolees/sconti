@@ -28,8 +28,8 @@ average: '14.93'
 
 ℹ️:
 
-- 100% cotone Better Source
 - Scollo rotondo
+- 100% cotone Better Source
 - Maglietta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

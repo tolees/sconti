@@ -29,9 +29,9 @@ average: '19.99'
 ℹ️:
 
 - Raffica daria fredda per fissare lacconciatura; gancio per appendere; griglia posteriore rimovibile per una facile pulizia
+- 2300 W di potenza; portata 85 km/h: potente ma delicato asciugacapelli da 2100 W che funziona altrettanto velocemente di un asciugacapelli da 2300 W ma con meno calore e maggiore protezione
 - Griglia in ceramica che distribuisce il calore in modo uniforme, asciugatura più piacevole grazie al basso rumore.
 - Concentratore a ugello stretto e diffusore per capelli ricci o volume; controllo scorrevole del calore: 3 temperature / 2 velocità.
-- 2300 W di potenza; portata 85 km/h: potente ma delicato asciugacapelli da 2100 W che funziona altrettanto velocemente di un asciugacapelli da 2300 W ma con meno calore e maggiore protezione
 - Condizionamento ionico: 90% in più di ioni per capelli lucidi e non crespi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

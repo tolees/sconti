@@ -29,10 +29,10 @@ average: '2027.26'
 ℹ️:
 
 - Prestazioni professionali: sensore Live MOS BSI da 20MP impilato garantisce immagini eccezionalmente nitide e ricche di dettagli in ogni situazione.
-- Autofocus rapido: sistema Quad Pixel AF con 1.053 punti a croce, rilevamento intelligente dei soggetti anche in rapido movimento come animali e persone.
-- Resistenza estrema: corpo tropicalizzato con certificazione IP53 assicurano protezione da pioggia, polvere e temperature fino a -10°C, ideale per uso outdoor.
-- Controllo creativo: filtro ND graduato in tempo reale ottimizza l’esposizione, offrendo massimo controllo della luce in condizioni di forte contrasto.
 - Stabilizzazione avanzata: la stabilizzazione dell’immagine su 5 assi fino a 8,5 stop riduce il mosso e permette scatti perfetti anche con poca luce e a mano libera.
+- Controllo creativo: filtro ND graduato in tempo reale ottimizza l’esposizione, offrendo massimo controllo della luce in condizioni di forte contrasto.
+- Resistenza estrema: corpo tropicalizzato con certificazione IP53 assicurano protezione da pioggia, polvere e temperature fino a -10°C, ideale per uso outdoor.
+- Autofocus rapido: sistema Quad Pixel AF con 1.053 punti a croce, rilevamento intelligente dei soggetti anche in rapido movimento come animali e persone.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CSZ49STS{{</world>}}

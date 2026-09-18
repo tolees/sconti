@@ -28,11 +28,11 @@ average: '27.22'
 
 ℹ️:
 
-- Tessuto idrorepellente e robusto: 100% poliestere, ignifugo, rivestimento in PU da 450 mm, protezione UV
-- Elevata flessibilità: il pannello laterale può essere utilizzato su qualsiasi lato del gazebo, è possibile combinare diversi pannelli laterali
-- Elevata protezione solare: il pannello laterale è dotato di certificato Coleman UVGuard con SPF 50+ per fornire protezione sia dai raggi ultravioletti del sole che dalla pioggia leggera
-- Semplice da installare: la parete laterale può essere facilmente fissata allEvent Shelter XL con clip a J; pannello laterale chiuso
 - Contenuto della confezione: 1 parete laterale (dimensioni ca. 4,5 x 1,9 m); dimensioni confezione: 6,5 x 24 x 36 cm, peso: 1,4 kg; borsa da trasporto inclusa (poliestere); da usare solo con Event Shelter Pro XL
+- Tessuto idrorepellente e robusto: 100% poliestere, ignifugo, rivestimento in PU da 450 mm, protezione UV
+- Semplice da installare: la parete laterale può essere facilmente fissata allEvent Shelter XL con clip a J; pannello laterale chiuso
+- Elevata protezione solare: il pannello laterale è dotato di certificato Coleman UVGuard con SPF 50+ per fornire protezione sia dai raggi ultravioletti del sole che dalla pioggia leggera
+- Elevata flessibilità: il pannello laterale può essere utilizzato su qualsiasi lato del gazebo, è possibile combinare diversi pannelli laterali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00TIIAE7Y{{</world>}}

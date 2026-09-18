@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Scollo con bottoni
 - Colletto a punta
 - Vestibilità regolare
+- Scollo con bottoni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CSDSQFGX{{</world>}}

@@ -28,9 +28,9 @@ average: '14.104'
 
 ℹ️:
 
-- I personaggi, le ambientazioni e la storia sono stati completamente rivisitati per creare un nuovo e terrificante mondo
 - Rivivi il seminale classico survival horror di Capcom, completamente ricostruito con tecnologia allavanguardia, con una trama più profonda e articolata e ottime funzionalità
 - Torna nelle strade infestate da zombi di Raccoon City per un remake del capolavoro survival horror di Capcom
+- I personaggi, le ambientazioni e la storia sono stati completamente rivisitati per creare un nuovo e terrificante mondo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07DM6YN7G{{</world>}}

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Il telaio in acciaio anticorrosione si monta grazie ai pratici raccordi a scatto ClickConnect
-- Contenuto: 1 piscina, 1 pompa di filtraggio a cartuccia, 1 cartuccia filtrante, 1 scaletta per piscina, toppa di riparazione
-- Rivestimento in materiale rinforzato a 3 strati Tritech
 - Dimensioni: 412 cm x 201 cm x 122 cm
+- Contenuto: 1 piscina, 1 pompa di filtraggio a cartuccia, 1 cartuccia filtrante, 1 scaletta per piscina, toppa di riparazione
+- Il telaio in acciaio anticorrosione si monta grazie ai pratici raccordi a scatto ClickConnect
+- Rivestimento in materiale rinforzato a 3 strati Tritech
 - Capacità di riempimento (90%): 8.124 L
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- GRADAZIONE ALCOLICA: 0.5% Vol.
 - FORMATO: cassa di birra con 24 Bottiglie da 33cl
 - IDEALE CON: Aperitivi, piatti leggeri e delicati.
 - IL LUPPOLO ITALIANO PER IL BIRRIFICIO ANGELO PORETTI: i nostri Mastri Birrai hanno perfezionato la ricetta utilizzando una vairetà di luppolo coltivato in Italia, il Cascade, che dona alla birra un gusto unico.
-- LUPPOLO DOMINANTE: luppolo Cascade coltivato in Italia.
 - 4 LUPPOLI ZERO DEL BIRRIFICIO ANGELO PORETTI: birra analcolica leggera e profumata, dal corpo delicato e vellutato, da gustare senza pensieri.
+- GRADAZIONE ALCOLICA: 0.5% Vol.
+- LUPPOLO DOMINANTE: luppolo Cascade coltivato in Italia.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B098MV32PF{{</world>}}

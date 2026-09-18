@@ -28,11 +28,11 @@ average: '19.99'
 
 ℹ️:
 
-- Tipologia di prodotto : Pantaloncini relaxed fit
 - Fianchi : Vita alta
 - Chiusura : Patta
 - Tasche : Tasche posteriori, Tasche cargo, Tasche frontali
 - Vestibilità : Relaxed fit con vita media, vestibilità rilassata su cosce e fondo gamba
+- Tipologia di prodotto : Pantaloncini relaxed fit
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F43YN53W{{</world>}}

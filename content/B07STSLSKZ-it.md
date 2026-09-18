@@ -28,11 +28,11 @@ average: '1.69'
 
 ℹ️:
 
+- LYCIA NATURE: un deodorante spray dal profumo fresco e avvolgente di Cetriolo e Tè Verde che lascia la tua pelle fresca e libera di respirare
+- SCOPRI LYCIA: Lycia nasce da una ricerca attenta e minuziosa, pensata per valorizzare il corpo con ingredienti e materie prime di origine controllata, e formulazioni efficaci e delicate Made in Italy
 - ZERO MACCHIE: la sua formula zero macchie ti permette di goderti la sensazione di pulito senza residui o aloni gialli sui vestiti
 - EFFICACE FINO A 48H: garantisce una protezione asciutta che dura fino a 48 ore, assicurando comfort e freschezza prolungati per affrontare la giornata con sicurezza e tranquillità
 - DEODORANTE ANTIBATTERICO: grazie all’Antibatterico Naturale elimina i cattivi odori e rispetta la naturale traspirazione della pelle, offrendoti unesperienza profumata per più a lungo
-- SCOPRI LYCIA: Lycia nasce da una ricerca attenta e minuziosa, pensata per valorizzare il corpo con ingredienti e materie prime di origine controllata, e formulazioni efficaci e delicate Made in Italy
-- LYCIA NATURE: un deodorante spray dal profumo fresco e avvolgente di Cetriolo e Tè Verde che lascia la tua pelle fresca e libera di respirare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07STSLSKZ{{</world>}}

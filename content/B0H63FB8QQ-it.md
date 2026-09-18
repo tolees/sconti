@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Da oltre 200 anni Colussi porta in tavola l’autentica bontà di casa e i sapori di una volta, tramandando di generazione in generazione il suo tocco inconfondibile
-- La sua iconica forma tonda dai bordi frastagliati racconta la storia di Colussi e incontra la praticità delle monoporzioni per accompagnarti ovunque con il gusto di sempre
-- Ingredienti semplici e genuini, come farina e uova fresche italiane, per una bontà autentica che conquista fin dal primo assaggio
-- I frollini Colussi Sempre con Te con gocce di cioccolato uniscono una ricetta irresistibile a tutta la praticità di un biscotto da gustare a colazione o portare con te ovunque tu abbia voglia di bontà
 - Grazie alle sei pratiche monoporzioni, puoi gustarli dove vuoi: in ufficio, in auto o in viaggio, per una colazione on-the-go o per spezzare la fame con gusto
+- La sua iconica forma tonda dai bordi frastagliati racconta la storia di Colussi e incontra la praticità delle monoporzioni per accompagnarti ovunque con il gusto di sempre
+- I frollini Colussi Sempre con Te con gocce di cioccolato uniscono una ricetta irresistibile a tutta la praticità di un biscotto da gustare a colazione o portare con te ovunque tu abbia voglia di bontà
+- Ingredienti semplici e genuini, come farina e uova fresche italiane, per una bontà autentica che conquista fin dal primo assaggio
+- Da oltre 200 anni Colussi porta in tavola l’autentica bontà di casa e i sapori di una volta, tramandando di generazione in generazione il suo tocco inconfondibile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0H63FB8QQ{{</world>}}

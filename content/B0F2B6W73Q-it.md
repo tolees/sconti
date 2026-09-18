@@ -28,8 +28,8 @@ average: '38.32'
 
 ℹ️:
 
-- Intersuola CLOUDFOAM
 - Soletta in tessuto
+- Intersuola CLOUDFOAM
 - Taglia larga
 - Tomaia in tessuto
 - Lacci elasticizzati

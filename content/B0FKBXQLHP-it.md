@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beck s Pils Birra Bottiglia - Pacco da 12x60cl'
-date: 2026-09-15 10:26:21
+date: 2026-09-17 11:15:59
 image: 'https://m.media-amazon.com/images/I/51Owsg1TGUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0FKBXQLHP/?tag=tolees00-21'
 descuento: '33.56'
-average: '11.4450000000001'
+average: '11.4933333333334'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

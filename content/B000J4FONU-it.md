@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Manopola ergonomica di bloccaggio
 - Adatto per Super Clamp 035
 - Carico utile 3 Kg
-- Lunghezza 53 cm
-- Manopola ergonomica di bloccaggio
 - Braccio con frizione variabile
+- Lunghezza 53 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000J4FONU{{</world>}}

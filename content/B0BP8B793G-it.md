@@ -28,8 +28,8 @@ average: '25.83'
 
 ℹ️:
 
-- CINTURA CASUAL
 - Cargo
+- CINTURA CASUAL
 - aggiungere un po di stile in più
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

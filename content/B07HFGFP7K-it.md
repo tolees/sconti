@@ -28,9 +28,9 @@ average: '3.99'
 
 ℹ️:
 
-- Cavo audio digitale con connettori toslink
 - Tipo di connettore: Audio stereo
 - Dimensioni confezione: 7,6 L x 15,8 H x 9,2 W (centimeters)
+- Cavo audio digitale con connettori toslink
 - Materiale durevole
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

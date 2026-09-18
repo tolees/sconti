@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Lavabile in lavatrice
 - Tessuto traspirante per pelle asciutta e comfort
 - Colore: Black/(White)
+- Lavabile in lavatrice
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00K5CN2EE{{</world>}}

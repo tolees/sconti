@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sweety Fox - Giochi Montessori 2 anni - Giocattoli da Impilare e Ordinare'
-date: 2026-09-12 13:29:41
+date: 2026-09-17 19:28:19
 image: 'https://m.media-amazon.com/images/I/414NJ9SEHlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0C1CMQNMY/?tag=tolees00-21'
 descuento: '31.42'
-average: '11.85'
+average: '11.222'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

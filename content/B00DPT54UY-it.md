@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Schermatura di qualità
 - Da spina IEC a presa (angolata a 90°)
+- Schermatura di qualità
 - Lunghezza 3 metri
 - 75 ohm
 - Cavo di collegamento TV M/F

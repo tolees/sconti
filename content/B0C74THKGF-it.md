@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- INDOVINA IL PERSONAGGIO MISTERIOSO: i bambini giocano a turno ponendo domande ingegnose con risposta secca "sì" o "no" per eliminare i personaggi. Il primo che indovina il personaggio misterioso vince la sfida!
-- FACILE DA PREPARARE E DA RIPORRE: gioca velocemente a casa o in viaggio! Grazie alle cornici, al set-up "1-movimento" e alle comode caselle richiudibili, questo gioco per bambini adatto a 2 giocatori è lideale per i viaggi in auto, in aereo e altro ancora.
-- LORIGINALE GIOCO PER INDOVINARE LIDENTITÀ: chi svelerà per primo il nome del personaggio misterioso? Scoprilo con questa edizione del gioco Indovina Chi?, uno dei giochi da tavolo preferiti da famiglie, bambini e bambine dai 6 anni in su.
-- IL CLASSICO GAMEPLAY DI INDOVINA CHI?: ricordi il classico gioco da tavolo "Indovina Chi?" a cui giocavi quando eri bambino? Fai conoscere alle nuove generazioni questo fantastico gioco da tavolo pieno di misteri. Chi vincerà la prossima partita?
 - PERSONAGGI E GRAFICA AGGIORNATI: questa edizione del gioco per bambini "Indovina Chi?" presenta un cast aggiornato con personaggi eccentrici e una grafica inedita rispetto alle versioni precedenti. Le partite saranno ancora più divertenti!
+- LORIGINALE GIOCO PER INDOVINARE LIDENTITÀ: chi svelerà per primo il nome del personaggio misterioso? Scoprilo con questa edizione del gioco Indovina Chi?, uno dei giochi da tavolo preferiti da famiglie, bambini e bambine dai 6 anni in su.
+- FACILE DA PREPARARE E DA RIPORRE: gioca velocemente a casa o in viaggio! Grazie alle cornici, al set-up "1-movimento" e alle comode caselle richiudibili, questo gioco per bambini adatto a 2 giocatori è lideale per i viaggi in auto, in aereo e altro ancora.
+- INDOVINA IL PERSONAGGIO MISTERIOSO: i bambini giocano a turno ponendo domande ingegnose con risposta secca "sì" o "no" per eliminare i personaggi. Il primo che indovina il personaggio misterioso vince la sfida!
+- IL CLASSICO GAMEPLAY DI INDOVINA CHI?: ricordi il classico gioco da tavolo "Indovina Chi?" a cui giocavi quando eri bambino? Fai conoscere alle nuove generazioni questo fantastico gioco da tavolo pieno di misteri. Chi vincerà la prossima partita?
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C74THKGF{{</world>}}

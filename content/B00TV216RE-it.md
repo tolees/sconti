@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Pettine professionale
-- 4 Pettine in dotazione
-- Interruttore acceso/spento
 - Forbici profesionali
+- Interruttore acceso/spento
+- 4 Pettine in dotazione
 - Lame regolabili 3­12 mm
+- Pettine professionale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00TV216RE{{</world>}}

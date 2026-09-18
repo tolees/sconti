@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - AirPlay2 + Android Screen Sharing
 - QLED Display
-- Smart TV VIDAA con +1000 APP
 - Hisense Smart TV QLED 50" 4K TV 50E7DS
+- Smart TV VIDAA con +1000 APP
 - Audio Dolby Atmos con Bluetooth
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

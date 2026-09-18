@@ -28,11 +28,11 @@ average: '24.33'
 
 ℹ️:
 
-- COMPATIBILITÀ 240 MM — Progettato esclusivamente per installazioni 240 mm (2 × 120 mm). Prima dellacquisto, verificare che il case supporti radiatori o ventole da 240 mm. Non compatibile con montaggi da 280 mm o 360 mm.
-- SILENZIOSO E DUREVOLE - I cuscinetti fluidodinamici garantiscono prestazioni silenziose e una durata eccezionale di 60.000 ore.
-- PRESTAZIONI OTTIMALI - Le pale della ventola sono progettate per aumentare la pressione statica e spingere laria attraverso spazi ristretti, garantendo un flusso daria superiore.
-- DESIGN TUTTO IN UNO DA 240 MM — Lunità a telaio singolo da 240 mm con ventole integrate semplifica linstallazione, senza dover collegare le singole ventole.
 - COMPATIBILITÀ RGB — Per controllare illuminazione ed effetti RGB tramite NZXT CAM, è necessario un controller NZXT compatibile (venduto separatamente) oppure un header 5V aRGB supportato dalla scheda madre.
+- SILENZIOSO E DUREVOLE - I cuscinetti fluidodinamici garantiscono prestazioni silenziose e una durata eccezionale di 60.000 ore.
+- DESIGN TUTTO IN UNO DA 240 MM — Lunità a telaio singolo da 240 mm con ventole integrate semplifica linstallazione, senza dover collegare le singole ventole.
+- PRESTAZIONI OTTIMALI - Le pale della ventola sono progettate per aumentare la pressione statica e spingere laria attraverso spazi ristretti, garantendo un flusso daria superiore.
+- COMPATIBILITÀ 240 MM — Progettato esclusivamente per installazioni 240 mm (2 × 120 mm). Prima dellacquisto, verificare che il case supporti radiatori o ventole da 240 mm. Non compatibile con montaggi da 280 mm o 360 mm.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D1RKRS5V{{</world>}}

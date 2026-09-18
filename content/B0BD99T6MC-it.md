@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Dimensioni: Altezza: 73 cm, Larghezza: 138.00 cm, Profondità: 160.40 cm
-- Mobile realizzato in PANNELLO ECOLOGICO e certificato FSC 100% legno riciclato. É il pannello con la minore emissione di Co2 al mondo. Le sue straordinarie qualità lo rendono pratico e resistente, adatto dunque ad essere il componente base dei mobili Composad.
 - Made in ITALY. Questo mobile è stato progettato e prodotto in Italia.
 - Modesty panel sulla parte posteriore che garantisce riservatezza e discrezione negli ambienti di lavoro.
 - Scrivania con ampio piano di lavoro che permette di lavorare nella massima comodità, realizzato con lelegante finitura rovere sonoma scuro.
+- Mobile realizzato in PANNELLO ECOLOGICO e certificato FSC 100% legno riciclato. É il pannello con la minore emissione di Co2 al mondo. Le sue straordinarie qualità lo rendono pratico e resistente, adatto dunque ad essere il componente base dei mobili Composad.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BD99T6MC{{</world>}}

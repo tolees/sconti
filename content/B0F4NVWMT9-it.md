@@ -28,9 +28,9 @@ average: '44.0'
 
 ℹ️:
 
+- Finitura a costine
 - Girocollo e maniche lunghe
 - Dettaglio monologo
-- Finitura a costine
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F4NVWMT9{{</world>}}

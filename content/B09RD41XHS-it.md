@@ -29,9 +29,9 @@ average: '16.655'
 ℹ️:
 
 - Infuso con essenze speziate e legnose, questo profumo maschile incarna liconico marchio GUESS. La sua fragranza evoca sofisticazione, audacia e magnetismo in ogni nota.
-- Nel corso dei decenni, GUESS ha fatto sognare il mondo intero con le sue campagne pubblicitarie iconiche e ha costruito un vero impero internazionale di profumi iconici.
 - La fragranza si apre con pepe nero, pompelmo e noce moscata, evolvendo in lavanda, fiore darancio e mela. Il fondo legnoso aggiunge una profondità irresistibile e sofisticata.
 - LEau de Toilette da uomo GUESS Seductive Noir è una fragranza enigmatica che cattura il magnetismo unico e lo stile audace e affascinante distintivo del marchio GUESS.
+- Nel corso dei decenni, GUESS ha fatto sognare il mondo intero con le sue campagne pubblicitarie iconiche e ha costruito un vero impero internazionale di profumi iconici.
 - Il profumo GUESS Seductive Noir per uomo si presenta in un flacone elegante e scuro, che trasmette unaura di mistero e modernità.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

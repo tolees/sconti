@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Un indumento sportivo
-- Comoda da indossare
 - Una maglietta a maniche corte
+- Comoda da indossare
+- Un indumento sportivo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BR5V2PBD{{</world>}}

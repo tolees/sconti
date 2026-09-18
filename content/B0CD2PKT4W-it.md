@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Chiusura: piatta
 - Tipo di tacco: piatto
+- Chiusura: piatta
 - Materiale interno: misto poliestere
 - Materiale esterno: suola 100% EVA, tomaia 100% mesh, fodera 100% mesh, soletta interna 100% cotone
 

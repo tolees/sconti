@@ -28,8 +28,8 @@ average: '1.73405405405405'
 
 ℹ️:
 
-- Con oli essenziali
 - Senza alcool
+- Con oli essenziali
 - Aiuta a mantenere lalito fresco più a lungo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

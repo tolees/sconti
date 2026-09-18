@@ -28,10 +28,10 @@ average: '7.0'
 
 ℹ️:
 
-- in acciaio inox Sanitari intrecciato tubo. Raccordi in ottone. guarnizione in EPDM integrato Il tubo sanitario utilizzato per infissi collegamento allalimentazione generale di acqua calda o acqua fredda. facile e veloce da montare e smontare, sigillatura è fornita da guarnizioni pre-assemblati. Questo tubo ha il Certificato di conformità Sanitaire (ACS) per uso sanitario.
 - Banned per il gas Segui i consigli di attuazione indicata sulla confezione.
-- Compatibile su tutte le viti standard senza impianto idraulico
 - Installazione di impianti sanitari / acqua potabile
+- Compatibile su tutte le viti standard senza impianto idraulico
+- in acciaio inox Sanitari intrecciato tubo. Raccordi in ottone. guarnizione in EPDM integrato Il tubo sanitario utilizzato per infissi collegamento allalimentazione generale di acqua calda o acqua fredda. facile e veloce da montare e smontare, sigillatura è fornita da guarnizioni pre-assemblati. Questo tubo ha il Certificato di conformità Sanitaire (ACS) per uso sanitario.
 - Pressione max. Usa: 4 bar T ° C gamma: da 5 ° C a 90 ° C
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

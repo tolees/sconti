@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Numero di giocatori: 2-6, Età consigliata: 10+ anni, Durata media: 20 min., Edizione in italiano
 - In Love Letter: Bridgerton, vi avventurerete in una stimolante missione per scoprire il segreto dietro questa misteriosa Lady, guadagnando diamanti lungo il cammino e attirando l’attenzione della Regina
 - Cari Lettori, la corte è in fermento a causa degli ultimi pettegolezzi e la Regina è ansiosa di scoprire la vera identità della sfuggente e intrigante Lady Whistledown
-- Numero di giocatori: 2-6, Età consigliata: 10+ anni, Durata media: 20 min., Edizione in italiano
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CTCVW7Q2{{</world>}}

@@ -28,11 +28,11 @@ average: '3.41857142857143'
 
 ℹ️:
 
-- PULIZIA PROFONDA E PROTEZIONE STOVIGLIE: sgrassa a fondo già alle basse temperature
-- CON PROFUMO DI LIMONE
 - AZIONE ANTICALCARE per una protezione ancora più efficace
-- FORMULA TOTAL CLEAN 360° con blend enzimatico garantisce pulizia e brillantezza anche a basse temperature e per cicli brevi.
+- CON PROFUMO DI LIMONE
 - FORMULA IN GEL: Dura fino a 50 lavaggi
+- PULIZIA PROFONDA E PROTEZIONE STOVIGLIE: sgrassa a fondo già alle basse temperature
+- FORMULA TOTAL CLEAN 360° con blend enzimatico garantisce pulizia e brillantezza anche a basse temperature e per cicli brevi.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B42XB3K5{{</world>}}

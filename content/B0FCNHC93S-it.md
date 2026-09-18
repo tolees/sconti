@@ -28,8 +28,8 @@ average: '60.0'
 
 ℹ️:
 
-- Stringata
 - Tomaia in suede, mesh e nylon
+- Stringata
 - Design ispirato alla tradizione dei modelli degli anni 70 per un look classico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

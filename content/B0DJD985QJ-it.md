@@ -28,9 +28,9 @@ average: '20.23'
 
 ℹ️:
 
-- Tessuto leggero e morbido
 - Con una vestibilità comoda
 - Logo del marchio sul petto
+- Tessuto leggero e morbido
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DJD985QJ{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beurer BM 45 Misuratore di Pressione da Braccio con Funzione di Memoria Rilevazione Aritmie e Display XL Retroilluminato'
-date: 2026-09-16 17:31:04
+date: 2026-09-17 18:18:42
 image: 'https://m.media-amazon.com/images/I/31g9lX8A9TL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- La confezione contiene circa 12 porzioni
 - Conservare in luogo fresco e asciutto
-- Cereali attentamente selezionati
 - Con vitamine e ferro
+- Cereali attentamente selezionati
+- La confezione contiene circa 12 porzioni
 - Fagottini di cereali misti aromatizzati al cioccolato con un ripieno aromatizzato al cioccolato e alla nocciola (33%)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

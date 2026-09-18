@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- PER LATTIVITA FISICA: Integratore alimentare con una formula specificatamente pensata per fornire molteplici benefici agli sportivi, da usare prima, durante e al termine dellattività fisica
-- Maxi formato 3x10 bustine al gusto di arancia; senza glutine
-- CON VITAMINE C ed E che contribuiscono alla protezione delle cellule dallo stress ossidativo, e MALTODESTRINE, per una rilascio graduale e prolungato dellenergia
 - PRODOTTO IN ITALIA
 - CON POTASSIO che contribuisce alla normale funzione muscolare e aiuta a mantenere una normale pressione sanguigna
+- PER LATTIVITA FISICA: Integratore alimentare con una formula specificatamente pensata per fornire molteplici benefici agli sportivi, da usare prima, durante e al termine dellattività fisica
+- CON VITAMINE C ed E che contribuiscono alla protezione delle cellule dallo stress ossidativo, e MALTODESTRINE, per una rilascio graduale e prolungato dellenergia
+- Maxi formato 3x10 bustine al gusto di arancia; senza glutine
 - CON MAGNESIO che, oltre a contribuire alla riduzione di stanchezza e fatica e al normale metabolismo energetico, aiuta anche a reintegrare le perdite idrosaline
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

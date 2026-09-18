@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tradizione, sapore, fragranza e qualità; da oltre 180 anni il Torrone Sperlari delizia I palati di adulti e bambini
-- Torrone Sperlari Tenero al Pistacchio e Mandorle 250g, nella sua elegante confezione perfetta anche come idea regalo
 - Un classico intramontabile per la vostra tavola di Natale e da assaporare in ogni momento della giornata
 - Questo prodotto è Senza Glutine
+- Tradizione, sapore, fragranza e qualità; da oltre 180 anni il Torrone Sperlari delizia I palati di adulti e bambini
+- Torrone Sperlari Tenero al Pistacchio e Mandorle 250g, nella sua elegante confezione perfetta anche come idea regalo
 - Ottimo anche come ingrediente per torte, semifreddi, brownies, biscotti e cheesecake
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

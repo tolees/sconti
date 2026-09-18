@@ -28,8 +28,8 @@ average: '26.7318181818182'
 
 ℹ️:
 
-- Sterzo girevole e porte apribili: le porte si aprono per accedere alla cabina di guida; è possibile usare l’ingranaggio sulla parte superiore della cabina per guidare il veicolo LEGO
 - Ispirato al camion vero: questo veicolo giocattolo si basa sul vero camion della spazzatura elettrico Mack, e presenta un caricatore laterale per afferrare, sollevare e ribaltare i bidoni della spazzatura
+- Sterzo girevole e porte apribili: le porte si aprono per accedere alla cabina di guida; è possibile usare l’ingranaggio sulla parte superiore della cabina per guidare il veicolo LEGO
 - Un camion per bambini: questo set è un divertente regalo di compleanno o per un’occasione speciale, adatto a bambini e bambine che amano i veicoli giocattolo e i camion della spazzatura
 - Afferra, solleva e ribalta: i bambini possono inventare storie di raccolta differenziata mentre guidano il camion giocattolo e utilizzano il caricatore laterale per raccogliere la spazzatura nel veicolo
 - Camion della spazzatura giocattolo: il set LEGO Technic Camion della Spazzatura Mack LR Electric è un gioco per bambini e bambine da 8 anni in su, dotato di movimenti realistici per il gioco creativo

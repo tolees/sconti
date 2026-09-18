@@ -28,16 +28,16 @@ average: '51.89'
 
 ℹ️:
 
-- CONTROLLO VARIABILE DELLA VELOCITÀ: offre fino a 3.100 giri al minuto per applicazioni di foratura e avvitamento precise.
 - COMPRENDE: (1) Impugnatura laterale, (1) punta per muratura da 4 mm, (1) punta HSS da 4 mm, (1) punta per muratura da 6 mm, (1) punta HSS da 6 mm, (1) punta per muratura da 8 mm, (1) punta HSS da 8 mm, (1) Kitbox
+- CONTROLLO VARIABILE DELLA VELOCITÀ: offre fino a 3.100 giri al minuto per applicazioni di foratura e avvitamento precise.
 - DESIGN COMPATTO E LEGGERO: perfetto per luso in spazi ristretti e per progetti prolungati.
-- POTENTE PRESTAZIONE DA 850 W: ideale per le attività di foratura domestica, offre una potenza robusta per legno, metallo, muratura e plastica.
 - FUNZIONE DI BLOCCO DEL MANDRINO: consente un cambio rapido e sicuro dei bit con la massima presa degli accessori.
-- CHUCK 13MM KEYLESS: facilita la sostituzione dei bit senza luso di attrezzi per una maggiore efficienza
+- POTENTE PRESTAZIONE DA 850 W: ideale per le attività di foratura domestica, offre una potenza robusta per legno, metallo, muratura e plastica.
 - AZIONE AD ALTO IMPATTO: raggiunge fino a 54.400 BPM per forare senza fatica muratura e calcestruzzo
-- APPLICAZIONI VERSATILI: Ideale per forare, ancorare e avvitare in vari materiali.
 - MANIGLIA SECONDARIA PER IL CONTROLLO: offre una maggiore stabilità durante le attività più impegnative.
+- APPLICAZIONI VERSATILI: Ideale per forare, ancorare e avvitare in vari materiali.
 - PULSANTE DI BLOCCO: assicura un funzionamento continuo per ridurre laffaticamento delle mani.
+- CHUCK 13MM KEYLESS: facilita la sostituzione dei bit senza luso di attrezzi per una maggiore efficienza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07KGL5DS9{{</world>}}

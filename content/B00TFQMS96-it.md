@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Pack da 1 lampadina E14 5W Led
 - Design: Eugeni Quitllet, 2013
-- IP20; 220 - 240 V; E14 2700°K
+- Pack da 1 lampadina E14 5W Led
 - Dimensioni: 14 x 14 x 18 ÷ 210 cm
+- IP20; 220 - 240 V; E14 2700°K
 - Struttura: Tecnopolimero termoplastico trasparente; Diffusore: Tecnopolimero termoplastico trasparente rivestito in tessuto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

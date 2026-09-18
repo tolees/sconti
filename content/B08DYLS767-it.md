@@ -28,10 +28,10 @@ average: '6.16'
 
 ℹ️:
 
-- Il Sugo ai Funghi Porcini Biffi è perfetto per accompagnare primi piatti di pasta, polenta o come base per pizza e pinsa.
 - 100% vegetale
-- Biffi qualità, tradizione e innovazione all’insegna del Made in Italy
 - Senza glutine
+- Il Sugo ai Funghi Porcini Biffi è perfetto per accompagnare primi piatti di pasta, polenta o come base per pizza e pinsa.
+- Biffi qualità, tradizione e innovazione all’insegna del Made in Italy
 - Confezione contenente 3 vasetti da 190g di Sugo ai Funghi Porcini Biffi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

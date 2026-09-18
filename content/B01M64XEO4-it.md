@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- 🛡️ Jungle Formula è indicato per la protezione contro le zanzare vettore del virus West Nile
 - 🦟 Vivi le tue avventure, senza punture. Questo spray per insetti è facile da applicare, non unge e non appiccica.
-- ✈️ Massima protezione contro tutte le specie di zanzara, comprese quelle che trasmettono malattie come la malaria, la dengue, il virus West Nile e la febbre gialla, anche contro le zecche.
-- 👪 Ideale per condizioni estreme: aree tropicali, boschi, laghi e aree ad alto rischio di malattie trasmesse da insetti. Con un Fattore d’Insetto Repellenza (IRF 4) sei protetto da zanzare, zecche e altri insetti.
 - 🏞️ Formula antizanzare DEET al 50% raccomandata dalle autorità per una protezione efficace per i viaggi in aree tropicali e ad alto rischio di malattie trasmesse da insetti.
-- 🥰 Dermatologicamente testato: questa protezione molto forte contiene DEET al 50% ed estratti vegetali, che sono efficaci agenti difensori contro gli insetti
+- 👪 Ideale per condizioni estreme: aree tropicali, boschi, laghi e aree ad alto rischio di malattie trasmesse da insetti. Con un Fattore d’Insetto Repellenza (IRF 4) sei protetto da zanzare, zecche e altri insetti.
 - 📖 Applicazione: spruzzare il prodotto uniformemente sulla cute esposta, ben asciutta e pulita - Evitare il contatto con occhi e labbra - Per applicarlo sul viso, spruzzarlo prima sul palmo della mano
 - 🦟 La protezione definitiva 3in1 contro zanzare e insetti: protezione immediata, fino a 9 ore, anche contro gli insetti più aggressivi. Facile da usare. SPEGNI LE PUNTURE! ACCENDI LE AVVENTURE! Efficace per ridurre il rischio di trasmissione del Virus WEST NILE (Febbre del Nilo).
-- 🛡️ Jungle Formula è indicato per la protezione contro le zanzare vettore del virus West Nile
+- 🥰 Dermatologicamente testato: questa protezione molto forte contiene DEET al 50% ed estratti vegetali, che sono efficaci agenti difensori contro gli insetti
+- ✈️ Massima protezione contro tutte le specie di zanzara, comprese quelle che trasmettono malattie come la malaria, la dengue, il virus West Nile e la febbre gialla, anche contro le zecche.
 - 🍃 Novità: Flaconi antizanzare con nuovo tappo ridotto in polipropilene riciclabile!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ average: '263.34'
 
 ℹ️:
 
-- Dimensioni : L. 96,5 x l. 37 x H. 97 cm
 - Peso : 10 kg
+- Dimensioni : L. 96,5 x l. 37 x H. 97 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BYP7KKLR{{</world>}}

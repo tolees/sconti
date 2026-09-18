@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Versatile mandrino ad azione rapida da 13 mm: per passare agevolmente dalle punte ai bit e viceversa
-- Impiego universale su vari materiali: il trapano a batteria è utilizzabile per lavori di avvitamento e foratura su legno, metallo e plastica nonché per foratura con percussione nella muratura
 - Dotazione: EasyImpact 18V-40, 1 batteria da 2,0 Ah, caricabatteria AL 18V-20, custodia per il trasporto
 - La linea Easy Bosch – un aiuto semplice per tutti i tuoi progetti
+- Impiego universale su vari materiali: il trapano a batteria è utilizzabile per lavori di avvitamento e foratura su legno, metallo e plastica nonché per foratura con percussione nella muratura
 - Ingranaggi a 2 velocità e 20 posizioni di regolazione della coppia: per una potenza e velocità ottimali per qualsiasi applicazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

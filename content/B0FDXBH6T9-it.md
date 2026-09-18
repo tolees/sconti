@@ -29,8 +29,8 @@ average: '63.75'
 ℹ️:
 
 - Logo ricamato 3D
-- Collar multicolore
 - 100% cotone
+- Collar multicolore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FDXBH6T9{{</world>}}

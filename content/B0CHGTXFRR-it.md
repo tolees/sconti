@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Articolo marchio JACK & JONES
 - Prodotto di ottima qualità
 - Presenta dei dettagli distintivi del marchio
-- Articolo marchio JACK & JONES
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CHGTXFRR{{</world>}}

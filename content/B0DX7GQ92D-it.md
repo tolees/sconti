@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Prodotto da collezione
 - Sylvanian Families - Castello di fata galleggiante
+- Prodotto da collezione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DX7GQ92D{{</world>}}

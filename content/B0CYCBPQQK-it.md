@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pourbibi Kit Fai Da Te Unicorno per Ragazze Età 3+ Regalo per Bambina 3 4 5 6 7 8 9 10 Anni Kit di Artigianato Creativo per Bambini Giocattoli Età 3-10 Anni Regali di Compleanno'
-date: 2026-09-14 11:50:50
+date: 2026-09-18 16:17:22
 image: 'https://m.media-amazon.com/images/I/514xDMQaUpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0CYCBPQQK/?tag=tolees00-21'
 descuento: '35.31'
-average: '10.79'
+average: '10.8233333333333'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

@@ -28,8 +28,8 @@ average: '22.66'
 
 ℹ️:
 
-- Vita alta
 - Gonna lavorata a maglia
+- Vita alta
 - Vestibilità aderente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

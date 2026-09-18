@@ -28,10 +28,10 @@ average: '69.96'
 
 ℹ️:
 
-- FUNZIONE EASY-SELECT E ANELLO LED: la manopola easy-select permette di selezionare i 3 programmi (caldo, freddo, cioccolata); lanello LED indica lo stato della preparazione (rosso per caldo, blu per freddo)
-- FUNZIONE CIOCCOLATA CALDA: un programma dedicato che permette di sciogliere pezzi di cioccolato intero direttamente nel latte; lapertura nel coperchio facilita laggiunta di ingredienti durante luso
-- SISTEMA A INDUZIONE BREVETTATO: la tecnologia a induzione assicura un riscaldamento uniforme e crea una schiuma densa e compatta; adatto anche a tutti i tipi di latte vegetale
 - CONTENITORE INOX LAVABILE: il contenitore in acciaio inox è removibile e comodo da pulire, anche in lavastoviglie; linduzione impedisce al latte di attaccarsi o bruciarsi sul fondo, 19,5 x 15,5 x 23,6 cm, 1,58 kg, 500ml, ideale per famiglie numerose o porzioni
+- FUNZIONE EASY-SELECT E ANELLO LED: la manopola easy-select permette di selezionare i 3 programmi (caldo, freddo, cioccolata); lanello LED indica lo stato della preparazione (rosso per caldo, blu per freddo)
+- SISTEMA A INDUZIONE BREVETTATO: la tecnologia a induzione assicura un riscaldamento uniforme e crea una schiuma densa e compatta; adatto anche a tutti i tipi di latte vegetale
+- FUNZIONE CIOCCOLATA CALDA: un programma dedicato che permette di sciogliere pezzi di cioccolato intero direttamente nel latte; lapertura nel coperchio facilita laggiunta di ingredienti durante luso
 - CAPACITÀ XL E BECCUCCIO BARISTA: il contenitore ha una capacità totale di 500 ml (monta fino a 260 ml, scalda fino a 500 ml); il beccuccio sagomato permette di versare con precisione per la latte art
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

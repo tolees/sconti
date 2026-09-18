@@ -29,9 +29,9 @@ average: '10.83'
 ℹ️:
 
 - Prodotto di ottima qualità
+- Elimina ottimamente ogni tipo di trucco anche quello waterproof
 - Strucca con dolcezza ciglia e palpebre senza aggredire la pelle
 - Formato 150 ml
-- Elimina ottimamente ogni tipo di trucco anche quello waterproof
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00D3HY3IW{{</world>}}

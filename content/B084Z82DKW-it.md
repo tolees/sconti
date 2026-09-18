@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Pretty
 - Morissette, alanis
+- Pretty
 - Such
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

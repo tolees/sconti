@@ -28,8 +28,8 @@ average: '6.99'
 
 ℹ️:
 
-- Potenti benefici nutrizionali - Grazie allalta carica proteica, la nostra polvere di canapa è perfetta per aumentare lenergia, aiutare il metabolismo e sostenere uno stile di vita sano. Senza glutine, vegana e ricca di nutrienti essenziali.
 - Perfetta per Smoothies e Altre Ricette - Le nostre proteine in polvere sono versatili, utilizzabili per smoothies, praline energetiche, prodotti da forno e snack. Ideali per vegani, vegetariani e per chiunque segua diete senza glutine, senza lattosio o chetogeniche.
+- Potenti benefici nutrizionali - Grazie allalta carica proteica, la nostra polvere di canapa è perfetta per aumentare lenergia, aiutare il metabolismo e sostenere uno stile di vita sano. Senza glutine, vegana e ricca di nutrienti essenziali.
 - Un nutrimento puro ed etico - Prodotte utilizzando solo metodi sostenibili, le nostre proteine di canapa in polvere è delicata sia nei confronti dellambiente che per il tuo corpo. È unottima scelta per chiunque sia alla ricerca di prodotti naturali e alternative vegetali.
 - Proteine di Canapa in Polvere 100% Biologiche - Una fonte proteica di origine vegetale ottenuta da semi di canapa di prima qualità. Naturalmente ricca di tutti e nove gli aminoacidi essenziali, fibre e acidi grassi Omega per favorire il recupero muscolare e il benessere generale
 - Potenti benefici nutrizionali - Grazie allalta carica proteica, la nostra polvere di canapa è perfetta per aumentare lenergia, aiutare il metabolismo e sostenere uno stile di vita sano. Senza glutine, vegana e ricca di nutrienti essenziali.

@@ -28,9 +28,9 @@ average: '72.0'
 
 ℹ️:
 
-- 0
 - Design ispirato alla tradizione dei modelli degli anni 70 per un look classico
 - Tomaia in suede, mesh e nylon
+- 0
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DZP5YRKZ{{</world>}}

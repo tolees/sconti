@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- La formula Mellin 3 è studiata per accompagnare la crescita con un contenuto proteico adattato, solo zucchero del latte, senza olio di palma, coloranti e conservanti, in linea con le raccomandazioni nutrizionali per la prima infanzia
-- Mellin 3 ha una confezione di cartone 100% riciclabile e la nostra fabbrica utilizza energia elettrica da fonti 100% rinnovabili
-- Contiene nutrienti importanti per la crescita: CALCIO e VITAMINA D per ossa e denti, FERRO e IODIO per lo sviluppo cognitivo, VITAMINE A, C e D per il normale funzionamento del sistema immunitario
 - MELLIN 3 è un latte di crescita in polvere. Indicato dal 1° anno al 2° anno, come componente lattea di una dieta varia ed equilibrata
 - CONSIGLI PER LUSO: Conservare in luogo asciutto, pulito e lontano da fonti di calore. Si raccomanda di preparare il latte al momento del pasto e di non riscaldare o bollire una volta preparato
+- Mellin 3 ha una confezione di cartone 100% riciclabile e la nostra fabbrica utilizza energia elettrica da fonti 100% rinnovabili
+- La formula Mellin 3 è studiata per accompagnare la crescita con un contenuto proteico adattato, solo zucchero del latte, senza olio di palma, coloranti e conservanti, in linea con le raccomandazioni nutrizionali per la prima infanzia
+- Contiene nutrienti importanti per la crescita: CALCIO e VITAMINA D per ossa e denti, FERRO e IODIO per lo sviluppo cognitivo, VITAMINE A, C e D per il normale funzionamento del sistema immunitario
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DBQ8V72L{{</world>}}

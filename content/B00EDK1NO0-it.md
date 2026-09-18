@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Giacca Streetwear in stile M65.
 - Maniche lunghe.
 - Materiale robusto e di facile manutenzione.
-- Giacca Streetwear in stile M65.
 - Effetto “usato” attraverso l’ottica slavata vintage.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

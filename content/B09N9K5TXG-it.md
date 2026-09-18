@@ -28,10 +28,10 @@ average: '13.69'
 
 ℹ️:
 
-- MATERIA PRIMA DI ALTA QUALITÀ: il nostro prodotto contiene la materia prima di marca riconosciuta a livello internazionale KSM-66 Ashwagandha, un estratto di radice di Ashwagandha particolarmente puro e certificato più volte proveniente dallIndia. Lestratto proviene dalla radice pura della pianta e offre uno spettro completo di sostanze vegetali naturali con uneccellente biodisponibilità
+- OTTIMO RAPPORTO QUALITÀ-PREZZO: una dose giornaliera (2 capsule) fornisce 600 mg di ashwagandha ad alto dosaggio (di cui 30 mg di withanolidi), 60 mg di magnesio, 2,0 mg di zinco e 0,20 mg di vitamina B6. Con 120 capsule per confezione, una confezione è sufficiente per 2 mesi
 - PRODOTTO IN GERMANIA: ESN Ashwa+ è prodotto internamente in Germania nel rispetto dei più severi standard di qualità
 - COMBINAZIONE INTELLIGENTE: KSM-66 è considerato il gold standard tra gli estratti di ashwagandha. Inoltre, le capsule ad alto dosaggio di ashwagandha contengono una combinazione ben studiata di magnesio, zinco e vitamina B6
-- OTTIMO RAPPORTO QUALITÀ-PREZZO: una dose giornaliera (2 capsule) fornisce 600 mg di ashwagandha ad alto dosaggio (di cui 30 mg di withanolidi), 60 mg di magnesio, 2,0 mg di zinco e 0,20 mg di vitamina B6. Con 120 capsule per confezione, una confezione è sufficiente per 2 mesi
+- MATERIA PRIMA DI ALTA QUALITÀ: il nostro prodotto contiene la materia prima di marca riconosciuta a livello internazionale KSM-66 Ashwagandha, un estratto di radice di Ashwagandha particolarmente puro e certificato più volte proveniente dallIndia. Lestratto proviene dalla radice pura della pianta e offre uno spettro completo di sostanze vegetali naturali con uneccellente biodisponibilità
 - SENZA ADDITIVI: le nostre capsule contengono solo ingredienti naturali e sono quindi prive di additivi artificiali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ average: '24.49'
 
 ℹ️:
 
-- UNA FRAGRANZA PER OGNI MOMENTO: Da Yankee Candle, crediamo che ogni giorno sia una pagina della storia di qualcuno. Dai piccoli momenti di gioia alle occasioni che meritano di essere celebrate, ogni momento conta.
-- UNA COMBUSTIONE PULITA E UNIFORME: lo stoppino in cotone a fibra naturale al 100% è raddrizzato e centrato
 - FRENCH VANILLA: Sotto la lucente vetrina, alla luce soffusa della pasticceria, soffici cupcake con vortici di dolce glassa ti invitano alla felicità. Pregno di pura vaniglia francese e burro appena montato, questa deliziosa fragranza ti trasporta lì.
+- UNA FRAGRANZA PER OGNI MOMENTO: Da Yankee Candle, crediamo che ogni giorno sia una pagina della storia di qualcuno. Dai piccoli momenti di gioia alle occasioni che meritano di essere celebrate, ogni momento conta.
 - CANDELE A LUNGA DURATA: Fino a 150 ore; 17 cm di altezza x 10 cm di larghezza (623 g)
 - FRAGRANZA CHE RIEMPIE LA STANZA: Ingredienti di alta qualità e cera premium garantiscono un aroma duraturo e costante
+- UNA COMBUSTIONE PULITA E UNIFORME: lo stoppino in cotone a fibra naturale al 100% è raddrizzato e centrato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GP91WFZW{{</world>}}

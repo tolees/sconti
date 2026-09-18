@@ -29,9 +29,9 @@ average: '34.19'
 ℹ️:
 
 - Lavare in lavatrice
+- Mezza manica
 - Logo sull petto
 - Cotone elasticizzato
-- Mezza manica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BZPF9ZQV{{</world>}}

@@ -30,8 +30,8 @@ average: '19.75'
 
 - [ 65W Ricarica Rapida ] Caricatore iPhone 65W può caricare il tuo MacBook Air dal 0% al 51% in soli 30 minuti. Supporta diverse protocolli di caricamento rapido, come PD 3.0/2.0, PPS, Galaxy Super Fast Charging, QC 4+/4.0/3.0, SCP, FCP, AFC.
 - [ 3 In 1 Caricabatterie ] UGREEN Caricabatterie USB C dispone di 2 USB C e 1 USB A può caricare fino a 3 dispositivi contemporaneamente. Caratterizzato da un design compatto e dal supporto della tecnologia GaN PD, è adatto per lufficio, la casa e i viaggi. Per garantire una ricarica stabile, si consiglia di caricare la serie iWatch separatamente o di utilizzare la porta USB-C per caricarla.
-- [ Design Compatto ] Caricatore USB C portatile GaN ha un design leggero e piccolo, occupa meno spazio e può fornire una potenza di caricamento sufficientemente elevata per una varietà di dispositivi.
 - [ Compatibilità Universale ] UGREEN caricatore USB C è compatibile con con iPhone 17/ iPhone 17 Air/ iPhone 17 Pro/ iPhone 17 Pro Max/ 16 Plus Pro Max 15 14; Galaxy S26/ S26+/ S26 Ultra/ S25/ S24/ S23/ S22/ S21; Pixel 10/ 10 Pro/ 10 Pro XL/ 9a/ 8/ 7/ 6, MacBook Air/ Pro M5 M4 M3 M2 M1, iPad Pro Air Mini, Galaxy Tab, Steam Deck.
+- [ Design Compatto ] Caricatore USB C portatile GaN ha un design leggero e piccolo, occupa meno spazio e può fornire una potenza di caricamento sufficientemente elevata per una varietà di dispositivi.
 - [ Alimentato da GaNInfinity ] Caricatore 65W GaN è dotato di un chip intelligente che protegge i tuoi dispositivi da cortocircuiti, sovratensione, sovraccalore e sovracorrente. La straordinaria resistenza al fuoco UL94-V0 e la robusta custodia in PC garantisco una carica sicura.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

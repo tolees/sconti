@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Un profumo seducente e intenso di gelsomino acquatico, caprifoglio dolce, neroli e fiori di mandarino
-- Durata della candela: da 110 a 150 ore di piacevole profumazione
-- Stoppini in cotone 100% senza piombo raddrizzati e centrati per una combustione uniforme
 - Ingredienti scelti e cera di alta qualità garantiscono un aroma chiarao e costante che riempie tutta la stanza
+- Stoppini in cotone 100% senza piombo raddrizzati e centrati per una combustione uniforme
 - Ogni candela grande è inserita nella classica giara di vetro con coperchio per preservare e contenere la fragranza
+- Durata della candela: da 110 a 150 ore di piacevole profumazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0042GK2UQ{{</world>}}

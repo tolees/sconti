@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko POP! Star Wars: Darth Vader'
-date: 2026-09-14 06:47:20
+date: 2026-09-17 07:11:38
 image: 'https://m.media-amazon.com/images/I/4169Dmsz+nL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0BBYX1H6C/?tag=tolees00-21'
 descuento: '37.56'
-average: '11.2933333333333'
+average: '10.9675'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

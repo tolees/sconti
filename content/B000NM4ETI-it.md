@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Prodotto di buona qualità, realizzato in Spagna.
-- Può essere utilizzato per coprire diverse superfici come legno, plastica, cartone, vetro o metallo. Ideale per lavori manuali, progetti, dettagli natalizi, stampe, miniature, bambole.
-- Argilla da modellare per bambini a partire dai 3 anni. Si asciuga allaria in 24 ore (a seconda dello spessore del manufatto). Non è necessario utilizzare il forno o il microonde. Argilla pronta per luso e per la pittura; una volta aperta, conservarla in un contenitore chiuso per evitare che si secchi.
 - Argilla non cotta, modellabile, molto facile da lavorare e da pulire. Perfetto per luso con gli stampi e per la realizzazione di rilievi. Può essere decorato con tutti i tipi di colori a base dacqua, tempere acriliche, pennarelli speciali e vernici.
 - Jovi Air Dry è una pasta da modellare a base di argilla umida, morbida e piacevole al tatto, a base di ingredienti naturali; non tossica, inodore e priva di glutine. 1 kg, colore bianco.
+- Argilla da modellare per bambini a partire dai 3 anni. Si asciuga allaria in 24 ore (a seconda dello spessore del manufatto). Non è necessario utilizzare il forno o il microonde. Argilla pronta per luso e per la pittura; una volta aperta, conservarla in un contenitore chiuso per evitare che si secchi.
+- Può essere utilizzato per coprire diverse superfici come legno, plastica, cartone, vetro o metallo. Ideale per lavori manuali, progetti, dettagli natalizi, stampe, miniature, bambole.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000NM4ETI{{</world>}}

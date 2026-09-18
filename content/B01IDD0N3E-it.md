@@ -28,10 +28,10 @@ average: '25.42'
 
 ℹ️:
 
-- Painstakingly dipinto a mano.
-- Realizzato in resina di alta qualità.
-- Sabbia rossa allinterno.
 - Timer gotico con sabbia di drago.
+- Realizzato in resina di alta qualità.
+- Painstakingly dipinto a mano.
+- Sabbia rossa allinterno.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01IDD0N3E{{</world>}}

@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 1 ripiani in vetro
+- Marchio: Hisense
+- Classe energetica E
 - 3 balconcini poprta
 - Zona Freezer 0 star
+- 1 ripiani in vetro
 - Cassetto Fresh Crisper
-- Classe energetica E
-- Marchio: Hisense
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DCP74QTM{{</world>}}

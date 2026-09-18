@@ -28,10 +28,10 @@ average: '6.95'
 
 ℹ️:
 
-- IDEALE PER PELLI SECCHE E RUVIDE: La sua texture morbida e vellutata si assorbe rapidamente senza ungere, lasciando la pelle elastica e levigata
 - CREMA IDRATANTE: Una crema ricca e avvolgente, formulata per offrire un’idratazione intensa e un comfort immediato anche alle pelli più secche e sensibili
 - EQUILIBRA: da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto dellequilibrio tra rispetto, efficacia, benessere e bellezza
 - COSA CONTIENE: Con Urea che aumenta la capacità della pelle di trattenere acqua - ideale per pelli secche e ruvide, e Collagene vegetale che promuove lidratazione, lelasticità e il tono cutaneo
+- IDEALE PER PELLI SECCHE E RUVIDE: La sua texture morbida e vellutata si assorbe rapidamente senza ungere, lasciando la pelle elastica e levigata
 - ADATTA PER LA PELLE DI VISO, MANI E CORPO: Applicare generosamente su pelle integra e pulita
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

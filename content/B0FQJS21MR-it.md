@@ -28,11 +28,11 @@ average: '55.5333333333333'
 
 ℹ️:
 
-- IL NOSTRO IMPEGNO: Selezioniamo solo l’1% dei chicchi di Arabica per garantire zero difetti nella nostra tazzina, grazie alle relazioni instaurate generazione dopo generazione con i coltivatori
-- FORMATO: Ogni confezione contiene 18 cialde per un totale di 216 cialde E.S.E., ideali per il tuo caffè espresso allitaliana
-- GUSTO: Il caffè è 100% arabica, adatto per gli amanti del caffè dal gusto deciso
 - CIALDE E.S.E.: Caffè macinato già dosato e pressato tra due fogli filtranti, compatibili con tutte le macchine E.S.E. Compostabili e conferibili nell’organico, sono ottime per preparare il tuo espresso illy in modo pratico e veloce
+- GUSTO: Il caffè è 100% arabica, adatto per gli amanti del caffè dal gusto deciso
+- IL NOSTRO IMPEGNO: Selezioniamo solo l’1% dei chicchi di Arabica per garantire zero difetti nella nostra tazzina, grazie alle relazioni instaurate generazione dopo generazione con i coltivatori
 - FORTE: Il profilo di tostatura FORTE si caratterizza per le sue note pronunciate di cioccolato fondente che si combinano con un invitante aroma di pan tostato
+- FORMATO: Ogni confezione contiene 18 cialde per un totale di 216 cialde E.S.E., ideali per il tuo caffè espresso allitaliana
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FQJS21MR{{</world>}}

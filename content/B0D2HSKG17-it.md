@@ -28,11 +28,11 @@ average: '34.755'
 
 ℹ️:
 
-- Esplora un nuovo mondo Viaggia sul tuo "trasvettore" verso dungeon e città distanti attraversando un mondo enorme. Scopri paesaggi meravigliosi accompagnati da musiche avvincenti, uninterfaccia immersiva e filmati in stile anime.
-- Un’avventura mozzafiato Svolgi missioni, esplora dungeon e caccia tesori di giorno. Rafforza i rapporti, instaura legami e aumenta le virtù di sera. Scegli bene cosa fare: gestire il tempo sarà cruciale per il tuo obiettivo.
-- Battaglie avvincenti Unappassionante miscela di combattimento a turni e azione in tempo reale. Personalizzando il gruppo con i poteri degli "archetipi", farai tua lavventura.
 - Affronta le tue paure, conquista il trono Il trono giace vacante dopo lassassinio del re. In mancanza di eredi, il volere del defunto re decreta che il prossimo monarca sarà eletto dal popolo, dando così inizio alla tua lotta per il trono.
+- Esplora un nuovo mondo Viaggia sul tuo "trasvettore" verso dungeon e città distanti attraversando un mondo enorme. Scopri paesaggi meravigliosi accompagnati da musiche avvincenti, uninterfaccia immersiva e filmati in stile anime.
 - Un’ambientazione unica Una storia misteriosa e dinamica si svolge in un mondo in cui le persone devono combattere le proprie ansie. Partecipa allambito Torneo del Trono che promette ore di esplorazione e scoperte coinvolgenti.
+- Battaglie avvincenti Unappassionante miscela di combattimento a turni e azione in tempo reale. Personalizzando il gruppo con i poteri degli "archetipi", farai tua lavventura.
+- Un’avventura mozzafiato Svolgi missioni, esplora dungeon e caccia tesori di giorno. Rafforza i rapporti, instaura legami e aumenta le virtù di sera. Scegli bene cosa fare: gestire il tempo sarà cruciale per il tuo obiettivo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D2HSKG17{{</world>}}

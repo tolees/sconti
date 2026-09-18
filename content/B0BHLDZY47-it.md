@@ -28,11 +28,11 @@ average: '75.3233333333333'
 
 ℹ️:
 
-- Vassoio aggiuntivo per ottenere risultati ancora più croccanti
-- Temperatura regolabile anche direttamente dal display e spegnimento automatico + Shake alert per girare il contenuto del cestino
-- Friggitrice ad aria 8 Litri di capacità con tecnologia "Rapid Air" per creare un turbine di aria calda a 220°c molto veloce nel cestello
 - 10 Programmi di cottura preimpostati selezionabili dal display: Pesce, Patatine fritte, Pollo, Uova, Cottura, Grill, Disidrata, Scongela, Verdura, Riscalda
 - Cestino rimovibile e lavabile in lavastoviglie, antiaderente
+- Vassoio aggiuntivo per ottenere risultati ancora più croccanti
+- Friggitrice ad aria 8 Litri di capacità con tecnologia "Rapid Air" per creare un turbine di aria calda a 220°c molto veloce nel cestello
+- Temperatura regolabile anche direttamente dal display e spegnimento automatico + Shake alert per girare il contenuto del cestino
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BHLDZY47{{</world>}}

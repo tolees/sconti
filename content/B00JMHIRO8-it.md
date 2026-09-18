@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Colore: bianco
-- TL-WR840N WIRELESS N WRLS
 - 300 m
+- TL-WR840N WIRELESS N WRLS
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00JMHIRO8{{</world>}}

@@ -28,11 +28,11 @@ average: '49.98'
 
 ℹ️:
 
+- mounted with a special high-pressure press technology to the frame
 - comes with HOYA’s top quality HD glass, which is a special, chemically enhanced optical glass
+- HD HIGH-TRANSMITTANCE COATING
 - UV-cut protector with chemically reinforced optical glass
 - 16-layers anti-reflective multi-coating on both sides of the filter glass
-- HD HIGH-TRANSMITTANCE COATING
-- mounted with a special high-pressure press technology to the frame
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09F3TM11K{{</world>}}

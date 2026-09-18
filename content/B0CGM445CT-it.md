@@ -28,11 +28,11 @@ average: '242.97'
 
 ℹ️:
 
-- PER RILASSARSI ALLARIA APERTA: Siediti e rilassati sui morbidi cuscini con imbottitura di 8 cm, rivestiti con tessuto impermeabile.
-- MATERIALI DI QUALITÀ: Il salottino è realizzato con rattan PE in eleganti tonalità di grigio, perfetto per portare un tocco di stile nel tuo terrazzo. Inoltre, il telaio in metallo inossidabile e la struttura in rattan PE ti garantiscono un prodotto robusto e duraturo.
 - DESIGN SALVASPAZIO: Divertiti a riorganizzare il tuo salottino da esterni! Puoi provare differenti combinazioni e, se hai bisogno di più spazio, ti basterà inserire le poltroncine singole sotto quelle ad angolo, e riporre i pouf sotto il tavolino.
-- DIMENSIONI: Il tuo salotto da giardino con dimensioni: Poltrona ad angolo: 75L x 75P x 71Acm. Dimensioni poltrona singola: 71L x 68P x 67Acm. Dimensioni tavolino: 55L x 55P x36Acm. Dimensioni pouf: 52L x 48P x 30Acm.
+- MATERIALI DI QUALITÀ: Il salottino è realizzato con rattan PE in eleganti tonalità di grigio, perfetto per portare un tocco di stile nel tuo terrazzo. Inoltre, il telaio in metallo inossidabile e la struttura in rattan PE ti garantiscono un prodotto robusto e duraturo.
 - SET DA 8 PEZZI: Questo salottino è perfetto per portare un po di freschezza nel tuo giardino! Versatile e funzionale, è composto da 2 poltrone ad angolo, 2 poltrone singole, 2 pouf e 2 tavolini.
+- DIMENSIONI: Il tuo salotto da giardino con dimensioni: Poltrona ad angolo: 75L x 75P x 71Acm. Dimensioni poltrona singola: 71L x 68P x 67Acm. Dimensioni tavolino: 55L x 55P x36Acm. Dimensioni pouf: 52L x 48P x 30Acm.
+- PER RILASSARSI ALLARIA APERTA: Siediti e rilassati sui morbidi cuscini con imbottitura di 8 cm, rivestiti con tessuto impermeabile.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CGM445CT{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech G G502 X PLUS Mouse Gaming Wireless LIGHTSPEED RGB'
-date: 2026-09-16 10:58:54
+date: 2026-09-18 10:27:55
 image: 'https://m.media-amazon.com/images/I/313vjNMPw3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B07W7MJ46M/?tag=tolees00-21'
 descuento: '44.20'
-average: '98.6853658536584'
+average: '97.9879069767441'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

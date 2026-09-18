@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Profilo aromatico:Note di testa:Mandarino verdeNote di cuore:Acqua di coccoNote di fondo:AmbraDavidoff Cool Water Eau de Parfum Intense è una fragranza fougère ambrata che esplora un lato più profondo e sensuale della mascolinità moderna.
 - Con le vivaci note agrumate del mandarino verde, questa fragranza regala unapertura energizzanteUn leggero sentore di acqua di cocco al cuore della fragranza aggiunge un contrasto morbido e rinfrescanteLa base ambrata offre un finale caldo e inebriante. Questa fragranza Davidoff è racchiusa in un flacone blu scuro, di ispirazione Bauhaus, e con un cap metallico
+- Profilo aromatico:Note di testa:Mandarino verdeNote di cuore:Acqua di coccoNote di fondo:AmbraDavidoff Cool Water Eau de Parfum Intense è una fragranza fougère ambrata che esplora un lato più profondo e sensuale della mascolinità moderna.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GVK8KPQV{{</world>}}

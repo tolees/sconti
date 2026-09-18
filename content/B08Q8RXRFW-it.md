@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Scarpe da basket
 - Stile retrò
+- Scarpe da basket
 - Ammortizzazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

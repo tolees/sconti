@@ -28,9 +28,9 @@ average: '6.46'
 
 ℹ️:
 
+- Brand: Milwaukee
 - Inserto per Avvitatore Shockwave Gen II PZ2
 - Prodotto di qualità
-- Brand: Milwaukee
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01N9GU7NZ{{</world>}}

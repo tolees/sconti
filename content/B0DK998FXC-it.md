@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Fibbia: Lacci
 - Larghezza: Regolare
+- Fibbia: Lacci
 - Suola: Gomma
-- Tipo di punta: Rotonda
 - Tipo di tacco: Tacco piatto
 - Fodera: Tessuto
+- Tipo di punta: Rotonda
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DK998FXC{{</world>}}

@@ -28,11 +28,11 @@ average: '4.31'
 
 ℹ️:
 
-- Provoca un basso fumo durante il processo di saldatura ed è privo di qualsiasi alogeno
-- Composizione: 0,3% argento, 0,7% rame, 96,5% peltro; percentuale di fluido: 2,5%; punto di fusione 217° c
-- Grazie alla percentuale di argento pari allo 0,3%, lo stagno senza piombo raggiunge una maggiore conducibilità elettrica
 - Rotolo da 17 g di stagno per saldatura senza piombo con un diametro di 1 mm, per creare collegamenti duraturi e saldati in tessuto
 - No-clean flux: liquido privo di residui, che viene utilizzato sempre più nella produzione elettronica; non è necessaria la pulizia dei punti di saldatura dopo la saldatura
+- Composizione: 0,3% argento, 0,7% rame, 96,5% peltro; percentuale di fluido: 2,5%; punto di fusione 217° c
+- Grazie alla percentuale di argento pari allo 0,3%, lo stagno senza piombo raggiunge una maggiore conducibilità elettrica
+- Provoca un basso fumo durante il processo di saldatura ed è privo di qualsiasi alogeno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07RY3FTSN{{</world>}}

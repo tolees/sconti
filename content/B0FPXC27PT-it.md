@@ -29,11 +29,11 @@ average: '74.25'
 ℹ️:
 
 - AVVENTURE IN VIAGGIO: include un aeroporto LEGO, un aereo passeggeri, un ponte d’imbarco mobile e un trattore aeroportuale, oltre a 9 minifigure per i giochi creativi con la fantasia
-- MODALITÀ BUILD TOGETHER: l’app LEGO Builder offre un’esperienza guidata e collaborativa con amici e familiari, in cui tutti si divertono a costruire parte del set utilizzando i propri dispositivi
-- ACCESSORI PER MINIFIGURE: con 3 valigie, 2 biglietti d’imbarco, palette per la gestione del traffico, un cordino girasole, un passaporto, un giornale, una mappa e un croissant
 - MODELLO DI AEROPORTO GIOCATTOLO: il divertimento prende il volo con il set Aeroporto con Aereo LEGO City, un gioco di ruolo per bambini e bambine da 8 anni in su, dotato di terminal, aeroplano giocattolo e diverse funzioni
 - IDEA REGALO CREATIVA: un ottimo regalo di compleanno per i bambini e le bambine fan dei modelli di aerei giocattolo, con cui dar vita a storie avvincenti nella loro città LEGO in mattoncini
+- ACCESSORI PER MINIFIGURE: con 3 valigie, 2 biglietti d’imbarco, palette per la gestione del traffico, un cordino girasole, un passaporto, un giornale, una mappa e un croissant
 - FUNZIONI REALISTICHE: i giovani possono inserire i bagagli nello scanner, ruotare il metal detector per rivelare uno scheletro a raggi X, cambiare il display delle partenze, utilizzare il nastro per il recupero bagagli e tanto altro
+- MODALITÀ BUILD TOGETHER: l’app LEGO Builder offre un’esperienza guidata e collaborativa con amici e familiari, in cui tutti si divertono a costruire parte del set utilizzando i propri dispositivi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FPXC27PT{{</world>}}

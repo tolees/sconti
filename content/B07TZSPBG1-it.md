@@ -29,10 +29,10 @@ average: '27.15'
 ℹ️:
 
 - Prolunga elettrica lineare 30 metri con presa universale, arancio
-- Istruzioni e manuali su faidate.Vimar.Com
 - Spina (grande) 2p+t 16 a 250 v standard italiano tipo s17 termosaldata
-- Idoneo per apparecchi elettrici da giardinaggio, elettroutensili ed apparecchi similari
 - Cavo con 3 conduttori da 1, 5 mm2 (3g1, 5) h05vv-f
+- Istruzioni e manuali su faidate.Vimar.Com
+- Idoneo per apparecchi elettrici da giardinaggio, elettroutensili ed apparecchi similari
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07TZSPBG1{{</world>}}

@@ -29,11 +29,11 @@ average: '102.72'
 ℹ️:
 
 - Che si tratti di scarificare, arieggiare o rimuovere il muschio, nulla ostacola la flessibilità e soprattutto la libertà dai fili.
-- Lo scarificatore a batteria Einhell GC-SC 36/31 Li-Solo pulisce il prato e lo rimette a nuovo. Lo scarificatore è raccomandato per prati fino ai 300 m² di superficie erbosa.
-- Grazie alle potenti batterie Power X-Change System, si utilizza in qualsiasi angolo del giardino senza fastidiosi cavi di alimentazione. La fornitura si intende senza batteria e senza caricabatteria.
 - Profondità di esercizio regolabile su tre fasi. La posizione di trasporto serve a proteggere gli attrezzi. Il manubrio è regolabile in altezza e adattabile individualmente allutente.
+- Grazie alle potenti batterie Power X-Change System, si utilizza in qualsiasi angolo del giardino senza fastidiosi cavi di alimentazione. La fornitura si intende senza batteria e senza caricabatteria.
 - La dotazione di base include ruote grandi e robusta scocca in plastica antiurto. Per il GC-SC 36/31 Li sono disponibili separatamente anche il rullo della ventola e il cesto di raccolta.
 - Il GC-SC 36/31 Li-Solo dispone di16 lame scarificatrici. Alimentato da un potente motore ad eccitazione in serie.
+- Lo scarificatore a batteria Einhell GC-SC 36/31 Li-Solo pulisce il prato e lo rimette a nuovo. Lo scarificatore è raccomandato per prati fino ai 300 m² di superficie erbosa.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07L3JXC13{{</world>}}

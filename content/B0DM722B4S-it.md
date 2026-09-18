@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- DESIGN MODERNO: un elegante contenitore di vetro con unetichetta discreta e una cera dai colori vivaci, per un look raffinato che si integra armoniosamente nei tuoi spazi.
+- SPARKLING CINNAMON: Bagliori festivi…il calore speziato di note che richiamano i bastoncini di cannella e i chiodi di garofano.
+- LA CANDELA REGALO PERFETTA PER LEI: le candele profumate Yankee Candle sono il regalo perfetto per compleanni, anniversari e altre occasioni.
 - CREARE LAMBIENTE PERFETTO: disponibile in una selezione di fragranze di alta qualità, con una miscela di cera di soia di prima qualità e oli essenziali per creare unatmosfera accogliente nella tua casa.
 - CANDELE A COMBUSTIONE DI LUNGA DURATA: 35-50 ore; 8 cm di altezza x 10 cm di larghezza (284 g)
-- DESIGN MODERNO: un elegante contenitore di vetro con unetichetta discreta e una cera dai colori vivaci, per un look raffinato che si integra armoniosamente nei tuoi spazi.
-- LA CANDELA REGALO PERFETTA PER LEI: le candele profumate Yankee Candle sono il regalo perfetto per compleanni, anniversari e altre occasioni.
-- SPARKLING CINNAMON: Bagliori festivi…il calore speziato di note che richiamano i bastoncini di cannella e i chiodi di garofano.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DM722B4S{{</world>}}

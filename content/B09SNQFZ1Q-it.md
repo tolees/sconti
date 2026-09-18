@@ -28,11 +28,11 @@ average: '28.49'
 
 ℹ️:
 
+- Brand: Polaroid
 - Size: 51 Millimetres
 - Protective case Included
-- Model: Pld 6175/s
-- Brand: Polaroid
 - Colour: 807/M9 BLACK
+- Model: Pld 6175/s
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09SNQFZ1Q{{</world>}}

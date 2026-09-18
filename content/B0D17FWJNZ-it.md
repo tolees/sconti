@@ -28,8 +28,8 @@ average: '25.0'
 
 ℹ️:
 
-- Adatto per: clima freddo
 - Giacca del marchio JACK & JONES
+- Adatto per: clima freddo
 - Realizzati con materiali sostenibili
 - Design caldo e confortevole
 

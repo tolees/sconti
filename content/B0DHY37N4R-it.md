@@ -31,8 +31,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 - Dimensioni: 15 cm x 31 cm x 44 cm
 - Tasche laterali aperte
 - Tasca anteriore con zip
-- Spallacci imbottiti regolabili
 - 100% poliestere (riciclato)
+- Spallacci imbottiti regolabili
 - Volume: 27,5 L
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '20.992'
 
 ℹ️:
 
+- Stoppini in cotone 100% senza piombo raddrizzati e centrati per una combustione uniforme
+- Bagliori festivi, il calore speziato di bastoncini di autentica cannella con un tocco di chiodi di garofano
 - Durata della candela: da 110 a 150 ore di piacevole profumazione
 - Ogni candela grande è inserita nella classica giara di vetro con coperchio per preservare e contenere la fragranza
-- Bagliori festivi, il calore speziato di bastoncini di autentica cannella con un tocco di chiodi di garofano
-- Stoppini in cotone 100% senza piombo raddrizzati e centrati per una combustione uniforme
 - Ingredienti scelti e cera di alta qualità garantiscono un aroma chiarao e costante che riempie tutta la stanza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

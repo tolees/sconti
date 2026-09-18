@@ -28,9 +28,9 @@ average: '18.3'
 
 ℹ️:
 
-- Steelbook
-- Esclusiva Amazon
 - 4K UHD + Blu-ray
+- Esclusiva Amazon
+- Steelbook
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FGQM3FYP{{</world>}}

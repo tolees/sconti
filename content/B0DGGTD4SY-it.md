@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- CLASSIC LOOK, FASHIONABLE FINISHING, COMFORTABLE
 - Occhiali da sole ovali in plastica
+- CLASSIC LOOK, FASHIONABLE FINISHING, COMFORTABLE
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DGGTD4SY{{</world>}}

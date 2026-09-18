@@ -28,10 +28,10 @@ average: '29.99'
 
 ℹ️:
 
+- Indicatore del livello dell’acqua e pulsante on/off illuminato
+- Tecnologia WhirlTech e sistema anti-goccia
 - Mantenimento in caldo per 40 minuti
 - Porta-filtro rimovibile e lavabile
-- Tecnologia WhirlTech e sistema anti-goccia
-- Indicatore del livello dell’acqua e pulsante on/off illuminato
 - Include misurino per una tazza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

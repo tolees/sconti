@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- MODO DUSO: Prodotto da bagno, applicare sulla pelle bagnata, massaggiare e risciacquare. Uso esterno.
-- TESTATO: Questo prodotto è vegano e testao al nichel, cobalto e chromo. Approvato dai dermatologi AIDECO e adatto ad un utilizzo frequente
-- INGREDIENTE PRINCIPALE: LOlio Essenziale di Bergamotto di Calabria viene estratto a freddo dalla buccia di frutti sapientemente selezionati e possiede straordinarie proprietà purificanti
 - FORMULA: La nuova formula del Fisio Shampoo Trattante con Olio di Bergamotto di Calabria è studiata specificatamente per detergere delicatamente e rinfrescare la pelle del corpo e il cuoio capelluto
+- TESTATO: Questo prodotto è vegano e testao al nichel, cobalto e chromo. Approvato dai dermatologi AIDECO e adatto ad un utilizzo frequente
+- MODO DUSO: Prodotto da bagno, applicare sulla pelle bagnata, massaggiare e risciacquare. Uso esterno.
+- INGREDIENTE PRINCIPALE: LOlio Essenziale di Bergamotto di Calabria viene estratto a freddo dalla buccia di frutti sapientemente selezionati e possiede straordinarie proprietà purificanti
 - BAGNO SETA: Grazie alle proprietà energizzanti e rivitalizzanti dell’Olio Essenziale di Bergamotto di Calabria, la pelle rimane luminosa, fresca e idratata a lungo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

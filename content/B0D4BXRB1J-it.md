@@ -28,10 +28,10 @@ average: '68.9'
 
 ℹ️:
 
+- Esterno in pelle scamosciata impermeabile e resistente, design traspirante Omni-Tech con trazione antitraccia Omni-Grip per una maggiore robustezza.
 - Le scanalature di flessione assicurano flessibilità e una migliore spinta in uscita, aiutando ad adattarsi ai paesaggi selvaggi e urbani.
 - Con un sistema Omni-Max che utilizza unintersuola in Techlite per stabilità e comfort e cupole di deflessione per un migliore rimbalzo.
 - Contenuto: 1x Columbia Newton Wander Scarponi da Trekking da Uomo, Taglia: 46 EU, Colore: Marrone
-- Esterno in pelle scamosciata impermeabile e resistente, design traspirante Omni-Tech con trazione antitraccia Omni-Grip per una maggiore robustezza.
 - Gli scarponcini Columbia Newton Wander da uomo sono ideali per sentieri impervi e terreni montuosi e rocciosi.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

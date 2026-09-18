@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Sandalo Basic
 - BILLABONG Uomo Taglia Ottenuto 39 Nero
+- Sandalo Basic
 - Sandals
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

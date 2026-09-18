@@ -28,9 +28,9 @@ average: '17.8'
 
 ℹ️:
 
-- Manico ergonomico e impilabile
 - Alluminio fuso
 - Diametro base: 173 mm
+- Manico ergonomico e impilabile
 - Rivestimento antiaderente di qualità a tre strati senza PFOA
 - Adatta a tutti i tipi di piani cottura, induzione inclusa
 

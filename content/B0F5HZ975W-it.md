@@ -28,12 +28,12 @@ average: '24.99'
 
 ℹ️:
 
-- SUONO PULITO, COSCIENZA PULITA – Realizzate con il 85% di plastica riciclata, le cuffie Roha II offrono un suono di alta qualità e la consapevolezza di aver contribuito al bene del pianeta
+- PLUG & PLAY: FACILE, DIREI! – La configurazione? Facilissima! Basta collegare le cuffie tramite i connettori USB o USB-C in dotazione per essere subito pronti a unirsi alla videochiamata
 - 5 ANNI DI SERENITÀ – Goditi i tuoi prodotti senza pensieri grazie alla nostra garanzia di 5 anni. Realizzati per durare e supportati dalla qualità che ci distingue, vivi unesperienza senza stress
 - LEGGERE COME LARIA – Grazie al design leggero, all’archetto regolabile e ai cuscinetti on-ear, le cuffie Roha II sono perfette anche per le chiamate più lunghe. Non ti accorgerai nemmeno di indossarle!
-- UN PO’ DI SILENZIO – Il microfono flessibile Dual ENC insonorizzante integrato elimina facilmente i fastidiosi rumori di fondo per concentrare lattenzione su di te e la tua voce
+- SUONO PULITO, COSCIENZA PULITA – Realizzate con il 85% di plastica riciclata, le cuffie Roha II offrono un suono di alta qualità e la consapevolezza di aver contribuito al bene del pianeta
 - CONTROLLO ASSOLUTO – Basta armeggiare con i pulsanti! Accedi facilmente al controllo del volume tramite la ghiera on-ear, oppure solleva il microfono per disattivarlo in un batter d’occhio
-- PLUG & PLAY: FACILE, DIREI! – La configurazione? Facilissima! Basta collegare le cuffie tramite i connettori USB o USB-C in dotazione per essere subito pronti a unirsi alla videochiamata
+- UN PO’ DI SILENZIO – Il microfono flessibile Dual ENC insonorizzante integrato elimina facilmente i fastidiosi rumori di fondo per concentrare lattenzione su di te e la tua voce
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F5HZ975W{{</world>}}

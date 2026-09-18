@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dr. Scholl s Crema per Talloni Screpolati Active Repair K+ Crema Idratante per Talloni con Cheratina Assorbimento Rapido ed Effetto Duraturo Ideale per Uso Quotidiano 60ml Confezione da 3'
-date: 2026-09-15 18:50:21
+date: 2026-09-18 07:06:23
 image: 'https://m.media-amazon.com/images/I/51zGmWO4SaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

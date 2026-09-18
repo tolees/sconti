@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- A MODO MIO QUALITÀ ORO: Dal 1956, una sinfonia perfetta dal gusto sempre unico. Una miscela di caffè Lavazza ideale per un espresso dallaroma intenso e fragrante. Capsule compatibili con macchine A Modo Mio
-- LAVAZZA: Il Gruppo Lavazza opera in ogni settore dellindustria del caffè, offrendo prodotti di alta qualità, ottenuti attraverso un modello sostenibile basato su innovazione, passione e competenza
 - INTENSITÀ: La tostatura media e lintensità 8/13 danno un gusto dolce e persistente a questa particolare miscela, creando una crema dorata e dal colore caldo
+- A MODO MIO QUALITÀ ORO: Dal 1956, una sinfonia perfetta dal gusto sempre unico. Una miscela di caffè Lavazza ideale per un espresso dallaroma intenso e fragrante. Capsule compatibili con macchine A Modo Mio
 - NOTE AROMATICHE: Questa selezione di caffè è caratterizzata da note aromatiche floreali e fruttate, per un espresso elegante
 - COMPOSIZIONE: Le capsule A Modo Mio Qualità Oro di Lavazza sono realizzate con una combinazione di Arabica tra le più pregiate del Centro e Sud America, selezionate e tostate a regola d’arte
+- LAVAZZA: Il Gruppo Lavazza opera in ogni settore dellindustria del caffè, offrendo prodotti di alta qualità, ottenuti attraverso un modello sostenibile basato su innovazione, passione e competenza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09W2L9TH6{{</world>}}

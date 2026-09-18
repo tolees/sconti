@@ -28,10 +28,10 @@ average: '9.12'
 
 ℹ️:
 
+- Numero di giocatori: 1 o più giocatori
 - Prodotto di ottima qualità
 - Brand: schmidt
 - Fabbricato in italia
-- Numero di giocatori: 1 o più giocatori
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07WFXVWGD{{</world>}}

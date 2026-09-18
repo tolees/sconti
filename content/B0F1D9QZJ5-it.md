@@ -28,11 +28,11 @@ average: '17.88'
 
 ℹ️:
 
+- Corona è una international lager ed ha un gusto fine e rinfrescante.s
 - Nessuna Corona è completa senza lime. Il rituale del lime aggiunge a Corona carattere, sapore e freschezza in modo naturale: è parte integrante di unesperienza davvero unica
+- Da sempre Corona invita le persone a disconnettersi dalla routine quotidiana per godersi quei momenti di relax, in casa propria o all’aria aperta
 - Per trovare il proprio angolo di paradiso in realtà basta poco.Alla fine di una lunga giornata quando torni a casa o quando ti ritrovi con gli amici, basta una Corona, una fetta di lime, i tuoi snack preferiti, e puoi avere il tuo magico momento di relax
 - Confezione da 12 bottiglie da 50cl di Corona Extra
-- Corona è una international lager ed ha un gusto fine e rinfrescante.s
-- Da sempre Corona invita le persone a disconnettersi dalla routine quotidiana per godersi quei momenti di relax, in casa propria o all’aria aperta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F1D9QZJ5{{</world>}}

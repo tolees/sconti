@@ -30,8 +30,8 @@ average: '29.2225'
 
 - Durata della batteria fino a 16 ore per ascoltare ancora più a lungo
 - Chiamate in vivavoce grazie al microfono integrato
-- Focus su sostenibilità e materiali
 - Audio potente e nitido
+- Focus su sostenibilità e materiali
 - Design davvero robusto e facile da trasportare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

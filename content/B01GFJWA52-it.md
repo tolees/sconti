@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Ottimo sapore dell’acqua: La caraffa filtra l’acqua del rubinetto riducendo il contenuto di cloro, calcare e altre impurità. Ideale per acqua dura
+- Pratica: la caraffa filtrante può essere lavata in lavastoviglie fino a 50°C (senza coperchio)
+- Con indicatore di sostituzione della cartuccia: Il display elettronico mostra quando è necessario sostituire la cartuccia (ogni 30 giorni)
 - Design: Coperchio ribaltabile per un facile riempimento direttamente dal lavello, manico ergonomico per versare comodamente l’acqua e beccuccio anti-goccia
 - Capacità: Caraffa filtrante per acqua da 2,3 litri con capacità di 1,4 litri di acqua filtrata. Realizzata in plastica senza BPA
-- Con indicatore di sostituzione della cartuccia: Il display elettronico mostra quando è necessario sostituire la cartuccia (ogni 30 giorni)
-- Pratica: la caraffa filtrante può essere lavata in lavastoviglie fino a 50°C (senza coperchio)
+- Ottimo sapore dell’acqua: La caraffa filtra l’acqua del rubinetto riducendo il contenuto di cloro, calcare e altre impurità. Ideale per acqua dura
 - Compatibilità: Adatta per cartucce Amazon Basics e BRITA MAXTRA/MAXTRA+ 1 Cartuccia filtrante per acqua Amazon Basics inclusa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

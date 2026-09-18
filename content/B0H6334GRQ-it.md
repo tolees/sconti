@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Gli Oswego presentano il 65% di grassi saturi in meno rispetto alla media dei biscotti secchi più venduti (Fonte: unioneitalianafood.it)
-- Da oltre 200 anni Colussi porta in tavola l’autentica bontà di casa e i sapori di una volta, tramandando di generazione in generazione il suo tocco inconfondibile
 - I biscotti secchi Oswego ancora oggi custodiscono nella loro forma geometrica e nella superficie bucherellata la croccantezza e la bontà della ricetta originale di Giacomo Colussi, preparata con cura nella sua bottega
-- I biscotti secchi per eccellenza: il loro sapore soddisfa chi cerca un biscotto delicato da inzuppare nel the o nella bevanda preferita per la colazione
 - Senza olio di palma e con farina di grano tenero e latte fresco di origine italiana: una ricetta semplice per un gusto classico e confortevole
+- Da oltre 200 anni Colussi porta in tavola l’autentica bontà di casa e i sapori di una volta, tramandando di generazione in generazione il suo tocco inconfondibile
+- Gli Oswego presentano il 65% di grassi saturi in meno rispetto alla media dei biscotti secchi più venduti (Fonte: unioneitalianafood.it)
+- I biscotti secchi per eccellenza: il loro sapore soddisfa chi cerca un biscotto delicato da inzuppare nel the o nella bevanda preferita per la colazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0H6334GRQ{{</world>}}

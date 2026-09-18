@@ -28,10 +28,10 @@ average: '129.99'
 
 ℹ️:
 
-- Trenta operazioni di cucito
-- Quattordici punti elasticizzati e 5 punti per decorazioni e ricami
 - Occhiellatore automatico ad un tempo
+- Trenta operazioni di cucito
 - Impuntura centrale elasticizzata a lunghezza variabile
+- Quattordici punti elasticizzati e 5 punti per decorazioni e ricami
 - Funzione twin-needle (+) per i punti diversi dal punto dritto, questa funzione riduce la larghezza del punto per la cucitura con un ago doppio, in modo che gli aghi liberino il piedino mentre si cuce
 - Zig-zag fino a 6 mm di ampiezza
 

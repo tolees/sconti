@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Capacità: 20000mAh
 - Input:1xUSB-C 10.5W - Output: 2xUSB 12W
+- Celle: Li-ion Battery
 - LED luminosi che indicano lo stato di carica residua
 - Contenuto confezione: Caricabatterie Portatile, Cavo USB-A to USB-C, Istruzioni
-- Celle: Li-ion Battery
+- Capacità: 20000mAh
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DJ19HCR8{{</world>}}

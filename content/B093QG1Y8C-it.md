@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Stampa wireless semplice tramite Wi-Fi, app Canon PRINT, Mopria o AirPrint
-- Ottieni un volume elevato di pagine con un solo set di flaconi di inchiostro: stampa 3.800 foto 4x6" con un set
 - Facile da usare, il display LCD a 2 righe consente agli utenti di accedere alle informazioni e regolare le impostazioni facilmente, mentre lo spegnimento automatico consente di risparmiare energia
 - Gli inchiostri rosso e grigio aggiuntivi migliorano la gamma di colori e riducono al minimo i cambi di tonalità, per risultati cromatici accurati
 - Nessun tempo di attesa grazie allelevata velocità di stampa fotografica: solo 47 secondi per stampare una foto da 4x6"
+- Ottieni un volume elevato di pagine con un solo set di flaconi di inchiostro: stampa 3.800 foto 4x6" con un set
+- Stampa wireless semplice tramite Wi-Fi, app Canon PRINT, Mopria o AirPrint
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B093QG1Y8C{{</world>}}

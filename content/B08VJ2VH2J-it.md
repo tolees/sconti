@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'INIU Caricatore Auto USB C 60W Combinati [Type C 30W + USB A 30W] Nero'
-date: 2026-09-12 18:14:16
+date: 2026-09-16 19:13:32
 image: 'https://m.media-amazon.com/images/I/41J52iEV1nL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B08VJ2VH2J/?tag=tolees00-21'
 descuento: '26.94'
-average: '9.35534883720935'
+average: '9.36133333333338'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

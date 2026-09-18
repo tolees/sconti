@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Per il trattamento e la prevenzione delle infestazioni da pulci (Ctenocephalides felis) nei cani
-- Questo medicinale veterinario è adatto a cani con peso da 2 a 10 kg
-- Il medicinale veterinario protegge i cani da nuove infestazioni da zecche (Dermacentor reticulatus, Rhipicephalus sanguineus) dal 7° al 28° giorno dopo l’applicazione del medicinale veterinario
-- Il medicinale veterinario non si è dimostrato efficace nei confronti di zecche già presenti sull’animale
 - La durata della protezione contro le infestazioni da pulci è di 5 settimane
+- Il medicinale veterinario protegge i cani da nuove infestazioni da zecche (Dermacentor reticulatus, Rhipicephalus sanguineus) dal 7° al 28° giorno dopo l’applicazione del medicinale veterinario
+- Questo medicinale veterinario è adatto a cani con peso da 2 a 10 kg
+- Il medicinale veterinario non si è dimostrato efficace nei confronti di zecche già presenti sull’animale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B5F9F8P4{{</world>}}

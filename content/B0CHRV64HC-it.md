@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dimensioni: quando acquisti sandali Havaianas su Amazon, devi considerare la taglia BR/fornitore come equivalente alla taglia UE, indipendentemente da ciò che viene visualizzato sulla suola del prodotto
-- Genere: infradito unisex
-- Tipo di suola: confortevole, durevole, leggero, resistente al calore, antiscivolo e resistente allacqua
 - Cinturino: PVC. Materiale suola: gomma
+- Genere: infradito unisex
 - Colore infradito: verde oliva
+- Dimensioni: quando acquisti sandali Havaianas su Amazon, devi considerare la taglia BR/fornitore come equivalente alla taglia UE, indipendentemente da ciò che viene visualizzato sulla suola del prodotto
+- Tipo di suola: confortevole, durevole, leggero, resistente al calore, antiscivolo e resistente allacqua
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CHRV64HC{{</world>}}

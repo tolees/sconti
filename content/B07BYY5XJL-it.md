@@ -29,10 +29,10 @@ average: '64.59'
 ℹ️:
 
 - Alla Moda: questa sedia da ufficio si presenta in colori classici. La struttura in PU aumenta molto lattrattiva, la struttura in metalloaggiunge più eleganza. Il design semplice rende questa sedia facile da abbinare a qualsiasi arredo. Abbiamo vari colori tra cui puoi scegliere.
-- Materiali Selezionati, Sicurezza Certificata: Questa sedia da ufficio in similcuoio ha una seduta con schiuma da 7,5 cm per un supporto confortevole. Il cilindro a gas testato SGS ha superato 100.000 cicli di impatto e 120.000 test di rotazione, offrendo stabilità e sicurezza
 - Massimo Comfort: il sedile e lo schienale sono realizzati in schiuma solida modellata e in similcuoio selezionato con buone cuciture. La sedia è sostenuta da gambe in metallo su cinque ruote. Questa costruzione è stata progettata per offrirvi una migliore esperienza e il massimo comfort anche durante lunghe sessioni o lunghe giornate di lavoro. I braccioli sono rimovibili per diversi corpi.
 - Altezza Regolabile: questa sedia da ufficio presenta un cilindro a gas, costruito per ottimizzare la stabilità ad ogni altezza. È possibile utilizzare la leva di regolazione sotto il sedile per sollevare facilmente la sedia a 103 cm o per abbassarla fino a 88,5cm.
 - Girevole e Direzionale: il sedile girevole a 360 gradi offre la comodità di passare da un compito allaltro. Questa sedia girevole per computer si appoggia su 5 rotelle antirumore, realizzate in plastica e gomma selezionato e in grado di funzionare in modo multidirezionale.
+- Materiali Selezionati, Sicurezza Certificata: Questa sedia da ufficio in similcuoio ha una seduta con schiuma da 7,5 cm per un supporto confortevole. Il cilindro a gas testato SGS ha superato 100.000 cicli di impatto e 120.000 test di rotazione, offrendo stabilità e sicurezza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07BYY5XJL{{</world>}}

@@ -28,10 +28,10 @@ average: '28.99'
 
 ℹ️:
 
+- Ogni tazzina di caffè LOR rappresenta unesperienza unica, un momento di puro e semplice piacere. Sapori intensi, delicati e corposi che sorprenderanno il tuo palato
+- La pratica capsula in alluminio conserva al meglio gli aromi del caffe, per unesperienza intensa. Capsule compatibili con le macchine da caffè Nespresso, una pausa caffè a casa tua come al bar
 - Ogni miscela di caffè LOR è coltivata con metodi di produzione sostenibili certificati, preservando la natura e proteggendo lambiente
 - LOr Variety Pack Origini. Confezione da 100 capsule: 40 capsule Colombia Intensità 8, 40 capsule Papua Nuova Guinea Intensità 7, 20 capsule India Karnataka Intensità 10. Capsule compatibili con macchine nespresso.
-- La pratica capsula in alluminio conserva al meglio gli aromi del caffe, per unesperienza intensa. Capsule compatibili con le macchine da caffè Nespresso, una pausa caffè a casa tua come al bar
-- Ogni tazzina di caffè LOR rappresenta unesperienza unica, un momento di puro e semplice piacere. Sapori intensi, delicati e corposi che sorprenderanno il tuo palato
 - *Marchio di terzi senza alcun collegamento con JACOBS DOUWE EGBERTS
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 【𝗨𝗦𝗕-𝗖 𝗥𝗶𝗰𝗮𝗿𝗶𝗰𝗮𝗯𝗶𝗹𝗲】 Ricarica completa tramite la nuova porta USB-C entro 100 minuti senza rimuovere la batteria. Non devi portare con te più cavi di ricarica
-- 【𝗙𝗮𝗰𝗶𝗹𝗲 𝗱𝗮 𝗨𝘀𝗮𝗿𝗲】 Basta girare la testa della lampada per accenderla e spegnerla. Innanzitutto, I1R 2 Pro brilla con 5 lumen. Ruota ancora un po la testa della lampada per 180 lumen
-- 【𝗣𝗶𝗰𝗰𝗼𝗹𝗮 𝗲 𝗣𝗿𝗮𝘁𝗶𝗰𝗮】 Con una lunghezza di 51,3 mm e 22 g, appena percettibile sul portachiavi. Una mini torcia EDC perfetta per le riparazioni di emergenza allaperto
-- 【𝗗𝘂𝗿𝗮𝘁𝗮】Custodia in alluminio, impermeabile secondo IPX 8 e design a prova di caduta da 1,5 m per una sensazione di sicurezza
 - 【𝗧𝗼𝗿𝗰𝗶𝗮 𝗠𝗶𝗻𝗶 𝗟𝗘𝗗】 Fascio luminoso bilanciato con 5/180 lumen grazie al LED ad alte prestazioni e alla lente ottica TIR. Ha unautonomia massima di 12 ore
+- 【𝗙𝗮𝗰𝗶𝗹𝗲 𝗱𝗮 𝗨𝘀𝗮𝗿𝗲】 Basta girare la testa della lampada per accenderla e spegnerla. Innanzitutto, I1R 2 Pro brilla con 5 lumen. Ruota ancora un po la testa della lampada per 180 lumen
+- 【𝗗𝘂𝗿𝗮𝘁𝗮】Custodia in alluminio, impermeabile secondo IPX 8 e design a prova di caduta da 1,5 m per una sensazione di sicurezza
+- 【𝗣𝗶𝗰𝗰𝗼𝗹𝗮 𝗲 𝗣𝗿𝗮𝘁𝗶𝗰𝗮】 Con una lunghezza di 51,3 mm e 22 g, appena percettibile sul portachiavi. Una mini torcia EDC perfetta per le riparazioni di emergenza allaperto
+- 【𝗨𝗦𝗕-𝗖 𝗥𝗶𝗰𝗮𝗿𝗶𝗰𝗮𝗯𝗶𝗹𝗲】 Ricarica completa tramite la nuova porta USB-C entro 100 minuti senza rimuovere la batteria. Non devi portare con te più cavi di ricarica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09L4C6RTH{{</world>}}

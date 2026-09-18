@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- CONTENUTO DELLA CONFEZIONE: 1 x Samsung Scheda di Memoria MicroSD T9, 128 GB, MB-MH128T/WW. Dimensioni (LxAxP): 15 x 11 x 1 mm, Colore: Nero.
-- VELOCITÀ DI REGISTRAZIONE 4K PROFESSIONALE: Fino a 200 MB/s in lettura e fino a 130 MB/s in scrittura consentono registrazioni video 4K fluide, scatti in sequenza di foto RAW e la produzione di contenuti a 360° in tempo reale per droni e action cam.
 - OTTIMIZZATA PER DRONI E TELECAMERE DAZIONE: Progettata appositamente per sistemi di droni professionali, action cam, telecamere a 360° e attrezzature per la creazione di contenuti, per massima compatibilità e prestazioni affidabili sul campo.
-- GRANDE CAPACITÀ DI ARCHIVIAZIONE: Fino a 128 GB di spazio di archiviazione per ore di riprese video in 4K e migliaia di foto ad alta risoluzione senza cambiare scheda. Ideale per lunghe giornate di riprese, voli con droni e intense sessioni sportive.
 - PROTEZIONE ESTREMA A 6 LIVELLI: Resistente allacqua, agli sbalzi di temperatura (da -25 °C a 85 °C), ai raggi X, ai campi magnetici, alle cadute da unaltezza massima di 5 metri e allusura. Le tue foto sono perfettamente protette in qualsiasi ambiente.
+- CONTENUTO DELLA CONFEZIONE: 1 x Samsung Scheda di Memoria MicroSD T9, 128 GB, MB-MH128T/WW. Dimensioni (LxAxP): 15 x 11 x 1 mm, Colore: Nero.
+- GRANDE CAPACITÀ DI ARCHIVIAZIONE: Fino a 128 GB di spazio di archiviazione per ore di riprese video in 4K e migliaia di foto ad alta risoluzione senza cambiare scheda. Ideale per lunghe giornate di riprese, voli con droni e intense sessioni sportive.
+- VELOCITÀ DI REGISTRAZIONE 4K PROFESSIONALE: Fino a 200 MB/s in lettura e fino a 130 MB/s in scrittura consentono registrazioni video 4K fluide, scatti in sequenza di foto RAW e la produzione di contenuti a 360° in tempo reale per droni e action cam.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GMRFQDYP{{</world>}}

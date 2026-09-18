@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Il peso della confezione del prodotto è di 1 kg
+- Paese di origine: Cina
 - Designer: Patricia Urquiola
 - Materiale: acciaio inox 18/10, pomello in acciaio inox 18/10 con rivestimento PVD
-- Paese di origine: Cina
-- Il peso della confezione del prodotto è di 1 kg
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07LFGM88W{{</world>}}

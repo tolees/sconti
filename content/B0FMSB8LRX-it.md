@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mekkyes Truccabimbi Kit - 16 Colori Trucco Viso Bambini con 4 Colori Grandi 52 Stencil e 1 Adesivo con Strass Truccabimbi set Anallergici Atossici Body Painting per Halloween Carnevale Cosplay'
-date: 2026-09-13 10:43:23
+date: 2026-09-17 18:29:02
 image: 'https://m.media-amazon.com/images/I/51QbX-YG1FL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

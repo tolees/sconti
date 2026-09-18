@@ -28,12 +28,12 @@ average: '21.9'
 
 ℹ️:
 
-- Visita il sito Nestlé per scoprire come le nostre marche sono scese in campo e contribuiscono al raggiungimento degli obiettivi di sostenibilità del Gruppo Nestlé con progetti concreti
-- La barretta GALAK è ottima per uno Snack veloce e goloso, grazie alla bontà del cioccolato bianco con vaniglia naturale
-- Confezione da 36 barrette da 40g ciascuna: 1,44kg totali
-- Cacao approvvigionato in maniera sostenibile, Certificato Rainforest Alliance
-- Gusto goloso e adatto a tutti. Senza glutine
 - 36 Barrette GALAK con goloso cioccolato bianco
+- Visita il sito Nestlé per scoprire come le nostre marche sono scese in campo e contribuiscono al raggiungimento degli obiettivi di sostenibilità del Gruppo Nestlé con progetti concreti
+- Confezione da 36 barrette da 40g ciascuna: 1,44kg totali
+- Gusto goloso e adatto a tutti. Senza glutine
+- Cacao approvvigionato in maniera sostenibile, Certificato Rainforest Alliance
+- La barretta GALAK è ottima per uno Snack veloce e goloso, grazie alla bontà del cioccolato bianco con vaniglia naturale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B076G7PY1R{{</world>}}

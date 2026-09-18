@@ -28,8 +28,8 @@ average: '34.98'
 
 ℹ️:
 
-- Collare imbottito
 - Tomaia in pelle
+- Collare imbottito
 - Intersuola in schiuma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

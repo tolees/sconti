@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Design Iconico: La bottiglia bianca si ispira alla ceramica galiziana Sargadelos
+- Ingrediente Distintivo: Ottenuto da uva Albariño, offre un gin morbido, facile da bere, con note fruttate e aromatiche
+- Blend Botanico: Unisce botaniche galiziane e internazionali, come salvia, alloro ed eucalipto, per un sapore fresco ed equilibrato
 - Sapore Unico: Fresco, aromatico ed equilibrato, si distingue dai gin classici
 - Origine Unica: Nordés è il primo gin atlantico galiziano, realizzato con ingredienti locali che catturano lessenza della Galizia
-- Blend Botanico: Unisce botaniche galiziane e internazionali, come salvia, alloro ed eucalipto, per un sapore fresco ed equilibrato
-- Ingrediente Distintivo: Ottenuto da uva Albariño, offre un gin morbido, facile da bere, con note fruttate e aromatiche
+- Design Iconico: La bottiglia bianca si ispira alla ceramica galiziana Sargadelos
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01AGDRY0Y{{</world>}}

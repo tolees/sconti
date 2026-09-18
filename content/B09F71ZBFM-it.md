@@ -28,8 +28,8 @@ average: '26.76'
 
 ℹ️:
 
-- Long Sleeves
 - materialFabricComposition: 79% Cotton, 20% Polyester, 1% Elastane
+- Long Sleeves
 - Spread Collar
 - Denim jacket
 

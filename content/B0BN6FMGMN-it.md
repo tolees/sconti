@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Logo stampato
 - Tessuto ultra-light powerblend fleece felpato (240gr)
 - La taglia L è adatta per bambini dai 11 ai 12 anni
-- Logo stampato
 - Regular fit: Vestibilità semplice e confortevole con spazio per muoversi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

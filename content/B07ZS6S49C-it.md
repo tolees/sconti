@@ -28,11 +28,11 @@ average: '4.55'
 
 ℹ️:
 
-- Mini timer meccanico giornaliero
 - Intervallo di programmazione 30 minuti
 - Presa schuko + 10a - spina italiana piccola 10a
-- Massimo 48 programmi on/off giornalieri
 - Portata massima 2300w
+- Massimo 48 programmi on/off giornalieri
+- Mini timer meccanico giornaliero
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07ZS6S49C{{</world>}}

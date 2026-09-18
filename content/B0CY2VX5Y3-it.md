@@ -28,9 +28,9 @@ average: '14.5'
 
 ℹ️:
 
-- Questa T-shirt con stampa Classic ha tutto ciò che serve: una silhouette intramontabile
-- Rifinita con una grafica vistosa
 - Un classico intramontabile che puoi indossare con tutto
+- Rifinita con una grafica vistosa
+- Questa T-shirt con stampa Classic ha tutto ciò che serve: una silhouette intramontabile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CY2VX5Y3{{</world>}}

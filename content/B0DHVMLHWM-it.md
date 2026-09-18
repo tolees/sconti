@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tasca interna sul petto
 - Orlo con regolazione elastica
 - Polsini con elastico bordato
+- Tasca interna sul petto
 - Due tasche scaldamani con cerniera
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

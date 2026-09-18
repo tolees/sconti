@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- AMAREZZA: Al palato corposo, in equilibrio con acidità moderata e note basiche asciutte. Il finale è equilibrato, con un pizzico di grano e luppolo
 - GUSTO: Delicati aromi di frutta bianca, note di banana e mela con una leggera nota di pane bianco e una nota di base fiorita
 - ASPETTO: Colore oro brillante, schiuma luminosa e cremosa, consistente
+- AMAREZZA: Al palato corposo, in equilibrio con acidità moderata e note basiche asciutte. Il finale è equilibrato, con un pizzico di grano e luppolo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07FW8LCRP{{</world>}}

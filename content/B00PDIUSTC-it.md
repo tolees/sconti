@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Da marzo a ottobre: concimare una volta ogni 2 settimane, Da novembre a febbraio: concimare una volta al mese i bonsai da interno, evitare la concimazione dei bonsai da esterno
-- Contenuto: 1 Flacone di Concime liquido per bonsai COMPO, Per bonsai da interno e da esterno, Con tappo graduato, Volume: 250 ml, Art. n. 1200612005
-- Crescita sana: fornisce alla pianta tutti i principali elementi nutritivi fin dalla prima applicazione, promuovendo una crescita vigorosa e rafforzando la resistenza
 - Facile da usare: 1- agitare prima delluso, 2- riempire il tappo con il dosaggio necessario, 3-diluire, 4- annaffiare
+- Da marzo a ottobre: concimare una volta ogni 2 settimane, Da novembre a febbraio: concimare una volta al mese i bonsai da interno, evitare la concimazione dei bonsai da esterno
+- Crescita sana: fornisce alla pianta tutti i principali elementi nutritivi fin dalla prima applicazione, promuovendo una crescita vigorosa e rafforzando la resistenza
+- Contenuto: 1 Flacone di Concime liquido per bonsai COMPO, Per bonsai da interno e da esterno, Con tappo graduato, Volume: 250 ml, Art. n. 1200612005
 - Concime minerale liquido con potassio, Per tutti i tipi di bonsai da interno e da esterno, Ad azione immediata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

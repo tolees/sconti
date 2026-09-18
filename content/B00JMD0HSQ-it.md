@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Prodotti per lufficio e luso personale
 - Prodotto originale ed esclusivo
+- Prodotti per lufficio e luso personale
 - Marca Guarro Canson
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

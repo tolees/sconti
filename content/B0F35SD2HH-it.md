@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Brand "New Balance" sul collare del tallone
 - Etichetta tessuta sulla linguetta
+- Brand "New Balance" sul collare del tallone
 - Punta traforata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

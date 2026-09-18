@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- La messa in tensione senza chiavi consente un agevole assemblaggio della catena della sega e della barra di guida con SDS System
-- Dotazione: EasyChain 18V-15-7, 1 batteria da 2,5 Ah, 1 caricabatteria AL 1830 CV, 1 flacone dolio da 50 ml, 1 fodero per barra di guida, 1 guida di avvio rapido, 1 ausilio per messa in tensione della catena, confezione di cartone
-- Leggero e portatile, ideale per spazi ristretti
 - POWER FOR ALL ALLIANCE: 1 BATTERIA, 10+ MARCHI, ​150+ PRODOTTI.​
+- Dotazione: EasyChain 18V-15-7, 1 batteria da 2,5 Ah, 1 caricabatteria AL 1830 CV, 1 flacone dolio da 50 ml, 1 fodero per barra di guida, 1 guida di avvio rapido, 1 ausilio per messa in tensione della catena, confezione di cartone
+- La messa in tensione senza chiavi consente un agevole assemblaggio della catena della sega e della barra di guida con SDS System
+- Leggero e portatile, ideale per spazi ristretti
 - Mini motosega a batteria ideato per il taglio di alberi, la potatura di rami e vari altri lavori di fai-da-te in giardino
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Attacco utensile Starlock: per un più rapido avanzamento del lavoro e massima trasmissione di forza, grazie allattacco tridimensionale
-- Dotazione: GOP 12V-28, 1 lama BIM per tagli dal pieno Starlock AIZ 32 APB
-- Professional 12V System. Prestazioni compatte. Massima libertà. Tutte le batterie sono compatibili con gli strumenti Bosch Professional nuovi ed esistenti nella stessa classe di tensione.
 - Sostituzione rapida e semplice dellaccessorio grazie allattacco SDS: se lattacco scatta, laccessorio è fissato in modo sicuro e corretto (solo per GOP 18V-28; GOP 40-30 e GOP 55-36)
+- Professional 12V System. Prestazioni compatte. Massima libertà. Tutte le batterie sono compatibili con gli strumenti Bosch Professional nuovi ed esistenti nella stessa classe di tensione.
 - Elevata maneggevolezza grazie al peso ridotto e all’elevato comfort di impiego
+- Dotazione: GOP 12V-28, 1 lama BIM per tagli dal pieno Starlock AIZ 32 APB
+- Attacco utensile Starlock: per un più rapido avanzamento del lavoro e massima trasmissione di forza, grazie allattacco tridimensionale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0741D4HRL{{</world>}}

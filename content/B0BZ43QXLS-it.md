@@ -29,10 +29,10 @@ average: '21.19'
 ℹ️:
 
 - 【Base QR Compatibile con Tipo Arca】 La base con coda di rondine tipo Arca funge da piastra a sgancio rapido e si inserisce in qualsiasi testa da treppiede o testa video. Compatibile con sistema di montaggio Arca Swiss per installazione immediata e facile.
-- 【Morsetto Telefonico a Molla】Compatibile con iPhone 17, 16, 16e, 15 Pro Max, Plus, Samsung Galaxy S26, S25, S24, S23, S22 Ultra, Google Pixel, serie OnePlus e altri; ideale per selfie, live streaming, videochiamate, vlog, riprese in viaggio e registra.
-- 【Regolazione Angolare Flessibile】Per telefono con rotazione 270° offre angoli flessibili grazie al pulsante di blocco del morsetto; regola verticali e orizzontali. Una manopola di regolazione fine consente regolazioni precise dellinclinazione a 180°
 - 【Cuscinetti Morbidi e Attacco Cold Shoe】 Allinterno del morsetto, i cuscinetti curvi impediscono lo scivolamento e i graffi del telefono. Un attacco cold shoe consente di montare una piccola luce LED o un microfono per migliorare la qualità.
 - 【Facile Collegamento a Treppiede】 Le filettature da 1/4" e 3/8" sono compatibili con unampia gamma di treppiedi, monopiedi, mini treppiedi da tavolo, supporti per luci, supporti da tavolo e impugnature per scattare immagini e video nitidi.
+- 【Regolazione Angolare Flessibile】Per telefono con rotazione 270° offre angoli flessibili grazie al pulsante di blocco del morsetto; regola verticali e orizzontali. Una manopola di regolazione fine consente regolazioni precise dellinclinazione a 180°
+- 【Morsetto Telefonico a Molla】Compatibile con iPhone 17, 16, 16e, 15 Pro Max, Plus, Samsung Galaxy S26, S25, S24, S23, S22 Ultra, Google Pixel, serie OnePlus e altri; ideale per selfie, live streaming, videochiamate, vlog, riprese in viaggio e registra.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BZ43QXLS{{</world>}}

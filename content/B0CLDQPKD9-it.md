@@ -28,13 +28,13 @@ average: '25.0'
 
 ℹ️:
 
-- Collo : Collo Biker
-- Manica : Maniche lunghe
-- Tasche : Tasche frontali
 - Tipologia di prodotto : Giacca in finta pelle scamosciata
 - Dettagli : Dettaglio trapuntati
-- Chiusura : Chiusura a zip
+- Manica : Maniche lunghe
 - Funzionalità : Resistente allacqua
+- Collo : Collo Biker
+- Tasche : Tasche frontali
+- Chiusura : Chiusura a zip
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CLDQPKD9{{</world>}}

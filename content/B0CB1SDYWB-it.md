@@ -28,8 +28,8 @@ average: '38.43'
 
 ℹ️:
 
-- Comfort
 - Punta arrotondata
+- Comfort
 - Chiusura con lacci
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

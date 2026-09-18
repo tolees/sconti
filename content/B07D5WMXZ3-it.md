@@ -28,11 +28,11 @@ average: '12.05'
 
 ℹ️:
 
+- Essicazione rapida
 - Puὸ essere levigato, inchiodato, verniciato, cerato, laccato, ecc.
-- Non si screpola. Offre unottima presa e non si stacca dopo lessiccazione
 - Scegliere la tinta in funzione del colore definitivo desiderato, eventualmente una tonalità leggermente più scura
 - Chiude buchi, fessure, crepe, nodi e qualsiasi deterioramento della superficie del legno
-- Essicazione rapida
+- Non si screpola. Offre unottima presa e non si stacca dopo lessiccazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07D5WMXZ3{{</world>}}

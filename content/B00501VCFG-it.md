@@ -28,8 +28,8 @@ average: '32.77'
 
 ℹ️:
 
-- Suola in gomma.
 - Regolazione dei tasselli Spd.
+- Suola in gomma.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00501VCFG{{</world>}}

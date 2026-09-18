@@ -28,9 +28,9 @@ average: '38.99'
 
 ℹ️:
 
-- Ampia superficie di cottura di 49 x 27 cm
 - I manici non si scaldano
 - Raccogli grasso per alimenti sani e croccanti
+- Ampia superficie di cottura di 49 x 27 cm
 - La griglia elettrica rimane stabile e ferma grazie ai piedini antiscivolo
 - Rivestimento antiaderente
 

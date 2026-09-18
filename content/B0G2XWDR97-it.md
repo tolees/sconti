@@ -28,9 +28,9 @@ average: '12.69'
 
 ℹ️:
 
-- Cotto al vapore
-- Contiene prebiotici che aiutano il corretto funzionamento intestinale
 - Con ingredienti di alta qualità
+- Contiene prebiotici che aiutano il corretto funzionamento intestinale
+- Cotto al vapore
 - Senza coloranti e conservanti aggiunti
 - Completo e bilanciato
 

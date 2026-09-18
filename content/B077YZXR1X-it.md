@@ -28,10 +28,10 @@ average: '22.115'
 
 ℹ️:
 
+- Massima capacità di carico di 12 kg
 - Maniglia ergonomica per un facile trasporto
 - Spugna interna per evitare danneggiamenti delle macchine
 - Design antispruzzo per una conservazione sicura
-- Massima capacità di carico di 12 kg
 - Valigetta universale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

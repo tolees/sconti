@@ -28,11 +28,11 @@ average: '117.526'
 
 ℹ️:
 
-- Tomaia: Pelle
-- Lacci; Altezza: 3,5 cm
-- Colore: Marrone
-- Suola/Caratteristiche: EVA XL EXTRALIGHT per leggerezza
 - Fodera: 44% Tessuto 45% Poliestere Riciclato - 35% Cotone Riciclato - 20% Viscosa, 34% Pelle, 22% Poliestere Riciclato
+- Suola/Caratteristiche: EVA XL EXTRALIGHT per leggerezza
+- Tomaia: Pelle
+- Colore: Marrone
+- Lacci; Altezza: 3,5 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CXJJX1TR{{</world>}}

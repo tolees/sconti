@@ -28,9 +28,9 @@ average: '9.2'
 
 ℹ️:
 
+- La chiave a cricchetto a 72 denti necessita di un arco di oscillazione di soli 5 gradi per funzionare, ciò la rende facile da usare anche in spazi angusti
 - Dimensioni: 10 mm, 11 mm, 13 mm, 14 mm e 15 mm
 - Set con chiavi combinate a cricchetto, 5 pezzi, finitura cromata, in acciaio cromo vanadio (Cr-V) di alta qualità, fucinatura a stampo e con trattamento per la resistenza
-- La chiave a cricchetto a 72 denti necessita di un arco di oscillazione di soli 5 gradi per funzionare, ciò la rende facile da usare anche in spazi angusti
 - Lestremità della scatola a cricchetto offre grandi performance per serrare o allentare qualsiasi bullone senza arrotondare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

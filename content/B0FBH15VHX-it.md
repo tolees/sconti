@@ -29,8 +29,8 @@ average: '19.99'
 ℹ️:
 
 - APPLICA LE ARTI NINJA CON PRECISIONE: Sfrutta il tuo vasto arsenale ninja, tra cui la grande katana Oborozuki, i kunai, le arti Ninjutsu e Ninpo per sconfiggere i tuoi nemici.
-- ESPLORA UN MONDO NUOVO E INTRIGANTE: Avventurati in più di una dozzina di livelli originali e dalla grafica sorprendente, passando dalle basi militari a un deserto cocente, attraverso enigmi avvincenti e segreti nascosti.
 - PADRONEGGIA LE ABILITÀ DELLO SHINOBI: Innesca combo illimitate con mosse eccezionali, acquisisci amuleti per migliorare le tue abilità e scopri i Ningi per superare gli ostacoli e svelare nuovi percorsi.
+- ESPLORA UN MONDO NUOVO E INTRIGANTE: Avventurati in più di una dozzina di livelli originali e dalla grafica sorprendente, passando dalle basi militari a un deserto cocente, attraverso enigmi avvincenti e segreti nascosti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FBH15VHX{{</world>}}

@@ -28,14 +28,14 @@ average: '13.31'
 
 ℹ️:
 
-- ISTRUZIONI PER LO SMALTIMENTO: Non usare per il compost e non interrare nel giardino perché le feci del gatto possono contenere batteri. Per motivi igienici, si raccomanda di indossare guanti monouso o di gomma durante la manipolazione della lettiera sporca e il lavaggio della vaschetta
-- ADATTA PER I CUCCIOLI: Adatto a gatti di qualsiasi tipo, età e dimensioni
-- A base vegetale: La lettiera per gatti agglomerante a lunga durata è a base di mais, senza OGM.
 - UTILIZZO: riempire la vaschetta con 5-6 cm di lettiera per gatti per consentire al gatto di scavare e per evitare che i grumi si attacchino al fondo. Ogni giorno, eliminare i grumi e aggiungere nuova lettiera igienica
-- Un marchio Amazon
 - SICURA PER LA FOSSA SETTICA: lettiera per gatti smaltibile nel WC, sicura per la fossa settica* a seconda delle leggi locali sullo smaltimento dei rifiuti
-- LETTIERA AGGLOMERANTE PER GATTI: Lettiera per gatti 100% naturale, agglomerante e altamente assorbente
+- A base vegetale: La lettiera per gatti agglomerante a lunga durata è a base di mais, senza OGM.
+- Un marchio Amazon
+- ADATTA PER I CUCCIOLI: Adatto a gatti di qualsiasi tipo, età e dimensioni
 - NON PROFUMATA: senza profumazione
+- LETTIERA AGGLOMERANTE PER GATTI: Lettiera per gatti 100% naturale, agglomerante e altamente assorbente
+- ISTRUZIONI PER LO SMALTIMENTO: Non usare per il compost e non interrare nel giardino perché le feci del gatto possono contenere batteri. Per motivi igienici, si raccomanda di indossare guanti monouso o di gomma durante la manipolazione della lettiera sporca e il lavaggio della vaschetta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B083VBHWHG{{</world>}}

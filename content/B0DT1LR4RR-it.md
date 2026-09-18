@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Logo monogramma in rilievo
 - Tracolla regolabile
+- Logo monogramma in rilievo
 - Cerniera superiore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

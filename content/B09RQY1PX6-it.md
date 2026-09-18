@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Ciotola per il riso inclusa
-- Lavabile in Lavastoviglie e senza BPA
 - 7 Litri di capacità, 3 piani per la cottura, 500 ml contenitore dacqua
+- Lavabile in Lavastoviglie e senza BPA
 - Timer da 60 minuti
 - Cucina tre tipologie di cibi diversi contemporaneamente nei 3 scompartimenti
 

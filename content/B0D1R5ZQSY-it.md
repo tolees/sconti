@@ -28,10 +28,10 @@ average: '7.485'
 
 ℹ️:
 
-- Favorisce lequilibrio della flora intetsinale (effetto prebiotico)
 - Svolge unazione emolliente e lenitiva sul tratto intestinale
-- Contiene fibra di Psyllium, Alfa e Beta Galattosidasi
+- Favorisce lequilibrio della flora intetsinale (effetto prebiotico)
 - Favorisce la regolarità dei movimenti intestinali
+- Contiene fibra di Psyllium, Alfa e Beta Galattosidasi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D1R5ZQSY{{</world>}}

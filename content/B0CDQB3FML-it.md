@@ -28,10 +28,10 @@ average: '30.07'
 
 ℹ️:
 
-- Calzata regolare
-- Suola in gomma
 - Fodera in materiale sintetico
+- Calzata regolare
 - La tomaia contiene almeno il 50% di materiale riciclato
+- Suola in gomma
 - Chiusura con lacci
 - Tomaia in materiale sintetico
 

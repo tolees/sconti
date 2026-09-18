@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 24 barrette da 23,5g: 564g totali
-- Meno di 100 kcal per barretta, pratiche da portare sempre con te, per una colazione dove e quando vuoi
-- Frumento e avena 100% integrali
 - Le barrette FITNESS Crunchy Caramel sono fonte di fibre. Contengono vitamine, calcio e ferro.
+- Meno di 100 kcal per barretta, pratiche da portare sempre con te, per una colazione dove e quando vuoi
+- 24 barrette da 23,5g: 564g totali
+- Frumento e avena 100% integrali
 - Deliziose barrette di cereali integrali FITNESS con pepite al caramello, golose gocce di cioccolato al latte
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

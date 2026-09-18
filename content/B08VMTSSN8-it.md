@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Scopri anche Tuc Cracker Classico, Pomodoro e Grana Padano DOP, Erbe e Rosmarino.
-- Fatto con 100% Grano Italiano, prodotto in Italia nello stabilimento di Capriata D’Orba in Piemonte.
 - TUC ci accompagna sia a casa che fuori con tantissimi gusti e forme ma mantenendo sempre il DNA 100% TUC
 - Tuc Cracker Integrale: per uno snack equilibrato senza rinunciare al piacere!
+- Fatto con 100% Grano Italiano, prodotto in Italia nello stabilimento di Capriata D’Orba in Piemonte.
+- Scopri anche Tuc Cracker Classico, Pomodoro e Grana Padano DOP, Erbe e Rosmarino.
 - TUC Cracker è il gusto croccante per ogni occasione, ideale per i momenti di pausa di tutta la giornata.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

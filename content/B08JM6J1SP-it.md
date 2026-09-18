@@ -28,11 +28,11 @@ average: '9.01'
 
 ℹ️:
 
-- Presenta la caratteristica stoppino in legno di WoodWick che crepita delicatamente.
+- Profumi di legni chiari e foglie verdi si diffondono in una radura della foresta piena di lavanda.
 - Perfetto per camere da letto o spazi di relax.
 - Una mini candela che è un regalo perfetto per le donne in qualsiasi occasione.
+- Presenta la caratteristica stoppino in legno di WoodWick che crepita delicatamente.
 - DUE DESIGN, UNA FRAGRANZA INCONFONDIBILE: il packaging può variare mentre passiamo al nostro nuovo look.
-- Profumi di legni chiari e foglie verdi si diffondono in una radura della foresta piena di lavanda.
 - Crea unatmosfera calma e rilassante.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

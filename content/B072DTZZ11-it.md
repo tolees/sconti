@@ -28,10 +28,10 @@ average: '7.99'
 
 ℹ️:
 
+- PAVESI: i nostri prodotti contengono solo ingredienti di qualità. Ti accompagniamo in tutti i momenti della giornata: biscotti per la colazione, snack dolci e salati e crackers
+- INGREDIENTI: zucchero, farina di frumento, uova fresche. Un pacchetto di pavesini è pari al 5% del tuo fabbisogno energetico giornaliero
 - LEGGERO: con solo il 3,5% di grassi e 9 calorie per biscotto, Pavesini è uno snack ideale per ogni momento della giornata e un ottimo ingrediente per creare i tuoi dolci preferiti
 - PAVESINI CLASSICI: Il biscotto leggero nato dalla tradizione dei biscottini di Novara, reso famoso dall’esperienza Pavesi e ancora oggi cotto su carta da forno
-- INGREDIENTI: zucchero, farina di frumento, uova fresche. Un pacchetto di pavesini è pari al 5% del tuo fabbisogno energetico giornaliero
-- PAVESI: i nostri prodotti contengono solo ingredienti di qualità. Ti accompagniamo in tutti i momenti della giornata: biscotti per la colazione, snack dolci e salati e crackers
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B072DTZZ11{{</world>}}

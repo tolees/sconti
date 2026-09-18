@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Con profumi fruttati.
-- Formula nutriente con olio di jojoba e vitamina E.
 - Senza acetone, vegano, senza particelle di microplastiche, senza glutine, senza parabeni, senza nanoparticelle.
+- Con profumi fruttati.
 - Set di 5 oli lucidalabbra Juicy Bomb per una finitura particolarmente brillante.
+- Formula nutriente con olio di jojoba e vitamina E.
 - Noi siamo contrari ai test sugli animali: cosnova, essence e CATRICE sono certificate sia da PETA Germania che da PETA International.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

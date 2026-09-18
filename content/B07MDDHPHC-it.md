@@ -28,10 +28,10 @@ average: '21.24'
 
 ℹ️:
 
-- COLLEZIONE DRAGON STARS - Colleziona tutte le action figure Bandai Dragon Stars
+- ACCESSORI INCLUSI - Sono disponibili diverse mani per ricreare tutte le scene della serie
 - FIGURA MANGA - Personaggio: Goku Ultra Instinct, un nuovo stadio di risveglio che gli conferisce capelli dargento
 - LICENZA UFFICIALE DRAGON BALL - Action figure da collezione della serie Dragon Ball Super
-- ACCESSORI INCLUSI - Sono disponibili diverse mani per ricreare tutte le scene della serie
+- COLLEZIONE DRAGON STARS - Colleziona tutte le action figure Bandai Dragon Stars
 - PERSONAGGIO AGGIUNTIVO - 1 pezzo per costruire Broly incluso
 - FIGURA ARTICOLATA - Figurina da 17 cm, molto dettagliata con 16 punti di articolazione.
 

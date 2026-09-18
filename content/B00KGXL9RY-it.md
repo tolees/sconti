@@ -29,8 +29,8 @@ average: '125.96'
 ℹ️:
 
 - Smerigliatrice angolare professionale
-- Con maniglie per comodità
 - Diametro 125 mm
+- Con maniglie per comodità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00KGXL9RY{{</world>}}

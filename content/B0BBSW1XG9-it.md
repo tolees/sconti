@@ -28,10 +28,10 @@ average: '35.32'
 
 ℹ️:
 
+- Lapras meccanizzato da costruire, estremamente dettagliato, alto 17,7 cm
 - Set da 527 pezzi con Mattoncino movimento: gira la rotellina per attivare il movimento di Lapras
 - Licenza ufficiale The Pokémon Company International
 - I pezzi si combinano con tutti i set di costruzioni MEGA Pokémon e sono compatibili con altre marche
-- Lapras meccanizzato da costruire, estremamente dettagliato, alto 17,7 cm
 - La testa di Lapras si muove a destra e a sinistra quando ruoti la rotellina
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

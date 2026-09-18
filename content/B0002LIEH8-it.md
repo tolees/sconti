@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Età consigliata 14+
-- Dimensioni 5.80 x 28.10 x 37.00 cm
 - Fotografia di Van Gogh - Girasoli
+- Dimensioni 5.80 x 28.10 x 37.00 cm
+- Età consigliata 14+
 - Puzzle 1000 pezzi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

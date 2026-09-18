@@ -29,11 +29,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Visita il sito Nestlé per scoprire come le nostre marche sono scese in campo e contribuiscono al raggiungimento degli obiettivi di sostenibilità del Gruppo Nestlé con progetti concreti
-- Cereali FITNESS Original con frumento 100% integrale
-- Inizia la tua giornata con una colazione gustosa. Have a Break, Have a KITKAT Cereal at Breakfast!
 - I cereali FITNESS Original contengono vitamine, minerali, Calcio e Ferro
-- Confezione da 330g
+- Cereali FITNESS Original con frumento 100% integrale
 - Fonte di fibre
+- Inizia la tua giornata con una colazione gustosa. Have a Break, Have a KITKAT Cereal at Breakfast!
+- Confezione da 330g
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00HFUAD14{{</world>}}

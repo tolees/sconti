@@ -28,8 +28,8 @@ average: '13.59'
 
 ℹ️:
 
-- Protezione Mil Grado e Tecnologia Air Cushion per la protezione antiurto
 - La superficie opaca antiscivolo offre resistenza alle impronte digitali e comfort in ogni presa
+- Protezione Mil Grado e Tecnologia Air Cushion per la protezione antiurto
 - Aderente al telefono per mantenrere il profilo sottile e tascabile
 - Sottile, aderente e leggero
 

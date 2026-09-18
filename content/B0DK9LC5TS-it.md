@@ -28,15 +28,15 @@ average: '392.33'
 
 ℹ️:
 
-- PROACTIVE WASH: lesclusivo sistema di iniezione dellacqua, può garantire un risciacquo uniforme, rapido ed efficace e un trattamento ottimale per tutti i tessuti, anche durante i cicli rapidi
-- SMART SPRAY: con il sistema a doppia iniezione dacqua, pulisce il vetro della porta dai residui di detersivo
 - LAVAGGIO A FREDDO 20°: per lavare anche i tessuti più delicati con consumi ridotti ed estrema cura
 - CLEAN SHIELDS: proteggele zone più sensibili (come le guarnizioni degli oblò) da muffe e batteri, garantendo un ciclo di lavaggio più igienico
-- APP hOn: costantemente aggiornata, ti fornisce solo le migliori funzionalità della categoria e risultati su misura, gestendo e controllando lo stato del lavaggio ovunque tu sia
-- CICLI SPECIALI: set completo di cicli rapidi per risparmiare tempo senza rinunciare alle prestazioni. Inoltre, con il Ciclo Anti-Pollution e il Ciclo Smart Wash i tuoi capi saranno sempre freschi e facili da stirare
 - OPZIONE LAVAGGIO INTENSIVO: grazie allopzione di risciacquo aggiuntivo, ora puoi affrontare facilmente diverse tipologie di macchie con il tuo ciclo preferito
+- CICLI SPECIALI: set completo di cicli rapidi per risparmiare tempo senza rinunciare alle prestazioni. Inoltre, con il Ciclo Anti-Pollution e il Ciclo Smart Wash i tuoi capi saranno sempre freschi e facili da stirare
 - SOFT DRUM: la sua superficie presenta dei "cuscinetti" che garantiscono una migliore cura e una riduzione delle pieghe
+- SMART SPRAY: con il sistema a doppia iniezione dacqua, pulisce il vetro della porta dai residui di detersivo
+- PROACTIVE WASH: lesclusivo sistema di iniezione dellacqua, può garantire un risciacquo uniforme, rapido ed efficace e un trattamento ottimale per tutti i tessuti, anche durante i cicli rapidi
 - CLASSE A-20%: goditi i migliori risultati di lavaggio con il minor consumo energetico: questa Candy ProWash è il 20% più efficiente di una lavatrice standard di classe "A"
+- APP hOn: costantemente aggiornata, ti fornisce solo le migliori funzionalità della categoria e risultati su misura, gestendo e controllando lo stato del lavaggio ovunque tu sia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DK9LC5TS{{</world>}}

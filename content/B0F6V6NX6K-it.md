@@ -31,8 +31,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 - Bromelina con attività enzimatica 2500 e 5000 GDU/g
 - Premium Complex Vegano con Estratto di Ananas, Estratto di Centella Asiatica ed Estratto di Betulla
 - Assunzione e pack sostenibili: formula bilanciata e smart pack facile da portare con te. Compresse piatte per una facile deglutizione
-- Made in Italy - Ricerca, Sviluppo e Produzione interamente italiana
 - Fino a 4 mesi di durata: 120 compresse ti accompagnano fino a 4 mesi consecutivi
+- Made in Italy - Ricerca, Sviluppo e Produzione interamente italiana
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F6V6NX6K{{</world>}}

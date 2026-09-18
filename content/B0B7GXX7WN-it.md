@@ -29,10 +29,10 @@ average: '31.41'
 ℹ️:
 
 - Fantastica giacca di Lonsdale
-- Vestibilità attillata (Slim Fit)
-- Realizzato in puro cotone e poliestere
 - Fodera interna a contrasto
+- Realizzato in puro cotone e poliestere
 - Piccolo logo ricamato sul petto
+- Vestibilità attillata (Slim Fit)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B7GXX7WN{{</world>}}

@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - 100% poliestere (riciclato)
-- Vestibilità regolare con vita a media altezza
 - Zip integrale con collo alto
+- Vestibilità regolare con vita a media altezza
 - Giacca e pantaloni: Tasche anteriori
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

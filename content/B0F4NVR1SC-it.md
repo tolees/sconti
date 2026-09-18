@@ -28,8 +28,8 @@ average: '18.16'
 
 ℹ️:
 
-- Maglietta grafica pensata per un uso quotidiano con vestibilità regolare
 - Linea semplice con logo classico
+- Maglietta grafica pensata per un uso quotidiano con vestibilità regolare
 - Tessuto morbido e traspirante per comfort
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

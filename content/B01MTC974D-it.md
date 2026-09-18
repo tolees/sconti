@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Cuoce fino a 15 porzioni
-- Grande coperchio a cupola con manico freddo antiscottatura
 - Angolatura che permette ai grassi di colare nell’apposito vassoio raccogli grassi
+- Grill con piedistallo per l’utilizzo in spazi interni ed esterni
+- Grande coperchio a cupola con manico freddo antiscottatura
+- Cuoce fino a 15 porzioni
 - Temperatura regolabile su 5 impostazioni
 - Diametro superficie 43.5 cm
-- Grill con piedistallo per l’utilizzo in spazi interni ed esterni
 - Piastre antiaderenti rimovibili per una facile pulizia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

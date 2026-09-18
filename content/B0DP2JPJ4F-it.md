@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Infinitamente dimmerabile: Utilizzate lo Smart Button come interruttore della luce o come telecomando staccabile per un controllo flessibile dellilluminazione
 - Utilizzabile ovunque: ambiente accogliente con luce bianca calda, adatto a qualsiasi apparecchio di illuminazione con presa E27
 - Illuminazione intelligente: Philips Hue è compatibile con Amazon Echo Dot (terza generazione), Echo Plus ed Echo Show (seconda generazione)
+- Infinitamente dimmerabile: Utilizzate lo Smart Button come interruttore della luce o come telecomando staccabile per un controllo flessibile dellilluminazione
 - Illuminazione personalizzata: regolate la luce bianca calda per ottenere lilluminazione perfetta per la vostra casa
 - Per unesperienza smart home completa in tutta la casa: espandete il sistema con Hue Bridge (venduto separatamente) e scoprite molte altre funzioni
 

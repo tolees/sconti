@@ -28,12 +28,12 @@ average: '36.42'
 
 ℹ️:
 
-- Contenuto della confezione: cavo USB-C 4, 240 W, da 1 metro per la ricarica e lalimentazione dei dispositivi e il trasferimento di dati, foto e musica. Compatibile con PC e display Thunderbolt 4, Thunderbolt 3 e USB 4; retrocompatibilità con USB 3.2 e USB 2.0 .
-- Maggiore resistenza: testato per piegarsi 5.000 volte a 95 gradi. Guaina in TPE per maggiore flessibilità e durata
-- Certificazione USB-IF, collega qualsiasi dispositivo USB-C. Per il trasferimento di energia, la ricarica e il trasferimento di dati tra smartphone, powerbank, caricabatterie da parete/da auto, hard disk, tablet, laptop (fino a 240 W) e altro ancora.
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
+- Certificazione USB-IF, collega qualsiasi dispositivo USB-C. Per il trasferimento di energia, la ricarica e il trasferimento di dati tra smartphone, powerbank, caricabatterie da parete/da auto, hard disk, tablet, laptop (fino a 240 W) e altro ancora.
+- Contenuto della confezione: cavo USB-C 4, 240 W, da 1 metro per la ricarica e lalimentazione dei dispositivi e il trasferimento di dati, foto e musica. Compatibile con PC e display Thunderbolt 4, Thunderbolt 3 e USB 4; retrocompatibilità con USB 3.2 e USB 2.0 .
 - Carica e trasferimento dati veloci: supporta ricarica super rapida fino a 240 W (48 V/5 A) e velocità di trasferimento dati fino a 40 Gbps, quanto utilizzato con dispositivi compatibili. Nota: per raggiungere 240 W durante la ricarica, il dispositivo, il caricabatterie e il cavo devono supportare tutti 48/5 V.
 - Risoluzione video elevata: video 8K. Risoluzione singolo 8K a 60 Hz, 4K a 120 Hz o doppio 4K a 60 Hz. Nota: per uscita video, accertati che il tuo dispositivo USB-C supporti la modalità alternativa DisplayPort. Per raggiungere la ricarica a 240 W, il dispositivo, il caricatore e il cavo devono essere compatibili con EPR.
+- Maggiore resistenza: testato per piegarsi 5.000 volte a 95 gradi. Guaina in TPE per maggiore flessibilità e durata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0H2H2CT1J{{</world>}}

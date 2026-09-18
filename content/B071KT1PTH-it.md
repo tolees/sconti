@@ -28,11 +28,11 @@ average: '37.8275'
 
 ℹ️:
 
+- AROMA: panificato e fruttato SAPORE: fruttato con sentori di banana e pesca, avvolgente e dal retrogusto acidulo, lievemente amaro e persistente Fermentazione: alta fermentazione, rifermentata in bottiglia
+- Leffe Triple è un’autentica birra d’abbazia rifermentata in bottiglia, ad alta fermentazione, dal colore dorato. 8,5% alcool
 - Dorata e rifermentata in bottiglia, Leffe Triple ha ottenuto per sei anni consecutivi le valutazioni più alte da parte dell’International Taste and Quality Institute
 - PERFETTA PER ESALTARE IL GUSTO DI: primi complessi, salse e riduzioni, pizze a base formaggio, piatti speziati e piccanti, carni bianche, pollame, mitili, formaggi stagionati e fermentati, dolci a base di crumbles o burro
 - Confezione da 24 bottiglie da 33cl di Leffe Triple
-- AROMA: panificato e fruttato SAPORE: fruttato con sentori di banana e pesca, avvolgente e dal retrogusto acidulo, lievemente amaro e persistente Fermentazione: alta fermentazione, rifermentata in bottiglia
-- Leffe Triple è un’autentica birra d’abbazia rifermentata in bottiglia, ad alta fermentazione, dal colore dorato. 8,5% alcool
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B071KT1PTH{{</world>}}

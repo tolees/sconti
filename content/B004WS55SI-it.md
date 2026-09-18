@@ -28,10 +28,10 @@ average: '13.232'
 
 ℹ️:
 
-- Punta 4,0 mm
-- Disponibile in vari colori
 - Colori brillanti
 - Inchiostro liquido
+- Punta 4,0 mm
+- Disponibile in vari colori
 - Dispositivo a pulsante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Tasca anteriore con zip
 - Volume: 27,5 L
-- Dimensioni: 15 cm x 31 cm x 44 cm
 - Primo Tessuto: 100% Poliestere(100% Riciclato) / Fodera: 100% Poliestere(100% Riciclato) / Imbottitura: 100% Polietilenica
+- Dimensioni: 15 cm x 31 cm x 44 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZLMYN8M{{</world>}}

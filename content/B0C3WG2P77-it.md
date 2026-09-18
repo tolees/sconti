@@ -28,13 +28,13 @@ average: '39.0'
 
 ℹ️:
 
-- Fodera in tessuto
+- Calzata regolare
 - Suola in gomma
 - Intersuola Bounce
+- Fodera in tessuto
 - Almeno il 20% del materiale proviene da fonti riciclate
-- Chiusura con lacci
 - Tomaia in mesh traspirante con rivestimenti in materiale sintetico
-- Calzata regolare
+- Chiusura con lacci
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C3WG2P77{{</world>}}

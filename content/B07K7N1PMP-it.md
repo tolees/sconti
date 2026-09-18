@@ -28,15 +28,15 @@ average: '15.3'
 
 ℹ️:
 
-- Piastra in ceramica con asola salvabottoni
-- Termostato per controllo temperatura di stiro
-- Volume di vapore: 10-20 g/min - Colpo vapore: 90g/min
 - Stiratura: a secco e a vapore
-- Emissione di vapore anche in verticale
-- Capacità: 230cc; serbatoio in materiale trasparente per vedere il livello acqua
-- Alimentazione: AC 220-240V ~ 50/60Hz
-- Ampia base dappoggio con antiscivolo per maggiore stabilità
+- Piastra in ceramica con asola salvabottoni
 - Spia di funzionamento, super vapore, regolazione vapore, funzione spray
+- Volume di vapore: 10-20 g/min - Colpo vapore: 90g/min
+- Emissione di vapore anche in verticale
+- Ampia base dappoggio con antiscivolo per maggiore stabilità
+- Alimentazione: AC 220-240V ~ 50/60Hz
+- Termostato per controllo temperatura di stiro
+- Capacità: 230cc; serbatoio in materiale trasparente per vedere il livello acqua
 - Dimensione (L x H x P): 26.5 x 14 x 11
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

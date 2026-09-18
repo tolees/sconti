@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fabuloso Ammorbidente Concentrato Cocco & Fiori Bianchi 1 9L'
-date: 2026-09-16 14:07:41
+date: 2026-09-17 15:16:51
 image: 'https://m.media-amazon.com/images/I/41VO-n3Q1jL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0CT3TZ5NY/?tag=tolees00-21'
 descuento: '44.24'
-average: '3.445'
+average: '3.41'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

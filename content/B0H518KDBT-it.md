@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 1 Confezione da 3,05 Kg
-- Efficace a basse temperature
-- Ottimo per capi bianchi
 - Detersivo in polvere con bicarbonato per bucato a mano e in lavatrice, 61 Misurini
+- Efficace a basse temperature
+- 1 Confezione da 3,05 Kg
+- Ottimo per capi bianchi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0H518KDBT{{</world>}}

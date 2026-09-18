@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tasca a marsupio
 - Maniche lunghe, inserti dritti, bordi arrotondati
-- G-Star RAW Ricamo sul petto
 - Cappuccio con parte anteriore incrociata e inserto triangolare a costine – Coulisse
 - Inserti laterali, polsini e orlo a costine
+- G-Star RAW Ricamo sul petto
+- Tasca a marsupio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08R8TBYFB{{</world>}}

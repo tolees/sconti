@@ -29,8 +29,8 @@ average: '13.9'
 ℹ️:
 
 - Dettagli: dettagli in pizzo
-- Bustino foderato
 - Cinturino: spalline larghe
+- Bustino foderato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B075TX7TRL{{</world>}}

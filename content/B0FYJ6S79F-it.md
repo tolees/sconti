@@ -28,10 +28,10 @@ average: '21.0'
 
 ℹ️:
 
-- INGREDIENTI CHIAVE: Con estratti sostenibili di fragola e basilico, questo profumo da donna celebra la vitalità della natura con un profumo donna illuminato dalle note fresche di green tea
-- RITUALE DI PROFUMAZIONE: Vaporizza questo profumo donna su collo, polsi e dietro le orecchie per godere della combinazione fresca di tè verde, fragola e basilico lungo tutta la giornata
 - PROFUMO A LUNGA DURATA: Con tè verde, fragola e basilico, questo profumo donna offre una fragranza fresca e fruttata con un tocco fumé, garantendo una presenza che dura piacevolmente tutto il giorno
 - GREEN TEA STRAWBERRY BASIL: Questo profumo da donna unisce tè verde, fragola e basilico in un profumo donna fresco e fruttato, con leggere note legnose che donano energia e luminosità ogni giorno
+- INGREDIENTI CHIAVE: Con estratti sostenibili di fragola e basilico, questo profumo da donna celebra la vitalità della natura con un profumo donna illuminato dalle note fresche di green tea
+- RITUALE DI PROFUMAZIONE: Vaporizza questo profumo donna su collo, polsi e dietro le orecchie per godere della combinazione fresca di tè verde, fragola e basilico lungo tutta la giornata
 - COLLEZIONE ICONICA: Parte della linea Green Tea, questo profumo da donna vegano regala un profumo fresco e fruttato, leggero e luminoso, appropriato per l’uso quotidiano grazie alla sua scia gioiosa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

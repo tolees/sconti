@@ -28,8 +28,8 @@ average: '26.99'
 
 ℹ️:
 
-- Articolo marchio JACK & JONES
 - Design moderno
+- Articolo marchio JACK & JONES
 - Realizzato in materiale leggero e resistente
 - Vestibilità comoda
 

@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Aderisce allistante sulla pelle, regalando una deliziosa sensazione di confort
-- Dermatologicamente testato, non comedogenico
 - Fard in polvere dal risultato modulabile a lunga durata
+- Dermatologicamente testato, non comedogenico
 - È perfetto per i ritocchi on-the-go grazie alla pratica confezione con specchietto integrato
 - Ha una texture in polvere compatta vellutata ed ultra pigmentata, che permette di esaltare il volto con un tocco di colore che dura fino a 12 ore
 

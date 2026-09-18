@@ -29,10 +29,10 @@ average: '18.97'
 ℹ️:
 
 - Perplexus Epic è un emozionante labirinto in 3D. Il regalo ideale per adulti e bambini dai 10 anni in su. Ruota. Gira. Vinci
-- FACILE DA GIOCARE, DIFFICILE DA PADRONEGGIARE: capovolgi, ruota e gira la sfera a 360 gradi fino al traguardo Dopo aver familiarizzato con il percorso, continua a giocare con Perplexus Rebel e Perplexus Beast (ciascuno in vendita separatamente)
 - 125 ENTUSIASMANTI OSTACOLI: riuscirai a superare i 125 ostacoli di Perplexus Epic? Fai scorrere la biglia lungo il percorso numerato superando duri ostacoli come la serpentina, la rampa di lancio e la scala senza andare fuori dal percorso
-- Include: 1 Perplexus Epic, 1 guida per luso
 - LABIRINTO IN 3D: Perplexus Epic è un labirinto in 3D contenuto in una sfera Guida la biglia e falla arrivare al traguardo senza andare fuori dal percorso. Sfida te stesso e metti alla prova le tue abilità
+- FACILE DA GIOCARE, DIFFICILE DA PADRONEGGIARE: capovolgi, ruota e gira la sfera a 360 gradi fino al traguardo Dopo aver familiarizzato con il percorso, continua a giocare con Perplexus Rebel e Perplexus Beast (ciascuno in vendita separatamente)
+- Include: 1 Perplexus Epic, 1 guida per luso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07MGRNKBT{{</world>}}

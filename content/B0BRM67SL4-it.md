@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Plain
+- materialFabricComposition: Upper: 100% Leather; Sole: 100% Rubber; Inner: 100% Cotton; Insole: 100% Cotton
 - Leather
 - Boots
-- materialFabricComposition: Upper: 100% Leather; Sole: 100% Rubber; Inner: 100% Cotton; Insole: 100% Cotton
-- Plain
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BRM67SL4{{</world>}}

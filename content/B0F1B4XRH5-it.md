@@ -28,9 +28,9 @@ average: '5.0'
 
 ℹ️:
 
+- Autonomia, creatività, rapporto con gli altri
 - Il famoso gioco con ottimo design, carte realizzate in modo ottimale
 - Pronti ad arrossire, ridere e divertirvi da matti
-- Autonomia, creatività, rapporto con gli altri
 - Tabellone, 56 carte, 8 pedine, spinner, regolamento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

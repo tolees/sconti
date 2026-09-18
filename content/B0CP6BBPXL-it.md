@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- GIOCA LE TUE CARTE per sparare, proteggerti, e per ottenere vari benefici ed effetti.
-- Scopri i tuoi alleati e i tuoi nemici, e persegui l’obiettivo della tua fazione.
 - UNA BOX ESPLOSIVA! Il gioco di carte western più amato con 8 espansioni tutto in una scatola.
 - INCLUDE: il gioco BANG!, 8 espansioni, oltre 70 personaggi, tantissime varianti di gioco e alcune chicche per veri collezionisti.
-- GIOCO DI RUOLI SEGRETI. Ogni giocatore ha un ruolo segreto e un personaggio con un’abilità speciale.
 - MATERIALI DI QUALITÀ PREMIUM: plance doppio strato, pallottole in legno e persino un candelotto di dinamite!
+- GIOCA LE TUE CARTE per sparare, proteggerti, e per ottenere vari benefici ed effetti.
+- Scopri i tuoi alleati e i tuoi nemici, e persegui l’obiettivo della tua fazione.
+- GIOCO DI RUOLI SEGRETI. Ogni giocatore ha un ruolo segreto e un personaggio con un’abilità speciale.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CP6BBPXL{{</world>}}

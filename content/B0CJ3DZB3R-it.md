@@ -28,11 +28,11 @@ average: '98.87'
 
 ℹ️:
 
+- Fodera: 88% Poliestere riciclato 12% Poliestere riciclato
 - Soletta: Sottopiede in EVA
 - Tomaia: Nabuk / Tessuto
 - Suola/Caratteristiche: EVA per leggerezza; Lacci
 - Colore: Blu
-- Fodera: 88% Poliestere riciclato 12% Poliestere riciclato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CJ3DZB3R{{</world>}}

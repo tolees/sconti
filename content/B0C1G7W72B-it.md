@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Allarme antimanomissione: il sensore per porte e finestre SONOFF zigbee è dotato di funzioni antimanomissione per garantire la tua sicurezza. Riceverai notifiche dallapp sul tuo telefono se il sensore viene manomesso.
 - Scena intelligente locale: con la scena intelligente locale, la scena che collega tra i dispositivi Zigbee può funzionare normalmente finché i dispositivi Zigbee sono accesi, anche se la connessione di rete è disconnessa.
+- Allarme antimanomissione: il sensore per porte e finestre SONOFF zigbee è dotato di funzioni antimanomissione per garantire la tua sicurezza. Riceverai notifiche dallapp sul tuo telefono se il sensore viene manomesso.
 - Sistema di allarme domestico intelligente: accende automaticamente la luce quando viene aperta una porta, attiva un allarme acustico e visivo quando si verifica un accesso non autorizzato e invia notifiche dellapp per tenerti informato.
 - Facile da installare: la confezione viene fornita con 2 pezzi di adesivo 3M. Basta strappare la carta protettiva e incollarla sul retro del sensore della porta. La distanza massima di installazione è di 20 mm. Il sensore di contatto intelligente per finestre funziona con la maggior parte dei tipi di porte, finestre, balconi, porte del garage, camerette, armadi, casseforti, ecc.
 - Durata della batteria di 5 anni - Contatto per porte e finestre SNZB-04P Grazie allalimentazione tramite batteria CR2477, la durata della batteria è di oltre 5 anni, quindi non devi preoccuparti di frequenti cambi di batteria.
