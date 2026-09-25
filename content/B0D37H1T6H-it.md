@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sonos Ace - Cuffie Bluetooth Wireless con cancellazione attiva del rumore - Batteria con un’autonomia fino a 30 ore - Audio spaziale con rilevamento dinamico della posizione della testa - Nero'
-date: 2026-09-16 20:17:32
+date: 2026-09-21 20:35:55
 image: 'https://m.media-amazon.com/images/I/21Fx90Uq-ZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0D37H1T6H/?tag=tolees00-21'
 descuento: '28.95'
-average: '319.99875'
+average: '319.887777777778'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

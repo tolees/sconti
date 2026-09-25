@@ -28,9 +28,9 @@ average: '29.49'
 
 ℹ️:
 
+- Dalle strade brulicanti delle città alle foreste lussureggianti, riscopri un’Europa medievale open-world in questo RPG indimenticabile ricco di azione, brividi e meraviglia.
 - Kingdom Come: Deliverance II è un emozionante gioco di ruolo dazione, ambientato nel caos della guerra civile nella Boemia del XV secolo.
 - Sei Henry di Skalitz, un uomo comune dallo straordinario destino, coinvolto in unavvincente storia di vendetta, tradimento e conoscenza di sé, mentre intraprende un viaggio epico, "dallumile fucina di un fabbro alla corte dei re", alla ricerca di uno scopo nel bellissimo ma brutale mondo medievale.
-- Dalle strade brulicanti delle città alle foreste lussureggianti, riscopri un’Europa medievale open-world in questo RPG indimenticabile ricco di azione, brividi e meraviglia.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D25SS5DP{{</world>}}

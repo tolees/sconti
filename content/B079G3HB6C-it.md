@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Soletta: Plantare OrthoLite Recycled
-- Colore: Nero
-- Tomaia: Pelle
 - Fodera: 47% pelle 44% tessuto 45% poliestere riciclato - 35% cotone - 20% viscosa 9% poliestere riciclato
+- Colore: Nero
+- Soletta: Plantare OrthoLite Recycled
 - Suola/Caratteristiche: Suole XL EXTRALIGHT EVA
+- Tomaia: Pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B079G3HB6C{{</world>}}

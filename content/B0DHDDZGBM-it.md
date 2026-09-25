@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Efficienza energetica: Questo faretto da soffitto a 2 luci è dotato di due lampadine GU10* di classe energetica A, ciascuna da 2,5 W e 450 lumen a 3000 K, per un’illuminazione calda, uniforme ed efficiente nell’uso quotidiano
-- Dimensioni compatte per un uso versatile: con una dimensione di 290x80x123 mm (LxLxH), questa lampada è ideale per le aree di lavoro in cucina, per il tavolo da pranzo in sala da pranzo o per lilluminazione daccento in corridoio
+- "*CEE A sorgente luminosa: Il prodotto contiene una sorgente luminosa della classe di efficienza energetica A **Durata di vita 50.000 h: La durata di vita è calcolata e verificata secondo il regolamento (UE) 2019/2020, un valore basato su metodi di prova standardizzati e sul metodo di calcolo prescritto"
 - Lunga durata: I LED di questo faretto da soffitto offrono fino a 50.000 ore** di funzionamento, riducendo la frequenza di sostituzione e i costi di manutenzione, garantendo al tempo stesso un’illuminazione affidabile e costante
 - Design elegante in metallo nero: lelegante finitura nera del metallo conferisce al faretto un aspetto moderno che si integra perfettamente in qualsiasi ambiente
-- "*CEE A sorgente luminosa: Il prodotto contiene una sorgente luminosa della classe di efficienza energetica A **Durata di vita 50.000 h: La durata di vita è calcolata e verificata secondo il regolamento (UE) 2019/2020, un valore basato su metodi di prova standardizzati e sul metodo di calcolo prescritto"
 - Questo prodotto è un prodotto contenitore. I prodotti contenitori gli apparecchi di illuminazione che possono essere smontati per consentire la verifica separata della o delle sorgenti luminose ivi contenute. Questo prodotto contiene una sorgente luminosa di classe di efficienza energetica A
+- Dimensioni compatte per un uso versatile: con una dimensione di 290x80x123 mm (LxLxH), questa lampada è ideale per le aree di lavoro in cucina, per il tavolo da pranzo in sala da pranzo o per lilluminazione daccento in corridoio
+- Efficienza energetica: Questo faretto da soffitto a 2 luci è dotato di due lampadine GU10* di classe energetica A, ciascuna da 2,5 W e 450 lumen a 3000 K, per un’illuminazione calda, uniforme ed efficiente nell’uso quotidiano
 - Design flessibile dellilluminazione: le teste rotanti e inclinabili della lampada per camerette per bambini consentono unilluminazione flessibile e mirata, perfetta per evidenziare aree specifiche
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

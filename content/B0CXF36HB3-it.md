@@ -31,8 +31,8 @@ average: '19.9'
 - Ingresso RF 1 ANT / Uscite RF 2 TV, Affinchè lamplificatore amplifica il segnale, è necessario lutilizzo di un alimentatore 24V 200mA
 - Ingresso RF 1UHF / 10-25dB Regolabile / Max. Livello di uscita 107dBµV
 - Intervallo di frequenze UHF 470-694 Mhz / con filtro 5G LTE
-- Alimentatore per Amplificatore da palo 24V 200mA
 - MAK-100 Kit: Amplificatore Antenna TV da palo + Alimentatore 24V 200mA 2 uscite
+- Alimentatore per Amplificatore da palo 24V 200mA
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CXF36HB3{{</world>}}

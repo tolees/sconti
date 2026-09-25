@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'De Longhi EcoDecalk Decalcificante DLSC500 5 Dosi di Decalcificazione Accessorio Manutenzione Macchina da Caffè Ingredienti di Origine Vegetale Bottiglia Con 5 Dosi 500ml'
-date: 2026-09-16 11:44:03
+date: 2026-09-21 12:15:18
 image: 'https://m.media-amazon.com/images/I/41npm8BNMqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B008YETL18/?tag=tolees00-21'
 descuento: '22.56'
-average: '10.8393333333334'
+average: '10.8031914893618'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

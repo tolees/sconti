@@ -28,10 +28,10 @@ average: '12.49'
 
 ℹ️:
 
-- Materiale: 100% Plastica
-- Il contenitore può essere inserito in frigorifero o in congelatore
-- Dimensioni: (Bag) 22 x 18 x h22 cm; (Container) 19.6 x 19.6 x h7 cm - 1400cc
 - Prodotto ufficialle Guzzini, fabbricato in Italia dal 1912
+- Dimensioni: (Bag) 22 x 18 x h22 cm; (Container) 19.6 x 19.6 x h7 cm - 1400cc
+- Il contenitore può essere inserito in frigorifero o in congelatore
+- Materiale: 100% Plastica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07CRM7VR1{{</world>}}

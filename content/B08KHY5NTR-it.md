@@ -29,9 +29,9 @@ average: '13.31'
 ℹ️:
 
 - Velocità in lettura fino a 200 MB/s¹
+- Numero di parte: DTKN/64GB
 - Elegante design senza cappuccio con corpo in metallo
 - Asola di aggancio colorata per portachiavi
-- Numero di parte: DTKN/64GB
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08KHY5NTR{{</world>}}

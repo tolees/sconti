@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Bagnodoccia Mar Morto: deterge delicatamente la pelle donando una sensazione di freschezza e tonicità, ideale per l’uso quotidiano su tutti i tipi di pelle
-- Formato: 1 bagnodoccia Mar Morto da 400 ml
 - Linea Mar Morto di Bottega Verde: grazie agli ingredienti di alta qualità e alle proprietà minerali dei Sali del Mar Morto, la gamma è lalleata perfetta per unazione tonificante e drenante della pelle
+- Bagnodoccia Mar Morto: deterge delicatamente la pelle donando una sensazione di freschezza e tonicità, ideale per l’uso quotidiano su tutti i tipi di pelle
 - Formulazione: con Sali del Mar Morto ricchi di minerali preziosi per la bellezza della pelle e Iperfermentato di Spirulina dalle proprietà tonificanti e detossinanti, per una pelle più fresca, levigata e dall’aspetto tonico
+- Formato: 1 bagnodoccia Mar Morto da 400 ml
 - Modo d’uso: massaggiare sulla pelle bagnata fino a ottenere una schiuma morbida e risciacquare abbondantemente, ideale per una doccia quotidiana dall’effetto rinfrescante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ average: '18.15'
 
 ℹ️:
 
-- Disponibile in flaconcini monodose per una delicata detersione, anche quotidiana, delle cavità nasali
-- Confezione da 120 flaconcini da 5 ml; leggere attentamente le avvertenze e le istruzioni per luso; nei neonati di età inferiore alle 2 settimane consultare il pediatra prima delluso
-- Umidifica la mucosa nasale quando è irritata e secca e fluidifica le secrezioni nasali permettendone la successiva rimozione
-- Flaconcini monouso di soluzione fisiologica, indicati per ammorbidire le secrezioni nasali prima di usare l’aspiratore nasale Narhinel che aspira il muco dal nasino del neonato e lo libera
 - Narhinel Soluzione fisiologica salina isotonica sterile per lavaggi nasali con cloruro di sodio 0.9%
+- Flaconcini monouso di soluzione fisiologica, indicati per ammorbidire le secrezioni nasali prima di usare l’aspiratore nasale Narhinel che aspira il muco dal nasino del neonato e lo libera
+- Umidifica la mucosa nasale quando è irritata e secca e fluidifica le secrezioni nasali permettendone la successiva rimozione
+- Confezione da 120 flaconcini da 5 ml; leggere attentamente le avvertenze e le istruzioni per luso; nei neonati di età inferiore alle 2 settimane consultare il pediatra prima delluso
+- Disponibile in flaconcini monodose per una delicata detersione, anche quotidiana, delle cavità nasali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CR6B1PN7{{</world>}}

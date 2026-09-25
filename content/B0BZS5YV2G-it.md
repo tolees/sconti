@@ -28,15 +28,15 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 8 programmi preimpostati: carne, pollo, crostacei, pesce, toast, patatine, hot dog, ali di pollo
-- Potenza 1200 W | Capacità 5 litri (fino a 1200g)
-- Display digitale: facilità la pulizia e lutilizzo intuitivo della friggitrice
-- Contenitore e vassoio antiaderenti
-- Timer 60 minuti
 - Temperatura regolabile (80° - 200°C)
-- Grazie alla sua finestra e luce interna potrai controllare la cottura degli alimenti in ogni momento.
 - Contenitore con pratica maniglia
+- Contenitore e vassoio antiaderenti
 - Risparmia fino al 30% di energia: la resistenzxa alogena consuma meno e riduce i tempi di cottura.
+- Display digitale: facilità la pulizia e lutilizzo intuitivo della friggitrice
+- Grazie alla sua finestra e luce interna potrai controllare la cottura degli alimenti in ogni momento.
+- Timer 60 minuti
+- Potenza 1200 W | Capacità 5 litri (fino a 1200g)
+- 8 programmi preimpostati: carne, pollo, crostacei, pesce, toast, patatine, hot dog, ali di pollo
 - Piedini antiscivolo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

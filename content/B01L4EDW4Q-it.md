@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- TESTATO: I risultati dei test sono stati verificati dai dermatologi e cosmetologi di AIDECO. Il prodotto è inoltre testato al NICHEL COBALTO E CROMO valori < 0,0001%
-- TIPO DI PELLE: Le pelli normali secche e sensibili appaiono spesso ruvide, sottili e arrossate. La pelle in genere tira, si irrita e arrossa facilmente. Molto sensibile agli agenti esterni
-- ESIGENZA: Questo tipo di pelle ha bisogno di idratazione, nutrimento, protezione e soprattutto di essere lenita
 - FORMULA: La sua formula con Olio di Mandorla ed Estratto di Malva BIO, arricchita da una selezione di principi funzionali naturali e biologici, idrata e nutre anche le pelli più secche e sensibili
+- TESTATO: I risultati dei test sono stati verificati dai dermatologi e cosmetologi di AIDECO. Il prodotto è inoltre testato al NICHEL COBALTO E CROMO valori < 0,0001%
+- ESIGENZA: Questo tipo di pelle ha bisogno di idratazione, nutrimento, protezione e soprattutto di essere lenita
 - MODO DUSO: Distribuire piccole quantità di prodotto in vari punti del viso e stendere delicatamente con movimenti rotatori. Applicare anche sugli occhi chiusi, se truccati. Rimuovere con acqua
+- TIPO DI PELLE: Le pelli normali secche e sensibili appaiono spesso ruvide, sottili e arrossate. La pelle in genere tira, si irrita e arrossa facilmente. Molto sensibile agli agenti esterni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01L4EDW4Q{{</world>}}

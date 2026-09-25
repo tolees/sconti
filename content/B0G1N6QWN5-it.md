@@ -28,11 +28,11 @@ average: '46.7057142857143'
 
 ℹ️:
 
-- Nuovi comandi stile mouse per una creatività senza limiti
-- Multiplayer fino a 12 giocatori online o 8 in wireless locale
 - Megafono dalla Bottega di Nook per chiamare amici grazie al microfono integrato
+- Nuovi comandi stile mouse per una creatività senza limiti
 - Grafica migliorata fino a 4K in modalità TV (1080p in portatile)
 - GameChat e compatibilità con telecamera USB-C per video e chat vocale
+- Multiplayer fino a 12 giocatori online o 8 in wireless locale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0G1N6QWN5{{</world>}}

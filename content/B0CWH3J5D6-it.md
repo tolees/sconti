@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO Speed Champions Mercedes-AMG G 63 e Mercedes-AMG SL 63 Macchine Giocattolo da Costruire 2 Modellini di Auto per Bambini e Bambine da 10 Anni con Minifigure di Piloti Regalo di Compleanno 76924'
-date: 2026-09-20 14:13:43
+title: 'LEGO Speed Champions Mercedes-AMG G 63 e Mercedes-AMG SL 63-76924'
+date: 2026-09-23 10:11:33
 image: 'https://m.media-amazon.com/images/I/51mMyeNripL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -13,13 +13,13 @@ actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99
 comparePrice: 49.99 EUR
-prodname: 'LEGO Speed Champions Mercedes-AMG G 63 e Mercedes-AMG SL 63 Macchine Giocattolo da Costruire 2 Modellini di Auto per Bambini e Bambine da 10 Anni con Minifigure di Piloti Regalo di Compleanno 76924'
+prodname: 'LEGO Speed Champions Mercedes-AMG G 63 e Mercedes-AMG SL 63-76924'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0CWH3J5D6/?tag=tolees00-21'
 descuento: '20.00'
-average: '39.0410000000001'
+average: '39.1272727272728'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

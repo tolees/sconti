@@ -28,16 +28,16 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Attillati sui glutei con taglio stretto e ultra comodo su coscia e ginocchia
-- 95% cotone, 5% cotone riciclato
-- Per questo capo abbiamo usato cotone riciclato
-- Vita alta: 30 cm
-- Con vita particolarmente alta
-- Vestibilità aderente su fianchi e cosce
-- I nostri jeans Ribcage che conosci e ami, ora a gamba larga
 - Chiusura lampo
-- Lavabile in lavatrice
+- Per questo capo abbiamo usato cotone riciclato
+- Attillati sui glutei con taglio stretto e ultra comodo su coscia e ginocchia
 - Gamba larga
+- Lavabile in lavatrice
+- 95% cotone, 5% cotone riciclato
+- I nostri jeans Ribcage che conosci e ami, ora a gamba larga
+- Con vita particolarmente alta
+- Vita alta: 30 cm
+- Vestibilità aderente su fianchi e cosce
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DNNZYCVS{{</world>}}

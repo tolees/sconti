@@ -28,9 +28,9 @@ average: '88.93'
 
 ℹ️:
 
+- Materiale interno: Sintetico
 - Calzata facile e veloce grazie allelastico sulla tomaia
 - Materiale esterno: Gomma
-- Materiale interno: Sintetico
 - Facile da indossare per un comfort ottimo
 - Suola: Gomma
 

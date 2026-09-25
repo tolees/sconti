@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - MODELLA LA CITTÀ. Non ti limiti a guidare: contribuisci a migliorare la vita pubblica. Potenzia le fermate, sblocca nuove linee, ottieni bonus passivi e guarda ogni quartiere evolversi in uno spazio più vivace e a misura di pedone.
-- MULTIPLAYER IN MOVIMENTO. Unisciti a un massimo di altri 3 giocatori! Dividetevi per gestire più linee contemporaneamente e collaborate per contribuire all’obiettivo dell’host: migliorare e far crescere Emberville.
-- PERSONALIZZA LA TUA FLOTTA. Corsa dopo corsa, guadagna la fiducia dei passeggeri per sbloccare nuovi autobus, stili visivi e potenziamenti. Che tu preferisca un’esperienza di guida rilassante o voglia perfezionare e ottimizzare ogni dettaglio delle tue tratte, mettiti al volante e rendi ogni viaggio davvero tuo.
 - UNA CITTÀ PIENA DI VITA. Esplora Emberville: una città immaginaria densamente popolata e completamente simulata, animata da sistemi di traffico realistici, un ciclo dinamico giorno/notte e molteplici condizioni meteorologiche. Dai vivaci incroci alle tranquille zone residenziali, ogni area ha il suo ritmo — e il tuo percorso contribuisce a plasmare il suo futuro.
+- PERSONALIZZA LA TUA FLOTTA. Corsa dopo corsa, guadagna la fiducia dei passeggeri per sbloccare nuovi autobus, stili visivi e potenziamenti. Che tu preferisca un’esperienza di guida rilassante o voglia perfezionare e ottimizzare ogni dettaglio delle tue tratte, mettiti al volante e rendi ogni viaggio davvero tuo.
+- MULTIPLAYER IN MOVIMENTO. Unisciti a un massimo di altri 3 giocatori! Dividetevi per gestire più linee contemporaneamente e collaborate per contribuire all’obiettivo dell’host: migliorare e far crescere Emberville.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GS2S6WLZ{{</world>}}

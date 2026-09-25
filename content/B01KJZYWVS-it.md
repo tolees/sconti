@@ -29,8 +29,8 @@ average: '27.76'
 ℹ️:
 
 - Include le espansioni Hearts of Stone e Blood & Wine, che offrono ben 50 ore di narrativa aggiuntiva, oltre a nuove caratteristiche e aree che aumentano il mondo da esplorare di un terzo
-- Contiene tutti gli aggiornamenti tecnici e visivi oltre che uninterfaccia completamente nuova, progettata sulle basi dei suggerimenti dei membri della community di The Witcher
 - Affronta i tuoi nemici nei panni di un esperto cacciatore di mostri, con a disposizione un arsenale di armi potenziabili, pozioni e magie da usare in combattimento
+- Contiene tutti gli aggiornamenti tecnici e visivi oltre che uninterfaccia completamente nuova, progettata sulle basi dei suggerimenti dei membri della community di The Witcher
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01KJZYWVS{{</world>}}

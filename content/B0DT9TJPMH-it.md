@@ -28,10 +28,10 @@ average: '89.99'
 
 ℹ️:
 
-- Display digitale
 - Contenitori e vassoi antiaderenti
 - Timer e Temperatura regolabile (60-200°C)
 - Potenza: 2400W (1000+1400) con 2 zone di cottura indipendenti
+- Display digitale
 - Capacità totale 9 litri (3.5L + 5.5L, fino a 1800g)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

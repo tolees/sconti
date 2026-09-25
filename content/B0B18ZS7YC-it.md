@@ -28,9 +28,9 @@ average: '36.26'
 
 ℹ️:
 
-- Materiale esterno: Pelle
 - Chiusura: Zip
 - Fodera: Pelle
+- Materiale esterno: Pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B18ZS7YC{{</world>}}

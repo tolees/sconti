@@ -28,10 +28,10 @@ average: '13.75'
 
 ℹ️:
 
-- Vestibilità regolare
+- Girocollo
 - AEROREADY
 - Lavorazione effetto traforato, 100% poliestere riciclato
-- Girocollo
+- Vestibilità regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BJ9KRWQQ{{</world>}}

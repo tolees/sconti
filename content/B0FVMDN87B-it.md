@@ -28,11 +28,11 @@ average: '49.99'
 
 ℹ️:
 
-- Power bank magnetico ultrasottile — solo ~110g, si aggancia saldamente al MagSafe di iPhone
 - Ricarica wireless rapida 15W per Xiaomi 17 Series e dispositivi compatibili Qi
-- Forte attacco magnetico per iPhone MagSafe e custodie magnetiche
-- 5000mAh / 18,58Wh — omologato per il volo (sotto 100Wh), perfetto compagno di viaggio
 - Disponibile in Argento, Nero Grafite e GL Orange — stile e portabilità
+- 5000mAh / 18,58Wh — omologato per il volo (sotto 100Wh), perfetto compagno di viaggio
+- Forte attacco magnetico per iPhone MagSafe e custodie magnetiche
+- Power bank magnetico ultrasottile — solo ~110g, si aggancia saldamente al MagSafe di iPhone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FVMDN87B{{</world>}}

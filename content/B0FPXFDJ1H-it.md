@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Editions Pallone da Calcio Giocattolo - Kit di Modellismo 3D con Mini-Stadio Interattivo - Regalo di Compleanno per Bambini e Bambine da 10 Anni in su e per Adulti Amanti dello Sport - 43019'
-date: 2026-09-18 13:07:48
+date: 2026-09-20 19:08:45
 image: 'https://m.media-amazon.com/images/I/41k7IzNajqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0FPXFDJ1H/?tag=tolees00-21'
 descuento: '30.00'
-average: '81.373684210526'
+average: '81.4407692307689'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

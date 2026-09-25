@@ -29,9 +29,9 @@ average: '57.92'
 ℹ️:
 
 - Altezza tacco: 2,5 cm / 1
+- Calzata facile e regolabile con zip e lacci
 - Facile da indossare per un comfort unico
 - I sistemi brevettati Geox assicurano traspirabilità della suola e benessere del piede
-- Calzata facile e regolabile con zip e lacci
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07LFV9DGP{{</world>}}

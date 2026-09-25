@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Contenuto: 1x Franck Provost, Expert Reparation, Trattamento Districante Professionale Per Capelli Danneggiati, Effetto Riparatore, Con Estratto di Moringa e Olio di Jojoba, 450 ml
-- Dopo la detersione con lo shampoo, applica sulle lunghezze, massaggia, lascia in posa per qualche minuto e risciacqua, Per una routine completa, usa con i prodotti della gamma Expert Reparation
-- Deterge, nutre a fondo e ripara la fibra capillare, per un 99%* in meno di rotture del capello, più 95%* di nutrimento e un 56%* in meno di doppie punte, *Test strumentali
-- Trattamento rivitalizzante ideale per capelli danneggiati, secchi, fragili e spezzati, Senza siliconi Con Estratto di Moringa rigenerante e Olio di Jojoba nutriente
 - Formula iper concentrata arricchita Con Estratto di Moringa e Olio di Jojoba, Flacone realizzato al 100% in plastica riciclata (esclusi tappo, coloranti, additivi)
+- Dopo la detersione con lo shampoo, applica sulle lunghezze, massaggia, lascia in posa per qualche minuto e risciacqua, Per una routine completa, usa con i prodotti della gamma Expert Reparation
+- Trattamento rivitalizzante ideale per capelli danneggiati, secchi, fragili e spezzati, Senza siliconi Con Estratto di Moringa rigenerante e Olio di Jojoba nutriente
+- Contenuto: 1x Franck Provost, Expert Reparation, Trattamento Districante Professionale Per Capelli Danneggiati, Effetto Riparatore, Con Estratto di Moringa e Olio di Jojoba, 450 ml
+- Deterge, nutre a fondo e ripara la fibra capillare, per un 99%* in meno di rotture del capello, più 95%* di nutrimento e un 56%* in meno di doppie punte, *Test strumentali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D1DCNVT2{{</world>}}

@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- APPLICAZIONE: applicare su viso, occhi e labbra con un dischetto per rimuovere il make-up. Non necessita di risciacquo
+- MICELLARE DELICATA ALIMENTA: acqua micellare struccante che aiuta a rimuovere efficacemente il make-up da viso, occhi e labbra lasciando la pelle morbida, vellutata e confortata
+- TEXTURE ACQUOSA ULTRA-DELICATA: la formula micellare deterge e rispetta anche le zone più sensibili della pelle, minimizzando le sensazioni di fastidio, come la pelle che tira.
 - IDEALE PER PELLI SENSIBILI E CON FASTIDI: formulata per pelli e delicate che necessitano di uno struccante delicato
 - OMIA LINEA ALIMENTA: linea nutriente, protettiva e addolcente per nutrire e proteggere la tua pelle e i tuoi capelli. Formula vegana con ingredienti di origine naturale.
-- TEXTURE ACQUOSA ULTRA-DELICATA: la formula micellare deterge e rispetta anche le zone più sensibili della pelle, minimizzando le sensazioni di fastidio, come la pelle che tira.
-- MICELLARE DELICATA ALIMENTA: acqua micellare struccante che aiuta a rimuovere efficacemente il make-up da viso, occhi e labbra lasciando la pelle morbida, vellutata e confortata
 - STRUCCA LE PELLI SENSIBILI: aiuta a rimuovere il make-up delicatamente riducendo le sensazioni di fastidio come la pelle che tira. La pelle è morbida e vellutata
-- APPLICAZIONE: applicare su viso, occhi e labbra con un dischetto per rimuovere il make-up. Non necessita di risciacquo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GZLN56Q2{{</world>}}

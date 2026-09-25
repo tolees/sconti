@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Il suo contenuto di aloe vera apporta unazione idratante e aiuta a ridurre lirritazione
 - Favorisce la luminosità cutanea
 - Esfolia la superficie cutanea, aiutando ad ammorbidire la grana della pelle e a favorire il processo di rigenerazione cutanea
-- Il suo contenuto di aloe vera apporta unazione idratante e aiuta a ridurre lirritazione
 - Aiuta a ridurre rughe e linee despressione
 - Gel viso formulato con il 15% di acido glicolico parzialmente neutralizzato equivalente al 6,1% di acido glicolico libero
 

@@ -28,9 +28,9 @@ average: '30.9'
 
 ℹ️:
 
+- Fragranze e profumi: eau de toilette
 - Contenuto: 90 millilitri
 - Eau de toilette donna 90 millilitri
-- Fragranze e profumi: eau de toilette
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07L8M47LH{{</world>}}

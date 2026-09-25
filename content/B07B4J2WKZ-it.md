@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- venduto senza fonte di luce inclusa
 - Con Telecomando a 3 velocità e timer
 - Con Lampada in vetro è possibile installare qualsiasi tipo di lampadina di tipo E27 standard
 - 5 Pale in Legno da 128cm diametro
+- venduto senza fonte di luce inclusa
 - 2 anni di garanzia
 - Con invertitore di direzione per il recupero del calore invernale
 

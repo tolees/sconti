@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Fodera interna a contrasto
 - Realizzato in puro cotone e poliestere
 - Piccolo logo ricamato sul petto
-- Fodera interna a contrasto
 - Vestibilità attillata (Slim Fit)
 - Giacca di Lonsdale
 

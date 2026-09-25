@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tasche con cuciture laterali e tasca posteriore con zip
-- Grafica con logo retrò sul lato
 - Maglia in misto cotone felpato
+- Grafica con logo retrò sul lato
+- Tasche con cuciture laterali e tasca posteriore con zip
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F4DNXTMJ{{</world>}}

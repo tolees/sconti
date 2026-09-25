@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'La Molisana Conchiglie Rigate n. 25 Pasta da Solo Grano Italiano - Trafilata al Bronzo Ruvida e Tenace con Eccellente Tenuta in Cottura - Confezione da 500 g'
-date: 2026-08-31 19:14:25
+date: 2026-09-22 20:21:42
 image: 'https://m.media-amazon.com/images/I/41nUzl6cIBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B00DIREDXW-it La Molisana Conchiglie Rigate n. 25 Pasta da Solo Grano...'
 sku: 'B00DIREDXW-it'
 tags: [ '🇮🇹', ]
-actualPrice: 0.75 EUR
+actualPrice: 0.74 EUR
 currency: EUR
-price: 0.75
+price: 0.74
 comparePrice: 1.19 EUR
 prodname: 'La Molisana Conchiglie Rigate n. 25 Pasta da Solo Grano Italiano - Trafilata al Bronzo Ruvida e Tenace con Eccellente Tenuta in Cottura - Confezione da 500 g'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B00DIREDXW/?tag=tolees00-21'
-descuento: '36.97'
-average: '0.75'
+descuento: '37.82'
+average: '0.748333333333333'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,11 +28,6 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- PASTA CLASSICA LA MOLISANA: gamma di pasta genuina e digeribile che nasce da solo grano italiano decorticato a pietra; La trafilatura al bronzo rende la pasta ruvida e tenace, in grado di catturare perfettamente i condimenti
-- COTTURA: 13 minuti di cottura - Pasta con eccellente tenuta in cottura che non scuoce mai grazie alla trafilatura al bronzo e ad un indice proteico superiore al 14%
-- LA MOLISANA: dal 1912 azienda 100% Italiana leader nella produzione di pasta con solo grando italiano da filiera integrata, semole di alta qualità e tenacità certificata
-- PACK ECOSOSTENIBILE: i pack, riciclabili nella carta, sono composti da materiale che proviene da foreste ben gestite, foreste certificate FSC e da altre fonti controllate
-- CONCHIGLIE RIGATE N.25: formato di pasta corta dalla forma compatta e superficie rigata - Confezione da 500 g
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00DIREDXW{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tulipán Negro bagno schiuma Aloe Vera & Jojoba Gel effetto emolliente 650 ml'
-date: 2026-09-20 11:02:07
+date: 2026-09-24 16:15:18
 image: 'https://m.media-amazon.com/images/I/31d+jiUkA-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

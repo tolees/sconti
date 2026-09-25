@@ -28,9 +28,9 @@ average: '14.63'
 
 ℹ️:
 
-- Prodotto di ottima fattura
 - Tasche: tasca sul petto
 - Forma del corpo: alto
+- Prodotto di ottima fattura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BN3NB5SH{{</world>}}

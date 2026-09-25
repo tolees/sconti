@@ -28,13 +28,13 @@ average: '13.99'
 
 ℹ️:
 
-- Maniglia con chiusura
-- Alimentazione: AC 220-240V ~ 50/60Hz
-- Potenza: 750 W
-- Piedi di stabilità in materiale antiscivolo
 - Piastre antiaderenti
-- Spie di funzionamento e di raggiunta temperatura
+- Maniglia con chiusura
 - Dimensione piastre: 22 x 13 cm
+- Piedi di stabilità in materiale antiscivolo
+- Potenza: 750 W
+- Spie di funzionamento e di raggiunta temperatura
+- Alimentazione: AC 220-240V ~ 50/60Hz
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07V33VZKG{{</world>}}

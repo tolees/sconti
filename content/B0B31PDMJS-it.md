@@ -28,9 +28,9 @@ average: '20.0'
 
 ℹ️:
 
-- Tomaia in similpelle
 - Calzata regolare
 - Fodera in tessuto
+- Tomaia in similpelle
 - Suola in gomma non-marking
 - Chiusura con lacci
 

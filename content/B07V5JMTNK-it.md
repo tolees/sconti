@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Felce Azzurra Bagnoschiuma Profumato Cocco e Bamboo 650 ml'
-date: 2026-09-19 17:04:49
+date: 2026-09-23 16:55:48
 image: 'https://m.media-amazon.com/images/I/313FzYbH0CL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B07V5JMTNK/?tag=tolees00-21'
 descuento: '36.17'
-average: '1.914'
+average: '1.93588235294118'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

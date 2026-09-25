@@ -28,8 +28,8 @@ average: '47.9'
 
 ℹ️:
 
-- Soletta interna imbottita in memory foam con raffreddamento ad aria
 - Colletto e linguetta imbottiti
+- Soletta interna imbottita in memory foam con raffreddamento ad aria
 - Sneaker alla moda con lacci
 - Intersuola ammortizzante
 

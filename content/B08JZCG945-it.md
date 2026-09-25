@@ -28,8 +28,8 @@ average: '9.49'
 
 ℹ️:
 
-- Shampoo professionale ad azione intensiva
 - Prodotto di qualità
+- Shampoo professionale ad azione intensiva
 - Agisce efficacemente per ridurre la forfora
 - Rende i capelli morbidi e sani
 

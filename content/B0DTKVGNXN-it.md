@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Bergamotto italiano
 - Vaporizza CK One su collo e polsi.
 - Tè Verde biologico
 - Legno di Sandalo australiano
-- Bergamotto italiano
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DTKVGNXN{{</world>}}

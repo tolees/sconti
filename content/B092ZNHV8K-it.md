@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- La linea Easy Bosch – un comodo aiuto in tutti i tuoi progetti
-- Compatto, leggero ed ergonomico per lavorare in comodità e forare senza fatica nella muratura fino a 12 mm e nel legno fino a 25 mm
 - Dotazione: EasyImpact 600, valigetta
+- La linea Easy Bosch – un comodo aiuto in tutti i tuoi progetti
 - Levetta di regolazione elettronica per gestire il numero di giri durante la foratura
+- Compatto, leggero ed ergonomico per lavorare in comodità e forare senza fatica nella muratura fino a 12 mm e nel legno fino a 25 mm
 - Mandrino autoserrante a doppia bussola, per sostituire la punta in modo semplice e veloce
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

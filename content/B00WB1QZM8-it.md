@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Un prodotto della marca DeWalt
 - Un prodotto per il trapano
+- Un prodotto della marca DeWalt
 - Un prodotto robusto e resistente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

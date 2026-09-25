@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sc. Cuore di Sgombro al Naturale 80 g x 2'
-date: 2026-09-17 11:27:55
+date: 2026-09-24 15:03:28
 image: 'https://m.media-amazon.com/images/I/51zEmCxCD-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

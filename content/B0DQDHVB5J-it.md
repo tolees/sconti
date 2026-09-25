@@ -28,11 +28,11 @@ average: '399.99'
 
 ℹ️:
 
-- Sicurezza: il passeggino è dotato di cinture di sicurezza regolabili a 5 punti e di una ringhiera. Il prodotto è dotato di inserti riflettenti, che miglioreranno sicuramente la visibilità al buio. I materiali impermeabili e la tettoia XXL con filtro UPF50 offrono una protezione aggiuntiva per tutte le condizioni atmosferiche
-- GONDOLA CON FUNZIONE: il passeggino ha una spaziosa navicella con una larghezza interna di 36 cm. In inverno il bambino si sentirà a suo agio nel suo sacco nanna. Limpugnatura ergonomica nella gondola consente al bambino di trasportare in sicurezza il bambino. La navicella dispone di una ventilazione panoramica 3D che garantisce condizioni ottimali
-- Passeggino 3 in 1: il modello Amber Plus 3 in 1 è un passeggino multifunzione, con navicella e seggiolino auto conforme alla più recente norma i-Size 129R. Il peso massimo del bambino è di 9 kg, nel seggiolino da 0 a 13 kg e con passeggino di 22 kg. Il sedile del passeggino può essere montato davanti o dietro alle indicazioni di marcia
 - Ruote: questo passeggino è adatto a terreni impegnativi. Dotato di ruote girevoli a 360 gradi (diametro: posteriore 25 cm, anteriore 17 cm) con battistrada profondo. Il comfort di guida migliorerà anche la funzione di blocco per la guida dritta. Lammortizzazione integrata nelle ruote anteriori e posteriori riduce gli urti durante la guida
+- GONDOLA CON FUNZIONE: il passeggino ha una spaziosa navicella con una larghezza interna di 36 cm. In inverno il bambino si sentirà a suo agio nel suo sacco nanna. Limpugnatura ergonomica nella gondola consente al bambino di trasportare in sicurezza il bambino. La navicella dispone di una ventilazione panoramica 3D che garantisce condizioni ottimali
+- Sicurezza: il passeggino è dotato di cinture di sicurezza regolabili a 5 punti e di una ringhiera. Il prodotto è dotato di inserti riflettenti, che miglioreranno sicuramente la visibilità al buio. I materiali impermeabili e la tettoia XXL con filtro UPF50 offrono una protezione aggiuntiva per tutte le condizioni atmosferiche
 - FUNZIONALITÀ: il passeggino ha un poggiapiedi regolabile, uno schienale con opzione di apertura per la posizione sdraiata e una maniglia regolabile per i genitori. Ha un ricco set di accessori: coprigambe per gondola, materassino fasciatoio, borsa per genitori, zanzariera. Il passeggino urbano è dotato di un ampio cesto per la spesa con portata fino a 3 kg
+- Passeggino 3 in 1: il modello Amber Plus 3 in 1 è un passeggino multifunzione, con navicella e seggiolino auto conforme alla più recente norma i-Size 129R. Il peso massimo del bambino è di 9 kg, nel seggiolino da 0 a 13 kg e con passeggino di 22 kg. Il sedile del passeggino può essere montato davanti o dietro alle indicazioni di marcia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DQDHVB5J{{</world>}}

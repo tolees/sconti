@@ -28,10 +28,10 @@ average: '7.66'
 
 ℹ️:
 
-- Impara a disegnare con Stitch
+- CONTENUTO: 4 lavagnette scrivi e cancella, pennarelli profumati, manuale di istruzioni
 - Quaderno operativo didattico, 4 pennarelli profumati, Pennarello cancellabile, 4 lavagnette scrivi & cancella
 - Manualità fine e coordinazione occhio-mano, Creatività e fantasia, Curiosità e capacità di osservazione, Decodificazione di immagini
-- CONTENUTO: 4 lavagnette scrivi e cancella, pennarelli profumati, manuale di istruzioni
+- Impara a disegnare con Stitch
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D6NLBL29{{</world>}}

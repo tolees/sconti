@@ -28,11 +28,11 @@ average: '44.0'
 
 ℹ️:
 
-- Resistente all’acqua: 10m
+- Diametro della cassa: 37mm
+- Movimento Al quarzo
 - Bracialetto Bianco Pelle di vitello
 - Cassa Acciaio inox, quadrante Argento
-- Movimento Al quarzo
-- Diametro della cassa: 37mm
+- Resistente all’acqua: 10m
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08BBY9FLY{{</world>}}

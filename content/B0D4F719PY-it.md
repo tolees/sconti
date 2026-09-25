@@ -28,8 +28,8 @@ average: '21.09'
 
 ℹ️:
 
-- NF0A5FXMJK3
 - Logo a trasferimento termico
+- NF0A5FXMJK3
 - Chiusura posteriore regolabile a 9 ganci
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tomaia in materiale sintetico
-- Calzata regolare
 - Intersuola vulcanizzata
-- Almeno il 50% della tomaia proviene da fonti riciclate
-- Fodera in tessuto
+- Calzata regolare
+- Tomaia in materiale sintetico
 - Chiusura con lacci
+- Fodera in tessuto
+- Almeno il 50% della tomaia proviene da fonti riciclate
 - Suola in gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

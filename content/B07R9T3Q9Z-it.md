@@ -28,11 +28,11 @@ average: '10.54'
 
 ℹ️:
 
+- dimensione chiave 1: 19 mm | dimensione chiave 2: 19 mm
 - offset laterale anello a 15°
+- 72 denti
 - profilo: 12 punti
 - finitura superficiale: cromato satinato
-- dimensione chiave 1: 19 mm | dimensione chiave 2: 19 mm
-- 72 denti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07R9T3Q9Z{{</world>}}

@@ -28,11 +28,11 @@ average: '25.4883333333333'
 
 ℹ️:
 
-- Struttura a 2 anelli gonfiabili di pari dimensioni
-- Contenuto: 1 piscina, 1 toppa di riparazione rinforzata
-- Motivo a rilievo color azzurro sulle pareti esterne
 - Capacità di riempimento: 778 L
+- Struttura a 2 anelli gonfiabili di pari dimensioni
 - Dimensioni: 2,62 m x 1,57 m x 51 cm
+- Motivo a rilievo color azzurro sulle pareti esterne
+- Contenuto: 1 piscina, 1 toppa di riparazione rinforzata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07TQRG29R{{</world>}}

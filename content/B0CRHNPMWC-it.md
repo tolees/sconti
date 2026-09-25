@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - RINNOVAMENTO CELLULARE: Stimola il rinnovamento cellulare, uniformando la pelle e donando un aspetto più sano e luminoso. Adatto per un utilizzo quotidiano
 - ESFOLIAZIONE QUOTIDIANA: Gel esfoliante con microsfere per rimuovere impurità e cellule morte, ideale per pelli normali, miste o grasse
-- ATTIVI NATURALI: Formulato con attivi astringenti di Rosa Multiflora per migliorare la grana della pelle e opacizzarla delicatamente
-- PELLE PURIFICATA: Deterge in profondità e prepara la pelle ai trattamenti successivi, per un incarnato fresco e radioso
 - ACQUA ALLE ROSE: il modo più semplice e naturale per prendersi cura della propria bellezza, dal 1867. Una bellezza senza età​ che anno dopo anno si rinnova e fiorisce
+- PELLE PURIFICATA: Deterge in profondità e prepara la pelle ai trattamenti successivi, per un incarnato fresco e radioso
+- ATTIVI NATURALI: Formulato con attivi astringenti di Rosa Multiflora per migliorare la grana della pelle e opacizzarla delicatamente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CRHNPMWC{{</world>}}

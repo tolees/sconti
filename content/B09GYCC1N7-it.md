@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'INIU Caricatore Wireless per iPhone 15W Stazione di Ricarica Wireless'
-date: 2026-09-13 14:09:04
+date: 2026-09-25 10:44:55
 image: 'https://m.media-amazon.com/images/I/41FvaVrI4wL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B09GYCC1N7/?tag=tolees00-21'
 descuento: '20.01'
-average: '17.3036170212767'
+average: '17.2500000000001'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

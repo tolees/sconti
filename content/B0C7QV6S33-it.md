@@ -28,11 +28,11 @@ average: '27.1718181818182'
 
 ℹ️:
 
+- NOTA BENE: Questo ferro da stiro è testato singolarmente, quindi potrebbe contenere un piccolo residuo dacqua, che non ne compromette il funzionamento
+- Vapore in verticale, regolazione del vapore; Funzionamento vapore secco, funzione spray
+- Colpo di vapore 140 g: per distendere anche le pieghe più difficili
 - Ferro da stiro a vapore progettato per essere leggero e maneggevole; Tecnologia Imetec Eco: riduce i consumi energetici
 - Tecnologia 2X ZEROCALC con 2 livelli di protezione: filtro con resina a scambio ionico: agisce attivamente sulle molecole d’acqua riducendo la formazione del calcare + funzione Calc-Clean di autopulizia della piastra: riduce la formazione del calcare all’interno del ferro
-- Vapore in verticale, regolazione del vapore; Funzionamento vapore secco, funzione spray
-- NOTA BENE: Questo ferro da stiro è testato singolarmente, quindi potrebbe contenere un piccolo residuo dacqua, che non ne compromette il funzionamento
-- Colpo di vapore 140 g: per distendere anche le pieghe più difficili
 - Piastra in acciaio Inox; 2200 Watt; Serbatoio tonalità trasparente 250 ml
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

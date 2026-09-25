@@ -28,11 +28,11 @@ average: '15.99'
 
 ℹ️:
 
-- Note di fondo calde: Le note di fondo del cashmere, del legno di cedro e della vaniglia conferiscono un piacevole calore e profondità. Conferiscono alla fragranza una nota lussuosa e avvolgente che dura per tutto il giorno.
-- Note di testa fresche: Provate lapertura rinfrescante con note di testa di kumquat, mandarino e arancia. Queste sfumature fruttate e agrumate conferiscono alla fragranza unaura rivitalizzante ed energica.
-- Profumo esotico da donna: immergetevi nel mondo esotico di KORRES CASHMERE KUMQUAT Eau de Toilette. Questa fragranza orientale e floreale combina note agrumate di kumquat e arancia con un pizzico di limone e resina. Provate la morbida sensazione del cashmere sulla pelle che questa fragranza ispira.
-- Note di cuore sensuali: Le note di cuore di fiori darancio, gelsomino e mandorla conferiscono una dimensione floreale e sensuale alla fragranza. Trasmettono una sensazione di eleganza e femminilità.
 - Alta tolleranza e vegan: lEau de Toilette KORRES CASHMERE KUMQUAT è dermatologicamente testata e offre unalta tolleranza per diversi tipi di pelle. È priva di ftalati, parabeni, composti di nitromosca e PCM. È inoltre vegano e cruelty-free.
+- Note di cuore sensuali: Le note di cuore di fiori darancio, gelsomino e mandorla conferiscono una dimensione floreale e sensuale alla fragranza. Trasmettono una sensazione di eleganza e femminilità.
+- Note di fondo calde: Le note di fondo del cashmere, del legno di cedro e della vaniglia conferiscono un piacevole calore e profondità. Conferiscono alla fragranza una nota lussuosa e avvolgente che dura per tutto il giorno.
+- Profumo esotico da donna: immergetevi nel mondo esotico di KORRES CASHMERE KUMQUAT Eau de Toilette. Questa fragranza orientale e floreale combina note agrumate di kumquat e arancia con un pizzico di limone e resina. Provate la morbida sensazione del cashmere sulla pelle che questa fragranza ispira.
+- Note di testa fresche: Provate lapertura rinfrescante con note di testa di kumquat, mandarino e arancia. Queste sfumature fruttate e agrumate conferiscono alla fragranza unaura rivitalizzante ed energica.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08BTH759S{{</world>}}

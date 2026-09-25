@@ -30,8 +30,8 @@ average: '71.6'
 
 - Cassa da 36 mm, larghezza del cinturino di 16 mm, cristallo minerale, movimento al quarzo, display analogico con cronografo, importato
 - Resistente all’acqua fino a 50 m: indossabile per nuotare in acque basse
-- Cassa rotonda in acciaio con quadrante in madreperla bianca
 - Cinturino in pelle marrone
+- Cassa rotonda in acciaio con quadrante in madreperla bianca
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CQXV3XFH{{</world>}}

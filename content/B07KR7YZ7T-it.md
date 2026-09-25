@@ -28,10 +28,10 @@ average: '13.28'
 
 ℹ️:
 
-- CKW400IT
-- Scopri la nostra gamma completa di prodotti
 - Il nostro obiettivo principale è la soddisfazione del cliente
+- Scopri la nostra gamma completa di prodotti
 - Tecnologia di connettività: wireless
+- CKW400IT
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07KR7YZ7T{{</world>}}

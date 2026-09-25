@@ -28,10 +28,10 @@ average: '7.4'
 
 ℹ️:
 
-- Puzzle per bambini
-- Età consigliata: a partire da 8 anni
 - Numero giocatori: da 1 giocatore
 - 200 pezzi
+- Puzzle per bambini
+- Età consigliata: a partire da 8 anni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07FYLNTJ9{{</world>}}

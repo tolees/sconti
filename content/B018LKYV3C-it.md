@@ -29,10 +29,10 @@ average: '30.07'
 ℹ️:
 
 - Sospensione senza telaio, pannello in orizzontale o verticale formato sospendibile
-- Incluso: due forti magneti al neodimio (voce B3102) a forma cilindrica, di montaggio materiali (tappi, viti), dima e istruzioni di montaggio (disponibile anche per il download qui)
 - vetro di sicurezza temperato (EN 12150-1), resistente ai graffi
-- Lavagna magnetica nera vetro di BeBoard per la scrittura con lavagna e pennarelli e allegare note adesive con forti magneti (Attenzione: normali magneti da frigorifero non tenere)
 - 45 x 45 cm, adatto per locali piccoli e nicchie, in casa o in ufficio, Disponibile anche in diverse dimensioni
+- Incluso: due forti magneti al neodimio (voce B3102) a forma cilindrica, di montaggio materiali (tappi, viti), dima e istruzioni di montaggio (disponibile anche per il download qui)
+- Lavagna magnetica nera vetro di BeBoard per la scrittura con lavagna e pennarelli e allegare note adesive con forti magneti (Attenzione: normali magneti da frigorifero non tenere)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B018LKYV3C{{</world>}}

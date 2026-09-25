@@ -28,11 +28,11 @@ average: '6.16'
 
 ℹ️:
 
-- Biffi qualità, tradizione e innovazione all’insegna del Made in Italy
 - Confezione contenente 3 vasetti da 190g di Sugo ai Funghi Porcini Biffi
-- 100% vegetale
 - Il Sugo ai Funghi Porcini Biffi è perfetto per accompagnare primi piatti di pasta, polenta o come base per pizza e pinsa.
 - Senza glutine
+- 100% vegetale
+- Biffi qualità, tradizione e innovazione all’insegna del Made in Italy
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08DYLS767{{</world>}}

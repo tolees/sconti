@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 100% cotone
+- Grande font iconico collegiale sul petto
+- Vestibilità regolare
 - Piccolo logo sotto
 - Girocollo
-- Vestibilità regolare
-- Grande font iconico collegiale sul petto
+- 100% cotone
 - Piccolo logo sotto
 - Maglia singola
 

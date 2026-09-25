@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- marcatore permanente punta extra fine per tratti ultra precisi
-- punta 1,6 mm - tratto 0,6 mm
 - adatto a tutte le superfici
 - fusto slim in plastica
+- punta 1,6 mm - tratto 0,6 mm
+- marcatore permanente punta extra fine per tratti ultra precisi
 - cappuccio quadrato con clip che impedisce al marcatore di rotolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

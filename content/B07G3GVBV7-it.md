@@ -28,9 +28,9 @@ average: '22.6'
 
 ℹ️:
 
-- Grazie alla solida base il palo non si ribalterà
-- Struttura durevole e resistente
 - Aiuterà a evitare che il tuo gatto rovini tappeti, mobili, tende e tanto altro
+- Struttura durevole e resistente
+- Grazie alla solida base il palo non si ribalterà
 - Le tonalità neutre naturali si abbineranno allo stile della tua casa
 - Tiragraffi in fibre di juta naturale, per unghie sane
 - Tiragraffi a palo singolo per gatti, con giochi sospesi sostituibili

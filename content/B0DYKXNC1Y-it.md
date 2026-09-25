@@ -28,11 +28,11 @@ average: '1.8'
 
 ℹ️:
 
-- FORMULA CLINICAMENTE PROVATA: denti più bianchi, freschezza intensa. Contiene Fluoruro di Sodio (1450 ppm F)
-- FORMULA CRYSTAL GEL: aiuta a prevenire la formazione della placca proteggendo la salute di denti e gengive
-- MENTADENT, ESPERTI IN PREVENZIONE: Mentadent è sinonimo di qualità e affidabilità, da più di 40 anni è leader nelligiene orale
-- CON PARTICELLE LUCIDANTI: per pulire lo smalto e riaccendere il bianco naturale dei tuoi denti con un effetto di intensa freschezza a lungo
 - DENTIFRICIO MENTADENT CRYSTAL GEL: Mentadent Crystal Gel ha una formula delicata che contiene un gel alla Menta fredda e particelle lucidanti
+- FORMULA CLINICAMENTE PROVATA: denti più bianchi, freschezza intensa. Contiene Fluoruro di Sodio (1450 ppm F)
+- CON PARTICELLE LUCIDANTI: per pulire lo smalto e riaccendere il bianco naturale dei tuoi denti con un effetto di intensa freschezza a lungo
+- MENTADENT, ESPERTI IN PREVENZIONE: Mentadent è sinonimo di qualità e affidabilità, da più di 40 anni è leader nelligiene orale
+- FORMULA CRYSTAL GEL: aiuta a prevenire la formazione della placca proteggendo la salute di denti e gengive
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DYKXNC1Y{{</world>}}

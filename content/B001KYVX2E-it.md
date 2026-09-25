@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Extra Super Lash - Un mascara allungante e volumizzante
-- Live the London Look! Rimmel London è la certezza di avere sempre uno stile cool, irriverente, imprevedibile e in continua evoluzione. Rimmel non aspira alla perfezione e non vuole intimidire. È come Londra: giovane, eclettico, metropolitano e allavanguardia. Unespressione senza regole, reale e accessibile
-- Effetti e benefici - Ciglia lunghe, fonte e perfettamente definite
-- Applicazione - Lo scovolino applicatore cattura anche le ciglia più corte
 - Formula ricca e cremosa, si applica facilmente senza creare grumi.
+- Applicazione - Lo scovolino applicatore cattura anche le ciglia più corte
+- Live the London Look! Rimmel London è la certezza di avere sempre uno stile cool, irriverente, imprevedibile e in continua evoluzione. Rimmel non aspira alla perfezione e non vuole intimidire. È come Londra: giovane, eclettico, metropolitano e allavanguardia. Unespressione senza regole, reale e accessibile
+- Extra Super Lash - Un mascara allungante e volumizzante
+- Effetti e benefici - Ciglia lunghe, fonte e perfettamente definite
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B001KYVX2E{{</world>}}

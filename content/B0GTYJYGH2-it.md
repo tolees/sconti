@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'QXQ S26 Cuffie Bluetooth Auricolari Bluetooth 5.4 con ENC Riduzione Rumore'
-date: 2026-09-14 16:16:18
+date: 2026-09-25 18:36:26
 image: 'https://m.media-amazon.com/images/I/41vgzpwIqCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0GTYJYGH2/?tag=tolees00-21'
 descuento: '30.01'
-average: '18.9172727272728'
+average: '19.2361538461539'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

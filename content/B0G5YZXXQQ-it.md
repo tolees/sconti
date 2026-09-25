@@ -28,11 +28,11 @@ average: '17.49'
 
 ℹ️:
 
-- Orlo a doppio ago
-- Tasca sul petto a sinistra
-- Girocollo a costine
-- Vestibilità comoda
 - Manica corta
+- Orlo a doppio ago
+- Vestibilità comoda
+- Girocollo a costine
+- Tasca sul petto a sinistra
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0G5YZXXQQ{{</world>}}

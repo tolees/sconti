@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Dash Pods Detersivo Lavatrice in Capsule 114 Lav Extra Igiene + Omaggio'
-date: 2026-09-16 12:51:18
-image: 'https://m.media-amazon.com/images/I/51tDO0PgnFL._SL500_._SL400_.jpg'
+date: 2026-09-21 08:53:38
+image: 'https://m.media-amazon.com/images/I/51BtDSy4UpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'

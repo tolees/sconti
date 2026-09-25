@@ -30,9 +30,9 @@ average: '6.24'
 
 - Punta sintetica extra forte
 - Alta indelebilità dellinchiostro
+- Fusto in metallo
 - Adatto a tutte le superfici
 - confezione 4 colori ( nero, rosso, blu, verde)
-- Fusto in metallo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00IZHL7ES{{</world>}}

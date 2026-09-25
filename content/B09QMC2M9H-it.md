@@ -28,9 +28,9 @@ average: '29.44'
 
 ℹ️:
 
+- In puro cotone
 - Vestibilità regolare
 - Set di tre magliette intime
-- In puro cotone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09QMC2M9H{{</world>}}

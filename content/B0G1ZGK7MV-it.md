@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazfit Active Max 48mm Smartwatch 1 5 AMOLED 25 Giorni Autonomia Mappe Offline NFC GPS 4GB di Memoria 170+ Sportive 5 ATM Monitoraggio Fitness Sonno & Battito per Android/iPhone'
-date: 2026-09-19 12:05:13
+date: 2026-09-22 02:22:42
 image: 'https://m.media-amazon.com/images/I/41FV2R4zRHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0G1ZGK7MV/?tag=tolees00-21'
 descuento: '20.55'
-average: '141.209500000002'
+average: '140.913333333336'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

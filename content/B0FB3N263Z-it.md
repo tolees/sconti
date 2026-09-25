@@ -29,10 +29,10 @@ average: '2437.5'
 ℹ️:
 
 - Sensore full-frame da 24.5 MP con EXPEED 7: immagini ricche di dettagli, profondità e colori realistici anche in condizioni di luce difficili; prestazioni elevate grazie al processore d’immagine di Nikon
-- Video cinematografici e stabilizzazione a 7.5 stop: registra in 4K UHD fino a 60p, sfrutta l’N-Log per la color correction avanzata e scatta a mano libera grazie alla stabilizzazione IBIS integrata nel corpo macchina
 - Controllo totale e connettività integrata: Mirino OLED da 3.690.000 punti, touchscreen orientabile, doppio slot SD, Wi-Fi e Bluetooth; inclusi batteria, SD Lexar 128GB, tracolla, cavo USB e lenti di qualità NIKKOR Z
 - AF reattivo con tracciamento intelligente: messa a fuoco fino al 68% più veloce rispetto alla Z5, con Eye e Animal Detection, tracciamento 3D e sensibilità fino a -10 EV per scatti precisi anche al buio
 - Kit versatile per foto e video di livello superiore: la potenza della Z5II unita allo zoom standard professionale 24-120 mm f/4 S: ottimo per paesaggi, ritratti e video 4K UHD grazie alla qualità ottica costante su tutta la gamma focale. Garanzia Estesa Nital V.I.P. – acquistando da Nikon Store Amazon Italia ricevi 6 anni di garanzia totale su fotocamere mirrorless Z e obiettivi NIKKOR Z: unestensione gratuita esclusiva Nital che protegge il tuo investimento nel tempo. Estensione valida solo su prodotti nuovi. Non applicabile allusato
+- Video cinematografici e stabilizzazione a 7.5 stop: registra in 4K UHD fino a 60p, sfrutta l’N-Log per la color correction avanzata e scatta a mano libera grazie alla stabilizzazione IBIS integrata nel corpo macchina
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FB3N263Z{{</world>}}

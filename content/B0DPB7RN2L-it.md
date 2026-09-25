@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'dreame X50 Ultra Complete Robot Aspirapolvere Lavapavimenti 20.000 Pa'
-date: 2026-09-11 00:10:39
+date: 2026-09-25 08:00:11
 image: 'https://m.media-amazon.com/images/I/3179gAdvyFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0DPB7RN2L/?tag=tolees00-21'
 descuento: '25.03'
-average: '806.209999999998'
+average: '803.198947368419'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

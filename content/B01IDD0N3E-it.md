@@ -28,9 +28,9 @@ average: '25.42'
 
 ℹ️:
 
-- Painstakingly dipinto a mano.
 - Realizzato in resina di alta qualità.
 - Timer gotico con sabbia di drago.
+- Painstakingly dipinto a mano.
 - Sabbia rossa allinterno.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

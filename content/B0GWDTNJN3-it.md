@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AOC Gaming Monitor Q27G4XFAD 27 pollici 2560x1440 WQHD 180Hz Fast IPS Panel 1ms GtG Height Adjustment HDMI1x 2.0 DP 1x 1.4 HDR10 G-Sync Compatible Nero'
-date: 2026-09-11 09:27:39
+date: 2026-09-25 18:10:13
 image: 'https://m.media-amazon.com/images/I/41jBBnfNEHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

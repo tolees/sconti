@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Borotalco Bagnodoccia Buonanotte Rilassante con Texture Avvolgente e Profumo di Lavanda Muschiata Essenza Cremosa Dona Calma e Relax Ideale per Fine Giornata Flacone 500 ml'
-date: 2026-09-17 13:28:31
+date: 2026-09-25 17:19:05
 image: 'https://m.media-amazon.com/images/I/41NZaw4C1ML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

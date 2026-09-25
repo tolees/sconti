@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pasta del Capitano Dentifricio Antitartaro Bio Dona Freschezza e Rinfresca l Alito Ideale per i Fumatori Aiuta a Prevenire la Placca 100% Made in Italy Tubetto da 75 ml'
-date: 2026-09-20 17:32:20
+date: 2026-09-24 17:26:14
 image: 'https://m.media-amazon.com/images/I/41vYUpep9ZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B09GGGW7JQ/?tag=tolees00-21'
 descuento: '46.49'
-average: '0.910000000000001'
+average: '0.91301886792453'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

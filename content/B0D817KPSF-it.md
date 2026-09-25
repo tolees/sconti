@@ -28,8 +28,8 @@ average: '8.485'
 
 ℹ️:
 
-- Contenuto: 1x LOréal Paris Crema Viso Illuminante, Adatta a Pelli Sensibili, Azione Levigante e Uniformante, Pelle Morbida e Elastica, Con Vitamina C + Acido Salicilico, Revitalift, 50 ml
 - Crema Viso Illuminante e Levigante Revitalift adatta a pelli sensibili per idratare la pelle in profondità e donarle un aspetto più sano e luminoso fin dal primo utilizzo
+- Contenuto: 1x LOréal Paris Crema Viso Illuminante, Adatta a Pelli Sensibili, Azione Levigante e Uniformante, Pelle Morbida e Elastica, Con Vitamina C + Acido Salicilico, Revitalift, 50 ml
 - Pelle illuminata e idratata, Morbidezza ed elasticità immediata, Pori visibilmente ridotti, Texture della pelle più uniforme e levigata, Effetto luminoso
 - Applicare mattina e sera una piccola quantità di crema su viso e collo ben detersi, Massaggiare delicatamente con movimenti ascendenti
 - Formula che combina Vitamina C, attivo antiossidante che aiuta a combattere l’ossidazione della pelle, e Acido Salicilico per un’azione levigante delicata, i Pigmenti Luce donano luminosità istantanea

@@ -29,8 +29,8 @@ average: '16.99'
 ℹ️:
 
 - Skechers Dettaglio logo diamante
-- Interno gamba 22,8 cm
 - Dettaglio a punto mosca finto
+- Interno gamba 22,8 cm
 - Tasche frontali oblique
 - Cintura elasticizzata con coulisse
 

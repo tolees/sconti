@@ -28,9 +28,9 @@ average: '22.49'
 
 ℹ️:
 
-- COMFORT: I sandali Chicco sono confortevoli, flessibili, leggeri, traspiranti e pratici
-- SANDALI BAMBINA: Sandali Chicco, con comoda chiusura con con doppio strappo, ideali per un look casual e alla moda. Adatti ad ogni occasione
 - GUIDA ALLE TAGLIE: scegli la taglia più adatta alla tua bimba, seguendo le indicazioni della power image
+- SANDALI BAMBINA: Sandali Chicco, con comoda chiusura con con doppio strappo, ideali per un look casual e alla moda. Adatti ad ogni occasione
+- COMFORT: I sandali Chicco sono confortevoli, flessibili, leggeri, traspiranti e pratici
 - CHICCO: Da sempre al fianco delle famiglie, ascoltando le loro storie e necessità. Con i nostri prodotti innovativi, rispondiamo sempre ai nuovi bisogni dei genitori e di tutti coloro che si prendono cura dei bambini
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

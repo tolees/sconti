@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Omino Bianco - Detersivo Lavatrice Liquido Color+ 105 Lavaggi Specifico per Capi Colorati Tecnologia Salva i Colori e Cattura il Grigiore 1400 ml x 3 Confezioni'
-date: 2026-09-10 11:18:57
-image: 'https://m.media-amazon.com/images/I/41d0tPvlffL._SL500_._SL400_.jpg'
+date: 2026-09-22 06:10:21
+image: 'https://m.media-amazon.com/images/I/51v7ZCnndiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0CDM6FZXD/?tag=tolees00-21'
 descuento: '30.02'
-average: '11.9326666666666'
+average: '11.8118749999999'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

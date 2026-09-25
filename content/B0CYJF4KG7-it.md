@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech G Pro X SE con microfono Cuffie da gioco cablate'
-date: 2026-09-19 16:25:12
+date: 2026-09-23 08:34:37
 image: 'https://m.media-amazon.com/images/I/41ZBraVsoyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0CYJF4KG7/?tag=tolees00-21'
 descuento: '40.00'
-average: '74.8360784313725'
+average: '74.2758490566038'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

@@ -28,12 +28,12 @@ average: '73.79'
 
 ℹ️:
 
-- AGGIUNGI UN MOTORE FUNZIONANTE: è possibile collegare il kit LEGO Power Functions (disponibile separatamente), per motorizzare la locomotiva e controllarla tramite l’app o il telecomando Powered Up
 - IDEA REGALO PER APPASSIONATI: un ottimo regalo di compleanno per bambini e bambine amanti dei modelli di trenini da costruire e di giochi creativi, pensato anche per i fan dei treni passeggeri LEGO City di tutte le età
-- CARATTERISTICHE E FUNZIONI: esplora la cabina del treno a vapore con focolare e dettagli dei comandi, alza e abbassa il braccio del segnale e fai accomodare fino a 4 passeggeri nel vagone
-- PLAYSET CON TRENO GIOCATTOLO: classiche avventure ferroviarie attendono i piccoli con i set LEGO City Treno a Vapore Vintage, un divertente gioco di ruolo per bambini e bambine da 7 anni in su
 - MINIFIGURE E ACCESSORI: tante storie da raccontare grazie alle 5 minifigure incluse, un macchinista e 4 passeggeri, oltre a del cibo giocattolo come dei biscotti e un thermos per spuntini in movimento
 - STAZIONE FERROVIARIA LEGO CITY CON BINARIO: include un dettagliato treno con tender del carbone e carrozza passeggeri, il marciapiede della stazione, panchina con tettuccio, sezione di binario e segnale
+- AGGIUNGI UN MOTORE FUNZIONANTE: è possibile collegare il kit LEGO Power Functions (disponibile separatamente), per motorizzare la locomotiva e controllarla tramite l’app o il telecomando Powered Up
+- CARATTERISTICHE E FUNZIONI: esplora la cabina del treno a vapore con focolare e dettagli dei comandi, alza e abbassa il braccio del segnale e fai accomodare fino a 4 passeggeri nel vagone
+- PLAYSET CON TRENO GIOCATTOLO: classiche avventure ferroviarie attendono i piccoli con i set LEGO City Treno a Vapore Vintage, un divertente gioco di ruolo per bambini e bambine da 7 anni in su
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FPXGSKF7{{</world>}}

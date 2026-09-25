@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Sapore intenso e aromatico
-- Non pastorizzato
 - Da varietà di nettari bottinati in zone di boscaglia selvatiche
+- Non pastorizzato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B079BSQ3M4{{</world>}}

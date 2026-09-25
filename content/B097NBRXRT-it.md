@@ -30,9 +30,9 @@ average: '17.17'
 
 - Girovita elasticizzato con cordino interno
 - Tipo di tessuto: 68 percent cotton, 32 percent polyester
+- Pantaloni sportivi
 - Vestibilità regolare
 - Leggeri e traspirabili
-- Pantaloni sportivi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B097NBRXRT{{</world>}}

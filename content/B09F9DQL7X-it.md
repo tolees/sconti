@@ -28,11 +28,11 @@ average: '7.61'
 
 ℹ️:
 
-- Non dimmerabile
 - Lampade LED professionali a tensione di rete
-- Attacco: E27, B22d
 - Bassissimo consumo di energia
 - Lampade prive di mercurio
+- Attacco: E27, B22d
+- Non dimmerabile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09F9DQL7X{{</world>}}

@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - CHAMBRAY EFFETTO DENIM: cotone leggero e traspirante per comfort e lunga durata.
-- DETTAGLI: collo a punte aperte, tasca sul petto, chiusura frontale con bottoni, maniche lunghe, piega posteriore sul carré, fessino sulla manica
-- VESTIBILITÀ OVERSIZE: vestibilità comoda e ampia su spalle, petto e vita
 - LUNGHEZZA DEL CAPO: 72,4cm dal lato del collo nella taglia M (IT)
+- VESTIBILITÀ OVERSIZE: vestibilità comoda e ampia su spalle, petto e vita
+- DETTAGLI: collo a punte aperte, tasca sul petto, chiusura frontale con bottoni, maniche lunghe, piega posteriore sul carré, fessino sulla manica
 - MODERNA, IN DENIM, CON ABBOTTONATURA FRONTALE: rivisitazione essenziale di un classico versatile, reinterpretato con una vestibilità più ampia, perfetto da indossare da sola o sopra una T-shirt
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

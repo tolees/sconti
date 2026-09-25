@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Materiale esterno: pelle
 - Suola: Etilene Vinil Acetato
+- Materiale esterno: pelle
 - Chiusura: cerniera lampo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

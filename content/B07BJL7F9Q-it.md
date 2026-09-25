@@ -28,10 +28,10 @@ average: '10.47'
 
 ℹ️:
 
-- VESTIBILITÀ SKINNY: vestibilità aderente su fianchi, cosce e gambe, a vita bassa.
-- DENIM LEGGERMENTE ELASTICIZZATO: denim di cotone a grammatura media leggermente elasticizzato per un comfort che dura tutto il giorno. Disponibile in indaco o a tinta unita, sottoposto a lavaggio per un look vintage.
-- DETTAGLI: presenta una patta con zip e chiusura con bottone in metallo, punti di rinforzo e rivetti sulle tasche anteriori per le mani. Si consiglia sempre di appendere il denim per asciugarlo per prolungare la vita del capo.
 - APERTURA DELLA GAMBA: 16,8 cm per la taglia 48.
+- DENIM LEGGERMENTE ELASTICIZZATO: denim di cotone a grammatura media leggermente elasticizzato per un comfort che dura tutto il giorno. Disponibile in indaco o a tinta unita, sottoposto a lavaggio per un look vintage.
+- VESTIBILITÀ SKINNY: vestibilità aderente su fianchi, cosce e gambe, a vita bassa.
+- DETTAGLI: presenta una patta con zip e chiusura con bottone in metallo, punti di rinforzo e rivetti sulle tasche anteriori per le mani. Si consiglia sempre di appendere il denim per asciugarlo per prolungare la vita del capo.
 - JEANS SKINNY: modello classico a cinque tasche, questi jeans sono i più skinny di tutti, perfetti per ogni giorno.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

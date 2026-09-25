@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Composizione: poliestere media tenacità
-- Carico di rottura: 560 kg
 - Diametro 10 mm, 50 mt
 - Colore: bianco con segnalino blu
+- Carico di rottura: 560 kg
+- Composizione: poliestere media tenacità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00MO8X0BW{{</world>}}

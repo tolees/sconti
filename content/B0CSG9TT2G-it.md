@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- ALLARME AUDIOVISIVO - Quando la telecamera rileva qualcuno nellarea monitorata, attiva automaticamente un allarme sonoro con luci lampeggianti ad alta frequenza per allontanare potenziali intrusi e invia simultaneamente un messaggio di allarme allapp Xiaomi Home.
 - TRACCIAMENTO IA DELLE PERSONE - La videocamera traccia intelligentemente i movimenti umani. Quando una persona viene rilevata e inquadrata, la telecamera la segue automaticamente e registra video del suo movimento inviando notifiche al tuo smartphone.
 - VISIONE NOTTURNA A COLORI - La videocamera è dotata di una luce bianca che si attiva automaticamente di notte alla rilevazione di una figura umana, fornendo immagini a colori anche in ambienti bui.
 - QUALITÀ DELLIMMAGINE 2.5K - Qualità dellimmagine 2.5K ultra chiara, dettagli eccezionali anche in zoom.
-- ALLARME AUDIOVISIVO - Quando la telecamera rileva qualcuno nellarea monitorata, attiva automaticamente un allarme sonoro con luci lampeggianti ad alta frequenza per allontanare potenziali intrusi e invia simultaneamente un messaggio di allarme allapp Xiaomi Home.
 - RESISTENTE A POLVERE E ACQUA IP66 - La classificazione IP66 garantisce prestazioni stabili anche in condizioni meteorologiche avverse.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tomaia in pelle, tessuto e materiale sintetico per comfort e supporto.
 - Intersuola in schiuma per ammortizzazione e leggerezza.
+- Tomaia in pelle, tessuto e materiale sintetico per comfort e supporto.
 - Design che richiama Pegasus 25 e Pegasus 2006.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ average: '27.99'
 
 ℹ️:
 
+- Intersuola in gomma
 - Suola in gomma
 - Tomaia in pelle sintetica
-- Intersuola in gomma
 - Dettagli del marchio Puma su tomaia, tallone e linguetta
 - Strisce sagomate Puma sui lati laterali e mediali
 

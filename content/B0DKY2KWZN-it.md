@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Senza PFC
-- Dettagli stampati
-- Imbottitura: Thermo-Fibre 100% poliestere riciclato
 - Chiusura con zip
-- Polsini elasticizzati
+- Imbottitura: Thermo-Fibre 100% poliestere riciclato
+- Senza PFC
 - Resistente allacqua
+- Dettagli stampati
+- Polsini elasticizzati
 - Tessuto principale: 100% poliammide riciclata
 - Stemmi
 

@@ -29,9 +29,9 @@ average: '4.49'
 ℹ️:
 
 - Cavo patch CAT 6 UTP, 1Gbit/s
+- Assegnazione 1:1 - 2x connettore RJ45
 - Certificato UL - Busta in plastica con codice EAN - Colore: Rosso - Lunghezza: 7 m
 - Categoria: CAT 6 - non schermato
-- Assegnazione 1:1 - 2x connettore RJ45
 - Conduttori 4x2 - Conduttori 100% Rame AWG26/7
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

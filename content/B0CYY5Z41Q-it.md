@@ -28,11 +28,11 @@ average: '8.585'
 
 ℹ️:
 
-- Strato esterno: 80% fibra polipropilenica / 20% fibra polipropilenica riciclata con sagomatura a iniezione
 - Chiusura a strappo regolabile sul davanti
-- Piastra rigida
 - Imbottitura in EVA
 - Protezione della caviglia
+- Piastra rigida
+- Strato esterno: 80% fibra polipropilenica / 20% fibra polipropilenica riciclata con sagomatura a iniezione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CYY5Z41Q{{</world>}}

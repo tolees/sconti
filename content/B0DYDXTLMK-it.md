@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ARMANDO Lo Spaghetto Integrale BIO Pasta di Grano Duro 20x500g'
-date: 2026-09-18 06:46:00
+date: 2026-09-21 17:52:20
 image: 'https://m.media-amazon.com/images/I/314qbFzFQvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

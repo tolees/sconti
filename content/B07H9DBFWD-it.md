@@ -28,14 +28,14 @@ average: '10.99'
 
 ℹ️:
 
-- Piedini di appoggio antiscivolo
-- Potenza: 500 W
-- Regolazione temperatura
-- Diametro piastra 11 cm
-- Spia di accensione
-- Alimentazione: AC 220-240V - 50/60Hz
 - Piastra in ghisa
 - Dimensioni (mm): 160 x 78 x 175
+- Regolazione temperatura
+- Potenza: 500 W
+- Alimentazione: AC 220-240V - 50/60Hz
+- Diametro piastra 11 cm
+- Spia di accensione
+- Piedini di appoggio antiscivolo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07H9DBFWD{{</world>}}

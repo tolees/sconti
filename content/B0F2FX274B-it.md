@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Intersuola LIGHTMOTION
-- Suola in gomma ADIWEAR
 - Soletta in tessuto
-- Peso: 244 g
-- Tomaia in tessuto
+- Suola in gomma ADIWEAR
 - Drop intersuola: 6 mm (tallone 27 mm / avampiede 21 mm)
+- Intersuola LIGHTMOTION
 - Lacci
+- Tomaia in tessuto
 - Vestibilità regolare
+- Peso: 244 g
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F2FX274B{{</world>}}

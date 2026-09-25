@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 😂Una nuova scatola per Coco Rido le regole sono facilissime: rispondi alla domanda nel modo più esilarante possibile e vinci
-- 😈Potete mescolare queste carte con le altre versioni di Coco Rido, per ore e ore di puro divertimento. solo per amanti del black humor
 - 💻Non si tratta di unespansione, ma di unalternativa a tema web, in collaborazione con iNoobChannel
 - 📦160 carte risposta e 40 carte domanda per un totale di 200 carte nuove per divertirsi insieme
+- 😈Potete mescolare queste carte con le altre versioni di Coco Rido, per ore e ore di puro divertimento. solo per amanti del black humor
+- 😂Una nuova scatola per Coco Rido le regole sono facilissime: rispondi alla domanda nel modo più esilarante possibile e vinci
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09NNXLYH6{{</world>}}

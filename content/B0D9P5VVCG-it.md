@@ -29,9 +29,9 @@ average: '0.99'
 ℹ️:
 
 - Totale: Protezione del cavo orale e delle gengive
-- Complesso di erbe con Salvia e Chiodi di Garofano
 - Formula vegana
 - Almeno 98% di ingredienti di origine naturale
+- Complesso di erbe con Salvia e Chiodi di Garofano
 - Pack sostenibile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

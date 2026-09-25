@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Giacca dalla vestibilità aderente e pantaloni dalla vestibilità regolare
-- Zip integrale e collo alto
 - Polsini a coste e orlo elasticizzato sulla giacca
 - Vita alta
+- Zip integrale e collo alto
+- Giacca dalla vestibilità aderente e pantaloni dalla vestibilità regolare
 - 53% cotone / 47% poliestere (riciclato)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

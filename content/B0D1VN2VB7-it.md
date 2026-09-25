@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Marshall Major V Cuffie Wireless Bluetooth 100 ore di riproduzione - nero'
-date: 2026-09-19 17:23:42
+date: 2026-09-23 11:53:55
 image: 'https://m.media-amazon.com/images/I/31A2Yh0x3dL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0D1VN2VB7/?tag=tolees00-21'
 descuento: '45.64'
-average: '85.1755555555556'
+average: '84.8868965517242'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

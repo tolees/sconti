@@ -28,11 +28,11 @@ average: '29.17'
 
 ℹ️:
 
-- Includes soundtrack and booklet!
-- Old school gameplay with a brand-new polish
-- A new twist to the side-scrolling NINJA GAIDEN series experience
-- A spectacular pixel art showdown
 - Dive into an untold chapter of the NINJA GAIDEN saga
+- A spectacular pixel art showdown
+- A new twist to the side-scrolling NINJA GAIDEN series experience
+- Old school gameplay with a brand-new polish
+- Includes soundtrack and booklet!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FCN3LQVC{{</world>}}

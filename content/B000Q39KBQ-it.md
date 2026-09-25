@@ -28,10 +28,10 @@ average: '13.9'
 
 ℹ️:
 
-- Creme per il corpo - Idratanti
-- Prodotto da marca: Calvin Klein
 - i migliori prodotti per la cura del tuo corpo
 - Dimensioni prodotto imballato: 8 x 10 x 15 cm
+- Creme per il corpo - Idratanti
+- Prodotto da marca: Calvin Klein
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000Q39KBQ{{</world>}}

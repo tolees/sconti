@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Air dry only. Do not machine wash or tumble dry.
-- Suede/Nubuck: Use a suede brush; avoid water. Use a suede eraser for scuffs Avoid soaking
-- Footwear: Spot clean with mild soap and water
-- Leather: Use leather cleaner or mild soap. Condition occasionally
 - Mesh/Textile: Use a soft brush with mild soap and water
+- Suede/Nubuck: Use a suede brush; avoid water. Use a suede eraser for scuffs Avoid soaking
+- Air dry only. Do not machine wash or tumble dry.
+- Leather: Use leather cleaner or mild soap. Condition occasionally
+- Footwear: Spot clean with mild soap and water
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DMQKY2NZ{{</world>}}

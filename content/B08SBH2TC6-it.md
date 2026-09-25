@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Possibilità di rimuovere il contenitore di caffè macinato e posizionarvi il portafiltro
-- Macinino per caffè in grani con 15 opzioni di macinatura (dal caffè espresso al caffè filtro)
-- Ampio contenitore caffè in grani (300 gr) con coperchio
 - Macine coniche in acciaio inox, removibili per una pulizia accurata
+- Ampio contenitore caffè in grani (300 gr) con coperchio
+- Macinino per caffè in grani con 15 opzioni di macinatura (dal caffè espresso al caffè filtro)
+- Possibilità di rimuovere il contenitore di caffè macinato e posizionarvi il portafiltro
 - Display digitale con selettore quantità (timer) per macinare quantità preimpostate e su richiesta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

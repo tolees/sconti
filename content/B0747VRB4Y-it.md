@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- La cordonatrice è dotata di misure precise, sia nel sistema metrico che imperiale, con incrementi di ¼
 - Facile da riporre
+- La cordonatrice è dotata di misure precise, sia nel sistema metrico che imperiale, con incrementi di ¼
 - Transparente – è facile vedere dove si deve tagliare o cordonare
 - Ottimo per progetti piccoli e grandi
 

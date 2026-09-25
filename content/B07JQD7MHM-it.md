@@ -28,10 +28,10 @@ average: '41.91'
 
 ℹ️:
 
-- Dimensioni cm 85, 5x73, 6x42, 4
+- Struttura in metallo che consente lutilizzo con morsetti
 - Piedini in gomma che creano frizione sulla superficie durante il taglio
 - Capacità di carico kg 450 (l coppia)
-- Struttura in metallo che consente lutilizzo con morsetti
+- Dimensioni cm 85, 5x73, 6x42, 4
 - Facile apertura e chiusura, dimensioni compatte, semplice da trasportare e riporre
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

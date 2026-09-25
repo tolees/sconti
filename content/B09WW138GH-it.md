@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Formato: 3 lattine da 70 gr
+- Consigli duso: ideale per preparare primi piatti, da provare anche come ripieno per carciofi o per farcire fagottini di pasta sfoglia con champignon
 - Valori nutrizionali: fonte di proteine
 - Tonno allOlio di Oliva, immancabile classico, una scelta buona, sana e responsabile
-- Consigli duso: ideale per preparare primi piatti, da provare anche come ripieno per carciofi o per farcire fagottini di pasta sfoglia con champignon
 - Sostenibilità: Nostromo si impegna da tempo per fornire prodotti rispettosi delle politiche di sostenibilità grazie alle flotte che pescano rispettando le zone FAO e seguendo le linee guida in materia ittica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -29,13 +29,13 @@ average: '118.196'
 ℹ️:
 
 - Audio cristallini da professionista - Questo microfono wireless offre audio di alta qualità con registrazioni vocali più cristalline, chiare e piacevoli, rendendolo ideale per interviste, vlog e molti altri scenari.
-- Include un ricevitore, un trasmettitore (Shadow Black), una custodia per il trasporto e altro ancora. Può essere agganciato o bloccato magneticamente o e dispone di più adattatori. Questa combinazione compatta e flessibile è ideale per i creator.
-- Meno rumore, voci migliori - L’eliminazione intelligente del rumore rende i vocali più chiari, anche durante interviste o riprese in luoghi con suoni irregolari e imprevedibili.
-- Compatibile con i tuoi dispositivi - DJI Mic 2 è dotato di adattatori USB-C, Lightning e da 3,5 mm ed è compatibile con la maggior parte degli smartphone, fotocamere e laptop. Può essere quindi collegato rapidamente e con facilità.
-- Connessione diretta con l’ecosistema DJI – Con DJI OsmoAudio, un trasmettitore può connettersi a Osmo Nano, Osmo 360, Osmo Mobile 7P, Osmo Action 5 Pro, Osmo Action 4 o Osmo Pocket 3 senza l’uso del ricevitore, per un audio di qualità superiore.
-- Compatto, magnetico e discreto - Il TX ha un design compatto esclusivo con un clip e un magnete, che offre maggiore flessibilità per un posizionamento discreto e video dallaspetto più professionale.
 - Mai più audio persi - I trasmettitori di questo microfono wireless possono essere utilizzati come registratori autonomi con un massimo di 14 ore di registrazione interna [4]. Il float a 32 bit garantisce audio chiari anche in caso di picchi di livello audio.
+- Connessione diretta con l’ecosistema DJI – Con DJI OsmoAudio, un trasmettitore può connettersi a Osmo Nano, Osmo 360, Osmo Mobile 7P, Osmo Action 5 Pro, Osmo Action 4 o Osmo Pocket 3 senza l’uso del ricevitore, per un audio di qualità superiore.
+- Include un ricevitore, un trasmettitore (Shadow Black), una custodia per il trasporto e altro ancora. Può essere agganciato o bloccato magneticamente o e dispone di più adattatori. Questa combinazione compatta e flessibile è ideale per i creator.
+- Compatibile con i tuoi dispositivi - DJI Mic 2 è dotato di adattatori USB-C, Lightning e da 3,5 mm ed è compatibile con la maggior parte degli smartphone, fotocamere e laptop. Può essere quindi collegato rapidamente e con facilità.
+- Meno rumore, voci migliori - L’eliminazione intelligente del rumore rende i vocali più chiari, anche durante interviste o riprese in luoghi con suoni irregolari e imprevedibili.
 - Distanze maggiori, possibilità ampliate - Sperimenta una registrazione audio wireless stabile fino a 250 metri di distanza (FCC) [6], che ti consentirà di riprendere e registrare in modo più flessibile in diversi scenari.
+- Compatto, magnetico e discreto - Il TX ha un design compatto esclusivo con un clip e un magnete, che offre maggiore flessibilità per un posizionamento discreto e video dallaspetto più professionale.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CJXSF9WT{{</world>}}

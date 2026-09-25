@@ -29,8 +29,8 @@ average: '11.39'
 ℹ️:
 
 - Nera da Adulto
-- Collezione Lupa 3D
 - Taglia S
+- Collezione Lupa 3D
 - Prodotto Ufficiale AS Roma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ average: '36.11'
 
 ℹ️:
 
-- Attacco a baionetta.
 - Lavaggio potente ad alta pressione.
+- Attacco a baionetta.
 - Raggio rotante a punti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ average: '19.2'
 ℹ️:
 
 - 2 Mile Bag With Zip Main Compartment & Outside Pocket
-- Embrodiered LeviS Wordmark Logo
 - Realizzato con materiale resistente in tela
 - 1.5L
+- Embrodiered LeviS Wordmark Logo
 - Regolabile Crossbody Strap
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

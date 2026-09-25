@@ -28,11 +28,11 @@ average: '8.34'
 
 ℹ️:
 
-- Progettato per altoparlanti piccoli e medie
-- Carico MAX: 3.5 kg
 - Regolazione Angolo orizzontale
-- Colore: Nero
+- Carico MAX: 3.5 kg
 - Marca: Maclean Brackets
+- Colore: Nero
+- Progettato per altoparlanti piccoli e medie
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00LIWO1GI{{</world>}}

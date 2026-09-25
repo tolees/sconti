@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Gli estratti di Grindelia ed Eucalipto conferiscono unazione balsamica e lenitiva sulla mucosa orofaringea e associati alla Menta, supportano il benessere naturale delle prime vie respiratorie.
 - Formato: 200 ml
 - Piacevole effetto balsamico, ideale come alleato per affrontare la stagione invernale al meglio.
 - Arricchito con estratti di Capelvenere, Drosera, Lichene islandico e Timo utili per la fluidità delle secrezioni bronchiali.
 - COME USARLO: si consiglia di assumere 10 ml, 2-3 volte al giorno, al momento del bisogno e lontano dai pasti. Trattandosi di un prodotto naturale, potrebbe originarsi un deposito di fondo. AGITARE BENE PRIMA DELLUSO.
+- Gli estratti di Grindelia ed Eucalipto conferiscono unazione balsamica e lenitiva sulla mucosa orofaringea e associati alla Menta, supportano il benessere naturale delle prime vie respiratorie.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B68WRKLQ{{</world>}}

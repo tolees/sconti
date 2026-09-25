@@ -28,14 +28,14 @@ average: '20.99'
 
 ℹ️:
 
-- Potenza: 1500 W
-- Piastra in ghisa
-- 5 Livelli di regolazione temperatura
-- Spia di accensione
+- Dimensioni (mm): 250 x 65 x 290
 - Diametro piastra 18,5 cm
 - Piedini di appoggio antiscivolo
-- Dimensioni (mm): 250 x 65 x 290
+- Potenza: 1500 W
 - Alimentazione: AC 220-240V ~ 50/60Hz
+- Piastra in ghisa
+- Spia di accensione
+- 5 Livelli di regolazione temperatura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07BFCZQ15{{</world>}}

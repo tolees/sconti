@@ -31,8 +31,8 @@ average: '15.3741666666667'
 - Per la TUA COLAZIONE: 5 galletti, una spremuta di pompelmo e uno yogurt ai frutti di bosco; per un totale di calorie pari al 17% del tuo fabbisogno energetico giornaliero
 - MULINO BIANCO: al Mulino Bianco si ricerca da sempre la qualità. Biscotti, Dolcetti, Merende, Pani e Snack per accompagnarti in ogni momento della giornata
 - INGREDIENTI: latte fresco 100% italiano e delicata pasta frolla; senza olio di palma, additivi coloranti e conservanti, grassi idrogenati e ingredienti OGM
-- Informazioni sopra allergeni: sesame may contain
 - GALLETTI: combinano la leggerezza di una sottile pasta frolla con il latte fresco 100% italiano, con il loro sapore delicato si sciolgono dolcemente in bocca
+- Informazioni sopra allergeni: sesame may contain
 - BISCOTTI e DOLCETTI: morbidi o friabili, unampia varietà per tutti I gusti; ogni biscotto è una bontà unica, senza olio di palma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

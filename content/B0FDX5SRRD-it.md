@@ -28,9 +28,9 @@ average: '1.19'
 
 ℹ️:
 
+- Morbide e avvolgenti – Una consistenza soffice e irresistibile
 - Perfette in ogni momento – Ideali per una pausa dolce e naturale
 - 100% vegetali – Senza gelatina animale, con pectina di origine vegetale
-- Morbide e avvolgenti – Una consistenza soffice e irresistibile
 - Senza compromessi – Qualità eccellente per un piacere autentico
 - Gusti raffinati – Delicate note di Fragola-Rosa e Mora-Viola
 

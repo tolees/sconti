@@ -28,8 +28,8 @@ average: '25.37'
 
 ℹ️:
 
-- Numero di giocatori: 2-5 | Età consigliata: 13+ | Durata media: 120 min | Espansione | Edizione in Lingua Italiana
 - Lespansione Barrage - The Far Companies include le regole per due nuove Compagnie da utilizzare in aggiunta alle quattro di base e alla quinta già inclusa nellespansione The Leeghwater Project
+- Numero di giocatori: 2-5 | Età consigliata: 13+ | Durata media: 120 min | Espansione | Edizione in Lingua Italiana
 - Queste due compagnie hanno caratteristiche uniche che le distinguono in modo significativo dalle Compagnie standard, sia in termini di meccaniche di gioco che di componenti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

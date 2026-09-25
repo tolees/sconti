@@ -28,11 +28,11 @@ average: '10.78'
 
 ℹ️:
 
-- Chiavi a brugola a L lavorate con precisione per una perfetta aderenza
-- Braccio lungo per una più ampia portata
-- Estremità sferica, angolo di entrata fino a 25°
 - Ideale per lavori su arredamento, macchinari, auto telecomandate, biciclette e veicoli
 - Realizzato in acciaio al cromo vanadio, cromato e resistente alla ruggine
+- Braccio lungo per una più ampia portata
+- Chiavi a brugola a L lavorate con precisione per una perfetta aderenza
+- Estremità sferica, angolo di entrata fino a 25°
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07W7TQMXD{{</world>}}

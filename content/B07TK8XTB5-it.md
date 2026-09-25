@@ -28,11 +28,11 @@ average: '2.32'
 
 ℹ️:
 
+- Addio lacrime – La formula Non più Lacrime dello shampoo neonato garantisce unesperienza delicata come lacqua pura sugli occhi, per un bagnetto sicuro senza lacrime e irritazioni
+- Detersione delicata – Lo shampoo neutro con oltre il 90% di ingredienti naturali è testato da pediatri e dermatologi per detergere delicatamente i capelli e il cuoio capelluto sensibile dei bambini
 - Contenuto della confezione – Johnsons Baby Shampoo, shampoo Johnson Baby per bambini e neonati, shampoo bambini no lacrime delicato, perfetto anche per tutta la famiglia, 1 confezione da 750 ml
 - Protezione sicura – Questo shampoo lavaggi frequenti ipoallergenico* e con pH bilanciato è formulato senza coloranti, ftalati, solfati, alcol e sapone, per una protezione di cui ti puoi fidare
-- Addio lacrime – La formula Non più Lacrime dello shampoo neonato garantisce unesperienza delicata come lacqua pura sugli occhi, per un bagnetto sicuro senza lacrime e irritazioni
 - Cura dei neonati – Lo shampoo delicato garantisce la cura ottimale dei capelli dei bambini, che possono essere fino a 5 volte più sottili di quelli degli adulti e necessitano di attenzione speciale
-- Detersione delicata – Lo shampoo neutro con oltre il 90% di ingredienti naturali è testato da pediatri e dermatologi per detergere delicatamente i capelli e il cuoio capelluto sensibile dei bambini
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07TK8XTB5{{</world>}}

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Senza tacco
-- Chiusura a zip
 - Punta Tonda
+- Chiusura a zip
+- Senza tacco
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CN12KVGP{{</world>}}

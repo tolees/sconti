@@ -28,10 +28,10 @@ average: '14.99'
 
 ℹ️:
 
-- Facile da pulire, Contenitore trasparente e rimovibile facile da riempire con meccanismo di chiusura, Capacità fino a 50 g
 - Ottimi risultati grazie alle lame in acciaio inox e al motore potente, Adatto anche alla macinazione di spezie, semi di papavero, ecc.
 - Piedini antiscivolo per evitare spostamenti durante la macinazione, Lunghezza cavo: 107 cm
 - Contenuto: 1 Bestron Macina caffè elettrico, Potenza: 150 Watt, Materiale: Acciaio inox/Plastica, Colore: Rame, LxPxA: 10,5x10,5x18,2 cm, Peso: 0,75kg, ACG1000CO
+- Facile da pulire, Contenitore trasparente e rimovibile facile da riempire con meccanismo di chiusura, Capacità fino a 50 g
 - Macchina caffè a filtro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

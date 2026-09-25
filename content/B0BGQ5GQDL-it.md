@@ -28,8 +28,8 @@ average: '9.49'
 
 ℹ️:
 
-- Attaccare
 - Sintetico
+- Attaccare
 - Gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

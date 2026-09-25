@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Borotalco Deodorante Vapo Originale Formula Senza Alcool con Talco a Cristalli Attivi Tripla Protezione Asciutta Profumo di Borotalco - Formato da 75 ml'
-date: 2026-09-17 19:13:32
+date: 2026-09-23 12:26:28
 image: 'https://m.media-amazon.com/images/I/31xTWl7gzeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0BPT554R1/?tag=tolees00-21'
 descuento: '50.32'
-average: '2.45500000000001'
+average: '2.43000000000001'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

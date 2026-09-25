@@ -29,15 +29,15 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Attacco idoneo AMP 1217281-2, 63241-3, 62572-6 o 1217321-2 e attacco di accoppiamento idoneo AMP 626064-0
-- La lampada consente un orientamento unico grazie al collo flessibile e può essere accesa e spenta e restare collegata in modo permanente. La lampada ha una garanzia produttore di 2 anni
 - OSRAM ONYX COPILOT L-7 - il nuovo copilota LED per il veicolo.
-- OSRAM ONYX COPILOT è il nuovo e indispensabile co-pilota: il pratico aiutante sempre a portata di mano.
+- La lampada consente un orientamento unico grazie al collo flessibile e può essere accesa e spenta e restare collegata in modo permanente. La lampada ha una garanzia produttore di 2 anni
+- Funziona sia 12 V che a 24 V
+- Fissaggio e collegamento mediante attacco in plastica (40 x 40 mm) con due fori di montaggio per vite M4 e contatto elettrico tramite connettori AMP 626065-0
 - Onyx Copilot vanta il collo flessibile più lungo tra le lampade di lettura LED e una luce calda priva di abbagliamento, per raggiungere gli angoli più remoti allinterno del veicolo.
 - OSRAM COPILOT ONYX L+7: Luce per interni calda e luminosa per labitacolo del proprio veicolo con lampada da lettura a LED antiscivolo e resistente allo sporco
+- OSRAM ONYX COPILOT è il nuovo e indispensabile co-pilota: il pratico aiutante sempre a portata di mano.
 - Luce di lettura flessibile a LED OSRAM ONYX COPILOT L con connettore - lunghezza 37 cm.
-- Funziona sia 12 V che a 24 V
 - La lampada a LED ha una temperatura di colore da 3200 K con un flusso di luce di 20 lm e una durata di 20.000 ore e con utilizzabile con un alimentazione da 12V o 24V
-- Fissaggio e collegamento mediante attacco in plastica (40 x 40 mm) con due fori di montaggio per vite M4 e contatto elettrico tramite connettori AMP 626065-0
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00KYK6DPW{{</world>}}

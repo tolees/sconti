@@ -28,10 +28,10 @@ average: '28.1'
 
 ℹ️:
 
-- Chiusura: stringata
 - Loghi Fila classici ricamati
 - Letichetta cult italiana
 - Classica sneaker Fila con intersuola in EVA
+- Chiusura: stringata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07V7R1RT1{{</world>}}

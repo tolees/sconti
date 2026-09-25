@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Braccio con frizione variabile
 - Adatto per Super Clamp 035
+- Carico utile 3 Kg
+- Braccio con frizione variabile
 - Lunghezza 53 cm
 - Manopola ergonomica di bloccaggio
-- Carico utile 3 Kg
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000J4FONU{{</world>}}

@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Vaschetta per la raccolta dei grassi
 - Ampia maniglia termoisolante
+- Vaschetta per la raccolta dei grassi
+- Braciere e coperchio in ghisa di alluminio
 - Telaio in nylon rinforzato con fibre di vetro
-- Manopola di regolazione della temperatura
 - Potenza: 2,2 Kw
 - Cavo elettrico 1,80 m
-- Braciere e coperchio in ghisa di alluminio
 - 2 griglie di cottura smaltate in ghisa di acciaio
+- Manopola di regolazione della temperatura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00HUNCX82{{</world>}}

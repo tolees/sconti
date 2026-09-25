@@ -28,11 +28,11 @@ average: '1.45'
 
 ℹ️:
 
-- INGREDIENTI SPECIALI: 75% di finissima e golosa crema al cacao e cioccolato in due strati, per i palati più esigenti, racchiusa tra tre croccanti cialde
-- 100 ANNI LOACKER: Dal 1925, celebriamo un secolo di passione e dedizione nella creazione di wafer e snack di alta qualità. Ogni prodotto nasce dallamore per ingredienti naturali ed autentici, senza compromessi su qualità e gusto. Perchè la bontà è una scelta ribelle, e da centanni siamo buoni, ma sempre a modo nostro
-- INIZIA LA GIORNATA CON LA GIUSTA ENERGIA: Una dolce pausa che ricarica corpo e mente, unendo gusto ed equilibrio. Ideale da gustare da soli o in famiglia, per una pausa mattutina che unisce piacere e leggerezza, fornendo lenergia necessaria per affrontare la giornata
-- SEMPRE CON TE: Confezione da 175g composta da 22 irresistibili finger di wafer per fare la felicità vostra e di chi è con voi
 - LO SNACK PER TUTTA LA FAMIGLIA: L’intramontabile wafer cremoso in cui cacao e cioccolato si fondono in un gusto inimitabile, il classico "blu" Loacker in un formato ideale per la famiglia
+- SEMPRE CON TE: Confezione da 175g composta da 22 irresistibili finger di wafer per fare la felicità vostra e di chi è con voi
+- INGREDIENTI SPECIALI: 75% di finissima e golosa crema al cacao e cioccolato in due strati, per i palati più esigenti, racchiusa tra tre croccanti cialde
+- INIZIA LA GIORNATA CON LA GIUSTA ENERGIA: Una dolce pausa che ricarica corpo e mente, unendo gusto ed equilibrio. Ideale da gustare da soli o in famiglia, per una pausa mattutina che unisce piacere e leggerezza, fornendo lenergia necessaria per affrontare la giornata
+- 100 ANNI LOACKER: Dal 1925, celebriamo un secolo di passione e dedizione nella creazione di wafer e snack di alta qualità. Ogni prodotto nasce dallamore per ingredienti naturali ed autentici, senza compromessi su qualità e gusto. Perchè la bontà è una scelta ribelle, e da centanni siamo buoni, ma sempre a modo nostro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B003VYYJPO{{</world>}}

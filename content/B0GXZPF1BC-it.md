@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Midea Friggitrice ad Aria Verticale Doppia Zona 10 in 1 11L 2400W'
-date: 2026-09-19 10:13:50
+date: 2026-09-24 13:10:37
 image: 'https://m.media-amazon.com/images/I/31ODqaKzNWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

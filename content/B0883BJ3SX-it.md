@@ -29,8 +29,8 @@ average: '31.55'
 ℹ️:
 
 - MATERIALE DI QUALITÀ: tubi compositi in legno e plastica di media densità di alta qualità.
-- DESIGN SEMPLICE ED ELEGANTE: tavolino a 3 livelli di piccole dimensioni adatto a piccoli spazi
 - CARATTERISTICA DI SICUREZZA AGGIUNTA: langolo arrotondato riduce il rischio di lesioni
+- DESIGN SEMPLICE ED ELEGANTE: tavolino a 3 livelli di piccole dimensioni adatto a piccoli spazi
 - Supporta fino a 4.5 kg per livello.
 - Dimensioni del prodotto: 34,04 (L) x 57,91 (A) x 29,21 (P) cm.
 

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'La Molisana Fusilli n. 28 Pasta da Solo Grano Italiano - Trafilata al Bronzo Ruvida e Tenace con Eccellente Tenuta in Cottura - Confezione da 500 g'
-date: 2026-09-12 13:40:38
-image: 'https://m.media-amazon.com/images/I/41Xh-xZOY+L._SL500_._SL400_.jpg'
+date: 2026-09-23 05:23:26
+image: 'https://m.media-amazon.com/images/I/41gJD0INW3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B00DIREC0Q/?tag=tolees00-21'
 descuento: '37.82'
-average: '0.783653846153845'
+average: '0.782037037037036'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

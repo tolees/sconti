@@ -28,11 +28,11 @@ average: '5.16'
 
 ℹ️:
 
-- Spina: 16A 2P+T
 - Tensione nominale: 250V
 - Lunghezza Cavo: 1,5 mt
-- 4 Prese Laterali: 10/16A 2P+T
 - 2 Prese Frontali: 10/16A 2P+T a Shuko
+- Spina: 16A 2P+T
+- 4 Prese Laterali: 10/16A 2P+T
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07NSYHC81{{</world>}}

@@ -28,8 +28,8 @@ average: '33.87'
 
 ℹ️:
 
-- Piscina decorata con personaggi dellacquario
 - Un prodotto facilmente lavabile
+- Piscina decorata con personaggi dellacquario
 - Un prodotto comodo, leggero, maneggevole e pratico
 - Ha un tappo di scarico per lacqua
 

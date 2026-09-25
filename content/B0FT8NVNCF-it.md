@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- PROFUMAZIONE – Fragranza iconica Zucchero a Velo, dolce e gourmand, per chi ama note avvolgenti e confortevoli
-- Il cofanetto Aquolina contiene tutto il necessario per una coccola durante e dopo la doccia. Due prodotti per profumare la pelle con dolcezza
 - Bagno doccia: avvolgente, deterge delicatamente la pelle regalando una piacevole sensazione di comfort e un profumo dolce e irresistibile di lunga durata
+- PROFUMAZIONE – Fragranza iconica Zucchero a Velo, dolce e gourmand, per chi ama note avvolgenti e confortevoli
 - Latte corpo: idratante e profumato, rende la tua pelle deliziosamente dolce e vellutata dopo ogni utilizzo
+- Il cofanetto Aquolina contiene tutto il necessario per una coccola durante e dopo la doccia. Due prodotti per profumare la pelle con dolcezza
 - Bagno doccia: applicare il prodotto sulla spugna o sulla mano e massaggiare fino alla formazione di una piacevole schiuma. Sciacquare abbondantemente. Latte corpo: applicare su tutto il corpo e massaggiare fino a completo assorbimento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

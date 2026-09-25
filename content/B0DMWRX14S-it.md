@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 35% Viscosa 35% Poliammide 30% Lana
-- Maglione
-- Ricamo
 - Scollo rotondo
+- Ricamo
+- Maglione
+- 35% Viscosa 35% Poliammide 30% Lana
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DMWRX14S{{</world>}}

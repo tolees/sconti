@@ -28,8 +28,8 @@ average: '33.18'
 
 ℹ️:
 
-- Dettagli del marchio PUMA
 - Con un design leggero
+- Dettagli del marchio PUMA
 - Offrono un comfort ottimale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

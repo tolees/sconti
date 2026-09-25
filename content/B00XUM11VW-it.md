@@ -28,11 +28,11 @@ average: '1.39'
 
 ℹ️:
 
-- CONSISTENZA - Soffice e morbida, una tenera nuvola al cacao!
-- LAGO GROUP - Da 50 anni, Lago realizza esclusivamente prodotti italiani, tra cui wafer, savoiardi, frollini e merendine, selezionando le materie prime in modo accurato. Dedicati una piacevole pausa, un incontro fatto di tante dolci emozioni.
 - SOFFICI, GOLOSE, IRRESISTIBILI - Assapora le nostre deliziose ciambelle: ottime a colazione, ma anche da portare sempre con sé per uno spuntino veloce.
 - CIAMBELLE AL CACAO - Morbide ciambelline fatte con farina di grano tenero e cacao magro.
 - GUSTO SPECIALE - Sapore dolce, profumo di cacao: la briochina che piace a grandi e piccini!
+- CONSISTENZA - Soffice e morbida, una tenera nuvola al cacao!
+- LAGO GROUP - Da 50 anni, Lago realizza esclusivamente prodotti italiani, tra cui wafer, savoiardi, frollini e merendine, selezionando le materie prime in modo accurato. Dedicati una piacevole pausa, un incontro fatto di tante dolci emozioni.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00XUM11VW{{</world>}}

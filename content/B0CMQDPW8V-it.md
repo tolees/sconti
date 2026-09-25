@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Long Sleeves
 - High Neck
+- Long Sleeves
 - Jacket
 - Care Label:
 - materialFabricComposition: 100% Polyester

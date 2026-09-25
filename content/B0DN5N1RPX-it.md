@@ -30,8 +30,8 @@ average: '14.38'
 
 - Struttura resistente per interni ed esterni – Con protezione IP54, è ideale per salotti, giardini o campeggio. Aggiunge un tocco moderno a ristoranti, bar e feste.
 - Illuminazione versatile per ogni momento – Goditi la libertà di una lampada da tavolo wireless con controllo touch. Scegli tra luce calda (3000K), naturale (4500K) e fredda (6000K) – perfetta per lavorare, rilassarsi o trascorrere piacevoli serate.
-- Lampada a batteria potente ed ecologica – Dotata di una batteria da 5200mAh e ricaricabile tramite porta USB-C in 5-6 ore. Offre fino a 40 ore di luce continua, per vivere ogni momento senza pensieri.
 - Design elegante e funzionale – La base in metallo stabile e antiscivolo assicura solidità e stile. Nessun cavo visibile: libertà e bellezza in ogni angolo della casa.
+- Lampada a batteria potente ed ecologica – Dotata di una batteria da 5200mAh e ricaricabile tramite porta USB-C in 5-6 ore. Offre fino a 40 ore di luce continua, per vivere ogni momento senza pensieri.
 - Luminosità regolabile su misura – Imposta la luce dal 10% al 100% in modo continuo. La funzione memoria ricorda le tue ultime impostazioni per un’atmosfera perfetta ogni volta.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ average: '6.36'
 ℹ️:
 
 - MODO D’USO: applicare il deodorante roll-on quotidianamente su pelle pulita e asciutta. Non utilizzare in caso di ipersensibilità a uno degli ingredienti
-- AZIONE MIRATA: agisce sui meccanismi della formazione degli odori senza alterare la traspirazione naturale, dona una sensazione di fresco senza lasciare aloni sui tessuti
-- PRECAUZIONI: applicare solo su cute integra, non irritata o lesionata. Dopo la depilazione attendere qualche ora prima dell’uso per evitare irritazioni cutanee
 - DEODORANTE 24H ROLL-ON: Dermafresh 24h Pelle Sensibile è un deodorante roll-on a efficacia extra delicata, made in Italy, efficace fino a 24 ore; specificamente formulato per pelli sensibili, facilmente irritabili o intolleranti ai comuni deodoranti
 - FORMULA DELICATA: formulato specificamente senza sali di alluminio è privo di alcol, conservanti, profumo e sali di alluminio; testato sui metalli pesanti (nichel, cromo, cobalto, cadmio, arsenico, piombo) per garantire la massima tollerabilità
+- AZIONE MIRATA: agisce sui meccanismi della formazione degli odori senza alterare la traspirazione naturale, dona una sensazione di fresco senza lasciare aloni sui tessuti
+- PRECAUZIONI: applicare solo su cute integra, non irritata o lesionata. Dopo la depilazione attendere qualche ora prima dell’uso per evitare irritazioni cutanee
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0G7ZWG5QT{{</world>}}

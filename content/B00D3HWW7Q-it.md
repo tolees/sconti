@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Acutil Fosforo Advance Integratore Alimentare con Vitamina B6 L-Asparagina Fosfoserina e L-Glutammina Contribuisce a Rimanere Concentrati e a Ragionare con la Giusta Lucidità 50 Compresse'
-date: 2026-09-20 10:03:03
+date: 2026-09-25 18:09:52
 image: 'https://m.media-amazon.com/images/I/317dOPKTt1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B00D3HWW7Q/?tag=tolees00-21'
 descuento: '30.80'
-average: '11.0696666666667'
+average: '11.1346875'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

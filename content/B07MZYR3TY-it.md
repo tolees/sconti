@@ -28,12 +28,12 @@ average: '25.1894444444443'
 
 ℹ️:
 
-- Visita il sito Nestlé per scoprire come le nostre marche sono scese in campo e contribuiscono al raggiungimento degli obiettivi di sostenibilità del Gruppo Nestlé con progetti concreti
-- Miscela ispirata alla tradizione italiana del caffè, caffè torrefatto e macinato
-- Caffè Espresso Napoli da gustare in tazza corta, intensità 13/13
-- Capsule compatibili con macchina per caffè espresso e altre bevande NESCAFÉ DOLCE GUSTO
 - Capsule originali per macchine NESCAFÉ DOLCE GUSTO
 - 6 confezioni da 16 capsule: 96 capsule totali
+- Caffè Espresso Napoli da gustare in tazza corta, intensità 13/13
+- Capsule compatibili con macchina per caffè espresso e altre bevande NESCAFÉ DOLCE GUSTO
+- Miscela ispirata alla tradizione italiana del caffè, caffè torrefatto e macinato
+- Visita il sito Nestlé per scoprire come le nostre marche sono scese in campo e contribuiscono al raggiungimento degli obiettivi di sostenibilità del Gruppo Nestlé con progetti concreti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07MZYR3TY{{</world>}}

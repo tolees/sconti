@@ -28,12 +28,12 @@ average: '37.0'
 
 ℹ️:
 
+- Apparecchio da soffitto con tecnologia LED avanzata
 - Questo prodotto è un apparato di illuminazione che può essere smontato per controllare separatamente le fonti di illuminazione presenti al suo interno
 - Emissione luminosa omogenea
+- Disponibile in forma quadrata e rettangolare
 - Corpo in alluminio, diffusore in PMMA smerigliato
 - Temperatura di colore: 3.000 K
-- Disponibile in forma quadrata e rettangolare
-- Apparecchio da soffitto con tecnologia LED avanzata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08KGB39LY{{</world>}}

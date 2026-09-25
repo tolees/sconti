@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Alimento umido, completo ed equilibrato, per cani adulti di taglia media e grande (>11 kg) a partire dai 12 mesi di vita
-- con Manzo
 - Senza coloranti e conservanti aggiunti
+- Alimento umido, completo ed equilibrato, per cani adulti di taglia media e grande (>11 kg) a partire dai 12 mesi di vita
 - Con Ingredienti naturali
+- con Manzo
 - Contiene tutti i nutrienti essenziali di cui ha bisogno il tuo cucciolo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

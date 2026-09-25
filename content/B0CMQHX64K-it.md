@@ -31,8 +31,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 - Realizzato in materiale resistente
 - Vestibilità comoda
 - Dettagli del marchio
-- Composizione materiale: 100% poliestere rivestito in poliuretano
 - Maniche lunghe
+- Composizione materiale: 100% poliestere rivestito in poliuretano
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CMQHX64K{{</world>}}

@@ -28,13 +28,13 @@ average: '56.3266666666667'
 
 ℹ️:
 
-- Tecnologia schermo: LCD
-- Funzionale: include vesa fdmi (mis-d 75/75) per lutilizzo con un braccio per display; una dimensione funzionale che non occupa spazio: 311 x 201.6 x 55.5
 - Anti-scivolo: la base anti-scivolo mantiene stabile il display interattivo con penna durante luso
-- Compatibilità: display interattivi con penna wacom cintiq 16 dtk1660k0a e wacom dtk-1651
-- Contenuto della confezione: supporto, piastra adattatrice (per convertire da vesa a spaziatura proprietaria wacom), 4 viti vesa corte, 4 viti wacom corte, 2 cuscinetti (uno a destra, uno a sinistra)
 - Tecnologia di connettività: USB
+- Funzionale: include vesa fdmi (mis-d 75/75) per lutilizzo con un braccio per display; una dimensione funzionale che non occupa spazio: 311 x 201.6 x 55.5
+- Compatibilità: display interattivi con penna wacom cintiq 16 dtk1660k0a e wacom dtk-1651
 - Comfort zone: una varietà di angolazioni, da 19° a 68°, per fornirti ancora più versatilità ed ergonomia quando crei
+- Tecnologia schermo: LCD
+- Contenuto della confezione: supporto, piastra adattatrice (per convertire da vesa a spaziatura proprietaria wacom), 4 viti vesa corte, 4 viti wacom corte, 2 cuscinetti (uno a destra, uno a sinistra)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01JOGVCAM{{</world>}}

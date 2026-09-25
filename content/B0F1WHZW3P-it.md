@@ -28,10 +28,10 @@ average: '699.45'
 
 ℹ️:
 
-- Smart TV VIDAA U8 con +1000 APP
-- Smart TV 4K 85", Risoluzione 3840x2160
 - Audio DTS Virtual X con Bluetooth
+- Smart TV VIDAA U8 con +1000 APP
 - Dolby Vision / HDR 10+ / HLG
+- Smart TV 4K 85", Risoluzione 3840x2160
 - AirPlay2 + Android Screen Sharing
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

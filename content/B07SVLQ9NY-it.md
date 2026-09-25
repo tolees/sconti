@@ -29,9 +29,9 @@ average: '11.0'
 ℹ️:
 
 - Ottimale per le installazioni decorative
-- Ampiezza del fascio luminoso: fino a 360°
-- Flusso luminoso immediato, senza tempi di preaccensione
 - Può essere montata facilmente al posto delle lampadine tradizionali
+- Flusso luminoso immediato, senza tempi di preaccensione
+- Ampiezza del fascio luminoso: fino a 360°
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07SVLQ9NY{{</world>}}

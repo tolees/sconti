@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Chilly Deodorante Intimo con Antibatterico Azione Protettiva Contro i Cattivi Odori Fragranza Floreale Dona Freschezza e Igiene Intima pH 5 Ideale per Uso Quotidiano 50 ml'
-date: 2026-09-14 13:57:41
+date: 2026-09-25 09:07:17
 image: 'https://m.media-amazon.com/images/I/31r2gszPRvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

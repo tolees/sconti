@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Migliora le prestazioni di HyperSmooth per offrire una stabilizzazione video incredibile in tutte le modalità video fino a 4K60
-- Aumenta il campo visivo di HERO13 Black fino a 177° (più ampio del 36% e più alto del 48%)1
 - Il formato 1:1 offre la flessibilità di ritagliare le riprese in formato widescreen 16:9 o verticale 9:16 in post-produzione
-- Compatibilità: Fotocamera HERO13 Black
 - In dotazione: Mod per obiettivo ultra-grandangolare, Copriobiettivi anteriori e posteriori, Panno in microfibra per lenti
+- Compatibilità: Fotocamera HERO13 Black
+- Aumenta il campo visivo di HERO13 Black fino a 177° (più ampio del 36% e più alto del 48%)1
+- Migliora le prestazioni di HyperSmooth per offrire una stabilizzazione video incredibile in tutte le modalità video fino a 4K60
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DCLL5DV4{{</world>}}

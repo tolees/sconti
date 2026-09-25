@@ -28,11 +28,11 @@ average: '4.9'
 
 ℹ️:
 
-- Prodotto: un ombretto dalla texture morbida e sensoriale e dal colore intenso e super pigmentato, per risultati eccezionali fino a 12 ore.
-- Contenuto: n.1 Ombretto Occhi Color Lover, Colore: Super Gold
 - Effetto: colore intenso e immediato
 - Applicazione: massima sfumabilità, coprenza e comfort
+- Contenuto: n.1 Ombretto Occhi Color Lover, Colore: Super Gold
 - Formula: cream-to-powder, leggera sulla palpebra e arricchita con un mix di oli preziosi
+- Prodotto: un ombretto dalla texture morbida e sensoriale e dal colore intenso e super pigmentato, per risultati eccezionali fino a 12 ore.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BQRRKDK7{{</world>}}

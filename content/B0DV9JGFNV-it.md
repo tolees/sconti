@@ -28,11 +28,11 @@ average: '129.99'
 
 ℹ️:
 
-- Frequenza di Aggiornamento 100Hz, Tempo di Risposta 4ms (GtG), Eye Saver Mode, Flicker Free, Game Mode
+- Contenuto: 1x Samsung Monitor S39GD 27, Include cavo di alimentazion e cavo HDMI, Dimensioni con base (LxAxP): 61,78 x 46,87 x 25,07 cm
 - 1 HDMI, 1 D-Sub, Ingresso Audio, Speaker Integrati
 - Samsung Monitor S39GD, 27, Curvo (1800R)
-- Contenuto: 1x Samsung Monitor S39GD 27, Include cavo di alimentazion e cavo HDMI, Dimensioni con base (LxAxP): 61,78 x 46,87 x 25,07 cm
 - 1920x1080 (Full HD), 16:9
+- Frequenza di Aggiornamento 100Hz, Tempo di Risposta 4ms (GtG), Eye Saver Mode, Flicker Free, Game Mode
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DV9JGFNV{{</world>}}

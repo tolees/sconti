@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gillette Lamette Fusion 5 12 Cartucce per Rasoio Barba Uomo Multicolore'
-date: 2026-09-11 19:09:39
+date: 2026-09-20 19:35:09
 image: 'https://m.media-amazon.com/images/I/41ZitMSVL8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ '🇮🇹', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99
-comparePrice: 47.85 EUR
+comparePrice: 46.26 EUR
 prodname: 'Gillette Lamette Fusion 5 12 Cartucce per Rasoio Barba Uomo Multicolore'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0DT47DZ6Y/?tag=tolees00-21'
-descuento: '31.06'
-average: '31.2369999999999'
+descuento: '28.69'
+average: '31.3963636363635'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

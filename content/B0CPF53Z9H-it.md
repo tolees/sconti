@@ -28,9 +28,9 @@ average: '21.99'
 
 ℹ️:
 
-- Applica il trattamento pre-shampoo decalcificante sui capelli bagnati e lascia agire per 5 minuti. Non risciacquare. Usa poi lo shampoo Bain Décalcifiant Réparateur in sovrapposizione massaggiandolo e poi risciacqua accuratamente. Completa la routine con il balsamo o la maschera.
-- I capelli risultano riparati in profondità ripristinando il 99% della loro forza originaria, aumentando lucentezza e morbidezza.
 - Il Concentré Réparateur è un trattamento senza risciacquo concentrato di Acido Citrico e Glicina adatto a tutti i tipi di capelli danneggiati. Grazie alla sua formula, elimina leccesso di calcio responsabile della rottura e aiuta a riparare i legami rotti tra le catene di cheratina.
+- I capelli risultano riparati in profondità ripristinando il 99% della loro forza originaria, aumentando lucentezza e morbidezza.
+- Applica il trattamento pre-shampoo decalcificante sui capelli bagnati e lascia agire per 5 minuti. Non risciacquare. Usa poi lo shampoo Bain Décalcifiant Réparateur in sovrapposizione massaggiandolo e poi risciacqua accuratamente. Completa la routine con il balsamo o la maschera.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CPF53Z9H{{</world>}}

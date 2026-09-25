@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Marca: REUSCH
 - Istruzioni per la cura: lavabile in lavatrice
+- Marca: REUSCH
 - Materiale ottimale
 - Alta qualità
 

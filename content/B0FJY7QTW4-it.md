@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'KITKAT Caramello Salato Tavoletta Wafer ricoperta di Cioccolato 99g'
-date: 2026-05-08 20:39:00
-image: 'https://m.media-amazon.com/images/I/41gVFEwbXkL._SL500_._SL400_.jpg'
+date: 2026-09-24 15:03:22
+image: 'https://m.media-amazon.com/images/I/411wZYB5apL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0FJY7QTW4/?tag=tolees00-21'
 descuento: '30.18'
-average: '2.19'
+average: '2.15'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,11 +28,6 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- KitKat è parte di un programma innovativo, lIncome Accelerator Program, che aiuta a distribuire circa 1 milione di piante allanno in Costa dAvorio per supportare la biodiversità nelle coltivazioni di cacao
-- Visita il sito Nestlé per scoprire il percorso di sostenibilità del nostro Gruppo.
-- Confezione singola da 99g
-- Break better con KitKat: le nuove tavolette dal cuore cremoso e dall’effetto marmorizzato sono pensate per una pausa più lunga, da gustare a casa, da soli davanti a una serie o in compagnia durante un momento conviviale
-- KITKAT Tablets Caramello Salato: una tavoletta di wafer croccante e un irresistibile gusto di caramello salato, il tutto avvolto da una copertura dalleffetto variegato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FJY7QTW4{{</world>}}

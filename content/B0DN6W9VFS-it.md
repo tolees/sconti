@@ -29,10 +29,10 @@ average: '13.6'
 ℹ️:
 
 - Il nostro obiettivo principale è la soddisfazione del cliente
-- Scopri la nostra gamma completa di prodotti.
 - Indicato su capelli capelli naturali e colorati con toni scuri (livello 3/4/5)
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
 - hair type: secchi
+- Scopri la nostra gamma completa di prodotti.
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DN6W9VFS{{</world>}}

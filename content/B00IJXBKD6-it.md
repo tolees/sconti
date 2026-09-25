@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Profilo rettangolare in legno
 - Dotato con un passepartout
 - Disponibile in molti colori e formati
-- Profilo rettangolare in legno
 - Con una superficie rugosa de segare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ average: '779.0'
 
 ℹ️:
 
-- ZOOM VERSATILE: L’obiettivo zoom da 18-50 mm ti permette di passare facilmente da ampi paesaggi a dettagli architettonici ravvicinati e a ritratti dall’aspetto naturale.
 - IL SOGGETTO A FUOCO: La funzione Real Time Eye AF blocca istantaneamente la messa a fuoco su persone e animali, garantendo che i tuoi scatti e i tuoi video siano sempre nitidi e chiari.
-- DECISIONE IMMEDIATA: Mantieni nitidi i soggetti in movimento grazie alla modalità scatto continuo, perfetta per immortalare scene di strada spontanee o momenti d’azione inaspettati.
-- COLORI CREATIVI UNIFICATI: utilizza 10 preset "Creative Look" integrati (come FL, IN o SH) nelle modalità foto e video per dare a tutta la tua galleria di viaggio unatmosfera cinematografica uniforme direttamente dalla fotocamera, senza editing
 - LA MIGLIORE FOTOCAMERA IBRIDA TASCABILE: questa potente fotocamera compatta “all in one” ti permette di passare facilmente dalla registrazione dei tuoi viaggi con video 4K alla realizzazione di fotografie ad alta fedeltà, migliorando notevolmente la qualità della tua galleria di viaggio rispetto a quella ottenibile con uno smartphone.
+- COLORI CREATIVI UNIFICATI: utilizza 10 preset "Creative Look" integrati (come FL, IN o SH) nelle modalità foto e video per dare a tutta la tua galleria di viaggio unatmosfera cinematografica uniforme direttamente dalla fotocamera, senza editing
+- DECISIONE IMMEDIATA: Mantieni nitidi i soggetti in movimento grazie alla modalità scatto continuo, perfetta per immortalare scene di strada spontanee o momenti d’azione inaspettati.
+- ZOOM VERSATILE: L’obiettivo zoom da 18-50 mm ti permette di passare facilmente da ampi paesaggi a dettagli architettonici ravvicinati e a ritratti dall’aspetto naturale.
 - WORKFLOW OTTIMIZZATO PER DISPOSITIVI MOBILI: usa Creators’ App di Sony per trasferire rapidamente le tue foto e i tuoi video di livello professionale sul tuo telefono cellulare, per un editing e una condivisione senza interruzioni.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

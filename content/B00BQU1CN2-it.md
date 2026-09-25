@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Capacità e prestazioni: Volume utile 9 litri, potenza 2200W; tempo di riscaldamento circa 22 minuti
 - Componenti funzionali: Rubinetto antigoccia, indicatore livello acqua in vetro e vaschetta raccogligocce con griglia inox
 - Struttura isolata: Doppia parete in acciaio inox che riduce la dispersione di calore
+- Capacità e prestazioni: Volume utile 9 litri, potenza 2200W; tempo di riscaldamento circa 22 minuti
 - Uso previsto: Indicato per acqua, tè o vin brulé; non adatto a cioccolata calda o bevande dense
 - Controllo termico: Termostato regolabile fino a 110°C per mantenimento stabile della temperatura
 

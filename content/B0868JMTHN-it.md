@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- MAGLIONE CON SCOLLO A BARCHETTA: un modello moderno e classico da indossare a strati, perfetto per look eleganti e anche casual.
 - DETTAGLI: presenta un classico scollo a barchetta e maniche lunghe e slim, per uno stile casual e disinvolto.
+- MAGLIONE CON SCOLLO A BARCHETTA: un modello moderno e classico da indossare a strati, perfetto per look eleganti e anche casual.
 - MAGLIONE A COSTINE A MAGLIA FINE IN MISTO COTONE: morbido maglione a maglia fine e leggero, con un bellissimo drappeggio e texture a costine.
 - VESTIBILITÀ ADERENTE: vestibilità aderente che abbraccia il corpo.
 

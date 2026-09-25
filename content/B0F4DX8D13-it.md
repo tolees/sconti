@@ -28,11 +28,11 @@ average: '17.37'
 
 ℹ️:
 
-- Dimensioni: 33,5 x 69 cm
 - Tessuto a tela resistente
-- Primo Tessuto: 100% Poliestere(100% Riciclato) / Fodera: 100% Poliestere(100% Riciclato) / Imbottitura: 100% Polietilenica
 - Capacità: 83,6 l
 - Chiusura con zip
+- Primo Tessuto: 100% Poliestere(100% Riciclato) / Fodera: 100% Poliestere(100% Riciclato) / Imbottitura: 100% Polietilenica
+- Dimensioni: 33,5 x 69 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F4DX8D13{{</world>}}

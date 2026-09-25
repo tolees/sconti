@@ -28,9 +28,9 @@ average: '46.99'
 
 ℹ️:
 
-- Memory Foam
 - Slip-in
 - Memory foam raffreddato ad aria
+- Memory Foam
 - Ultra Go
 - Lavabile in lavatrice
 

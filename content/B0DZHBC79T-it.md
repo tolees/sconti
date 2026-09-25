@@ -28,12 +28,12 @@ average: '14.26'
 
 ℹ️:
 
-- ["Shampoo antiforfora Pulizia Profonda Antiprurito, con menta piperita"
 - Shampoo indicato per uomini e donne che soffrono di prurito e di cute e capelli grassi
-- Shampoo e flacone trasparenti per una nuova sensazione di pulizia profonda e rinfrescante
-- Questa formula non contiene siliconi, ha un PH bilanciato e contiene antiossidanti
 - Visita il sito it.pg.com per la composizione della confezione e le modalità di smaltimento]
 - La bottiglia è realizzata al 100% con plastica riciclata (tranne tappo e inchiostri) ed è riciclabile (tranne il tappo e a seconda delle disposizioni per la raccolta differenziata)
+- Questa formula non contiene siliconi, ha un PH bilanciato e contiene antiossidanti
+- ["Shampoo antiforfora Pulizia Profonda Antiprurito, con menta piperita"
+- Shampoo e flacone trasparenti per una nuova sensazione di pulizia profonda e rinfrescante
 - Fino al 100% liberi dalla forfora (forfora visibile, con uso regolare)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Risolvi enigmi e svela misteri: Addentrati in un mondo di mistero e intrighi, dove l’ingegno e la pianificazione strategica sono fondamentali per avere successo in avventure uniche e mozzafiato con scenari ramificati, ora arricchite da nuove sfide e segreti nascosti
-- Scatena il terrore a Gravenville: Esplora 11 ambientazioni ampie e uniche, tra cui il manicomio della città, la base militare, le case delle confraternite e la stazione di polizia, ora con nuovi ambienti e texture dettagliate
-- Comanda un esercito di spettri: Sfrutta il potere di evocare e controllare una varietà di spettri lugubri, banshee urlanti e astuti gremlin, ognuno con le proprie abilità e punti di forza unici, ora con grafica migliorata e un’intelligenza artificiale potenziata
-- Versione fisica con 4 DLC: Include quattro contenuti aggiuntivi per un’esperienza di gioco più completa: DLC 1 – Until Dawn, DLC 2 – Ghosts Adrift, DLC 3 – Ghostly Defence, DLC 4 – Ashes & Abyss
 - Vivi un’emozionante combinazione di strategia, avventura e gestione delle risorse: Combina il meglio dei giochi di strategia, avventura e gestione delle risorse in una trama coerente e in un mondo virtuale completo, ora con nuove meccaniche di gioco e contenuti inediti
+- Versione fisica con 4 DLC: Include quattro contenuti aggiuntivi per un’esperienza di gioco più completa: DLC 1 – Until Dawn, DLC 2 – Ghosts Adrift, DLC 3 – Ghostly Defence, DLC 4 – Ashes & Abyss
+- Comanda un esercito di spettri: Sfrutta il potere di evocare e controllare una varietà di spettri lugubri, banshee urlanti e astuti gremlin, ognuno con le proprie abilità e punti di forza unici, ora con grafica migliorata e un’intelligenza artificiale potenziata
+- Scatena il terrore a Gravenville: Esplora 11 ambientazioni ampie e uniche, tra cui il manicomio della città, la base militare, le case delle confraternite e la stazione di polizia, ora con nuovi ambienti e texture dettagliate
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0G2CYHWWD{{</world>}}

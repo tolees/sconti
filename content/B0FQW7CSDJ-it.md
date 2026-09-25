@@ -28,12 +28,12 @@ average: '12.8066666666667'
 
 ℹ️:
 
-- Fonte di Calcio e Vitamina D E B1. Senza glutine, senza lattosio e senza coloranti
 - IL NIDO CHE CONDIVIDIAMO racchiude limpegno del Gruppo Nestlé. Ramo dopo ramo, ogni iniziativa di sostenibilità contribuisce a diffondere il Buono. Scopri di più sul sito Nestlé.
-- Pratica confezione monoporzione in Tetra Pak da portare dove vuoi tu. Include una comoda cannuccia in carta
-- Agita il brick prima di gustare. Buono sia freddo che caldo (scaldare senza portare ad ebollizione)
-- NESQUIK PRONTO DA BERE SENZA LATTOSIO è una bevanda a base di latte 100% italiano e con cacao magro; Senza lattosio
 - Confezione da 24 brick da 180ml ciascuno (4,32L totali)
+- Agita il brick prima di gustare. Buono sia freddo che caldo (scaldare senza portare ad ebollizione)
+- Fonte di Calcio e Vitamina D E B1. Senza glutine, senza lattosio e senza coloranti
+- Pratica confezione monoporzione in Tetra Pak da portare dove vuoi tu. Include una comoda cannuccia in carta
+- NESQUIK PRONTO DA BERE SENZA LATTOSIO è una bevanda a base di latte 100% italiano e con cacao magro; Senza lattosio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FQW7CSDJ{{</world>}}

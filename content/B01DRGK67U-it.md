@@ -28,8 +28,8 @@ average: '11.43'
 
 ℹ️:
 
-- Profondità mm 76
 - Apertura mm 300
+- Profondità mm 76
 - Pressione di serraggio kg 45
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

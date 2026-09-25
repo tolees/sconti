@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Sensore "Tap-to-Mute"
 - Indicatori a LED per lo stato del microfono
 - Display con luminosità dinamica;Versatile manopola multifunzione;Quattro pattern polari selezionabili;Software HyperX NGENUITY
 - Supporto antiurto rimovibile riprogettato
+- Sensore "Tap-to-Mute"
 - Audio a prova di futuro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

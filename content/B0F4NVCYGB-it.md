@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Questo stile è stato prodotto in modo sostenibile
 - Questo è un prodotto originale e autentico Calvin Klein
+- Questo stile è stato prodotto in modo sostenibile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F4NVCYGB{{</world>}}

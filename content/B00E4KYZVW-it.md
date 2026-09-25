@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- FORMATO: Confezione da 3 Pipette per cani di taglia S, con un peso compreso tra 2 e 10 kg
 - FRONTLINE Combo Cani Taglia S (2-10 Kg). TRATTAMENTO OTTIMALE: elimina in modo rapido e duraturo pulci, zecche, pidocchi nei cani; protegge anche l’ambiente in cui vivono ed evita nuove infestazioni
 - FACILE E PRATICO DA USARE: Aprire i peli alla base del collo, sul dorso dellanimale, tra le scapole, e mettere in evidenza la pelle; porre lapice della pipetta sulla pelle e schiacciare la pipetta fino a completo svuotamento, in un punto, direttamente sulla pelle
-- FORMATO: Confezione da 3 Pipette per cani di taglia S, con un peso compreso tra 2 e 10 kg
-- DURATA: ununica applicazione protegge per 1 mese
 - DATA SCADENZA E ULTERIORI DETTAGLI: Scadenza riportata al lato della confezione; e ben tollerato da adulti e da cuccioli dalle 8 settimane di vita o peso superiore a 2 Kg; il prodotto può essere utilizzato dalla cagna sia durante la gravidanza che nel periodo dellallattamento; per ogni ulteriore informazione consultare le indicazioni riportate sulla scatola
+- DURATA: ununica applicazione protegge per 1 mese
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00E4KYZVW{{</world>}}

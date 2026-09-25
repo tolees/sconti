@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Prodotto di ottima qualita
 - Zero conservanti
-- Zero coloranti
 - 1 Bicchiere= 60% VNR di vitamina C
+- Zero coloranti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00XUQYI8G{{</world>}}

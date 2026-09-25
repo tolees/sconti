@@ -28,11 +28,11 @@ average: '1.71'
 
 ℹ️:
 
-- Ideale con le Mezze Maniche, il Sugo alla Contadino Barilla è pronto da versare direttamente sulla pasta appena scolata. Per esaltare profumo e sapore degli ingredienti si consiglia di scaldarlo a fuoco lento o nel microonde, dopo aver aperto il vasetto. Confezione da 300g.
-- FATTO CON - Carne suina e Salsiccia italiana,Pomodori italiani,Arricchito con vino rosso. Senza Glutine
+- Scopri il nostro ragù Contadino, con carne suina 100% Italiana. Un delizioso soffritto arricchito con vino rosso e gustosa carne i pezzi grandi, cotta lentamente, per un’esperienza imperdibile!
 - BARILLA - Unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
 - Da sempre Barilla porta in tavola la gioia del buon cibo da condividere con chi ami. I nostri sughi rendono il tuo pasto ricco di gusto e contribuiscono a una dieta equilibrata
-- Scopri il nostro ragù Contadino, con carne suina 100% Italiana. Un delizioso soffritto arricchito con vino rosso e gustosa carne i pezzi grandi, cotta lentamente, per un’esperienza imperdibile!
+- Ideale con le Mezze Maniche, il Sugo alla Contadino Barilla è pronto da versare direttamente sulla pasta appena scolata. Per esaltare profumo e sapore degli ingredienti si consiglia di scaldarlo a fuoco lento o nel microonde, dopo aver aperto il vasetto. Confezione da 300g.
+- FATTO CON - Carne suina e Salsiccia italiana,Pomodori italiani,Arricchito con vino rosso. Senza Glutine
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D75ZLDXF{{</world>}}

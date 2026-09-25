@@ -28,11 +28,11 @@ average: '24.99'
 
 ℹ️:
 
-- Divertiti con combattimenti in prima persona con dieci armi e ben venti tipi di nemici
-- Nei combattimenti è possibile fare a pugni, utilizzare mine esplosive, detonatori termici, bombe e armi di altro tipo
-- Il rendering avanzato in 3D introduce nuovi effetti luminosi e ambientali
 - Accesso alla “cassaforte”. Goditi una collezione esclusiva di contenuti tratti dalla fase di sviluppo e di elementi di gioco che testimoniano la lunga storia di questo titolo iconico
 - Approfitta di una varietà di potenziamenti per livello di salute, scudi, armi e munizioni
+- Il rendering avanzato in 3D introduce nuovi effetti luminosi e ambientali
+- Nei combattimenti è possibile fare a pugni, utilizzare mine esplosive, detonatori termici, bombe e armi di altro tipo
+- Divertiti con combattimenti in prima persona con dieci armi e ben venti tipi di nemici
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0G3CG3SRQ{{</world>}}

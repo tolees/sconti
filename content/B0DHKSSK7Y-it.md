@@ -28,11 +28,11 @@ average: '75.02'
 
 ℹ️:
 
-- Cosa è incluso: il set include 1 vassoio, 1 maniglia a U, 1 piastra di collegamento, 1 manicotto dellasse, 1 interruttore, 2 gambe, 2 ruote, 1 asse lungo, 1 asse corto, viti (820) x 8, viti (845) x 4, rondelle x 2 e coppiglie x 4.
 - Il tuo compagno di giardinaggio: questo carrello da giardino ergonomico è dotato di una maniglia imbottita ad anello per un facile controllo e bilanciamento. Il design brevettato del cassone consente uno scarico rapido.
+- Cosa è incluso: il set include 1 vassoio, 1 maniglia a U, 1 piastra di collegamento, 1 manicotto dellasse, 1 interruttore, 2 gambe, 2 ruote, 1 asse lungo, 1 asse corto, viti (820) x 8, viti (845) x 4, rondelle x 2 e coppiglie x 4.
 - Costruzione durevole: Costruito con un telaio in metallo resistente e un vassoio in plastica PP resistente, questo carrello per carriola resiste a deformazioni e crepe. Le ruote in schiuma solida PU sono resistenti allusura.
-- Facile da montare e riporre: viene fornito con istruzioni di montaggio dettagliate e richiede solo utensili di base (chiave inglese e cacciavite non inclusi). La carriola a 2 ruote è dotata di una maniglia a forma di U che consente di riporla facilmente a parete.
 - Vassoio di grande capacità: con una spaziosa capacità di 5 piedi cubi, questo carrello carriola può contenere fino a 397 libbre (120-150 kg consigliati per prestazioni ottimali). Lampia base assicura una distribuzione uniforme del peso.
+- Facile da montare e riporre: viene fornito con istruzioni di montaggio dettagliate e richiede solo utensili di base (chiave inglese e cacciavite non inclusi). La carriola a 2 ruote è dotata di una maniglia a forma di U che consente di riporla facilmente a parete.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DHKSSK7Y{{</world>}}

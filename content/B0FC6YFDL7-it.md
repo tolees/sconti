@@ -29,10 +29,10 @@ average: '69.99'
 ℹ️:
 
 - Dotazione: EasyImpact 18V-38, 1 batteria da 2,5 Ah, caricabatteria AL 18V-20, custodia per il trasporto
-- POWER FOR ALL ALLIANCE: 1 BATTERIA, 10+ MARCHI, ​150+ PRODOTTI
-- Ingranaggi a 2 velocità e 20 posizioni di regolazione della coppia: per una potenza e velocità ottimali per qualsiasi applicazione
 - La linea Easy Bosch – un aiuto semplice per tutti i tuoi progetti
 - Versatile mandrino ad azione rapida da 10 mm: per passare agevolmente dalle punte ai bit e viceversa
+- Ingranaggi a 2 velocità e 20 posizioni di regolazione della coppia: per una potenza e velocità ottimali per qualsiasi applicazione
+- POWER FOR ALL ALLIANCE: 1 BATTERIA, 10+ MARCHI, ​150+ PRODOTTI
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FC6YFDL7{{</world>}}

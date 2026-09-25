@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Vestibilità sottile
 - Tessuto elasticizzato
+- Vestibilità sottile
 - Camicia da uomo in standard della marca danese Jack & Jones
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

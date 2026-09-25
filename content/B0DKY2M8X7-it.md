@@ -28,14 +28,14 @@ average: '63.04'
 
 ℹ️:
 
-- Composizione: 92% poliestere riciclato (PET)
 - Resistente allacqua
-- Stemmi
 - 8% elastan
-- Antivento
-- Senza PFC
-- Occhielli di aerazione
 - Chiusura con zip
+- Composizione: 92% poliestere riciclato (PET)
+- Occhielli di aerazione
+- Senza PFC
+- Stemmi
+- Antivento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DKY2M8X7{{</world>}}

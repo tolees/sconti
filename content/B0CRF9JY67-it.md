@@ -28,11 +28,11 @@ average: '37.5'
 
 ℹ️:
 
-- Composizione: 77% cotone 21% poliestere 2% elastane
-- Istruzioni di lavaggio: lavabile in lavatrice
-- Vestibilità normale
 - Chiusura: cerniera e bottone
+- Vestibilità normale
+- Istruzioni di lavaggio: lavabile in lavatrice
 - Jeans, pantaloni, lunghi
+- Composizione: 77% cotone 21% poliestere 2% elastane
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CRF9JY67{{</world>}}

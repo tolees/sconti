@@ -28,11 +28,11 @@ average: '20.4933333333333'
 
 ℹ️:
 
-- Occhiali da sole polarizzati: Riduce i riflessi superficiali e la stanchezza oculare e offre nitidezza e contrasti superiori; Occhiali da sole categoria filtro 3, colorazione sufficientemente scura per ambienti esterni con luce diretta del sole; Assorbono tra l82% e il 92% della luce solare; Materiale lenti: Lenti fabbricate in materiale bio tac polarizzato; Protezione 100% UV; Colore lenti: Nero; Aspetto lenti: Solide
 - Materiale montatura: Metallo, TR90; Colore montatura: Nero, Argento; Colore asta: Argento
 - Grazie ai naselli in silicone antiscivolo questo modello è la scelta perfetta per chi ama il comfort; Occhiali da sole rotondi di design cosmopolita con montatura leggera e lenti polarizzate nere
-- Original Hawkers product; Package includes microfiber pouch and box
+- Occhiali da sole polarizzati: Riduce i riflessi superficiali e la stanchezza oculare e offre nitidezza e contrasti superiori; Occhiali da sole categoria filtro 3, colorazione sufficientemente scura per ambienti esterni con luce diretta del sole; Assorbono tra l82% e il 92% della luce solare; Materiale lenti: Lenti fabbricate in materiale bio tac polarizzato; Protezione 100% UV; Colore lenti: Nero; Aspetto lenti: Solide
 - Modello unisex; Misure: Frontale 140 mm, Asti 145 mm, Ponte 22.5 mm, Altezza 49.3 mm
+- Original Hawkers product; Package includes microfiber pouch and box
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BFX6QZP7{{</world>}}

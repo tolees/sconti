@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Ogni candela grande è inserita nella classica giara di vetro con coperchio per preservare e contenere la fragranza
 - Durata della candela: da 110 a 150 ore di piacevole profumazione
-- Stoppini in cotone 100% senza piombo raddrizzati e centrati per una combustione uniforme
-- Ingredienti scelti e cera di alta qualità garantiscono un aroma chiarao e costante che riempie tutta la stanza
+- Ogni candela grande è inserita nella classica giara di vetro con coperchio per preservare e contenere la fragranza
 - Cotone asciugato al sole con note verdi e fiori bianchi, e un accenno di limone
+- Ingredienti scelti e cera di alta qualità garantiscono un aroma chiarao e costante che riempie tutta la stanza
+- Stoppini in cotone 100% senza piombo raddrizzati e centrati per una combustione uniforme
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00W8NNH34{{</world>}}

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Per chi ama il vintage: abbiamo scelto la tintura in capo per donare un irresistibile effetto vissuto
 - Vestibilità comoda
+- Per chi ama il vintage: abbiamo scelto la tintura in capo per donare un irresistibile effetto vissuto
 - Una felpa con cappuccio di ispirazione vintage
 - Con cappuccio con coulisse
 

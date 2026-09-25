@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Capacità totale: 2.3 L - Acqua filtrata: 1.2 L
+- Made in Italy
+- Colore: Azzurro
 - Sportello per il riempimento rapido "QuickFill"
 - Contenuto confezione: 1 Caraffa + 1 cartuccia filtrante Bi-flux
-- Colore: Azzurro
-- Made in Italy
-- Coperchio e hopper caraffa colorati
 - Indicatore elettronico rimovibile
+- Coperchio e hopper caraffa colorati
+- Capacità totale: 2.3 L - Acqua filtrata: 1.2 L
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B006HXD06K{{</world>}}

@@ -28,8 +28,8 @@ average: '35.1'
 
 ℹ️:
 
-- Efficacia clinicamente testata su 32 volontari
 - EFFETTO NUOVA PELLE IMMEDIATO +23% Luminosità della pelle +19% Luminosità dell’incarnato +25% Grana della pelle levigata
+- Efficacia clinicamente testata su 32 volontari
 - Risultati confermati dalle donne (2) 97% la pelle è come rigenerata 97% la pelle è più tonica e compatta 94% i segni di stanchezza sono attenuati, la pelle appare più giovane (2)Test di autovalutazione dopo 6 settimane, 1-3 applicazioni a settimana, % di soddisfazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

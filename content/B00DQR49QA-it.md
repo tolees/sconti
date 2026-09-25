@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Valdo Marca Oro Valdobbiadene Prosecco Superiore DOCG 750 ml x 6'
-date: 2026-05-25 18:19:37
+date: 2026-09-22 08:31:53
 image: 'https://m.media-amazon.com/images/I/41rxc0rMTdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ '🇮🇹', ]
 actualPrice: 29.94 EUR
 currency: EUR
 price: 29.94
-comparePrice: 37.74 EUR
+comparePrice: 46.74 EUR
 prodname: 'Valdo Marca Oro Valdobbiadene Prosecco Superiore DOCG 750 ml x 6'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B00DQR49QA/?tag=tolees00-21'
-descuento: '20.67'
-average: '31.8128571428572'
+descuento: '35.94'
+average: '31.5787500000001'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,8 +28,6 @@ average: '31.8128571428572'
 
 ℹ️:
 
-- Origine: Italia & # 62; Veneto & # 62; Valdobbiadene
-- Gusto: snello e gentile, non gehaltvoll con restsüße gradevole e fine, prolungati perlage
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00DQR49QA{{</world>}}

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Lavabile in Lavastoviglie
 - Made in Italy. Garanzia 5 anni
+- Lavabile in Lavastoviglie
 - Bistecchiera con rivestimento antiaderente naturale Finegres, privo di materie plastiche (No PTFE, no PFOA, no Nickel e no Bisfenolo A).
 - Manico sicuro e stabile nel tempo con il sistema a doppia vite twin block
 - Per tutte le fonti di calore, compresa induzione

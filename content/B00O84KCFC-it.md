@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Cricchetto
 - Kit 47 pezzi
 - Reversibile
-- Cricchetto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00O84KCFC{{</world>}}

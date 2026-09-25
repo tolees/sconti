@@ -29,8 +29,8 @@ average: '31.99'
 ℹ️:
 
 - Fai entrare amici e parenti in casa a orari prestabiliti: invia loro una Chiave ospite con la funzione di Verifica automatica degli ospiti.
-- Ring Intercom è compatibile con Alexa, quindi puoi parlare con chi suona al citofono e aprire il portone utilizzando i comandi vocali.
 - Rendi smart il tuo citofono (audio o video): puoi parlare con i visitatori e aprire il portone delledificio con lapp Ring. (funziona solo con i citofoni compatibili)
+- Ring Intercom è compatibile con Alexa, quindi puoi parlare con chi suona al citofono e aprire il portone utilizzando i comandi vocali.
 - Ricevi avvisi in tempo reale ogni volta che un visitatore suona al citofono e apri lingresso delledificio, direttamente dallapp Ring. La funzione di apertura a distanza ti consente di aprire il portone senza interrompere una riunione importante, sia che lavori a casa o in ufficio.
 - Videocamera di sicurezza plug-in per proteggere qualsiasi punto della casa, in tutta tranquillità.
 

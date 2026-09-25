@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'dreame H15S Aspirapolvere Lavapavimenti Braccio Robotico IA'
-date: 2026-09-17 16:34:04
+date: 2026-09-21 18:38:37
 image: 'https://m.media-amazon.com/images/I/31wX06G97KL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0FJFXMRFV/?tag=tolees00-21'
 descuento: '27.57'
-average: '310.666666666667'
+average: '307.571428571429'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

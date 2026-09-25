@@ -28,11 +28,11 @@ average: '2.62'
 
 ℹ️:
 
-- EQUILIBRA: da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto dellequilibrio tra rispetto, efficacia, benessere e bellezza
 - CARATTERISTICHE: crema corpo con formula dermatologicamente e clinicamente testata, adatta a pelle sensibili, ideale su gambe, spalle, braccia e addome. Con il 97% di ingredienti di origine naturale
-- CREMA CORPO IDRATANTE: crema dalla texture leggera che si assorbe rapidamente senza ungere, utilizzata con regolarità conferisce alla pelle un’idratazione completa, sia superficiale che profonda
 - COSA CONTIENE: estratto di Rosa Damascena tonificante e antiossidante, Acido Ialuronico Medio-Alto peso idratante, Booster di Idratazione e Fattore Idratante dello Zucchero
 - IDRATAZIONE COMPLETA: il Booster di Idratazione stimola le acquaporine per unidratazione istantanea e duratura, il Fattore Idratante dello Zucchero apporta idratazione riducendo levaporazione
+- EQUILIBRA: da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto dellequilibrio tra rispetto, efficacia, benessere e bellezza
+- CREMA CORPO IDRATANTE: crema dalla texture leggera che si assorbe rapidamente senza ungere, utilizzata con regolarità conferisce alla pelle un’idratazione completa, sia superficiale che profonda
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D1RCD53C{{</world>}}

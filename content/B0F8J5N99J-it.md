@@ -28,8 +28,8 @@ average: '27.54'
 
 ℹ️:
 
-- Tomaia contemporanea
 - Styling per unestetica elegante e semplice
+- Tomaia contemporanea
 - Finestre superiori per una maggiore traspirabilità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

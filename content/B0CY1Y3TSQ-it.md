@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'UGREEN Adattatore USB C USB A 3.1 10Gbps 3 Pezzi Convertitore Type C'
-date: 2026-09-16 18:13:50
+date: 2026-09-21 08:10:13
 image: 'https://m.media-amazon.com/images/I/31ud0k8ZxuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0CY1Y3TSQ/?tag=tolees00-21'
 descuento: '22.25'
-average: '7.11208333333334'
+average: '7.10269230769232'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

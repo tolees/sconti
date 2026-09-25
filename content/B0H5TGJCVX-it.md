@@ -29,10 +29,10 @@ average: '49.99'
 ℹ️:
 
 - In mare aperto come in terre selvagge, esplora un mondo aperto senza confini, creato con lultimo motore Anvil. Ammira panorami mozzafiato mentre affronti mari in tempesta, ti immergi alla scoperta di relitti sommersi o ti fai strada attraverso fitte giungle tropicali.
-- Partendo dalla storia originale, Assassins Creed Black Flag Resynced introduce nuovi contenuti esclusivi. Torneranno volti noti, con nuove trame dedicate ai personaggi preferiti dai fan, come Barbanera e Stede Bonnet. Incontrerai anche degli alleati inaspettati, come i tre ufficiali che si uniranno a te nellavventura come parte della trama principale.
 - * Per riscattare i contenuti digitali sono necessari una connessione a Internet e un account Ubisoft. ** Alcuni contenuti potrebbero essere resi disponibili separatamente per lacquisto e/o come premi di lotterie a esclusiva discrezione di Ubisoft. Verifica i requisiti di sistema e i dettagli e le limitazioni per il prodotto prima dellacquisto e al momento della pubblicazione.
-- Semina il terrore fra i tuoi nemici abbordando e affondando le navi avversarie nei panni di Edward Kenway, capitano della Jackdaw. Che tu scelga di confonderti tra la folla o di guidare temerari assalti, passa con disinvoltura da silenziosi attacchi letali a feroci scontri corpo a corpo, brandendo con maestria spade, pistole e la Lama celata.
+- Partendo dalla storia originale, Assassins Creed Black Flag Resynced introduce nuovi contenuti esclusivi. Torneranno volti noti, con nuove trame dedicate ai personaggi preferiti dai fan, come Barbanera e Stede Bonnet. Incontrerai anche degli alleati inaspettati, come i tre ufficiali che si uniranno a te nellavventura come parte della trama principale.
 - Il combattimento è stato riprogettato per rendere gli scontri più dinamici, dando più spazio alle parate e agli abbattimenti, mentre la furtività e il parkour sono stati migliorati per rendere più fluide le fughe e gli assassinii. Migliora costantemente la Jackdaw per affrontare potenti navi nemiche con meccaniche navali perfezionate e nuove modalità di fuoco alternative.
+- Semina il terrore fra i tuoi nemici abbordando e affondando le navi avversarie nei panni di Edward Kenway, capitano della Jackdaw. Che tu scelga di confonderti tra la folla o di guidare temerari assalti, passa con disinvoltura da silenziosi attacchi letali a feroci scontri corpo a corpo, brandendo con maestria spade, pistole e la Lama celata.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0H5TGJCVX{{</world>}}

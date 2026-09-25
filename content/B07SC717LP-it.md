@@ -28,14 +28,14 @@ average: '103.92'
 
 ℹ️:
 
-- Potente motore da 500 W
 - Distanza massima di 250 mm tra mandrino e base
+- Potente motore da 500 W
 - Base stabile da 190 x 290 mm
-- Campo di serraggio del mandrino da 1,5 a 13 mm
 - Laser integrato per risultati di foratura precisi
+- Distanza massima di 170 mm tra mandrino e piano di lavoro
 - 5 velocità per legno, metallo e tutte le comuni materie plastiche
 - Struttura robusta in acciaio
-- Distanza massima di 170 mm tra mandrino e piano di lavoro
+- Campo di serraggio del mandrino da 1,5 a 13 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07SC717LP{{</world>}}

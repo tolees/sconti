@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 90% cotone / 10% elastan
 - Vestibilità attillata
 - Vita alta
+- 90% cotone / 10% elastan
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZPMRKSB{{</world>}}

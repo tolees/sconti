@@ -29,8 +29,8 @@ average: '56.99'
 ℹ️:
 
 - 22 punte
-- 2 x 1/4 "Driver Tools
 - 26 strumenti per driver da 3/8".
+- 2 x 1/4 "Driver Tools
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07KG1BQCK{{</world>}}

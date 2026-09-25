@@ -28,11 +28,11 @@ average: '49.99'
 
 ℹ️:
 
-- Esclusivo design Super Mario - Potenzia il tuo gioco con il controller wireless Rematch, dotato di un design Invincible Mario che si illumina al buio, aggiungendo un tocco di eleganza e divertimento al tuo setup di gioco
-- Prodotto con licenza ufficiale Nintendo - Con licenza ufficiale per Nintendo Switch, Nintendo Switch modello OLED, and Nintendo Switch Lite. Funziona anche con Nintendo Switch 2 - Pulsante C non disponibile
 - Comandi di movimento integrati - Goditi un gameplay immersivo grazie ai comandi di movimento, che offrono maggiore controllo e reattività per azioni come mirare, sterzare e interagire in giochi dinamici e ricchi di azione come Mario Kart e Mario Party
 - Wireless e ricaricabile - Gioca ai tuoi giochi Nintendo preferiti tutto il giorno usufruendo di una portata wireless di 9,14 metri e una batteria ricaricabile integrata che garantisce fino a 40 ore di gioco per ricarica
+- Prodotto con licenza ufficiale Nintendo - Con licenza ufficiale per Nintendo Switch, Nintendo Switch modello OLED, and Nintendo Switch Lite. Funziona anche con Nintendo Switch 2 - Pulsante C non disponibile
 - Lilluminazione RGB accende le grafiche di Super Mario - Quattro modalità di illuminazione uniche che accendono il tuo ambiente di gioco portando in vita le grafiche di Super Mario. Dai colori vivaci agli effetti dinamici, ogni modalità aggiunge un tocco giocoso al tuo gameplay
+- Esclusivo design Super Mario - Potenzia il tuo gioco con il controller wireless Rematch, dotato di un design Invincible Mario che si illumina al buio, aggiungendo un tocco di eleganza e divertimento al tuo setup di gioco
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GWM1FLFR{{</world>}}

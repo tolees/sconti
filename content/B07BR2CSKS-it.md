@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Pigna Monocromo 02298871R  Quaderno Formato A4  Rigatura 1R  Righe per Medie e Superiori  Carta 80G/Mq  Pacco da 10 Pezzi'
-date: 2020-09-08 07:49:31
-image: 'https://m.media-amazon.com/images/I/41f1+pkBcmL._SL400_.jpg'
+title: 'Pigna - Confezione 10 Quaderno Maxi A4 MONOCROMO THE ORIGINAL 1R'
+date: 2026-09-24 06:53:35
+image: 'https://m.media-amazon.com/images/I/41sB3ml0FuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07BR2CSKS-it Pigna Monocromo 02298871R Quaderno Formato A4 Rigatura 1R...'
+slug: 'B07BR2CSKS-it Pigna - Confezione 10 Quaderno Maxi A4 MONOCROMO THE...'
 sku: 'B07BR2CSKS-it'
 tags: [ '🇮🇹', ]
-actualPrice: 9.6 EUR
+actualPrice: 8.25 EUR
 currency: EUR
-price: 9.6
-comparePrice: 12.99 EUR
-prodname: 'Pigna Monocromo 02298871R  Quaderno Formato A4  Rigatura 1R  Righe per Medie e Superiori  Carta 80G/Mq  Pacco da 10 Pezzi'
+price: 8.25
+comparePrice: 15.11 EUR
+prodname: 'Pigna - Confezione 10 Quaderno Maxi A4 MONOCROMO THE ORIGINAL 1R'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B07BR2CSKS/?tag=tolees00-21'
-descuento: '26.10'
-average: '9.6'
+descuento: '45.40'
+average: '8.925'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

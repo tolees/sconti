@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Polo e Alaska, uniti da un legame speciale, portano in casa la bellezza dell’amicizia vera In ceramica decorata a mano, questa coppia di husky è un inno alla dolcezza e alla magia delle emozioni sincere Perfetto da regalare e da collezionare!
-- Ceramica
 - 16,5x14x17,1 cm
+- Ceramica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FWR5PD26{{</world>}}

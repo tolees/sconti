@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - DOPPIA MODALITA’ DI GIOCO: corre sui pavimenti e si arrampica sulle pareti, proprio se fosse un vero geco.
+- BATTERIA USB: include 1 cavo USB per ricaricare il Geco, così potrai divertirti senza sosta con questo giocattol. Il radiocomando richiede 2 pile AAA (non incluse)
 - DESIGN REALISTICO: questo geco telecomandato che si illumina è dotato di occhi LED visibili al buio, di coda e arti verdi in silicone e di un corpo nero in plastica
 - Include: 1 Geco, 1 radiocomando, 1 cavo di ricarica, 1 guida per luso
-- BATTERIA USB: include 1 cavo USB per ricaricare il Geco, così potrai divertirti senza sosta con questo giocattol. Il radiocomando richiede 2 pile AAA (non incluse)
 - RADIOCOMANDO CON FUNZIONI COMPLETE: il radiocomando facile consente un gioco intuitivo, offrendo agli utenti la possibilità di controllo da una distanza di 8 m e di muoversi in tutte le direzioni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Materiale: 100% cotone
-- Design manica lunga con maniche arrotolate in alto, polsini con bottone
 - Confortevole e elegante camicia a scacchi, chiusura a bottoni
-- Sezione Dritta alla moda, Cotone traspirante
+- Design manica lunga con maniche arrotolate in alto, polsini con bottone
 - Tasche frontali sul petto, Ideale per utilizzo quotidiano
+- Materiale: 100% cotone
+- Sezione Dritta alla moda, Cotone traspirante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00BMLJDIG{{</world>}}

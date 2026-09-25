@@ -28,10 +28,10 @@ average: '33.42'
 
 ℹ️:
 
-- 10% poliestere
-- Composizione: 90% cotone
-- Dettagli stampati
 - Girocollo
+- Composizione: 90% cotone
+- 10% poliestere
+- Dettagli stampati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DKXZMB9V{{</world>}}

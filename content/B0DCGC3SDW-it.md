@@ -28,11 +28,11 @@ average: '89.99'
 
 ℹ️:
 
-- Precisione chirurgica grazie ai sensori magnetici H.E.A.R.T (HallEffect AccuRate Technology). 🎯
-- Stick multifunzionale con 6 pulsanti, 1 ruota di pollice, 1 mini-stick, 2 interruttori a bilanciere e 2 grilletti. 🌾
-- Importante: Su PS5, il SimTask FarmStick è compatibile solo con Farming Simulator 25 e deve essere utilizzato con un volante. 🚜
-- Plug & Play in Farming Simulator 25, progettato in collaborazione con GIANTS Software GmbH. 🚜
 - Acceleratore manuale e fino a 33 pulsanti di azione per controllare tutti i tipi di macchinari. 🧑‍🌾
+- Plug & Play in Farming Simulator 25, progettato in collaborazione con GIANTS Software GmbH. 🚜
+- Importante: Su PS5, il SimTask FarmStick è compatibile solo con Farming Simulator 25 e deve essere utilizzato con un volante. 🚜
+- Stick multifunzionale con 6 pulsanti, 1 ruota di pollice, 1 mini-stick, 2 interruttori a bilanciere e 2 grilletti. 🌾
+- Precisione chirurgica grazie ai sensori magnetici H.E.A.R.T (HallEffect AccuRate Technology). 🎯
 - Design ambidestro che permette l’utilizzo di un volante da corsa (venduto separatamente) o di due joystick contemporaneamente. 🖱️
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

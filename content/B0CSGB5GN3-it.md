@@ -28,8 +28,8 @@ average: '48.99'
 
 ℹ️:
 
-- Slip Ins integrati
 - Lavabile in lavatrice
+- Slip Ins integrati
 - Vegano
 - Caritatevole
 - Memory Foam

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Omino Bianco Detersivo Lavatrice Muschio Bianco 132 Lavaggi 1760 ml x 3'
-date: 2026-09-19 09:27:57
+date: 2026-09-24 09:31:29
 image: 'https://m.media-amazon.com/images/I/51K-7vsMu6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0CDM977M3/?tag=tolees00-21'
 descuento: '37.09'
-average: '11.0564102564101'
+average: '11.1302439024388'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

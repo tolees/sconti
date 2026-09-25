@@ -28,11 +28,11 @@ average: '9.48'
 
 ℹ️:
 
-- FILIERA CONTROLLATA: il grano è coltivato solo dagli agricoltori della filiera Armando che garantisce zero residui di pesticidi e glifosato, utilizzati nella coltivazione e nella conservazione del grano
-- IL TORTIGLIONE: grazie al suo sapore avvolgente, questo formato di pasta è ideale per esaltare sughi robusti a base di formaggio e da gustare in preparazioni al forno
 - COTTURA: 10 minuti per una pasta "al dente" e 11 minuti per una cottura completa. La trafilatura al bronzo e laccurata selezione dei grani duri garantiscono una pasta sempre al dente, buona e sana. Con un contenuto proteico del 14%
-- PASTA ARMANDO: Pasta di Semola di Grano Duro 100% Italiano, Trafila al Bronzo ed Essiccata Lentamente, lavorata secondo il Metodo Tradizionale. Il suo sapore speciale è riconoscibile tra mille
+- IL TORTIGLIONE: grazie al suo sapore avvolgente, questo formato di pasta è ideale per esaltare sughi robusti a base di formaggio e da gustare in preparazioni al forno
+- FILIERA CONTROLLATA: il grano è coltivato solo dagli agricoltori della filiera Armando che garantisce zero residui di pesticidi e glifosato, utilizzati nella coltivazione e nella conservazione del grano
 - PACK ECOSOSTENIBILE: Armando si prende cura dellambiente, grazie al pack completamente riciclabile con la carta
+- PASTA ARMANDO: Pasta di Semola di Grano Duro 100% Italiano, Trafila al Bronzo ed Essiccata Lentamente, lavorata secondo il Metodo Tradizionale. Il suo sapore speciale è riconoscibile tra mille
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09W6QLY9P{{</world>}}

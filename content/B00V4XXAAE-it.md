@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Formato 50 ml
 - Questa formula appositamente studiata per i bebè può essere applicata sia al viso che al corpo dai 6 mesi in su
 - La roche posay anthelios dermo-pediatrics latte per baby è indicato per la pelle sensibile o a tendenza atopica del lattante
-- Formato 50 ml
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00V4XXAAE{{</world>}}

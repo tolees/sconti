@@ -28,10 +28,10 @@ average: '6.98'
 
 ℹ️:
 
-- Trattamento intensivo con agenti micro-liscianti che agiscono sui capelli rendendoli lisci ciocca per ciocca
-- Testato dallIstituto Svizzero della Vitamina
-- Maschera protezione Cheratina trasforma capelli crespi e opachi in capelli lisci e setosi
 - Visita il sito it.pg.com per la composizione della confezione e le modalità di smaltimento
+- Trattamento intensivo con agenti micro-liscianti che agiscono sui capelli rendendoli lisci ciocca per ciocca
+- Maschera protezione Cheratina trasforma capelli crespi e opachi in capelli lisci e setosi
+- Testato dallIstituto Svizzero della Vitamina
 - Fino a 72 ore di capelli lisci e brillanti in 1 unica applicazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

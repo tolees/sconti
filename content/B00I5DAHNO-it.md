@@ -28,10 +28,10 @@ average: '15.23'
 
 ℹ️:
 
-- Visualizzazione dello stato di funzionamento tramite Led.
+- controllore di tensione integrato nel cavo di alimentazione per applicazioni universali a 12v che utilizzano come uscita la presa dellaccendisigari
 - Tensione di interruzione 11,6 v DC, tensione di riaccensione 12,8 v DC, corrente fino a 5 A, connettore a spina per presa accendisigari
 - Disinserimento automatico dellapparecchio in caso di sottotensione e riaccensione quando viene raggiunta la tensione normale
-- controllore di tensione integrato nel cavo di alimentazione per applicazioni universali a 12v che utilizzano come uscita la presa dellaccendisigari
+- Visualizzazione dello stato di funzionamento tramite Led.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00I5DAHNO{{</world>}}

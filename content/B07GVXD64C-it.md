@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Per digestione sensibile
-- Ricco in tacchino
 - In mousse
+- Ricco in tacchino
 - Alimento completo per gatti adulti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

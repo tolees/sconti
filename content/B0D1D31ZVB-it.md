@@ -28,11 +28,11 @@ average: '3.49'
 
 ℹ️:
 
-- Deterge delicatamente il cuoio capelluto, idrata intensamente le lunghezze e facilita la piega, Capelli 2 volte più luminosi* e 71% più morbidi*, *Test strumentali
-- Applica sulle radici, massaggia delicatamente per detergere capelli e cute creando una schiuma leggera e risciacqua
 - Formula 3 volte più concentrata arricchita Con Glicerina Vegetale per capelli nutriti, setosi e extra lisci
-- Contenuto: 1x Franck Provost, Expert Lissage, Shampoo Professionale Per Capelli Mossi, Effetto Idratante, Con Glierina Vegetale, 500 ml
 - Shampoo lisciante ideale per capelli mossi, ricci e indisciplinati, Senza siliconi per un tocco naturale, Con Glicerina Vegetale
+- Deterge delicatamente il cuoio capelluto, idrata intensamente le lunghezze e facilita la piega, Capelli 2 volte più luminosi* e 71% più morbidi*, *Test strumentali
+- Contenuto: 1x Franck Provost, Expert Lissage, Shampoo Professionale Per Capelli Mossi, Effetto Idratante, Con Glierina Vegetale, 500 ml
+- Applica sulle radici, massaggia delicatamente per detergere capelli e cute creando una schiuma leggera e risciacqua
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D1D31ZVB{{</world>}}

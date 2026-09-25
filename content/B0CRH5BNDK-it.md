@@ -28,11 +28,11 @@ average: '63.99'
 
 ℹ️:
 
-- GRANDE CAPACITÀ DI CARICO: La nostra rampa per moto non è pesante, ma ha una capacità di carico molto elevata. Ogni rampa può supportare un carico di 400 kg, due rampe possono contenere fino a 800 kg. Possono essere utilizzate singolarmente o in coppia a seconda delle esigenze.
-- PRATICO E TRASPORTABILE: Dotata di cinghie di sicurezza con gancio, permette di collegare la rampa al rimorchio allattrezzatura che si desidera trainare. Poiché la nostra rampa occupa poco spazio quando è piegata, si ripone facilmente nel bagagliaio di unauto o di un furgone. Le maniglie pratiche permettono di portarla ovunque con sé.
-- RAMPA DI CARICAMENTO DI ALTA QUALITÀ: La rampa di caricamento misura 196 x 22 x 4 cm e 110 x 22 x 12 cm ripiegata. Realizzate in metallo zincato, sono progettate per resistere alla ruggine e offrire una maggiore durata. Ideali per luso in diverse condizioni, le nostre rampe sono una soluzione affidabile e durevole per il caricamento.
-- MULTIUSO: Ideali per caricare moto, tosaerba, trattori, quad ATV e altre attrezzature motorizzate, le nostre rampe di caricamento pieghevoli sono perfette per i lavori di carico e manutenzione. Facilitano il lavoro e lo rendono più sicuro.
 - ANTISCIVOLO E STABILI: La rampa per auto è progettata con numerosi piccoli fori che aumentano lattrito e prevengono lo scivolamento. Inoltre, i tre tappi rossi in gomma su un lato impediscono lo scivolamento, offrendo così una sicurezza e una stabilità superiori.
+- MULTIUSO: Ideali per caricare moto, tosaerba, trattori, quad ATV e altre attrezzature motorizzate, le nostre rampe di caricamento pieghevoli sono perfette per i lavori di carico e manutenzione. Facilitano il lavoro e lo rendono più sicuro.
+- PRATICO E TRASPORTABILE: Dotata di cinghie di sicurezza con gancio, permette di collegare la rampa al rimorchio allattrezzatura che si desidera trainare. Poiché la nostra rampa occupa poco spazio quando è piegata, si ripone facilmente nel bagagliaio di unauto o di un furgone. Le maniglie pratiche permettono di portarla ovunque con sé.
+- GRANDE CAPACITÀ DI CARICO: La nostra rampa per moto non è pesante, ma ha una capacità di carico molto elevata. Ogni rampa può supportare un carico di 400 kg, due rampe possono contenere fino a 800 kg. Possono essere utilizzate singolarmente o in coppia a seconda delle esigenze.
+- RAMPA DI CARICAMENTO DI ALTA QUALITÀ: La rampa di caricamento misura 196 x 22 x 4 cm e 110 x 22 x 12 cm ripiegata. Realizzate in metallo zincato, sono progettate per resistere alla ruggine e offrire una maggiore durata. Ideali per luso in diverse condizioni, le nostre rampe sono una soluzione affidabile e durevole per il caricamento.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CRH5BNDK{{</world>}}

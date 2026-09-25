@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tasche laterali
-- VITA ALTA
 - Vita elasticizzata
+- VITA ALTA
+- Tasche laterali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CJ3QZ8JR{{</world>}}

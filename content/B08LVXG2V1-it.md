@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bellissima Imetec Diffon DF1 3000 – Diffusore capelli ricci 700W'
-date: 2026-09-18 10:35:39
+date: 2026-09-22 14:08:13
 image: 'https://m.media-amazon.com/images/I/51Jf+VO7UsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B08LVXG2V1/?tag=tolees00-21'
 descuento: '37.43'
-average: '49.4775'
+average: '49.6483333333333'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

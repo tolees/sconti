@@ -29,8 +29,8 @@ average: '19.2'
 ℹ️:
 
 - Realizzati con materiali sostenibili
-- Maglietta del marchio JACK & JONES
 - Design traspirante per movimenti fluidi
+- Maglietta del marchio JACK & JONES
 - Adatto per: situazioni informali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

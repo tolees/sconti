@@ -28,9 +28,9 @@ average: '25.99'
 
 ℹ️:
 
+- IDEALI PER L’ESTATE_ Guanti leggeri e traspiranti con la sensibilità necessaria sulla bici
 - PALMO VENTILATO_ Palmo perforato con zone rinforzate per buon contatto con la bici
 - MESH STRETCH A QUATTRO VIE_ Dorso ventilato per vestibilità aderente, comoda e ben aerata
-- IDEALI PER L’ESTATE_ Guanti leggeri e traspiranti con la sensibilità necessaria sulla bici
 - TIRETTI E POLLICE IN SPUGNA_ Tiretti tra le dita facilitano la rimozione; il pollice in spugna asciuga il sudore
 - SILICONE PER GRIP E CONTROLLO_ Stampe in silicone su dita e palmo per presa sicura
 

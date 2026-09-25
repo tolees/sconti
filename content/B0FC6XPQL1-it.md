@@ -28,11 +28,11 @@ average: '55.54'
 
 ℹ️:
 
+- Prestazioni ottimali: Ingranaggi a 2 velocità e 20 livelli di regolazione della coppia, per adattare la coppia negli avvitamenti e il numero di giri nelle forature
+- La linea Easy Bosch – un aiuto semplice per tutti i tuoi progetti
 - POWER FOR ALL ALLIANCE: 1 BATTERIA, 10+ MARCHI, ​150+ PRODOTTI
 - Cambio agevole delle punte di avvitamento e punte di foratura grazie al mandrino ad azione rapida da 10 mm
-- Prestazioni ottimali: Ingranaggi a 2 velocità e 20 livelli di regolazione della coppia, per adattare la coppia negli avvitamenti e il numero di giri nelle forature
 - Dotazione: EasyDrill 18V-38, 1 batteria da 2,5 Ah, caricabatteria AL 18V-20, custodia per il trasporto
-- La linea Easy Bosch – un aiuto semplice per tutti i tuoi progetti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FC6XPQL1{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'F1 25 Standard Edition PS5 | Disco | Videogiochi | Italiano'
-date: 2026-09-20 16:34:15
+date: 2026-09-24 15:50:32
 image: 'https://m.media-amazon.com/images/I/515yedlqQ8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0F24YG4SM/?tag=tolees00-21'
 descuento: '37.51'
-average: '30.6148717948718'
+average: '30.3404878048781'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

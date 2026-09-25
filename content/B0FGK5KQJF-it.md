@@ -28,11 +28,11 @@ average: '11.49'
 
 ℹ️:
 
-- LA SCIENZA INCONTRA LA NATURA: Fulcro dei nostri trattamenti per pelli sensibili, Eau Thermale Avène unisce la scienza dermatologica al potere lenitivo dellacqua termale Avène, arricchita da oltre 50 anni e che sgorga da un sito naturale unico.
+- PROTEZIONE E LEGGEREZZA: questo trattamento unisce alta protezione UVB-UVA e luce blu HEV a una texture ultra leggera. Effetto opacizzante* e finish invisibile, ideale per pelli sensibili.
 - ROUTINE DI PROTEZIONE SOLARE: applicare prima dell’esposizione al sole su pelle pulita e asciutta. Riapplicare frequentemente, soprattutto dopo sudore, bagno o asciugatura. Evitare il contatto con gli occhi.
 - CON TRIASORB & MONOLAURINA: TriAsorB offre protezione e aiuta a prevenire il fotoinvecchiamento, la monolaurina regola il sebo. Con filtri fotostabili e antiossidanti aiuta a proteggere le cellule dai radicali liberi.
-- PROTEZIONE E LEGGEREZZA: questo trattamento unisce alta protezione UVB-UVA e luce blu HEV a una texture ultra leggera. Effetto opacizzante* e finish invisibile, ideale per pelli sensibili.
 - PROTEZIONE QUOTIDIANA: Ultra fluid oil control SPF50 per pelle sensibile protegge da UVB, UVA e luce blu HEV. La texture fluida e resistente allacqua si assorbe rapidamente. Con attivi antiossidanti e sebo-regolatori.
+- LA SCIENZA INCONTRA LA NATURA: Fulcro dei nostri trattamenti per pelli sensibili, Eau Thermale Avène unisce la scienza dermatologica al potere lenitivo dellacqua termale Avène, arricchita da oltre 50 anni e che sgorga da un sito naturale unico.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FGK5KQJF{{</world>}}

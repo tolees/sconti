@@ -28,11 +28,11 @@ average: '4.17'
 
 ℹ️:
 
-- ▲AVVISO▲ Non consigliato per monitor o luce a LED oltre 1,0 kg
-- ▲MODELLO PIÙ PICCOLO▲ Questo è il modello più piccolo di SMALLRIG Magic Arm with Small Ballhead. Se hai bisogno di uno più grande, controlla SMALLRIG 3238.
-- ▲REGOLARE TUTTO ANGOLAZIONE▲ Dispone di un wingnut al centro per regolare gli angoli e le posizioni del monitor o della luce video o altri accessori. Supporta la rotazione di qualsiasi angolazione
 - ▲BLOCCA STRETTAMENTE▲ Stretto con un wingnut rapidamente e convenientemente. È facile da usare e può aiutarti a bloccare saldamente. Non devi preoccuparti di lasciar perdere
+- ▲REGOLARE TUTTO ANGOLAZIONE▲ Dispone di un wingnut al centro per regolare gli angoli e le posizioni del monitor o della luce video o altri accessori. Supporta la rotazione di qualsiasi angolazione
+- ▲AVVISO▲ Non consigliato per monitor o luce a LED oltre 1,0 kg
 - ▲1/4 Viti▲ Equipaggiato con viti da 1/4" su entrambe le estremità. Può fissare la gabbia della telecamera, la piastra superiore e il manico superiore 1955/1984 su unestremità, mentre si monta il monitor o la luce video sullaltra estremità
+- ▲MODELLO PIÙ PICCOLO▲ Questo è il modello più piccolo di SMALLRIG Magic Arm with Small Ballhead. Se hai bisogno di uno più grande, controlla SMALLRIG 3238.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07GWPGGRT{{</world>}}

@@ -28,9 +28,9 @@ average: '13.4'
 
 ℹ️:
 
-- INGREDIENTI NATURALI: gli isoflavoni di soia aiutano a contrastare i disturbi della menopausa, il calcio, il magnesio e la vitamina D3 contribuiscono al buon mantenimento delle ossa
-- AVVERTENZE: gli integratori alimentari non vanno intesi quali sostituti di una dieta varia, equilibrata e di un sano stile di vita
 - ESTROMINERAL SERENA: integratore alimentare a base di isoflavoni di soia e fermenti lattici indicato per la donna in menopausa; con magnolia, un estratto vegetale con proprietà calmanti
+- AVVERTENZE: gli integratori alimentari non vanno intesi quali sostituti di una dieta varia, equilibrata e di un sano stile di vita
+- INGREDIENTI NATURALI: gli isoflavoni di soia aiutano a contrastare i disturbi della menopausa, il calcio, il magnesio e la vitamina D3 contribuiscono al buon mantenimento delle ossa
 - MODALITÀ DUSO: assumere una compressa al giorno di Estromineral Serena lontano dai pasti; non assumere in caso di gravidanza o allattamento
 - SENZA GLUTINE E LATTOSIO: integratore menopausa privo di glutine, lattosio e sostanze derivate da O.G.M.
 

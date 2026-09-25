@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - CESARI CUSTOZA DOC: Vino dal colore giallo paglierino, ottenuto da uve Garganega e altre varietà a bacca bianca. Gradazione alcolica 12,50% vol. Prodotto in provincia di Verona (VR).
+- DESCRIZIONE ORGANOLETTICA: Al naso rilascia note fresche e delicate di frutta e fiori bianchi. Al palato ha un gusto pieno, leggermente aromatico, caratterizzato da una buona acidità.
 - FORMATO: Bottiglia da 750ml
 - GERARDO CESARI: Fondata nel 1936 da Gerardo Cesari, l’azienda vitivinicola è riconosciuta nel panorama internazionale come sinonimo di vini veronesi e pioniera nell’esportazione dell’Amarone negli Stati Uniti (1973). Il cuore pulsante di Cesari batte nella provincia di Verona, tra le due cantine di Fumane, nel cuore della Valpolicella Classica, e Cavaion Veronese, vicino alle rive del Lago di Garda.
-- DESCRIZIONE ORGANOLETTICA: Al naso rilascia note fresche e delicate di frutta e fiori bianchi. Al palato ha un gusto pieno, leggermente aromatico, caratterizzato da una buona acidità.
 - ABBINAMENTO E SERVIZIO: Ottimo come aperitivo e in abbinamento a primi piatti con sughi delicati, pesce e carni bianche.
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
 

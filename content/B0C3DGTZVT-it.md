@@ -30,9 +30,9 @@ average: '3.0'
 
 - Vasetto da 240 grammi
 - 24 grammi di proteine per vasetto
-- Indicato per gli sportivi e per chi è attento alla linea
-- Basso contenuti di zuccheri per mantenere una dieta equilibrata
 - Elevato contenuto di frutta
+- Basso contenuti di zuccheri per mantenere una dieta equilibrata
+- Indicato per gli sportivi e per chi è attento alla linea
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C3DGTZVT{{</world>}}

@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Visita il sito Nestlé per scoprire come le nostre marche sono scese in campo e contribuiscono al raggiungimento degli obiettivi di sostenibilità del Gruppo Nestlé con progetti concreti
-- Confezione da 12 brick da 500ml (6 litri totali)
-- Con Calcio e Vitamina D per contribuire al normale sviluppo delle ossa
-- Con Vitamina C per contribuire allassorbimento del ferro e al normale funzionamento del sistema immunitario
 - Con Ferro, che contribuisce al normale sviluppo cognitivo
+- Con Vitamina C per contribuire allassorbimento del ferro e al normale funzionamento del sistema immunitario
+- Confezione da 12 brick da 500ml (6 litri totali)
 - NESTLÉ LATTE MIO senza Lattosio è un latte di crescita liquido pronto da bere, per bambini di età compresa tra 1 e 3 anni, a base di latte delattosato, con minerali e vitamine
+- Visita il sito Nestlé per scoprire come le nostre marche sono scese in campo e contribuiscono al raggiungimento degli obiettivi di sostenibilità del Gruppo Nestlé con progetti concreti
+- Con Calcio e Vitamina D per contribuire al normale sviluppo delle ossa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CCJVPGYV{{</world>}}

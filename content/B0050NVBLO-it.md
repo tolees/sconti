@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Essence cares: bellezza a ogni costo? Assolutamente no! Crediamo che nessun essere vivente debba soffrire per la nostra idea di bellezza
+- Ingredienti selezionati: il nostro obiettivo è sviluppare cosmetici sicuri e di alta qualità. Quando possibile, utilizziamo ingredienti naturali e vegani.
 - Per look definiti o smoky: applica il kajal sulla rima interna superiore o inferiore per definire lo sguardo. Per un effetto più morbido e smoky, stendilo lungo la linea delle ciglia e sfuma delicatamente i contorni
 - Waterproof e fino a 18 ore di tenuta: la formula waterproof dura fino a 18 ore e garantisce un risultato a lunga tenuta. L’innovativo meccanismo a rotazione consente unapplicazione semplice e particolarmente precisa
-- Ingredienti selezionati: il nostro obiettivo è sviluppare cosmetici sicuri e di alta qualità. Quando possibile, utilizziamo ingredienti naturali e vegani.
 - Risultato intenso e definito: la matita kajal a rotazione assicura un tratto intenso e una colore intenso e uniforme, ideale per linee decise e make-up occhi deffetto
+- Essence cares: bellezza a ogni costo? Assolutamente no! Crediamo che nessun essere vivente debba soffrire per la nostra idea di bellezza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0050NVBLO{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pavesi Biscotti Frollini Gocciole Coconut 320 gr'
-date: 2026-09-20 14:32:00
+date: 2026-09-22 20:21:47
 image: 'https://m.media-amazon.com/images/I/51YVQ3vMeNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B08RFRWZYP/?tag=tolees00-21'
 descuento: '27.62'
-average: '1.91225'
+average: '1.90357142857143'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

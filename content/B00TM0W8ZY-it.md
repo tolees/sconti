@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - 【TEST TRANSISTOR E INGRESSO SEPARATO DA 10A】 La presa hFE integrata permette di controllare transistor NPN e PNP. L’ingresso separato da 10A è destinato alle misurazioni di corrente continua più elevata, mentre i terminali VΩmA e COM vengono utilizzati per le altre funzioni.
-- 【POLARITÀ AUTOMATICA E INDICATORE BATTERIA】 Se i puntali vengono collegati con polarità invertita, il display mostra automaticamente un valore negativo. L’indicatore di batteria scarica segnala quando è necessario sostituire la pila da 9V.
-- 【MISURAZIONI ELETTRICHE MULTIFUNZIONE】 Il multimetro digitale ULTRICS misura tensione AC/DC, corrente continua e resistenza. Consente inoltre di verificare diodi, transistor NPN/PNP e continuità con segnale acustico, facilitando il controllo di batterie, fusibili, cavi e circuiti elettrici.
 - 【DISPLAY LCD 1999 CONTEGGI CON DATA HOLD】 Il display LCD retroilluminato mostra valori fino a 1999 conteggi con una frequenza di circa 2 misurazioni al secondo. La funzione Data Hold mantiene il valore corrente sullo schermo per facilitarne la lettura e la registrazione.
+- 【MISURAZIONI ELETTRICHE MULTIFUNZIONE】 Il multimetro digitale ULTRICS misura tensione AC/DC, corrente continua e resistenza. Consente inoltre di verificare diodi, transistor NPN/PNP e continuità con segnale acustico, facilitando il controllo di batterie, fusibili, cavi e circuiti elettrici.
+- 【POLARITÀ AUTOMATICA E INDICATORE BATTERIA】 Se i puntali vengono collegati con polarità invertita, il display mostra automaticamente un valore negativo. L’indicatore di batteria scarica segnala quando è necessario sostituire la pila da 9V.
 - 【PUNTALI, CUSTODIA E SUPPORTO PIEGHEVOLE】 La confezione include 1 multimetro digitale, 1 coppia di puntali contrassegnati fino a 1000V e 10A, batteria da 9V e manuale di istruzioni. La custodia protettiva e il supporto pieghevole facilitano l’utilizzo in casa, auto, officina o laboratorio.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

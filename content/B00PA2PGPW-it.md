@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Ottima durante la ricreazione a scuola
-- Soffice pasta lievitata naturalmente
-- Ideale per lo spuntino pomeridiano
 - Per una colazione leggera e equilibrata
+- Ottima durante la ricreazione a scuola
+- Ideale per lo spuntino pomeridiano
+- Soffice pasta lievitata naturalmente
 - Golosa crema al cioccolato e deliziosa copertura al cacao
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

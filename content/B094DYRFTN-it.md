@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Alta qualità
 - Marka: Nike
+- Alta qualità
 - Per uno stile casual
 - Practico da usare
 

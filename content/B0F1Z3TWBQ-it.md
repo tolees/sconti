@@ -28,8 +28,8 @@ average: '34.3'
 
 ℹ️:
 
-- Logo
 - Alta percentuale di cotone
+- Logo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F1Z3TWBQ{{</world>}}

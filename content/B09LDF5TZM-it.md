@@ -28,10 +28,10 @@ average: '5.5975'
 
 ℹ️:
 
-- CONTENUTO: Confezione da 24 bustine monodose da 8 g ciascuna, formulata per offrire un apporto potente e bilanciato di magnesio e potassio, ideale per chi necessita di una formulazione concentrata e duratura.
 - MARCO VITI - Marco Viti Farmaceutici è una storica impresa italiana nata nel 1933, ha costruito nel tempo una solida realtà produttiva e di ricerca riconosciuta per la sua qualità producendo cosmetici, integratori, farmaci, presidi medico-chirurgici.
-- BENEFICI PER L’ENERGIA E IL BENESSERE MUSCOLARE: Pensato per chi pratica sport o per chi ha esigenze di reintegro elevato, aiuta a ridurre la stanchezza e supporta la funzione muscolare, contribuendo a una performance fisica ottimale.
+- CONTENUTO: Confezione da 24 bustine monodose da 8 g ciascuna, formulata per offrire un apporto potente e bilanciato di magnesio e potassio, ideale per chi necessita di una formulazione concentrata e duratura.
 - FORMULAZIONI NATURALI - Ogni prodotto Marco Viti combina ingredienti di alta qualità e origine naturale, garantendo efficacia e sicurezza dermatologica. I prodotti, sono sviluppati per rispondere ai bisogni della pelle, della salute e del benessere.
+- BENEFICI PER L’ENERGIA E IL BENESSERE MUSCOLARE: Pensato per chi pratica sport o per chi ha esigenze di reintegro elevato, aiuta a ridurre la stanchezza e supporta la funzione muscolare, contribuendo a una performance fisica ottimale.
 - CARATTERISTICHE DEL PRODOTTO: Contiene una combinazione di 5 sali di magnesio e 3 sali di potassio per favorire il corretto equilibrio elettrolitico e il supporto muscolare, senza zuccheri, glutine, aspartame e lattosio.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

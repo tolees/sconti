@@ -28,8 +28,8 @@ average: '48.4'
 
 ℹ️:
 
-- Tomaia traforata in materiale sintetico liscio "Durabuck"
 - Suola flessibile di trazione
+- Tomaia traforata in materiale sintetico liscio "Durabuck"
 - Classica sneaker alla moda con lacci
 - Altezza tacco 3,8 cm
 

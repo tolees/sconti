@@ -28,9 +28,9 @@ average: '10.49'
 
 ℹ️:
 
-- Trattamento anti pilling
-- Collo con cerniera
 - Pile symmetry 170GSM
+- Collo con cerniera
+- Trattamento anti pilling
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B003AOAEVS{{</world>}}

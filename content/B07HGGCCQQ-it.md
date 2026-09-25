@@ -28,9 +28,9 @@ average: '5.97'
 
 ℹ️:
 
-- Con ottima libertà di movimento
 - Tessuto che lascia traspirare la pelle
 - Adatto per lallenamento
+- Con ottima libertà di movimento
 - Prodotto di marca Leone 1947
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

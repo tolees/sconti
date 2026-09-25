@@ -28,11 +28,11 @@ average: '17.1166666666667'
 
 ℹ️:
 
-- Questa fragranza iconica cattura la bellezza di una serata trascorsa allaperto accanto a un falò... completa di profumi di bergamotto italiano, ambra dorata e mogano affumicato.
-- Progettato per il piacere quotidiano in stanze più piccole.
-- Una candela media che è un regalo perfetto per le donne per momenti accoglienti.
-- Ideale per creare unatmosfera calda e accogliente.
 - Presenta lo stoppino in legno caratteristico di WoodWick per un rilassante suono di crepitio.
+- Ideale per creare unatmosfera calda e accogliente.
+- Questa fragranza iconica cattura la bellezza di una serata trascorsa allaperto accanto a un falò... completa di profumi di bergamotto italiano, ambra dorata e mogano affumicato.
+- Una candela media che è un regalo perfetto per le donne per momenti accoglienti.
+- Progettato per il piacere quotidiano in stanze più piccole.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07DHVHVQD{{</world>}}

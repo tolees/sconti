@@ -28,8 +28,8 @@ average: '31.5'
 
 ℹ️:
 
-- Design spazioso e leggero
 - Semplice e accessibile da usare
+- Design spazioso e leggero
 - Realizzati con materiali sostenibili
 - Borsa da cintura del marchio Love Moschino
 

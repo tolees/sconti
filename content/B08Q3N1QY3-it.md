@@ -31,8 +31,8 @@ average: '27.16'
 - Con Peach sopra la collina e la valle
 - Carrera RC Quad
 - Carrera RC Quad - Pesca
-- NUOVA batteria mt 3.2V 700mAh LiFePo4
 - 19 5 cm di lunghezza
+- NUOVA batteria mt 3.2V 700mAh LiFePo4
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08Q3N1QY3{{</world>}}

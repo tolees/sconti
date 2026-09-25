@@ -28,9 +28,9 @@ average: '33.0'
 
 ℹ️:
 
+- Fodera in tessuto
 - Intersuola vulcanizzata
 - Tomaia in materiale sintetico
-- Fodera in tessuto
 - Calzata regolare
 - Chiusura con lacci
 

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Riproduce musica, radio, podcast e molto altro
 - Controlli touch
 - Controllo vocale con Sonos Voice Control e Amazon Alexa
-- Riproduce musica, radio, podcast e molto altro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BXLM22DV{{</world>}}

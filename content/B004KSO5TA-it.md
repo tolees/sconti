@@ -29,11 +29,11 @@ average: '2.29'
 ℹ️:
 
 - NESQUIK Duo contiene ferro, per il normale sviluppo cognitivo dei bambini
+- Confezione da 325g, equivalente a circa 10 porzioni da 30g
 - Con vitamine B6 e B3 che contribuiscono alle normali funzioni psicologiche
 - NESQUIK Duo sono palline croccanti di cereali integrali al cacao e al cioccolato bianco
-- Confezione da 325g, equivalente a circa 10 porzioni da 30g
-- Visita il sito Nestlé per scoprire come le nostre marche sono scese in campo e contribuiscono al raggiungimento degli obiettivi di sostenibilità del Gruppo Nestlé con progetti concreti
 - Fonte di fibre. Solo aromi naturali e nessun colorante
+- Visita il sito Nestlé per scoprire come le nostre marche sono scese in campo e contribuiscono al raggiungimento degli obiettivi di sostenibilità del Gruppo Nestlé con progetti concreti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B004KSO5TA{{</world>}}

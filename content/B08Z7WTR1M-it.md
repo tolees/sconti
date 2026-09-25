@@ -28,9 +28,9 @@ average: '67.9433333333333'
 
 ℹ️:
 
+- Sneaker del marchio Geox
 - Realizzati con materiali sostenibili
 - Adatto per: tutte le stagioni
-- Sneaker del marchio Geox
 - Suola morbida per movimenti fluidi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

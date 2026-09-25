@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Struttura in acciaio cromato e piede in alluminio pressofuso lucidato
-- Peso: 9.7 Kg
 - Dimensioni: 20 ÷ 100 x 69 x 54 cm
 - Design: Antonio Citterio, 1991
+- Peso: 9.7 Kg
 - Piano in Poliuretano verniciato opaco o laccato in poliestere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

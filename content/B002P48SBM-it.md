@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Chiusura lampo anteriore
 - Fodera interna a quadretti rossi
+- Chiusura lampo anteriore
 - 60% poliestere e 40% cotone
 - Collo alto con 2 bottoni
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colgate Max White Purple Serum 40ml Booster Sbiancante Denti istantaneo Sbianca istantaneamente Formula a doppia azione per denti bianchi tecnologia correzione immediata del colore'
-date: 2026-09-19 16:21:17
+date: 2026-09-23 18:07:30
 image: 'https://m.media-amazon.com/images/I/41H2XNVutIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0FR9RDLWM/?tag=tolees00-21'
 descuento: '50.03'
-average: '9.95'
+average: '9.95363636363636'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

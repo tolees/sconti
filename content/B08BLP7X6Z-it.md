@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox J Sandal Karly Girl Rosa 35 EU'
-date: 2026-08-15 14:26:29
+date: 2026-09-25 16:38:19
 image: 'https://m.media-amazon.com/images/I/31zJgcjwOpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,6 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Adatto per: clima caldo
-- Sandali del marchio Geox
-- Design traspirante per un comfort extra
-- Realizzati con materiali sostenibili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08BLP7X6Z{{</world>}}

@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Visita il sito Nestlé per scoprire come le nostre marche sono scese in campo e contribuiscono al raggiungimento degli obiettivi di sostenibilità del Gruppo Nestlé con progetti concreti
-- Gli iconici cioccolatini dallincarto stellato che custodiscono un messaggio damore e daffetto per regalare un’esperienza di piacere memorabile
-- Raffinata scatola da 200g contenente 16 cioccolatini BACI PERUGINA
-- Cioccolatini BACI PERUGINA ripieni al gianduia e nocciola intera con una doppia copertura al cioccolato fondente
 - Senza glutine. Cacao approvvigionato in maniera sostenibile, certificato Rainforest Alliance
+- Raffinata scatola da 200g contenente 16 cioccolatini BACI PERUGINA
+- Gli iconici cioccolatini dallincarto stellato che custodiscono un messaggio damore e daffetto per regalare un’esperienza di piacere memorabile
+- Cioccolatini BACI PERUGINA ripieni al gianduia e nocciola intera con una doppia copertura al cioccolato fondente
 - Ricetta semplice: copertura di cioccolato fondente, nocciole scelte e tostate con cura, aroma naturale di vaniglia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

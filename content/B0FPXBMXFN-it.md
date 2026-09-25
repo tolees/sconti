@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO Star Wars 75441 Attack Cruiser Classe Venator - Kit di Modellismo per Adulti con Astronave della Repubblica - Decorazione per Casa - Regalo da Collezione per i Fan de La Vendetta dei Sith'
-date: 2026-09-06 17:18:39
+title: 'LEGO Star Wars Attack Cruiser classe Venator 75441'
+date: 2026-09-25 11:24:10
 image: 'https://m.media-amazon.com/images/I/51oyKifHgCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0FPXBMXFN-it LEGO Star Wars 75441 Attack Cruiser Classe Venator - Kit...'
+slug: 'B0FPXBMXFN-it LEGO Star Wars Attack Cruiser classe Venator 75441'
 sku: 'B0FPXBMXFN-it'
 tags: [ '🇮🇹', ]
-actualPrice: 60.99 EUR
+actualPrice: 51.99 EUR
 currency: EUR
-price: 60.99
+price: 51.99
 comparePrice: 79.99 EUR
-prodname: 'LEGO Star Wars 75441 Attack Cruiser Classe Venator - Kit di Modellismo per Adulti con Astronave della Repubblica - Decorazione per Casa - Regalo da Collezione per i Fan de La Vendetta dei Sith'
+prodname: 'LEGO Star Wars Attack Cruiser classe Venator 75441'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0FPXBMXFN/?tag=tolees00-21'
-descuento: '23.75'
-average: '60.24'
+descuento: '35.00'
+average: '58.59'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,12 +28,6 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- DECORAZIONE PER CASA O PER LUFFICIO: esponi la tua creazione sul supporto costruibile con targhetta e solleva la sezione superiore per rivelare lhangar: un impressionante elemento per larredamento di casa o da esporre in ufficio
-- DETTAGLI AUTENTICI: usa le tue abilità fai da te e, utilizzando i mattoncini, ricrea la silhouette aerodinamica e i segni distintivi delliconico veicolo LEGO Star Wars della Repubblica
-- ISTRUZIONI PER LA COSTRUZIONE 3D: con lapp LEGO Builder puoi costruire i tuoi modelli utilizzando istruzioni 3D, tenere traccia dei tuoi progressi e salvare tutti i tuoi set
-- CREA LA TUA COLLEZIONE LEGO: questo modellino Star Wars è parte di una serie di astronavi in scala media, progettati per essere esposti insieme ad altri veicoli iconici della saga
-- REGALO STAR WARS: un avvincente set da costruire, ottimo come regalo per un uomo o una donna amanti della trilogia prequel, e per i fan adulti di LEGO e dei gadget e oggetti Star Wars da collezione
-- MODELLINO DI ASTRONAVE LEGO STAR WARS: costruisci ed esponi il modello LEGO per adulti in scala media Attack Cruiser Classe Venator, per gli appassionati del film Star Wars: La Vendetta dei Sith
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FPXBMXFN{{</world>}}

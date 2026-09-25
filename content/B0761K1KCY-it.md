@@ -28,11 +28,11 @@ average: '27.5175'
 
 ℹ️:
 
+- Set professionale da 25 pz. Set di punte per metallo HSS PointTeQ ProBox di Bosch: foratura rapida nel metallo grazie al design della punta PointTeQ
+- Ideale per la foratura di acciaio legato e non legato, metalli non ferrosi, plastica e legno
 - Maggiore velocità di foratura con meno calore e usura
 - Dotazione di fornitura: - 25 punte per metallo Bosch Professional HSS PointTeQ per acciaio - Ø 1/1,5/2/2,5/3/3,5/4/4,5/5/5,5/6/6,5/7/7,5/8/8,5/9/9,5/10/10,5/11/11,5/12/12,5/13 mm
-- Ideale per la foratura di acciaio legato e non legato, metalli non ferrosi, plastica e legno
 - Codolo cilindrico compatibile con mandrini a tre ganasce:
-- Set professionale da 25 pz. Set di punte per metallo HSS PointTeQ ProBox di Bosch: foratura rapida nel metallo grazie al design della punta PointTeQ
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0761K1KCY{{</world>}}

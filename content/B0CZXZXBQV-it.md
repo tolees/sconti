@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Dolby Vision/HDR 10+/HLG
 - Audio DTS Virtual X con Bluetooth
+- Smart TV 4K 65", Risoluzione 3840x2160
 - Smart TV VIDAA U7 con Alexa Integrato
 - AirPlay2 + Android Screen Sharing
-- Smart TV 4K 65", Risoluzione 3840x2160
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZXZXBQV{{</world>}}

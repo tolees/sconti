@@ -28,9 +28,9 @@ average: '20.95'
 
 ℹ️:
 
+- Capacità: 22 litri
 - Ampio scomparto principale e organizzazione interna
 - Tasca frontale con organizer
-- Capacità: 22 litri
 - Dimensioni: 41 x 30,4 x 12 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'La Roche-Posay Effaclar Mat Crema Idratante Seboregolatrice 40 ml'
-date: 2026-09-17 13:13:38
+date: 2026-09-22 15:57:33
 image: 'https://m.media-amazon.com/images/I/31gDSSBGYBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

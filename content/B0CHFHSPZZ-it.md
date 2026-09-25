@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - I giocatori dovranno anche portare avanti obiettivi secondari che approfondiscono le motivazioni personali di ciascun Sopravvissuto. Fortunatamente, questi Sopravvissuti non sono comuni cittadini: sono combattenti veterani con una ampia esperienza in fatto di armi da fuoco e demolizioni. Quando questi soldati tirano i dadi, non cè spazio per le scommesse
-- I giocatori dovranno lavorare insieme per poter sopravvivere nei territori abbandonati di Las Vegas, riuscire ad aprire il caveau del casinò e portare a casa un bottino. Ma lungo la strada incontreranno tipi di zombie, come gli Shambler, gli Alpha, la Regina, Zeus e persino Valentine, una tigre zombie
 - Basato sul film d’azione diretto da Zack Snyder, Army of the Dead: è una rivisitazione del classico gioco collaborativo ammazza-zombie, caricato di altra potenza e pura adrenalina
+- I giocatori dovranno lavorare insieme per poter sopravvivere nei territori abbandonati di Las Vegas, riuscire ad aprire il caveau del casinò e portare a casa un bottino. Ma lungo la strada incontreranno tipi di zombie, come gli Shambler, gli Alpha, la Regina, Zeus e persino Valentine, una tigre zombie
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CHFHSPZZ{{</world>}}

@@ -28,9 +28,9 @@ average: '27.55'
 
 ℹ️:
 
-- Puma Archivio n. 1 logo sulla linguetta
-- Puma Formstrip sul lato
 - Puma No 2 logo sul lato
+- Puma Formstrip sul lato
+- Puma Archivio n. 1 logo sulla linguetta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CKJJZGS1{{</world>}}

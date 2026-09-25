@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Capacità dacqua: 54368 L al 90% di riempimento
 - Rinfresca la tua estate in famiglia e rendila... Ultra, con la piscina Ultra XTR Frame rettangolare: ti aspettano grandi dimensioni e divertimento di alto livello! Con il modello Top di Gamma Intex sarai sempre in vacanza, direttamente nel tuo giardino. La struttura, dal look moderno e ricercato, presenta un robusto telaio in acciaio galvanizzato antiruggine e pareti laminate in PVC SuperTough a tripla resistenza. Il liner interno, con stampa a effetto mosaico, conferisce all’acqua un colore azzurro intenso. Arricchisci il tuo spazio esterno con una scelta di stile e goditi lo svago senza pensieri
 - La confezione include tutti gli accessori per unesperienza completa: pompa filtro a sabbia da 10500 L/h collegabile agli attacchi da 38 mm, dotata di sistema di aerazione Hydro Technology per una migliore filtrazione, purezza e chiarezza dell’acqua; una scaletta di sicurezza; un telo base su cui poggiare la piscina; un telo di copertura per proteggerla da sporco ed eventi atmosferici
-- Capacità dacqua: 54368 L al 90% di riempimento
 - Il sistema di aggancio della paleria consente un montaggio facile e sicuro, in soli 90 minuti
 - Piscina Fuori Terra Ultra XTR Frame Rettangolare, 975x488x132 cm
 

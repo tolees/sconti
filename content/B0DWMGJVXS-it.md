@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Il tubo di guida fisso previene la rottura della mina e offre una visione libera della pagina per un disegno preciso basato sul righello.
 - Il fusto triangolare appositamente progettato non scivola sui tavoli inclinati.
-- Ricaricabile con mine HB ad alto polimero; meccanismo in ottone per avanzamento di precisione della mina
 - Matita meccanica leggera con impugnatura in gomma morbida al tatto per una scrittura eccezionalmente confortevole
+- Ricaricabile con mine HB ad alto polimero; meccanismo in ottone per avanzamento di precisione della mina
+- Il tubo di guida fisso previene la rottura della mina e offre una visione libera della pagina per un disegno preciso basato sul righello.
 - Impugnatura in gomma morbida al tatto per un comfort ottimale con gomma integrata sotto il cappuccio del pulsante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

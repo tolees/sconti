@@ -28,11 +28,11 @@ average: '69.0'
 
 ℹ️:
 
+- Dimensioni: altezza 28 cm, diametro 18.5 cm
 - Materiale: resina termoplastica
 - Un elettrodomestico dallo stile contemporaneo, composto da un capiente contenitore, un beccuccio e un setaccio in acciaio
-- Designer: Michele De Lucchi
-- Dimensioni: altezza 28 cm, diametro 18.5 cm
 - Un elettrodomestico pratico e facile da usare, un connubio tra moda e design per chi cura ogni dettaglio della propria casa
+- Designer: Michele De Lucchi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BZ88Y2G3{{</world>}}

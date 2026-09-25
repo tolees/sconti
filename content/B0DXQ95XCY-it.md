@@ -28,8 +28,8 @@ average: '32.24'
 
 ℹ️:
 
-- Festeggiamenti per i 40 affascinanti anni di Tetris!
 - Include più di 15 giochi classici di Tetris giocabili e un nuovissimo gioco di Tetris - Tetris Time Warp.
+- Festeggiamenti per i 40 affascinanti anni di Tetris!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DXQ95XCY{{</world>}}

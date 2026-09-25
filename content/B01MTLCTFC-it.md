@@ -28,11 +28,11 @@ average: '0.99'
 
 ℹ️:
 
-- FELCE AZZURRA, PROFUMO INCONFONDIBILE: Dal 1923, porta nelle case il fascino di fragranze uniche tramandate nel tempo. Sinonimo di qualità e artigianalità, offre prodotti per la cura del corpo e della casa, regalando un’autentica esperienza sensoriale
 - DOCCIA SHAMPOO FRESCO E PROFUMATO: Le prime note agrumate di Pompelmo, Bergamotto e Anice Stellato lasciano spazio a un cuore di Geranio, Chiodi di Garofano e Pepe Nero. Il fondo si scalda con i toni di Vetyver, Patchouli, Sandalo, Legno di Cedro e Ambra
+- FELCE AZZURRA, PROFUMO INCONFONDIBILE: Dal 1923, porta nelle case il fascino di fragranze uniche tramandate nel tempo. Sinonimo di qualità e artigianalità, offre prodotti per la cura del corpo e della casa, regalando un’autentica esperienza sensoriale
+- EFFICACE FORMULA 2 IN 1 CORPO E CAPELLI: Il prodotto deterge delicatamente e idrata in un unico gesto, lasciando pelle e capelli freschi e profumati a lungo
 - PRATICITÀ E STILE PER LUOMO MODERNO: Ideale per chi cerca un prodotto efficace e versatile, da usare dopo lo sport, in viaggio o nella routine quotidiana
 - DONA UNA PIACEVOLE FRESCHEZZA RIVITALIZZANTE: La combinazione di ingredienti freschi e tonificanti dona un’immediata sensazione di energia e benessere, perfetta per iniziare la giornata con grinta
-- EFFICACE FORMULA 2 IN 1 CORPO E CAPELLI: Il prodotto deterge delicatamente e idrata in un unico gesto, lasciando pelle e capelli freschi e profumati a lungo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01MTLCTFC{{</world>}}

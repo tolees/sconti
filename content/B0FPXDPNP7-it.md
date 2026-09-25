@@ -28,12 +28,12 @@ average: '14.93'
 
 ℹ️:
 
-- INTRODUZIONE ALLA COSTRUZIONE: i playset LEGO per i piccoli in età prescolare sono un aiuto per imparare a costruire e consentono al resto della famiglia di condividere il divertimento insieme
 - 2 MINIFIGURE DI PERSONAGGI NINJAGO: contiene Jay e un malvagio Mostro della Mutazione, con cui ricreare l’azione della stagione 4 dello show TV LEGO NINJAGO La rivolta dei draghi
-- REGALI FANTASY: questo gioco LEGO NINJAGO è un’idea regalo di compleanno per i giovani fan degli eroi ninja da 4 anni in su, con cui sviluppare le loro capacità di narrazione di storie; è pensato per gli appassionati di robot giocattolo da costruire
-- ROBOT LEGO SNODABILI: entrambi i mech sono dotati di cockpit apribile e di coda, gambe, braccia e corpo snodabili, per poterli mettere in diverse pose di battaglia
-- SET FACILE DA COSTRUIRE CON ACCESSORI: contiene 4 armi intercambiabili, 2 spade giocattolo, una lancia e un paio di artigli, oltre a uno Starter Brick con cui i piccoli possono montare rapidamente i modellini
 - MECH GIOCATTOLO LEGO NINJAGO LEARN-TO-BUILD: il gioco per bambini e bambine da 4 anni in su Duello con il Drago-Mech di Jay permette di inscenare battaglie ninja grazie a 2 action figure snodabili
+- ROBOT LEGO SNODABILI: entrambi i mech sono dotati di cockpit apribile e di coda, gambe, braccia e corpo snodabili, per poterli mettere in diverse pose di battaglia
+- REGALI FANTASY: questo gioco LEGO NINJAGO è un’idea regalo di compleanno per i giovani fan degli eroi ninja da 4 anni in su, con cui sviluppare le loro capacità di narrazione di storie; è pensato per gli appassionati di robot giocattolo da costruire
+- INTRODUZIONE ALLA COSTRUZIONE: i playset LEGO per i piccoli in età prescolare sono un aiuto per imparare a costruire e consentono al resto della famiglia di condividere il divertimento insieme
+- SET FACILE DA COSTRUIRE CON ACCESSORI: contiene 4 armi intercambiabili, 2 spade giocattolo, una lancia e un paio di artigli, oltre a uno Starter Brick con cui i piccoli possono montare rapidamente i modellini
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FPXDPNP7{{</world>}}

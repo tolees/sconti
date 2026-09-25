@@ -28,10 +28,10 @@ average: '290.47'
 
 ℹ️:
 
-- VELOCITA’: stampa fino a 34 pagine al minuto. Funzionalità di stampa fronte/retro
-- GESTIONE CARTA: cassetto da 250 fogli e alimentatore automatico (ADF) da 50 fogli
 - TONER: incluso nella confezione toner starter kit da 1.500 pagine ( a norma ISO/IEC 19752). Toner aggiuntivi da acquistare a parte: TN2510 da 1.200 pagine TN2510XL da 3.000 pagine TN2510XXL da 5.000 pagine
 - DISPLAY: Intuitivo display touchscreen da 8.8 cm
+- VELOCITA’: stampa fino a 34 pagine al minuto. Funzionalità di stampa fronte/retro
+- GESTIONE CARTA: cassetto da 250 fogli e alimentatore automatico (ADF) da 50 fogli
 - CONNETTIVITA’: WiFi a 5 GHz, LAN e USB. Tramite APP Brother Mobile Connect puoi gestire comodamente il tuo dispositivo da smartphone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Resistenti
-- Traspiranti
 - Lavabili in lavatrice
+- Traspiranti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B008GNOH66{{</world>}}

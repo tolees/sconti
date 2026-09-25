@@ -28,14 +28,14 @@ average: '14.5'
 
 ℹ️:
 
-- con super morbido 100% COTONE jersey e una vestibilità rilassata, questo grafica vintage vestibilità T-Shirt è lessenziale tee nella sua forma migliore.
-- MATERIALE: 100% COTONE
-- Un revival di un vintage shop capo
 - Taglio con vestibilità rilassata
-- design CLASSICO LEVIS: Abbiamo trovato questo capo Levis in un negozio vintage e ci è piaciuto così tanto che abbiamo deciso di riportarlo in vita per il 21° secolo.
-- ETICHETTA ROSSA LEVIS: Esistono diverse variazioni della nostra famosa etichetta rossa. Alcune dicono LEVIS, altre Levis, alcune non mostrano affatto il marchio. Per le edizioni speciali a volte cambiamo anche il colore.
+- Un revival di un vintage shop capo
 - MATERIALE: 100% COTONE
+- MATERIALE: 100% COTONE
+- ETICHETTA ROSSA LEVIS: Esistono diverse variazioni della nostra famosa etichetta rossa. Alcune dicono LEVIS, altre Levis, alcune non mostrano affatto il marchio. Per le edizioni speciali a volte cambiamo anche il colore.
+- design CLASSICO LEVIS: Abbiamo trovato questo capo Levis in un negozio vintage e ci è piaciuto così tanto che abbiamo deciso di riportarlo in vita per il 21° secolo.
 - La modella è alta 185 cm, Vita 31", Indossa una taglia M
+- con super morbido 100% COTONE jersey e una vestibilità rilassata, questo grafica vintage vestibilità T-Shirt è lessenziale tee nella sua forma migliore.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D54K9BKH{{</world>}}

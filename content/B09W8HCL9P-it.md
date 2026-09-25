@@ -28,8 +28,8 @@ average: '39.33'
 
 ℹ️:
 
-- Note di base: Vetiver
 - Note principali: rosa assoluta
+- Note di base: Vetiver
 - Note di cuore: fava Tonka
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

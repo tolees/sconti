@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dyson Asciugacapelli Supersonicnural Prussian Blu/rame 113277-01'
-date: 2026-09-18 09:46:28
+date: 2026-09-25 06:36:37
 image: 'https://m.media-amazon.com/images/I/213MLvPmYVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0DT4XSTRW/?tag=tolees00-21'
 descuento: '20.06'
-average: '294.0'
+average: '291.0'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

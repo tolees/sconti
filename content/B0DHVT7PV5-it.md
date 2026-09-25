@@ -28,13 +28,13 @@ average: '60.0'
 
 ℹ️:
 
-- Chiusura con lacci
-- Peso: 440 g (misura 38 2/3)
-- Soletta OrthoLite e membrana GORE-TEX
 - Tomaia in Ripstop con rivestimenti.
-- Drop intersuola: 10 mm (tallone: 32 mm/avampiede: 22 mm)
 - intersuola in EVA LIGHTMOTION
+- Peso: 440 g (misura 38 2/3)
+- Chiusura con lacci
+- Soletta OrthoLite e membrana GORE-TEX
 - Vestibilità regolare
+- Drop intersuola: 10 mm (tallone: 32 mm/avampiede: 22 mm)
 - Suola in gomma Continental
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

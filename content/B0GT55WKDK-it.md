@@ -28,11 +28,11 @@ average: '449.0'
 
 ℹ️:
 
-- Con un solo tocco — freschezza immediata: Scopri un gusto dolcemente rinfrescante con una tazza di caffè freddo Cold Brew Nessuna lunga attesa · Temperatura più bassa · Gusto più puro
 - Sistema di Estrazione Dorata Setosa: L’estrazione ad alta pressione da 19 bar e il controllo preciso della temperatura rilasciano completamente una crema ricca e aromatica, offrendo un gusto autentico, setoso e vellutato.
+- Sistema di autopulizia completa del circuito: Pulizia del gruppo di infusione Pulizia del sistema del latte Decalcificazione Pulizia automatica all’accensione e allo spegnimento Svuotamento del circuito
 - 9 livelli di macinatura con dosaggio preciso: I 9 livelli di macinatura si adattano a chicchi con diversi gradi di tostatura, permettendoti di scoprire facilmente un ampio spettro di aromi — da intensi e corposi a floreali e delicati. La calibrazione adattiva della dose garantisce un’estrazione costante per un risultato stabile e affidabile in tazza
 - Display intelligente a colori, Un solo tocco per sei bevande al caffè: Dal ricco Espresso al latte vellutato, fino al rinfrescante Cold Brew, accendi la tua ispirazione quotidiana per il caffè con un semplice tocco. Espresso, Lungo, Cold Brew*, Flat White, Cappuccino, Latte Macchiato
-- Sistema di autopulizia completa del circuito: Pulizia del gruppo di infusione Pulizia del sistema del latte Decalcificazione Pulizia automatica all’accensione e allo spegnimento Svuotamento del circuito
+- Con un solo tocco — freschezza immediata: Scopri un gusto dolcemente rinfrescante con una tazza di caffè freddo Cold Brew Nessuna lunga attesa · Temperatura più bassa · Gusto più puro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GT55WKDK{{</world>}}

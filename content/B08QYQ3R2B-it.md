@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tipo di sport: Calcio
 - Tessuto in pile si sente morbido e caldo
+- Tipo di sport: Calcio
 - Tasca a marsupio sul davanti
 - Prodotto di ottima qualità
 - Cordino cappuccio consente di regolare la copertura

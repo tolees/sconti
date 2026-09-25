@@ -28,10 +28,10 @@ average: '59.99'
 
 ℹ️:
 
-- Spegnimento dopo la scadenza del tempo impostato, inclinazione regolabile senza livelli
-- Lampada a infrarossi con grande area di irradiazione: 30 x 40 cm
 - Ventilazione attiva contro un riscaldamento troppo forte, prodotto medico
 - Blocco UV 100%, luce a infrarossi, 300 W, con timer da 15 min
+- Spegnimento dopo la scadenza del tempo impostato, inclinazione regolabile senza livelli
+- Lampada a infrarossi con grande area di irradiazione: 30 x 40 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B002SYU55Q{{</world>}}

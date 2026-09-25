@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Larghezza: Regolare
-- Tipo di tacco: Tacco piatto
 - Fodera: Tessuto
+- Tipo di tacco: Tacco piatto
 - Suola: Gomma
 - Tipo di punta: Rotonda
 - Fibbia: Lacci

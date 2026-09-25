@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Smart TV VIDAA U8 con +1000 APP
 - QLED Display +Brightness
 - AirPlay2 + Android Screen Sharing
-- Smart TV VIDAA U8 con +1000 APP
 - Smart TV QLED 4K 65", Risoluzione 3840x2160
 - Audio Dolby Atmos con Bluetooth
 

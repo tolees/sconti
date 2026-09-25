@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Carta vetrata a 15 punte
 - Con grana assortita
 - Applicazioni: per legno, metallo, muratura/gesso, plastica e vernice
-- Carta vetrata a 15 punte
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07NDP6BPZ{{</world>}}

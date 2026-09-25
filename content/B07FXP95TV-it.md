@@ -29,8 +29,8 @@ average: '9.39'
 ℹ️:
 
 - 🎨 AMPIA PALETTA DI 31 COLORI: Disponibile in 31 colori intensi e luminosi (classici, pastello, neon e metallici), il Pilot G2 Plus si adatta a tutti gli stili di scrittura: presa di appunti, organizzazione, creatività o annotazioni professionali
-- ✍ FLUIDITÀ E COMFORT DI SCRITTURA ECCEZIONALI: Grazie al suo grip ergonomico in gomma, il G2 Plus garantisce una presa comoda e un controllo ottimale del tratto, anche durante lunghe sessioni di scrittura. Il suo meccanismo retrattile protegge la punta e lo rende pratico per luso quotidiano. Adatto a destri e a mancini
 - ♻️ PENNA RICARICABILE PROGETTATA PER DURARE: Liconico G-2 diventa G-2 Plus, ora realizzato con oltre il 75% di plastica riciclata, confermando limpegno del marchio Pilot nei confronti del pianeta. Ricaricabile, il G2 Plus è compatibile con le ricariche Pilot BLS-G2 per una soluzione durevole ed economica
+- ✍ FLUIDITÀ E COMFORT DI SCRITTURA ECCEZIONALI: Grazie al suo grip ergonomico in gomma, il G2 Plus garantisce una presa comoda e un controllo ottimale del tratto, anche durante lunghe sessioni di scrittura. Il suo meccanismo retrattile protegge la punta e lo rende pratico per luso quotidiano. Adatto a destri e a mancini
 - ⭐ IL ROLLER GEL ICONICO: Vera referenza nella scrittura, il G2 Plus offre una scrittura fluida, precisa e regolare. La sua punta media da 0,7 mm e la sua sfera robusta garantiscono una linea chiara e senza sbavature. Una penna affidabile e resistente, ideale per un uso quotidiano in ufficio, a scuola o a casa
 - ✅ FABBRICAZIONE FRANCESE E INCHIOSTRO SICURO: Progettato e fabbricato in Francia, il G2 Plus risponde agli standard di qualità più elevati. Il suo inchiostro gel è conforme alla norma ISO 27668-2 (Safe Ink), adatto a documenti ufficiali, resistente nel tempo e non cancellabile
 

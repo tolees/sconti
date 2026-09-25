@@ -28,8 +28,8 @@ average: '58.0'
 
 ℹ️:
 
-- POTENTE MOTORE BYPASS DA 1250 W – Il motore bypass da 1250 W genera 200 Watt di potenza dellaria per l’aspirazione e lestrazione sia a umido che a secco. Perfetto per la casa, il garage e il lavoro.
 - ESTRAZIONE DI LIQUIDI E SOLIDI – Aspirare sia i detriti liquidi che quelli solidi. Laspirapolvere multiuso può affrontare qualsiasi cosa, dalla polvere ai detriti più grandi, dalle perdite d’acqua anche sporca.
+- POTENTE MOTORE BYPASS DA 1250 W – Il motore bypass da 1250 W genera 200 Watt di potenza dellaria per l’aspirazione e lestrazione sia a umido che a secco. Perfetto per la casa, il garage e il lavoro.
 - COMPATTO E PORTATILE - Il serbatoio di raccolta da 20Litri è in polimero resistente agli urti e può gestire anche i compiti più difficili. Compatto, leggero e portatile, è completo di maniglia pieghevole per il trasporto.
 - SOFFIATORE AD ALTE PRESTAZIONI 2 in 1 - Passa da un versatile aspirapolvere e aspiraliquidi ad un potente soffiatore da giardino portatile con la semplice pressione di un pulsante.
 

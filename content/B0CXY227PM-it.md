@@ -28,8 +28,8 @@ average: '719.99'
 
 ℹ️:
 
-- Mantieni una visuale d’insieme sia sul barbecue che sulla tavola
 - Due zone di cottura regolabili separatamente
+- Mantieni una visuale d’insieme sia sul barbecue che sulla tavola
 - Con i nostri sensori della temperatura interna e con lapplicazione, diventerai un vero maestro del barbecue
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

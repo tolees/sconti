@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sole Detersivo Lavatrice Liquido Bianco Splendente 123 Lavaggi'
-date: 2026-09-19 18:16:19
+date: 2026-09-24 11:14:40
 image: 'https://m.media-amazon.com/images/I/51GIJooj9bL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0CP7ZLV22/?tag=tolees00-21'
 descuento: '22.23'
-average: '13.705'
+average: '13.8'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

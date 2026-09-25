@@ -29,11 +29,11 @@ average: '332.6'
 ℹ️:
 
 - DECORAZIONE PER LA CASA SCI-FI: include un espositore angolato con placca informativa per il modello U.S.S. Enterprise, e una tessera da esposizione con minifigure e il branding Star Trek: The Next Generation
-- ASTRONAVE LEGO STAR TREK ENTERPRISE: questo kit di modellismo LEGO Icons per adulti replica in mattoncini la leggendaria nave ammiraglia della Flotta Stellare Star Trek: U.S.S. Enterprise NCC-1701-D
 - REGALO PER I FAN DEI GADGET STAR TREK: il set Star Trek: U.S.S. Enterprise NCC-1701-D LEGO da collezione è unottima idea regalo di compleanno per gli appassionati del popolare franchise Star Trek e dei modellini da costruire di astronavi LEGO
-- ISTRUZIONI DIGITALI PER LA COSTRUZIONE: l’app LEGO Builder contiene una versione digitale in 3D delle istruzioni di montaggio del set, con replica della serie Star Trek: The Next Generation
 - MODELLINO ENTERPRISE STAR TREK: include la navicella Star Trek Enterprise con 2 shuttlepod, disco di comando staccabile, scafo secondario e gondole a curvatura
 - PERSONAGGI ICONICI: con 9 minifigure di Jean-Luc Picard, William Riker, Worf, Data, Beverly Crusher, Geordi La Forge, Deanna Troi, Guinan e Wesley Crusher, ognuna dotata di accessori
+- ASTRONAVE LEGO STAR TREK ENTERPRISE: questo kit di modellismo LEGO Icons per adulti replica in mattoncini la leggendaria nave ammiraglia della Flotta Stellare Star Trek: U.S.S. Enterprise NCC-1701-D
+- ISTRUZIONI DIGITALI PER LA COSTRUZIONE: l’app LEGO Builder contiene una versione digitale in 3D delle istruzioni di montaggio del set, con replica della serie Star Trek: The Next Generation
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01N7DWPKK{{</world>}}

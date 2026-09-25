@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tapo C200 FHD Telecamera WiFi Interno Videocamera Sorveglianza 360° PTZ'
-date: 2026-09-18 06:21:25
+date: 2026-09-22 07:12:32
 image: 'https://m.media-amazon.com/images/I/41jYxVshCiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B07XLML2YS/?tag=tolees00-21'
 descuento: '33.34'
-average: '20.6072413793103'
+average: '20.5866666666666'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

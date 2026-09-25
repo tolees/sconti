@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Aspiratore per solidi e liquidi molto potente, dotato anche di funzione soffiante, con fusto raccolta in acciaio inossidabile robusto e resistente
-- Potenza assorbita (kW) 1,6; Depressione (mbar) 190; Aria aspirata (l/s) 37; Capacità fusto (l) 30; Lunghezza cavo di alimentazione (m) 5; Diametro tubi aspirazione (mm) 35
-- In dotazione 1 spazzola per pavimenti wet&dry, 1 bocchetta per fessure
-- Tubo d’aspirazione flessibile e resistente alla torsione
 - Tappo di scarico liquidi per svuotamento fusto
+- In dotazione 1 spazzola per pavimenti wet&dry, 1 bocchetta per fessure
+- Potenza assorbita (kW) 1,6; Depressione (mbar) 190; Aria aspirata (l/s) 37; Capacità fusto (l) 30; Lunghezza cavo di alimentazione (m) 5; Diametro tubi aspirazione (mm) 35
+- Tubo d’aspirazione flessibile e resistente alla torsione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01EVJF2VM{{</world>}}

@@ -29,8 +29,8 @@ average: '11.67'
 ℹ️:
 
 - Stampa a tampone
-- Logo
 - 12H hot/24H cold
+- Logo
 - Borraccia termica
 - Adatta al lavaggio in lavastoviglie
 

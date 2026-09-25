@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Borotalco Bagnodoccia Originale Profumo di Borotalco 500 ml'
-date: 2026-09-16 16:09:40
+date: 2026-09-24 19:52:30
 image: 'https://m.media-amazon.com/images/I/31aVJs1XUhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

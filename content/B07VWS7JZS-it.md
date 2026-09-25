@@ -29,8 +29,8 @@ average: '9.99'
 ℹ️:
 
 - GYADA COSMETICS: Cosmetici di alta qualità, creati attraverso l’utilizzo di formulazioni esclusivamente naturali, a base di estratti vegetali e biologici
-- SIERO VISO PURIFICANTE: Svolge un’azione antimicrobica, riduce la formazione di comedoni e regola la produzione di sebo. Aiuta a purificare, lenire e rinfrescare anche le pelli infiammate
 - MODO DUSO: Applica il prodotto sul viso, dopo il tonico e prima della crema. Tampona fino ad assorbimento. Per potenziare l’azione, utilizza 1 volta a settimana la rispettiva maschera in tessuto
+- SIERO VISO PURIFICANTE: Svolge un’azione antimicrobica, riduce la formazione di comedoni e regola la produzione di sebo. Aiuta a purificare, lenire e rinfrescare anche le pelli infiammate
 - PROPRIETÀ: Siero viso in emulsione ad alta concentrazione di sostanze funzionali ed estratti vegetali utili per il trattamento della pelle impura, acneica e grassa
 - INGREDIENTI: Complesso a base di Serenoa, Ginepro, Bardana, Propoli, Succo di Aloe Vera Biologico, Vitamina E, Olio di Macadamia
 

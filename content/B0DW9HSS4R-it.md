@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Manica: Lunga
-- Stampa Arty
-- Lunghezza: Midi
 - Collo: dolcevita
+- Stampa Arty
 - Vestibilità: Slim
+- Lunghezza: Midi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DW9HSS4R{{</world>}}

@@ -28,8 +28,8 @@ average: '12.4866666666667'
 
 ℹ️:
 
-- Con pesci selezionati e controllati
 - Omogeneizzato con filetto di pesce e verdure, alimento per linfanzia, indicato dal sesto mese compiuto
+- Con pesci selezionati e controllati
 - Senza sale aggiunto
 - Senza conservanti come per legge
 

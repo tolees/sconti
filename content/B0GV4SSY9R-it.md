@@ -29,8 +29,8 @@ average: '24.99'
 ℹ️:
 
 - Ideali per stampare elevati volumi di documenti, mettendo lambiente al primo posto
-- 1 cartuccia
 - Stampa testi neri nitidi e grafica dai colori brillanti con i materiali di consumo originali HP, progettati per offriti le massime prestazioni ad ogni stampa.
+- 1 cartuccia
 - (~800) pagine
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

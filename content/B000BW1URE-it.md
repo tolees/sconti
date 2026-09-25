@@ -28,8 +28,8 @@ average: '20.44'
 
 ℹ️:
 
-- Può essere utilizzato senza difficoltà
 - Ha un design compatto
+- Può essere utilizzato senza difficoltà
 - Con geomag si possono riprodurre tutti i tipi di forme geometriche
 - Consigliato per bambini 3 anni +
 

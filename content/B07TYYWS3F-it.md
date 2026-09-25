@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '[Mizon] Collagen 100 30ml Siero al collagene trattamento intensivo per rughe linee sottili e tutti i segni dell invecchiamento facilmente assorbibile con ingredienti naturali cosmetico coreano'
-date: 2026-09-17 11:11:31
+date: 2026-09-21 20:06:52
 image: 'https://m.media-amazon.com/images/I/41U0XtYOp9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

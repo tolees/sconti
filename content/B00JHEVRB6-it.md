@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tweeter polieterimmide equilibrato; Magnete in ferrite (Woofer)
 - Magnete al neodimio (Tweeter); Surround ibrida; Profondità di montaggio: 43,5 mm
 - Contenuto: JVC CS-J520X, viti di montaggio (8x), cavo dellaltoparlante, staffe di montaggio (8x)
-- altoparlanti coassiali da 13 centimetri a 2 vie; Resistenza 250W max / 30W RMS; Gamma di frequenza: 40-22000 Hz
+- Tweeter polieterimmide equilibrato; Magnete in ferrite (Woofer)
 - Livello di pressione sonora: 91 dB / W.m; Woofer a cono con membrana in fibre composite
+- altoparlanti coassiali da 13 centimetri a 2 vie; Resistenza 250W max / 30W RMS; Gamma di frequenza: 40-22000 Hz
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00JHEVRB6{{</world>}}

@@ -28,8 +28,8 @@ average: '33.23'
 
 ℹ️:
 
-- Logo stampato HD
 - Costruzione vulcanizzata
+- Logo stampato HD
 - Suola in gomma adesiva resistente allabrasione
 - Tomaia in tela da 170 g
 

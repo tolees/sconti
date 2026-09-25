@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Ghiaccio spray che produce un freddo istantaneo
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
-- Provoca benessere grazie allazione del ghiaccio
 - Da usare in caso di contusioni e distorsioni
 - Capacità 400 ml
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
+- Provoca benessere grazie allazione del ghiaccio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FN4KPM52{{</world>}}

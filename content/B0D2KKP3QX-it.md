@@ -28,8 +28,8 @@ average: '21.99'
 
 ℹ️:
 
-- Coupe régulière
 - Tige en matière synthétique
+- Coupe régulière
 - Lacets élastiques et fermeture à scratch
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

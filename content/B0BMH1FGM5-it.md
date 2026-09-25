@@ -28,9 +28,9 @@ average: '27.22'
 
 ℹ️:
 
-- Disegnata con un taglio aderente e slanciato
 - Una versatile camicia con bottoni da indossare con jeans o chino
 - Rifinita con un logo discreto sul petto
+- Disegnata con un taglio aderente e slanciato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BMH1FGM5{{</world>}}

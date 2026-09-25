@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- partirai per un viaggio "on the road" con Sean Diaz e suo fratello Daniel, dotato di poteri telecinetici
 - cercherai una nuova casa con Alex Chen, unempatica con dei poteri psichici; e infine tornerai con Max per risolvere un omicidio in due sequenze temporali.
-- Nel corso di cinque avventure cinematografiche e cariche di emozioni, riavvolgerai il tempo nei panni di Max Caulfield e scoprirai i segreti di Arcadia Bay insieme a Chloe Price
+- partirai per un viaggio "on the road" con Sean Diaz e suo fratello Daniel, dotato di poteri telecinetici
 - LIFE IS STRANGE è una serie di avventure narrative in single-player basate su storie toccanti e autentiche con una svolta sovrannaturale. Dal suo debutto, il franchise ha vinto più di 100 premi, che includono The Peabody Awards, BAFTA e GLAAD.
+- Nel corso di cinque avventure cinematografiche e cariche di emozioni, riavvolgerai il tempo nei panni di Max Caulfield e scoprirai i segreti di Arcadia Bay insieme a Chloe Price
 - La scatola include un disco con LIFE IS STRANGE: TRUE COLORS e LIFE IS STRANGE: DOUBLE EXPOSURE, e un codice riscattabile che dà accesso a LIFE IS STRANGE REMASTERED, LIFE IS STRANGE: BEFORE THE STORM REMASTERED, LIFE IS STRANGE 2, tutti i DLC connessi e i bonus per il pre-ordine.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

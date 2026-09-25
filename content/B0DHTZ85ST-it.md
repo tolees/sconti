@@ -28,8 +28,8 @@ average: '39.99'
 
 ℹ️:
 
-- Chiusura con lacci
 - Fodera in tessuto
+- Chiusura con lacci
 - Suola per terreni compatti/multisuperficie
 - Vestibilità regolare
 - Tomaia Fiberskin con stampa Sprintgrid

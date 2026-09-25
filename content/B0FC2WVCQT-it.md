@@ -32,8 +32,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 - Design: design moderno e minimalista in grigio scuro, struttura in acciaio, 4 attacchi E27, cavo tessile lungo 2 m
 - Applicazione: soggiorni, cantine, corridoi, ingressi, scale, camere da letto, effetto vintage speciale con lampade del 1906
 - Tecnologia: Lampada a sospensione per uso interno, opzioni di montaggio flessibili, grado di protezione IP20, aspetto e sensazione di alta qualità, facile installazione
-- Lampada disponibile separatamente
 - Installazione: Montaggio a soffitto con accessori inclusi, attacco standard, possibilità di regolazione flessibile dellaltezza, installazione rapida. Lampadina non inclusa.
+- Lampada disponibile separatamente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FC2WVCQT{{</world>}}

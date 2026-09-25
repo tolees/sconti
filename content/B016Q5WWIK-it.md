@@ -28,11 +28,11 @@ average: '27.73'
 
 ℹ️:
 
-- ricaricabile con refill LRP7
-- prefetto per uso su documenti ufficiali
+- fusto in plastica con particolari in metallo
 - resistente allacqua e alla luce
 - inchiostro a pigmenti certificato ISO 27668-2
-- fusto in plastica con particolari in metallo
+- ricaricabile con refill LRP7
+- prefetto per uso su documenti ufficiali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B016Q5WWIK{{</world>}}

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Confezione da 3 magliette basic da uomo con scollo rotondo
-- T-shirt basic dal taglio dritto
-- T-shirt manica corta
 - T-shirt uomo in cotone
+- Confezione da 3 magliette basic da uomo con scollo rotondo
+- T-shirt manica corta
+- T-shirt basic dal taglio dritto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08QW5M64G{{</world>}}

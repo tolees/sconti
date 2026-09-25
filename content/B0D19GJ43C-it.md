@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pan di Stelle Biscotti Frollini con Cacao 12 Confezioni da 350 g'
-date: 2026-09-16 07:15:29
+date: 2026-09-21 07:21:24
 image: 'https://m.media-amazon.com/images/I/41qdRNqS2BL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0D19GJ43C/?tag=tolees00-21'
 descuento: '37.35'
-average: '19.40875'
+average: '19.3322222222222'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

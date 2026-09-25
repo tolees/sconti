@@ -28,11 +28,11 @@ average: '147.25'
 
 ℹ️:
 
-- MANUTENZIONE FACILE E IGIENICA: Questa aspirapolvere per pavimenti duri è progettata per una manutenzione facile e veloce grazie alla funzione anti-groviglio e al sistema autopulente, che pulisce in autonomia il rullo e la ventilazione dellaria aiuta a prevenire cattivi odori.
-- PERFORMANCE EFFICACI: Potente aspirazione da 16.000 Pascal¹ per una pulizia e asciugatura efficace in una sola passata.
 - HOOVER: Progettiamo prestazioni che durano nel tempo. La nostra missione è semplificare la tua vita quotidiana con prodotti pensati per le tue esigenze, in modo che tu possa passare meno tempo a pulire e più tempo a dedicarti a ciò che conta davvero.
-- MODALITÀ 2in1: Personalizza le tue pulizie con due modalità dedicate: solo aspirazione e aspirazione + lavaggio, con un’autonomia fino a 40 minuti. Usa la prima per l’aspirazione quotidiana e la seconda per una pulizia profonda. Attiva la funzione Turbo per una potenza di aspirazione extra in entrambe le modalità.
+- PERFORMANCE EFFICACI: Potente aspirazione da 16.000 Pascal¹ per una pulizia e asciugatura efficace in una sola passata.
 - PULIZIA DEI BORDI: La nostra lavapavimenti e aspirapolvere senza filo è perfetta per pulire a fondo i bordi su entrambi i lati della spazzola, garantendo una pulizia accurata anche lungo i battiscopa.
+- MODALITÀ 2in1: Personalizza le tue pulizie con due modalità dedicate: solo aspirazione e aspirazione + lavaggio, con un’autonomia fino a 40 minuti. Usa la prima per l’aspirazione quotidiana e la seconda per una pulizia profonda. Attiva la funzione Turbo per una potenza di aspirazione extra in entrambe le modalità.
+- MANUTENZIONE FACILE E IGIENICA: Questa aspirapolvere per pavimenti duri è progettata per una manutenzione facile e veloce grazie alla funzione anti-groviglio e al sistema autopulente, che pulisce in autonomia il rullo e la ventilazione dellaria aiuta a prevenire cattivi odori.
 - LAVAPAVIMENTI HW3: La nuova lavapavimenti e aspirapolvere è il vero elettrodomestico tutto in uno per pulire i pavimenti duri con il minimo sforzo. Aspira, lava e asciuga – pulizia senza fatica in un unico gesto!
 - MANOVRABILITÀ: Pulisci con facilità in casa e intorno ai mobili grazie al sistema autopropulsivo integrato. Raggiungi la polvere nascosta sotto i mobili e goditi una pulizia senza sforzo.
 

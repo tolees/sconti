@@ -28,11 +28,11 @@ average: '32.49'
 
 ℹ️:
 
-- Potenza: 800W
-- Capacità: 10 Lt
-- Termostato regolabile da 100° a 230°C
 - Timer 60 minuti con segnale acustico
+- Capacità: 10 Lt
 - Vetro doppio per isolamento termico
+- Potenza: 800W
+- Termostato regolabile da 100° a 230°C
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BV6R8M3M{{</world>}}

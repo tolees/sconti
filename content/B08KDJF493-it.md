@@ -28,10 +28,10 @@ average: '23.35'
 
 ℹ️:
 
-- Bianco: rivestimento in elegante color bianco - per ogni occasione - dai matrimoni ai compleanni
-- Elastici: tessuto in poliestere e elastam - altezza 85 - 100 cm ca. - larghezza 40 - 60 cm ca.
 - Universale: set da 4 coprisedia per sedie impilabili - copertura per sedie senza braccioli
 - Versatile: fodera per sedie di casa - per decorare le sedie durante le feste - per eventi e convegni
+- Bianco: rivestimento in elegante color bianco - per ogni occasione - dai matrimoni ai compleanni
+- Elastici: tessuto in poliestere e elastam - altezza 85 - 100 cm ca. - larghezza 40 - 60 cm ca.
 - Facile da pulire: rivestimento senza pieghe e estremamente elastico - copertura lavabile a 30° C
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

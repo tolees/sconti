@@ -28,12 +28,12 @@ average: '7.99'
 
 ℹ️:
 
-- Tecnlogia GaN: realizzato con semiconduttori in nitruro di gallio (GaN). Gli accessori con questa caratteristica sono più compatti ma, allo stesso tempo, molto potenti. La scocca del caricatore da rete GaN misura solamente 35x30mm e può essere facilmente riposto in una borsetta o uno zainetto. Portalo sempre con te nei tuoi viaggi: la spina europea garantisce la compatibilità in molti paesi del mondo.
-- Ricarica Rapida: il caricatore GaN USB-C da 30 Watt ricarica smartphone, tablet, smartwatch, auricolari TWS di molte marche come Apple, Samsung, Google, Xiaomi, Oppo. Questo caricabatterie può anche alimentare i MacBook Air (verifica le specifiche tecniche del tuo dispositivo da ricaricare). Un accessorio immancabile in casa ed ufficio.
-- Dimensioni: 30x30x80mm, Peso: 30g. Incluso nella confezione: Alimentatore TETRGAN1C30W, Manuale Istruzioni.
-- Power Deivery (PD): può alimentare con maggiore potenza i dispositivi collegati. Appena inserirai un tuo cavo compatibile nella porta USB-C, il caricatore da muro GaN erogherà energia a 30 Watt permettendo di ricaricare uno smartphone in 30 minuti, un tablet in 60 ed un MacBook Air in 110 (i tempi di ricarica sono indicativi e dipendono dalla capacità della batteria del device in carica).
 - Sicurezza: i prodotti dotati tecnologia Power Delivery sono progettati per comunicare direttamente con il dispositivo per controllare la corretta quantità di energia da erogare. In questo modo, surriscaldamenti e cortocircuiti saranno sempre evitati.
+- Dimensioni: 30x30x80mm, Peso: 30g. Incluso nella confezione: Alimentatore TETRGAN1C30W, Manuale Istruzioni.
+- Ricarica Rapida: il caricatore GaN USB-C da 30 Watt ricarica smartphone, tablet, smartwatch, auricolari TWS di molte marche come Apple, Samsung, Google, Xiaomi, Oppo. Questo caricabatterie può anche alimentare i MacBook Air (verifica le specifiche tecniche del tuo dispositivo da ricaricare). Un accessorio immancabile in casa ed ufficio.
+- Tecnlogia GaN: realizzato con semiconduttori in nitruro di gallio (GaN). Gli accessori con questa caratteristica sono più compatti ma, allo stesso tempo, molto potenti. La scocca del caricatore da rete GaN misura solamente 35x30mm e può essere facilmente riposto in una borsetta o uno zainetto. Portalo sempre con te nei tuoi viaggi: la spina europea garantisce la compatibilità in molti paesi del mondo.
 - Design Slim: il suo particolare design assicura praticità, da qualsiasi verso lo inserirai nella spina a muro non avrai difficoltà ad inserire il tuo cavo di ricarica.
+- Power Deivery (PD): può alimentare con maggiore potenza i dispositivi collegati. Appena inserirai un tuo cavo compatibile nella porta USB-C, il caricatore da muro GaN erogherà energia a 30 Watt permettendo di ricaricare uno smartphone in 30 minuti, un tablet in 60 ed un MacBook Air in 110 (i tempi di ricarica sono indicativi e dipendono dalla capacità della batteria del device in carica).
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C9JQ9NLG{{</world>}}

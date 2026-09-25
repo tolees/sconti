@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Spessore della pellicola: 30 µm
-- Capacità: 240 litri
 - Dimensioni: 90 x 140 cm
-- 10 pezzi per unità di vendita. Colore: nero
+- Spessore della pellicola: 30 µm
 - Sacchetti per la spazzatura robusti per ufficio, antistrappo (LDPE), 240 l, 10 pezzi. Colore: nero
+- 10 pezzi per unità di vendita. Colore: nero
+- Capacità: 240 litri
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08KHPSMDK{{</world>}}

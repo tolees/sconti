@@ -28,10 +28,10 @@ average: '8.07'
 
 ℹ️:
 
-- Movie
 - Disc
-- Film
+- Movie
 - DVD
+- Film
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07STCX5ZK{{</world>}}

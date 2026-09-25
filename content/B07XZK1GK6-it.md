@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Attacchi: 2 x Line IN (RCA), ottico (TOSLINK), coassiale, Bluetooth.
-- Sistema di altoparlanti da scaffale ad alte prestazioni con Bluetooth (versione 5.0 con aptX), telecomando, ingressi digitali e analogici.
-- Altoparlante attivo con controlli per volume, potenza dei bassi e alti. Coperture rimovibili per altoparlanti.
 - Certificato audio HiRes, supporta segnali audio digitali con velocità di campionamento fino a 24BIT/216KHZ.
+- Altoparlante attivo con controlli per volume, potenza dei bassi e alti. Coperture rimovibili per altoparlanti.
+- Sistema di altoparlanti da scaffale ad alte prestazioni con Bluetooth (versione 5.0 con aptX), telecomando, ingressi digitali e analogici.
+- Attacchi: 2 x Line IN (RCA), ottico (TOSLINK), coassiale, Bluetooth.
 - Tensione in uscita (RMS): 2x 25W (tweeter) + 2x 35W (midrange/woofer); porta bass reflex posteriore per una riproduzione dei bassi intensa.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

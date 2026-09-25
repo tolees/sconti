@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- QUALITÀ ED ESPERIENZA BRENNENSTUHL: Da oltre 60 anni ci impegniamo ad offrire prodotti di alta qualità che agevolano la vita quotidiana dei nostri i clienti. Nel progettare i nostri prodotti facciamo attenzione affinché design e funzionalità vadano di pari passo così da offrire le migliori soluzioni e tecnologie possibili.
-- ANTI-SURRISCALDAMENTO: L avvolgicavo Brennenstuhl, con protezione anti-surriscaldamento, presenta una spia di controllo sul corpo del tamburo che si illumina in caso di sovraccarico. Progettato per un utilizzo professionale sia allinterno che allaperto, il nostro avvolgicavo certificato IP44 è resistente agli spruzzi dacqua.
-- IDEALE PER LUSO PROFESSIONALE: La prolunga Brennenstuhl è costituita da un tamburo in plastica speciale del diametro di 290mm che poggia su telaio metallico zincato estremamente solido e durevole per consentire maggior resistenza agli urti e agli agenti atmosferici. Il cavo nero da 50 metri è del tipo H05VV-F3G1.5.
 - IMPUGNATURA ERGONOMICA: Lavvolgicavo è dotato di una prolunga elettrica estensibile con avvolgimento del cavo manuale tramite pratica maniglia. La maniglia agisce da stabilizzatore del cavo elettrico così da garantire una perfetta guida in fase di avvolgimento e srotolamento, utile per evitare nodi indesiderati.
+- ANTI-SURRISCALDAMENTO: L avvolgicavo Brennenstuhl, con protezione anti-surriscaldamento, presenta una spia di controllo sul corpo del tamburo che si illumina in caso di sovraccarico. Progettato per un utilizzo professionale sia allinterno che allaperto, il nostro avvolgicavo certificato IP44 è resistente agli spruzzi dacqua.
+- QUALITÀ ED ESPERIENZA BRENNENSTUHL: Da oltre 60 anni ci impegniamo ad offrire prodotti di alta qualità che agevolano la vita quotidiana dei nostri i clienti. Nel progettare i nostri prodotti facciamo attenzione affinché design e funzionalità vadano di pari passo così da offrire le migliori soluzioni e tecnologie possibili.
+- IDEALE PER LUSO PROFESSIONALE: La prolunga Brennenstuhl è costituita da un tamburo in plastica speciale del diametro di 290mm che poggia su telaio metallico zincato estremamente solido e durevole per consentire maggior resistenza agli urti e agli agenti atmosferici. Il cavo nero da 50 metri è del tipo H05VV-F3G1.5.
 - PROLUNGA ELETTRICA 50M, SPINA CEE 3 POLI: L’avvolgicavo Garant ST 1332776 è dotato di 1 presa elettrica Schuko 230 V/16A e di 2 prese CEE 3 poli, 230 V/16A con coperchi autochiudenti. Allestremità della prolunga elettrica da 50 metri è collocata una Spina CEE 3 poli, 230V/16A.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

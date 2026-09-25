@@ -30,9 +30,9 @@ average: '3.75'
 
 - Quaderno A4 con copertina extra rigida e rilegatura a spirale.
 - È certificato FSC, il che garantisce che è stato prodotto con carta proveniente da foreste gestite responsabilmente.
-- Allinterno della copertina troviamo una griglia pensata per annotare il programma dellanno scolastico.
 - Include anche un foglio di adesivi.
 - Allinterno sono presenti 80 fogli quadrettati e microperforati, che consentono di staccare facilmente le pagine e di archiviarle in un secondo momento in una cartella.
+- Allinterno della copertina troviamo una griglia pensata per annotare il programma dellanno scolastico.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FCFTKT5H{{</world>}}

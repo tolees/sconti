@@ -28,8 +28,8 @@ average: '49.29'
 
 ℹ️:
 
-- Dimensioni: 26 x 28 x 15 cm; capacita: 16 litri
 - Tasche: ampie tasche frontali e laterali. Tasca interna porta tablet
+- Dimensioni: 26 x 28 x 15 cm; capacita: 16 litri
 - Caratteristiche: logo invicta in pvc. Anello portachiavi. Nastro con terminale in silicone
 - Tessuto: 100% poliestere riciclato, certificato "grs"
 - Schienale: imbottito e rivestito in tessuto. ; spallacci: regolabili in nastro

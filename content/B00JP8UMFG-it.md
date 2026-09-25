@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Soehnle Cooking Star Bilancia cucina digitale a cucchiaio Bilancia da cucina con ripartizione a 0 1 g e portata max di 500 g Bilancia pesa alimenti'
-date: 2026-09-17 12:47:20
+date: 2026-09-23 16:26:39
 image: 'https://m.media-amazon.com/images/I/21hrGLy-PRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

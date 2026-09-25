@@ -28,10 +28,10 @@ average: '13.37'
 
 ℹ️:
 
+- Consegnato in scatola anonima Amazon
 - Scadenza media 4/5 anni
 - Colore naturale
 - Box da 24 profilattici
-- Consegnato in scatola anonima Amazon
 - Preservativi extra lubrificati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

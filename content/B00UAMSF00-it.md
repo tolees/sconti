@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Wva: 25348
-- Conforme alla normativa ECE-R90. Equivalenti allOE
-- Con indicatore di usura acustico - Con accessori
 - Larghezza: 132.7 mm; Altezza: 58 mm; Spessore: 17.8 mm
+- Con indicatore di usura acustico - Con accessori
+- Conforme alla normativa ECE-R90. Equivalenti allOE
 - Sistema frenante: Mando
+- Wva: 25348
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00UAMSF00{{</world>}}

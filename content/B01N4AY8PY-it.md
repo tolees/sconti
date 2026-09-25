@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Incluso tubo aspiratore rinforzato da 7 m
-- Interruttore a pressione
-- Con manometro
 - Serbatoio con capacità da 20 l
+- Interruttore a pressione
 - Tappo di riempimento e tappo di sgocciolamento
+- Con manometro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01N4AY8PY{{</world>}}

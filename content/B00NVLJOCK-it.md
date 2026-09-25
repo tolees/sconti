@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Marche Cat.6A - Rete cavo con doppia schermatura PIMF (coppie in lamina di metallo) e metalli inoltre intrecciata | Cavi Patch | 2 connettore RJ-45 | tappi con guaina di protezione antipiega | contatti dorati
-- alta velocità di trasmissione in base alla frequenza di funzionamento fino a 500 MHz (rispetto alla larghezza di banda del cavo Cat.5 / 5e di 100 MHz)
-- Occupazione in base alla EIA / TIA 568B | garantite avanti e indietro la compatibilità di Cat.5e / Cat.6 / Cat.7 / S-FTP schermatura standard EIA / TIA 568B
 - Adatto per reti gigabit 10/100/1000/10000 MBit | per i computer di collegamento, console di gioco, modem DSL, switch, router, prese di rete o pannello di permutazione in una rete 10/100/1000/10000 Mbit
+- Marche Cat.6A - Rete cavo con doppia schermatura PIMF (coppie in lamina di metallo) e metalli inoltre intrecciata | Cavi Patch | 2 connettore RJ-45 | tappi con guaina di protezione antipiega | contatti dorati
 - rame qualità / isolamento senza alogeni conduttore interno / / 100% gommino di modellato ROHS | manicotto antipiega (molto robusto affilata con Boot)
+- Occupazione in base alla EIA / TIA 568B | garantite avanti e indietro la compatibilità di Cat.5e / Cat.6 / Cat.7 / S-FTP schermatura standard EIA / TIA 568B
+- alta velocità di trasmissione in base alla frequenza di funzionamento fino a 500 MHz (rispetto alla larghezza di banda del cavo Cat.5 / 5e di 100 MHz)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00NVLJOCK{{</world>}}

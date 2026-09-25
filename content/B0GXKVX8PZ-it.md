@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Design moderno e compatto con pannello di controllo touch multifunzione per gestire il funzionamento. Friggitrice ad aria con design unico: la luce di visualizzazione si accende durante la cottura.
-- Cestello con area di cottura da 4 L per cucinare grandi quantità di alimenti. Potenza da 1400 W per cucinare più velocemente con consumi ridotti. Risultati eccellenti grazie alla tecnologia PerfectCook ad aria calda che circola all’interno ed esce dai fori posteriori.
 - 9 modalità preimpostate che definiscono tempo e temperatura necessari per diversi tipi di alimenti. Termostato per regolare la temperatura da 80 °C a 200 °C. Tempo regolabile da 0 a 60 minuti.
 - Sistema di protezione contro il surriscaldamento.
+- Cestello con area di cottura da 4 L per cucinare grandi quantità di alimenti. Potenza da 1400 W per cucinare più velocemente con consumi ridotti. Risultati eccellenti grazie alla tecnologia PerfectCook ad aria calda che circola all’interno ed esce dai fori posteriori.
+- Design moderno e compatto con pannello di controllo touch multifunzione per gestire il funzionamento. Friggitrice ad aria con design unico: la luce di visualizzazione si accende durante la cottura.
 - Friggitrice ad aria “diet” con finestra di visualizzazione che permette di controllare la cottura senza dover aprire il cestello. Cucina con un solo cucchiaio d’olio, per risultati più sani.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

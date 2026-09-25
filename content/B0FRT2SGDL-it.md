@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JBL Endurance Run 3 Wireless Cuffie Sportive con Bluetooth Grigio/Nero'
-date: 2026-09-19 07:32:26
+date: 2026-09-24 18:06:34
 image: 'https://m.media-amazon.com/images/I/21xLJUiJh5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

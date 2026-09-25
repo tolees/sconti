@@ -29,8 +29,8 @@ average: '18.47'
 ℹ️:
 
 - Le viti sono utilizzate per molti tipi di collegamenti elettrici e morsetti.Sono installate in un foro prefilettato già esistente e sono completamente filettate. Se sono necessari, utilizzare dadi dello stesso materiale, finitura e filettatura per una corretta adattabilità.
-- Le 6 misure più comunemente utilizzate sono 6# 3/4, 6# 1, 6# 1-1/4, 6# 2, 6# 3.
 - Ottimo kit per la casa o lufficio. Contiene viti a testa cilindrica di diverse dimensioni.
+- Le 6 misure più comunemente utilizzate sono 6# 3/4, 6# 1, 6# 1-1/4, 6# 2, 6# 3.
 - Queste viti a testa cilindrica sono utilizzate con dadi o direttamente in un contenitore filettato femmina per fissare insieme le parti metalliche.
 - Struttura in acciaio zincato.
 

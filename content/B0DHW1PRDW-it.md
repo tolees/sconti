@@ -29,14 +29,14 @@ average: '45.0'
 ℹ️:
 
 - Suola in TPU e gomma adatta a ogni superficie
-- Fodera in tessuto e materiale sintetico
-- Chiusura con lacci
+- Drop intersuola: 6,5 mm (tallone: 34,9 mm / avampiede: 28,4 mm)
 - Tomaia in tessuto e materiale sintetico
-- Questo prodotto contiene almeno il 20% di materiali riciclati
 - Ammortizzazione Lightstrike
 - Peso: 270 grammi (misura 42 2/3)
+- Questo prodotto contiene almeno il 20% di materiali riciclati
 - Calzata regolare
-- Drop intersuola: 6,5 mm (tallone: 34,9 mm / avampiede: 28,4 mm)
+- Fodera in tessuto e materiale sintetico
+- Chiusura con lacci
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DHW1PRDW{{</world>}}

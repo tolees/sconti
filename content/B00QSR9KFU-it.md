@@ -28,10 +28,10 @@ average: '13.05'
 
 ℹ️:
 
-- Perforato per una facile rimozione delle lastre
 - Di solito questo prodotto è adatto per penne ad acqua, penne, matite e altre penne tradizionali
 - Linea larga (8,7 mm) per manoscritti più grandi e buona leggibilità
 - Carta da 60 g/m² per luso quotidiano
+- Perforato per una facile rimozione delle lastre
 - 12 taccuini gialli da 50 fogli ciascuno
 - Dimensioni 21,6 x 29,8 cm
 

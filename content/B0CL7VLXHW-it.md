@@ -28,9 +28,9 @@ average: '16.9866666666667'
 
 ℹ️:
 
-- Realizzato in morbida fibra di misto cotone
 - Facile da indossare
 - Ottimo per luso quotidiano
+- Realizzato in morbida fibra di misto cotone
 - Collo a costine
 - Maglione basic lavorato a maglia con collo alto
 

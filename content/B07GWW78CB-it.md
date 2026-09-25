@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Con logo sul petto
 - Adatto per lallenamento
 - Prodotto di marca Leone 1947
+- Con logo sul petto
 - Con ottima libertà di movimento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

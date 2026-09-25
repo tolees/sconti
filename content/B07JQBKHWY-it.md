@@ -28,10 +28,10 @@ average: '20.0'
 
 ℹ️:
 
-- Impugnatura morbida
-- Stile a 5 tasche
-- Vestibilità comoda
 - Jeans slim particolarmente chic di Jack & Jones da uomo
+- Vestibilità comoda
+- Stile a 5 tasche
+- Impugnatura morbida
 - Cucitura decorativa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

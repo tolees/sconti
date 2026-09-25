@@ -28,11 +28,11 @@ average: '20.448'
 
 ℹ️:
 
-- NESCAFÉ DOLCE GUSTO Caffelatte è un caffè con chicchi di Robusta Asiatica e un tocco di latte intero
-- 3 confezioni da 16 capsule: 48 capsule totali
-- Visita il sito Nestlé per scoprire come le nostre marche sono scese in campo e contribuiscono al raggiungimento degli obiettivi di sostenibilità del Gruppo Nestlé con progetti concreti
 - Caffè torrefatto e macinato preparato con caffè solubile e latte in polvere
+- 3 confezioni da 16 capsule: 48 capsule totali
+- NESCAFÉ DOLCE GUSTO Caffelatte è un caffè con chicchi di Robusta Asiatica e un tocco di latte intero
 - Capsule originali per macchine NESCAFÉ DOLCE GUSTO
+- Visita il sito Nestlé per scoprire come le nostre marche sono scese in campo e contribuiscono al raggiungimento degli obiettivi di sostenibilità del Gruppo Nestlé con progetti concreti
 - Capsule compatibili con macchina per caffè espresso e altre bevande NESCAFÉ DOLCE GUSTO
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

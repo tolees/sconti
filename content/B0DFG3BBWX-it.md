@@ -28,9 +28,9 @@ average: '129.95'
 
 ℹ️:
 
-- Cassa rotonda in acciaio con quadrante color argento
 - Cassa da 19 mm, larghezza del cinturino di 10 mm, cristallo minerale, movimento al quarzo a tre sfere con display analogico, importato
 - Bracciale in acciaio color argento
+- Cassa rotonda in acciaio con quadrante color argento
 - Resistente all’acqua fino a 50 m: indossabile per nuotare in acque basse
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

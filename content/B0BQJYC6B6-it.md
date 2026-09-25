@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Concime granulare universale, Per tutte le colture orticole, frutticole e ornamentali, da orto e da giardino, A pronto effetto per una nutrizione immediata
-- Formula granulare con la stessa combinazione di elementi nutritivi per consentire uno sviluppo equilibrato delle colture, Granuli blu che non sporcano
-- Modalità duso: distribuire il concime sul terreno, interrare con un rastrello e innaffiare, Periodo di utilizzo: da febbraio a ottobre, 2-3 volte allanno, Dosaggi consigliati riportati sulletichetta
 - Perfetto sia per la concimazione di base che per quella di copertura, Povero di cloro per non danneggiare le piante sensibili
+- Formula granulare con la stessa combinazione di elementi nutritivi per consentire uno sviluppo equilibrato delle colture, Granuli blu che non sporcano
+- Concime granulare universale, Per tutte le colture orticole, frutticole e ornamentali, da orto e da giardino, A pronto effetto per una nutrizione immediata
 - Contenuto: 1x Sacco di COMPO NPK BLU, Concime universale granulare, Peso: 4 kg, Art. N. 2870001005
+- Modalità duso: distribuire il concime sul terreno, interrare con un rastrello e innaffiare, Periodo di utilizzo: da febbraio a ottobre, 2-3 volte allanno, Dosaggi consigliati riportati sulletichetta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BQJYC6B6{{</world>}}

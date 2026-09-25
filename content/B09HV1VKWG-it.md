@@ -28,15 +28,15 @@ average: '194.910499999999'
 
 ℹ️:
 
-- USB 3.0 per stampante e memoria (NAS)
-- Base DECT per 6 telefoni cordless (ad esempio tutti i modelli di FRITZFon) e per prese commutabili
-- Connessione WAN a 2,5 gigabit per connessione a modem DSL, via cavo o fibra ottica
-- Interfaccia utente intuitiva per tutte le impostazioni in Italiano
-- 3 x LAN Gigabit
 - Wi-Fi 6 fino a 6 Gbits (1.2002.4002.400 Mbits)
 - Sicurezza per il futuro con il protocollo Internet IPv6
+- 3 x LAN Gigabit
 - Connessione semplice e sicura di nuovi dispositivi wireless nella rete locale premendo un tasto (Connect)
+- Interfaccia utente intuitiva per tutte le impostazioni in Italiano
+- Connessione WAN a 2,5 gigabit per connessione a modem DSL, via cavo o fibra ottica
+- Base DECT per 6 telefoni cordless (ad esempio tutti i modelli di FRITZFon) e per prese commutabili
 - Accesso Wi-Fi per ospiti pratico e sicuro senza accesso alla rete locale privata
+- USB 3.0 per stampante e memoria (NAS)
 - Connessione a qualsiasi modem in fibra ottica, via cavo o DSL tramite porta WAN
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

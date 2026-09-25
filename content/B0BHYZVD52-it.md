@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Fai Festa con Sperlari: compleanno, Natale, Halloween, Laurea, le nostre caramelle rendono ogni occasione unica
 - All’interno della confezione trovi 1 kg di Caramelle Gran Gelèes Frutti Del Sole Sperlari
-- Questo prodotto è senza gelatina animale, senza coloranti artificiali e senza glutine
 - Golose caramelle gelèes dall’inconfondibile morbidezza, ricche di nettare di frutta e gustosi cristalli di zucchero: fragola, pesca, mandarino, ananas, assaggia tutti i gusti!
+- Questo prodotto è senza gelatina animale, senza coloranti artificiali e senza glutine
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BHYZVD52{{</world>}}

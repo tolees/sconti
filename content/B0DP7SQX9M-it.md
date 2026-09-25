@@ -28,8 +28,8 @@ average: '64.55'
 
 ℹ️:
 
-- 2° Pizzo
 - Memory foam raffreddato ad aria
+- 2° Pizzo
 - Skech-Air
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

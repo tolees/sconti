@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Deox Detersivo Lavatrice Liquido Classico 144 Lavaggi 1200 ml x 6'
-date: 2026-09-12 14:15:14
-image: 'https://m.media-amazon.com/images/I/41v3giSB-mL._SL500_._SL400_.jpg'
+date: 2026-09-21 10:07:55
+image: 'https://m.media-amazon.com/images/I/41do2EZTeqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B09BK43YC5/?tag=tolees00-21'
 descuento: '32.38'
-average: '19.43'
+average: '19.36'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

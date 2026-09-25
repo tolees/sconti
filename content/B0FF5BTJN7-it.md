@@ -28,12 +28,12 @@ average: '5.64'
 
 ℹ️:
 
-- CAMICIA CORTA CON COLLO BUTTON-DOWN: rivisitazione moderna della classica camicia in popeline con una lunghezza più corta e una vestibilità più generosa
-- LUNGHEZZA DEL CAPO: 50,8cm dal lato del collo nella taglia S (IT)
-- TAGLIO CORTO, VESTIBILITÀ OVERSIZE: vestibilità comoda e ampia su spalle, petto e vita, taglio corto
-- POPELINE ELASTICIZZATO: misto cotone ben strutturato con finitura liscia e un tocco di elasticità per maggiore comfort
-- DETTAGLI: colletto a punta con bottoni per tenerlo in posizione, chiusura frontale con bottoni, polsino alto con bottone, piega sul carré posteriore, orlo leggermente arrotondato sul retro
 - SCELTO DA DEMI: questo prodotto della nostra nuova collezione Amazon Essentials è stato scelto da Demi Lovato
+- LUNGHEZZA DEL CAPO: 50,8cm dal lato del collo nella taglia S (IT)
+- CAMICIA CORTA CON COLLO BUTTON-DOWN: rivisitazione moderna della classica camicia in popeline con una lunghezza più corta e una vestibilità più generosa
+- TAGLIO CORTO, VESTIBILITÀ OVERSIZE: vestibilità comoda e ampia su spalle, petto e vita, taglio corto
+- DETTAGLI: colletto a punta con bottoni per tenerlo in posizione, chiusura frontale con bottoni, polsino alto con bottone, piega sul carré posteriore, orlo leggermente arrotondato sul retro
+- POPELINE ELASTICIZZATO: misto cotone ben strutturato con finitura liscia e un tocco di elasticità per maggiore comfort
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FF5BTJN7{{</world>}}

@@ -28,10 +28,10 @@ average: '1.99'
 
 ℹ️:
 
-- Aroma intenso e tenore di caffeina ridotto
 - Tostatura lenta con fine acidità e gusto equilibrato
-- Caffè 100% arabica biologico macinato per moka
 - Miscela d’altura da Etiopia e America Latina
+- Aroma intenso e tenore di caffeina ridotto
+- Caffè 100% arabica biologico macinato per moka
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01GEMVIDK{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Compatibilità: supporta tutti i dispositivi USB-C come telefoni cellulari, smartphone, power bank, tablet, fotocamere, dispositivi di navigazione, controller
-- Specifiche: standard USB 2.0 fino a 480 Mbit/s per prestazioni di sincronizzazione e ricarica efficienti
-- Design: connettore USB-C dritto al connettore USB-C, angolato a 90° per un utilizzo flessibile in spazi ristretti
-- Materiale: cavo in nylon intrecciato con protezione antipiega e robusti connettori in metallo per unelevata durata
 - Potenza: cavo di ricarica rapida USB-C da 60 W (20 V / 3,1 A) con tecnologia PD 3.0 e PPS per il controllo dinamico della tensione
+- Compatibilità: supporta tutti i dispositivi USB-C come telefoni cellulari, smartphone, power bank, tablet, fotocamere, dispositivi di navigazione, controller
+- Materiale: cavo in nylon intrecciato con protezione antipiega e robusti connettori in metallo per unelevata durata
+- Design: connettore USB-C dritto al connettore USB-C, angolato a 90° per un utilizzo flessibile in spazi ristretti
+- Specifiche: standard USB 2.0 fino a 480 Mbit/s per prestazioni di sincronizzazione e ricarica efficienti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0G1BK96N6{{</world>}}

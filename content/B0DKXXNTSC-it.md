@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Ricamo
-- Polo manica lunga
 - 100% cotone Better Source
+- Ricamo
 - Occhielli ricamati
+- Polo manica lunga
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DKXXNTSC{{</world>}}

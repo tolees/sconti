@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Papadopulos Digestive Biscotti A Base Di Farina Di Frumento Integrale'
-date: 2026-09-19 18:55:27
+date: 2026-09-25 16:56:45
 image: 'https://m.media-amazon.com/images/I/41ZhseyXqbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

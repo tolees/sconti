@@ -29,8 +29,8 @@ average: '14.175'
 ℹ️:
 
 - Giocatori: 1 - 8
-- Anni: 7 - 99
 - Durata: 15 minuti
+- Anni: 7 - 99
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07NSDWY43{{</world>}}

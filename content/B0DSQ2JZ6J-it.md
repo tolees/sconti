@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Gioco base
-- Studiate i venti e salpate in cerca di inestimabili ricchezze, contendetevi le isole remunerative prima che si alzi lalta marea, e cercate di essere i primi a rivendicare le mappe che vi guideranno verso magnifici tesori
 - Età Consigliata: 10+ Anni; numero Giocatori: 1-4; tempo Stimato: 80 minuti; edizione in Italiano
 - Quattro tipi di animali per espandere la vostra collezione; costruito sul pluripremiato gioco Everdell, con tante meccaniche da esplorare; scoprite la fiera regione marittima a nord della Vallata di Everdell; vivaci animali illustrati dal artista Jacqui Davis
+- Studiate i venti e salpate in cerca di inestimabili ricchezze, contendetevi le isole remunerative prima che si alzi lalta marea, e cercate di essere i primi a rivendicare le mappe che vi guideranno verso magnifici tesori
 - Farshore vi farà vivere unepica avventura in cui esplorerete la fiera regione a nord della Vallata di Everdell e costruirete una vivace città marittima
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

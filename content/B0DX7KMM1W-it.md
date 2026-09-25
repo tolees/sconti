@@ -28,10 +28,10 @@ average: '22.89'
 
 ℹ️:
 
-- Cibo umido adatto per gatti adulti da 1 anno di età
 - La confezione contiene 28 bustine da 85 g
 - con Pollo
 - Con estratto di mirtillo rosso
+- Cibo umido adatto per gatti adulti da 1 anno di età
 - Adatto per unalimentazione quotidiana
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

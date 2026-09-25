@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'XIAOMI REDMI Buds 8 Pro Cuffie Bluetooth Cancellazione rumore blu'
-date: 2026-08-29 13:30:24
+date: 2026-09-22 10:07:48
 image: 'https://m.media-amazon.com/images/I/31He5XIL8qL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0G7ZL1RKM-it XIAOMI REDMI Buds 8 Pro Cuffie Bluetooth Cancellazione...'
 sku: 'B0G7ZL1RKM-it'
 tags: [ '🇮🇹', ]
-actualPrice: 59.9 EUR
+actualPrice: 59.49 EUR
 currency: EUR
-price: 59.9
+price: 59.49
 comparePrice: 72.99 EUR
 prodname: 'XIAOMI REDMI Buds 8 Pro Cuffie Bluetooth Cancellazione rumore blu'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0G7ZL1RKM/?tag=tolees00-21'
-descuento: '17.93'
-average: '59.945'
+descuento: '18.50'
+average: '59.7933333333333'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,11 +28,6 @@ average: '59.945'
 
 ℹ️:
 
-- 【Chiamate】Riduzione del rumore AI a triplo microfono per chiamate chiare anche con venti a 12 m/s. Combinato con 3 microfoni integrati per resistenza al rumore del vento anche allaperto.
-- 【Intrattenimento】Dolby Audio per nitidezza cristallina, dialoghi chiari, dettagli straordinari e audio surround realistico.
-- 【ANC Adattivo】Cancellazione del rumore in tempo reale identifica il rumore ambientale ad alta frequenza di campionamento, regolando automaticamente in base allambiente e al modo in cui gli auricolari vengono indossati.
-- 【Cancellazione del Rumore】ANC intelligente fino a 55 dB con cancellazione del rumore ultra-larga a 5 kHz blocca il trambusto di strade affollate e metropolitane per un ascolto ininterrotto.
-- 【Qualità del Suono】Hi-Res Audio certificato con potenti driver tripli coassiali per dettagli più ricchi e risposta audio più sensibile.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0G7ZL1RKM{{</world>}}

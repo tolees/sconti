@@ -28,8 +28,8 @@ average: '37.5'
 
 ℹ️:
 
-- Zip integrale con collo alto
 - 100% poliestere (riciclato)
+- Zip integrale con collo alto
 - Vestibilità regolare con vita a media altezza
 - Giacca e pantaloni: Tasche anteriori
 

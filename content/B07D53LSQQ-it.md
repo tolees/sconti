@@ -28,9 +28,9 @@ average: '21.49'
 
 ℹ️:
 
-- Disponibile in molti colori e formati
-- con stand fino a 18x24 cm
 - profilo da scrivania stretto in plastica
+- con stand fino a 18x24 cm
+- Disponibile in molti colori e formati
 - con vero tappetino smussato e vetro trasparente lavato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

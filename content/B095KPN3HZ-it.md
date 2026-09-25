@@ -28,11 +28,11 @@ average: '11.29'
 
 ℹ️:
 
+- Made in Italy: Gruppo Gimoka - Caffè per passione sin dagli anni 80, si impegna attivamente per sviluppare soluzioni di packaging facilmente riciclabili, compostabili ed ecosostenibili
 - Profilo sensoriale: caffè dal gusto deciso e corposo con note di pane tostato e biscotto
 - Attenzione allambiente: Cialde Bio Based, prodotte con materiale derivante per l80% da origine vegetale
-- Formato: Confezione da 100 Cialde da 44 mm
 - Intensità: 12
-- Made in Italy: Gruppo Gimoka - Caffè per passione sin dagli anni 80, si impegna attivamente per sviluppare soluzioni di packaging facilmente riciclabili, compostabili ed ecosostenibili
+- Formato: Confezione da 100 Cialde da 44 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B095KPN3HZ{{</world>}}

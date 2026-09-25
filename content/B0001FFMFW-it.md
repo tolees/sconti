@@ -28,8 +28,8 @@ average: '23.8'
 
 ℹ️:
 
-- Età: dai 4 anni in su
 - Giochi
+- Età: dai 4 anni in su
 - Articolo adatto a trascorrere momenti di divertimento in compagnia
 - 2 - 4 giocatori
 

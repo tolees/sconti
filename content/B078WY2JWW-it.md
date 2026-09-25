@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - jeans.
-- cotone.
 - Pantaloni.
+- cotone.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B078WY2JWW{{</world>}}

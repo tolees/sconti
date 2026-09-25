@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Costruzione vulcanizzata
 - Tomaia e lacci in cotone organico
 - Soletta in poliuretano Helium
+- Costruzione vulcanizzata
 - Suola in gomma riciclata
 - Cementi a base acqua
 

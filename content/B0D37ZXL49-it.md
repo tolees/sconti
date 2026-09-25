@@ -30,8 +30,8 @@ average: '38.51'
 
 - Ricarica più dispositivi contemporaneamente grazie alle 2 porte con ricarica 25W e 50W.
 - Cavo Samsung USB Type-C 5A incluso. Per la ricarica si consiglia di utilizzare sempre cavi originali Samsung.
-- Caricatore Samsung EP-T5020XBEGEU, 2 porte USB Type-C
 - Marchio: Samsung
+- Caricatore Samsung EP-T5020XBEGEU, 2 porte USB Type-C
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D37ZXL49{{</world>}}

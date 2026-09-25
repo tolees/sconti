@@ -28,10 +28,10 @@ average: '5.03'
 
 ℹ️:
 
+- Flessibilità: ladattatore per scarpa fredda è rimovibile per rilasciare 1/4 di filo femmina su unaltra estremità. Per questo motivo, offriamo una vite esterna da 1/4" nella seconda immagine
+- Regolabile a 360 gradi: la testa a sfera ruota di 360 gradi. Montare un monitor con la vite 1/4 nella parte superiore, è possibile regolare liberamente langolo desiderato
 - Note: Si prega di notare che la dimensione delladattatore hot shoe è di 18 mm x 18 mm. Si sconsiglia di montarlo su treppiedi o monopiedi, poiché la vite inferiore non è abbastanza lunga per lavorarci sopra
 - Adattatore per pattini freddi: il Mini Ball Head Mount 761 SMALLRIG dispone di un adattatore per scarpe fredde nella parte inferiore, quindi si adatta a qualsiasi tipo di hot shoe della fotocamera
-- Regolabile a 360 gradi: la testa a sfera ruota di 360 gradi. Montare un monitor con la vite 1/4 nella parte superiore, è possibile regolare liberamente langolo desiderato
-- Flessibilità: ladattatore per scarpa fredda è rimovibile per rilasciare 1/4 di filo femmina su unaltra estremità. Per questo motivo, offriamo una vite esterna da 1/4" nella seconda immagine
 - Forte e durevole: il carico massimo è di 3 kg. Utilizzare la vite per bloccare il giunto sferico. Rimane robusto e resistente, mantenendo i tuoi dispositivi al sicuro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

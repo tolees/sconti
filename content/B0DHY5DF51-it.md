@@ -28,11 +28,11 @@ average: '199.0'
 
 ℹ️:
 
-- Base del sedile allargata con bordi ridotti - per una maggiore distribuzione della pressione in qualsiasi posizione di seduta: Scolpito con bordi ridotti per guidare il corpo verso il centro e distribuire la pressione in modo ottimale. La base del sedile allargata fino a 545 mm offre una maggiore flessibilità di seduta.
-- Cuscini sagomati in schiuma ad alta densità - per un sostegno e un comfort ottimali: Sperimentate un maggiore livello di sostegno e stabilità per la parte inferiore del corpo, grazie a unimbottitura spessa che riduce la pressione e si adatta alla forma del vostro corpo.
 - Finitura in tessuto Plush - disponibile in nero: Rivestito con fibre multistrato naturalmente traspiranti, gode di un comfort morbido, fresco sulla pelle e liscio al tatto.
-- Reclinazione regolabile a 152 gradi - per un posizionamento flessibile della seduta: Appoggiatevi e impostate langolo ideale con uno schienale regolabile fino a 152 gradi.
+- Cuscini sagomati in schiuma ad alta densità - per un sostegno e un comfort ottimali: Sperimentate un maggiore livello di sostegno e stabilità per la parte inferiore del corpo, grazie a unimbottitura spessa che riduce la pressione e si adatta alla forma del vostro corpo.
 - Supporto lombare integrato - progettato ergonomicamente per supportare qualsiasi postura di seduta: Progettato con un arco lombare integrato che sostiene delicatamente la parte bassa della schiena e favorisce una posizione di seduta neutra, riducendo al minimo laffaticamento della schiena per lunghi periodi.
+- Reclinazione regolabile a 152 gradi - per un posizionamento flessibile della seduta: Appoggiatevi e impostate langolo ideale con uno schienale regolabile fino a 152 gradi.
+- Base del sedile allargata con bordi ridotti - per una maggiore distribuzione della pressione in qualsiasi posizione di seduta: Scolpito con bordi ridotti per guidare il corpo verso il centro e distribuire la pressione in modo ottimale. La base del sedile allargata fino a 545 mm offre una maggiore flessibilità di seduta.
 - Braccioli 2D - per un posizionamento ottimale delle braccia: Grazie ai braccioli regolabili in altezza e ruotabili verso linterno o lesterno, le braccia saranno sempre in una posizione naturale e rilassata durante il gioco.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

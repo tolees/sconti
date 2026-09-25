@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- GIMOKA: tra le principali torrefazioni italiane da 40 anni, seleziona caffè da 17 paesi per oltre 90 miscele. Con 3 siti produttivi, offre caffè in grani, macinato, cialde e capsule compatibili, portando l’autentico espresso italiano in 50 paesi.
+- MISCELA: Gimoka Espresso Intenso, intensità 12/13, offre un aroma pieno e avvolgente. La miscela selezionata regala un gusto ricco e vigoroso, con un corpo deciso e un retrogusto persistente, perfetto per chi ama un espresso forte e dal carattere intenso
 - CARATTERISTICHE: 70 capsule compatibili con macchine Lavazza A Modo Mio, ideali per un espresso cremoso e aromatico. La tostatura esalta le note decise, mentre il confezionamento ermetico preserva la freschezza per un caffè dal sapore autentico.
 - CONTENUTO: Ogni capsula assicura un’estrazione ottimale per un espresso corposo e intenso. Il formato da 70 capsule garantisce una scorta ideale per chi desidera il piacere di un caffè Gimoka di qualità ogni giorno, con la comodità del sistema A Modo Mio
 - SOSTENIBILITÀ: Gimoka è impegnata nella produzione responsabile del caffè, adottando processi sostenibili per ridurre l’impatto ambientale e garantire un prodotto di alta qualità rispettando le risorse naturali
-- MISCELA: Gimoka Espresso Intenso, intensità 12/13, offre un aroma pieno e avvolgente. La miscela selezionata regala un gusto ricco e vigoroso, con un corpo deciso e un retrogusto persistente, perfetto per chi ama un espresso forte e dal carattere intenso
+- GIMOKA: tra le principali torrefazioni italiane da 40 anni, seleziona caffè da 17 paesi per oltre 90 miscele. Con 3 siti produttivi, offre caffè in grani, macinato, cialde e capsule compatibili, portando l’autentico espresso italiano in 50 paesi.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DW46DQVC{{</world>}}

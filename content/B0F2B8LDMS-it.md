@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Lacci elasticizzati
 - Tomaia in tessuto
+- Lacci elasticizzati
 - Intersuola CLOUDFOAM
 - Taglia larga
 - Soletta in tessuto

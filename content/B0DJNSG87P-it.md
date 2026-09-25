@@ -28,12 +28,12 @@ average: '20.0'
 
 ℹ️:
 
+- Grazie al processo di pressurizzazione, gli aromi del blend si affinano ed esaltano nel tempo allinterno del barattolo illy, conservando una fragranza permanente che, all’apertura, si sprigiona nell’aria come una perfetta e inebriante sinfonia
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
+- La macinatura del caffè è specifica per la preparazione con la moka, così da assaporare sempre il caffè che ti piace con il rito a cui sei più affezionato
 - Il gusto CLASSICO si caratterizza per delicate note aromatiche di fiori darancio e gelsomino, che si uniscono a sentori di caramello; Per chi preferisce un caffè dal gusto morbido e vellutato
 - IL NOSTRO IMPEGNO: Curiamo i dettagli coltivando una qualità sostenibile che punta all’eccellenza per garantirti un’esperienza d’acquisto più consapevole a partire dalla scelta dei prodotti
-- La macinatura del caffè è specifica per la preparazione con la moka, così da assaporare sempre il caffè che ti piace con il rito a cui sei più affezionato
 - Caffè macinato per moka Tostato CLASSICO, illy blend 100% Arabica; Ogni confezione contiene un barattolo da 250gr
-- Grazie al processo di pressurizzazione, gli aromi del blend si affinano ed esaltano nel tempo allinterno del barattolo illy, conservando una fragranza permanente che, all’apertura, si sprigiona nell’aria come una perfetta e inebriante sinfonia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DJNSG87P{{</world>}}

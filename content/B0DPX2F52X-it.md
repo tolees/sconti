@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Composizione del materiale: 50% viscosa – Livaeco by Birla cellulosa, 28% poliestere, 22% nylon
+- Cardigan
 - Frontale abbottonato
 - Scollo a
-- Cardigan
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DPX2F52X{{</world>}}

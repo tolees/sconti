@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Saugella Active Detergente Intimo Antibatterico 500 ml'
-date: 2026-09-17 15:28:11
+date: 2026-09-22 19:41:10
 image: 'https://m.media-amazon.com/images/I/314AvKwC2BL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B00ZUI89QY/?tag=tolees00-21'
 descuento: '41.79'
-average: '9.98'
+average: '10.1885714285715'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

@@ -28,9 +28,9 @@ average: '9.5'
 
 ℹ️:
 
+- Prodotto Ufficiale AS Roma
 - Porta la Roma con te anche alle feste
 - Per festeggiare il Natale
-- Prodotto Ufficiale AS Roma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DK5SZ95H{{</world>}}

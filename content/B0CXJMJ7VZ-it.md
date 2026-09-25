@@ -28,11 +28,11 @@ average: '84.99'
 
 ℹ️:
 
-- Tomaia: Nubuck
-- Colore: Verde
-- Lacci; Altezza: 3,5 cm
 - Soletta/Caratteristiche: XL EXTRALIGHT EVA per leggerezza
 - Fodera: 46% Pelle 32% Tessuto 45% Poliestere riciclato - 35% Cotone riciclato - 20% Viscosa 22% Poliestere riciclato
+- Colore: Verde
+- Lacci; Altezza: 3,5 cm
+- Tomaia: Nubuck
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CXJMJ7VZ{{</world>}}

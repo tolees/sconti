@@ -28,11 +28,11 @@ average: '3.92636363636364'
 
 ℹ️:
 
+- Tratto 5 mm
 - Caratteristica Turbo Maxi punta larga
 - Punta 5 mm
-- Tratto 5 mm
-- Tipo punta sintetica
 - Età utilizzo 3+
+- Tipo punta sintetica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B001ANVHDA{{</world>}}

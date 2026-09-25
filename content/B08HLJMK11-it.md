@@ -28,9 +28,9 @@ average: '123.49'
 
 ℹ️:
 
+- Misura: 20 L
 - Marca: Alpicool
 - Colore: C20"
-- Misura: 20 L
 - Tipologia prodotto: FRIGORIFERO
 - Nome articolo: Alpicool C20 20 L Frigorifero Congelatore portatile Frigoriferi per auto Mini frigorifero 12v per campeggio, viaggi, picnic, auto, da -20? alle 20?
 

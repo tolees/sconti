@@ -28,10 +28,10 @@ average: '24.2775'
 
 ℹ️:
 
-- Ispirata alla piacevole sensazione di una giornata alla spa, con le rilassanti note che ricordano gli oli essenziali di lavanda ed eucalipto.
 - La forma a ellisse del vaso permette una diffusione continua della fragranza con unapertura più ampia che consente lo scioglimento completo della cera
-- La miscela di cere di qualità premium produce una meravigliosa fiamma senza residui
 - Ogni fragranza è stata accuratamente selezionata e testata per diffondere un profumo a lunga durata in tutta la stanza
+- La miscela di cere di qualità premium produce una meravigliosa fiamma senza residui
+- Ispirata alla piacevole sensazione di una giornata alla spa, con le rilassanti note che ricordano gli oli essenziali di lavanda ed eucalipto.
 - Lo stoppino in legno brevettato delle candele con fiamma Hearthwick crea una fiamma danzante che brucia a lungo con il suo tipico scoppiettio per ricreare una sofisticata atmosfera che ricorda il camino
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

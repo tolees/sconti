@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oral-B Testine di Ricambio iO Gentle Care Bianche 8 Ricambi'
-date: 2026-09-12 18:41:38
+date: 2026-09-21 07:51:42
 image: 'https://m.media-amazon.com/images/I/417XSN2CvoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0DP15WJDQ/?tag=tolees00-21'
 descuento: '50.12'
-average: '39.6811111111112'
+average: '39.7030000000001'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

@@ -28,11 +28,11 @@ average: '24.95'
 
 ℹ️:
 
-- Chiusura lampo e bottone
 - Pantaloni classici skinny
+- Chiusura lampo e bottone
 - Chino con tasche laterali
-- Tinta unita
 - Passanti per cintura
+- Tinta unita
 - Composizione: 64% viscosa; 31% poliestere; 5% elastan
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo IdeaPad Slim 3 Notebook 15" IPS Intel Core 3 304 RAM 8GB 256GB SSD Windows 11 Home WiFi 6 Laptop per Casa Ufficio Studio Multitasking Uso Quotidiano - Caricatore non incluso'
-date: 2026-09-17 13:28:25
+date: 2026-09-24 15:12:14
 image: 'https://m.media-amazon.com/images/I/416X9T4ZNML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

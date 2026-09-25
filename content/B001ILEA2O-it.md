@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Apertura chiave: 24 mm
+- Realizzato in acciaio al cromo vanadio
 - Finitura superficiale: cromata
 - Profilo di uscita: Pro Torque (esagonale)
-- Realizzato in acciaio al cromo vanadio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B001ILEA2O{{</world>}}

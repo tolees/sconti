@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Versatili e facili da usare.
 - Trancio di tonno in olio d’oliva, perfetto da usare con una patata al forno condita con cipollotti.
+- Versatili e facili da usare.
 - Usalo nelle ricette con la pasta o in un panino.
 - Facili da riporre, impilabili, confezionati sottovuoto.
 

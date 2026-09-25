@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- First Press
 - Blu-ray
+- First Press
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GY483T8J{{</world>}}

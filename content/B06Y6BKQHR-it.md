@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Adatto a tutte le tipologie di pelle; senza profumo; testato da pediatri e dermatologi; ipoallergenico, formulato per minimizzare il rischio di allergia
-- WET SKIN: Si può applicare anche sulla pelle bagnata
-- OTTIMA TOLLERABILITÀ: Texture leggera a rapido assorbimento e con idratazione intensa, non lascia residui
-- ALTA PROTEZIONE UV: Clinicamente testata in laboratorio e in condizioni reali di elevata radiazione solare
-- NON IRRITA GLI OCCHI: Testato sotto controllo oftalmologico
 - Applicare generosamente sulla pelle asciutta o bagnata, mezz’ora prima dell’esposizione solare, e riapplicare ogni 2 ore
+- ALTA PROTEZIONE UV: Clinicamente testata in laboratorio e in condizioni reali di elevata radiazione solare
+- OTTIMA TOLLERABILITÀ: Texture leggera a rapido assorbimento e con idratazione intensa, non lascia residui
+- Adatto a tutte le tipologie di pelle; senza profumo; testato da pediatri e dermatologi; ipoallergenico, formulato per minimizzare il rischio di allergia
+- NON IRRITA GLI OCCHI: Testato sotto controllo oftalmologico
+- WET SKIN: Si può applicare anche sulla pelle bagnata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B06Y6BKQHR{{</world>}}

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Vestibilità : Normale
-- Basic, Biker, Streetwear
-- Leggings || Lunghezza: Normale || altezza della cintura: Vita media
 - Leggings con le seguenti caratteristiche:
+- Vestibilità : Normale
+- Leggings || Lunghezza: Normale || altezza della cintura: Vita media
+- Basic, Biker, Streetwear
 - Scopri tutti i top brand su EMP!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

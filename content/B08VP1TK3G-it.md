@@ -28,9 +28,9 @@ average: '5.87'
 
 ℹ️:
 
-- Contenuto: 1x Eyeliner Hyper Easy Maybelline New York, Colore: Matte Black (801)
-- Consiglio per luso: Disegna lungo la linea delle ciglia superiori estendendo lala verso lesterno, Modula lo spessore della linea in base al tuo look
 - Eyeliner in penna per un tratto continuo e uno sguardo intenso, Risultato occhi da cerbiatta alla portata di tutti
+- Consiglio per luso: Disegna lungo la linea delle ciglia superiori estendendo lala verso lesterno, Modula lo spessore della linea in base al tuo look
+- Contenuto: 1x Eyeliner Hyper Easy Maybelline New York, Colore: Matte Black (801)
 - Impugnatura esagonale per un controllo ottimale e maggiore stabilità nellapplicazione
 - Punta ultra-flessibile che si adatta alla forma dellocchio e permette di disegnare delle linee sottili o spesse uniformi senza salti o buchi
 

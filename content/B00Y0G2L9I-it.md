@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Logitech K400 Plus Tastiera Wireless Touch TV'
-date: 2026-08-22 12:31:45
+title: 'Logitech K400 Plus Tastiera Wireless Touch TV - Italiano QWERTY - Nero'
+date: 2026-09-23 06:43:32
 image: 'https://m.media-amazon.com/images/I/31AGU5V-TbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B00Y0G2L9I-it Logitech K400 Plus Tastiera Wireless Touch TV'
+slug: 'B00Y0G2L9I-it Logitech K400 Plus Tastiera Wireless Touch TV - Italiano...'
 sku: 'B00Y0G2L9I-it'
 tags: [ '🇮🇹', ]
-actualPrice: 24.39 EUR
+actualPrice: 24.9 EUR
 currency: EUR
-price: 24.39
+price: 24.9
 comparePrice: 44.99 EUR
-prodname: 'Logitech K400 Plus Tastiera Wireless Touch TV'
+prodname: 'Logitech K400 Plus Tastiera Wireless Touch TV - Italiano QWERTY - Nero'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B00Y0G2L9I/?tag=tolees00-21'
-descuento: '45.79'
-average: '26.7876923076922'
+descuento: '44.65'
+average: '26.6528571428571'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,13 +28,6 @@ average: '26.7876923076922'
 
 ℹ️:
 
-- Ampia Compatibilità: compatibile per luso con Windows 7, Windows 8, Windows 10 e successivi, Android 7 o successivi e Chrome OS
-- Facile Controllo Multimediale: la tastiera K400 Plus wireless touch TV ti offre un comodo controllo integrato dell’intrattenimento da PC a TV, senza lingombro di una tastiera e un mouse separati
-- Plug-and-Play: collega il ricevitore Unifying a una porta USB e la tastiera con touchpad è pronta per luso; regola i controlli con il software Logitech Options per salvare le impostazioni preferite
-- Libertà Senza Fili: dotata di tasti silenziosi e un grande touchpad per una facile navigazione, la tastiera HTPC offre una connettività wireless con un raggio dazione fino a 10 m (1)
-- Passa alla tastiera Logitech K830: prova la tastiera wireless K830 per un comfort ancora più elevato, tasti retroilluminati, connettività USB/Bluetooth e batteria ricaricabile
-- Durevole e Affidabile: grazie al design resistente agli schizzi (4) e ai tasti di lunga durata, la tastiera è una compagna di scrivania affidabile nonostante gli eventuali contrattempi
-- Potente: pensata per offrire un comodo controllo, la tastiera wireless per TV ha una batteria affidabile che dura fino a 18 mesi (2) e un pulsante on/off che consente una durata ancora più lunga
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00Y0G2L9I{{</world>}}

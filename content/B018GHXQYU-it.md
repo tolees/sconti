@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - EQUILIBRA: Da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto dellequilibrio tra rispetto, efficacia, benessere e bellezza
-- PER LA FUNZIONALITÀ DELLE VIE URINARIE: Contiene inoltre Asparago, Boldo e Ribes nero, benefici per il drenaggio dei liquidi corporei e per la funzionalità delle vie urinarie
-- PER IL DRENANGGIO DEI LIQUIDI CORPOREI: Integratore alimentare a base di estratti vegetali e al piacevole gusto Lime. Ha una formula concentrata da diluire in acqua
-- DA ASSUMERE QUOTIDIANAMENTE: Diluire 50 ml, dosabili con il misurino, in una bottiglia di acqua non gassata e bere durante la giornata. Dopo lapertura conservare in frigo e consumare entro 20 giorni
 - CARATTERISTICHE: Formulato con Tarassaco e Bardana utili alle funzioni depurative dellorganismo, Cardo mariano e Carciofo, che favoriscono la funzionalità del fegato
+- DA ASSUMERE QUOTIDIANAMENTE: Diluire 50 ml, dosabili con il misurino, in una bottiglia di acqua non gassata e bere durante la giornata. Dopo lapertura conservare in frigo e consumare entro 20 giorni
+- PER IL DRENANGGIO DEI LIQUIDI CORPOREI: Integratore alimentare a base di estratti vegetali e al piacevole gusto Lime. Ha una formula concentrata da diluire in acqua
+- PER LA FUNZIONALITÀ DELLE VIE URINARIE: Contiene inoltre Asparago, Boldo e Ribes nero, benefici per il drenaggio dei liquidi corporei e per la funzionalità delle vie urinarie
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B018GHXQYU{{</world>}}

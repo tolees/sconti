@@ -28,9 +28,9 @@ average: '20.3'
 
 ℹ️:
 
+- Dotato di cappuccio per benessere, praticità’ e comfort impareggiabile, perfetto sia per luso sportivo che domestico.
 - Il tessuto in spugna di cotone alta qualità, è altamente assorbente ed elimina efficacemente lumidità, lasciando una piacevole sensazione di asciutto.
 - Cressi è un’azienda di proprietà famigliare che sviluppa con passione prodotti sportivi acquatici dal 1946
-- Dotato di cappuccio per benessere, praticità’ e comfort impareggiabile, perfetto sia per luso sportivo che domestico.
 - Accappatoio in cotone con cappuccio, elegante, avvolgente, morbido, ultra assorbente e resistente. ideale per attività sportive, sub, doccia, piscina, mare.
 - Progettato per una rapida asciugatura in ogni ambiente e circostanza, per resistere a lungo nel tempo e a frequenti lavaggi in lavatrice senza perdere le sue caratteristiche originarie.
 

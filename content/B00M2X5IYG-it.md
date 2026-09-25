@@ -28,10 +28,10 @@ average: '16.87'
 
 ℹ️:
 
-- SuperSpeed USB 3.0 (retrocompatibile) - La velocità specificata è possibile solo con uninterfaccia USB 3.0
 - Fornitura: chiavetta USB Intenso con pratico cordino
 - Ottimale per autoradio e notebook grazie alle dimensioni minime
 - Peso: leggero 2 g; Dimensioni: 20 x 15 x 7 mm
+- SuperSpeed USB 3.0 (retrocompatibile) - La velocità specificata è possibile solo con uninterfaccia USB 3.0
 - Max. Velocità di trasferimento dati: fino a 100 MB / s
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ average: '30.0'
 
 ℹ️:
 
+- Tomaia in pelle e materiale sintetico
 - Fodera in tessuto
-- Calzata regolare
 - Chiusura con lacci
 - Suola in gomma
-- Tomaia in pelle e materiale sintetico
+- Calzata regolare
 - Tomaia traforata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

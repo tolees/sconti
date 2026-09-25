@@ -28,11 +28,11 @@ average: '18.9'
 
 ℹ️:
 
-- Freschezza di lunga durata: spruzzare leggermente KORRES BLACK SUGAR Eau de Toilette sui punti di pulsazione per garantire una freschezza di lunga durata. Se necessario, si può semplicemente rinfrescare la fragranza regolarmente per intensificare leffetto intenso e rinfrescante e godere del profumo più a lungo.
-- Note di fragranza squisite: Godetevi larmoniosa composizione di note di testa come il giglio orientale, il caramello e leliotropio, che si combinano con le note di cuore di rosa, zucchero nero, palissandro brasiliano e violetta. Le note di fondo di ambra, baccello di vaniglia e fava tonka conferiscono alla fragranza una nota lussuosa e sensuale.
-- Seducente fragranza femminile: immergetevi nel fascino magico del dolce zucchero nero combinato con la delicata eleganza del giglio orientale. Questa eau de toilette femminile e opulenta seduce i sensi e lascia unimpressione duratura.
 - Lussuosa fragranza orientale: immergetevi nel mondo del lusso con questa fragranza orientale da donna. La combinazione di zucchero dolce e nero e di note floreali esotiche conferisce a questo profumo una firma unica e accattivante.
 - Dermatologicamente testata e vegana: questa eau de toilette è stata dermatologicamente testata ed è adatta a tutti i tipi di pelle. È inoltre vegana e cruelty-free e non contiene ftalati, parabeni o nitromuschi.
+- Note di fragranza squisite: Godetevi larmoniosa composizione di note di testa come il giglio orientale, il caramello e leliotropio, che si combinano con le note di cuore di rosa, zucchero nero, palissandro brasiliano e violetta. Le note di fondo di ambra, baccello di vaniglia e fava tonka conferiscono alla fragranza una nota lussuosa e sensuale.
+- Freschezza di lunga durata: spruzzare leggermente KORRES BLACK SUGAR Eau de Toilette sui punti di pulsazione per garantire una freschezza di lunga durata. Se necessario, si può semplicemente rinfrescare la fragranza regolarmente per intensificare leffetto intenso e rinfrescante e godere del profumo più a lungo.
+- Seducente fragranza femminile: immergetevi nel fascino magico del dolce zucchero nero combinato con la delicata eleganza del giglio orientale. Questa eau de toilette femminile e opulenta seduce i sensi e lascia unimpressione duratura.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08BYKMCC1{{</world>}}

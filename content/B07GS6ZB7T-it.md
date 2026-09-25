@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech G G502 HERO Mouse Gaming Prestazioni Elevate'
-date: 2026-09-17 13:42:26
+date: 2026-09-21 20:15:55
 image: 'https://m.media-amazon.com/images/I/4189N8RLVYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B07GS6ZB7T/?tag=tolees00-21'
 descuento: '41.67'
-average: '40.4724444444447'
+average: '40.3532608695655'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

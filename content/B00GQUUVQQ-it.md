@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- TIPO DI VODKA: miscela di 100% puro grano a chicchi integri composta al 60% da frumento e al 40% da triticale. Nelle varianti alla frutta si aggiungono solo succhi di frutta. È senza glutine e OGM
-- METODO DI PRODUZIONE: è stato perfezionato passando da 3 a 6 cicli di distillazione e 2 cicli di filtrazione. Migliorandone l’aspetto visivo, irrobustendo le note olfattive e affinando il gusto
-- GUSTO: aspro, intenso e rinfrescante. Realizzata con veri succhi di frutta, diuluiti con acqua purissima Pilsen
 - METODO DI CONSUMO: da servire fredda, non ghiacciata, o come shot o mixata come ingrediente principale di moltissimi cocktail. Gradazione 23% vol.
+- TIPO DI VODKA: miscela di 100% puro grano a chicchi integri composta al 60% da frumento e al 40% da triticale. Nelle varianti alla frutta si aggiungono solo succhi di frutta. È senza glutine e OGM
+- GUSTO: aspro, intenso e rinfrescante. Realizzata con veri succhi di frutta, diuluiti con acqua purissima Pilsen
+- METODO DI PRODUZIONE: è stato perfezionato passando da 3 a 6 cicli di distillazione e 2 cicli di filtrazione. Migliorandone l’aspetto visivo, irrobustendo le note olfattive e affinando il gusto
 - PROFUMO: fruttato, intenso e avvolgente. Senza aromi e coloranti artificiali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

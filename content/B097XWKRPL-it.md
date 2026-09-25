@@ -28,11 +28,11 @@ average: '7.9'
 
 ℹ️:
 
-- 1,5mt cavo con spina piccola 10A
-- design compatto, elegante, doppia colorazione bianco / grigio che le rende uniche
+- 4 prese schuko bivalenti
 - con interruttore / limitatore di sicurezza
 - Multipresa serie Emilia
-- 4 prese schuko bivalenti
+- 1,5mt cavo con spina piccola 10A
+- design compatto, elegante, doppia colorazione bianco / grigio che le rende uniche
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B097XWKRPL{{</world>}}

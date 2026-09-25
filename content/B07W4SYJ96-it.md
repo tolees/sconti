@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Materiale confortevole e resistente
-- Ottima traspirabilità, per mantenere la pelle asciutta
 - Stile: slim fit
 - Maglietta realizzata in tessuto morbido e traspirante
+- Materiale confortevole e resistente
+- Ottima traspirabilità, per mantenere la pelle asciutta
 - Inserto in mesh sul retro per unottima traspirabilità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

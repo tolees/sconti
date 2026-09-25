@@ -28,9 +28,9 @@ average: '4.39'
 
 ℹ️:
 
-- Senza profumo
-- Formula con il 15% di ossido di zinco, crea uno strato protettivo traspirante, proteggendo dalle irritazioni causate dal pannolino
 - Per un effetto barriera ad alta protezione
+- Formula con il 15% di ossido di zinco, crea uno strato protettivo traspirante, proteggendo dalle irritazioni causate dal pannolino
+- Senza profumo
 - Formula delicata, con il 99% di ingredienti di origine naturale.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

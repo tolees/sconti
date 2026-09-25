@@ -28,9 +28,9 @@ average: '29.172'
 
 ℹ️:
 
+- Installazione e gestione intuitiva grazie alla comoda app Tapo per dispositivi Android e iOS; collega L900-10 alla rete Wi-Fi e sei subito pronto a personalizzare i tuoi ambienti
 - Tapo L900-10 è compatibile con Amazon Alexa e Google Assistant
 - Taglia la Striscia LED della lunghezza desiderata e applicala su ogni superficie grazie al comodo supporto adesivo
-- Installazione e gestione intuitiva grazie alla comoda app Tapo per dispositivi Android e iOS; collega L900-10 alla rete Wi-Fi e sei subito pronto a personalizzare i tuoi ambienti
 - Una volta trovata limpostazione ideale per una cena, una serata film o per la lettura di un libro puoi salvare i parametri e richiamarli rapidamente tramite lapp Tapo
 - Ãˆ possibile scegliere tra 16 milioni di colori o diverse tonalità di bianco, dalla luce fredda a calda per dare il colore desiderato a una stanza
 

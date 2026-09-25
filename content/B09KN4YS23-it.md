@@ -29,10 +29,10 @@ average: '30.6'
 ℹ️:
 
 - Impedisce il congelamento e l’essiccazione di parti in gomma e di parti in plastica
-- Temperatura di esercizio tra -50°C e +200°C
 - Resistente alle condizioni atmosferiche
-- Effetto impregnante
 - Effetto antistatico
+- Temperatura di esercizio tra -50°C e +200°C
+- Effetto impregnante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09KN4YS23{{</world>}}

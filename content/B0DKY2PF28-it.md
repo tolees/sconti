@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Composizione: 90% cotone
 - Dettagli stampati
 - 10% poliestere
 - Girocollo
-- Composizione: 90% cotone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DKY2PF28{{</world>}}

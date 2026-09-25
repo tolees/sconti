@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - EQUILIBRA: Da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto dellequilibrio tra rispetto, efficacia, benessere e bellezza
 - CARATTERISTICHE: L’Aloe Vera Equilibra, contenuta in importanti quantità (40%), idrata, rinfresca e riequilibra la pelle arrossata dal sole, dal vento e dalla salsedine
+- PELLE FRESCA e IDRATATA: Applicato con regolarità aiuta a mantenere l’abbronzatura. Senza Parabeni, Petrolati e Siliconi. Delicatamente profumato. Made in Italy
 - COSA CONTIENE: Contiene Aloe Vera Equilibra (40%), Olio di Cocco, l’Olio di Argan, nutrienti, Vitamina E, che aiuta a combattere i radicali liberi e Bisabololo, calmante e lenitivo
 - PER RINFRESCARE LA PELLE: Latte spray dalle proprietà lenitive e rinfrescanti. Pratico erogatore, rapido assorbimento. Idrata e nutre la pelle disidratata dal sole, rendendola liscia e luminosa
-- PELLE FRESCA e IDRATATA: Applicato con regolarità aiuta a mantenere l’abbronzatura. Senza Parabeni, Petrolati e Siliconi. Delicatamente profumato. Made in Italy
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08C886GYX{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Baseus BH1 Lite Cuffie Bluetooth Over-Ear Leggere e Comode Cuffie Wireless con Suono Cristallino Driver Dinamici da 40 mm Fino a 80 Ore di Autonomia Bluetooth 6.0 – Nero Interstellare'
-date: 2026-09-18 14:09:07
+date: 2026-09-22 15:40:04
 image: 'https://m.media-amazon.com/images/I/31G9yr9KOLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0FQNK1CZ1/?tag=tolees00-21'
 descuento: '45.41'
-average: '22.41'
+average: '22.2166666666667'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

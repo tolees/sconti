@@ -30,10 +30,10 @@ average: '1.34666666666667'
 
 - MINI FETTE CON CIOCCOLATO FONDENTE: Fette biscottate dalle dimensioni ridotte con un lato ricoperto di cioccolato
 - Limballaggio può variare
-- MULINO BIANCO: Al Mulino Bianco si ricerca da sempre la qualità: Biscotti, Dolcetti, Merendine, Pani e Snack per accompagnarti in ogni momento della giornata
 - FETTE BISCOTTATE: Da sempre semplici e genuine, così buone e facili da spalmare, adatte da inzuppare
-- INGREDIENTI: Farina di frumento, farina integrale e cioccolato fondente; senza aromi, olio di palma, additivi coloranti, additivi conservanti, grassi idrogenati, ingredienti OGM
 - PER LA TUA PAUSA: 3 Minifette cioccolato fondente e 1 bicchiere di latte parzialmente scremato. Per un totale di calorie pari al 8% del tuo fabbisogno energetico giornaliero
+- INGREDIENTI: Farina di frumento, farina integrale e cioccolato fondente; senza aromi, olio di palma, additivi coloranti, additivi conservanti, grassi idrogenati, ingredienti OGM
+- MULINO BIANCO: Al Mulino Bianco si ricerca da sempre la qualità: Biscotti, Dolcetti, Merendine, Pani e Snack per accompagnarti in ogni momento della giornata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B085FFZV31{{</world>}}

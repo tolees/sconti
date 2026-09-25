@@ -29,10 +29,10 @@ average: '18.7664285714286'
 ℹ️:
 
 - Commutatore modalità gioco: per disabilitare direttamente il tasto windows
-- 3 modalità di colore LED combinate con luminosità regolabile
 - Anti-ghosting: fino a 8 pressioni simultanee di tasti
-- 12 tasti funzione multimediali
+- 3 modalità di colore LED combinate con luminosità regolabile
 - Piedini antiscivolo in gomma, ad altezza regolabile in 2 fasi
+- 12 tasti funzione multimediali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0851CN3GC{{</world>}}

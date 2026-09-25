@@ -28,8 +28,8 @@ average: '62.9933333333333'
 
 ℹ️:
 
-- Piletta medio-alta per un comfort ottimale in bagno
 - Grohe EcoJoy: funzione di risparmio
+- Piletta medio-alta per un comfort ottimale in bagno
 - Facile da pulire grazie alla cromatura Grohe StarLight
 - Leva per posizionare il tappo per lo scarico
 

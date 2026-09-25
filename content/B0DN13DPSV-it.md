@@ -32,8 +32,8 @@ average: '17.99'
 - Mobili certificati FSC (FSC N004130). Realizzati con materiali provenienti da foreste gestite in modo responsabile, materiali riciclati e/o altre fonti di legno controllate
 - Il design minimal e moderno del tavolino si abbina perfettamente all’arredo esistente e allo stile della casa
 - Facile montaggio con istruzioni incluse
-- Gambe in metallo opaco e ripiano inferiore aperto per riporre gli oggetti
 - Tavolino da appoggio con struttura robusta, con telaio in acciaio e finitura in laminato effetto rovere
+- Gambe in metallo opaco e ripiano inferiore aperto per riporre gli oggetti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DN13DPSV{{</world>}}

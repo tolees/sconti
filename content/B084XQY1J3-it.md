@@ -29,10 +29,10 @@ average: '19.9'
 ℹ️:
 
 - Caricabatteria: in ac 230 v 50 Hz, out dc 5 v - 300 ma
-- Premi alimenti in materiale plastico
-- Kit di ricarica con batteria, adattatore e base di ricarica
 - Dimensioni (mm): 245 x 120 x 105
+- Kit di ricarica con batteria, adattatore e base di ricarica
 - Potenza: 12 W
+- Premi alimenti in materiale plastico
 - 2 rulli inox per grattugiare: - rullo grana fine per formaggio, pane duro, frutta secca e cioccolato fondente - rullo grana grossa per formaggi teneri o grattugiato grosso
 - Impugnatura ergonomica
 

@@ -29,10 +29,10 @@ average: '29.15'
 ℹ️:
 
 - Morsetto a vite ad alte prestazioni PIHER Maxipress F con una forza di serraggio fino a 9000 N
-- Il piatto non si gira quando la maniglia viene ruotata, non scivola allultima rotazione
-- Altezza massima di serraggio: 50 cm, sporgenza: 12 cm
 - Tagli a croce per facilitare il serraggio di tubi rotondi
 - Il freno impedisce lo scivolamento indesiderato
+- Altezza massima di serraggio: 50 cm, sporgenza: 12 cm
+- Il piatto non si gira quando la maniglia viene ruotata, non scivola allultima rotazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00BQI19QO{{</world>}}

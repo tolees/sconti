@@ -28,12 +28,12 @@ average: '30.44'
 
 ℹ️:
 
-- Almeno il 20% del materiale proviene da fonti riciclate e rinnovabili
+- Fodera in tessuto
 - Tomaia in mesh
 - Intersuola Cloudfoam
-- Fodera in tessuto
 - Suola in gomma
 - Calzata regolare
+- Almeno il 20% del materiale proviene da fonti riciclate e rinnovabili
 - Chiusura con lacci
 - 3 strisce in TPU
 

@@ -28,9 +28,9 @@ average: '0.706666666666667'
 
 ℹ️:
 
+- CONTENUTO , Fusilli corti bucati di grano duro italiano, trafilata al bronzo: superficie ruvida a spirale che aderisce perfettamente ai sughi corposi, forma ideale per piatti saporiti e consistenti. Confezione da 500 g
 - COTTURA , Tempo di cottura indicato: 11 minuti per una consistenza perfetta, tenace al dente e mai scotta grazie alla trafilatura al bronzo e all’elevato indice proteico
 - PACK ECOSOSTENIBILE: i pack, riciclabili nella carta, sono composti da materiale che proviene da foreste ben gestite, foreste certificate FSC e da altre fonti controllate
-- CONTENUTO , Fusilli corti bucati di grano duro italiano, trafilata al bronzo: superficie ruvida a spirale che aderisce perfettamente ai sughi corposi, forma ideale per piatti saporiti e consistenti. Confezione da 500 g
 - LA MOLISANA: dal 1912 azienda 100% Italiana leader nella produzione di pasta con solo grando italiano da filiera integrata, semole di alta qualità e tenacità certificata
 - PASTA CLASSICA LA MOLISANA: gamma di pasta genuina e digeribile che nasce da solo grano italiano decorticato a pietra, la trafilatura al bronzo rende la pasta ruvida e tenace, in grado di catturare perfettamente i condimenti
 

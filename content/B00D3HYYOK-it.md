@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ESI - Le Dieci Erbe Integratore Alimentare Vegetale con Tarassaco Lassativo Naturale Contro Stitichezza Costipazione e Flatulenza Regola il Transito Intestinale Senza Glutine Vegan 100 Tavolette'
-date: 2026-09-19 11:31:07
+date: 2026-09-23 14:25:54
 image: 'https://m.media-amazon.com/images/I/41BuRzIo+vL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B00D3HYYOK/?tag=tolees00-21'
 descuento: '41.08'
-average: '7.97800000000001'
+average: '7.99125000000001'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

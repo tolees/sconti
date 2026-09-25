@@ -28,11 +28,11 @@ average: '3.71'
 
 ℹ️:
 
-- PROTEZIONE SOLARE LABBRA – Sia il burro cacao labbra Labello Sun Protect che Labello Hydro Care contengono filtri UVA/UVB, per labbra sempre protette dagli effetti dannosi del sole
 - APPLICAZIONE IDEALE – Applicare il balsamo labbra idratante prima dellesposizione al sole e riapplicare frequentemente, specialmente dopo i bagni e i pasti
-- 24H DIDRATAZIONE – Ogni burrocacao labbra secche e screpolate si fonde istantaneamente con le labbra e dona unidratazione intensa clinicamente testata che dura per 24 ore
-- SENZA OLI MINERALI – La formula di ogni burro di cacao della confezione non contiene né oli minerali né paraffine ed è arricchita con ingredienti di origine naturale
 - CONTENUTO DELLA CONFEZIONE – Labello Sun Protect (SPF30) e Labello Hydro Care (SPF15), stick labbra protezione solare con filtri UVA/UVB, set Labello con 2 stick da 4.8 g, numero articolo: 85272
+- PROTEZIONE SOLARE LABBRA – Sia il burro cacao labbra Labello Sun Protect che Labello Hydro Care contengono filtri UVA/UVB, per labbra sempre protette dagli effetti dannosi del sole
+- SENZA OLI MINERALI – La formula di ogni burro di cacao della confezione non contiene né oli minerali né paraffine ed è arricchita con ingredienti di origine naturale
+- 24H DIDRATAZIONE – Ogni burrocacao labbra secche e screpolate si fonde istantaneamente con le labbra e dona unidratazione intensa clinicamente testata che dura per 24 ore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D478W9TH{{</world>}}

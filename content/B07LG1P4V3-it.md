@@ -28,11 +28,11 @@ average: '31.9'
 
 ℹ️:
 
-- Sottopiede antibatterico
 - I sistemi brevettati Geox assicurano traspirabilità della suola e benessere del piede
 - Calzata facile e regolabile con zip e lacci
-- Sottopiede estraibile
 - Sottopiede in pelle atossica chrome-free
+- Sottopiede antibatterico
+- Sottopiede estraibile
 - Facile da indossare per un comfort unico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

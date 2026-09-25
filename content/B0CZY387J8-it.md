@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Libenar Soluzione Isotonica│Adatto a Neonati e Bambini│25 Flaconcini da 5ml'
-date: 2026-09-19 06:12:33
+date: 2026-09-23 09:48:34
 image: 'https://m.media-amazon.com/images/I/61uQJ1nEKQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0CZY387J8-it Libenar Soluzione Isotonica│Adatto a Neonati e Bambini│25...'
 sku: 'B0CZY387J8-it'
 tags: [ '🇮🇹', ]
-actualPrice: 4.77 EUR
+actualPrice: 5.1 EUR
 currency: EUR
-price: 4.77
+price: 5.1
 comparePrice: 8.5 EUR
 prodname: 'Libenar Soluzione Isotonica│Adatto a Neonati e Bambini│25 Flaconcini da 5ml'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0CZY387J8/?tag=tolees00-21'
-descuento: '43.88'
-average: '4.80428571428572'
+descuento: '40.00'
+average: '4.82400000000001'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

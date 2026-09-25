@@ -29,9 +29,9 @@ average: '6.44333333333333'
 ℹ️:
 
 - Le preparazioni idroalcoliche di erba vita hanno origine da gemme o altre parti di piante fresche, provenienti da coltivazioni selezionate e biologiche, controllate nelle loro caratteristiche
-- Prodotto di ottima qualita
-- Si consiglia di assumere 50 gocce diluite in acqua da 1 a 3 volte al giorno, preferibilmente prima dei pasti
 - Betulla (betula pendula roth) linfa 3%
+- Si consiglia di assumere 50 gocce diluite in acqua da 1 a 3 volte al giorno, preferibilmente prima dei pasti
+- Prodotto di ottima qualita
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07DKVKX3Y{{</world>}}

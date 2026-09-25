@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- La forma esagonale impedisce ai manubri di rotolare
+- Il corpo contiene ferro riciclato post-consumo al 100% certificato GRS (Global Recycled Standard)
+- Set di 2 manubri per lallenamento di resistenza; ciascun manubrio pesa 8 kg
+- Peso del manubrio stampato su ciascuna estremità, con codifica a colori per una rapida identificazione
 - Struttura in neoprene facile da impugnare per una presa più salda
 - Ideale per lezioni di fitness o per allenamenti a casa
-- Set di 2 manubri per lallenamento di resistenza; ciascun manubrio pesa 8 kg
-- Il corpo contiene ferro riciclato post-consumo al 100% certificato GRS (Global Recycled Standard)
-- Peso del manubrio stampato su ciascuna estremità, con codifica a colori per una rapida identificazione
+- La forma esagonale impedisce ai manubri di rotolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DNHRPF6Y{{</world>}}

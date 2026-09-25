@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Classico girocollo
 - Tessuto leggero e traspirante
 - Comfort ottimale
 - Vestibilità comoda e sportiva
-- Classico girocollo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F9PLMM6L{{</world>}}

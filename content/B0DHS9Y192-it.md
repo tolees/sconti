@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO Speed Champions Auto da Corsa McLaren F1 Team MCL38 Macchina Giocattolo da Collezione con Minifigure del Pilota Modello per Bambini e Bambine da 10 Anni o per Adulti Fan della Formula 1 77251'
-date: 2026-08-24 18:08:23
+title: 'LEGO Speed Champions Auto da corsa McLaren F1 Team MCL38-77251'
+date: 2026-09-23 10:12:28
 image: 'https://m.media-amazon.com/images/I/51N2CmaAnwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0DHS9Y192-it LEGO Speed Champions Auto da Corsa McLaren F1 Team MCL38...'
+slug: 'B0DHS9Y192-it LEGO Speed Champions Auto da corsa McLaren F1 Team...'
 sku: 'B0DHS9Y192-it'
 tags: [ '🇮🇹', ]
-actualPrice: 16.19 EUR
+actualPrice: 21.59 EUR
 currency: EUR
-price: 16.19
+price: 21.59
 comparePrice: 26.99 EUR
-prodname: 'LEGO Speed Champions Auto da Corsa McLaren F1 Team MCL38 Macchina Giocattolo da Collezione con Minifigure del Pilota Modello per Bambini e Bambine da 10 Anni o per Adulti Fan della Formula 1 77251'
+prodname: 'LEGO Speed Champions Auto da corsa McLaren F1 Team MCL38-77251'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0DHS9Y192/?tag=tolees00-21'
-descuento: '40.01'
-average: '17.9025806451612'
+descuento: '20.01'
+average: '18.1260606060605'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,12 +28,6 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Monoposto regalo di compleanno per bambini e bambine: questo gioco LEGO da costruire è una divertente idea regalo per gli amanti delle auto da corsa, un pensiero per gli adulti fan delle macchine sportive e dei set LEGO da collezione
-- Veicolo LEGO da esporre e per giocare: quando le gare finiscono, i piccoli possono esporre nella loro camera da letto la macchina giocattolo da Formula 1, o usarla come decorazione di casa posizionandola in salotto
-- Macchina giocattolo con 1 minifigure: il set include una minifigure di pilota con tuta McLaren e casco, posizionabile allinterno dellauto LEGO per ricreare emozionanti sfide di velocità
-- Scopri tutta la gamma di monoposto F1 LEGO: la serie LEGO Speed Champions prevede un ampio garage di modelli e di veicoli (disponibili separatamente), per i collezionisti di macchine da costruire
-- Dettagli autentici LEGO McLaren: il modello di auto da corsa F1, presenta il design della versione reale del 2024, tra cui la barra Halo, l’ala posteriore, gli adesivi dello sponsor e pneumatici posteriori larghi con stampa “Pirelli”
-- Veicolo giocattolo LEGO McLaren per bambini e bambine da 10 anni in su: il modellino da costruire di Auto da Corsa McLaren F1 Team MCL38, è un gioco LEGO Speed Champions da costruire con cui vivere tutta lemozione delle gare della Formula 1
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DHS9Y192{{</world>}}

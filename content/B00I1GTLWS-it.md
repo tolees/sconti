@@ -28,11 +28,11 @@ average: '14.6'
 
 ℹ️:
 
-- Elevata precisione di base +/-0,5
 - Alta risoluzione di 0,005 A
+- Elevata precisione di base +/-0,5
 - Per misurare i costi energetici (€), il consumo energetico (kWh), la tensione di rete (V), la frequenza di rete (Hz), la corrente di carico (A) e il fattore di potenza.
-- Misuratore digitale dei costi energetici con risoluzione di 0,1 W
 - Visualizzazione del fattore di potenza a partire da circa 1 W
+- Misuratore digitale dei costi energetici con risoluzione di 0,1 W
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00I1GTLWS{{</world>}}

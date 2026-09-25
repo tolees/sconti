@@ -28,11 +28,11 @@ average: '8.79'
 
 ℹ️:
 
-- DA UNA SEMPLICE IDEA | Solo quello che serve e niente altro: il nostro prodotto è vegano e non contiene aromi, coloranti o altri additivi simili.
-- PELLE LUMINOSA E DIFESE FORTI | Le nostre compresse di zinco contengono 15 mg di zinco/dose giornaliera. Lo zinco non aiuta solo il sistema immunitario, ma anche la pelle, i capelli e le unghie.* Perché se ti senti bene, vuoi che si veda anche all’esterno.
-- SEMPLICEMENTE EFFICACE | *Lo zinco contribuisce al normale funzionamento del sistema immunitario e alla salute di pelle, capelli e unghie. Aiuta inoltre a proteggere le cellule dallo stress ossidativo.
 - ALTA BIODISPONIBILITÀ E BEN TOLLERATO | Utilizziamo esclusivamente bisglicinato di zinco. Questa forma di zinco è particolarmente digeribile e viene assorbita facilmente dal corpo. Le compresse da 15 mg sono l’alternativa alle nostre compresse da 25 mg e sono ideali per chi preferisce un dosaggio più basso.
 - IL MOTTO DI NATURAL ELEMENTS | Le grandi promesse richiedono un grande impegno! Per la tua sicurezza – e per garantire il rispetto dei nostri standard di qualità – facciamo esaminare accuratamente OGNI singolo lotto da laboratori indipendenti tedeschi.
+- SEMPLICEMENTE EFFICACE | *Lo zinco contribuisce al normale funzionamento del sistema immunitario e alla salute di pelle, capelli e unghie. Aiuta inoltre a proteggere le cellule dallo stress ossidativo.
+- DA UNA SEMPLICE IDEA | Solo quello che serve e niente altro: il nostro prodotto è vegano e non contiene aromi, coloranti o altri additivi simili.
+- PELLE LUMINOSA E DIFESE FORTI | Le nostre compresse di zinco contengono 15 mg di zinco/dose giornaliera. Lo zinco non aiuta solo il sistema immunitario, ma anche la pelle, i capelli e le unghie.* Perché se ti senti bene, vuoi che si veda anche all’esterno.
 - SCORTA PER UN ANNO INTERO | Con le nostre 365 compresse vegane puoi assumere una compressa al giorno per un anno intero. La dose giornaliera di zinco è 15 mg. Le nostre mini compresse sono particolarmente piccole e si inghiottono facilmente.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

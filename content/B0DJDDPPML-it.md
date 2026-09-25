@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Maniche lunghe
-- Lunghezza: Regolare
 - Vestibilità: Regolare
+- Lunghezza: Regolare
 - Modello con cappuccio
 - Materiale principale 2: Distanziatore
 

@@ -28,9 +28,9 @@ average: '13.69'
 
 ℹ️:
 
+- Con ingredienti specifici di origine naturale
 - Favorisce un tratto urinario sano: Formula integrata con MIRTILLO ROSSO
 - Ricetta monoproteica animale per gatti adulti, anche sterilizzati (> 1 anno)
-- Con ingredienti specifici di origine naturale
 - Aiuta a la sua digestione: Formula integrata con prebiotici naturali dalla radice di cicoria
 - SENZA coloranti, conservanti e zuccheri aggiunti
 

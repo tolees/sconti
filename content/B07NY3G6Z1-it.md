@@ -29,9 +29,9 @@ average: '12.11'
 ℹ️:
 
 - Confetti classici alla mandorla, cioccolato e frutta
-- Unisce tradizione ed innovazione per regalarti una vera e propria esplosione di gusto
-- Il dolce messaggero di emozioni e delizia per il palato
 - Una confezione dai colori vibranti
+- Il dolce messaggero di emozioni e delizia per il palato
+- Unisce tradizione ed innovazione per regalarti una vera e propria esplosione di gusto
 - Ottima idea per il tuo evento o per la tua pausa dolce
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

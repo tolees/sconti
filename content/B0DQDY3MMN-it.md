@@ -28,8 +28,8 @@ average: '1.29'
 
 ℹ️:
 
-- Conservare ben chiuso in un luogo fresco e asciutto.
 - Usalo sempre in casa dopo i pasti.
+- Conservare ben chiuso in un luogo fresco e asciutto.
 - Quando usarlo: dopo i pasti in caso di senso di pesantezza, senso di gonfiore, acidità di stomaco.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

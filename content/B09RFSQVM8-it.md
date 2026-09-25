@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Scarpiera Archi dal look industriale
 - Colore legno
-- Dimensioni: 63 x 23,5 x 117 cm (L x P x A)
 - 3 ante portaoggetti
+- Dimensioni: 63 x 23,5 x 117 cm (L x P x A)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09RFSQVM8{{</world>}}

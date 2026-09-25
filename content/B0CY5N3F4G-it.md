@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LG S40T Soundbar TV 300W su 2.1 Canali con Subwoofer Wireless Dolby Digital DTS AI Sound Pro HDMI ARC Bluetooth Ingresso Ottico USB'
-date: 2026-09-12 16:43:31
+date: 2026-09-22 09:52:12
 image: 'https://m.media-amazon.com/images/I/11LQkER2znL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0CY5N3F4G/?tag=tolees00-21'
 descuento: '15.97'
-average: '103.9925'
+average: '103.192'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

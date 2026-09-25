@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NOTODD PC Portatile Laptop 16 Pollici Portatile 12+512GB 1TB SSD Espansione'
-date: 2026-09-14 17:49:51
+date: 2026-09-23 10:17:10
 image: 'https://m.media-amazon.com/images/I/51Rb9zZzEzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

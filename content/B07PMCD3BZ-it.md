@@ -28,14 +28,14 @@ average: '6.15'
 
 ℹ️:
 
-- PAGINA DI GUARDIA: prestampata personalizzabile per una finitura curata
-- Prodotto in Francia
-- DOLCE SCRITTURA: Carta Clairefontaine bianca pergamena vellutata al tatto 90g/m² di QUALITA SUPERIORE con unopacità e resistenza formidabili
 - DUREVOLE E RESISTENTE: copertina in carta lustrée che imita la trama del cuoio, dallo stile semplice e autentico!
-- 100% RICICLABILE: senza plastica e certificato PEFC per la gestione sostenibile delle foreste
 - CONFORT E QUALITA: cucitura a filo e dorso in tela che offre flessibilità, conservazione nel tempo e unapertura a 360°.
-- FORMATO TRASPORTABILE: un senza tempo.
 - FORMATO DOT: matrice composta da punti spaziati di 5mm e stampati con cura, ideale per fare schizzi o per un bullet journal!
+- PAGINA DI GUARDIA: prestampata personalizzabile per una finitura curata
+- DOLCE SCRITTURA: Carta Clairefontaine bianca pergamena vellutata al tatto 90g/m² di QUALITA SUPERIORE con unopacità e resistenza formidabili
+- FORMATO TRASPORTABILE: un senza tempo.
+- Prodotto in Francia
+- 100% RICICLABILE: senza plastica e certificato PEFC per la gestione sostenibile delle foreste
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07PMCD3BZ{{</world>}}

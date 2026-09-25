@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dermatologicamente testato - Made in Italy
-- Compatibile con preservativo in caso di contatto
 - Tappo con 5 sfere massaggianti
+- Compatibile con preservativo in caso di contatto
 - Base acquosa senza zucchero; senza profumazione, sapore piacevole
+- Dermatologicamente testato - Made in Italy
 - Azione idratante 24h; effetto rinfrescante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

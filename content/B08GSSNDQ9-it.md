@@ -28,9 +28,9 @@ average: '7.99'
 
 ℹ️:
 
-- Pull On
-- Materiale interno: sintetico
 - Suola: gomma
+- Materiale interno: sintetico
+- Pull On
 - Materiale esterno: sintetico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

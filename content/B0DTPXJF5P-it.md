@@ -28,8 +28,8 @@ average: '62.04'
 
 ℹ️:
 
-- Filtro magnetico antipolvere sul pannello superiore - App di configurazione avanzata
 - Compatibile con schede grafiche fino a 410 mm - HUB USB 3.0, Type-C e audio HD
+- Filtro magnetico antipolvere sul pannello superiore - App di configurazione avanzata
 - Spazio per installare fino a 11 ventilatori
 - Scheda madre: ATX | M-ATX | ITX
 - Display LCD da 8” completamente personalizzabile - Pannello frontale e griglia superiore - Pannello laterale in vetro temperato

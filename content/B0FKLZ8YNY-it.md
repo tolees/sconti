@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - THEJoystick incluso – Joystick a microswitch di precisione con otto pulsanti
 - 25 dei giochi più apprezzati degli ultimi anni, tra cui: Sam’s Journey, A Pig Quest, Steel Ranger e Knight ‘n’ Grail
-- Una splendida riproduzione in scala 1:2 dell’iconico C64, con una finitura nera accattivante
-- Uscita video in alta definizione a 720p, 50 o 60Hz
 - Compatibilità con giochi di tua proprietà tramite chiavetta USB (file ROM da disco, cartuccia o cassetta)
+- Uscita video in alta definizione a 720p, 50 o 60Hz
+- Una splendida riproduzione in scala 1:2 dell’iconico C64, con una finitura nera accattivante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FKLZ8YNY{{</world>}}

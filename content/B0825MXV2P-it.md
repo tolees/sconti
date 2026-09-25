@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- __Neck:__ Crew neckline
-- __Fit:__ Classic, comfortable regular fit
 - Screen print on front
+- __Neck:__ Crew neckline
 - __Fabric:__ Lightweight cotton jersey fabric
+- __Fit:__ Classic, comfortable regular fit
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0825MXV2P{{</world>}}

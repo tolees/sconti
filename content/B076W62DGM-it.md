@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- DESIGN SPECIALE per PANNELLO LUCE 660 LED: Questa softbox durevole in una dimensione piccola, che può essere collegata al pannello luce 660 LED in modo saldo, è usata per ammorbidire le luci flash dure e diminuire le ombre sulloggetto durante la fotografia
-- SERRATURE MAGNETICHE CONVENIENTI: le serrature magnetiche offrono lagilità nel piegare facilmente o estendere completamente la softbox
-- SOFTBOX PORTATILE e LEGGERA: Grazie al design user-friendly, la softbox può essere piegata in una dimensione ridotta da portare in zaino per un evento allaperto; non aggiunge molto peso quando è attaccata agli impianti dilluminazione; con questa softbox, è possibile finire i lavori creativi con facilità
 - AMPIA APPLICAZIONE: È perfetta per i fotografi che riprende i personaggi ed i prodotti, per i video blogger, gli eventi allaperto, le mostre di moda e le esibizioni di prodotti ecc; aTTENZIONE: la luce LED NON è inclusa!
+- SERRATURE MAGNETICHE CONVENIENTI: le serrature magnetiche offrono lagilità nel piegare facilmente o estendere completamente la softbox
 - INSTALLAZIONE FACILE CON CINGHIE DI FISSAGGIO: Apri il softbox ed espandilo completamente con quattro aste magnetiche su ogni angolo. Fissalo saldamente alla luce LED utilizzando le cinghie di fissaggio per una presa stabile. Nota: progettato per luso solo con luci nude. Rimuovere eventuali alette o deflettori prima dellinstallazione.
+- DESIGN SPECIALE per PANNELLO LUCE 660 LED: Questa softbox durevole in una dimensione piccola, che può essere collegata al pannello luce 660 LED in modo saldo, è usata per ammorbidire le luci flash dure e diminuire le ombre sulloggetto durante la fotografia
+- SOFTBOX PORTATILE e LEGGERA: Grazie al design user-friendly, la softbox può essere piegata in una dimensione ridotta da portare in zaino per un evento allaperto; non aggiunge molto peso quando è attaccata agli impianti dilluminazione; con questa softbox, è possibile finire i lavori creativi con facilità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B076W62DGM{{</world>}}

@@ -28,10 +28,10 @@ average: '14.53'
 
 ℹ️:
 
-- Multipresa versatile con 9 uscite: include 3 prese universali P40 e 6 prese bipasso P17/11 per collegare contemporaneamente numerosi dispositivi elettrici domestici o da ufficio
-- Facilità di installazione: diverse possibilità di fissaggio con chiodo, vite o fascette
 - Spina orientabile per utilizzo anche salvaspazio
 - Vimar FP00530.C 500 Presa mobile multipla con 3 prese universali con sistema Sicury, 6 Biprese Sicury, cavo 1,5 metri, nero
+- Multipresa versatile con 9 uscite: include 3 prese universali P40 e 6 prese bipasso P17/11 per collegare contemporaneamente numerosi dispositivi elettrici domestici o da ufficio
+- Facilità di installazione: diverse possibilità di fissaggio con chiodo, vite o fascette
 - Sicurezza: Protezione Bimbi Sicuri. Prese sicure con otturatore che impedisce contatti accidentali con le parti in tensione grazie al dispositivo Sicury
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

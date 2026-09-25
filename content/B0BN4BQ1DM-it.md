@@ -28,15 +28,15 @@ average: '43.3875'
 
 ℹ️:
 
-- Smart Motion Tracking: traccia e segue un soggetto, mantenendolo allinterno del campo visivo della fotocamera.
 - Panoramica e inclinazione: offre un campo visivo orizzontale a 360°
-- Rilevamento e notifica Smart AI: lIA intelligente identifica persone, animali domestici e veicoli riconoscendo anche suoni anomali, avvisando gli utenti se necessario
-- Supporto per microsd card fino a 512 gb
-- Audio bidirezionale: consente la comunicazione tramite un microfono e un altoparlante integrati.
-- Sensore Starlight: il sensore Starlight ad alta sensibilità cattura immagini di qualità superiore anche in condizioni di scarsa illuminazione.
-- Configurazione semplice: segui le istruzioni in-app per configurare facilmente in pochi minuti
-- Modalità privacy fisica: mantieni la privacy con lobiettivo bloccato dallalloggiamento quando la modalità privacy fisica è abilitata.
 - Allarme sonoro e luminoso: attiva effetti sonori e luminosi per spaventare i visitatori indesiderati
+- Smart Motion Tracking: traccia e segue un soggetto, mantenendolo allinterno del campo visivo della fotocamera.
+- Supporto per microsd card fino a 512 gb
+- Rilevamento e notifica Smart AI: lIA intelligente identifica persone, animali domestici e veicoli riconoscendo anche suoni anomali, avvisando gli utenti se necessario
+- Sensore Starlight: il sensore Starlight ad alta sensibilità cattura immagini di qualità superiore anche in condizioni di scarsa illuminazione.
+- Audio bidirezionale: consente la comunicazione tramite un microfono e un altoparlante integrati.
+- Modalità privacy fisica: mantieni la privacy con lobiettivo bloccato dallalloggiamento quando la modalità privacy fisica è abilitata.
+- Configurazione semplice: segui le istruzioni in-app per configurare facilmente in pochi minuti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BN4BQ1DM{{</world>}}

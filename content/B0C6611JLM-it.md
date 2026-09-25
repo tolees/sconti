@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox J Sandal Haiti Girl Bianco 28 EU'
-date: 2026-09-19 09:09:55
+date: 2026-09-23 10:02:52
 image: 'https://m.media-amazon.com/images/I/31R6MH6U7iL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0C6611JLM/?tag=tolees00-21'
 descuento: '49.90'
-average: '26.5'
+average: '26.0'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

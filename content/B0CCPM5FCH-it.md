@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fairy Platinum Plus Pastiglie Lavastoviglie Tutto in Uno 125 Caps Limone'
-date: 2026-09-20 10:33:09
+date: 2026-09-24 13:02:32
 image: 'https://m.media-amazon.com/images/I/51lEvC6nYxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0CCPM5FCH/?tag=tolees00-21'
 descuento: '34.58'
-average: '26.4337209302326'
+average: '26.3108510638298'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

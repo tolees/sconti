@@ -28,9 +28,9 @@ average: '45.066'
 
 ℹ️:
 
-- Tomaia in suede
-- Fodera in tessuto
 - Vestibilità regolare
+- Fodera in tessuto
+- Tomaia in suede
 - Chiusura in pizzo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

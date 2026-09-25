@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Capacità rivetti inox 3 - 4 mm
 - Impugnatura lunga per facilitare la compresione
 - Capacità rivetti alluminio/acciaio 2.4 - 3 - 4 - 4.7 mm
 - Corpo in metallo pressofuso
-- Capacità rivetti inox 3 - 4 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B004FIOGK8{{</world>}}

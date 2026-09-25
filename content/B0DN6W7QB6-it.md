@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 100% Arabica, Intensità: 7 - MEDIO FORTE
-- Capsule compatibili Nespresso* (* Non registrate ad Amazon EU S.a.r.l.). Non compatibile con macchine Nespresso Vertuo. Assicurati sempre di seguire le istruzioni del produttore della macchina
-- Il caffè ha un corpo morbido e dolce con note di cioccolato fondente
-- Certificato Rainforest Alliance: il caffè che forniamo per questo prodotto è certificato Rainforest Alliance, il che significa che non solo ha un buon sapore, ma anche buono. Con ogni acquisto, aiuti centinaia di agricoltori e le loro famiglie in tutto il mondo, inoltre, fai la tua parte anche per la foresta pluviale: bevi meglio, fai meglio
 - Arrosto e confezionato in Belgio
+- 100% Arabica, Intensità: 7 - MEDIO FORTE
+- Il caffè ha un corpo morbido e dolce con note di cioccolato fondente
+- Capsule compatibili Nespresso* (* Non registrate ad Amazon EU S.a.r.l.). Non compatibile con macchine Nespresso Vertuo. Assicurati sempre di seguire le istruzioni del produttore della macchina
+- Certificato Rainforest Alliance: il caffè che forniamo per questo prodotto è certificato Rainforest Alliance, il che significa che non solo ha un buon sapore, ma anche buono. Con ogni acquisto, aiuti centinaia di agricoltori e le loro famiglie in tutto il mondo, inoltre, fai la tua parte anche per la foresta pluviale: bevi meglio, fai meglio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DN6W7QB6{{</world>}}

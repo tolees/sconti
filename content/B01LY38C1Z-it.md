@@ -29,8 +29,8 @@ average: '33.99'
 ℹ️:
 
 - Pannelli in tessuto a rete a trama aperta sulla punta e sui lati per un effetto rinfrescante. Colletto e linguetta imbottiti
-- Tomaia in tessuto Skech Knit Mesh monopezzo - Logo S laterale
 - Sneaker da allenamento sportiva con lacci, rivestimento sul tallone con passante superiore
+- Tomaia in tessuto Skech Knit Mesh monopezzo - Logo S laterale
 - sintetico
 - Tessuto a rete ingegnerizzato con motivi a zigzag intrecciati - Lacci sul davanti
 

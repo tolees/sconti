@@ -28,13 +28,13 @@ average: '33.5433333333333'
 
 ℹ️:
 
-- Polsini e orli a coste
-- 70% cotone / 30% poliestere (riciclato)
 - Cappuccio regolabile con cordino
+- 70% cotone / 30% poliestere (riciclato)
 - Con questo modello supportiamo la Better Cotton Initiative
 - Taglio regolare
 - Con questo modello supportiamo la Better Cotton Initiative
 - Tasca a marsupio
+- Polsini e orli a coste
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09H6VJ35V{{</world>}}

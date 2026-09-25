@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Firmato Caffarel, storica azienda italiana dellarte del cioccolato e nocciole che questanno compie 200 anni
 - Raffinata idea regalo pasquale, confezionata in elegante cartotecnica a scrigno, ideale per veri intenditori e amanti del cioccolato di qualità
 - Espressione dell’eccellenza della tradizione torinese del cioccolato e nocciole
+- Firmato Caffarel, storica azienda italiana dellarte del cioccolato e nocciole che questanno compie 200 anni
 - Uovo di Pasqua Caffarel Delizie d’Italia da 530 g realizzato con pregiato cioccolato fondente e nocciole intere Piemonte IGP selezionate
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

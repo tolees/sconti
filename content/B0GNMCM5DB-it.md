@@ -28,11 +28,11 @@ average: '287.8'
 
 ℹ️:
 
-- COSTRUITO PER DURARE - Il piatto di taglio in acciaio da 46 cm e la struttura robusta assicurano resistenza nel tempo, anche con uso frequente su prati domestici di medie dimensioni.
-- A TRAZIONE - Le ruote posteriori da 200 mm con cuscinetti a sfera assicurano movimento fluido su terreni irregolari, riducendo lo sforzo durante il taglio in pendenza.
 - UN MODELLO PER OGNI ESIGENZA - Il tagliaerba a scoppio Combi 48 S a offre tre metodi di taglio: raccolta, mulching e scarico laterale, con un piatto di taglio in acciaio da 46 cm che assicura un taglio uniforme su prati domestici di medie dimensioni.
 - SACCO DI RACCOLTA IBRIDO DA 60 LITRI - Il sacco ibrido da 60 litri con indicatore di riempimento raccoglie l’erba tagliata in modo efficiente, riducendo le fermate per lo svuotamento durante il lavoro.
 - PRESTAZIONI POTENTI E AFFIDABILI - Il motore a scoppio STIGA da 139 cc e 2,2 kW assicura un taglio costante anche su erba alta e fitta, grazie a 2900 giri/min e trazione posteriore per un avanzamento fluido su prati domestici.
+- A TRAZIONE - Le ruote posteriori da 200 mm con cuscinetti a sfera assicurano movimento fluido su terreni irregolari, riducendo lo sforzo durante il taglio in pendenza.
+- COSTRUITO PER DURARE - Il piatto di taglio in acciaio da 46 cm e la struttura robusta assicurano resistenza nel tempo, anche con uso frequente su prati domestici di medie dimensioni.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GNMCM5DB{{</world>}}

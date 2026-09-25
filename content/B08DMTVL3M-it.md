@@ -28,8 +28,8 @@ average: '269.5'
 
 ℹ️:
 
-- Programma rapido per capi puliti in soli 15 min
 - Cestello a fiocchi di neve, design Hisense per lavaggio delicato
+- Programma rapido per capi puliti in soli 15 min
 - Alta velocità di centrifuga per diminuire il tempo di asciugatura dei capi
 - 7 kg slim con display digitale
 

@@ -28,10 +28,10 @@ average: '15.99'
 
 ℹ️:
 
-- MECCANISMO DI AZIONE: Il meccanismo di azione della creatina innesca la produzione di energia in modo estremamente rapido durante sforzi massimali e sub-massimali, della durata compresa tra i 2 e i 10 secondi
-- USO VERSATILE: Aggiungila al tuo shake proteico dopo lo sforzo! Consigliata per attività ripetitive di elevata intensità e breve durata
-- QUALITÀ CERTIFICATA: Creatina monoidrato pura, sicura e dalla qualità certificata Enervit
 - CREATINA MONOIDRATO PURA: Barattolo da 330 g di Creatina Monoidrato pura, senza aromi
+- USO VERSATILE: Aggiungila al tuo shake proteico dopo lo sforzo! Consigliata per attività ripetitive di elevata intensità e breve durata
+- MECCANISMO DI AZIONE: Il meccanismo di azione della creatina innesca la produzione di energia in modo estremamente rapido durante sforzi massimali e sub-massimali, della durata compresa tra i 2 e i 10 secondi
+- QUALITÀ CERTIFICATA: Creatina monoidrato pura, sicura e dalla qualità certificata Enervit
 - SUPPORTA LE PERFORMANCE: Ideale per supportare la tua performance, perfetta dopo lallenamento o nel corso della giornata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

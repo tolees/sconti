@@ -28,11 +28,11 @@ average: '11.88'
 
 ℹ️:
 
-- Modalità duso: lasciare agire per 24 ore, dopodichè sostituirlo con uno nuovo; se necessario, tagliare il cerotto per ottenere un formato più piccolo
-- Formula: con principi attivi come Arnica e Artiglio del Diavolo, indicati per alleviare fastidi muscolari, articolari e contratture, con effetto fino a 24 ore
+- ESI Benessere Naturale: dal 1975 lazienda italiana ESI offre prodotti fitoterapici, dietetici e integratori alimentari dallelevato standard qualitativo
 - No-Dol Cerotti: cerotti con Arnica, Artiglio del Diavolo e Canfora, con effetto fino a 24 ore contro fastidi muscolari, articolari e contratture di varia natura
 - Azione: leffetto analgesico e antinfiammatorio dei principi attivi contenuti dona sollievo da reumatismi muscolari e articolari, contusioni, traumi e distorsioni
-- ESI Benessere Naturale: dal 1975 lazienda italiana ESI offre prodotti fitoterapici, dietetici e integratori alimentari dallelevato standard qualitativo
+- Formula: con principi attivi come Arnica e Artiglio del Diavolo, indicati per alleviare fastidi muscolari, articolari e contratture, con effetto fino a 24 ore
+- Modalità duso: lasciare agire per 24 ore, dopodichè sostituirlo con uno nuovo; se necessario, tagliare il cerotto per ottenere un formato più piccolo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00VXDXZ9G{{</world>}}

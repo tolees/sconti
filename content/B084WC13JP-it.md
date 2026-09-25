@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Girmi GT02 Grattugia Ricaricabile 12W 2 Rulli INOX Bianco/Rosso'
-date: 2026-09-15 15:51:06
+date: 2026-09-21 06:53:09
 image: 'https://m.media-amazon.com/images/I/313FTb6EXtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

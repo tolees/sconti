@@ -28,9 +28,9 @@ average: '16.9'
 
 ℹ️:
 
-- Due tasche sul petto con bottoni
 - Effetto antimicrobico e di regolazione della temperatura grazie al contenuto
 - Contiene poliestere riciclato
+- Due tasche sul petto con bottoni
 - Polsini regolabili
 - Logo in finta pelle
 

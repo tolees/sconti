@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Designer: Patricia Urquiola
-- Materiale: acciaio inox 18/10, pomello in acciaio inox 18/10 con rivestimento PVD
 - Paese di origine: Cina
+- Materiale: acciaio inox 18/10, pomello in acciaio inox 18/10 con rivestimento PVD
 - Il peso della confezione del prodotto è di 1 kg
+- Designer: Patricia Urquiola
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07LFGM88W{{</world>}}

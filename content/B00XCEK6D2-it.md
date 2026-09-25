@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Caffè torrefatto e macinato
 - Capsule compatibili con macchina per caffè espresso e altre bevande NESCAFÉ DOLCE GUSTO
 - 6 confezioni da 16 capsule: 96 capsule totali
+- Caffè torrefatto e macinato
+- Caffè espresso dal gusto intenso e avvolgente con chicchi di Arabica fruttata e Robusta intensa
 - Visita il sito Nestlé per scoprire come le nostre marche sono scese in campo e contribuiscono al raggiungimento degli obiettivi di sostenibilità del Gruppo Nestlé con progetti concreti
 - Capsule originali per macchine NESCAFÉ DOLCE GUSTO
-- Caffè espresso dal gusto intenso e avvolgente con chicchi di Arabica fruttata e Robusta intensa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00XCEK6D2{{</world>}}

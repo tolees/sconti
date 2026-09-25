@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Collo con coulisse
 - Polsini e orlo a costine
 - Tasca a marsupio
+- Collo con coulisse
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F4QQQ6X6{{</world>}}

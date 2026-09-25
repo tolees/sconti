@@ -29,8 +29,8 @@ average: '16.99'
 ℹ️:
 
 - Fornisce al corpo i 5 elettroliti che vanno più persi attraverso il sudore: sodio, cloruro, potassio, calcio e magnesio
-- C2max dual source carb mix
 - Soluzioni di carboidrati-elettroliti aumentano lassorbimento di acqua durante lattività fisica
+- C2max dual source carb mix
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B078K1VM3M{{</world>}}

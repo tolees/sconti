@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lefant M210 Omni Robot Aspirapolvere Lavapavimenti Anti Groviglio 20.000Pa'
-date: 2026-09-18 06:21:31
+date: 2026-09-23 09:53:51
 image: 'https://m.media-amazon.com/images/I/41Tio12AqdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

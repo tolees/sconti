@@ -29,9 +29,9 @@ average: '29.7475'
 ℹ️:
 
 - Con note di assenzio, di foglie di tabacco e di legno di cedro
+- Confezione da 100 ml
 - Sperimenta la libertà con note olfattive aromatiche, calde e legnose
 - Un profumo leggero e fresco per uomo
-- Confezione da 100 ml
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09JSV63GM{{</world>}}

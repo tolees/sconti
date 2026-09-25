@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'medicube Capsule Cream with Deep Vitamin C'
-date: 2026-09-17 09:02:28
-image: 'https://m.media-amazon.com/images/I/41IDHiS7SwL._SL500_._SL400_.jpg'
+date: 2026-09-21 17:44:03
+image: 'https://m.media-amazon.com/images/I/41PlfOqU16L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0D2Z3GGCY/?tag=tolees00-21'
 descuento: '37.33'
-average: '15.8900000000001'
+average: '16.0233333333334'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

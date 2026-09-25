@@ -29,12 +29,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - The Multi-Tasker Concealer: correttore multiuso, corregge, illumina e uniforma non solo larea occhi ma tutto il volto
-- Formula: ultra sfumabile, si fonde perfettamente con lincarnato. Waterproof, a lunga tenuta, adatta allutilizzo con la mascherina
-- Effetti e benefici: imperfezioni minimizzate, incarnato luminoso ed uniforme. Non segna le righe despressione ed idrata la pelle fino a 25 ore
-- Unità: 10.0
 - Unità di misura: millilitro
+- Formula: ultra sfumabile, si fonde perfettamente con lincarnato. Waterproof, a lunga tenuta, adatta allutilizzo con la mascherina
 - Applicazione: lapplicatore extra large, morbido al tatto, rilascia il quantitativo ottimale di prodotto
 - Tonalità: 040 Ivory
+- Effetti e benefici: imperfezioni minimizzate, incarnato luminoso ed uniforme. Non segna le righe despressione ed idrata la pelle fino a 25 ore
+- Unità: 10.0
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08VG8GMZQ{{</world>}}

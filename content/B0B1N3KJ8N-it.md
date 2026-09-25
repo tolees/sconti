@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Patch logo sulla linguetta e puntale traforato
 - Gambo e linguetta imbottiti, suola in gomma rigata
 - Tomaia in pelle sintetica e tessuto
 - Soletta Memorytech Ortholite e intersuola in schiuma EVA
+- Patch logo sulla linguetta e puntale traforato
 - Clip sul tallone in TPU
 - Stampa del logo sul tallone e finestra del marchio
 - Chiusura frontale con lacci

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Colore: blu
-- Composizione: 99% cotone, 1% elastan
-- Istruzioni per il lavaggio: lavabile in lavatrice
 - Vestibilità: Boot Fit
 - jeans, pantaloni, lunghi
+- Composizione: 99% cotone, 1% elastan
+- Colore: blu
+- Istruzioni per il lavaggio: lavabile in lavatrice
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CB1FC12Q{{</world>}}

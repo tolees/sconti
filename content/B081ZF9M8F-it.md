@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Astucci da 10 capsule confezionate in atmosfera protettiva
 - *Nespresso è un marchio registrato di Societè des Produits Nestlè S.A; Kimbo SPA è un produttore autonomo non collegato alla Societè des Produits Nestlè S.A.
+- Astucci da 10 capsule confezionate in atmosfera protettiva
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B081ZF9M8F{{</world>}}

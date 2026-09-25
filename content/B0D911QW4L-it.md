@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- In Dagli Abissi, una nuova espansione per Insondabili, la SS Atlantica e il suo viaggio verso Boston si immergono in pericoli sempre più profondi. Nuovi mostri terrificanti emergono dagli abissi dell’Atlantico pronti ad assalire la nave, e le stesse acque dell’oceano sono diventate tanto violente da gettare i passeggeri fuoribordo
 - Nuove insidie sono pronte a sabotare il viaggio e, con un mazzo dei miti grande il doppio, pericoli mai visti prima minacceranno l’Atlantica a ogni tappa
 - Alcuni dei giocatori vestono i panni degli umani che lottano per la sopravvivenza della nave, dei suoi passeggeri e del suo equipaggio. Altri sono invece traditori, inviati a bordo della SS Atlantica dagli Abitatori del profondo per assicurarsi che il battello non arrivi mai in porto
 - 1913: i giocatori si trovano a bordo del battello a vapore SS Atlantica diretto a Boston
+- In Dagli Abissi, una nuova espansione per Insondabili, la SS Atlantica e il suo viaggio verso Boston si immergono in pericoli sempre più profondi. Nuovi mostri terrificanti emergono dagli abissi dell’Atlantico pronti ad assalire la nave, e le stesse acque dell’oceano sono diventate tanto violente da gettare i passeggeri fuoribordo
 - Un gioco da tavolo di lealtà segrete, sospetti, intrighi e paranoia ambientato nell’universo di Arkham Horror
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

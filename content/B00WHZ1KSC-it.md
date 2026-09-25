@@ -28,11 +28,11 @@ average: '72.2'
 
 ℹ️:
 
+- Compatibile con i bike radar
 - Funzione dettaglio di svolta (percorso pianificato)
+- 2.6 pollici mono LCD
 - 32 ore di durata della batteria
 - Nuova interfaccia grafica
-- 2.6 pollici mono LCD
-- Compatibile con i bike radar
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00WHZ1KSC{{</world>}}

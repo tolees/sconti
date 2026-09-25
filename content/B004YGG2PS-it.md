@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Economic – tubo da giardino
 - Diametro 12 mm (1/2"), lunghezza 20m
 - Scopri la nostra gamma completa di prodotti
+- Economic – tubo da giardino
 - Tre strati tubo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

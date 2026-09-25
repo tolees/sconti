@@ -29,9 +29,9 @@ average: '1441.44'
 ℹ️:
 
 - Fotocamera piccola e leggera che offre una qualità dellimmagine superba e video 4K
+- Funzioni di fotografia computazionale, con modalità Scatto ad alta risoluzione portatile, Live ND, Composita Live e stack messa a fuoco
 - Prestigiosa stabilizzazione a 5 assi integrata nel corpo macchina migliorata
 - Ancora più a prova di polvere, schizzi di acqua e gelo con la resistenza alle intemperie IP53
-- Funzioni di fotografia computazionale, con modalità Scatto ad alta risoluzione portatile, Live ND, Composita Live e stack messa a fuoco
 - Processore TruePic IX e sensore Live MOS da 20MP con tecnologia di riduzione della polvere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

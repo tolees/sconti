@@ -29,10 +29,10 @@ average: '35.19'
 ℹ️:
 
 - Care Label:
+- High Neck
 - Jacket
 - materialFabricComposition: 100% Polyester
 - Long Sleeves
-- High Neck
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CMQGC525{{</world>}}

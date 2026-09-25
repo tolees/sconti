@@ -28,10 +28,10 @@ average: '491.0'
 
 ℹ️:
 
-- 165Hz Game Mode Ultra
-- Smart TV Mini-LED 165Hz 4K 55", Risoluzione 3840x2160
-- Audio Dolby Atmos 2.1.2
 - Mini-LED PRO con Local Dimming
+- 165Hz Game Mode Ultra
+- Audio Dolby Atmos 2.1.2
+- Smart TV Mini-LED 165Hz 4K 55", Risoluzione 3840x2160
 - QLED Display 165Hz
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

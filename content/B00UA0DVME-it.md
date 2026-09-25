@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Descrizione del prodotto: scopino con tinta unita in metallo
-- Colore: antracite
-- Spazzola in metallo con manico, manico, 37 cm, nero
 - Dimensioni: 9,5 x 9,5 x 26,5 cm
+- Spazzola in metallo con manico, manico, 37 cm, nero
+- Colore: antracite
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00UA0DVME{{</world>}}

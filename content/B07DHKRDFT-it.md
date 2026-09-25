@@ -28,11 +28,11 @@ average: '12.435'
 
 ℹ️:
 
-- Dimensioni: 8,12 x 7,62 x 9,9 cm
 - Design multi-angolo: regolazione possibile fino a 270°; mantiene il telefono in posizione verticale o orizzontale
-- Il supporto regolabile per cellulare coniuga la praticità del vivavoce con un comodo angolo di visione
-- Compatibile con iPhone e dispositivi Android; adatto a dispositivi con dimensioni comprese tra 10 e 20 cm
 - Robusta struttura in alluminio con elegante finitura argento; leggero; spessori in gomma antiscivolo; foro per il cavo di ricarica
+- Compatibile con iPhone e dispositivi Android; adatto a dispositivi con dimensioni comprese tra 10 e 20 cm
+- Il supporto regolabile per cellulare coniuga la praticità del vivavoce con un comodo angolo di visione
+- Dimensioni: 8,12 x 7,62 x 9,9 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07DHKRDFT{{</world>}}

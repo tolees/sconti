@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Acciughe mature e salate
-- Contiene olio doliva
 - Lavorati a mano uno per uno
 - Una volta aperto conservare in frigorifero mantenendo il prodotto coperto dallolio
 - Conservare a temperatura ambiente
+- Acciughe mature e salate
+- Contiene olio doliva
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0026LHZG8{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech G G213 Prodigy Tastiera Gaming Cablata Nero ITA QWERTY'
-date: 2026-09-20 08:43:19
+date: 2026-09-25 09:01:10
 image: 'https://m.media-amazon.com/images/I/31Hu+oydAbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B07W6GVS5C/?tag=tolees00-21'
 descuento: '45.72'
-average: '43.7998809523809'
+average: '43.6647674418605'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

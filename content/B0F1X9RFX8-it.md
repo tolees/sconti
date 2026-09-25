@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Soletta in tessuto
 - Tomaia in materiale sintetico
 - Lacci
-- Soletta in tessuto
 - Suola sintetica
 - Vestibilità regolare
 

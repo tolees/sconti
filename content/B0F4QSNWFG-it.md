@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Bandierina Tommy ricamata sul petto
 - Jersey di puro cotone
+- Bandierina Tommy ricamata sul petto
 - Con girocollo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

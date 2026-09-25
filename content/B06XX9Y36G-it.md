@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - La tracolla allungabile si regola facilmente per la lungezza desiderata. Grazie alla cinghia, è possibile trasportare il tutto comodamente e la custodia diventa ideale per qualsiasi attività fotografica outdoor.
 - La borsa porta fotocamera per fotografi può contenere e proteggere 1 corpo macchina DSLR/Mirrorless, da 1 a 4 obiettivi o accessori aggiuntivi; compatibile con Canon, Nikon, Sony, Olympus, Pentax, Fujifilm, Panasonic, Samsung e Leica; Dimensioni: 22x15x32cm
-- La custodia è compatibile con GoPro Hero 13 12 Go Pro 11 10 9 Black DJI Osmo Pocket 3 4 4P Xtra Muse action 5 pro 6 OSMO360 NANO Insta360 X3 X4 X5 Insta 360 Luna Ultra GO 2 3 3s Ultra, obiettivo e accessori come flash, batterie, caricabatterie, cavi
 - Il design rettangolare e liscio provvede l’esterno conciso e pratico, senza sacrificare lo spazio di stoccaggio.
+- La custodia è compatibile con GoPro Hero 13 12 Go Pro 11 10 9 Black DJI Osmo Pocket 3 4 4P Xtra Muse action 5 pro 6 OSMO360 NANO Insta360 X3 X4 X5 Insta 360 Luna Ultra GO 2 3 3s Ultra, obiettivo e accessori come flash, batterie, caricabatterie, cavi
 - Il lato esterno idrorepellente e resistente offre una protezione addizionale ai dispositivi fotografici, contro acqua, polveri, graffi, collisioni e altri danni potenziali.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

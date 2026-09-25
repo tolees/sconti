@@ -28,16 +28,16 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Sistema di sicurezza anti surriscaldamento / Interruttore di accensione a rilascio automatico
-- Luce di funzionamento
-- Rotazione 360°
 - Filtro removibile
-- Capacità 1.2 Lt
-- Potenza: 1370-1630 W
+- Luce di funzionamento
 - Corpo in acciaio inossidabile
 - Alimentazione: AC 220-240V – 50/60 Hz
-- Caraffa con finestra graduata
 - Base di alimentazione ad incastro / Avvolgicavo nella base /
+- Capacità 1.2 Lt
+- Sistema di sicurezza anti surriscaldamento / Interruttore di accensione a rilascio automatico
+- Caraffa con finestra graduata
+- Rotazione 360°
+- Potenza: 1370-1630 W
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07NJM8QZG{{</world>}}

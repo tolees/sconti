@@ -28,10 +28,10 @@ average: '11.17'
 
 ℹ️:
 
-- Tutte le prese sono dotate di children safety - impedisce di introdurre corpi estranei nella presa in tensione
-- Easy to fix: dotata di fori per il fissaggio con fascette autobloccanti
 - Indicatore on/off luminoso
 - Multipresa con 3 prese polivalenti P40(schuko + 16A +10A) e 6 prese bivalenti 10/16a; spina 16a. Cavo H05VV-F sezione 3G1 mm² lunghezza 1,5 metri
+- Tutte le prese sono dotate di children safety - impedisce di introdurre corpi estranei nella presa in tensione
+- Easy to fix: dotata di fori per il fissaggio con fascette autobloccanti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B079TGL7QM{{</world>}}

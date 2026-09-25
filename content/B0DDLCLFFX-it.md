@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Include un trasmettitore DJI Mic Mini, un ricevitore e altri accessori utili, offrendo la flessibilità di un microfono wireless in unampia gamma di scenari per la creazione di contenuti.
-- Campionamento a 48 kHz e 120 dB SPL per un audio ricco e senza distorsioni, durata della batteria di circa 10 ore [5].
 - Cancellazione del rumore efficace - Sono disponibili 2 livelli di cancellazione del rumore: Base è ideale per gli ambienti interni silenziosi, mentre Alto eccelle in ambienti rumorosi per fornire registrazioni vocali chiare con un microfono lavalier. [8]
-- Registra più a lungo - Un trasmettitore e un ricevitore offrono rispettivamente unautonomia operativa fino a 10 ore. [5] È più che sufficiente per un microfono wireless in scenari di uso intensivo come le interviste.
+- Campionamento a 48 kHz e 120 dB SPL per un audio ricco e senza distorsioni, durata della batteria di circa 10 ore [5].
 - Connessione diretta con l’ecosistema DJI – Con DJI OsmoAudio, un trasmettitore può connettersi a Osmo Nano, Osmo 360, Osmo Mobile 7P, Osmo Action 5 Pro, Osmo Action 4 o Osmo Pocket 3 senza l’uso del ricevitore, per un audio di qualità superiore.
-- Audio sempre impeccabile - DJI Mic Mini è dotato di una funzione di limitazione automatica per ridurre il volume se laudio in ingresso è troppo alto, prevenendo il clipping e garantendo una qualità audio affidabile come un ottimo microfono wireless in ogni situazione.
 - Suono ricco e dettagliato - Mic Mini è un microfono wireless che offre un audio di alta qualità. La distanza di trasmissione massima di 400 m [2] garantisce una registrazione stabile, anche in ambienti rumorosi come le strade affollate.
+- Registra più a lungo - Un trasmettitore e un ricevitore offrono rispettivamente unautonomia operativa fino a 10 ore. [5] È più che sufficiente per un microfono wireless in scenari di uso intensivo come le interviste.
+- Include un trasmettitore DJI Mic Mini, un ricevitore e altri accessori utili, offrendo la flessibilità di un microfono wireless in unampia gamma di scenari per la creazione di contenuti.
+- Audio sempre impeccabile - DJI Mic Mini è dotato di una funzione di limitazione automatica per ridurre il volume se laudio in ingresso è troppo alto, prevenendo il clipping e garantendo una qualità audio affidabile come un ottimo microfono wireless in ogni situazione.
 - Piccolo ma potente - Il trasmettitore DJI Mic Mini è piccolo e ultraleggero, con un peso di soli 10 g [1], rendendolo un comodo microfono lavalier da indossare, discreto e esteticamente piacevole in video.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

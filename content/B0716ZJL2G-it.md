@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Liquido chimico ad azione detergente e sanificante, specifico per la manutenzione dei serbatoi delle acque grigie
 - Usato quotidianamente versandolo direttamente nei lavelli, docce, lavandini e WC di camper, caravan, imbarcazioni, ecc
+- Liquido chimico ad azione detergente e sanificante, specifico per la manutenzione dei serbatoi delle acque grigie
 - Previene la formazione dei cattivi odori
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

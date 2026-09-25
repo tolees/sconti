@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - PELLINI N.42 TRADIZIONALE: Caffè macinato per Moka, un Espresso vigoroso e di carattere in 3 confezioni da 250g ciascuna
-- NOTE AROMATICHE: Caffè dal vigoroso e di carattere, offre l’aroma e il carattere del tradizionale Espresso italiano con note di liquirizia e pane tostato fragrante. Miscela perfezionata per moka, pensata per trasformare un rito quotidiano in un Espresso da sogno
 - TOSTATURA: Tostatura decisa, intensità 8/9. Il caffè viene raffreddato naturalmente ad aria, fatto riposare in appositi silos prima di essere confezionato
-- COMPOSIZIONE: Miscela classica composta da una bilanciata armonia di qualità pregiate di Arabica e Robusta attentamente selezionate e tostate per ogni singola origine per sprigionare aromi e sapori
+- NOTE AROMATICHE: Caffè dal vigoroso e di carattere, offre l’aroma e il carattere del tradizionale Espresso italiano con note di liquirizia e pane tostato fragrante. Miscela perfezionata per moka, pensata per trasformare un rito quotidiano in un Espresso da sogno
 - EROGAZIONE SUGGERITA: Ideale per la tipica colazione allitaliana
+- COMPOSIZIONE: Miscela classica composta da una bilanciata armonia di qualità pregiate di Arabica e Robusta attentamente selezionate e tostate per ogni singola origine per sprigionare aromi e sapori
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01G1RXVA6{{</world>}}

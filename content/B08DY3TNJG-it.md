@@ -28,9 +28,9 @@ average: '8.930625'
 
 ℹ️:
 
+- Facile da pulire e riporre: il suo materiale in acciaio inossidabile lo rende molto facile da pulire e impermeabile. Le sue dimensioni lo rendono facile da riporre quando non in uso.
 - Resistente: la bilancia è realizzata in acciaio con bordo in ABS per uso alimentare e piedini antiscivolo. Include una garanzia di 2 anni e viene fornito con 2 batterie AAA con certificazioni CE e ROHS. Qualità BOSTONTECH.
 - Display LCD – Con retroilluminazione di facile lettura può avvisare gli utenti del livello di carica della batteria, del sovraccarico di peso e della superficie di posa irregolare. Dispone di un sistema di spegnimento automatico dopo 180 secondi di inattività, che aiuta a conservare la batteria per estenderne il raggio di utilizzo.
-- Facile da pulire e riporre: il suo materiale in acciaio inossidabile lo rende molto facile da pulire e impermeabile. Le sue dimensioni lo rendono facile da riporre quando non in uso.
 - Precisione: dispone di 4 sensori ad alta precisione e una capacità di 5 kg/ 11 libbre. Ideale per pesare con precisione frutta, cereali, carne, liquidi, gioielli, tra gli altri.
 - Multifunzionale: la bilancia ha tutte le unità di misura necessarie, passa facilmente tra 6 diverse unità: grammi (g), chilogrammi (kg), libbre (lb), once (oz), millilitri (ml), latte (ml)
 

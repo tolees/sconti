@@ -28,8 +28,8 @@ average: '60.5'
 
 ℹ️:
 
-- Costruzione Heat Seal
 - Bordatura sul cappuccio, i polsini e l’orlo
+- Costruzione Heat Seal
 - Tessuto resistente all’acqua
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

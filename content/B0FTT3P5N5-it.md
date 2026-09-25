@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sole Detersivo Lavatrice Igiene e Freschezza 123 Lavaggi Formula igienizzante Detersivo Lavatrice Liquido Igiene e Freschezza rimuove le macchie a basse temperature'
-date: 2026-09-20 17:28:43
+date: 2026-09-23 13:19:18
 image: 'https://m.media-amazon.com/images/I/51G6pZ-1K7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0FTT3P5N5/?tag=tolees00-21'
 descuento: '30.02'
-average: '13.3537500000001'
+average: '13.4244444444445'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

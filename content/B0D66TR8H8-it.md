@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Brandisci il pennello magico: pittura per creare, solvente per alterare. Ogni scelta che prenderai plasmerà la tua storia
 - Esplora una Rifiutolandia reinterpretata, ricca di personaggi e storie Disney intramontabili
 - Incontra Oswald il coniglio fortunato, il primo personaggio Disney, in un mondo ricco e dotato di una forte componente narrativa
-- Brandisci il pennello magico: pittura per creare, solvente per alterare. Ogni scelta che prenderai plasmerà la tua storia
 - Scopri le nuove mosse di Topolino, come lo scatto, lo schianto e la corsa
 - Vivi unesperienza di gioco avanzata alla scoperta di unambientazione classica con nuove abilità e un comparto grafico migliorato
 

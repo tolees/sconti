@@ -28,11 +28,11 @@ average: '38.3577777777778'
 
 ℹ️:
 
-- INTENSITÀ: La tostatura media e lintensità 5/10 danno un sapore intenso e un corpo pieno a questo caffè dal colore caldo
-- NOTE AROMATICHE: Questa selezione di caffè è caratterizzata da note aromatiche di cioccolato e frutta secca, per un gusto intenso
-- LAVAZZA: Il Gruppo Lavazza opera in ogni settore dellindustria del caffè, offrendo prodotti di alta qualità, ottenuti attraverso un modello sostenibile basato su innovazione, passione e competenza
-- COMPOSIZIONE: I chicchi di caffè Qualità Rossa di Lavazza sono realizzati con una miscela di Arabica e Robusta proveniente dal Sud America, dallAfrica e dal Sudest Asiatico
 - QUALITÀ ROSSA: Una miscela dal corpo pieno e ricco di straordinaria rotondità, ideale per macchine per caffè espresso automatiche
+- NOTE AROMATICHE: Questa selezione di caffè è caratterizzata da note aromatiche di cioccolato e frutta secca, per un gusto intenso
+- COMPOSIZIONE: I chicchi di caffè Qualità Rossa di Lavazza sono realizzati con una miscela di Arabica e Robusta proveniente dal Sud America, dallAfrica e dal Sudest Asiatico
+- INTENSITÀ: La tostatura media e lintensità 5/10 danno un sapore intenso e un corpo pieno a questo caffè dal colore caldo
+- LAVAZZA: Il Gruppo Lavazza opera in ogni settore dellindustria del caffè, offrendo prodotti di alta qualità, ottenuti attraverso un modello sostenibile basato su innovazione, passione e competenza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BGQ5WGSV{{</world>}}

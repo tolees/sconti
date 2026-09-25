@@ -29,8 +29,8 @@ average: '14.4066666666667'
 ℹ️:
 
 - Con Ingredienti di Alta Qualità
-- Con Salmone
 - Ogni confezione contiene 24 bustine da 85 g.
+- Con Salmone
 - Alimento Umido completo ed equilibrato per gatti adulti
 - Senza coloranti né conservanti aggiunti
 

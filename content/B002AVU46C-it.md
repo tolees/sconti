@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Gancio
 - Gambo fisso
+- Gancio
 - 1 Regolazione
 - Lama in acciaio inossidabile
 

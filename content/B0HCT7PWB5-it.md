@@ -28,12 +28,12 @@ average: '6.12'
 
 ℹ️:
 
-- Alla ricchezza delle fibre di cereali si aggiungono quelle di barbabietola e carota nera. E il colore? E’ dato naturalmente dagli ingredienti utilizzati
+- Ricchi di iodio e preparati con materie prime scelte per le loro proprietà nutrizionali
 - -50% di grassi saturi rispetto alla media dei crackers più venduti; uno spuntino leggero alla portata di tutti
+- 100% farina integrale. Grano, avena, orzo e frumento: assapora il gusto autentico dei cereali
+- Alla ricchezza delle fibre di cereali si aggiungono quelle di barbabietola e carota nera. E il colore? E’ dato naturalmente dagli ingredienti utilizzati
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
 - 15% di fibre, la bontà naturale delle fibre e il mix perfetto di bontà e qualità
-- 100% farina integrale. Grano, avena, orzo e frumento: assapora il gusto autentico dei cereali
-- Ricchi di iodio e preparati con materie prime scelte per le loro proprietà nutrizionali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0HCT7PWB5{{</world>}}

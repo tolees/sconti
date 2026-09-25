@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Quasar - Pavimenti Parquet e Delicati Asciuga Rapido 1000ml'
-date: 2026-09-16 07:38:43
+date: 2026-09-23 16:28:53
 image: 'https://m.media-amazon.com/images/I/31MD3P3WK+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

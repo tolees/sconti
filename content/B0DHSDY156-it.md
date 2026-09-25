@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO Harry Potter Negozi di Magia di Diagon Alley Miniatura da Esposizione e Collezione con 16 Microfigure tra cui Harry Draco Malfoy Hermione Granger e Famiglia Weasleys Regalo Uomo o Donna 76444'
-date: 2026-09-15 16:39:58
+title: 'LEGO Harry Potter Negozi di magia di Diagon Alley 76444'
+date: 2026-09-21 17:30:48
 image: 'https://m.media-amazon.com/images/I/51eusRaEiSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0DHSDY156-it LEGO Harry Potter Negozi di Magia di Diagon Alley...'
+slug: 'B0DHSDY156-it LEGO Harry Potter Negozi di magia di Diagon Alley 76444'
 sku: 'B0DHSDY156-it'
 tags: [ '🇮🇹', ]
-actualPrice: 150.99 EUR
+actualPrice: 159.99 EUR
 currency: EUR
-price: 150.99
+price: 159.99
 comparePrice: 199.99 EUR
-prodname: 'LEGO Harry Potter Negozi di Magia di Diagon Alley Miniatura da Esposizione e Collezione con 16 Microfigure tra cui Harry Draco Malfoy Hermione Granger e Famiglia Weasleys Regalo Uomo o Donna 76444'
+prodname: 'LEGO Harry Potter Negozi di magia di Diagon Alley 76444'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0DHSDY156/?tag=tolees00-21'
-descuento: '24.50'
-average: '153.666551724137'
+descuento: '20.00'
+average: '153.877333333332'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

@@ -28,12 +28,12 @@ average: '159.0'
 
 ℹ️:
 
-- Classe A
 - Cucina 50X50 libera installazione
 - Dimensioni HxLxP: 85,0 x 50,0 x 50,0
-- Colore Bianco
-- Forno a Gas + Piano con 4 bruciatori a gas e griglie a piattina
 - Controllo Meccanico,
+- Colore Bianco
+- Classe A
+- Forno a Gas + Piano con 4 bruciatori a gas e griglie a piattina
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DGGZFKQ1{{</world>}}

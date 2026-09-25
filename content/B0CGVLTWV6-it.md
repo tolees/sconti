@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- LAVABILE IN LAVASTOVIGLIE, MADE IN ITALY Pensata per l’uso quotidiano in cucina, con componenti lavabili in lavastoviglie e qualità Made in Italy.
 - DA CENTRIFUGA A INSALATIERA Dopo aver lavato e asciugato l’insalata, il contenitore può essere usato anche per servire in tavola, trasformando il prodotto in una pratica insalatiera
+- LAVABILE IN LAVASTOVIGLIE, MADE IN ITALY Pensata per l’uso quotidiano in cucina, con componenti lavabili in lavastoviglie e qualità Made in Italy.
 - CESTELLO REMOVIBILE E POMELLO SALVASPAZIO Il cestello removibile rende il prodotto più semplice da usare e pulire, mentre il pomello ergonomico salvaspazio lo rende comodo da riporre.
 - LAVA, SCOLA E ASCIUGA INSALATA E VERDURE Ideale per lavare e asciugare insalata e verdure in modo pratico, per portarle in tavola più asciutte e pronte da condire.
 - SCOLA L’ACQUA DIRETTAMENTE DAL COPERCHIO Il coperchio è dotato di un’apertura apposita per eliminare l’acqua in eccesso con semplicità, senza dover smontare il prodotto ogni volta.

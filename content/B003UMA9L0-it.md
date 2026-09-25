@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- BLUE BOX: la nuova confezione di pasta in cartoncino, nata per abbracciare limpegno di Barilla nello sviluppo di soluzioni volte a ridurre il suo impatto sul pianeta
-- QUALITÀ: Pasta sempre al dente grazie alla selezione di grani duri. Poniamo grande attenzione lungo tutta la filiera per garantire qualità e sicurezza alimentare
 - BARILLA: unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
+- BLUE BOX: la nuova confezione di pasta in cartoncino, nata per abbracciare limpegno di Barilla nello sviluppo di soluzioni volte a ridurre il suo impatto sul pianeta
 - IDEALI CON: condimenti di ogni tipo, anche quelli più estrosi. Grazie alle loro piccole dimensioni si tuffano nel sugo amalgamandosi alla perfezione
 - PENNETTE RIGATE: le pennette rigate Barilla nascono per esaltare tutti i tipi di sughi
+- QUALITÀ: Pasta sempre al dente grazie alla selezione di grani duri. Poniamo grande attenzione lungo tutta la filiera per garantire qualità e sicurezza alimentare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B003UMA9L0{{</world>}}

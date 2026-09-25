@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Rapido avanzamento del lavoro, grazie al campo del numero di giri regolabile da 0 a 1.300 giri/min
-- Impugnatura sottile Soft Grip e interruttore lungo, per il massimo di praticità e controllo
 - Estremamente versatile: la testa orientabile in 5 posizioni si può adattare a qualsiasi posizione di lavoro
+- Impugnatura sottile Soft Grip e interruttore lungo, per il massimo di praticità e controllo
+- Rapido avanzamento del lavoro, grazie al campo del numero di giri regolabile da 0 a 1.300 giri/min
 - Dotazione: GWB 12V-10, 2 batt. GBA 12V da 2.0Ah, caricabatteria rapido GAL 12V-40, inserto parziale L-BOXX per gli accessori, inserto parziale L-BOXX per utensile, L-BOXX 102
 - Professional 12V System. Prestazioni compatte. Massima libertà. Tutte le batterie sono compatibili con gli strumenti Bosch Professional nuovi ed esistenti nella stessa classe di tensione.
 

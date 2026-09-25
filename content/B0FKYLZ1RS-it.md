@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lampada da terra a 3 luci RGB LED moderna lampada da terra con telecomando e interruttore touch 36W dimmerabile teste regolabili perfetta per soggiorno camera da letto lettura e casa AVEN FL08'
-date: 2026-09-18 17:24:12
+date: 2026-09-21 11:42:16
 image: 'https://m.media-amazon.com/images/I/41sEhjqT2+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

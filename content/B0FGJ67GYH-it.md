@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenor Ammorbidente Lavatrice Concentrato Essenze d’Italia 216 Lavaggi 8x27 Capri Note Di Gardenia e Giacinto Profumo autentico di lunga durata'
-date: 2026-09-19 12:01:46
+date: 2026-09-20 19:22:13
 image: 'https://m.media-amazon.com/images/I/51BbH6qcjXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0FGJ67GYH/?tag=tolees00-21'
 descuento: '48.13'
-average: '18.0736363636363'
+average: '17.8983333333333'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

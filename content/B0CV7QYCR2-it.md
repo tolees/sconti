@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 6 piatti dessert 19 cm
-- 6 piatti fondi 20 cm
 - 6 piatti piani 27 cm
+- 6 piatti fondi 20 cm
+- 6 piatti dessert 19 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CV7QYCR2{{</world>}}

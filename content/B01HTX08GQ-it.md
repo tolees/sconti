@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - OCCHIALINI DA GARA: gli occhialini da gara per giovani nuotatori competitivi arena Tracks Junior, comodi e pratici, sono realizzati con trattamento anti-appannamento e dotati di guarnizioni morbide
 - COMODI E SICURI: occhialini da nuoto e piscina personalizzabili e adattabili alla forma del viso e del naso grazie ai 4 ponti nasali intercambiabili; il cinturino doppio regolabile assicura una calzata stabile anche in partenza e in virata
-- PER GIOVANI NUOTATORI: gli occhialini della linea Tracks Junior, compatti e idrodinamici, sono pensati per i nuotatori dai 6 ai 12 anni che desiderano una soluzione confortevole e sicura; occhialini approvati World Aquatics (FINA)
 - PRESTAZIONI ELEVATE: questi occhialini nuoto sono dotati di lenti con protezione UV e una struttura minimalista per uneccellente idrodinamicità durante la sessione di nuoto
 - COMPOSIZIONE: questi occhialini nuoto bambina e bambino sono composti da 60% Silicone, 35% Policarbonato, 3% Polipropilene, 2% Poliuretano, realizzati senza PVC
+- PER GIOVANI NUOTATORI: gli occhialini della linea Tracks Junior, compatti e idrodinamici, sono pensati per i nuotatori dai 6 ai 12 anni che desiderano una soluzione confortevole e sicura; occhialini approvati World Aquatics (FINA)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01HTX08GQ{{</world>}}

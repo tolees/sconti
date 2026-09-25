@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Mix da Strategia e Felicità
 - Numero di giocatori: 2 - 4 Giocatori
-- Empfohlenes Alter: da 8 anni
-- Divertimento duraturo per tutta la famiglia
 - Durata del gioco: Ca 30 Minuti
+- Mix da Strategia e Felicità
+- Divertimento duraturo per tutta la famiglia
+- Empfohlenes Alter: da 8 anni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00GV1BKL0{{</world>}}

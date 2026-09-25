@@ -28,9 +28,9 @@ average: '58.95'
 
 ℹ️:
 
+- Collaborazione
 - Vestibilità a cuneo
 - Corona doro
-- Collaborazione
 - Memory foam raffreddato ad aria
 - Skech-Air
 

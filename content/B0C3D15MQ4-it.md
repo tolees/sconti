@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Modalità di isolamento: un clic per dividere il traffico per porte specifiche per stabilità e sicurezza
 - Due cavi in uno: con quattro porte PoE+, trasferisce dati e alimentazione su un unico cavo
 - Conforme ai dispositivi alimentati: funziona con PD conformi a IEEE 802.3af/at
-- Porte Gigabit complete: 5 porte RJ45 da 10/100/1000 Mbps
-- Plug and Play: semplice da usare e consente di risparmiare tempo e fatica
-- PoE+ ad alta potenza: supporta lalimentazione PoE fino a 30 W per ciascuna porta PoE e 65 W per tutte le porte PoE
-- Custodia in metallo resistente: consente unefficiente dissipazione del calore e una lunga durata della rete
 - Lungo raggio fino a 250 m: aumenta la distanza di trasmissione PoE a 250 m tramite la modalità estesa
+- Plug and Play: semplice da usare e consente di risparmiare tempo e fatica
+- Custodia in metallo resistente: consente unefficiente dissipazione del calore e una lunga durata della rete
+- Porte Gigabit complete: 5 porte RJ45 da 10/100/1000 Mbps
+- PoE+ ad alta potenza: supporta lalimentazione PoE fino a 30 W per ciascuna porta PoE e 65 W per tutte le porte PoE
+- Modalità di isolamento: un clic per dividere il traffico per porte specifiche per stabilità e sicurezza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C3D15MQ4{{</world>}}

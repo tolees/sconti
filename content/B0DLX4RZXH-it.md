@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- qualità premium senza conservanti: tonno sgocciolato selezionato con cura, garantito senza conservanti per un sapore genuino e sano
 - impegno per la sostenibilità: Nostromo pesca con flotte che rispettano le zone FAO e le linee guida ittiche, per un prodotto responsabile e rispettoso dellambiente
 - classico intramontabile: tonno allolio di oliva dal gusto ricco e avvolgente, perfetto per esaltare ogni tua ricetta, dai primi piatti ai ripieni
-- qualità premium senza conservanti: tonno sgocciolato selezionato con cura, garantito senza conservanti per un sapore genuino e sano
 - fonte naturale di proteine: contribuisce al mantenimento della massa muscolare, con 17g di proteine per 100g di prodotto sgocciolato
 - formato scorta maxi convenienza: pratico multipack da 9 lattine da 60g ciascuna, ideale per famiglie e per avere sempre a disposizione il tuo tonno preferito
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LISTERINE Collutorio Total Care Denti e Gengive 1 L'
-date: 2026-09-19 18:35:17
+date: 2026-09-25 12:22:38
 image: 'https://m.media-amazon.com/images/I/41UwzkjVGAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B00WQ1LDC0/?tag=tolees00-21'
 descuento: '34.43'
-average: '5.14931034482758'
+average: '5.13903225806451'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

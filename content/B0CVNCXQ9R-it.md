@@ -28,11 +28,11 @@ average: '139.5'
 
 ℹ️:
 
+- Compatibile con espansione fino a 3 monitor interni e 2 targhe esterne per configurazioni più complete
+- Serratura e servizi ausiliari, collegabile con pulsante apriporta
 - Targa esterna in alluminio anodizzato con grado di protezione IP54 e IK07 con lettore RFID e 1 pulsante con cornice parapioggia per controllo accessi e chiamate
 - Tastiera capacitiva soft touch
 - Kit videocitofonico monofamiliare con monitor vivavoce a colori LCD da 7″ e tastiera capacitiva per gestione chiamate interne
-- Compatibile con espansione fino a 3 monitor interni e 2 targhe esterne per configurazioni più complete
-- Serratura e servizi ausiliari, collegabile con pulsante apriporta
 - Posti interni intercomunicanti nella stessa unità abitativa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

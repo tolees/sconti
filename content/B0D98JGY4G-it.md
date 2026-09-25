@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- La card verrà inviata tramite post
-- Validità 5 anni
 - Semplice e facile da usare
+- Validità 5 anni
+- La card verrà inviata tramite post
 - Vale per l’intero assortimento moda
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

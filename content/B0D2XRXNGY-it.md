@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Soundcore V20i di Anker Cuffie Bluetooth Open Ear con Ganci Rotanti'
-date: 2026-09-19 17:04:27
+date: 2026-09-25 12:36:22
 image: 'https://m.media-amazon.com/images/I/31Id6oArNtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0D2XRXNGY/?tag=tolees00-21'
 descuento: '33.76'
-average: '27.9066666666666'
+average: '27.7976923076922'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

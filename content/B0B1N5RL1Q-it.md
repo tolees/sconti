@@ -28,9 +28,9 @@ average: '32.99'
 
 ℹ️:
 
-- ZONE DI PRIVACY — Crea fino a due zone di privacy per escludere aree specifiche dall’inquadratura di Outdoor 4. Proteggi la privacy dei vicini e personalizza la configurazione a tuo piacimento.
-- SALVA E CONDIVIDI VIDEO — Con spazio di archiviazione illimitato per 30 giorni. Provalo gratuitamente con la prova di 30 giorni del piano d’abbonamento Blink per archiviare gli eventi nel Cloud.
 - SCOPRI LE ULTIME NOVITÀ — Blink Outdoor 4 è la nostra videocamera di sicurezza smart wireless di quarta generazione che ti aiuta a proteggere la tua casa dentro e fuori direttamente dall’app Blink sul tuo smartphone.
+- SALVA E CONDIVIDI VIDEO — Con spazio di archiviazione illimitato per 30 giorni. Provalo gratuitamente con la prova di 30 giorni del piano d’abbonamento Blink per archiviare gli eventi nel Cloud.
+- ZONE DI PRIVACY — Crea fino a due zone di privacy per escludere aree specifiche dall’inquadratura di Outdoor 4. Proteggi la privacy dei vicini e personalizza la configurazione a tuo piacimento.
 - RILEVAMENTO DI PERSONE — Ricevi un avviso quando viene rilevata una persona grazie alla visione artificiale integrata, disponibile con un piano d’abbonamento Blink opzionale (venduto separatamente).
 - VEDI, ASCOLTA E PARLA CON L’APP BLINK — Scopri la funzionalità Live View HD a 1080p, usa la visione notturna a infrarossi e comunica con audio bidirezionale nitido.
 - RILEVAZIONE DI MOVIMENTO AVANZATA — Ricevi gli avvisi di movimento più velocemente sul tuo smartphone grazie alla rilevazione di movimento avanzata con doppia zona.

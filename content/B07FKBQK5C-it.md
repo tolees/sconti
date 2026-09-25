@@ -28,8 +28,8 @@ average: '20.24'
 
 ℹ️:
 
-- Abbigliamento sportivo atletico
 - Colore: nero
+- Abbigliamento sportivo atletico
 - Taglia: M
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

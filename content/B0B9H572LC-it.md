@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Visualizzazione impossibile in terza persona: X3 fa scomparire completamente dai tuoi scatti per impossibili prospettive in terza persona. Ora scatta fino a 60fps con Me Mode.
 - Modalità obiettivo singolo 4K: scatta filmati grandangolari proprio come una action cam a obiettivo singolo. Ottieni la massima risoluzione con 4K30fps o un campo visivo di 170° estremamente ampio con 2.7K MaxView.
-- Doppio sensore da 1/2" da 48 MP: i nuovi sensori di X3 racchiudono più pixel per una maggiore chiarezza e dettaglio, anche in condizioni di scarsa illuminazione. Cattura foto da 72 MP, timelapses 8K e altro ancora.
 - Stabilizzazione FlowState & 360 Horizon Lock: FlowState Stabilization e algoritmi di livellamento dellorizzonte si uniscono per fornire video incredibilmente fluidi.
+- Visualizzazione impossibile in terza persona: X3 fa scomparire completamente dai tuoi scatti per impossibili prospettive in terza persona. Ora scatta fino a 60fps con Me Mode.
+- Doppio sensore da 1/2" da 48 MP: i nuovi sensori di X3 racchiudono più pixel per una maggiore chiarezza e dettaglio, anche in condizioni di scarsa illuminazione. Cattura foto da 72 MP, timelapses 8K e altro ancora.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B9H572LC{{</world>}}

@@ -29,11 +29,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - ROBUSTO - Telaio interamente in metallo con parte superiore in ABS
-- CAPACITÀ - Lincudine rotante consente di pinzare o appuntare (pinzatura temporanea) fino a 20 fogli di 80 g/m² alla volta
 - COMPATIBILITÀ - Utilizza punti standard da 26/6 mm e 24/6 mm; per risultati ottimali, utilizzare punti Rapesco
-- CARATTERISTICHE - Guida carta regolabile calibrata, indicatore di ricarica dei punti, profondità della gola di 300 mm e parte superiore soave al tatto
 - DIMENSIONI - Lunghezza - 382 mm x Larghezza - 45 mm x Altezza - 80 mm
 - CUCITRICE A BRACCIO LUNGO - Adatta per la cucitura a piega centrale di opuscoli, brochure e riviste; precaricata con 105 punti metallici da 26/6 mm per un rapido avvio
+- CARATTERISTICHE - Guida carta regolabile calibrata, indicatore di ricarica dei punti, profondità della gola di 300 mm e parte superiore soave al tatto
+- CAPACITÀ - Lincudine rotante consente di pinzare o appuntare (pinzatura temporanea) fino a 20 fogli di 80 g/m² alla volta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B006LMIGCK{{</world>}}

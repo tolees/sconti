@@ -28,10 +28,10 @@ average: '20.64'
 
 ℹ️:
 
-- A partire da 1 anno
 - Linea Purina One: nutrizione avanzata, completa e bilanciata per il tuo cane di piccola taglia
 - Peso:8x800 g
 - Confezione da 8 pezzi
+- A partire da 1 anno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01MG4A1FM{{</world>}}

@@ -28,10 +28,10 @@ average: '6.37'
 
 ℹ️:
 
-- Non contiene aromi artificiali e conservanti (secondo la legge) e idonea per la dieta vegetariana
-- 600 g per barattolo
 - Soluzioni di carboidrati-elettroliti aumentano lassorbimento di acqua durante lattività fisica
 - Fornisce al corpo i 5 elettroliti che vanno più persi attraverso il sudore: sodio, cloruro, potassio, calcio e magnesio
+- Non contiene aromi artificiali e conservanti (secondo la legge) e idonea per la dieta vegetariana
+- 600 g per barattolo
 - C2max dual source carb mix
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

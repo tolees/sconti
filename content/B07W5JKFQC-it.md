@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech G G203 LIGHTSYNC Mouse Gaming con Illuminazione RGB - Nero'
-date: 2026-09-16 13:27:47
+date: 2026-09-25 11:24:02
 image: 'https://m.media-amazon.com/images/I/31Q4oU1le-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B07W5JKFQC/?tag=tolees00-21'
 descuento: '31.44'
-average: '22.0006862745099'
+average: '22.0757547169812'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

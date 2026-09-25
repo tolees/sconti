@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tomaia in PU riciclato al 24%
-- Sottopiede in pelle scamosciata
 - Made in Europe
-- Suola in EVA riciclata
 - Intersuola in sughero
+- Suola in EVA riciclata
+- Sottopiede in pelle scamosciata
+- Tomaia in PU riciclato al 24%
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09BQTKQD4{{</world>}}

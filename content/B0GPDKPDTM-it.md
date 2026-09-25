@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kenwood Multi Tasker – Impastatrice Planetaria con Testa Sollevabile Ciotola 4 3L Capacità 1 7 kg Impasto con accessorio Frullatore Attacco Accessori e Paraschizzi Bianca KHC30.000WH'
-date: 2026-07-28 09:15:53
+date: 2026-09-25 13:06:49
 image: 'https://m.media-amazon.com/images/I/41VPNtBHt0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0GPDKPDTM-it Kenwood Multi Tasker – Impastatrice Planetaria con Testa...'
 sku: 'B0GPDKPDTM-it'
 tags: [ '🇮🇹', ]
-actualPrice: 119.0 EUR
+actualPrice: 105.0 EUR
 currency: EUR
-price: 119.0
+price: 105.0
 comparePrice: 179.9 EUR
 prodname: 'Kenwood Multi Tasker – Impastatrice Planetaria con Testa Sollevabile Ciotola 4 3L Capacità 1 7 kg Impasto con accessorio Frullatore Attacco Accessori e Paraschizzi Bianca KHC30.000WH'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0GPDKPDTM/?tag=tolees00-21'
-descuento: '33.85'
-average: '119.7425'
+descuento: '41.63'
+average: '116.794'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,11 +28,6 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- DESIGN ERGONOMICO E PRATICO: Ciotola da 4,3 litri con manico ergonomico orientabile, adatta a tutti per mescolare, montare e impastare con il massimo comfort
-- ACCESSORI SEMPRE A PORTATA DI MANO: Gli utensili possono essere riposti direttamente nella macchina per una cucina ordinata e un’organizzazione efficiente
-- IMPASTATRICE MULTIFUNZIONE: Impastatrice planetaria potente e versatile con funzione sollevamento testa; con gli accessori opzionali puoi frullare, tritare, grattugiare, affettare e spremere, risparmiando tempo nella preparazione quotidiana
-- IDEALE PER PIZZA E PANE FATTO IN CASA: Lavora fino a 1,7 kg di impasto in una sola volta, ideale per fino a 7 pizze o grandi quantità di impasto per pane e lievitati per tutta la famiglia
-- LAVORAZIONE PULITA E PRECISA: Paraschizzi multiposizione con cucchiaio dosatore integrato per aggiungere ingredienti durante la lavorazione mantenendo il piano cucina pulito
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GPDKPDTM{{</world>}}

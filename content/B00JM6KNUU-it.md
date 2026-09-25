@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Lavabile in lavastoviglie
-- Forno a Microonde
 - Capacità 1.22 litri
+- Forno a Microonde
 - Freezer
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

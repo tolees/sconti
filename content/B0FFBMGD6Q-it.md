@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Con Note di Cioccolato Fondente e Pralina alla Nocciola.
-- Un’Eau de Parfum a lunga durata, spensierata e avvolgente, che dona una sensazione di benessere
-- Con oli essenziali naturali.
 - Formula vegana.
+- Con oli essenziali naturali.
+- Un’Eau de Parfum a lunga durata, spensierata e avvolgente, che dona una sensazione di benessere
+- Con Note di Cioccolato Fondente e Pralina alla Nocciola.
 - Dermatologicamente testato.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -32,8 +32,8 @@ average: '89.99'
 - RELE USB: facilita il collegamento del mouse, unità flash o telefono per la trasmissione dei dati o la ricarica diretta
 - SOFTWARE LOGITECH G HUB: personalizza lilluminazione, la modalità Gioco e la programmazione personalizzata delle macro con il software G HUB Logitech disponibile per il download
 - LEGA IN ALLUMINIO DI QUALITÀ AERONAUTICA: la custodia in alluminio 5052 di grado aeronautico è anodizzata e spazzolata per un design sottile e premium e una durata rigida
-- SWITCH MECCANICI: gli switch GX Brown sono classici interruttori meccanici che offrono unattivazione distinguibile ai giocatori che preferiscono un feedback tattile diretto. Questa tastiera gamer è disponibile anche nelle versioni Lineare e Clicky, vendute separatamente
 - LIGHTSYNC RGB: personalizza lilluminazione di ogni tasto e gli effetti di illuminazione e goditi lintegrazione in-game di uno spettro di circa 16,8 milioni di colori con Logitech G HUB
+- SWITCH MECCANICI: gli switch GX Brown sono classici interruttori meccanici che offrono unattivazione distinguibile ai giocatori che preferiscono un feedback tattile diretto. Questa tastiera gamer è disponibile anche nelle versioni Lineare e Clicky, vendute separatamente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07W5JKKX9{{</world>}}

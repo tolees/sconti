@@ -28,10 +28,10 @@ average: '8.49'
 
 ℹ️:
 
-- Supporta risoluzioni video fino a 1920x1200 e 1080p (Full HD) e canali di audio digitale non compresso (7.1, 5.1 o 2)
 - IMPORTANTE: questo cavo non è compatibile con USB-A. La direzione del segnale è unidirezionale: DisplayPort (computer) → HDMI (display)
-- Connettori placcati in oro, conduttori in rame nudi e schermatura a treccia e lamina per un’elevata qualità di immagine e purezza del suono
+- Supporta risoluzioni video fino a 1920x1200 e 1080p (Full HD) e canali di audio digitale non compresso (7.1, 5.1 o 2)
 - Cavo DisplayPort/HDMI per connettere il computer a HDTV per streaming di audio/video o a un monitor o proiettore HD
+- Connettori placcati in oro, conduttori in rame nudi e schermatura a treccia e lamina per un’elevata qualità di immagine e purezza del suono
 - Per visualizzare film su grandi schermi HDTV, presentare lavori tramite proiettore e creare/configurare un secondo monitor o schermi duplicati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ average: '1856.44166666667'
 
 ℹ️:
 
-- Refresh Rate 165 Hz, Response Time 1 ms, Freesync Premium Pro
-- Samsung Monitor Gaming Odyssey Ark, 55, Curvo (1000R)
 - 3840x2160 (UHD 4K), Pannello VA, 16:9, HDR10
+- Samsung Monitor Gaming Odyssey Ark, 55, Curvo (1000R)
+- Refresh Rate 165 Hz, Response Time 1 ms, Freesync Premium Pro
 - HAS, Pivot
 - 4 HDMI, 2 USB, Ingresso Audio, Casse Integrate, WiFi, Bluetooth, Ark Dial incluso
 

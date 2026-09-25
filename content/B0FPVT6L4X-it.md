@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- CASA LEGO A 3 PIANI: include unofficina, una sala da tè, una terrazza, una trappola che rilascia una roccia, un ponte girevole, uno shooter e una corda-rampicante oscillante
-- UN UNIVERSO DI SET DA SCOPRIRE: la gamma di set LEGO offre una varietà di mezzi, di mech e di personaggi da scoprire, con cui ampliare le possibilità di giochi creativi
 - 6 MINIFIGURE DI PERSONAGGI NINJAGO: include Kai, Zane, Jay Forma Drago ed Euphrasia, per dar vita ad avvincenti battaglie contro il Mostro Acido e il Lealista
-- 2 VEICOLI LEGO: comprende una moto giocattolo con ruote mobili, sella-cockpit e 2 shooter, e un elicottero giocattolo dotato di cabina di pilotaggio apribile e pale rotanti
 - CASA GIOCATTOLO CON VEICOLI: il set Battaglia alla Casa sull’Albero con Veicolo Ninja è un gioco di ruolo per bambini e bambine da 7 anni in su, con cui dar vita alle scene della stagione 4 dello show TV LEGO NINJAGO La rivolta dei draghi
 - GADGET REGALO DI COMPLEANNO PER BAMBINI E BAMBINE: unidea regalo per gli appassionati di veicoli giocattolo in mattoncini, pensata per gli amanti degli elicotteri LEGO e delle moto da costruire, con cui dar vita ad avventure emozionanti
+- 2 VEICOLI LEGO: comprende una moto giocattolo con ruote mobili, sella-cockpit e 2 shooter, e un elicottero giocattolo dotato di cabina di pilotaggio apribile e pale rotanti
+- CASA LEGO A 3 PIANI: include unofficina, una sala da tè, una terrazza, una trappola che rilascia una roccia, un ponte girevole, uno shooter e una corda-rampicante oscillante
+- UN UNIVERSO DI SET DA SCOPRIRE: la gamma di set LEGO offre una varietà di mezzi, di mech e di personaggi da scoprire, con cui ampliare le possibilità di giochi creativi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FPVT6L4X{{</world>}}

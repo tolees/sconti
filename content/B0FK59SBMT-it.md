@@ -28,11 +28,11 @@ average: '1.99'
 
 ℹ️:
 
-- Tavoletta da 100g
-- Tavoletta PERUGINA NERO con pregiato cioccolato fondente ed un cremoso ripieno alle nocciole e riso soffiato
-- La tavoletta di cioccolato fondente ripiena PERUGINA NERO è ottima come snack goloso per soddisfare un momento di intenso piacere
 - Gusto goloso ed avvolgente
+- Tavoletta da 100g
+- La tavoletta di cioccolato fondente ripiena PERUGINA NERO è ottima come snack goloso per soddisfare un momento di intenso piacere
 - Cacao certificato Rainforest Alliance
+- Tavoletta PERUGINA NERO con pregiato cioccolato fondente ed un cremoso ripieno alle nocciole e riso soffiato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FK59SBMT{{</world>}}

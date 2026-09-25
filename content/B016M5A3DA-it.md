@@ -29,9 +29,9 @@ average: '106.3'
 ℹ️:
 
 - Originale di Weber
+- Porcellana smaltata Cast griglie con costruito in Drip Guard
 - È composto da due parti
 - Materiale: acciaio legato
-- Porcellana smaltata Cast griglie con costruito in Drip Guard
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B016M5A3DA{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PERUGINA Extra Dark Cacao Amaro in Polvere 75g'
-date: 2026-09-15 08:23:17
+date: 2026-09-24 16:38:08
 image: 'https://m.media-amazon.com/images/I/51OOat-bw8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

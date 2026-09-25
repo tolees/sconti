@@ -28,9 +28,9 @@ average: '1.89'
 
 ℹ️:
 
-- Funziona anche a lavastoviglie spenta
 - Astuccio in carta riciclabile
 - Neutralizza i cattivi odori
+- Funziona anche a lavastoviglie spenta
 - Estratti naturali di agrumi
 - Formato convenienza: 140 Lavaggi totali
 

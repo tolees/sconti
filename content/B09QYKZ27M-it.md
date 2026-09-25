@@ -28,11 +28,11 @@ average: '32.45'
 
 ℹ️:
 
-- Questo è il modo più sicuro per collegare i dispositivi in tutto il mondo. Inoltre, la doppia porta USB fornisce energia sufficiente per caricare facilmente due dispositivi USB, anche se un altro dispositivo è collegato tramite ladattatore contemporaneamente.
-- SKROSS | Pro Light USB | Anti Shock - KID SAFE. Più compatto: il più piccolo adattatore da viaggio universale a 3 poli con caricabatterie USB integrato.
-- Tensione di ingresso: 100 V – 250 V Carico massimo: 6.3 A Potenza nominale: 100 V – 630 W / 250 V – 1575 W Fusibile integrato: T 6.3 A Uscita USB: 5 V / 2.4 A condiviso
-- SPECIFICHE TECNICHE : Progettato in Svizzera Adatto per apparecchiature con prese 2- & 3 poli prese di ingresso: Europa (Schuko & 2-pole Euro) prese di uscita: USA, Regno Unito, Australia/Cina
 - DESCRIZIONE - La PRO Light USB garantisce un collegamento semplice e sicuro dei dispositivi a 2 e 3 poli dallEuropa (Schuko & Euro) in oltre 100 paesi. In grado di gestire fino a 1575 W di potenza, in modo da poter persino collegare potenti dispositivi come laptop o asciugacapelli da viaggio.
+- Tensione di ingresso: 100 V – 250 V Carico massimo: 6.3 A Potenza nominale: 100 V – 630 W / 250 V – 1575 W Fusibile integrato: T 6.3 A Uscita USB: 5 V / 2.4 A condiviso
+- SKROSS | Pro Light USB | Anti Shock - KID SAFE. Più compatto: il più piccolo adattatore da viaggio universale a 3 poli con caricabatterie USB integrato.
+- SPECIFICHE TECNICHE : Progettato in Svizzera Adatto per apparecchiature con prese 2- & 3 poli prese di ingresso: Europa (Schuko & 2-pole Euro) prese di uscita: USA, Regno Unito, Australia/Cina
+- Questo è il modo più sicuro per collegare i dispositivi in tutto il mondo. Inoltre, la doppia porta USB fornisce energia sufficiente per caricare facilmente due dispositivi USB, anche se un altro dispositivo è collegato tramite ladattatore contemporaneamente.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09QYKZ27M{{</world>}}

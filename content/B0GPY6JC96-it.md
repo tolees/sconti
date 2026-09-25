@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- EQUILIBRA: da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto di un perfetto equilibrio tra rispetto, efficacia, benessere e bellezza
 - FERMENTI LATTICI VIVI CRIO-PROTETTI: grazie all’innovativa tecnologia di micro-incapsulazione FloraFIT che riveste i fermenti e li mantiene vivi e vitali
+- EQUILIBRA: da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto di un perfetto equilibrio tra rispetto, efficacia, benessere e bellezza
 - CAPSULA GASTRO RESISTENTE CON RILASCIO NELLINTESTINO: capsula progettata per proteggere i fermenti lattici vivi dall’acidità dello stomaco e permettere il rilascio degli stessi nell’intestino
 - MODALITÀ DUSO: ogni capsula contiene 12 miliardi di cellule vive (U.F.C.*). Per l’equilibrio della flora batterica intestinale, si consigliano 1 o 2 capsule al giorno, preferibilmente a stomaco vuoto
 - 3 CEPPI DI FERMENTI LATTICI: in caso di alterazioni della flora batterica, può risultare utile l’integrazione con fermenti lattici probiotici che aiutano a riequilibrare la flora batterica intestinale

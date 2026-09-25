@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tipo di prodotto - Fondotinta
 - Genere - Unisex
+- Tipo di prodotto - Fondotinta
 - Marca - Clinique
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

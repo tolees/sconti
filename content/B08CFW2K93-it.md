@@ -30,8 +30,8 @@ average: '3.03333333333333'
 
 - Formula: cremosa, fondente e altamente scorrevole, permette di delineare facilmente le labbra con la massima precisione
 - Effetti e benefici: labbra delineate e definite in modo preciso, rossetto senza sbavature fino a 8 ore
-- Lasting finish: matita labbra a lunga tenuta dal tratto preciso per labbra a prova di bacio
 - Applicazione: assicurarsi che la matita sia sufficientemente appuntita, poi tracciare il contorno delle labbra partendo dallarco di Cupido e dagli angoli della bocca
+- Lasting finish: matita labbra a lunga tenuta dal tratto preciso per labbra a prova di bacio
 - Colore: 880 Wine
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

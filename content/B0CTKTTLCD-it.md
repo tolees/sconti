@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - ATTENZIONE, QUESTO TABOO NON È PER BAMBINI: non è il solito gioco per famiglie, ma la versione di Taboo Uncensored per adulti dai 18 anni in su con parole vietate e proibite, per esileranti momenti di gioco in famiglia e con gli amici!
-- USA GLI STRUMENTI GRATUITI ONLINE: scansiona il codice QR per usare il timer, il buzzer e il segnapunti virtuali, oppure usa la clessidra, lo squeaker e il segnapunti inclusi; un divertente gioco per le feste comodo per viaggi in allegria
-- CLASSICO TABOO CON CONTENUTI PICCANTI: come nel gioco classico, fai indovinare la parola alla tua squadra; qui non esiste la censura! Ricorda solo di non usare le parole Taboo o la squadra avversaria ti buzzerà
 - GIOCO DA TAVOLO TABOO PER SOLI ADULTI: cultura pop, contenuti piccanti, risate a crepapelle in confezione piccola, un gioco da tavolo classico in versione vietata ai minori per il massimo divertimento; la risposta è: Taboo Uncensored!
+- CLASSICO TABOO CON CONTENUTI PICCANTI: come nel gioco classico, fai indovinare la parola alla tua squadra; qui non esiste la censura! Ricorda solo di non usare le parole Taboo o la squadra avversaria ti buzzerà
+- USA GLI STRUMENTI GRATUITI ONLINE: scansiona il codice QR per usare il timer, il buzzer e il segnapunti virtuali, oppure usa la clessidra, lo squeaker e il segnapunti inclusi; un divertente gioco per le feste comodo per viaggi in allegria
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CTKTTLCD{{</world>}}

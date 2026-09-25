@@ -28,11 +28,11 @@ average: '13.75'
 
 ℹ️:
 
-- Lumino elettronico da cimitero Fiamma Eterna, a luce rossa intermittente. Lunga durata: 12 mesi, con lumino elettrico sostituibile
-- Limmagine del prodotto ha solo scopo indicativo. il colore dellarticolo potrebbe differire.
 - Composizione: fiammella in pc; componenti interni, corpo, base e fondo in abs; vite per accensione in pa66 / pa6625gf; lametta di contatto in acciaio; cavetto rivestito in rame/plastica
-- Dimensione: altezza 15,5 cm x diametro 7 cm / colore luce: rossa a intermittenza / colore base lumino: bronzo / durata: 12 mesi
 - Avvertenze: conservare il prodotto in ambienti con temperature non eccessivamente elevate, lontano da fonti di calore. Non disperdere nellambiente dopo luso.
+- Lumino elettronico da cimitero Fiamma Eterna, a luce rossa intermittente. Lunga durata: 12 mesi, con lumino elettrico sostituibile
+- Dimensione: altezza 15,5 cm x diametro 7 cm / colore luce: rossa a intermittenza / colore base lumino: bronzo / durata: 12 mesi
+- Limmagine del prodotto ha solo scopo indicativo. il colore dellarticolo potrebbe differire.
 - Dotato di luce rossa intermittente e pulsante on/off
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

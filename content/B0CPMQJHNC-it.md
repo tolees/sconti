@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Dotata di funzione autoadescante: se non è possibile collegarla alla rete idrica, lidropulitrice è in grado di aspirare acqua da un serbatoio
+- Attacco rapido ingresso acqua con filtro ispezionabile che trattiene le impurità e garantisce il perfetto funzionamento dell’idropulitrice
+- Pressione (bar) max. 140; Potenza assorbita (kW) 1,9; Portata (l/h) max. 460; Temperatura di alimentazione (°C) max. 50
 - Idropulitrice ideale per la pulizia di moto, auto, furgoni, camion e delle superfici esterne di casa
 - Total Stop System: quando si rilascia la leva della pistola l’idropulitrice si spegne assicurando una minore usura e risparmio di energia elettrica
-- Attacco rapido ingresso acqua con filtro ispezionabile che trattiene le impurità e garantisce il perfetto funzionamento dell’idropulitrice
 - In dotazione: pistola, lancia e tubo ad alta pressione (6 m), testina a getto rotante, testina a getto regolabile, lavapavimenti, spazzola fissa e kit schiumogeno. Accessori sempre in ordine grazie al porta accessori integrato sul retro della macchina
-- Pressione (bar) max. 140; Potenza assorbita (kW) 1,9; Portata (l/h) max. 460; Temperatura di alimentazione (°C) max. 50
-- Dotata di funzione autoadescante: se non è possibile collegarla alla rete idrica, lidropulitrice è in grado di aspirare acqua da un serbatoio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CPMQJHNC{{</world>}}

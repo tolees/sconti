@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Isolamento soffiato per ulteriore calore.
-- 128 g, 100% nylon.
 - Il sistema di trattamento Rain Defender DWR consente alla pioggia di raccogliersi in gocce e di defluire via.
 - La tecnologia WindFighter doma il vento.
+- 128 g, 100% nylon.
 - Fodera in Sherpa nella parte superiore del busto e nel cappuccio.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

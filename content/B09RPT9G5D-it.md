@@ -28,11 +28,11 @@ average: '49.9'
 
 ℹ️:
 
+- 10 pettini diagonali per le sfumature fino a 16 mm + 9 pettini fissi per le lunghezze (1.5-2.5 mm)
 - Autonomia di 120 min, ricarica completa in 4h
 - 100% Resistente allacqua
-- 10 pettini diagonali per le sfumature fino a 16 mm + 9 pettini fissi per le lunghezze (1.5-2.5 mm)
-- Lame in acciaio giapponese autoaffilanti, lama principale da 45 mm removibile
 - Indicatore di batteria a LED
+- Lame in acciaio giapponese autoaffilanti, lama principale da 45 mm removibile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09RPT9G5D{{</world>}}

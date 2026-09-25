@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Controllo intelligente: la saldatrice MIG adotta unavanzata tecnologia di controllo sinergico, che regola automaticamente la corrente e la velocità di alimentazione del filo in base allo spessore e alla tensione del filo
-- Prestazioni elevate: fornendo una potente corrente di uscita di 200 A, questa saldatrice sinergica supporta spessori di saldatura fino a 15 mm. È compatibile con una varietà di materiali tra cui acciaio dolce, acciaio inossidabile, ghisa, lamiera, tubi quadrati e gabbia metallica
-- Compatibilità filo: la nostra saldatrice MIG è compatibile con filo animato e filo pieno gassoso, con una capacità massima del filo di 5 kg (11 libbre). Adatto per fili animati e pieni da 0,03 pollici (0,8 mm) e 0,04 pollici (1,0 mm)
 - Saldatrice MIG 4 in 1: questa saldatrice MIG 4 in 1 da 200 A supporta molteplici funzioni di saldatura: saldatura Lift TIG, MIG senza gas, MIG a gas e saldatura MMA. Versatile ed efficiente, gestisce facilmente vari materiali e scenari di saldatura. N.B. Ladattatore di tensione e la torcia TIG Lift non sono inclusi
+- Compatibilità filo: la nostra saldatrice MIG è compatibile con filo animato e filo pieno gassoso, con una capacità massima del filo di 5 kg (11 libbre). Adatto per fili animati e pieni da 0,03 pollici (0,8 mm) e 0,04 pollici (1,0 mm)
+- Prestazioni elevate: fornendo una potente corrente di uscita di 200 A, questa saldatrice sinergica supporta spessori di saldatura fino a 15 mm. È compatibile con una varietà di materiali tra cui acciaio dolce, acciaio inossidabile, ghisa, lamiera, tubi quadrati e gabbia metallica
 - Schermo LCD HD: la saldatrice MIG dispone di un ampio schermo LCD con uninterfaccia chiara e intuitiva. È dotato di protezione da surriscaldamento e protezione da sovraccarico di corrente, garantendo un funzionamento sicuro e una lunga durata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

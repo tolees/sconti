@@ -29,8 +29,8 @@ average: '10.04'
 ℹ️:
 
 - Con impugnatura rivestita in vinile
-- Dimensioni: 140 x 3 mm
 - Indurito: sì
+- Dimensioni: 140 x 3 mm
 - Set di lime ad ago diamantate: piatta parallela, piatta rastremata, tonda, semitonda, triangolare, quadrangolare e a coltello
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

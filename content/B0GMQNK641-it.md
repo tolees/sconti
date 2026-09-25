@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Borotalco Bagnodoccia Buongiorno Setificante 500 ml'
-date: 2026-09-18 17:24:25
+date: 2026-09-22 20:02:16
 image: 'https://m.media-amazon.com/images/I/412pkHwYahL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

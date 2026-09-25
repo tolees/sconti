@@ -30,8 +30,8 @@ average: '117.0'
 
 - Logo ricamato sul petto sinistro e sulla spalla destra posteriore
 - Orlo a coda lunga
-- Guscio DryVent 2L impermeabile, traspirante e con cuciture sigillate
 - Cappuccio fisso con coulisse regolabile
+- Guscio DryVent 2L impermeabile, traspirante e con cuciture sigillate
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D4RM4T5V{{</world>}}

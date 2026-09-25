@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Installazione: Sostituzione diretta per piccole lampadine a incandescenza, attacco E14, superficie satinata, pronta alluso
-- Efficienza energetica: apparecchio di illuminazione compatto per piccoli ambienti con distribuzione efficiente della luce e basso consumo energetico
 - Design: Lampada LED compatta Filament Base P40 Miniball, superficie satinata, attacco E14, salvaspazio per piccoli ambienti
 - Tecnologia: Filamento LED da 4,9 W, 470 lumen, bianco caldo 2700 K, satinato, protezione IP20, ideale per piccoli ambienti e apparecchi di illuminazione
 - Applicazione: Apparecchi compatti per corridoi, camere da letto o stanze più piccole con consumo energetico ridotto
+- Efficienza energetica: apparecchio di illuminazione compatto per piccoli ambienti con distribuzione efficiente della luce e basso consumo energetico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FGD5WX18{{</world>}}

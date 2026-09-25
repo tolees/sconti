@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Russell Hobbs Bollitore Elettrico [1 7L 2400W] Brontë Black Design opaco Beccuccio Perfect Pour Indicatore acqua Base 360° Avvolgicavo Illuminazione Coperchio pressione 26750-70'
-date: 2026-05-12 10:41:16
+title: 'Russell Hobbs Bollitore Elettrico Brontë Black 1 7 L 2400 W 26750-70'
+date: 2026-09-23 15:57:43
 image: 'https://m.media-amazon.com/images/I/41a7lGfU1xL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0FHHYKPGX-it Russell Hobbs Bollitore Elettrico [1 7L 2400W] Brontë...'
+slug: 'B0FHHYKPGX-it Russell Hobbs Bollitore Elettrico Brontë Black 1 7 L 2400...'
 sku: 'B0FHHYKPGX-it'
 tags: [ '🇮🇹', ]
-actualPrice: 29.99 EUR
+actualPrice: 28.29 EUR
 currency: EUR
-price: 29.99
-comparePrice: 69.9 EUR
-prodname: 'Russell Hobbs Bollitore Elettrico [1 7L 2400W] Brontë Black Design opaco Beccuccio Perfect Pour Indicatore acqua Base 360° Avvolgicavo Illuminazione Coperchio pressione 26750-70'
+price: 28.29
+comparePrice: 48.05 EUR
+prodname: 'Russell Hobbs Bollitore Elettrico Brontë Black 1 7 L 2400 W 26750-70'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0FHHYKPGX/?tag=tolees00-21'
-descuento: '57.10'
-average: '29.99'
+descuento: '41.12'
+average: '29.14'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,10 +28,6 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Beccuccio Perfect Pour – Con capacità di 1,7L, il beccuccio assicura un versamento fluido e preciso, senza schizzi né sprechi.
-- Finestra Livello Acqua – Dotato di una pratica finestra sotto il manico per misurare con precisione la quantità d’acqua da bollire.
-- Funzionalità e Praticità – Potenza da 2400W, coperchio con apertura a pressione e base girevole a 360° con avvolgicavo per un utilizzo comodo e versatile.
-- Design Distintivo – Il bollitore Russell Hobbs Brontë Black presenta un design elegante con corpo nero opaco, rifiniture cromate e illuminazione interna bianca, ideale per valorizzare qualsiasi cucina.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FHHYKPGX{{</world>}}

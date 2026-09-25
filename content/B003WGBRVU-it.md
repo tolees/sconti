@@ -28,11 +28,11 @@ average: '2.99'
 
 ℹ️:
 
-- Ideale durante un aperitivo
 - Colore giallo-arancio, sormontata da una schiuma cospicua, densa e persistente
-- Dal gusto dolce e al contempo leggermente amaro, che si può assaporare in ogni momento della giornata
-- Si apprezza ad ogni momento della giornata
 - Sottili sfumature di vaniglia e chiodi di garofano
+- Si apprezza ad ogni momento della giornata
+- Dal gusto dolce e al contempo leggermente amaro, che si può assaporare in ogni momento della giornata
+- Ideale durante un aperitivo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B003WGBRVU{{</world>}}

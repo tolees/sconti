@@ -28,9 +28,9 @@ average: '49.98'
 
 ℹ️:
 
-- 16-layers anti-reflective multi-coating on both sides of the filter glass
 - comes with HOYA’s top quality HD glass, which is a special, chemically enhanced optical glass
 - HD HIGH-TRANSMITTANCE COATING
+- 16-layers anti-reflective multi-coating on both sides of the filter glass
 - UV-cut protector with chemically reinforced optical glass
 - mounted with a special high-pressure press technology to the frame
 

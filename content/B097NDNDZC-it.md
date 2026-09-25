@@ -29,10 +29,10 @@ average: '10.48'
 ℹ️:
 
 - Monoattacco a innesto a quattro pin G24q
-- Durata: fino a 30.000 ore
 - Grado di protezione: IP20
-- Rotatable base around its longitudinal axis (± 90°)
+- Durata: fino a 30.000 ore
 - LED replacement for conventional compact fluorescent lamps for use in ECG luminaires or on AC mains
+- Rotatable base around its longitudinal axis (± 90°)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B097NDNDZC{{</world>}}

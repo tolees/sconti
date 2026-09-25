@@ -28,10 +28,10 @@ average: '11.42'
 
 ℹ️:
 
-- Funko Pop! con le seguenti caratteristiche:
 - Non può mancare a casa tua!
-- Statuetta da collezione || Molto confortevole
 - Anime, Fan merch, Serie TV
+- Funko Pop! con le seguenti caratteristiche:
+- Statuetta da collezione || Molto confortevole
 - Materiale: Resistente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

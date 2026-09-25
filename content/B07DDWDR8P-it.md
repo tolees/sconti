@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Lama con doppia affilatura, ideale per molteplici applicazioni: demolire, fare leva, spaccare
 - Lunghezza lama cm 10, larghezza mm 25, spessore mm 4; può essere compito con un martello per velocizzare il lavoro
 - Impugnatura con proteggi dita per maggiore sicurezza e per applicare maggiore leva
+- Lama con doppia affilatura, ideale per molteplici applicazioni: demolire, fare leva, spaccare
 - Parte terminale dellimpugnatura in met l lo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

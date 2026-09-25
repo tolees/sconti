@@ -28,10 +28,10 @@ average: '3.285'
 
 ℹ️:
 
-- Pensata per look labbra impeccabili che durano tutto il giorno.
-- Facile da sfumare per labbra scolpite e definite. Temperabile per un’applicazione sempre precisa.
 - Tenuta impeccabile: resistente all’acqua, no transfer, non sbava nè sbiadisce.|Sensazione ultra confortevole, non secca grazie al morbido finish vellutato-matte.
 - Formula ultra cremosa, zero attrito, scorre perfettamente. Arricchita con Peptidi e Olio di Jojoba che stimolano la produzione di collagene, per labbra rimpolpate e setose.
+- Pensata per look labbra impeccabili che durano tutto il giorno.
+- Facile da sfumare per labbra scolpite e definite. Temperabile per un’applicazione sempre precisa.
 - Gamma di tonalità universali per accontentare tutti i tipi di pelle.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

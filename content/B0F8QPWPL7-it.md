@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tineco Floor ONE i6 Stretch Aspirapolvere e Lavapavimenti 20.000Pa'
-date: 2026-09-20 09:52:30
+date: 2026-09-24 12:41:09
 image: 'https://m.media-amazon.com/images/I/31jaCEhsp-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0F8QPWPL7-it Tineco Floor ONE i6 Stretch Aspirapolvere e Lavapavimenti...'
 sku: 'B0F8QPWPL7-it'
 tags: [ '🇮🇹', ]
-actualPrice: 199.0 EUR
+actualPrice: 189.0 EUR
 currency: EUR
-price: 199.0
+price: 189.0
 comparePrice: 279.0 EUR
 prodname: 'Tineco Floor ONE i6 Stretch Aspirapolvere e Lavapavimenti 20.000Pa'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0F8QPWPL7/?tag=tolees00-21'
-descuento: '28.67'
-average: '222.999999999998'
+descuento: '32.26'
+average: '221.90322580645'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

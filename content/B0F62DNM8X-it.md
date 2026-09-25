@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Soundbar 5.1.4 canali
-- Supporta Dolby Atmos e DTS: X
-- Bluetooth 5.3/ HDMI eARC/USB/Ingresso Audio Ottico
 - Subwoofer Wireless
+- Soundbar 5.1.4 canali
+- Bluetooth 5.3/ HDMI eARC/USB/Ingresso Audio Ottico
+- Supporta Dolby Atmos e DTS: X
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F62DNM8X{{</world>}}

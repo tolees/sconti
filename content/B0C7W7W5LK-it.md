@@ -28,10 +28,10 @@ average: '7.74'
 
 ℹ️:
 
-- Durata 3.5 volte superiore rispetto alle lampadine LED convenzionali: la lampadina Philips LED ha una durata pari a 50.000 ore
 - Ottima qualità: lampadina dal design classico con una luce piacevole, conferisce alla casa unatmosfera accogliente
-- Basso consumo energetico: fino al 90% di risparmio energetico rispetto alle lampade tradizionali
 - EyeComfort: la lampadina Philips LED fornisce una luce che garantisce il benessere dei tuoi occhi
+- Basso consumo energetico: fino al 90% di risparmio energetico rispetto alle lampade tradizionali
+- Durata 3.5 volte superiore rispetto alle lampadine LED convenzionali: la lampadina Philips LED ha una durata pari a 50.000 ore
 - Design ottimo per illuminare qualsiasi ambiente della tua casa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

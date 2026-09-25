@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- LOGO
-- Polo da uomo realizzata in piquet di cotone
-- Maniche corte, 3 bottoni personalizzati
 - Collo e bordi in costina rettilinea
+- LOGO
+- Maniche corte, 3 bottoni personalizzati
+- Polo da uomo realizzata in piquet di cotone
 - REGULAR FIT
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

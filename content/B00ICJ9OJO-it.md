@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mustela pasta cambio pannolino avocado previene gli arrossamenti 150 ml'
-date: 2026-09-20 07:05:11
+date: 2026-09-24 13:17:36
 image: 'https://m.media-amazon.com/images/I/315-H4RRwsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B00ICJ9OJO/?tag=tolees00-21'
 descuento: '34.77'
-average: '8.26666666666667'
+average: '8.2875'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

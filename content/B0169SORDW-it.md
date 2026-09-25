@@ -30,8 +30,8 @@ average: '6.99'
 
 - Gomma siliconata per una presa sicura
 - Doppio attacco femmina da 1/4" ai due estremi
-- Adatto a tutti gli smartphone
 - Supporto indipendente sul retro
+- Adatto a tutti gli smartphone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0169SORDW{{</world>}}

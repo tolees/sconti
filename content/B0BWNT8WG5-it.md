@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Oral-B Testine Di Ricambio Pro Cross Action Black per Spazzolino Elettrico PRO Confezione da 10 Testine Oral B di Ricambio Nere con Indicatore di Utilizzo'
-date: 2026-08-08 19:43:17
+title: 'Oral-B Testine di Ricambio Pro Cross Action Nere 10 Ricambi'
+date: 2026-09-24 14:16:55
 image: 'https://m.media-amazon.com/images/I/51jnViE292L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0BWNT8WG5-it Oral-B Testine Di Ricambio Pro Cross Action Black per...'
+slug: 'B0BWNT8WG5-it Oral-B Testine di Ricambio Pro Cross Action Nere 10 Ricambi'
 sku: 'B0BWNT8WG5-it'
 tags: [ '🇮🇹', ]
-actualPrice: 24.99 EUR
+actualPrice: 17.24 EUR
 currency: EUR
-price: 24.99
+price: 17.24
 comparePrice: 55.99 EUR
-prodname: 'Oral-B Testine Di Ricambio Pro Cross Action Black per Spazzolino Elettrico PRO Confezione da 10 Testine Oral B di Ricambio Nere con Indicatore di Utilizzo'
+prodname: 'Oral-B Testine di Ricambio Pro Cross Action Nere 10 Ricambi'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0BWNT8WG5/?tag=tolees00-21'
-descuento: '55.37'
-average: '25.6388'
+descuento: '69.21'
+average: '25.0166666666666'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,12 +28,6 @@ average: '25.6388'
 
 ℹ️:
 
-- Indicatore di utilizzo della testina: le setole passano dal verde al giallo ricordandoti quando cambiarle per mantenere una pulizia efficace al 100%
-- Oral-B Cross Action è dotato di setole angolate a 16° che si adattano perfettamente a ogni dente per una pulizia profonda
-- Solo le testine Oral-B originali sono dotate di setole a X in grado di raggiungere zone difficili da raggiungere per gli altri prodotti, a garanzia di un’efficacia di igiene ottimale
-- Compatibile con tutti gli spazzolini elettrici ricaricabili Oral-B, tranne iO e Pulsonic
-- Rimuove fino al 100% di placca in più per denti più puliti e gengive più sane rispetto ad uno spazzolino manuale
-- [Consegna facile: 10 testine di ricambio Oral-B Pro Cross Action Black con dimensioni adatte alla buca delle lettere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BWNT8WG5{{</world>}}

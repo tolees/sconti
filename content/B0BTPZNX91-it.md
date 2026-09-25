@@ -28,9 +28,9 @@ average: '7.42'
 
 ℹ️:
 
-- Riduce imperfezioni e scolorimento
-- Uniforma il tono della pelle
 - 40% bottiglie realizzate con materiali riciclati
+- Uniforma il tono della pelle
+- Riduce imperfezioni e scolorimento
 - Adatto per pelli soggette allacne
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- FRAGRANZA: Note floreali fresche e delicate; la formula potenziata neutralizza i cattivi odori con la fragranza Fresia e Gelsomino; la fragranza dura fino a 70 giorni neutralizzando i cattivi odori
 - CONFEZIONE: La confezione contiene 6 ricariche Freshmatic Airwick, fragranza Fresia e Gelsomino
-- FORMULA POTENZIATA: La fragranza Fresia e Gelsomino ha potere neutralizza odori e combatte 5 degli odori domestici difficili e comuni: bagno, cucina, immondizia, animali domestici, muffa
 - SPRAY: Spray automatico; rilascio continuo di spruzzi di fragranza per una casa sempre fresca, profumata e accogliente; air Wick Fresia e Gelsomino 7 giorni su 7, 24h su 24h neutralizza gli odori di tutti i giorni; usa questa ricarica nel profumatore per ambienti Freshmatic Airwick; controlla lintensità della fragranza scegliendo la frequenza di rilascio preferita
+- FORMULA POTENZIATA: La fragranza Fresia e Gelsomino ha potere neutralizza odori e combatte 5 degli odori domestici difficili e comuni: bagno, cucina, immondizia, animali domestici, muffa
+- FRAGRANZA: Note floreali fresche e delicate; la formula potenziata neutralizza i cattivi odori con la fragranza Fresia e Gelsomino; la fragranza dura fino a 70 giorni neutralizzando i cattivi odori
 - REGOLAZIONE DIFFUSORE: Controlla lintensità della fragranza scegliendo la frequenza di rilascio preferita
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

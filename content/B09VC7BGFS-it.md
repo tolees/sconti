@@ -29,8 +29,8 @@ average: '10.89'
 ℹ️:
 
 - Tazza in ceramica per bevande calde
-- Dimensioni: 10,5 x 14 x 9,5 cm
 - Prodotto presentato in confezione regalo
+- Dimensioni: 10,5 x 14 x 9,5 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09VC7BGFS{{</world>}}

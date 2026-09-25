@@ -28,8 +28,8 @@ average: '39.3'
 
 ℹ️:
 
-- Due tasche laterali a filetto
 - Elastico in vita con lacci
+- Due tasche laterali a filetto
 - Bandierina Tommy Hilfiger ricamata sul fianco
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

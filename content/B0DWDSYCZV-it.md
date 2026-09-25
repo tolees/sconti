@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- TRENO GIOCATTOLO RADIOCOMANDATO: la locomotiva è dotata di spazzaneve, carrozza passeggeri e carrozza a pianale, oltre che di trattore giocattolo, avamposto, tunnel, miniera e 22 binari LEGO City
-- PLAYSET POWERED UP: si può guidare con il telecomando o con un dispositivo smart con lapp LEGO Powered Up; richiede 10 batterie LR03 (AAA) non incluse, e può essere aggiornato con il modello 88005 (venduto a parte) per la funzione luci
 - FUNZIONI DEL SET: è presente una funzione frana e una teleferica che collega la montagna all’avamposto; la gru LEGO consente di scaricare i materiali dal trenino giocattolo
-- TRENO LEGO CITY TELECOMANDATO: il gioco STEM per bambini e bambine da 7 anni in su, il Treno Espresso Artico degli Esploratori, è un set ricco di funzioni con 6 minifigure e accessori per lesplorazione e lavventura
-- GIOCHI CREATIVI CON GUIDA DIGITALE: l’app LEGO Builder accompagna i giovani in unesperienza di costruzione intuitiva, attraverso strumenti digitali che permettono loro di ingrandire e ruotare i modelli in 3D mentre costruiscono
 - REGALO LEGO PER GLI AMANTI DEI TRENI GIOCATTOLO: unottima idea regalo di compleanno per bambini e bambine fan dei treni LEGO da costruire, con cui ampliare le proprie avventure
+- GIOCHI CREATIVI CON GUIDA DIGITALE: l’app LEGO Builder accompagna i giovani in unesperienza di costruzione intuitiva, attraverso strumenti digitali che permettono loro di ingrandire e ruotare i modelli in 3D mentre costruiscono
+- TRENO GIOCATTOLO RADIOCOMANDATO: la locomotiva è dotata di spazzaneve, carrozza passeggeri e carrozza a pianale, oltre che di trattore giocattolo, avamposto, tunnel, miniera e 22 binari LEGO City
+- TRENO LEGO CITY TELECOMANDATO: il gioco STEM per bambini e bambine da 7 anni in su, il Treno Espresso Artico degli Esploratori, è un set ricco di funzioni con 6 minifigure e accessori per lesplorazione e lavventura
+- PLAYSET POWERED UP: si può guidare con il telecomando o con un dispositivo smart con lapp LEGO Powered Up; richiede 10 batterie LR03 (AAA) non incluse, e può essere aggiornato con il modello 88005 (venduto a parte) per la funzione luci
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DWDSYCZV{{</world>}}

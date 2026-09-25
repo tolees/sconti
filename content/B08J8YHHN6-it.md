@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- T-SHIRT A COSTE FONDAMENTALE: questa t-shirt può facilmente far parte di un look più elegante o più casual. Abbinala a una gonna longuette per andare in ufficio, o ai tuoi jeans preferiti per un look disinvolto. Perfetta per vestirsi a strati nelle giornate più fresche.
-- VESTIBILITÀ ADERENTE: vestibilità aderente che abbraccia il corpo.
 - MICROCOSTINE IN COTONE MODAL: morbidissimo jersey di cotone modal a microcostine elasticizzato, per un comfort che dura tutto il giorno e che mantiene la forma per una perfetta vestibilità slim. Un tessuto da indossare in tutte le stagioni.
 - DETTAGLI: presenta una scollatura squadrata e moderna, mezze maniche e una silhouette aderente.
+- T-SHIRT A COSTE FONDAMENTALE: questa t-shirt può facilmente far parte di un look più elegante o più casual. Abbinala a una gonna longuette per andare in ufficio, o ai tuoi jeans preferiti per un look disinvolto. Perfetta per vestirsi a strati nelle giornate più fresche.
+- VESTIBILITÀ ADERENTE: vestibilità aderente che abbraccia il corpo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08J8YHHN6{{</world>}}

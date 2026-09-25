@@ -28,14 +28,14 @@ average: '36.97'
 
 ℹ️:
 
-- Polsini e orlo a coste
 - Tasche a marsupio
-- Questo prodotto contiene almeno il 70% di materiali riciclati e rinnovabili
 - Spalle basse
-- Vestibilità regolare
 - Zip integrale e cappuccio regolabile con cordino
-- 55% cotone / 36% poliestere (riciclato) / 9% viscosa
 - 95% cotone / 5% elastan
+- Vestibilità regolare
+- 55% cotone / 36% poliestere (riciclato) / 9% viscosa
+- Polsini e orlo a coste
+- Questo prodotto contiene almeno il 70% di materiali riciclati e rinnovabili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZV347FJ{{</world>}}

@@ -30,9 +30,9 @@ average: '45.6454545454545'
 
 - Tomaia in pelle rivestita
 - Suola in gomma; fodera in tessuto
+- Calzata regolare
 - Soletta leggera in EVA adibouncy
 - Chiusura con lacci
-- Calzata regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07S6QLN7X{{</world>}}

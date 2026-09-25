@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Clicca qui per verificare la compatibilità di questo prodotto con il tuo modello
 - 0
+- Clicca qui per verificare la compatibilità di questo prodotto con il tuo modello
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000JTMF96{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo Switch 2 Pro Controller '
-date: 2026-09-15 10:15:55
+date: 2026-09-22 15:57:49
 image: 'https://m.media-amazon.com/images/I/314IRx0UI2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

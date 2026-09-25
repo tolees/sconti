@@ -28,8 +28,8 @@ average: '34.92'
 
 ℹ️:
 
-- Suola esterna leggera in TPR con buona presa
 - Inspired by a hummel Archive style
+- Suola esterna leggera in TPR con buona presa
 - hummel Chevron con marchio sul lato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
