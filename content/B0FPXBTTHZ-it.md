@@ -1,0 +1,33 @@
+---
+layout: post
+title: 'LEGO Star Wars Astronave Anzellan 75445'
+date: 2026-09-27 09:18:23
+image: 'https://m.media-amazon.com/images/I/51EW8lLaLFL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0FPXBTTHZ-it LEGO Star Wars Astronave Anzellan 75445'
+sku: 'B0FPXBTTHZ-it'
+tags: [ '🇮🇹', ]
+actualPrice: 59.99 EUR
+currency: EUR
+price: 59.99
+comparePrice: 74.99 EUR
+prodname: 'LEGO Star Wars Astronave Anzellan 75445'
+country: 'it'
+flag: '🇮🇹'
+brand: ''
+buyurl: 'https://www.amazon.it/dp/B0FPXBTTHZ/?tag=tolees00-21'
+descuento: '20.00'
+average: '60.284'
+---
+
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+
+[🛒 Acquista qui!!]({{< param buyurl >}})
+{{<world>}}B0FPXBTTHZ{{</world>}}
