@@ -28,8 +28,8 @@ average: '16.95'
 
 ℹ️:
 
-- Crazy Stupid Love Reggiseno
 - Reggiseno donna
+- Crazy Stupid Love Reggiseno
 - Reggiseni classici
 - Triumph
 

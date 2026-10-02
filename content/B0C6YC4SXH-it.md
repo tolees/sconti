@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Gel per sopracciglia a prova di sbavature, a lunga tenuta e facile da applicare
-- Disponibile in 4 tonalità o trasparente
-- Un gel per sopracciglia con uno scovolino in formato mini per un’applicazione precisa
 - Modella e accentua le sopracciglia per un effetto maxi volume
+- Disponibile in 4 tonalità o trasparente
+- Gel per sopracciglia a prova di sbavature, a lunga tenuta e facile da applicare
+- Un gel per sopracciglia con uno scovolino in formato mini per un’applicazione precisa
 - Sopracciglia più voluminose, folte e rimpolpate con un effetto ridensificante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- La versione di Unlock! pensata appositamente per giovani detective!
-- Tutorial incluso per imparare mentre si gioca. App non necessaria.
+- Età consigliata: 6+ | Tempo stimato: 20 min | Numero giocatori: 1-4 Giocatori | Edizione in Italiano
 - Un gioco di carte collaborativo ispirato alle Escape Room dove i bambini sono invitati a risolvere enigmi per mandare avanti la storia!
 - 3 storie ispirate agli universi creati da Tomm Moore e dallo studio di animazione Cartoon Saloon.
-- Età consigliata: 6+ | Tempo stimato: 20 min | Numero giocatori: 1-4 Giocatori | Edizione in Italiano
+- La versione di Unlock! pensata appositamente per giovani detective!
+- Tutorial incluso per imparare mentre si gioca. App non necessaria.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FDWS5XL8{{</world>}}

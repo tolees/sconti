@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Formula: formula leggera e confortevole, non macchia
 - Velvet the Pencil: labbra vellutate in un solo twist
+- Formula: formula leggera e confortevole, non macchia
 - Pack twistable: con il nuovo pack twistable, non è più necessario lutilizzo di un temperino
 - Applicazione: facile e sensoriale, grazie alla formula leggera con pigmenti dal colore intenso
 

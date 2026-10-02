@@ -29,8 +29,8 @@ average: '6.49'
 ℹ️:
 
 - Il grande classico del Labirinto Ravensburger in formato mini da portare sempre con te
-- Un gioco divertente ed emozionante per 2-4 giocatori.
 - Riuscirai a raggiungere la porta magica o non troverai mai luscita?
+- Un gioco divertente ed emozionante per 2-4 giocatori.
 - Metti alla prova le tue abilità risolvendo gli indovinelli per cambiare il percorso del labirinto e troverai nuovi modi per aiutarti a fuggire
 - Per bambini a partire da 7 anni
 

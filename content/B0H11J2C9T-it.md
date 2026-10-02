@@ -28,11 +28,11 @@ average: '169.0'
 
 ℹ️:
 
-- Controllo manuale della vignettatura, consente agli utenti di scurire i bordi della foto per un aspetto più creativo.
-- Una fotocamera dal design ricercato e dallo stile classico, dotata di 2 pulsanti di scatto identici, predisposta per il treppiede e con selezione manuale della messa a fuoco (Paesaggio, Macro e Standard).
-- Utilizza tutte le pellicole instax mini da 62 mm x 46 mm (Vendute separatamente).
-- Con 6 effetti colore selezionabili: Faded Green, Warm Tone, Lights Blue, Soft Magenta, Sepia, Light leak e normale, e timer automatico di 10 secondi.
 - Realizza foto istantanee formato carta di credito con questa fotocamera istantanea dallo stile classico.
+- Con 6 effetti colore selezionabili: Faded Green, Warm Tone, Lights Blue, Soft Magenta, Sepia, Light leak e normale, e timer automatico di 10 secondi.
+- Controllo manuale della vignettatura, consente agli utenti di scurire i bordi della foto per un aspetto più creativo.
+- Utilizza tutte le pellicole instax mini da 62 mm x 46 mm (Vendute separatamente).
+- Una fotocamera dal design ricercato e dallo stile classico, dotata di 2 pulsanti di scatto identici, predisposta per il treppiede e con selezione manuale della messa a fuoco (Paesaggio, Macro e Standard).
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0H11J2C9T{{</world>}}

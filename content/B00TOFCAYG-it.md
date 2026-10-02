@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Confezione da 50ml
-- Deodorante antibatterico roll-on
-- Con delle proprietà idratanti e lenive
 - Senza parabeni
+- Confezione da 50ml
+- Con delle proprietà idratanti e lenive
+- Deodorante antibatterico roll-on
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00TOFCAYG{{</world>}}

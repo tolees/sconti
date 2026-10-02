@@ -28,10 +28,10 @@ average: '27.99'
 
 ℹ️:
 
-- Senza alcol
 - Collutorio alla menta
-- Denti più bianchi in 7 giorni spazzolando e rimuovendo le macchie superficiali
+- Senza alcol
 - Confezione da 12 Collutori
+- Denti più bianchi in 7 giorni spazzolando e rimuovendo le macchie superficiali
 - Collutorio sbiancante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

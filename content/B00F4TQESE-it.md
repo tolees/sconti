@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tubo flessibile ad alta pressione
-- 6 metri di Lunghezza
 - Accessorio per Gamma Idropulitrici Bosch AQT
+- 6 metri di Lunghezza
+- Tubo flessibile ad alta pressione
 - Prolunga il raggio di azione dellidropulitrice
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

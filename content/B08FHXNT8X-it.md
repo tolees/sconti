@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- È la luce adatta a qualsiasi stanza, sia nella sala giochi che nella camera da letto
 - Ha una dimensone di 10 x 30 cm
+- È la luce adatta a qualsiasi stanza, sia nella sala giochi che nella camera da letto
 - Ottimo articolo per gli appassionati della console
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

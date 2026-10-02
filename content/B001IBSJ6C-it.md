@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Inoltre, la tecnologia di brasatura e tempra AWB riduce le vibrazioni durante la foratura per minimizzare le forti sollecitazioni sullutilizzatore
 - Piastra in carburo con scanalature e tacche per penetrazione del materiale e prevenzione del bloccaggio
+- Inoltre, la tecnologia di brasatura e tempra AWB riduce le vibrazioni durante la foratura per minimizzare le forti sollecitazioni sullutilizzatore
 - Punte per martello SDS plus-5 per foratura senza sforzo
 - Per un lavoro liscio, la placca di carburo è scanalata e dotata di intagli che penetrano più facilmente nel materiale e impediscono il grippaggio nel calcestruzzo.
 

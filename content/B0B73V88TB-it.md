@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Wi-Fi
 - Monitor LCD 19"
+- Wi-Fi
 - 4 giocatori
 - Light-up Marquee
 

@@ -28,9 +28,9 @@ average: '20.3071428571429'
 
 ℹ️:
 
-- Design moderno
 - Piccolo logo Levis ricamato sul petto
 - Questo è un prodotto originale Levis
+- Design moderno
 - Vestibilità comoda
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

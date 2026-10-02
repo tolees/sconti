@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Alimentazione USB, adatta per scrivania o regalo
 - Lampada LED olografica con effetto 3D di Darth Vader
+- Alimentazione USB, adatta per scrivania o regalo
 - Luce multicolore con base decorativa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

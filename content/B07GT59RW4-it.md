@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Bianco/verde
 - Toys
-- Accessori inclusi
+- Bianco/verde
 - Set completo
+- Accessori inclusi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07GT59RW4{{</world>}}

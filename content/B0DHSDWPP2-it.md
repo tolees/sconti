@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Speed Champions Auto da corsa Aston Martin Aramco F1 AMR24-77245'
-date: 2026-09-29 05:08:04
+date: 2026-10-01 07:44:02
 image: 'https://m.media-amazon.com/images/I/51yL++qw8XL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0DHSDWPP2/?tag=tolees00-21'
 descuento: '40.01'
-average: '18.689090909091'
+average: '18.6155882352942'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

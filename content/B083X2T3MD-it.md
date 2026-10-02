@@ -28,9 +28,9 @@ average: '147.35'
 
 ℹ️:
 
+- Archetto di spinta lungo regolabile in altezza su 2 posizioni
 - Maniglia integrata per un facile trasporto
 - Regolazione centralizzata dellaltezza di taglio, 5 livelli
-- Archetto di spinta lungo regolabile in altezza su 2 posizioni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B083X2T3MD{{</world>}}

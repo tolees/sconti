@@ -28,8 +28,8 @@ average: '39.64'
 
 ℹ️:
 
-- impugnatura saldata e rivestita in resina vinilica
 - Chiavi esagonali con estremità a sfera poliedrica Balldriver per inserzione e rotazione con angoli fino a 25° (escluse le misure 2-2.5-3 mm)
+- impugnatura saldata e rivestita in resina vinilica
 - Finitura ProGuard per la migliore resistenza alla corrosione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -29,12 +29,12 @@ average: '9.99'
 ℹ️:
 
 - MATERIALI DI ALTA QUALITA: Realizzata con materiali resistenti e di qualità per garantire la massima sicurezza in in ogni condizione e una maggiore durata nel tempo
-- PROTEZIONE PER BAMBINI: Pensata anche per la sicurezza familiare, la multipresa è dotata di fori con protezione per bambini che previene linserimento accidentale di oggetti estranei nelle prese elettiche
-- MASSIMA EFFICIENZA: Ciabatta multipresa elettrica Bticino 3636DBU, bianca, sottile ed elegante, dotata di 6 posti, 4 prese bipasso 10/16A + 2 prese USB tipo A da 2,4A, per collegare e ricaricare simultaneamente più dispositivi, potenza massima erogabile 2300 W
 - DESIGN COMPATTO E FUNZIONALE: La multipresa è progettata per essere compatta e salvaspazio. Perfetta per luso a casa, in ufficio, su scrivanie/piani di lavoro o in spazi ristretti grazie al suo spessore ridotto, dotata di occhielli per il fissaggio a muro o scrivania con viti o fascette (da acquistare separatamente)
 - VERSATILE E FLESSIBILE: Cavo antistrappo lungo 1,5 metri con spina piccola italiana 10A per raggiungere facilmente tutte le prese necessarie
-- FACILE DA USARE: Interruttore on/off e indicatore LED per un comodo controllo dellalimentazione
+- PROTEZIONE PER BAMBINI: Pensata anche per la sicurezza familiare, la multipresa è dotata di fori con protezione per bambini che previene linserimento accidentale di oggetti estranei nelle prese elettiche
 - SICUREZZA AL PRIMO POSTO: Protezione da sovratensioni, sovracorrente, surriscaldamenti, cortocircuiti. In caso di sovraccarico, linterruttore di sicurezza SAFE interviene automaticamente interrompendo lalimentazione (dispositivo riarmabile dopo qualche secondo)
+- MASSIMA EFFICIENZA: Ciabatta multipresa elettrica Bticino 3636DBU, bianca, sottile ed elegante, dotata di 6 posti, 4 prese bipasso 10/16A + 2 prese USB tipo A da 2,4A, per collegare e ricaricare simultaneamente più dispositivi, potenza massima erogabile 2300 W
+- FACILE DA USARE: Interruttore on/off e indicatore LED per un comodo controllo dellalimentazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BRQJ3BCC{{</world>}}

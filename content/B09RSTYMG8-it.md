@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 6 puzzle da 4 pezzi, istruzioni
-- Sviluppo sensoriale, autonomia, logica
 - Per lo sviluppo dei sensi
+- Sviluppo sensoriale, autonomia, logica
+- 6 puzzle da 4 pezzi, istruzioni
 - Finitura ruvida, basato sul metodo Montessori, Made in Italy
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

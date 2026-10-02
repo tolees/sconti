@@ -28,11 +28,11 @@ average: '14.6'
 
 ℹ️:
 
-- Misuratore digitale dei costi energetici con risoluzione di 0,1 W
 - Per misurare i costi energetici (€), il consumo energetico (kWh), la tensione di rete (V), la frequenza di rete (Hz), la corrente di carico (A) e il fattore di potenza.
-- Alta risoluzione di 0,005 A
 - Visualizzazione del fattore di potenza a partire da circa 1 W
 - Elevata precisione di base +/-0,5
+- Misuratore digitale dei costi energetici con risoluzione di 0,1 W
+- Alta risoluzione di 0,005 A
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00I1GTLWS{{</world>}}

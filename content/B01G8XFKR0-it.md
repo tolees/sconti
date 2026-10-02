@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Batman: Return to Arkham è una raccolta che contiene due titoli rimasterizzati: Batman: Arkham Asylum e Batman: Arkham City, entrambi pubblicati per le piattaforme di precedente generazione
 - I titoli sono stati ricostruiti dallo studio Virtuos avvalendosi dellUnreal Engine 4, contengono entrambi tutte le espansioni rilasciate
+- Batman: Return to Arkham è una raccolta che contiene due titoli rimasterizzati: Batman: Arkham Asylum e Batman: Arkham City, entrambi pubblicati per le piattaforme di precedente generazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01G8XFKR0{{</world>}}

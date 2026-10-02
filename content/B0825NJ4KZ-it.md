@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- __Fabric:__ Lightweight cotton jersey fabric
 - __Neck:__ Crew neckline
+- __Fabric:__ Lightweight cotton jersey fabric
 - Screen print on front
 - __Fit:__ Classic, comfortable regular fit
 

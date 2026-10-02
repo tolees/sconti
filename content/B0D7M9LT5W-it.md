@@ -28,9 +28,9 @@ average: '39.19'
 
 ℹ️:
 
-- Unisci le forze con un amico nella modalità co-op in locale per due giocatori e affrontate la Tribù Tiki Tak insieme nei panni di Donkey Kong e Diddy Kong.
-- Questa avventura sfoggia una grafica in HD migliorata per Nintendo Switch e include i livelli aggiuntivi della versione per Nintendo 3DS!
 - Disponibile per Nintendo Switch Oled, Nintendo Switch e Nintendo Switch Lite
+- Questa avventura sfoggia una grafica in HD migliorata per Nintendo Switch e include i livelli aggiuntivi della versione per Nintendo 3DS!
+- Unisci le forze con un amico nella modalità co-op in locale per due giocatori e affrontate la Tribù Tiki Tak insieme nei panni di Donkey Kong e Diddy Kong.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D7M9LT5W{{</world>}}

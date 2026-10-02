@@ -28,8 +28,8 @@ average: '15.99'
 
 ℹ️:
 
-- Prodotto leggero e confortevole
 - Vestibilità standard comoda
+- Prodotto leggero e confortevole
 - Comfort morbido e leggero
 - Adatto per attività sportive
 

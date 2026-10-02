@@ -28,10 +28,10 @@ average: '16.6'
 
 ℹ️:
 
+- Formato carta 140x100mm. Fissaggio a strappo.
 - Impugnatura morbida per presa sicura e confortevole.
 - Piano vibrante. Diametro orbite 0,9mm.
 - Predisposta per aspirazione polveri.
-- Formato carta 140x100mm. Fissaggio a strappo.
 - Alimentata a filo (motore elettrico da 105W). 12.500 oscillazioni/min.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

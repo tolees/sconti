@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Lacci
 - Suola/Caratteristiche: EVA XL EXTRALIGHT 51% riciclato
 - Colore: Nero
 - Fodera: 100% Poliestere Riciclato
+- Lacci
 - Tomaia: Pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

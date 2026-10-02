@@ -29,9 +29,9 @@ average: '8.0'
 ℹ️:
 
 - Disponibile in 12 nuance
-- Fondotinta matte che dura tutto il giorno
 - Copertura totale delle imperfezioni
 - Finish opaco ma naturale
+- Fondotinta matte che dura tutto il giorno
 - Lunga durata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

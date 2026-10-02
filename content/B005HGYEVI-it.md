@@ -29,8 +29,8 @@ average: '18.98'
 ℹ️:
 
 - 11,5 x 9,5 x 20 cm
-- Deumidificatore Ambiente
 - Ricambio per Killer dellUmidità 5 Kg
+- Deumidificatore Ambiente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B005HGYEVI{{</world>}}

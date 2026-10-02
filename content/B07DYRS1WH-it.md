@@ -28,10 +28,10 @@ average: '49.99'
 
 ℹ️:
 
-- 6 tasti LCD personalizzati: attiva immediatamente azioni con un tocco.
-- Produzione in diretta avanzata: controlla facilmente gli strumenti e le piattaforme che preferisci.
-- Profili intelligenti: crea configurazioni uniche di tasti per le diverse app e passa da una allaltra in un attimo.
 - Azioni multiple: avvia più azioni contemporaneamente o in sequenza, distanziate da intervalli.
+- Profili intelligenti: crea configurazioni uniche di tasti per le diverse app e passa da una allaltra in un attimo.
+- Produzione in diretta avanzata: controlla facilmente gli strumenti e le piattaforme che preferisci.
+- 6 tasti LCD personalizzati: attiva immediatamente azioni con un tocco.
 - Integrazioni potenti: Elgato 4KCU, OBS, Twitch, YouTube, Twitter, Discord, Spotify, Philips Hue, vMix, VoiceMod e altro.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ average: '5.97'
 
 ℹ️:
 
-- Tessuto che lascia traspirare la pelle
 - Prodotto di marca Leone 1947
 - Adatto per lallenamento
+- Tessuto che lascia traspirare la pelle
 - Con ottima libertà di movimento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

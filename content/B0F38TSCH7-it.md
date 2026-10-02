@@ -28,9 +28,9 @@ average: '12.49'
 
 ℹ️:
 
-- Vestibilità regolare
-- Primo Tessuto: 100% Poliestere(100% Riciclato)
 - Cordino
+- Primo Tessuto: 100% Poliestere(100% Riciclato)
+- Vestibilità regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F38TSCH7{{</world>}}

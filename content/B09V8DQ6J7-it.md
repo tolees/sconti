@@ -28,11 +28,11 @@ average: '35.99'
 
 ℹ️:
 
-- Lunghezza: 61 cm
-- Collana da uomo con targhetta di Calvin Klein
 - Decorato con logo Calvin Klein inciso sulla targhetta
 - Chiusura: Gancio a molla
 - Materiale: Acciaio inossidabile spazzolato
+- Collana da uomo con targhetta di Calvin Klein
+- Lunghezza: 61 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09V8DQ6J7{{</world>}}

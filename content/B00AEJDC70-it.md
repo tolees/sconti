@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Formula: con estratti di fiori di cotone e SPF 10 per una pelle morbida, idratata e protetta dal sole
-- Applicazione: stendi il prodotto sul viso con le dita, con un pennello o con una spugnetta make up
 - Colore: 52 Vanilla per incarnati chiari; copertura media stratificabile
 - Effetti e benefici: pelle protetta dai danni del sole, idratata, uniforme e luminosa fino a 16 ore
+- Formula: con estratti di fiori di cotone e SPF 10 per una pelle morbida, idratata e protetta dal sole
 - 1, 2, 3 Perfect Foundation, copre le imperfezioni, idrata la pelle e dona un incarnato luminoso e uniforme
+- Applicazione: stendi il prodotto sul viso con le dita, con un pennello o con una spugnetta make up
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00AEJDC70{{</world>}}

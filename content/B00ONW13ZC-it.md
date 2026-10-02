@@ -28,9 +28,9 @@ average: '7.2'
 
 ℹ️:
 
+- Realizzato nel rispetto dellambiente
 - Impermeabile, antivento e traspirante
 - Prodotto ottimo
-- Realizzato nel rispetto dellambiente
 - Copricasco da pioggia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

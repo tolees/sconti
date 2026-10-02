@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Vestibilità aderente
 - PROGETTO SOSTENIBILITÀ ARMANI
+- Vestibilità aderente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DQYBYDNS{{</world>}}

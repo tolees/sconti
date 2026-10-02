@@ -29,11 +29,11 @@ average: '18.88'
 ℹ️:
 
 - DISEÑO COMPACTO: Con unas dimensiones de 40 x 11,5 x 44 cm y un elegante acabado en negro, la lámpara se integra armoniosamente en una gran variedad de estilos de interior.
-- FÁCIL DE ENCENDER Y APAGAR - El interruptor basculante incorporado hace que sea especialmente fácil encender y apagar esta luz.
 - LED INTEGRADOS - ¡No se puede ahorrar más energía que con los LED! Los elementos LED ya están integrados en esta luminaria y no necesitas una fuente de luz adicional.
 - CABEZAL GIRATORIO - El cabezal giratorio de esta luminaria es ideal para estancias grandes o en ángulo. Ajusta el área de iluminación con flexibilidad.
 - DIMENSIONES - altura - 450 mm, profundidad - 135 mm, diámetro - 115 mm
 - AJUSTABLE INDIVIDUALMENTE - El cuello telescópico de nuestra lámpara de mesa es regulable en altura, por lo que puede ajustarse perfectamente a la altura que desees.
+- FÁCIL DE ENCENDER Y APAGAR - El interruptor basculante incorporado hace que sea especialmente fácil encender y apagar esta luz.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B010O1XK1U{{</world>}}

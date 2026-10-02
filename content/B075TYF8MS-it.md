@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Reggiseno
 - Composizione del materiale: 90% poliammide, 10% elastan
 - Dettaglio in pizzo
+- Reggiseno
 - Il pizzo è un bellissimo materiale leggero, d
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

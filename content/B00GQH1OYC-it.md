@@ -28,9 +28,9 @@ average: '15.2'
 
 ℹ️:
 
+- Materiale: acciaio inossidabile.
 - Adatta sia alle palle di grasso con rete che senza.
 - Circa 25 cm.
-- Materiale: acciaio inossidabile.
 - Con base per evitare la dispersione di cibo.
 - Fornire sempre dellacqua fresca per il benessere degli uccelli.
 

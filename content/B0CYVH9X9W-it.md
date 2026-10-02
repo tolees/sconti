@@ -28,16 +28,16 @@ average: '72.0'
 
 ℹ️:
 
-- Membrana in GORE-TEX
-- Questo prodotto contiene almeno il 20% di materiali riciclati
-- Calzata regolare
+- Tomaia in tessuto con rivestimenti in materiale sintetico
 - Chiusura con lacci
 - Suola Traxion con alette
+- Calzata regolare
+- Intersuola in EVA
+- Questo prodotto contiene almeno il 20% di materiali riciclati
 - Peso: 373 g (misura 42 2/3)
 - Fodera in tessuto
-- Intersuola in EVA
+- Membrana in GORE-TEX
 - Drop intersuola: 7 mm (tallone: 23 mm / avampiede: 16 mm)
-- Tomaia in tessuto con rivestimenti in materiale sintetico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CYVH9X9W{{</world>}}

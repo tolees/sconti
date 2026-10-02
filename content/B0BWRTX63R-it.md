@@ -28,9 +28,9 @@ average: '10.5'
 
 ℹ️:
 
-- IL COMPAGNO IDEALE per chi è in movimento – in bici, durante le escursioni o in altre attività sportive in cui servono energia rapidamente disponibile e peso ridotto
 - ENERGIA A LUNGA DURATA grazie alla pratica confezione da 18 barrette energetiche per scatola. Energia sufficiente per tutte le tue esigenze
 - DELICIOSA SENZA COMPROMESSI: la nostra barretta ai cereali contiene poco zucchero, ma ingredienti naturali di alta qualità ed è sviluppata in Germania
+- IL COMPAGNO IDEALE per chi è in movimento – in bici, durante le escursioni o in altre attività sportive in cui servono energia rapidamente disponibile e peso ridotto
 - FAI IL PIENO DI ENERGIA OVUNQUE con la nostra barretta vegana a base di carboidrati complessi e magnesio extra, che supporta il metabolismo energetico e riduce la stanchezza
 - UNA FONTE DI ENERGIA NATURALE grazie ai fiocchi d’avena integrali, ai pezzi di frutta, alle arachidi o ai semi di zucca (a seconda della variante), che offrono un gusto delizioso e una piacevole consistenza
 

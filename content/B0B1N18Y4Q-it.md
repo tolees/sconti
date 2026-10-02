@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Soletta OrthoLite Memorytech
 - Tomaia sintetica
+- Soletta OrthoLite Memorytech
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B1N18Y4Q{{</world>}}

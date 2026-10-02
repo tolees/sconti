@@ -28,8 +28,8 @@ average: '5.51'
 
 ℹ️:
 
-- Maui Moisture
 - Maschera per capelli
+- Maui Moisture
 - Maui Moisture Maschera al burro di karitè e aloe vera
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

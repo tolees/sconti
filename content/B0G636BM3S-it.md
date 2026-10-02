@@ -28,11 +28,11 @@ average: '10.45'
 
 ℹ️:
 
-- Questo prodotto contiene poliestere riciclato post-consumo al 100% certificato GRS (Global Recycled Standard)
-- COMFORT AGGIUNTIVO: cappuccio integrato per maggiore calore e comfort a temperature pari o superiori a 10,0°C
-- DESIGN VERSATILE: i sacchi possono essere utilizzati come coperta se completamente aperti.
-- MATERIALI: il sacco a pelo è realizzato in poliestere riciclato post-consumo.
 - DOTAZIONE COMPLETA: include sacco a pelo con imbottitura sintetica e sacca di compressione per riporlo comodamente
+- MATERIALI: il sacco a pelo è realizzato in poliestere riciclato post-consumo.
+- Questo prodotto contiene poliestere riciclato post-consumo al 100% certificato GRS (Global Recycled Standard)
+- DESIGN VERSATILE: i sacchi possono essere utilizzati come coperta se completamente aperti.
+- COMFORT AGGIUNTIVO: cappuccio integrato per maggiore calore e comfort a temperature pari o superiori a 10,0°C
 - PRATICITÀ AGGIUNTIVA: lavabile in lavatrice, con passanti integrati che consentono di riporlo facilmente dopo luso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

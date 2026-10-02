@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Bocche piegate poligonali con foro passante
 - Acciaio
+- Bocche piegate poligonali con foro passante
 - Finitura lucida
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

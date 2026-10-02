@@ -29,8 +29,8 @@ average: '48.48'
 ℹ️:
 
 - Sgabello Everest 3 gradini
-- In acciaio
 - Portata max 150 kg
+- In acciaio
 - Per uso domestico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

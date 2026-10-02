@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'UGREEN Adattatore USB C a USB A 10Gbps 4 Pezzi Tipo A a Tipo C Gray'
-date: 2026-09-24 17:31:09
+date: 2026-09-29 23:41:08
 image: 'https://m.media-amazon.com/images/I/31TIEEzPi-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0F9YFLVJN/?tag=tolees00-21'
 descuento: '36.87'
-average: '8.84666666666667'
+average: '8.685'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

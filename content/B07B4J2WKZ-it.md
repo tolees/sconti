@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- venduto senza fonte di luce inclusa
-- Con Telecomando a 3 velocità e timer
-- Con invertitore di direzione per il recupero del calore invernale
 - 5 Pale in Legno da 128cm diametro
-- 2 anni di garanzia
 - Con Lampada in vetro è possibile installare qualsiasi tipo di lampadina di tipo E27 standard
+- Con invertitore di direzione per il recupero del calore invernale
+- Con Telecomando a 3 velocità e timer
+- venduto senza fonte di luce inclusa
+- 2 anni di garanzia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07B4J2WKZ{{</world>}}

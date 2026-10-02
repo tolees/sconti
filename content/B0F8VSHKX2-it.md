@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Imou 2K Telecamera WiFi Interno con One-Touch Chiamata Telecamera Interna'
-date: 2026-09-24 14:49:35
+date: 2026-10-01 01:00:01
 image: 'https://m.media-amazon.com/images/I/41D-UX1KRsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0F8VSHKX2/?tag=tolees00-21'
 descuento: '27.81'
-average: '21.56'
+average: '21.59'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

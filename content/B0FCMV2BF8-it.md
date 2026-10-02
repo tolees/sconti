@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Camicia a righe
 - Camicia in cotone
+- Camicia a righe
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FCMV2BF8{{</world>}}

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Non resistente allacqua
 - Leggero
+- Non resistente allacqua
 - Skechers dettaglio logo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

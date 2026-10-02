@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Platform: windows_11
-- Cpu model speed: 3.7 GHz
-- Wattage: 65.0 watts
 - Secondary cache: 8.0 MB
+- Wattage: 65.0 watts
+- Platform: windows_11
 - 1 anno di supporto tecnico
+- Cpu model speed: 3.7 GHz
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D2JCMP34{{</world>}}

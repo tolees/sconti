@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Scena intelligente locale: con la scena intelligente locale, la scena che collega tra i dispositivi Zigbee può funzionare normalmente finché i dispositivi Zigbee sono accesi, anche se la connessione di rete è disconnessa.
-- Allarme antimanomissione: il sensore per porte e finestre SONOFF zigbee è dotato di funzioni antimanomissione per garantire la tua sicurezza. Riceverai notifiche dallapp sul tuo telefono se il sensore viene manomesso.
-- Compatibile con Zigbee 3.0: questo contatto per porte e finestre si integra perfettamente con gli hub Zigbee che utilizzano il protocollo Zigbee 3.0, come SONOFF ZBDongle Pro, SONOFF ZBDongle-E, SONOFF ZB Bridge-P, SONOFF iHost, SONOFF NSPanel Pro ed Echo Plus 2nd
 - Facile da installare: la confezione viene fornita con 2 pezzi di adesivo 3M. Basta strappare la carta protettiva e incollarla sul retro del sensore della porta. La distanza massima di installazione è di 20 mm. Il sensore di contatto intelligente per finestre funziona con la maggior parte dei tipi di porte, finestre, balconi, porte del garage, camerette, armadi, casseforti, ecc.
-- Sistema di allarme domestico intelligente: accende automaticamente la luce quando viene aperta una porta, attiva un allarme acustico e visivo quando si verifica un accesso non autorizzato e invia notifiche dellapp per tenerti informato.
+- Compatibile con Zigbee 3.0: questo contatto per porte e finestre si integra perfettamente con gli hub Zigbee che utilizzano il protocollo Zigbee 3.0, come SONOFF ZBDongle Pro, SONOFF ZBDongle-E, SONOFF ZB Bridge-P, SONOFF iHost, SONOFF NSPanel Pro ed Echo Plus 2nd
+- Allarme antimanomissione: il sensore per porte e finestre SONOFF zigbee è dotato di funzioni antimanomissione per garantire la tua sicurezza. Riceverai notifiche dallapp sul tuo telefono se il sensore viene manomesso.
+- Scena intelligente locale: con la scena intelligente locale, la scena che collega tra i dispositivi Zigbee può funzionare normalmente finché i dispositivi Zigbee sono accesi, anche se la connessione di rete è disconnessa.
 - Durata della batteria di 5 anni - Contatto per porte e finestre SNZB-04P Grazie allalimentazione tramite batteria CR2477, la durata della batteria è di oltre 5 anni, quindi non devi preoccuparti di frequenti cambi di batteria.
+- Sistema di allarme domestico intelligente: accende automaticamente la luce quando viene aperta una porta, attiva un allarme acustico e visivo quando si verifica un accesso non autorizzato e invia notifiche dellapp per tenerti informato.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C1G7W72B{{</world>}}

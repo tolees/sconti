@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Movie
 - DVD
 - Film
+- Movie
 - Disc
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

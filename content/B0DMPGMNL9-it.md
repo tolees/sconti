@@ -28,8 +28,8 @@ average: '20.49'
 
 ℹ️:
 
-- Tessuto Esterno: 100% Cotone / Parasudore: 100% Poliestere(100% Riciclato)
 - Taglia unica
+- Tessuto Esterno: 100% Cotone / Parasudore: 100% Poliestere(100% Riciclato)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DMPGMNL9{{</world>}}

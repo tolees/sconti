@@ -28,9 +28,9 @@ average: '291.39'
 
 ℹ️:
 
+- Strumento affidabile anche per gli amanti della fotografia digitale grazie alladattatore per fotocamera digitale (#49-14900 da acquistare separatamente), puó essere collegato a quasi tutte le fotocamere digitali o videocamere compatte
 - Provvisto di unottica potente di 100 mm
 - Costruzione impermeabile e rivestimento antiriflesso
-- Strumento affidabile anche per gli amanti della fotografia digitale grazie alladattatore per fotocamera digitale (#49-14900 da acquistare separatamente), puó essere collegato a quasi tutte le fotocamere digitali o videocamere compatte
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00187ODFW{{</world>}}

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Design caldo e confortevole
 - Giacca del marchio Brandit
+- Design caldo e confortevole
 - Adatto per: clima freddo
 - Realizzati con materiali sostenibili
 

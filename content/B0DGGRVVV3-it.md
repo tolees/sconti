@@ -28,8 +28,8 @@ average: '22.12'
 
 ℹ️:
 
-- CLASSIC LOOK, FASHIONABLE FINISHING, COMFORTABLE
 - Occhiali da sole a forma di occhio di gatto in plastica
+- CLASSIC LOOK, FASHIONABLE FINISHING, COMFORTABLE
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DGGRVVV3{{</world>}}

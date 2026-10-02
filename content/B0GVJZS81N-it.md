@@ -28,8 +28,8 @@ average: '37.72'
 
 ℹ️:
 
-- Con unapertura vivace che unisce coriandolo speziato e menta rinfrescante, questa fragranza regala unimmediata esplosione di freschezzaIl cuore svela una nota di lavanda brillante, che aggiunge un tocco fresco e floreale alla fragranza maschileLa base ambrata offre un finale caldo e inebriante. Questa fragranza Davidoff è racchiusa in un flacone blu, di ispirazione Bauhaus, e con un cap metallico
 - Profilo aromatico:Note di testa:Coriandolo, MentaNote di cuore:LavandaNote di fondo:AmbraDavidoff Cool Water Eau de Toilette da uomo è una fragranza fougère aromatica che incarna la mascolinità moderna con il suo carattere energizzante
+- Con unapertura vivace che unisce coriandolo speziato e menta rinfrescante, questa fragranza regala unimmediata esplosione di freschezzaIl cuore svela una nota di lavanda brillante, che aggiunge un tocco fresco e floreale alla fragranza maschileLa base ambrata offre un finale caldo e inebriante. Questa fragranza Davidoff è racchiusa in un flacone blu, di ispirazione Bauhaus, e con un cap metallico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GVJZS81N{{</world>}}

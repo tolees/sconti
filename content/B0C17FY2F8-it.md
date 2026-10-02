@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Colore: oro rosa
 - Finitura: lucida
+- Colore: oro rosa
 - Materiale: acciaio
 - Tipo di chiusura: a coulisse
 

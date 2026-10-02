@@ -28,8 +28,8 @@ average: '24.9'
 
 ℹ️:
 
-- Logo ricamato
 - Confezione da 3
+- Logo ricamato
 - Mutande da uomo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

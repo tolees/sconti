@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Boxer: Set di boxer
 - Cintura larga
+- Boxer: Set di boxer
 - Confezione tripla
 - Elasticizzato
 

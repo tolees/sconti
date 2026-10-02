@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Doppio interruttore di sicurezza per evitare di avviare accidentalmente lutensile
+- Diamentro disco 115 mm
 - Impugnatura ausiliaria fissabile in 3 differenti posizioni
+- Doppio interruttore di sicurezza per evitare di avviare accidentalmente lutensile
 - Carter di sicurezza regolabile senza attrezzi
 - 18V ONE+ è la gamma di utensili a batteria progettata per tutte le necessità del fai-da-te e del giardinaggio. Ununica batteria per tutti i tuoi attrezzi
-- Diamentro disco 115 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00B8AFJYI{{</world>}}

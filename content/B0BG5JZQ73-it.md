@@ -28,10 +28,10 @@ average: '66.5'
 
 ℹ️:
 
-- Realizzati con materiali sostenibili
 - Design caldo e confortevole
 - Adatto per: clima freddo
 - Giacca del marchio GANT
+- Realizzati con materiali sostenibili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BG5JZQ73{{</world>}}

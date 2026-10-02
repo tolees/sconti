@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Miscela Espresso Bar
-- Confezione da 100 capsule
-- Conservabilità: 24 mesi dalla data di produzione. Modalità di conservazione: conservare in luogo fresco e asciutto, lontano da fonti di calore e umidità
-- Una miscela intensa con sentori di pan tostato e frutta secca e note di cacao amaro ed arachidi.
 - 100 capsule compatibili con le macchine ad uso domestico a marchio Nespresso* Inissia, Pixie, Citiz, Citiz&milk, Lattissima, Lattissima Pro, Lattissima&milk, MiniEssenza, Essenza, Prodigio, U
+- Miscela Espresso Bar
+- Conservabilità: 24 mesi dalla data di produzione. Modalità di conservazione: conservare in luogo fresco e asciutto, lontano da fonti di calore e umidità
+- Confezione da 100 capsule
 - Blend dal corpo intenso e vigoroso, con una piacevole amarezza al palato, e dal gusto pieno.
+- Una miscela intensa con sentori di pan tostato e frutta secca e note di cacao amaro ed arachidi.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CVQFL1L2{{</world>}}

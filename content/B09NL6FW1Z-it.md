@@ -28,10 +28,10 @@ average: '25.0'
 
 ℹ️:
 
+- Chiusura con lacci
 - Fodera in tessuto
 - Calzata regolare
 - Collarino imbottito
-- Chiusura con lacci
 - Tomaia in pelle sintetica
 - Intersuola ammortizzata
 

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Il DLC Left Behind uscito il 14 Febbraio 2014
-- Il DLC "Territori abbandonati" uscito il 16 Ottobre 2013
 - Un insieme di DLC che costituiscono il «bundle realismo»
 - Gioco the Last of Us rimasterizzato in 1080p con 60 fps
+- Il DLC Left Behind uscito il 14 Febbraio 2014
+- Il DLC "Territori abbandonati" uscito il 16 Ottobre 2013
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07FFDV1K4{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sonos Soundbar Arc Ultra con Dolby Atmos e controllo vocale | Audio surround 9.1.4 per TV e musica | Nero'
-date: 2026-09-28 08:06:38
+date: 2026-10-01 23:24:10
 image: 'https://m.media-amazon.com/images/I/21gc1o0zrqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0DJ9H1K74/?tag=tolees00-21'
 descuento: '27.30'
-average: '779.0'
+average: '785.666666666667'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

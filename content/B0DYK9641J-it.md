@@ -29,10 +29,10 @@ average: '1.75'
 ℹ️:
 
 - DENTIFRICIO MENTADENT MICROGRANULI: Mentadent M Microgranuli protezione anti-placca. Con antibatterico.
-- FORMULA IN COMBINAZIONE: la formula di Mentadent Microgranuli contiene una speciale combinazione di Zinco antibatterico e soffici microgranuli
-- MENTADENT, ESPERTI IN PREVENZIONE: Mentadent è sinonimo di qualità e affidabilità, da più di 40 anni è leader nelligiene orale
 - CON MICROGRANULI: per unefficace rimozione della placca anche negli spazi interdentali non sempre facilmente raggiungibili, per una protezione di lunga durata
 - PER LA PULIZIA INTERDENTALE: pulizia interdentale profonda e azione antiplacca duratura, con Antibatterico e clinicamente provato. Contiene Fluoruro di Sodio (1450 ppm F)
+- FORMULA IN COMBINAZIONE: la formula di Mentadent Microgranuli contiene una speciale combinazione di Zinco antibatterico e soffici microgranuli
+- MENTADENT, ESPERTI IN PREVENZIONE: Mentadent è sinonimo di qualità e affidabilità, da più di 40 anni è leader nelligiene orale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DYK9641J{{</world>}}

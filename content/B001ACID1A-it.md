@@ -28,8 +28,8 @@ average: '13.71'
 
 ℹ️:
 
-- lunghezza mm 203
 - con pulsante di regolazione rapido delle ganasce
+- lunghezza mm 203
 - Pinza grip
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

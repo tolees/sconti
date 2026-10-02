@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Ingrandimento: 8-16 x
 - Lenti multistrato per la massima trasmissione della luce
+- Ingrandimento: 8-16 x
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00SKO454U{{</world>}}

@@ -28,12 +28,12 @@ average: '9.99'
 
 ℹ️:
 
-- Linea di profumi uomo di Bottega Verde: collezione raffinata ed elegante di profumi maschili ispirata agli elementi di terra e acqua, adatta anche come idea regalo da regalare o regalarsi
-- Note Olfattive: nota di testa di bergamotto, foglie di ribes nero, accordo marino; note di corpo di rosmarino, lavanda e note di fondo di patchouli, moss, legno di cedro e muschio
 - Modo duso: vaporizza leau de toilette dietro le orecchie e sui polsi
+- Linea di profumi uomo di Bottega Verde: collezione raffinata ed elegante di profumi maschili ispirata agli elementi di terra e acqua, adatta anche come idea regalo da regalare o regalarsi
+- Blu dAcqua Eau de Toilette: profumo da uomo per chi ama le fragranze fresche, avvolgenti e dalle frizzanti note di bergamotto
 - Formato: 1 eau de toilette uomo da 50 ml
 - Alcune immagini o video presenti in questa pagina sono state create o elaborate mediante sistemi di intelligenza artificiale
-- Blu dAcqua Eau de Toilette: profumo da uomo per chi ama le fragranze fresche, avvolgenti e dalle frizzanti note di bergamotto
+- Note Olfattive: nota di testa di bergamotto, foglie di ribes nero, accordo marino; note di corpo di rosmarino, lavanda e note di fondo di patchouli, moss, legno di cedro e muschio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BXM1VYSM{{</world>}}

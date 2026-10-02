@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Coni impugnatura in ABS
 - lama universale, a foretto, per metallo
+- Coni impugnatura in ABS
 - Fornito con 3 lame
 - Seghetto multiuso
 

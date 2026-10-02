@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - [1] - Mini Tastiera Ultraslim Wireless senza fili RF + Bluetooth (fino a due dispositivi)
-- [4] Connessione 2.4GHz + Bluetooth (fino a 2 dispositivi)
-- [2] - Ultrasottile ed ultraleggera // Tasti “chocolate key” per un tocco più preciso
-- [3] - Layout Italiano QWERTY 78 tasti
 - [5] - Dimensioni: 28,6x12 cm // Necessita di batterie: 2x AAA Non incluse nella confezione // Colore Nero.
+- [4] Connessione 2.4GHz + Bluetooth (fino a 2 dispositivi)
+- [3] - Layout Italiano QWERTY 78 tasti
+- [2] - Ultrasottile ed ultraleggera // Tasti “chocolate key” per un tocco più preciso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GT15LC4P{{</world>}}

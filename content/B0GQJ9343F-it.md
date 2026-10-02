@@ -28,11 +28,11 @@ average: '19.8'
 
 ℹ️:
 
-- I profumi di espresso vellutato e latte di cocco si fondono insieme e sono completati da note di nocciola tritata in questa fragranza rinvigorente.
-- Ideale per cucine o angoli accoglienti.
-- Una candela media che è un regalo perfetto per le donne per il comfort quotidiano.
 - Crea unatmosfera calda e accogliente.
 - Presenta lo stoppino in legno caratteristico di WoodWick per un suono crepitante distintivo.
+- Una candela media che è un regalo perfetto per le donne per il comfort quotidiano.
+- I profumi di espresso vellutato e latte di cocco si fondono insieme e sono completati da note di nocciola tritata in questa fragranza rinvigorente.
+- Ideale per cucine o angoli accoglienti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GQJ9343F{{</world>}}

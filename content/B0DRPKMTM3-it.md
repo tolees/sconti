@@ -30,9 +30,9 @@ average: '9.79999999999998'
 
 - CitraCell-Protect: la formula con tecnologia CitraCell Protect, vitamina C e acido ialuronico riduce efficacemente lo stress ossidativo a livello cellulare*.
 - 48 ore di umidità: il latte solare ripristina lumidità della pelle per 48 ore e garantisce una sensazione sana e morbida sulla pelle senza residui bianchi.
+- Pelle e ambiente: per il bene delloceano, la formula della lozione solare è priva di microplastiche e dei filtri UV nocivi per lambiente, octocrilene, ottinoxato e ossibenzone.
 - Protezione efficace: la crema solare Nivea con SPF 50+ offre una protezione immediata UVA e UVB, che aiuta a prevenire danni UV a breve e lungo termine.
 - Contenuto della confezione e dettagli: spray solare Nivea Sun Protezione & Cura SPF 50+, 200 ml, crema solare impermeabile, crema solare ad assorbimento rapido, senza residui bianchi, articolo n. 85669
-- Pelle e ambiente: per il bene delloceano, la formula della lozione solare è priva di microplastiche e dei filtri UV nocivi per lambiente, octocrilene, ottinoxato e ossibenzone.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DRPKMTM3{{</world>}}

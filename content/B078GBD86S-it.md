@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Prodotto dallottima tenuta
 - Fondotinta con una copertura dal finish naturale
+- Prodotto dallottima tenuta
 - Adatto allutilizzo quotidiano
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

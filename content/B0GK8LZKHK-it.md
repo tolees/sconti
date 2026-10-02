@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Uovo di Pasqua Caffarel Delizie d’Italia da 530 g realizzato con pregiato cioccolato fondente e nocciole intere Piemonte IGP selezionate
 - Espressione dell’eccellenza della tradizione torinese del cioccolato e nocciole
+- Uovo di Pasqua Caffarel Delizie d’Italia da 530 g realizzato con pregiato cioccolato fondente e nocciole intere Piemonte IGP selezionate
 - Raffinata idea regalo pasquale, confezionata in elegante cartotecnica a scrigno, ideale per veri intenditori e amanti del cioccolato di qualità
 - Firmato Caffarel, storica azienda italiana dellarte del cioccolato e nocciole che questanno compie 200 anni
 

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- prodotto a norma EN 14183 - certificato TÜV-GS - portata max 150kg
 - Telaio rettangolare 35 × 20 mm
+- prodotto a norma EN 14183 - certificato TÜV-GS - portata max 150kg
 - Sgabello in alluminio 3 gradini
 - Gradino con tappetino antiscivolo
 - Made in Italy

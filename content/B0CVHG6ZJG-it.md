@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- DOTAZIONE: testa della telecamera da 8,3 mm (350 cm)
 - FUNZIONE "AUTOUP" e "UP INDICATION": Supporta le funzioni di orientamento "AutoUp" e "Indicazione di salita"
+- COMPATIBILE CON: telecamera di ispezione GIC 12V-5-27 C e GIC 12V-4-23 C
 - ISPEZIONA SPAZI STRETTI: la piccola testa della telecamera da 8,3 mm consente un facile accesso a spazi stretti.
 - TESTA TELECAMERA EXTRA-LUNGA: la testa della telecamera extra-lunga di 3,5 m consente di ispezionare oggetti in profondità, come i tubi.
-- COMPATIBILE CON: telecamera di ispezione GIC 12V-5-27 C e GIC 12V-4-23 C
-- DOTAZIONE: testa della telecamera da 8,3 mm (350 cm)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CVHG6ZJG{{</world>}}

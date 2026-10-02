@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Maniche allungate
-- 100% cotone
 - Spalle basse e giromanica ampi
-- Vestibilità ampia
+- 100% cotone
 - Girocollo a coste
+- Maniche allungate
+- Vestibilità ampia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZP4WZ8Z{{</world>}}

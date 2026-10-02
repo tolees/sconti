@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Prodotti originali ed esclusivi
 - Unità contenute: 1
+- Prodotti originali ed esclusivi
 - Per lufficio e luso personale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

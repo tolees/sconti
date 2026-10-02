@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Borotalco Deodorante Vapo Originale Formula Senza Alcool con Talco a Cristalli Attivi Tripla Protezione Asciutta Profumo di Borotalco - Formato da 75 ml'
-date: 2026-09-23 12:26:28
+date: 2026-09-30 03:46:19
 image: 'https://m.media-amazon.com/images/I/31xTWl7gzeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0BPT554R1-it Borotalco Deodorante Vapo Originale Formula Senza Alcool...'
 sku: 'B0BPT554R1-it'
 tags: [ '🇮🇹', ]
-actualPrice: 2.33 EUR
+actualPrice: 2.95 EUR
 currency: EUR
-price: 2.33
+price: 2.95
 comparePrice: 4.69 EUR
 prodname: 'Borotalco Deodorante Vapo Originale Formula Senza Alcool con Talco a Cristalli Attivi Tripla Protezione Asciutta Profumo di Borotalco - Formato da 75 ml'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0BPT554R1/?tag=tolees00-21'
-descuento: '50.32'
-average: '2.43000000000001'
+descuento: '37.10'
+average: '2.51666666666668'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

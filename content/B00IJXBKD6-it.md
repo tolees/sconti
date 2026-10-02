@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Con una superficie rugosa de segare
-- Disponibile in molti colori e formati
 - Dotato con un passepartout
+- Disponibile in molti colori e formati
+- Con una superficie rugosa de segare
 - Profilo rettangolare in legno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

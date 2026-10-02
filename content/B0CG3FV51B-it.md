@@ -28,10 +28,10 @@ average: '99.0'
 
 ℹ️:
 
+- Range temperatura 80-200°C
 - Capacità 8,6 litri
 - Grazie agli 8 programmi Automatici di cottura, avrai temperatura e durata ottima per 8 ricette
 - Doppio cestello da 5,3 litri e 3,3 litri
-- Range temperatura 80-200°C
 - Potenza massima 1700W
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

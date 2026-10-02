@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Prodotto di qualita
 - Essenza di delicatezza
 - Pelle morbida e profumata
 - Bagnodoccia muschio bianco
+- Prodotto di qualita
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

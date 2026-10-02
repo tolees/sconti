@@ -29,10 +29,10 @@ average: '4.78'
 ℹ️:
 
 - AZIONE: Crema viso da applicare tutti i giorni, mattina e sera. Burro di karité, olio di avocado e olio di argan formano la combinazione perfetta per ottenere una pelle morbida e profumata.
-- 1 confezione di CREMA VISO da 50 ml
-- Con il 98% di ingredienti di origine naturale
 - DERMATOLOGICAMENTE TESTATA SU PELLI SENSIBILI: Adatta a tutti i tipi di pelle inclusa quella sensibile
 - prodotto in Italia
+- Con il 98% di ingredienti di origine naturale
+- 1 confezione di CREMA VISO da 50 ml
 - ISTRUZIONI PER L’USO: Massaggiare delicatamente una piccola quantità di crema su viso e collo fino a completo assorbimento.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

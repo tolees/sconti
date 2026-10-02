@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Creator 3 in 1 Pappagallo esotico 31136'
-date: 2026-09-29 05:08:43
+date: 2026-10-01 07:39:21
 image: 'https://m.media-amazon.com/images/I/51iZy62pweL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0BBS2QDNN/?tag=tolees00-21'
 descuento: '24.01'
-average: '19.7399999999999'
+average: '19.6882758620689'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

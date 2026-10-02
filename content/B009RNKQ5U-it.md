@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fonzies Gli Originali Croccantini di Mais al Formaggio Cotti al Forno 188g multipack 8 bustine da 23 5g'
-date: 2026-09-28 21:12:21
+date: 2026-09-30 00:15:50
 image: 'https://m.media-amazon.com/images/I/41Gil1qsgRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B009RNKQ5U/?tag=tolees00-21'
 descuento: '47.06'
-average: '1.76149999999998'
+average: '1.74045454545453'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

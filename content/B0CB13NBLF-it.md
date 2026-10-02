@@ -28,14 +28,14 @@ average: '16.43'
 
 ℹ️:
 
-- Funzione ventilazione
 - Termostato regolabile per il controllo della temperatura
-- Corpo in plastica termoresistente
-- 2 potenze: 1000/2000W
+- Funzione ventilazione
 - Posizionabile in orizzontale e in verticale
-- Pratica maniglia per il trasporto
-- Dispositivo di protezione anti-surriscaldamento
 - Dimensioni (L x H x P): 11 x 23 x 23 cm
+- 2 potenze: 1000/2000W
+- Dispositivo di protezione anti-surriscaldamento
+- Corpo in plastica termoresistente
+- Pratica maniglia per il trasporto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CB13NBLF{{</world>}}

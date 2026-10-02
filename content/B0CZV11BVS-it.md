@@ -28,9 +28,9 @@ average: '12.99'
 
 ℹ️:
 
-- Spalle leggermente basse
-- 100% cotone
 - Vestibilità regolare
+- 100% cotone
+- Spalle leggermente basse
 - Girocollo a coste
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

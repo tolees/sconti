@@ -28,12 +28,12 @@ average: '4.85'
 
 ℹ️:
 
-- Tollerante a più di 200 gradi
-- Dimmerabile
+- Durata media: 2.000 ore
+- Non contiene mercurio
 - Aree applicative: forni
 - Contenuto di alogeni ideale per le alte temperature
-- Non contiene mercurio
-- Durata media: 2.000 ore
+- Tollerante a più di 200 gradi
+- Dimmerabile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00BF9NFCU{{</world>}}

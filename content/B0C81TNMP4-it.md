@@ -31,8 +31,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 - Preciso: appoggio per panoramica a 360.gradi, inclinazione a 90 gradi e livella a bolla per un ottimale controllo della posizione
 - Modulare: funziona con accessori professionali Joby, tra cui Grip Tight, braccia Gorillapod e adattatore per mozzo che consente il montaggio di adattatori per GoPro adattatori, flash, luci e microfoni
 - Tipo di Attacco: 1/4"-20 standard tripod mount
-- Flessibile: può stare in piedi, aggrappato o avvolto, le gambe avvolgibili permettono di fissare lattrezzatura fotografica professionale praticamente su qualsiasi superficie
 - Kit Joby JB91507-BWW GorillaPod 3.K, nero/grigio antracite, materiali: plastica ABS, alluminio, acciaio inossidabile, TPE
+- Flessibile: può stare in piedi, aggrappato o avvolto, le gambe avvolgibili permettono di fissare lattrezzatura fotografica professionale praticamente su qualsiasi superficie
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C81TNMP4{{</world>}}

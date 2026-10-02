@@ -28,9 +28,9 @@ average: '1.77'
 
 ℹ️:
 
-- Venduto in 1 ogni
-- Da utilizzare con le ampolle 28164
 - Da utilizzare con le ampolle 28163
+- Da utilizzare con le ampolle 28164
+- Venduto in 1 ogni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00F379JKM{{</world>}}

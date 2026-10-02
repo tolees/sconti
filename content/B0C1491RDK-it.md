@@ -28,9 +28,9 @@ average: '6.99'
 
 ℹ️:
 
-- VALVOLA EROGATRICE A 360°: la valvola a 360° consente l’erogazione del prodotto in tutte le posizioni anche con valvola capovolta.
-- PROTEZIONE E PREVENZIONE: formula a base di oli sintetici e additivi antiusura per ridurre fortemente lattrito, penetra, sblocca e protegge in profondità, arresta e previene il formarsi di ruggine.
 - LUBRIFICANTE E SBLOCCANTE: Lubrifica e sblocca, elimina cigolii, protegge dallumidità, pulisce da ruggine, colla, grasso e catrame, lucida metalli e cromature.
+- PROTEZIONE E PREVENZIONE: formula a base di oli sintetici e additivi antiusura per ridurre fortemente lattrito, penetra, sblocca e protegge in profondità, arresta e previene il formarsi di ruggine.
+- VALVOLA EROGATRICE A 360°: la valvola a 360° consente l’erogazione del prodotto in tutte le posizioni anche con valvola capovolta.
 - LIMITED EDITION: prodotto ufficale del Giro DItalia 2023, studiato per risolvere problemi di sbloccaggio, lubrificazione, protezione e detersione di tutte le superfici metalliche in casa, auto, fai da te e durante ogni genere di lavoro.
 - ALTA QUALITÀ MADE IN ITALY: L’intero prodotto è realizzato in Italia e garantisce performance eccellenti e qualità professionale.
 

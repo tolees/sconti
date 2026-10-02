@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Gambo fisso
 - Lama in acciaio inossidabile
 - 1 Regolazione
+- Gambo fisso
 - Gancio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

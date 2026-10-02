@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Suola in gomma flessibile
 - Skechers Soletta comfort imbottita in memory foam
+- Suola in gomma flessibile
 - Jogger retrò con lacci sul davanti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

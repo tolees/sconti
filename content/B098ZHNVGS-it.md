@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- ITALA PILSEN: la Pils di Puro Malto non pastorizzata che proviene dal cuore di Padova, Veneto. Birra dal colore biondo dorato, da servire a 7-8°C
-- FORMATO: cassa di birra con 24 bottiglie da 33 cl
 - NON PASTORIZZATA: le basse temperature a cui viene mantenuta durante il processo produttivo le permettono di conservare intatti gli aromi e i gusti degli ingredienti accuratamente selezionati
 - GUSTO: autentico, ricco e distintivo, grazie ai luppoli aromatici altamente selezionati
+- FORMATO: cassa di birra con 24 bottiglie da 33 cl
 - GRADAZIONE ALCOLICA: 4.8% Vol
+- ITALA PILSEN: la Pils di Puro Malto non pastorizzata che proviene dal cuore di Padova, Veneto. Birra dal colore biondo dorato, da servire a 7-8°C
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B098ZHNVGS{{</world>}}

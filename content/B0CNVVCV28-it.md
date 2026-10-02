@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Noi siamo contrari ai test sugli animali: cosnova, essence e CATRICE sono certificate sia da PETA Germania che da PETA International.
-- Con profumi fruttati.
-- Formula nutriente con olio di jojoba e vitamina E.
-- Senza acetone, vegano, senza particelle di microplastiche, senza glutine, senza parabeni, senza nanoparticelle.
 - Set di 5 oli lucidalabbra Juicy Bomb per una finitura particolarmente brillante.
+- Senza acetone, vegano, senza particelle di microplastiche, senza glutine, senza parabeni, senza nanoparticelle.
+- Formula nutriente con olio di jojoba e vitamina E.
+- Con profumi fruttati.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CNVVCV28{{</world>}}

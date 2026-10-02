@@ -28,9 +28,9 @@ average: '51.245'
 
 ℹ️:
 
-- Portabottiglie laterale
 - EK30Y, 30 anni
 - Custodia imbottita per laptop per la maggior parte dei dispositivi da 17 pollici
+- Portabottiglie laterale
 - Tessuto idrorepellente
 - Dimensioni della cabina per la maggior parte delle principali compagnie aeree
 

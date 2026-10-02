@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Profilo sensoriale olfatto: al naso è caratterizzato da note di ginepro, genepì e pino
 - Come gustarlo: ideale per preparare un Gin Tonic con una decorazione di mirtillo rosso e un rametto di rosmarino
-- Kyrö Gin è un gin finlandese prodotto con segale finlandese e composto in maggioranza da botaniche autoctone coltivate o selvatiche
-- Metodo di produzione: prodotto distillato con segale a cui vengono aggiunte 16 botaniche a secco e 4 appena distillate
 - Profilo sensoriale gusto: al palato pepe, noce moscata e garofano rendono la bocca speziata con un finale aromatizzato da verbena, salvia e litchi
+- Profilo sensoriale olfatto: al naso è caratterizzato da note di ginepro, genepì e pino
+- Metodo di produzione: prodotto distillato con segale a cui vengono aggiunte 16 botaniche a secco e 4 appena distillate
+- Kyrö Gin è un gin finlandese prodotto con segale finlandese e composto in maggioranza da botaniche autoctone coltivate o selvatiche
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00NFJCU6A{{</world>}}

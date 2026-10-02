@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Edifier G1000 II Casse per Computer Gaming RGB Dinamiche Nero'
-date: 2026-09-29 12:40:57
+date: 2026-10-01 09:37:16
 image: 'https://m.media-amazon.com/images/I/41tcoflbhAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

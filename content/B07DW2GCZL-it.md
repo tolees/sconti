@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Glorious GWR-75 Compact Keyboard Wrist Rest - Black'
-date: 2026-09-25 06:38:57
+date: 2026-09-29 19:08:07
 image: 'https://m.media-amazon.com/images/I/31fHfwA1ydL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- [Trattamento dalla testa ai piedi] Tratta gambe, braccia, petto, schiena, viso, ascelle e persino le zone intime con testine dedicate
-- [Delicato sulla pelle] Confortevole e praticamente indolore anche nelle zone sensibili grazie alle 3 modalità di intensità. Con filtro UV integrato
 - [La Luce Pulsata più veloce di Braun] Evita le sedute laser dallestetista, trattamento completo in soli 10 minuti nel comfort di casa
 - [2 anni di pelle liscia] Risultati visibili in 2 sedute (seguendo il regime di trattamento. I risultati individuali possono variare)
+- [Trattamento dalla testa ai piedi] Tratta gambe, braccia, petto, schiena, viso, ascelle e persino le zone intime con testine dedicate
+- [Delicato sulla pelle] Confortevole e praticamente indolore anche nelle zone sensibili grazie alle 3 modalità di intensità. Con filtro UV integrato
 - [5 anni di garanzia] Progettato in Germania e prodotto nel Regno Unito (si applicano i T&C su Braun.com)
 - [Trattamento sicuro, dermatologicamente testato] La Luce Pulsata adatta automaticamente e continuamente ogni flash alla tonalità della tua pelle con il sensore Smart SkinProtect
 

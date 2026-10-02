@@ -28,8 +28,8 @@ average: '40.0'
 
 ℹ️:
 
-- Offre un comfort ottimale
 - Con tessuto leggero e traspirante
+- Offre un comfort ottimale
 - Dispone di tasche
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

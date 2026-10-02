@@ -28,10 +28,10 @@ average: '3.79'
 
 ℹ️:
 
-- Ideale per essere aggiunto al tè, a prodotti da forno o mescolato con le tue formule preferite
 - Questa formula in polvere senza aroma è ideale da miscelare con i frullati
-- Appositamente formulato con foglie intere e matcha coltivato allombra
+- Ideale per essere aggiunto al tè, a prodotti da forno o mescolato con le tue formule preferite
 - Arricchito conl 22% di proteine per porzione
+- Appositamente formulato con foglie intere e matcha coltivato allombra
 - Unottima fonte di tè verde matcha puro al 100% in una formula avanzata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Mantiene la corretta idratazione delle mani
 - Adatto per tutta la famiglia
+- Mantiene la corretta idratazione delle mani
 - Rispetta il pH della pelle
 - Con antibatterico
 

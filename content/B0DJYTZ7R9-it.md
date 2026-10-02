@@ -29,14 +29,14 @@ average: '121.99'
 ℹ️:
 
 - Polsini regolabili.
-- Cappuccio rimovibile.
-- Isolamento Thermarator in 100% poliestere riciclato.
-- Orlo regolabile con coulisse.
 - Tasca sul petto con cerniera.
+- Isolamento Thermarator in 100% poliestere riciclato.
+- Repellenza avanzata Omni-Shield.
+- Orlo regolabile con coulisse.
 - Tessuto impermeabile.
 - Tasche a doppio ingresso con chiusura a zip.
 - Omni-Heat Infinity Advanced Thermal Reflective.
-- Repellenza avanzata Omni-Shield.
+- Cappuccio rimovibile.
 - Cappuccio regolabile con coulisse.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ average: '37.0'
 
 ℹ️:
 
-- Corpo in alluminio, diffusore in PMMA smerigliato
-- Questo prodotto è un apparato di illuminazione che può essere smontato per controllare separatamente le fonti di illuminazione presenti al suo interno
-- Disponibile in forma quadrata e rettangolare
-- Emissione luminosa omogenea
-- Apparecchio da soffitto con tecnologia LED avanzata
 - Temperatura di colore: 3.000 K
+- Emissione luminosa omogenea
+- Corpo in alluminio, diffusore in PMMA smerigliato
+- Disponibile in forma quadrata e rettangolare
+- Questo prodotto è un apparato di illuminazione che può essere smontato per controllare separatamente le fonti di illuminazione presenti al suo interno
+- Apparecchio da soffitto con tecnologia LED avanzata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08KGB39LY{{</world>}}

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Finitura Superiore : Con Bretelle
-- Dimensione : 140 x 290 cm
-- Finitura Inferiore: Orlo a giorno
 - Tessuto jacquard
+- Finitura Superiore : Con Bretelle
+- Finitura Inferiore: Orlo a giorno
+- Dimensione : 140 x 290 cm
 - Composizione : 100% Poliestere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ average: '9.49'
 
 ℹ️:
 
-- che lo rendono un prodotto naturale ricco di profumi e capace di conservare inalterate tutte le proprietà salutari dei suoi ingredienti. Poco alcolico (16
 - Cynar è un amaro a base di foglie di carciofo. Il suo gusto inconfondibile è arricchito da un infuso di 13 erbe e piante
+- che lo rendono un prodotto naturale ricco di profumi e capace di conservare inalterate tutte le proprietà salutari dei suoi ingredienti. Poco alcolico (16
 - 5°) Cynar è lamaro ideale per rallentare il ritmo della vita frenetica di oggi.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

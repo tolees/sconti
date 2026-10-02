@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips OneBlade Original 360 - Testine di ricambio per rasoio elettrico OneBlade e Pro originali Philips 4 lame singole fornitura per 16 mesi QP440/60'
-date: 2026-09-26 19:18:15
+date: 2026-10-01 00:58:24
 image: 'https://m.media-amazon.com/images/I/41qAnMjrbbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0H294WYY1/?tag=tolees00-21'
 descuento: '27.09'
-average: '34.99'
+average: '37.054'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

@@ -28,8 +28,8 @@ average: '14.18'
 
 ℹ️:
 
-- Vestibilità fluida e comoda
 - Un brand Amazon
+- Vestibilità fluida e comoda
 - Si prega di notare che la taglia indicata sulletichetta di questo capo corrisponde alla taglia US. Si prega di utilizzare la tabella sulle taglie nella pagina con dettagli del prodotto per trovare la taglia equivalente
 - Pile di French Terry comodo e morbido
 

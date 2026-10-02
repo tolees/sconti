@@ -28,9 +28,9 @@ average: '13.09'
 
 ℹ️:
 
-- Giocatori: 2 - 6
 - Durata: 10 minuti
 - Anni: 6 - 99
+- Giocatori: 2 - 6
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07JHP9NKV{{</world>}}

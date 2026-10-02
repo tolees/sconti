@@ -30,9 +30,9 @@ average: '11.19'
 
 - Conservabilità: 24 mesi dalla data di produzione. Modalità di conservazione: conservare in un luogo fresco e asciutto, lontano da fonti di calore e umidità
 - Questo caffè in grani nasce da una torrefazione lenta che gli conferisce un gusto leggero e piacevole. La confezione sottovuoto conserva il caffè fresco e fragrante
-- Un gusto delicato, racchiuso da una crema fine e persistente, con note di cioccolato, malto, liquirizia, frutta a guscio e caramello
 - La miscela Anticabottega è un caffè dallaroma delicato, nato da una tostatura lenta che dona un gusto leggero chi ama il gusto del caffè tipico della tradizione italiana
 - La Miscela Oro Antica Bottega è composta prevalentemente da caffè di origine Arabica e Robusta dall’aroma delicato, ottenuto da una selezione di pregiate varietà centro americane
+- Un gusto delicato, racchiuso da una crema fine e persistente, con note di cioccolato, malto, liquirizia, frutta a guscio e caramello
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B003SNJBLK{{</world>}}

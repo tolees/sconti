@@ -28,9 +28,9 @@ average: '20.0'
 
 ℹ️:
 
-- Colletto rovesciato
 - Vestibilità aderente, taglio aderente
 - Giacca classica da donna in denim della marca. Only
+- Colletto rovesciato
 - Chiusura con bottoni
 - Denim elasticizzato
 

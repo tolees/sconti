@@ -28,16 +28,16 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Potenza massima prelevabile con Cavo completamente avvolto 1500 W 230 V, con Cavo completamente svolto 3200 W 230 V
 - Maniglia ergonomica e clip fermacavo
 - Spina (grande) standard italiano 16a, tipo l a 3 poli
-- Disgiuntore termico di protezione contro il sovraccarico
-- Progettato e prodotto in conformità alla norma CEI EN 61242 relativa alla sicurezza elettrica
-- Cavo in PVC con spina 2P+T 16 a (S17)
-- Istruzioni e tutorial su faidate.Vimar
 - Vimar 0P32730 avvolgicavo 2P+T 16 a 230 V con disgiuntore termico di protezione, 4 prese SICURY 2P+T 16 a universali standard italiano P40, spina 2P+T 16 a standard italiano tipo S17, cavo H05VV-F 3g1, 5 mm2 15 metri - potenza massima prelevabile con Cavo completamente avvolto 1500 W 230 V, con Cavo completamente svolto 3200 W 230 V
 - Maniglia di riavvolgimento manuale del cavo
+- Potenza massima prelevabile con Cavo completamente avvolto 1500 W 230 V, con Cavo completamente svolto 3200 W 230 V
+- Istruzioni e tutorial su faidate.Vimar
+- Progettato e prodotto in conformità alla norma CEI EN 61242 relativa alla sicurezza elettrica
+- Cavo in PVC con spina 2P+T 16 a (S17)
 - 4 prese universali con otturatore di protezione SICURY
+- Disgiuntore termico di protezione contro il sovraccarico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00OM8MNKQ{{</world>}}

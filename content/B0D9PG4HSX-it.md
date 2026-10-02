@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Progettato per i fan: set ricco di oggetti da collezione e funzionalità nascoste per unesperienza di costruzione autentica
-- Primo amico: include ladorabile Dogmeat con sciarpa rimovibile
 - Luogo iconico in mattoncini: set da costruire da collezione della stazione di servizio Red Rocket del celebre gioco Fallout 4
 - Esponilo con orgoglio: questo strabiliante set è ideale per i collezionisti ed è perfetto da esporre sul tuo scaffale
+- Progettato per i fan: set ricco di oggetti da collezione e funzionalità nascoste per unesperienza di costruzione autentica
+- Primo amico: include ladorabile Dogmeat con sciarpa rimovibile
 - Personaggio snodato incluso: personaggio snodato dellUnico sopravvissuto con larmatura atomica T-60 intercambiabile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

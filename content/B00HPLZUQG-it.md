@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Si assembla senza luso di colla!
-- 216 pezzi
 - Dimensioni finali: 34 x 34 x 24,2 cm
+- 216 pezzi
 - Ravensburger 3D puzzle Building
+- Si assembla senza luso di colla!
 - Interamente fabbricato in Europa!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

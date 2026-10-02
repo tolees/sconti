@@ -29,10 +29,10 @@ average: '1.4'
 ℹ️:
 
 - 1 COMPRESSA= 0,15 KCAL: Dolcifica come un cucchiaino di zucchero. Utile in una dieta ipocalorica
-- NELLA DIETA: dolcifica le bevande calde e fredde, riduci lapporto calorico nella tua alimentazione
+- SENZA GLUTINE: il dolcificante ipocalorico non contiene glutine, adatto anche ai celiaci attenti alla propria forma fisica, per un sano stile di vita
 - PRATICO: comodo astuccio da portare con sè, per non rinunciare ad un apporto calorico controllato anche fuori casa
 - MINI ASTUCCIO, MAXI FORMATO: 300 compresse di dolcificante, sempre con te
-- SENZA GLUTINE: il dolcificante ipocalorico non contiene glutine, adatto anche ai celiaci attenti alla propria forma fisica, per un sano stile di vita
+- NELLA DIETA: dolcifica le bevande calde e fredde, riduci lapporto calorico nella tua alimentazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07R9P7W7Z{{</world>}}

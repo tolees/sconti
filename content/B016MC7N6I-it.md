@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Struttura in acciaio cromato e piede in alluminio pressofuso lucidato
-- Dimensioni: 20 ÷ 100 x 69 x 54 cm
-- Peso: 9.7 Kg
 - Piano in Poliuretano verniciato opaco o laccato in poliestere
 - Design: Antonio Citterio, 1991
+- Struttura in acciaio cromato e piede in alluminio pressofuso lucidato
+- Peso: 9.7 Kg
+- Dimensioni: 20 ÷ 100 x 69 x 54 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B016MC7N6I{{</world>}}

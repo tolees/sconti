@@ -29,8 +29,8 @@ average: '5.6'
 ℹ️:
 
 - Formato 150 ml
-- 100% cosmesi naturale
 - 80% ingredienti vegetali certificati bio
+- 100% cosmesi naturale
 - Con estratti di lime
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

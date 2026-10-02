@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Materiale: alluminio di livello industriale con scheda sensore; vetro rinforzato per rilevatori di movimento bianco caldo da 50 W che garantiscono un uso professionale
 - Design: potente proiettore LED da 50 W con tecnologia di sensori intelligenti in bianco caldo 3000 K; rilevamento avanzato del movimento per grandi aree industriali e parcheggi
-- Efficienza: massimizzazione dellefficienza industriale tramite sensore di ampia area; il sistema bianco caldo da 50 W riduce i costi energetici negli impianti di produzione
-- Questo prodotto è un prodotto di illuminazione. I prodotti di illuminazione sono apparecchi che possono essere smontati per verificare separatamente la o le sorgenti luminose che contengono. Questo prodotto contiene una sorgente luminosa di classe energetica F
 - Applicazione: potente per impianti di produzione; proiettore industriale bianco caldo da 50 W con sensore per il monitoraggio di capannoni di produzione e impianti esterni
+- Questo prodotto è un prodotto di illuminazione. I prodotti di illuminazione sono apparecchi che possono essere smontati per verificare separatamente la o le sorgenti luminose che contengono. Questo prodotto contiene una sorgente luminosa di classe energetica F
+- Materiale: alluminio di livello industriale con scheda sensore; vetro rinforzato per rilevatori di movimento bianco caldo da 50 W che garantiscono un uso professionale
+- Efficienza: massimizzazione dellefficienza industriale tramite sensore di ampia area; il sistema bianco caldo da 50 W riduce i costi energetici negli impianti di produzione
 - Funzione: sensore industriale da 5000 lumen con ampio raggio di rilevamento; bianco caldo 3000K a 50W per applicazioni professionali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

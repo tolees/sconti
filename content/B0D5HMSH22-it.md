@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Vestibilità comoda
 - Per chi ama il vintage: abbiamo scelto la tintura in capo per donare un irresistibile effetto vissuto
 - Un capo ottimamente versatile
-- Vestibilità comoda
 - In morbido pile spazzolato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

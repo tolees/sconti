@@ -28,9 +28,9 @@ average: '6.425'
 
 ℹ️:
 
-- Rispetta le regole di produzione
-- Pile per dispositivi ad alto consumo di energia High Energy
 - Confezione 8+4 batterie
+- Pile per dispositivi ad alto consumo di energia High Energy
+- Rispetta le regole di produzione
 - Marchio: Varta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

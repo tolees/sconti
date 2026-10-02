@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Visita il sito Nestlé per scoprire come le nostre marche sono scese in campo e contribuiscono al raggiungimento degli obiettivi di sostenibilità del Gruppo Nestlé con progetti concreti
+- Le barrette FITNESS Fiber sono senza zuccheri aggiunti. Contengono naturalmente zuccheri
+- Frumento e avena 100% integrali
+- Deliziose barrette di cereali integrali FITNESS con goloso cioccolato fondente
 - Confezione da 24 barrette da 20g ciascuna: 480g totali
 - Le barrette di cereali integrali FITNESS sono ricche di fibre. Contengono vitamine, calcio e ferro. Solo aromi naturali e nessun colorante
-- Deliziose barrette di cereali integrali FITNESS con goloso cioccolato fondente
-- Le barrette FITNESS Fiber sono senza zuccheri aggiunti. Contengono naturalmente zuccheri
-- Visita il sito Nestlé per scoprire come le nostre marche sono scese in campo e contribuiscono al raggiungimento degli obiettivi di sostenibilità del Gruppo Nestlé con progetti concreti
-- Frumento e avena 100% integrali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01CP84IQG{{</world>}}

@@ -28,12 +28,12 @@ average: '5.80166666666667'
 
 ℹ️:
 
-- PRODOTTO ETICAMENTE - Vegano e contro i test sugli animali
-- Contiene vitamina C
 - senza SPF
 - Flacone 100% riciclato
-- Profumazione tropicale
+- Contiene vitamina C
+- PRODOTTO ETICAMENTE - Vegano e contro i test sugli animali
 - per unabbronzatura meravigliosa
+- Profumazione tropicale
 - Olio abbronzante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

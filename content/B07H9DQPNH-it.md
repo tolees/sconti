@@ -28,9 +28,9 @@ average: '12.9'
 
 ℹ️:
 
-- Secret de Gourmet - Scatola biscottata in rilievo
-- Modello: nero
 - Materiale: ferro, stagno. Dimensioni: L. 18 x l. 10 x H. 24.5 cm - Peso: 0.33 kg
+- Modello: nero
+- Secret de Gourmet - Scatola biscottata in rilievo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07H9DQPNH{{</world>}}

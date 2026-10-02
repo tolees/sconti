@@ -28,9 +28,9 @@ average: '33.59'
 
 ℹ️:
 
-- Fodera in tessuto
-- Intersuola in EVA
 - Sottopiede in schiuma imbottito
+- Intersuola in EVA
+- Fodera in tessuto
 - Tomaia in suede e nylon
 - Chiusura con lacci
 

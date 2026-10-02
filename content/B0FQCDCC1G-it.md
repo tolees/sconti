@@ -28,11 +28,11 @@ average: '46.7'
 
 ℹ️:
 
-- PROGRAMMAZIONE: Funzione cronotermostato per la programmazione settimanale personalizzata del riscaldamento
-- DISPLAY LED: Schermo touch screen con display retroilluminato per una facile lettura e controllo intuitivo
 - INSTALLAZIONE: Design modulare da 2 moduli, compatibile con supporti Bticino Matix, alimentazione 230V
-- INTERFACCIA: Display digitale con indicatori per WiFi, temperatura, stato di funzionamento e impostazioni
 - CONTROLLO SMART: Termostato WiFi compatibile con app Tuya / Smart Life per il controllo remoto della temperatura da smartphone
+- DISPLAY LED: Schermo touch screen con display retroilluminato per una facile lettura e controllo intuitivo
+- INTERFACCIA: Display digitale con indicatori per WiFi, temperatura, stato di funzionamento e impostazioni
+- PROGRAMMAZIONE: Funzione cronotermostato per la programmazione settimanale personalizzata del riscaldamento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FQCDCC1G{{</world>}}

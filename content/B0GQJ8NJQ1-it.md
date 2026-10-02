@@ -29,10 +29,10 @@ average: '30.5'
 ℹ️:
 
 - La forma ellittica crea una vasta pozza di fusione per un rilascio di fragranza potenziato.
-- Presenta lo stoppino in legno caratteristico di WoodWick che crepita dolcemente mentre brucia.
-- Una candela di alta qualità che è un regalo perfetto per donne in qualsiasi occasione.
 - Ideale per creare unatmosfera tranquilla e ispirata alla costa nella tua casa.
+- Presenta lo stoppino in legno caratteristico di WoodWick che crepita dolcemente mentre brucia.
 - La trilogia curata Driftwood Shores mescola le note aldeidiche di Sea Spray, le fragranze di salvia bianca di Sagewood & Seagrass e le note di sandalo di White Teak per creare una tranquilla fuga durante la bassa marea.
+- Una candela di alta qualità che è un regalo perfetto per donne in qualsiasi occasione.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GQJ8NJQ1{{</world>}}

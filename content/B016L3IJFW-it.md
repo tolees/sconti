@@ -30,9 +30,9 @@ average: '81.95'
 
 - Pulizia veloce ed efficace, senza detersivi, solo acqua di rubinetto; Versatile e pratico da usare per una pulizia completa della casa
 - Regolazione vapore fino a 85 g/min
-- Caldaia ad alta pressione fino a 3 bar, tecnologia con tappo di sicurezza, capacità caldaia 1.6 l
 - 12 Accessori in dotazione per la pulizia di tutte le superfici
 - Facile da usare, compatto e maneggevole, accessori sempre a portata di mano
+- Caldaia ad alta pressione fino a 3 bar, tecnologia con tappo di sicurezza, capacità caldaia 1.6 l
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B016L3IJFW{{</world>}}

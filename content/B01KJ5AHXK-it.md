@@ -28,10 +28,10 @@ average: '99.99'
 
 ℹ️:
 
-- Supporta il montaggio su scrivania, a parete con standard VESA o su rack
-- 24 porte Gigabit Ethernet
 - Semplice configurazione plug-and-play senza necessità di installare software o aggiungere configurazioni
+- Supporta il montaggio su scrivania, a parete con standard VESA o su rack
 - Funzionamento silenzioso
+- 24 porte Gigabit Ethernet
 - Design ad alta efficienza energetica conforme a IEEE802.3az
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

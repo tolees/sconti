@@ -28,11 +28,11 @@ average: '20.0'
 
 ℹ️:
 
+- Fodera in tessuto
 - Suola in gomma non-marking
 - Calzata regolare
-- Fodera in tessuto
-- Tomaia in similpelle
 - Chiusura con lacci
+- Tomaia in similpelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B31PDMJS{{</world>}}

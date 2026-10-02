@@ -28,11 +28,11 @@ average: '91.0'
 
 ℹ️:
 
-- Tomaia: Nubuck
-- Colore: Marrone
 - Sottopiede: Sottopiede in PU
 - Fodera: 45% Poliestere riciclato 34% Pelle 21% Pelle
+- Tomaia: Nubuck
 - Suola/Caratteristiche: TPU; Lacci elastici
+- Colore: Marrone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00123WBGA{{</world>}}

@@ -28,14 +28,14 @@ average: '319.0'
 
 ℹ️:
 
-- Include DJI Lito 1, il radiocomando DJI RC-N3 e due batterie per unampia autonomia di volo e tanto divertimento.
-- Tempo di volo prolungato [5] - Goditi una lunga durata di volo per sessioni creative ininterrotte, che ti permette di esplorare e catturare di più a ogni decollo.
-- Rilevamento omnidirezionale degli ostacoli [1] - Il sistema di visione omnidirezionale aiuta il drone a rilevare ed evitare gli ostacoli [1], supportando un volo sicuro per i principianti.
-- Trasmissione video stabile - Sperimenta una trasmissione video fluida e affidabile fino a 15 km [7], garantendo immagini nitide e una connettività costante per il volo a distanza.
 - A causa di problemi di compatibilità della piattaforma, l’app DJI Fly è stata rimossa da Google Play. Visita il sito web ufficiale DJI per scaricare il manuale utente e l’ultima versione dell’app DJI Fly per una migliore esperienza.
-- Video 4K [3] e immagini 8K [4] - Registra straordinari video 4K [3] e cattura nitide foto 8K [4] per immagini mozzafiato, ideali per i creatori che cercano contenuti ad alta risoluzione.
+- Rilevamento omnidirezionale degli ostacoli [1] - Il sistema di visione omnidirezionale aiuta il drone a rilevare ed evitare gli ostacoli [1], supportando un volo sicuro per i principianti.
+- Tempo di volo prolungato [5] - Goditi una lunga durata di volo per sessioni creative ininterrotte, che ti permette di esplorare e catturare di più a ogni decollo.
 - Riprese impressionanti senza sforzo - ActiveTrack [2] consente un tracciamento fluido del soggetto, permettendo al drone di acquisire filmati di alta qualità con movimenti precisi.
 - Leggero e certificato C0 - Con un peso inferiore a 249 g [6], questo drone compatto è facile da trasportare, ideale per i viaggi e per la fotografia aerea spontanea.
+- Include DJI Lito 1, il radiocomando DJI RC-N3 e due batterie per unampia autonomia di volo e tanto divertimento.
+- Video 4K [3] e immagini 8K [4] - Registra straordinari video 4K [3] e cattura nitide foto 8K [4] per immagini mozzafiato, ideali per i creatori che cercano contenuti ad alta risoluzione.
+- Trasmissione video stabile - Sperimenta una trasmissione video fluida e affidabile fino a 15 km [7], garantendo immagini nitide e una connettività costante per il volo a distanza.
 - Consulta le normative locali prima di volare di notte. In alcuni paesi o regioni, potrebbero essere richiesti permessi pertinenti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

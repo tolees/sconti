@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Testa del cricchetto orientabile con 5 posizioni di blocco predefinite
+- Dentatura fine con 72 denti
 - Angolo di richiamo ridotto di soli 5°
 - Manicotto flottante per velocizzare il lavoro
-- Dentatura fine con 72 denti
+- Testa del cricchetto orientabile con 5 posizioni di blocco predefinite
 - Con il trova-utensili "take it easy" con codice cromatico per le diverse misure
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

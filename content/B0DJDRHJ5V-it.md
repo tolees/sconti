@@ -28,8 +28,8 @@ average: '9.52'
 
 ℹ️:
 
-- Il tessuto dryCELL leggero e traspirante è progettato per prestazioni ottimali
 - Questa t-shirt offre libertà di movimento
+- Il tessuto dryCELL leggero e traspirante è progettato per prestazioni ottimali
 - Vestibilità e lunghezza regolari
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

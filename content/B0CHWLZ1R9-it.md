@@ -28,8 +28,8 @@ average: '16.61'
 
 ℹ️:
 
-- Leffe Winter, la nuove edizione limitata di Leffe
 - Leffe Winter, perfetta per essere gustata a tavola con amici e familiari
+- Leffe Winter, la nuove edizione limitata di Leffe
 - Un perfetto equilibrio tra dolcezza fruttata e note speziate natalizie
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

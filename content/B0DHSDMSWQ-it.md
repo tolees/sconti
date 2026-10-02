@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars Grogu e carrozzina 75403'
-date: 2026-09-27 09:17:55
+date: 2026-10-01 06:54:21
 image: 'https://m.media-amazon.com/images/I/51bABI2WgaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0DHSDMSWQ/?tag=tolees00-21'
 descuento: '20.00'
-average: '75.3147826086957'
+average: '75.5095833333334'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

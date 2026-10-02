@@ -28,15 +28,15 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Anti-imperfezioni
-- Purifica i pori in profondità
-- RESTRINGE E IGIENIZZA I PORI: Libera i pori in profondità, lasciando la pelle purificata
-- ANTI-IMPERFEZIONI: Aiuta a contrastare le imperfezioni e leccesso di sebo
-- Anti-imperfezioni
-- AZIONE SEBO-REGOLATRICE: Arricchito con Zinco purificante, noto per il suo potere sebo-regolatore (anti-sebo)
-- FORMULA CON ACIDO SALICILICO: Sfrutta le proprietà antibatteriche dellacido salicilico per unazione mirata
 - DUPLICE AZIONE PURIFICANTE: Elimina le impurità per una pelle pulita e fresca
 - Anti-sebo
+- RESTRINGE E IGIENIZZA I PORI: Libera i pori in profondità, lasciando la pelle purificata
+- Anti-imperfezioni
+- Purifica i pori in profondità
+- ANTI-IMPERFEZIONI: Aiuta a contrastare le imperfezioni e leccesso di sebo
+- FORMULA CON ACIDO SALICILICO: Sfrutta le proprietà antibatteriche dellacido salicilico per unazione mirata
+- Anti-imperfezioni
+- AZIONE SEBO-REGOLATRICE: Arricchito con Zinco purificante, noto per il suo potere sebo-regolatore (anti-sebo)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00DZQ0IQW{{</world>}}

@@ -29,10 +29,10 @@ average: '11.37'
 ℹ️:
 
 - Con Puro Olio di Glicerina, studiato per restituire alla pelle la sua naturale idratazione e proteggerla ogni giorno
-- Formato 600ml
-- Flacono in plastica 100% riciclata
 - Dermatologicamente testato su bambini in età pediatrica da 3 anni in su, ideale anche per le pelli più delicate e sensibili e per l’igiene quotidiana dei bambini
 - Formula dermotestata, senza sapone e a pH fisiologico, studiata per le pelli normali
+- Formato 600ml
+- Flacono in plastica 100% riciclata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GXWN9685{{</world>}}

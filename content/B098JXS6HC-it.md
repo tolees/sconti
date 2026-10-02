@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Compatto, leggero ed ergonomico per lavorare in comodità e forare senza fatica nella muratura fino a 13 mm e nel legno fino a 25 mm
-- Mandrino autoserrante a doppia bussola, per sostituire la punta in modo semplice e veloce
 - Dotazione: EasyImpact 630, valigetta
-- Levetta di regolazione elettronica per gestire il numero di giri durante la foratura
 - La linea Easy Bosch – un comodo aiuto in tutti i tuoi progetti
+- Mandrino autoserrante a doppia bussola, per sostituire la punta in modo semplice e veloce
+- Levetta di regolazione elettronica per gestire il numero di giri durante la foratura
+- Compatto, leggero ed ergonomico per lavorare in comodità e forare senza fatica nella muratura fino a 13 mm e nel legno fino a 25 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B098JXS6HC{{</world>}}

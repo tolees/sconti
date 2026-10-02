@@ -28,16 +28,16 @@ average: '85.06'
 
 ℹ️:
 
-- Doppia resistenza per una cottura più veloce ed uniforme - superiore 1800W e inferiore 350W
+- Display digitale con 10 programmi preimpostati, funzioni scongelamento e partenza ritardata
+- Timer 60 minuti
 - Capacità 9 litri (fino a 2400g)
 - Temperatura regolabile (80° - 200°C)
-- Piedini antiscivolo
 - Potenza: 2200W
-- Display digitale con 10 programmi preimpostati, funzioni scongelamento e partenza ritardata
-- Dimensioni (mm): 325 x 350 x 420
+- Doppia resistenza per una cottura più veloce ed uniforme - superiore 1800W e inferiore 350W
 - Contenitore e vassoio antiaderenti, finestra e luce interna
+- Dimensioni (mm): 325 x 350 x 420
 - Alimentazione: AC 220-240V ~ 50-60Hz
-- Timer 60 minuti
+- Piedini antiscivolo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DX75DF91{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pan di Stelle Crema Spalmabile di Cacao 380 g'
-date: 2026-09-25 06:23:00
+date: 2026-09-30 00:27:11
 image: 'https://m.media-amazon.com/images/I/41nPW6L6Z0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B09R4XPKZZ/?tag=tolees00-21'
 descuento: '51.82'
-average: '2.40636363636363'
+average: '2.34230769230769'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

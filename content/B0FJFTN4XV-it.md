@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Una storia non lineare con una varietà di diramazioni che conducono a finali diversi
 - Una grafica di nuova generazione, sviluppata con innovative tecniche di fotogrammetria e scansione
+- Una storia non lineare con una varietà di diramazioni che conducono a finali diversi
 - Un gameplay unico basato su un mix tra FPS, horror e simulazione immersiva
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

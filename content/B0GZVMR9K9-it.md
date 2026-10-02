@@ -28,11 +28,11 @@ average: '19.95'
 
 ℹ️:
 
+- POLASE PLUS CARNITINA è un integratore alimentare, scientificamente formulato, utile come supporto all’organismo in caso di stanchezza e fatica fisica. POLASE PLUS CARNITINA contiene sali minerali organici, Magnesio e Potassio.
 - POLASE PLUS CARNITINA è senza zuccheri.
 - Il Magnesio contribuisce alla riduzione di stanchezza e fatica e al normale metabolismo energetico, inoltre aiuta a ripristinare l’equilibrio elettrolitico.
-- Il Potassio supporta la normale funzione muscolare e il mantenimento di una normale pressione sanguigna.
-- POLASE PLUS CARNITINA è un integratore alimentare, scientificamente formulato, utile come supporto all’organismo in caso di stanchezza e fatica fisica. POLASE PLUS CARNITINA contiene sali minerali organici, Magnesio e Potassio.
 - L-carnitina, derivato aminoacidico e Aminoacidi, Acido L-aspartico e Taurina.
+- Il Potassio supporta la normale funzione muscolare e il mantenimento di una normale pressione sanguigna.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GZVMR9K9{{</world>}}

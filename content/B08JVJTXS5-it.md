@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Prostamol Integratore Prostata e Vie Urinarie con Serenoa repens 90 caps'
-date: 2026-09-25 09:05:26
+date: 2026-09-29 20:32:59
 image: 'https://m.media-amazon.com/images/I/415n-gI9WpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B08JVJTXS5/?tag=tolees00-21'
 descuento: '49.54'
-average: '32.7390909090909'
+average: '32.1192307692307'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

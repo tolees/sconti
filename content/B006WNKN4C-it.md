@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- DEVI GUADAGNARTI TUTTO. Inizi il gioco senza equipaggiamenti, né pepite doro; sarai così abile da guadagnarteli con le tue stesse mani?
 - POTENZIA IL TUO PERSONAGGIO. Danneggia i tuoi avversari ed equipaggiati con nuovi potenti armi, per farti largo nella corsa alloro.
 - ATTENZIONA AGLI AVVERSARI. Presta attenzione agli spietati pistoleri ombra! Hanno un solo scopo: farti fuori.
 - ESPANSIONE PER BANG!, il celebre gioco di carte western che ha venduto oltre due milioni di copie nel mondo; per giocare è necessario essere in possesso del gioco base BANG!
-- DEVI GUADAGNARTI TUTTO. Inizi il gioco senza equipaggiamenti, né pepite doro; sarai così abile da guadagnarteli con le tue stesse mani?
 - INCUDE una cascata di pepite doro, la ricompensa per il pistolero più abile.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

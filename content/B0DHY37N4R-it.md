@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Volume: 27,5 L
-- Tasca anteriore con zip
-- Tasche laterali aperte
 - Dimensioni: 15 cm x 31 cm x 44 cm
+- Tasca anteriore con zip
 - Spallacci imbottiti regolabili
+- Tasche laterali aperte
+- Volume: 27,5 L
 - 100% poliestere (riciclato)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

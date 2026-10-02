@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Per acciaio inossidabile, alluminio, cromature, ottone, argento, Oro, ecc
-- Crema lucidante non abrasiva
 - Per vetroresina, gel-coat, plastiche trasparenti, parti verniciate, ecc
+- Crema lucidante non abrasiva
 - Pulisce, lucida e protegge
+- Per acciaio inossidabile, alluminio, cromature, ottone, argento, Oro, ecc
 - Non serve risciacquate
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

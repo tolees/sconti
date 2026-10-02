@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Robusto interruttore a pedale con cavo flessibile di 1.5 m
 - Pratica spia dello stato di commutazione sullinterruttore esterno
-- Pratica spia dello stato di commutazione sullinterruttore esterno
 - Adattatore con interruttore esterno a pedale
+- Pratica spia dello stato di commutazione sullinterruttore esterno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01JIKHVF4{{</world>}}

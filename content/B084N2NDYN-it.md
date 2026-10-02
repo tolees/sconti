@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Manica lunga
+- Casuale
 - Cerniera
 - SCHOTT NYC di qualità dal 1913
-- Casuale
+- Manica lunga
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B084N2NDYN{{</world>}}

@@ -28,13 +28,13 @@ average: '13.99'
 
 ℹ️:
 
-- Alimentazione: AC 220-240V ~ 50/60Hz
 - Dimensione piastre: 22 x 13 cm
-- Spie di funzionamento e di raggiunta temperatura
-- Piastre antiaderenti
-- Piedi di stabilità in materiale antiscivolo
+- Alimentazione: AC 220-240V ~ 50/60Hz
 - Maniglia con chiusura
+- Piedi di stabilità in materiale antiscivolo
+- Spie di funzionamento e di raggiunta temperatura
 - Potenza: 750 W
+- Piastre antiaderenti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07V33VZKG{{</world>}}

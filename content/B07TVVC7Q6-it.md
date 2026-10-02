@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Caviglia
+- Piatto
 - Stringate
 - Sneaker
 - Basso-Top
-- Piatto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07TVVC7Q6{{</world>}}

@@ -28,10 +28,10 @@ average: '71.0'
 
 ℹ️:
 
-- Lunghezza focale regolabile da 10 a 75 cm.
-- Lente macro compatibile con laction cam Insta360 Ace Pro 2.
 - La funzione Focus peaking display mette in evidenza le aree nitide in tempo reale, per una messa a fuoco manuale più rapida e precisa.
+- Lente macro compatibile con laction cam Insta360 Ace Pro 2.
 - Per poter utilizzare tutte le funzioni, aggiorna il firmware della tua videocamera e lapp Insta360 alla versione più recente.
+- Lunghezza focale regolabile da 10 a 75 cm.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FZL955RL{{</world>}}

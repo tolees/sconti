@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Maneggevolezza eccellente: struttura leggera con soli 159 mm di lunghezza della testa e clip da cintura per trasportarlo con facilità
 - Dotazione: GSR 18V-45, 2 batterie da 2.0Ah, caricabatteria GAL 18V-20, inserto L-BOXX per utensile, L-BOXX
-- Per tutti i campi di impiego standard: robusto mandrino in metallo da 13 mm per un eccellente trasferimento della coppia
-- Il nuovo GSR 18-45 con motore brushless, coppia di serraggio massima di 45 Nm e velocità di 1.900 giri/min
+- Maneggevolezza eccellente: struttura leggera con soli 159 mm di lunghezza della testa e clip da cintura per trasportarlo con facilità
 - AMPShare: Le batterie e il caricabatteria sono completamente compatibili con il Bosch Professional 18V System e con molti altri utensili del sistema di batterie condiviso multi-marchio AMPShare
+- Il nuovo GSR 18-45 con motore brushless, coppia di serraggio massima di 45 Nm e velocità di 1.900 giri/min
+- Per tutti i campi di impiego standard: robusto mandrino in metallo da 13 mm per un eccellente trasferimento della coppia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BC94NWVX{{</world>}}

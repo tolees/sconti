@@ -29,9 +29,9 @@ average: '11.88'
 ℹ️:
 
 - Vivi una vera esperienza di gusto... Toblerone, piacere allo stato puro!
-- Toblerone: scopri liconico cioccolato svizzero al latte con miele e torrone alle mandorle!
-- Nato in Svizzera nel 1908 e ancora 100% prodotto nello stabilimento Toblerone di Berna.
 - Contiene 24 monoporzioni da 35 grammi luna (24 x 35g).
+- Nato in Svizzera nel 1908 e ancora 100% prodotto nello stabilimento Toblerone di Berna.
+- Toblerone: scopri liconico cioccolato svizzero al latte con miele e torrone alle mandorle!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01D1QQDPU{{</world>}}

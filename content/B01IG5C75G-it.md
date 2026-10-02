@@ -28,11 +28,11 @@ average: '93.39'
 
 ℹ️:
 
-- Fodera: 100% Poliestere Riciclato
+- Lacci
 - Colore: Marrone
+- Fodera: 100% Poliestere Riciclato
 - Tomaia: Pelle
 - Suola/Caratteristiche: EVA XL EXTRALIGHT 51% riciclato
-- Lacci
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01IG5C75G{{</world>}}

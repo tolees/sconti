@@ -28,8 +28,8 @@ average: '43.57'
 
 ℹ️:
 
-- Pronazione: neutra
 - Marca dellintersuola in pezzo gioiello
+- Pronazione: neutra
 - Gabbia in TPU
 - Ammortizzazione: bassa
 

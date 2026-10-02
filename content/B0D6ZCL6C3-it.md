@@ -29,8 +29,8 @@ average: '17.81'
 ℹ️:
 
 - 90% di proteine provenienti da fonti animali.
-- Senza coloranti artificiali e conservanti aggiunti.
 - Contribuisce a una digestione sana e a un sistema immunitario forte.
+- Senza coloranti artificiali e conservanti aggiunti.
 - 100% ingredienti di alta qualità e una formula speciale per offrire tutto ciò di cui il tuo gatto ha bisogno.
 - Due gusti, doppio sapore per fare ancora più fusa.
 

@@ -28,10 +28,10 @@ average: '9.99'
 
 ℹ️:
 
-- PRONTO DA REGALO: un regalo unico, perfetto da regalare, per feste o serate intime a casa.
 - FACILE DA PREPARARE: metti una bomba in una tazza, versaci dentro 170 ml di latte caldo e mescola per gustarla.
-- 5 GUSTI DECADENTI: Brownie al fudge, caramello, S’mores, biscotti e panna e menta piperita.
 - 24 BOMBE DI CIOCCOLATA CALDA – Include 5 gusti nella caratteristica confezione marrone di BomBombs.
+- 5 GUSTI DECADENTI: Brownie al fudge, caramello, S’mores, biscotti e panna e menta piperita.
+- PRONTO DA REGALO: un regalo unico, perfetto da regalare, per feste o serate intime a casa.
 - RIPIENI DI MINI MARSHMALLOW – I gusci di cioccolato si sciolgono rivelando i marshmallow allinterno.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

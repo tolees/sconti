@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- I profumi sono spesso progettati con note di testa, di cuore e di base
 - Progettati per avere un odore diverso in base al tempo dopo lapplicazione
 - LEau de Toilette contiene tra il 5 e il 9 per cento di olio profumato
-- I profumi sono spesso progettati con note di testa, di cuore e di base
 - Calvin Klein Fragranza Eternity 100 ml
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

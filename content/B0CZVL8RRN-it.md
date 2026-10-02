@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Spalle basse
 - Taglio leggermente corto sul retro
 - Calzata regolare
-- Spalle basse
-- Tasca a marsupio
-- Orli a coste
 - Questo prodotto contiene almeno il 70% di materiali riciclati e rinnovabili
+- Tasca a marsupio
 - Cappuccio regolabile con cordino
+- Orli a coste
 - 55% cotone / 36% poliestere (riciclato) / 9% viscosa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

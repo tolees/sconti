@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Corpo morbido e maltato
 - Ideale da gustare in ogni momento della giornata
-- Gusto equilibrato con note fruttate rinfrescanti
 - Birra chiara analcolica 0,0%
+- Corpo morbido e maltato
+- Gusto equilibrato con note fruttate rinfrescanti
 - Prodotta con ingredienti di qualità e A-Yeast Heineken
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

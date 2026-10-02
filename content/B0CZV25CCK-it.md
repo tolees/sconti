@@ -28,10 +28,10 @@ average: '26.62'
 
 ℹ️:
 
-- Orli a coste
-- Girocollo
-- Spalle basse
 - 55% cotone / 36% poliestere (riciclato) / 9% viscosa
+- Orli a coste
+- Spalle basse
+- Girocollo
 - Calzata regolare
 - Questo prodotto contiene almeno il 70% di materiali riciclati e rinnovabili
 

@@ -29,10 +29,10 @@ average: '22.5'
 ℹ️:
 
 - Ideale per giardino, patio e terrazza – design da tavolo elegante per momenti di relax all’aperto
-- Protezione senza spray o lozioni – repellente inodore e senza DEET che agisce nell’aria, non sulla pelle
-- Contenuto della confezione – Dispositivo + 1 cartuccia da 12 ore + 3 piastrine da 4 ore (12 ore totali)
-- Senza fumo e senza fiamme – sicuro per persone e animali domestici se utilizzato correttamente
 - Zona di protezione di 21 m² – tecnologia a diffusione termica che crea una barriera efficace contro zanzare e moscerini
+- Senza fumo e senza fiamme – sicuro per persone e animali domestici se utilizzato correttamente
+- Contenuto della confezione – Dispositivo + 1 cartuccia da 12 ore + 3 piastrine da 4 ore (12 ore totali)
+- Protezione senza spray o lozioni – repellente inodore e senza DEET che agisce nell’aria, non sulla pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09SVDGB9T{{</world>}}

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- USB Tipo
 - A Maschio
 - A B Maschio
-- USB Tipo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07FMS2MKJ{{</world>}}

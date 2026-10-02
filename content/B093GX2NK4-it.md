@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 5 pezzi in ununità di vendita
 - colore: bianco
+- 5 pezzi in ununità di vendita
 - Formato: C13
 - Buste autosigillanti foderate con bolle
 

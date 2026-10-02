@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- ⚔️ I giocatori dovranno radunare un gruppo di eroi per sterminare pericolosi mostri, cercando nel frattempo di non farsi sabotare dai proprio amici-nemici
+- ⏳Durata media: 30-60 min.
 - 👶Età consigliata: 10+
-- Edizione in lingua italiana
+- 👥Numero di giocatori: 2-6
 - 🌈 Come sempre, i protagonisti hanno solo le sembianze di teneri animaletti magici: in realtà, sanno essere spietati
 - 😈La competizione salirà alle stelle e anche le amicizie più salde rischieranno di essere compromesse
-- ⚔️ I giocatori dovranno radunare un gruppo di eroi per sterminare pericolosi mostri, cercando nel frattempo di non farsi sabotare dai proprio amici-nemici
-- 👥Numero di giocatori: 2-6
+- Edizione in lingua italiana
 - 🦄 Dai creatori di Unstable Unicorns un altro entusiasmante gioco di carte strategico ambientato in un mondo fantasy popolato da unicorni e da altre (solo apparentemente) dolci creature
-- ⏳Durata media: 30-60 min.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08XDCSPYK{{</world>}}

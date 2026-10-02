@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Primo Tessuto: 100% Poliestere(100% Riciclato)
 - AEROREADY
+- Primo Tessuto: 100% Poliestere(100% Riciclato)
 - Vestibilità aderente
 - Girocollo a coste
 

@@ -30,8 +30,8 @@ average: '66.44'
 
 - Puro spirito denim arricchito da un tessuto elasticizzato morbidissimo
 - Un colore che dura nel tempo. Questo capo è realizzato con la tecnologia Stay Dark per mantenere il colore originale fino a 20 lavaggi
-- Con vita di 25 cm
 - Un po’ più elasticizzati per non cedere
+- Con vita di 25 cm
 - Jeans che esaltano le forme ottimamente, disegnati per abbracciare e avvolgere le curve
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

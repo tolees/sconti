@@ -28,12 +28,12 @@ average: '20.7100000000001'
 
 ℹ️:
 
-- Unisci le forze e parti in compagnia per unavventura che ricorderai per sempre.
-- Invita un amico a giocare gratuitamente con il Pass amici**, e vivi unemozionante avventura creata appositamente per due persone.
+- Incontra un gruppo di variegati personaggi teneri e bizzarri.
 - It Takes Two è sviluppato dal pluripremiato studio Hazelight, leader nel settore del gioco cooperativo. Ti porterà in un viaggio folle e incredibile dove avrai solo una certezza: insieme siamo migliori.
 - Gameplay fuori dagli schemi da aspirapolveri fuori controllo ad affascinanti guru damore; con It Takes Two non sai mai cosa dovrai affrontare.
 - Scopri una storia toccante e sentita sulle sfide del vivere in armonia. Aiuta Cody e May a scoprire come superare le proprie differenze.
-- Incontra un gruppo di variegati personaggi teneri e bizzarri.
+- Invita un amico a giocare gratuitamente con il Pass amici**, e vivi unemozionante avventura creata appositamente per due persone.
+- Unisci le forze e parti in compagnia per unavventura che ricorderai per sempre.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08QNTY1TM{{</world>}}

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Colore 109 Violet
-- Testata oftalmologicamente
 - Prodotto di ottima qualitÃ
+- Testata oftalmologicamente
+- Colore 109 Violet
 - Facilmente sfumabile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

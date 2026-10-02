@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Gradazione alcolica: 40% vol
 - Tempo di invecchiamento in barile: 1 anno
-- Aromi: note di cereali, profumi mielati e sfumature di frutta gialla
+- Gradazione alcolica: 40% vol
 - Bottiglia da 50 cl
+- Aromi: note di cereali, profumi mielati e sfumature di frutta gialla
 - 70% whisky di cerali, 30% orzo maltato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

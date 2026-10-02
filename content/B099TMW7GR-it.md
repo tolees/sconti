@@ -29,8 +29,8 @@ average: '42.0'
 ℹ️:
 
 - Tomaia in mesh e suede senza struttura
-- Intersuola in EVA
 - Ampio logo N
+- Intersuola in EVA
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B099TMW7GR{{</world>}}

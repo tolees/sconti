@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Fino a 38 ore di autonomia con la custodia di ricarica
-- Doppio altoparlante dinamico
 - Unesperienza personalizzata con lapp Xiaomi Earbuds
+- Doppio altoparlante dinamico
+- Fino a 38 ore di autonomia con la custodia di ricarica
 - Suono spaziale immersivo
 - Riduzione del rumore delle chiamate 3 pickup + IA. Riduzione attiva del rumore (ANC)
 

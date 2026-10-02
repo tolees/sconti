@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- In puro cotone
 - Set di tre magliette intime
 - Vestibilità regolare
+- In puro cotone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09QMB6KZ8{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 6 x 1,5 metri di tessuto per diffusione fai da te
-- Nota: la luce stroboscopica non è inclusa
-- Design unico senza cuciture; leggero e resistente
-- Ammorbidisce la luce ed elimina i riflessi e le ombre; la riduzione della luce è di circa 1,0 f-stop
 - Realizzato in tessuto traslucido in poliestere bianco non ingiallente
+- Design unico senza cuciture; leggero e resistente
+- 6 x 1,5 metri di tessuto per diffusione fai da te
+- Ammorbidisce la luce ed elimina i riflessi e le ombre; la riduzione della luce è di circa 1,0 f-stop
+- Nota: la luce stroboscopica non è inclusa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B06XS1PWG8{{</world>}}

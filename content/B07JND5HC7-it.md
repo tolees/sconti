@@ -28,10 +28,10 @@ average: '36.97'
 
 ℹ️:
 
-- Classic Star Trek model kit
-- Dettagliata superfici
 - Passo dopo passo manuale d istruzioni illustrato
 - Altamente dettagliato modello kit
+- Classic Star Trek model kit
+- Dettagliata superfici
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07JND5HC7{{</world>}}

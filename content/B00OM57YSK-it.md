@@ -28,11 +28,11 @@ average: '35.99'
 
 ℹ️:
 
-- Lager 5% vol a bassa fermentazione
 - Pensata per celebrare insieme i momenti che contano
+- Perfetta in abbinamento a carni bianche, insaccati, fritti di terra
+- Lager 5% vol a bassa fermentazione
 - Aroma fruttato con note tostate
 - Gusto maltato con finale amarognolo, fresco ed equilibrato
-- Perfetta in abbinamento a carni bianche, insaccati, fritti di terra
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00OM57YSK{{</world>}}

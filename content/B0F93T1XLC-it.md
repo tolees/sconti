@@ -29,8 +29,8 @@ average: '459.230000000001'
 ℹ️:
 
 - CARICA FRONTALE: Lavatrice con apertura a carica frontale, per il caricamento del bucato dal davanti.
-- SERIE 700: Questo modello appartiene alla Serie 700 della gamma Electrolux.
 - 9 KG DI CARICO: Capacità di carico pari a 9 kg, adatta al bucato di una famiglia.
+- SERIE 700: Questo modello appartiene alla Serie 700 della gamma Electrolux.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F93T1XLC{{</world>}}

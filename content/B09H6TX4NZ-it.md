@@ -29,12 +29,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Tasca a marsupio
-- Con questo modello supportiamo la Better Cotton Initiative
 - Polsini e orli a coste
+- Cappuccio regolabile con cordino
+- Con questo modello supportiamo la Better Cotton Initiative
 - 70% cotone / 30% poliestere (riciclato)
 - Con questo modello supportiamo la Better Cotton Initiative
 - Taglio regolare
-- Cappuccio regolabile con cordino
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09H6TX4NZ{{</world>}}

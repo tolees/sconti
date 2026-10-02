@@ -28,10 +28,10 @@ average: '90.38'
 
 ℹ️:
 
-- Batteria sostituibile dallutente per ripristinare facilmente le prestazioni dellUPS
-- Batteria di backup da 500VA/300W progettata per mantenervi connessi
 - Garanzia di 2 anni su unità e batteria. Garanzia di 3 anni, polizza di protezione delle apparecchiature collegate di 150.000 euro a vita e assistenza tecnica gratuita solo per i paesi della Comunità Europea.
 - Design elegante e compatto
+- Batteria di backup da 500VA/300W progettata per mantenervi connessi
+- Batteria sostituibile dallutente per ripristinare facilmente le prestazioni dellUPS
 - 8 prese con batteria di backup e protezione dalle sovratensioni, oltre a 1 porta di ricarica USB (tipo A) per ricaricare comodamente i dispositivi mobili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

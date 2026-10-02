@@ -28,11 +28,11 @@ average: '3.01'
 
 ℹ️:
 
-- Alto contenuto di frutta
 - 24 grammi di proteine a vasetto
-- Da utilizzare per colazione, spuntino o piatti più elaborati
 - Ideale per gli sportivi e per chi è attento alla linea
 - Vasetto da 240 grammi
+- Alto contenuto di frutta
+- Da utilizzare per colazione, spuntino o piatti più elaborati
 - Basso contenuto di zuccheri
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

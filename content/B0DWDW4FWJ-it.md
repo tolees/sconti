@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Speed Champions Lamborghini Revuelto e Huracán STO - Modellini di Auto da Corsa - Macchine Giocattolo con 2 Minifigure dei Piloti - Regalo di Compleanno per Bambini da 10 Anni in su - 77238'
-date: 2026-09-27 13:19:34
+date: 2026-09-29 21:33:20
 image: 'https://m.media-amazon.com/images/I/51QIXwy6fVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0DWDW4FWJ/?tag=tolees00-21'
 descuento: '22.18'
-average: '34.2144444444445'
+average: '34.461052631579'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

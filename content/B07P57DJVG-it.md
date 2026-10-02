@@ -31,8 +31,8 @@ average: '29.0'
 - Finitura: lucido
 - Materiale: acciaio inossidabile
 - Tipo di chiusura: stretta di aragosta
-- Colore: oro
 - Misurazioni: Lunghezza totale: 18  + 2
+- Colore: oro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07P57DJVG{{</world>}}

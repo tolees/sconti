@@ -28,10 +28,10 @@ average: '50.5'
 
 ℹ️:
 
+- Tostatura Medio - Scura
 - 6 Confezioni da 50 cialde monodose da 7,3g confezionate singolarmente in atmosfera protettiva.
 - Cialde Compostabili standard ESE da 44 mm
 - Intensità 10/13
-- Tostatura Medio - Scura
 - Intensa cremosità, gusto deciso e aroma ricco.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

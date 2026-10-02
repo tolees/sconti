@@ -28,9 +28,9 @@ average: '10.0'
 
 ℹ️:
 
-- Vestibilità regolare
 - AEROREADY
 - 100% poliestere (riciclato)
+- Vestibilità regolare
 - Girocollo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

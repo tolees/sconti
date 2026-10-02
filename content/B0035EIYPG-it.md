@@ -29,8 +29,8 @@ average: '0.78'
 ℹ️:
 
 - De Cecco
-- Made in Italy
 - Linguine No.7
+- Made in Italy
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0035EIYPG{{</world>}}

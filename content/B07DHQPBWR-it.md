@@ -28,10 +28,10 @@ average: '26.47'
 
 ℹ️:
 
-- Riferimento: fa-110885
-- Spazzola per lavatrice
 - Fartools
 - Diametro: 120 mm, alesaggio: 19,5 mm – Forma: cilindrica
+- Riferimento: fa-110885
+- Spazzola per lavatrice
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07DHQPBWR{{</world>}}

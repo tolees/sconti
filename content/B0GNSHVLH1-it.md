@@ -28,11 +28,11 @@ average: '16.7316666666666'
 
 ℹ️:
 
-- Perfetta per accompagnare ogni pasto
-- Sapore maltato, finemente amaro, con note fresche e floreali
 - Lager a bassa fermentazione con luppoli pregiati
+- Sapore maltato, finemente amaro, con note fresche e floreali
 - Pochi e semplici ingredienti: acqua, malto d’orzo, granoturco, luppolo
 - Gradazione alcolica: 4,6% vol
+- Perfetta per accompagnare ogni pasto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GNSHVLH1{{</world>}}

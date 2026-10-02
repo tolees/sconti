@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Fan merch, Film, Horror
-- Materiale: Resistente
 - Non può mancare a casa tua!
-- Statuetta da collezione || Molto confortevole
 - Funko Pop! con le seguenti caratteristiche:
+- Statuetta da collezione || Molto confortevole
+- Materiale: Resistente
+- Fan merch, Film, Horror
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07KLS8TDZ{{</world>}}

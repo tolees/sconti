@@ -28,8 +28,8 @@ average: '316.99'
 
 ℹ️:
 
-- Due tasche per le mani e una tasca interna sul petto
 - Cappuccio regolabile compatibile con il casco
+- Due tasche per le mani e una tasca interna sul petto
 - Cerniere ascellari
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

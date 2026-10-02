@@ -28,11 +28,11 @@ average: '42.0'
 
 ℹ️:
 
-- Linguetta in schiuma visibile
 - Copertura della punta in gomma asimmetrica
 - Testo "New Balance" angolato sulla linguetta del tallone
-- Intersuola in EVA
 - Suola con increspature di grandi dimensioni e marchio con testo
+- Linguetta in schiuma visibile
+- Intersuola in EVA
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B099THCGRB{{</world>}}

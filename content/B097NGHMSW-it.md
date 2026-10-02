@@ -28,8 +28,8 @@ average: '8.07'
 
 ℹ️:
 
-- Materiale esterno: materiale esterno multicolore con gradiente di colore e pin Roxy
 - __Suola: __ Suola in gomma
+- Materiale esterno: materiale esterno multicolore con gradiente di colore e pin Roxy
 - Plantare: __ Plantare in gomma testurizzata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

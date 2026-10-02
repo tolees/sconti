@@ -28,9 +28,9 @@ average: '39.92'
 
 ℹ️:
 
-- Per chi ama il vintage: abbiamo scelto la tintura in capo per donare un irresistibile effetto vissuto
-- Un capo ottimamente versatile
 - Vestibilità comoda
+- Un capo ottimamente versatile
+- Per chi ama il vintage: abbiamo scelto la tintura in capo per donare un irresistibile effetto vissuto
 - In morbido pile spazzolato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

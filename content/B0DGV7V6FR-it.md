@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Luci mobili per uso esterno
 - Questo prodotto è un prodotto circostante. I prodotti circostanti sono apparecchi che possono essere smontati per verificare separatamente la o le fonti luminose contenute. Questo prodotto contiene una fonte luminosa di classe di efficienza energetica G
+- Luci mobili per uso esterno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DGV7V6FR{{</world>}}

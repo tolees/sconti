@@ -29,8 +29,8 @@ average: '18.68'
 ℹ️:
 
 - Scollo tondo
-- Cotone morbido
 - Logo discreto sul petto
+- Cotone morbido
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F2B2Z7Z3{{</world>}}

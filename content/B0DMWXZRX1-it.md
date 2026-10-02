@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pantene Shampoo+Balsamo Rigenera E 2x1000ML'
-date: 2026-09-22 19:40:50
+date: 2026-10-01 05:29:38
 image: 'https://m.media-amazon.com/images/I/41gXHyE8w4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0DMWXZRX1/?tag=tolees00-21'
 descuento: '50.01'
-average: '19.6566666666666'
+average: '19.7042857142856'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

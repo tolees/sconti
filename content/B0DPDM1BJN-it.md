@@ -28,9 +28,9 @@ average: '22.05'
 
 ℹ️:
 
-- Definisce i ricci con una tenuta flessibile per tutto il giorno, senza residui
-- Rinforza i capelli e offre protezione dal calore fino a 450 ºF/232 ºC
 - Districa, liscia, condiziona e idrata i ricci
+- Rinforza i capelli e offre protezione dal calore fino a 450 ºF/232 ºC
+- Definisce i ricci con una tenuta flessibile per tutto il giorno, senza residui
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DPDM1BJN{{</world>}}

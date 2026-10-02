@@ -28,9 +28,9 @@ average: '26.95'
 
 ℹ️:
 
-- Tessuto idrorepellente
 - Il tessuto idrorepellente mantiene asciutti i tuoi effetti personali
 - Elegante colorazione Brize Black Grey con motivo a foglie tropicali
+- Tessuto idrorepellente
 - EK30Y|30 anni
 - Ampio scomparto principale per gli oggetti essenziali quotidiani
 

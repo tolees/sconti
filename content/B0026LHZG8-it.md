@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Conservare a temperatura ambiente
-- Contiene olio doliva
-- Una volta aperto conservare in frigorifero mantenendo il prodotto coperto dallolio
 - Lavorati a mano uno per uno
+- Una volta aperto conservare in frigorifero mantenendo il prodotto coperto dallolio
 - Acciughe mature e salate
+- Contiene olio doliva
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0026LHZG8{{</world>}}

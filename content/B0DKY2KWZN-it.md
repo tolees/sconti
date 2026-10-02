@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Resistente allacqua
-- Tessuto principale: 100% poliammide riciclata
 - Polsini elasticizzati
-- Imbottitura: Thermo-Fibre 100% poliestere riciclato
 - Chiusura con zip
 - Dettagli stampati
+- Tessuto principale: 100% poliammide riciclata
+- Imbottitura: Thermo-Fibre 100% poliestere riciclato
+- Resistente allacqua
 - Senza PFC
 - Stemmi
 

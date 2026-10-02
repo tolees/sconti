@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Tasche : Tasche frontali
+- Collo : Cappuccio
+- Polsini : Polsini a coste
+- Chiusura : Chiusura a zip
 - Lunghezza/taglia : Corto
 - Dettagli : Dettaglio a blocchi di colore, Dettaglio del logo
-- Polsini : Polsini a coste
-- Manica : Maniche lunghe
-- Collo : Cappuccio
-- Tasche : Tasche frontali
 - Tipologia di prodotto : Giubbotto bomber
-- Chiusura : Chiusura a zip
+- Manica : Maniche lunghe
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DKJWFZLK{{</world>}}

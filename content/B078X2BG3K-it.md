@@ -28,11 +28,11 @@ average: '12.8'
 
 ℹ️:
 
-- Uomo / donna / unisex.
-- Cinque coppie di leggero e confortevole occhiali da lettura.
-- Design robusto del telaio con cerniere di qualità.
-- Forza +2,50.
 - Una coppia in dark blu finire, una coppia in rosa tartaruga finire, una coppia in finitura tartaruga viola, una coppia in finitura tartarugata verde e una coppia in rosso finire.
+- Forza +2,50.
+- Cinque coppie di leggero e confortevole occhiali da lettura.
+- Uomo / donna / unisex.
+- Design robusto del telaio con cerniere di qualità.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B078X2BG3K{{</world>}}

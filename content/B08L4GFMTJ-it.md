@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - hair type: secchi
+- Scopri la nostra gamma completa di prodotti.
 - Indicato su capelli capelli naturali e colorati con toni scuri (livello 3/4/5)
 - Il nostro obiettivo principale è la soddisfazione del cliente
-- Scopri la nostra gamma completa di prodotti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08L4GFMTJ{{</world>}}

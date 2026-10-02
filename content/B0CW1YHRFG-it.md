@@ -28,13 +28,13 @@ average: '99.99'
 
 ℹ️:
 
-- Personalizzazione dei tasti: la tecnologia KEYCONTROL consente una personalizzazione di livello professionale di ogni tasto e 5 livelli per rendere la tastiera gaming la quintessenza del controllo
 - Custodia per il trasporto inclusa: proteggi la tua tastiera portatile durante gli eventi e i tornei con la sua custodia per il trasporto inclusa
 - Switch ottici: gli switch ottici GX offrono unattivazione ottima e un ritardo di rimbalzo pari a zero; puoi scegliere tra switch tattili o lineari in base al proprio stile di gioco
-- Contenuto della confezione: tastiera gaming wireless PRO X 60, adattatore USB wireless LIGHTSPEED, cavo dati e ricarica da USB-A a USB-C 1,8 m, copritasto Logitech G, custodia per il trasporto e documentazione per lutente
-- Le dimensioni sono importanti: ottimizza lo spazio senza compromettere le prestazioni; la tastiera meccanica compatta senza tastierino numerico offre spazio per il movimento del mouse, in modo da potersi concentrare sulla vittoria
-- Gioca alla VELOCITÀ DELLA LUCE: gioca con laffidabilità e la velocità comprovate dai tornei; si collega in modalità wireless tramite ladattatore LIGHTSPEED con velocità di risposta di 1 ms o tramite Bluetooth, connettività USB opzionale
 - Tecnologia di livello professionale: controllo della modalità di gioco, layout standard della tastiera con compatibilità 3P, controlli multimediali e rotellina di regolazione del volume e tasti retroilluminati LIGHTSYNC RGB personalizzabili tramite G HUB
+- Gioca alla VELOCITÀ DELLA LUCE: gioca con laffidabilità e la velocità comprovate dai tornei; si collega in modalità wireless tramite ladattatore LIGHTSPEED con velocità di risposta di 1 ms o tramite Bluetooth, connettività USB opzionale
+- Contenuto della confezione: tastiera gaming wireless PRO X 60, adattatore USB wireless LIGHTSPEED, cavo dati e ricarica da USB-A a USB-C 1,8 m, copritasto Logitech G, custodia per il trasporto e documentazione per lutente
+- Personalizzazione dei tasti: la tecnologia KEYCONTROL consente una personalizzazione di livello professionale di ogni tasto e 5 livelli per rendere la tastiera gaming la quintessenza del controllo
+- Le dimensioni sono importanti: ottimizza lo spazio senza compromettere le prestazioni; la tastiera meccanica compatta senza tastierino numerico offre spazio per il movimento del mouse, in modo da potersi concentrare sulla vittoria
 - PRO X 60 LIGHTSPEED: questa tastiera gaming meccanica 60% senza tastierino numerico rappresenta la nuova generazione di tastiere wireless professionali, progettata con gli atleti di esports per fornire ottime prestazioni per ottenere la vittoria
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

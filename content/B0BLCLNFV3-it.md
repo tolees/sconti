@@ -29,8 +29,8 @@ average: '26.83'
 ℹ️:
 
 - Suola in gomma
-- Etichetta con loghi PUMA su tomaia, tallone e linguetta
 - Striscia Formstrip PUMA sul lato
+- Etichetta con loghi PUMA su tomaia, tallone e linguetta
 - Chiusura con lacci
 - Intersuola in gomma alta
 

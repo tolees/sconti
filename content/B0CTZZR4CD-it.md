@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Ricevitore Omni ROG: connessione wireless a più dispositivi supportati con un unico ricevitore
-- Sensore ottico ROG AimPoint: sensibilità a 36.000 dpi con deviazione <1% leader del settore per la massima precisione
 - Tecnologia wireless ROG SpeedNova: prestazioni wireless affidabili a 2,4 GHz con bassa latenza e incredibile efficienza energetica
 - Design leggero e ambidestro: compatto con soli 57 grammi *senza batteria e ricevitore
+- Sensore ottico ROG AimPoint: sensibilità a 36.000 dpi con deviazione <1% leader del settore per la massima precisione
+- Ricevitore Omni ROG: connessione wireless a più dispositivi supportati con un unico ricevitore
 - Due opzioni di connettività wireless Trasferisci la radio a 2,4 GHz o accoppia fino a tre dispositivi con Bluetooth.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ average: '13.72'
 ℹ️:
 
 - Formula Vegana priva di ingredienti e derivati di origine animale
-- TRATTAMENTO SETTIMANALE: Progettato per l’uso una volta a settimana, questo scrub delicato va massaggiato su pelle umida con movimenti circolari. Aiuta a rimuovere le cellule morbide, ideale per pelle ruvida, secca e spenta dei piedi.
 - OPI NATURE STRONG SKINCARE: Questo scrub esfoliante rimuove delicatamente le cellule morte mentre idrata la pelle che appare subito luminosa, levigata e morbida.
+- TRATTAMENTO SETTIMANALE: Progettato per l’uso una volta a settimana, questo scrub delicato va massaggiato su pelle umida con movimenti circolari. Aiuta a rimuovere le cellule morbide, ideale per pelle ruvida, secca e spenta dei piedi.
 - FRAGRANZA CHE ELEVA L’UMORE: Con tecnologia MoodBloom Scent Technology, questo esfoliante rilascia un mix aromatico delicato durante l’applicazione. Trasforma lo scrub settimanale in un rituale rilassante che risveglia i sensi e migliora l’umore.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

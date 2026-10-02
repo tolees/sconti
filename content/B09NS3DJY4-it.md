@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Rispetta le regole di produzione
 - Profumo e fragranza unisex adulti
 - Hugo Boss The Scent Le Parfum da 100 ml
+- Rispetta le regole di produzione
 - I prodotti del marchio Hugo Boss sono realizzati con ingredienti di ottima qualità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

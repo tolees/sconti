@@ -28,12 +28,12 @@ average: '24.99'
 
 ℹ️:
 
-- CARATTERISTICHE PER TUTTI - Rubrica per 100 contatti, fino a 14 ore di conversazione e 180 ore di standby. Display illuminato con numeri Jumbo.
 - QUALITÀ MADE IN GERMANY - Progettato e prodotto in Germania, la tecnologia ecologica ECO DECT garantisce un consumo energetico ridotto
-- Vuoi altre informazioni sul prodotto? Contatta Gigaset customer service allo 02 600 630 45
+- CARATTERISTICHE PER TUTTI - Rubrica per 100 contatti, fino a 14 ore di conversazione e 180 ore di standby. Display illuminato con numeri Jumbo.
+- CONTENUTO DELLA CONFEZIONE - 1 stazione base Gigaset AS485, 1 portatile Gigaset AS485H, 1 alimentatore, 1 cavo di collegamento telefonico, 2 batterie AAA (NiMH) ricaricabili, 1 coperchio per le batterie, 1 manuale duso
 - AFFIDABILE COMUNICAZIONE - Gigaset AS485 Grigio Antracite è perfetto per tutta la famiglia grazie alle sue caratteristiche. Compatibile solo in Italia. Per ulteriori informazioni, visita il sito Gigaset.
 - INSTALLAZIONE FACILE - Collega la stazione base alla presa telefonica (a muro o al router) e alla corrente elettrica e inizia subito a telefonare.
-- CONTENUTO DELLA CONFEZIONE - 1 stazione base Gigaset AS485, 1 portatile Gigaset AS485H, 1 alimentatore, 1 cavo di collegamento telefonico, 2 batterie AAA (NiMH) ricaricabili, 1 coperchio per le batterie, 1 manuale duso
+- Vuoi altre informazioni sul prodotto? Contatta Gigaset customer service allo 02 600 630 45
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09XVN9NZQ{{</world>}}

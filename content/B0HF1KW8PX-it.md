@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dash Pods Classico Detersivo Lavatrice in Capsule 132 Lavaggi + Omaggio'
-date: 2026-09-29 01:16:00
+date: 2026-10-01 23:45:36
 image: 'https://m.media-amazon.com/images/I/51m3JXQkx8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

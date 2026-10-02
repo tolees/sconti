@@ -28,17 +28,17 @@ average: '13.04'
 
 ℹ️:
 
-- Valigetta pratica e robusta
-- Quattro robusti trapani in pietra e rinforzati con metallo duro diametro 4-7 mm; Convincono per la loro lunga durata, la rapida rimozione del materiale, la bassa generazione di calore e la precisione
-- Quattro punte per legno affilate con un diametro di 4-8 mm, con punta di centraggio e fresa a gradino per forature precise e senza rotture
-- Adatto a tutte le marche di elettroutensili
+- Dieci punte extra rigide per le viti più comuni, con Phillips, Pozidriv, Torx e testa scanalata longitudinale
 - Undici punte per metallo con un diametro di 1,5-6,5 mm con rivestimento in nitruro di titanio, caratterizzate da rapidi avanzamenti di foratura e lunga durata (non utilizzare per lalluminio)
-- Accessori universali per tutte le marche
 - Titanium
 - Assortimento completo
-- Dieci punte extra rigide per le viti più comuni, con Phillips, Pozidriv, Torx e testa scanalata longitudinale
+- Accessori universali per tutte le marche
+- Quattro punte per legno affilate con un diametro di 4-8 mm, con punta di centraggio e fresa a gradino per forature precise e senza rotture
 - Include un supporto magnetico universale
 - 11 punte per metallo HSS-TIN ø 1,5-6,5 mm; 4 punte per muro ø 4-7 mm; 4 punte per legno ø 4-8 mm; 10 bit di avvitamento; l = 25 mm; (PH 1/2/3, pz 1/2/3, s 4/6, t 20/251); portabit universale, magnetico; 1 svasatore
+- Adatto a tutte le marche di elettroutensili
+- Valigetta pratica e robusta
+- Quattro robusti trapani in pietra e rinforzati con metallo duro diametro 4-7 mm; Convincono per la loro lunga durata, la rapida rimozione del materiale, la bassa generazione di calore e la precisione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000P4KR5E{{</world>}}

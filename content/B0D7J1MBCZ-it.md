@@ -28,8 +28,8 @@ average: '34.0'
 
 ℹ️:
 
-- Occhielli in metallo laccato
 - Calvin klein Firma monogramma sul lato, tallone e lingua
+- Occhielli in metallo laccato
 - Suola bassa in gomma naturale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

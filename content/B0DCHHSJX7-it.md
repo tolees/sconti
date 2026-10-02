@@ -29,10 +29,10 @@ average: '249.625'
 ℹ️:
 
 - Layout della tastiera: QWERTY americano. Il layout può essere diverso dalle immagini del prodotto.
-- Scocca interamente in alluminio: la scocca superiore e inferiore con lavorazione CNC offre un peso e unestetica premium e presenta unelegante rifinitura anodizzata per una maggiore durabilità.
-- 9 punti di modularità: un design altamente modulare che facilita la sostituzione delle parti della GMMK 3, adattando il look, i suoni e le sensazioni che offre esattamente in base alle tue preferenze.
-- Prestazioni di gioco Hall Effect: reagisci più rapidamente con la modalità Rapid Trigger, 8.000 Hz di polling, attuazione personalizzabile, digitazione dinamica 4:1 e molto altro.
 - Frequenza di polling di 8.000 Hz: la ricezione degli input di questa tastiera è fino a otto volte più veloce rispetto alle altre tastiere per offrirti una reattività massima.
+- 9 punti di modularità: un design altamente modulare che facilita la sostituzione delle parti della GMMK 3, adattando il look, i suoni e le sensazioni che offre esattamente in base alle tue preferenze.
+- Scocca interamente in alluminio: la scocca superiore e inferiore con lavorazione CNC offre un peso e unestetica premium e presenta unelegante rifinitura anodizzata per una maggiore durabilità.
+- Prestazioni di gioco Hall Effect: reagisci più rapidamente con la modalità Rapid Trigger, 8.000 Hz di polling, attuazione personalizzabile, digitazione dinamica 4:1 e molto altro.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DCHHSJX7{{</world>}}

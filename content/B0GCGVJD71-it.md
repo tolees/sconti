@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ECOVACS T90 PRO OMNI Robot Aspirapolvere Lavapavimenti OZMO ROLLER 30000Pa'
-date: 2026-09-29 16:53:01
+date: 2026-10-01 00:13:29
 image: 'https://m.media-amazon.com/images/I/41tSCjAlltL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0GCGVJD71/?tag=tolees00-21'
 descuento: '51.81'
-average: '536.0'
+average: '498.25'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

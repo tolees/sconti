@@ -28,10 +28,10 @@ average: '6.745'
 
 ℹ️:
 
-- Azione combinata – Oltre a Glicerina e Burro di Karité che favoriscono lidratazione, la crema dopo sole contiene Vitamina E, potente antiossidante naturale contro i radicali liberi
 - Pelle rigenerata – La crema doposole garantisce 24 ore di idratazione, aiutando a ristabilire il naturale equilibrio idrolipidico della pelle disidratata e prevenendo la desquamazione
 - Contenuto della confezione – PIZ BUIN Latte Doposole Intensificatore di Abbronzatura, crema abbronzante doposole per nutrire la pelle disidratata e contrastare la desquamazione, 1 confezione da 200 ml
 - Colore dorato – La formula della crema doposole corpo è arricchita con Tanimel, un estratto vegetale che aumenta la produzione di melanina fino al 133% e intensifica labbronzatura*
+- Azione combinata – Oltre a Glicerina e Burro di Karité che favoriscono lidratazione, la crema dopo sole contiene Vitamina E, potente antiossidante naturale contro i radicali liberi
 - Non unge – Il latte doposole abbronzante corpo ha una texture ultra leggera ad assorbimento rapido e facile da applicare, per unimmediata sensazione di comfort e idratazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

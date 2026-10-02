@@ -28,9 +28,9 @@ average: '35.0'
 
 ℹ️:
 
+- Chiusura con lacci
 - Intersuola in EVA
 - Sottopiede in schiuma imbottito
-- Chiusura con lacci
 - Fodera in tessuto
 - Tomaia in suede e nylon
 

@@ -28,11 +28,11 @@ average: '17.99'
 
 ℹ️:
 
-- Tipo di tessuto: 100% polyester
+- Tessuto nike dry
 - Massimo comfort
 - Taglio regolare
 - Tipo di tessuto: 100% polyester
-- Tessuto nike dry
+- Tipo di tessuto: 100% polyester
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07WLN2C1B{{</world>}}

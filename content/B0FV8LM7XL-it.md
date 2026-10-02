@@ -28,11 +28,11 @@ average: '3.89'
 
 ℹ️:
 
-- VEGAN & CRUELTY FREE: Questo prodotto Revolution è formulato senza ingredienti di origine animale ed è adatto ai vegani. Tutti i prodotti Revolution sono certificati da PETA come non testati sugli animali
 - FORMULA CREMOSA NON APPICCICOSA: La texture ricca ma leggera scivola facilmente sulle labbra, offrendo idratazione confortevole per tutto il giorno senza effetto appiccicoso – labbra morbide e irresistibilmente curate
-- LABBRA MORBIDE E IDRATATE: Questo balsamo labbra nutriente dona immediata morbidezza e idratazione duratura, lasciando le labbra lisce, elastiche e sane
 - INGREDIENTI NUTRIENTI: Arricchito con burro di karité, squalano e vitamina E per lenire le labbra secche, screpolate e danneggiate, trattenendo l’idratazione essenziale per una morbidezza duratura
 - ESSENZIALE QUOTIDIANO: Ideale dal giorno alla sera, questo balsamo labbra versatile è compatto e facile da portare in borsa, zaino o tasca per rapidi ritocchi ovunque ti trovi
+- LABBRA MORBIDE E IDRATATE: Questo balsamo labbra nutriente dona immediata morbidezza e idratazione duratura, lasciando le labbra lisce, elastiche e sane
+- VEGAN & CRUELTY FREE: Questo prodotto Revolution è formulato senza ingredienti di origine animale ed è adatto ai vegani. Tutti i prodotti Revolution sono certificati da PETA come non testati sugli animali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FV8LM7XL{{</world>}}

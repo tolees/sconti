@@ -30,8 +30,8 @@ average: '6.0'
 
 - Capacità sensoriali, coordinazione occhio-mano, suoni e immagini
 - Elettronica, parlante e interattiva
-- Giocattolo elettronico educativo con pile incluse, manuale di istruzioni
 - Elettronico 6 funzioni, alfabeto e parole, primi numeri, allegre filastrocche, quiz di logica
+- Giocattolo elettronico educativo con pile incluse, manuale di istruzioni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09RSHM2C3{{</world>}}

@@ -28,8 +28,8 @@ average: '15.09'
 
 ℹ️:
 
-- Texture a coste sul bordo
 - Bordo risvoltato
+- Texture a coste sul bordo
 - Bandierina Tommy Hilfiger ricamata sul davanti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

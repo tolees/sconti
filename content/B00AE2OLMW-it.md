@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Forma quadrata
 - 26x26 cm
+- Forma quadrata
 - Con rivestimento antiaderente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

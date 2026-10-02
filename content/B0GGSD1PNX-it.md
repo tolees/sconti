@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars Sandcrawler e Mudhorn Offworld 75453'
-date: 2026-09-27 09:18:34
+date: 2026-09-29 22:15:54
 image: 'https://m.media-amazon.com/images/I/51uvRjJFk4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0GGSD1PNX/?tag=tolees00-21'
 descuento: '20.00'
-average: '168.323333333333'
+average: '166.24'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

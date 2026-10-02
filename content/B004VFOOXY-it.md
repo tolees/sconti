@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Semplice da utilizzare
 - Ideale per lavori di hobbistica e creativi
 - Trasparente dopo lessicazione
+- Semplice da utilizzare
 - Ideale per carta, legno, tela, sughero e materiali porosi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

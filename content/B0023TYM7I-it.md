@@ -28,8 +28,8 @@ average: '6.79'
 
 ℹ️:
 
-- PRATICO: può essere appeso per risparmiare spazio in cucina
 - MATERIALE: acciaio inossidabile
+- PRATICO: può essere appeso per risparmiare spazio in cucina
 - USO: imbuto adatto per riempire bottiglie con facilità
 - PULIZIA: lavabile in lavastoviglie
 - DIMENSIONI: circa 10x11 cm

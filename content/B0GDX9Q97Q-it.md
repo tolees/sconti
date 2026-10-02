@@ -30,9 +30,9 @@ average: '53.24'
 
 - Supplemento nutrizionale orale ipercalorico (2.4 kcal/ml) e ad alto contenuto proteico (14.6 g/100 ml) in formato ridotto, ideale per chi ha malnutrizione e difficoltà ad assumere grandi volumi di alimenti
 - AVVERTENZE: Solo sotto controllo medico. Solo per Uso Orale. Non per via parenterale, o come unica fonte di nutrimento. Usare con cautela in caso di insufficienza renale. Monitorare idratazione
-- UTILE IN CASO DI: Malnutrizione proteica ed energetica associata a patologia oncologica, Trattamenti oncologici e chemio-radio terapici, Pazienti oncologici con disgeusia, anoressia o post operatorio
 - DOSAGGIO PER ADULTI: 1-2 bottiglie al giorno. PREPARAZIONE: Agitare bene prima dell’uso. Pronto da bere, è più gradevole se consumato fresco
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
+- UTILE IN CASO DI: Malnutrizione proteica ed energetica associata a patologia oncologica, Trattamenti oncologici e chemio-radio terapici, Pazienti oncologici con disgeusia, anoressia o post operatorio
 - Supplemento nutrizionale orale ipercalorico (306Kcal a bottiglia) ed iperproteico (18g di proteine a bottiglia) concentrato (125ml) per il trattamento della malnutrizione da patologie oncologiche
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

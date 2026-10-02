@@ -29,10 +29,10 @@ average: '10.9'
 ℹ️:
 
 - CARATTERISTICHE: la Vitamina B12 contribuisce al normale funzionamento del sistema nervoso, alla normale formazione dei globuli rossi e al metabolismo dellomocisteina
-- VITAMINA B12: integratore alimentare ad alto dosaggio di Vitamina B12 in forma di Metilcobalamina. Per la riduzione di stanchezza e affaticamento e il normale metabolismo energetico
 - GUSTO FRUTTI DI BOSCO: compresse masticabili, che si possono anche far sciogliere lentamente in bocca, senza bisogno di acqua
 - EQUILIBRA: da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto di un perfetto equilibrio tra rispetto, efficacia, benessere e bellezza
 - DA ASSUMERE QUOTIDIANAMENTE: si consiglia di assumere 1 compressa masticabile al giorno. Ogni compressa contiene 1000 mcg di Vitamina B12
+- VITAMINA B12: integratore alimentare ad alto dosaggio di Vitamina B12 in forma di Metilcobalamina. Per la riduzione di stanchezza e affaticamento e il normale metabolismo energetico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D5MN6VL9{{</world>}}

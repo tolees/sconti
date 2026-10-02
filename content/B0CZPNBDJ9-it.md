@@ -28,12 +28,12 @@ average: '45.95'
 
 ℹ️:
 
-- Vestibilità regolare con vita a media altezza
 - Giacca e pantaloni: Tasche anteriori
 - Pantaloni: Girovita elasticizzato con cordino
-- Giacca e pantaloni: Polsini e orlo a coste
 - 100% poliestere (riciclato)
 - Zip integrale con collo alto
+- Vestibilità regolare con vita a media altezza
+- Giacca e pantaloni: Polsini e orlo a coste
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZPNBDJ9{{</world>}}

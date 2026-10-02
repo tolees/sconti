@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Composizione materiale: 100% cotone
 - Vestito di Jeans
-- Mezze maniche
 - Taglio normale
+- Mezze maniche
+- Composizione materiale: 100% cotone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D42CCKSS{{</world>}}

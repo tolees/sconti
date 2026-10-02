@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Marca: Roxy
 - Borsa messenger da donna
+- Marca: Roxy
 - Core Printed Bagagli
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

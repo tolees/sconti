@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- AROMA: il naso distinto di questo gin rivela innanzitutto un sottile aroma di ginepro, con un sottofondo di pino mugo e altre note erbacee
 - ELEPHANT GIN TONIC: miscela 50ml di Elephant London Dry Gin e 120ml di tonica premium + una fetta di mela fresca, per un Gin tonic da aperitivo al tramonto dopo una giornata nella savana africana
-- ELEPHANT GIN: gin artigianale pluripremiato, realizzato con il tradizionale metodo di distillazione in alambicco di rame e con ingredienti di alta qualità che catturano lo spirito dellAfrica
+- AROMA: il naso distinto di questo gin rivela innanzitutto un sottile aroma di ginepro, con un sottofondo di pino mugo e altre note erbacee
 - GUSTO: il gusto di Elephant Gin è complesso ma particolarmente morbido, con note floreali, fruttate e speziate, può essere gustato sia liscio che in un cocktail
+- ELEPHANT GIN: gin artigianale pluripremiato, realizzato con il tradizionale metodo di distillazione in alambicco di rame e con ingredienti di alta qualità che catturano lo spirito dellAfrica
 - BOTANICHE: superfrutto della savana, il Baobab, la straordinaria pianta di Buchu, lassenzio africano, mele fresche e altri ingredienti selezionati, conferiscono purezza e morbidezza al finale del gin
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

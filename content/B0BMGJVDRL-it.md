@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Polo Club rimane fedele allo stile con la sua iconica polo a maniche corte.
 - Comfort, versatilità e vestibilità migliorata fanno di questo capo un must del tuo armadio.
 - Ricamo Rigby Go sul petto a sinistra.
 - Con collo in cannetè e tre bottoni. Maniche corte con orlo a costine. Spacchi laterali sull’orlo.
 - Realizzato in morbido cotone.
+- Polo Club rimane fedele allo stile con la sua iconica polo a maniche corte.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BMGJVDRL{{</world>}}

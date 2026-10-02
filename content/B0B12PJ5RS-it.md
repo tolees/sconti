@@ -28,13 +28,13 @@ average: '184.58'
 
 ℹ️:
 
+- CONTROLLA LE TAPPARELLE CON UN CLICK: Con questo pratico kit puoi abbassare tutte le tapparelle con un solo click quando esci di casa o vai a dormire
+- SEMPLICE DA INSTALLARE: Per rendere smart le tue tapparelle e utilizzarle con il WiFi è sufficiente sostituire il comando tapparella tradizionale con quello connesso BTicino
 - KIT TAPPARELLE CONNESSE LIVINGLIGHT SMART: Il set tapparelle intelligenti di BTicino che rende la tua casa veramente smart. La confezione include 1 gateway plug-in nero S36GWDC e 3 comandi tapparella connessi antracite L4027C
+- CONTROLLO DA REMOTO: All’arrivo di un temporale con forte vento e pioggia, abbassa le tapparelle anche se non sei in casa dal tuo smartphone per evitare danni
 - DIVERSE MODALITÁ DI CONTROLLO: Controlla le tapparelle in modo tradizionale, premendo linterruttore, con il comando generale entra ed esci, da smartphone tramite lapp Home + Control o con gli assistenti vocali Google Home, Alexa e Siri
 - CREA I TUOI SCENARI PREFERITI: Con il Kit Tapparelle Connesse di BTicino puoi programmare lorario di chiusura e apertura delle tapparelle tramite scenari personalizzabili
-- SEMPLICE DA INSTALLARE: Per rendere smart le tue tapparelle e utilizzarle con il WiFi è sufficiente sostituire il comando tapparella tradizionale con quello connesso BTicino
-- CONTROLLO DA REMOTO: All’arrivo di un temporale con forte vento e pioggia, abbassa le tapparelle anche se non sei in casa dal tuo smartphone per evitare danni
 - BTICINO: Lo specialista globale delle infrastrutture elettriche e digitali delledificio che ti aiuta a configurare la tua casa smart
-- CONTROLLA LE TAPPARELLE CON UN CLICK: Con questo pratico kit puoi abbassare tutte le tapparelle con un solo click quando esci di casa o vai a dormire
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B12PJ5RS{{</world>}}

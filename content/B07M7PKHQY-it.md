@@ -28,9 +28,9 @@ average: '8.65'
 
 ℹ️:
 
-- T-shirt da uomo moderna del marchio Jack&Jones
 - Tinta unita, grande etichetta stampata sul davanti
 - Girocollo, lunghezza ai fianchi, taglio dritto
+- T-shirt da uomo moderna del marchio Jack&Jones
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07M7PKHQY{{</world>}}

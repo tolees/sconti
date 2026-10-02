@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Display con luminosità dinamica;Versatile manopola multifunzione;Quattro pattern polari selezionabili;Software HyperX NGENUITY
 - Indicatori a LED per lo stato del microfono
 - Audio a prova di futuro
-- Display con luminosità dinamica;Versatile manopola multifunzione;Quattro pattern polari selezionabili;Software HyperX NGENUITY
 - Supporto antiurto rimovibile riprogettato
 - Sensore "Tap-to-Mute"
 

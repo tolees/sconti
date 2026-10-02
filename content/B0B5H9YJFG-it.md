@@ -28,10 +28,10 @@ average: '4.81'
 
 ℹ️:
 
-- Per bambini dai 3 anni in su
 - Dimensioni Aragosta: 117x116 cm Orso: 109x69 cm
 - Contenuto: 1 canotto gonfiabile
 - Il design e la grafica del canotto riproducono diversi animali
+- Per bambini dai 3 anni in su
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B5H9YJFG{{</world>}}

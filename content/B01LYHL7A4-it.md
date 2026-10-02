@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Biscotti Frollini Integrali
 - Fonte di fibre
 - Facile da usare, qualità ottimale
-- Biscotti Frollini Integrali
 - Dall’unione della farina integrale di frumento e dei cristalli di zucchero grezzo di canna, nasce Oro Cruscoro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

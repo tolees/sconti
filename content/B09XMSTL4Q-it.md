@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Big Kids Short-Sleeve Soccer Jersey
 - Adatto per attività sportive
+- Big Kids Short-Sleeve Soccer Jersey
 - Con un design confortevole
 - Prodotto di ottima qualità
 

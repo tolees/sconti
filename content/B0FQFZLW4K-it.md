@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Questa batteria MagSafe è stata creata appositamente per iPhone Air
 - Perfetta per stare in tasca, è comoda quando tieni in mano il tuo iPhone Air e ti dà il 65% di carica extra, così avrai più autonomia di qualsiasi altro modello
+- Questa batteria MagSafe è stata creata appositamente per iPhone Air
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FQFZLW4K{{</world>}}

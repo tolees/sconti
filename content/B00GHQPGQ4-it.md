@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Cattura lo sporco in maniera ottimale
-- Da sostituire periodicamente
-- Permette di pulire la piscina
 - Cartucce per filtri da piscina
+- Da sostituire periodicamente
+- Cattura lo sporco in maniera ottimale
+- Permette di pulire la piscina
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00GHQPGQ4{{</world>}}

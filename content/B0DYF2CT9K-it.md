@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nuova Ring videocamera esterna Plus a batteria Outdoor Camera Plus + Ring videocamera interna Indoor Camera 2ª gen. | Ring Home: 30 gg. prova gratuita'
-date: 2026-08-14 08:02:12
+date: 2026-09-29 20:24:07
 image: 'https://m.media-amazon.com/images/I/31bmjDvR-QL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0DYF2CT9K-it Nuova Ring videocamera esterna Plus a batteria Outdoor...'
 sku: 'B0DYF2CT9K-it'
 tags: [ '🇮🇹', ]
-actualPrice: 64.99 EUR
+actualPrice: 39.99 EUR
 currency: EUR
-price: 64.99
-comparePrice: 94.98 EUR
+price: 39.99
+comparePrice: 99.91 EUR
 prodname: 'Nuova Ring videocamera esterna Plus a batteria Outdoor Camera Plus + Ring videocamera interna Indoor Camera 2ª gen. | Ring Home: 30 gg. prova gratuita'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0DYF2CT9K/?tag=tolees00-21'
-descuento: '31.58'
-average: '62.49'
+descuento: '59.97'
+average: '54.99'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,14 +28,6 @@ average: '62.49'
 
 ℹ️:
 
-- NON PERDERE I DETTAGLI CHE CONTANO: cattura ogni dettaglio con la nitidezza del 2K e la migliore qualità dell’immagine Ring mai provata [1].
-- DAL TRAMONTO ALL’ALBA: goditi colori realistici e dettagli in 2K in condizioni di scarsa illuminazione con la visione a luce bassa. L’illuminazione stradale è sufficiente per una visione nitida e colorata a qualsiasi ora.
-- SICUREZZA INTERNA: videocamera di sicurezza plug-in che consente di aggiungere protezione e tranquillità ovunque allinterno della casa.
-- INSTALLAZIONE CONVENIENTE: il supporto incluso e le diverse opzioni di alimentazione ti permettono l’installazione su tavoli, muri o soffitti.
-- VEDI DI PIÙ.SCOPRI DI PIÙ.PROTEGGI DI PIÙ: salva i tuoi video registrati fino a 180 giorni per rivederli in qualsiasi momento, ricevi avvisi quanto viene rilevata una persona, e molto altro ancora con un abbonamento Ring Home (venduto separatamente)*.
-- VIDEO IN HD A 1080p: controlla i tuoi animali domestici ovunque ti trovi con Live View in tempo reale e video in HD a 1080p.
-- Nuova Ring videocamera esterna Plus a batteria (Outdoor Camera Plus) + Ring videocamera interna (Indoor Camera 2ª gen.) | Ring Home: 30 gg. prova gratuita
-- SISTEMA AUDIO BIDIREZIONALE: di ciao! e fai sapere ai tuoi animali domestici che li stai guardando con il sistema audio bidirezionale.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DYF2CT9K{{</world>}}

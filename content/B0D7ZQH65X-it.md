@@ -28,14 +28,14 @@ average: '43.11'
 
 ℹ️:
 
-- Tomaia in mesh
 - Calzata regolare
 - Peso: 245 g (misura 38 2/3)
-- Chiusura con lacci
-- Intersuola Cloudfoam
-- Pratica suola
-- Fodera in tessuto
 - Soletta morbida
+- Tomaia in mesh
+- Pratica suola
+- Chiusura con lacci
+- Fodera in tessuto
+- Intersuola Cloudfoam
 - Drop intersuola: 9 mm (tallone 31 mm / avampiede 22 mm)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

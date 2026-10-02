@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Aiuta a mantenere labbronzatura
 - Crema idratante rigenerante
-- Dona idratazione intensa per 24 ore
 - Rinfrescante e lenitivo
+- Aiuta a mantenere labbronzatura
+- Dona idratazione intensa per 24 ore
 - Dona alla pelle ciò di cui ha bisogno dopo il sole
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

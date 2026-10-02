@@ -28,10 +28,10 @@ average: '1.66'
 
 ℹ️:
 
-- Formula con olio di mandorla di origine 100% naturale, dermatologicamente testata per comprovarne la tollerabilità cutanea e senza sapone
-- Gentile con la pelle e con il pianeta, grazie al flacone riciclabile in plastica 100% riciclata
 - Neutro Roberts, da sempre esperto della delicatezza e della gentilezza, sa prendersi cura di tutte le pelli, anche quelle più sensibili
 - Bagnodoccia Nutriente, con olio di mandorla di origine naturale, deterge nutrendo a fondo la tua pelle e lasciandola soffice, vellutata e profumata.
+- Formula con olio di mandorla di origine 100% naturale, dermatologicamente testata per comprovarne la tollerabilità cutanea e senza sapone
+- Gentile con la pelle e con il pianeta, grazie al flacone riciclabile in plastica 100% riciclata
 - Bagnoschiuma Neutro Roberts con formula nutriente, privo di sapone, coloranti e a pH fisiologico offrono un gesto damore quotidiano; Per uso esterno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

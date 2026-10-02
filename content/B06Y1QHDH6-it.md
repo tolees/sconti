@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Materiale: 100% plastica
-- Collezione: On The Go
 - Il contenitore può essere inserito in frigorifero o in congelatore
+- Collezione: On The Go
 - Colore: Trasparente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

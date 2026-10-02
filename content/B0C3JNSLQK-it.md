@@ -28,9 +28,9 @@ average: '20.11'
 
 ℹ️:
 
-- Fodera in tessuto
-- Calzata regolare
 - Intersuola ammortizzata
+- Calzata regolare
+- Fodera in tessuto
 - Tomaia in pelle
 - Chiusura con lacci
 

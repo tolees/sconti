@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Filtro rimovibile e lavabile
+- Finitura in acciaio inossidabile spazzolato
 - Base girevole a 360° con avvolgicavo
 - Indicatore del livello dellacqua
-- Finitura in acciaio inossidabile spazzolato
 - Capacità: 1.7 l
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

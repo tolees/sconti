@@ -28,11 +28,11 @@ average: '42.0'
 
 ℹ️:
 
+- Tomaia in materiale sintetico
 - Lacci
 - Soletta in tessuto
-- Vestibilità regolare
 - Suola in gomma
-- Tomaia in materiale sintetico
+- Vestibilità regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F339K9PF{{</world>}}

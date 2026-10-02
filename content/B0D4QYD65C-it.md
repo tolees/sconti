@@ -30,8 +30,8 @@ average: '119.0'
 
 - Contenuto: 1x Monitor Gaming Odyssey G3 27", Include cavo di alimentazione, cavo HDMI e cavo DP, Dimensioni con base (LxAxP): 61,82 x 52,06 x 23,42 cm
 - 1920x1080 (Full HD), Pannello VA, 16:9
-- Samsung Monitor Gaming Odyssey G3, 27", Flat
 - Refresh Rate 180Hz, Response Time 1ms, AMD FreeSync
+- Samsung Monitor Gaming Odyssey G3, 27", Flat
 - 1 HDMI, 1 Display Port, Ingresso Audio, HAS, Pivot, Flicker Free, Eye Saver Mode
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

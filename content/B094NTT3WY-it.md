@@ -28,10 +28,10 @@ average: '6.095'
 
 ℹ️:
 
-- Linconfondibile essenza del Muschio Bianco, fragranza ambrata e armoniosa, avvolge i tessuti lasciando a lungo una sensazione di fresco e pulito
-- Tesori d’Oriente nasce dal desiderio di trasformare i gesti della routine quotidiana in rituali di puro piacere
-- Profumatore aromatico per biancheria, dalle note armoniose, dona al bucato unessenza seducente e duratura; non contiene ammorbidente, adatto a tutti i tessuti
 - Versare 1-2 tappi di prodotto a seconda dell’intensità di profumo desiderata; per il lavaggio a mano aggiungere 1-2 tappi ogni 5 L dacqua solo nellultimo risciacquo
+- Tesori d’Oriente nasce dal desiderio di trasformare i gesti della routine quotidiana in rituali di puro piacere
+- Linconfondibile essenza del Muschio Bianco, fragranza ambrata e armoniosa, avvolge i tessuti lasciando a lungo una sensazione di fresco e pulito
+- Profumatore aromatico per biancheria, dalle note armoniose, dona al bucato unessenza seducente e duratura; non contiene ammorbidente, adatto a tutti i tessuti
 - Ispirata alla magia di terre lontane, la linea Muschio Bianco offre una sensazione avvolgente di profondo benessere con il suo profumo armonioso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

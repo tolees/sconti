@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Lunghezza standard
-- Composizione materiale: 88% cotone, 9% poliestere, 3% elastan
 - Comodo da indossare e morbido al tatto
 - Vestibilità regolare
+- Composizione materiale: 88% cotone, 9% poliestere, 3% elastan
+- Lunghezza standard
 - Taglio normale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

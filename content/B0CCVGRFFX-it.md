@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Adatto per diete vegetariane e vegane
 - Ricco di fibre
+- Adatto per diete vegetariane e vegane
 - Confezionato in atmosfera protettiva per mantenere la freschezza
 - Può contenere occasionalmente frammenti di guscio
 

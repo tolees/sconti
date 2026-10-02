@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Caratteristiche: Protezione nella zona del pedale cambio in PU
-- Ergonomia: Chiusura con lacci; Fascia elastica per riporre i lacci
-- Materiali principali: Tomaia in tessuto; Inserti in suede sintetico; Suola in gomma Groundtrax: Plantare Ortholite con imbottitura resistente e traspirabilità elevata
 - Temperatura: Membrana Gore-Tex Extended Comfort; Fodera in mesh
 - Performance Shock: Inserti rigidi sull’area del malleolo con morbida D-Foam sul lato interno; Scarpe certificate secondo CE - Cat. II - Norma EN 13634
+- Materiali principali: Tomaia in tessuto; Inserti in suede sintetico; Suola in gomma Groundtrax: Plantare Ortholite con imbottitura resistente e traspirabilità elevata
+- Ergonomia: Chiusura con lacci; Fascia elastica per riporre i lacci
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C2Z42JCN{{</world>}}

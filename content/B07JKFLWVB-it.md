@@ -30,9 +30,9 @@ average: '222.993333333333'
 
 - Valvola di ventilazione in alluminio
 - Ruote in plastica termoindurenti resistenti alle intemperie
-- Griglia di cottura Gourmet BBQ System in acciaio cromato
 - Termometro integrato nel coperchio
 - Serbatoio e coperchio in acciaio smaltato
+- Griglia di cottura Gourmet BBQ System in acciaio cromato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07JKFLWVB{{</world>}}

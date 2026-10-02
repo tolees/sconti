@@ -29,9 +29,9 @@ average: '29.99'
 ℹ️:
 
 - Temperatura di funzionamento: 0°C-40°C
+- Adattatore: 12V/3A, compatibile con gli altri adattatore USB da 12V, 9V o 5V
 - Porta di ricarica: USB Type-C
 - Tempo di ricarica: 90 minuti (se caricato con un adattatore da 12V 3A)
-- Adattatore: 12V/3A, compatibile con gli altri adattatore USB da 12V, 9V o 5V
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BC1D91N1{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Borotalco Bagnodoccia Originale Profumo di Borotalco 500 ml'
-date: 2026-09-24 19:52:30
+date: 2026-09-30 00:30:53
 image: 'https://m.media-amazon.com/images/I/31aVJs1XUhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0GMQTP8NH-it Borotalco Bagnodoccia Originale Profumo di Borotalco 500 ml'
 sku: 'B0GMQTP8NH-it'
 tags: [ '🇮🇹', ]
-actualPrice: 2.99 EUR
+actualPrice: 4.2 EUR
 currency: EUR
-price: 2.99
+price: 4.2
 comparePrice: 4.99 EUR
 prodname: 'Borotalco Bagnodoccia Originale Profumo di Borotalco 500 ml'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0GMQTP8NH/?tag=tolees00-21'
-descuento: '40.08'
-average: '2.99'
+descuento: '15.83'
+average: '3.232'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

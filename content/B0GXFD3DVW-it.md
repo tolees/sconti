@@ -28,9 +28,9 @@ average: '159.99'
 
 ℹ️:
 
-- LAVORO FACILE IN SPAZI RISTRETTI: grazie alla struttura compatta con uneccezionale lunghezza della testa di soli 146 mm
-- DUREVOLE E ROBUSTO: con mandrino in metallo per lavori di avvitamento e foratura di alta qualità
 - DOTAZIONE: GSB18V-52, 2 batterie GBA 18V 2.0Ah, 1 GAL 18V-20, L-case, 1 set AC
+- DUREVOLE E ROBUSTO: con mandrino in metallo per lavori di avvitamento e foratura di alta qualità
+- LAVORO FACILE IN SPAZI RISTRETTI: grazie alla struttura compatta con uneccezionale lunghezza della testa di soli 146 mm
 - MAGGIORE DURATA DELLUTENSILE: grazie al motore brushless
 - MAGGIORE EFFICIENZA: grazie alla coppia più elevata, rispettivamente di 25 Nm e 52 Nm in materiali teneri/duri
 

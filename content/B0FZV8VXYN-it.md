@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Gioca da solo o con un amico Sfrutta al massimo i nuovi comandi migliorati e ottimizzati per una mira più precisa.
-- Sottotitolato in italiano
 - Azione non-stop Rivivi l’emozione unica dei giochi arcade.
+- Sottotitolato in italiano
 - Un remake completo Grafica, sonoro e meccaniche completamente rifatte in chiave moderna.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

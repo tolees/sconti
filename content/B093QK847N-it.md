@@ -28,8 +28,8 @@ average: '51.14'
 
 ℹ️:
 
-- Estetica retrò
 - Design ibrido da strada/trail
+- Estetica retrò
 - Sistema di ammortizzazione allavanguardia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

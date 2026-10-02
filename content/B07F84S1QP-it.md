@@ -28,10 +28,10 @@ average: '31.2'
 
 ℹ️:
 
-- PROPRIETÀ: Con vitamina B1 per il metabolismo energetico, vitamina E per proteggere dallo stresso ossidativo e niacina contro la stanchezza
-- ENERVIT: Formuliamo e produciamo soluzioni nutrizionali e di integrazione innovative con un preciso obiettivo: aiutare tutte le persone a migliorare la qualità della propria vita
-- ALIMENTAZIONE CONSAPEVOLE: Vegano e senza glutine, si adatta facilmente a ogni regime alimentare
 - PER ATTIVITÀ OUTDOOR: Il formato tascabile da 35g è pensato per gli sport e le attività allaria aperta come trekking ed escursioni
+- ALIMENTAZIONE CONSAPEVOLE: Vegano e senza glutine, si adatta facilmente a ogni regime alimentare
+- ENERVIT: Formuliamo e produciamo soluzioni nutrizionali e di integrazione innovative con un preciso obiettivo: aiutare tutte le persone a migliorare la qualità della propria vita
+- PROPRIETÀ: Con vitamina B1 per il metabolismo energetico, vitamina E per proteggere dallo stresso ossidativo e niacina contro la stanchezza
 - BARRETTE ENERGETICHE Mix gustoso di nocciole, mandorle, uvetta e albicocche disidratate per supportare le tue attività con un boost di energia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

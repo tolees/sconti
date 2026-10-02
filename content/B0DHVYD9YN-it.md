@@ -28,11 +28,11 @@ average: '40.0'
 
 ℹ️:
 
+- Tomaia in pelle
+- Chiusura con lacci
 - Fedele alla taglia
 - Fodera in tessuto
 - Suola in gomma
-- Tomaia in pelle
-- Chiusura con lacci
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DHVYD9YN{{</world>}}

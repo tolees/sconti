@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Leggero
 - Comodo
+- Leggero
 - Cuoio morbido
 - Pelle responsabile
 

@@ -29,8 +29,8 @@ average: '4.66'
 ℹ️:
 
 - Un film con Rob Reiner
-- Sentimentale
 - Un film di Billy Crystal, Meg Ryan, Bruno Kirby, Carrie Fisher
+- Sentimentale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08BS8T7W7{{</world>}}

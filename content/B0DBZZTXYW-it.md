@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Slip-in integrati
 - Cuscino per tallone
+- Slip-in integrati
 - Lavabile in lavatrice
 - MF raffreddato ad aria
 

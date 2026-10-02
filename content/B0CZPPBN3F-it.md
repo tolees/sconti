@@ -28,10 +28,10 @@ average: '47.95'
 
 ℹ️:
 
-- Giacca e pantaloni: Tasche anteriori
-- 70% cotone, 30% poliestere (riciclato)
 - Giacca e pantaloni: Polsini e orlo a coste
 - Vestibilità regolare con vita a media altezza
+- 70% cotone, 30% poliestere (riciclato)
+- Giacca e pantaloni: Tasche anteriori
 - Pantaloni: Girovita elasticizzato con cordino
 - Zip integrale con collo alto
 

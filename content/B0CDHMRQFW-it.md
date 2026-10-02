@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - LINEA WONDER NO ORANGE: La linea è studiata per ridurre la progressiva comparsa del riflesso arancio nei capelli castano chiari, con un effetto super glossy e super soft per un risultato più setoso e luminoso
-- NEUTRALIZZANTE E TONALIZZANTE: Neutralizza i riflessi arancio indesiderati e svolge unìimmediata azione tonalizzante consentendo di ottenere riflessature neutre e frette
-- ALGAPUR & GUAR GUM: La formula è arricchita con AlgaPur, un prezioso olio derivato da microalghe, un vero concentrato di Omega 9, che protegge e rinforza la fibra capillare
 - SHAMPOO ANTIARANCIO: Lo Shampoo Antiarancio Wonder No Orange Extra Care nutre e idrata i capelli eliminando i riflessi arancioni indesiderati nei capelli castano chiaro colorati o naturali
+- ALGAPUR & GUAR GUM: La formula è arricchita con AlgaPur, un prezioso olio derivato da microalghe, un vero concentrato di Omega 9, che protegge e rinforza la fibra capillare
+- NEUTRALIZZANTE E TONALIZZANTE: Neutralizza i riflessi arancio indesiderati e svolge unìimmediata azione tonalizzante consentendo di ottenere riflessature neutre e frette
 - MODO DUSO: Indossare guanti monouso e applicare su capelli bagnati. Massaggiare, emulsionare e lasciare in posa da 1 a 5 minuti, quindi risciacquare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

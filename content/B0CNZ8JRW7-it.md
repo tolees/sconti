@@ -28,8 +28,8 @@ average: '25.48'
 
 ℹ️:
 
-- Questo stile è stato prodotto in modo sostenibile
 - Questo è un prodotto originale e originale SLOGGI
+- Questo stile è stato prodotto in modo sostenibile
 - assicura una vestibilità ottimale
 - Comodo da indossare
 

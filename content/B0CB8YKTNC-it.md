@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Tessuto: poliestere riciclato 600D
+- Rinforzo:
 - Cinghie/imbottitura: cintura regolabile
 - Scomparti/chiusura: 1 scomparto con cerniera, 1 tasca con cerniera sul retro
-- Rinforzo:
-- Tessuto: poliestere riciclato 600D
 - Tipo: marsupio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

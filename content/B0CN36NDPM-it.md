@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Questo raffinato pendente dalle tonalità intense e accattivanti si ispira all’iconico emblema Swarovski
 - Il design si indossa con una catenina placcata color oro rosa e presenta un motivo con cigno, magistralmente decorato con un pavé di Swarovski ReCreated crystals Jet Black
+- Questo raffinato pendente dalle tonalità intense e accattivanti si ispira all’iconico emblema Swarovski
 - Indossa questo affascinante gioiello per aggiungere un tocco immediato di raffinatezza al tuo stile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

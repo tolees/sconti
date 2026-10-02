@@ -28,12 +28,12 @@ average: '8.99'
 
 ℹ️:
 
+- sistema di tapparelle Maxi, 5 interassi
 - avvolgitore robusto per tapparelle fino a 2,50 m di altezza
 - max. 6,0 m di lunghezza del nastro e 23 mm di larghezza
-- estensibile individualmente con la piastra di copertura Schellenberg disponibile separatamente
 - profondità di installazione senza nastro di 123 mm
 - Il pacchetto può variare
-- sistema di tapparelle Maxi, 5 interassi
+- estensibile individualmente con la piastra di copertura Schellenberg disponibile separatamente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01N9FSJHW{{</world>}}

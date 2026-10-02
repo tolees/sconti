@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 0
 - Maglia rasata, 96% poliacrilico / 3% nylon / 1% elastane
 - Struttura a doppio strato
+- 0
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C5R7Z6HG{{</world>}}

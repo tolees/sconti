@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Leather
 - Boots
 - Plain
+- Leather
 - materialFabricComposition: Upper: 100% Leather; Sole: 100% Rubber; Inner: 100% Cotton; Insole: 100% Cotton
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

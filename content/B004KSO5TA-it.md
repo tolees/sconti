@@ -28,11 +28,11 @@ average: '2.29'
 
 ℹ️:
 
-- Fonte di fibre. Solo aromi naturali e nessun colorante
-- NESQUIK Duo contiene ferro, per il normale sviluppo cognitivo dei bambini
-- NESQUIK Duo sono palline croccanti di cereali integrali al cacao e al cioccolato bianco
-- Visita il sito Nestlé per scoprire come le nostre marche sono scese in campo e contribuiscono al raggiungimento degli obiettivi di sostenibilità del Gruppo Nestlé con progetti concreti
 - Confezione da 325g, equivalente a circa 10 porzioni da 30g
+- NESQUIK Duo sono palline croccanti di cereali integrali al cacao e al cioccolato bianco
+- NESQUIK Duo contiene ferro, per il normale sviluppo cognitivo dei bambini
+- Visita il sito Nestlé per scoprire come le nostre marche sono scese in campo e contribuiscono al raggiungimento degli obiettivi di sostenibilità del Gruppo Nestlé con progetti concreti
+- Fonte di fibre. Solo aromi naturali e nessun colorante
 - Con vitamine B6 e B3 che contribuiscono alle normali funzioni psicologiche
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

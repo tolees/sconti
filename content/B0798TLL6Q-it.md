@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 5 rulli di taglio in acciaio INOX: 2 per Julienne, 2 per affettare, 1 per grattugiare
-- Potenza: 150W
-- Completamente smontabile per una facile pulizia
 - Tubo dinserimento e vassoio in plastica trasparente
+- Potenza: 150W
 - Affetta e grattugia direttamente nel piatto
+- 5 rulli di taglio in acciaio INOX: 2 per Julienne, 2 per affettare, 1 per grattugiare
+- Completamente smontabile per una facile pulizia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0798TLL6Q{{</world>}}

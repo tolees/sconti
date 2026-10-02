@@ -28,11 +28,11 @@ average: '39.9'
 
 ℹ️:
 
-- Contenitore e vassoio antiaderenti
-- Timer 60 minuti, display digitale
-- Temperatura regolabile (40° - 200°C)
-- Capacità 6.5 litri (fino a 1500g)
 - Vassoio rialzabile per cotture più croccanti e su 2 livelli
+- Temperatura regolabile (40° - 200°C)
+- Timer 60 minuti, display digitale
+- Capacità 6.5 litri (fino a 1500g)
+- Contenitore e vassoio antiaderenti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DX79MRH9{{</world>}}

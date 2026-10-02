@@ -28,9 +28,9 @@ average: '56.625'
 
 ℹ️:
 
+- Zaino Alpinestars DEFCON v2
 - Tasca interna per laptop e tasche organizer interne organizer
 - Tasca frontale con cerniera con organizer
-- Zaino Alpinestars DEFCON v2
 - Tasche laterali in rete per bottiglie dacqua
 - Misure 35 x 50 x 54 cm Capacità 13,6 litri
 

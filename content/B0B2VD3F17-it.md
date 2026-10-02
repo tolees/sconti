@@ -28,8 +28,8 @@ average: '1.79'
 
 ℹ️:
 
-- Sapevi che le fibre di crusca di frumento favoriscono il transito intestinale?
 - Prodotto in Italia nello stabilimento di Capriata DOrba in Piemonte
+- Sapevi che le fibre di crusca di frumento favoriscono il transito intestinale?
 - Per chi cerca una fonte di fibre gustosa e genuina, adatto per iniziare la giornata allinsegna della regolarità
 - Oro Fibrattiva: il biscotto alleato del tuo benessere, fatto con 100% grano italiano
 

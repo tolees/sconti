@@ -28,11 +28,11 @@ average: '87.93'
 
 ℹ️:
 
-- ANELLI INTRECCIATI CHE SIMBOLEGGIANO IL LEGAME – Due anelli contrastanti per rappresentare unione e raffinatezza. Da completare con bracciale e orecchini coordinati per un set da regalare.
 - CHIUSURA A MOSCHETTONE – Facile da indossare e sicura, perfetta per ogni giorno.
 - PLACCATURA ORO GIALLO IP CON CRISTALLI PAVÉ – Acciaio 316L con finitura dorata IP e cristalli incastonati per un look elegante e luminoso.
 - COLLANA DA DONNA CON ANELLI INTRECCIATI – Un gioiello elegante firmato BOSS Jewelry, pensato per valorizzare ogni look quotidiano.
 - LUNGHEZZA CATENA: 457 MM + 50 MM DI ESTENSIONE ; LARGHEZZA PENDENTE: 22 MM – Catena regolabile dalla lunghezza media per una vestibilità armoniosa.
+- ANELLI INTRECCIATI CHE SIMBOLEGGIANO IL LEGAME – Due anelli contrastanti per rappresentare unione e raffinatezza. Da completare con bracciale e orecchini coordinati per un set da regalare.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FC2WMC1K{{</world>}}

@@ -28,8 +28,8 @@ average: '8.51'
 
 ℹ️:
 
-- Sunsilk Balsamo Bye Bye Crespo 200ml
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
+- Sunsilk Balsamo Bye Bye Crespo 200ml
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DW3SLVG7{{</world>}}

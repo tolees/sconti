@@ -28,9 +28,9 @@ average: '70.0'
 
 ℹ️:
 
-- Tomaia in mesh traspirante
 - Look versatile
 - Comoda corsa
+- Tomaia in mesh traspirante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DM3BGJ3C{{</world>}}

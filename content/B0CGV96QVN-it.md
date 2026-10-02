@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Funzione tara
-- Spegnimento automatico o manuale
-- Misurazione peso e volume
-- Capacità : 5 kg/1gr
 - Piatto in vetro temperato da 2mm di spessore
+- Spegnimento automatico o manuale
+- Capacità : 5 kg/1gr
+- Misurazione peso e volume
+- Funzione tara
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CGV96QVN{{</world>}}

@@ -28,8 +28,8 @@ average: '11.88'
 
 ℹ️:
 
-- * Montatura: 100% policarbonato; lenti: 100% policarbonato. Occhiali da sole classici. Protezione UVA/UVB 400. Custodia per occhiali da sole Cinch
 - Protezione UVA/UVB 400
+- * Montatura: 100% policarbonato; lenti: 100% policarbonato. Occhiali da sole classici. Protezione UVA/UVB 400. Custodia per occhiali da sole Cinch
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F7RM7JNY{{</world>}}

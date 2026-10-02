@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dettaglio logo
 - Leggero
+- Dettaglio logo
 - Non resistente allacqua
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Per scollegare un controller, basta premere il pulsante di rilascio sul retro
-- Si collegano alla console Nintendo Switch 2 magneticamente
-- Potenti magneti tengono i controller saldamente attaccati alla console
 - Control Stick più grandi
+- Si collegano alla console Nintendo Switch 2 magneticamente
 - I pulsanti SL/SR sono più grandi, per comfort e maggior controllo se si gioca impugnando un Joy-Con 2 in orizzontale. Anche i control stick sono più grandi
+- Potenti magneti tengono i controller saldamente attaccati alla console
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F3JM95S4{{</world>}}

@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Perforati per strappo facile
-- Carta liscia, bianca, 90 g/m², per scrivere su entrambi i lati
-- 140 pagine per blocco
 - Confezione da 5 pezzi
+- Perforati per strappo facile
 - Fogli con 4 fori per poterli inserire in raccoglitori ad anelli o a leva
+- Carta liscia, bianca, 90 g/m², per scrivere su entrambi i lati
 - Quaderno formato A4 a righe con margini per prendere appunti in modo ordinato
+- 140 pagine per blocco
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07YFZSBD6{{</world>}}

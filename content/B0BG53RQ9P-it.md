@@ -30,9 +30,9 @@ average: '21.5824999999999'
 
 - ARTICOLO CONSEGNATO: 1 cartone scorta Tempo fazzoletti tascabili 144 pacchetti, 24 confezioni da 6 pacchetti di fazzoletti
 - I fazzoletti Tempo sono morbidi e resistenti, pronti a tutto! Dermatologicamente testati
+- Fazzoletti biodegradibili realizzati con fibre provenienti da fornitori certificati FSC
 - Scopri il nuovo look Tempo: liconico fazzoletto si rinnova!
 - I fazzoletti Tempo sono resistenti ai lavaggi in lavatrice
-- Fazzoletti biodegradibili realizzati con fibre provenienti da fornitori certificati FSC
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BG53RQ9P{{</world>}}

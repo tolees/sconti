@@ -28,9 +28,9 @@ average: '13.11'
 
 ℹ️:
 
-- Compatto: Modello leggero meno di 300 grammi
 - 1000 Watt: Risultati rapidi grazie a flusso daria ultra rapido
 - Comprende: asciugacapelli da viaggio, ugello concentratore, ugello diffusore, sacca di conservazione, struzioni, copertura protettiva rimuovibile
+- Compatto: Modello leggero meno di 300 grammi
 - Doppia tensione: idonea per uso in tutto il mondo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Facile da pulire. Resistente ai graffi. Vestibilità comoda.
 - Due coppie di leggero taglia piccola uomo / donna / unisex occhiali da lettura.
 - Forza +1,00.
+- Facile da pulire. Resistente ai graffi. Vestibilità comoda.
 - Robusto design rotondo senza tempo con cerniere a molla.
 - Viola opaco liscio finitura.
 

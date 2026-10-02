@@ -28,10 +28,10 @@ average: '222.39'
 
 ℹ️:
 
-- Otto core della CPU
-- Con AMD Ryzen per i creatori di contenuti
 - Numero di thread: 16
+- Con AMD Ryzen per i creatori di contenuti
 - Il processore da gioco délite
+- Otto core della CPU
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0815XFSGK{{</world>}}

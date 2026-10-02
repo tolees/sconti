@@ -30,9 +30,9 @@ average: '4.78666666666667'
 
 - Modalità di assunzione: Bambini 1-2 anni: 5 ml, 2 volte al giorno Bambini 3-4 anni: 5ml 3, volte al giorno Bambini 5-12 anni: 10ml, 2 volte al giorno
 - Vivin Tosse Pediatrico è un dispositivo medico a base di estratti vegetali (altea, piantaggine) e miele per i sintomi di tosse secca e tosse grassa nei bambini a partire da 1 anno di età.
-- In caso di TOSSE SECCA protegge la mucosa faringea da agenti irritanti e svolge azione lenitiva sulla mucosa irritata;
-- Il prodotto è disponibile al gusto Fragola e creme caramel. Senza glutine e senza lattosio.
 - In caso TOSSE GRASSA promuove l’idratazione e l’espulsione del muco.
+- Il prodotto è disponibile al gusto Fragola e creme caramel. Senza glutine e senza lattosio.
+- In caso di TOSSE SECCA protegge la mucosa faringea da agenti irritanti e svolge azione lenitiva sulla mucosa irritata;
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07J1CCY69{{</world>}}

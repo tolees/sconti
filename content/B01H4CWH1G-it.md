@@ -28,9 +28,9 @@ average: '52.9433333333334'
 
 ℹ️:
 
-- Suola esterna flessibile con buona aderenza
-- Fodera: Sintetico
 - Marchio Puma sul ponticello
+- Fodera: Sintetico
+- Suola esterna flessibile con buona aderenza
 - Materiale suola: Gomma
 - Materiale esterno: Sintetico
 

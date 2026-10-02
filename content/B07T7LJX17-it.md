@@ -29,8 +29,8 @@ average: '14.77'
 ℹ️:
 
 - Leggings
-- Cotone
 - Elastico in vita
+- Cotone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07T7LJX17{{</world>}}

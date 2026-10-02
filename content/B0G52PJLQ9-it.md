@@ -28,8 +28,8 @@ average: '4.8'
 
 ℹ️:
 
-- Rimmel stay Matte polvere spremuto, 003 Peach Glow
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
+- Rimmel stay Matte polvere spremuto, 003 Peach Glow
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0G52PJLQ9{{</world>}}

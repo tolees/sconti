@@ -28,8 +28,8 @@ average: '11.25'
 
 ℹ️:
 
-- CHICCO: Da sempre al fianco delle famiglie, ascoltando le loro storie e necessità. Con i nostri prodotti innovativi, rispondiamo sempre ai nuovi bisogni dei genitori e di tutti coloro che si prendono cura dei bambini
 - GUIDA ALLE TAGLIE: scegli la taglia più adatta alla tua bimba, seguendo le indicazioni della power image
+- CHICCO: Da sempre al fianco delle famiglie, ascoltando le loro storie e necessità. Con i nostri prodotti innovativi, rispondiamo sempre ai nuovi bisogni dei genitori e di tutti coloro che si prendono cura dei bambini
 - STIVALI PIOGGIA BAMBINA: Stivali pioggia Chicco, ideali per lautunno e linverno
 - COMFORT: Gli stivali pioggia Chicco sono confortevoli, flessibili e leggeri
 

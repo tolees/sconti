@@ -28,8 +28,8 @@ average: '18.09'
 
 ℹ️:
 
-- Lunga durata
 - Felpa da donna
+- Lunga durata
 - Prodotto di ottima fattura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

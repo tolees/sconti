@@ -28,9 +28,9 @@ average: '99.95'
 
 ℹ️:
 
-- PureGEL per ammortizzazione morbida e fluida
-- Geometria più snella per transizioni dinamiche
 - Tomaia engineered mesh traspirante
+- Geometria più snella per transizioni dinamiche
+- PureGEL per ammortizzazione morbida e fluida
 - Ideali per lunghe distanze su strada
 - FF BLAST+ Eco aggiornato per maggiore reattività
 

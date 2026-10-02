@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DJI Osmo Action 4 Combo Essential action cam 4K/120fps'
-date: 2026-09-22 18:46:40
+date: 2026-09-29 21:05:59
 image: 'https://m.media-amazon.com/images/I/41fH89b5SwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0DS2B3P2B/?tag=tolees00-21'
 descuento: '15.28'
-average: '203.833'
+average: '202.939090909091'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

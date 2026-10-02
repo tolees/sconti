@@ -28,10 +28,10 @@ average: '39.8466666666667'
 
 ℹ️:
 
-- Tomaia in materiale sintetico
+- Chiusura con lacci
 - Calzata regolare
 - Intersuola vulcanizzata
-- Chiusura con lacci
+- Tomaia in materiale sintetico
 - Fodera in tessuto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

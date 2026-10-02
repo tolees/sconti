@@ -29,9 +29,9 @@ average: '369.0'
 ℹ️:
 
 - Smart TV VIDAA U8 con +1000 APP
+- AirPlay2 + Android Screen Sharing
 - Smart TV 4K 58", Risoluzione 3840x2160
 - Audio DTS Virtual X con Bluetooth
-- AirPlay2 + Android Screen Sharing
 - Dolby Vision / HDR 10+ / HLG
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

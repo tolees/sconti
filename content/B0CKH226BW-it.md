@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - - Colore della cassa: Nero
 - - Vetro: Vetro minerale
-- - Cassa in: Acciaio INOX
 - Cassa
 - - Forma della cassa: Circolare
+- - Cassa in: Acciaio INOX
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CKH226BW{{</world>}}

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Gilet da donna
 - Prodotto di ottima fattura
+- Gilet da donna
 - Altamente chiuso, senza maniche
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

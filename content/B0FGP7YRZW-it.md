@@ -28,11 +28,11 @@ average: '35.71'
 
 ℹ️:
 
+- Collo: rotondo
+- Stampa digitale di fiori
 - Colore: Multicolore
 - Manica: Corta
 - Fit: Regular
-- Stampa digitale di fiori
-- Collo: rotondo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FGP7YRZW{{</world>}}

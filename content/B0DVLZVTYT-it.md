@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Aromatizzata allarancia, con edulcoranti
 - Confezionato in Germania
-- Conservare in luogo fresco, buio e asciutto
-- Adatto a una dieta vegetariana e vegana
+- Aromatizzata allarancia, con edulcoranti
 - Lattina contiene 1 porzione
+- Adatto a una dieta vegetariana e vegana
+- Conservare in luogo fresco, buio e asciutto
 - Bevanda analcolica gassata a basso contenuto calorico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

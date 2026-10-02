@@ -29,9 +29,9 @@ average: '56.94'
 ℹ️:
 
 - Lunghezza del pacchetto dellarticolo: 340 mm
-- Altezza della confezione dellarticolo: 115 mm
-- Larghezza della confezione dellarticolo: 215 mm
 - Peso della confezione dellarticolo: 0.27 kg
+- Larghezza della confezione dellarticolo: 215 mm
+- Altezza della confezione dellarticolo: 115 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B081KTSYVM{{</world>}}

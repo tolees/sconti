@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 100% microfibra di poliestere. Facile da pulire, lavabile in lavatrice.
-- 300 g (ogni gomitolo: 100 g, 60 m - 65 yd circa)
-- Conforme agli standard EN71-3
 - Perfetto per giocattoli, coperte, articoli correlati ai bambini, progetti di creazione di bambole amigurumi. Anche per cardigan, maglioni, sciarpe, cappelli, accessori e tessuti per la casa.
+- 300 g (ogni gomitolo: 100 g, 60 m - 65 yd circa)
+- 100% microfibra di poliestere. Facile da pulire, lavabile in lavatrice.
+- Conforme agli standard EN71-3
 - Tensione 10 x 10 cm: 11 file, 7 m. Misura ferri consigliata: 8 - Misura gancio: 9
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

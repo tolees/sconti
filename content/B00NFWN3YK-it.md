@@ -28,11 +28,11 @@ average: '8.41'
 
 ℹ️:
 
-- Ultraleggero per foto o video in movimento - Testa a sfera per rotazione a 360° - Compatibile con DSLM, fotocamere compatte, Actioncamera, macchine a 360 gradi e smartphones
+- Peso (incl. testa a sfera): 160 g - Altezza massima 27 cm - Altezza minima 10 cm - Confezione 27 cm - Portata massima 750 g
+- Semplice da utilizzare grazie alla piastra a sgancio rapido - Utilizzabile anche come supporto per PC Tablet
 - Contenuto della confezione: Rollei Mini Treppiede Monkey Pod, testa sferica, piastra a sgancio rapido
 - Gambe molto flessibili per essere piegate, avvolte o chiuse - ideale per tutte le superfici, angolazioni e situazioni - Gambe treppiede con comode e ruvide superfici in schiuma, per aumentare la forza di trazione e di presa
-- Semplice da utilizzare grazie alla piastra a sgancio rapido - Utilizzabile anche come supporto per PC Tablet
-- Peso (incl. testa a sfera): 160 g - Altezza massima 27 cm - Altezza minima 10 cm - Confezione 27 cm - Portata massima 750 g
+- Ultraleggero per foto o video in movimento - Testa a sfera per rotazione a 360° - Compatibile con DSLM, fotocamere compatte, Actioncamera, macchine a 360 gradi e smartphones
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00NFWN3YK{{</world>}}

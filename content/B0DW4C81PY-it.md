@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fairy Platinum Pastiglie Lavastoviglie Tutto in Uno 180 Caps Limone'
-date: 2026-09-27 13:19:21
+date: 2026-10-01 06:21:05
 image: 'https://m.media-amazon.com/images/I/51o3uVQ7XCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ '🇮🇹', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99
-comparePrice: 50.5 EUR
+comparePrice: 54.0 EUR
 prodname: 'Fairy Platinum Pastiglie Lavastoviglie Tutto in Uno 180 Caps Limone'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0DW4C81PY/?tag=tolees00-21'
-descuento: '40.61'
-average: '29.9887499999999'
+descuento: '44.46'
+average: '29.9888235294117'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

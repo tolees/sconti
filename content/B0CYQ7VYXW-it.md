@@ -28,9 +28,9 @@ average: '18.15'
 
 ℹ️:
 
-- Chiusura a strappo
 - Tomaia in materiale sintetico
 - Suola in gomma
+- Chiusura a strappo
 - Collarino e fodera in mesh
 - Calzata regolare
 

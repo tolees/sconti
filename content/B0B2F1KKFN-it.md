@@ -30,8 +30,8 @@ average: '14.6066666666667'
 
 - Mellin confezione mista di Omogeneizzato 100% Naturale con Carne
 - Per le pappe, scegli pochi, semplici alimenti
-- Senza sale aggiunto, senza aromi e senza conservanti
 - Contiene 4 blister da 2 vasetti manzo, 4 blister da 2 vasetti pollo e 4 blister da 2 vasetti vitello
+- Senza sale aggiunto, senza aromi e senza conservanti
 - Essenziali per laccrescimento e lo sviluppo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

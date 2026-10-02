@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Utilizziamo un tessuto morbido, leggero e ad asciugatura rapida
 - Il tessuto Charged Cotton offre il comfort del cotone ma si asciuga molto più rapidamente
+- Utilizziamo un tessuto morbido, leggero e ad asciugatura rapida
 - Il materiale elasticizzato in 4 direzioni migliora la mobilità
 - Materiale: 60% cotone/40% poliestere
 - Tutti fanno t-shirt stampate... Ma nessuno le fa meglio di Under Armour

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Contiene Vitamina C di ROSA CANINA, che aiuta a ravvivare l’incarnato, illuminare ed energizzare la pelle.
-- Per una pelle ancora più radiosa utilizza tutti i prodotti della Linea Illuminante di Acqua alle Rose nella tua routine.
-- La linea illumina e uniforma l’incarnato, energizza la pelle del viso, e la protegge dai radicali liberi.
 - ACQUA SPRAY 200 ml; 1 Maschera viso in tessuto monouso ; GEL LAVAVISO 200 ml; 20 Salviettine struccanti.
+- Contiene Vitamina C di ROSA CANINA, che aiuta a ravvivare l’incarnato, illuminare ed energizzare la pelle.
+- La linea illumina e uniforma l’incarnato, energizza la pelle del viso, e la protegge dai radicali liberi.
+- Per una pelle ancora più radiosa utilizza tutti i prodotti della Linea Illuminante di Acqua alle Rose nella tua routine.
 - La ROSA CANINA produce frutti color scarlatto. Contiene il doppio di concentrazione di Vitamina C rispetto alle arance.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

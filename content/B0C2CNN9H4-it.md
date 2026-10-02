@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- SPD CLEATS sono appositamente progettati per pedali Shimano e prevengono danni
 - Allentare le macchie dai pedali ruotando i talloni in qualsiasi direzione
+- SPD CLEATS sono appositamente progettati per pedali Shimano e prevengono danni
 - Versione senza dado a piastra
 - Per SPD, fare clic in più direzioni
 

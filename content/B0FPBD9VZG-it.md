@@ -28,10 +28,10 @@ average: '28.28'
 
 ℹ️:
 
-- Classificazione età: 3+
-- Include tappo di scarico e patch di riparazione
 - Protezione UPF 50+ rimovibile e pediluvio gonfiabile
+- Include tappo di scarico e patch di riparazione
 - Dimensioni approssimative gonfiato: 177 x 221 x 137 cm (altezza piscina 55 cm)
+- Classificazione età: 3+
 - Apacity 34 cm di altezza della parete: 830 litri
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

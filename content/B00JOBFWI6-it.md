@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Scarica lapp dedicata per personalizzare i tuoi scatti e arricchirli di significato e mostra a tutti la tua creatività
 - Design elegante, esponila in casa come un vero pezzo di arredamento grazie allâ€apposito supporto
-- Leggera, compatta, portatile, porta sempre con te la stampante per smartphone e rendi eterno ogni istante
 - Ottieni immagini istantanee di alta qualità nel formato WIDE, il più ampio della famiglia instax
+- Scarica lapp dedicata per personalizzare i tuoi scatti e arricchirli di significato e mostra a tutti la tua creatività
+- Leggera, compatta, portatile, porta sempre con te la stampante per smartphone e rendi eterno ogni istante
 - Le pellicole sono vendute separatamente
 - Scorri i tuoi video preferiti, seleziona listante che più ti piace e stampa un istantanea indimenticabile
 - Inserisci allinterno dei tuoi scatti un QR Code e dai accesso a contenuti extra, come suoni, link a siti web e messaggi segreti

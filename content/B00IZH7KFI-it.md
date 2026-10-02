@@ -29,8 +29,8 @@ average: '137.49'
 ℹ️:
 
 - Coppia massima di disserraggio: 1700 Nm
-- Espulsione inferiore dell’aria attraverso l’impugnatura Vibrazioni ridotte Facile utilizzo
 - Coppia massima di disserraggio: 1700 Nm
+- Espulsione inferiore dell’aria attraverso l’impugnatura Vibrazioni ridotte Facile utilizzo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00IZH7KFI{{</world>}}

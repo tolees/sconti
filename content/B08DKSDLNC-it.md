@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Lavabile in lavatrice a 60°
-- Prodotto intramente in Italia
 - Certificato Oeko-Tex
-- Composto da un lenzuolo 240 x 280 cm, un sottolenzuolo con angoli elasticizzati 175 x 200 cm, due federe 50 x 80 cm
 - Completo Letto Matrimoniale in puro cotone da 58 fili al cmq
+- Lavabile in lavatrice a 60°
+- Composto da un lenzuolo 240 x 280 cm, un sottolenzuolo con angoli elasticizzati 175 x 200 cm, due federe 50 x 80 cm
+- Prodotto intramente in Italia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08DKSDLNC{{</world>}}

@@ -28,10 +28,10 @@ average: '1.59'
 
 ℹ️:
 
-- Sbianca i denti rapidamente rimuovendo le macchie superficiali
-- Clinicamente testato
 - Confezione e tubo riciclabili
+- Sbianca i denti rapidamente rimuovendo le macchie superficiali
 - Dentifricio al fresco sapore di menta alleucalipto
+- Clinicamente testato
 - Protegge lo smalto per denti sani e luminosi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - MODO DUSO: Si consigliano 3 compresse al giorno da assumere con un bicchiere dacqua preferibilmente allora di pranzo
 - CARATTERISTICHE: La Betulla aiuta nel drenaggio dei liquidi e ha funzioni depurative, la Centella favorisce la funzionalità del microcircolo, lAlga Spirulina ha unazione di sostegno e ricostituente
-- CON ALGA SPIRULINA RICOSTITUENTE: La Spirulina è un alga azzurra unicellulare che contiene clorofilla e micronutrienti utili per lorganismo
 - EQUILIBRA: Da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto dellequilibrio tra rispetto, efficacia, benessere e bellezza
+- CON ALGA SPIRULINA RICOSTITUENTE: La Spirulina è un alga azzurra unicellulare che contiene clorofilla e micronutrienti utili per lorganismo
 - PER LEQUILIBRIO DEL PESO CORPOREO: Integratore alimentare a base di Alga Bruna per lequilibrio del peso corporeo, stimola metabolismo. La formula è completata da Betulla, Centella e Alga Spirulina
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

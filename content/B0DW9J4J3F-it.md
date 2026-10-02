@@ -28,10 +28,10 @@ average: '77.76'
 
 ℹ️:
 
+- Soletta Goga Mat raffreddata ad aria
+- Slip-in
 - Antiscivolo in condizioni di bagnato e asciutto
 - Gomma Goodyear
-- Slip-in
-- Soletta Goga Mat raffreddata ad aria
 - Scivola-passo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

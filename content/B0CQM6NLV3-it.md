@@ -29,9 +29,9 @@ average: '20.38'
 ℹ️:
 
 - Pantaloncini
-- Composizione del materiale: 95% cotone, 5% elastan
-- cotone
 - Confezione:
+- cotone
+- Composizione del materiale: 95% cotone, 5% elastan
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CQM6NLV3{{</world>}}

@@ -28,10 +28,10 @@ average: '2.69'
 
 ℹ️:
 
+- FRAGRANZA: sfumature leggere dell’accordo Marino unite al carattere deciso del ginepro, per una fragranza resa inconfondibile dal tocco avvolgente del fondo talcato
+- FORMULA: con Talco e Molecole Traspiranti, potenziate con Zinco e Tapioca, ti offriranno un effetto asciutto e anti-odori, senza compromessi
 - ABBRACCIA LA VITA: Un gesto spontaneo ma allo stesso tempo potente che racchiude tutte le emozioni più autentiche, che ci arricchisce e ci fa stare bene. Sentiti sicuro con Borotalco di vivere il piacere dei momenti condivisi
 - CONFEZIONE: La confezione è composta da 1 flacone di deodorante spray da 150 ml
-- FORMULA: con Talco e Molecole Traspiranti, potenziate con Zinco e Tapioca, ti offriranno un effetto asciutto e anti-odori, senza compromessi
-- FRAGRANZA: sfumature leggere dell’accordo Marino unite al carattere deciso del ginepro, per una fragranza resa inconfondibile dal tocco avvolgente del fondo talcato
 - MODO DUSO: Formato Spray utile a nebulizzare il deodorante uniformemente sulla pelle. Applicare a una distanza di 15 cm. Lasciare asciugare prima di indossare abiti e non usare prodotto in eccesso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

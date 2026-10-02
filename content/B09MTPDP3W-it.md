@@ -28,10 +28,10 @@ average: '63.59'
 
 ℹ️:
 
-- La linea Universal Bosch – le soluzioni intelligenti quando ti servono versatilità e potenza
 - Dotazione: UniversalDrill 18V-60, confezione in cartone
 - Potente e durevole: Robusto mandrino in metallo del trapano avvitatore da 13 mm, per fissare saldamente la punta e sostituire l’accessorio con facilità
 - POWER FOR ALL ALLIANCE: 1 BATTERIA, 10+ MARCHI, ​150+ PRODOTTI
+- La linea Universal Bosch – le soluzioni intelligenti quando ti servono versatilità e potenza
 - Prestazioni e numero di giri ottimali: Maggiore potenza e autonomia superiore, grazie al motore brushless
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

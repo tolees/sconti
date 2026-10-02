@@ -28,10 +28,10 @@ average: '29.99'
 
 ℹ️:
 
-- Tomaia in pelle rivestita
+- Fodera in tessuto
 - Chiusura con lacci
 - Calzata regolare
-- Fodera in tessuto
+- Tomaia in pelle rivestita
 - Intersuola ammortizzata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

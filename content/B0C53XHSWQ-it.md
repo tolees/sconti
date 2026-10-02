@@ -28,10 +28,10 @@ average: '27.0'
 
 ℹ️:
 
-- Calzata regolare
-- Tomaia in suede
-- Intersuola ammortizzata
 - Chiusura con lacci
+- Calzata regolare
+- Intersuola ammortizzata
+- Tomaia in suede
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C53XHSWQ{{</world>}}

@@ -28,9 +28,9 @@ average: '5.9'
 
 ℹ️:
 
-- Dissoluzione rapida
 - Con profumo di limone
 - Extra brillantezza
+- Dissoluzione rapida
 - 3 poteri attivi (pulizia, brillantezza, freschezza)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

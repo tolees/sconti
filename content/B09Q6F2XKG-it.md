@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 2 porte Usb normali tipo A e 1 porta Usb tipo C (5V/3A - PD/QC 3.0)per caricare i più moderni ed aggiornati Tablet/Smartphone e dispositivi elettronici
 - Ricarica sicura: la multipresa è dotata di protezione da sovraccarico. Cavo: lunghezza 1.5mt. 4 Piedini antiscivolo per garantire di non scivolare o cadere dal tavolo
-- Alimenta 3 dispositivi elettrici e carica 3 dispositivi USB con una presa USB tipo C PD Quick Charge 3.0
+- 2 porte Usb normali tipo A e 1 porta Usb tipo C (5V/3A - PD/QC 3.0)per caricare i più moderni ed aggiornati Tablet/Smartphone e dispositivi elettronici
 - 3 prese elettriche Bipasso Italia/Schuko per alimentare 3 dispositivi elettrici
+- Alimenta 3 dispositivi elettrici e carica 3 dispositivi USB con una presa USB tipo C PD Quick Charge 3.0
 - Abilita e disabilita tutte le prese elettriche e le porte USB in una volta sola con linterruttore illuminato di accensione/spegnimento ON/OFF. Design a forma di cubo che non occupa spazio: tutte le prese elettriche e le porte USB sono facilmente accessibili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

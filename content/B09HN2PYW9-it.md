@@ -28,11 +28,11 @@ average: '27.29'
 
 ℹ️:
 
-- Tocca per pagare tagliare. Tasca portamonete con cerniera.
 - Carhartt Etichetta sul davanti.
-- 100% Nylon Cordura. DWR 500 Denari Cordura Nylon.
 - Hardware ad anello a D in ottone dorato. Materiale di blocco RFID.
+- Tocca per pagare tagliare. Tasca portamonete con cerniera.
 - Fodera: iconica fodera della coperta. Rain Defender - Finitura idrorepellente durevole.
+- 100% Nylon Cordura. DWR 500 Denari Cordura Nylon.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09HN2PYW9{{</world>}}

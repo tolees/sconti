@@ -28,10 +28,10 @@ average: '10.59'
 
 ℹ️:
 
+- * Include: 1 lenzuolo con angoli 90 x 190 x 23 cm
+- * Composizione: 100% cotone 57 fili fibra naturale
 - * Cuffia da 23 cm.
 - * Comfort durevole
-- * Composizione: 100% cotone 57 fili fibra naturale
-- * Include: 1 lenzuolo con angoli 90 x 190 x 23 cm
 - * Facile manutenzione Lavaggio a 60° in lavatrice
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

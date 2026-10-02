@@ -28,10 +28,10 @@ average: '129.99'
 
 ℹ️:
 
-- Design Anna Castelli Ferrieri, 1969
-- Made in Italy
 - Misure: Ø 32 x H 58,5 cm
 - Materiale: ABS colorato in massa o verniciato
+- Made in Italy
+- Design Anna Castelli Ferrieri, 1969
 - Peso: 3,15 kg
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

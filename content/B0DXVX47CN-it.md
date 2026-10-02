@@ -29,9 +29,9 @@ average: '8.42'
 ℹ️:
 
 - 【PER CAPELLI COLORATI & DANNEGGIATI】Specificamente sviluppato per capelli trattati chimicamente, stressati o secchi – per una chioma visibilmente più sana e forte.
+- 【RIPARAZIONE INTENSIVA】La formula altamente efficace con tripli peptidi rafforza i capelli danneggiati e colorati, migliora la struttura e previene la rottura.
 - 【IDRATAZIONE INTENSA】L’innovativo Smooth Complex fornisce un’idratazione profonda, lasciando le lunghezze morbide e sane.
 - 【VEGANO & SENZA SOLFATI】Senza solfati né ingredienti di origine animale – una cura delicata e senza compromessi.
-- 【RIPARAZIONE INTENSIVA】La formula altamente efficace con tripli peptidi rafforza i capelli danneggiati e colorati, migliora la struttura e previene la rottura.
 - 【AZIONE RAPIDA】In soli 3 minuti, la maschera penetra in profondità nelle fibre capillari, migliorando immediatamente l’elasticità e la resistenza del capello.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

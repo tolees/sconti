@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Calzata regolare
+- Questo prodotto contiene almeno il 70% di materiali riciclati e rinnovabili
 - Girocollo
+- Calzata regolare
+- Spalle basse
 - 55% cotone / 36% poliestere (riciclato) / 9% viscosa
 - Orli a coste
-- Spalle basse
-- Questo prodotto contiene almeno il 70% di materiali riciclati e rinnovabili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZTY36NN{{</world>}}

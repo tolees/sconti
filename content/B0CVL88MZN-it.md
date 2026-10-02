@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Tieni le carte in mano rivolte verso gli altri giocatori, ricevi indizi di cosa hai in mano e gioca la cata corretta.
 - Riuscirai a capire quale giocare per rispettare la sequenza?
 - Gioco di carte cooperativo in cui tu sarai lunico a non poter vedere le tue carte.
-- Tieni le carte in mano rivolte verso gli altri giocatori, ricevi indizi di cosa hai in mano e gioca la cata corretta.
 - Collabora per creare file ordinate di carte, per numero e per colore.
 - Al terzo errore, si perde!
 

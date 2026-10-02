@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- GALLES
 - Lt.0,700
+- GALLES
 - Vol. 46%
 - WHISKY
 

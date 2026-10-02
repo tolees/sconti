@@ -28,15 +28,15 @@ average: '45.0'
 
 ℹ️:
 
-- Peso: 270 grammi (misura 42 2/3)
 - Chiusura con lacci
-- Drop intersuola: 6,5 mm (tallone: 34,9 mm / avampiede: 28,4 mm)
 - Calzata regolare
+- Peso: 270 grammi (misura 42 2/3)
 - Fodera in tessuto e materiale sintetico
-- Questo prodotto contiene almeno il 20% di materiali riciclati
-- Suola in TPU e gomma adatta a ogni superficie
 - Tomaia in tessuto e materiale sintetico
+- Drop intersuola: 6,5 mm (tallone: 34,9 mm / avampiede: 28,4 mm)
 - Ammortizzazione Lightstrike
+- Suola in TPU e gomma adatta a ogni superficie
+- Questo prodotto contiene almeno il 20% di materiali riciclati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DHW1PRDW{{</world>}}

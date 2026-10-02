@@ -28,11 +28,11 @@ average: '59.99'
 
 ℹ️:
 
-- Controllo Intuitivo: aggiungi un pannello multiplo alla configurazione del tuo simulatore di ‎volo e gestisci le impostazioni del pilota automatico del tuo velivolo con selettori e ‎pulsanti fisici
-- Compatibilità: completamente plug-and-play. Compatibile con Windows 7, 8.1, 10 e con i ‎tuoi software di simulazione di volo preferiti per PC tra cui FSX - Flight Simulator X, X-Plane ‎‎10, Prepar3D‎
 - Controlli Pilota Automatico Completi: controlla in tutta semplicità unampia ‎gamma di impostazioni software FSX, X-Plane e Prepar3D. Non serve ingrandire la schermata dei controlli per le modifiche
-- Modulari e Intercambiabili: pannelli strumenti di Saitek posizionati uno ‎sopra laltro o uno accanto allaltro. La semplicità di utilizzo ‎consente combinazioni configurazioni simulatore illimitate
 - Pannello Multiplo: controlli realistici per acceleratore e flap automatici. La rotella di regolazione integrata per un corretto livello ‎di resistenza, mantenendo lassetto di volo desiderato
+- Controllo Intuitivo: aggiungi un pannello multiplo alla configurazione del tuo simulatore di ‎volo e gestisci le impostazioni del pilota automatico del tuo velivolo con selettori e ‎pulsanti fisici
+- Modulari e Intercambiabili: pannelli strumenti di Saitek posizionati uno ‎sopra laltro o uno accanto allaltro. La semplicità di utilizzo ‎consente combinazioni configurazioni simulatore illimitate
+- Compatibilità: completamente plug-and-play. Compatibile con Windows 7, 8.1, 10 e con i ‎tuoi software di simulazione di volo preferiti per PC tra cui FSX - Flight Simulator X, X-Plane ‎‎10, Prepar3D‎
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01MFBNN9J{{</world>}}

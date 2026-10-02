@@ -28,15 +28,15 @@ average: '454.8025'
 
 ℹ️:
 
-- Aspirazione potente. Lavaggio efficace. Elimina lo sporco dalle briciole alle impronte, 7000 Pa di aspirazione, panni DualClean, tecnologia SmartScrub, una spazzola in gomma multi-superficie e una spazzola per i bordi.
-- Pulisce dove serve davvero grazie alle Clean Zones, che consentono di inviare il robot in stanze o aree specifiche, mentre le Keep Out Zones permettono di evitare determinate zone.
-- AutoWash Dock per una pulizia automatizzata, con 75 giorni di svuotamento automatico, 4 settimane di lavaggio e pulizia dei panni mop* e asciugatura automatica dei panni per una pulizia continua e senza manutenzione. (Basato su una sessione di lavaggio a settimana).
-- La pulizia giusta per ogni esigenza Scegli tra aspirazione, lavaggio, pulizia combinata o aspirazione seguita dal lavaggio. I panni mop intuitivi si sollevano automaticamente quando rilevano un tappeto, garantendo una pulizia impeccabile su tutte le superfici.
-- Mappatura e navigazione intelligenti con ClearView LiDAR, che mappa rapidamente la casa, evita ostacoli e pulisce in file ordinate, anche al buio.
-- Design elegante e moderno, con finiture raffinate che si integrano perfettamente in qualsiasi ambiente.
-- Controllo in 3 modi: tramite assistente vocale (Alexa, Siri, Google Assistant), con l’app Roomba Home, oppure direttamente dai pulsanti del robot.
-- Doppia efficacia nel lavaggio grazie ai mop rotanti DualClean e SmartScrub, che assicurano una pulizia 2 volte più profonda* con pressione verso il basso. Possibilità di usare soluzione detergente o solo acqua. (Rispetto alla modalità standard aspirazione e lavaggio per caffè e sporco incrostato). Elenco soluzioni compatibili.
 - Nuova app Roomba Home, progettata per una pulizia personalizzata: imposta routine, ricevi stime sui tempi di pulizia, controlla lo stato del filtro e individua le stanze che necessitano di maggiore attenzione.
+- Aspirazione potente. Lavaggio efficace. Elimina lo sporco dalle briciole alle impronte, 7000 Pa di aspirazione, panni DualClean, tecnologia SmartScrub, una spazzola in gomma multi-superficie e una spazzola per i bordi.
+- AutoWash Dock per una pulizia automatizzata, con 75 giorni di svuotamento automatico, 4 settimane di lavaggio e pulizia dei panni mop* e asciugatura automatica dei panni per una pulizia continua e senza manutenzione. (Basato su una sessione di lavaggio a settimana).
+- Design elegante e moderno, con finiture raffinate che si integrano perfettamente in qualsiasi ambiente.
+- Doppia efficacia nel lavaggio grazie ai mop rotanti DualClean e SmartScrub, che assicurano una pulizia 2 volte più profonda* con pressione verso il basso. Possibilità di usare soluzione detergente o solo acqua. (Rispetto alla modalità standard aspirazione e lavaggio per caffè e sporco incrostato). Elenco soluzioni compatibili.
+- Pulisce dove serve davvero grazie alle Clean Zones, che consentono di inviare il robot in stanze o aree specifiche, mentre le Keep Out Zones permettono di evitare determinate zone.
+- La pulizia giusta per ogni esigenza Scegli tra aspirazione, lavaggio, pulizia combinata o aspirazione seguita dal lavaggio. I panni mop intuitivi si sollevano automaticamente quando rilevano un tappeto, garantendo una pulizia impeccabile su tutte le superfici.
+- Controllo in 3 modi: tramite assistente vocale (Alexa, Siri, Google Assistant), con l’app Roomba Home, oppure direttamente dai pulsanti del robot.
+- Mappatura e navigazione intelligenti con ClearView LiDAR, che mappa rapidamente la casa, evita ostacoli e pulisce in file ordinate, anche al buio.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DV9W7RDS{{</world>}}

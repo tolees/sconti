@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Smac Sgrassatore Cucina Detergente Spray 650 ml x 12 Pz'
-date: 2026-09-28 16:26:30
+date: 2026-09-29 20:33:15
 image: 'https://m.media-amazon.com/images/I/51wPs+FqEYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0CT64MRJN/?tag=tolees00-21'
 descuento: '34.20'
-average: '16.5571428571429'
+average: '17.32'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

@@ -28,8 +28,8 @@ average: '66.0'
 
 ℹ️:
 
-- Design che fonde insieme lo stile anni 80 e 90
 - Tomaia in suede e mesh
+- Design che fonde insieme lo stile anni 80 e 90
 - Chiusura regolabile con lacci per una calzata personalizzata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

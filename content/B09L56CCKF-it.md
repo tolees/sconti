@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Marchio CE - Dispositivo Medico Classe I dal Ministero della Salute con detrazione fiscale del 19% - Certificazione Oeko-tex su tutte le materie prime
 - Materasso One in memory, consegnato arrotolato e sottovuoto - 15 anni di garanzia - 100% Made in Italy
-- Materasso Sfoderabile in Memory, Ecologico e Indeformabile.
 - Il rivestimento è Sfoderabile, altamente traspirante, anallergico e antiacaro.
+- Materasso Sfoderabile in Memory, Ecologico e Indeformabile.
 - Il materasso One è un materasso doppio strato dotato di portanza media. La lastra memory si auto-modella al peso del corpo ed al calore, mentre la lastra waterfoam dona consistenza alla struttura.
+- Marchio CE - Dispositivo Medico Classe I dal Ministero della Salute con detrazione fiscale del 19% - Certificazione Oeko-tex su tutte le materie prime
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09L56CCKF{{</world>}}

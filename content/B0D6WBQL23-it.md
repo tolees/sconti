@@ -28,11 +28,11 @@ average: '29.895'
 
 ℹ️:
 
-- Batteria agli ioni di litio. Utilizzo senza filo.
 - Custodia morbida e cavo di ricarica USB.
-- Lame in acciaio inox. Testina di precisione e Testina anso/orecchie.
+- Batteria agli ioni di litio. Utilizzo senza filo.
 - Ricarica in 3h per 80 minuti di autonomia.
 - 1 Guida barba a 5 posiziioni (2, 4, 6, 8, 10mm) + 5 Guide di taglio per barba corta (0.0, 0.2, 0.4, 0.6, 0.8mm) + 3 Guide di taglio per sopracciglia (3, 5, 7mm).
+- Lame in acciaio inox. Testina di precisione e Testina anso/orecchie.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D6WBQL23{{</world>}}

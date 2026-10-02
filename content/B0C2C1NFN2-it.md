@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Resistente al cloro
-- Materiale: materiale resistente allacqua salata e realizzato con filati riciclati
 - Anti-umidità
 - Taglia:__ Taglio aderente
+- Resistente al cloro
+- Materiale: materiale resistente allacqua salata e realizzato con filati riciclati
 - __Protezione UV:__ Indice di protezione solare UPF 50
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

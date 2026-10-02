@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Icons Williams Racing FW14B e Nigel Mansell 10353'
-date: 2026-09-24 16:41:30
+date: 2026-09-29 23:59:16
 image: 'https://m.media-amazon.com/images/I/5159p+kMLmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B01NAEP1AX/?tag=tolees00-21'
 descuento: '20.03'
-average: '65.8396551724136'
+average: '65.7773333333331'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

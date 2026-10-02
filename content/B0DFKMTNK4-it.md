@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Orlo con coulisse, bottoni, chiusura lampo, cappuccio
 - Prodotto di ottima fattura
+- Orlo con coulisse, bottoni, chiusura lampo, cappuccio
 - Giacca da donna
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

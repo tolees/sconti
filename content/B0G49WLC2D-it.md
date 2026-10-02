@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Gioca in squadra con la tua Casa preferita - Grifondoro, Corvonero, Tassorosso o Serpeverde
-- Nome in Codice - Back to Hogwarts è una nuova esperienza Nome in Codice ispirata al Mondo Magico
 - Sfrutta le loro abilità uniche per ottenere un vantaggio strategico nella sfida di parole più magica di sempre
+- Gioca in squadra con la tua Casa preferita - Grifondoro, Corvonero, Tassorosso o Serpeverde
 - Numero di giocatori: 4-8 | Età consigliata: 10+ | Durata media: 15 min | Edizione in lingua italiana
+- Nome in Codice - Back to Hogwarts è una nuova esperienza Nome in Codice ispirata al Mondo Magico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0G49WLC2D{{</world>}}

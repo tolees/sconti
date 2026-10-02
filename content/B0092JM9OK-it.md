@@ -28,11 +28,11 @@ average: '11.14'
 
 ℹ️:
 
-- profilo: Pro torque (esagono)
-- dimensione chiave: 30 mm
 - In acciaio al cromo vanadio
+- profilo: Pro torque (esagono)
 - zigrinato
 - Finitura superficiale: cromo satinato
+- dimensione chiave: 30 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0092JM9OK{{</world>}}

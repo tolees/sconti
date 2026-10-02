@@ -29,10 +29,10 @@ average: '269.02'
 ℹ️:
 
 - Cinturino in silicone grigio-nero con fibbia
+- Philipp Plein Orologio Unisex, collezione THE $KULL
+- Quadrante in pistola, SKULL oro rosso
 - Altezza della cassa: circa 14,6 mm
 - Cassa in acciaio inox, pistola a lunetta, diametro cassa: circa 44 mm (senza corona)
-- Quadrante in pistola, SKULL oro rosso
-- Philipp Plein Orologio Unisex, collezione THE $KULL
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CW1Z5HKJ{{</world>}}

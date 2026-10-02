@@ -28,9 +28,9 @@ average: '8.97'
 
 ℹ️:
 
-- Bottiglia e coperchio sono realizzati al 96% in materiale riciclato
 - 48 ore di protezione deodorante
 - Protezione affidabile senza macchie di deodorante
+- Bottiglia e coperchio sono realizzati al 96% in materiale riciclato
 - Composizione attiva con moringa biologica e minerali naturali
 - 0% Sali di alluminio ACH
 

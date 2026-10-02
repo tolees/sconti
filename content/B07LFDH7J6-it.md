@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Logo Levis sul petto
 - Questo è un prodotto originale Levis
 - Maglietta a maniche corte in morbido jersey
 - Confezione da due
-- Logo Levis sul petto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07LFDH7J6{{</world>}}

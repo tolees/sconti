@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Cotone stretch
 - Confezione da 3
+- Cotone stretch
 - Elastico in vita con logo Tommy Hilfiger ripetuto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

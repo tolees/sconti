@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Idea regalo perfetta: Confezione elegante in cartone, ideale come regalo naturale.
 - Delicati sulla pelle: Adatti all’uso quotidiano per tutta la famiglia.
+- Profumi provenzali raffinati: Lavanda, miele di castagno e acacia, caprifoglio, olio di mandorla dolce.
+- Idea regalo perfetta: Confezione elegante in cartone, ideale come regalo naturale.
 - Saponi 100% vegetali: A base di oli vegetali, senza coloranti né conservanti.
 - Prodotti in Francia: Saponi realizzati a Marsiglia secondo la tradizione artigianale.
-- Profumi provenzali raffinati: Lavanda, miele di castagno e acacia, caprifoglio, olio di mandorla dolce.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FBX82PT2{{</world>}}
