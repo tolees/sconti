@@ -30,12 +30,12 @@ average: '9.715'
 
 - ​Il gioco combina le carte e le azioni di UNO con le regole del gioco di carte "Golf", dove i giocatori puntano a ottenere il punteggio più basso!
 - ​Pensato per 2-8 giocatori dai 7 anni in su, UNO Zero conquisterà gli amanti delle carte e del gioco!
-- ​E ricordate di gridare "UNO!" quando vi rimane una sola carta sulla griglia.
-- ​La scatola colorata può essere utilizzata per riporre le carte, in viaggio e per giocare ovunque!
-- ​Il gioco include un blocco segnapunti per tenere traccia dei punteggi di ciascun giocatore round dopo round.
-- ​Con la carta Doppio Pesca 2, 2 giocatori pescano 2 carte o un giocatore ne pesca 4!
-- ​UNO Zero con scatola offre agli amanti dei giochi di carte un tocco divertente: giocate utilizzando una griglia 2x3 di carte coperte e realizzate un punteggio basso per vincere alla grande!
 - ​I giocatori eliminano le colonne di carte in base al colore o al numero per ridurre il punteggio totale.
+- ​La scatola colorata può essere utilizzata per riporre le carte, in viaggio e per giocare ovunque!
+- ​UNO Zero con scatola offre agli amanti dei giochi di carte un tocco divertente: giocate utilizzando una griglia 2x3 di carte coperte e realizzate un punteggio basso per vincere alla grande!
+- ​Con la carta Doppio Pesca 2, 2 giocatori pescano 2 carte o un giocatore ne pesca 4!
+- ​Il gioco include un blocco segnapunti per tenere traccia dei punteggi di ciascun giocatore round dopo round.
+- ​E ricordate di gridare "UNO!" quando vi rimane una sola carta sulla griglia.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DZDX22Y7{{</world>}}

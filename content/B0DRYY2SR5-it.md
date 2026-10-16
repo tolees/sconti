@@ -28,11 +28,11 @@ average: '8.99'
 
 ℹ️:
 
+- Livella in alluminio da 12 cm robusta, leggera, compatta da utilizzare in spazi ristretti
 - Misurazioni precise e ad alta visibilità, grazie alla bolla orizzontale fluorescente
 - Livella robusta grazie alle calotte protettive di estremità con elemento antiscivolo Softgrip
-- Dotazione: 1 livella a bolla da 12 cm
 - Misurazioni precise su superfici piane o curve, grazie alla scanalatura a V e al fondo con fresatura a spianare
-- Livella in alluminio da 12 cm robusta, leggera, compatta da utilizzare in spazi ristretti
+- Dotazione: 1 livella a bolla da 12 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DRYY2SR5{{</world>}}

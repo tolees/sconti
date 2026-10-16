@@ -28,11 +28,11 @@ average: '41.91'
 
 ℹ️:
 
-- Dimensioni cm 85, 5x73, 6x42, 4
+- Facile apertura e chiusura, dimensioni compatte, semplice da trasportare e riporre
 - Capacità di carico kg 450 (l coppia)
+- Dimensioni cm 85, 5x73, 6x42, 4
 - Piedini in gomma che creano frizione sulla superficie durante il taglio
 - Struttura in metallo che consente lutilizzo con morsetti
-- Facile apertura e chiusura, dimensioni compatte, semplice da trasportare e riporre
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07JQD7MHM{{</world>}}

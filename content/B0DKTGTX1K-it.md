@@ -28,11 +28,11 @@ average: '45.93'
 
 ℹ️:
 
-- SCEGLI UNAZIONE SULLA TUA PLANCIA: scavare, attirare o esplorare.
 - 1-5 GIOCATORI | 14+ ANNI | 90 MINUTI
-- ACCUMULA PUNTI e competi per gli obiettivi comuni per vincere!
 - OTTIENI RISORSE, attira draghi e attivane gli effetti.
+- ACCUMULA PUNTI e competi per gli obiettivi comuni per vincere!
 - BASATO SUL SISTEMA DI GIOCO DEL PLURIPREMIATO WINGSPAN. Gioco di “engine-building” ad alta rigiocabilità .
+- SCEGLI UNAZIONE SULLA TUA PLANCIA: scavare, attirare o esplorare.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DKTGTX1K{{</world>}}

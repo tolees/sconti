@@ -28,9 +28,9 @@ average: '35.51'
 
 ℹ️:
 
-- Facile da assemblare
 - Un prodotto della marca Revell
 - Un modellino di una ruspa
+- Facile da assemblare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01N9AUO01{{</world>}}

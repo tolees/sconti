@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Memory Foam
-- Antiscivolo
-- EN ISO 20347:2012
 - Vestibilità rilassata
+- EN ISO 20347:2012
+- Antiscivolo
 - OB FO SRC
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

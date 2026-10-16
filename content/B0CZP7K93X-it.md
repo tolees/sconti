@@ -28,13 +28,13 @@ average: '3.68'
 
 ℹ️:
 
-- Formula vegana: non contiene ingredienti o sottoprodotti di origine animale.
-- Formula priva di: siliconi e microplastiche.
-- Azione: antiforfora.
-- Detergente e lenitivo: lo shampoo detergente e lenitivo delicato alla menta piperita aiuta a ridurre il prurito ed elimina efficacemente la forfora.
-- Dermatologicamente testato: adatto a tutti i tipi di pelle.
-- Istruzioni per luso: applica sui capelli bagnati e sul cuoio capelluto creando una schiuma ricca, quindi risciacqua accuratamente.
 - by Amazon, Shampoo Anti-Dandruff, 2 x 400 ml
+- Dermatologicamente testato: adatto a tutti i tipi di pelle.
+- Azione: antiforfora.
+- Istruzioni per luso: applica sui capelli bagnati e sul cuoio capelluto creando una schiuma ricca, quindi risciacqua accuratamente.
+- Formula vegana: non contiene ingredienti o sottoprodotti di origine animale.
+- Detergente e lenitivo: lo shampoo detergente e lenitivo delicato alla menta piperita aiuta a ridurre il prurito ed elimina efficacemente la forfora.
+- Formula priva di: siliconi e microplastiche.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZP7K93X{{</world>}}

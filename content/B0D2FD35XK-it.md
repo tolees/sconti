@@ -28,8 +28,8 @@ average: '12.04'
 
 ℹ️:
 
-- Morbida da indossare
 - T-shirt realizzata con materiali di qualità
+- Morbida da indossare
 - Comoda e pratica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

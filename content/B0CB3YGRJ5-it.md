@@ -28,13 +28,13 @@ average: '32.9'
 
 ℹ️:
 
-- Griglia filtrante in acciaio INOX
-- Braccio premi agrumi in alluminio
 - Beccuccio anti-goccia INOX
+- Doppia coppa di spremitura piccola e grande
+- Spremitura automatica a pressione
 - Capacità con beccuccio chiuso: 600cc
 - Completamente smontabile per una pulizia facilitata
-- Spremitura automatica a pressione
-- Doppia coppa di spremitura piccola e grande
+- Braccio premi agrumi in alluminio
+- Griglia filtrante in acciaio INOX
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CB3YGRJ5{{</world>}}

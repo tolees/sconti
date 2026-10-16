@@ -28,9 +28,9 @@ average: '43.58'
 
 ℹ️:
 
-- Robusto
 - Estremamente potente con 1.450 Nm
 - Impugnatura con foggia ergonomica
+- Robusto
 - Meccanismo di percussione "DOUBLE-Hammer"
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

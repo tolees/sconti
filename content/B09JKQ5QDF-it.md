@@ -28,8 +28,8 @@ average: '7.96'
 
 ℹ️:
 
-- Qualità Neri Sottoli: Ingredienti selezionati, lavorati con cura e confezionati per preservare freschezza, croccantezza e sapore autentico.
 - Pronto allUso: Già condito e pronto da versare, ti fa risparmiare tempo in cucina senza rinunciare alla qualità. Basta aggiungerlo al riso cotto e raffreddato.
+- Qualità Neri Sottoli: Ingredienti selezionati, lavorati con cura e confezionati per preservare freschezza, croccantezza e sapore autentico.
 - Versatilità in Cucina: Ottimo anche per arricchire insalate di pasta, farro o cous cous, o come base per ricette creative e veloci.
 - Mix Gustoso e Completo: Un condimento ricco e bilanciato, con verdure selezionate e ingredienti sfiziosi, pensato per esaltare ogni insalata di riso con sapori freschi.
 - Ideale per l’Estate: Perfetto per piatti freddi e leggeri, ideale da portare al mare, in ufficio o per un pranzo all’aperto con gusto e praticità.

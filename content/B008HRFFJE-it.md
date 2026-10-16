@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Set di punte da calcestruzzo per la lavorazione professionale di calcestruzzo, muratura e pietra arenaria calcarea
-- Punte a prova di martello in conformità con ISO 5468 Particolarmente adatte a forature per tasselli
-- Dotazione di fornitura: Ø punte 4 / 5 / 6 / 6 / 7 / 8 / 10 mm
-- Punte ad alte prestazioni con due taglienti in metallo duro duraturo per una lunga durata e una buona resistenza Forma ad U a 2 spirali per una buona asportazione della polvere
 - Compatibilità: Utilizzabili in tuti i trapani battenti e martelli perforatori
+- Punte ad alte prestazioni con due taglienti in metallo duro duraturo per una lunga durata e una buona resistenza Forma ad U a 2 spirali per una buona asportazione della polvere
+- Dotazione di fornitura: Ø punte 4 / 5 / 6 / 6 / 7 / 8 / 10 mm
+- Punte a prova di martello in conformità con ISO 5468 Particolarmente adatte a forature per tasselli
+- Set di punte da calcestruzzo per la lavorazione professionale di calcestruzzo, muratura e pietra arenaria calcarea
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B008HRFFJE{{</world>}}

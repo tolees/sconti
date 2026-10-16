@@ -28,11 +28,11 @@ average: '259.0'
 
 ℹ️:
 
+- 2 altoparlanti upfiring
 - Subwoofer Esterno wireless
+- Supporta Dolby Atmos e DTS:X
 - 2 Altoparlanti posteriore wireless
 - Soundbar 5.1.2 500W
-- Supporta Dolby Atmos e DTS:X
-- 2 altoparlanti upfiring
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CWVLR5YV{{</world>}}

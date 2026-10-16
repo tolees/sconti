@@ -28,15 +28,15 @@ average: '43.11'
 
 ℹ️:
 
+- Fodera in tessuto
+- Chiusura con lacci
+- Pratica suola
+- Peso: 290 g (misura 42 2/3)
+- Calzata ampia
 - Tomaia in mesh
 - Soletta morbida
-- Chiusura con lacci
-- Drop intersuola: 10 mm (tallone: 33 mm / avampiede: 23 mm)
-- Calzata ampia
-- Pratica suola
 - Intersuola Cloudfoam
-- Fodera in tessuto
-- Peso: 290 g (misura 42 2/3)
+- Drop intersuola: 10 mm (tallone: 33 mm / avampiede: 23 mm)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DKG9WRRB{{</world>}}

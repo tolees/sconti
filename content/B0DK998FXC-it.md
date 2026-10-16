@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tipo di punta: Rotonda
-- Fodera: Tessuto
 - Fibbia: Lacci
-- Tipo di tacco: Tacco piatto
 - Larghezza: Regolare
 - Suola: Gomma
+- Fodera: Tessuto
+- Tipo di punta: Rotonda
+- Tipo di tacco: Tacco piatto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DK998FXC{{</world>}}

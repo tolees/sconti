@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'adidas Donna VL COURT 3.0 SHOES Cloud white/core black/grey one 39 1/3 EU'
-date: 2026-04-16 01:20:48
-image: 'https://m.media-amazon.com/images/I/31t4oXN2S9L._SL500_._SL400_.jpg'
+title: 'adidas Donna Vl Court 3.0 Shoes Cloud White/Core Black/Grey One 39 1/3 EU'
+date: 2026-10-16 06:51:42
+image: 'https://m.media-amazon.com/images/I/31jOvSUnnNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0C59CXZVX-it adidas Donna VL COURT 3.0 SHOES Cloud white/core...'
+slug: 'B0C59CXZVX-it adidas Donna Vl Court 3.0 Shoes Cloud White/Core...'
 sku: 'B0C59CXZVX-it'
 tags: [ '🇮🇹', ]
-actualPrice: 29.99 EUR
+actualPrice: 35.0 EUR
 currency: EUR
-price: 29.99
+price: 35.0
 comparePrice: 70.0 EUR
-prodname: 'adidas Donna VL COURT 3.0 SHOES Cloud white/core black/grey one 39 1/3 EU'
+prodname: 'adidas Donna Vl Court 3.0 Shoes Cloud White/Core Black/Grey One 39 1/3 EU'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0C59CXZVX/?tag=tolees00-21'
-descuento: '57.16'
-average: '29.99'
+descuento: '50.00'
+average: '32.495'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,12 +28,6 @@ average: '29.99'
 
 ℹ️:
 
-- Intersuola ammortizzata
-- Suola in gomma vulcanizzata
-- Tomaia in materiale sintetico
-- Chiusura con lacci
-- Fodera in tessuto
-- Calzata regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C59CXZVX{{</world>}}

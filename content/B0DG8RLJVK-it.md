@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- classico intramontabile: tonno allolio di oliva dal gusto ricco e autentico, perfetto per ogni tua creazione culinaria
-- qualità premium senza conservanti: tonno sgocciolato selezionato con cura, garantito senza conservanti per un sapore genuino e sano
 - formato famiglia conveniente: due lattine da 140g ciascuna, ideali per preparare primi piatti, ripieni e farciture per tutta la famiglia
-- fonte naturale di proteine: contribuisce al mantenimento della massa muscolare, con 17g di proteine per 100g di prodotto sgocciolato
 - impegno per la sostenibilità: Nostromo pesca con flotte che rispettano le zone FAO e le linee guida ittiche, per un prodotto responsabile
+- qualità premium senza conservanti: tonno sgocciolato selezionato con cura, garantito senza conservanti per un sapore genuino e sano
+- fonte naturale di proteine: contribuisce al mantenimento della massa muscolare, con 17g di proteine per 100g di prodotto sgocciolato
+- classico intramontabile: tonno allolio di oliva dal gusto ricco e autentico, perfetto per ogni tua creazione culinaria
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DG8RLJVK{{</world>}}

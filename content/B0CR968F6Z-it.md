@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Composizione materiale: 92% cotone, 6% elastomultiestere, 2% elastan
 - Jeans dritti
-- Taglio dritto
+- Composizione materiale: 92% cotone, 6% elastomultiestere, 2% elastan
 - Vita media
+- Taglio dritto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CR968F6Z{{</world>}}

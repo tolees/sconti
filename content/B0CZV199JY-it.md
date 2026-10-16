@@ -28,14 +28,14 @@ average: '26.97'
 
 ℹ️:
 
-- Polsini e orlo a coste
-- Vestibilità regolare
-- Spalle basse
-- Questo prodotto contiene almeno il 70% di materiali riciclati e rinnovabili
-- Tasca a marsupio
-- Cappuccio regolabile con cordino
-- Taglio leggermente corto sul retro
 - 70% cotone / 30% poliestere (riciclato)
+- Polsini e orlo a coste
+- Tasca a marsupio
+- Questo prodotto contiene almeno il 70% di materiali riciclati e rinnovabili
+- Taglio leggermente corto sul retro
+- Spalle basse
+- Cappuccio regolabile con cordino
+- Vestibilità regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZV199JY{{</world>}}

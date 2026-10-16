@@ -30,9 +30,9 @@ average: '1.99'
 
 - MODO DUSO: applica uniformemente sui capelli bagnati, massaggia delicatamente e poi risciacqua con cura. In caso di contatto con gli occhi, sciacqua immediatamente
 - SHAMPOO PER CAPELLI SECCHI: i tuoi capelli sono secchi e sfibrati? Questo shampoo deterge e nutre i capelli secchi e sfibrati senza appesantirli*
+- SUNSILK LINEA COCCO E ALOE VERA: luso combinato dello Shampoo e Balsamo Sunsilk Cocco& Aloe Vera è ideale per capelli visibilmente forti e sani
 - FORMULA NUTRIENTE: 93% di ingredienti di Origine Naturale, i capelli diventeranno visibilmente corposi dalle radici alle punte, ritrovando la loro naturale brillantezza
 - CON COCCO E ALOE VERA: il Cocco è conosciuto per le sue proprietà idratanti e protettive, lAloe Vera per le proprietà nutrienti, anti-ossidanti e rinforzanti
-- SUNSILK LINEA COCCO E ALOE VERA: luso combinato dello Shampoo e Balsamo Sunsilk Cocco& Aloe Vera è ideale per capelli visibilmente forti e sani
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BMW3QHRK{{</world>}}

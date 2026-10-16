@@ -28,12 +28,12 @@ average: '27.52'
 
 ℹ️:
 
-- Maniche corte
-- Stemmi
-- Polo
-- Chiusura con bottoni
-- Dettagli stampati
 - Composizione: 100% cotone
+- Stemmi
+- Dettagli stampati
+- Polo
+- Maniche corte
+- Chiusura con bottoni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CY39L3MX{{</world>}}

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Batteria inclusa
 - Alloggiamento sottilissimo
 - Piccolo e comodo
-- Batteria inclusa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B008F6FOF2{{</world>}}

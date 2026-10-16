@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Dettagli : Dettaglio a blocchi di colore, Dettaglio del logo
+- Collo : Cappuccio
 - Manica : Maniche lunghe
 - Tipologia di prodotto : Giubbotto bomber
-- Dettagli : Dettaglio a blocchi di colore, Dettaglio del logo
-- Polsini : Polsini a coste
 - Tasche : Tasche frontali
-- Collo : Cappuccio
-- Lunghezza/taglia : Corto
 - Chiusura : Chiusura a zip
+- Polsini : Polsini a coste
+- Lunghezza/taglia : Corto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DKJWFZLK{{</world>}}

@@ -29,10 +29,10 @@ average: '7.39'
 ℹ️:
 
 - TAGLIO CORTO, VESTIBILITÀ OVERSIZE: vestibilità comoda e ampia su spalle, petto e vita, taglio corto
-- CAMICIA CORTA CON COLLO BUTTON-DOWN: rivisitazione moderna della classica camicia in popeline con una lunghezza più corta e una vestibilità più generosa
-- POPELINE ELASTICIZZATO: misto cotone ben strutturato con finitura liscia e un tocco di elasticità per maggiore comfort
 - DETTAGLI: colletto a punta con bottoni per tenerlo in posizione, chiusura frontale con bottoni, polsino alto con bottone, piega sul carré posteriore, orlo leggermente arrotondato sul retro
+- POPELINE ELASTICIZZATO: misto cotone ben strutturato con finitura liscia e un tocco di elasticità per maggiore comfort
 - LUNGHEZZA DEL CAPO: 50,8cm dal lato del collo nella taglia S (IT)
+- CAMICIA CORTA CON COLLO BUTTON-DOWN: rivisitazione moderna della classica camicia in popeline con una lunghezza più corta e una vestibilità più generosa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FF5CKMS7{{</world>}}

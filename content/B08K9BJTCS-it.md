@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Test di gravidanza Clearblue Rilevazione Rapida 3'
-date: 2026-10-02 01:04:36
+date: 2026-10-15 17:13:02
 image: 'https://m.media-amazon.com/images/I/51ooWOA5T4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08K9BJTCS-it Test di gravidanza Clearblue Rilevazione Rapida 3'
 sku: 'B08K9BJTCS-it'
 tags: [ '🇮🇹', ]
-actualPrice: 9.59 EUR
+actualPrice: 10.99 EUR
 currency: EUR
-price: 9.59
+price: 10.99
 comparePrice: 15.28 EUR
 prodname: 'Test di gravidanza Clearblue Rilevazione Rapida 3'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B08K9BJTCS/?tag=tolees00-21'
-descuento: '37.24'
-average: '10.7233333333333'
+descuento: '28.08'
+average: '10.83'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

@@ -28,10 +28,10 @@ average: '50.61'
 
 ℹ️:
 
+- Remake completo e fedele delloriginale Gothic 1
+- Sistema di combattimento rinnovato che porta nellera moderna le dinamiche di base delloriginale
 - Torna alla Colonia in un remake completo del Gothic del 2001; scopri il mondo della colonia mineraria, con i suoi segreti e le sue difficoltà
 - Vesti i panni dellEroe senza nome; decidi il fato di un prigioniero che deve sopravvivere in un mondo pieno di animali selvaggi, creature e pericolosi detenuti
-- Sistema di combattimento rinnovato che porta nellera moderna le dinamiche di base delloriginale
-- Remake completo e fedele delloriginale Gothic 1
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B9HQ1VBP{{</world>}}

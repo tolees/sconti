@@ -28,9 +28,9 @@ average: '17.91'
 
 ℹ️:
 
-- Formato: Confezione da 12 pezzi da 75 millilitri ciascuno
-- Goditi una sensazione di freschezza e uno sbiancamento quotidiano con il dentifricio Colgate Max White con cristalli bianchi
 - Questo dentifricio Colgate rinfresca lalito e aiuta a prevenire la carie
+- Goditi una sensazione di freschezza e uno sbiancamento quotidiano con il dentifricio Colgate Max White con cristalli bianchi
+- Formato: Confezione da 12 pezzi da 75 millilitri ciascuno
 - Il dentifricio sbiancante è progettato per ricaricare il bianco naturale dei tuoi denti per un grande sorriso
 - Il dentifricio sbiancante è realizzato con tecnologia Fresh FX che fornisce una sensazione di freschezza che dura dieci volte più a lungo rispetto a un dentifricio convenzionale con fluoro
 

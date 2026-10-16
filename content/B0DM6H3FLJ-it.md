@@ -28,11 +28,11 @@ average: '35.0'
 
 ℹ️:
 
-- Tomaia in suede e nylon
 - Sottopiede in schiuma imbottito
-- Fodera in tessuto
-- Intersuola in EVA
 - Chiusura con lacci
+- Tomaia in suede e nylon
+- Intersuola in EVA
+- Fodera in tessuto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DM6H3FLJ{{</world>}}

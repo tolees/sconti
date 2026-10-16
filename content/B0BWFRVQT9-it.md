@@ -28,9 +28,9 @@ average: '2.7'
 
 ℹ️:
 
-- Non macchia
 - Ogni sacchetto agisce efficacemente per 4 settimane
 - Con granulato da mais vegetale
+- Non macchia
 - 3 Sacchetti profumati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

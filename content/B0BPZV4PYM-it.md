@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Ricarica completa in meno di 4 ore
 - Luce LED per uso notturno
+- Ricarica completa in meno di 4 ore
 - Design compatto da 480 grammi
 - Gonfiatore elettrico: ottima efficienza senza sforzo
 - Auto, moto, bicicletta/monopattino, palloni

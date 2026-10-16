@@ -28,11 +28,11 @@ average: '9.95'
 
 ℹ️:
 
-- Scatola, materiali e regolamento interno: in italiano
-- Originale e divertente, gioco non competitivo
-- Cubo dei racconti. Per creare racconti a partire dalle figure
 - Lancia i dadi per ispirare aneddoti pieni dazione
+- Cubo dei racconti. Per creare racconti a partire dalle figure
 - Eta consigliata: dagli 8 anni in su
+- Originale e divertente, gioco non competitivo
+- Scatola, materiali e regolamento interno: in italiano
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B003NFJMBM{{</world>}}

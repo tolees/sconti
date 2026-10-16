@@ -28,8 +28,8 @@ average: '23.99'
 
 ℹ️:
 
-- Questa maglia basic si abbina a qualsiasi elemento del tuo guardaroba
 - Regular fit con girocollo
+- Questa maglia basic si abbina a qualsiasi elemento del tuo guardaroba
 - La maglia piatta è un tessuto a maglia che offre comfort e flessibilità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ average: '38.99'
 
 ℹ️:
 
-- Installazione semplice, nessun software richiesto. Due staffe e due ventose incluse per posizionare lantenna dove serve
 - Permette di guadagnare fino a 2,5dB in ricezione e di estendere la copertura sia che ci si trovi allinterno di un edificio, in movimento in un veicolo
+- Installazione semplice, nessun software richiesto. Due staffe e due ventose incluse per posizionare lantenna dove serve
 - Migliora la qualità della ricezione del segnale mobile collegando questa antenna allhotspot o router mobile NETGEAR 3G / 4G / 5G
 - Compatibile con i modelli: NBK752, LBR20, MR5200, MR2100, MR1100, AC810, AC797
 

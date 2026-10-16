@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Pantaloni
-- Pelle artificiale
 - Lucido
+- Pelle artificiale
 - Similpelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

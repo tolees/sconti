@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Corpo smaltato resistente alle alte temperature
 - Controllo in continuo della temperatura con termostato e spia di raggiungimento della temperatura
 - Grande piastra di cottura, diametro 18 cm x 1.500 W
+- Corpo smaltato resistente alle alte temperature
 - Dimensioni prodotto: 25,5 x 28,8 x 8,5 (L x P x A) cm
 - Fondello in ghisa, non si deforma e mantiene a lungo il calore rispetto a quelli in alluminio, risparmiando anche energia
 

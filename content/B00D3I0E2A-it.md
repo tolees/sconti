@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'No-Dol® Capsule ESI 60 Capsule'
-date: 2026-10-01 23:05:59
+date: 2026-10-15 02:34:32
 image: 'https://m.media-amazon.com/images/I/51MMffXYwSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B00D3I0E2A/?tag=tolees00-21'
 descuento: '44.32'
-average: '10.1611111111111'
+average: '10.253'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

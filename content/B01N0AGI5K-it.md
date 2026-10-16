@@ -28,10 +28,10 @@ average: '10.8766666666667'
 
 ℹ️:
 
+- Per interni ed esterni, resiste ai raggi uv, allacqua e alle muffe
+- 100% adesivo: non ritira non contiene solventi e isocianati, inodore
 - Forte e rapido
 - Verniciabile
-- 100% adesivo: non ritira non contiene solventi e isocianati, inodore
-- Per interni ed esterni, resiste ai raggi uv, allacqua e alle muffe
 - Permanentemente elastico: elasticità dellincollaggio garantita 25 anni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

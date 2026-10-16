@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Comodo
-- Leggero
-- Pelle responsabile
 - Cuoio morbido
+- Pelle responsabile
+- Leggero
+- Comodo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07FR368YG{{</world>}}

@@ -28,13 +28,13 @@ average: '72.0'
 
 ℹ️:
 
+- Isolamento Thermarator 100% poliestere riciclato
 - La repellenza avanzata Omni-Shield sigilla gli schizzi e le macchie repellenza avanzata
 - Tasca interna di sicurezza
+- Orlo sui polsini
 - Termoriflettente Omni-Heat
-- Isolamento Thermarator 100% poliestere riciclato
 - Tasche laterali con cerniera
 - Orlo regolabile con coulisse.
-- Orlo sui polsini
 - Protezione mento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

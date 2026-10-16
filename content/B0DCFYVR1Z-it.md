@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips OneBlade QP2834/31 - Regolabarba elettrico 360 autentico per viso e corpo 3 lame da 360 4 pettini per barba 1 2 3 5 mm 1 kit per il corpo'
-date: 2026-10-09 04:22:38
+date: 2026-10-15 00:22:29
 image: 'https://m.media-amazon.com/images/I/51Sr5EX3T0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0DCFYVR1Z/?tag=tolees00-21'
 descuento: '38.47'
-average: '39.4899999999999'
+average: '39.5127272727272'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

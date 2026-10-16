@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- PESO: 0,2 KG
-- CARD CASE
-- SLG WALLET
 - CARD CASE
 - 100%POLYURETHANE
+- SLG WALLET
+- PESO: 0,2 KG
+- CARD CASE
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GPH2JJQM{{</world>}}

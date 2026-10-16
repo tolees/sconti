@@ -29,12 +29,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Chiusura : Chiusura a zip
-- Collo : Collo Biker
-- Dettagli : Dettaglio trapuntati
+- Manica : Maniche lunghe
+- Tasche : Tasche frontali
 - Tipologia di prodotto : Giacca in finta pelle scamosciata
 - Funzionalità : Resistente allacqua
-- Tasche : Tasche frontali
-- Manica : Maniche lunghe
+- Dettagli : Dettaglio trapuntati
+- Collo : Collo Biker
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CLDTNWLZ{{</world>}}

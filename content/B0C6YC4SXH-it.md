@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Disponibile in 4 tonalità o trasparente
 - Modella e accentua le sopracciglia per un effetto maxi volume
-- Sopracciglia più voluminose, folte e rimpolpate con un effetto ridensificante
 - Gel per sopracciglia a prova di sbavature, a lunga tenuta e facile da applicare
+- Disponibile in 4 tonalità o trasparente
+- Sopracciglia più voluminose, folte e rimpolpate con un effetto ridensificante
 - Un gel per sopracciglia con uno scovolino in formato mini per un’applicazione precisa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

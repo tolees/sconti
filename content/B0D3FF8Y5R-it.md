@@ -29,8 +29,8 @@ average: '38.18'
 ℹ️:
 
 - Piumino certificato RDS
-- Gilet isolante leggero con imbottitura in piumino 700
 - Antivento, altamente impermeabile, traspirante
+- Gilet isolante leggero con imbottitura in piumino 700
 - Chiusura lampo
 - 2 tasche sui fianchi
 

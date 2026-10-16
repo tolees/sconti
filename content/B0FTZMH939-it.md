@@ -28,11 +28,11 @@ average: '20.23'
 
 ℹ️:
 
+- Correzioni richieste dalla community e stabilità migliorata
+- Include tutte le espansioni e gli aggiornamenti in unedizione definitiva
 - Interfaccia moderna e pieno supporto ai controller
 - Migliorie a texture, effetti dilluminazione e distanza di visuale
 - Combattimento più fluido e reattivo
-- Correzioni richieste dalla community e stabilità migliorata
-- Include tutte le espansioni e gli aggiornamenti in unedizione definitiva
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FTZMH939{{</world>}}

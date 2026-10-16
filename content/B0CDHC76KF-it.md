@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Nutre e ammorbidisce i capelli per renderli morbidi e setosi al tatto.
-- Arricchito con burro karité e olio di cocco.
 - Questo balsamo districa i capelli.
 - Balsamo professionale al burro di karité e olio di cocco per capelli secchi e crespi.
+- Nutre e ammorbidisce i capelli per renderli morbidi e setosi al tatto.
+- Arricchito con burro karité e olio di cocco.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CDHC76KF{{</world>}}

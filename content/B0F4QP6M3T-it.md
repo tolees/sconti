@@ -28,8 +28,8 @@ average: '37.76'
 
 ℹ️:
 
-- Questo è un prodotto originale e autentico Tommy Jeans
 - Questo stile è stato prodotto in modo sostenibile
+- Questo è un prodotto originale e autentico Tommy Jeans
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F4QP6M3T{{</world>}}

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Vestibilità regolare
 - Cappotto lungo con bottoni
 - Tasche frontali e spacco sul retro
-- Vestibilità regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D5GY4KCS{{</world>}}

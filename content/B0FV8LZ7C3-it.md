@@ -28,10 +28,10 @@ average: '16.59'
 
 ℹ️:
 
+- Prova leccezionale comfort e la vestibilità in acqua e in spiaggia con questi short da mare da uomo eleganti e sostenibili. Ispirati alle prestazioni e progettati per giornate indimenticabili in spiaggia.
+- 100% poliestere (tessuto ecologico: il 100% del poliestere è riciclato)
 - Tasche laterali, cordino interno, comodo slip interno, lunghezza laterale: 41,5 cm. Il tessuto principale di questo prodotto ha la certificazione Global Recycle Standard.
 - Tessuto riciclato ad asciugatura rapida ed estremamente morbido per un comfort eccezionale.
-- 100% poliestere (tessuto ecologico: il 100% del poliestere è riciclato)
-- Prova leccezionale comfort e la vestibilità in acqua e in spiaggia con questi short da mare da uomo eleganti e sostenibili. Ispirati alle prestazioni e progettati per giornate indimenticabili in spiaggia.
 - Ideale per il nuoto, il tempo libero e le attività sportive in piscina o in spiaggia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tipo elasticizzato: non elasticizzato
-- Composizione: 100% cotone
+- Vestibilità: regolare
 - Istruzioni di lavaggio: lavabile in lavatrice
 - Giacca di jeans, giacca in denim, giacca jeans
-- Vestibilità: regolare
+- Tipo elasticizzato: non elasticizzato
+- Composizione: 100% cotone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D6RQ1GX6{{</world>}}

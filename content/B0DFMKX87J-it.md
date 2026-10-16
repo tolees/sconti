@@ -28,8 +28,8 @@ average: '20.99'
 
 ℹ️:
 
-- Design slim fit per una vestibilità moderna.
 - Realizzata in morbido cotone per un comfort ottimale.
+- Design slim fit per una vestibilità moderna.
 - Composizione elastica per una maggiore libertà di movimento.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

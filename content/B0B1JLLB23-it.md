@@ -28,8 +28,8 @@ average: '36.9'
 
 ℹ️:
 
-- Regalati una coccola con questi divertenti orecchini della famiglia Chroma
 - Indossali da soli o abbinali ad altre creazioni di questa vivace collezione
+- Regalati una coccola con questi divertenti orecchini della famiglia Chroma
 - Con le loro pietre dalla forma a cuore in una profonda tonalità di rosso, questi orecchini sono rifiniti con un’elegante montatura placcata color oro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

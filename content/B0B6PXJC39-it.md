@@ -28,10 +28,10 @@ average: '26.99'
 
 ℹ️:
 
-- Glamour e confortevole
-- Sandali Gioseppo
 - Per tutti i tipi di occasioni
 - Sandali comodi
+- Sandali Gioseppo
+- Glamour e confortevole
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B6PXJC39{{</world>}}

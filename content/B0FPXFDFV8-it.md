@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO Editions Casco di Charles Leclerc Scuderia Ferrari HP 43014'
-date: 2026-10-14 12:37:57
+title: 'LEGO Editions Casco di Charles Leclerc Scuderia Ferrari HP 43014 | Giochi per ragazzi e ragazze da 14 anni modello da esposizione minifigure da collezione gadget F1 idea regalo 886 pezzi'
+date: 2026-10-16 01:03:07
 image: 'https://m.media-amazon.com/images/I/51-FQ3A8kXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -13,13 +13,13 @@ actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99
 comparePrice: 89.99 EUR
-prodname: 'LEGO Editions Casco di Charles Leclerc Scuderia Ferrari HP 43014'
+prodname: 'LEGO Editions Casco di Charles Leclerc Scuderia Ferrari HP 43014 | Giochi per ragazzi e ragazze da 14 anni modello da esposizione minifigure da collezione gadget F1 idea regalo 886 pezzi'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0FPXFDFV8/?tag=tolees00-21'
 descuento: '44.45'
-average: '67.5248000000001'
+average: '66.225925925926'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Scarpa alla moda
 - Grigio
+- Scarpa alla moda
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07DK27HH2{{</world>}}

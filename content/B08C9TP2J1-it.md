@@ -28,11 +28,11 @@ average: '18.98'
 
 ℹ️:
 
-- Moisture wicking
 - Chlorine resistant
-- __Fabric:__ Saltwater-resistant fabric made from recycled yarn
-- __Fit:__ Snug fit
 - __Sun protection:__ UPF 50 sun protection
+- __Fit:__ Snug fit
+- __Fabric:__ Saltwater-resistant fabric made from recycled yarn
+- Moisture wicking
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08C9TP2J1{{</world>}}

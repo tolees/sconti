@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech H111 Cuffie Cablate per Computer'
-date: 2026-09-25 15:53:08
+date: 2026-10-15 02:13:18
 image: 'https://m.media-amazon.com/images/I/31M-PUTWD7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B00ZOZZM4U/?tag=tolees00-21'
 descuento: '50.03'
-average: '11.4815384615385'
+average: '11.375'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

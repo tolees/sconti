@@ -28,8 +28,8 @@ average: '13.31'
 
 ℹ️:
 
-- Asola di aggancio colorata per portachiavi
 - Elegante design senza cappuccio con corpo in metallo
+- Asola di aggancio colorata per portachiavi
 - Numero di parte: DTKN/64GB
 - Velocità in lettura fino a 200 MB/s¹
 

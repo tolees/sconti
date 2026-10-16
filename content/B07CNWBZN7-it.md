@@ -29,10 +29,10 @@ average: '29.39'
 ℹ️:
 
 - Questa candela Trilogy dispone di tre strati con le fragranze più apprezzate: Uva passa, Mora speziata e Amarena
-- Lo stoppino Hearthwick scoppietta mentre brucia e produce una lunga fiamma danzante
 - Paraffina e cere di soia di alta qualità si uniscono per dare vita a una fiamma meravigliosa
-- Dura fino a 50 ore
+- Lo stoppino Hearthwick scoppietta mentre brucia e produce una lunga fiamma danzante
 - Questa nota collezione offre combinazioni di fragranze che creano unesperienza unica nata dalla fusione di più aromi.
+- Dura fino a 50 ore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07CNWBZN7{{</world>}}

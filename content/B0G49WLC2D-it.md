@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Sfrutta le loro abilità uniche per ottenere un vantaggio strategico nella sfida di parole più magica di sempre
 - Nome in Codice - Back to Hogwarts è una nuova esperienza Nome in Codice ispirata al Mondo Magico
 - Numero di giocatori: 4-8 | Età consigliata: 10+ | Durata media: 15 min | Edizione in lingua italiana
+- Sfrutta le loro abilità uniche per ottenere un vantaggio strategico nella sfida di parole più magica di sempre
 - Gioca in squadra con la tua Casa preferita - Grifondoro, Corvonero, Tassorosso o Serpeverde
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

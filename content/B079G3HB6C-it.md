@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Fodera: 47% pelle 44% tessuto 45% poliestere riciclato - 35% cotone - 20% viscosa 9% poliestere riciclato
-- Tomaia: Pelle
-- Suola/Caratteristiche: Suole XL EXTRALIGHT EVA
 - Soletta: Plantare OrthoLite Recycled
+- Tomaia: Pelle
 - Colore: Nero
+- Suola/Caratteristiche: Suole XL EXTRALIGHT EVA
+- Fodera: 47% pelle 44% tessuto 45% poliestere riciclato - 35% cotone - 20% viscosa 9% poliestere riciclato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B079G3HB6C{{</world>}}

@@ -29,9 +29,9 @@ average: '15.99'
 ℹ️:
 
 - Esterno: 100% poliestere (riciclato); interno: 100% elastomero termoplastico
-- Dimensioni: 22 cm x 56 cm x 28 cm
-- Tasche laterali e alle estremità con chiusura a zip
 - Volume: 39,75 L
+- Tasche laterali e alle estremità con chiusura a zip
+- Dimensioni: 22 cm x 56 cm x 28 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZS5QBDM{{</world>}}

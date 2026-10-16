@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Combinazione di ingranaggi ottimizzata Rhythm Step per mantenere al cadenza di pedalata
-- Perfetto bilanciamento tra durabilità e leggerezza
 - Ingranaggi in acciaio e alluminio
+- Perfetto bilanciamento tra durabilità e leggerezza
 - Compatibile con corpetto ruota libera Shimano/SRAM standard
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

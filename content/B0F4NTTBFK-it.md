@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Lunga durata
 - Maglietta a maniche corte da uomo
+- Lunga durata
 - Prodotto di ottima fattura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

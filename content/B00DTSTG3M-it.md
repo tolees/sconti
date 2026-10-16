@@ -28,10 +28,10 @@ average: '6.49'
 
 ℹ️:
 
-- Basic, Regali, Streetwear
 - Basco || Molto confortevole
-- Beanie con le seguenti caratteristiche:
 - Il tuo merch EMP preferito!
+- Basic, Regali, Streetwear
+- Beanie con le seguenti caratteristiche:
 - Materiale: Synthetisch
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

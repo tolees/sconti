@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Potenza: 2,2 Kw
+- Vaschetta per la raccolta dei grassi
 - Cavo elettrico 1,80 m
+- Manopola di regolazione della temperatura
 - Telaio in nylon rinforzato con fibre di vetro
 - Braciere e coperchio in ghisa di alluminio
-- Vaschetta per la raccolta dei grassi
-- Potenza: 2,2 Kw
 - Ampia maniglia termoisolante
 - 2 griglie di cottura smaltate in ghisa di acciaio
-- Manopola di regolazione della temperatura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00HUNCX82{{</world>}}

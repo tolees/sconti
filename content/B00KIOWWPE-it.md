@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Ideale per cellulari, smartphone, tablet android, tablet pc, nintendo switch e molto altro
 - Classe di velocità 10, UHS-I
+- Velocità di lettura fino a 90 MB/s
 - Contenuto della confezione: Intenso Premium Scheda di Memoria microSDHC da 32 GB Class 10 UHS-I (con Adattatore SD), Nero
 - Impermeabile, resistente alle temperature, agli urti e ai raggi X
-- Velocità di lettura fino a 90 MB/s
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00KIOWWPE{{</world>}}

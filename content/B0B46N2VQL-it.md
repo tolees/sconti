@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - TECNOLOGIA RADAR: la tecnologia radar brevetto Bosch, rileva cavi sotto tensione e non, tubi in plastica riempiti con acqua, metalli magnetici e non.
-- DUAL POWER SOURCE: il rilevatore D-tect 120 è utilizzabile sia con una batteria da 12 Volt al litio, sia con normali pile AA, mediante adattatore.
-- IN DOTAZIONE: Rilevatore D-tect 120, 4 pile AA, adattatore batteria e borsa protettiva.
-- VISUALIZZAZIONE SPOT: per risultati immediati, anche in caso di spazi ridotti per spostare il rilevatore D-Tect 120 sulla parete.
 - 3 IMPOSTAZIONI DI RILEVAMENTO: scegliere una delle 3 impostazioni di rilevamento in base al tipo di muro: cartongesso, cemento o modalità universale se il materiale non è noto.
+- DUAL POWER SOURCE: il rilevatore D-tect 120 è utilizzabile sia con una batteria da 12 Volt al litio, sia con normali pile AA, mediante adattatore.
+- VISUALIZZAZIONE SPOT: per risultati immediati, anche in caso di spazi ridotti per spostare il rilevatore D-Tect 120 sulla parete.
+- IN DOTAZIONE: Rilevatore D-tect 120, 4 pile AA, adattatore batteria e borsa protettiva.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B46N2VQL{{</world>}}

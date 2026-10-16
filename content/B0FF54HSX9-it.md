@@ -28,8 +28,8 @@ average: '6.7'
 
 ℹ️:
 
-- FRAGRANZA CHE ELEVA LUMORE: Olio per unghie e cuticole con MoodBloom Scent Technology Scent, rilascia una fragranza delicata e rilassante durante l’applicazione. Trasforma la routine quotidiana in un rituale di benessere per te e le tue mani.
 - Formula Vegana priva di ingredienti e derivati di origine animale
+- FRAGRANZA CHE ELEVA LUMORE: Olio per unghie e cuticole con MoodBloom Scent Technology Scent, rilascia una fragranza delicata e rilassante durante l’applicazione. Trasforma la routine quotidiana in un rituale di benessere per te e le tue mani.
 - DOPPIA APPLICAZIONE: Olio per cuticole con doppia modalità di applicazione: contagocce per trattamenti mirati e pennellino morbido per una stesura uniforme. Scegli il tuo metodo preferito per una manicure personalizzata e impeccabile.
 - OLIO CUTICOLE: Arricchito con oli e vitamina E. Aiuta ad ammorbidire, rigenerare e proteggere cuticole e pelle intorno alle unghie. Idrata e lenisce, per cuticole e unghie dallaspetto sano.
 

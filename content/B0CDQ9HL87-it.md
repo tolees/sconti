@@ -28,12 +28,12 @@ average: '32.5'
 
 ℹ️:
 
-- Tomaia in materiale sintetico
-- La tomaia contiene almeno il 50% di materiale riciclato
-- Calzata regolare
-- Fodera in materiale sintetico
-- Chiusura con lacci
 - Suola in gomma
+- Chiusura con lacci
+- Calzata regolare
+- La tomaia contiene almeno il 50% di materiale riciclato
+- Tomaia in materiale sintetico
+- Fodera in materiale sintetico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CDQ9HL87{{</world>}}

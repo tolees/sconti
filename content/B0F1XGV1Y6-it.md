@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Suola in gomma
 - Vestibilità regolare
+- Suola in gomma
 - Tomaia in materiale sintetico
 - Soletta in tessuto
 

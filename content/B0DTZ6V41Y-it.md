@@ -28,9 +28,9 @@ average: '10.7'
 
 ℹ️:
 
-- La sua formula antiossidante è infatti dermatologicamente testata per ostacolare i radicali liberi.
 - La sua texture leggera idrata e nutre la pelle senza appesantirla, in spiaggia e in città.
 - La crema solare Ohi Vita-mina SPF 50+ sarà la tua arma per goderti il sole a tutto tondo!
+- La sua formula antiossidante è infatti dermatologicamente testata per ostacolare i radicali liberi.
 - La sua formula con Filtri Fotostabili UVA/UVB di ultima generazione aiuta a proteggere la tua pelle e riduce il rischio di scottature e danni solari
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

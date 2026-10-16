@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Gioca da solo o con un amico Sfrutta al massimo i nuovi comandi migliorati e ottimizzati per una mira più precisa.
-- Un remake completo Grafica, sonoro e meccaniche completamente rifatte in chiave moderna.
 - Sottotitolato in italiano
+- Un remake completo Grafica, sonoro e meccaniche completamente rifatte in chiave moderna.
 - Azione non-stop Rivivi l’emozione unica dei giochi arcade.
+- Gioca da solo o con un amico Sfrutta al massimo i nuovi comandi migliorati e ottimizzati per una mira più precisa.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FZV8VXYN{{</world>}}

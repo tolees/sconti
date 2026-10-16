@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'roborock F25 LT GEN2 Aspirapolvere Lavapavimenti 20.000Pa Design Piatto a 180° Autopulizia ad alta temperatura a 90 °C Design Piatto 180° Fino a 38 min di autonomia Design Piatto 12 5 cm'
-date: 2026-10-10 19:36:49
+date: 2026-10-16 04:06:21
 image: 'https://m.media-amazon.com/images/I/31Z+CJJtj2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

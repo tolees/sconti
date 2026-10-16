@@ -28,10 +28,10 @@ average: '25.0'
 
 ℹ️:
 
-- materialFabricComposition: Upper: 100% Polyurethane; Sole: 100% Rubber; Inner: 100% Polyurethane; Insole: 100% Polyurethane
-- Polyurethane
-- Detail
 - Trainers
+- Polyurethane
+- materialFabricComposition: Upper: 100% Polyurethane; Sole: 100% Rubber; Inner: 100% Polyurethane; Insole: 100% Polyurethane
+- Detail
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CBZSDR45{{</world>}}

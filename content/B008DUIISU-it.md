@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Istruzioni incluse in italiano
 - Lo storico gioco del mercante in fiera
+- Istruzioni incluse in italiano
 - 2 mazzi da 40 carte in cartoncino
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

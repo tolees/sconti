@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tamron Lens Utility
-- Stabilizzatore dimmagine
-- Massima qualità dellimmagine
 - Messa a fuoco automatica
+- Tamron Lens Utility
+- Massima qualità dellimmagine
+- Stabilizzatore dimmagine
 - Struttura resistente alle intemperie
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ average: '59.99'
 
 ℹ️:
 
+- 1 cilindro di CO2 Quick Connect per gasare fino a 60L
 - 2 bottiglie fuse lavabili in lavastoviglie da 1L
 - Livello di gasatura personalizzabile
-- 1 cilindro di CO2 Quick Connect per gasare fino a 60L
 - 1 gasatore Sodastream Terra Black
 - E possibile preparare bibite gassate
 

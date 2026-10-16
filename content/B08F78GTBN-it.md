@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Risoluzione video: FHD 1080p
-- Stabilizzazione dimmagine: Mechanical
-- Stabilizzatore dellimmagine a 5 assi, un sensore da 20 megapixel in alta risoluzione e il processore Truepic VIII per immagini professionali
 - Dotata del primo schermo touch screen girevole della serie OM-D per scattare selfie in modo semplice e di Wi-Fi e Bluetooth integrati per condividere preziosi momenti con amici e familiari in un istante
 - La fotocamera OM-D più compatta e leggera che mai
+- Stabilizzazione dimmagine: Mechanical
 - Riprese video in 4K e vari Art Filter per supportare la tua creatività
+- Risoluzione video: FHD 1080p
 - App per smartphone dedicata che offre anche nuovi contenuti per imparare autentiche tecniche fotografiche
+- Stabilizzatore dellimmagine a 5 assi, un sensore da 20 megapixel in alta risoluzione e il processore Truepic VIII per immagini professionali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08F78GTBN{{</world>}}

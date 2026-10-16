@@ -28,8 +28,8 @@ average: '29.35'
 
 ℹ️:
 
-- Inspired by a hummel Archive style
 - hummel Chevron con marchio sul lato
+- Inspired by a hummel Archive style
 - Suola esterna leggera in TPR con buona presa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

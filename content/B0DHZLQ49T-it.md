@@ -28,12 +28,12 @@ average: '40.59'
 
 ℹ️:
 
-- Logo Mercedes - AMG Petronas Formula One Team
-- Zip integrale e collo alto
-- Polsini e orlo a coste
-- Vestibilità regolare
 - Tasche anteriori
 - 100% poliestere (riciclato)
+- Zip integrale e collo alto
+- Vestibilità regolare
+- Polsini e orlo a coste
+- Logo Mercedes - AMG Petronas Formula One Team
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DHZLQ49T{{</world>}}

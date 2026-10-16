@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Ruote doppie multidirezionali
 - Doppio tubo
+- Ruote doppie multidirezionali
 - Logo nella parte anteriore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

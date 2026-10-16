@@ -29,8 +29,8 @@ average: '8.99'
 ℹ️:
 
 - GIOCHI per tenere la MENTE ATTIVA sfidando gli amici e allenando il pensiero con divertimento.
-- Sviluppato in collaborazione con GAME DESIGNER ESPERTI con meccaniche di gioco divertenti e innovative che ti metteranno alla prova!
 - GIOCA SUBITO grazie al QR code "Watch the Video" sul retro della scatola puoi imparare e iniziare una partita in pochi minuti.
+- Sviluppato in collaborazione con GAME DESIGNER ESPERTI con meccaniche di gioco divertenti e innovative che ti metteranno alla prova!
 - Un originale PARTY GAME per mettere alla prova la tua intelligenza linguistica. Adatto a bambini, ragazzi, adulti e tutta la famiglia.
 - MADE IN ITALY con materiali di ALTA QUALITA, resistenti e sicuri per giocatori di 8+ anni.
 

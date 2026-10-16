@@ -28,8 +28,8 @@ average: '65.47'
 
 ℹ️:
 
-- Resistente all’acqua fino a 100 m: adatto per fare il bagno, nuotare, fare snorkeling e immersioni a bassa profondità
 - Cassa da 46 mm, larghezza del cinturino di 24 mm, cristallo minerale, movimento al quarzo, display analogico con cronografo, importato
+- Resistente all’acqua fino a 100 m: adatto per fare il bagno, nuotare, fare snorkeling e immersioni a bassa profondità
 - Bracciale in acciaio color canna di fucile
 - Cassa rotonda in acciaio con quadrante nero
 

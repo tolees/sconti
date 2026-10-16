@@ -28,10 +28,10 @@ average: '16.7316666666666'
 
 ℹ️:
 
-- Perfetta per accompagnare ogni pasto
-- Lager a bassa fermentazione con luppoli pregiati
 - Pochi e semplici ingredienti: acqua, malto d’orzo, granoturco, luppolo
+- Lager a bassa fermentazione con luppoli pregiati
 - Gradazione alcolica: 4,6% vol
+- Perfetta per accompagnare ogni pasto
 - Sapore maltato, finemente amaro, con note fresche e floreali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

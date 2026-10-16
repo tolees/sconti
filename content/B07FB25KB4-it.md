@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Istruzioni per la cura: lavare in lavatrice
 - Marca: Joma
-- Taglia: M
 - Color: Giallo/Nero
+- Taglia: M
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07FB25KB4{{</world>}}

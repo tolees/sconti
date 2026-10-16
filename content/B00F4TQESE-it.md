@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- 6 metri di Lunghezza
 - Accessorio per Gamma Idropulitrici Bosch AQT
 - Prolunga il raggio di azione dellidropulitrice
 - Tubo flessibile ad alta pressione
-- 6 metri di Lunghezza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00F4TQESE{{</world>}}

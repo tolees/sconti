@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Battlefield 6 Standard Edition XBOX Series X | Videogiochi | Italiano'
-date: 2026-09-20 11:07:53
+date: 2026-10-15 07:42:23
 image: 'https://m.media-amazon.com/images/I/51Y9LMfTHUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0FJY1CCQW/?tag=tolees00-21'
 descuento: '66.73'
-average: '34.342'
+average: '31.945'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

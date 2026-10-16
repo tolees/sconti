@@ -28,9 +28,9 @@ average: '10.3'
 
 ℹ️:
 
-- Adatta per diverse occasioni
-- Polsini con bottoni, chiusura a bottoni
 - Camicia a maniche lunghe con taglio aderente
+- Polsini con bottoni, chiusura a bottoni
+- Adatta per diverse occasioni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D5DN3KXM{{</world>}}

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Una texture dalla sensorialità inedita per detergere i capelli ricci alla perfezione e amplificarne bellezza, lucentezza e definizione. Tutta la cremosità di un balsamo unita allefficacia di uno shampoo per esaltare al massimo ogni onda
 - Dona il 31% di lucentezza in più rispetto a capelli non trattat
 - Dermatologicamente testato
+- Una texture dalla sensorialità inedita per detergere i capelli ricci alla perfezione e amplificarne bellezza, lucentezza e definizione. Tutta la cremosità di un balsamo unita allefficacia di uno shampoo per esaltare al massimo ogni onda
 - Formula vegana arricchita con pantenolo, preziosi oli vegetali ed estratto di mandorle italiane e con il 93% di ingredienti derivati da materie prime di origine naturale
 - Fino a 72h di riduzione di visibilità del crespo e di ricci definiti
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Braun NEVO Rasoio Elettrico Barba Custodia Power Case NEVO17015C Grafite'
-date: 2026-10-07 17:15:26
+title: 'Braun NEVO Rasoio Elettrico Barba Custodia Power Case NEVO17015C Grafite | Regolabarba Uomo Impermeabile Tecnologia Aerotouch Sistema di Cura 7in1 Nero Custodia Powercase Ricaricabile'
+date: 2026-10-16 04:19:17
 image: 'https://m.media-amazon.com/images/I/41VclrBKtyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0H1YF9QH3-it Braun NEVO Rasoio Elettrico Barba Custodia Power Case...'
 sku: 'B0H1YF9QH3-it'
 tags: [ '🇮🇹', ]
-actualPrice: 429.99 EUR
+actualPrice: 689.19 EUR
 currency: EUR
-price: 429.99
+price: 689.19
 comparePrice: 869.99 EUR
-prodname: 'Braun NEVO Rasoio Elettrico Barba Custodia Power Case NEVO17015C Grafite'
+prodname: 'Braun NEVO Rasoio Elettrico Barba Custodia Power Case NEVO17015C Grafite | Regolabarba Uomo Impermeabile Tecnologia Aerotouch Sistema di Cura 7in1 Nero Custodia Powercase Ricaricabile'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0H1YF9QH3/?tag=tolees00-21'
-descuento: '50.58'
-average: '429.99'
+descuento: '20.78'
+average: '559.59'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

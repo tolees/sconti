@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Colletto rialz
-- Colore a blocchi
 - Vestibilità normale
+- Colore a blocchi
 - Materiale: 50% poliestere, 50% poliestere riciclato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

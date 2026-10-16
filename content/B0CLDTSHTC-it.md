@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Collo : Collo Biker
+- Dettagli : Dettaglio trapuntati, Dettaglio con zip
 - Funzionalità : Resistente allacqua
-- Manica : Maniche lunghe
 - Chiusura : Chiusura a zip
 - Polsini : Polsini con zip
+- Collo : Collo Biker
 - Tipologia di prodotto : Giacca in finta pelle
 - Tasche : Tasche frontali
-- Dettagli : Dettaglio trapuntati, Dettaglio con zip
+- Manica : Maniche lunghe
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CLDTSHTC{{</world>}}

@@ -28,10 +28,10 @@ average: '5.91'
 
 ℹ️:
 
-- Retrocompatibile con cavi CAT 5
-- Cavo di rete LAN/adatto per reti Gigabit 10/100/1000/10000 Mbit, larghezza di banda massima 500 MHz, adatto per Power over Ethernet (PoE/PoE+)
-- Ideale per console con immagini ad alta risoluzione, come ad esempio PS 4, PS 5, Xbox One, Xbox One X, Nintendo ecc.
 - Cavo rotondo in rivestimento in PVC, conduttore interno in alluminio rivestito in rame, protezione antipiega su entrambi i lati
+- Ideale per console con immagini ad alta risoluzione, come ad esempio PS 4, PS 5, Xbox One, Xbox One X, Nintendo ecc.
+- Cavo di rete LAN/adatto per reti Gigabit 10/100/1000/10000 Mbit, larghezza di banda massima 500 MHz, adatto per Power over Ethernet (PoE/PoE+)
+- Retrocompatibile con cavi CAT 5
 - Connettore RJ45 dritto ad angolo su connettore RJ45, soluzione ideale in spazi minimi, protezione del nasello e indicazione della lunghezza sul connettore dritto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

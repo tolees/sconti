@@ -28,12 +28,12 @@ average: '8.0'
 
 ℹ️:
 
-- Kellogg Italia Spa, Via Torri Biancheb 6, Vimercate, MB 20871, Italia.
-- Con ingredienti tutti da gustare
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
-- Fonte di proteine
 - 41% di frutta secca
 - Naturalmente deliziosa
+- Con ingredienti tutti da gustare
+- Kellogg Italia Spa, Via Torri Biancheb 6, Vimercate, MB 20871, Italia.
+- Fonte di proteine
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
 - Per una pausa gustosa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

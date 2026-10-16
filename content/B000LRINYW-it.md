@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Adeguato per un passepartout
-- dotate di un supporto
 - Disponibile in molti colori e formati
 - Profilo rettangolare in legno
+- dotate di un supporto
 - Con superficie scanalata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

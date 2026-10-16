@@ -28,12 +28,12 @@ average: '36.73'
 
 ℹ️:
 
-- Occhielli a doppio strato
-- PUMA Strisce sagomate sui lati mediale e laterale
+- Soletta interna
 - PUMA Wordmark sul tallone
+- PUMA Strisce sagomate sui lati mediale e laterale
+- Occhielli a doppio strato
 - Materiale effetto pelle martellata sulla tomaia
 - Perforazioni sulla punta
-- Soletta interna
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BLCN7NMV{{</world>}}

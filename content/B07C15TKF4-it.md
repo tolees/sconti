@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Beccuccio anti-goccia INOX
 - Corpo in acciaio INOX
 - Due coni per agrumi di ogni dimensione
-- Beccuccio anti-goccia INOX
 - Doppio senso di rotazione del cono per una spremitura più completa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

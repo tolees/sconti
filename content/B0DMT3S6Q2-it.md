@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Avoid soaking
-- Leather: Use leather cleaner or mild soap
-- Spot clean with mild soap and water
 - Mesh/Textile: Use a soft brush with mild soap and water
+- Avoid soaking
+- Spot clean with mild soap and water
+- Leather: Use leather cleaner or mild soap
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DMT3S6Q2{{</world>}}

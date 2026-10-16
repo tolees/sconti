@@ -28,11 +28,11 @@ average: '50.5'
 
 ℹ️:
 
-- 6 Confezioni da 50 cialde monodose da 7,3g confezionate singolarmente in atmosfera protettiva.
-- Cialde Compostabili standard ESE da 44 mm
-- Intensa cremosità, gusto deciso e aroma ricco.
 - Intensità 10/13
 - Tostatura Medio - Scura
+- Cialde Compostabili standard ESE da 44 mm
+- Intensa cremosità, gusto deciso e aroma ricco.
+- 6 Confezioni da 50 cialde monodose da 7,3g confezionate singolarmente in atmosfera protettiva.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09HR4K3SM{{</world>}}

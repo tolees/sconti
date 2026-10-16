@@ -28,9 +28,9 @@ average: '15.135'
 
 ℹ️:
 
+- Maglietta a maniche corte
 - Lunga durata
 - Prodotto di ottima fattura
-- Maglietta a maniche corte
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F4NV9CBB{{</world>}}

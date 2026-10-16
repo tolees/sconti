@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Da bere puro, ma anche sul gelato, nel caffè, per guarnire o insaporire dolci e semifreddo
 - Contiene 20 bicchierini in cialda croccante
 - Da servire a temperatura ambiente
-- Da bere puro, ma anche sul gelato, nel caffè, per guarnire o insaporire dolci e semifreddo
 - Loriginale liquore con cioccolato e grappa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

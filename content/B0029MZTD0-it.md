@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- dotate di un supporto
-- Adeguato per un passepartout
-- Profilo rettangolare in plastica
-- Disponibile in molti colori e formati
 - Con vetro trasparente lavato
+- Adeguato per un passepartout
+- Disponibile in molti colori e formati
+- dotate di un supporto
+- Profilo rettangolare in plastica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0029MZTD0{{</world>}}

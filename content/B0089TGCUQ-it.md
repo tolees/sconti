@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Foppapedretti LaCopertina Copertina Ricambio per Asse da Stiro'
-date: 2026-10-11 19:48:52
+date: 2026-10-16 03:48:54
 image: 'https://m.media-amazon.com/images/I/41Cu5eslhPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0089TGCUQ/?tag=tolees00-21'
 descuento: '44.07'
-average: '16.184'
+average: '16.05'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

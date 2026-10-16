@@ -28,8 +28,8 @@ average: '45.12'
 
 ℹ️:
 
-- Coulisse interna
 - Cuf gamba
+- Coulisse interna
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07SX6KPC1{{</world>}}

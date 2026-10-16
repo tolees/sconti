@@ -28,9 +28,9 @@ average: '30.9538461538462'
 
 ℹ️:
 
+- Even better Floor protection for all Playseat models, but perfectly suits the Sensation Pro models
 - Washable: easy to keep clean and tidy.Features a soft cloth fabric coating on top.Features official Playseat logos.Providing nice flair to your Playseat setup
 - Protects all types of floors from scratches and abrasions
-- Even better Floor protection for all Playseat models, but perfectly suits the Sensation Pro models
 - Keeps your Playseat chair in place during intense gaming sessions
 - Anti-slip layer underneath to keep the mat in place on slick surfaces
 

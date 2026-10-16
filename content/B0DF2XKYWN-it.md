@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FAIRYTREES Albero di Natale 220 cm Nordman Esclusivo 100% PE | Elementi naturali realizzati ad iniezione| in UE | albero con supporto in legno di frassino fatto a mano'
-date: 2026-10-13 06:03:32
+date: 2026-10-15 06:30:16
 image: 'https://m.media-amazon.com/images/I/41tAaAmB3JL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

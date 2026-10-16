@@ -28,8 +28,8 @@ average: '68.35'
 
 ℹ️:
 
-- Essenziale
 - Catena con logo
+- Essenziale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DW3SLTHH{{</world>}}

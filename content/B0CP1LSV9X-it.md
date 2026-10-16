@@ -28,8 +28,8 @@ average: '19.95'
 
 ℹ️:
 
-- Porcellana
 - 6*9cm zucch 12cm cucch 13cm
+- Porcellana
 - Idonei ad utilizzo nel microonde. Idonei ad utilizzo in lavastoviglie. Non utilizzare spugne abrasive. Ricorda che la ceramica è fragile e va trattata con cura.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

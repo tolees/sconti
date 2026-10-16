@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Colore: Nero
 - Suola/Caratteristiche: TPU 20% riciclato
-- Tomaia: Pelle
+- Colore: Nero
 - Fodera: 100% Poliestere Riciclato
+- Tomaia: Pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BM51L7F6{{</world>}}

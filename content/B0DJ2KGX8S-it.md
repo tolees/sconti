@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 93% cotone / 7% elastan
-- Stile 3-Stripes
-- Vestibilità attillata
 - Vita media
+- 93% cotone / 7% elastan
+- Vestibilità attillata
+- Stile 3-Stripes
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DJ2KGX8S{{</world>}}

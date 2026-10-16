@@ -28,8 +28,8 @@ average: '19.99'
 
 ℹ️:
 
-- PERONI NON FILTRATA: La birra Peroni assume una veste tutta nuova con la birra non filtrata
 - GUSTO RIGENERANTE: La Peroni non filtrata presenta un gusto moderatamente amaro, equilibrato di luppolo e malto
+- PERONI NON FILTRATA: La birra Peroni assume una veste tutta nuova con la birra non filtrata
 - FORMATO: cassa di birra con 24 bottiglie da 33 cl
 - IDEALE CON: Peroni Non Filtrata è la birra ottima per accompagnare pizza, pasta e piatti della tradizione italiana
 - GRADAZIONE ALCOLICA: 4.7 % vol

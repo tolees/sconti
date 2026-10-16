@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Proof (Standard Edition)
 - Bts
+- Proof (Standard Edition)
 - audioCD
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

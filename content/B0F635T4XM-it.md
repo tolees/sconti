@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Punta arrotondata
 - Loghi PUMA
-- Tipo di tacco: Tacco piatto
 - Larghezza regolare
+- Tipo di tacco: Tacco piatto
 - Suola in gomma che avvolge il tallone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

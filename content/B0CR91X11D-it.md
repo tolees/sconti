@@ -28,11 +28,11 @@ average: '9.99'
 
 ℹ️:
 
+- Scomparto principale dotato di spazio posteriore con cerniera per carte o contanti
+- Tasca sul retro ottime per riporre in preservazione carte e banconote
 - Tessuto idrorepellente
 - Cinghia in vita regolabile per indossarlo con leggerità
 - Realizzato in resistente poliestere
-- Scomparto principale dotato di spazio posteriore con cerniera per carte o contanti
-- Tasca sul retro ottime per riporre in preservazione carte e banconote
 - Logo Eastpak sul davanti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

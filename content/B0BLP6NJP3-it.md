@@ -28,11 +28,11 @@ average: '31.19'
 
 ℹ️:
 
-- Una vera e propria simulazione che premia la qualità e l’autenticità dei piatti
-- Il primo videogioco in collaborazione con la famosa Guida MICHELIN
+- Il gioco che unisce la gestione di un ristorante alla simulazione in cucina
 - Oltre 180 ricette di cucina francese e italiana da preparare
 - Personalizzazione del ristorante e del proprio avatar
-- Il gioco che unisce la gestione di un ristorante alla simulazione in cucina
+- Una vera e propria simulazione che premia la qualità e l’autenticità dei piatti
+- Il primo videogioco in collaborazione con la famosa Guida MICHELIN
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BLP6NJP3{{</world>}}

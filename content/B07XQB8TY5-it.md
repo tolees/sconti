@@ -29,10 +29,10 @@ average: '40.87'
 ℹ️:
 
 - Lettore di schede micro sd e sd,compatibile con sdhc e sdxc:uhs-i
-- Hub usb-c con 2 porte usb 3.0 compatibile con usb 2.0 e usb 1.1,con alloggiamento in alluminio e cavo da 15 cm
-- Porta di rete gigabit rj45 (10/100/1000 mbps)
 - Plug and play,non necessita di installazione di alcun tipo,compatibile con windows 10,mac os e chrome os,usb-c thunderbolt 3
+- Porta di rete gigabit rj45 (10/100/1000 mbps)
 - Porta usb-c aggiuntiva per dati,con possibilità di collegare lalimentazione del dispositivo: laptop,tablet,ecc.,per la ricarica simultanea con lutilizzo dellhub,con capacità fino a 20 v e 5 a 100 w
+- Hub usb-c con 2 porte usb 3.0 compatibile con usb 2.0 e usb 1.1,con alloggiamento in alluminio e cavo da 15 cm
 - Porta hdmi 4k di risoluzione 3840 x 2160,1080p e 4096 x 2160 a 30 hz
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

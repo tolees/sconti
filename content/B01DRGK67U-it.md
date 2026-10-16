@@ -29,8 +29,8 @@ average: '11.43'
 ℹ️:
 
 - Pressione di serraggio kg 45
-- Apertura mm 300
 - Profondità mm 76
+- Apertura mm 300
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01DRGK67U{{</world>}}

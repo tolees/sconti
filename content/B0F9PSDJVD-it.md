@@ -28,10 +28,10 @@ average: '4.85'
 
 ℹ️:
 
-- Gioco con app scaricabile gratuitamente per iOS e Android per rendere l’esperienza ancora più immersiva
-- I giocatori devono esplorare le diverse ambientazioni per svelare indizi, risolvere rebus ed enigmi e raggiungere così la vittoria
 - ESPLORATE luoghi, GESTITE congegni nell’applicazione, RISOLVETE enigmi e COMPLETATE L’AVVENTURA prima che scada il tempo!
 - Un gioco collaborativo ispirato alle Escape Room. Unlock! vi consente di vivere questa esperienza comodamente a casa vostra
+- I giocatori devono esplorare le diverse ambientazioni per svelare indizi, risolvere rebus ed enigmi e raggiungere così la vittoria
+- Gioco con app scaricabile gratuitamente per iOS e Android per rendere l’esperienza ancora più immersiva
 - In questa avventura assisterete a una storia d’amore fra due animali diametralmente opposti, in cui si intrecciano poesia e misteri.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

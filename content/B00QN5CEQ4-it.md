@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tipo de producto: Agua de perfume
 - Productos de belleza y el cuidado personal
+- Tipo de producto: Agua de perfume
 - Marca: Clinique
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

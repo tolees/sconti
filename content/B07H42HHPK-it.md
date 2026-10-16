@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Con occhielli per appendere
-- Con tappetino bisellato
 - Con vetro trasparente lavato
+- Con tappetino bisellato
 - Profilo rettangolare con venatura naturale del legno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

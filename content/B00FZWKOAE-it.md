@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Diametro palline da 30 mm
 - Divertente e colorato
+- Diametro palline da 30 mm
 - Gioco per bambini
 - Per Bamini dai 3 anni, gioco da 2 a 4 giocatori
 

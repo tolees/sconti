@@ -28,8 +28,8 @@ average: '22.27'
 
 ℹ️:
 
-- __Stoff:__ reiner Baumwollstoff
 - __Taille:__ falscher Hosenschlitz
+- __Stoff:__ reiner Baumwollstoff
 - __Passform:__ klassischer, komfortabler Regular Fit
 - __Waschung:__ Acid Wash für einen einzigartigen Look
 - __Außennaht:__ 43,2 cm Außennaht, kurze Länge

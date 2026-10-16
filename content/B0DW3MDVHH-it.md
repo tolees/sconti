@@ -28,9 +28,9 @@ average: '15.99'
 
 ℹ️:
 
-- Abito corto, taglio normale, cuciture decorative sul davanti, abbottonatura, colletto a camicia
 - Da donna
 - Maniche corte
+- Abito corto, taglio normale, cuciture decorative sul davanti, abbottonatura, colletto a camicia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DW3MDVHH{{</world>}}

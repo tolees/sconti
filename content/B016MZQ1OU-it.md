@@ -28,11 +28,11 @@ average: '12.96'
 
 ℹ️:
 
-- Prese per collegamento elettrodomestici: 2 prese universali sicuro e 4 biprese sicury
-- Prese sicure grazie al dispositivo sicury, che protegge da contatti accidentali con le parti in tensione
 - Istruzioni e tutorial su faidate.vimar
 - Possibilità di fissaggio con chiodo, vite o fascette
 - Interruttore luminoso, per il distacco totale dei dispositivi collegati
+- Prese per collegamento elettrodomestici: 2 prese universali sicuro e 4 biprese sicury
+- Prese sicure grazie al dispositivo sicury, che protegge da contatti accidentali con le parti in tensione
 - Lunghezza cavo 1, 5 metri
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ average: '4.37'
 
 ℹ️:
 
-- Attori: Gene Wilder, Jack Albertson, Peter Ostrum, Roy Kinnear, Julie Dawn Cole, Leonard Stone, Denise Nickerson, Dodo Denney, Paris Themmen, Michael Bollner,
 - Regista: Mel Stuart
+- Attori: Gene Wilder, Jack Albertson, Peter Ostrum, Roy Kinnear, Julie Dawn Cole, Leonard Stone, Denise Nickerson, Dodo Denney, Paris Themmen, Michael Bollner,
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0041KXW7I{{</world>}}

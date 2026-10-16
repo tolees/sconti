@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Anello di fettuccia in Dyneema
 - Dimensioni: 80 cm
-- Resistenza alla rottura: 22.kn
 - Larghezza nastro 11 mm
+- Resistenza alla rottura: 22.kn
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00H26L2IY{{</world>}}

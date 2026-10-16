@@ -28,11 +28,11 @@ average: '41.7066666666667'
 
 ℹ️:
 
+- Dimensioni: lenzuolo 160 x 280 cm, sottolenzuolo 90 x 200 cm, federa 50 x 80 cm
+- Materiale: 100 % cottone
 - Colore: blu wonderland
 - Lavabile in lavatrice a 60 gradi
-- Materiale: 100 % cottone
 - Il prodotto contiene un lenzuolo, un sottolenzuolo con angoli elasticizzati e una federa
-- Dimensioni: lenzuolo 160 x 280 cm, sottolenzuolo 90 x 200 cm, federa 50 x 80 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07XDY9XXC{{</world>}}

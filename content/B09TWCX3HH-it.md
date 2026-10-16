@@ -28,10 +28,10 @@ average: '3.99'
 
 ℹ️:
 
-- Elimina rapidamente vespe e calabroni tramite spruzzo diretto (efficace anche su altri insetti come mosche, zanzare comuni, zanzare tigre e moscerini);
 - Modo duso specifico per vespe e calabroni: basta spruzzare direttamente sugli insetti. Non utilizzare su nidi e alveari
-- Formula ad azione rapida che uccide gli insetti in pochi secondi;
+- Elimina rapidamente vespe e calabroni tramite spruzzo diretto (efficace anche su altri insetti come mosche, zanzare comuni, zanzare tigre e moscerini);
 - Può essere utilizzato in tutte le stanze della casa, per una protezione completa contro gli insetti volanti;
+- Formula ad azione rapida che uccide gli insetti in pochi secondi;
 - E’ sicuro da utilizzare intorno alle piante poiché non le danneggia, tutelando lambiente circostante (Non utilizzare su piante edibili e commestibili);
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

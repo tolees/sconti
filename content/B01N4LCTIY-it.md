@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- TEXTURE ULTRA-LEGGERE E FLOREALE Con una texture floreale ultra-leggera e lussuosa, questa crema può essere utilizzata da sola o stratificata con la Collezione White Tea, creando unesperienza sensoriale unica ogni volta che la usi
-- CREMA CORPOREA TÈ BIANCO Questa crema corporea, arricchita con burro di karité, antiossidanti ed estratto di tè bianco, offre unidratazione profonda e aiuta a lenire la pelle secca, lasciandola coccolata e nutrita
-- SCOPRI WHITE TEA - ELIZABETH ARDEN Scopri tutte le fragranze e le lozioni della collezione White Tea e trova la tua combinazione preferita
-- FRAGRANZA WHITE TEA Oltre allidratazione, questa crema offre una fragranza fresca e vibrante con un calore persistente che ti trasporta in momenti di felice evasione
 - CONSIGLI PER LUSO Applicare la crema generosamente sulla pelle pulita e asciutta, massaggiando delicatamente fino a completo assorbimento; Usare quotidianamente, preferibilmente dopo il bagno o la doccia
+- SCOPRI WHITE TEA - ELIZABETH ARDEN Scopri tutte le fragranze e le lozioni della collezione White Tea e trova la tua combinazione preferita
+- CREMA CORPOREA TÈ BIANCO Questa crema corporea, arricchita con burro di karité, antiossidanti ed estratto di tè bianco, offre unidratazione profonda e aiuta a lenire la pelle secca, lasciandola coccolata e nutrita
+- TEXTURE ULTRA-LEGGERE E FLOREALE Con una texture floreale ultra-leggera e lussuosa, questa crema può essere utilizzata da sola o stratificata con la Collezione White Tea, creando unesperienza sensoriale unica ogni volta che la usi
+- FRAGRANZA WHITE TEA Oltre allidratazione, questa crema offre una fragranza fresca e vibrante con un calore persistente che ti trasporta in momenti di felice evasione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01N4LCTIY{{</world>}}

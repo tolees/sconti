@@ -28,10 +28,10 @@ average: '99.9'
 
 ℹ️:
 
-- 1 HDMI, 1 D-Sub, Ingresso Audio
 - Samsung Monitor S36GD, 27, Curvo
-- 1920x1080 (Full HD), 16:9
 - Contenuto: 1x Samsung Monitor S36GD 27, Include cavo di alimentazione, cavo HDMI e cavo D-Sub, Dimensioni con base (LxAxP): 62,26 x 45,86 x 21,40 cm
+- 1 HDMI, 1 D-Sub, Ingresso Audio
+- 1920x1080 (Full HD), 16:9
 - Frequenza di Aggiornamento 100Hz, Tempo di Risposta 4ms (GtG), Eye Saver Mode, Flicker Free, Game Mode
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

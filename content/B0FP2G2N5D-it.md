@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers Go Walk Flex Serenity - Sneaker da Donna Colore Rosa Naturale Taglia 38'
-date: 2026-10-14 03:49:38
+date: 2026-10-15 06:40:15
 image: 'https://m.media-amazon.com/images/I/31qDGzVOApL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -29,8 +29,8 @@ average: '13.99'
 ℹ️:
 
 - Vestibilità regolare
-- 100% cotone
 - Girocollo
+- 100% cotone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZXX2J3V{{</world>}}

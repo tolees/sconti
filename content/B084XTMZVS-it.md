@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- After
-- Hours
 - Weeknd
+- Hours
+- After
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B084XTMZVS{{</world>}}

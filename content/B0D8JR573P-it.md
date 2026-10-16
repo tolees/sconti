@@ -29,11 +29,11 @@ average: '16.99'
 ℹ️:
 
 - Maglietta classica con grafica
-- Girocollo
-- Lavabile in lavatrice
 - 100% cotone
-- Con il nostro motivo vintage Batwing
+- Lavabile in lavatrice
+- Girocollo
 - Vestibilità ampia
+- Con il nostro motivo vintage Batwing
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D8JR573P{{</world>}}

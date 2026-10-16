@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Mini-giochi dei Chompette: Goditi interazioni speciali con i Chompettes!
-- Gestisci le relazioni: Prendi decisioni che influenzeranno i tuoi rapporti.
 - Visual novel horror psicologico: Un’esperienza ingannevolmente carina ma inquietante.
 - Dark comedy: Un mix di horror disturbante e umorismo contorto.
+- Gestisci le relazioni: Prendi decisioni che influenzeranno i tuoi rapporti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FLYKRG6W{{</world>}}

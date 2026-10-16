@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Chiusura: gomma
 - Materiale esterno: tela
 - Larghezza scarpa: media
-- Chiusura: gomma
 - Tipo di tacco: piatto
 - Materiale interno: tessuto
 

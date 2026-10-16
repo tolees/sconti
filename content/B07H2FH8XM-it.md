@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Tipo di sport: ropa deportiva atlética
 - Allenamento
-- Magliette equipaggiate; m/c
 - Burdeos
+- Magliette equipaggiate; m/c
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07H2FH8XM{{</world>}}

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- La linea Universal Bosch – le soluzioni intelligenti quando ti servono versatilità e potenza
 - Dotazione: UniversalSaw 18V-100, 2 lame T144D, tappo antipolvere, protezione antischegge, controllo del taglio, pattino di protezione, confezione in cartone
 - Loscillazione a 4 livelli consente un avanzamento rapido del taglio e una profondità di taglio fino a 100 mm nel legno (+25 % rispetto al modello precedente)
 - POWER FOR ALL ALLIANCE: 1 BATTERIA, 10+ MARCHI, ​150+ PRODOTTI
+- La linea Universal Bosch – le soluzioni intelligenti quando ti servono versatilità e potenza
 - Potente seghetto alternativo universale per piccoli e grandi progetti di fai-da-te, come pavimentazione in parquet o piani da lavoro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

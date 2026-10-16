@@ -28,9 +28,9 @@ average: '27.73'
 
 ℹ️:
 
+- ricaricabile con refill LRP7
 - fusto in plastica con particolari in metallo
 - resistente allacqua e alla luce
-- ricaricabile con refill LRP7
 - inchiostro a pigmenti certificato ISO 27668-2
 - prefetto per uso su documenti ufficiali
 

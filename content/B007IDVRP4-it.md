@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Dopo il fissaggio, lavabile fino a 40°C
-- Per decorare tessuti di cotone chiari e scuri o tessuti misti con max. 20% di fibre sintetiche
-- Vernici ad acqua dai colori vivaci per bambini dai 2 anni in su
-- Dermatologicamente testato, vegano, senza parabeni, glutine e lattosio
 - Pittura a dita ideale per attività educative in asili, centri diurni, asili e scuole, così come per sessioni di terapia
+- Per decorare tessuti di cotone chiari e scuri o tessuti misti con max. 20% di fibre sintetiche
+- Dermatologicamente testato, vegano, senza parabeni, glutine e lattosio
+- Vernici ad acqua dai colori vivaci per bambini dai 2 anni in su
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B007IDVRP4{{</world>}}

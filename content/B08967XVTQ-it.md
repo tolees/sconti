@@ -28,10 +28,10 @@ average: '22.21'
 
 ℹ️:
 
-- 2 prese in una: disponi in contemporanea di una presa Schuko e un alimentatore USB.
+- Alimentatore USB potente e reversibile grazie all’adattatore da tipo C a tipo A
 - Installazione facile e veloce: puoi installarla sul telaio Bticino LivingNow originale
 - Presa da muro perfetta per l’alimentazione e ricarica di pc portatili, smartphone ecc.
-- Alimentatore USB potente e reversibile grazie all’adattatore da tipo C a tipo A
+- 2 prese in una: disponi in contemporanea di una presa Schuko e un alimentatore USB.
 - Nessun bisogno di adattatori
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

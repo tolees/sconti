@@ -30,8 +30,8 @@ average: '19.7066666666667'
 
 - Playset in metallo di Harry Potter con Harry e Piton
 - Adatto come regalo
-- Adatto a partire dai 3 anni in su
 - Ottimo nei dettagli, altezza cm 11
+- Adatto a partire dai 3 anni in su
 - Colleziona tutti i modelli Jada Harry Potter, per rivivere le emozioni dei tuoi film preferiti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

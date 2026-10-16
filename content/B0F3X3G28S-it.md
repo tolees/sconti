@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Pronta alluso
 - Previene e protegge il muro dalla comparsa della muffa
 - Ottimale per ambienti poco aerati
+- Pronta alluso
 - Risanante e inodore
 - Per le pareti interne della casa
 

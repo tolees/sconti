@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Carhartt Force - FastDry combined with anti-microbial properties
-- Relaxed Fit
 - Left chest pocket with pencil opening
-- Long Raglan Sleeve
+- Relaxed Fit
 - Rib knit crew neck
+- Long Raglan Sleeve
+- Carhartt Force - FastDry combined with anti-microbial properties
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B096VVX4R2{{</world>}}

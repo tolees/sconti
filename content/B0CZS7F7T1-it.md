@@ -28,14 +28,14 @@ average: '15.99'
 
 ℹ️:
 
-- Tracolla regolabile con imbottitura mobile
 - Tasche interne con zip e aperte
 - Doppi manici con impugnatura imbottita
+- Esterno: 100% poliestere (riciclato); interno: 100% elastomero termoplastico
+- Tracolla regolabile con imbottitura mobile
 - Tasche laterali e alle estremità con chiusura a zip
+- Volume: 65,5 L
 - Dimensioni: 26 cm x 65 cm x 33 cm
 - Scomparto separato per le scarpe
-- Esterno: 100% poliestere (riciclato); interno: 100% elastomero termoplastico
-- Volume: 65,5 L
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZS7F7T1{{</world>}}

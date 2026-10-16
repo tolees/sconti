@@ -28,8 +28,8 @@ average: '35.99'
 
 ℹ️:
 
-- Fodera interna a contrasto
 - Vestibilità attillata (Slim Fit)
+- Fodera interna a contrasto
 - Piccolo logo ricamato sul petto
 - Realizzato in puro cotone e poliestere
 - Fantastica giacca di Lonsdale

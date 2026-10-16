@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Prodotto adatto a donare ai capelli un colore diverso o a coprire i capelli bianchi
 - Il kit contiene il necessario per unapplicazione efficace
+- Prodotto adatto a donare ai capelli un colore diverso o a coprire i capelli bianchi
 - Facile da applicare sulla chioma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

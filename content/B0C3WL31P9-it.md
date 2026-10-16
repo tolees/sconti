@@ -28,9 +28,9 @@ average: '34.99'
 
 ℹ️:
 
-- Morbida tomaia in materiale sintetico
 - Calzata regolare
 - Fodera in tessuto
+- Morbida tomaia in materiale sintetico
 - Intersuola Cloudfoam
 - Chiusura con lacci
 

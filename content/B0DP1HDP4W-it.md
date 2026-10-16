@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Oral-B iO Series 2 Spazzolino elettrico DUO Pack  Night Black/Calm Pink'
-date: 2025-10-25 04:48:00
-image: 'https://m.media-amazon.com/images/I/41QNt3Rf1dL._SL500_._SL400_.jpg'
+title: 'Oral-B iO 2 2 Spazzolini Elettrici 2 Testina di Ricambio Nero e Rosa'
+date: 2026-10-15 01:49:44
+image: 'https://m.media-amazon.com/images/I/51fZBVJ1BkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0DP1HDP4W-it Oral-B iO Series 2 Spazzolino elettrico DUO Pack Night...'
+slug: 'B0DP1HDP4W-it Oral-B iO 2 2 Spazzolini Elettrici 2 Testina di Ricambio...'
 sku: 'B0DP1HDP4W-it'
-tags: [ 'Igiene dentale','Salute e cura della persona','Spazzolini da denti e accessori','Spazzolini da denti elettrici','Spazzolini da denti elettrici e accessori','Spazzolini da denti elettrici rotanti','oral-b','🇮🇹', ]
-actualPrice: 84.95 EUR
+tags: [ '🇮🇹', ]
+actualPrice: 69.99 EUR
 currency: EUR
-price: 84.95
-comparePrice: 109.46 EUR
-prodname: 'Oral-B iO Series 2 Spazzolino elettrico DUO Pack  Night Black/Calm Pink'
+price: 69.99
+comparePrice: 98.69 EUR
+prodname: 'Oral-B iO 2 2 Spazzolini Elettrici 2 Testina di Ricambio Nero e Rosa'
 country: 'it'
 flag: '🇮🇹'
-brand: 'Oral-B'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0DP1HDP4W/?tag=tolees00-21'
-descuento: '22.39'
-average: '84.95'
+descuento: '29.08'
+average: '77.47'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,11 +28,6 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Proteggi le tue gengive con il SENSORE DI PRESSIONE AUTOMATICO che rallenta la velocità e ti avvisa con una spia rossa quando spazzoli i denti con troppa forza
-- TIMER DI 2 MINUTI, COME CONSIGLIATO DAL DENTISTA, che ti avvisa ogni 30 secondi per cambiare la zona di spazzolamento
-- PROGETTATO PER PASSARE ALLELETTRICO CON FACILITÀ; Basta un semplice per scegliere tra 3 livelli di intensità, spazzolamento silenzioso e batteria a lunga durata
-- DENTI 100% PIÙ PULITI rispetto ad uno spazzolino manuale tradizionale; Tecnologia iO di Oral-B: EFFICACE SULLA PLACCA, DELICATO SULLE GENGIVE
-- SCEGLI IN MODO FACILE LA TUA PULIZIA PERFETTA con 3 LIVELLI DI INTENSITÀ SILENZIOSI: Super Delicata, Delicata, Pulizia Quotidiana
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DP1HDP4W{{</world>}}

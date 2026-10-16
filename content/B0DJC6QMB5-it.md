@@ -28,9 +28,9 @@ average: '27.53'
 
 ℹ️:
 
-- Design leggero
 - Con una soletta comoda
 - Dettagli distintivi del marchio
+- Design leggero
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DJC6QMB5{{</world>}}

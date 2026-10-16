@@ -28,8 +28,8 @@ average: '34.99'
 
 ℹ️:
 
-- Tessuto morbidissimo
 - Orlo e polsini a coste
+- Tessuto morbidissimo
 - Comoda felpa girocollo in pile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

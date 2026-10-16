@@ -28,9 +28,9 @@ average: '15.5'
 
 ℹ️:
 
+- * Il Marchio non appartiene a Gruppo Gimoka né a società ad esso collegate
 - AROMA - Gusto ricco, vigoroso e pieno. Un espresso dalla corposità avvolgente che esprime una combinazione di sentori di cacao amaro e frutta secca. La tostatura prolungata dona a questa miscela un gusto forte, che rilascia un prolungato e avvolgente sentore sul palato.
 - MADE IN ITALY - Gimoka è il secondo torrefattore in Italia per volumi di caffè processato. Le nostre capsule sono prodotte e torrefatte in Italia.
-- * Il Marchio non appartiene a Gruppo Gimoka né a società ad esso collegate
 - COMPATIBILI – Le capsule compatibili Dolce Gusto sono perfettamente utilizzabili sulle macchine Krups e De’Longhi sistema NESCAFÉ Dolce Gusto* al pari delle capsule originali. Sono l’alternativa alle cialde caffè
 - CONTENUTO – La confezione contiene 4 confezioni da 16 capsule (totale 64 capsule) di caffè tostato e macinato, confezionato in atmosfera protetta.
 

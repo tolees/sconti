@@ -28,9 +28,9 @@ average: '35.59'
 
 ℹ️:
 
-- Finitura liscia
-- Placchetta con distintivo Tommy sul davanti
 - Chiusura con zip
+- Placchetta con distintivo Tommy sul davanti
+- Finitura liscia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DT1P4V9G{{</world>}}

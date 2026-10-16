@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Bouquet intensamente fruttato con evidenti note di mela golden matura; elegante nota di fiori d’acacia
-- Al gusto è fresco, leggermente abboccato, morbido su fondo sapido; finale piacevolmente fruttato e armonico
-- Ha un colore giallo paglierino scarico, perlage fine e persistente
 - Come servire: Servire a 6-8 gradi Celsius; e un ottimo aperitivo; accompagna piacevolmente pesce marinato con delicate erbe aromatiche o primi piatti a base di erbe spontanee
-- Provenienza: Italy
-- Denominazione varietale: Glera
 - Contenuto alcolico (alc/vol): 11 percent_by_volume
+- Denominazione varietale: Glera
+- Ha un colore giallo paglierino scarico, perlage fine e persistente
+- Provenienza: Italy
+- Al gusto è fresco, leggermente abboccato, morbido su fondo sapido; finale piacevolmente fruttato e armonico
+- Bouquet intensamente fruttato con evidenti note di mela golden matura; elegante nota di fiori d’acacia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08T7HV8LD{{</world>}}

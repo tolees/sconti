@@ -28,11 +28,11 @@ average: '99.0'
 
 ℹ️:
 
-- Suola/caratteristiche: EVA per leggerezza
-- Colore: nero
 - Soletta: EVA rimovibile con sistema di ammortizzazione
 - Tomaia: Pelle (Vitello)
 - Fodera: 50% Tessuto (60% Nylon - 40% PU) 50% Poliestere
+- Suola/caratteristiche: EVA per leggerezza
+- Colore: nero
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0044DUB9E{{</world>}}

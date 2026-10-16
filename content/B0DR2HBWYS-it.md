@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Include un pennarello cancellabile con inchiostro nero.
 - Lavagna bianca magnetica, cancellabile, a forma del nostro divertente broccolo Mr. Wonderful.
+- Include un pennarello cancellabile con inchiostro nero.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DR2HBWYS{{</world>}}

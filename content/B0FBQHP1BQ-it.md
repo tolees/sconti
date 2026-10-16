@@ -28,9 +28,9 @@ average: '9.99'
 
 ℹ️:
 
+- - 2 penne stilografiche- poggia penna- penna cancellabile- penne a sfera-pennarello - inchiostri colorati- inchiostri glitter- inchiostro profumato- scatola a libro- manuale illustrato
 - Penne ed evidenziatori diy - Contenitore a libro - Tanti inchiostri colorati
 - Immergiti in un mondo di colori, inchiostri e scrittura!
-- - 2 penne stilografiche- poggia penna- penna cancellabile- penne a sfera-pennarello - inchiostri colorati- inchiostri glitter- inchiostro profumato- scatola a libro- manuale illustrato
 - Sperimentazione scientifica; creatività; concetti di chimica; ossrvazione; manualità fine
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

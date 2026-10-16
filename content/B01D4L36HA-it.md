@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Caffè Vergnano 1882 - Capsule Compatibili Nespresso Oro'
-date: 2026-10-14 02:00:11
+title: 'Caffè Vergnano 1882 - Capsule Compatibili Nespresso Oro | Pack da 50 Capsule'
+date: 2026-10-16 05:49:39
 image: 'https://m.media-amazon.com/images/I/416DTkYncBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B01D4L36HA-it Caffè Vergnano 1882 - Capsule Compatibili Nespresso Oro'
+slug: 'B01D4L36HA-it Caffè Vergnano 1882 - Capsule Compatibili Nespresso Oro |...'
 sku: 'B01D4L36HA-it'
 tags: [ '🇮🇹', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99
 comparePrice: 16.49 EUR
-prodname: 'Caffè Vergnano 1882 - Capsule Compatibili Nespresso Oro'
+prodname: 'Caffè Vergnano 1882 - Capsule Compatibili Nespresso Oro | Pack da 50 Capsule'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B01D4L36HA/?tag=tolees00-21'
 descuento: '45.48'
-average: '9.448'
+average: '9.37166666666667'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

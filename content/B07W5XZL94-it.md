@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Schiena in rete
+- Materiale: 100% poliestere
 - Il materiale Dry-Fit ti mantiene asciutto
 - Colletto a costine
-- Materiale: 100% poliestere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07W5XZL94{{</world>}}

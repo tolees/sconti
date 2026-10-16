@@ -28,11 +28,11 @@ average: '53.38'
 
 ℹ️:
 
-- Protezione aggiuntiva sul davanti, sul retro e sui lati
-- Certificazione: CE EN 12492
 - Basso profilo
 - Costruzione in-mold con nucleo in EPS e rinforzi in Kevlar
 - Lampio test di sicurezza Mammut verifica la robustezza del casco in particolare dopo un impatto laterale
+- Protezione aggiuntiva sul davanti, sul retro e sui lati
+- Certificazione: CE EN 12492
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B084CW21QN{{</world>}}

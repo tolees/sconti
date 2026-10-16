@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Spuma di Sciampagna - Detersivo Lavatrice Marsiglia 3x1215ml 81 Lavaggi'
-date: 2026-10-08 12:38:12
+date: 2026-10-15 12:26:11
 image: 'https://m.media-amazon.com/images/I/51NrYEtf2CL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ '🇮🇹', ]
 actualPrice: 8.37 EUR
 currency: EUR
 price: 8.37
-comparePrice: 11.97 EUR
+comparePrice: 11.99 EUR
 prodname: 'Spuma di Sciampagna - Detersivo Lavatrice Marsiglia 3x1215ml 81 Lavaggi'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0CP822QLP/?tag=tolees00-21'
-descuento: '30.08'
-average: '7.39090909090909'
+descuento: '30.19'
+average: '7.54153846153846'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

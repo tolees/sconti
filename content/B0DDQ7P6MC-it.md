@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Lavabile in lavatrice
 - Arch Fit
+- Lavabile in lavatrice
 - Vegano
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

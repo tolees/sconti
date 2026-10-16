@@ -28,11 +28,11 @@ average: '15.734'
 
 ℹ️:
 
-- Non può mancare a casa tua!
-- Statuetta da collezione || Molto confortevole
-- Materiale: Resistente
 - Anime, Fan merch, Serie TV
+- Statuetta da collezione || Molto confortevole
 - Funko Pop! con le seguenti caratteristiche:
+- Materiale: Resistente
+- Non può mancare a casa tua!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CDJNH9ZV{{</world>}}

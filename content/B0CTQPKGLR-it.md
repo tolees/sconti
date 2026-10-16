@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Aroma fruttato con note tostate
-- Pensata per celebrare insieme i momenti che contano
 - Perfetta in abbinamento a carni bianche, insaccati, fritti di terra
 - Lager 5% vol a bassa fermentazione
+- Aroma fruttato con note tostate
+- Pensata per celebrare insieme i momenti che contano
 - Gusto maltato con finale amarognolo, fresco ed equilibrato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

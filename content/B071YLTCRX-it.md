@@ -28,11 +28,11 @@ average: '21.5775'
 
 ℹ️:
 
-- Gusto: un palato morbido ad avvolgente con delicate note aromatiche che donano freschezza
-- Vitigno: proveniente da una pregiata selezione di uva di origine italiana
-- Casa SantOrsola è un mondo di stile, tradizione e gioia di vivere: ciascuna bottiglia di vino Casa SantOrsola esprime litalianità a tavola in ogni occasione speciale
-- Colore: rosa dai riflessi brillanti
 - Caratteristiche: vino rosato cuvèe ottenuto da prestigiosa uva italiana, ottimo come aperitivo e accompagnato da primi piatti e crostacei
+- Vitigno: proveniente da una pregiata selezione di uva di origine italiana
+- Colore: rosa dai riflessi brillanti
+- Gusto: un palato morbido ad avvolgente con delicate note aromatiche che donano freschezza
+- Casa SantOrsola è un mondo di stile, tradizione e gioia di vivere: ciascuna bottiglia di vino Casa SantOrsola esprime litalianità a tavola in ogni occasione speciale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B071YLTCRX{{</world>}}

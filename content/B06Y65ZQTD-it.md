@@ -30,8 +30,8 @@ average: '14.99'
 
 - Moduli: 1
 - Questo prodotto rispetta le regole di produzione
-- Colore: tech
 - Corrente in: 16 A
+- Colore: tech
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B06Y65ZQTD{{</world>}}

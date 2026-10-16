@@ -28,10 +28,10 @@ average: '97.99'
 
 ℹ️:
 
-- Dimensioni: lunghezza 46.5 cm, larghezza 18.5 cm, altezza 25 cm
 - Designer: Michele De Lucchi
 - Dotato di doppio scomparto allungato per tostare fino a quattro fette di pane con sei livelli di doratura, funzione scongelamento e griglia scalda brioches
 - Materiale: acciaio inossidabile 18/10, resina termoplastica
+- Dimensioni: lunghezza 46.5 cm, larghezza 18.5 cm, altezza 25 cm
 - Un ottimo alleato per preparare e gustare con amici o famigliari un pranzo sfizioso, un brunch o una colazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

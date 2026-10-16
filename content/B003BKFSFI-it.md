@@ -28,11 +28,11 @@ average: '2.34'
 
 ℹ️:
 
-- Made in Italy
-- Punta Maxi 6 mm con cappuccio ventilato e punta bloccata
-- Scatola di 12 Pennarelli JUMBO
-- Corpo Maxi ottagonale
 - Inchiostro superlavabile
+- Punta Maxi 6 mm con cappuccio ventilato e punta bloccata
+- Corpo Maxi ottagonale
+- Scatola di 12 Pennarelli JUMBO
+- Made in Italy
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B003BKFSFI{{</world>}}

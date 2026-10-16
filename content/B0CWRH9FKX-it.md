@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'IceReco 10 Paia Calze Corte Uomo Cotone Estive Calzini Corti 43-46 Nero'
-date: 2026-09-13 06:28:25
+date: 2026-10-15 06:51:03
 image: 'https://m.media-amazon.com/images/I/31XJpZi99GL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0CWRH9FKX/?tag=tolees00-21'
 descuento: '53.35'
-average: '12.291111111111'
+average: '12.4609999999999'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

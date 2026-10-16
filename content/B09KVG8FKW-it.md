@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Confezione da 2 polo
-- Cotone morbido e confortevole
 - 100% cotone
 - Tubi a contrasto su colletto e maniche
+- Cotone morbido e confortevole
+- Confezione da 2 polo
 - Vestibilità regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

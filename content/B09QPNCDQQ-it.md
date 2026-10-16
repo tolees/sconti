@@ -28,10 +28,10 @@ average: '12.35'
 
 ℹ️:
 
-- DIMENTICATE I CAVI: trasmissione audio wireless a 2,4 Ghz.
-- NESSUN ERRORE: Il design intuitivo vi guida per una configurazione facile da usare; Batteria di 6 ore, lunga durata per la creazione di contenuti durante tutto il giorno
-- NON VI DELUDEREMO MAI: lesclusivo sistema di montaggio modulare progettato da JOBY si adatta alla vostra creatività
 - PRONTO ALLUSO: Kit completo, include un doppio trasmettitore e 2 microfoni lav
+- DIMENTICATE I CAVI: trasmissione audio wireless a 2,4 Ghz.
+- NON VI DELUDEREMO MAI: lesclusivo sistema di montaggio modulare progettato da JOBY si adatta alla vostra creatività
+- NESSUN ERRORE: Il design intuitivo vi guida per una configurazione facile da usare; Batteria di 6 ore, lunga durata per la creazione di contenuti durante tutto il giorno
 - RAPIDO E FACILE: procedura di sincronizzazione rapida e facile da configurare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

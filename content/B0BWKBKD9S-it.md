@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips Shaver Series 7000 - Rasoio elettrico da uomo umido e asciutto con tecnologia SkinIQ rifinitore a scomparsa base di ricarica custodia da viaggio e spazzola di pulizia'
-date: 2026-10-12 13:48:49
+date: 2026-10-15 02:50:36
 image: 'https://m.media-amazon.com/images/I/41cuvf-8rGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0BWKBKD9S/?tag=tolees00-21'
 descuento: '45.00'
-average: '108.49'
+average: '108.656666666667'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

@@ -28,8 +28,8 @@ average: '16.77'
 
 ℹ️:
 
-- Vestibilità attillata
 - 90% cotone / 10% elastan
+- Vestibilità attillata
 - Vita alta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

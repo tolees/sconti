@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Fodera: 100% poliestere riciclato
+- Corona e visiera con curvatura media
 - Struttura a sei pannelli
 - Fascia antiumidità: filato doppio, 100% poliestere riciclato
 - Strato esterno: twill, 100% cotone
-- Corona e visiera con curvatura media
+- Fodera: 100% poliestere riciclato
 - Chiusura a pressione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

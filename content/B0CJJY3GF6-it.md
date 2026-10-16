@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Per tutti i tipi di plastiche (anche PE e PP)
 - Premere immediatamente le parti insieme
-- Applicare uno strato sottile di adesivo (n.2) su un lato
 - Applicare attivatore (n.1) su entrambi i lati delle superfici da incollare
 - Lasciare asciugare per 60 sec.
+- Applicare uno strato sottile di adesivo (n.2) su un lato
+- Per tutti i tipi di plastiche (anche PE e PP)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CJJY3GF6{{</world>}}

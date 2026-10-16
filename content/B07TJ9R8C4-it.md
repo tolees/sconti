@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Materiale aderente
 - Orlo arrotondato
+- Materiale aderente
 - Logo Levis sul petto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

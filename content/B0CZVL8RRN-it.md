@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tasca a marsupio
-- Questo prodotto contiene almeno il 70% di materiali riciclati e rinnovabili
-- Cappuccio regolabile con cordino
+- 55% cotone / 36% poliestere (riciclato) / 9% viscosa
 - Spalle basse
 - Orli a coste
+- Questo prodotto contiene almeno il 70% di materiali riciclati e rinnovabili
 - Calzata regolare
 - Taglio leggermente corto sul retro
-- 55% cotone / 36% poliestere (riciclato) / 9% viscosa
+- Cappuccio regolabile con cordino
+- Tasca a marsupio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZVL8RRN{{</world>}}

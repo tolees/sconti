@@ -28,11 +28,11 @@ average: '41.99'
 
 ℹ️:
 
-- MANUTENZIONE: Facile montaggio e le superfici lisce permettono una pulizia giornaliera conservando nel tempo la bellezza del prodotto
-- DESIGN: Presenta uno stile moderno arricchito da eleganti finiture effetto legno capaci di esaltare ogni ambiente
 - DIMENSIONI: 160x95x75H cm
 - STRUTTURA: Dotato di struttura robusta in metallo che offre un supporto massimo al piano dogato con finitura effetto legno
+- MANUTENZIONE: Facile montaggio e le superfici lisce permettono una pulizia giornaliera conservando nel tempo la bellezza del prodotto
 - ADATTO PER: Tavolo con capacità fino a 6 persone
+- DESIGN: Presenta uno stile moderno arricchito da eleganti finiture effetto legno capaci di esaltare ogni ambiente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DQV9BJQN{{</world>}}

@@ -28,13 +28,13 @@ average: '216.0'
 
 ℹ️:
 
-- Cucina 50X50
-- Colore bianco
 - Piano con 4 bruciatori a gas e griglie a piattina
-- Gas Safety
-- Controllo Meccanico
 - Forno Elettrico Statico
+- Controllo Meccanico
 - Classe A
+- Gas Safety
+- Colore bianco
+- Cucina 50X50
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DGGML1GV{{</world>}}

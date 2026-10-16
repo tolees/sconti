@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Leau de parfum da donna si presenta in un flacone rotondo scolpito come un prezioso gioiello, ornato intorno al collo da una corolla con una raffinata doratura e sormontato da un tappo dorato, come un fiore che sboccia
 - La fragranza si apre con note di pistacchio tostato e ananas; nel cuore, ylang-ylang e gelsomino si fondono con lesclusivo Fiore dOrmond; vaniglia e patchouli lasciano un sillage persistente
 - Creato in esclusiva per Elie Saab, il Fiore dOrmond è una nota inconfondibile che rivela preziose sfaccettature golose per una sensazione soave, seducente e vellutata
 - Una fragranza Elie Saab che esprime lo spirito contemporaneo della nuova generazione al femminile: spontanea, giocosa e spensierata, col suo gruppo di amiche inseparabili la ragazza Girl of Now non passa mai inosservata
+- Leau de parfum da donna si presenta in un flacone rotondo scolpito come un prezioso gioiello, ornato intorno al collo da una corolla con una raffinata doratura e sormontato da un tappo dorato, come un fiore che sboccia
 - Ispirata alla vivacità di spirito e alla gioia di vivere della donna moderna, Girl of Now Shine è uninconfondibile fragranza cipriata gourmand che sprigiona unirresistibile energia positiva e uneffervescenza radiosa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

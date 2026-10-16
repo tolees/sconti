@@ -28,8 +28,8 @@ average: '22.28'
 
 ℹ️:
 
-- Taglio regolare
 - Design moderno
+- Taglio regolare
 - Tasche laterali con fodera in mesh per riporre allâ€asciutto e al sicuro i tuoi oggetti
 - Standard fit per un comfort rilassato e disinvolto
 

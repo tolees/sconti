@@ -29,10 +29,10 @@ average: '1.29'
 ℹ️:
 
 - FORMATO TOP DOWN 250ML: disponibile nel comodo formato Top Down 250 ml
-- PENSATO PER PIATTI ETNICI E NON SOLO: da gustare con pollo fritto, tacos, piatti asiatici o come salsa dip per snack croccanti e finger food
-- SALSA SWEET CHILI CALVÉ: salsa dal gusto bilanciato dolce-piccante con peperone rosso e peperoncino, pensata per chi ama un tocco deciso in ogni boccone
 - GUSTO DOLCE E PICCANTE: unione armoniosa di sapori opposti, dal profilo rotondo e delicato che esplode in una nota speziata sorprendente
 - CALVÉ: dai voce alla tua creatività rendendo i tuoi piatti super gustosi. Calvé, perchè buono può diventare buonissimo!
+- PENSATO PER PIATTI ETNICI E NON SOLO: da gustare con pollo fritto, tacos, piatti asiatici o come salsa dip per snack croccanti e finger food
+- SALSA SWEET CHILI CALVÉ: salsa dal gusto bilanciato dolce-piccante con peperone rosso e peperoncino, pensata per chi ama un tocco deciso in ogni boccone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FJG57Q1N{{</world>}}

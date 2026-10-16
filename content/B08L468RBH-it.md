@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Standard
 - Marvels Spider-Man Miles Morales
+- Standard
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08L468RBH{{</world>}}

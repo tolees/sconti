@@ -1,19 +1,19 @@
 ---
 layout: post
-title: 'JBL Quantum 100M2 Cuffie Gaming Over Ear con Filo Bianco'
-date: 2026-10-09 00:14:34
+title: 'JBL Quantum 100M2 Cuffie Gaming Over Ear con Filo Bianco | JBL QuantumSOUND Signature e Jack per Cuffie da 3 5 mm Compatibilità Multi-Platform Microfono Rimovibile Opzione Mute'
+date: 2026-10-16 02:27:23
 image: 'https://m.media-amazon.com/images/I/31KoebfUDsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0D6NK3C9P-it JBL Quantum 100M2 Cuffie Gaming Over Ear con Filo Bianco'
+slug: 'B0D6NK3C9P-it JBL Quantum 100M2 Cuffie Gaming Over Ear con Filo Bianco |...'
 sku: 'B0D6NK3C9P-it'
 tags: [ '🇮🇹', ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9
 comparePrice: 39.99 EUR
-prodname: 'JBL Quantum 100M2 Cuffie Gaming Over Ear con Filo Bianco'
+prodname: 'JBL Quantum 100M2 Cuffie Gaming Over Ear con Filo Bianco | JBL QuantumSOUND Signature e Jack per Cuffie da 3 5 mm Compatibilità Multi-Platform Microfono Rimovibile Opzione Mute'
 country: 'it'
 flag: '🇮🇹'
 brand: ''

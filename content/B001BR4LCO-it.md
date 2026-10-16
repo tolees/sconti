@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tipo di prodotto - Deodorante
 - Genere - Unisex
+- Tipo di prodotto - Deodorante
 - Marca - Calvin Klein
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

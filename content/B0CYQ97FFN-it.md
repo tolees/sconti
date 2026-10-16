@@ -28,10 +28,10 @@ average: '18.15'
 
 ℹ️:
 
-- Tomaia in materiale sintetico
 - Calzata regolare
 - Suola in gomma
 - Collarino e fodera in mesh
+- Tomaia in materiale sintetico
 - Chiusura a strappo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

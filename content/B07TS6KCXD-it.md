@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Larghezza ganascia di 5,1 cm; tappo regolabile integrato per controllare la lunghezza della striscia centrale
-- Realizzato in lega di acciaio resistente alla corrosione; maniglie a presa sicura per comfort e controllo
-- Autoregolante; può spelare fili da 10 a 24 AWG; crimpare filo isolato/non isolato da 10-22 AWG e terminali di accensione da 7-9 mm
-- Spellafili per rimuovere rapidamente e facilmente il rivestimento protettivo dai fili elettrici; ideale per fai da te e elettricisti professionisti
 - Dimensioni: 20,3 x 10,2 x 3 cm
+- Spellafili per rimuovere rapidamente e facilmente il rivestimento protettivo dai fili elettrici; ideale per fai da te e elettricisti professionisti
+- Realizzato in lega di acciaio resistente alla corrosione; maniglie a presa sicura per comfort e controllo
+- Larghezza ganascia di 5,1 cm; tappo regolabile integrato per controllare la lunghezza della striscia centrale
+- Autoregolante; può spelare fili da 10 a 24 AWG; crimpare filo isolato/non isolato da 10-22 AWG e terminali di accensione da 7-9 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07TS6KCXD{{</world>}}

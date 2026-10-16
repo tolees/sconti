@@ -28,10 +28,10 @@ average: '119.3'
 
 ℹ️:
 
-- Fodera: 95% Tessile 80% Lana, 20% Lyocell TENCEL , 4% Pelle 1% Poliestere Riciclato
-- Colore: Marrone
-- Tomaia: Pelle
 - Suola/Caratteristiche: TPU 20% riciclato
+- Fodera: 95% Tessile 80% Lana, 20% Lyocell TENCEL , 4% Pelle 1% Poliestere Riciclato
+- Tomaia: Pelle
+- Colore: Marrone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CRC3P143{{</world>}}

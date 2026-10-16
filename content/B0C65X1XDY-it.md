@@ -28,10 +28,10 @@ average: '25.99'
 
 ℹ️:
 
-- Sandali del marchio Geox
-- Adatto per: clima caldo
 - Realizzati con materiali sostenibili
+- Sandali del marchio Geox
 - Design traspirante per un comfort extra
+- Adatto per: clima caldo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C65X1XDY{{</world>}}

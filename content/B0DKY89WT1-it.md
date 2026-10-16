@@ -28,8 +28,8 @@ average: '96.45'
 
 ℹ️:
 
-- Foderato in poliestere logato
 - Zaino compatto a scomparto singolo
+- Foderato in poliestere logato
 - Spallacci sono in nastro e regolabili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '39.0'
 
 ℹ️:
 
-- Intersuola Bounce
-- Almeno il 20% del materiale proviene da fonti riciclate
-- Tomaia in mesh traspirante con rivestimenti in materiale sintetico
 - Suola in gomma
+- Tomaia in mesh traspirante con rivestimenti in materiale sintetico
+- Almeno il 20% del materiale proviene da fonti riciclate
+- Intersuola Bounce
 - Chiusura con lacci
 - Fodera in tessuto
 - Calzata regolare

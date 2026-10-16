@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Marca: Michael Kors
 - Materiale: Acciaio,Pelle
+- Marca: Michael Kors
 - orologio al quarzo Michael Kors donna Micro Lexington
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

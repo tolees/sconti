@@ -28,10 +28,10 @@ average: '15.38'
 
 ℹ️:
 
+- Tessuto Dri-Fit
+- Maglietta manica corta
 - Maniche senza cuciture per una totale libertà di movimento.
 - Aperture invisibili sulle maniche per inserire i pollici
-- Maglietta manica corta
-- Tessuto Dri-Fit
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07KKVYFTB{{</world>}}

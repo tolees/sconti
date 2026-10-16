@@ -28,16 +28,16 @@ average: '49.0833333333333'
 
 ℹ️:
 
-- VELOCITÀ VARIABILE: Linterruttore a velocità variabile consente un controllo preciso per una varietà di applicazioni.
-- CAMBIO RAPIDO DELLA BATTERIA: Sistema di aggancio della batteria semplice e sicuro per una sostituzione rapida e facile della batteria.
-- COMPATTO E LEGGERO: Progettato per una facile movimentazione, anche in spazi ristretti o quando si lavora in altezza.
+- MAX. CAPACITÀ DI FORATURA: Fora con facilità legno fino a 25 mm e metallo fino a 10 mm.
 - PRESTAZIONI POTENTI: 37Nm di coppia per operazioni di foratura e avvitamento efficienti.
 - COMODA LUCE DI LAVORO A LED: Il faro da lavoro a LED incorporato illumina larea di lavoro per una migliore visibilità.
-- CONTROLLO DI PRECISIONE: 10 posizioni della frizione per forare e avvitare con precisione legno, metallo e plastica.
-- UTILIZZO CONFORTEVOLE: Impugnatura morbida antiscivolo per un maggiore comfort durante luso prolungato.
-- MAX. CAPACITÀ DI FORATURA: Fora con facilità legno fino a 25 mm e metallo fino a 10 mm.
-- LIBERTÀ SENZA FILI: Fa parte della gamma POWERCONNECT da 18V, compatibile con tutti i prodotti BLACK+DECKER da 18V.
 - INCLUDE: (1) Batteria da 1,5Ah, (1) Caricabatterie da 400mA per prestazioni ininterrotte.
+- LIBERTÀ SENZA FILI: Fa parte della gamma POWERCONNECT da 18V, compatibile con tutti i prodotti BLACK+DECKER da 18V.
+- VELOCITÀ VARIABILE: Linterruttore a velocità variabile consente un controllo preciso per una varietà di applicazioni.
+- CAMBIO RAPIDO DELLA BATTERIA: Sistema di aggancio della batteria semplice e sicuro per una sostituzione rapida e facile della batteria.
+- CONTROLLO DI PRECISIONE: 10 posizioni della frizione per forare e avvitare con precisione legno, metallo e plastica.
+- COMPATTO E LEGGERO: Progettato per una facile movimentazione, anche in spazi ristretti o quando si lavora in altezza.
+- UTILIZZO CONFORTEVOLE: Impugnatura morbida antiscivolo per un maggiore comfort durante luso prolungato.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07N8YLLG7{{</world>}}

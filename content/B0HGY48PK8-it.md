@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'POCO C95 Pro Smartphone 8+256GB Nero Batteria 7500mAh Ricarica Turbo 45W'
-date: 2026-10-08 01:19:18
+date: 2026-10-15 04:50:28
 image: 'https://m.media-amazon.com/images/I/41SYcGlI-7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -28,10 +28,10 @@ average: '25.29'
 
 ℹ️:
 
-- Pantaloni chino
 - Vita media
-- Composizione materiale: 98% cotone, 2% elastan
 - Vestibilità aderente
+- Composizione materiale: 98% cotone, 2% elastan
+- Pantaloni chino
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CVVCP3VN{{</world>}}

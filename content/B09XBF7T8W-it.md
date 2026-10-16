@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- GRAN PAVESI CRACKERS: scegli i crackers che più desideri, i classici salati e non salati oppure i crackers arricchiti al pomodoro, alle olive, alla curcuma o al mais
+- PAVESI: i nostri prodotti contengono solo ingredienti di qualità. Ti accompagniamo in tutti i momenti della giornata: biscotti per la colazione, snack dolci e salati e crackers
 - CRACKER SENZA GRANELLI DI SALE IN SUPERFICIE: i crackers di Pavesi, croccanti e friabili, con una ricetta tradizionale da oltre 50 anni. Pochi e semplici ingredienti per un gusto unico
 - INGREDIENTI: farina di frumento, farina di orzo maltato, lievito e sale. Pochi ingredienti che danno vita ad un cracker buono e croccante
-- PAVESI: i nostri prodotti contengono solo ingredienti di qualità. Ti accompagniamo in tutti i momenti della giornata: biscotti per la colazione, snack dolci e salati e crackers
+- GRAN PAVESI CRACKERS: scegli i crackers che più desideri, i classici salati e non salati oppure i crackers arricchiti al pomodoro, alle olive, alla curcuma o al mais
 - PER LA TUA MERENDA: ideali come snack al mattino o come merenda nel pomeriggio, un pacchetto di crackers per avere la giusta energia per affrontare la giornata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

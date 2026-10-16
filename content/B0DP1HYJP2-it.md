@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oral-B iO 2 Spazzolino Elettrico con 1 Testina di Ricambio Nero'
-date: 2026-10-11 00:03:26
+date: 2026-10-15 07:50:30
 image: 'https://m.media-amazon.com/images/I/51CprkONBjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0DP1HYJP2/?tag=tolees00-21'
 descuento: '55.01'
-average: '56.4014285714285'
+average: '54.9749999999999'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Collo con cappuccio e lacci
 - Tessuto felpato di misto cotone spazzolato
 - Tasca a marsupio
+- Collo con cappuccio e lacci
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F4QMJY2V{{</world>}}

@@ -28,8 +28,8 @@ average: '7.99'
 
 ℹ️:
 
-- Pannelli trasparenti e traspiranti; maniglione di fettuccia
 - Ampia apertura con cerniera a J
+- Pannelli trasparenti e traspiranti; maniglione di fettuccia
 - 2 L
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ average: '34.99'
 
 ℹ️:
 
+- Scarpa da trail
 - Skechers Soletta imbottita in memory foam
 - Skechers Slip-in mani libere per una facile vestibilità. Lesclusivo cuscino per tallone mantiene il piede saldamente in posizione
-- Scarpa da trail
 - Lacci elastici
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

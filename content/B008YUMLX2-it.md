@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Elefante decorativo di Pajoma
-- Altezza: 25.5 cm
+- Realizzato in ceramica
 - Questo è un elemento decorativo
 - Colori a contrasto (bianco/grigio)
-- Realizzato in ceramica
+- Altezza: 25.5 cm
+- Elefante decorativo di Pajoma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B008YUMLX2{{</world>}}

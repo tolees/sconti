@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- gelatinoso, non gocciola
-- idrorepellente
 - resiste alle intemperie
+- idrorepellente
 - Certificata A+, senza formaldeide, contenitore in metallo riciclabile
+- gelatinoso, non gocciola
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BKLK8KCV{{</world>}}

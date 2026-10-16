@@ -29,9 +29,9 @@ average: '206.768'
 ℹ️:
 
 - Capacità di taglio massima di 80mm a 90° e di 55mm a 45° che aiutano ad affrontare lavori di grandi dimensioni
-- Impugnatura a doppia funzione per regolare facilmente laltezza e linclinazione della sega
 - Sistema di protezione da sovraccarichi per garantire la sicurezza durante luso
 - Questa sega da banco con un potente motore da 1800W garantisce prestazioni elevate. Lampio banco da lavoro in alluminio pressofuso da una maggiore stabilità durante il taglio
+- Impugnatura a doppia funzione per regolare facilmente laltezza e linclinazione della sega
 - La guida parallela con leva di blocco permette di effettuare tagli perfettamente paralleli
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

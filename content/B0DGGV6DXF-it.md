@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Occhiali da sole rettangolari in plastica
 - CLASSIC LOOK, FASHIONABLE FINISHING, COMFORTABLE
+- Occhiali da sole rettangolari in plastica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DGGV6DXF{{</world>}}

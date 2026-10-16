@@ -28,11 +28,11 @@ average: '12.99'
 
 ℹ️:
 
-- Con AROMI NATURALI ai frutti rossi, SENZA GLUTINE, SENZA LATTOSIO, adatto a VEGANI e VEGETARIANI
-- La CARNITINA è un derivato aminoacidico coinvolto nel metabolismo e nella produzione di energia nei mitocondri
-- BeTotal Energy Boom, una formula concentrata di ingredienti specificatamente selezionati per ricaricare la tua energia e sostenerti in caso di stanchezza
-- GUARANA E YERBA MATE hanno un effetto tonico su stanchezza fisica e mentale
 - VITAMINE DEL GRUPPO B: per ridurre stanchezza e affaticamento e contribuire al normale metabolismo energetico
+- GUARANA E YERBA MATE hanno un effetto tonico su stanchezza fisica e mentale
+- Con AROMI NATURALI ai frutti rossi, SENZA GLUTINE, SENZA LATTOSIO, adatto a VEGANI e VEGETARIANI
+- BeTotal Energy Boom, una formula concentrata di ingredienti specificatamente selezionati per ricaricare la tua energia e sostenerti in caso di stanchezza
+- La CARNITINA è un derivato aminoacidico coinvolto nel metabolismo e nella produzione di energia nei mitocondri
 - COMODO DA PORTARE CON TE: 20 stick liquidi pronti da bere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

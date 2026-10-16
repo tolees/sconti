@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Polo manica lunga
 - 100% cotone Better Source
+- Polo manica lunga
 - Ricamo
 - Occhielli ricamati
 

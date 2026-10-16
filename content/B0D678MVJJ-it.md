@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Con logo Champion ricamato sul petto a sinistra
 - Perfetto per la stagione calda e tutte le occasioni
+- Con logo Champion ricamato sul petto a sinistra
 - Realizzato con cotone di qualità e costruzione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

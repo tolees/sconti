@@ -28,9 +28,9 @@ average: '1.9'
 
 ℹ️:
 
+- Prodotto di ottima qualita
 - Spugna corpo esfoliazione soft
 - Spugna a rete grande schiuma
-- Prodotto di ottima qualita
 - Colori disponibili: arancione, rosa, azzurra, verde
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ average: '41.92'
 
 ℹ️:
 
-- Chiusura: patta e cerniera
 - Manico rimovibile tipo borsa
 - Dettagli incisi
+- Chiusura: patta e cerniera
 - Vari scomparti interni
 - Tasca posteriore esterna
 

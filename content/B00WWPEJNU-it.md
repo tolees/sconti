@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Elasticizzato
 - Cintura larga
 - Confezione tripla
+- Elasticizzato
 - Boxer: Set di boxer
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

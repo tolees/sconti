@@ -28,11 +28,11 @@ average: '229.81'
 
 ℹ️:
 
+- Audio Dolby Atmos
+- HDR10
 - Smart TV VIDAA U8 con +1000 APP
 - QLED Display
 - Smart TV QLED Full HD 40", Risoluzione 1920x1080
-- HDR10
-- Audio Dolby Atmos
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F1W8TN45{{</world>}}

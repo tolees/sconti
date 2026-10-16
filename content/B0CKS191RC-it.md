@@ -28,15 +28,15 @@ average: '49.99'
 
 ℹ️:
 
+- Calzata regolare
 - Chiusura con lacci
-- Pratica suola
 - Intersuola Cloudfoam
-- Tomaia in mesh
 - Peso: 304 g (numero 42 2/3)
 - Soletta morbida
 - Drop intersuola: 10 mm (tallone: 33 mm / avampiede: 23 mm)
-- Calzata regolare
+- Tomaia in mesh
 - Fodera in tessuto
+- Pratica suola
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CKS191RC{{</world>}}

@@ -28,8 +28,8 @@ average: '39.9'
 
 ℹ️:
 
-- Tecnologia Goga Mat
 - Ultra Go
+- Tecnologia Goga Mat
 - Tappetino Goga raffreddato ad aria
 - 3M SCOTCHGARD
 - Antiscivolo in condizioni di bagnato e asciutto

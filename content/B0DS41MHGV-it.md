@@ -28,8 +28,8 @@ average: '24.9'
 
 ℹ️:
 
-- Jersey stretch
 - Vita elastica logata
+- Jersey stretch
 - Pack 3 pezzi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Durata della candela: da 50 a 75 ore di piacevole profumazione
-- Ingredienti scelti e cera di alta qualità garantiscono un aroma chiarao e costante che riempie tutta la stanza
-- Stoppini in cotone 100% senza piombo raddrizzati e centrati per una combustione uniforme
 - La dolcezza assolutamente deliziosa delle ciliegie nere mature
 - Ogni candela media è inserita nella classica giara di vetro con coperchio per preservare e contenere la fragranza
+- Ingredienti scelti e cera di alta qualità garantiscono un aroma chiarao e costante che riempie tutta la stanza
+- Stoppini in cotone 100% senza piombo raddrizzati e centrati per una combustione uniforme
+- Durata della candela: da 50 a 75 ore di piacevole profumazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B003E9ZTZ0{{</world>}}

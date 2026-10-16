@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Scarsità di platform game di spessore sulle console di ultima generazione
-- Film in uscita nel 2016
 - Nuove armi, boss, personaggi e pianeti da esplorare
 - Un nuovo inizio per una delle saghe più amate dai giocatori
+- Film in uscita nel 2016
+- Scarsità di platform game di spessore sulle console di ultima generazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07FFKQN58{{</world>}}

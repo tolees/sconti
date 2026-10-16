@@ -28,10 +28,10 @@ average: '416.5'
 
 ℹ️:
 
-- QLED Display +Brightness
-- AirPlay2 + Android Screen Sharing
 - Audio Dolby Atmos con Bluetooth
 - Smart TV QLED 4K 50", Risoluzione 3840x2160
+- QLED Display +Brightness
+- AirPlay2 + Android Screen Sharing
 - Smart TV VIDAA U8 con +1000 APP
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

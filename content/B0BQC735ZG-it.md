@@ -28,8 +28,8 @@ average: '10.73'
 
 ℹ️:
 
-- Headwear
 - Cap
+- Headwear
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BQC735ZG{{</world>}}

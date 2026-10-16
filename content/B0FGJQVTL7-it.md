@@ -28,11 +28,11 @@ average: '16.9066666666668'
 
 ℹ️:
 
-- L’ammorbidente Lenor Portofino si ispira all’incanto di Portofino
-- Profumo autentico di lunga durata con note di fresia e neroli
-- Profumo con un tocco di olii essenziali
 - Fresco anche nei cicli brevi e a freddo
+- Profumo con un tocco di olii essenziali
 - Fresco anche dopo l’asciugatura
+- Profumo autentico di lunga durata con note di fresia e neroli
+- L’ammorbidente Lenor Portofino si ispira all’incanto di Portofino
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FGJQVTL7{{</world>}}

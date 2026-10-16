@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO Technic Veicolo Spaziale Rover Lunare Lunar Outpost - Giocattolo Interattivo STEM con Braccio Pannelli Solari e Modello di Robot - Regalo di Compleanno per Bambini e Bambine da 10 Anni - 42211'
-date: 2026-07-15 17:27:33
+title: 'LEGO Technic Veicolo spaziale rover lunare Lunar Outpost 42211 | Giochi per bambini da 10 anni veicolo giocattolo interattivo STEM braccio pannelli solari e robot idea regalo 1082 pezzi'
+date: 2026-10-15 09:41:32
 image: 'https://m.media-amazon.com/images/I/5114wITVGEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0DWDM1BQ6-it LEGO Technic Veicolo Spaziale Rover Lunare Lunar Outpost -...'
+slug: 'B0DWDM1BQ6-it LEGO Technic Veicolo spaziale rover lunare Lunar Outpost...'
 sku: 'B0DWDM1BQ6-it'
 tags: [ '🇮🇹', ]
-actualPrice: 70.99 EUR
+actualPrice: 59.99 EUR
 currency: EUR
-price: 70.99
+price: 59.99
 comparePrice: 99.99 EUR
-prodname: 'LEGO Technic Veicolo Spaziale Rover Lunare Lunar Outpost - Giocattolo Interattivo STEM con Braccio Pannelli Solari e Modello di Robot - Regalo di Compleanno per Bambini e Bambine da 10 Anni - 42211'
+prodname: 'LEGO Technic Veicolo spaziale rover lunare Lunar Outpost 42211 | Giochi per bambini da 10 anni veicolo giocattolo interattivo STEM braccio pannelli solari e robot idea regalo 1082 pezzi'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0DWDM1BQ6/?tag=tolees00-21'
-descuento: '29.00'
-average: '75.588'
+descuento: '40.00'
+average: '72.9883333333333'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,12 +28,6 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Veicoli LEGO con funzioni multiple: include un rover con sospensioni oscillanti, 4 ruote sterzanti e pannelli solari dispiegabili, un rover minerario, un contenitore di campioni e un piccolo robot giocattolo rover MAPP
-- Funzioni azionabili: usa il braccio mobile del rover lunare LEGO principale per sollevare il rover minerario e il contenitore di campioni per la ricerca di rocce lunari
-- Raccogli le rocce lunari: utilizza le "braccia" del rover minerario per afferrare gli elementi di roccia lunare e riporli nel contenitore dei campioni
-- Regalo di compleanno per bambini: questo set è un ottimo regalo per i fan dei giochi spaziali, per gli amanti dei kit scientifici e dei giochi con robot, o per chiunque sia appassionato di viaggi e di esplorazione spaziale
-- Giocattolo LEGO Technic spazio: fai decollare la fantasia dei piccoli verso lesplorazione spaziale con il Veicolo Spaziale Rover Lunare Lunar Outpost, un gioco per bambini e bambine da 10 anni con un rover LEGO da costruire ricco di funzioni
-- Un’introduzione all’ingegneria: i set di modelli costruibili LEGO Technic presentano movimenti e meccanismi realistici che introducono i giovani costruttori LEGO all’universo dell’ingegneria
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DWDM1BQ6{{</world>}}

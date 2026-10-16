@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
-- FORMULA: deodorante senza sali di alluminio, per lasciare la pelle libera di respirare. Formato spray. Efficacia 48h
 - SENZA SALI DALLUMINIO: Grazie allassenza di sali di alluminio, garantisce zero macchie sui vestiti. Dermatologicamente testato
+- FORMULA: deodorante senza sali di alluminio, per lasciare la pelle libera di respirare. Formato spray. Efficacia 48h
 - Neutro Roberts da più di 100 anni si prende cura della pelle, ogni giorno. Neutro Roberts. Restituire, ogni giorno
 - IDRATA E PROTEGGE: Con puro olio di glicerina, studiato per restituire alla pelle la sua naturale idratazione e proteggerla ogni giorno
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
 - FRAGRANZA: Il profumo iconico della saponetta Neutro Roberts racchiuso in un bouquet di fiori bianchi, una fragranza storica ma sempre attuale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '9.0'
 
 ℹ️:
 
-- Utilizzabile anche su capelli tinti
-- Balsamo ad azione idratante per capelli secchi
 - Risultati durevoli
 - Agisce ammorbidendo la chioma secca
+- Balsamo ad azione idratante per capelli secchi
+- Utilizzabile anche su capelli tinti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01BVVBMGM{{</world>}}

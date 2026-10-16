@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Sacca di compressione inclusa che permette di compattare il saccoletto e ne facilita il trasporto
 - Imbottitura in piuma con certificazione RDS, 550 cuin; valore di riempimento 80/20
 - Dispersione di calore minima grazie alle cuciture sfalsate.
+- Sacca di compressione inclusa che permette di compattare il saccoletto e ne facilita il trasporto
 - Sacco a pelo in piuma che permette di avere una buona termicità con un ingombro e peso minimo
 - Lampo a due vie laterali e nella zona piedi munita di coprilampo, cupolino parafreddo e termocollare.
 

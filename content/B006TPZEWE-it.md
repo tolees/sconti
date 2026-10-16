@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Genere di connettore: maschio/maschio
-- Lunghezza cavo: 50 cm
 - Prodotto di ottima qualità
+- Lunghezza cavo: 50 cm
+- Genere di connettore: maschio/maschio
 - Colore del prodotto: nero
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Polsini a coste e orlo elasticizzato sulla giacca
-- Giacca dalla vestibilità aderente e pantaloni dalla vestibilità regolare
-- Zip integrale e collo alto
-- 53% cotone / 47% poliestere (riciclato)
 - Vita alta
+- Giacca dalla vestibilità aderente e pantaloni dalla vestibilità regolare
+- 53% cotone / 47% poliestere (riciclato)
+- Polsini a coste e orlo elasticizzato sulla giacca
+- Zip integrale e collo alto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CL4RZHQN{{</world>}}

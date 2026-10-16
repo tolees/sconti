@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Stile retrò con lacci
 - Skechers Memory foam raffreddato ad aria
+- Stile retrò con lacci
 - Tomaia in Duraleather e pelle scamosciata con paraurti anteriore in gomma
 - Jogger retrò T-toe con lacci sul davanti
 

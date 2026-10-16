@@ -28,8 +28,8 @@ average: '29.15'
 
 ℹ️:
 
-- COTONE STRETCH
 - Vestibilità regolare
+- COTONE STRETCH
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DQYD7L55{{</world>}}

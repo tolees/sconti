@@ -30,8 +30,8 @@ average: '32.58'
 
 - Timer e telecomando
 - Grande oscillazione
-- Dimensioni: 27 x 27 x 18 cm
 - Potenza 50 W e 3 velocità
+- Dimensioni: 27 x 27 x 18 cm
 - 3 modalità: normale, naturale e sleep
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

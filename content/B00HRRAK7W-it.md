@@ -28,10 +28,10 @@ average: '26.3571065989846'
 
 ℹ️:
 
+- Arti e teste mobili
+- La famiglia dei ricci; set di 4 pezzi: padre, madre, fratello e sorella
 - number_of_players:1
 - Mamma e papa sono alti circa 6 cm
-- La famiglia dei ricci; set di 4 pezzi: padre, madre, fratello e sorella
-- Arti e teste mobili
 - Ottima idea di regalo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

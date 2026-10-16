@@ -28,9 +28,9 @@ average: '1.43666666666667'
 
 ℹ️:
 
-- Oro Ciok Pocket: mini biscotti con un ripieno di goloso cioccolato.
-- Con 4 pratiche bustine monoporzionate da portare sempre con te, per una pausa semplice e golosa!
 - Contiene 4 monoporzioni da 40 grammi luna (4 x 40g).
+- Con 4 pratiche bustine monoporzionate da portare sempre con te, per una pausa semplice e golosa!
+- Oro Ciok Pocket: mini biscotti con un ripieno di goloso cioccolato.
 - Perfetti per una merenda mini dal gusto maxi... da condividere con chi vuoi!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

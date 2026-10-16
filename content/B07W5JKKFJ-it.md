@@ -1,19 +1,19 @@
 ---
 layout: post
-title: 'Logitech Brio 500 Webcam Full HD Correzione Luce - Grafite'
-date: 2026-10-11 09:53:27
+title: 'Logitech Brio 500 Webcam Full HD Correzione Luce - Grafite | Show Mode Mic Riduzione Rumore Copertura Privacy Teams/Meet/Zoom Cavo USB-C'
+date: 2026-10-15 06:30:27
 image: 'https://m.media-amazon.com/images/I/31oAjjUJjrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07W5JKKFJ-it Logitech Brio 500 Webcam Full HD Correzione Luce - Grafite'
+slug: 'B07W5JKKFJ-it Logitech Brio 500 Webcam Full HD Correzione Luce - Grafite...'
 sku: 'B07W5JKKFJ-it'
 tags: [ '🇮🇹', ]
 actualPrice: 63.16 EUR
 currency: EUR
 price: 63.16
 comparePrice: 119.99 EUR
-prodname: 'Logitech Brio 500 Webcam Full HD Correzione Luce - Grafite'
+prodname: 'Logitech Brio 500 Webcam Full HD Correzione Luce - Grafite | Show Mode Mic Riduzione Rumore Copertura Privacy Teams/Meet/Zoom Cavo USB-C'
 country: 'it'
 flag: '🇮🇹'
 brand: ''

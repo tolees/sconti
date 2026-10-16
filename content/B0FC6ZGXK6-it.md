@@ -29,11 +29,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - design CLASSICO LEVIS: I classici come la nostra Canotta Essential a costine non passano mai di moda.
-- Labbiamo realizzata con uno scollo un girocollo ultra lusinghiero, un taglio aderente e una maglia un coste morbida—il tutto completato dalla nostra iconica linguetta rossa.
-- MATERIALE: 95% COTONE, 5% ELASTAN
-- La modella è alta 170 cm, Vita 26", Indossa una taglia S
-- ETICHETTA ROSSA LEVIS: Esistono diverse variazioni della nostra famosa etichetta rossa. Alcune dicono LEVIS, altre Levis, alcune non mostrano affatto il marchio. Per le edizioni speciali a volte cambiamo anche il colore.
 - Una canotta essenziale Taglio con vestibilità slim
+- ETICHETTA ROSSA LEVIS: Esistono diverse variazioni della nostra famosa etichetta rossa. Alcune dicono LEVIS, altre Levis, alcune non mostrano affatto il marchio. Per le edizioni speciali a volte cambiamo anche il colore.
+- MATERIALE: 95% COTONE, 5% ELASTAN
+- Labbiamo realizzata con uno scollo un girocollo ultra lusinghiero, un taglio aderente e una maglia un coste morbida—il tutto completato dalla nostra iconica linguetta rossa.
+- La modella è alta 170 cm, Vita 26", Indossa una taglia S
 - Realizzato con una maglia un coste morbida
 - MATERIALE: 95% COTONE, 5% ELASTAN
 

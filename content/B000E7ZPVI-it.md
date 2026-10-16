@@ -28,8 +28,8 @@ average: '39.64'
 
 ℹ️:
 
-- Chiavi esagonali con estremità a sfera poliedrica Balldriver per inserzione e rotazione con angoli fino a 25° (escluse le misure 2-2.5-3 mm)
 - Finitura ProGuard per la migliore resistenza alla corrosione
+- Chiavi esagonali con estremità a sfera poliedrica Balldriver per inserzione e rotazione con angoli fino a 25° (escluse le misure 2-2.5-3 mm)
 - impugnatura saldata e rivestita in resina vinilica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

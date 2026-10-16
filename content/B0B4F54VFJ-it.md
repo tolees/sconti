@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Schienale: Imbottito e rivestito in tessuto.
-- Dimensioni: 30-41,5x18 cm; Capacità: 27 lt
 - Spallacci: Imbottiti e rivestiti in tessuto. Sotto spallaccio in rete traspirante.
 - Tasche: Tasca frontale, tasca laterale in rete porta borraccia, tasca porta pc.
 - Caratteristiche: Zaino monoscomparto con tasca frontale.
+- Dimensioni: 30-41,5x18 cm; Capacità: 27 lt
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B4F54VFJ{{</world>}}

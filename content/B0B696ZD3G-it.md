@@ -30,8 +30,8 @@ average: '13.33'
 
 - Screen Tee
 - Tops
-- Con logo e scritta Element frontali
 - Con etichetta Element in vita
+- Con logo e scritta Element frontali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B696ZD3G{{</world>}}

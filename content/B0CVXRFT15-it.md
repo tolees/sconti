@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips OneBlade QP430/60 - Testine originali a 360 lame compatibili con tutti i rasoi e tagliabordi elettrici OneBlade e Pro originali Philips 3 lame singole fornitura per 12 mesi'
-date: 2026-10-12 10:39:09
+date: 2026-10-15 02:13:04
 image: 'https://m.media-amazon.com/images/I/51KaiY8blHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0CVXRFT15/?tag=tolees00-21'
 descuento: '15.16'
-average: '29.5811111111112'
+average: '29.4220000000001'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

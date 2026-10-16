@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Pampero Ron Añejo Selección Rum 70 – Invecchiato in botti ex-Sherry e Bourbon. 40% vol.'
-date: 2026-04-17 08:42:05
-image: 'https://m.media-amazon.com/images/I/31u0vzxIBcL._SL500_._SL400_.jpg'
+title: 'Pampero Ron Añejo Selección Rum 70 - Invecchiato in botti - 40% Vol'
+date: 2026-10-16 06:33:23
+image: 'https://m.media-amazon.com/images/I/31IbbwkRLfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B009RUO6YA-it Pampero Ron Añejo Selección Rum 70 – Invecchiato in botti...'
+slug: 'B009RUO6YA-it Pampero Ron Añejo Selección Rum 70 - Invecchiato in botti...'
 sku: 'B009RUO6YA-it'
 tags: [ '🇮🇹', ]
-actualPrice: 12.9 EUR
+actualPrice: 12.49 EUR
 currency: EUR
-price: 12.9
+price: 12.49
 comparePrice: 15.55 EUR
-prodname: 'Pampero Ron Añejo Selección Rum 70 – Invecchiato in botti ex-Sherry e Bourbon. 40% vol.'
+prodname: 'Pampero Ron Añejo Selección Rum 70 - Invecchiato in botti - 40% Vol'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B009RUO6YA/?tag=tolees00-21'
-descuento: '17.04'
-average: '12.9'
+descuento: '19.68'
+average: '12.695'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,11 +28,6 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Rum strutturato e complesso dal colore mogano con riflessi rossastri, al naso rivela note di legno, frutta secca, cannella, vaniglia e caramello. Al palato è bilanciato, con sentori di zucchero di canna, cacao, tabacco e miele.
-- Pampero Selección 1938 è un rum premium perfettamente equilibrato.
-- Idea regalo perfetta e rum ideale da gustare con gli amici per serate rilassanti e piacevoli.
-- Un rum fondente e perfettamente bilanciato, invecchiato fino a 8 anni. Unespressione raffinata del rum venezuelano.
-- Perfetto da gustare puro o con ghiaccio, ottimo anche con tonico e scorza d’arancia. Ideale per cocktail come l’Old Fashioned, preparato con 45 ml di Pampero Selección, 1 zolletta di zucchero, 5 gocce di Angostura Bitters e soda
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B009RUO6YA{{</world>}}

@@ -31,8 +31,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 - Seduta ultra confortevole con schienale ergonomico e braccioli imbottiti.
 - Robusta struttura in acciaio e regolazione in altezza con sistema jack di classe 3.
 - Finiture di alta qualità con ricami e cuciture, rivestimento in similpelle di facile manutenzione.
-- Funzione sedia a dondolo.
 - Sedia da gioco dal design esclusivo eSports con licenza ufficiale.
+- Funzione sedia a dondolo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BCL174WW{{</world>}}

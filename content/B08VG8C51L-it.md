@@ -29,12 +29,12 @@ average: '6.3'
 ℹ️:
 
 - Effetti e benefici: imperfezioni minimizzate, incarnato luminoso ed uniforme. Non segna le righe despressione ed idrata la pelle fino a 25 ore
-- The Multi-Tasker Concealer: correttore multiuso, corregge, illumina e uniforma non solo larea occhi ma tutto il volto
-- Unità di misura: millilitro
-- Applicazione: lapplicatore extra large, morbido al tatto, rilascia il quantitativo ottimale di prodotto
 - Formula: ultra sfumabile, si fonde perfettamente con lincarnato. Waterproof, a lunga tenuta, adatta allutilizzo con la mascherina
-- Tonalità: 030 Light
 - Unità: 10.0
+- Applicazione: lapplicatore extra large, morbido al tatto, rilascia il quantitativo ottimale di prodotto
+- The Multi-Tasker Concealer: correttore multiuso, corregge, illumina e uniforma non solo larea occhi ma tutto il volto
+- Tonalità: 030 Light
+- Unità di misura: millilitro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08VG8C51L{{</world>}}

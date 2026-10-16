@@ -28,8 +28,8 @@ average: '13.04'
 
 ℹ️:
 
-- Chiusura frontale con bottoni
 - Cardigan con scollo a V
+- Chiusura frontale con bottoni
 - Composizione del materiale in viscosa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

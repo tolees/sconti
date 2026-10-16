@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Logitech M240 Silenzioso Bluetooth Mouse Wireless Compatto'
-date: 2026-08-02 12:54:32
+title: 'Logitech M240 Silenzioso Bluetooth Mouse Wireless Compatto | Portatile Smooth Tracking batteria 18 mesi per Windows macOS ChromeOS PC Mac Laptop Tablet - Grafite'
+date: 2026-10-15 20:52:14
 image: 'https://m.media-amazon.com/images/I/21tDUCpjqdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07W6HCFYX-it Logitech M240 Silenzioso Bluetooth Mouse Wireless Compatto'
+slug: 'B07W6HCFYX-it Logitech M240 Silenzioso Bluetooth Mouse Wireless Compatto...'
 sku: 'B07W6HCFYX-it'
 tags: [ '🇮🇹', ]
-actualPrice: 16.9 EUR
+actualPrice: 13.99 EUR
 currency: EUR
-price: 16.9
+price: 13.99
 comparePrice: 22.99 EUR
-prodname: 'Logitech M240 Silenzioso Bluetooth Mouse Wireless Compatto'
+prodname: 'Logitech M240 Silenzioso Bluetooth Mouse Wireless Compatto | Portatile Smooth Tracking batteria 18 mesi per Windows macOS ChromeOS PC Mac Laptop Tablet - Grafite'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B07W6HCFYX/?tag=tolees00-21'
-descuento: '26.49'
-average: '16.4576470588237'
+descuento: '39.15'
+average: '16.3205555555557'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,14 +28,6 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Compatibili con i laptop MacBook Neo: connessione Bluetooth istantanea, semplicissimi e con abbinamento cromatico
-- Pair and Play: grazie alla rapida e immediata tecnologia Bluetooth wireless, questo mouse silenzioso senza fili si connette in pochi secondi: non ti servono adattatori o porte
-- Lungo raggio d’azione: questo mouse Bluetooth wireless garantisce una connessione affidabile con un raggio dazione fino a 10 m di distanza dal computer (3)
-- Design comodo per viaggiare: abbastanza piccolo da entrare in una borsa, questo mouse compatto portatile è adatto ad utenti destrorsi o mancini perchè segue la curva naturale della mano.
-- Funziona su diverse piattaforme: compatibile con i sistemi operatividi Windows, macOS, Linux, ChromeOS, iPadOS e Android. Inoltre è un prodotto con certificazione Works with Chromebook
-- Le componenti in plastica del mouse silenzioso per PC M240 sono realizzate in plastica riciclata post-consumo certificata (48% per il grafite e 37% per Off-white e rosa (7))
-- Meno rumore, più concentrazione: mouse silenzioso con ruomorosità ridotta del 90% e la stessa sensazione di clic; elimina rumori e distrazioni proteggendo te e chi ti sta intorno (1)
-- Lunga durata della batteria: funziona fino a 18 mesi con la stessa batteria e grazie alla modalità di risparmio energetico con disattivazione automatica la durata della batteria viene prolungata (2)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07W6HCFYX{{</world>}}

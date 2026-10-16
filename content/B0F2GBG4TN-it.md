@@ -28,15 +28,15 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Peso: 366.2 g
 - Scarpe in GORE-TEX
-- Lacci
-- Superiore: Sintetici e tessili
 - Soletta in tessuto
-- Suola in gomma Continental
-- Vestibilità regolare
 - Drop intersuola: 11 mm (tallone 32 mm / avampiede 20 mm)
 - intersuola leggera in EVA
+- Suola in gomma Continental
+- Vestibilità regolare
+- Peso: 366.2 g
+- Lacci
+- Superiore: Sintetici e tessili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F2GBG4TN{{</world>}}

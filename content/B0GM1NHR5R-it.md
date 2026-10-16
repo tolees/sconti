@@ -28,8 +28,8 @@ average: '39.99'
 
 ℹ️:
 
-- Sistema di combattimento action dinamico ed elegante
 - Una storia intensa con un cast di personaggi carismatici
+- Sistema di combattimento action dinamico ed elegante
 - Esplora un mondo vibrante caratterizzato da ambientazioni uniche e variegate
 - Vivi nuovi contenuti narrativi grazie all’espansione
 

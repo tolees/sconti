@@ -28,10 +28,10 @@ average: '79.99'
 
 ℹ️:
 
-- Fodera: Poliestere riciclato al 100
 - Colore: Nero
-- Lacci elastici
 - Sottopiede: Soletta in PU
+- Lacci elastici
+- Fodera: Poliestere riciclato al 100
 - Tomaia: Pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

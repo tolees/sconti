@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Fonte di fibre
 - Dall’unione della farina integrale di frumento e dei cristalli di zucchero grezzo di canna, nasce Oro Cruscoro
 - Facile da usare, qualità ottimale
-- Fonte di fibre
 - Biscotti Frollini Integrali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

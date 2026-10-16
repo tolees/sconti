@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Food Truck delle patatine 60488'
-date: 2026-10-11 22:02:23
+date: 2026-10-15 00:43:39
 image: 'https://m.media-amazon.com/images/I/51TO7z-43dL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0FPXBGJFX/?tag=tolees00-21'
 descuento: '35.02'
-average: '13.1618181818182'
+average: '13.1475'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

@@ -28,11 +28,11 @@ average: '454.99'
 
 ℹ️:
 
-- Funzionamento silenzioso ideale per ambienti sensibili al rumore
+- Supporta il posizionamento su desktop o su rack include hardware di montaggio necessario nella confezione
 - Design ad alta efficienza energetica conforme a IEEE802.3az
+- Funzionamento silenzioso ideale per ambienti sensibili al rumore
 - 3 anni di Assistenza hardware limitata leader del settore
 - 48 porte Gigabit Ethernet
-- Supporta il posizionamento su desktop o su rack include hardware di montaggio necessario nella confezione
 - Semplice configurazione plug-and-play senza necessità di installare software o aggiungere configurazioni
 - 24 porte PoE con budget totale da 380W
 

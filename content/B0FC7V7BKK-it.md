@@ -28,11 +28,11 @@ average: '58.99'
 
 ℹ️:
 
-- Polsini regolabili.
 - Omni-Tech impermeabile/traspirante con cuciture sigillate.
-- Orlo regolabile con coulisse.
-- Cappuccio regolabile integrato.
 - Tasche impermeabili sul petto con cerniera.
+- Polsini regolabili.
+- Cappuccio regolabile integrato.
+- Orlo regolabile con coulisse.
 - Tasche con cerniera.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

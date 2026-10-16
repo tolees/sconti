@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Pick una carta e rivela una sfida come "Mettere una parola di cinque lettere"
-- Le carte Obiettivo includono 20 carte Obiettivo principiante, 30 carte Obiettivo standard e 6 carte Aiuto. Raggiungi 20 obiettivi per vincere la partita!
-- Sfida e prendi la carta per vincere un punto: non è mai stato così facile segnare!
-- Due giochi in uno! Gioca a Scrabble come sei abituato..
-- Oppure capovolgi il vassoio double face e prova Scrabble Together, un gioco semplice e cooperativo in cui le partite si incatenano più velocemente e dove si segna facilmente!
 - In Scrabble Together, gioca come squadra per realizzare fino a 50 carte Obiettivo che presentano le basi di Scrabble.
+- Le carte Obiettivo includono 20 carte Obiettivo principiante, 30 carte Obiettivo standard e 6 carte Aiuto. Raggiungi 20 obiettivi per vincere la partita!
+- Oppure capovolgi il vassoio double face e prova Scrabble Together, un gioco semplice e cooperativo in cui le partite si incatenano più velocemente e dove si segna facilmente!
+- Due giochi in uno! Gioca a Scrabble come sei abituato..
+- Sfida e prendi la carta per vincere un punto: non è mai stato così facile segnare!
+- Pick una carta e rivela una sfida come "Mettere una parola di cinque lettere"
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CQMHT2NK{{</world>}}

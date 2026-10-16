@@ -28,10 +28,10 @@ average: '98.87'
 
 ℹ️:
 
+- Soletta: Sottopiede in EVA
 - Colore: Blu
 - Fodera: 88% Poliestere riciclato 12% Poliestere riciclato
 - Suola/Caratteristiche: EVA per leggerezza; Lacci
-- Soletta: Sottopiede in EVA
 - Tomaia: Nabuk / Tessuto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

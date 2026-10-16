@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenor Ammorbidente Lavatrice Concentrato 440 Lavaggi 8X55 Gelsomino Scarlatto E Rose De Mai Freschezza Che Dura 3 Volte Più A Lungo Con Tecnologia Olii Profumati'
-date: 2026-10-13 06:04:34
+date: 2026-10-16 06:23:53
 image: 'https://m.media-amazon.com/images/I/51WJhpfv6YL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0F8JCMXX4/?tag=tolees00-21'
 descuento: '39.59'
-average: '29.5377777777778'
+average: '29.483'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

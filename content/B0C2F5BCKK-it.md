@@ -28,10 +28,10 @@ average: '22.99'
 
 ℹ️:
 
+- Con il set Carlton Tournament per 4 giocatori sei sempre pronto per un incontro con i tuoi amici
 - Contiene tutto il necessario: 4 racchette da badminton, tre volani, una pratica custodia per il trasporto e una rete in nylon con due robuste canne
 - Peso del telaio: 115 g
 - Lunghezza: 665 mm
-- Con il set Carlton Tournament per 4 giocatori sei sempre pronto per un incontro con i tuoi amici
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C2F5BCKK{{</world>}}

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Logo stampato sulla linguetta
 - Logo sul tallone e finestra del marchio
+- Logo stampato sulla linguetta
 - Asta e linguetta imbottiti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

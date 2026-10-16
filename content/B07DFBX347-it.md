@@ -29,11 +29,11 @@ average: '165.77'
 ℹ️:
 
 - Supporta il posizionamento su desktop, a parete o su rack e include tutto lhardware di montaggio necessario nella confezione
-- 16 porte PoE+ con budget di alimentazione totale da 76 W ed espandibile a 183 W (con modulo alimentatore da acquistare separatamente)
-- Assistenza hardware limitata a vita, servizio di sostituzione entro il giorno lavorativo successivo e chat 24 ore su 24, 7 giorni su 7 con un esperto NETGEAR
-- 16 porte Gigabit Ethernet
-- Semplice configurazione plug-and-play senza necessità di installare software o aggiungere configurazioni
 - Design ad alta efficienza energetica conforme a IEEE802.3az
+- Assistenza hardware limitata a vita, servizio di sostituzione entro il giorno lavorativo successivo e chat 24 ore su 24, 7 giorni su 7 con un esperto NETGEAR
+- Semplice configurazione plug-and-play senza necessità di installare software o aggiungere configurazioni
+- 16 porte PoE+ con budget di alimentazione totale da 76 W ed espandibile a 183 W (con modulo alimentatore da acquistare separatamente)
+- 16 porte Gigabit Ethernet
 - Funzionamento silenzioso adeguato per ambienti sensibili al rumore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

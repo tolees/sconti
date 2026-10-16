@@ -28,9 +28,9 @@ average: '12.49'
 
 ℹ️:
 
+- Volume: 2.2 L
 - 100% poliestere (riciclato)
 - Dimensioni: 12.5 cm x 37.5 cm
-- Volume: 2.2 L
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DJSQ21BJ{{</world>}}

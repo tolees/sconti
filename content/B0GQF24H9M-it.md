@@ -28,11 +28,11 @@ average: '675.666666666667'
 
 ℹ️:
 
+- Hisense Smart TV ULED MiniLED 65" 4K 65E8S
+- Audio Dolby Atmos
 - Smart TV VIDAA con +1000 APP
 - Native 144Hz Game Mode
 - Hi-View AI Engine, Hi-QLED Colour, Total HDR Solution, Filmmaker Mode, AI Light Sensor
-- Audio Dolby Atmos
-- Hisense Smart TV ULED MiniLED 65" 4K 65E8S
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GQF24H9M{{</world>}}

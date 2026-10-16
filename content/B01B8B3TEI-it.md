@@ -29,8 +29,8 @@ average: '5.0'
 ℹ️:
 
 - Adatto per caloriferi da 60 a 120 cm
-- Uso estetico
 - Copricalorifero in cotone elasticizzato
+- Uso estetico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01B8B3TEI{{</world>}}

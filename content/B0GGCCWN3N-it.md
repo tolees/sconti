@@ -28,10 +28,10 @@ average: '749.0'
 
 ℹ️:
 
-- Auto-diagnosi: Mostra il codice derrore sul display, in caso di guasto.
 - Auto Mode: Modula i parametri di funzionamento, in funzione alla temperatura di setpoint e ambiente.
 - Raffrescamento, Riscaldamento, Deumidificazione, Ventilazione
 - Sensore Temperatura: Migliora il comfort dove sono gli occupanti della stanza, grazie al telecomando con sensore di temperatura.
+- Auto-diagnosi: Mostra il codice derrore sul display, in caso di guasto.
 - Blocco Bimbi: Blocca le possibilità di comando, per limitarne laccesso ai più piccoli.
 - Sbrinamento: Permette lo sbrinamento automatico impedendo la formazione di ghiaccio nellunità esterna durante il funzionamento in riscaldamento nella stagione invernale.
 

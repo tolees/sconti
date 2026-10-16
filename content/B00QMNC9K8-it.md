@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Materiale: Alluminio 3mm
-- Conducibilità termica: 225 W/m°K
-- Piano di cottura: Induzione/Gas/Piastra elettrica/Piani in vetroceramica (radianti)
 - Padella svasata alta o "a saltare": il fondo stretto e allangolatura ampia dello strumento di cottura sono ottimali per la cottura al salto senza fuoriuscite,
-- Altezza: 6 cm
 - Peso: 2,0 Kg
+- Piano di cottura: Induzione/Gas/Piastra elettrica/Piani in vetroceramica (radianti)
+- Materiale: Alluminio 3mm
+- Altezza: 6 cm
+- Conducibilità termica: 225 W/m°K
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00QMNC9K8{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JBL Grip Speaker Bluetooth Compatto Rosso'
-date: 2026-10-09 18:28:14
+date: 2026-10-15 02:22:06
 image: 'https://m.media-amazon.com/images/I/41TMbuxjBvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

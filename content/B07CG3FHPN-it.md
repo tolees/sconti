@@ -28,11 +28,11 @@ average: '25.49'
 
 ℹ️:
 
-- Lunghezza standard
-- Vestibilità regolare
 - Composizione dei materiali: 100% cotone
 - Tipo di chiusura: bottoni
+- Lunghezza standard
 - Camicia a maniche lunghe della JACK&JONES
+- Vestibilità regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07CG3FHPN{{</world>}}

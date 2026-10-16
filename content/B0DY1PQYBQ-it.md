@@ -28,9 +28,9 @@ average: '12.35'
 
 ℹ️:
 
-- T-shirt a maniche corte
-- Jersey 100% cotone
 - Illustrazione stampata sul davanti
+- Jersey 100% cotone
+- T-shirt a maniche corte
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DY1PQYBQ{{</world>}}

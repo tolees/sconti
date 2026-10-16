@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- In esclusiva su Nintendo Switch 2​
-- Dai il nome che preferisci alle creature che incontri o segui i suggerimenti di Enzo​. Incontra volti noti come Bowser Junior e Tipo Timido​
 - Ogni creatura ha le sue caratteristiche e offre elementi dazione unici, così ogni livello offre un modo di giocare sempre nuovo​
-- Yoshi parte per una nuova avventura dentro le pagine di un’enciclopedia parlante​
+- Dai il nome che preferisci alle creature che incontri o segui i suggerimenti di Enzo​. Incontra volti noti come Bowser Junior e Tipo Timido​
 - Scopri un mondo di creature uniche e raccogli informazioni per completare l’enciclopedia​
+- In esclusiva su Nintendo Switch 2​
+- Yoshi parte per una nuova avventura dentro le pagine di un’enciclopedia parlante​
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GS6CXWS2{{</world>}}

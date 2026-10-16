@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'Riso Scotti - Riso Carnaroli - Riso per Risotti Superfino Pronto in 16 - 1 kg'
-date: 2026-08-19 16:59:18
-image: 'https://m.media-amazon.com/images/I/519ktCbHIKL._SL500_._SL400_.jpg'
+date: 2026-10-15 16:11:19
+image: 'https://m.media-amazon.com/images/I/41eDw1j90bL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B000G0G8NM-it Riso Scotti - Riso Carnaroli - Riso per Risotti Superfino...'
 sku: 'B000G0G8NM-it'
 tags: [ '🇮🇹', ]
-actualPrice: 2.99 EUR
+actualPrice: 2.85 EUR
 currency: EUR
-price: 2.99
+price: 2.85
 comparePrice: 5.49 EUR
 prodname: 'Riso Scotti - Riso Carnaroli - Riso per Risotti Superfino Pronto in 16 - 1 kg'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B000G0G8NM/?tag=tolees00-21'
-descuento: '45.54'
-average: '2.55'
+descuento: '48.09'
+average: '2.59615384615385'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,11 +28,6 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- VIVERE BENE CON GUSTO: Il benessere dal riso deriva dai suoi carboidrati facilmente assimilabili, dalle sue proteine nobili e dall’assenza di allergeni che possono provocare fastidiose reazioni avverse
-- RISO CARNAROLI: Il Re dei Risi, coltivato solo in alcune specifiche zone d’Italia. Chicchi più grandi e molto consistenti. Ingrediente elettivo nelle cucine dei migliori chef
-- I prodotti Riso Scotti ti accompagnano con Gusto e Benessere in ogni momento della giornata. Con la stessa attenzione con cui tu scegli prodotti sani, noi ci impegniamo a offrirti la miglior qualità per un’alimentazione equilibrata
-- SUGGERIMENTI D’USO: Puoi utilizzare il riso Carnaroli per gustosi risotti, timballi e piatti raffinati
-- È SPECIALE PERCHÉ: Il Re dei Risi, coltivato solo in alcune specifiche zone d’Italia. Chicchi più grandi e molto consistenti. Ingrediente elettivo nelle cucine dei migliori chef. TEMPO DI COTTURA: 16-18 minuti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000G0G8NM{{</world>}}

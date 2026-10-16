@@ -28,8 +28,8 @@ average: '6.0'
 
 ℹ️:
 
-- MODO DUSO: Applicare generosamente la sera sulla pelle pulita e completamente asciutta di viso e collo, evitando la zona del contorno occhi. Picchiettare delicatamente fino al completo assorbimento. Inizialmente utilizzare 1-2 volte a settimana, aumentandone poi gradualmente la frequenza.
 - REVOX B77: marchio di cosmetici accessibili con la filosofia di offrire risultati professionali direttamente a casa. Selezioniamo attentamente ingredienti e processi per garantire formule efficaci, sicure e di alta qualità per ogni tipo di pelle.
+- MODO DUSO: Applicare generosamente la sera sulla pelle pulita e completamente asciutta di viso e collo, evitando la zona del contorno occhi. Picchiettare delicatamente fino al completo assorbimento. Inizialmente utilizzare 1-2 volte a settimana, aumentandone poi gradualmente la frequenza.
 - IDRATAZIONE ED ELASTICITÀ: Arricchito con una miscela di oli naturali (mandorle dolci, girasole, avocado, cocco) e vitamina E, questo siero nutre in profondità la pelle, migliorandone lelasticità e la morbidezza, per un aspetto più sano e ringiovanito.
 - RIDUCE LE LINEE SOTTILI E LE MACCHIE: il retinolo e la vitamina E agiscono in sinergia per ridurre le linee sottili, le rughe e le macchie scure, migliorando la consistenza e il tono della pelle. La sua azione rinnovatrice accelera la rigenerazione cellulare per un incarnato più uniforme.
 - SIERO AL RETINOLO: REVOX B77 Retinol Serum Unifying Regenerator è un siero viso ultraleggero arricchito con retinolo, studiato per ridurre i segni dellinvecchiamento e migliorare la consistenza della pelle, donando un incarnato più uniforme e luminoso.

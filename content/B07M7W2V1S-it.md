@@ -28,9 +28,9 @@ average: '2.3'
 
 ℹ️:
 
-- Si cancella completamente con acqua.
-- Ideale sul catrame
 - Conforme alla normativa del giocattolo.
+- Ideale sul catrame
+- Si cancella completamente con acqua.
 - Per lasciare libero sfogo alla sua immaginazione e creare disegni e giochi giganti.
 - Grande diametro per una migliore presa.
 

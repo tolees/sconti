@@ -28,11 +28,11 @@ average: '121.46'
 
 ℹ️:
 
+- Dotazione: AdvancedHedgeCut 36V-65-28, coprilama, confezione in cartone
+- Il motore brushless offre prestazioni elevate e garantisce una lunga durata di esercizio
 - Gli utensili da giardino Advanced di Bosch – Idonei per affrontare tagli impegnativi
 - Ergonomia ben bilanciata e raffinata per una facile ma potente rifinitura
 - Il sistema Anti-Blocking previene potenziali inceppamenti garantendo un taglio continuo e minori tempi di fermo
-- Il motore brushless offre prestazioni elevate e garantisce una lunga durata di esercizio
-- Dotazione: AdvancedHedgeCut 36V-65-28, coprilama, confezione in cartone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09TCQHGLF{{</world>}}

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Aderente
 - Gonna in maglia
+- Aderente
 - Vita alta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

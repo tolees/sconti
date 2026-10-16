@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Indicatore luminoso di funzionamento e di pronta temperatura
+- Diametro di 30 cm
 - Spatola e accessorio per stendere la pastella inclusi
 - Termostato regolabile
-- Apparecchio per preparare crepe
 - Rivestimento antiaderente
-- Diametro di 30 cm
+- Indicatore luminoso di funzionamento e di pronta temperatura
+- Apparecchio per preparare crepe
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00EZML6HU{{</world>}}

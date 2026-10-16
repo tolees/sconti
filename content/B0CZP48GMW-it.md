@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Vestibilità regolare
 - Girocollo
+- Vestibilità regolare
 - 100% cotone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

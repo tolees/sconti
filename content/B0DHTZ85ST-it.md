@@ -28,9 +28,9 @@ average: '39.99'
 
 ℹ️:
 
-- Fodera in tessuto
-- Suola per terreni compatti/multisuperficie
 - Vestibilità regolare
+- Suola per terreni compatti/multisuperficie
+- Fodera in tessuto
 - Tomaia Fiberskin con stampa Sprintgrid
 - Chiusura con lacci
 

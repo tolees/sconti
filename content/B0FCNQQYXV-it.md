@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Design ispirato alla tradizione dei modelli degli anni 70 per un look classico
 - Stringata
+- Design ispirato alla tradizione dei modelli degli anni 70 per un look classico
 - Tomaia in suede, mesh e nylon
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

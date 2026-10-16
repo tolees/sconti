@@ -28,10 +28,10 @@ average: '27.16'
 
 ℹ️:
 
-- 19 5 cm di lunghezza
-- NUOVA batteria mt 3.2V 700mAh LiFePo4
 - Carrera RC Quad
 - Carrera RC Quad - Pesca
+- NUOVA batteria mt 3.2V 700mAh LiFePo4
+- 19 5 cm di lunghezza
 - Con Peach sopra la collina e la valle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

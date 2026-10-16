@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Design moderno
 - Vestibilità comoda
+- Design moderno
 - Articolo marchio JACK & JONES
 - Realizzato in materiale leggero e resistente
 

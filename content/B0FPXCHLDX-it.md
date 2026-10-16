@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Creator 3 in 1 Adorabili animali: cagnolino giocoso 31382'
-date: 2026-10-11 22:02:30
+date: 2026-10-15 00:43:45
 image: 'https://m.media-amazon.com/images/I/517LTiXWLzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0FPXCHLDX/?tag=tolees00-21'
 descuento: '36.68'
-average: '19.08'
+average: '19.071'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

@@ -28,10 +28,10 @@ average: '142.993333333333'
 
 ℹ️:
 
-- Tecnologia HYBRID DRIVE di nuova generazione che sviluppa il 20% di potenza di più rispetto agli altri volanti ibridi Thrustmaster (serie T150)
-- Accompagnato da licenze ufficiali PlayStation 5 e PlayStation 4, è anche PC compatibile
 - Sistema di fissaggio rapido adattabile a tavoli e scrivanie fino a 5,5 cm di spessore
 - Pedaliera magnetica a 2 pedali (tecnologia H.E.A.R.T brevettata) con precisione a 12 bit che rimarrà costante nel tempo
+- Tecnologia HYBRID DRIVE di nuova generazione che sviluppa il 20% di potenza di più rispetto agli altri volanti ibridi Thrustmaster (serie T150)
+- Accompagnato da licenze ufficiali PlayStation 5 e PlayStation 4, è anche PC compatibile
 - Force Feedback coinvolgente per provare veramente le sensazioni della guida: velocità, superfici, urti e impatti, perdita di aderenza degli pneumatici
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

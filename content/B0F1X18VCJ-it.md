@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Lacci
 - Vestibilità regolare
+- Lacci
 - Tomaia in materiale sintetico e pelle
 - Suola in gomma
 - Soletta in tessuto

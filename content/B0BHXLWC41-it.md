@@ -28,8 +28,8 @@ average: '8.6'
 
 ℹ️:
 
-- MATERIALE - 100% pelle rivestita.
 - BASE - Un versatile JACROMA casual - 12242687.
+- MATERIALE - 100% pelle rivestita.
 - PERFETTO - Cintura classica, larga 3,5 cm.
 - MODO - Vera pelle di un solo colore con fibbia in metallo.
 

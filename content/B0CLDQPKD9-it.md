@@ -28,12 +28,12 @@ average: '25.0'
 
 ℹ️:
 
-- Tasche : Tasche frontali
-- Funzionalità : Resistente allacqua
+- Tipologia di prodotto : Giacca in finta pelle scamosciata
 - Manica : Maniche lunghe
 - Chiusura : Chiusura a zip
-- Tipologia di prodotto : Giacca in finta pelle scamosciata
 - Dettagli : Dettaglio trapuntati
+- Funzionalità : Resistente allacqua
+- Tasche : Tasche frontali
 - Collo : Collo Biker
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

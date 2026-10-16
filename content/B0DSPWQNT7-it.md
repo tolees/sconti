@@ -28,10 +28,10 @@ average: '109.0'
 
 ℹ️:
 
+- 2 tasche frontali con chiusura lampo, polsini con chiusura in velcro, orlo regolabile con coulisse
+- In poliestere riciclato
 - Chiusura lampo frontale coperta
 - Cappuccio regolabile in 1 punto
-- In poliestere riciclato
-- 2 tasche frontali con chiusura lampo, polsini con chiusura in velcro, orlo regolabile con coulisse
 - Laminato GORE-TEX a 2 strati con membrana ePE priva di PFC
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

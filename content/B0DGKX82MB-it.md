@@ -29,12 +29,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Spina USB A su spina USB-C // Spine metalliche robuste e di alta qualità
-- Cavo USB-C deleyCON // Cavo di ricarica e cavo dati tipo C // Con guaina in nylon
-- Compatibile con PC, controller per console di gioco con USB-C, cellulare, smartphone, tablet, fotocamera, sistema di navigazione e molto altro. // Trasferimento dati: fino a 480 Mbit
-- Numero di modello: MK6316 // Marca: deleyCON
-- Colore: Nero // Lunghezza: 1x 0,5 metri (50 cm corto) | 1x 1 metro | 1x 2 metri // Quantità: 3 pezzi
-- Robusto cavo rotondo con rivestimento in nylon // Durevole e universale
 - Collegamenti standardizzati e su misura // Velocità di ricarica fino a 2 A
+- Cavo USB-C deleyCON // Cavo di ricarica e cavo dati tipo C // Con guaina in nylon
+- Numero di modello: MK6316 // Marca: deleyCON
+- Compatibile con PC, controller per console di gioco con USB-C, cellulare, smartphone, tablet, fotocamera, sistema di navigazione e molto altro. // Trasferimento dati: fino a 480 Mbit
+- Robusto cavo rotondo con rivestimento in nylon // Durevole e universale
+- Colore: Nero // Lunghezza: 1x 0,5 metri (50 cm corto) | 1x 1 metro | 1x 2 metri // Quantità: 3 pezzi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DGKX82MB{{</world>}}

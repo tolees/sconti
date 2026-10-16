@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oral-B Testine di Ricambio Cross Action Nere 16 Ricambi'
-date: 2026-10-10 02:20:16
+date: 2026-10-16 04:33:16
 image: 'https://m.media-amazon.com/images/I/51idakW16RL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0GNMXTZ77/?tag=tolees00-21'
 descuento: '52.89'
-average: '42.2325'
+average: '39.145'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

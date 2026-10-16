@@ -29,12 +29,12 @@ average: '33.5433333333333'
 ℹ️:
 
 - Con questo modello supportiamo la Better Cotton Initiative
-- Polsini e orli a coste
-- 70% cotone / 30% poliestere (riciclato)
 - Cappuccio regolabile con cordino
-- Con questo modello supportiamo la Better Cotton Initiative
+- Polsini e orli a coste
 - Tasca a marsupio
+- 70% cotone / 30% poliestere (riciclato)
 - Taglio regolare
+- Con questo modello supportiamo la Better Cotton Initiative
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09H6VJ35V{{</world>}}

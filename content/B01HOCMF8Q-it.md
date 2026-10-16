@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dimensioni: 120x120x18 mm
-- Compatibile con gli standard VESA 75 x 75 e 100 x 100 mm
-- Solo 18 mm di distanza dalla parete
 - Per schermi fino a 81cm (32") e un peso massimo di 18kg
+- Solo 18 mm di distanza dalla parete
+- Compatibile con gli standard VESA 75 x 75 e 100 x 100 mm
+- Dimensioni: 120x120x18 mm
 - Livella integrata per facilitare il montaggio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ average: '24.99'
 
 ℹ️:
 
+- Accesso alla “cassaforte”. Goditi una collezione esclusiva di contenuti tratti dalla fase di sviluppo e di elementi di gioco che testimoniano la lunga storia di questo titolo iconico
 - Il rendering avanzato in 3D introduce nuovi effetti luminosi e ambientali
 - Nei combattimenti è possibile fare a pugni, utilizzare mine esplosive, detonatori termici, bombe e armi di altro tipo
-- Accesso alla “cassaforte”. Goditi una collezione esclusiva di contenuti tratti dalla fase di sviluppo e di elementi di gioco che testimoniano la lunga storia di questo titolo iconico
 - Divertiti con combattimenti in prima persona con dieci armi e ben venti tipi di nemici
 - Approfitta di una varietà di potenziamenti per livello di salute, scudi, armi e munizioni
 

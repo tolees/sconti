@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rimmel London Mascara Extra Super Lash 3D - Volume Lunghezza e Definizione - 003 Extreme Black/Nero Estremo - 8 ml'
-date: 2026-10-12 18:30:26
+date: 2026-10-16 06:43:06
 image: 'https://m.media-amazon.com/images/I/31nnvyCRnvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ '🇮🇹', ]
 actualPrice: 2.3 EUR
 currency: EUR
 price: 2.3
-comparePrice: 5.89 EUR
+comparePrice: 4.2 EUR
 prodname: 'Rimmel London Mascara Extra Super Lash 3D - Volume Lunghezza e Definizione - 003 Extreme Black/Nero Estremo - 8 ml'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B00MGK9Q0C/?tag=tolees00-21'
-descuento: '60.95'
-average: '4.31657142857143'
+descuento: '45.24'
+average: '4.20756756756757'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

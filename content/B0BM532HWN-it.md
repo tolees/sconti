@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Suola/Caratteristiche: 80% TPU / 20% TPU riciclato
-- Fodera: 100% Poliestere Riciclato
 - Soletta: EVA
-- Tomaia: Pelle
 - Colore: Nero
+- Fodera: 100% Poliestere Riciclato
+- Suola/Caratteristiche: 80% TPU / 20% TPU riciclato
+- Tomaia: Pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BM532HWN{{</world>}}

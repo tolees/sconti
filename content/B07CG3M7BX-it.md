@@ -28,8 +28,8 @@ average: '14.1725'
 
 ℹ️:
 
-- Scollo rotondo, maniche lunghe, polsini e orlo a coste
 - Felpa da uomo del marchio Jack & Jones, in 100% cotone
+- Scollo rotondo, maniche lunghe, polsini e orlo a coste
 - Vestibilità normale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

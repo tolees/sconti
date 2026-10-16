@@ -28,15 +28,15 @@ average: '81.7433333333333'
 
 ℹ️:
 
-- Età consigliata: 14
-- Un gioco ricco di sfide, dove da 1 a 4 Cacciatori devono esplorare la città di Yharnam attraverso 4 diverse campagne, facendosi strada combattendo belve, mostri e cittadini impazziti, rappresentati da incredibili miniature
 - Numero di giocatori: 1-4
-- Durante il corso di una campagna, i Cacciatori scopriranno una storia unica e aumenteranno le proprie abilità e la propria potenza se riusciranno a sopravvivere abbastanza a lungo
-- Edizione in lingua italiana
+- Età consigliata: 14
+- Cosa cè nella scatola 37 Miniature, 4 Basi, 1 Tabellone della Caccia, 20 Tessere Mappa, 4 Plance Arma Trasformabile a Due Facce, 4 Plance Cacciatore, 11 Carte Arma da Fuoco, 108 Carte Statistica, 61 Carte Oggetto di Consumo e Ricompensa, 75 Carte Nemico e Boss, 250 Carte Campagna, 4 Carte Consultazione Giocatore, 109 Segnalini, 1 Regolamento
 - Durata media: 60-90 min.
+- Un gioco ricco di sfide, dove da 1 a 4 Cacciatori devono esplorare la città di Yharnam attraverso 4 diverse campagne, facendosi strada combattendo belve, mostri e cittadini impazziti, rappresentati da incredibili miniature
 - Bloodborne: Il Gioco da Tavolo è un gioco collaborativo dalle atmosfere cupe ispirato al celebre videogioco
 - Pensate rapidamente, adattate le vostre tattiche e superate la moltitudine di mostri malvagi che vi sbarrano la strada: che la Caccia abbia inizio
-- Cosa cè nella scatola 37 Miniature, 4 Basi, 1 Tabellone della Caccia, 20 Tessere Mappa, 4 Plance Arma Trasformabile a Due Facce, 4 Plance Cacciatore, 11 Carte Arma da Fuoco, 108 Carte Statistica, 61 Carte Oggetto di Consumo e Ricompensa, 75 Carte Nemico e Boss, 250 Carte Campagna, 4 Carte Consultazione Giocatore, 109 Segnalini, 1 Regolamento
+- Edizione in lingua italiana
+- Durante il corso di una campagna, i Cacciatori scopriranno una storia unica e aumenteranno le proprie abilità e la propria potenza se riusciranno a sopravvivere abbastanza a lungo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B092MN33YM{{</world>}}

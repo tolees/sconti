@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Libenar Soluzione Isotonica│Adatto a Neonati e Bambini│25 Flaconcini da 5ml'
-date: 2026-10-10 21:29:42
+date: 2026-10-15 00:42:33
 image: 'https://m.media-amazon.com/images/I/61uQJ1nEKQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0CZY387J8/?tag=tolees00-21'
 descuento: '40.00'
-average: '4.87000000000001'
+average: '4.88210526315791'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

@@ -29,8 +29,8 @@ average: '39.99'
 ℹ️:
 
 - Una fragranza floreale e ambrata che illumina delicatamente la pelle
-- Fragranza shimmer con note di ananas vibrante, cocco e muschio
 - Vaporizza generosamente, non potrai più farne a meno!
+- Fragranza shimmer con note di ananas vibrante, cocco e muschio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GM1NK8N9{{</world>}}

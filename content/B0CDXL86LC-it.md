@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Sfrutta lenergia solare per mantenere calda lacqua
-- Contenuto: 1 telo termico
 - Dimensioni: 6,40 m x 7,32 m
+- Sfrutta lenergia solare per mantenere calda lacqua
 - Protegge lacqua da polvere, foglie e altri detriti
+- Contenuto: 1 telo termico
 - Compatibile con piscine Power Steel da 640x274x132 cm e 732x366x132 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

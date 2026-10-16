@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Composto da un lenzuolo 240 x 280 cm, un sottolenzuolo con angoli elasticizzati 175 x 200 cm, due federe 50 x 80 cm
 - Completo Letto Matrimoniale in puro cotone da 58 fili al cmq
 - Prodotto intramente in Italia
-- Composto da un lenzuolo 240 x 280 cm, un sottolenzuolo con angoli elasticizzati 175 x 200 cm, due federe 50 x 80 cm
 - Lavabile in lavatrice a 60°
 - Certificato Oeko-Tex
 

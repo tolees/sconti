@@ -30,11 +30,11 @@ average: '229.99'
 
 - Compatibilità toner originali: HP 117A Nero W2070A, HP 117A Ciano W2071A, HP 117A Giallo W2072A, HP 117A Magenta W2073A, HP 120A Rullo di trasferimento immagine W1120A
 - Specifiche di Stampa: formati supportati A4, A5, A6, B5 (JIS), B6 (JIS), 10 x 15 cm, buste (DL, C5, B5); velocità di stampa: 18 pagine per minuto
-- Dotata di un sistema di sicurezza dinamica, che potrebbe essere periodicamente aggiornato da aggiornamenti del firmware, è progettata esclusivamente per lâ€uso con cartucce che impiegano un chip HP originale; le cartucce che impiegano un chip non HP potrebbero non funzionare o smettere di funzionare
-- Connettività: USBEthernetWi-Fi
-- Stampa a colori, stampa fronte e retro manuale
-- Con funzionalità fax
 - Effettua scansioni e fotocopie, scansione fronte e retro manuale, con caricatore automatico di documenti
+- Dotata di un sistema di sicurezza dinamica, che potrebbe essere periodicamente aggiornato da aggiornamenti del firmware, è progettata esclusivamente per lâ€uso con cartucce che impiegano un chip HP originale; le cartucce che impiegano un chip non HP potrebbero non funzionare o smettere di funzionare
+- Con funzionalità fax
+- Stampa a colori, stampa fronte e retro manuale
+- Connettività: USBEthernetWi-Fi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07RMJV1LT{{</world>}}

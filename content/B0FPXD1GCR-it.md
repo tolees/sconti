@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Pokémon Eevee 72151'
-date: 2026-10-11 22:02:38
+date: 2026-10-15 00:43:51
 image: 'https://m.media-amazon.com/images/I/4196F5dXrdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0FPXD1GCR/?tag=tolees00-21'
 descuento: '83.33'
-average: '23.6971428571428'
+average: '21.9849999999999'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

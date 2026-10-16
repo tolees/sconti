@@ -28,8 +28,8 @@ average: '29.99'
 
 ℹ️:
 
-- Larghezza: normale
 - Tipo di punta: arrotondata
+- Larghezza: normale
 - Tipo di tacco: piatto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

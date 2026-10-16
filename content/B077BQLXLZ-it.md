@@ -28,10 +28,10 @@ average: '10.53'
 
 ℹ️:
 
-- Con terminali a bussola preisolati secondo codice colore DIN
 - Coperchio girevole con apertura per prelevare singoli terminali a bussola
-- Pratico contenitore dispenser trasparente
 - Formato: Ø 90 mm, altezza 44 mm
+- Con terminali a bussola preisolati secondo codice colore DIN
+- Pratico contenitore dispenser trasparente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B077BQLXLZ{{</world>}}

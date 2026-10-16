@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Cilia Mode Sneaker Donna Black Silver 39 EU'
-date: 2026-10-11 09:53:14
+date: 2026-10-16 03:07:27
 image: 'https://m.media-amazon.com/images/I/31bOR9ERMhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B07S6NTC24/?tag=tolees00-21'
 descuento: '43.11'
-average: '37.548'
+average: '37.3771428571428'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

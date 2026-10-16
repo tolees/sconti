@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Taglio: aderente
-- 68% poliestere/32% cotone
-- Schott Nyc Giacca casual da uomo
 - Chiusura con cerniera, 2 tasche basse, 1 tasca bomber sulla manica, 2 tasche interne
 - Manutenzione: lavaggio lavatrice a 30°
+- Taglio: aderente
+- Schott Nyc Giacca casual da uomo
+- 68% poliestere/32% cotone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01MYC2FJH{{</world>}}

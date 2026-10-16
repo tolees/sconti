@@ -28,9 +28,9 @@ average: '5.2'
 
 ℹ️:
 
-- Sintetico
-- 96% cotone
 - Lavabile in lavatrice
+- 96% cotone
+- Sintetico
 - 4% elastan
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

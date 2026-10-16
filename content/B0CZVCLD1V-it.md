@@ -29,13 +29,13 @@ average: '27.63'
 ℹ️:
 
 - Calzata regolare
-- Spalle basse
-- Questo prodotto contiene almeno il 70% di materiali riciclati e rinnovabili
-- Orli a coste
 - Taglio leggermente corto sul retro
-- Tasca a marsupio
 - 55% cotone / 36% poliestere (riciclato) / 9% viscosa
+- Questo prodotto contiene almeno il 70% di materiali riciclati e rinnovabili
 - Cappuccio regolabile con cordino
+- Spalle basse
+- Orli a coste
+- Tasca a marsupio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZVCLD1V{{</world>}}

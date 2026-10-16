@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Trapunta in microfibra, dimensioni 220 x 240 cm
-- Certificato MADE IN GREEN da OEKO-TEX, il che significa che i prodotti sono testati per sostanze nocive e realizzati in luoghi di lavoro più sicuri con un impatto ambientale ridotto
 - Lavabile in lavatrice a caldo con il programma di stiratura permanente
+- Certificato MADE IN GREEN da OEKO-TEX, il che significa che i prodotti sono testati per sostanze nocive e realizzati in luoghi di lavoro più sicuri con un impatto ambientale ridotto
 - Double-face; grigio da un lato e nero dallaltro
 - La cucitura a losanga contribuisce al corretto posizionamento dellimbottitura
 

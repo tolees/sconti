@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'OAKLEY Meta HSTN - Occhiali Smart Unisex - Sport & Lifestyle - Grigio'
-date: 2026-10-13 04:43:08
+title: 'OAKLEY Meta HSTN - Occhiali Smart Unisex - Sport & Lifestyle - Grigio | Fotocamera 14 MP video a 60 FPS comandi vocali audio open-ear 8h di batteria app Meta AI - Lente Prizm™ Ruby'
+date: 2026-10-16 05:21:01
 image: 'https://m.media-amazon.com/images/I/21vArkCFPtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -13,7 +13,7 @@ actualPrice: 325.49 EUR
 currency: EUR
 price: 325.49
 comparePrice: 432.49 EUR
-prodname: 'OAKLEY Meta HSTN - Occhiali Smart Unisex - Sport & Lifestyle - Grigio'
+prodname: 'OAKLEY Meta HSTN - Occhiali Smart Unisex - Sport & Lifestyle - Grigio | Fotocamera 14 MP video a 60 FPS comandi vocali audio open-ear 8h di batteria app Meta AI - Lente Prizm™ Ruby'
 country: 'it'
 flag: '🇮🇹'
 brand: ''

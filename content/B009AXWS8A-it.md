@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Enervit Maltodextrine Integratore Energetico con 99 9% di Maltodestrine Insapore 50g di Carboidrati a Porzione Per Sforzi di Lunga Durata Elevata Digeribilità VeganOk Barattolo da 450g'
-date: 2026-10-08 11:42:55
+date: 2026-10-14 23:40:10
 image: 'https://m.media-amazon.com/images/I/41Jm+1mQp3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B009AXWS8A/?tag=tolees00-21'
 descuento: '30.29'
-average: '8.45000000000001'
+average: '8.56272727272728'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Materiale esterno: Gomma
-- Materiale interno: Sintetico
 - Suola: Gomma
+- Materiale interno: Sintetico
+- Materiale esterno: Gomma
 - Facile da indossare per un comfort ottimo
 - Calzata facile e veloce grazie allelastico sulla tomaia
 

@@ -28,9 +28,9 @@ average: '3.99'
 
 ℹ️:
 
-- Dimensioni confezione: 7,6 L x 15,8 H x 9,2 W (centimeters)
-- Tipo di connettore: Audio stereo
 - Cavo audio digitale con connettori toslink
+- Tipo di connettore: Audio stereo
+- Dimensioni confezione: 7,6 L x 15,8 H x 9,2 W (centimeters)
 - Materiale durevole
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

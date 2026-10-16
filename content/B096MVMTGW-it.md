@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Chiusura: cinturino con fibbia
 - Materiale esterno: sintetico
-- Materiale interno: sintetico
 - Suola: sintetica
+- Materiale interno: sintetico
 - Forma del tacco: piatto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

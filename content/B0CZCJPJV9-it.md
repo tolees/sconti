@@ -28,11 +28,11 @@ average: '15.22'
 
 ℹ️:
 
-- 100% poliestere (riciclato)
-- CLIMACOOL
-- Fascia antiumidità
 - Visiera preformata
 - Struttura a cinque pannelli
+- 100% poliestere (riciclato)
+- Fascia antiumidità
+- CLIMACOOL
 - Taglia unica
 - Cinturino posteriore regolabile
 

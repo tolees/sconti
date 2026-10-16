@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Fodero in nylon con porta palline
-- Nero-blu
 - Misura 29 x 19 x 2 cm
+- Nero-blu
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B006JHHG0K{{</world>}}

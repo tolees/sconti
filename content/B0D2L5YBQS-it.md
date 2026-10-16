@@ -28,9 +28,9 @@ average: '8.99'
 
 ℹ️:
 
-- BFA free
-- Freddo fino a 12 ore
 - Acciaio Inox
+- Freddo fino a 12 ore
+- BFA free
 - Caldo fino a 8 ore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

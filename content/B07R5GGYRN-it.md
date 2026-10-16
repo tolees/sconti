@@ -28,11 +28,11 @@ average: '10.19'
 
 ℹ️:
 
-- misura chiave 1: 11 mm.misura chiave 2: 11 mm.profilo: 12 punti.finitura superficiale: cromo satinato
-- cricchetto regolabile in modo continuo fino a 180 offset
 - mascella 15
-- 72 denti
 - In acciaio al cromo vanadio
+- cricchetto regolabile in modo continuo fino a 180 offset
+- 72 denti
+- misura chiave 1: 11 mm.misura chiave 2: 11 mm.profilo: 12 punti.finitura superficiale: cromo satinato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07R5GGYRN{{</world>}}

@@ -28,8 +28,8 @@ average: '20.3766666666667'
 
 ℹ️:
 
-- Costruzioni magnetiche e giochi educativi
 - Indicato ai bambini di età superiore ai tre anni
+- Costruzioni magnetiche e giochi educativi
 - Dimensione prodotto: 400 x 300 x 237 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

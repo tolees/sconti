@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Potenza: 850 Watt
 - Funzioni per scongelare, riscaldare e annullare la tostatura con indicatori luminosi; controlli per regolare la tostatura
+- Potenza: 850 Watt
 - Finiture nere in plastica con dettagli in acciaio inox; ampie fessure, adatte per la cottura di tutti i tipi di pane;
 - Vassoio raccogli-briciole estraibile; griglia per scaldare panini e brioche; include pinza per rimuovere il pane
 

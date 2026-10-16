@@ -28,11 +28,11 @@ average: '8.88'
 
 ℹ️:
 
+- Adattatore Salvaspazio 2 Prese P40 polivalenti (10/16A 2P+T, tedesca 16A 2P+T)
 - Prese frontali: il design permette di collegare contemporaneamente due elettrodomestici anche con spina tedesca, come in cucina o in bagno/lavanderia.​​​​​​
 - Per un uso efficace delle prese a muro
-- Interruttore ON/OFF
-- Adattatore Salvaspazio 2 Prese P40 polivalenti (10/16A 2P+T, tedesca 16A 2P+T)
 - Spina piccola italiana 10A: la spina fuori asse consente di lasciare liberi gli altri servizi del punto luce, come le prese o interruttori adiacenti, e al contempo di collegare due elettrodomestici, anche con spina tedesca, solitamente molto ingombrante.
+- Interruttore ON/OFF
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DWN1QMF7{{</world>}}

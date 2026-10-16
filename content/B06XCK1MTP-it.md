@@ -28,10 +28,10 @@ average: '26.21'
 
 ℹ️:
 
-- Tasche multiple con accesso facilitato
-- Dimensioni cm 28x25x9
 - Porta martello in metallo
 - Doppie cuciture con rivetti di rinforzo
+- Tasche multiple con accesso facilitato
+- Dimensioni cm 28x25x9
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B06XCK1MTP{{</world>}}

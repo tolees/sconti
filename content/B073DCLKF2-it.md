@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- BARILLA - Unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
+- IDEALE CON - Il farro è uno dei protagonisti della dieta mediterranea, ideale per piatti caldi o freddi. Provalo con una ricetta gustosa con pomodorini, rucola e formaggio fresco di capra
 - PREPARAZIONE - Tempo di cottura 10 minuti senza pre ammollo, dopo averlo scolato lasciarlo riposare 3/4 minuti aggiungendo un filo di olio doliva
 - FARRO - Uno dei protagonisti della dieta mediterranea. Saporito, sano e fonte di fibre; provalo come risotto o in gustose insalate
 - CARATTERISTICHE - 100% origine italiana, ricco di fibre e proteine. Facile e veloce da preparare, si cuoce direttamente in acqua salata bollente
-- IDEALE CON - Il farro è uno dei protagonisti della dieta mediterranea, ideale per piatti caldi o freddi. Provalo con una ricetta gustosa con pomodorini, rucola e formaggio fresco di capra
-- BARILLA - Unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B073DCLKF2{{</world>}}

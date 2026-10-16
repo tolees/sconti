@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Materiale montatura: Metallo, Acetato; Colore montatura: Nero; Colore asta: Argento
+- Original Hawkers product; Package includes microfiber pouch and box
 - Modello unisex; Misure: Frontale 139 mm, Asti 145 mm, Ponte 20 mm, Altezza 49.3 mm
 - Come parte della sua collezione 2021 Hawkers, Pierre Gasly ha lavorato con i nostri designer per creare il primo modello ibrido di metallo e nylon Bel Air Crosswalk di colore argento lucido e nero con lenti solide polarizzate grigio scuro e con il logo personale di Gasly situato discretamente allinterno dellasta destra
 - Occhiali da sole polarizzati: Riduce i riflessi superficiali e la stanchezza oculare e offre nitidezza e contrasti superiori; Occhiali da sole categoria filtro 3, colorazione sufficientemente scura per ambienti esterni con luce diretta del sole; Assorbono tra l82% e il 92% della luce solare; Materiale lenti: Lenti fabbricate in materiale bio tac polarizzato; Protezione 100% UV; Colore lenti: Grigio; Aspetto lenti: Solide
-- Materiale montatura: Metallo, Acetato; Colore montatura: Nero; Colore asta: Argento
-- Original Hawkers product; Package includes microfiber pouch and box
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B097RWCM26{{</world>}}

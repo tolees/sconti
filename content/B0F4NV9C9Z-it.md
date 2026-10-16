@@ -29,8 +29,8 @@ average: '29.0'
 ℹ️:
 
 - Manica lunga
-- Logo monogramma
 - Tessuto morbido
+- Logo monogramma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F4NV9C9Z{{</world>}}

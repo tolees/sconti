@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch TAYDO UniversalBrush 4V Spazzola di pulizia a batteria incl. kit completo di 12 accessori e borsa morbida in scatola di cartone'
-date: 2026-10-10 06:23:53
+date: 2026-10-15 05:07:51
 image: 'https://m.media-amazon.com/images/I/41npBGs29NL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

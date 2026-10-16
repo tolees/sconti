@@ -28,8 +28,8 @@ average: '91.8875'
 
 ℹ️:
 
-- Materiale esterno: tela; Suola: gomma; Fodera: tessuto
 - Altezza tacco: 3,5 cm
+- Materiale esterno: tela; Suola: gomma; Fodera: tessuto
 - Calzata regolabile con laccio elastico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

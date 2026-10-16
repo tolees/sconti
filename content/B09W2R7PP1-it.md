@@ -28,16 +28,16 @@ average: '44.99'
 
 ℹ️:
 
-- Cassetto per raccolta liquidi
-- Ampia maniglia antiscottatura
-- 2 spie di funzionamento e temperatura
-- Piastre antiaderenti con rivestimento “Petravera”
-- Corpo in acciaio INOX
 - Regolazione della temperatura
-- Piastre 29 x 23 cm, con possibilità di apertura a libro 180°
-- Alimentazione: AC 230V ~ 50-60Hz
+- Corpo in acciaio INOX
 - Potenza: 1400 W
 - Dimensioni (mm): 355 x 128 x 330
+- Ampia maniglia antiscottatura
+- Alimentazione: AC 230V ~ 50-60Hz
+- Piastre antiaderenti con rivestimento “Petravera”
+- Cassetto per raccolta liquidi
+- Piastre 29 x 23 cm, con possibilità di apertura a libro 180°
+- 2 spie di funzionamento e temperatura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09W2R7PP1{{</world>}}

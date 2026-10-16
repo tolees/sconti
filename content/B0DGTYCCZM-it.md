@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Ottima per andare allo stadio
 - Maglietta da calcio senza numero e nome
+- Ottima per andare allo stadio
 - Prodotto Ufficiale AS Roma
 - Per manifestare la propria fede calcistica
 

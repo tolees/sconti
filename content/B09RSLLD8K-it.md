@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Sviluppo sensoriale, autonomia, logica
 - 10 associazioni da due pezzi, istruzioni
+- Sviluppo sensoriale, autonomia, logica
 - Per lo sviluppo dei sensi
 - Finitura ruvida, basato sul metodo Montessori, Made in Italy
 

@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Protezione contro il surriscaldamento
-- Cavo incluso
-- USB-C standard
 - Fino a 68 W di ricarica. Tecnologia USB-PD 3.0
 - Copatibile con qualsiasi smartphone USB-C, tablet o PC
+- Cavo incluso
+- USB-C standard
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DBZX894N{{</world>}}

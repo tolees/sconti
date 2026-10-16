@@ -28,13 +28,13 @@ average: '25.0'
 
 ℹ️:
 
-- Chiusura : Chiusura a zip
-- Dettagli : Dettaglio trapuntati
-- Tipologia di prodotto : Giacca in finta pelle scamosciata
 - Collo : Collo Biker
 - Funzionalità : Resistente allacqua
+- Chiusura : Chiusura a zip
 - Tasche : Tasche frontali
 - Manica : Maniche lunghe
+- Dettagli : Dettaglio trapuntati
+- Tipologia di prodotto : Giacca in finta pelle scamosciata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CLDS1MGT{{</world>}}

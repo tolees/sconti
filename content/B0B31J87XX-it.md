@@ -28,11 +28,11 @@ average: '44.09'
 
 ℹ️:
 
-- Tomaia in materiale sintetico
+- La tomaia contiene almeno il 50% di materiale riciclato
 - Chiusura con lacci
 - Fodera in tessuto
 - Soletta Cloudfoam Comfort
-- La tomaia contiene almeno il 50% di materiale riciclato
+- Tomaia in materiale sintetico
 - Acquista 1 taglia più grande
 - Suola in gomma
 

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- OrthoLite - Plantare imbottito
 - Materiale esterno in pelle nabuk e mesh
+- OrthoLite - Plantare imbottito
 - Piedini in gomma sulla suola esterna per una maggiore presa
 - Intersuola Unilite per un comfort e un sostegno leggero
 

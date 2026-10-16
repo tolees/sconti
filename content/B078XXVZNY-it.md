@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Filtro rimovibile e lavabile
 - Base girevole a 360° con avvolgicavo
 - Finitura in acciaio inossidabile spazzolato
-- Filtro rimovibile e lavabile
 - Capacità: 1.7 l
 - Indicatore del livello dellacqua
 

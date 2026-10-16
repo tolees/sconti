@@ -29,8 +29,8 @@ average: '20.0'
 ℹ️:
 
 - poliestere
-- Dettagli:
 - Composizione del materiale: 100% poliestere
+- Dettagli:
 - Sneaker
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

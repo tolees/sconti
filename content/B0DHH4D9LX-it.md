@@ -29,10 +29,10 @@ average: '223.58'
 ℹ️:
 
 - Classe E
-- Doppia porta altezza 145cm
-- Porte reversibili per una maggiore flessibilità
-- Capacità 205 litri
 - Illuminazione led, altamente efficiente, assicura una visione più chiara e dettagliata dei contenuti allinterno del frigorifero
+- Porte reversibili per una maggiore flessibilità
+- Doppia porta altezza 145cm
+- Capacità 205 litri
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DHH4D9LX{{</world>}}

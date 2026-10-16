@@ -28,8 +28,8 @@ average: '12.8'
 
 ℹ️:
 
-- Latte spray solare waterproof dalla consistenza leggera, protegge dai danni dei raggi solari UVA e UVB e favorisce i meccanismi di riparazione naturali della cute, donando una pelle protetta e rinforzata
 - Applicare prima di esporsi al sole e rinnovare frequentemente l’applicazione; nickel tested e senza conservanti, fragranze e glutine
+- Latte spray solare waterproof dalla consistenza leggera, protegge dai danni dei raggi solari UVA e UVB e favorisce i meccanismi di riparazione naturali della cute, donando una pelle protetta e rinforzata
 - Defence Sun è la linea di fotoprotezione formulata per offrire alla pelle protezione dai raggi UVA e UVB e contrastare danni e invecchiamento cutaneo, rafforzando i meccanismi di riparazione naturali della cute; include formulazioni per bambini e neonati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

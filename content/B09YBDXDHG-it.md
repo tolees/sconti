@@ -28,8 +28,8 @@ average: '62.93'
 
 ℹ️:
 
-- Soletta comfort NB
 - Materiali di alta qualità
+- Soletta comfort NB
 - Suola in gomma resistente per una trazione ottimale
 - Forma della punta aggiornata
 

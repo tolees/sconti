@@ -28,11 +28,11 @@ average: '5.1'
 
 ℹ️:
 
+- I nostri gel doccia detergono delicatamente e rigenerano la pelle
 - Ingredienti di origine naturale al 99,5% e aroma 100% naturale
 - Con olio di geranio e oli essenziali di lavanda inglese e lavandino, per detergere delicatamente e donare un aroma piacevolmente calmante
-- I nostri gel doccia detergono delicatamente e rigenerano la pelle
-- Cura del corpo vegana approvata dalla Vegan Society e cruelty free
 - Senza parabeni e senza SLS
+- Cura del corpo vegana approvata dalla Vegan Society e cruelty free
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C4YNC443{{</world>}}

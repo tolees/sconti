@@ -28,10 +28,10 @@ average: '3.67'
 
 ℹ️:
 
-- DETERGE PROFONDAMENTE: Rimuove efficacemente trucco e impurità da viso, occhi e labbra, lasciando la pelle pulita e fresca
-- FORMULA INNOVATIVA: Con tecnologia micellare che cattura e asporta trucco e impurità senza alterare equilibrio e idratazione della pelle
-- DELICATA SULLA PELLE: La sua formula micellare rispetta lequilibrio naturale della pelle, senza alterarne lidratazione
 - ACQUA ALLE ROSE: il modo più semplice e naturale per prendersi cura della propria bellezza, dal 1867. Una bellezza senza età​ che anno dopo anno si rinnova e fiorisce
+- FORMULA INNOVATIVA: Con tecnologia micellare che cattura e asporta trucco e impurità senza alterare equilibrio e idratazione della pelle
+- DETERGE PROFONDAMENTE: Rimuove efficacemente trucco e impurità da viso, occhi e labbra, lasciando la pelle pulita e fresca
+- DELICATA SULLA PELLE: La sua formula micellare rispetta lequilibrio naturale della pelle, senza alterarne lidratazione
 - AZIONE RIVITALIZZANTE: Risveglia la pelle, donandole un aspetto tonico e vitale grazie alle proprietà della Rosa Damascena
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
