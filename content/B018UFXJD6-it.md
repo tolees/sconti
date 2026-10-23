@@ -1,0 +1,33 @@
+---
+layout: post
+title: 'Haribo Happy Cola Caramelle Gommose Gusto Cola Ideali per Feste e Dolci Momenti di Relax - Circa 200 Pezzi [1040gr]'
+date: 2026-10-16 20:22:18
+image: 'https://m.media-amazon.com/images/I/41kisOx6bmL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B018UFXJD6-it Haribo Happy Cola Caramelle Gommose Gusto Cola Ideali per...'
+sku: 'B018UFXJD6-it'
+tags: [ '🇮🇹', ]
+actualPrice: 6.63 EUR
+currency: EUR
+price: 6.63
+comparePrice: 10.49 EUR
+prodname: 'Haribo Happy Cola Caramelle Gommose Gusto Cola Ideali per Feste e Dolci Momenti di Relax - Circa 200 Pezzi [1040gr]'
+country: 'it'
+flag: '🇮🇹'
+brand: ''
+buyurl: 'https://www.amazon.it/dp/B018UFXJD6/?tag=tolees00-21'
+descuento: '36.80'
+average: '5.98'
+---
+
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+
+[🛒 Acquista qui!!]({{< param buyurl >}})
+{{<world>}}B018UFXJD6{{</world>}}
