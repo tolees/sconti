@@ -28,8 +28,8 @@ average: '23.99'
 
 ℹ️:
 
-- Polo
 - Vestibilità standard
+- Polo
 - Composizione del materiale: 100% cotone biologico
 - Maniche corte
 

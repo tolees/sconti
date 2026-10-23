@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Curved visor
 - Adjustable plastic snap closure
+- Curved visor
 - 3D embroidery on front
 - 6-panel low profile crown
 - Twill weave front panels and mesh rear panels

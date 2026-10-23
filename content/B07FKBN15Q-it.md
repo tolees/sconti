@@ -29,9 +29,9 @@ average: '17.82875'
 ℹ️:
 
 - Lavabile in lavatrice
+- Standard Fit per uno stile rilassato
 - Comfort classico.
 - Istruzioni per la cura: Lavaggio in lavatrice
-- Standard Fit per uno stile rilassato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07FKBN15Q{{</world>}}

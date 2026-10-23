@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Giacca da donna
 - Prodotto di ottima fattura
+- Giacca da donna
 - Orlo con coulisse, bottoni. chiusura lampo, cappuccio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

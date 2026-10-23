@@ -28,9 +28,9 @@ average: '9.98'
 
 ℹ️:
 
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
 - Gli ingredienti: La crema contiene il 40% di pistacchio
 - Vasetto da 200 g
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
 - Utilizzo : Da utilizzare per colazione o farcire crepes e pancake
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

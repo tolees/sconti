@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tasche lungo le cuciture laterali
-- Pantaloni: Girovita elasticizzato con cordino
-- 100% poliestere (riciclato)
 - Giacca con vestibilità regolare e pantaloni con vestibilità aderente
+- Giacca: Polsini e orli a coste
+- 100% poliestere (riciclato)
+- Tasche lungo le cuciture laterali
 - Vita media
 - Zip integrale e cappuccio
-- Giacca: Polsini e orli a coste
+- Pantaloni: Girovita elasticizzato con cordino
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZPN2H98{{</world>}}

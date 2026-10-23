@@ -28,8 +28,8 @@ average: '13.9'
 
 ℹ️:
 
-- i migliori prodotti per la cura del tuo corpo
 - Creme per il corpo - Idratanti
+- i migliori prodotti per la cura del tuo corpo
 - Dimensioni prodotto imballato: 8 x 10 x 15 cm
 - Prodotto da marca: Calvin Klein
 

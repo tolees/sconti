@@ -28,10 +28,10 @@ average: '12.99'
 
 ℹ️:
 
-- Peso Netto:450g-550g
 - Se cè un problema con le nostre scarpe,vi preghiamo di contattarci quando avete tempo.Faremo del nostro meglio per assistervi entro 24 ore.
-- Per la Folla:Adulti unisex,adolescenti
 - Superiore:Synthetic
+- Peso Netto:450g-550g
+- Per la Folla:Adulti unisex,adolescenti
 - Suola:Gomma TPU
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

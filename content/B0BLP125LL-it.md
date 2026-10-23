@@ -29,11 +29,11 @@ average: '39.2'
 ℹ️:
 
 - Regolabile in altezza con imbragatura in tessuto
-- Pieghevole telescopicamente con disco sostituibile e punta in carburo
-- Realizzato in alluminio ad alta resistenza
 - Maniglia con chiusura a scatto e schiuma
+- Realizzato in alluminio ad alta resistenza
 - ---
 - Bastone da trekking e da escursionismo robusto e leggero in alluminio.
+- Pieghevole telescopicamente con disco sostituibile e punta in carburo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BLP125LL{{</world>}}

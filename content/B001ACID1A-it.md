@@ -29,8 +29,8 @@ average: '13.71'
 ℹ️:
 
 - Pinza grip
-- lunghezza mm 203
 - con pulsante di regolazione rapido delle ganasce
+- lunghezza mm 203
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B001ACID1A{{</world>}}

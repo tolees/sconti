@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Trainers
-- Polyester
 - Detail
+- Polyester
+- Trainers
 - materialFabricComposition: Upper: 100% Polyester; Sole: 100% Rubber; Inner: 100% Polyester; Insole: 100% Polyester
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

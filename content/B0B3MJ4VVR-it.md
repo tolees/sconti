@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dettaglio logo Skechers
 - Intersuola leggera ammortizzante
+- Dettaglio logo Skechers
 - Tomaia in rete con stampa ombre slip-on
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

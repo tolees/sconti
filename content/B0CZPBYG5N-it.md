@@ -28,8 +28,8 @@ average: '24.99'
 
 ℹ️:
 
-- Primo Tessuto: 55% Cotone / 36% Poliestere(100% Riciclato) / 9% Viscosa / Parte In Costina: 95% Cotone / 5% Elastan
 - Vestibilità regolare
+- Primo Tessuto: 55% Cotone / 36% Poliestere(100% Riciclato) / 9% Viscosa / Parte In Costina: 95% Cotone / 5% Elastan
 - Girovita elasticizzato con cordino
 - Vita media
 

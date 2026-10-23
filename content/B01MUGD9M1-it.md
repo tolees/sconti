@@ -28,10 +28,10 @@ average: '103.406'
 
 ℹ️:
 
+- - Cassa in: Acciaio inossidabile (brunito)
 - - Forma della cassa: Circolare
 - - Colore della cassa: Nero, Oro rosa
 - Cassa
-- - Cassa in: Acciaio inossidabile (brunito)
 - - Vetro: Vetro minerale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

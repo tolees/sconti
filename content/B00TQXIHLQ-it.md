@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Questo telobiettivo ha una messa a fuoco manuale
-- obiettivo è ottimizzato per coloro che desiderano registrare video con DSLR
 - Compatibile con Canon,Nikon,e Sony DSLR
 - Diametro filtro: 72 mm; diametro massimo: 78 mm
+- Questo telobiettivo ha una messa a fuoco manuale
+- obiettivo è ottimizzato per coloro che desiderano registrare video con DSLR
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00TQXIHLQ{{</world>}}

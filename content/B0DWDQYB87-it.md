@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO ONE PIECE La nave pirata Going Merry 75639 | Giochi per bambini da 10 anni barca giocattolo da esposizione 5 minifigure tra cui Luffy e Zoro idea regalo 1376 pezzi'
-date: 2026-10-21 08:48:28
+date: 2026-10-22 21:42:16
 image: 'https://m.media-amazon.com/images/I/51us5ge7W0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0DWDQYB87-it LEGO ONE PIECE La nave pirata Going Merry 75639 | Giochi...'
 sku: 'B0DWDQYB87-it'
 tags: [ '🇮🇹', ]
-actualPrice: 99.9 EUR
+actualPrice: 97.49 EUR
 currency: EUR
-price: 99.9
+price: 97.49
 comparePrice: 129.99 EUR
 prodname: 'LEGO ONE PIECE La nave pirata Going Merry 75639 | Giochi per bambini da 10 anni barca giocattolo da esposizione 5 minifigure tra cui Luffy e Zoro idea regalo 1376 pezzi'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0DWDQYB87/?tag=tolees00-21'
-descuento: '23.15'
-average: '103.14'
+descuento: '25.00'
+average: '102.991315789474'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

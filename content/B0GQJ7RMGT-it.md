@@ -28,10 +28,10 @@ average: '22.55'
 
 ℹ️:
 
-- Presenta lo stoppino in legno caratteristico di WoodWick, che produce un delicato suono di crepitio.
-- Sofisticate note di tronchi e foglie di cedro nero sono avvolte da braci ardenti, evocando falò notturni.
 - Crea unatmosfera calda e accogliente.
+- Sofisticate note di tronchi e foglie di cedro nero sono avvolte da braci ardenti, evocando falò notturni.
 - Una candela di media grandezza che è un ottimo regalo per donne in qualsiasi occasione.
+- Presenta lo stoppino in legno caratteristico di WoodWick, che produce un delicato suono di crepitio.
 - Ideale per le serate.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Over
 - Electric
+- Over
 - All
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ average: '9.12'
 
 ℹ️:
 
-- Può contenere occasionalmente frammenti di guscio
-- Non adatto per gli allergici alla frutta a guscio, alle arachidi, al sesamo, alla soia e per i celiaci a causa dei metodi di fabbricazione
-- Adatto per diete vegetariane e vegane
 - Confezionato in atmosfera protettiva per mantenere la freschezza
+- Può contenere occasionalmente frammenti di guscio
 - Conservare in luogo fresco e asciutto. Una volta aperto, richiudere ermeticamente il sacchetto
 - Confezionato in atmosfera protettiva per mantenere la freschezza
+- Adatto per diete vegetariane e vegane
+- Non adatto per gli allergici alla frutta a guscio, alle arachidi, al sesamo, alla soia e per i celiaci a causa dei metodi di fabbricazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CCV2Q1V3{{</world>}}

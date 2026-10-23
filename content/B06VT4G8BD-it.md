@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kanzy Tea Tree Oil 60ml Olio di Albero Del Tè per Viso Corpo Unghie Capelli e Aromaterapia Diffusore Olio Essenziale Tea Tree'
-date: 2026-10-17 17:43:09
+date: 2026-10-22 07:22:03
 image: 'https://m.media-amazon.com/images/I/51rllt1jpEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B06VT4G8BD/?tag=tolees00-21'
 descuento: '22.62'
-average: '10.11'
+average: '9.31666666666667'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

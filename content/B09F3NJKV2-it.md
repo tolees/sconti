@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bacchetta Harry Potter 30cm con Stemma Gryffindor in Scatola Clip Unisex Marrone 20192'
-date: 2026-10-17 18:23:02
+date: 2026-10-22 19:47:33
 image: 'https://m.media-amazon.com/images/I/31VlxUNn8oL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B09F3NJKV2/?tag=tolees00-21'
 descuento: '39.49'
-average: '8.9225'
+average: '8.336'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- ABIS_MUSIC
 - WARNER MUSIC ITALIA
+- ABIS_MUSIC
 - Soul Ribelle Vinile LP
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

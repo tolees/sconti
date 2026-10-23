@@ -29,10 +29,10 @@ average: '20.03'
 ℹ️:
 
 - Spread Collar
-- materialFabricComposition: 79% Cotton, 20% Polyester, 1% Elastane
 - Care Label:
 - Denim jacket
 - Long Sleeves
+- materialFabricComposition: 79% Cotton, 20% Polyester, 1% Elastane
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09F6XV9WQ{{</world>}}

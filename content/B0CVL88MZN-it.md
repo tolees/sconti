@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Al terzo errore, si perde!
 - Tieni le carte in mano rivolte verso gli altri giocatori, ricevi indizi di cosa hai in mano e gioca la cata corretta.
+- Al terzo errore, si perde!
 - Gioco di carte cooperativo in cui tu sarai lunico a non poter vedere le tue carte.
 - Collabora per creare file ordinate di carte, per numero e per colore.
 - Riuscirai a capire quale giocare per rispettare la sequenza?

@@ -28,12 +28,12 @@ average: '33.99'
 
 ℹ️:
 
-- Il suo sapore complesso si presta a essere gustato liscio con ghiaccio accomodato sulla poltrona di casa o nei classici cocktail d’autore proposti nell’hotellerie di lusso
 - Regala momenti unici con la speciale confezione di Ron Barceló Imperial e due esclusivi bicchieri da degustazione firmati Barceló: un dono elegante e raffinato adatto per celebrare ogni occasione
-- La salvaguardia dell’ambiente e delle risorse naturali per Barceló è un impegno quotidiano che trova attuazione nel Codice di Sostenibilità RB360 applicato nell’intero processo di produzione
 - Barceló produce un’ampia varietà di pregiati rum riconosciuti in tutto il mondo per la loro eccellente qualità e innovazione, rappresentando un punto di riferimento internazionale nel settore
+- La salvaguardia dell’ambiente e delle risorse naturali per Barceló è un impegno quotidiano che trova attuazione nel Codice di Sostenibilità RB360 applicato nell’intero processo di produzione
 - Ron Barceló Imperial è un pregiato rum dominicano ambrato dal colore brillante e dal sapore intenso, invecchiato fino a 10 anni in botti di rovere usate precedentemente nel whisky americano
 - Prodotto con la miglior selezione di canna da zucchero dominicana, offre aromi di crema di burro, ciliegie essiccate, vaniglia, confettura di ananas e noci caramellate seguite da un gusto tostato
+- Il suo sapore complesso si presta a essere gustato liscio con ghiaccio accomodato sulla poltrona di casa o nei classici cocktail d’autore proposti nell’hotellerie di lusso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CQMH1KCR{{</world>}}

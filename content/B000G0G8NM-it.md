@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Riso Scotti - Riso Carnaroli - Riso per Risotti Superfino Pronto in 16 - 1 kg'
-date: 2026-10-15 16:11:19
+date: 2026-10-23 10:05:36
 image: 'https://m.media-amazon.com/images/I/41eDw1j90bL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B000G0G8NM-it Riso Scotti - Riso Carnaroli - Riso per Risotti Superfino...'
 sku: 'B000G0G8NM-it'
 tags: [ '🇮🇹', ]
-actualPrice: 2.85 EUR
+actualPrice: 1.99 EUR
 currency: EUR
-price: 2.85
+price: 1.99
 comparePrice: 5.49 EUR
 prodname: 'Riso Scotti - Riso Carnaroli - Riso per Risotti Superfino Pronto in 16 - 1 kg'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B000G0G8NM/?tag=tolees00-21'
-descuento: '48.09'
-average: '2.59615384615385'
+descuento: '63.75'
+average: '2.51533333333334'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

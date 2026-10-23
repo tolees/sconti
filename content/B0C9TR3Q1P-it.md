@@ -28,8 +28,8 @@ average: '27.45'
 
 ℹ️:
 
-- Coulisse piatta ed elastico in vita
 - Logo Futura ricamato
+- Coulisse piatta ed elastico in vita
 - Tasche laterali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

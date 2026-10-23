@@ -28,11 +28,11 @@ average: '4.55'
 
 ℹ️:
 
-- Presa schuko + 10a - spina italiana piccola 10a
-- Portata massima 2300w
-- Mini timer meccanico giornaliero
-- Massimo 48 programmi on/off giornalieri
 - Intervallo di programmazione 30 minuti
+- Massimo 48 programmi on/off giornalieri
+- Presa schuko + 10a - spina italiana piccola 10a
+- Mini timer meccanico giornaliero
+- Portata massima 2300w
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07ZS6S49C{{</world>}}

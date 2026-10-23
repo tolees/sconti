@@ -28,9 +28,9 @@ average: '11.4366666666667'
 
 ℹ️:
 
+- Elasticizzato
 - Boxer: Set di boxer
 - Cintura larga
-- Elasticizzato
 - Confezione tripla
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

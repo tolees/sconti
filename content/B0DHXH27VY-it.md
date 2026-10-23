@@ -28,12 +28,12 @@ average: '43.12'
 
 ℹ️:
 
-- Intersuola REPETITOR
 - Fodera in tessuto
-- Tomaia in tessuto
-- Suola in gomma
-- Chiusura in pizzo
+- Intersuola REPETITOR
 - Vestibilità regolare
+- Chiusura in pizzo
+- Suola in gomma
+- Tomaia in tessuto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DHXH27VY{{</world>}}

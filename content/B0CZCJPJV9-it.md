@@ -28,12 +28,12 @@ average: '15.22'
 
 ℹ️:
 
-- Cinturino posteriore regolabile
-- Taglia unica
-- 100% poliestere (riciclato)
 - Struttura a cinque pannelli
+- Taglia unica
 - Visiera preformata
+- 100% poliestere (riciclato)
 - Fascia antiumidità
+- Cinturino posteriore regolabile
 - CLIMACOOL
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

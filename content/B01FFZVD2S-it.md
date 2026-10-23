@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Diametro 8.5 cm; altezza 10.2 cm
+- Ideali per té, tisane, latte, cappuccino e cioccolate
 - Lavabili in lavastoviglie e utilizzabili in microonde
-- Colori: lilla, rosso, arancio, giallo, verde, azzurro
 - 6 tazze in porcellana adatte a portare un tocco di colore sulla tua tavola
 - Capacità: 275 ml
-- Ideali per té, tisane, latte, cappuccino e cioccolate
-- Diametro 8.5 cm; altezza 10.2 cm
+- Colori: lilla, rosso, arancio, giallo, verde, azzurro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01FFZVD2S{{</world>}}

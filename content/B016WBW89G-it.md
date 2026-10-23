@@ -28,11 +28,11 @@ average: '20.9'
 
 ℹ️:
 
-- Completo di pressacavo, fissaggio conduttore fino a 4 mm2, fori di ingresso e uscita cavi disposti in due direzioni ortogonali, completo di marcatura CE e Certificazione IMQ
 - Innovativo sistema di assemblaggio con scocca interna in materiale termoplastico con asole di fissaggio regolabili. Velocità di installazione, sicurezza e flessibilità.
-- Completi di Viti autofilettanti ottonate con testa bombata per un perfetto abbinamento estetico
-- Presa Bipasso 10/16A italiana in Ceramica Tecnica con allumina ad alta resistenza
 - Ideale per creare impianti elettrici a vista vintage
+- Completo di pressacavo, fissaggio conduttore fino a 4 mm2, fori di ingresso e uscita cavi disposti in due direzioni ortogonali, completo di marcatura CE e Certificazione IMQ
+- Presa Bipasso 10/16A italiana in Ceramica Tecnica con allumina ad alta resistenza
+- Completi di Viti autofilettanti ottonate con testa bombata per un perfetto abbinamento estetico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B016WBW89G{{</world>}}

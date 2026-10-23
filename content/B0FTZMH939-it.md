@@ -29,8 +29,8 @@ average: '20.23'
 ℹ️:
 
 - Interfaccia moderna e pieno supporto ai controller
-- Combattimento più fluido e reattivo
 - Correzioni richieste dalla community e stabilità migliorata
+- Combattimento più fluido e reattivo
 - Include tutte le espansioni e gli aggiornamenti in unedizione definitiva
 - Migliorie a texture, effetti dilluminazione e distanza di visuale
 

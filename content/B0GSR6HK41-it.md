@@ -28,9 +28,9 @@ average: '711.863749999999'
 
 ℹ️:
 
-- FRIGORIFERO DOPPIA PORTA: Configurazione a doppia porta con vano frigorifero e congelatore.
-- SERIE 600: Questo modello appartiene alla Serie 600 della gamma Electrolux.
 - FINITURA INOX: Frigorifero con finitura esterna in acciaio inox.
+- SERIE 600: Questo modello appartiene alla Serie 600 della gamma Electrolux.
+- FRIGORIFERO DOPPIA PORTA: Configurazione a doppia porta con vano frigorifero e congelatore.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GSR6HK41{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DJI Osmo Pocket 3 fotocamera per vlog con CMOS da 1 4K/120fps | stabilizzazione a 3 assi messa a fuoco rapida tracciamento di volti/oggetti touchscreen ruotabile da 2" Youtube'
-date: 2026-10-20 00:42:24
+date: 2026-10-22 13:09:14
 image: 'https://m.media-amazon.com/images/I/31BFfsqXvrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0CG19QXWD/?tag=tolees00-21'
 descuento: '25.28'
-average: '360.040714285713'
+average: '358.584318181817'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

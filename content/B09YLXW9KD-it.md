@@ -29,10 +29,10 @@ average: '3.6'
 ℹ️:
 
 - Oftalmologicamente testato
-- Linnovativa texture a base di acqua offre una straordinaria sensazione di freschezza in fase di applicazione, per unesperienza cosmetica ottimamente sensoriale
-- Ottimo per uno sguardo intenso e multisfaccettato, per tutto il giorno
-- La sua formula modulabile e pigmentata regala 16 ore di tenuta, per un make-up impeccabile all day long
 - Comfort e tenuta? Da oggi, non devi più scegliere! La speciale formula testata 16H regala istantaneamente un look occhi vibrante e multidimensionale, e unirresistibile sensazione di freschezza: power to your eyes
+- La sua formula modulabile e pigmentata regala 16 ore di tenuta, per un make-up impeccabile all day long
+- Ottimo per uno sguardo intenso e multisfaccettato, per tutto il giorno
+- Linnovativa texture a base di acqua offre una straordinaria sensazione di freschezza in fase di applicazione, per unesperienza cosmetica ottimamente sensoriale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09YLXW9KD{{</world>}}

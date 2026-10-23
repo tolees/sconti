@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Cavo USB rimovibile da 3 metri
 - Prodotto con licenza ufficiale Nintendo e garanzia limitata di due anni: visita PowerA.com/Support
-- Non richiede batterie
 - Jack audio da 3,5 mm
+- Non richiede batterie
+- Cavo USB rimovibile da 3 metri
 - Pulsanti di gioco avanzato mappabili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

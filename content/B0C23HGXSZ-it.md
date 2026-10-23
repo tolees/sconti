@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cetaphil Crema Idratante Viso e Corpo 450g + Emulsione Detergente 29ml'
-date: 2026-10-18 06:41:52
+date: 2026-10-23 08:22:08
 image: 'https://m.media-amazon.com/images/I/41dr61Btt9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0C23HGXSZ/?tag=tolees00-21'
 descuento: '39.38'
-average: '14.9730769230768'
+average: '15.0249999999999'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sole Detersivo Lavatrice in Polvere Bianco Splendente 61 Misurini 1 Confezione da 3 05 Kg'
-date: 2026-10-14 02:01:32
+date: 2026-10-23 09:06:04
 image: 'https://m.media-amazon.com/images/I/41rt2FhFnUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0H518KDBT/?tag=tolees00-21'
 descuento: '32.67'
-average: '7.69'
+average: '7.59333333333333'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

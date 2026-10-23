@@ -29,8 +29,8 @@ average: '17.49'
 ℹ️:
 
 - Girocollo a coste
-- Manica corta
 - Orlo a doppio ago
+- Manica corta
 - Tasca sul petto a sinistra
 - Vestibilità ampia
 

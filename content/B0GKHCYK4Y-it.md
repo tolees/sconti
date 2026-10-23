@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Griglie in ghisa smaltata in porcellana (in due parti) – eccellente ritenzione del calore e pulizia semplice
 - Coperchio alto e bombato – più spazio per arrosti e pezzi di grandi dimensioni
-- Ampia superficie di cottura (57 × 41 cm) – spazio sufficiente per cuocere fino a 12 hamburger contemporaneamente
 - Ripiani laterali e struttura di supporto inclusi – appoggio flessibile e altezza di lavoro confortevole
+- Griglie in ghisa smaltata in porcellana (in due parti) – eccellente ritenzione del calore e pulizia semplice
+- Ampia superficie di cottura (57 × 41 cm) – spazio sufficiente per cuocere fino a 12 hamburger contemporaneamente
 - Bruciatore ad alta efficienza da 4,10 kW – rapido sviluppo del calore e clima di cottura uniforme
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

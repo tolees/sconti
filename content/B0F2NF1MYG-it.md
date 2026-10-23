@@ -28,11 +28,11 @@ average: '59.99'
 
 ℹ️:
 
+- Tempi di caricamento ridotti, per trasportarti velocemente dove vuoi nel mondo di Hyrule.​
+- Risoluzione, frame rate a 60fps e texture più dettagliate. La miglior versione di Tears of the Kingdom.​
 - Un nuovo slot di salvataggio per chi non vuole perdere la partita precedente.​
 - Grazie all’app mobile Zelda Notes sarà possibile avere supporto nel corso dell’avventura.​
-- Risoluzione, frame rate a 60fps e texture più dettagliate. La miglior versione di Tears of the Kingdom.​
 - Supporto HDR per colori vibranti e più luminosi. ​
-- Tempi di caricamento ridotti, per trasportarti velocemente dove vuoi nel mondo di Hyrule.​
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F2NF1MYG{{</world>}}

@@ -28,12 +28,12 @@ average: '6.71'
 
 ℹ️:
 
-- Capacità 500 ml
-- Vitamini: Oliera in vetro borosilicato
-- Beccuccio versatore in silicone
-- Dimensioni: altezza totale: 25 cm altezza senza tappo: 20,5 cm diametro base: ø 7,5 cm diametro tappo: ø 5,5 cm capacità: 500 ml (0,5l)
-- Lavabile in lavastoviglie
 - Coperchio in plastica
+- Lavabile in lavastoviglie
+- Capacità 500 ml
+- Dimensioni: altezza totale: 25 cm altezza senza tappo: 20,5 cm diametro base: ø 7,5 cm diametro tappo: ø 5,5 cm capacità: 500 ml (0,5l)
+- Beccuccio versatore in silicone
+- Vitamini: Oliera in vetro borosilicato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00N1TFBHE{{</world>}}

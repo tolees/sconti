@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tessuto misto impermeabile e robusto
 - Stampa "Security" sulla tasca sinistra sul petto – Grande stampa "Security" sulla schiena
+- Tessuto misto impermeabile e robusto
 - Taglio dritto, tasche applicate sul petto, spalline
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

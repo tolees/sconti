@@ -28,9 +28,9 @@ average: '20.0'
 
 ℹ️:
 
-- Vestibilità aderente, taglio aderente
 - Giacca classica da donna in denim della marca. Only
 - Chiusura con bottoni
+- Vestibilità aderente, taglio aderente
 - Colletto rovesciato
 - Denim elasticizzato
 

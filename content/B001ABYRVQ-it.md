@@ -28,10 +28,10 @@ average: '8.7'
 
 ℹ️:
 
-- FORMULA Indicata per tutti i tipi di pelle
-- AZIONE Apporta un’azione idratante per mezzo dei principi attivi funzionali di linea
-- EFFICACE Elimina le impurità senza alterare il contenuto lipidico della pelle
 - MODO DUSO Usare mattino e sera sul viso emulsionando con acqua. Massaggiare delicatamente e risciacquare
+- AZIONE Apporta un’azione idratante per mezzo dei principi attivi funzionali di linea
+- FORMULA Indicata per tutti i tipi di pelle
+- EFFICACE Elimina le impurità senza alterare il contenuto lipidico della pelle
 - DETERGENTE fluido a pH fisiologico per la detersione quotidiana del viso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

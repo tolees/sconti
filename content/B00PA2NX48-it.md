@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pavesi Biscotti Frollini Gocciole Extra Dark con Cioccolato Fondente 400g'
-date: 2026-10-11 09:53:38
+date: 2026-10-23 08:08:29
 image: 'https://m.media-amazon.com/images/I/41v8a-SXJnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B00PA2NX48/?tag=tolees00-21'
 descuento: '40.13'
-average: '1.84810810810811'
+average: '1.8451282051282'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

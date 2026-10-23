@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LuminexDesigns Lampada da tavolo senza fili 2 pezzi Verde VELA TL02 | IP54 | 5200mAh | 3000K-6000K | Touch dimmerabile | 8-10h durata | Giardino Matrimonio Terrazza Cena Campeggio'
-date: 2026-10-19 17:15:24
+date: 2026-10-22 11:04:40
 image: 'https://m.media-amazon.com/images/I/41o3ExyFaYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

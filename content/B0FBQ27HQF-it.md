@@ -28,9 +28,9 @@ average: '28.26'
 
 ℹ️:
 
-- Animali del bosco fluttuanti - Versi, filastrocche e melodie - Giochi di luce multicolore
-- Boschetto elettronico Baby - Manuale istruzioni
 - Manualità fine - Coordinazione occhio mano - Sviluppo sensoriale - Attenzione e concentrazione
+- Boschetto elettronico Baby - Manuale istruzioni
+- Animali del bosco fluttuanti - Versi, filastrocche e melodie - Giochi di luce multicolore
 - Premi i tasti e guarda gli animali saltare!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

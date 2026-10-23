@@ -29,9 +29,9 @@ average: '115.5'
 ℹ️:
 
 - Orlo con regolazione elastica
-- Due tasche scaldamani con cerniera
-- Polsini con elastico bordato
 - Tasca interna sul petto
+- Polsini con elastico bordato
+- Due tasche scaldamani con cerniera
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DFBLKSF7{{</world>}}

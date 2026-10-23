@@ -30,8 +30,8 @@ average: '67.05'
 
 - Materiale esterno:Pelle
 - Fodera: Sintetico
-- Materiale suola: Gomma
 - Chiusura: Stringata
+- Materiale suola: Gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B073BY1DLB{{</world>}}

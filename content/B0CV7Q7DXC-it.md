@@ -28,12 +28,12 @@ average: '3.42'
 
 ℹ️:
 
-- DERMATOLOGICAMENTE TESTATA SU PELLI SENSIBILI: Adatta a tutti i tipi di pelle inclusa quella sensibile
-- prodotto in Italia
-- AZIONE: La crema mani anti-pigmento nutriente è adatta per pelle matura. Riduce le imperfezioni correggendo l’aspetto della pelle.
-- Solo per uso esterno.
 - Con il 98% di ingredienti di origine naturale
+- DERMATOLOGICAMENTE TESTATA SU PELLI SENSIBILI: Adatta a tutti i tipi di pelle inclusa quella sensibile
+- Solo per uso esterno.
 - ISTRUZIONI PER L’USO: Massaggiare delicatamente sulle mani asciutte e pulite fino a completo assorbimento.
+- AZIONE: La crema mani anti-pigmento nutriente è adatta per pelle matura. Riduce le imperfezioni correggendo l’aspetto della pelle.
+- prodotto in Italia
 - 2 confezioni di CREMA MANI da 100 ml
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

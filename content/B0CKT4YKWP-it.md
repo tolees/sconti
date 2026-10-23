@@ -28,19 +28,19 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- UA HG Mid - Nero/Bianco - XS
-- Strap type: Incrociato
-- Bra design: sports
-- Back style: Fascia in vita
 - Underwire type: Senza ferretto
-- Occasion type: Sport
-- Care instructions: Lavare in lavatrice
-- Bra cup coverage: demi
-- Material: Sintetico
-- Fabric type: 87% Poliestere, 13% Elastan
+- UA HG Mid - Nero/Bianco - XS
 - Bra padding level: light
 - Special feature: Tessuto HeatGear
+- Occasion type: Sport
+- Material: Sintetico
+- Bra cup coverage: demi
+- Bra design: sports
 - Inner material: Tessuto HeatGear
+- Back style: Fascia in vita
+- Strap type: Incrociato
+- Care instructions: Lavare in lavatrice
+- Fabric type: 87% Poliestere, 13% Elastan
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CKT4YKWP{{</world>}}

@@ -28,9 +28,9 @@ average: '23.99'
 
 ℹ️:
 
-- Con taglio aderente
-- Una T-shirt dal taglio essenziale
 - Rifinito con il nostro inconfondibile logo
+- Una T-shirt dal taglio essenziale
+- Con taglio aderente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CNHBCJJ9{{</world>}}

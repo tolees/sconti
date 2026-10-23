@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Misura 2.4 mm
-- Adatto per piccole siepi
 - Filo per il taglio di erba alta e dura
+- Adatto per piccole siepi
+- Misura 2.4 mm
 - Facile da usare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

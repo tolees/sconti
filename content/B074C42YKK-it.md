@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Stiratura a 150 ° massimo consigliato
-- 260 x 240 cm
 - Lavaggio a 40 ° raccomandato
 - 1 copripiumino 260 x 240 cm + 2 federe 63 x 63 cm
+- 260 x 240 cm
 - Timbra 57 fili Allover
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

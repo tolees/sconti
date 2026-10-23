@@ -30,8 +30,8 @@ average: '88.95'
 
 - RESISTENTE: Due diversi livelli di imbottitura che garantiscono una seduta più confortevole e performante; rivestimento in Fibra-Tek
 - FORO ANATOMICO: La tecnologia Superflow riduce drasticamente tutte le limitazioni fisiche causate dalla pressione prolungata nellarea perineale
-- SHOCK ABSORBER: per garantire un comfort estremo è stato creato un nuovo sistema di assorbimento tra scocca e telaio che riduce le vibrazioni
 - MADE IN ITALY: Leccellenza artigianale italiana si fonde con linnovazione nella nostra sella da bici, offrendo comfort, stile e prestazioni ineguagliabili. Pedala con lessenza della qualità Made in Italy!
+- SHOCK ABSORBER: per garantire un comfort estremo è stato creato un nuovo sistema di assorbimento tra scocca e telaio che riduce le vibrazioni
 - HI-TECH: Elegantemente realizzata a mano con materiali e tecnologie avanzate, la X-LR TI 316 Superflow è pronta per qualsiasi percorso che possiate affrontare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

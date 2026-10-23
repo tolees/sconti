@@ -28,14 +28,14 @@ average: '22.75'
 
 ℹ️:
 
+- Maniglia di trasporto
 - 100% poliestere (riciclato)
 - Tasca interna per il laptop
 - Tasca interna del laptop
-- Volume: 20,75 L
-- Dimensioni: 15 cm x 29 cm x 40 cm
-- Maniglia di trasporto
-- Tasca interna del laptop
 - Tasca laterale portaborraccia
+- Tasca interna del laptop
+- Dimensioni: 15 cm x 29 cm x 40 cm
+- Volume: 20,75 L
 - Tasca laterale portaborraccia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

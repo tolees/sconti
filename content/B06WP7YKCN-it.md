@@ -28,11 +28,11 @@ average: '117.42'
 
 ℹ️:
 
-- Condizionatore portatile dotato di rotelle che permettono di spostarlo facilmente
 - Capacità di raffreddamento di 7000 btu e 2,05 kw per locali fino a 60 m3
-- Ventilatore a due velocità e deumidificatore
 - Controllo a distanza con telecomando e timer digitale
 - Basso consumo energetico: classe energetica a
+- Condizionatore portatile dotato di rotelle che permettono di spostarlo facilmente
+- Ventilatore a due velocità e deumidificatore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B06WP7YKCN{{</world>}}

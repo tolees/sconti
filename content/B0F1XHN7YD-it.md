@@ -29,13 +29,13 @@ average: '55.0'
 ℹ️:
 
 - Soletta OrthoLite
+- Chiusura con lacci
+- Tomaia in Ripstop con rivestimenti.
 - intersuola in EVA LIGHTMOTION
 - Vestibilità regolare
-- Tomaia in Ripstop con rivestimenti.
 - Peso: 410 g (misura 38 2/3)
-- Suola in gomma Continental
 - Drop intersuola: 10 mm (tacco: 32 mm/avampiede: 22 mm)
-- Chiusura con lacci
+- Suola in gomma Continental
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F1XHN7YD{{</world>}}

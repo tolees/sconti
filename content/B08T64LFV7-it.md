@@ -28,8 +28,8 @@ average: '39.19'
 
 ℹ️:
 
-- Asciugatura veloce
 - Vestibilità regolare
+- Asciugatura veloce
 - Attrezzatura di alta qualità
 - Design moderno
 

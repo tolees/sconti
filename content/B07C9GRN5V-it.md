@@ -28,11 +28,11 @@ average: '12.75'
 
 ℹ️:
 
-- Rib knit crew neck
-- Rib knit cuffs
-- Chest pocket
-- Long Sleeve
 - Loose Fit
+- Chest pocket
+- Rib knit cuffs
+- Long Sleeve
+- Rib knit crew neck
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07C9GRN5V{{</world>}}

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Suola in gomma
 - Fodera in tessuto
 - Chiusura con lacci
+- Suola in gomma
 - Tomaia in similpelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

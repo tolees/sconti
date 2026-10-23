@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Scatola di 16 cm
 - Età consigliata: da 3 anni in su
 - Regalo ottimo per bambini
 - Bambola e cavallo
-- Scatola di 16 cm
 - Prodotto sicuro è di qualità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

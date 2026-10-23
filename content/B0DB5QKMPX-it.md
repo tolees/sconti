@@ -30,8 +30,8 @@ average: '12.99'
 
 - Logo Jordan distintivo per un look sportivo
 - Vestibilità classica per la massima libertà di movimento
-- Materiale leggero e morbido per un comfort ottimale
 - Design traspirante per luso quotidiano e per lo sport
+- Materiale leggero e morbido per un comfort ottimale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DB5QKMPX{{</world>}}

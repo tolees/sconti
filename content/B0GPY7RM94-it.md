@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - MODALITÀ DUSO: si consigliano 2 capsule al giorno da deglutire con un bicchiere d’acqua, preferibilmente durante i pasti
-- CON OLIO DI COCCO: ottenuto dal frutto della palma da cocco, lolio di cocco contribuisce al trofismo della cute
-- ESTRATTO DI MIGLIO E RAME: lestratto di Miglio favorisce il benessere di unghie e capelli, mentre il Rame contribuisce alla normale pigmentazione della pelle
-- EQUILIBRA: da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto di un perfetto equilibrio tra rispetto, efficacia, benessere e bellezza
 - PER CAPELLI E UNGHIE: Zinco e Selenio sono utili al mantenimento di unghie normali e, insieme alla Biotina, contribuiscono al mantenimento di capelli normali
+- CON OLIO DI COCCO: ottenuto dal frutto della palma da cocco, lolio di cocco contribuisce al trofismo della cute
+- EQUILIBRA: da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto di un perfetto equilibrio tra rispetto, efficacia, benessere e bellezza
+- ESTRATTO DI MIGLIO E RAME: lestratto di Miglio favorisce il benessere di unghie e capelli, mentre il Rame contribuisce alla normale pigmentazione della pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GPY7RM94{{</world>}}

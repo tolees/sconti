@@ -28,8 +28,8 @@ average: '15.99'
 
 ℹ️:
 
-- Maniche corte
 - Da donna
+- Maniche corte
 - Abito corto, taglio normale, cuciture decorative sul davanti, abbottonatura, colletto a camicia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

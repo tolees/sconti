@@ -28,10 +28,10 @@ average: '100.2'
 
 ℹ️:
 
-- Suola esterna : Gomma
 - Materiale interno : Tessuto
-- Tipo di chiusura : Lacci
 - Materia esterna : Pelle - Tessuto
+- Suola esterna : Gomma
+- Tipo di chiusura : Lacci
 - Soletta interna : Tessuto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

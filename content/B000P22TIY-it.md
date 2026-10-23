@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Lunga persistenza: senza mai invadere il naso, Nautica Voyage indugia sulla pelle
-- Note di fondo: ad aggiungere profondità e complessità sono le finiture di legno di cedro, ambra e muschio
 - Note di testa: la mela croccante, la foglia verde fresca e il loto delicato aprono questo profumo
-- Profumo da uomo versatile: memorabile per una serata fuori, adatto da essere indossato ogni giorno
+- Note di fondo: ad aggiungere profondità e complessità sono le finiture di legno di cedro, ambra e muschio
 - Fragranza classica: questa eau de toilette fruttata e legnosa è adatto a diventare il tuo profumo distintivo
+- Profumo da uomo versatile: memorabile per una serata fuori, adatto da essere indossato ogni giorno
+- Lunga persistenza: senza mai invadere il naso, Nautica Voyage indugia sulla pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000P22TIY{{</world>}}

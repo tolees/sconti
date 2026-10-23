@@ -28,8 +28,8 @@ average: '59.99'
 
 ℹ️:
 
-- Colore: verde medio
 - Materiale esterno: 100% cotone riciclato
+- Colore: verde medio
 - 100% gomma
 - Fodera: 63% tessuto (45% PET riciclato - 35% cotone riciclato - 20% viscosa), 37% PET riciclato
 

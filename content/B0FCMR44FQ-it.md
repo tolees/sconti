@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Confezionato in atmosfera protettiva per mantenere la freschezza.
 - Fonte di fibre
+- Confezionato in atmosfera protettiva per mantenere la freschezza.
 - Adatto per diete vegetariane e vegane.
 - Ricco di acidi grassi omega-3.
 

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Compatibilità: S; Camera d’aria fino a 29” x da 1.75”a 2.5”; 2 levagomme
 - Misura: 10.5 x 7 x 5.5 cm; S
 - Montaggio: sottosella
-- Compatibilità: S; Camera d’aria fino a 29” x da 1.75”a 2.5”; 2 levagomme
 - Attacco borsa: Cinturino in velcro ad anello per il carrello sella
 - Capcacità: 0.3 L; S
 

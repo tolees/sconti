@@ -29,10 +29,10 @@ average: '17.8'
 ℹ️:
 
 - Rivestimento antiaderente di qualità a tre strati senza PFOA
-- Diametro base: 173 mm
 - Manico ergonomico e impilabile
-- Adatta a tutti i tipi di piani cottura, induzione inclusa
 - Alluminio fuso
+- Adatta a tutti i tipi di piani cottura, induzione inclusa
+- Diametro base: 173 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00LTT21LW{{</world>}}

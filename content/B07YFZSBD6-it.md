@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Perforati per strappo facile
-- Fogli con 4 fori per poterli inserire in raccoglitori ad anelli o a leva
 - Quaderno formato A4 a righe con margini per prendere appunti in modo ordinato
+- Fogli con 4 fori per poterli inserire in raccoglitori ad anelli o a leva
+- Perforati per strappo facile
 - 140 pagine per blocco
 - Carta liscia, bianca, 90 g/m², per scrivere su entrambi i lati
 - Confezione da 5 pezzi

@@ -28,8 +28,8 @@ average: '76.18'
 
 ℹ️:
 
-- Ammortizzazione
 - Stile retrò
+- Ammortizzazione
 - Scarpe da basket
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

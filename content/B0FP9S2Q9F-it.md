@@ -28,9 +28,9 @@ average: '5.93'
 
 ℹ️:
 
+- Design ufficiale DC Comics: con Superman e il suo cane Krypto.
 - Peso totale 50 g: cioccolatini al latte golosi per i bambini.
 - Idea regalo: calendario avvento bambina o bambino che unisce cioccolato e avventura.
-- Design ufficiale DC Comics: con Superman e il suo cane Krypto.
 - Attesa eroica: 24 giorni di dolci sorprese fino alla vigilia.
 - Sicurezza alimentare: Cioccolato al latte adatto a diete vegetariane e coloranti naturali. Può contenere tracce di glutine.
 

@@ -1,19 +1,19 @@
 ---
 layout: post
-title: 'ACE Detersivo Igienizzante Talco & Muschio Bianco – Detersivo Liquido Lavatrice con Fragranza Avvolgente Rimuove Sporco e Batteri Pulizia Profonda Freschezza Duratura 84 lavaggi'
-date: 2026-09-11 06:51:21
+title: 'ACE Detersivo Igienizzante Talco e Muschio Bucato pulito 84 lavaggi | ACE Detersivo Talco e Muschio Igienizza Rimuove Macchie e Sporco Bucato Pulito Anche A Freddo Profumo Duraturo'
+date: 2026-10-22 09:13:03
 image: 'https://m.media-amazon.com/images/I/51w+cSNry6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0HBXKHQ2C-it ACE Detersivo Igienizzante Talco & Muschio Bianco –...'
+slug: 'B0HBXKHQ2C-it ACE Detersivo Igienizzante Talco e Muschio Bucato pulito...'
 sku: 'B0HBXKHQ2C-it'
 tags: [ '🇮🇹', ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0
 comparePrice: 16.0 EUR
-prodname: 'ACE Detersivo Igienizzante Talco & Muschio Bianco – Detersivo Liquido Lavatrice con Fragranza Avvolgente Rimuove Sporco e Batteri Pulizia Profonda Freschezza Duratura 84 lavaggi'
+prodname: 'ACE Detersivo Igienizzante Talco e Muschio Bucato pulito 84 lavaggi | ACE Detersivo Talco e Muschio Igienizza Rimuove Macchie e Sporco Bucato Pulito Anche A Freddo Profumo Duraturo'
 country: 'it'
 flag: '🇮🇹'
 brand: ''

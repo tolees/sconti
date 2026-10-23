@@ -28,9 +28,9 @@ average: '1.8'
 
 ℹ️:
 
+- Asciugatura in 60 secondi
 - 19 vivaci tonalità
 - Colore: 807 Rain-Check
-- Asciugatura in 60 secondi
 - Il pennello garantisce un’applicazione impeccabile e un finish uniforme
 - Applicazione uniforme e senza striature
 

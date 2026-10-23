@@ -28,9 +28,9 @@ average: '99.95'
 
 ℹ️:
 
+- Materiale suola: Gomma
 - Materiale esterno: Sintetico
 - Fodera: Sintetico
-- Materiale suola: Gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B001EZ3PCA{{</world>}}

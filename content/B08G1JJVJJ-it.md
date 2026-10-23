@@ -28,8 +28,8 @@ average: '17.99'
 
 ℹ️:
 
-- Grazie alla combinazione di treppiede e supporto potrete scattare fotografie senza sfocature con lo smartphone.
 - La testa 3D consente un orientamento perfetto per scatti in formato orizzontale e verticale.
+- Grazie alla combinazione di treppiede e supporto potrete scattare fotografie senza sfocature con lo smartphone.
 - Regolazione dellaltezza del montante centrale.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

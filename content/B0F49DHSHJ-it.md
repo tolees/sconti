@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Orzly Custodia per Nintendo Switch 2 custodia protettiva da viaggio con pad per lo schermo schede di gioco e slot MicroSD con tasche per gli accessori della console'
-date: 2026-10-16 01:00:33
+date: 2026-10-22 08:04:40
 image: 'https://m.media-amazon.com/images/I/41FuRgbwS2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0F49DHSHJ/?tag=tolees00-21'
 descuento: '20.63'
-average: '17.27'
+average: '17.7245454545455'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

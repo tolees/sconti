@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Le compresse MyDietor non forniscono calorie
-- Accompagna il tuo Caffè con My Dietor, dolcifica come lo zucchero ma a 0 kcal
-- All’interno della confezione trovi 1 Blister da 120 Compresse di Dolcificante My Dietor
 - Questo prodotto è senza glutine e senza aspartame
+- All’interno della confezione trovi 1 Blister da 120 Compresse di Dolcificante My Dietor
+- Accompagna il tuo Caffè con My Dietor, dolcifica come lo zucchero ma a 0 kcal
 - Dolcezza senza Zucchero: L’Eritritolo è un ingrediente speciale, presente in natura anche nella frutta, che esalta le caratteristiche organolettiche del prodotto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ average: '16.144'
 
 ℹ️:
 
-- Fornita con 4 punte da 9, 10, 11 e 12 mm.
 - Per montare e smontare facilmente un miscelatore per lavello.
+- Fornita con 4 punte da 9, 10, 11 e 12 mm.
 - Permette di avere un accesso rapido ed efficace per stringere i miscelatori a qualsiasi lavello.
 - Misure della confezione: 6,5 x 30,0 x 42,0 cm.
 

@@ -28,9 +28,9 @@ average: '12.67'
 
 ℹ️:
 
-- Colore: nero PUMA
 - PUMA S Portatile
 - Materiale: sintetico
+- Colore: nero PUMA
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CKXVDQ5R{{</world>}}

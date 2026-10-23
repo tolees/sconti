@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Vaporizza CK One su collo e polsi.
 - Legno di Sandalo australiano
+- Vaporizza CK One su collo e polsi.
 - Bergamotto italiano
 - Tè Verde biologico
 

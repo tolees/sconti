@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
+- Profumo a base di essenze legnose
 - Durata 12 settimane
 - Proteggono e profumano per unintera stagione i capi preziosi
-- Profumo a base di essenze legnose
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0G53YMN4D{{</world>}}

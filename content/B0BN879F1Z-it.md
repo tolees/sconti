@@ -28,8 +28,8 @@ average: '50.0'
 
 ℹ️:
 
-- EK30Y, 30 anni
 - Tessuto idrorepellente
+- EK30Y, 30 anni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BN879F1Z{{</world>}}

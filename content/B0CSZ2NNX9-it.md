@@ -28,12 +28,12 @@ average: '846.5'
 
 ℹ️:
 
-- Pannello OLED da 49 pollici con curvatura 1800R e risoluzione Dual QHD di 5120x1440
-- Controllo KVM multi-piattaforma
-- Display a 10 bit con gamut di colori DCI-P3 al 99%
-- Frequenza di aggiornamento di 144Hz, tempo di risposta di 0.03ms
 - VESA DisplayHDR True Black 400, AMD FreeSync Premium Pro, ClearMR 8000
 - Design ergonomico: regolazione dellaltezza, dellinclinazione e della rotazione
+- Pannello OLED da 49 pollici con curvatura 1800R e risoluzione Dual QHD di 5120x1440
+- Display a 10 bit con gamut di colori DCI-P3 al 99%
+- Controllo KVM multi-piattaforma
+- Frequenza di aggiornamento di 144Hz, tempo di risposta di 0.03ms
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CSZ2NNX9{{</world>}}

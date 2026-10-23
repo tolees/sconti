@@ -28,14 +28,14 @@ average: '33.03'
 
 ℹ️:
 
-- Peso del pacchetto: 6,08 chilogrammi
-- Numero di elementi: 1.0
-- Cornice a clip con bordi lucidi, adatta per un supporto smussato
-- disponibile in vari formati
-- Dimensioni della confezione: 7.62 L x 115.82 H x 75.95 W (centimetri)
 - sospeso in occhielli, da 40x60 cm (15 3/4 x 23 1/2 ") fino a con due ganci jumbo aggiuntivi
-- Colore: vetro trasparente
+- disponibile in vari formati
+- Numero di elementi: 1.0
 - Materiale: vetro
+- Dimensioni della confezione: 7.62 L x 115.82 H x 75.95 W (centimetri)
+- Cornice a clip con bordi lucidi, adatta per un supporto smussato
+- Colore: vetro trasparente
+- Peso del pacchetto: 6,08 chilogrammi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B002BB3CHO{{</world>}}

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Colore: bianco con segnalino blu
 - Diametro 10 mm, 50 mt
 - Composizione: poliestere media tenacità
+- Colore: bianco con segnalino blu
 - Carico di rottura: 560 kg
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

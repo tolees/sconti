@@ -28,14 +28,14 @@ average: '39.5'
 
 ℹ️:
 
-- Pareti fredde
-- Termostato regolabile fino a 420°C
-- Pietra staccabile per pirolisi e pulizia
-- Doppia resistenza, superiore 1200W e inferiore 600W
 - Potenza: 1800 W
+- Termostato regolabile fino a 420°C
+- Doppia resistenza, superiore 1200W e inferiore 600W
+- Doppia spia di funzionamento
+- Pietra staccabile per pirolisi e pulizia
 - Timer 30 minuti con segnale acustico
 - Calotta riflettente inox
-- Doppia spia di funzionamento
+- Pareti fredde
 - Piatto in pietra refrattaria (ø 31 cm)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

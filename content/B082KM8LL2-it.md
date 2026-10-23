@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OAKLEY Meta HSTN - Occhiali Smart Unisex - Sport & Lifestyle - Grigio | Fotocamera 14 MP video a 60 FPS comandi vocali audio open-ear 8h di batteria app Meta AI - Lente Prizm™ Ruby'
-date: 2026-10-16 05:21:01
+date: 2026-10-22 07:33:52
 image: 'https://m.media-amazon.com/images/I/21vArkCFPtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

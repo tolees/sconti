@@ -28,8 +28,8 @@ average: '26.21'
 
 ℹ️:
 
-- Porta martello in metallo
 - Doppie cuciture con rivetti di rinforzo
+- Porta martello in metallo
 - Dimensioni cm 28x25x9
 - Tasche multiple con accesso facilitato
 

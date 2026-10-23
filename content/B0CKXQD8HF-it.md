@@ -28,16 +28,16 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- InterSuola Bounce 2.0
-- Suola in gomma
-- Tomaia in mesh
-- Fodera in tessuto
-- Peso: 256 g (taglia UK 5.5)
+- Drop intersuola: 6 mm (tallone 28 mm / avampiede 22 mm)
 - Altezza del tacco: 6 mm (tacco 28 mm / avampiede 22 mm)
+- Suola in gomma
+- InterSuola Bounce 2.0
+- Peso: 256 g (taglia UK 5.5)
+- Tomaia in mesh
+- Peso: 256 g (misura 38 2/3)
 - Chiusura in pizzo
 - Vestibilità regolare
-- Peso: 256 g (misura 38 2/3)
-- Drop intersuola: 6 mm (tallone 28 mm / avampiede 22 mm)
+- Fodera in tessuto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CKXQD8HF{{</world>}}

@@ -28,8 +28,8 @@ average: '19.465'
 
 ℹ️:
 
-- Non sono necessari strumenti per eseguire connessioni e disconnessioni. Queste sono realizzate grazie alle leve presenti sulla custodia
 - Variegato di terminali 2, 3 e 5 ingressi
+- Non sono necessari strumenti per eseguire connessioni e disconnessioni. Queste sono realizzate grazie alle leve presenti sulla custodia
 - Terminale 40% più piccolo del modello S222
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ average: '263.33'
 
 ℹ️:
 
-- Samsung
 - 2 anni
+- Samsung
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F3F8YXF1{{</world>}}

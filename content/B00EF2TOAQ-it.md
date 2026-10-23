@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Capacità: 1000 ml. Dimensioni: ø = 117 mm, altezza = 165 mm. Beccuccio per versare in modo sicuro senza fuoriuscite
-- Contenuto della confezione: 1 contenitore di misurazione con manico ergonomico e 2 scale. Prodotto in Germania
-- Scala graduata blu in rilievo di facile lettura con suddivisione in litri e millilitri. Piccola suddivisione 10 ml
 - Caraffa graduata per liquidi, farina, zucchero, ecc. Buona resistenza chimica a alcol, grassi, resine, alcali, oli e acidi
+- Contenuto della confezione: 1 contenitore di misurazione con manico ergonomico e 2 scale. Prodotto in Germania
+- Capacità: 1000 ml. Dimensioni: ø = 117 mm, altezza = 165 mm. Beccuccio per versare in modo sicuro senza fuoriuscite
+- Scala graduata blu in rilievo di facile lettura con suddivisione in litri e millilitri. Piccola suddivisione 10 ml
 - Infrangibile e resistente a temperature da -20 a +100 °C. Adatto anche per forno a microonde, lavastoviglie e congelatore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

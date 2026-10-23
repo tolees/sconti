@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- GALLES
-- WHISKY
 - Lt.0,700
+- WHISKY
+- GALLES
 - Vol. 46%
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

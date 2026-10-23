@@ -28,11 +28,11 @@ average: '42.51'
 
 ℹ️:
 
-- Spazzola abrasiva in nylon 80 x 100 mm
-- Spazzola abrasiva in nylon - Raccomandazione sgrassaggio o pulizia abrasiva su tutti i tipi di superfici, piane e irregolari.
-- Per ristrutturatore REX 80 (115018)
-- Durevole e resistente.
 - Per qualsiasi tipo di materiale, legno, pietra, metallo (diametro 80 mm, larghezza 100 mm).
+- Spazzola abrasiva in nylon - Raccomandazione sgrassaggio o pulizia abrasiva su tutti i tipi di superfici, piane e irregolari.
+- Durevole e resistente.
+- Spazzola abrasiva in nylon 80 x 100 mm
+- Per ristrutturatore REX 80 (115018)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B085RBGZKN{{</world>}}

@@ -28,8 +28,8 @@ average: '6.6'
 
 ℹ️:
 
-- Il nostro obiettivo principale è la soddisfazione del cliente
 - Maglietta; tipo di sport: multisports
+- Il nostro obiettivo principale è la soddisfazione del cliente
 - Colore: blu
 - Marca del prodotto: Joma
 

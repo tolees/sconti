@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Il supporto non è incluso
-- Posizionamento in senso orizzontale o verticale.
-- Dimensione: 35x70"/90x180cm
 - Pannello di Riflesso Dorato/Argento & Nero/Bianco
+- Il supporto non è incluso
+- Dimensione: 35x70"/90x180cm
 - Staffa rotante a 360 gradi e dentata per il bloccaggio.
+- Posizionamento in senso orizzontale o verticale.
 - Funzioni dei diversi colori: argento per ottenere il contrasto che si cerca; oro per un tono caldo; bianco per riempire l’ombra e regolare i rapporti di luce; nero per bloccare la luce diffusa o come lo fondo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

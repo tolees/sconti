@@ -28,11 +28,11 @@ average: '88.2066666666667'
 
 ℹ️:
 
+- Suola/Caratteristiche: EVA per leggerezza; Lacci
 - Colore: Nero
 - Soletta: Soletta in PU; Altezza: 3,1 cm
-- Fodera: 100% Poliestere Riciclato
 - Tomaia: Pelle
-- Suola/Caratteristiche: EVA per leggerezza; Lacci
+- Fodera: 100% Poliestere Riciclato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08R7TSH5R{{</world>}}

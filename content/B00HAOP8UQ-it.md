@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dimensioni: 20x10x5 cm
-- Prodotto accuratamente fabbricato con ingredienti di ottima qualità
 - Marca: Calvin Klein.
 - Bellezza e salute.
+- Dimensioni: 20x10x5 cm
+- Prodotto accuratamente fabbricato con ingredienti di ottima qualità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00HAOP8UQ{{</world>}}

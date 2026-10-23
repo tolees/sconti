@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Profilo rettangolare in legno
-- dotate di un supporto
 - Disponibile in molti colori e formati
 - Adeguato per un passepartout
 - Con superficie scanalata
+- dotate di un supporto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000LRINYW{{</world>}}

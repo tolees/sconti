@@ -28,10 +28,10 @@ average: '13.04'
 
 ℹ️:
 
-- Spalle scese
-- Bordi a costine
 - Maglia morbida ed elastica
 - Bottoni effetto tartarugato
+- Bordi a costine
+- Spalle scese
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DPX39VPT{{</world>}}

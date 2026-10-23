@@ -28,10 +28,10 @@ average: '48.1'
 
 ℹ️:
 
-- Unità: 50.0
-- Unità di misura: millilitro
-- Prodotto facile da usare
 - Tipo di pelle: Normal
+- Unità: 50.0
+- Prodotto facile da usare
+- Unità di misura: millilitro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08VNDL51V{{</world>}}

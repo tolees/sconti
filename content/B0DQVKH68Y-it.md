@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- PLAYMOBIL
 - Giocattoli
+- PLAYMOBIL
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DQVKH68Y{{</world>}}

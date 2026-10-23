@@ -28,9 +28,9 @@ average: '29.26'
 
 ℹ️:
 
-- Ideale per scopa lavapavimenti e lavasciuga - Detergente per lavapavimenti compatibile con scopa lavapavimenti e lavasciuga pavimenti – per una pulizia impeccabile.
-- Formula non schiumogena per risultati senza aloni - Detersivo lavapavimenti non schiumoso, ideale per la pulizia a umido senza residui e per un pavimento brillante.
 - Pulizia potente per ogni tipo di pavimento - Detergente lavapavimenti che rimuove facilmente sporco e macchie da laminato, piastrelle, marmo, vinile e altro.
+- Formula non schiumogena per risultati senza aloni - Detersivo lavapavimenti non schiumoso, ideale per la pulizia a umido senza residui e per un pavimento brillante.
+- Ideale per scopa lavapavimenti e lavasciuga - Detergente per lavapavimenti compatibile con scopa lavapavimenti e lavasciuga pavimenti – per una pulizia impeccabile.
 - Pulizia efficace ma delicata su tutte le superfici - Detergente per lavapavimenti che rimuove lo sporco in profondità, rispettando materiali delicati – senza sostanze aggressive.
 - Concentrato & Made in Germany - Detergente per scopa lavapavimenti ad alta resa, non schiumogeno e realizzato in Germania – per una pulizia consapevole ed efficiente.
 

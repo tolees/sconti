@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Piattaforma Powershare di Worx. Batterie 20 V intercambiabili con altre macchine di Worx.
-- Luce LED con luminosità di 1500 lumen.
+- Testina girevole a 360° per focalizzare la luce in molteplici direzioni.
+- Batteria e caricabatteria non sono inclusi.
 - Design Resistente
 - Molteplici opzioni di fissaggio.
-- Batteria e caricabatteria non sono inclusi.
-- Testina girevole a 360° per focalizzare la luce in molteplici direzioni.
+- Piattaforma Powershare di Worx. Batterie 20 V intercambiabili con altre macchine di Worx.
+- Luce LED con luminosità di 1500 lumen.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B06XH1JWZ2{{</world>}}

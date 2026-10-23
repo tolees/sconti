@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 2 ganasce con piastra in plastica per il bloccaggio di componenti delicati
-- Per un bloccaggio delicato
-- In alluminio.
 - 2 ganasce longitudinali per il bloccaggio di barre filettate, viti, ecc.
-- Dimensioni: 100 x 25 mm.
-- Tenuta salda grazie alle calamite integrate
 - 2 ganasce con piastra in gomma per il bloccaggio di componenti molto sensibili come, ad esempio, aste filettate in alluminio e viti
 - 2 ganasce con profilo longitudinale e trasversale
+- Dimensioni: 100 x 25 mm.
+- 2 ganasce con piastra in plastica per il bloccaggio di componenti delicati
+- In alluminio.
+- Per un bloccaggio delicato
+- Tenuta salda grazie alle calamite integrate
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01AGL8T6Y{{</world>}}

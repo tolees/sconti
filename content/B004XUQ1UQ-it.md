@@ -28,9 +28,9 @@ average: '4.49'
 
 ℹ️:
 
+- Parti ricambio
 - Outer brake cable by shimano
 - Colore: nero
-- Parti ricambio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B004XUQ1UQ{{</world>}}

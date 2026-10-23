@@ -28,9 +28,9 @@ average: '20.0'
 
 ℹ️:
 
+- Chiusura con lacci
 - Fodera in tessuto
 - Suola in gomma non-marking
-- Chiusura con lacci
 - Tomaia in similpelle
 - Calzata regolare
 

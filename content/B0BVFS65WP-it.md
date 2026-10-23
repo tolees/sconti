@@ -28,10 +28,10 @@ average: '10.59'
 
 ℹ️:
 
-- * Comfort durevole
 - * Composizione: 100% cotone 57 fili fibra naturale
-- * Facile manutenzione Lavaggio a 60° in lavatrice
 - * Cuffia da 23 cm.
+- * Comfort durevole
+- * Facile manutenzione Lavaggio a 60° in lavatrice
 - * Include: 1 lenzuolo con angoli 90 x 190 x 23 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

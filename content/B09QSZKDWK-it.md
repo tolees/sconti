@@ -28,9 +28,9 @@ average: '12.49'
 
 ℹ️:
 
-- T-shirt RI petto sinistro logo tee bianco
-- Maglietta da uomo per il tempo libero e lo sport
 - Abbigliamento sportivo realizzato con materiali di alta qualità che si adattano a qualsiasi attività sportiva
+- Maglietta da uomo per il tempo libero e lo sport
+- T-shirt RI petto sinistro logo tee bianco
 - Reebok I prodotti sportivi sono progettati per praticare lo sport preferito senza preoccuparsi di niente di più che di eseguire al meglio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

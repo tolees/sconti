@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Realizzata in cotone con tessitura piqué traspirante
 - Polo BOSS con logo a contrasto
 - Rifiniture a righe sportive
-- Realizzata in cotone con tessitura piqué traspirante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F6WGJSTS{{</world>}}

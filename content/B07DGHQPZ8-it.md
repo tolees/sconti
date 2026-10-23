@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- GIN ROSA: distillato con più di 9 botaniche per un ricco mix agrumato a base di pompelmo, con rabarbaro e anice. PROFILO SENSORIALE: Malfy Gin Rosa rilascia note intense di ginepro, insieme al sapore deciso di scorza di pompelmo, rabarbaro e anice COLORE E FINITURA: Malfy Gin Rosa è caratterizzato da un colore rosa decisamente tenue, che evidenzia la morbida dolcezza del gin. MADE IN ITALY: Malfy Gin è prodotto in Italia tramite un attento processo di distillazione a freddo. La bottiglia è in vetro, il tappo in rovere italiano.
 - Pernod Ricard Italia S.p.A. - Via De Casillia n. 23 - Milano, Italy
+- GIN ROSA: distillato con più di 9 botaniche per un ricco mix agrumato a base di pompelmo, con rabarbaro e anice. PROFILO SENSORIALE: Malfy Gin Rosa rilascia note intense di ginepro, insieme al sapore deciso di scorza di pompelmo, rabarbaro e anice COLORE E FINITURA: Malfy Gin Rosa è caratterizzato da un colore rosa decisamente tenue, che evidenzia la morbida dolcezza del gin. MADE IN ITALY: Malfy Gin è prodotto in Italia tramite un attento processo di distillazione a freddo. La bottiglia è in vetro, il tappo in rovere italiano.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07DGHQPZ8{{</world>}}

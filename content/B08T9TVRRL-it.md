@@ -28,8 +28,8 @@ average: '12.5'
 
 ℹ️:
 
-- Con logo stampato
 - Comodo e leggero
+- Con logo stampato
 - Vestibilità regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

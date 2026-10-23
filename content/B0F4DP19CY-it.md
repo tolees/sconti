@@ -28,16 +28,16 @@ average: '28.95'
 
 ℹ️:
 
-- Base rivestita
-- Pannello posteriore in rete
 - Spallacci imbottiti regolabili
 - Pannello posteriore in rete
-- Dimensioni: 16,5 cm x 30 cm x 50 cm
-- Pannello posteriore in mesh
+- Pannello posteriore in rete
 - Esterno: 100% poliestere (riciclato); Interno: 100% elastomero termoplastico
 - Tasche laterali aperte e tasche anteriori con chiusura a zip
 - Spallacci imbottiti regolabili
+- Pannello posteriore in mesh
 - Volume: 25,75 L
+- Base rivestita
+- Dimensioni: 16,5 cm x 30 cm x 50 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F4DP19CY{{</world>}}

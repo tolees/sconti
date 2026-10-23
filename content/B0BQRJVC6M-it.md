@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Coperchio/forno con indicatore di temperatura.
-- Sistema roccia lavica per una diffusione uniforme del calore e lassorbimento dei grassi
 - Accensione Piezo.
+- Sistema roccia lavica per una diffusione uniforme del calore e lassorbimento dei grassi
 - 2 Ripiani laterali pieghevoli.
+- Coperchio/forno con indicatore di temperatura.
 - Due bruciatori in acciaio per un’ottimale distribuzione del calore.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

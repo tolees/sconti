@@ -28,8 +28,8 @@ average: '5.64'
 
 ℹ️:
 
-- Corrisponde al colore e alla consistenza della pelle
 - Cover imperfezioni
+- Corrisponde al colore e alla consistenza della pelle
 - Disponibile in colore beige dorato
 - Lapplicatore per polvere e lo specchio allinterno garantiscono unapplicazione facile da usare
 - Polvere morbida super miscelabile

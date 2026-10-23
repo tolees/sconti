@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Realizzati con ingredienti italiani
-- Frollini impreziositi con grandi e gustosi pezzi di cioccolato
 - Frollini friabili, pensati per essere inzuppati
+- Frollini impreziositi con grandi e gustosi pezzi di cioccolato
 - Packaging sostenibile e riciclabile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ average: '48.0'
 
 ℹ️:
 
-- Chiusura con lacci
 - Soletta in EVA
-- Calzata regolare
+- Chiusura con lacci
 - Tomaia in materiale sintetico
 - Fodera in tessuto
+- Calzata regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DL7H7Y7C{{</world>}}

@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Amplificatore per in-ear monitor per uso personale
-- Connettore dingresso XLR e TRS con meccanismo di blocco
 - Uscita cuffie ad alta potenza e a prova di batterista
+- Connettore dingresso XLR e TRS con meccanismo di blocco
 - Controllo del livello con interruttore on/off
 - Design compatto e leggero
 

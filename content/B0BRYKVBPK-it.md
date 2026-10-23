@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Leg
-- Vita media
 - Button fly
 - 5 tasche- tasca portamonete spostata verso linterno
+- Vita media
 - Etichetta G-Star Originals tessuta sul retro della vita
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

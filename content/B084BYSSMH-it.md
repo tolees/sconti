@@ -28,19 +28,19 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Display lcd tft da 2,4 multifunzione con luminosità variabile
-- Radio dab/dab+/fm
-- bluetooth v5,0
-- sveglia con due allarmi e tre suonerie
-- Uscita cuffie da 3,5 mm
-- Alimentatore incluso
-- uscita cuffie da 3,5 mm
-- Sveglia con due allarmi e tre suonerie
-- display lcd tft da 2,4 multifunzione con luminosità variabile
-- ingresso audio aux-in
-- radio dab/dab+/fm
 - alimentatore incluso
 - Bluetooth v5,0
+- radio dab/dab+/fm
+- Radio dab/dab+/fm
+- ingresso audio aux-in
+- Alimentatore incluso
+- sveglia con due allarmi e tre suonerie
+- Uscita cuffie da 3,5 mm
+- display lcd tft da 2,4 multifunzione con luminosità variabile
+- Display lcd tft da 2,4 multifunzione con luminosità variabile
+- bluetooth v5,0
+- Sveglia con due allarmi e tre suonerie
+- uscita cuffie da 3,5 mm
 - Ingresso audio aux-in
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

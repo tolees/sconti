@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Design moderno
 - Materiale esterno: Plastica
+- Design moderno
 - Fodera: Plastica
 - Chiusura: Zip
 

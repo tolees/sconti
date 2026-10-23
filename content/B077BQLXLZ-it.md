@@ -28,8 +28,8 @@ average: '10.53'
 
 ℹ️:
 
-- Coperchio girevole con apertura per prelevare singoli terminali a bussola
 - Pratico contenitore dispenser trasparente
+- Coperchio girevole con apertura per prelevare singoli terminali a bussola
 - Con terminali a bussola preisolati secondo codice colore DIN
 - Formato: Ø 90 mm, altezza 44 mm
 

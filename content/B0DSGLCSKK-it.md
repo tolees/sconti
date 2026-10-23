@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Taglia unica
 - Misura regolabile da 56 a 60 cm
 - Visiera lunga 7 cm
+- Taglia unica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DSGLCSKK{{</world>}}

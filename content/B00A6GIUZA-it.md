@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - 1 connettore seriale (femmina) DB9
-- 1 connettore seriale (maschio) DB9
 - La schermatura impedisce le interferenze elettromagnetiche
 - Connettori DB9 con pressacavo modellato
+- 1 connettore seriale (maschio) DB9
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00A6GIUZA{{</world>}}

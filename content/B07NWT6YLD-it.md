@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Pre-caricate tramite energia solare
 - Dopo 3 anni di conservazione, mantiene 65% della carica originale
-- Confezione da 12 AA batterie ricaricabili ad alta capacità
+- Pre-caricate tramite energia solare
 - Elevata capacità: 2400 mAh
+- Confezione da 12 AA batterie ricaricabili ad alta capacità
 - NOTA: Per evitare danni o un rapido esaurimento delle batterie, NON MISCHIARE: batterie non ricaricabili con ricaricabili; batterie completamente cariche con batterie a carica medio-bassa; batterie nuove con vecchie; batterie con capacità (mAh) diverse; marche diverse.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kozel Birra Lager Dark Cassa Birra con 20 Birre in Bottiglia da 50 cl 10 L Gusto Morbido e Rinfrescante Gradazione Alcolica 3.5% Vol'
-date: 2026-09-15 15:54:43
+date: 2026-10-23 13:15:32
 image: 'https://m.media-amazon.com/images/I/51-KaE86WvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B08X2CV3NN/?tag=tolees00-21'
 descuento: '33.56'
-average: '22.6414285714286'
+average: '22.28625'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

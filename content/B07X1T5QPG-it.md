@@ -28,10 +28,10 @@ average: '25.19'
 
 ℹ️:
 
-- Realizzato in 100% nylon
 - Altezza: 17.5 cm, larghezza: 26 cm, profondità: 10 cm
-- Gancio da appendere
 - Due scomparti con tasche multiple con chiusura a zip
+- Gancio da appendere
+- Realizzato in 100% nylon
 - Tessuto idrorepellente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

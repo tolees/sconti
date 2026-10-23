@@ -28,10 +28,10 @@ average: '6.114'
 
 ℹ️:
 
-- Presa 10/16A 2P+T
 - Spina 16A 2P+T
 - Bianco
 - Adattatore ultrapiatto EMILIA FLAT
+- Presa 10/16A 2P+T
 - Con l’adattatore Emilia Flat è possibile alimentare casa o ufficio senza l’ingombro di vistosi attacchi elettrici. Può agevolmente essere posizionato dietro ad un mobile, un divano o un grande elettrodomestico, senza creare fastidiosi ed antiestetici ingombri.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

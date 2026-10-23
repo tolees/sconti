@@ -29,8 +29,8 @@ average: '12.46'
 ℹ️:
 
 - Confezionato in una confezione regalo originale Tamaris.
-- Materiale: acciaio inossidabile lucidato. Tipo di collana: catena a maglia barbazzale. Dimensioni: 45 cm. Chiusura: a moschettone
 - La collezione di gioielli e orologi Tamaris convince per il design senza tempo e lalta qualità.
+- Materiale: acciaio inossidabile lucidato. Tipo di collana: catena a maglia barbazzale. Dimensioni: 45 cm. Chiusura: a moschettone
 - Collana senza tempo di Tamaris con bellissimo ciondolo a forma di cuore
 - Perfetto come idea regalo per la persona che ami
 

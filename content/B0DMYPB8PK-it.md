@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dimensioni: 15 cm x 31 cm x 44 cm
-- Tasca anteriore con zip
-- 100% poliestere (riciclato)
 - Volume: 23,25 L
+- 100% poliestere (riciclato)
+- Tasca anteriore con zip
+- Dimensioni: 15 cm x 31 cm x 44 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DMYPB8PK{{</world>}}

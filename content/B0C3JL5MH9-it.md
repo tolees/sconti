@@ -28,10 +28,10 @@ average: '42.25'
 
 ℹ️:
 
-- 3 strisce in TPU
 - Calzata regolare
 - Tomaia in mesh
 - Chiusura con lacci
+- 3 strisce in TPU
 - Intersuola Cloudfoam
 - Fodera in tessuto
 

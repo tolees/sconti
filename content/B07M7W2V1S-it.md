@@ -30,9 +30,9 @@ average: '2.3'
 
 - Grande diametro per una migliore presa.
 - Si cancella completamente con acqua.
+- Ideale sul catrame
 - Conforme alla normativa del giocattolo.
 - Per lasciare libero sfogo alla sua immaginazione e creare disegni e giochi giganti.
-- Ideale sul catrame
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07M7W2V1S{{</world>}}

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Uscita mono/stereo TRS per collegare amplificatori reali, cabine PA o FRFR
 - Colori della micro-manopola personalizzabili: aggiungi più pedali alla tua catena
+- Uscita mono/stereo TRS per collegare amplificatori reali, cabine PA o FRFR
 - Accordatore integrato, EQ, gate, compressore e riverbero
 - Carica fino a 20 preset in configurazioni A/B o on/off
 - Carica e riproduci amplificatori, cabine e pedali AI Tone Modeled

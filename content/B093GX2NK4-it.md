@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - colore: bianco
 - 5 pezzi in ununità di vendita
-- Formato: C13
 - Buste autosigillanti foderate con bolle
+- Formato: C13
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B093GX2NK4{{</world>}}

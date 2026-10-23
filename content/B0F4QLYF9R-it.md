@@ -28,9 +28,9 @@ average: '53.56'
 
 ℹ️:
 
+- Tessuto felpato di misto cotone spazzolato
 - Tasca a marsupio
 - Collo con cappuccio e lacci
-- Tessuto felpato di misto cotone spazzolato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F4QLYF9R{{</world>}}

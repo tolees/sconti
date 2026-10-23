@@ -28,8 +28,8 @@ average: '33.91'
 
 ℹ️:
 
-- Chiusura con lacci
 - Morbida tomaia in materiale sintetico
+- Chiusura con lacci
 - Intersuola Cloudfoam
 - Fodera in tessuto
 - Calzata regolare

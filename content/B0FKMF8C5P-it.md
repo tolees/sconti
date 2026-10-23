@@ -28,11 +28,11 @@ average: '99.01'
 
 ℹ️:
 
-- Configurazione da App “VIEW Wireless” per sistema Bluetooth technology
-- La temperatura si regola manualmente, ma può essere gestita da remoto tramite app o servizi compatibili come Alexa, Google Home, HomeKit e IFTTT
-- Compatibile con Alexa, Google Home, Apple HomeKit e IFTTT, attraverso lapposito gateway
 - Modalità ON/OFF: classica attivazione/spegnimento - Modalità PID: controllo più fine e stabile della temperatura, ottimizzato per comfort ed efficienza energetica
 - Da completare con placche Eikon, Arké, Plana. Per la serie Idea, è necessario acquistare anche il supporto codice 16724
+- Compatibile con Alexa, Google Home, Apple HomeKit e IFTTT, attraverso lapposito gateway
+- La temperatura si regola manualmente, ma può essere gestita da remoto tramite app o servizi compatibili come Alexa, Google Home, HomeKit e IFTTT
+- Configurazione da App “VIEW Wireless” per sistema Bluetooth technology
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FKMF8C5P{{</world>}}

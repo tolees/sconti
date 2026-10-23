@@ -29,8 +29,8 @@ average: '19.99'
 ℹ️:
 
 - Maglietta a girocollo
-- Maglietta a maniche corte
 - Logo ricamato sul petto
+- Maglietta a maniche corte
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F4QLXTL3{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO ONE PIECE Il nascondiglio del Dottor Hillk 75641 | Giochi per bambini da 9 anni 3 minifigure tra cui TonyTony Chopper decorazione camera da collezione idea regalo 271 pezzi'
-date: 2026-10-21 10:01:04
+date: 2026-10-22 10:08:00
 image: 'https://m.media-amazon.com/images/I/516XCd6+XhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0GGPBWL13/?tag=tolees00-21'
 descuento: '33.64'
-average: '21.3414285714286'
+average: '21.1612500000001'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

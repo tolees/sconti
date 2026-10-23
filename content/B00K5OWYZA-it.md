@@ -28,11 +28,11 @@ average: '39.8'
 
 ℹ️:
 
-- Chiusura: Stringata
-- Fodera: Tessuto
+- Tipo di tacco: Senza tacco
 - Materiale esterno: Sintetico
 - Materiale suola: Gomma
-- Tipo di tacco: Senza tacco
+- Chiusura: Stringata
+- Fodera: Tessuto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00K5OWYZA{{</world>}}

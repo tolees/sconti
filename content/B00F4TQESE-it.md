@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Prolunga il raggio di azione dellidropulitrice
-- Tubo flessibile ad alta pressione
 - Accessorio per Gamma Idropulitrici Bosch AQT
+- Tubo flessibile ad alta pressione
 - 6 metri di Lunghezza
+- Prolunga il raggio di azione dellidropulitrice
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00F4TQESE{{</world>}}

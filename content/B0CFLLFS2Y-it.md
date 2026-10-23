@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MERCUSYS MS105GS Switch 5 Porte Gigabit Custodia in Metallo | Funzionamento Silenzioso Montaggio Desktop Plug & Play Switch Gigabit per la Casa e l Ufficio'
-date: 2026-10-17 12:47:27
+date: 2026-10-22 17:09:53
 image: 'https://m.media-amazon.com/images/I/315mC4i8oNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0CFLLFS2Y/?tag=tolees00-21'
 descuento: '23.54'
-average: '11.19'
+average: '11.49'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

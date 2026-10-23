@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Circa 30 ore di gioco da vivere immerso negli incontaminati regni del folklore nordico
 - Sfrutta appieno il potenziale di PS4 e PS4 Pro
+- Circa 30 ore di gioco da vivere immerso negli incontaminati regni del folklore nordico
 - Un rinnovato inizio in grado di appassionare nuovi giocatori e fan della saga
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

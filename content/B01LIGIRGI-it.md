@@ -30,9 +30,9 @@ average: '25.99'
 
 - PROFUMO DA UOMO SEDUCENTE: L’eau de toilette Uomo si apre con note di viola e zafferano; miele e lavanda danno profondità, mentre il sandalo crea un fondo accattivante
 - FRAGRANZA DA UOMO: Unione di eleganza e sicurezza di sé, l’eau de toilette Roberto Cavalli Uomo è ottima per gli uomini con uno stile audace e un’eleganza vigorosa
+- DESIGN AUDACE: La solida boccetta in vetro scuro di questo profumo da uomo, con il monogramma Roberto Cavalli e scaglie di serpente, è simbolo della sicurezza maschile
 - RICCO PATRIMONIO: Fondata negli anni ’70, la firma Roberto Cavalli è un’icona del glamour italiano nel mondo; con i nostri profumi da donna potrai esprimere te stessa
 - AROMA ORIENTALE: Una fragranza legnosa esclusiva, dalle note aromatiche orientali, che unisce l’intramontabile raffinatezza italiana e un’audacia rock ’n’ roll
-- DESIGN AUDACE: La solida boccetta in vetro scuro di questo profumo da uomo, con il monogramma Roberto Cavalli e scaglie di serpente, è simbolo della sicurezza maschile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01LIGIRGI{{</world>}}

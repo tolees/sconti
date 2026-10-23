@@ -28,11 +28,11 @@ average: '2.41'
 
 ℹ️:
 
-- AZIONE: Crema mani con aloe vera, adatta a tutti i tipi di pelle. Idrata la pelle, lasciando le mani fresche e delicatamente profumate.
+- 2 confezioni di CREMA MANI da 100 ml
+- ISTRUZIONI PER L’USO: Massaggiare delicatamente sulle mani asciutte e pulite fino a completo assorbimento.
 - DERMATOLOGICAMENTE TESTATA SU PELLI SENSIBILI: Adatta a tutti i tipi di pelle inclusa quella sensibile
 - prodotto in Italia
-- ISTRUZIONI PER L’USO: Massaggiare delicatamente sulle mani asciutte e pulite fino a completo assorbimento.
-- 2 confezioni di CREMA MANI da 100 ml
+- AZIONE: Crema mani con aloe vera, adatta a tutti i tipi di pelle. Idrata la pelle, lasciando le mani fresche e delicatamente profumate.
 - Con il 98% di ingredienti di origine naturale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

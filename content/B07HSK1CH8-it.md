@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- porta TV con un design semplice, si abbina a diversi stili di arredamento in soggiorno e in camera da letto
-- sul retro ci sono dei fori per far passare i cavi del lettore DVD e del ricevitore
 - mobile TV com 2 ante e 2 ripiani con spazio per sistemare libri, CD e DVD sempre a portata di mano
 - Made in France
+- sul retro ci sono dei fori per far passare i cavi del lettore DVD e del ricevitore
+- porta TV con un design semplice, si abbina a diversi stili di arredamento in soggiorno e in camera da letto
 - Il prodotto viene spedito smontato, Le viti e le istruzioni di montaggio sono comprese
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

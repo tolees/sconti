@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Etichetta Carhartt cucita sulla tasca
+- Tasca sul petto
+- Manica corta
+- Relaxed fit
 - Girocollo in maglia a costine
 - Orlo piatto con cucitura a doppio ago
 - Jersey pesante
-- Manica corta
-- Relaxed fit
-- Etichetta Carhartt cucita sulla tasca
-- Tasca sul petto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BDL92BT2{{</world>}}

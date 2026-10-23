@@ -28,10 +28,10 @@ average: '39.99'
 
 ℹ️:
 
-- Passante (NOS)
-- 106695 02
 - Palla da pallone
+- 106695 02
 - Maschio
+- Passante (NOS)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B8DZQS29{{</world>}}

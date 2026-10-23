@@ -28,9 +28,9 @@ average: '69.0'
 
 ℹ️:
 
-- Finitura zigrinata
 - Chiusura con cinturino; due manici; tracolla rimovibile; due scomparti principali; tasca interna con zip
 - Placchetta con monogramma TH sul davanti
+- Finitura zigrinata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FDGY3ZZD{{</world>}}

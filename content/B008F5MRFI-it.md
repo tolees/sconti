@@ -28,10 +28,10 @@ average: '6.425'
 
 ℹ️:
 
+- Marchio: Varta
 - Rispetta le regole di produzione
 - Pile per dispositivi ad alto consumo di energia High Energy
 - Confezione 8+4 batterie
-- Marchio: Varta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B008F5MRFI{{</world>}}

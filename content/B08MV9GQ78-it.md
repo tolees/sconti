@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Maglietta del marchio JACK & JONES
-- Realizzati con materiali sostenibili
 - Adatto per: situazioni informali
+- Realizzati con materiali sostenibili
+- Maglietta del marchio JACK & JONES
 - Design traspirante per movimenti fluidi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

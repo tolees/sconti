@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pavesi Biscotti Frollini Gocciole Cioccolato 500g'
-date: 2026-09-22 14:58:50
+date: 2026-10-22 06:40:19
 image: 'https://m.media-amazon.com/images/I/51krOD8cwrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B003VYYBFW/?tag=tolees00-21'
 descuento: '40.13'
-average: '1.75122807017542'
+average: '1.75254237288134'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

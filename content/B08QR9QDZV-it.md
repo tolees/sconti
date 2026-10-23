@@ -28,10 +28,10 @@ average: '6.25888888888889'
 
 ℹ️:
 
-- Crema giorno e notte idratante anti-età per fortificare la pelle del viso e attenuare rughe e macchie, Adatta a pelli mature
-- Contenuto: 1x Trattamento fortificante giorno e notte 65+ LOréal Paris Attiva Anti-Rughe, 50 ml
-- Applicazione mattino e sera su viso e collo ben detersi con movimenti circolari ascendenti per un migliore assorbimento
 - Formula arricchita con multivitamine, Texture confortevole, Dermatologicamente testato
+- Contenuto: 1x Trattamento fortificante giorno e notte 65+ LOréal Paris Attiva Anti-Rughe, 50 ml
+- Crema giorno e notte idratante anti-età per fortificare la pelle del viso e attenuare rughe e macchie, Adatta a pelli mature
+- Applicazione mattino e sera su viso e collo ben detersi con movimenti circolari ascendenti per un migliore assorbimento
 - Risultati: Rughe profonde ridotte, Pelle fortificata, Macchie cutanee attenuate
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ average: '39.78'
 
 ℹ️:
 
+- Scarpe da ginnastica
+- Tomaia in pelle
 - Intersuola in etilene vinilacetato
 - Ispirato alle classiche scarpe da ginnastica
-- Tomaia in pelle
 - Suola in gomma resistente, aderente e completamente in gomma
-- Scarpe da ginnastica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B075F9RGK7{{</world>}}

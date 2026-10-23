@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Cipria - LOreal Paris
 - Genere - Donna
+- Cipria - LOreal Paris
 - Ref - 58391
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

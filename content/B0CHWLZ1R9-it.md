@@ -28,8 +28,8 @@ average: '16.61'
 
 ℹ️:
 
-- Un perfetto equilibrio tra dolcezza fruttata e note speziate natalizie
 - Leffe Winter, la nuove edizione limitata di Leffe
+- Un perfetto equilibrio tra dolcezza fruttata e note speziate natalizie
 - Leffe Winter, perfetta per essere gustata a tavola con amici e familiari
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

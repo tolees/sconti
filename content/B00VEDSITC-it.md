@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- 20 cm
 - Con 2 manici
 - Con rivestimento antiaderente
-- 20 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00VEDSITC{{</world>}}

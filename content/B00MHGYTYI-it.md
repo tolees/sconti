@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Burro idratante per mani, piedi e corpo.
-- 24 ore di idratazione.
-- Limetta bianca e aloe vera.
 - Burro idratante non oleoso, dalla fragranza decisa.
 - Lascia la pelle morbida come seta.
+- 24 ore di idratazione.
+- Limetta bianca e aloe vera.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00MHGYTYI{{</world>}}

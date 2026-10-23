@@ -28,10 +28,10 @@ average: '7.88'
 
 ℹ️:
 
-- Finitura fosfatata nera
 - Estremità smussata per lavorare in modo molto veloce e facile
-- Impugnatura ergonomica
+- Finitura fosfatata nera
 - Set composto da 1.5, 2, 2.5, 3, 4, 5, 6 e 8 mm
+- Impugnatura ergonomica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B002SHLR3W{{</world>}}

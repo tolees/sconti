@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 3 impostazioni del cacciavite: cricchetto in senso orario, antiorario e bloccato in posizione fissa; la base di rotazione libera del cacciavite consente di ruotare l’impugnatura mantenendo facilmente una pressione costante
 - Dimensioni: 20.1 x 11.6 x 3.6 cm (LxWxH)
-- Realizzato in acciaio al cromo vanadio trattato termicamente per durezza potenziata; rivestimento resistente alla corrosione per aumentare la forza dell’utensile; l’impugnatura antiscivolo permette una presa comoda e sicura
 - Custodia a valigetta in plastica inclusa, con alloggiamenti dedicati per il cacciavite, le bussole e le punte
-- Suggerimento: non utilizzare le punte per cacciavite di precisione su viti di grandi dimensioni che richiedono una coppia elevata; le punte per cacciavite di precisione sono adatte solo per piccoli dispositivi elettronici
+- 3 impostazioni del cacciavite: cricchetto in senso orario, antiorario e bloccato in posizione fissa; la base di rotazione libera del cacciavite consente di ruotare l’impugnatura mantenendo facilmente una pressione costante
 - Set di chiavi a cricchetto e cacciaviti da 73 pezzi per serrare e allentare facilmente svariate componenti di fissaggio. Le punte per cacciavite di precisione non sono magnetiche, adatte a piccoli strumenti elettronici come orologi, smartphone, occhiali e così via; le altre punte sono magnetiche, adatte per la riparazione di apparecchi elettrici comuni, come condizionatori daria, lavatrici, frigoriferi, televisori e altro
+- Suggerimento: non utilizzare le punte per cacciavite di precisione su viti di grandi dimensioni che richiedono una coppia elevata; le punte per cacciavite di precisione sono adatte solo per piccoli dispositivi elettronici
+- Realizzato in acciaio al cromo vanadio trattato termicamente per durezza potenziata; rivestimento resistente alla corrosione per aumentare la forza dell’utensile; l’impugnatura antiscivolo permette una presa comoda e sicura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07V4TFWFZ{{</world>}}

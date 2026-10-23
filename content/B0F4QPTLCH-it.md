@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Logo lineare Tommy Jeans sul petto
 - Girocollo
-- Puro cotone
+- Logo lineare Tommy Jeans sul petto
 - Marchio Tommy Jeans
+- Puro cotone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F4QPTLCH{{</world>}}

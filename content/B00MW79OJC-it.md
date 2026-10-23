@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'Yankee Candle Candela profumata in giara grande | Cannella Vivace | Durata Fino a 150 Ore'
-date: 2026-06-18 20:06:26
-image: 'https://m.media-amazon.com/images/I/41dkKOnxBWL._SL500_._SL400_.jpg'
+date: 2026-10-22 17:27:41
+image: 'https://m.media-amazon.com/images/I/4103OObshiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B00MW79OJC-it Yankee Candle Candela profumata in giara grande | Cannella...'
 sku: 'B00MW79OJC-it'
 tags: [ '🇮🇹', ]
-actualPrice: 22.0 EUR
+actualPrice: 23.27 EUR
 currency: EUR
-price: 22.0
+price: 23.27
 comparePrice: 34.99 EUR
 prodname: 'Yankee Candle Candela profumata in giara grande | Cannella Vivace | Durata Fino a 150 Ore'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B00MW79OJC/?tag=tolees00-21'
-descuento: '37.12'
-average: '20.992'
+descuento: '33.50'
+average: '21.3716666666667'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,11 +28,6 @@ average: '20.992'
 
 ℹ️:
 
-- Bagliori festivi, il calore speziato di bastoncini di autentica cannella con un tocco di chiodi di garofano
-- Stoppini in cotone 100% senza piombo raddrizzati e centrati per una combustione uniforme
-- Ogni candela grande è inserita nella classica giara di vetro con coperchio per preservare e contenere la fragranza
-- Ingredienti scelti e cera di alta qualità garantiscono un aroma chiarao e costante che riempie tutta la stanza
-- Durata della candela: da 110 a 150 ore di piacevole profumazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00MW79OJC{{</world>}}

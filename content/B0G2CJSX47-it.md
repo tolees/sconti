@@ -28,11 +28,11 @@ average: '89.99'
 
 ℹ️:
 
-- Stay Updated: Get new plugins, features, and community support with regular updates
-- Monitor in Real Time: Assign keys to display CPU, GPU, ping, FPS, or system stats at a glance
-- Collector ready: Special edition marked with Nuka-Cola recognisable logo and style – a unique must-have for your streaming rig or Fallout legacy setup.
-- No Guesswork: LED-lit keys show icons clearly, so you can react fast without looking away
 - Control Everything: Launch Discord, games, OBS scenes, or mute with one tap—no alt-tab needed
+- Stay Updated: Get new plugins, features, and community support with regular updates
+- Collector ready: Special edition marked with Nuka-Cola recognisable logo and style – a unique must-have for your streaming rig or Fallout legacy setup.
+- Monitor in Real Time: Assign keys to display CPU, GPU, ping, FPS, or system stats at a glance
+- No Guesswork: LED-lit keys show icons clearly, so you can react fast without looking away
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0G2CJSX47{{</world>}}

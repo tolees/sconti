@@ -29,10 +29,10 @@ average: '33.06'
 ℹ️:
 
 - sconfiggere il male!
-- Ogni giocatore deve scegliere un eroe con cui esplorare le terre intorno al castello di Karak, combattere eserciti di mostri e raccogliere le risorse per far crescere le proprie città;
-- il tutto addestrando nuove truppe che lo aiutino nella missione più importante:
-- Completamente indipendente dal primo puoi godertelo al massimo anche se non conosci il gioco originale.
 - Karak II è il secondo capitolo della saga del pluripremiato gioco per famiglie Le Catacombe di Karak.
+- Ogni giocatore deve scegliere un eroe con cui esplorare le terre intorno al castello di Karak, combattere eserciti di mostri e raccogliere le risorse per far crescere le proprie città;
+- Completamente indipendente dal primo puoi godertelo al massimo anche se non conosci il gioco originale.
+- il tutto addestrando nuove truppe che lo aiutino nella missione più importante:
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D67GTCWN{{</world>}}

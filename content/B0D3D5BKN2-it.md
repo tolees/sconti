@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ATTACK SHARK X11 Gaming Mouse with Magnetic Charging Dock PixArt PAW3311 Gaming Sensor BT/2.4G Wireless/Wired Gaming Mouse 22000 DPI Office Mice Gamer Mice for Win11/Xbox/PS/Mac Black'
-date: 2026-10-17 14:45:45
+date: 2026-10-22 13:02:22
 image: 'https://m.media-amazon.com/images/I/31jxIvZUKsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

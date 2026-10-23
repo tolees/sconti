@@ -28,9 +28,9 @@ average: '20.454'
 
 ℹ️:
 
-- Giacca sportiva con logo
-- Tessuto traspirante
 - Logo Nike
+- Tessuto traspirante
+- Giacca sportiva con logo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07WC7RJBB{{</world>}}

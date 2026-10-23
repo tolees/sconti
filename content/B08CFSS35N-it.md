@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rimmel London Lasting Finish 1000 Kisses Matita Labbra Lunga Durata e Colore Intenso 705 Cappuccino 1.2 g'
-date: 2026-10-18 10:27:08
+date: 2026-10-22 11:22:51
 image: 'https://m.media-amazon.com/images/I/21mkJFHlYjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ '🇮🇹', ]
 actualPrice: 2.6 EUR
 currency: EUR
 price: 2.6
-comparePrice: 5.68 EUR
+comparePrice: 5.16 EUR
 prodname: 'Rimmel London Lasting Finish 1000 Kisses Matita Labbra Lunga Durata e Colore Intenso 705 Cappuccino 1.2 g'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B08CFSS35N/?tag=tolees00-21'
-descuento: '54.23'
-average: '3.99161290322581'
+descuento: '49.61'
+average: '3.90727272727273'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

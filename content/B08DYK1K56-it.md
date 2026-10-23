@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Confezione contenente 3 vasetti da 190 g di Sugo Cacio e Pepe Biffi
-- Una delle eccellenze della tradizione gastronomica Romana, un condimento che è diventato il simbolo dell’italianità
-- Biffi: qualità, tradizione e innovazione all’insegna del Made in Italy
 - Senza glutine
+- Una delle eccellenze della tradizione gastronomica Romana, un condimento che è diventato il simbolo dell’italianità
+- Confezione contenente 3 vasetti da 190 g di Sugo Cacio e Pepe Biffi
 - Una deliziosa crema a base di Pecorino Romano Dop e Pepe Nero, che fa parte della Linea Specialità Biffi, ottima in abbinamento a gustosi piatti di spaghetti
+- Biffi: qualità, tradizione e innovazione all’insegna del Made in Italy
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08DYK1K56{{</world>}}

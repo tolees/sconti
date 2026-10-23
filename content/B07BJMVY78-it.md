@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tipo di prodotto: DISHWASHER
+- HOTPOINT ARISTON INDESIT - FILTRO LAVASTOVIGLIE COMPLETO C00256571 + C00256572
 - Filtro Lavastoviglie
 - Colore: Nero
-- HOTPOINT ARISTON INDESIT - FILTRO LAVASTOVIGLIE COMPLETO C00256571 + C00256572
+- Tipo di prodotto: DISHWASHER
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07BJMVY78{{</world>}}

@@ -28,8 +28,8 @@ average: '15.135'
 
 ℹ️:
 
-- Prodotto di ottima fattura
 - Lunga durata
+- Prodotto di ottima fattura
 - Maglietta a maniche corte
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

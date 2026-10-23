@@ -28,8 +28,8 @@ average: '6.5'
 
 ℹ️:
 
-- Tessuto idrorepellente
 - EK02Y, 2 anni
+- Tessuto idrorepellente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F62XJX9Y{{</world>}}

@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - 100% cotone
 - Vestibilità regolare
-- Spalle leggermente basse
 - Girocollo a coste
+- Spalle leggermente basse
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZXVSSYN{{</world>}}

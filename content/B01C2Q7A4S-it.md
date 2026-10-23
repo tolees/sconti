@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Protezione bimbi sicuri; prese sicure con otturatore che impedisce contatti accidentali con le parti in tensione grazie al dispositivo sicury
-- Interruttore luminoso, per il distacco totale dei dispositivi collegati
 - Prese per collegamento elettrodomestici: 2 prese universali sicuro e 4 biprese sicury
+- Interruttore luminoso, per il distacco totale dei dispositivi collegati
+- Protezione bimbi sicuri; prese sicure con otturatore che impedisce contatti accidentali con le parti in tensione grazie al dispositivo sicury
 - Istruzioni e tutorial su faidate.vimar.com
 - Possibilità di fissaggio con chiodo, vite o fascette
 

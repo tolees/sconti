@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- 2 pettini regolabili (3-42mm)
+- 3 anni di garanzia
 - Motore Pro Power
 - Fino a 40 minuti di autonomia
 - Lame in acciaio inox autoaffilanti
-- 2 pettini regolabili (3-42mm)
-- 3 anni di garanzia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00ECBKXZU{{</world>}}

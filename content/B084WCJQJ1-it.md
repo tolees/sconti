@@ -28,8 +28,8 @@ average: '17.7566666666667'
 
 ℹ️:
 
-- È compatibile solo con le fotocamere Polaroid Now e NOW+.
 - Pellicola a colori i-Type Black Frame Edition - 8 foto
+- È compatibile solo con le fotocamere Polaroid Now e NOW+.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B084WCJQJ1{{</world>}}

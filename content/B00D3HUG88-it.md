@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Saugella Poligyn Detergente Intimo Ad Azione Emolliente E Lenitiva Contro Fastidi E Pruriti Intimi - 500 Ml'
-date: 2026-09-26 13:29:26
+date: 2026-10-23 12:23:37
 image: 'https://m.media-amazon.com/images/I/31Lcdt6BsrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B00D3HUG88-it Saugella Poligyn Detergente Intimo Ad Azione Emolliente E...'
 sku: 'B00D3HUG88-it'
 tags: [ '🇮🇹', ]
-actualPrice: 10.71 EUR
+actualPrice: 10.69 EUR
 currency: EUR
-price: 10.71
+price: 10.69
 comparePrice: 18.4 EUR
 prodname: 'Saugella Poligyn Detergente Intimo Ad Azione Emolliente E Lenitiva Contro Fastidi E Pruriti Intimi - 500 Ml'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B00D3HUG88/?tag=tolees00-21'
-descuento: '41.79'
-average: '10.8166666666667'
+descuento: '41.90'
+average: '10.8017647058824'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony PlayStation®5 - DualSense™ Wireless Controller White'
-date: 2026-10-18 08:00:37
+date: 2026-10-22 16:36:02
 image: 'https://m.media-amazon.com/images/I/31BdzR4ALjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,15 +28,15 @@ average: '69.3273333333334'
 
 ℹ️:
 
-- Il controller wireless DualSense per PlayStation 5 può essere utilizzato per giocare ai giochi PlayStation su PC(1) con una connessione cablata. Il supporto per le funzionalità specifiche di DualSense e una connessione wireless varia in base al titolo
-- Sensore di movimento: laccelerometro e il giroscopio integrati forniscono un controllo intuitivo del movimento nei giochi supportati
-- Il controller wireless DualSense per PlayStation 5 non è compatibile con la console PlayStation 4
-- Crea Taste: registra e condividi i tuoi momenti di gioco particolarmente epici con Create Taste3. Basandosi sul successo dellinnovativo pulsante SHARE, il pulsante Crea offre ai giocatori nuovi modi per creare contenuti di gioco e trasmettere le proprie avventure in diretta al mondo
-- Prendi il controllo con un design bicolore evoluto che combina un layout iconico e intuitivo con stick migliorati e una barra luminosa ridisegnata
 - Scopri unesperienza di gioco più coinvolgente e coinvolgente che dà vita allazione nelle tue mani. Il controller wireless DualSense offre feedback tattile coinvolgente, trigger adattivi dinamici e un microfono integrato, il tutto in un design iconico e confortevole
+- Prendi il controllo con un design bicolore evoluto che combina un layout iconico e intuitivo con stick migliorati e una barra luminosa ridisegnata
+- Il controller wireless DualSense per PlayStation 5 non è compatibile con la console PlayStation 4
+- Il controller wireless DualSense per PlayStation 5 può essere utilizzato per giocare ai giochi PlayStation su PC(1) con una connessione cablata. Il supporto per le funzionalità specifiche di DualSense e una connessione wireless varia in base al titolo
 - Trigger adattivi: sperimenta diversi livelli di forza e tensione mentre interagisci con il tuo equipaggiamento e gli ambienti di gioco. Dal tendere una corda sempre più tesa allazionare i freni su unauto in corsa, ti senti così fisicamente connesso alle tue azioni sullo schermo
-- Feedback tattile: grazie ai doppi azionamenti che sostituiscono i tradizionali motori a vibrazione, puoi sentire direttamente il feedback tattile dalle tue azioni nel gioco. Nelle tue mani, queste vibrazioni dinamiche simulano una varietà di sensazioni, dagli ambienti al rinculo di varie armi.
 - Microfono integrato e jack per cuffie: chatta con gli amici online parlando direttamente nel microfono integrato o collegando le cuffie al jack da 3,5 mm. Attiva e disattiva lacquisizione vocale in modo semplice e immediato con un pulsante di disattivazione audio dedicato
+- Feedback tattile: grazie ai doppi azionamenti che sostituiscono i tradizionali motori a vibrazione, puoi sentire direttamente il feedback tattile dalle tue azioni nel gioco. Nelle tue mani, queste vibrazioni dinamiche simulano una varietà di sensazioni, dagli ambienti al rinculo di varie armi.
+- Crea Taste: registra e condividi i tuoi momenti di gioco particolarmente epici con Create Taste3. Basandosi sul successo dellinnovativo pulsante SHARE, il pulsante Crea offre ai giocatori nuovi modi per creare contenuti di gioco e trasmettere le proprie avventure in diretta al mondo
+- Sensore di movimento: laccelerometro e il giroscopio integrati forniscono un controllo intuitivo del movimento nei giochi supportati
 - È inoltre possibile caricare il controller collegando il cavo USB a un computer o a un altro dispositivo USB. Utilizzare un cavo USB conforme allo standard USB. Alcuni dispositivi potrebbero non caricare il controller
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

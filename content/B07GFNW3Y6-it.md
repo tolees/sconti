@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Confezione da 150g
 - La tavoletta di cioccolato fondente extra PERUGINA GranBlocco 50% è ideale per torte, glasse, mousse e tante altre preparazioni dal gusto irresistibile
+- PERUGINA GranBlocco non contiene glutine
 - Gusto intenso e avvolgente perfetto per rendere uniche tutte le tue creazioni
 - PERUGINA GranBlocco, blocco di cioccolato fondente extra con il 50% di cacao
-- PERUGINA GranBlocco non contiene glutine
-- Confezione da 150g
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07GFNW3Y6{{</world>}}

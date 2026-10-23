@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gritin 19 LED Luce per Lettura Libri a Letto Ricaricabile con Clip | 3 Temperature di Colore per Gli Occhi Dimmerabile Senza Livelli Lunga Durata Ideal per Studio Lavoro a Maglia'
-date: 2026-10-18 17:22:34
+date: 2026-10-22 18:29:29
 image: 'https://m.media-amazon.com/images/I/41Vqo--3yGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

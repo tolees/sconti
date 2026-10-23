@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Maglietta
 - 100% cotone Better Source
+- Maglietta
 - Scollo rotondo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

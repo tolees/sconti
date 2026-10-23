@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Con le note di sandalo, cedro, bergamotto, semi di cardamomo e mandarino, per una fragranza rinfrescante e inconfondibile
-- Contiene il detergente King C. Gillette 3in1 Barba, Viso e Capelli, Balsamo per Barba, Siero Volumizzante e Crema Idratante Barba e Viso
 - Un Kit regalo per gli uomi che vogliono prendersi veramente cura della loro barba
+- Contiene il detergente King C. Gillette 3in1 Barba, Viso e Capelli, Balsamo per Barba, Siero Volumizzante e Crema Idratante Barba e Viso
 - Kit regalo Cura Barba perfetto per i peli corti e lunghi del viso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Lunghezza 53 cm
-- Braccio con frizione variabile
-- Adatto per Super Clamp 035
 - Manopola ergonomica di bloccaggio
+- Braccio con frizione variabile
+- Lunghezza 53 cm
 - Carico utile 3 Kg
+- Adatto per Super Clamp 035
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000J4FONU{{</world>}}

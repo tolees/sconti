@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Robusto design rotondo senza tempo con cerniere a molla.
-- Forza +1,00.
-- Viola opaco liscio finitura.
 - Facile da pulire. Resistente ai graffi. Vestibilità comoda.
+- Viola opaco liscio finitura.
+- Forza +1,00.
 - Due coppie di leggero taglia piccola uomo / donna / unisex occhiali da lettura.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

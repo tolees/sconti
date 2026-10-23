@@ -28,8 +28,8 @@ average: '53.38'
 
 ℹ️:
 
-- Tomaia traforata in materiale sintetico liscio "Durabuck"
 - Skechers Soletta imbottita in memory foam raffreddata ad aria
+- Tomaia traforata in materiale sintetico liscio "Durabuck"
 - Classica sneaker alla moda con lacci
 - Suola flessibile di trazione
 

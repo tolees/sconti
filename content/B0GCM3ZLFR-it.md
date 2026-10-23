@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Caricatore USB C Caricabatterie per iPhone 17 16 15 Pro Max Samsung S26 S25 S24 Ultra Cellulare Pixel Caricatore iPhone Presa Spina USBC Alimentatore con Cavo USB C da 2M Ricarica Rapida'
-date: 2026-10-17 17:23:10
+date: 2026-10-22 06:55:45
 image: 'https://m.media-amazon.com/images/I/31cUL8O0WdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0GCM3ZLFR/?tag=tolees00-21'
 descuento: '25.44'
-average: '9.78'
+average: '9.57'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

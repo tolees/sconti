@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ALPRO DESSERT al gusto CIOCCOLATO - 6 confezioni da 4x125 g'
-date: 2026-10-21 05:41:10
+date: 2026-10-22 10:32:52
 image: 'https://m.media-amazon.com/images/I/41n+pqgy6cL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B09Z6DFJHZ/?tag=tolees00-21'
 descuento: '42.39'
-average: '9.28249999999999'
+average: '9.43777777777777'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

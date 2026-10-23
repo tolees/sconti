@@ -29,9 +29,9 @@ average: '2.17'
 ℹ️:
 
 - BLANX: I prodotti BlanX, non abrasivi, antibatterici e formulati per ottenere una pulizia profonda e uno sbiancamento naturale, sono sicuri per lintegrità dello smalto dentale.
-- LICHENI ISLANDICI, SILICI MORBIDE E SALI DI FLUORO: Per unazione antibatterica per una pulizia più profonda.
-- FINO A 3 GRADI DI BIANCO IN PIÙ*: A base di Licheni Islandici, Cenere e Lava 100% Naturali per restituire ai tuoi denti fino a 3 gradi di bianco in più*. *Test cosmetoclinico.
 - AROMA EXTRA-FRESCO: Per una sensazione di pulizia duratura.
+- FINO A 3 GRADI DI BIANCO IN PIÙ*: A base di Licheni Islandici, Cenere e Lava 100% Naturali per restituire ai tuoi denti fino a 3 gradi di bianco in più*. *Test cosmetoclinico.
+- LICHENI ISLANDICI, SILICI MORBIDE E SALI DI FLUORO: Per unazione antibatterica per una pulizia più profonda.
 - PROPRIETÀ PURIFICANTI E ASSORBENTI: La Cenere, Lava Vulcanica e il Carbone 100% Naturali completano la formula, fornendo unazione sbiancante potenziata.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

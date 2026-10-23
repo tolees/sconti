@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Set cottura con fondo in acciaio perfetto per il piano a induzione. Cotture rapide e uniformi e senza grassi aggiunti, grazie al rivestimento a 5 strati antiaderente e ai corpi in alluminio degli elementi. Adatto anche in forno fino a 180 °C.
 - Dimensioni prodotto: L. 50.50 cm x H. 22.50 cm x P. 41.20 cm
-- Materiale: Alluminio
 - Colore: Grigio
+- Materiale: Alluminio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DKJ2LZ6S{{</world>}}

@@ -28,9 +28,9 @@ average: '4.966'
 
 ℹ️:
 
-- PER TUTTI I TIPI DI PERDITE: protezione per tutti i tipi di perdite. Disegnato per una maxi assorbenza.
 - ZERO ODORE: la tecnoligia Zero Odore aiuta a sentirti sicura in ogni occasione
 - CUORE SUPER ASSORBENTE: i proteggislip della gamma Lines Intervallo Lady bloccano il liquido in profondità grazie ad un cuore super assorbente. E grazie alle morbide barriere laterali protegge dalle fuoriuscite
+- PER TUTTI I TIPI DI PERDITE: protezione per tutti i tipi di perdite. Disegnato per una maxi assorbenza.
 - FILTRANTE IPOALLERGENICO: garantisce un contatto morbido e delicato con la pelle. Dermatologicamente testato
 - RISPETTA LA PELLE: la tecnologia 100% traspirante ed il filtrante ipoallergenico sono studiati per ridurre il rischio di allergie e garantiscono il rispetto del naturale equilibrio della pelle.
 

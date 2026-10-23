@@ -1,24 +1,24 @@
 ---
 layout: post
 title: 'equilibra Integratori Alimentari Propoli Spray Integratore a Base di Propoli Erisimo e Aloe Vera per il Benessere della Gola Azione Emolliente e Lenitiva Flacone Spray 20 ml'
-date: 2026-06-30 12:38:59
-image: 'https://m.media-amazon.com/images/I/4176zvsXB0L._SL500_._SL400_.jpg'
+date: 2026-10-23 09:03:40
+image: 'https://m.media-amazon.com/images/I/41P7FdAaYYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B0168S5FVQ-it equilibra Integratori Alimentari Propoli Spray Integratore...'
 sku: 'B0168S5FVQ-it'
 tags: [ '🇮🇹', ]
-actualPrice: 4.31 EUR
+actualPrice: 4.92 EUR
 currency: EUR
-price: 4.31
+price: 4.92
 comparePrice: 8.29 EUR
 prodname: 'equilibra Integratori Alimentari Propoli Spray Integratore a Base di Propoli Erisimo e Aloe Vera per il Benessere della Gola Azione Emolliente e Lenitiva Flacone Spray 20 ml'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0168S5FVQ/?tag=tolees00-21'
-descuento: '48.01'
+descuento: '40.65'
 average: '4.92'
 ---
 
@@ -28,11 +28,6 @@ average: '4.92'
 
 ℹ️:
 
-- PER UN DOSAGGIO FUNZIONALE: Il formato spray permette la massima praticità e favorisce un dosaggio funzionale nelle differenti occasioni
-- CARATTERISTICHE: Lintegratore contiene anche Aloe, che favorisce il benessere della gola
-- PER UNAZIONE EMOLLIENTE E LENITIVA SULLA MUCOSA OROFARINGEA: Integratore alimentare a base di propoli e erisimo, conosciuta come "lerba dei cantanti"
-- EQUILIBRA: Da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto dellequilibrio tra rispetto, efficacia, benessere e bellezza
-- DA ASSUMERE AL BISOGNO: Si consigliano fino a 12 nebulizzazioni al giorno. Agitare il flacone prima delluso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0168S5FVQ{{</world>}}

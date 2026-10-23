@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Caramelle gommose a forma di coccodrillo e al gusto frutta
-- Disponibili in un barattolo da 200 pezzi
 - Può contenere tracce di frumento, latte
+- Caramelle gommose a forma di coccodrillo e al gusto frutta
 - Conservare al riparo da fonti di calore ed umidità
+- Disponibili in un barattolo da 200 pezzi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B018UFXSBY{{</world>}}

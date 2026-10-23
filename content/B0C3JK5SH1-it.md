@@ -28,10 +28,10 @@ average: '24.5'
 
 ℹ️:
 
-- Tomaia in pelle
-- Fodera in tessuto
 - Calzata regolare
+- Tomaia in pelle
 - Intersuola ammortizzata
+- Fodera in tessuto
 - Chiusura con lacci
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

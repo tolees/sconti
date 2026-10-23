@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Lunghezza: Regolare
-- Maniche lunghe
-- Modello con cappuccio
 - Vestibilità: Regolare
+- Lunghezza: Regolare
+- Modello con cappuccio
+- Maniche lunghe
 - Materiale principale 2: Distanziatore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

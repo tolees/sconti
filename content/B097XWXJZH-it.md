@@ -29,10 +29,10 @@ average: '6.5'
 ℹ️:
 
 - Multipresa serie Emilia
-- con interruttore luminoso
-- design compatto, elegante, doppia colorazione bianco / grigio che le rende uniche
-- 1,5mt cavo con spina grande 16A
 - 1 presa schuko biv. + 2 prese bivalenti
+- design compatto, elegante, doppia colorazione bianco / grigio che le rende uniche
+- con interruttore luminoso
+- 1,5mt cavo con spina grande 16A
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B097XWXJZH{{</world>}}

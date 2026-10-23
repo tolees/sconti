@@ -28,13 +28,13 @@ average: '19.9'
 
 ℹ️:
 
-- 2 rulli inox per grattugiare: - rullo grana fine per formaggio, pane duro, frutta secca e cioccolato fondente - rullo grana grossa per formaggi teneri o grattugiato grosso
-- Potenza: 12 W
-- Dimensioni (mm): 245 x 120 x 105
-- Kit di ricarica con batteria, adattatore e base di ricarica
 - Caricabatteria: in ac 230 v 50 Hz, out dc 5 v - 300 ma
 - Premi alimenti in materiale plastico
+- Dimensioni (mm): 245 x 120 x 105
+- Kit di ricarica con batteria, adattatore e base di ricarica
 - Impugnatura ergonomica
+- Potenza: 12 W
+- 2 rulli inox per grattugiare: - rullo grana fine per formaggio, pane duro, frutta secca e cioccolato fondente - rullo grana grossa per formaggi teneri o grattugiato grosso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B084XQY1J3{{</world>}}

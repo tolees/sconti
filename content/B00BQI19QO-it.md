@@ -28,11 +28,11 @@ average: '29.15'
 
 ℹ️:
 
-- Tagli a croce per facilitare il serraggio di tubi rotondi
-- Morsetto a vite ad alte prestazioni PIHER Maxipress F con una forza di serraggio fino a 9000 N
-- Altezza massima di serraggio: 50 cm, sporgenza: 12 cm
 - Il piatto non si gira quando la maniglia viene ruotata, non scivola allultima rotazione
+- Altezza massima di serraggio: 50 cm, sporgenza: 12 cm
+- Morsetto a vite ad alte prestazioni PIHER Maxipress F con una forza di serraggio fino a 9000 N
 - Il freno impedisce lo scivolamento indesiderato
+- Tagli a croce per facilitare il serraggio di tubi rotondi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00BQI19QO{{</world>}}

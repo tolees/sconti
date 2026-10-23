@@ -29,8 +29,8 @@ average: '51.5'
 ℹ️:
 
 - Il capolavoro italiano amato dai giocatori di tutto il mondo in una nuova e completa versione multilingue; gioco base 4 carte promo famiglie di espansione del rinascimento espansione della congiura dei locos
-- Numero di giocatori: 2-5 | Età consigliata: 14+ | Durata media: 90 min | Edizione Multilingua
 - Gestisci famiglie, conquista territori, recluta leader e sfida l’influenza della Chiesa.
+- Numero di giocatori: 2-5 | Età consigliata: 14+ | Durata media: 90 min | Edizione Multilingua
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08NZYRLF1{{</world>}}

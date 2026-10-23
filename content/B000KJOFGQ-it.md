@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Interruttore di sicurezza on/off illuminato, bipolare
 - Protegge apparecchi elettrici di valore dalla sovratensione fino a 13.500 A
-- Con spia di controllo del funzionamento
 - Prese con elevata protezione da contatto e pratica disposizione a 45°
+- Con spia di controllo del funzionamento
+- Interruttore di sicurezza on/off illuminato, bipolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000KJOFGQ{{</world>}}

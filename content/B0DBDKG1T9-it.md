@@ -30,8 +30,8 @@ average: '28.07'
 
 - Tomaia in suede
 - Chiusura in pizzo
-- Vestibilità regolare
 - Fodera in tessuto
+- Vestibilità regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DBDKG1T9{{</world>}}

@@ -28,8 +28,8 @@ average: '41.99'
 
 ℹ️:
 
-- Arch Fit
 - Vegano
+- Arch Fit
 - Lavabile in lavatrice
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

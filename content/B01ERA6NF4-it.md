@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'THE HEAT COMPANY Scaldamani - 10 paia - EXTRA CALDO - Cuscini termici - 12 ore mani calde - pronti all uso - autoriscaldante - puro naturale'
-date: 2026-10-19 09:04:37
+date: 2026-10-23 11:21:32
 image: 'https://m.media-amazon.com/images/I/51wUbZEe4mL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

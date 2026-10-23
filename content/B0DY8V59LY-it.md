@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'dreame L40s Pro Ultra Robot Aspirapolvere Lavapavimenti Aspiraz. 19.000 Pa | Spazzola Anti-Grov. DuoBrush HyperStream Mocio Estendibile Evita 180+ Oggetti Supera Ostac. 4 cm Auto-Pulizia Mocio 75 °C'
-date: 2026-10-17 18:58:16
+date: 2026-10-22 19:08:13
 image: 'https://m.media-amazon.com/images/I/31KHizUylzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0DY8V59LY/?tag=tolees00-21'
 descuento: '35.77'
-average: '536.559117647062'
+average: '534.057428571431'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

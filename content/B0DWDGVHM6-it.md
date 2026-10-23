@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Super Mario Game Boy 72046 | Set per adulti kit di modellismo Nintendo da collezione con 2 cartucce e schermi lenticolari regalo per gamer 421 pezzi'
-date: 2026-10-21 16:15:51
+date: 2026-10-22 21:42:08
 image: 'https://m.media-amazon.com/images/I/41VMo1s7cBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0DWDGVHM6-it LEGO Super Mario Game Boy 72046 | Set per adulti kit di...'
 sku: 'B0DWDGVHM6-it'
 tags: [ '🇮🇹', ]
-actualPrice: 47.92 EUR
+actualPrice: 44.99 EUR
 currency: EUR
-price: 47.92
+price: 44.99
 comparePrice: 59.99 EUR
 prodname: 'LEGO Super Mario Game Boy 72046 | Set per adulti kit di modellismo Nintendo da collezione con 2 cartucce e schermi lenticolari regalo per gamer 421 pezzi'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0DWDGVHM6/?tag=tolees00-21'
-descuento: '20.12'
-average: '49.6426666666666'
+descuento: '25.00'
+average: '49.5415217391304'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

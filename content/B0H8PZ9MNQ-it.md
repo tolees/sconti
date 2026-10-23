@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tapis Roulant 5 in 1 Tapis Roulant Salvaspazio Elettrico con 12 Programmi HIIT Predefiniti e 10% Inclinazione 12KM/H Motore Silenzioso 2 75 CV APP/Telecomando 158 kg Casa/Ufficio'
-date: 2026-10-17 19:42:04
+date: 2026-10-22 10:22:00
 image: 'https://m.media-amazon.com/images/I/4153YzWy5NL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -29,9 +29,9 @@ average: '6.82'
 ℹ️:
 
 - Integratore alimentare
-- Ripetere loperazione 3-4 volte al giorno
-- Si consiglia di nebulizzare nel cavo orale premendo due volte lerogatore
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
+- Si consiglia di nebulizzare nel cavo orale premendo due volte lerogatore
+- Ripetere loperazione 3-4 volte al giorno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DDQ79ZVK{{</world>}}

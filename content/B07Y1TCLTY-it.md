@@ -28,12 +28,12 @@ average: '14.0'
 
 ℹ️:
 
-- Massaggio ad articolazioni, nuca, e schiena
-- E’ una pianta appartenente alla famiglia delle Asteraceae.
 - L’ Arnica Montana è uno tra i più utilizzati rimedi naturali.
-- È utile per ridonare benessere in caso di dolori muscolari.
-- Prodotto Cosmetico ad uso umano
+- E’ una pianta appartenente alla famiglia delle Asteraceae.
 - Ridona immediato sollievo e benessere
+- Prodotto Cosmetico ad uso umano
+- È utile per ridonare benessere in caso di dolori muscolari.
+- Massaggio ad articolazioni, nuca, e schiena
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07Y1TCLTY{{</world>}}

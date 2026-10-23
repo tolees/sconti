@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Prodotto realizzato con materiali di alta qualità
 - Marca: Bburago
-- Modellino in metallo da collezione
-- Riproduzione realistica
 - Scala 1:24
+- Riproduzione realistica
+- Prodotto realizzato con materiali di alta qualità
+- Modellino in metallo da collezione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07956DJZZ{{</world>}}

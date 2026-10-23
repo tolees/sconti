@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - ZERO ZUCCHERI: il gusto originale della madeleine, ma con 0 zuccheri, pensato da Céréal per ridurre leccessivo consumo dello zucchero quotidiano
-- Céréal BuoniSenza: non solo senza glutine, ma tanti "senza" in un solo prodotto per affrontare con gusto le tue intolleranze o allergie
 - MANDORLE, CHE BONTA: una golosa variante delloriginale ricetta francese, per una colazione come a Parigi o per una merenda come a Palermo
+- Céréal BuoniSenza: non solo senza glutine, ma tanti "senza" in un solo prodotto per affrontare con gusto le tue intolleranze o allergie
 - SENZA GLUTINE: prodotto con la massima cura e specificamente formulato per persone intolleranti al glutine
 - SENZA LATTE: Céréal ha pensato a te che sei allergico alle proteine del latte
 

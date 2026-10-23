@@ -28,11 +28,11 @@ average: '6.99'
 
 ℹ️:
 
-- Taglia 2XL/3XL
-- Un prodotto sportivo esclusivo e originale della la marca Joma
 - Realizzato in tessuto di ottima qualità, leggero morbido e confortevole
-- Colore nero
+- Un prodotto sportivo esclusivo e originale della la marca Joma
+- Taglia 2XL/3XL
 - Tipo di sport: calcio
+- Colore nero
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00LBUZU3K{{</world>}}

@@ -28,16 +28,16 @@ average: '17.4185714285714'
 
 ℹ️:
 
-- White Tunable - Regola la temperatura del colore da 2.200 K a 6.500 K in base alle tue mutevoli esigenze.
-- Telecomando: accendi/spegni istantaneamente i riflettori ovunque ti trovi tramite lapp Tapo
+- Base della lampada GU10 - Compatibile con qualsiasi apparecchio GU10 Nessun onere aggiuntivo per il primo tentativo.
+- Controllo vocale: gestisci i tuoi faretti intelligenti con i comandi vocali tramite Amazon Alexa o Google Assistant.
 - Alto lumen e dimmerabile: emette una luce di 350 lm abbastanza luminosa da illuminare qualsiasi oggetto e può essere attenuata dall1% al 100%.
 - Raggruppamento: controlla tutti i Tapo Smart Spotlight con un solo clic sullapp.
-- 16 milioni di colori: modella latmosfera straordinaria scegliendo le luci da unampia gamma di colori, anche attenuandole a qualsiasi luminosità desideri per latmosfera perfetta.
 - Risparmio energetico - Riduci il consumo di energia operando a risparmio energetico, senza perdere luminosità o qualità.
-- Controllo vocale: gestisci i tuoi faretti intelligenti con i comandi vocali tramite Amazon Alexa o Google Assistant.
-- Timer: crea elenchi di timer per il conto alla rovescia per un controllo del tempo più preciso
-- Base della lampada GU10 - Compatibile con qualsiasi apparecchio GU10 Nessun onere aggiuntivo per il primo tentativo.
+- Telecomando: accendi/spegni istantaneamente i riflettori ovunque ti trovi tramite lapp Tapo
+- 16 milioni di colori: modella latmosfera straordinaria scegliendo le luci da unampia gamma di colori, anche attenuandole a qualsiasi luminosità desideri per latmosfera perfetta.
 - Pianificazione: preimposta una pianificazione fissa per gestire automaticamente i tuoi dispositivi intelligenti
+- Timer: crea elenchi di timer per il conto alla rovescia per un controllo del tempo più preciso
+- White Tunable - Regola la temperatura del colore da 2.200 K a 6.500 K in base alle tue mutevoli esigenze.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BG6DQRL9{{</world>}}

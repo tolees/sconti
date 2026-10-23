@@ -28,11 +28,11 @@ average: '43.2'
 
 ℹ️:
 
+- Calzata regolare
 - Fodera in tessuto
+- Tomaia in pelle
 - Chiusura con lacci
 - Suola in gomma
-- Calzata regolare
-- Tomaia in pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CXGDTTM9{{</world>}}

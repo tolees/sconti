@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Colore: nero
 - Lunghezza del cavo: 3 m
 - Prese Schuko
-- Tipo di dispositivo: ciabatta multipresa
 - Quality and precision at your fingertips
+- Colore: nero
+- Tipo di dispositivo: ciabatta multipresa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00HQ51KX8{{</world>}}

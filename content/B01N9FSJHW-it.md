@@ -28,12 +28,12 @@ average: '8.99'
 
 ℹ️:
 
-- profondità di installazione senza nastro di 123 mm
-- sistema di tapparelle Maxi, 5 interassi
 - Il pacchetto può variare
-- avvolgitore robusto per tapparelle fino a 2,50 m di altezza
-- estensibile individualmente con la piastra di copertura Schellenberg disponibile separatamente
 - max. 6,0 m di lunghezza del nastro e 23 mm di larghezza
+- profondità di installazione senza nastro di 123 mm
+- estensibile individualmente con la piastra di copertura Schellenberg disponibile separatamente
+- avvolgitore robusto per tapparelle fino a 2,50 m di altezza
+- sistema di tapparelle Maxi, 5 interassi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01N9FSJHW{{</world>}}

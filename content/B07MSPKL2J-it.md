@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Robusto attrezzo di demolizione in acciaio temperato di qualità con rivestimento resistente alla corrosione, Adatto per diversi lavori di demolizione
-- Scalpello e leva per una facile rimozione delle piastrelle, Bordo di frantumazione per massimizzare la forza dimpatto, Utilizzabili anche in spazi ristretti
-- Granchio per una facile rimozione dei chiodi, Testa di battuta, Estremità curva e raddrizzatore per riutilizzare e raddrizzare le tavole
 - Contenuto: 1x Fiskars Attrezzo di demolizione IsoCore L, Lunghezza: 75,3 cm, Peso: 2,6 kg, Materiale: Acciaio temperato/Plastica rinforzata con fibra di vetro, Colore: Nero/Arancione, 1027221
+- Granchio per una facile rimozione dei chiodi, Testa di battuta, Estremità curva e raddrizzatore per riutilizzare e raddrizzare le tavole
+- Scalpello e leva per una facile rimozione delle piastrelle, Bordo di frantumazione per massimizzare la forza dimpatto, Utilizzabili anche in spazi ristretti
+- Robusto attrezzo di demolizione in acciaio temperato di qualità con rivestimento resistente alla corrosione, Adatto per diversi lavori di demolizione
 - Manico ergonomico e antiscivolo, Tecnologia IsoCore brevettata per una riduzione delle vibrazione fino al 30%, Riduce laffaticamento muscolare e il dolore alle articolazioni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

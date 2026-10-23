@@ -28,9 +28,9 @@ average: '17.49'
 
 ℹ️:
 
-- Tasca sul petto a sinistra
-- Girocollo a costine
 - Manica corta
+- Girocollo a costine
+- Tasca sul petto a sinistra
 - Orlo a doppio ago
 - Vestibilità comoda
 

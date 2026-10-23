@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Vestibilità regolare
-- Lunghezza regolare
 - Girocollo
 - Maniche corte
+- Lunghezza regolare
 - Jersey semplice
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

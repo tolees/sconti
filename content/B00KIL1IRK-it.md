@@ -30,9 +30,9 @@ average: '16.6'
 
 - Predisposta per aspirazione polveri.
 - Piano vibrante. Diametro orbite 0,9mm.
-- Alimentata a filo (motore elettrico da 105W). 12.500 oscillazioni/min.
-- Impugnatura morbida per presa sicura e confortevole.
 - Formato carta 140x100mm. Fissaggio a strappo.
+- Impugnatura morbida per presa sicura e confortevole.
+- Alimentata a filo (motore elettrico da 105W). 12.500 oscillazioni/min.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00KIL1IRK{{</world>}}

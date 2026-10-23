@@ -28,9 +28,9 @@ average: '8.9'
 
 ℹ️:
 
+- Possibilità di sovrapporre ed agganciare fino a 3 unità
 - Possibilità unica in un organizzatore di ottenere spazi a 90°
 - Speciale struttura del coperchio trasparente con scanalature ad incastro dei divisori centrali
-- Possibilità di sovrapporre ed agganciare fino a 3 unità
 - Nessun rischio di mischiare il contenuto
 - Divisori removibili per la massima personalizzazione degli spazi interni
 

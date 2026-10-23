@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Prodotto concentrato
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
 - Protegge dalle screpolature
-- Prodotto concentrato
-- LUCIDA SENZA UNGERE: Scic Orange 600ml è un lucidante e ravvivante spray per cruscotti con effetto medio lucido in grado di lucidare le plastiche auto senza creare leffetto unto e senza provocare fastidiosi riflessi nel parabrezza durante la guida
 - Adatto per ogni genere di cruscotto
 - EFFETTO ANTISTATICO: Scic Orange 600ml combatte il problema dell’accumulo di polvere sul cruscotto, grazie al suo effetto antistatico previene il formarsi della polvere
+- LUCIDA SENZA UNGERE: Scic Orange 600ml è un lucidante e ravvivante spray per cruscotti con effetto medio lucido in grado di lucidare le plastiche auto senza creare leffetto unto e senza provocare fastidiosi riflessi nel parabrezza durante la guida
 - Elevato potere antistatico
 - MODI E CONSIGLI DUSO: spruzzare uniformemente Scic Orange 600ml a piccole dosi da una distanza di circa 20/25cm. Stendere il prodotto in modo uniforme con un panno in microfibra asciutto e pulito. Rifinire il trattamento con un secondo panno pulito.
 - CONTENUTO: a casa riceverai una bomboletta da 600ml di Scic Orange Mafra, Rinnova e Protegge Cruscotti e Plastiche con Effetto Medio Lucido ed Effetto Antistatico

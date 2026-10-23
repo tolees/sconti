@@ -29,11 +29,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Zip integrale e cappuccio
-- Giacca con vestibilità regolare e pantaloni con vestibilità aderente
-- Giacca: Polsini e orli a coste
-- Tasche lungo le cuciture laterali
 - 100% poliestere (riciclato)
 - Giacca: Polsini e orli a coste
+- Giacca: Polsini e orli a coste
+- Tasche lungo le cuciture laterali
+- Giacca con vestibilità regolare e pantaloni con vestibilità aderente
 - Pantaloni: Girovita elasticizzato con cordino
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

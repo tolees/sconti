@@ -28,10 +28,10 @@ average: '3.0'
 
 ℹ️:
 
-- Senza parabeni e senza SLS
-- Cura delle mani approvata dalla Vegan Society e cruelty free
-- Con aloe vera miscelata con oli essenziali di ylang ylang e patchouli, questa saponetta aiuta a rimuovere efficacemente sporco e batteri senza seccare la pelle
 - Confezionata senza plastica, l’intera linea "Zero Waste" è realizzata con cartone completamente riciclato e riciclabile
+- Con aloe vera miscelata con oli essenziali di ylang ylang e patchouli, questa saponetta aiuta a rimuovere efficacemente sporco e batteri senza seccare la pelle
+- Cura delle mani approvata dalla Vegan Society e cruelty free
+- Senza parabeni e senza SLS
 - Ingredienti di origine naturale al 99% e fragranza 100% naturale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

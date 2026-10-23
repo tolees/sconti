@@ -28,8 +28,8 @@ average: '4.1'
 
 ℹ️:
 
-- Adesivo universale a contatto con eccezionale forza di adesione a base di neoprene, perfetto per molteplici lavori di riparazione e fai-da-te in cui è richiesto un incollaggio i mmediato, resistente allumidità e al congelamento; resistente a temperature comprese fra -40°c e +70°C, ottimo per lincollaggio di laminati, ideale per materiali soggetti a tensione
 - Nome del brand: Bostik
+- Adesivo universale a contatto con eccezionale forza di adesione a base di neoprene, perfetto per molteplici lavori di riparazione e fai-da-te in cui è richiesto un incollaggio i mmediato, resistente allumidità e al congelamento; resistente a temperature comprese fra -40°c e +70°C, ottimo per lincollaggio di laminati, ideale per materiali soggetti a tensione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0089CG9SS{{</world>}}

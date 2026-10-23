@@ -28,11 +28,11 @@ average: '14.6566666666667'
 
 ℹ️:
 
+- Gli Obiettivi comprendono 20 Obiettivi principiante, 30 Obiettivi standard e 6 Aiuti: completa 20 obiettivi per vincere!
+- Completa la sfida e prendi la carta per guadagnare un punto: è semplicissimo ottenere un punteggio!
 - …oppure gira il tabellone a due facce e prova Scrabble Parole di Squadra, appositamente progettato per un gioco cooperativo più semplice e veloce, con un punteggio semplice da ottenere!
 - In Scrabble Parole di Squadra, giochi in squadra per completare 50 Obiettivi che insegnano le basi di Scrabble.
 - Due giochi in uno! Gioca al classico Scrabble amato e conosciuto da tutti…
-- Gli Obiettivi comprendono 20 Obiettivi principiante, 30 Obiettivi standard e 6 Aiuti: completa 20 obiettivi per vincere!
-- Completa la sfida e prendi la carta per guadagnare un punto: è semplicissimo ottenere un punteggio!
 - Pesca una carta e scopri le sfide, come Gioca una parola di cinque lettere.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Slip-in
 - Memory Foam
-- Lavabile in lavatrice
 - Ultra Go
 - Memory foam raffreddato ad aria
+- Lavabile in lavatrice
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DQ9L728F{{</world>}}

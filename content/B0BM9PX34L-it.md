@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Fits ATX cases with bridgeless expansion slot covers (no bars between slots)
 - Places the GPU away from the side panel
-- Mounts easily with included captive thumbscrews
 - Supports full-length GPUs with any number of slot brackets and coolers of any size
+- Fits ATX cases with bridgeless expansion slot covers (no bars between slots)
+- Mounts easily with included captive thumbscrews
 - PCIe Gen 4.0 x 16 Riser cable
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

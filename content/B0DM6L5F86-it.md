@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Disponibile originariamente su console Wii U nel 2015, questo gioco di ruolo dazione arriva su Nintendo Switch con grafica migliorata, nuovi sviluppi della storia e altro ancora
 - Disponibile per Nintendo Switch Oled, Nintendo Switch e Nintendo Switch Lite.
+- Disponibile originariamente su console Wii U nel 2015, questo gioco di ruolo dazione arriva su Nintendo Switch con grafica migliorata, nuovi sviluppi della storia e altro ancora
 - Unisciti a una squadra online e affronta missioni specifiche per il multiplayer, comprese le difficilissime Battaglie Nemesi Universale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

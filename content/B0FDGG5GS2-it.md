@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ALPRO CLASSICO Bevanda all AVENA Naturalmente Senza Lattosio con Vitamine B2 B12 e D2-8 Confezioni da 500 ml'
-date: 2026-10-21 11:34:11
+date: 2026-10-23 12:18:51
 image: 'https://m.media-amazon.com/images/I/41PQ2ucxG6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0FDGG5GS2/?tag=tolees00-21'
 descuento: '60.13'
-average: '6.705'
+average: '6.54333333333333'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

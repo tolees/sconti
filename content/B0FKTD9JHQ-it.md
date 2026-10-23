@@ -28,10 +28,10 @@ average: '9.29'
 
 ℹ️:
 
-- Con Vitamina C, che contribuisce allassorbimento del ferro, senza zuccheri aggiunti (contiene solo gli zuccheri naturalmente presenti nella frutta)
-- Le merende NESTLÉ MIO 100% Frutta contengono solo frutta selezionata, senza zuccheri aggiunti, contengono gli zuccheri naturalmente presenti nella frutta.
 - Senza conservanti e senza coloranti (come per legge).
 - Pratica pouch da 90ml
+- Le merende NESTLÉ MIO 100% Frutta contengono solo frutta selezionata, senza zuccheri aggiunti, contengono gli zuccheri naturalmente presenti nella frutta.
+- Con Vitamina C, che contribuisce allassorbimento del ferro, senza zuccheri aggiunti (contiene solo gli zuccheri naturalmente presenti nella frutta)
 - Le merende NESTLÉ MIO 100% Frutta contengono solo frutta selezionata, senza zuccheri aggiunti. Contengono gli zuccheri naturalmente presenti nella frutta.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

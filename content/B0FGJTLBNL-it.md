@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 100% cotone
-- Colore: grigio
 - Collezione primavera-estate
 - Felpa collezione donna
+- 100% cotone
 - Fatto in: India
+- Colore: grigio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FGJTLBNL{{</world>}}

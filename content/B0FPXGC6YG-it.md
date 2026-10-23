@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Pokémon Pikachu e Poké Ball 72152 | Set per adulti kit di modellismo fai da te tratto dall anime figura snodabile ed espositore regalo per gamer 2050 pezzi'
-date: 2026-10-20 14:06:44
+date: 2026-10-22 10:07:44
 image: 'https://m.media-amazon.com/images/I/51Abu6QA+YL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0FPXGC6YG-it LEGO Pokémon Pikachu e Poké Ball 72152 | Set per adulti...'
 sku: 'B0FPXGC6YG-it'
 tags: [ '🇮🇹', ]
-actualPrice: 149.0 EUR
+actualPrice: 155.25 EUR
 currency: EUR
-price: 149.0
+price: 155.25
 comparePrice: 199.99 EUR
 prodname: 'LEGO Pokémon Pikachu e Poké Ball 72152 | Set per adulti kit di modellismo fai da te tratto dall anime figura snodabile ed espositore regalo per gamer 2050 pezzi'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0FPXGC6YG/?tag=tolees00-21'
-descuento: '25.50'
-average: '154.294285714286'
+descuento: '22.37'
+average: '154.41375'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'TP-Link TL-WR802N Nano Router Wi-Fi Portatile N300Mbps 1 Porta Lan/Wan Access Point E Modalità WISP Alimentato Tramite Porta Micro USB Ripetitore condividete l accesso Internet in viaggio'
-date: 2026-06-09 13:21:38
+title: 'TP-Link TL-WR802N Nano Router Wi-Fi N300Mbps Portatile | Alimentazione micro-USB Router AP e WISP Condivisione Internet in Viaggio Non Supporta xDSL/FTTC/FTTS'
+date: 2026-10-22 10:41:51
 image: 'https://m.media-amazon.com/images/I/11alwsWEvoS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B00TQEX8BO-it TP-Link TL-WR802N Nano Router Wi-Fi Portatile N300Mbps 1...'
+slug: 'B00TQEX8BO-it TP-Link TL-WR802N Nano Router Wi-Fi N300Mbps Portatile |...'
 sku: 'B00TQEX8BO-it'
 tags: [ '🇮🇹', ]
-actualPrice: 23.99 EUR
+actualPrice: 18.34 EUR
 currency: EUR
-price: 23.99
+price: 18.34
 comparePrice: 29.99 EUR
-prodname: 'TP-Link TL-WR802N Nano Router Wi-Fi Portatile N300Mbps 1 Porta Lan/Wan Access Point E Modalità WISP Alimentato Tramite Porta Micro USB Ripetitore condividete l accesso Internet in viaggio'
+prodname: 'TP-Link TL-WR802N Nano Router Wi-Fi N300Mbps Portatile | Alimentazione micro-USB Router AP e WISP Condivisione Internet in Viaggio Non Supporta xDSL/FTTC/FTTS'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B00TQEX8BO/?tag=tolees00-21'
-descuento: '20.01'
-average: '27.294'
+descuento: '38.85'
+average: '24.7357142857143'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,12 +28,6 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 300Mbps Wireless velocità di trasmissione dati, giusta per lo streaming video, giochi online e chiamate via Internet
-- Dimensioni compatte: ottime per uso di corsa
-- Supporta router, ripetitore, client, AP e WISP modalità operative
-- Attenzione: verifica la compatibilità di questo prodotto con altri dispositivi e con i servizi del tuo ISP
-- Alimentato da un adattatore esterno o tramite collegamento USB del PC
-- Porte: 1 porta WAN / LAN 10/100 Mbps, 1 porta micro USB
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00TQEX8BO{{</world>}}

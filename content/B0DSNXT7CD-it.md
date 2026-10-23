@@ -28,10 +28,10 @@ average: '13.99'
 
 ℹ️:
 
-- Uovo di Pasqua 2026 BACI PERUGINA al Cioccolato Fondente Extra con granella di nocciole con un messaggio speciale inciso nel cioccolato
 - Con materie prime selezionate, senza glutine
-- Contiene 4 Cioccolatini BACI PERUGINA Classico Fondente Luisa
+- Uovo di Pasqua 2026 BACI PERUGINA al Cioccolato Fondente Extra con granella di nocciole con un messaggio speciale inciso nel cioccolato
 - La novità BACI PERUGINA, con messaggi incisi nel guscio di cioccolato
+- Contiene 4 Cioccolatini BACI PERUGINA Classico Fondente Luisa
 - Uovo da 260g contenente 50g di Cioccolatini BACI PERUGINA Classico Fondente Luisa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

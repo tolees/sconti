@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '70mai 4K Dash Cam Auto A800 Nano HDR Wi-Fi 6 & App Mini Dashcam per Auto | F1.55 Visione Notturna Monitoraggio Parcheggio 24/7 Sensore G IPS da 1 9" Supercondensatore Registrazione in loop'
-date: 2026-10-19 11:44:27
+date: 2026-10-23 12:59:31
 image: 'https://m.media-amazon.com/images/I/41mLttjBchL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0HF87RXJX/?tag=tolees00-21'
 descuento: '22.22'
-average: '83.3233333333333'
+average: '79.99'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

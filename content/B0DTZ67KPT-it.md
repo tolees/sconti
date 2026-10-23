@@ -28,9 +28,9 @@ average: '6.23'
 
 ℹ️:
 
-- La sua texture leggera si assorbe velocemente senza effetto unto e bisunto.
-- La sua formula con Filtri Fotostabili UVA/UVB di ultima generazione aiuta a proteggere la tua pelle e riduce il rischio di scottature e danni solari.
 - p.s.: l’olio solare Carotissima è resistente all’acqua!
+- La sua formula con Filtri Fotostabili UVA/UVB di ultima generazione aiuta a proteggere la tua pelle e riduce il rischio di scottature e danni solari.
+- La sua texture leggera si assorbe velocemente senza effetto unto e bisunto.
 - Per un’estate protetta e abbronzatissima!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

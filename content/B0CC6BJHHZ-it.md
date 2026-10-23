@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Sceglilo se vuoi un prodotto pratico e veloce da utilizzare per prenderti cura di corpo, viso, barba e capelli!
 - Formato: 1 shampodoccia da 200 ml
-- Un unico prodotto che, in un solo gesto sotto la doccia, deterge corpo e capelli, dona morbidezza, purifica la pelle del viso, pulisce la barba e prepara alla rasatura
 - Modo duso: applicare sulla pelle bagnata del viso, del corpo e sui capelli. Massaggiare fino ad ottenere una soffice schiuma e risciacqua. Per la rasatura: applicare sulla pelle bagnata massaggiare fino ad ottenere una soffice schiuma quindi passa il rasoio. Risciacquare abbondantemente.
+- Un unico prodotto che, in un solo gesto sotto la doccia, deterge corpo e capelli, dona morbidezza, purifica la pelle del viso, pulisce la barba e prepara alla rasatura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CC6BJHHZ{{</world>}}

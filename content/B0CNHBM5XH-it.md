@@ -29,8 +29,8 @@ average: '37.52'
 ℹ️:
 
 - Con cappuccio con coulisse
-- Vestibilità comoda
 - Per chi ama il vintage: abbiamo scelto la tintura in capo per donare un irresistibile effetto vissuto
+- Vestibilità comoda
 - Una felpa con cappuccio di ispirazione vintage
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ average: '58.95'
 
 ℹ️:
 
-- Skech-Air
 - Memory foam raffreddato ad aria
 - Vestibilità a cuneo
 - Corona doro
 - Collaborazione
+- Skech-Air
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DW9GJBBV{{</world>}}

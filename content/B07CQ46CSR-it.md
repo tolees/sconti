@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Grazie alla semola integrale biologica lavorata con cura e maestria Garofalo ottiene una consistenza piena e uno spessore corposo
 - Una pasta lunga versatile, utile per ricette veloci come per sughi elaborati
+- Grazie alla semola integrale biologica lavorata con cura e maestria Garofalo ottiene una consistenza piena e uno spessore corposo
 - Un formato classico e intramontabile che diventa naturale fonte di fibre
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Collo: dolcevita
 - Stampa Arty
+- Collo: dolcevita
 - Lunghezza: Midi
-- Manica: Lunga
 - Vestibilità: Slim
+- Manica: Lunga
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DW9HSS4R{{</world>}}

@@ -30,10 +30,10 @@ average: '749.0'
 
 - Sbrinamento: Permette lo sbrinamento automatico impedendo la formazione di ghiaccio nellunità esterna durante il funzionamento in riscaldamento nella stagione invernale.
 - Auto-diagnosi: Mostra il codice derrore sul display, in caso di guasto.
-- Blocco Bimbi: Blocca le possibilità di comando, per limitarne laccesso ai più piccoli.
 - Raffrescamento, Riscaldamento, Deumidificazione, Ventilazione
-- Sensore Temperatura: Migliora il comfort dove sono gli occupanti della stanza, grazie al telecomando con sensore di temperatura.
 - Auto Mode: Modula i parametri di funzionamento, in funzione alla temperatura di setpoint e ambiente.
+- Blocco Bimbi: Blocca le possibilità di comando, per limitarne laccesso ai più piccoli.
+- Sensore Temperatura: Migliora il comfort dove sono gli occupanti della stanza, grazie al telecomando con sensore di temperatura.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GGCCWN3N{{</world>}}

@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Pronazione della scarpa: Neut
-- Larghezza della scarpa: vestibilità regolare
-- Puma Caven 2.0 Mid Jr
 - Intersuola in gomma impilata
-- Caduta dal tallone alla punta: 0 mm
-- Tipo di tacco: piatto
+- Puma Caven 2.0 Mid Jr
 - Stivale basso
+- Pronazione della scarpa: Neut
+- Tipo di tacco: piatto
+- Caduta dal tallone alla punta: 0 mm
+- Larghezza della scarpa: vestibilità regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BLCSMZVJ{{</world>}}

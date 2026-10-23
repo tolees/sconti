@@ -28,10 +28,10 @@ average: '17.99'
 
 ℹ️:
 
-- Girocollo
-- Composizione: 100% cotone
 - Confezione da 3 magliette
 - Vestibilità normale
+- Girocollo
+- Composizione: 100% cotone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B323S1SB{{</world>}}

@@ -28,8 +28,8 @@ average: '48.99'
 
 ℹ️:
 
-- Massimo confort
 - Ergonomica
+- Massimo confort
 - Dettagli ricercati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

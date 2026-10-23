@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bialetti Caffettiera Moka Express Manico anti scottatura Non adatta a induzione 1 Tazze 60 ml Alluminio'
-date: 2026-10-20 09:23:28
+date: 2026-10-22 18:53:17
 image: 'https://m.media-amazon.com/images/I/41LWmxXGQmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0000AN3QH/?tag=tolees00-21'
 descuento: '48.46'
-average: '15.506'
+average: '15.49'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

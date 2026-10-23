@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Chiusura: A strappo
 - Tipo di tacco: Tacco Piatto
+- Chiusura: A strappo
 - Fodera: Maglia
 - Materiale suola: Gomma
 

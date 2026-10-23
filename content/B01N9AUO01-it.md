@@ -28,8 +28,8 @@ average: '35.51'
 
 ℹ️:
 
-- Un modellino di una ruspa
 - Facile da assemblare
+- Un modellino di una ruspa
 - Un prodotto della marca Revell
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

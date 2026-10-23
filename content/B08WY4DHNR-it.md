@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dimensioni (cm): Ø 11x35; Capacità: 1,5 litri
-- Isolamento ad alta densità 8 mm di spessore in schiuma di polietilene.
 - Porta borraccia termico Camouflage in poliestere 600 D con interno in alluminio. Dotata di maniglie.
+- Isolamento ad alta densità 8 mm di spessore in schiuma di polietilene.
+- Dimensioni (cm): Ø 11x35; Capacità: 1,5 litri
 - Stampa con motivo mimetico, senza tempo ed adattabile a qualsiasi esigenza. Disponibile in 4 colori assortiti. Ne verrà spedita 1.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

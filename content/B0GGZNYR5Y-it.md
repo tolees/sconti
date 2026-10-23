@@ -28,11 +28,11 @@ average: '1.99'
 
 ℹ️:
 
-- Supporto in Carta profumata per cassetti che non macchia, certificata FSC
-- Profumo per tessuti: Protegge lana e fibre naturali; Lana - Seta - Lino - Cotone.
 - Durata 3 mesi
-- Al profumo naturale di fiori di Artemisia
 - 12 Foglietti profumatori per cassetti e armadi
+- Al profumo naturale di fiori di Artemisia
+- Profumo per tessuti: Protegge lana e fibre naturali; Lana - Seta - Lino - Cotone.
+- Supporto in Carta profumata per cassetti che non macchia, certificata FSC
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GGZNYR5Y{{</world>}}

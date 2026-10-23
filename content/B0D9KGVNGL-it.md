@@ -28,8 +28,8 @@ average: '26.25'
 
 ℹ️:
 
-- Vita bassa
 - Vita profonda con logo a contrasto
+- Vita bassa
 - Comodo jersey di cotone con percentuale di elastam
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

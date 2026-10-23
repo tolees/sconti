@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Robbie Williams
-- Swings Both Ways
 - audioCD
+- Swings Both Ways
+- Robbie Williams
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00F2GIPBI{{</world>}}

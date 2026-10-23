@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DURACELL AA Batterie Alcaline Optimum Confezione da 12 1.5V LR06 | 200% Più Power Boost Actives - Soddisfano le Esigenze dei Dispositivi Moderni - 100% Riciclabili'
-date: 2026-10-19 10:03:44
+date: 2026-10-23 11:06:45
 image: 'https://m.media-amazon.com/images/I/51uuZ9LHXwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B093CBBKG8/?tag=tolees00-21'
 descuento: '37.52'
-average: '10.3760869565218'
+average: '10.3452000000001'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

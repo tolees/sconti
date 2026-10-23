@@ -28,11 +28,11 @@ average: '29.27'
 
 ℹ️:
 
-- Fibbia: Lacci
-- Tipo di tacco: Tacco piatto
 - Fodera: Tessuto
-- Larghezza: Regolare
+- Fibbia: Lacci
 - Tipo di punta: Rotonda
+- Tipo di tacco: Tacco piatto
+- Larghezza: Regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DJ9PP9PY{{</world>}}

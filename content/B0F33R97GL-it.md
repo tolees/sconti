@@ -29,11 +29,11 @@ average: '49.69'
 ℹ️:
 
 - Tomaia in materiale sintetico e pelle scamosciata
-- Suola in gomma
-- Vestibilità regolare
+- Lacci
 - Elementi del logo adidas
 - Soletta in tessuto
-- Lacci
+- Vestibilità regolare
+- Suola in gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F33R97GL{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Applicazione: soggiorni, cantine, corridoi, ingressi, scale, camere da letto, effetto vintage speciale con lampade del 1906
-- Lampada disponibile separatamente
-- Efficienza energetica: compatibile con tutte le lampadine LED, scenari di illuminazione individuali tramite combinazione di lampadine, risparmio energetico
 - Tecnologia: Lampada a sospensione per uso interno, opzioni di montaggio flessibili, grado di protezione IP20, aspetto e sensazione di alta qualità, facile installazione
+- Efficienza energetica: compatibile con tutte le lampadine LED, scenari di illuminazione individuali tramite combinazione di lampadine, risparmio energetico
+- Lampada disponibile separatamente
 - Installazione: Montaggio a soffitto con accessori inclusi, attacco standard, possibilità di regolazione flessibile dellaltezza, installazione rapida. Lampadina non inclusa.
+- Applicazione: soggiorni, cantine, corridoi, ingressi, scale, camere da letto, effetto vintage speciale con lampade del 1906
 - Design: design moderno e minimalista in grigio scuro, struttura in acciaio, 4 attacchi E27, cavo tessile lungo 2 m
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

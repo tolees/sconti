@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Con Lampada in vetro è possibile installare qualsiasi tipo di lampadina di tipo E27 standard
+- Con Telecomando a 3 velocità e timer
 - 5 Pale in Legno da 128cm diametro
+- Con Lampada in vetro è possibile installare qualsiasi tipo di lampadina di tipo E27 standard
 - venduto senza fonte di luce inclusa
 - 2 anni di garanzia
-- Con Telecomando a 3 velocità e timer
 - Con invertitore di direzione per il recupero del calore invernale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

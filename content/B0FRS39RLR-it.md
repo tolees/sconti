@@ -28,10 +28,10 @@ average: '7.6'
 
 ℹ️:
 
-- DETTAGLI: caratterizzato da scollo quadrato, mezze maniche e vestibilità aderente su tutto il corpo
 - T-SHIRT MODERNA ED ESSENZIALE: questa maglietta con scollo quadrato valorizza i capi basic di tutti i giorni con una scollatura che slancia la figura, ideale da abbinare a jeans, gonne o da indossare sotto le giacche
-- COTONE-MODAL A COSTINE: il misto traspirante di cotone-modal è liscio e morbido al tatto con una leggera elasticità
 - VESTIBILITÀ ADERENTE: aderisce perfettamente allaltezza delle spalle, lungo il corpo e le maniche
+- COTONE-MODAL A COSTINE: il misto traspirante di cotone-modal è liscio e morbido al tatto con una leggera elasticità
+- DETTAGLI: caratterizzato da scollo quadrato, mezze maniche e vestibilità aderente su tutto il corpo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FRS39RLR{{</world>}}

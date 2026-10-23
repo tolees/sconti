@@ -28,8 +28,8 @@ average: '12.99'
 
 ℹ️:
 
-- Cavo-Shimano
 - 1000MM-Colori vari
+- Cavo-Shimano
 - CAVO ELETTRICO DI2 ETUBE Shimano 1000MM
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

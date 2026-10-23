@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Cappotto di lana da uomo di Tom Tailor
 - Vestibilità ottimale e comfort elevato
+- Cappotto di lana da uomo di Tom Tailor
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DSQ8BVRN{{</world>}}

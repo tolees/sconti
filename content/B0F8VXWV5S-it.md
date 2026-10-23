@@ -28,10 +28,10 @@ average: '40.99'
 
 ℹ️:
 
+- Un poster fronte-retro
+- Il gioco fisico
 - Un esclusivo Art Book con illustrazioni mai viste prima
 - Una scatola da collezione che contiene tutti i contenuti
-- Il gioco fisico
-- Un poster fronte-retro
 - Un CD Soundtrack con l’ipnotica colonna sonora originale (OST) composta da Christos Antoniou (del gruppo metal greco Septicflesh) e eseguita principalmente dalla FILMharmonic Orchestra di Praga!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

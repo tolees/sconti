@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Vestibilità: vestibilità normale, lunghezza schiena per taglia M circa 72 cm
-- Girocollo. Maniche corte
-- 40 °C, non stirare sulla decorazione, stirare a temperatura moderata, non lavare a secco, non candeggiare, non asciugare in asciugatrice, lavare al rovescio, lavare con colori simili, tirare la forma bagnata
 - In morbido tessuto jersey singolo
+- Vestibilità: vestibilità normale, lunghezza schiena per taglia M circa 72 cm
+- 40 °C, non stirare sulla decorazione, stirare a temperatura moderata, non lavare a secco, non candeggiare, non asciugare in asciugatrice, lavare al rovescio, lavare con colori simili, tirare la forma bagnata
 - Maglietta basic con logo stampato sul petto. Realizzato in morbido tessuto jersey di cotone.
+- Girocollo. Maniche corte
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DSQX4ZR8{{</world>}}

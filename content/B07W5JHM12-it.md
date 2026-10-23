@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech Signature M650 L Mouse wireless - Per mani grandi | Batteria 2 anni Clic Silenziosi Tasti Personalizzabili Bluetooth per PC/Mac/Più dispositivi/Chromebook - Grafite'
-date: 2026-10-17 19:12:41
+date: 2026-10-22 14:42:08
 image: 'https://m.media-amazon.com/images/I/31AM2sue5ML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07W5JHM12-it Logitech Signature M650 L Mouse wireless - Per mani grandi...'
 sku: 'B07W5JHM12-it'
 tags: [ '🇮🇹', ]
-actualPrice: 27.98 EUR
+actualPrice: 27.86 EUR
 currency: EUR
-price: 27.98
+price: 27.86
 comparePrice: 44.99 EUR
 prodname: 'Logitech Signature M650 L Mouse wireless - Per mani grandi | Batteria 2 anni Clic Silenziosi Tasti Personalizzabili Bluetooth per PC/Mac/Più dispositivi/Chromebook - Grafite'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B07W5JHM12/?tag=tolees00-21'
-descuento: '37.81'
-average: '28.665'
+descuento: '38.08'
+average: '28.5845'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

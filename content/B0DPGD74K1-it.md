@@ -28,10 +28,10 @@ average: '16.86'
 
 ℹ️:
 
-- Specially for the face
-- Protezione UVA UVB
 - Con Selftan
 - Holiday Fragance
+- Protezione UVA UVB
+- Specially for the face
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DPGD74K1{{</world>}}

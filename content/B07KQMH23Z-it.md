@@ -28,8 +28,8 @@ average: '4.66'
 
 ℹ️:
 
-- Depp, Guthrie, Ejogo, Roth, Redmayne, Kravitz, Turner, Riddell, Miller, Sigurosson, Corby-
 - Animali Fantastici - i Crimini di Grindelwald (DVD)
+- Depp, Guthrie, Ejogo, Roth, Redmayne, Kravitz, Turner, Riddell, Miller, Sigurosson, Corby-
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07KQMH23Z{{</world>}}

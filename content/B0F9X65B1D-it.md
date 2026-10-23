@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Braun Serie 5 Rasoio Elettrico Barba 1 Accessorio 52-B1600s Blu'
-date: 2026-09-17 07:41:37
+title: 'Braun Serie 5 Rasoio Elettrico Barba 1 Accessorio 52-B1600s Blu | Regolabarba Uomo 1 Accessorio Rasoio Barba Impermeabile Ricaricabile 50 Min di Utilizzo'
+date: 2026-10-23 11:17:02
 image: 'https://m.media-amazon.com/images/I/410VzMBA4RL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -13,7 +13,7 @@ actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99
 comparePrice: 144.99 EUR
-prodname: 'Braun Serie 5 Rasoio Elettrico Barba 1 Accessorio 52-B1600s Blu'
+prodname: 'Braun Serie 5 Rasoio Elettrico Barba 1 Accessorio 52-B1600s Blu | Regolabarba Uomo 1 Accessorio Rasoio Barba Impermeabile Ricaricabile 50 Min di Utilizzo'
 country: 'it'
 flag: '🇮🇹'
 brand: ''

@@ -31,8 +31,8 @@ average: '20.0866666666667'
 - FIGURA ARTICOLATA - Buona presa, articolazioni delle spalle e delle anche per una maggiore stabilità.
 - FIGURA MANGA - Personaggio: Super Saiyan Vegeta Blue
 - FIGURINA GRANDE - Statuetta gigante di 33 cm, ideale da esporre o come primo giocattolo da collezione.
-- LICENZA UFFICIALE DRAGON BALL - Action figure da collezione della serie Dragon Ball Super
 - COLLEZIONE LIMIT BREAKER - Colleziona tutte le action figure Bandai Dragon Ball Limit Breaker e Super Limit Breaker
+- LICENZA UFFICIALE DRAGON BALL - Action figure da collezione della serie Dragon Ball Super
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07SLZJKW9{{</world>}}

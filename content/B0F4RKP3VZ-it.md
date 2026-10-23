@@ -29,12 +29,12 @@ average: '15.99'
 ℹ️:
 
 - Tecnologia CLIMACOOL
-- Vestibilità regolare
-- Tessuto interlock
-- Logo tecnico riflettente
-- 100% poliestere (100% riciclato)
 - Logo tecnico riflettente
 - Collo rotondo
+- Vestibilità regolare
+- Logo tecnico riflettente
+- Tessuto interlock
+- 100% poliestere (100% riciclato)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F4RKP3VZ{{</world>}}

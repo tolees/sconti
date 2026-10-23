@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Plastic
 - Care Label:
-- Rectangular sunglasses
+- Plastic
 - materialFabricComposition: 70% Plastic, 30% Brass
+- Rectangular sunglasses
 - Detail
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

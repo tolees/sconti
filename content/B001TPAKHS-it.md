@@ -28,14 +28,14 @@ average: '17.575'
 
 ℹ️:
 
-- Blended Scotch Whisky creato utilizzando solo whisky invecchiati per un minimo di 12 anni provenienti dai quattro angoli della Scozia
-- Una vera icona riconosciuta come punto di riferimento per altre miscele deluxe
 - Gradazione alcolica: 40 percentuale in volume
+- Una vera icona riconosciuta come punto di riferimento per altre miscele deluxe
 - Un regalo impressionante per chi apprezza i whisky morbidi e affumicati, un regalo perfetto da gustare
-- Johnnie Walker Black Label sa di dolcezza avvolta nel fumo. È come un dolce abbraccio di frutta dolce e caramello cremoso con un finale affumicato scoppiettante
-- Miscela di whisky di grano e single malt
+- Blended Scotch Whisky creato utilizzando solo whisky invecchiati per un minimo di 12 anni provenienti dai quattro angoli della Scozia
 - Johnnie Walker è un brand di whisky con più di 200 anni di storia; il suo slogan è stato adottato ovunque per ispirare il progresso e il coraggio di fronte alle avversità: Keep Walking; la nostra selezione comprende sia le etichette classiche sia le miscele più esclusive in edizione limitata
 - Da servire in un bicchiere alto come highball con il mixer che preferisci, come limonata, ginger ale o tè freddo alla pesca, per unesplosione elettrica di gusto
+- Miscela di whisky di grano e single malt
+- Johnnie Walker Black Label sa di dolcezza avvolta nel fumo. È come un dolce abbraccio di frutta dolce e caramello cremoso con un finale affumicato scoppiettante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B001TPAKHS{{</world>}}

@@ -28,13 +28,13 @@ average: '6.7'
 
 ℹ️:
 
-- Pressione di esercizio: 13,5-2,25 kg
-- La testa zigrinata offre una presa maggiore per migliorare la precisione
-- Si usa con una mano sola, non è necessario usare il martello
-- La punta è bonificata per resistere a un uso continuo
-- Profondità dellimpronta regolata girando la testa zigrinata
 - Consente di punzonare all’applicazione di una pressione manuale sulla testa
+- Pressione di esercizio: 13,5-2,25 kg
+- Si usa con una mano sola, non è necessario usare il martello
+- Profondità dellimpronta regolata girando la testa zigrinata
+- La testa zigrinata offre una presa maggiore per migliorare la precisione
 - In acciaio al carbonio di alta qualità
+- La punta è bonificata per resistere a un uso continuo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0043YHBEW{{</world>}}

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dotata di due ampi vani porta oggetti
 - Capacità: 45 litri
+- Dotata di due ampi vani porta oggetti
 - Borsone da allenamento mimetico
 - Rappresenta uno dei grandi must di LEONE1947
 

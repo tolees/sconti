@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO ONE PIECE La nave da guerra di Garp 75646'
-date: 2026-10-06 09:51:03
-image: 'https://m.media-amazon.com/images/I/51BnUXvcY0L._SL500_._SL400_.jpg'
+title: 'LEGO ONE PIECE La nave da guerra di Garp 75646 | Giochi per bambini da 9 anni barca giocattolo 8 minifigure tra cui Zoro e Nami decorazione camera idea regalo 1705 pezzi'
+date: 2026-10-23 09:32:17
+image: 'https://m.media-amazon.com/images/I/51WGOf4UVjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0GGSFQR8L-it LEGO ONE PIECE La nave da guerra di Garp 75646'
+slug: 'B0GGSFQR8L-it LEGO ONE PIECE La nave da guerra di Garp 75646 | Giochi...'
 sku: 'B0GGSFQR8L-it'
 tags: [ '🇮🇹', ]
-actualPrice: 118.99 EUR
+actualPrice: 127.49 EUR
 currency: EUR
-price: 118.99
+price: 127.49
 comparePrice: 169.99 EUR
-prodname: 'LEGO ONE PIECE La nave da guerra di Garp 75646'
+prodname: 'LEGO ONE PIECE La nave da guerra di Garp 75646 | Giochi per bambini da 9 anni barca giocattolo 8 minifigure tra cui Zoro e Nami decorazione camera idea regalo 1705 pezzi'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0GGSFQR8L/?tag=tolees00-21'
-descuento: '30.00'
-average: '118.99'
+descuento: '25.00'
+average: '123.24'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

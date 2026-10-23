@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Profilo liscio ed estremità in gomma
-- Precisione piani di lavoro 0,5 mm/m
 - Livella Classic lunghezza 100 cm
+- Precisione piani di lavoro 0,5 mm/m
+- Profilo liscio ed estremità in gomma
 - 3 bolle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

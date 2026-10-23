@@ -28,10 +28,10 @@ average: '19.9'
 
 ℹ️:
 
+- DIAMETRO 30 CM: Ventilatore da tavolo con 3 pale e griglia di protezione a rete dal diametro di 30 cm per una ventilazione efficace.
 - BASE STABILE E CAVO LUNGO: La base tonda assicura la massima stabilità su qualsiasi superficie, con un pratico cavo da 1,70 m per maggiore flessibilità.
 - MOTORE IN ALLUMINIO DA 35W: Il potente motore in alluminio da 35W garantisce prestazioni affidabili e durature nel tempo.
 - 3 VELOCITÀ SELEZIONABILI: Scegli tra tre diverse velocità di ventilazione per adattare il flusso daria alle tue esigenze.
-- DIAMETRO 30 CM: Ventilatore da tavolo con 3 pale e griglia di protezione a rete dal diametro di 30 cm per una ventilazione efficace.
 - OSCILLAZIONE E INCLINAZIONE: Dotato di oscillazione orizzontale automatica e inclinazione verticale regolabile per una distribuzione ottimale dellaria.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

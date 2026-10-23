@@ -28,15 +28,15 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Peso: 366.2 g
-- intersuola leggera in EVA
-- Vestibilità regolare
-- Drop intersuola: 11 mm (tallone 32 mm / avampiede 20 mm)
-- Superiore: Sintetici e tessili
 - Lacci
+- Vestibilità regolare
+- Superiore: Sintetici e tessili
 - Suola in gomma Continental
+- Drop intersuola: 11 mm (tallone 32 mm / avampiede 20 mm)
+- intersuola leggera in EVA
 - Soletta in tessuto
 - Scarpe in GORE-TEX
+- Peso: 366.2 g
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F2GBG4TN{{</world>}}

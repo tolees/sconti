@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Dimensioni: 80 cm
 - Resistenza alla rottura: 22.kn
 - Larghezza nastro 11 mm
-- Dimensioni: 80 cm
 - Anello di fettuccia in Dyneema
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

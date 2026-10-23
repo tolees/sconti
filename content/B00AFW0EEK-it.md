@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 10 metri
 - Diametro esterno 11 mm
+- può essere collegato a compressori e utensili pneumatici con una pressione massima di 8 Bar.
+- Diametro interno: 6 mm
 - Per tutti i compressori e gli utensili ad aria compressa
 - Tubo flessibile per aria compressa da 10 m
-- Diametro interno: 6 mm
-- può essere collegato a compressori e utensili pneumatici con una pressione massima di 8 Bar.
+- 10 metri
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00AFW0EEK{{</world>}}

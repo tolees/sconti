@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Logo in metallo e logo interno in rilievo
 - __Tessuto: vera pelle
+- Logo in metallo e logo interno in rilievo
 - __Scomparti: __ Tasca interna per monete e tasca ID finestra
 - Con scomparti
 - Funzione di protezione RFID per proteggere le carte dai furti

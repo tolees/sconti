@@ -29,12 +29,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Certificazione Spiel Gut: sì
-- Avvertenze: Attenzione! Non adatto ai bambini di età inferiore a 36 mesi
+- Durata del gioco: 15 minuti circa
+- Istruzioni in lingua tedesca
 - Fascia detà: scuola elementare
 - Per bambini e bambine
-- Istruzioni in lingua tedesca
 - Autore del gioco: Pokornik, Brigitte
-- Durata del gioco: 15 minuti circa
+- Avvertenze: Attenzione! Non adatto ai bambini di età inferiore a 36 mesi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00006YYXR{{</world>}}

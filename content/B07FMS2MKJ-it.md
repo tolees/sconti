@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- A Maschio
 - USB Tipo
+- A Maschio
 - A B Maschio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

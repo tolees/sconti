@@ -31,8 +31,8 @@ average: '8.04'
 - Ricarica di inchiostro per penne stilografiche Parker e altre lussuose penne stilografiche
 - Elegante flacone in vetro con base larga e tappo a vite con chiusura ermetica
 - Linchiostro molto pigmentato ad asciugatura rapida risalta nitidamente sulla pagina
-- Include 1 flacone di inchiostro blu da 57 ml. Da utilizzare insieme all’adattatore PARKER (acquistabile separatamente)
 - Inchiostro fluido di ottima qualità in flacone per garantire un flusso uniforme durante la scrittura
+- Include 1 flacone di inchiostro blu da 57 ml. Da utilizzare insieme all’adattatore PARKER (acquistabile separatamente)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01GPM3VMU{{</world>}}

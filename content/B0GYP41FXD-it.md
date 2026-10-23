@@ -28,11 +28,11 @@ average: '49.99'
 
 ℹ️:
 
-- In esclusiva su Nintendo Switch 2​
 - Azione e combattimenti contro orde di nemici in ambientazioni inedite​
-- Nuovo titolo della serie Splatoon, con focus su un’esperienza single player​
+- In esclusiva su Nintendo Switch 2​
 - Supporto al multiplayer cooperativo fino a 4 giocatori, online e wireless locale​
 - Esplorazione, raccolta di bottino e progressione dell’equipaggiamento​
+- Nuovo titolo della serie Splatoon, con focus su un’esperienza single player​
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GYP41FXD{{</world>}}

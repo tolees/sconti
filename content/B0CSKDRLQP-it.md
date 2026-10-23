@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Collezione Lifestyle Bags
 - Idrorepellente
 - Logo in etichetta jacquard
+- Collezione Lifestyle Bags
 - Capacità 0,7 litri
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

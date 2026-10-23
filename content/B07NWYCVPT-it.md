@@ -29,10 +29,10 @@ average: '16.8633333333333'
 ℹ️:
 
 - NOTA: Per evitare danni o un rapido esaurimento delle batterie, NON MISCHIARE: batterie non ricaricabili con ricaricabili; batterie completamente cariche con batterie a carica medio-bassa; batterie nuove con vecchie; batterie con capacità (mAh) diverse; marche diverse.
-- Confezione da 24 AAA batterie ricaricabili ad alta capacità
-- Dopo 3 anni di conservazione, mantiene 65% della carica originale
 - Pre-caricate tramite energia solare
 - Capacità: 850mAh, minimo 800mAh
+- Confezione da 24 AAA batterie ricaricabili ad alta capacità
+- Dopo 3 anni di conservazione, mantiene 65% della carica originale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07NWYCVPT{{</world>}}

@@ -28,9 +28,9 @@ average: '8.19'
 
 ℹ️:
 
-- Con fibra di pisello
 - Con tacchino
 - Adatto per unalimentazione quotidiana a lungo termine
+- Con fibra di pisello
 - Con estratto di mirtilli rossi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Salmon unica fonte proteica animale: salmone
-- Easy digestion ingredienti principali: salmone e riso
 - Brain & vision development acidi grassi omega-3 per aiutare il corretto sviluppo del sistema nervoso centrale, del processo di apprendimento e della vista
 - Bone development rapporto calcio-fosforo ottimale e vitamina d per assicurare una corretta crescita e sviluppo delle ossa
+- Easy digestion ingredienti principali: salmone e riso
+- Salmon unica fonte proteica animale: salmone
 - Eccellenti fonti di proteine e carboidrati facilmente digeribili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

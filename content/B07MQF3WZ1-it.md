@@ -28,9 +28,9 @@ average: '18.68'
 
 ℹ️:
 
+- Adatto per: situazioni formali
 - Realizzato con materiali sostenibili
 - Blazer del marchio PIECES
-- Adatto per: situazioni formali
 - Design chic per uneleganza extra
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

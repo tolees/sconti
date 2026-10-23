@@ -28,8 +28,8 @@ average: '567.65'
 
 ℹ️:
 
-- Solo lavaggio a secco
 - Cinturini regolabili in vita realizzati in pelle bovina
+- Solo lavaggio a secco
 - Composizione materiale principale in pelle Nappa spessa, pelliccia naturale di pecora
 - Cuciture in pelle con cordoncino, cerniera in ottone e collo con fibbia
 

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Soundbar 3.1.2 canali
-- Supporta Dolby Atmos e DTS: X
 - Bluetooth 5.3/ HDMI eARC/USB/Ingresso Audio Ottico
+- Supporta Dolby Atmos e DTS: X
+- Soundbar 3.1.2 canali
 - Subwoofer Wireless
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

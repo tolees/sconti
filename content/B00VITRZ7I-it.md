@@ -29,8 +29,8 @@ average: '11.38'
 ℹ️:
 
 - Una fragranza piacevole e duratura per luso quotidiano.
-- 150 ml
 - Questo profumo evoca note fresche allinizio, provenienti da sentori di fresco e gelsomino; in fondo, appaiono sfumature di legno di sandalo.
+- 150 ml
 - Riesce a risvegliare freschezza ed eleganza, con una personalità adatta e duratura.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

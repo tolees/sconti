@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Clinique
-- Fondotinta donna 30 millilitri
 - Trucco: fondotinta
 - Contneuto: 30 millilitri
+- Fondotinta donna 30 millilitri
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07CL4L4LX{{</world>}}

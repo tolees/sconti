@@ -28,11 +28,11 @@ average: '7.3'
 
 ℹ️:
 
+- Le distanze permettono il funzionamento di dispositivi di rete
 - Possibilità di fissaggio ottimale con 4 punti di supporto per il montaggio fisso della presa multipla, per esempio alla parete
 - Prese ordinate con angolo a 90°
-- Le distanze permettono il funzionamento di dispositivi di rete
-- Adatto per il collegamento della spina salvaspazio
 - With innovative practical and space saving flat plug
+- Adatto per il collegamento della spina salvaspazio
 - Design di forma gradevole
 - Interruttore di sicurezza on/off illuminato, bipolare
 

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Polsini a costine
-- Orlo a costine
 - Girocollo come collo
+- Orlo a costine
+- Polsini a costine
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F4QRTJRC{{</world>}}

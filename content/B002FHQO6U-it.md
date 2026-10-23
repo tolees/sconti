@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Weave type: Dobby
 - Taglio regolare
-- Il tessuto impedisce al vento di penetrare, riducendo il rischio di raffreddamento
 - cappuccio richiudibile allinterno del colletto
+- Il tessuto impedisce al vento di penetrare, riducendo il rischio di raffreddamento
+- Weave type: Dobby
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B002FHQO6U{{</world>}}

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Impermeabilità: Lorologio ha una resistenza allacqua fino a 10 ATM
-- Caratteristiche: La cassa dellorologio misura 42mm, con spessore 11,35mm. Il quadrante sunray nero si compone di un vetro minerale
-- Funzioni: Orologio analogico con movimento al quarzo e funzione cronografo
 - Materiali: Maserati EPOCA Orologio da uomo, in acciaio, ip nero, con cinturino in acciaio e fibbia deplojante con pulsanti
+- Funzioni: Orologio analogico con movimento al quarzo e funzione cronografo
+- Caratteristiche: La cassa dellorologio misura 42mm, con spessore 11,35mm. Il quadrante sunray nero si compone di un vetro minerale
+- Impermeabilità: Lorologio ha una resistenza allacqua fino a 10 ATM
 - Packaging: Confezione originale Maserati e garanzia 2 anni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

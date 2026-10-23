@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Vita media
 - Composizione materiale: 92% cotone, 6% elastomultiestere, 2% elastan
 - Taglio dritto
 - Jeans dritti
+- Vita media
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CR968F6Z{{</world>}}

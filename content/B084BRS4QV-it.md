@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Birra dorata non filtrata con cristalli di sale di Sicilia
-- Gusto morbido, rotondo ed equilibrato
 - Ispirata alla tradizione e ai sapori del territorio siciliano
+- Gusto morbido, rotondo ed equilibrato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B084BRS4QV{{</world>}}

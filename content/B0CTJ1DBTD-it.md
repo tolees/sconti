@@ -28,8 +28,8 @@ average: '89.0'
 
 ℹ️:
 
-- Tipologia HD: Full HD
 - Risoluzione del display: 1920 x 1080 Pixel
+- Tipologia HD: Full HD
 - Dimensioni diagonale schermo: 68,6 cm (27")
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

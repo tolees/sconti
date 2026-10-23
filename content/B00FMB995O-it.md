@@ -29,9 +29,9 @@ average: '14.845'
 ℹ️:
 
 - Classe di memoria flash: 10
+- Velocità di trasferimento dati fino a 40 MB/s
 - Velocità minima garantita 10 MB/s
 - Indicato per fotocamere e videocamere digitali
-- Velocità di trasferimento dati fino a 40 MB/s
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00FMB995O{{</world>}}

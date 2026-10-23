@@ -28,16 +28,16 @@ average: '44.19'
 
 ℹ️:
 
-- Stile: Standard Fit (vestibilità normale)
 - Materiale esterno 1: 80% poliestere, 20% cotone; fodera 1: 100% cotone; materiale esterno 2/fodera 2/imbottitura: 100% poliestere; polsini: 93% cotone, 7% elastan; fasce elastiche: 80% elastam; 20% poliestere
-- Closure: cerniera
+- Parka
+- Istruzioni per la cura: lavare in lavatrice a 30°c
 - Fodera interna con bottoni
+- Comodo da indossare
+- Stile: Standard Fit (vestibilità normale)
+- Molto spazio grazie a diverse tasche
 - Materiale robusto e facile da pulire
 - Riproduzione classica della leggendaria giacca da campo americano
-- Parka
-- Comodo da indossare
-- Molto spazio grazie a diverse tasche
-- Istruzioni per la cura: lavare in lavatrice a 30°c
+- Closure: cerniera
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B06Y64L1NK{{</world>}}

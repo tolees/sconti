@@ -28,11 +28,11 @@ average: '32.44'
 
 ℹ️:
 
-- Ganasce temprate ad induzione
-- Dimensione nominale: 16 1/2 "(415 mm)
 - Capacità del tubo: 1 1/2 "(40 mm)
 - Giratubo a 2 manici con ganasce a S
+- Dimensione nominale: 16 1/2 "(415 mm)
 - Acciaio al cromo-vanadio
+- Ganasce temprate ad induzione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00D17UU5O{{</world>}}

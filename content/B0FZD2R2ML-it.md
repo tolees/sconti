@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sole Detersivo Lavatrice Bianco splendente 33 Lavaggi Formula igienizzante Detersivo Lavatrice Liquido Bianco Splendente rimuove le macchie a basse temperature'
-date: 2026-10-21 08:23:20
+date: 2026-10-22 13:33:33
 image: 'https://m.media-amazon.com/images/I/31QVhpZ-OhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0FZD2R2ML/?tag=tolees00-21'
 descuento: '45.74'
-average: '3.16500000000001'
+average: '3.182'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

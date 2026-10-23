@@ -29,8 +29,8 @@ average: '22.75'
 ℹ️:
 
 - GEL DETERGENTE ENERGIZZANTE VISO Deterge quotidianamente la pelle del viso, donando energia e vitalità. Uno specifico attivo multi-minerale elimina grigiore e colorito spento. La caffeina rivitalizza e tonifica. LAcqua Distillata di Menta Italiana dona una piacevole sensazione di freschezza. Per tutti i tipi di pelle.
-- GEL DOCCIA TONIFICANTE Una formula in gel arricchita di preziosi agenti emollienti che deterge delicatamente il corpo, tonificando la pelle. Grazie allAcqua distillata di Bergamotto Italiano dona freschezza, energia e vitalità. Frizionato sul corpo durante la doccia, il gel si trasforma in soffice schiuma ed esercita un intenso effetto tonificante e rinvigorente.
 - SCHIUMA DA BARBA ADERENZA PERFETTA Specifica per pelli sensibili, assicura: risultato impeccabile e aderenza perfetta per lintera durata della rasatura. LEstratto di Opuntia iperfermentato di origine italiana idrata e calma rossori e irritazioni. LOlio di Kiwi italiano protegge e nutre lepidermide.
+- GEL DOCCIA TONIFICANTE Una formula in gel arricchita di preziosi agenti emollienti che deterge delicatamente il corpo, tonificando la pelle. Grazie allAcqua distillata di Bergamotto Italiano dona freschezza, energia e vitalità. Frizionato sul corpo durante la doccia, il gel si trasforma in soffice schiuma ed esercita un intenso effetto tonificante e rinvigorente.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FQWCPV81{{</world>}}

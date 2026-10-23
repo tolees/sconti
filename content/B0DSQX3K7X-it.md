@@ -28,8 +28,8 @@ average: '6.08'
 
 ℹ️:
 
-- Maglietta a maniche corte da uomo di Tom Tailor
 - Vestibilità ottimale e comfort elevato
+- Maglietta a maniche corte da uomo di Tom Tailor
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DSQX3K7X{{</world>}}

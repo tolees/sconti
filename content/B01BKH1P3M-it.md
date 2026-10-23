@@ -29,8 +29,8 @@ average: '27.45'
 ℹ️:
 
 - Creato con passione dai Maîtres Chocolatiers Lindt
-- Ricetta Nocciole Piemonte IGP e cioccolato al latte Lindt
 - Grande formato 610g
+- Ricetta Nocciole Piemonte IGP e cioccolato al latte Lindt
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01BKH1P3M{{</world>}}

@@ -29,8 +29,8 @@ average: '7.875'
 ℹ️:
 
 - Mandrino portapunte e gambo a esagono da 1/4"
-- Adatto per l’uso con la maggior parte dei trapani di potenza
 - La struttura sottile permette perforazione/avvitatura di precisione in spazi ristretti
+- Adatto per l’uso con la maggior parte dei trapani di potenza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0049U3WRU{{</world>}}

@@ -28,10 +28,10 @@ average: '30.315'
 
 ℹ️:
 
-- Confortevole poggiapollice per una presa perfetta
 - Sensore ottico di elevata precisione fino a 10.000 DPI
-- 6 pulsanti programmabili
 - Illuminazione RGB personalizzabile; software avanzato per programmare pulsanti, macro e luci
+- 6 pulsanti programmabili
+- Confortevole poggiapollice per una presa perfetta
 - Velocità massima garantita: 100 pollici (254 cm) al secondo – accelerazione 20G
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

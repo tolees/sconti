@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Colletto e polsini a costine
 - Puro cotone
-- Colletto polo
 - Abbottonatura a due bottoni
+- Colletto polo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F4QQZGG2{{</world>}}

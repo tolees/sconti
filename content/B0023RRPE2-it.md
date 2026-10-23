@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Si attacca agli altri per un trasporto ottimo
-- Lammortizzazione protegge le dita e le attrezzature montate sullo stativo
 - Stativo compatto con carico utile fino a 5 Kg
-- Spigot con filettatura 3/8
 - Fornito di attacco rimovibile 1/4-20
+- Lammortizzazione protegge le dita e le attrezzature montate sullo stativo
+- Spigot con filettatura 3/8
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0023RRPE2{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ACE Detersivo Igienizzante Colorati Bucato pulito e fresco 84 lavaggi'
-date: 2026-09-28 17:29:37
+date: 2026-10-22 05:55:51
 image: 'https://m.media-amazon.com/images/I/512H6SaRy7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0HBXQW7HC/?tag=tolees00-21'
 descuento: '25.00'
-average: '9.0'
+average: '9.6'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

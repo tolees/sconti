@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Con uno stile casual
 - Logo del marchio sul petto
+- Con uno stile casual
 - Tessuto leggero e morbido
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

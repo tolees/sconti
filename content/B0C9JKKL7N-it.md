@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Baseus Hub USB C 7 in 1 Adattatore con HDMI 4K@60Hz PD 100W 3 USB-A 3.0 5Gbps Lettore Schede SD/TF Docking Station per Computer Portatili per MacBook/Surface Pro/iPad/Steam Deck/Rog Ally/Samsung'
-date: 2026-10-20 19:02:47
+date: 2026-10-22 07:02:15
 image: 'https://m.media-amazon.com/images/I/310KCrhMmmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0C9JKKL7N/?tag=tolees00-21'
 descuento: '40.09'
-average: '14.8552941176471'
+average: '14.6950000000001'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

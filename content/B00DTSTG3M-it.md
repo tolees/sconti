@@ -28,11 +28,11 @@ average: '6.49'
 
 ℹ️:
 
+- Materiale: Synthetisch
 - Beanie con le seguenti caratteristiche:
 - Il tuo merch EMP preferito!
 - Basco || Molto confortevole
 - Basic, Regali, Streetwear
-- Materiale: Synthetisch
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00DTSTG3M{{</world>}}

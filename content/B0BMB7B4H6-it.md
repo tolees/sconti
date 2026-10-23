@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- A full-length original soundtrack with music from Zero Escapes Shinji Hosoe and Matias Lehtoranta
 - A diverse cast of characters with intriguing personalities and backstories
 - A provocative character-driven story
-- A full-length original soundtrack with music from Zero Escapes Shinji Hosoe and Matias Lehtoranta
 - Multiple narrative paths
 - Hours of voice-acted dialogue
 

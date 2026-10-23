@@ -28,11 +28,11 @@ average: '39.4'
 
 ℹ️:
 
+- Lunghezza 160 cm + paralyzer per un totale di 185cm
 - Propulsione elastica
 - Tubo in alluminio ergal anodizzato da 14 mm esterno e 10 mm interno
-- Filettatura m6
 - Pronto alluso senza altri accessori
-- Lunghezza 160 cm + paralyzer per un totale di 185cm
+- Filettatura m6
 - Fiocina tre punte paralyzer già di SERIE
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

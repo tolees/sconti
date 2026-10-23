@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Capacità: 1.7 l
 - Base girevole a 360° con avvolgicavo
+- Capacità: 1.7 l
 - Finitura in acciaio inossidabile spazzolato
-- Filtro rimovibile e lavabile
 - Indicatore del livello dellacqua
+- Filtro rimovibile e lavabile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B078XXVZNY{{</world>}}

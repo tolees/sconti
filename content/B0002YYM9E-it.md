@@ -29,9 +29,9 @@ average: '21.05'
 ℹ️:
 
 - Autoserrante per tubi e dadi: nessuno slittamento sul pezzo da stringere e minimo sforzo di lavoro
-- Cerniera passante: doppia guida per unelevata stabilità
-- Migliori prestazioni e comfort rispetto alle tradizionali pinze regolabili per tubi e dadi della medesima lunghezza: regolazione a scatto su 9 posizioni per una capacità di presa superiore del 30%
 - Superfici delle ganasce con denti trattati con speciale tempera, durezza dei denti ca. 61 HRC: presa sicura per unelevata stabilità
+- Migliori prestazioni e comfort rispetto alle tradizionali pinze regolabili per tubi e dadi della medesima lunghezza: regolazione a scatto su 9 posizioni per una capacità di presa superiore del 30%
+- Cerniera passante: doppia guida per unelevata stabilità
 - Buona accessibilità al pezzo grazie alla forma affusolata della zona della testa e dellarticolazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

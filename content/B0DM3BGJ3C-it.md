@@ -28,8 +28,8 @@ average: '70.0'
 
 ℹ️:
 
-- Comoda corsa
 - Tomaia in mesh traspirante
+- Comoda corsa
 - Look versatile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

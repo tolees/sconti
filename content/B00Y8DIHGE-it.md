@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Colore giallo dorato con riflessi oro antico
+- Allolfatto dona ricordi di note affumicate su base di cereali
 - In bocca risulta equilibrata, dal sapore tostato e mediamente amaro
 - Spicca la leggere nota tostata dellorzo
-- Allolfatto dona ricordi di note affumicate su base di cereali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00Y8DIHGE{{</world>}}

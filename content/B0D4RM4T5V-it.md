@@ -28,8 +28,8 @@ average: '117.0'
 
 ℹ️:
 
-- Orlo a coda lunga
 - Cappuccio fisso con coulisse regolabile
+- Orlo a coda lunga
 - Logo ricamato sul petto sinistro e sulla spalla destra posteriore
 - Guscio DryVent 2L impermeabile, traspirante e con cuciture sigillate
 

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Larghezza regolare
 - Tipo di tacco: Tacco piatto
 - Loghi PUMA
 - Suola in gomma che avvolge il tallone
-- Larghezza regolare
 - Punta arrotondata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

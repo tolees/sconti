@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Per interno ed esterno
-- Ideale per legno, ferro e plastica
 - Maggiore durata grazie alla formula poliuretanica
 - Inodore e pronto alluso
+- Per interno ed esterno
+- Ideale per legno, ferro e plastica
 - Antigoccia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

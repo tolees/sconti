@@ -28,10 +28,10 @@ average: '5.89'
 
 ℹ️:
 
-- Zanzariera a strisce in poliestere
+- Dimensioni: 100 x 250 cm
 - Con quattro bandelle
 - Prodotto di qualità ottimale
-- Dimensioni: 100 x 250 cm
+- Zanzariera a strisce in poliestere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00TQR05VW{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fokky Set Elastici Fitness 4 Livelli con Ancoraggio e Borsa Trasporto | Elastici Palestra per uomo e donna Protezioni Bande Elastiche Fitness per Allenamento Completo Muscolazione e Ginnastica'
-date: 2026-10-16 20:48:00
+date: 2026-10-22 12:07:10
 image: 'https://m.media-amazon.com/images/I/51a4O3YNPDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

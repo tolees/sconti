@@ -28,10 +28,10 @@ average: '14.85'
 
 ℹ️:
 
-- Manica corta
+- Scollo tondo
 - 100% composito
 - Lavare a mano
-- Scollo tondo
+- Manica corta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B59MWZVT{{</world>}}
