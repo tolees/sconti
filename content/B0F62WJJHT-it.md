@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tessuto resistente allacqua
 - Tessuto idrorepellente
 - Dettagli a contrasto
+- Tessuto resistente allacqua
 - EK02Y, 2 anni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

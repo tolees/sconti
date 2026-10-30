@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Agisce efficacemente senza ungere
 - Spray adatto a proteggere la pelle dai raggi solari
 - Sulla pelle risulta leggero e non appiccicoso
+- Agisce efficacemente senza ungere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BZ4RQ16M{{</world>}}

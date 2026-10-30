@@ -28,10 +28,10 @@ average: '37.5'
 
 ℹ️:
 
-- 100% poliestere (riciclato)
-- Vestibilità regolare con vita a media altezza
 - Zip integrale con collo alto
 - Giacca e pantaloni: Tasche anteriori
+- Vestibilità regolare con vita a media altezza
+- 100% poliestere (riciclato)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZPLGQ1S{{</world>}}

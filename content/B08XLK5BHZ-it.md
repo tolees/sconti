@@ -28,11 +28,11 @@ average: '31.69'
 
 ℹ️:
 
-- Retrogusto rinfrescante
-- Al palato delicato e vellutato
-- Al naso emerge la nocciola, note di mela verde ed erbe fresche
 - Finale lungo
+- Al palato delicato e vellutato
 - Whisky giapponese
+- Al naso emerge la nocciola, note di mela verde ed erbe fresche
+- Retrogusto rinfrescante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08XLK5BHZ{{</world>}}

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Design streetwear minimal in suede e canvas: tomaia che combina pelle scamosciata e tessuto, con look pulito e ispirato allo stile urbano Vans
 - Suola in gomma con grip Vans classico: outsole in gomma progettata per aderenza e stabilità su superfici cittadine
+- Design streetwear minimal in suede e canvas: tomaia che combina pelle scamosciata e tessuto, con look pulito e ispirato allo stile urbano Vans
 - Struttura resistente per uso quotidiano: costruzione solida con materiali pensati per durabilità e comfort nelle attività giornaliere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

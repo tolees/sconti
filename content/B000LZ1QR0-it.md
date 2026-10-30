@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Il rivestimento in gomma per una protezione supplementare funge anche da guarnizione o-ring. Parti metalliche in acciaio inossidabile
 - Temperatura di esercizio tra -23 ⁰C e 93 ⁰C, Flottabilità: 0,23 kg
-- Chiusura ad apertura facile, Moschettone
+- Il rivestimento in gomma per una protezione supplementare funge anche da guarnizione o-ring. Parti metalliche in acciaio inossidabile
 - Dimensioni esterne: 14,94 x 10,31 x 5,38 cm, Dimensioni interne: 11,1 x 7,29 x 4,27 cm, Profondità coperchio: 1,75 cm, Profondità fondo: 2,39 cm, Volume interno: 0,3L, Peso (vuoto): 0,18 kg
+- Chiusura ad apertura facile, Moschettone
 - Impermeabile, a prova di urti e a tenuta di polvere. Certificazione: IP67
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

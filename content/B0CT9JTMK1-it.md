@@ -28,9 +28,9 @@ average: '6.38'
 
 ℹ️:
 
+- Sono tutte da modellare con Didò, la formina e gli attrezzini, e decorare con gli elementi in cartoncino pre-fustellati e far giocare sullo scenario che si ritaglia dalla scatola, per ore e ore di dolce divertimento
 - Ogni confezione contiene: 6 salsicciotti didò 50g, 1 coltellino, 1 mattarello, 1 ruzzola, 1 formina caramella doppia, 1 cartoncino con elementi pre-fustellati, 1 didòguida, 1 scenario da ritagliare dalla confezione
 - La Candy-mania ha preso anche Didò e abbiamo scoperto che, ai piedi dell’arcobaleno di Didò, c’è il parco giochi delle DidòMelle
-- Sono tutte da modellare con Didò, la formina e gli attrezzini, e decorare con gli elementi in cartoncino pre-fustellati e far giocare sullo scenario che si ritaglia dalla scatola, per ore e ore di dolce divertimento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CT9JTMK1{{</world>}}

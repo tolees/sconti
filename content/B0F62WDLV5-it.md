@@ -29,10 +29,10 @@ average: '26.95'
 ℹ️:
 
 - Versione mini del zaino Padded Pakr
-- EK30Y, 30 anni
-- Tessuto resistente allacqua
 - Tessuto idrorepellente
+- EK30Y, 30 anni
 - Spallacci imbottiti regolabili
+- Tessuto resistente allacqua
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F62WDLV5{{</world>}}

@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Multiple narrative paths
+- Hours of voice-acted dialogue
 - A diverse cast of characters with intriguing personalities and backstories
 - A full-length original soundtrack with music from Zero Escapes Shinji Hosoe and Matias Lehtoranta
 - A provocative character-driven story
-- Hours of voice-acted dialogue
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BMB7B4H6{{</world>}}

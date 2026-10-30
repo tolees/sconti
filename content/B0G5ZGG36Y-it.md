@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Vestibilità ampia
-- Girocollo a coste
 - Manica corta
+- Vestibilità ampia
 - Tasca sul petto a sinistra
 - Orlo a doppio ago
+- Girocollo a coste
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0G5ZGG36Y{{</world>}}

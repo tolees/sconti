@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Questo repellente per zanzare può essere applicato direttamente sulla pelle o sul palmo delle mani (per essere poi distribuito su aree sensibili)
-- Agitare bene prima delluso. Spruzzare il prodotto su tutte le parti del corpo che vengono scoperte
-- È adatto a bambini di età superiore a 2 anni
 - Autan Family Care Spray - Spray anti-zanzare, fino a 4 ore, protezione immediata, contiene agenti idratanti per la pelle, 1 spray, 100 ml
+- Questo repellente per zanzare può essere applicato direttamente sulla pelle o sul palmo delle mani (per essere poi distribuito su aree sensibili)
+- È adatto a bambini di età superiore a 2 anni
+- Agitare bene prima delluso. Spruzzare il prodotto su tutte le parti del corpo che vengono scoperte
 - La sua formula contiene ingredienti idratanti per la pelle (glicerina)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

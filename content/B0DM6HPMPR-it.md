@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - - Type: Smartphone
-- - Sim-type: Hybrid Dual SIM
 - - Weight: 200 g
 - - Dimensions: 164.4 x 77.9 x 7.9 mm
+- - Sim-type: Hybrid Dual SIM
 - - Network Technology: GSM / HSPA / LTE / 5G
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

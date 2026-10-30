@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Potenza: 2400 watt
+- Controlli della temperatura su 6 impostazioni
 - Avviso sonoro quando e necessario ricaricare il ferro, spegnimento automatico
 - Colpo di vapore da 135 g
 - Serbatoio dell’acqua da 300 ml
-- Potenza: 2400 watt
 - Sistema anticalcare e anti-goccia
-- Controlli della temperatura su 6 impostazioni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01K4CG2QO{{</world>}}

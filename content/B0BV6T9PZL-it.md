@@ -28,8 +28,8 @@ average: '17.97'
 
 ℹ️:
 
-- Special edition sticker on box
 - Funko Pop anime
+- Special edition sticker on box
 - Funko Pop limited edition
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

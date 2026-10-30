@@ -28,11 +28,11 @@ average: '8.15'
 
 ℹ️:
 
-- Consente una lavorazione delicata delle superfici delicate
 - Manico in legno di faggio
 - 4 file
-- Lunghezza: 150 mm
 - Spessore filo: 0,3 mm
+- Consente una lavorazione delicata delle superfici delicate
+- Lunghezza: 150 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07V1GLJPB{{</world>}}

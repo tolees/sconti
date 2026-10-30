@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Neutro Roberts Deodorante Spray 4 x 150 ml Sapone Antibatterico 200 ml | Formula con Glicerina e Tè Verde azione antibatterica; Deodorante con Avena Lenitiva e Argan fino a 48h'
-date: 2026-10-27 07:14:09
+date: 2026-10-29 12:38:48
 image: 'https://m.media-amazon.com/images/I/41mViASnuRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0GXW6QXG6/?tag=tolees00-21'
 descuento: '50.08'
-average: '10.435'
+average: '10.1166666666667'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

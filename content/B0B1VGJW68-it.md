@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Giacca di jeans da donna classica
-- Tasche con patta sul petto
 - Colletto rovesciato
+- Tasche con patta sul petto
 - Slim fit, taglio aderente
+- Giacca di jeans da donna classica
 - Chiusura tramite bottoni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ average: '17.11'
 
 ℹ️:
 
+- Orlo posteriore sceso
 - PUMA Logo Cat sul petto e sulle maniche
 - Modello progettato per la massima libertà di movimento
-- Orlo posteriore sceso
 - Polsini e colletto elasticizzati per migliorare la traspirabilità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

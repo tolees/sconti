@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Confezione da 500ml
+- Per bianchi e colorati
 - Contiene profumo
 - Massima efficacia contro le macchie e rispetto per i colori
-- Confezione da 500ml
 - Formula pre-trattente, efficace anche a freddo
-- Per bianchi e colorati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01LYMWJF2{{</world>}}

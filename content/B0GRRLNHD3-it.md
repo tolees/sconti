@@ -28,11 +28,11 @@ average: '16.99'
 
 ℹ️:
 
-- MATERIALE: 100% premium TPR
-- CRESSI AZIENDA DI PROPRIETA FAMIGLIARE: Sviluppa con passione prodotti sportivi acquatici dal 1946.
 - FIBBIE INDISTRUTIBILI: a regolazione micrometrica. Possibilità di sostituire istantaneamente la struttura della fibbia con altri modelli della gamma Cressi.
-- FACCIALE: a tenuta stagna con ponte nasale flessibile per una vestibilità universale.
 - PERFETTO PER: nuoto in acque libere, nuoto ricreativo, piscina, snorkeling, triathlon, ecc.
+- MATERIALE: 100% premium TPR
+- FACCIALE: a tenuta stagna con ponte nasale flessibile per una vestibilità universale.
+- CRESSI AZIENDA DI PROPRIETA FAMIGLIARE: Sviluppa con passione prodotti sportivi acquatici dal 1946.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GRRLNHD3{{</world>}}

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Sneaker
-- Composizione del materiale: 100% poliestere
 - Dettagli:
+- Composizione del materiale: 100% poliestere
 - poliestere
+- Sneaker
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CHGKWGBQ{{</world>}}

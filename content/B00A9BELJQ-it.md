@@ -29,8 +29,8 @@ average: '20.9'
 ℹ️:
 
 - Compatto
-- 2 Moduli
 - 1P+N
+- 2 Moduli
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00A9BELJQ{{</world>}}

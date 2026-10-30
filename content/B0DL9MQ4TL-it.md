@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO ART Keith Haring – Figure danzanti 31216 | Set per adulti colorata opera d arte fai da te decorazione per la casa o l ufficio idea regalo creativa 1773 pezzi'
-date: 2026-10-28 17:16:32
+date: 2026-10-30 10:50:20
 image: 'https://m.media-amazon.com/images/I/41Wq7VwUQ4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0DL9MQ4TL/?tag=tolees00-21'
 descuento: '33.34'
-average: '86.0211764705883'
+average: '85.3863157894738'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

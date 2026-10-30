@@ -28,16 +28,16 @@ average: '121.99'
 
 ℹ️:
 
-- Omni-Heat Infinity Advanced Thermal Reflective.
+- Isolamento Thermarator in 100% poliestere riciclato.
 - Tasche a doppio ingresso con chiusura a zip.
 - Tessuto impermeabile.
 - Cappuccio regolabile con coulisse.
-- Cappuccio rimovibile.
-- Tasca sul petto con cerniera.
-- Repellenza avanzata Omni-Shield.
 - Polsini regolabili.
+- Tasca sul petto con cerniera.
 - Orlo regolabile con coulisse.
-- Isolamento Thermarator in 100% poliestere riciclato.
+- Repellenza avanzata Omni-Shield.
+- Cappuccio rimovibile.
+- Omni-Heat Infinity Advanced Thermal Reflective.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DJYTZ7R9{{</world>}}

@@ -28,8 +28,8 @@ average: '9.95'
 
 ℹ️:
 
-- Originale e divertente, gioco non competitivo
 - Eta consigliata: dagli 8 anni in su
+- Originale e divertente, gioco non competitivo
 - Scatola, materiali e regolamento interno: in italiano
 - Lancia i dadi per ispirare aneddoti pieni dazione
 - Cubo dei racconti. Per creare racconti a partire dalle figure

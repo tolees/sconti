@@ -28,9 +28,9 @@ average: '12.99'
 
 ℹ️:
 
-- Contiene almeno il 50% di materiali riciclati e rinnovabili
-- Visiera preformata di lunghezza media
 - 100% cotone
+- Visiera preformata di lunghezza media
+- Contiene almeno il 50% di materiali riciclati e rinnovabili
 - Taglia unica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

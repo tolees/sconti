@@ -30,8 +30,8 @@ average: '20.99'
 
 - 😈 CREATIVO: sedetevi, tirate fuori il vostro gioco di carte per adulti preferito e date sfogo alla vostra immaginazione che vi farà brillare in mezzo agli altri! Atmosfera tesa garantita
 - 🇮🇹 ♻️ Gioco ideato in Italia ed ecologico: carte stampate su carta riciclata. Gioco da tavolo 100% made in Europe.
-- ⚡️ REGOLE SEMPLICI: 1️⃣ Scegli una carta 2️⃣ Gli altri giocatori scelgono la loro battuta migliore 3️⃣ Vince il giocatore più divertente
 - 🍹 IL GIOCO: 3-10 GIOCATORI creativi e per nulla intelligenti, 15-45 minuti, + 16 anni
+- ⚡️ REGOLE SEMPLICI: 1️⃣ Scegli una carta 2️⃣ Gli altri giocatori scelgono la loro battuta migliore 3️⃣ Vince il giocatore più divertente
 - 😝 DIVERTENTE: il gioco di società per persone gentili che non vogliono più esserlo. ✨ Un regalo divertente e soprattutto un gioco di carte senza limiti!
 - 🌟 Dai creatori di bestseller QUICKSTOP
 

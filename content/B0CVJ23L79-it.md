@@ -28,10 +28,10 @@ average: '482.445'
 
 ℹ️:
 
-- Marca: Apple
 - Dimensioni: 128 GB
-- Apple iPhone 15 128 GB - Nero Rinnovato
 - Tipo di prodotto: Telefono Cellulare
+- Apple iPhone 15 128 GB - Nero Rinnovato
+- Marca: Apple
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CVJ23L79{{</world>}}

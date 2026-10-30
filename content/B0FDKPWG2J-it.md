@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Supporto alle Ossa: Oltre a favorire la crescita muscolare, queste proteine contribuiscono anche al mantenimento della salute delle ossa.
-- Probiotici Lactospore: Grazie a Lactospore Bacillus coagulans, un ceppo probiotico, favorisce la salute intestinale e le funzioni digestive.
 - Alto Contenuto Proteico: True Whey ProDigest è un concentrato di proteine del siero di latte, ideale per supportare la crescita e il mantenimento muscolare. Un prodotto essenziale per il benessere degli atleti.
+- Probiotici Lactospore: Grazie a Lactospore Bacillus coagulans, un ceppo probiotico, favorisce la salute intestinale e le funzioni digestive.
+- Supporto alle Ossa: Oltre a favorire la crescita muscolare, queste proteine contribuiscono anche al mantenimento della salute delle ossa.
 - Alta solubilità: True Whey ProDigest è altamente solubile, ideale per arricchire frullati proteici, porridge, yogurt o limpasto di waffle e pancake.
 - Enzimi digestivi DigeZyme: Grazie al complesso DigeZyme, favorisce la digestione e lassimilazione ottimale dei nutrienti.
 

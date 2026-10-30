@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'STAEDTLER matite colorate Noris Colour  confezione da 24 colori con tonalità differenti e mine resistenti in WOPEX  185 C24'
-date: 2020-08-19 13:23:11
-image: 'https://m.media-amazon.com/images/I/51kWj1Vs7wL._SL400_.jpg'
+title: 'Staedtler Matite Colorate Noris Colour Confezione Da 24 Colori Multicolore 19.7 x 17.5 x 0.9 Cm'
+date: 2026-10-30 09:27:31
+image: 'https://m.media-amazon.com/images/I/51Tptj1JfCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B00SF4NTF6-it STAEDTLER matite colorate Noris Colour confezione da 24...'
+slug: 'B00SF4NTF6-it Staedtler Matite Colorate Noris Colour Confezione Da 24...'
 sku: 'B00SF4NTF6-it'
 tags: [ '🇮🇹', ]
-actualPrice: 6.5 EUR
+actualPrice: 5.5 EUR
 currency: EUR
-price: 6.5
-comparePrice: 11.0 EUR
-prodname: 'STAEDTLER matite colorate Noris Colour  confezione da 24 colori con tonalità differenti e mine resistenti in WOPEX  185 C24'
+price: 5.5
+comparePrice: 8.39 EUR
+prodname: 'Staedtler Matite Colorate Noris Colour Confezione Da 24 Colori Multicolore 19.7 x 17.5 x 0.9 Cm'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B00SF4NTF6/?tag=tolees00-21'
-descuento: '40.91'
-average: '6.5'
+descuento: '34.45'
+average: '6.0'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

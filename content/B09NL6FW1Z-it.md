@@ -29,11 +29,11 @@ average: '25.0'
 ℹ️:
 
 - Chiusura con lacci
-- Collarino imbottito
 - Intersuola ammortizzata
-- Tomaia in pelle sintetica
-- Fodera in tessuto
+- Collarino imbottito
 - Calzata regolare
+- Fodera in tessuto
+- Tomaia in pelle sintetica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09NL6FW1Z{{</world>}}

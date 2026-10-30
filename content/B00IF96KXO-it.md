@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Cavo ho5 vv-f sezione 3g1 mm² lunghezza 5 metri
 - Tutte le prese sono dotate di children safety - impedisce di introdurre corpi estranei nella presa in tensione
 - Prodotto di ottima qualità
-- Cavo ho5 vv-f sezione 3g1 mm² lunghezza 5 metri
 - Prolunga con spina e presa bivalenti 10/16a
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dentifricio Colgate Sensation White 75ml | dentifricio sbiancante per i denti | sbiancante clinicamente testato | sbianca in 10 giorni | con micro-cristalli pulenti attivi'
-date: 2026-10-28 11:00:22
+date: 2026-10-29 17:33:12
 image: 'https://m.media-amazon.com/images/I/51uLHJbSA7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B008HCZRD8/?tag=tolees00-21'
 descuento: '54.71'
-average: '1.4525'
+average: '1.46'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

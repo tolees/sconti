@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Affronta il viaggio più pazzesco della tua vita in It Takes Two.
+- Concepita unicamente per il gioco in cooperativa, questa è unavventura platform rivoluzionaria in cui cè ununica certezza: lunione fa la forza.
+- Affronterete una miriade di sfide di gioco innovative e divertentissime nei panni di Cody e May, due genitori separati.
 - Invita un amico a giocare gratuitamente con il Pass amici.
 - Solo cooperativo (locale e online, split-screen)
-- Affronterete una miriade di sfide di gioco innovative e divertentissime nei panni di Cody e May, due genitori separati.
-- Concepita unicamente per il gioco in cooperativa, questa è unavventura platform rivoluzionaria in cui cè ununica certezza: lunione fa la forza.
-- Affronta il viaggio più pazzesco della tua vita in It Takes Two.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08T6FMCWC{{</world>}}

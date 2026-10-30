@@ -28,11 +28,11 @@ average: '21.4666666666667'
 
 ℹ️:
 
-- Colore barrette: verde
-- Possibilità infinite di costruzione
-- Sfere metalliche (non magnetiche)
-- Colore pannelli: verde, azzurro
 - Sistema di costruzione magnetico
+- Possibilità infinite di costruzione
+- Colore pannelli: verde, azzurro
+- Colore barrette: verde
+- Sfere metalliche (non magnetiche)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01MU59UL3{{</world>}}

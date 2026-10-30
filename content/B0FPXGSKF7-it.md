@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Treno a vapore vintage 60511 | Giochi STEM per bambini da 7 anni con trenino giocattolo stazione binari e 5 minifigure regalo di compleanno 575 pezzi'
-date: 2026-10-23 21:40:20
+date: 2026-10-29 15:18:57
 image: 'https://m.media-amazon.com/images/I/51eGI1uv3-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0FPXGSKF7/?tag=tolees00-21'
 descuento: '25.00'
-average: '66.8676923076924'
+average: '66.9506666666667'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

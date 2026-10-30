@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Collabora con i tuoi amici per affrontare orde di mostri che vogliono mangiarti la faccia.
-- Vesti i panni di uno dei commando, alleati con i tuoi amici e rispedisci lo Sludge God e la sua orda di orrori innominabili nei loro inferi.
 - Salva il pianeta contro ogni previsione immaginabile.
+- Vesti i panni di uno dei commando, alleati con i tuoi amici e rispedisci lo Sludge God e la sua orda di orrori innominabili nei loro inferi.
 - Un cocktail esplosivo tra sparatutto viscerale e ambientazioni apocalittiche.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

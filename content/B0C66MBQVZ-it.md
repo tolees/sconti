@@ -31,8 +31,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 - Confezionato in Italia
 - Fagioli cannellini in acqua
 - Adatto per diete vegetariane e vegane
-- Conservare in luogo fresco e asciutto
 - La confezione contiene 2 porzioni
+- Conservare in luogo fresco e asciutto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C66MBQVZ{{</world>}}

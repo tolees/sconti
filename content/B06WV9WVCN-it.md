@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Finish Curalavastoviglie Additivo Lavastoviglie 2 Prodotti da 250 ml Limone.'
-date: 2026-10-28 10:51:41
+date: 2026-10-30 18:11:10
 image: 'https://m.media-amazon.com/images/I/51KY7mfwytL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B06WV9WVCN/?tag=tolees00-21'
 descuento: '24.30'
-average: '5.78285714285713'
+average: '5.75777777777777'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

@@ -28,12 +28,12 @@ average: '4.47'
 
 ℹ️:
 
-- Betaina, Estratto di Malva e Calendula, per lenire e mantenere in buono stato le gengive;
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
-- Contiene Sali di Fluoro e Calcio per proteggere dalla carie;
-- Senza Alcool e senza zucchero.
-- Agisce in profondità, anche fra gli spazi interdentali, completa l’azione di dentifricio e spazzolino, risultando particolarmente indicato anche per i bambini con apparecchio ortodontico;
 - Con Sulfetal Zn che grazie alla sua attività antibatterica rallenta la formazione della placca;
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
+- Agisce in profondità, anche fra gli spazi interdentali, completa l’azione di dentifricio e spazzolino, risultando particolarmente indicato anche per i bambini con apparecchio ortodontico;
+- Betaina, Estratto di Malva e Calendula, per lenire e mantenere in buono stato le gengive;
+- Senza Alcool e senza zucchero.
+- Contiene Sali di Fluoro e Calcio per proteggere dalla carie;
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0G4N3PXQ5{{</world>}}

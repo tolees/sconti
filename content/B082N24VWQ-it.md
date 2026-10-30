@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - INGREDIENTI: Contiene un Complesso di attivi a base di Vitamina C stabilizzata, Acido Mandelico, Acido Lattobionico, Acido Ferulico, Urea, estratti vegetali di Bacche di Goji, Melograno e Uva Ursina
 - SIERO VISO: Illumina pelle del viso. Texture leggera e di facile assorbimento. Idrata, rimpolpa e contrasta i segni dell’età grazie alla presenza di Acido ialuronico a Triplice Peso Molecolare
+- GYADA COSMETICS: Cosmetici di alta qualità, creati attraverso l’utilizzo di formulazioni esclusivamente naturali, a base di estratti vegetali e biologici
 - PROPRIETÀ: Aiuta a esfoliare l’epidermide. Svolge azione antiossidante e protegge dallo stress ossidativo. Contribuisce a contrastare discromie cutanee, segni d’espressione, eccesso di sebo
 - MODO DUSO: Applicare mattina e sera dopo l’uso del Radiance Face Toner
-- GYADA COSMETICS: Cosmetici di alta qualità, creati attraverso l’utilizzo di formulazioni esclusivamente naturali, a base di estratti vegetali e biologici
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B082N24VWQ{{</world>}}

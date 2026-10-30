@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Basco || Molto confortevole
-- Il tuo merch EMP preferito!
-- Materiale: Synthetisch
 - Basic, Regali, Streetwear
+- Il tuo merch EMP preferito!
+- Basco || Molto confortevole
+- Materiale: Synthetisch
 - Beanie con le seguenti caratteristiche:
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

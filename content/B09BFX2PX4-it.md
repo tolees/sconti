@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GOURMET Gold Intrecci di gusto Cibo Umido per Gatti Adulti Tortino con Tonno e Pesce dell Oceano 24 Lattine da 85g'
-date: 2026-09-21 13:27:16
+date: 2026-10-29 17:08:34
 image: 'https://m.media-amazon.com/images/I/41Fxmg0puSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,13 +12,13 @@ tags: [ '🇮🇹', ]
 actualPrice: 15.69 EUR
 currency: EUR
 price: 15.69
-comparePrice: 23.84 EUR
+comparePrice: 21.36 EUR
 prodname: 'GOURMET Gold Intrecci di gusto Cibo Umido per Gatti Adulti Tortino con Tonno e Pesce dell Oceano 24 Lattine da 85g'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B09BFX2PX4/?tag=tolees00-21'
-descuento: '34.19'
+descuento: '26.54'
 average: '15.69'
 ---
 

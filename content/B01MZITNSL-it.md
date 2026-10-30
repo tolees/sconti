@@ -28,10 +28,10 @@ average: '3.99'
 
 ℹ️:
 
-- FRESCHEZZA: Sole Cura Lavatrice Freschezza dAgrumi lascia un piacevole fresco profumo allinterno della lavatrice
 - QUANDO USARLO: Usalo una volta al mese per avere una lavatrice pulita e un bucato fresco e profumato
-- LA CONFEZIONE: Il pacco contiene 2 confezioni da 250 ml di Sole Cura Lavatrice Freschezza di Agrumi
+- FRESCHEZZA: Sole Cura Lavatrice Freschezza dAgrumi lascia un piacevole fresco profumo allinterno della lavatrice
 - LA SUA FORMULA: Sole Cura Lavatrice Freschezza di Agrumi pulisce e rimuove i residui di sporco e detersivo dalle parti interne della lavatrice, come filtri e tubature, migliorandone le prestazioni
+- LA CONFEZIONE: Il pacco contiene 2 confezioni da 250 ml di Sole Cura Lavatrice Freschezza di Agrumi
 - ISTRUZIONI DUSO: Assicurati che la lavatrice sia vuota, senza capi all’interno; versa il contenuto nella vaschetta del detersivo ed esegui un ciclo a vuoto, programma cotone a 60 °C
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

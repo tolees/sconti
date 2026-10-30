@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Con taglio aderente
 - Rifinito con il nostro inconfondibile logo
+- Con taglio aderente
 - Una T-shirt dal taglio essenziale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

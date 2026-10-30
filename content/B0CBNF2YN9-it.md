@@ -28,9 +28,9 @@ average: '27.48'
 
 ℹ️:
 
-- Rifinita con un logo discreto sul petto
 - Una versatile camicia con bottoni da indossare con jeans o chino
 - Disegnata con un taglio aderente e slanciato
+- Rifinita con un logo discreto sul petto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CBNF2YN9{{</world>}}

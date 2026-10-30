@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- SVILUPPA LA TUA CITTÀ CON I DADI: fai crescere la tua antica città. Costruisci edifici e la tua Meraviglia, rafforza il tuo esercito... tutto inizia con la scelta giusta dei dadi.
-- FINO A 7 GIOCATORI: grazie alle azioni simultanee, puoi giocare in 2 o in 7 senza pause.
-- SCOPRI 7 WONDERS: tutto il mondo del gioco da tavolo più premiato al mondo (As Dor 2011 Gioco dellanno Premio della giuria, Kennerspiel des Jahres Gioco esperto dellanno nel 2011...).
 - ACCESSIBILE E RIGIOCABILE: perfetto per famiglie con bambini dai 10 anni in su o per appassionati, per partite brevi e veloci. Grazie ai suoi 7 tabelloni diversi, puoi giocare senza mai stancarti.
+- SVILUPPA LA TUA CITTÀ CON I DADI: fai crescere la tua antica città. Costruisci edifici e la tua Meraviglia, rafforza il tuo esercito... tutto inizia con la scelta giusta dei dadi.
+- SCOPRI 7 WONDERS: tutto il mondo del gioco da tavolo più premiato al mondo (As Dor 2011 Gioco dellanno Premio della giuria, Kennerspiel des Jahres Gioco esperto dellanno nel 2011...).
+- FINO A 7 GIOCATORI: grazie alle azioni simultanee, puoi giocare in 2 o in 7 senza pause.
 - UN ROLL & WRITE STRATEGICO: 7 Wonders è facile da imparare, ma i suoi dilemmi tattici piaceranno un sacco a chi ama i giochi intelligenti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

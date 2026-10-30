@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Effetto: la pelle è perfettamente rasata e il viso piacevolmente rinfrescato
 - Prodotto: gel dopobarba, per pelli sensibili, con minerali, idrata e allo stesso tempo crea sulla cute uno strato protettivo contro gli arrossamenti
+- Formula: con aloe vera ed estratto di alghe rosse, ha proprietà riparatrici ed emollienti, crea un film protettivo che contrasta gli arrossamenti
 - Applicazione: applicare dopo la rasatura
 - Contenuto: 1x Gel Dopobarba per Pelli Sensibili; quantità: 120 ml
-- Formula: con aloe vera ed estratto di alghe rosse, ha proprietà riparatrici ed emollienti, crea un film protettivo che contrasta gli arrossamenti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BGS8BSK8{{</world>}}

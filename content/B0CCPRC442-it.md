@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Prodotto Ufficiale AS Roma
 - Pantaloni da Bambino
+- Prodotto Ufficiale AS Roma
 - Con Stelle e Crest
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

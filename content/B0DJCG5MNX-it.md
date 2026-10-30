@@ -28,8 +28,8 @@ average: '29.99'
 
 ℹ️:
 
-- Dettagli del marchio PUMA
 - Costruzione con stivali alti
+- Dettagli del marchio PUMA
 - Impermeabilizzazione PureTeX
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

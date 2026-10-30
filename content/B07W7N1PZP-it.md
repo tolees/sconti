@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech G Yeti GX Dynamic Microfono a condensatore RGB per gaming - Nero | LIGHTSYNC microfono USB streaming supercardioide Plug and Play per PC/Mac'
-date: 2026-10-28 14:44:30
+date: 2026-10-30 13:42:16
 image: 'https://m.media-amazon.com/images/I/215TspPAshL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B07W7N1PZP/?tag=tolees00-21'
 descuento: '44.46'
-average: '88.48375'
+average: '86.6733333333334'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Manica lunga
-- Logo monogramma
 - Tessuto morbido
+- Logo monogramma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F4NTKK4P{{</world>}}

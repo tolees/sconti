@@ -28,11 +28,11 @@ average: '209.0'
 
 ℹ️:
 
-- Algoritmo di stabilizzazione RS di 3ª generazione - Ottieni una stabilizzazione delle immagini di livello professionale durante gli scatti dal basso o le riprese in modalità torcia.
-- Touchscreen a colori da 1,4" - Lo stabilizzatore è dotato di un touchscreen da 1,4" che mostra un nuovo design dellinterfaccia utente. Laccesso alle impostazioni più utilizzate è a portata di mano.
 - Ampia compatibilità - Grazie a motori potenti e coppia elevata, lo stabilizzatore RS 3 Mini ha una capacità di carico fino a 2 kg, consentendo unampia gamma di combinazioni di fotocamera e obiettivo.
-- Riprese verticali native - Per riprendere comodamente contenuti perfetti per i social, basta montare la piastra a sgancio rapido sul braccio verticale e il gioco è fatto.
 - Leggero e portatile (795 g) - RS 3 Mini è uno stabilizzatore per fotocamere compatto e pratico per i viaggi. Con un peso di soli 795 g, RS Mini 3 è facile da impugnare durante riprese prolungate.
+- Touchscreen a colori da 1,4" - Lo stabilizzatore è dotato di un touchscreen da 1,4" che mostra un nuovo design dellinterfaccia utente. Laccesso alle impostazioni più utilizzate è a portata di mano.
+- Algoritmo di stabilizzazione RS di 3ª generazione - Ottieni una stabilizzazione delle immagini di livello professionale durante gli scatti dal basso o le riprese in modalità torcia.
+- Riprese verticali native - Per riprendere comodamente contenuti perfetti per i social, basta montare la piastra a sgancio rapido sul braccio verticale e il gioco è fatto.
 - Controllo dellotturatore a Bluetooth - La fotocamera si riconnette automaticamente dopo lassociazione iniziale. Controlla facilmente lacquisizione di foto e video tramite lo stabilizzatore.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '14.07'
 
 ℹ️:
 
-- Composizione: 61% poliestere, 39% cotone
-- Maniche lunghe
 - Felpa da uomo della marca danese Jack & Jones
+- Maniche lunghe
 - Scollo rotondo, polsini elasticizzati su maniche e orlo
+- Composizione: 61% poliestere, 39% cotone
 - Vestibilità comoda
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

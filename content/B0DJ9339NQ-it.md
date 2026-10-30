@@ -28,8 +28,8 @@ average: '26.42'
 
 ℹ️:
 
-- Suola: gomma
 - Suola in gomma con più borchie a basso profilo
+- Suola: gomma
 - Iconica linguetta ripiegata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

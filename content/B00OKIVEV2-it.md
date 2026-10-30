@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- DIMENSIONI: 28 x 35 x 20 cm; Capacità: 18 L
 - SCHIENALE: imbottito e rivestito in tessuto; SPALLACCI: Ergonomici imbottiti
+- DIMENSIONI: 28 x 35 x 20 cm; Capacità: 18 L
 - TESSUTO: stone-washed
 - TASCHE: vano imbottito porta laptop fino a 13 pollici; tasca frontale e su pattina
 

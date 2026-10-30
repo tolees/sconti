@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- STILE DA GOLF: indumento progettato per una performance ottimale e un comfort duraturo sia sul campo che fuori. La vita speciale aiuta a mantenere al suo posto la camicia infilata.
-- DETTAGLI: presenta classiche tasche da pantaloni davanti e dietro, con una quinta tasca per magliette, pennarelli o monete.
-- VESTIBILITÀ SLIM: aderente lungo i fianchi e le cosce, con gamba affusolata. Vita bassa.
-- SGAMBATURA: 19 cm nella taglia US 32.
 - TESSUTO PERFORMANCE: allenati in tutta sicurezza con questi pantaloni da golf leggermente elasticizzati, con proprietà anti-umidità e anti-grinze.
+- DETTAGLI: presenta classiche tasche da pantaloni davanti e dietro, con una quinta tasca per magliette, pennarelli o monete.
+- STILE DA GOLF: indumento progettato per una performance ottimale e un comfort duraturo sia sul campo che fuori. La vita speciale aiuta a mantenere al suo posto la camicia infilata.
+- SGAMBATURA: 19 cm nella taglia US 32.
+- VESTIBILITÀ SLIM: aderente lungo i fianchi e le cosce, con gamba affusolata. Vita bassa.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B096YLLBYT{{</world>}}

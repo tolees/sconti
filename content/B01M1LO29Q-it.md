@@ -28,11 +28,11 @@ average: '10.17'
 
 ℹ️:
 
-- 100% Naturale: 0% Sale e olio Aggiunti, 0% Amidi e aromi Aggiunti
-- Senza coloranti* e conservanti*, *come per legge
 - Dallinizio dello svezzamento
+- 100% Naturale: 0% Sale e olio Aggiunti, 0% Amidi e aromi Aggiunti
 - Solo Pollo da allevamenti italiani selezionati
 - Prodotto in Italia. Con Pollo Italiano.
+- Senza coloranti* e conservanti*, *come per legge
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01M1LO29Q{{</world>}}

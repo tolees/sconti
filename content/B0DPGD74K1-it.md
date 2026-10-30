@@ -29,8 +29,8 @@ average: '16.86'
 ℹ️:
 
 - Con Selftan
-- Specially for the face
 - Holiday Fragance
+- Specially for the face
 - Protezione UVA UVB
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ average: '13.04'
 ℹ️:
 
 - Maglia morbida ed elastica
-- Spalle scese
 - Bottoni effetto tartarugato
+- Spalle scese
 - Bordi a costine
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

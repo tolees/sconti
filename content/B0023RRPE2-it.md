@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Fornito di attacco rimovibile 1/4-20
 - Stativo compatto con carico utile fino a 5 Kg
-- Si attacca agli altri per un trasporto ottimo
 - Spigot con filettatura 3/8
+- Si attacca agli altri per un trasporto ottimo
+- Fornito di attacco rimovibile 1/4-20
 - Lammortizzazione protegge le dita e le attrezzature montate sullo stativo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

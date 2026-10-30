@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dyson Asciugacapelli Supersonicnural Prussian Blu/rame 113277-01 | Motore Digitale V9 ad Alta Pressione Protezione dal Calore Estremo Impostazioni di Calore e Velocità Multiple'
-date: 2026-10-29 06:37:43
+date: 2026-10-30 14:27:46
 image: 'https://m.media-amazon.com/images/I/213MLvPmYVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0DT4XSTRW/?tag=tolees00-21'
 descuento: '28.65'
-average: '284.0'
+average: '279.0'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

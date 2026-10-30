@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Completo Letto Matrimoniale in puro cotone da 58 fili al cmq
-- Certificato Oeko-Tex
-- Prodotto intramente in Italia
 - Lavabile in lavatrice a 60°
+- Completo Letto Matrimoniale in puro cotone da 58 fili al cmq
+- Prodotto intramente in Italia
 - Composto da un lenzuolo 240 x 280 cm, un sottolenzuolo con angoli elasticizzati 175 x 200 cm, due federe 50 x 80 cm
+- Certificato Oeko-Tex
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08DKSDLNC{{</world>}}

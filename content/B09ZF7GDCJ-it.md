@@ -29,12 +29,12 @@ average: '11.8'
 ℹ️:
 
 - Dimensioni (L x H x P): 16. x 7.8 x 17.5
+- Piastra in ghisa
+- Piedini di appoggio antiscivolo
+- Spia di accensione
+- Regolazione temperatura
 - Alimentazione: AC 220 - 240 - 50/60Hz
 - Diametro piastra 11 cm
-- Piastra in ghisa
-- Spia di accensione
-- Piedini di appoggio antiscivolo
-- Regolazione temperatura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09ZF7GDCJ{{</world>}}

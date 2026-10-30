@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'VASAGLE Tavolino da Salotto con Piano Sollevabile Molla a Gas | Tavolino da Caffè Vano Nascosto Ripiano Aperto Marrone Cammello e Nero Inchiostro Collezione MIRANTA LCT267LB01'
-date: 2026-10-22 10:12:16
+date: 2026-10-30 17:17:42
 image: 'https://m.media-amazon.com/images/I/41OQwXBC2cL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

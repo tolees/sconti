@@ -29,8 +29,8 @@ average: '7.88'
 ℹ️:
 
 - Estremità smussata per lavorare in modo molto veloce e facile
-- Impugnatura ergonomica
 - Finitura fosfatata nera
+- Impugnatura ergonomica
 - Set composto da 1.5, 2, 2.5, 3, 4, 5, 6 e 8 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

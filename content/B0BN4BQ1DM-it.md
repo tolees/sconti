@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Tapo C225 Telecamera WiFi Interno di Sicurezza Domestica Pan/Tilt AI 2K QHD Sorveglianza Visione Notturna Rilevamento del Movimento Sensore di Luce Stellare Compatibile con Alexa'
-date: 2026-03-03 14:09:01
+title: 'Tapo C225 2K QHD Telecamera WiFi Interno Videocamera Sorveglianza 360° PTZ | Per Bambini e Animali Visione Notturna Starlight Rilevamento Movimento Audio Bidirezionale Tasto Privacy Fisico'
+date: 2026-10-29 14:53:24
 image: 'https://m.media-amazon.com/images/I/4175E9PzG3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0BN4BQ1DM-it Tapo C225 Telecamera WiFi Interno di Sicurezza Domestica...'
+slug: 'B0BN4BQ1DM-it Tapo C225 2K QHD Telecamera WiFi Interno Videocamera...'
 sku: 'B0BN4BQ1DM-it'
 tags: [ '🇮🇹', ]
-actualPrice: 36.83 EUR
+actualPrice: 49.99 EUR
 currency: EUR
-price: 36.83
-comparePrice: 47.07 EUR
-prodname: 'Tapo C225 Telecamera WiFi Interno di Sicurezza Domestica Pan/Tilt AI 2K QHD Sorveglianza Visione Notturna Rilevamento del Movimento Sensore di Luce Stellare Compatibile con Alexa'
+price: 49.99
+comparePrice: 69.99 EUR
+prodname: 'Tapo C225 2K QHD Telecamera WiFi Interno Videocamera Sorveglianza 360° PTZ | Per Bambini e Animali Visione Notturna Starlight Rilevamento Movimento Audio Bidirezionale Tasto Privacy Fisico'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0BN4BQ1DM/?tag=tolees00-21'
-descuento: '21.75'
-average: '43.3875'
+descuento: '28.58'
+average: '45.5883333333333'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,15 +28,6 @@ average: '43.3875'
 
 ℹ️:
 
-- Supporto per microsd card fino a 512 gb
-- Allarme sonoro e luminoso: attiva effetti sonori e luminosi per spaventare i visitatori indesiderati
-- Smart Motion Tracking: traccia e segue un soggetto, mantenendolo allinterno del campo visivo della fotocamera.
-- Configurazione semplice: segui le istruzioni in-app per configurare facilmente in pochi minuti
-- Modalità privacy fisica: mantieni la privacy con lobiettivo bloccato dallalloggiamento quando la modalità privacy fisica è abilitata.
-- Audio bidirezionale: consente la comunicazione tramite un microfono e un altoparlante integrati.
-- Sensore Starlight: il sensore Starlight ad alta sensibilità cattura immagini di qualità superiore anche in condizioni di scarsa illuminazione.
-- Panoramica e inclinazione: offre un campo visivo orizzontale a 360°
-- Rilevamento e notifica Smart AI: lIA intelligente identifica persone, animali domestici e veicoli riconoscendo anche suoni anomali, avvisando gli utenti se necessario
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BN4BQ1DM{{</world>}}

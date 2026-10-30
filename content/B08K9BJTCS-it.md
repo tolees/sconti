@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Test di gravidanza Clearblue Rilevazione Rapida 3'
-date: 2026-10-15 17:13:02
+date: 2026-10-30 14:42:36
 image: 'https://m.media-amazon.com/images/I/51ooWOA5T4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B08K9BJTCS/?tag=tolees00-21'
 descuento: '28.08'
-average: '10.83'
+average: '10.8757142857143'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

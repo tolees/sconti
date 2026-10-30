@@ -30,8 +30,8 @@ average: '12.4583333333333'
 
 - Contenuto: plancia di gioco, personaggi sagomati, spinner con freccia, istruzioni
 - Percezione e psicomotricità, coordinazione occhio mano, manualità fine, memoria e attenzione, creatività
-- Il gioco delloca di hot whels
 - Il gioco delloca di hot whels, grande plancia di gioco, con tante caselle, da 2 a 4 giocatori
+- Il gioco delloca di hot whels
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B5GKHBCJ{{</world>}}

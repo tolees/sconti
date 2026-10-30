@@ -28,10 +28,10 @@ average: '1.55'
 
 ℹ️:
 
-- Faremo il possibile per consegnarti questo prodotto ad almeno 45 giorni dalla scadenza
 - Twining of London Tè English Breakfast Classics
-- 25 Filtri
 - Twinings
+- Faremo il possibile per consegnarti questo prodotto ad almeno 45 giorni dalla scadenza
+- 25 Filtri
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01M09FFC1{{</world>}}

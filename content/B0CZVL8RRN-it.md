@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Orli a coste
-- Tasca a marsupio
-- Taglio leggermente corto sul retro
 - Cappuccio regolabile con cordino
+- Taglio leggermente corto sul retro
+- Tasca a marsupio
 - Spalle basse
+- Orli a coste
 - 55% cotone / 36% poliestere (riciclato) / 9% viscosa
 - Calzata regolare
 - Questo prodotto contiene almeno il 70% di materiali riciclati e rinnovabili

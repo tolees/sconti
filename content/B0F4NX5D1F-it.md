@@ -28,8 +28,8 @@ average: '46.74'
 
 ℹ️:
 
-- Taglio urbano per uso quotidiano
 - Tessuto denim
+- Taglio urbano per uso quotidiano
 - Vestibilità regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

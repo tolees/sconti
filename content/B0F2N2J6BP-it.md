@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Applicare mattino e/o sera su tutto il corpo massaggiando delicatamente fino a completo assorbimento.
 - Nuovo balsamo corpo studiato per pelle sensibile e molto secca, dona idratazione profonda fino a 48h.
+- Applicare mattino e/o sera su tutto il corpo massaggiando delicatamente fino a completo assorbimento.
 - Texture ricca e cremosa, ideale per un piacevole massaggio. Formula senza profumo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

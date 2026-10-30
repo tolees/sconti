@@ -28,10 +28,10 @@ average: '17.99'
 
 ℹ️:
 
-- Qualità robusta
-- Maniche lunghe
 - Chiusura: bottoni
+- Maniche lunghe
 - Taglio dritto
+- Qualità robusta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00EO321WY{{</world>}}

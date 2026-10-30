@@ -29,8 +29,8 @@ average: '4.9'
 ℹ️:
 
 - Incluso nella confezione: - Batteria - Cavo
-- Con una capacità di 2000 mAh aggiunge una carica supplementare al tuo joystick che ti permetterà di raddoppiare lautonomia di gioco.
 - Progettato appositamente per il controller Plays5 e non intralcia nessun movimento o pulsante e permette di giocare in libertà. La batteria è semplice da installare, è leggera e poco ingombrante.
+- Con una capacità di 2000 mAh aggiunge una carica supplementare al tuo joystick che ti permetterà di raddoppiare lautonomia di gioco.
 - N.B. Il pad non e incluso la foto e a scopo illustrativo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Aqara Motore Tapparelle E1 Zigbee Ricaricabile Richiede AQARA HUB | Timer E Voce Compatibile Con Homekit Alexa Google Durata Batteria 2 Mesi Installazione Facile Peso Max 3Kg'
-date: 2026-10-19 18:19:04
+date: 2026-10-29 15:18:48
 image: 'https://m.media-amazon.com/images/I/31Gkb4Tl1KL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

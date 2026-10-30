@@ -28,14 +28,14 @@ average: '279.99'
 
 ℹ️:
 
-- Batteria: 5000mAh per un esperienza di lunga durata, ricarica rapida SUPERVOOC 80W
-- Funzioni della fotocamera: Foto, Panorama, Macro, Video, Video Doppia Vista , Modalità Notte, Modalità Ritratto, HDExtra, Time Lapse, Slow Motion, Google Lens
 - OS Version: Android 14 & ColorOS 14.1
-- Fotocamere: Tripla fotocamera AI 50MP + 8MP + 2MP, fotocamera frontale 32MP, Flash posteriore
 - Contenuto della confezione: Smartphone, Cavo ricarica USB Type C, clip per estrarre la SIM x 1, Pellicola Protettiva, Manuale d’installazione x 1, Garanzia x 1
-- Sblocco schermo: Sblocco sotto il display
 - Display: 6,7” 120HZ AMOLED FHD+ con protezione visiva
 - Impermeabilità: IP65 resiste agli schizzi d’acqua e alla polvere
+- Sblocco schermo: Sblocco sotto il display
+- Funzioni della fotocamera: Foto, Panorama, Macro, Video, Video Doppia Vista , Modalità Notte, Modalità Ritratto, HDExtra, Time Lapse, Slow Motion, Google Lens
+- Batteria: 5000mAh per un esperienza di lunga durata, ricarica rapida SUPERVOOC 80W
+- Fotocamere: Tripla fotocamera AI 50MP + 8MP + 2MP, fotocamera frontale 32MP, Flash posteriore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D661PYYZ{{</world>}}

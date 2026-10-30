@@ -28,9 +28,9 @@ average: '11.74'
 
 ℹ️:
 
+- Idoneo ai vegetariani
 - Perfect flavour in every bite
 - Concediti una porzione o servile come gustoso snack da condividere
-- Idoneo ai vegetariani
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B077SZYRS9{{</world>}}

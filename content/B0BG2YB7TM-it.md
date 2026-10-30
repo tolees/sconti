@@ -28,10 +28,10 @@ average: '18.81'
 
 ℹ️:
 
-- Rimuove fino al 100% di sporco, grasso e sporcizia. Rimuove macchie e odori
-- Profumo naturale di marsiglia e lavanda
 - Detergente tradizionale
+- Profumo naturale di marsiglia e lavanda
 - Sicuro a contatto con gli alimenti
+- Rimuove fino al 100% di sporco, grasso e sporcizia. Rimuove macchie e odori
 - Con ingredienti a base vegetale (82% del tensioattivo totale, soggetto a processi di lavorazione)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

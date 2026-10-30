@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Midea Friggitrice ad Aria Verticale Doppia Zona 10 in 1 11L 2400W | 2 Cassetti 6L & 5L Componenti Antiaderenti Lavabili in Lavastoviglie Connettività Wi-Fi Compatibile con App Nero'
-date: 2026-10-26 12:39:44
+date: 2026-10-29 18:11:26
 image: 'https://m.media-amazon.com/images/I/31ODqaKzNWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0GXZPF1BC/?tag=tolees00-21'
 descuento: '40.03'
-average: '96.5666666666667'
+average: '95.6142857142858'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

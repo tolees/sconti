@@ -28,8 +28,8 @@ average: '78.0'
 
 ℹ️:
 
-- Suola a tappini ispirata alle scarpe da trail running 355
 - Marchio lineare in posizione centrale con testo "New Balance"
+- Suola a tappini ispirata alle scarpe da trail running 355
 - Grande marchio N
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

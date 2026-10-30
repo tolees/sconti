@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Colore blu
-- Colore fusto trasparente
 - Punta 0,7 mm
 - Colore: blu
+- Colore fusto trasparente
+- Colore blu
 - Tratto 0,7 mm
 - Punta 0,7mm
 

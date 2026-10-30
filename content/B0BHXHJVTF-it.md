@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Vita media
-- Jeans affusolati
 - Composizione materiale: 98% cotone organico, 2% elastan
 - Vestibilità affusolata
+- Vita media
+- Jeans affusolati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BHXHJVTF{{</world>}}

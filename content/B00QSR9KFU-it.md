@@ -28,11 +28,11 @@ average: '13.05'
 
 ℹ️:
 
-- Carta da 60 g/m² per luso quotidiano
-- Dimensioni 21,6 x 29,8 cm
-- Linea larga (8,7 mm) per manoscritti più grandi e buona leggibilità
-- Di solito questo prodotto è adatto per penne ad acqua, penne, matite e altre penne tradizionali
 - Perforato per una facile rimozione delle lastre
+- Carta da 60 g/m² per luso quotidiano
+- Linea larga (8,7 mm) per manoscritti più grandi e buona leggibilità
+- Dimensioni 21,6 x 29,8 cm
+- Di solito questo prodotto è adatto per penne ad acqua, penne, matite e altre penne tradizionali
 - 12 taccuini gialli da 50 fogli ciascuno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Resistente allacqua fino a 100 m: può essere indossato il bagno, il nuoto o lo snorkeling e le immersioni poco profonde
 - Cassa da 50 mm, larghezza della banda di 24 mm, vetro minerale, movimento cronografo al quarzo, importato
-- Cassa rotonda in acciaio inossidabile con quadrante nero
 - Bracciale in vera pelle nera
+- Cassa rotonda in acciaio inossidabile con quadrante nero
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0066T2GAQ{{</world>}}

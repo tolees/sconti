@@ -28,9 +28,9 @@ average: '25.26'
 
 ℹ️:
 
-- MODO DUSO: Sciogliere il contenuto di due misurini colmi in 250 ml di acqua non gassata utilizzando uno shaker. Si consiglia fino a una dose al giorno a seconda dell’attività svolta e della dieta.
 - GUSTO CACAO: Delizioso sapore di cacao, facile da preparare e portare in palestra
 - VEGAN FRIENDLY: Certificato Vegan OK, adatto a diete vegane e vegetariane
+- MODO DUSO: Sciogliere il contenuto di due misurini colmi in 250 ml di acqua non gassata utilizzando uno shaker. Si consiglia fino a una dose al giorno a seconda dell’attività svolta e della dieta.
 - PROTEINE IN POLVERE: Ogni dose offre 21g di proteine isolate da pisello e fava, ideali per il tuo workout
 - SUPPORTO MUSCOLARE: Ottimizza la crescita muscolare con un mix proteico 100% vegetale.
 

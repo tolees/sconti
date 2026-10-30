@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Logitech G PRO X SUPERLIGHT 2 - mouse gaming wireless - Nero'
-date: 2026-10-10 19:37:24
-image: 'https://m.media-amazon.com/images/I/21n2pxkU6YL._SL500_._SL400_.jpg'
+title: 'Logitech G PRO X SUPERLIGHT 2 - mouse gaming wireless - Nero | Pro-Grade 60 g 5 pulsanti programmabili sensore 44.000 DPI 8 kHz ricarica USB-C per PC/Mac'
+date: 2026-10-30 08:41:32
+image: 'https://m.media-amazon.com/images/I/21bbBCGR+tL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07W5JKP66-it Logitech G PRO X SUPERLIGHT 2 - mouse gaming wireless - Nero'
+slug: 'B07W5JKP66-it Logitech G PRO X SUPERLIGHT 2 - mouse gaming wireless -...'
 sku: 'B07W5JKP66-it'
 tags: [ '🇮🇹', ]
-actualPrice: 84.96 EUR
+actualPrice: 99.0 EUR
 currency: EUR
-price: 84.96
+price: 99.0
 comparePrice: 159.99 EUR
-prodname: 'Logitech G PRO X SUPERLIGHT 2 - mouse gaming wireless - Nero'
+prodname: 'Logitech G PRO X SUPERLIGHT 2 - mouse gaming wireless - Nero | Pro-Grade 60 g 5 pulsanti programmabili sensore 44.000 DPI 8 kHz ricarica USB-C per PC/Mac'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B07W5JKP66/?tag=tolees00-21'
-descuento: '46.90'
-average: '108.31744680851'
+descuento: '38.12'
+average: '107.937142857143'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

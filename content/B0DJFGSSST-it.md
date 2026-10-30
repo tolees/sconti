@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Belkin BoostCharge Power Bank 10000mAh con Cavo USB-C Integrato - Nero | Caricatore Portatile 10000mAh Ricarica 2 Dispositivi 1 USB-C + Cavo USB-C 20W LED Sicuro per l Aereo Pre-Caricato'
-date: 2026-10-16 02:14:44
+date: 2026-10-29 12:57:18
 image: 'https://m.media-amazon.com/images/I/319s4tYiGPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0DJFGSSST/?tag=tolees00-21'
 descuento: '40.01'
-average: '17.3233333333333'
+average: '17.49'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Effetto “usato” attraverso l’ottica slavata vintage.
 - Materiale robusto e di facile manutenzione.
-- Maniche lunghe.
+- Effetto “usato” attraverso l’ottica slavata vintage.
 - Giacca Streetwear in stile M65.
+- Maniche lunghe.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00EDK1NO0{{</world>}}

@@ -28,11 +28,11 @@ average: '5.648'
 
 ℹ️:
 
+- Materassino con cuscino e 18 buchi, 188x71 cm
+- Prodotto in vinile spesso 0,28 mm
 - Dotato di due camere daria e cuscino per comfort
 - Toppa di riparazione inclusa
 - Peso massimo supportato: 100 kg
-- Prodotto in vinile spesso 0,28 mm
-- Materassino con cuscino e 18 buchi, 188x71 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00007IKAM{{</world>}}

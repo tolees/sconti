@@ -28,8 +28,8 @@ average: '22.99'
 
 ℹ️:
 
-- Vestibilità : Regular Fit
 - Tipologia di prodotto : Bermuda chino
+- Vestibilità : Regular Fit
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CHQYBMF5{{</world>}}

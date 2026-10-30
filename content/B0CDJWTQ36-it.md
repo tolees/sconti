@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Materiale: Resistente
-- Statuetta da collezione || Molto confortevole
-- Non può mancare a casa tua!
 - Funko Pop! con le seguenti caratteristiche:
 - Anime, Fan merch, Serie TV
+- Statuetta da collezione || Molto confortevole
+- Non può mancare a casa tua!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CDJWTQ36{{</world>}}

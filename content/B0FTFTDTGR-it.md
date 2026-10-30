@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Editions Lionel Messi – Celebrazione 43018 | Giochi per bambini e bambine da 14 anni wall art 3D fai da te decorazione da parete per cameretta idea regalo 1427 pezzi'
-date: 2026-10-28 10:40:48
+date: 2026-10-30 15:17:29
 image: 'https://m.media-amazon.com/images/I/51r8vFsu1fL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0FTFTDTGR/?tag=tolees00-21'
 descuento: '44.50'
-average: '112.172631578948'
+average: '111.003809523809'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

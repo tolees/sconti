@@ -28,10 +28,10 @@ average: '61.7'
 
 ℹ️:
 
-- Tipo di chiusura: a moschettone
-- Finitura: lucida
 - Materiale: argento 925
 - Colore: argento
+- Tipo di chiusura: a moschettone
+- Finitura: lucida
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CBN3VQJ1{{</world>}}

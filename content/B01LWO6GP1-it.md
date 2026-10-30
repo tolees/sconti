@@ -31,8 +31,8 @@ average: '5.9'
 - Pareti concave per facilitare limpugnatura
 - Porta da bere a scuola, in ufficio e ovunque ti trovi con questa borraccia quadrata in stile rétro
 - Tappo avvitabile a tenuta ermetica per trasporto senza fuoriuscite
-- Lavabile in lavastoviglie (cestello superiore)
 - Progettato e prodotto in Nuova Zelanda, senza ftalati e senza BPA
+- Lavabile in lavastoviglie (cestello superiore)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01LWO6GP1{{</world>}}

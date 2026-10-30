@@ -28,12 +28,12 @@ average: '18.305'
 
 ℹ️:
 
-- Anche gli adulti vorranno giocare
-- Una variante super divertente e colorata del classico gioco in scatola Non Calpestarla
 - Gioca con i tuoi amici o anche da solo
 - Versione Italiana
 - Divertiti ad evitare la cacca bendato
 - Include un morbido composto stampabile
+- Una variante super divertente e colorata del classico gioco in scatola Non Calpestarla
+- Anche gli adulti vorranno giocare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07N9HSH1F{{</world>}}

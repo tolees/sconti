@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Soletta in tessuto
-- Tomaia in materiale sintetico
 - Suola in gomma
+- Tomaia in materiale sintetico
+- Soletta in tessuto
 - Vestibilità regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ average: '33.6228571428572'
 
 ℹ️:
 
-- Orlo arrotondato
 - Materiale aderente
+- Orlo arrotondato
 - Logo Levis sul petto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

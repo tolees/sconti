@@ -28,10 +28,10 @@ average: '37.66'
 
 ℹ️:
 
-- Tracolla 24 cm x 16 cm x 9 cm realizzata in poliestere e dettagli in finta pelle.
 - Tasca interna con cerniera e tre scomparti per le carte.
 - Scomparto principale con due tasche interne, una delle quali con chiusura lampo.
 - Tracolla regolabile per un maggiore comfort.
+- Tracolla 24 cm x 16 cm x 9 cm realizzata in poliestere e dettagli in finta pelle.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DY84Z17C{{</world>}}

@@ -28,9 +28,9 @@ average: '115.0'
 
 ℹ️:
 
-- Materiale: Acciaio,Pelle
-- orologio al quarzo Michael Kors donna Micro Lexington
 - Marca: Michael Kors
+- orologio al quarzo Michael Kors donna Micro Lexington
+- Materiale: Acciaio,Pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F24QZ6S9{{</world>}}

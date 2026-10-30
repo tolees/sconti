@@ -28,11 +28,11 @@ average: '41.92'
 
 ℹ️:
 
-- Tasca posteriore esterna
 - Manico rimovibile tipo borsa
+- Tasca posteriore esterna
+- Dettagli incisi
 - Vari scomparti interni
 - Chiusura: patta e cerniera
-- Dettagli incisi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DWT183W9{{</world>}}

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Lo storico gioco del mercante in fiera
-- 2 mazzi da 40 carte in cartoncino
 - Istruzioni incluse in italiano
+- 2 mazzi da 40 carte in cartoncino
+- Lo storico gioco del mercante in fiera
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B008DUIISU{{</world>}}

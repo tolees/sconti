@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Magnetic Power Bank –10000 mAh Magnetico Powerbank for iPhone | Compatible with iPhone 18 17 16 15 Series Wireless Quick Charger USB‑C Input & Output LED Display'
-date: 2026-10-28 12:05:06
+date: 2026-10-29 17:08:43
 image: 'https://m.media-amazon.com/images/I/41IdQVL07UL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

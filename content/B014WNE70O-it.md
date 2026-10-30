@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Croccanti, dorati e gustosi fiocchi di mais
-- Con aggiunta di vitamine
 - Conservare in luogo fresco ed asciutto
+- Con aggiunta di vitamine
 - Il mais usato è varietà coltivata da agricoltori in Argentina
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

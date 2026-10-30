@@ -29,8 +29,8 @@ average: '14.64'
 ℹ️:
 
 - Deterge la pelle lasciandola morbida e liscia
-- Senza solfati: SLES
 - Morbidezza 24h e nutrimento profondo
+- Senza solfati: SLES
 - 100% detergenti delicati
 - Ottimale per una rasutura perfetta sotto la doccia
 

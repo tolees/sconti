@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ALPRO CLASSICO Bevanda alla SOIA Naturalmente Senza Lattosio con Vitamine B2 B12 e D2-8 confezioni da 500 ml'
-date: 2026-10-23 12:18:45
+date: 2026-10-30 06:52:16
 image: 'https://m.media-amazon.com/images/I/419KgeQ3gEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0D62XSMDN/?tag=tolees00-21'
 descuento: '53.13'
-average: '7.665'
+average: '7.43571428571428'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

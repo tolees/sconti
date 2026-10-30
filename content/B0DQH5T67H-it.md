@@ -28,9 +28,9 @@ average: '83.36'
 
 ℹ️:
 
-- Lavabile in lavatrice
 - Schiuma di memoria raffreddata ad aria
 - Slip Ins integrati
+- Lavabile in lavatrice
 - Prodotto vegano
 - Glide-Step
 

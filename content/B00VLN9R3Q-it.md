@@ -28,8 +28,8 @@ average: '18.1'
 
 ℹ️:
 
-- Prodotto di ottima qualità
 - Facile da indossare
+- Prodotto di ottima qualità
 - Vestibilità comoda
 - Questo è un prodotto originale Levis
 

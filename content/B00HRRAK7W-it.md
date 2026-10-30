@@ -28,11 +28,11 @@ average: '26.3571065989846'
 
 ℹ️:
 
-- La famiglia dei ricci; set di 4 pezzi: padre, madre, fratello e sorella
-- Ottima idea di regalo
 - Arti e teste mobili
+- Ottima idea di regalo
 - number_of_players:1
 - Mamma e papa sono alti circa 6 cm
+- La famiglia dei ricci; set di 4 pezzi: padre, madre, fratello e sorella
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00HRRAK7W{{</world>}}

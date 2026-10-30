@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Montalatte elettrico; capacità: 115 ml di latte caldo montato o 240 ml di latte caldo
-- Spegnimento automatico
 - Contiene una frusta per montare il latte e una per scaldarlo
+- Spegnimento automatico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00JB66CJC{{</world>}}

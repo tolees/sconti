@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'UGREEN 45W Caricatore USB C Ricarica Rapida 5 Porte GaN Spina da Parete | Compatibile con iPhone 18 Pro Max 17 Air 16 15 Plus Pixel 10 9 Pro 7a Galaxy S26 S25 S24 Ultra A57 A76 iPad MacBook Air'
-date: 2026-10-28 16:51:26
+date: 2026-10-29 17:18:28
 image: 'https://m.media-amazon.com/images/I/21QKPwf9lSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0FJW8C9MB/?tag=tolees00-21'
 descuento: '30.59'
-average: '17.9933333333333'
+average: '18.005'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

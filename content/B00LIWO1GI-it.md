@@ -28,11 +28,11 @@ average: '8.34'
 
 ℹ️:
 
-- Regolazione Angolo orizzontale
+- Progettato per altoparlanti piccoli e medie
 - Colore: Nero
 - Marca: Maclean Brackets
+- Regolazione Angolo orizzontale
 - Carico MAX: 3.5 kg
-- Progettato per altoparlanti piccoli e medie
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00LIWO1GI{{</world>}}

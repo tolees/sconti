@@ -28,10 +28,10 @@ average: '11.49'
 
 ℹ️:
 
-- Facile da installare
 - Universale misura
-- Aumenta la resistenza e riduce graffi
 - 100% in alluminio
+- Facile da installare
+- Aumenta la resistenza e riduce graffi
 - Set battitacco portiere misure 45x4 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

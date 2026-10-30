@@ -28,9 +28,9 @@ average: '6.99'
 
 ℹ️:
 
-- Adatto per tre palle
-- Forma: ottagonale
 - Realizzato in materiale riciclabile 100%
+- Forma: ottagonale
+- Adatto per tre palle
 - Prodotto realizzato in materiale di alta qualità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

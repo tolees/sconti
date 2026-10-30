@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Equilibra Sostegno Forte con Creatina e Arginina 22 Bustine Monodose | con Vitamine C e B1 per Incrementare le Prestazioni Fisiche con Succo Concentrato di Arancio Pratico Formato Monodose'
-date: 2026-10-27 07:24:31
+date: 2026-10-30 17:05:48
 image: 'https://m.media-amazon.com/images/I/51keelZsqdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B07P45RJBK/?tag=tolees00-21'
 descuento: '58.24'
-average: '7.63933333333333'
+average: '7.39352941176471'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

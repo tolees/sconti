@@ -28,13 +28,13 @@ average: '24.01'
 
 ℹ️:
 
-- Girocollo a coste
-- Polsini e orli a coste
-- Taglio leggermente corto sul retro
 - 55% cotone / 36% poliestere (riciclato) / 9% viscosa
+- Taglio leggermente corto sul retro
 - Questo prodotto contiene almeno il 70% di materiali riciclati e rinnovabili
-- Spalle basse
+- Polsini e orli a coste
+- Girocollo a coste
 - Calzata regolare
+- Spalle basse
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D19HQ85G{{</world>}}

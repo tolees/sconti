@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Tasca sul retro ottime per riporre in preservazione carte e banconote
-- Logo Eastpak sul davanti
 - Tessuto idrorepellente
+- Logo Eastpak sul davanti
 - Realizzato in resistente poliestere
 - Scomparto principale dotato di spazio posteriore con cerniera per carte o contanti
 - Cinghia in vita regolabile per indossarlo con leggerità

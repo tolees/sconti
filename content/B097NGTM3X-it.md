@@ -28,8 +28,8 @@ average: '8.07'
 
 ℹ️:
 
-- Materiale esterno: tomaia multicolore con sfumatura e pin ROXY
 - Suola esterna: suola in gomma
+- Materiale esterno: tomaia multicolore con sfumatura e pin ROXY
 - Plantare: plantare in gomma testurizzata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

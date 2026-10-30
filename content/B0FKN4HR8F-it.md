@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony INZONE E9 Cuffie gaming in-ear ottimizzate Fnatic EQ regolabile | In-Ear co-sviluppate con Fnatic 360 Spatial Sound isolamento acustico audio FPS comfort leggero PC – Nero'
-date: 2026-10-28 11:07:33
+date: 2026-10-30 15:11:42
 image: 'https://m.media-amazon.com/images/I/31U0MBhRmKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

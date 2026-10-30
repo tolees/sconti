@@ -28,10 +28,10 @@ average: '5.85'
 
 ℹ️:
 
-- 112 immagini esilaranti, carte realizzate in modo ottimale
 - 56 carte, 60 tessere, regolamento
-- Per esperti di meme e costruttori di risate
 - Autonomia, logica, creatività
+- Per esperti di meme e costruttori di risate
+- 112 immagini esilaranti, carte realizzate in modo ottimale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F1B94V9N{{</world>}}

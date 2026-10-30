@@ -28,8 +28,8 @@ average: '12.99'
 
 ℹ️:
 
-- Vestibilità classica
 - Girocollo
+- Vestibilità classica
 - Maniche corte
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

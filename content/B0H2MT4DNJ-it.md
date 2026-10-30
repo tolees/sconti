@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Yankee Candle Set regalo di candele profumate Natale | Calendario dell’Avvento Albero – Edizione da Collezione | Regali di Natale perfetti per donne'
-date: 2026-10-26 10:59:18
-image: 'https://m.media-amazon.com/images/I/414Pq8HGN9L._SL500_._SL400_.jpg'
+date: 2026-10-29 18:37:42
+image: 'https://m.media-amazon.com/images/I/41abygZ7-uL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Materiale esterno: Sintetico
 - Fodera: Tessuto
+- Materiale esterno: Sintetico
 - Materiale suola: Gomma
 - Chiusura: Stringata
 

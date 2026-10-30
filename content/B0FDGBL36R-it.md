@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Con fibbia ovale in metallo
 - Aggiunga un po di raffinatezza al tuo look con questa cintura in pelle martellata
 - Placca con monogramma TH abbinata
+- Con fibbia ovale in metallo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FDGBL36R{{</world>}}

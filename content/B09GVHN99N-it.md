@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'ALPRO PROTEIN 50g Bevanda alla SOIA al gusto CIOCCOLATO - 8x1L | NATURALMENTE SENZA LATTOSIO E 100% VEGETALE Alto Contenuto Proteico'
-date: 2026-10-21 07:23:29
-image: 'https://m.media-amazon.com/images/I/41gt6mpCZnL._SL500_._SL400_.jpg'
+date: 2026-10-30 10:15:51
+image: 'https://m.media-amazon.com/images/I/4163L1MRKrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B09GVHN99N/?tag=tolees00-21'
 descuento: '32.09'
-average: '16.916'
+average: '16.5294117647059'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

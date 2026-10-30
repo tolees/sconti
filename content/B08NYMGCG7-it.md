@@ -29,8 +29,8 @@ average: '20.99'
 ℹ️:
 
 - Tessuto traspirante
-- Girovita elasticizzato con cordino
 - Taglio regolare
+- Girovita elasticizzato con cordino
 - Colore: nero/(bianco)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

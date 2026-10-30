@@ -29,9 +29,9 @@ average: '6.065'
 ℹ️:
 
 - Elimina la sovrapposizione tra le spine
-- Prolunga progettata per gli spazi piccoli con una configurazione salvaspazio
 - Lunghezza 50cm. Cavo H05VV-F 3G0.75mm
 - Spina Piatta Italiana Piccola 10A. Presa Piccola 10A
+- Prolunga progettata per gli spazi piccoli con una configurazione salvaspazio
 - Estensione ideale per gli alimentatori voluminosi in spazi nascosti o ristretti, come dietro i mobili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

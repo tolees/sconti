@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Ottimo come aperitivo, si abbina elegantemente agli antipasti e ai primi piatti delicati, in particolare quelli a base di pesce di origine mediterranea
 - PROFUMO: Profumo caratteristico, tipicamente fruttato e floreale, con sentori di mela golden e fiori bianchi
-- GUSTO: Sapore delicato, armonico, piacevole con eleganti note fruttate e retrogusto leggermente sapido
 - Il Prosecco DOC Cuvée i Magredi rappresenta un importante progetto di filiera di Valdo Spumanti; creato per dare una forte impronta territoriale allo spumante, questo Prosecco DOC viene prodotto con uve interamente raccolte e vinificate dallazienda agricola I Magredi
 - COLORE: Giallo paglierino con tenuti riflessi verdolini
+- GUSTO: Sapore delicato, armonico, piacevole con eleganti note fruttate e retrogusto leggermente sapido
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B089K4QZB8{{</world>}}

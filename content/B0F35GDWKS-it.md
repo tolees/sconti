@@ -28,8 +28,8 @@ average: '78.0'
 
 ℹ️:
 
-- Etichetta tessuta sulla linguetta
 - Brand "New Balance" sul collare del tallone
+- Etichetta tessuta sulla linguetta
 - Punta traforata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

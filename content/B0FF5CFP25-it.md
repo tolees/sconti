@@ -28,12 +28,12 @@ average: '5.68'
 
 ℹ️:
 
-- CAMICIA MODERNA BUTTON-DOWN: rivisitazione ispirata alla moda maschile della classica camicia in popeline, con vestibilità oversize
 - SCELTO DA DEMI: questo prodotto della nostra nuova collezione Amazon Essentials è stato scelto da Demi Lovato
-- VESTIBILITÀ OVERSIZE: vestibilità comoda e ampia su spalle, petto e vita
-- DETTAGLI: colletto a punta, chiusura frontale con bottoni, polsino alto con bottone, piega sul carré posteriore, orlo arrotondato, più lungo dietro
-- POPELINE ELASTICIZZATO: misto cotone ben strutturato con finitura liscia e un tocco di elasticità per maggiore comfort
 - LUNGHEZZA DEL CAPO: 71,1cm dal lato del collo nella taglia S (IT)
+- VESTIBILITÀ OVERSIZE: vestibilità comoda e ampia su spalle, petto e vita
+- POPELINE ELASTICIZZATO: misto cotone ben strutturato con finitura liscia e un tocco di elasticità per maggiore comfort
+- DETTAGLI: colletto a punta, chiusura frontale con bottoni, polsino alto con bottone, piega sul carré posteriore, orlo arrotondato, più lungo dietro
+- CAMICIA MODERNA BUTTON-DOWN: rivisitazione ispirata alla moda maschile della classica camicia in popeline, con vestibilità oversize
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FF5CFP25{{</world>}}

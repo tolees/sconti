@@ -28,10 +28,10 @@ average: '11.37'
 
 ℹ️:
 
-- Dermatologicamente testato su bambini in età pediatrica da 3 anni in su, ideale anche per le pelli più delicate e sensibili e per l’igiene quotidiana dei bambini
-- Formula dermotestata, senza sapone e a pH fisiologico, studiata per le pelli normali
 - Flacono in plastica 100% riciclata
+- Formula dermotestata, senza sapone e a pH fisiologico, studiata per le pelli normali
 - Con Puro Olio di Glicerina, studiato per restituire alla pelle la sua naturale idratazione e proteggerla ogni giorno
+- Dermatologicamente testato su bambini in età pediatrica da 3 anni in su, ideale anche per le pelli più delicate e sensibili e per l’igiene quotidiana dei bambini
 - Formato 600ml
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

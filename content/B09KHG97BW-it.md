@@ -28,12 +28,12 @@ average: '114.99'
 
 ℹ️:
 
-- Motore brushless
-- Tubo vuoto carrellato
 - Indicatore di batteria a bordo
-- Conversione soffiatore/aspiratore/mulching senza attrezzi
 - Pala della girante a 2 stadi
 - Design leggero ed ergonomico
+- Motore brushless
+- Conversione soffiatore/aspiratore/mulching senza attrezzi
+- Tubo vuoto carrellato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09KHG97BW{{</world>}}

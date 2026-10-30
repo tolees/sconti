@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Il profumo di limone infonde una naturale freschezza
 - Per 24 ore contro lodore di sudore
 - Non ostruisce i pori
 - Formula con puri oli essenziali naturali
+- Il profumo di limone infonde una naturale freschezza
 - Larticolo contiene 1X Weleda Deo Roll-on Limone (50 ml), deodorante roll dal vivace e fresco profumo di limone per 24 ore di protezione contro i cattivi odore di sudore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

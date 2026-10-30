@@ -28,11 +28,11 @@ average: '4.148'
 
 ℹ️:
 
-- Da 6 Mesi
 - Prodotto in Italia. Solo Mele e Pere Italiane.
 - Confezione tascabile e completamente riciclabile
-- Filiera tracciata e controllata
+- Da 6 Mesi
 - 100% Frutta. Con Vitamina C, solo gli zuccheri della frutta.
+- Filiera tracciata e controllata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0856FL9PN{{</world>}}

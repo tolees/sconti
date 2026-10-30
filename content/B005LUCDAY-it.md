@@ -28,8 +28,8 @@ average: '5.95'
 
 ℹ️:
 
-- Strumenti in Profi – qualitä
 - Chiavi combinate, 1/2 "
+- Strumenti in Profi – qualitä
 - Qualità originale BGS
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Lavabile in lavatrice
-- Memory foam raffreddato ad aria
 - Vegano
+- Memory foam raffreddato ad aria
+- Lavabile in lavatrice
 - Slip-in
 - Vestibilità elasticizzata
 

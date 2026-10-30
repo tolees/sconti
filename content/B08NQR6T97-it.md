@@ -31,8 +31,8 @@ average: '17.9'
 - Intensità: 11
 - Made in Italy: Gruppo Gimoka - Caffè per passione sin dagli anni 80, si impegna attivamente per sviluppare soluzioni di packaging facilmente riciclabili, compostabili ed ecosostenibili
 - Miscela: contiene Arabica dal Brasile e Papua Nuova Guinea e robusta dal Vietnam e Uganda
-- Formato: 100 capsule in alluminio salva aroma, per preservare tutta la freschezza del caffè
 - Profilo sensoriale: caffè dal gusto rotondo con note che richiamano il cioccolatato, caratterizzato da una tostatura scura
+- Formato: 100 capsule in alluminio salva aroma, per preservare tutta la freschezza del caffè
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08NQR6T97{{</world>}}

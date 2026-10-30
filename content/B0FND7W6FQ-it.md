@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Ripiega il retro per creare un robusto supporto che supporta la visualizzazione sia verticale che orizzontale
 - Book Cover di Samsung avvolge con eleganza il tuo Galaxy Tab
-- Marchio: Samsung
 - Grazie al design magnetico, puoi installare e rimuovere la cover con facilità
+- Marchio: Samsung
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FND7W6FQ{{</world>}}

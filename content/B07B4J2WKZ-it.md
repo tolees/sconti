@@ -29,11 +29,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - 5 Pale in Legno da 128cm diametro
+- venduto senza fonte di luce inclusa
 - 2 anni di garanzia
 - Con invertitore di direzione per il recupero del calore invernale
-- venduto senza fonte di luce inclusa
-- Con Lampada in vetro è possibile installare qualsiasi tipo di lampadina di tipo E27 standard
 - Con Telecomando a 3 velocità e timer
+- Con Lampada in vetro è possibile installare qualsiasi tipo di lampadina di tipo E27 standard
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07B4J2WKZ{{</world>}}

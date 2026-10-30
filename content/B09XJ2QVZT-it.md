@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Packaging sostenibile e riciclabile
 - Realizzati con ingredienti italiani
+- Packaging sostenibile e riciclabile
 - Frollini friabili, pensati per essere inzuppati
 - Frollini impreziositi con grandi e gustosi pezzi di cioccolato
 

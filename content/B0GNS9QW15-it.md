@@ -30,8 +30,8 @@ average: '19.855'
 
 - Da servire tra i 3 e i 5°C
 - Gusto meravigliosamente rinfrescante con note agrumate
-- Birra lager da 4,5% vol
 - Esperienza di bevuta che invita a un altro sorso
+- Birra lager da 4,5% vol
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GNS9QW15{{</world>}}

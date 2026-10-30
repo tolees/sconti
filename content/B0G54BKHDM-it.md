@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- FLACONE RICICLABILE: Flacone realizzato con plastica riciclata (esclusi tappo, coloranti e additivi) e riciclabile
-- FLACONE RICICLABILE: Flacone realizzato con plastica riciclata (esclusi tappo, coloranti e additivi) e riciclabile
-- Fino al 100% liberi dalla forfora (forfora visibile, con uso regolare)
-- Shampoo antiforfora Pulizia Profonda Capelli Grassi, con agrumi
 - Shampoo e flacone trasparenti per una nuova sensazione di pulizia profonda e rinfrescante
+- Fino al 100% liberi dalla forfora (forfora visibile, con uso regolare)
+- FLACONE RICICLABILE: Flacone realizzato con plastica riciclata (esclusi tappo, coloranti e additivi) e riciclabile
+- Shampoo antiforfora Pulizia Profonda Capelli Grassi, con agrumi
+- FLACONE RICICLABILE: Flacone realizzato con plastica riciclata (esclusi tappo, coloranti e additivi) e riciclabile
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

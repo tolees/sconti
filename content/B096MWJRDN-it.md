@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Chiusura: cinturino con fibbia
-- Materiale esterno: sintetico
 - Materiale interno: sintetico
+- Materiale esterno: sintetico
+- Chiusura: cinturino con fibbia
 - Suola: sintetica
 - Forma del tacco: piatto
 

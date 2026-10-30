@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Allergeni: Può contenere tracce di frumento, latte
 - Ottimo per il viaggio e feste
 - Con gusto da frutta e liqurizia
-- Allergeni: Può contenere tracce di frumento, latte
 - Caramelle gommose miste
 - Confezione da 500 g
 

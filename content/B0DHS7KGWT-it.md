@@ -28,10 +28,10 @@ average: '12.725'
 
 ℹ️:
 
-- Shampoo per lavare i capelli
 - cura dei capelli medica di alta qualità
-- Prodotto per ligiene personale della farmacia (PZN: 19405691)
 - antiforfora
+- Prodotto per ligiene personale della farmacia (PZN: 19405691)
+- Shampoo per lavare i capelli
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DHS7KGWT{{</world>}}

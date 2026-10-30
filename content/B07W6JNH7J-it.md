@@ -28,8 +28,8 @@ average: '172.31'
 
 ℹ️:
 
-- Illuminazione Intelligente
 - Automatizza le Attività Ripetitive
+- Illuminazione Intelligente
 - Esperienza di Digitazione Fluida
 - Veloce e Precisa
 - Scorrimento di 1000 Linee al Secondo

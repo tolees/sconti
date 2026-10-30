@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Un idea regalo originale
-- Noble collection
 - Perfetto per i veri amanti della celebre saga di harry potter
+- Noble collection
 - Dementor
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

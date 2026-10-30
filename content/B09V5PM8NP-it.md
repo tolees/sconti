@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- OCCHIALI DA LETTURA con aste leggermente allungate e ricurve, pensate per rimanere ben salde al collo e portare gli occhiali sempre con sé
+- CONTACTA una storia che nasce nel 2000, specializzati nel benessere degli occhi: lenti a contatto, soluzioni, gocce oculari, occhiali da lettura, occhiali da presbiopia, da sole e Blue Block
 - CARATTERISTICHE occhiali da lettura disponibili in tre combinazioni di colori: frontale blu con asta rossa, frontale verde con asta senape, frontale lampone con asta demi. Diottrie da +1,00 a +3,50
 - MONTATURA leggera che assicura comodità e comfort. La forma rettangolare, dalle linee morbide, si adatta ad ogni viso
-- CONTACTA una storia che nasce nel 2000, specializzati nel benessere degli occhi: lenti a contatto, soluzioni, gocce oculari, occhiali da lettura, occhiali da presbiopia, da sole e Blue Block
+- OCCHIALI DA LETTURA con aste leggermente allungate e ricurve, pensate per rimanere ben salde al collo e portare gli occhiali sempre con sé
 - CONTACTA HUG sono occhiali da lettura autoreggenti da collo, leggeri e funzionali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

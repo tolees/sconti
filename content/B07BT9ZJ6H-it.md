@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Finitura: lucido
-- Tipo di chiusura: post
 - Materiale: acciaio inossidabile
 - Colore: oro rosa
+- Finitura: lucido
+- Tipo di chiusura: post
 - Misurazioni: 10 (d)*2.0 (spessore) mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

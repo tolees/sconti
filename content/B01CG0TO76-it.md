@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'DURACELL 2032 Batterie a moneta al litio Confezione da 4 3V CR2032'
-date: 2026-10-14 07:40:12
+title: 'DURACELL 2032 Batterie a moneta al litio Confezione da 4 3V CR2032 | Fino a +70% di durata - Tecnologia Baby Secure - Per Apple AirTag chiavi auto dispositivi domestici sportivi e medici'
+date: 2026-10-29 14:21:26
 image: 'https://m.media-amazon.com/images/I/51VuLPKDs5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ '🇮🇹', ]
 actualPrice: 6.08 EUR
 currency: EUR
 price: 6.08
-comparePrice: 7.78 EUR
-prodname: 'DURACELL 2032 Batterie a moneta al litio Confezione da 4 3V CR2032'
+comparePrice: 7.69 EUR
+prodname: 'DURACELL 2032 Batterie a moneta al litio Confezione da 4 3V CR2032 | Fino a +70% di durata - Tecnologia Baby Secure - Per Apple AirTag chiavi auto dispositivi domestici sportivi e medici'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B01CG0TO76/?tag=tolees00-21'
-descuento: '21.85'
-average: '5.98235294117646'
+descuento: '20.94'
+average: '5.98777777777777'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

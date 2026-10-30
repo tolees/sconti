@@ -28,11 +28,11 @@ average: '39.0'
 
 ℹ️:
 
-- Punta con protezione
-- Fodera in tessuto
-- Suola in gomma
 - Tomaia in materiale sintetico
+- Fodera in tessuto
 - Calzata regolare
+- Suola in gomma
+- Punta con protezione
 - Chiusura con lacci
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

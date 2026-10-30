@@ -28,14 +28,14 @@ average: '55.0'
 
 ℹ️:
 
-- intersuola in EVA LIGHTMOTION
-- Chiusura con lacci
 - Peso: 410 g (misura 38 2/3)
-- Tomaia in Ripstop con rivestimenti.
+- intersuola in EVA LIGHTMOTION
 - Drop intersuola: 10 mm (tacco: 32 mm/avampiede: 22 mm)
-- Suola in gomma Continental
+- Tomaia in Ripstop con rivestimenti.
 - Vestibilità regolare
+- Chiusura con lacci
 - Soletta OrthoLite
+- Suola in gomma Continental
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F1XHN7YD{{</world>}}

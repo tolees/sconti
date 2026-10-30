@@ -28,9 +28,9 @@ average: '21.09'
 
 ℹ️:
 
-- Tejido | Punto sencillo de algodón 100 % de 180 g/m² Tallas | XS-XXL
-- Se puede lavar a máquina Colgar a secar Usar detergente suave Comprobar antes de lavar
 - Estampado gráfico al agua en la parte delantera
+- Se puede lavar a máquina Colgar a secar Usar detergente suave Comprobar antes de lavar
+- Tejido | Punto sencillo de algodón 100 % de 180 g/m² Tallas | XS-XXL
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FB5L4K57{{</world>}}

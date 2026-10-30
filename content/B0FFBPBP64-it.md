@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- NOTE DI TESTA: Pera matcha, salvia sclarea francese*, fiore d’arancio
-- NOTE DI CUORE: Gelsomino, giglio lussureggiante, orris*
-- MOOD: Moderna, disinvolta, grintosa
 - IL COLORE DELLA FRAGRANZA può variare a causa degli ingredienti naturali
+- NOTE DI CUORE: Gelsomino, giglio lussureggiante, orris*
+- NOTE DI TESTA: Pera matcha, salvia sclarea francese*, fiore d’arancio
+- MOOD: Moderna, disinvolta, grintosa
 - NOTE DI FONDO: Legno di sandalo, patchouli*, Ambertonic * Ingredienti di origine sostenibile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

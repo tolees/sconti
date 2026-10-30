@@ -28,11 +28,11 @@ average: '11.3266666666667'
 
 ℹ️:
 
-- Berretto Misura circa 21 cm
-- Non lavabile
 - Berretto lavorato a maglia
-- Informazioni sulle taglie e sulle misure del cappello: S/M si adatta da 55 cm a 58 cm L/XL si adatta da 59 cm a 62 cm
 - Etichetta Levis cucita nella parte inferiore
+- Non lavabile
+- Informazioni sulle taglie e sulle misure del cappello: S/M si adatta da 55 cm a 58 cm L/XL si adatta da 59 cm a 62 cm
+- Berretto Misura circa 21 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00N4ZW01A{{</world>}}

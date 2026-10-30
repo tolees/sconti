@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO ONE PIECE Battaglia al Castello di Drum 75645 | Giochi per bambini da 9 anni con 6 minifigure tra cui Luffy Nami e Chopper decorazione cameretta idea regalo 1038 pezzi'
-date: 2026-10-20 17:07:22
-image: 'https://m.media-amazon.com/images/I/51c7I5jwNML._SL500_._SL400_.jpg'
+date: 2026-10-30 10:44:41
+image: 'https://m.media-amazon.com/images/I/51yiYxq26QL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0GGSZZ69C/?tag=tolees00-21'
 descuento: '24.98'
-average: '72.04875'
+average: '72.3777777777778'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

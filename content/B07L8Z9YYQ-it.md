@@ -28,11 +28,11 @@ average: '22.0'
 
 ℹ️:
 
-- Dotato di 12 connettori
-- Ampia compatibilità possibile con i notebook, ultrabook e tablet in commercio
 - Dotato di porta USB 5V1A
-- Alimentatore Universale per Notebook
 - 100/240VAC, 15/20VDC
+- Alimentatore Universale per Notebook
+- Ampia compatibilità possibile con i notebook, ultrabook e tablet in commercio
+- Dotato di 12 connettori
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07L8Z9YYQ{{</world>}}

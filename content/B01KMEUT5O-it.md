@@ -28,10 +28,10 @@ average: '5.75'
 
 ℹ️:
 
-- Profumo energizzante dalle note marine.
-- Con estratto di ginkgo biloba.
 - pH neutro per la pelle.
 - Vivete una esperienza stimolante per il corpo e mente con Cap Tonique di Fa.
+- Profumo energizzante dalle note marine.
+- Con estratto di ginkgo biloba.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01KMEUT5O{{</world>}}

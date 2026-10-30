@@ -28,8 +28,8 @@ average: '99.9'
 
 ℹ️:
 
-- Design a due velocità
 - Tecnologia della turbina sonica Leafjet
+- Design a due velocità
 - Design innovativo, compatto e leggero
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

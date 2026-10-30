@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Logo nike sul davanti
 - Tessuto morbido
+- Logo nike sul davanti
 - Taglio regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

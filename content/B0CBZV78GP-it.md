@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Trainers
-- Detail
 - Polyurethane
+- Detail
+- Trainers
 - materialFabricComposition: Upper: 100% Polyurethane; Sole: 100% Rubber; Inner: 100% Polyurethane; Insole: 100% Polyurethane
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

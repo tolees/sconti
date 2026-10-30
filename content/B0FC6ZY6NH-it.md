@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- design CLASSICO LEVIS: Alcune cose sono perfette così come sono.
-- Lessenziale tee, perfezionato
-- ETICHETTA ROSSA LEVIS: Esistono diverse variazioni della nostra famosa etichetta rossa. Alcune dicono LEVIS, altre Levis, alcune non mostrano affatto il marchio. Per le edizioni speciali a volte cambiamo anche il colore.
-- Il nostro Original Housemark T-Shirt è una di queste.
-- MATERIALE: 100% COTONE
-- La modella è alta 188 cm, Vita 32", Indossa una taglia M
 - fatto per abbinarsi a qualsiasi dei nostri jeans
+- ETICHETTA ROSSA LEVIS: Esistono diverse variazioni della nostra famosa etichetta rossa. Alcune dicono LEVIS, altre Levis, alcune non mostrano affatto il marchio. Per le edizioni speciali a volte cambiamo anche il colore.
+- MATERIALE: 100% COTONE
+- Il nostro Original Housemark T-Shirt è una di queste.
+- La modella è alta 188 cm, Vita 32", Indossa una taglia M
+- Lessenziale tee, perfezionato
 - VESTIBILITÀ: Ecco perché labbiamo mantenuta semplice con un senza tempo vestibilità e La nostra iconica grafica.
+- design CLASSICO LEVIS: Alcune cose sono perfette così come sono.
 - fatto per abbinarsi a qualsiasi dei nostri jeans
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Omino Bianco Detersivo Lavatrice Igienizzante 132 Lavaggi 1760 ml x 3 | Pulisce in profondità rimuove germi e batteri * dona un fresco profumo che dura a lungo rispetta colori e tessuti'
-date: 2026-10-28 09:27:59
+date: 2026-10-30 14:58:49
 image: 'https://m.media-amazon.com/images/I/51LeeA70y2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0CDM8BDK6/?tag=tolees00-21'
 descuento: '36.84'
-average: '11.1629411764706'
+average: '11.17'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Samsung GALAXY S25 Edge 12GB 256GB Nero.
 - TELEFONI CELLULARI.
+- Samsung GALAXY S25 Edge 12GB 256GB Nero.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FKYGXBDK{{</world>}}

@@ -28,9 +28,9 @@ average: '64.98'
 
 ℹ️:
 
-- Numero di pezzi: 1
-- Ricco di antiossidanti e formulato con vitamina c
 - Prodotto che unisce tradizione ed innovazione
+- Ricco di antiossidanti e formulato con vitamina c
+- Numero di pezzi: 1
 - Scelta intelligente per le necessità quotidiane
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

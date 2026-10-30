@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Suola: Gomma
-- Fibbia: Lacci
 - Larghezza: Regolare
+- Fibbia: Lacci
+- Suola: Gomma
 - Tipo di punta: Rotonda
 - Tipo di tacco: Platform
 

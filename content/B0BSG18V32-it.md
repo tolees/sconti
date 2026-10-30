@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Cartoline
 - Una scatola speciale
 - Lettera di Wu
+- Cartoline
 - Ledizione comprende
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

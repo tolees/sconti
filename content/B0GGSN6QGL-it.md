@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Pokémon Munchlax 72150 | Set per adulti kit di modellismo fai da te action figure con arti e testa snodabili regalo per gamer 757 pezzi'
-date: 2026-10-27 12:12:39
+date: 2026-10-30 16:37:36
 image: 'https://m.media-amazon.com/images/I/41p4qVv+ggL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0GGSN6QGL/?tag=tolees00-21'
 descuento: '25.00'
-average: '50.74'
+average: '51.3233333333333'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

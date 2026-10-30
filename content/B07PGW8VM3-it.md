@@ -30,9 +30,9 @@ average: '26.69'
 
 - Confezione da 24 bottiglie da 27.5 cl di Tennents Super
 - Temperatura di servizio 5-7°
-- Tennents Super ha una gradazione alcolica superiore alla media delle birre, bere responsabilmente
 - Tennents Super è una birra Strong Lager, doppio malto, dal colore chiaro e dal gusto forte, 9% alcool
 - Ha un gusto deciso e forte, leggermente dolce
+- Tennents Super ha una gradazione alcolica superiore alla media delle birre, bere responsabilmente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07PGW8VM3{{</world>}}

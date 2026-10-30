@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Rappresenta uno dei grandi must di LEONE1947
-- Borsone da palestra Italy
 - Capacità: 45 litri
+- Borsone da palestra Italy
 - Dotata di due ampi vani porta oggetti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

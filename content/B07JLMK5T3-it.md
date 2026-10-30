@@ -28,11 +28,11 @@ average: '30.315'
 
 ℹ️:
 
-- Velocità massima garantita: 100 pollici (254 cm) al secondo – accelerazione 20G
-- 6 pulsanti programmabili
 - Illuminazione RGB personalizzabile; software avanzato per programmare pulsanti, macro e luci
-- Confortevole poggiapollice per una presa perfetta
 - Sensore ottico di elevata precisione fino a 10.000 DPI
+- Velocità massima garantita: 100 pollici (254 cm) al secondo – accelerazione 20G
+- Confortevole poggiapollice per una presa perfetta
+- 6 pulsanti programmabili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07JLMK5T3{{</world>}}

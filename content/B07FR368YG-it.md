@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Cuoio morbido
 - Leggero
 - Pelle responsabile
-- Cuoio morbido
 - Comodo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

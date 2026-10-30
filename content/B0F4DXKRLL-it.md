@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Zip
 - Dimensioni: 24 cm x 49 cm
-- 100% poliestere (100% riciclato)
-- Capacità: 31.21 L
 - In tela
+- Zip
+- Capacità: 31.21 L
+- 100% poliestere (100% riciclato)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F4DXKRLL{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Symbeauty Bromelina Forte Drenaline 120 Cpr 4 mesi 5000GDU Complex Vegano'
-date: 2026-10-12 07:29:08
+date: 2026-10-30 18:22:24
 image: 'https://m.media-amazon.com/images/I/41dDoPofEwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0F6V6NX6K/?tag=tolees00-21'
 descuento: '23.69'
-average: '11.2766666666666'
+average: '11.29'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

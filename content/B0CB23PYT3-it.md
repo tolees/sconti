@@ -28,8 +28,8 @@ average: '45.36'
 
 ℹ️:
 
-- Comfort
 - Logo del marchio
+- Comfort
 - Chiusura con lacci
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

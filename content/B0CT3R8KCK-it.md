@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 1. tonnetto come primo ingrediente, con abbinato un gustoso topping di prosciutto 2. Ingredienti naturali al 100% 3. Cotto al vapore e lavorato a mano 4. Senza conservanti né coloranti aggiunti
 - 5. con tonnetto da pesca sostenibile 6. cruelty free 7. Packaging 100% riciclabile (lattina in alluminio; etichetta in carta)
+- 1. tonnetto come primo ingrediente, con abbinato un gustoso topping di prosciutto 2. Ingredienti naturali al 100% 3. Cotto al vapore e lavorato a mano 4. Senza conservanti né coloranti aggiunti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CT3R8KCK{{</world>}}

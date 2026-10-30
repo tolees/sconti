@@ -28,9 +28,9 @@ average: '5.99'
 
 ℹ️:
 
+- Schede interattive, lessico e logica, scopri gli animali della fattoria, carotina parlante e lunimosa
 - Lessico, logica, sviluppo della creatività, autonomia
 - Schede interattive, penna parlante, istruzioni
-- Schede interattive, lessico e logica, scopri gli animali della fattoria, carotina parlante e lunimosa
 - Unallegra fattoria interattiva
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

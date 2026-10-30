@@ -28,12 +28,12 @@ average: '16.41'
 
 ℹ️:
 
-- 18 livelli e 16 abilità da sbloccare
 - Firma davvero il tuo nome con la punta della spada
-- Colorati ambienti cartoon, azione da cartoni animati, nessuna morte
-- Il sergente Garcia, Bernardo, Tornado non manca nessuno dei personaggi principali
 - Combattimento con la spada o Stealth
 - Gioca nei panni di Zorro e di sua sorella Ines
+- Il sergente Garcia, Bernardo, Tornado non manca nessuno dei personaggi principali
+- 18 livelli e 16 abilità da sbloccare
+- Colorati ambienti cartoon, azione da cartoni animati, nessuna morte
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09Y2BC5C5{{</world>}}

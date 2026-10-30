@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Rispetta le regole di produzione
 - Prodotto affidabile
 - Conformità RoHS
-- Rispetta le regole di produzione
 - Intervallo di temperatura di funzionamento: 0 - 40 ° C
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

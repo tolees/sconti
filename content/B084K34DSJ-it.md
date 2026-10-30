@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Nutre e districa profondamente i capelli secchi
-- Balsamo ultra-nutriente con il potere idratante della Banana
-- La sua ricca consistenza aiuta a districare e idratare i capelli, ottenendo capelli sani con un rapido schiarimento
 - Con formula vegana, senza siliconi, per una sensazione naturale
+- Nutre e districa profondamente i capelli secchi
+- La sua ricca consistenza aiuta a districare e idratare i capelli, ottenendo capelli sani con un rapido schiarimento
+- Balsamo ultra-nutriente con il potere idratante della Banana
 - Con ingredienti naturali al 98%, è il primo balsamo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

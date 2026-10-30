@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - marcatore permanente punta extra fine per tratti ultra precisi
 - adatto a tutte le superfici
-- cappuccio quadrato con clip che impedisce al marcatore di rotolare
 - punta 1,6 mm - tratto 0,6 mm
+- cappuccio quadrato con clip che impedisce al marcatore di rotolare
 - fusto slim in plastica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

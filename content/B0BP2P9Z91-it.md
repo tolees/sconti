@@ -28,9 +28,9 @@ average: '4.49'
 
 ℹ️:
 
-- 69% cotone / 26% poliestere riciclato / 3% nylon riciclato / 2% elastane
-- Confezione da due paia
 - Fantasmini
+- Confezione da due paia
+- 69% cotone / 26% poliestere riciclato / 3% nylon riciclato / 2% elastane
 - Leggeri e sottili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

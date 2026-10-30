@@ -28,8 +28,8 @@ average: '40.99'
 
 ℹ️:
 
-- Tomaia in suede
 - Vestibilità regolare
+- Tomaia in suede
 - Chiusura in pizzo
 - Fodera in tessuto
 

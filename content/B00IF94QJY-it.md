@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Adatto per alimentazione di piccoli apparecchi elettrodomestici.
-- Lunghezza 20 metri
 - Electraline - Matassa di cavo H03VVH2-F
 - Prodotto di ottima qualità
+- Lunghezza 20 metri
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00IF94QJY{{</world>}}

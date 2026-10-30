@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Dentatura fine con 72 denti
-- Angolo di richiamo ridotto di soli 5°
 - Testa del cricchetto orientabile con 5 posizioni di blocco predefinite
 - Manicotto flottante per velocizzare il lavoro
+- Angolo di richiamo ridotto di soli 5°
 - Con il trova-utensili "take it easy" con codice cromatico per le diverse misure
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

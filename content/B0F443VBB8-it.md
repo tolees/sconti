@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Fianchi : Vita alta
-- Vestibilità : Baggy Fit
-- Tasche : Tasche posteriori, Coin pocket, Tasche frontali
-- Tipologia di prodotto : Bermuda
 - Dettagli : Badge
+- Tipologia di prodotto : Bermuda
+- Tasche : Tasche posteriori, Coin pocket, Tasche frontali
+- Vestibilità : Baggy Fit
+- Fianchi : Vita alta
 - Chiusura : Patta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

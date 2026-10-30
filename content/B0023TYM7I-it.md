@@ -28,11 +28,11 @@ average: '6.79'
 
 ℹ️:
 
-- DIMENSIONI: circa 10x11 cm
 - PRATICO: può essere appeso per risparmiare spazio in cucina
-- PULIZIA: lavabile in lavastoviglie
-- USO: imbuto adatto per riempire bottiglie con facilità
 - MATERIALE: acciaio inossidabile
+- PULIZIA: lavabile in lavastoviglie
+- DIMENSIONI: circa 10x11 cm
+- USO: imbuto adatto per riempire bottiglie con facilità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0023TYM7I{{</world>}}

@@ -28,10 +28,10 @@ average: '25.3'
 
 ℹ️:
 
-- Peso: 6.60 Kg
 - Tastiera digitale a 12 tasti; apertura motorizzata
-- Quattro pile AA (non incluse)
+- Peso: 6.60 Kg
 - Utile e di qualità
+- Quattro pile AA (non incluse)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B007SLGBIY{{</world>}}

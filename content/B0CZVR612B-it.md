@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- SUI CAPELLI ASCIUTTI: ogni volta che vuoi per un tocco di extra brillantezza, e durante lestate per proteggere i capelli
 - OLIO CAPELLI RICCI: Formula con texture ultra leggera, arricchita con nutri-elastic complex con olio di macadamia, collagenee vitamina b5, nutre e idrata intensamente senza appesantire rendendo i capelli ricci luminosi, morbidi e senza effetto crespo
-- PRIMA DELLO SHAMPOO: per nutrire intensamentee dare extra morbidezza
 - PRIMA DELLA PIEGA: per districare i tuoi ricci e renderli facilmente pettinabili, eliminando il crespo
+- SUI CAPELLI ASCIUTTI: ogni volta che vuoi per un tocco di extra brillantezza, e durante lestate per proteggere i capelli
+- PRIMA DELLO SHAMPOO: per nutrire intensamentee dare extra morbidezza
 - EFFETTO ANTICRESPO PER RICCI DEFINITI: aiuta a rendere i capelli ricci luminosi, morbidi e senza effetto crespo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- PRECISIONE IN TUTTO TEMPO - Lesclusiva autocalibrazione dello stick offre un controllo preciso analizzando lo stato del bastone e correggendo la deriva. I giocatori possono contare sulla FORCE GC300 WIRELESS per prestazioni ottimali.
 - RUMBLE FEEDBACK & EXCELLENT GRIP - Entrambi i motori di vibrazione migliorano notevolmente limmersione complessiva nel gioco grazie al ritorno aptico, offrendo un gameplay più viscerale; la gomma testurizzata sui lati evita qualsiasi scivolamento.
-- SWITCHES RESISTENTI - I controller di gioco della serie Force GC sono dotati di pulsanti robusti con una durata nominale di 2 milioni di clic ciascuno.
 - 3 modalità di connessione: la forza GC300 WIRELESS si collega con (cavo USB Type-C a A da 2 m) o wireless (2,4 GHz e Bluetooth) e dispone di una batteria agli ioni di litio da 600 mAh che offre fino a 20 ore di gioco continuo.
+- PRECISIONE IN TUTTO TEMPO - Lesclusiva autocalibrazione dello stick offre un controllo preciso analizzando lo stato del bastone e correggendo la deriva. I giocatori possono contare sulla FORCE GC300 WIRELESS per prestazioni ottimali.
+- SWITCHES RESISTENTI - I controller di gioco della serie Force GC sono dotati di pulsanti robusti con una durata nominale di 2 milioni di clic ciascuno.
 - ADATTATI PER ESSERE COMPETITIVO - Migliora il tuo gioco con i grilletti magnetici ad effetto Hall, che offrono due livelli di precisione. Optare per pressioni leggere in sparatutto veloci o pressioni complete per corse coinvolgenti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '7.9'
 
 ℹ️:
 
+- con interruttore / limitatore di sicurezza
 - 4 prese schuko bivalenti
 - Multipresa serie Emilia
 - design compatto, elegante, doppia colorazione bianco / grigio che le rende uniche
-- con interruttore / limitatore di sicurezza
 - 1,5mt cavo con spina piccola 10A
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

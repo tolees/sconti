@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Sistema Operativo: Android 11 (Go Edition)
 - Batteria 5000 mAh
 - Display 6.5 Pollici
-- Sistema Operativo: Android 11 (Go Edition)
 - Fotocamera: 8 MP, AI Camera
 - Memoria: 32 GB espandibile con MicroSD da 32 GB
 

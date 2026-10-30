@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lavazza A Modo Mio 18400049 Liquido Decalcificante Per Macchine Caffè 250 ml Nero'
-date: 2026-10-13 00:26:53
+date: 2026-10-29 18:42:19
 image: 'https://m.media-amazon.com/images/I/41bmKPpA9kL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B07RH1ZNV9/?tag=tolees00-21'
 descuento: '24.91'
-average: '8.88333333333329'
+average: '8.82623762376234'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

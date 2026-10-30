@@ -28,9 +28,9 @@ average: '168.0'
 
 ℹ️:
 
-- Materiale idrorepellente
-- Cappuccio regolabile
 - Tasche con zip per riporre oggetti di piccole dimensioni, traspirante e ad asciugatura rapida
+- Cappuccio regolabile
+- Materiale idrorepellente
 - Tecnologia Isolating Heatseeker
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

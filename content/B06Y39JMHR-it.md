@@ -28,12 +28,12 @@ average: '10.27'
 
 ℹ️:
 
-- Queste lampadine a LED non sono dimmerabili, non compatibili con dimmer
-- Utilizza 2.1 watt di energia e ha un costo di funzionamento di soli €0.53 lanno; consente un risparmio annuale fino all92% e di €79,01 durante il suo ciclo di vita rispetto ad una lampadina incandescente (calcolo basato su un uso giornaliero di 3 ore e un costo energetico di 0,23 €/kWh; soggetto a variazioni in base alle tariffe e alluso)
+- Lalto indice di resa cromatica (IRC > 80) offre un colore naturale e vivo
 - Con una vita utile di 15.000 ore, la lampadina può durare oltre 13 anni (con un uso giornaliero di 3 ore)
+- Utilizza 2.1 watt di energia e ha un costo di funzionamento di soli €0.53 lanno; consente un risparmio annuale fino all92% e di €79,01 durante il suo ciclo di vita rispetto ad una lampadina incandescente (calcolo basato su un uso giornaliero di 3 ore e un costo energetico di 0,23 €/kWh; soggetto a variazioni in base alle tariffe e alluso)
+- Queste lampadine a LED non sono dimmerabili, non compatibili con dimmer
 - Produce 250 lumen di luminosità istantaneamente, senza bisogno di attendere il riscaldamento della lampadina
 - Con una temperatura di colore di 2700 Kelvin, la lampadina fornisce una luce bianca calda creando unatmosfera confortevole in ogni stanza
-- Lalto indice di resa cromatica (IRC > 80) offre un colore naturale e vivo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B06Y39JMHR{{</world>}}

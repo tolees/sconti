@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 8 porte Gigabit Ethernet
-- 8 porte PoE+ con budget di alimentazione totale da 60 W ed espandibile a 83 W o 123 W (con modulo di alimentazione da acquistare separatamente)
-- 3 anni di assistenza NETGEAR hardware limitata leader del settore
 - Semplice configurazione plug-and-play senza necessità di installare software o aggiungere configurazioni
-- Funzionamento silenzioso
 - Supporta il montaggio su scrivania, a parete o su rack e include tutto lhardware di montaggio necessario nella confezione
+- 8 porte PoE+ con budget di alimentazione totale da 60 W ed espandibile a 83 W o 123 W (con modulo di alimentazione da acquistare separatamente)
 - Design ad alta efficienza energetica conforme a IEEE802.3az
+- 8 porte Gigabit Ethernet
+- 3 anni di assistenza NETGEAR hardware limitata leader del settore
+- Funzionamento silenzioso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F4RP6VKN{{</world>}}

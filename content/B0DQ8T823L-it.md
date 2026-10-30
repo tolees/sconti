@@ -28,8 +28,8 @@ average: '32.83'
 
 ℹ️:
 
-- Vestibilità perfetta
 - PROGETTO SOSTENIBILITÀ ARMANI
+- Vestibilità perfetta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DQ8T823L{{</world>}}

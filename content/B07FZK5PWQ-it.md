@@ -28,10 +28,10 @@ average: '70.2846153846155'
 
 ℹ️:
 
-- Funzione Calc Cleaning per preservare le prestazioni dellapparecchio nel tempo
-- Ferro generatore di vapore ad autonomia illimitata con pressione pompa max 6.5 Bar
 - Funzione ECO per ridurre i consumi di energia del 25%* e di acqua del 27%* (*rispetto a funzione Max)
 - Serbatoio estraibile da 1.5 L per lunghe sessioni di stiratura e riscaldamento rapido 2 minuti
+- Ferro generatore di vapore ad autonomia illimitata con pressione pompa max 6.5 Bar
+- Funzione Calc Cleaning per preservare le prestazioni dellapparecchio nel tempo
 - Questo prodotto viene testato prima di essere imballato e commercializzato quindi può presentare residui dacqua
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

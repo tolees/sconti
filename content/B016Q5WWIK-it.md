@@ -28,11 +28,11 @@ average: '27.73'
 
 ℹ️:
 
-- inchiostro a pigmenti certificato ISO 27668-2
 - fusto in plastica con particolari in metallo
-- prefetto per uso su documenti ufficiali
 - ricaricabile con refill LRP7
+- inchiostro a pigmenti certificato ISO 27668-2
 - resistente allacqua e alla luce
+- prefetto per uso su documenti ufficiali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B016Q5WWIK{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
+- Effetti e benefici: un risultato naturale o dimpatto a seconda delle tue esigenze
 - Colore: nero
 - Applicazione: lapplicatore dalle fibre ondulate ricopre e definisce tutte le ciglia
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
 - Formula: idratante, colora in modo omogeneo e senza lasciare grumi
-- Effetti e benefici: un risultato naturale o dimpatto a seconda delle tue esigenze
 - ScandalEyes Volume on Demand: mascara dal volume modulabile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

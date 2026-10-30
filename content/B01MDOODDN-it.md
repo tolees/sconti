@@ -28,10 +28,10 @@ average: '7.89'
 
 ℹ️:
 
-- Senza sapori aggiunti e senza glutine e zuccheri
-- Integratore alimentare di fibra, 100% vegetale
 - Favorisce l’equilibrio della flora intestinale
+- Integratore alimentare di fibra, 100% vegetale
 - Sciogliere 1 o 2 cucchiai al giorno in bevande calde o fredde
+- Senza sapori aggiunti e senza glutine e zuccheri
 - In polvere solubile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ average: '36.078'
 
 ℹ️:
 
-- Bracciale in acciaio inox
 - Cronometro - 1/100 sec - 1 ora
+- Bracciale in acciaio inox
 - Allarme giornaliero
 - Calendario automatico con formato 12/24 ore
 - Classificazione di impermeabilità (WR) a norma ISO 22810

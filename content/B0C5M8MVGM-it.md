@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'dreame R10 Aspirapolvere senza Fili 20.000 Pa/120 AW Aspirazione Potente'
-date: 2026-10-07 05:47:21
+title: 'dreame R10 Aspirapolvere senza Fili 20.000 Pa/120 AW Aspirazione Potente | Spazzola LED a V Sistema Antigroviglio Filtro a 5 Strati 3 Accessori Multifunzione per Peli di Animali Domestici'
+date: 2026-10-30 06:45:55
 image: 'https://m.media-amazon.com/images/I/31Hv5prcF8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0C5M8MVGM-it dreame R10 Aspirapolvere senza Fili 20.000 Pa/120 AW...'
 sku: 'B0C5M8MVGM-it'
 tags: [ '🇮🇹', ]
-actualPrice: 127.3 EUR
+actualPrice: 119.0 EUR
 currency: EUR
-price: 127.3
+price: 119.0
 comparePrice: 169.0 EUR
-prodname: 'dreame R10 Aspirapolvere senza Fili 20.000 Pa/120 AW Aspirazione Potente'
+prodname: 'dreame R10 Aspirapolvere senza Fili 20.000 Pa/120 AW Aspirazione Potente | Spazzola LED a V Sistema Antigroviglio Filtro a 5 Strati 3 Accessori Multifunzione per Peli di Animali Domestici'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0C5M8MVGM/?tag=tolees00-21'
-descuento: '24.67'
-average: '131.766666666667'
+descuento: '29.59'
+average: '128.575'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

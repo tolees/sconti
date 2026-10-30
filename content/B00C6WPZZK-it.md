@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Il selettore permette di selezionare 3 velocità della lama
-- Presenta una lampada per la luce di E27 60W
 - Garantisce una ventilazione omogenea nella stanza in cui viene posizionato
+- Presenta una lampada per la luce di E27 60W
+- Il selettore permette di selezionare 3 velocità della lama
 - La finitura in ottone antico, con lame realizzate in alberi di noce con finitura delicata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

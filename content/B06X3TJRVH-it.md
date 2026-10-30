@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Loacker Classic Cacao&Milk Fragranti Strati di Wafer al Cacao Pregiato Farciti con Deliziosa Crema al Latte 1 Confezione da 175g'
-date: 2026-10-28 08:35:41
+date: 2026-10-29 14:57:07
 image: 'https://m.media-amazon.com/images/I/41luHJM6FzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

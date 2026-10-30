@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Facile da fissare e togliere a mano
-- Dimensione: circa 7cm; Peso: 164g
 - Utilizzabile su molti accessori fotografici differenti, come cavalletto da studio, adattatore hotshoe/coldshoe, testa a sfera, wireless ricevitore per flash, trigger e così via
-- 2 filettature alle 2 estremità realizzate con precisione, 1/4" e 3/8" maschio
 - Struttura completament in metallo; Superficie elettroplaccata; Anti-usura; Anti-ossidazione; Durevole
+- Facile da fissare e togliere a mano
+- 2 filettature alle 2 estremità realizzate con precisione, 1/4" e 3/8" maschio
+- Dimensione: circa 7cm; Peso: 164g
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01M7N4YGH{{</world>}}

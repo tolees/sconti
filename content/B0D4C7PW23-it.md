@@ -28,9 +28,9 @@ average: '66.7'
 
 ℹ️:
 
-- Giacca impermeabile da donna con cuciture termosaldate per restare allasciutto
-- Orlo, cappuccio e polsini regolabili, Protezione extra grazie al design con coda allungata
 - Tasche per le mani foderate in rete con cerniera per tenere al sicuro smartphone, chiavi e altri effetti personali
+- Orlo, cappuccio e polsini regolabili, Protezione extra grazie al design con coda allungata
+- Giacca impermeabile da donna con cuciture termosaldate per restare allasciutto
 - Contenuto: 1x Columbia Inner Limits III, Giacca Impermeabile da Donna, Colore: Nero (Black), Taglia: M, Art. 2071433
 - Con tecnologia impermeabile e traspirante Omni-Tech di Columbia, Offre una protezione versatile in condizioni instabili
 

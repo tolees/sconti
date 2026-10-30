@@ -28,9 +28,9 @@ average: '40.0'
 
 ℹ️:
 
-- Realizzati con materiali sostenibili
-- Design caldo e confortevole
 - Adatto per: clima freddo
+- Design caldo e confortevole
+- Realizzati con materiali sostenibili
 - Giacca del marchio JACK & JONES
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ average: '8.99'
 
 ℹ️:
 
-- Dance
 - Iron
+- Dance
 - Of
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

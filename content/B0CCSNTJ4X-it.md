@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Occhielli ricamati per una maggiore traspirabilità
 - Logo Nike Futura
+- Occhielli ricamati per una maggiore traspirabilità
 - Chiusura regolabile per personalizzare il fit
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

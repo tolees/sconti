@@ -30,8 +30,8 @@ average: '51.27'
 
 - Soletta imbottita in memory foam con intersuola leggera e flessibile che assorbe gli urti
 - Slip On Athletic con fondo antiscivolo
-- EN ISO 20347:2022, O1 FO SRC +ESD
 - Tomaia in tessuto trattato idrorepellente e antimacchia con suola antiscivolo SKECHERS
+- EN ISO 20347:2022, O1 FO SRC +ESD
 - Design comodo per una vestibilità comoda e spaziosa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

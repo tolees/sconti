@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Manica : Maniche corte
 - Tipologia di prodotto : Polo
-- Dettagli : Badge
+- Manica : Maniche corte
 - Stile di vita : Tradizionale
 - Collo : Polo
+- Dettagli : Badge
 - Vestibilità : Regular Fit
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ average: '26.59'
 
 ℹ️:
 
+- 76,2 x 33 x 30,5 cm (altezza x lunghezza x larghezza). 2,7 kg
 - Costruito per avventure allaria aperta e lunghe vacanze
 - Ampio scomparto principale
-- 76,2 x 33 x 30,5 cm (altezza x lunghezza x larghezza). 2,7 kg
 - 6 tasche per facilitare il viaggio, la comodità e una migliore organizzazione
 - Capacità del borsone 58,4 l
 

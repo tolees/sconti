@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Botanicals Funghi del bosco 11505 | Set per adulti con piante artificiali fungo velenoso e fiori finti decorazione soggiorno o camera idea regalo 806 pezzi'
-date: 2026-10-24 13:46:39
+date: 2026-10-29 10:26:50
 image: 'https://m.media-amazon.com/images/I/51CELD8djyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0FPXH5T6S/?tag=tolees00-21'
 descuento: '25.00'
-average: '59.9666666666667'
+average: '59.9725'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

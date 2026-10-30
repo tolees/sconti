@@ -28,12 +28,12 @@ average: '10.45'
 
 ℹ️:
 
+- Scopri come smaltire la confezione su buonalavita sezione Dove lo Butto
 - I cereali FITNESS Granola Cioccolato sono deliziosi agglomerati di avena integrale e golose pepite di cioccolato
+- Solo aromi naturali e nessun colorante
+- I cereali FITNESS Granola sono fonte di fibre, calcio e ferro
 - 52% di avena integrale
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
-- I cereali FITNESS Granola sono fonte di fibre, calcio e ferro
-- Scopri come smaltire la confezione su buonalavita sezione Dove lo Butto
-- Solo aromi naturali e nessun colorante
 - Confezione da 300g (contiene circa 6 porzioni da 45g)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

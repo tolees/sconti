@@ -28,9 +28,9 @@ average: '65.9'
 
 ℹ️:
 
-- Intersuola leggera Techlite per unammortizzazione superiore di lunga durata e un elevato ritorno di energia
-- Gomma di trazione anti-marcatura Omni-Grip
 - Combinazione tomaia in mesh impermeabile/pelle. Membrana Omni-Tech impermeabile e traspirante
+- Gomma di trazione anti-marcatura Omni-Grip
+- Intersuola leggera Techlite per unammortizzazione superiore di lunga durata e un elevato ritorno di energia
 - Nota: lacci e cerniere incorporati nelle calzature Columbia Sportswear Company non sono impermeabili.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

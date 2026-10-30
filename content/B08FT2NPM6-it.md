@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Semplice utilizzo grazie al sistema di sgancio veloce
 - Treppiedi con gambe flessibili
+- Semplice utilizzo grazie al sistema di sgancio veloce
 - Gambe agganciabili a molteplici superfici
 - Presenta 3 piedini in gomma antiscivolo
 

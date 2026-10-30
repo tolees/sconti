@@ -29,9 +29,9 @@ average: '5.6'
 ℹ️:
 
 - Materiale: Resistente
-- Animazione, Fan merch, Film
 - Statuetta da collezione || Molto confortevole
 - Non può mancare a casa tua!
+- Animazione, Fan merch, Film
 - Funko Pop! con le seguenti caratteristiche:
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '2.24'
 
 ℹ️:
 
-- Formula: scorrevole e ultra pigmentata, per un risultato a lunga tenuta
-- Effetti e benefici: sopracciglia naturalmente piene e definite
-- Colore: 005 Ash Brown
 - Applicazione: facile e veloce, per un effetto modulabile e sopracciglia sempre in ordine grazie al pettinino incorporato
+- Effetti e benefici: sopracciglia naturalmente piene e definite
+- Formula: scorrevole e ultra pigmentata, per un risultato a lunga tenuta
+- Colore: 005 Ash Brown
 - Brow this way: matita professionale, definisce ed intensifica le sopracciglia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

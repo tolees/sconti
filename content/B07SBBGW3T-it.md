@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'XBOX Game Pass Ultimate – Abbonamento di 1 mesi'
-date: 2026-10-11 03:51:50
+date: 2026-10-29 20:02:25
 image: 'https://m.media-amazon.com/images/I/514VmNHA7qL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B07SBBGW3T/?tag=tolees00-21'
 descuento: '22.23'
-average: '21.6566666666667'
+average: '21.6215789473685'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

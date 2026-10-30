@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Adatto per: tutte le stagioni
 - Realizzati con materiali sostenibili
 - Pantaloni del marchio ONLY
-- Adatto per: tutte le stagioni
 - Design leggero e traspirante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

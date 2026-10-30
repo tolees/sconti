@@ -28,8 +28,8 @@ average: '48.3166666666667'
 
 ℹ️:
 
-- Cuffiette senza fili
 - Di colore nero
+- Cuffiette senza fili
 - Con cancellazione attiva del rumore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

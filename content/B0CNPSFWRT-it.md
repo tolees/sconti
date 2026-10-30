@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Con passanti per cintura
 - Stile cinque tasche
 - Vita alta
+- Con passanti per cintura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CNPSFWRT{{</world>}}

@@ -30,8 +30,8 @@ average: '6.49'
 
 - Arômes de baies sauvages et de betteraves riches infusés de senteurs de chêne, d’orange et d’iris.
 - Ogni fragranza è stata accuratamente selezionata e testata per diffondere un profumo a lunga durata in tutta la stanza
-- : Mentre brucia, lo stoppino in legno brevettato delle candele Pluswick Innovation scoppietta per ricreare una sofisticata atmosfera che ricorda il camino
 - La forma a clessidra del vaso crea un’apertura più ampia per lo scioglimento completo della cera, diffondendo in modo costante la fragranza
+- : Mentre brucia, lo stoppino in legno brevettato delle candele Pluswick Innovation scoppietta per ricreare una sofisticata atmosfera che ricorda il camino
 - La miscela di cere di qualità premium produce una meravigliosa fiamma senza residui
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

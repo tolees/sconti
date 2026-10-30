@@ -28,10 +28,10 @@ average: '11.45'
 
 ℹ️:
 
-- display molto ampio di letture e data e ora
-- Facile da usare, misura la pressione arteriosa sulla parte superiore del braccio e registra i valori misurati
-- Sfigmomanometro digitale da braccio scala SC 6750 A
 - Memoria di 2 x 50 valori misurati nel dispositivo, indicatore OMS
+- Facile da usare, misura la pressione arteriosa sulla parte superiore del braccio e registra i valori misurati
+- display molto ampio di letture e data e ora
+- Sfigmomanometro digitale da braccio scala SC 6750 A
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CVXQPD3Z{{</world>}}

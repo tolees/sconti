@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Harry Potter Piante di erbologia di Hogwarts 76474 | Giochi per ragazze e ragazzi da 12 anni giocattolo interattivo piante finte fiori in vaso idea regalo 817 pezzi'
-date: 2026-10-28 10:40:42
+date: 2026-10-30 15:17:24
 image: 'https://m.media-amazon.com/images/I/51TsnKNufIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0FPXFR4XB/?tag=tolees00-21'
 descuento: '33.50'
-average: '69.215'
+average: '68.7608333333333'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

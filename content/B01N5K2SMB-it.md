@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Colore barrette: giallo, arancione, rosso, viola
 - Possibilità infinite di costruzione
 - Stimola il gioco immaginativo
 - Sfere metalliche (non magnetiche)
-- Colore barrette: giallo, arancione, rosso, viola
 - Sistema di costruzione magnetico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Contenuto: 1x Columbia Konos TRS Outdry Scarpa da Trekking da Uomo, Taglia: 48 EU, Colore: Verde
-- Scarpe da trekking Columbia Konos TRS Outdry da uomo, adatte a sentieri di montagna, paesaggi impervi e avventure sul bagnato.
 - Tomaia in mesh tecnico con sovrapposizioni senza cuciture per una maggiore durata e sostegno, progettata per la velocità e il comfort.
-- Design impermeabile e traspirante Outdry, suola Adapt Trax che offre un grip superiore e Navic Fit System per un bloccaggio naturale del mesopiede.
+- Scarpe da trekking Columbia Konos TRS Outdry da uomo, adatte a sentieri di montagna, paesaggi impervi e avventure sul bagnato.
+- Contenuto: 1x Columbia Konos TRS Outdry Scarpa da Trekking da Uomo, Taglia: 48 EU, Colore: Verde
 - Sistema Omni-Max Plus con intersuola in Techlite+ per un equilibrio ottimale e cupole che assorbono gli impatti.
+- Design impermeabile e traspirante Outdry, suola Adapt Trax che offre un grip superiore e Navic Fit System per un bloccaggio naturale del mesopiede.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D4B6JR2K{{</world>}}

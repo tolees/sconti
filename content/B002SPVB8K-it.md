@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Senza irritazione della pelle
-- Allergia testato
 - Efficace
 - 100% senza profumo
+- Senza irritazione della pelle
+- Allergia testato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B002SPVB8K{{</world>}}

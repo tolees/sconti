@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Guscio in morbido silicone che si adatta perfettamente al controller della tua Playstation 4
 - Prodotto con licenza ufficiale Juventus
+- Guscio in morbido silicone che si adatta perfettamente al controller della tua Playstation 4
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DM2MQSQY{{</world>}}

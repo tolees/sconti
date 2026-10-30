@@ -28,11 +28,11 @@ average: '44.99'
 
 ℹ️:
 
-- 113 minigiochi e 22 personaggi con cui giocare
 - Disponibile per Nintendo Switch Oled e Nintendo Switch
+- Questo gioco unisce il meglio dei Mario Party precedenti come il motion control e la modalità classica multiplayer
+- 113 minigiochi e 22 personaggi con cui giocare
 - Il Mario Party definitivo
 - Giocatori su una sola console (1-4), Online (1-20)
-- Questo gioco unisce il meglio dei Mario Party precedenti come il motion control e la modalità classica multiplayer
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D7HQ3QWW{{</world>}}

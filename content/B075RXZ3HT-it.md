@@ -28,8 +28,8 @@ average: '2.25'
 
 ℹ️:
 
-- Nordic
 - Human
+- Nordic
 - Amplify
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

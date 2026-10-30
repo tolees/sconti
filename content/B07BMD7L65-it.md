@@ -28,10 +28,10 @@ average: '48.99'
 
 ℹ️:
 
-- Lorologio ha un grado di resistenza allacqua di 1 ATM o 10 m (1 Bar), che lo rende adatto alluso quotidiano e resistente a piccoli spruzzi dacqua/pioggia.
-- Diametro della cassa: 38 mm / Spessore della cassa 8,3mm
 - Morbido cinturino in vera pelle
 - Movimento al quarzo giapponese a tre lancette
+- Diametro della cassa: 38 mm / Spessore della cassa 8,3mm
+- Lorologio ha un grado di resistenza allacqua di 1 ATM o 10 m (1 Bar), che lo rende adatto alluso quotidiano e resistente a piccoli spruzzi dacqua/pioggia.
 - Quadrante soleil con stampa e cassa placcata in oro rosa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

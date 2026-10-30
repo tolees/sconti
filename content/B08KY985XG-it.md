@@ -28,12 +28,12 @@ average: '29.71'
 
 ℹ️:
 
-- Questo prodotto è un apparato di illuminazione che può essere smontato per controllare separatamente le fonti di illuminazione presenti al suo interno
-- Installazione facile e veloce
 - Classe di protezione (alimentazione): ip44
-- Classe di protezione (striscia): ip65
 - Accensione e spegnimento; cambio del colore e dimmerazione tramite telecomando
+- Questo prodotto è un apparato di illuminazione che può essere smontato per controllare separatamente le fonti di illuminazione presenti al suo interno
+- Classe di protezione (striscia): ip65
 - Giardini; terrazze e altre aree allaperto
+- Installazione facile e veloce
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08KY985XG{{</world>}}

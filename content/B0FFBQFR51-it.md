@@ -30,8 +30,8 @@ average: '1.0'
 
 - Risultato istantaneo; lucida; brillante
 - Diciamo no ai test sugli animali; cosnova è accreditata a livello internazionale con essence e CATRICE presso PETA Germania e PETA
-- Texture morbida e non appiccicosa
 - Delizioso, dolce profumo di caramello
+- Texture morbida e non appiccicosa
 - Finish lucido con brillantezza dorata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

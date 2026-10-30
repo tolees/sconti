@@ -28,8 +28,8 @@ average: '101.25'
 
 ℹ️:
 
-- Logo argento
 - Logo interno
+- Logo argento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DLWZBB7L{{</world>}}

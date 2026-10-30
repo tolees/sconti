@@ -28,8 +28,8 @@ average: '6.0'
 
 ℹ️:
 
-- Capacità sensoriali, coordinazione occhio-mano, suoni e immagini
 - Elettronico 6 funzioni, alfabeto e parole, primi numeri, allegre filastrocche, quiz di logica
+- Capacità sensoriali, coordinazione occhio-mano, suoni e immagini
 - Giocattolo elettronico educativo con pile incluse, manuale di istruzioni
 - Elettronica, parlante e interattiva
 

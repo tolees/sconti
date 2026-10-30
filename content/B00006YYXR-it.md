@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Per bambini e bambine
 - Autore del gioco: Pokornik, Brigitte
-- Istruzioni in lingua tedesca
+- Durata del gioco: 15 minuti circa
 - Fascia detà: scuola elementare
 - Certificazione Spiel Gut: sì
+- Istruzioni in lingua tedesca
 - Avvertenze: Attenzione! Non adatto ai bambini di età inferiore a 36 mesi
-- Durata del gioco: 15 minuti circa
+- Per bambini e bambine
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00006YYXR{{</world>}}

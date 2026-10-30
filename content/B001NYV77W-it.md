@@ -28,10 +28,10 @@ average: '8.59'
 
 ℹ️:
 
-- Fosfatata
-- Utilizzo con avvitatori
-- Esagonale
 - Quadro femmina a norma DIN 3121 / ISO 1174
+- Utilizzo con avvitatori
+- Fosfatata
+- Esagonale
 - Finitura lunga
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

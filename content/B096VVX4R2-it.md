@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Left chest pocket with pencil opening
+- Carhartt Force - FastDry combined with anti-microbial properties
 - Relaxed Fit
 - Rib knit crew neck
-- Carhartt Force - FastDry combined with anti-microbial properties
+- Left chest pocket with pencil opening
 - Long Raglan Sleeve
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

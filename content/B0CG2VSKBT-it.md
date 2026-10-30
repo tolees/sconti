@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CHEERIOOS Cereali Integrali al Miele 330g | Ciambelline di avena frumento e orzo integrali fonte di fibre. Con miele 7 vitamine e minerali. Confezione da 330g'
-date: 2026-10-27 09:48:04
+date: 2026-10-29 16:36:10
 image: 'https://m.media-amazon.com/images/I/51y1xMwoMFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0CG2VSKBT/?tag=tolees00-21'
 descuento: '38.03'
-average: '1.95444444444445'
+average: '1.948'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Dopo la consueta detersione, distribuire una noce di prodotto sui capelli umidi, dalle radici alle lunghezze, quindi procedere con lo styling.
-- Crea un film invisibile ad alta prestazione che ricompatta le cuticole e, grazie a un blend di aminoacidi, idrata e rinforza i capelli.
 - Texture leggera a rapido assorbimento, dal finish impalpabile. Adatta a tutti i tipi di capelli.
+- Crea un film invisibile ad alta prestazione che ricompatta le cuticole e, grazie a un blend di aminoacidi, idrata e rinforza i capelli.
 - Trattamento leave on a duplice azione: difende e ripara la fibra capillare dai danni termici fino a 230° C e preserva l’intensità del colore per 6 settimane
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ average: '6.08333333333333'
 
 ℹ️:
 
-- Confezione da 3 adattatori da viaggio da italia a germania/austria/grecia/turchia/belgio/lussemburgo
 - Spina tedesca schuko
+- Confezione da 3 adattatori da viaggio da italia a germania/austria/grecia/turchia/belgio/lussemburgo
 - Presa italiana bipasso 10/16a
 - Prodotto di ottima qualità
 

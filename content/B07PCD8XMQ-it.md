@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Numero giocatori da due a quattro, durata media della partita 30 minuti
 - Espansione per il gioco da tavolo Dominion che introduce 500 nuove carte
-- Adatto come regalo
 - Consigliato per giocatori dai 13 in su
+- Adatto come regalo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07PCD8XMQ{{</world>}}

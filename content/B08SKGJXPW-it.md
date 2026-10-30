@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Due tasche laterali
 - Logo riflettente PUMA Cat sulla coscia
+- Due tasche laterali
 - Lunghezza sopra il ginocchio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

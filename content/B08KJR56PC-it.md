@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Il tuo personaggio è uno studente, il cui talento potrebbe essere la chiave di un antico segreto che minaccia di distruggere il mondo magico.
-- Cavalcatura Ippogrifo d’Ossidiana è sempre inclusa solo con preorder
 - Vivi a Hogwarts nel 1800.
 - Scopri la sensazione di vivere a Hogwarts mentre forgi alleanze, combatti i maghi oscuri e infine determini il fato del mondo magico.
+- Cavalcatura Ippogrifo d’Ossidiana è sempre inclusa solo con preorder
+- Il tuo personaggio è uno studente, il cui talento potrebbe essere la chiave di un antico segreto che minaccia di distruggere il mondo magico.
 - Leredità che lascerai è solo tua da plasmare. Scrivi la tua storia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

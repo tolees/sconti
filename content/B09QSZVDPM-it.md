@@ -28,8 +28,8 @@ average: '8.39'
 
 ℹ️:
 
-- Proveniente da partner di fiducia che danno la priorità allattenzione alla riduzione dellimpatto ambientale della produzione e al miglioramento dello sviluppo economico nelle aree produttrici di cotone
 - 0
+- Proveniente da partner di fiducia che danno la priorità allattenzione alla riduzione dellimpatto ambientale della produzione e al miglioramento dello sviluppo economico nelle aree produttrici di cotone
 - Vestibilità regolare
 - 100% cotone singolo jersey
 

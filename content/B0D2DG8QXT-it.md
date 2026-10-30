@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Colori della micro-manopola personalizzabili: aggiungi più pedali alla tua catena
 - Accordatore integrato, EQ, gate, compressore e riverbero
-- Uscita mono/stereo TRS per collegare amplificatori reali, cabine PA o FRFR
-- Carica fino a 20 preset in configurazioni A/B o on/off
 - Carica e riproduci amplificatori, cabine e pedali AI Tone Modeled
+- Carica fino a 20 preset in configurazioni A/B o on/off
+- Colori della micro-manopola personalizzabili: aggiungi più pedali alla tua catena
+- Uscita mono/stereo TRS per collegare amplificatori reali, cabine PA o FRFR
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D2DG8QXT{{</world>}}

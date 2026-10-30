@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Coccolino Wonder Wash Detersivo Lavatrice Liquido Ultra Care Efficace nei Cicli Brevi da 15 Minuti Anche a Freddo Protegge il Colore dei tuoi Capi Pulizia Profonda 37 Lavaggi 4 Pezzi da 1480ml'
-date: 2026-09-19 18:22:07
+date: 2026-10-29 18:34:48
 image: 'https://m.media-amazon.com/images/I/51IVZ3YuOdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ '🇮🇹', ]
 actualPrice: 17.96 EUR
 currency: EUR
 price: 17.96
-comparePrice: 28.95 EUR
+comparePrice: 21.96 EUR
 prodname: 'Coccolino Wonder Wash Detersivo Lavatrice Liquido Ultra Care Efficace nei Cicli Brevi da 15 Minuti Anche a Freddo Protegge il Colore dei tuoi Capi Pulizia Profonda 37 Lavaggi 4 Pezzi da 1480ml'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0DNZKVCB3/?tag=tolees00-21'
-descuento: '37.96'
-average: '15.9644444444444'
+descuento: '18.21'
+average: '16.3272727272727'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

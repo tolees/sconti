@@ -28,11 +28,11 @@ average: '27.09'
 
 ℹ️:
 
-- Combina le abilità uniche di SpongeBob e Patrick
-- Passa da SpongeBob a Patrick e viceversa
 - Apprendi le nuovissime abilità di Patrick, come lottare e scavare
 - Vivi una storia spaventosa
 - Doppiata dal cast originale della serie
+- Combina le abilità uniche di SpongeBob e Patrick
+- Passa da SpongeBob a Patrick e viceversa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FJS9Y63J{{</world>}}

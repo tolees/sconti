@@ -28,8 +28,8 @@ average: '235.04'
 
 ℹ️:
 
-- Barra da 30 cm Oregon
 - Lubrificazione automatica
+- Barra da 30 cm Oregon
 - Motore Brushless fino a 70 tagli per carica con una batteria 18V 5Ah
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung Memorie MB-MD512SA Sonic PRO Plus Scheda MicroSD per Console Gaming Action Cam e Droni da 512GB UHS-I U3 Fino a 180MB/s'
-date: 2026-10-22 11:51:32
+date: 2026-10-29 10:45:23
 image: 'https://m.media-amazon.com/images/I/41oMQk7LhAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -28,10 +28,10 @@ average: '86.5825000000001'
 
 ℹ️:
 
-- Dati principali tutti in una sola schermata: velocità di immersione/risalita, temperatura, dive time/a time, profondità
 - Funzioni cronometro e conto alla rovescia
-- Display retroilluminato
 - Registra la sessione dapnea fino a 99 immersioni
+- Dati principali tutti in una sola schermata: velocità di immersione/risalita, temperatura, dive time/a time, profondità
+- Display retroilluminato
 - Funziona con batteria standard c e resiste fino a 100 mt di profondità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

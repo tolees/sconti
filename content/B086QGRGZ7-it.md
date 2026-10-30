@@ -28,9 +28,9 @@ average: '10.99'
 
 ℹ️:
 
-- 63% poliestere
-- Cappellini da baseball
 - Fantastico berretto da baseball di Flexfit nella solita alta qualità e il comfort associato
+- Cappellini da baseball
+- 63% poliestere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B086QGRGZ7{{</world>}}

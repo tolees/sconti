@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fosi Audio V1.0B Compatto Amplificatore Audio Chip TI TPA3116D2 50Wx2 Mini Amplificatore HiFi Stereo 2.0 Canali Class D Integrato Stile Retrò anni 70 e 80 per Sistema HiFi Diffusori Passivi'
-date: 2026-10-26 13:09:13
+date: 2026-10-29 17:11:48
 image: 'https://m.media-amazon.com/images/I/31YO5M4TzYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B06XZL2PQD/?tag=tolees00-21'
 descuento: '33.49'
-average: '42.55'
+average: '39.1328571428572'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

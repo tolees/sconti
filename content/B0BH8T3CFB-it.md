@@ -28,9 +28,9 @@ average: '242.19'
 
 ℹ️:
 
-- Inclusa pietra per pizza in cordierite 34,5 x 34,5 cm – Per una base croccante come in pizzeria.
-- Elemento riscaldante circolare per una distribuzione uniforme del calore – Cottura omogenea e costante.
 - Design robusto con doppio rivestimento resistente al calore e struttura zincata – Qualità e durata nel tempo.
+- Elemento riscaldante circolare per una distribuzione uniforme del calore – Cottura omogenea e costante.
+- Inclusa pietra per pizza in cordierite 34,5 x 34,5 cm – Per una base croccante come in pizzeria.
 - Pizze deliziose pronte in soli 2 minuti – Perfetto per momenti di relax e divertimento con famiglia e amici.
 - Termometro digitale e LED sul pannello di controllo – Facile da usare con controllo preciso della temperatura.
 

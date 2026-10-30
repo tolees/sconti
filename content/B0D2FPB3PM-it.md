@@ -28,8 +28,8 @@ average: '15.2'
 
 ℹ️:
 
-- Skin type: Tutti i tipi di pelle
 - Sun protection: 50 sun_protection_factor
+- Skin type: Tutti i tipi di pelle
 - Ottieni la tua versione migliore con Fusion Water MAGIC by Alcaraz SPF 50 ultraleggero per il viso.
 - Product benefit: hanno un elevata tollerabilità su tutti i tipi di pelle
 - Item form: Crema

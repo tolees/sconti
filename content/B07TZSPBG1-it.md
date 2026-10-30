@@ -28,11 +28,11 @@ average: '27.15'
 
 ℹ️:
 
-- Cavo con 3 conduttori da 1, 5 mm2 (3g1, 5) h05vv-f
-- Spina (grande) 2p+t 16 a 250 v standard italiano tipo s17 termosaldata
-- Prolunga elettrica lineare 30 metri con presa universale, arancio
 - Istruzioni e manuali su faidate.Vimar.Com
 - Idoneo per apparecchi elettrici da giardinaggio, elettroutensili ed apparecchi similari
+- Cavo con 3 conduttori da 1, 5 mm2 (3g1, 5) h05vv-f
+- Prolunga elettrica lineare 30 metri con presa universale, arancio
+- Spina (grande) 2p+t 16 a 250 v standard italiano tipo s17 termosaldata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07TZSPBG1{{</world>}}

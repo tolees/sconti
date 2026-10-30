@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Vestibilità attillata
 - 78% poliammide (riciclato) / 22% elastan
-- Tessuto Infinitex
+- Vestibilità attillata
 - Girovita elasticizzato con cordino
+- Tessuto Infinitex
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZ4FXR2Z{{</world>}}

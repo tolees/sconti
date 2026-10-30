@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- JERSEY DI COTONE: misto cotone morbido e liscio. Questo tessuto naturale, leggero e traspirante, è delicato sulla pelle, mentre la presenza di spandex lo rende elastico e flessibile offrendo ampia libertà di movimento
-- VESTIBILITÀ ADERENTE: aderente su spalle, petto e vita
 - CANOTTIERA INTIMA: modello di alta qualità che unisce comfort e funzionalità per luso quotidiano.
+- JERSEY DI COTONE: misto cotone morbido e liscio. Questo tessuto naturale, leggero e traspirante, è delicato sulla pelle, mentre la presenza di spandex lo rende elastico e flessibile offrendo ampia libertà di movimento
 - DETTAGLI: scollo rotondo e giromanica rifiniti con bordature per una maggiore resistenza. Questo capo ha un orlo dritto e unetichetta stampata sul retro del collo
+- VESTIBILITÀ ADERENTE: aderente su spalle, petto e vita
 - LUNGHEZZA DEL CAPO: 78,7cm circa dal lato del collo nella taglia M (IT)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

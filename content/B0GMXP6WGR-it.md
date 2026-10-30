@@ -31,8 +31,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 - ELETTRONICAMENTE TESTATI: ogni nostro preservativo è testato elettronicamente; inoltre, ogni lotto è sottoposto a ulteriori test di qualità
 - I preservativi sono un modo per prevenire le infezioni sessualmente trasmissibili e gravidanze indesiderate se usati come indicato; vedi le istruzioni contenute all’interno della confezione per un uso corretto
 - PRESERVATIVI IN LATTICE DI GOMMA NATURALE trasparenti e lubrificati
-- SICUREZZA E PRIVACY: assicuriamo al 100% la tua privacy, il pacco è anonimo e non ci sono riferimenti al brand nel mittente; il prodotto è originale Durex: è venduto da un rivenditore autorizzato
 - CONFEZIONE SMART: ideata per ridurre al minimo lo spazio, richiudibile e riutilizzabile. Confezione riciclabile
+- SICUREZZA E PRIVACY: assicuriamo al 100% la tua privacy, il pacco è anonimo e non ci sono riferimenti al brand nel mittente; il prodotto è originale Durex: è venduto da un rivenditore autorizzato
 - FORMA E DIMENSIONI: forma Easy-on con serbatoio; larghezza nominale 56mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

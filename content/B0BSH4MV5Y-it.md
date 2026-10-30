@@ -30,9 +30,9 @@ average: '109.9'
 
 - Il dissipatore di calore è stato progettato per integrarsi con le schede madri TUF Gaming; inoltre è compatibile con socket Intel LGA 1851, 1700, 1200 e AMD AM5 e AM4
 - Il flusso daria e la pressione statica, più elevati rispetto alle versioni precedenti, garantiscono un aumento complessivo delle prestazioni in confronto alla serie TUF Gaming LC II
-- Le ventole ARGB integrate preinstallate semplificano linstallazione, con un unico cavo che supporta tutta lalimentazione e lilluminazione
 - Lelegante pompa superiore è stata aggiornata con un design trifase a sei slot e quattro poli, che offre il doppio della durata e migliora lefficienza fino al 30%, riducendo allo stesso tempo anche il rumore
 - I tubi rinforzati e rivestiti, lunghi 400 mm, assicurano una maggiore durata e la compatibilità con lo chassis
+- Le ventole ARGB integrate preinstallate semplificano linstallazione, con un unico cavo che supporta tutta lalimentazione e lilluminazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BSH4MV5Y{{</world>}}

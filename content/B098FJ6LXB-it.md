@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Tapo L900-5 Striscia LED Smart Wi-Fi 5m Controllo Vocale Compatibile con Alexa e Google Assistant Sync-to-Music Luci LED per Casa Bar Festa Accorciabile e Controllo dall APP'
-date: 2026-06-27 12:57:53
+title: 'TP-Link Tapo L900-5 Striscia LED Smart WiFi RGB 5m Alexa Google Senza Hub | Per Camera Soggiorno e Feste 16 Milioni di Colori Dimmerabile Sync Musica Tagliabile Controllo da App e Vocale'
+date: 2026-10-30 15:36:47
 image: 'https://m.media-amazon.com/images/I/51P9eHdRJPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B098FJ6LXB-it Tapo L900-5 Striscia LED Smart Wi-Fi 5m Controllo Vocale...'
+slug: 'B098FJ6LXB-it TP-Link Tapo L900-5 Striscia LED Smart WiFi RGB 5m Alexa...'
 sku: 'B098FJ6LXB-it'
 tags: [ '🇮🇹', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99
 comparePrice: 29.99 EUR
-prodname: 'Tapo L900-5 Striscia LED Smart Wi-Fi 5m Controllo Vocale Compatibile con Alexa e Google Assistant Sync-to-Music Luci LED per Casa Bar Festa Accorciabile e Controllo dall APP'
+prodname: 'TP-Link Tapo L900-5 Striscia LED Smart WiFi RGB 5m Alexa Google Senza Hub | Per Camera Soggiorno e Feste 16 Milioni di Colori Dimmerabile Sync Musica Tagliabile Controllo da App e Vocale'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B098FJ6LXB/?tag=tolees00-21'
 descuento: '40.01'
-average: '17.609387755102'
+average: '17.6243137254902'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,13 +28,6 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 【INSTALLAZIONE FLESSIBILE】Taglia la Striscia LED della lunghezza desiderata e applicala su ogni superficie grazie al comodo supporto adesivo
-- 【PROGRAMMAZIONE & TIMER】Imposta giorni e orari di accensione e spegnimento della Striscia LED
-- 【NESSUN HUB RICHIESTO】Installazione e gestione intuitiva grazie alla comoda app Tapo per dispositivi Android e iOS. Collega L900-5 alla rete Wi-Fi e sei subito pronto a personalizzare i tuoi ambienti
-- 【VERO MULTICOLORE】è possibile scegliere tra 16 milioni di colori o diverse tonalità di bianco, dalla luce fredda a calda per dare il colore desiderato a una stanza
-- 【MODALITÀ ASSENZA】Simula la tua presenza in casa per scoraggiare eventuali visitatori indesiderati
-- 【IMPOSTAZIONI PRESET】Una volta trovata limpostazione ideale per una cena, una serata film o per la lettura di un libro puoi salvare i parametri e richiamarli rapidamente tramite lapp Tapo
-- 【CONTROLLO VOCALE】Tapo L900-5 è compatibile con Amazon Alexa e Google Assistant
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B098FJ6LXB{{</world>}}

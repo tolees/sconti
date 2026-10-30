@@ -28,11 +28,11 @@ average: '38.19'
 
 ℹ️:
 
-- Idrorepellente
-- Borsa a tracolla piccola con più scomparti
 - 0.33 kg
 - Poliestere al 100 percento
+- Borsa a tracolla piccola con più scomparti
 - 22 cm (altezza) x 29 (larghezza) x 16.5 (profondità) cm
+- Idrorepellente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DBJHGC37{{</world>}}

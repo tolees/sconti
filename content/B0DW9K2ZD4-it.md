@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Manica: Lunga
-- Lunghezza: Midi
 - Stampa Arty
+- Lunghezza: Midi
+- Manica: Lunga
 - Vestibilità: Slim
 - Collo: dolcevita
 

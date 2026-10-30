@@ -28,9 +28,9 @@ average: '24.95'
 
 ℹ️:
 
-- Girocollo
-- Maniche lunghe
 - Composizione del materiale: 50% poliestere riciclato, 50% cotone
+- Maniche lunghe
+- Girocollo
 - Vestibilità normale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

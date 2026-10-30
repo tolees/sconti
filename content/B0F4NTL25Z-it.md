@@ -28,8 +28,8 @@ average: '91.95'
 
 ℹ️:
 
-- Linea semplice e versatile
 - Giacchetta leggera pensata per un uso quotidiano con vestibilità regolare
+- Linea semplice e versatile
 - Tessuto satinato per comfort e stile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

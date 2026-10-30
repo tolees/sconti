@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Intersuola in sughero
-- Made in Europe
 - Suola in EVA riciclata
 - Sottopiede in pelle scamosciata
 - Tomaia in PU riciclato al 24%
+- Intersuola in sughero
+- Made in Europe
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09BQTKQD4{{</world>}}

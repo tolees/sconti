@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Caffè Borbone Cortado - Espresso macchiato - 64 capsule 4 confezioni da 16 - Compatibili con le Macchine Nescafè* Dolce Gusto*'
-date: 2026-10-11 09:53:47
+date: 2026-10-30 06:35:49
 image: 'https://m.media-amazon.com/images/I/41rCSNz9TgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0B4KHVT89/?tag=tolees00-21'
 descuento: '31.36'
-average: '17.705'
+average: '16.9533333333333'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Fino a 120 notti di protezione non stop
 - STEM Liquido Elettrico: allontana le zanzare dalla tua casa creando uno scudo protettivo invisibile.
-- Formula al 95% di origine vegetale* Con ingrediente attivo sintetico che lo rende adatto alluso in prossimita di bambini, animali domestici e piante
 - Inodore
 - Basso consumo energetico
+- Formula al 95% di origine vegetale* Con ingrediente attivo sintetico che lo rende adatto alluso in prossimita di bambini, animali domestici e piante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CNH1WN56{{</world>}}

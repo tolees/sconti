@@ -28,10 +28,10 @@ average: '11.0'
 
 ℹ️:
 
-- Design frontale in rilievo e tasca laterale in rete
-- Zainetto prescolare a scomparto unico
 - Include una targhetta con il nome sul retro
+- Design frontale in rilievo e tasca laterale in rete
 - Dimensioni: 10 x 25 x 30 cm
+- Zainetto prescolare a scomparto unico
 - Schienale e spallacci imbottiti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

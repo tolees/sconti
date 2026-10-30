@@ -28,9 +28,9 @@ average: '14.99'
 
 ℹ️:
 
-- Ricostruisce i ponti e ripara i danni grazie allacido malico plex e ai benefici di styling
 - Aiuta a riparare i danni anche gravi causati da styling e trattamenti chimici
 - No Breaker di Sebastian Professional è uno spray ibrido Leave-in districante ottimo per i capelli danneggiati
+- Ricostruisce i ponti e ripara i danni grazie allacido malico plex e ai benefici di styling
 - Per capelli sfruttati, decolorati che hanno bisogno di una profonda ricostruzione
 - Unisce le proprietà di care e styling
 

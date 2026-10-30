@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Essentials: illuminazione adatta ad ogni appartamento
+- Adatto per lampade a LED
 - Il braccio di lettura può essere regolato individualmente utilizzando il giunto flessibile
 - Altezza del proiettore: 1,8 m
 - Con interruttore a cavo
-- Adatto per lampade a LED
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B004LZSP6Q{{</world>}}

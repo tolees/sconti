@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Harry Potter Negozi di magia di Diagon Alley 76444 | Set per adulti miniatura da esposizione e collezione 16 microfigure tra cui Harry e Draco Malfoy idea regalo 2750 pezzi'
-date: 2026-10-25 17:41:08
+date: 2026-10-30 15:16:57
 image: 'https://m.media-amazon.com/images/I/4138JUfZ+hL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0DHSDY156/?tag=tolees00-21'
 descuento: '25.00'
-average: '154.073428571426'
+average: '153.959999999997'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

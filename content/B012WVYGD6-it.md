@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Con coperchio in vetro
-- 24 cm
 - Con rivestimento antiaderente
+- 24 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B012WVYGD6{{</world>}}

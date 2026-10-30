@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Con oli essenziali naturali.
 - Un’Eau de Parfum a lunga durata, spensierata e avvolgente, che dona una sensazione di benessere
+- Con oli essenziali naturali.
 - Con Note di Cioccolato Fondente e Pralina alla Nocciola.
 - Dermatologicamente testato.
 - Formula vegana.

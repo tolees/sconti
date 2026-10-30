@@ -28,10 +28,10 @@ average: '6.19'
 
 ℹ️:
 
+- Alto contenuto di fibre.
 - Confezionato in atmosfera protettiva per la freschezza.
 - Indicazioni sul riciclaggio (Vedere retro della confezione)
 - Adatto per diete vegetariane e vegane.
-- Alto contenuto di fibre.
 - Richiudibile
 - Perfetto per uno spuntino
 

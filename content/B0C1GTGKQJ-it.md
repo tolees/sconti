@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SONOFF MINI R4 4PCS WiFi Smart Switch 2-Way Interruttore intelligente DIY modalità relè staccabile WiFi 2.4G controllo APP Funziona con Alexa Google Home Assistant controllo remoto eWeLink'
-date: 2026-10-20 14:10:32
+date: 2026-10-29 18:08:56
 image: 'https://m.media-amazon.com/images/I/31XiwTSYp3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0C1GTGKQJ/?tag=tolees00-21'
 descuento: '33.11'
-average: '28.08'
+average: '27.936'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

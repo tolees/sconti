@@ -28,13 +28,13 @@ average: '21.02'
 
 ℹ️:
 
-- Per saperne di più sul riciclaggio delle batterie monouso, basta copiare/incollare questo link nel tuo browser: call2recycle.org/what-can-i-recycle
-- 150 batterie alcaline AAA da 1,5 V; confezione per utilizzo industriale o intensivo
 - Nota: queste batterie NON sono ricaricabili; per le batterie ricaricabili consultare la linea ricaricabile di Amazon Basics
-- Senza mercurio e cadmio
 - Si conservano per un massimo di 5 anni e assicurano prestazioni affidabili
+- Senza mercurio e cadmio
+- 150 batterie alcaline AAA da 1,5 V; confezione per utilizzo industriale o intensivo
 - Prestazioni a lunga durata, per un ampio utilizzo con dispositivi elettronici e portatili
 - Per uso industriale o professionale
+- Per saperne di più sul riciclaggio delle batterie monouso, basta copiare/incollare questo link nel tuo browser: call2recycle.org/what-can-i-recycle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07VQVG7CJ{{</world>}}

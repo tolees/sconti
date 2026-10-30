@@ -29,8 +29,8 @@ average: '23.77'
 ℹ️:
 
 - Esplora un vasto mondo attraversato da autostrade dimenticate, fatto di terre selvagge e città in rovina
-- Include tutti i DLC/Espansioni del gioco rilasciati fino ad oggi con nuovi personaggi e combattimenti;
 - Inclusa in-pack l’esclusiva copertina reversibile
+- Include tutti i DLC/Espansioni del gioco rilasciati fino ad oggi con nuovi personaggi e combattimenti;
 - Oltre 140 nemici! 30 epici boss! Affronta feroci bestie e sconfiggi antichi cavalieri
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

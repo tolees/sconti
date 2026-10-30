@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'roborock Qrevo S Pro Robot Aspirapolvere Lavapavimenti Lavaggio Panno 75°C | Asciugatura Aria Calda 45°C 18.500Pa Antigroviglio Evitare Ostacoli Stazione Tutto in Uno Modalità Tappeti Nero'
-date: 2026-10-27 08:32:46
+date: 2026-10-30 15:03:16
 image: 'https://m.media-amazon.com/images/I/31hF0N5jZ0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0GHN9DR1C/?tag=tolees00-21'
 descuento: '40.68'
-average: '376.656666666667'
+average: '365.99'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Meno di 100 kcal per barretta, pratiche da portare sempre con te, per una colazione dove e quando vuoi
-- Visita il sito Nestlé per scoprire come le nostre marche sono scese in campo e contribuiscono al raggiungimento degli obiettivi di sostenibilità del Gruppo Nestlé con progetti concreti
-- Confezione da 4 barrette da 23,5g ciascuna: 94g totali
 - Le barrette FITNESS Milk Chocolate sono fonte di fibre. Contengono vitamine, calcio e ferro. Solo aromi naturali
+- Confezione da 4 barrette da 23,5g ciascuna: 94g totali
+- Meno di 100 kcal per barretta, pratiche da portare sempre con te, per una colazione dove e quando vuoi
 - Deliziose barrette di cereali integrali FITNESS con goloso cioccolato al latte
+- Visita il sito Nestlé per scoprire come le nostre marche sono scese in campo e contribuiscono al raggiungimento degli obiettivi di sostenibilità del Gruppo Nestlé con progetti concreti
 - Frumento e avena 100% integrali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

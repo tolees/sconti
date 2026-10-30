@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Woofer in mica da 13cm (5-1/4 pollici) per un suono nitido e potente.
+- Potenza di picco di 250W e potenza RMS di 30W per un suono potente e coinvolgente.
+- Risposta in frequenza di 40-20,000Hz per una vasta gamma di frequenze udibili.
 - Design Dual Cone per un suono equilibrato e nitido.
 - Magnete in ferrite per una migliorata qualità del suono.
 - Livello di pressione sonora di 91dB/W.m per un suono chiaro e potente.
-- Risposta in frequenza di 40-20,000Hz per una vasta gamma di frequenze udibili.
-- Woofer in mica da 13cm (5-1/4 pollici) per un suono nitido e potente.
-- Potenza di picco di 250W e potenza RMS di 30W per un suono potente e coinvolgente.
 - Surround ibrido per una maggiore durata e resistenza.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

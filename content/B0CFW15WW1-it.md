@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Ideas Fotocamera Polaroid OneStep SX-70 21345 | Set per adulti kit modellismo vintage oggetto da collezione dettagli autentici attività creativa idea regalo 516 pezzi'
-date: 2026-10-23 10:22:01
+date: 2026-10-29 16:33:30
 image: 'https://m.media-amazon.com/images/I/41RuRIRNs+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0CFW15WW1/?tag=tolees00-21'
 descuento: '37.52'
-average: '60.1143396226415'
+average: '59.7458181818182'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

@@ -28,8 +28,8 @@ average: '20.99'
 
 ℹ️:
 
-- Progettata per Ace / Ace Pro.
 - 1650mAh, batteria ad alta capacità per catturare lazione ancora più a lungo.
+- Progettata per Ace / Ace Pro.
 - Batteria portatile con custodia inclusa.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

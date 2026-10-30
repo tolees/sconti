@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Prolungare la durata di vita della tenda
+- ---
+- Telo di fondo leggero e protettivo per la tenda Micra II
 - ---
 - Appositamente sviluppato per proteggere il pavimento della tenda Micra II da sassi, radici e acqua di falda.
-- ---
-- Prolungare la durata di vita della tenda
-- Telo di fondo leggero e protettivo per la tenda Micra II
 - Dimensioni: 2,06 x 1,16 m
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

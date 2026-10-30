@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 16 PUNTE A STAMPINO con soggetti simpatici e divertenti: cuore, stella, emoji, fiore e tanti altri
-- PENNARELLI CON PUNTA A STAMPINO in 16 colori assortiti brillanti e vivaci, inchiostri facilmente lavabili
 - OTTIMI DA UTILIZZARE A SCUOLA E NEL TEMPO LIBERO per decorare diari, quaderni, lasciare messaggi
+- PENNARELLI CON PUNTA A STAMPINO in 16 colori assortiti brillanti e vivaci, inchiostri facilmente lavabili
+- 16 PUNTE A STAMPINO con soggetti simpatici e divertenti: cuore, stella, emoji, fiore e tanti altri
 - PENNARELLI CON MINI FUSTO facilmente impugnabile dalle mani dei più piccoli
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

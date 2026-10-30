@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- 100% cotone
+- Vestibilità regolare
+- Tubi a contrasto su colletto e maniche
 - Confezione da 2 polo
 - Cotone morbido e confortevole
-- Vestibilità regolare
-- 100% cotone
-- Tubi a contrasto su colletto e maniche
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09KVG8FKW{{</world>}}

@@ -29,11 +29,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Capsule originali per macchine NESCAFÉ DOLCE GUSTO
-- 3 confezioni da 16 capsule: 48 capsule totali
-- Visita il sito Nestlé per scoprire come le nostre marche sono scese in campo e contribuiscono al raggiungimento degli obiettivi di sostenibilità del Gruppo Nestlé con progetti concreti
-- Note di cacao e wafer
-- Capsule compatibili con macchina per caffè espresso e altre bevande NESCAFÉ DOLCE GUSTO
 - Preparato per bevanda con latte in polvere e cacao
+- Capsule compatibili con macchina per caffè espresso e altre bevande NESCAFÉ DOLCE GUSTO
+- Note di cacao e wafer
+- Visita il sito Nestlé per scoprire come le nostre marche sono scese in campo e contribuiscono al raggiungimento degli obiettivi di sostenibilità del Gruppo Nestlé con progetti concreti
+- 3 confezioni da 16 capsule: 48 capsule totali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DF86ZZJ2{{</world>}}

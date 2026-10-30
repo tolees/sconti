@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Primavera/estate
+- Top basso
+- 12615 WSL
 - Grazioso connettersi
 - femmina
-- 12615 WSL
-- Top basso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08PMP2XKP{{</world>}}

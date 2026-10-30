@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Suola: Gomma
-- Tipo di punta: Rotonda
 - Tipo di tacco: Tacco piatto
+- Suola: Gomma
 - Fodera: Tessuto
+- Tipo di punta: Rotonda
 - Larghezza: Regolare
 - Fibbia: Lacci
 

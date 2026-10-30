@@ -30,9 +30,9 @@ average: '1.99'
 
 - I fiocchi di FITNESS Protein al Cacao sono fatti con frumento, avena e quinoa integrali, per un mix perfetto di gusto e nutrimento
 - Fonte di Proteine e con lo 0% di Zuccheri Aggiunti* sono la colazione nutriente e gustosa di cui hai bisogno per affrontare la giornata con la carica giusta! *Contengono naturalmente zuccheri
-- Deliziosi Fiocchi di Cereali Integrali al Cacao
 - Solo aromi naturali
 - Confezione da 310g, contenente circa 10 porzioni da 30g
+- Deliziosi Fiocchi di Cereali Integrali al Cacao
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CLDC89FM{{</world>}}

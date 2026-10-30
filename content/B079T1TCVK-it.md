@@ -30,8 +30,8 @@ average: '21.99'
 
 - Logo ricamato sul petto e scritta Kappa stampata sulla gamba sinistra.
 - Elastico in vita e polsini a costine sulle maniche.
-- Offre una libertà di movimento ottimale.
 - Ottima vestibilità.
+- Offre una libertà di movimento ottimale.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B079T1TCVK{{</world>}}

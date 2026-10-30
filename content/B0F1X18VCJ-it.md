@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Lacci
 - Vestibilità regolare
-- Soletta in tessuto
 - Tomaia in materiale sintetico e pelle
+- Soletta in tessuto
 - Suola in gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ average: '16.2'
 
 - Vestibilità : Regular Fit
 - Tasche : Tasche frontali
-- Dettagli : Dettaglio del logo
 - Chiusura : Chiusura con coulisse
+- Dettagli : Dettaglio del logo
 - Tipologia di prodotto : Pantaloncini in felpa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

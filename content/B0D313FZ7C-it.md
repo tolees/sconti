@@ -28,8 +28,8 @@ average: '8.4925'
 
 ℹ️:
 
-- Presenta il logo del marchio PUMA sul retro
 - Zaino del marchio PUMA
+- Presenta il logo del marchio PUMA sul retro
 - Realizzato con materiali sostenibili
 - Design spazioso e leggero
 

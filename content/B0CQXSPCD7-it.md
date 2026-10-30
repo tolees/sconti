@@ -28,9 +28,9 @@ average: '149.87'
 
 ℹ️:
 
+- Cassa rotonda in acciaio con quadrante nero.
 - Cinturino in pelle nera.
 - Cassa da 44 mm, larghezza del cinturino di 22 mm, cristallo minerale, movimento al quarzo, display analogico con cronografo, importato.
-- Cassa rotonda in acciaio con quadrante nero.
 - Resistente all’acqua fino a 50 m: indossabile per nuotare in acque basse.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

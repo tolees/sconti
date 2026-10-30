@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'Tuc Cracker Integrale Cotto al Forno con Grano 100% Italiano 267g'
-date: 2026-03-01 13:19:57
-image: 'https://m.media-amazon.com/images/I/41MR4i-QG1L._SL500_._SL400_.jpg'
+date: 2026-10-30 06:35:54
+image: 'https://m.media-amazon.com/images/I/41ArLbNKDHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B08VMTSSN8-it Tuc Cracker Integrale Cotto al Forno con Grano 100%...'
 sku: 'B08VMTSSN8-it'
 tags: [ '🇮🇹', ]
-actualPrice: 1.6 EUR
+actualPrice: 1.24 EUR
 currency: EUR
-price: 1.6
+price: 1.24
 comparePrice: 2.29 EUR
 prodname: 'Tuc Cracker Integrale Cotto al Forno con Grano 100% Italiano 267g'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B08VMTSSN8/?tag=tolees00-21'
-descuento: '30.13'
-average: '1.6'
+descuento: '45.85'
+average: '1.42'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,11 +28,6 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Fatto con 100% Grano Italiano, prodotto in Italia nello stabilimento di Capriata D’Orba in Piemonte.
-- TUC Cracker è il gusto croccante per ogni occasione, ideale per i momenti di pausa di tutta la giornata.
-- Tuc Cracker Integrale: per uno snack equilibrato senza rinunciare al piacere!
-- Scopri anche Tuc Cracker Classico, Pomodoro e Grana Padano DOP, Erbe e Rosmarino.
-- TUC ci accompagna sia a casa che fuori con tantissimi gusti e forme ma mantenendo sempre il DNA 100% TUC
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08VMTSSN8{{</world>}}

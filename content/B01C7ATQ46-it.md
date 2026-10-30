@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Sapore fresco e finale fruttato
 - 750ml
-- Al palato è ben equilibrato
 - Note di mele dorate e pesca
+- Al palato è ben equilibrato
 - Colore giallo paglierino al naso intensi aromi fruttati di albicocche
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

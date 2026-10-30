@@ -28,8 +28,8 @@ average: '53.9485714285714'
 
 ℹ️:
 
-- Chiusura: Stringata
 - Suola: Gomma
+- Chiusura: Stringata
 - Materiale esterno: Tessile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

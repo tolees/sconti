@@ -28,10 +28,10 @@ average: '15.175'
 
 ℹ️:
 
+- Maschera colorata protettiva
 - Ravviva ed esalta il colore
 - Idrata e nutre i capelli
 - Lascia i capelli sani e lucenti
-- Maschera colorata protettiva
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08JHTD3JX{{</world>}}

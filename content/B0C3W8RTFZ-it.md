@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tasca laterale in rete
 - Pannello posteriore imbottito
+- Tasca laterale in rete
 - Spallacci regolabili e imbottiti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

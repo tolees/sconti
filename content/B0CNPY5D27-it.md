@@ -28,14 +28,14 @@ average: '125.0'
 
 ℹ️:
 
-- Colore Bianco
-- Classe E
-- Dimensioni HxLxP:81,8x47,5x50,0
-- Frigorifero Sottotavolo
 - Volume Totale Netto: 88 litri
-- 38dBA
-- Controllo Meccanico
+- Classe E
+- Frigorifero Sottotavolo
+- Colore Bianco
 - Statico
+- Controllo Meccanico
+- 38dBA
+- Dimensioni HxLxP:81,8x47,5x50,0
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CNPY5D27{{</world>}}

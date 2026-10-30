@@ -28,9 +28,9 @@ average: '31.5'
 
 ℹ️:
 
+- Realizzati con materiali sostenibili
 - Borsa da cintura del marchio Love Moschino
 - Design spazioso e leggero
-- Realizzati con materiali sostenibili
 - Semplice e accessibile da usare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

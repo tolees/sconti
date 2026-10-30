@@ -28,10 +28,10 @@ average: '109.0'
 
 ℹ️:
 
-- Hf trim switch adjusts high-frequency output to room acoustics or personal preferences
-- Patented image control Waveguide for detailed imaging and a broad, room-friendly sweet spot
 - Dual integrated, custom Class-D amplifiers provide 82 watts of power for high output and dynamic range
+- Patented image control Waveguide for detailed imaging and a broad, room-friendly sweet spot
 - Next-generation JBL transducers for optimized transient response and improved linearity
+- Hf trim switch adjusts high-frequency output to room acoustics or personal preferences
 - New boundary EQ settings compensate for low frequency variants introduced by the environment
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '42.51'
 
 ℹ️:
 
-- Per qualsiasi tipo di materiale, legno, pietra, metallo (diametro 80 mm, larghezza 100 mm).
-- Durevole e resistente.
 - Spazzola abrasiva in nylon 80 x 100 mm
+- Per qualsiasi tipo di materiale, legno, pietra, metallo (diametro 80 mm, larghezza 100 mm).
 - Spazzola abrasiva in nylon - Raccomandazione sgrassaggio o pulizia abrasiva su tutti i tipi di superfici, piane e irregolari.
+- Durevole e resistente.
 - Per ristrutturatore REX 80 (115018)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

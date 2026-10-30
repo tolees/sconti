@@ -28,9 +28,9 @@ average: '5.59'
 
 ℹ️:
 
-- Scegli tra 3 FREQUENZE DI NEBULIZZAZIONE: 9, 18 o 36 minuti. Premi il tasto nella parte superiore per uno SPRUZZO IMMEDIATO;
-- La confezione contiene 1 BASE e 1 RICARICA di Glade Automatic Spray;
 - Goditi FINO A 2 MESI DI FRAGRANZA per ogni ricarica (con settaggio a 36 minuti).
+- La confezione contiene 1 BASE e 1 RICARICA di Glade Automatic Spray;
+- Scegli tra 3 FREQUENZE DI NEBULIZZAZIONE: 9, 18 o 36 minuti. Premi il tasto nella parte superiore per uno SPRUZZO IMMEDIATO;
 - Crea unatmosfera calda e natalizia con la fragranza Warm Apple Pie, con note di MELA e CANNELLA;
 - Aiuta a COMBATTERE GLI ODORI;
 

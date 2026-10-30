@@ -28,13 +28,13 @@ average: '14.72'
 
 ℹ️:
 
-- Modalità duso: diluire in poca acqua o assumere in purezza circa 1 ml, utilizzando il contagocce graduato; si sconsiglia luso in gravidanza e/o durante lallattamento
-- Azione: grazie allunione delle proprietà analgesiche e tranquillanti degli ingredienti naturali e alla Melatonina, regola il ritmo sonno-veglia e allevia lo stress
 - Les informations ci-dessous sappliquent à chaque unité du pack
+- Modalità duso: diluire in poca acqua o assumere in purezza circa 1 ml, utilizzando il contagocce graduato; si sconsiglia luso in gravidanza e/o durante lallattamento
 - Formula: con gli estratti di Escolzia, Passiflora, Biancospino, Camomilla, Valeriana e Tiglio e la Melatonina regola il fisiologico ciclo sonno-veglia
+- Azione: grazie allunione delle proprietà analgesiche e tranquillanti degli ingredienti naturali e alla Melatonina, regola il ritmo sonno-veglia e allevia lo stress
 - Melatonin Pura con Erbe della Notte: integratore alimentare al gusto arancia che unisce lazione di diverse piante alla melatonina per donare un naturale riposo
-- ESI Benessere Naturale: dal 1975 lazienda italiana ESI offre prodotti fitoterapici, dietetici e integratori alimentari dallelevato standard qualitativo
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
+- ESI Benessere Naturale: dal 1975 lazienda italiana ESI offre prodotti fitoterapici, dietetici e integratori alimentari dallelevato standard qualitativo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DZHNY1FS{{</world>}}

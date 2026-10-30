@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lefant Robot Aspirapolvere Lavapavimenti Grigio Morbido | Aspirazione 5000Pa Peli Animali Mop Magnetico Rilevamento Tappeti 3 Mappe Aspirapolvere Robot per Casa'
-date: 2026-10-23 05:33:11
+date: 2026-10-30 09:59:57
 image: 'https://m.media-amazon.com/images/I/517GqtMy7cL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0G7X5KZGL/?tag=tolees00-21'
 descuento: '68.34'
-average: '136.485'
+average: '135.316666666667'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

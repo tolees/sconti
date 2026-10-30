@@ -28,11 +28,11 @@ average: '64.99'
 
 ℹ️:
 
-- Dotazione: Quigo Green, morsetto snodabile MM 2, piastra adattatrice, 2 batterie AAA, manuale, scatola di cartone E-Commerce
-- Posizionamento versatile: Con il supporto universale MM2 e ladattatore a piastra
 - Risultati precisi: per un livellamento estremamente preciso di +/-0,6 mm/m e un raggio dazione fino a 12 m
-- Sostenibilità: Questo prodotto è accompagnato da dati sullecosostenibilità, maggiori informazioni nel seguito
 - La livella laser a croce Quigo Green di Bosch proietta contemporaneamente una linea laser orizzontale e una verticale. Massima visibilità anche in condizioni di forte luminosità.
+- Sostenibilità: Questo prodotto è accompagnato da dati sullecosostenibilità, maggiori informazioni nel seguito
+- Posizionamento versatile: Con il supporto universale MM2 e ladattatore a piastra
+- Dotazione: Quigo Green, morsetto snodabile MM 2, piastra adattatrice, 2 batterie AAA, manuale, scatola di cartone E-Commerce
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CGXNPX9X{{</world>}}

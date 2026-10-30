@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Coperchio/forno con indicatore di temperatura.
-- Sistema roccia lavica per una diffusione uniforme del calore e lassorbimento dei grassi
-- 2 Ripiani laterali pieghevoli.
 - Due bruciatori in acciaio per un’ottimale distribuzione del calore.
+- Coperchio/forno con indicatore di temperatura.
+- 2 Ripiani laterali pieghevoli.
+- Sistema roccia lavica per una diffusione uniforme del calore e lassorbimento dei grassi
 - Accensione Piezo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

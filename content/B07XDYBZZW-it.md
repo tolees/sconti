@@ -29,9 +29,9 @@ average: '66.946'
 ℹ️:
 
 - Prodotto certificato oeko-tex
-- Composto da un lenzuolo 240 x 280 cm, un sottolenzuolo con angoli elasticizzati 175 x 200 cm, due federe 50 x 80 cm
 - Lavabile in lavatrice a 60°
 - Prodotto interamente in italia
+- Composto da un lenzuolo 240 x 280 cm, un sottolenzuolo con angoli elasticizzati 175 x 200 cm, due federe 50 x 80 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07XDYBZZW{{</world>}}

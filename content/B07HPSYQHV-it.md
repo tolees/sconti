@@ -28,11 +28,11 @@ average: '1.99'
 
 ℹ️:
 
-- Senza glutine
 - Gusto ricercato e aromatico
-- Ottimo per la degustazione e per abbinamenti con cibi e bevande
-- Tavoletta di cioccolato fondente extra con granella di pistacchio
 - Confezione da 85 g
+- Tavoletta di cioccolato fondente extra con granella di pistacchio
+- Senza glutine
+- Ottimo per la degustazione e per abbinamenti con cibi e bevande
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07HPSYQHV{{</world>}}

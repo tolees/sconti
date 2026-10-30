@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Harry Potter Pietra filosofale – Edizione del collezionista 76466 | Set per adulti Edvige e 3 minifigure modellino fai da te decorazione per la camera da letto idea regalo 1571 pezzi'
-date: 2026-10-24 13:46:47
+date: 2026-10-30 10:50:25
 image: 'https://m.media-amazon.com/images/I/51D956WPBjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0FPXHC19W/?tag=tolees00-21'
 descuento: '25.00'
-average: '128.198571428572'
+average: '127.651333333334'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

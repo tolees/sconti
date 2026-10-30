@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lindt Choco Wafer Bag assortita di creazioni di wafer e cioccolato Lindt confezionate singolarmente Formato 350g.'
-date: 2026-10-26 08:42:43
+date: 2026-10-30 16:51:24
 image: 'https://m.media-amazon.com/images/I/41JHNMRHXaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

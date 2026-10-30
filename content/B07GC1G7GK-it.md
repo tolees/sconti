@@ -28,9 +28,9 @@ average: '94.24'
 
 ℹ️:
 
+- Tomaia: Pelle
 - Colore: Nero
 - Fodera: 62% Poliestere riciclato 24% Tessuto 65% Poliuretano - 35% Poliestere 14% Tessuto
-- Tomaia: Pelle
 - Lacci
 - Suola/Caratteristiche: EVA per leggerezza
 

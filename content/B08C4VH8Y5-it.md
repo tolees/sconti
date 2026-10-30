@@ -28,11 +28,11 @@ average: '20.0'
 
 ℹ️:
 
-- FIGURA ARTICOLATA - Buona presa, articolazioni delle spalle e delle anche per una maggiore stabilità.
-- LICENZA UFFICIALE DRAGON BALL - Action figure da collezione della serie Dragon Ball Super
 - COLLEZIONE LIMIT BREAKER - Colleziona tutte le action figure Dragon Ball Limit Breaker e Super Limit Breaker di Bandai
-- FIGURINA GRANDE - Statuetta gigante di 33 cm, ideale da esporre o come primo giocattolo da collezione.
+- FIGURA ARTICOLATA - Buona presa, articolazioni delle spalle e delle anche per una maggiore stabilità.
 - FIGURA MANGA - Personaggio: Goku
+- FIGURINA GRANDE - Statuetta gigante di 33 cm, ideale da esporre o come primo giocattolo da collezione.
+- LICENZA UFFICIALE DRAGON BALL - Action figure da collezione della serie Dragon Ball Super
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08C4VH8Y5{{</world>}}

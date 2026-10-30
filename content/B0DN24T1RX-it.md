@@ -28,11 +28,11 @@ average: '48.0'
 
 ℹ️:
 
+- Tomaia in materiale sintetico con rivestimenti in suede
 - Chiusura con lacci
+- Calzata regolare
 - Fodera in mesh
 - Suola in gomma
-- Calzata regolare
-- Tomaia in materiale sintetico con rivestimenti in suede
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DN24T1RX{{</world>}}

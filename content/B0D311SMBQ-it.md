@@ -28,10 +28,10 @@ average: '12.19'
 
 ℹ️:
 
-- Tasca laterale a rete
+- Loghi PUMA
 - Tasca anteriore con zip
 - Pannello posteriore imbottito
-- Loghi PUMA
+- Tasca laterale a rete
 - Scomparto principale con zip bidirezionale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ average: '47.94'
 
 ℹ️:
 
-- La tecnologia riflettente Omni-Heat fornisce un migliore isolamento per tenervi al caldo anche nelle giornate più fredde
 - Contents: 1x Columbia Powder Lite II, Gilet da Uomo, Colore: Blu (Collegiate Navy), Taglia: L, Articolo: 2086974
 - Gilet imbottito da uomo con tecnologia termoriflettente, Ideale per trattenere il calore durante i freddi mesi invernali
+- La tecnologia riflettente Omni-Heat fornisce un migliore isolamento per tenervi al caldo anche nelle giornate più fredde
 - Vestibilità ottimale grazie all’orlo regolabile con coulisse
 - Bordatura su girocollo e polsini, Bordatura sul giromanica, Tasca interna di sicurezza
 

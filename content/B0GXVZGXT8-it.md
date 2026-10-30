@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'UGREEN Zapix Caricatore USB C 45W PPS Ricarica Rapida iPhone con Cavo 1.5M | GaN Caricabatterie Compatibile con iPhone 18 Pro Max 17 Air 16 Plus Pixel 10 9 Pro Galaxy S26 S25 S24 Ultra iPad MacBook Neo'
-date: 2026-10-27 11:11:15
+date: 2026-10-29 12:04:40
 image: 'https://m.media-amazon.com/images/I/319hKJfR4NL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

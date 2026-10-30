@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Cavo ho5 vv-f sezione 3g1 mm² lunghezza 1, 5 metri
-- Indicatore on/off luminoso
-- Multipresa con 4 prese polivalenti (schuko + 16a +10a); spina 16a
 - Tutte le prese sono dotate di children safety - impedisce di introdurre corpi estranei nella presa in tensione
+- Multipresa con 4 prese polivalenti (schuko + 16a +10a); spina 16a
+- Indicatore on/off luminoso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00IF97LV4{{</world>}}

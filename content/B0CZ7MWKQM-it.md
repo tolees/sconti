@@ -28,9 +28,9 @@ average: '21.09'
 
 ℹ️:
 
-- MATERIALE - 95% cotone, 5% elastan
-- VESTIBILITÀ - Taglio slim fit fino alla coscia.
 - IDEALE - Pantaloncini con fascia elastica stampata con logo.
+- VESTIBILITÀ - Taglio slim fit fino alla coscia.
+- MATERIALE - 95% cotone, 5% elastan
 - ESSENZIALE - Un capo versatile per il comfort quotidiano.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

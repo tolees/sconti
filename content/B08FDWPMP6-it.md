@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips Testine di rasatura compatibili con i rasoi Philips serie 5000 e 7000 prestazioni potenti autoaffilanti 3 pezzi modello SH71/50 sostituiscono RQ12/70 RQ12/60 SH60/70 e SH70/70'
-date: 2026-10-08 02:42:06
+date: 2026-10-30 08:22:03
 image: 'https://m.media-amazon.com/images/I/41yDSQIBfbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B08FDWPMP6/?tag=tolees00-21'
 descuento: '48.31'
-average: '28.99'
+average: '29.49'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

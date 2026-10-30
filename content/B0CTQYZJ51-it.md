@@ -28,10 +28,10 @@ average: '29.81'
 
 ℹ️:
 
-- Ceramide Triple Complex Riempie, solleva e rassoda per un incarnato liscio e uniforme
-- Ceramidi Rafforzano la barriera della pelle per nutrire, rassodare e proteggere dalla perdita di idratazione
 - Offre una coprenza da media a alta
 - Aggiungi il nostro Ceramide Lift e il Fondotinta Crema Rassodante alla tua routine di skincare con Ceramide per un maggiore potere di ringiovanimento
+- Ceramidi Rafforzano la barriera della pelle per nutrire, rassodare e proteggere dalla perdita di idratazione
+- Ceramide Triple Complex Riempie, solleva e rassoda per un incarnato liscio e uniforme
 - Uniforma istantaneamente il tono della pelle e attenua le macchie scure
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

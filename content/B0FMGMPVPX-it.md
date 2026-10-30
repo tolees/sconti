@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JBL Grip Speaker Bluetooth Compatto Bianco | JBL Pro Sound con AI Sound Boost Impermeabilità IP68 Luce Ambientale 14 Ore di Autonomia Auracast App JBL Portable'
-date: 2026-10-29 09:06:00
+date: 2026-10-30 18:32:19
 image: 'https://m.media-amazon.com/images/I/41Vgj3+ElYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

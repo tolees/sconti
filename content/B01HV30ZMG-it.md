@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Due Oculare Borsa Petto
-- Lungo Manicotto
-- Istruzioni per la cura: lavare in lavatrice
 - 100% Cotone
+- Istruzioni per la cura: lavare in lavatrice
+- Lungo Manicotto
+- Due Oculare Borsa Petto
 - Numero Modello: 9373
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
