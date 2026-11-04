@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Sandali del marchio Geox
-- Design traspirante per un comfort extra
-- Adatto per: clima caldo
 - Realizzati con materiali sostenibili
+- Sandali del marchio Geox
+- Adatto per: clima caldo
+- Design traspirante per un comfort extra
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D6NMLHTZ{{</world>}}

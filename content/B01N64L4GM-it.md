@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Integratore alimentare di aminoacidi a catena ramificata
 - Con vitamine B1 e B6
-- Supporta il normale metabolismo energetico
+- Integratore alimentare di aminoacidi a catena ramificata
 - Prodotto di qualità
+- Supporta il normale metabolismo energetico
 - Adatto ad integrare la dieta degli sportivi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

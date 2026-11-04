@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Farina Integrale di grano tenero
 - Senza Additivi
+- Farina Integrale di grano tenero
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B014UT4KV6{{</world>}}

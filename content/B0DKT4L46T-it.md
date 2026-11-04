@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Prodotto di ottima fattura
 - Sportivo e comodo
+- Prodotto di ottima fattura
 - Gilet trapuntato da donna
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

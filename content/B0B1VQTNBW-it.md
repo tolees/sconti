@@ -28,11 +28,11 @@ average: '21.9'
 
 ℹ️:
 
-- Giacca di jeans da donna classica
-- Tasche con patta sul petto
-- Slim fit, taglio aderente
-- Chiusura tramite bottoni
 - Colletto rovesciato
+- Slim fit, taglio aderente
+- Giacca di jeans da donna classica
+- Chiusura tramite bottoni
+- Tasche con patta sul petto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B1VQTNBW{{</world>}}

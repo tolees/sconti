@@ -28,11 +28,11 @@ average: '55.1566666666667'
 
 ℹ️:
 
-- Tante modalità di gioco tra cui la modalità Storia, in cui Mario e amici vengono ridotti in dimensione baby
 - Novità: 30 racchette frenesia tra cui scegliere, con cui personalizzare il personaggio e cambiare le sorti del match
-- 38 personaggi giocabili - mai così tanti nella serie!
-- Usa i comandi di movimento dei Joy-Con 2 nella modalità Swing
 - Esclusiva Nintendo Switch 2
+- Usa i comandi di movimento dei Joy-Con 2 nella modalità Swing
+- 38 personaggi giocabili - mai così tanti nella serie!
+- Tante modalità di gioco tra cui la modalità Storia, in cui Mario e amici vengono ridotti in dimensione baby
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FR9DHN1W{{</world>}}

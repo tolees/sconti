@@ -30,8 +30,8 @@ average: '167.95'
 
 - Tasca interna sul petto
 - Giacca con cappuccio
-- Nessuna linea di taglio della spalla
 - Legature delle manette
+- Nessuna linea di taglio della spalla
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D9HHP5X9{{</world>}}

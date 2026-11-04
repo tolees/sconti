@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Stile informale
 - Traspiranti e leggeri
+- Stile informale
 - Soletta rimovibile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

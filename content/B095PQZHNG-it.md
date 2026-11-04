@@ -28,8 +28,8 @@ average: '23.52'
 
 ℹ️:
 
-- Adatto ai giocatori di videogiochi
 - La tastiera ha unilluminazione
+- Adatto ai giocatori di videogiochi
 - Comprende una tastiera, un mouse, un paio di cuffie e un tappetino per il mouse
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

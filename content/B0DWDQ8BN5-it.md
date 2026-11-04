@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic SUV Ford Bronco 42213 | Giochi per bambini da 9 anni macchina giocattolo off road motore V6 porte sospensioni e sterzo idea regalo 943 pezzi'
-date: 2026-10-31 15:14:46
+date: 2026-11-03 20:17:42
 image: 'https://m.media-amazon.com/images/I/51Yn+HO2oXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0DWDQ8BN5/?tag=tolees00-21'
 descuento: '25.00'
-average: '43.8314285714288'
+average: '43.9321739130437'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Google Pixel Watch 4 45 mm - Smartwatch Android con tracker per fitness e benessere e assistente virtuale Gemini - Cassa in alluminio nero opaco - Cinturino sportivo nero ossidiana - LTE'
-date: 2026-10-30 13:31:17
+date: 2026-11-04 08:32:19
 image: 'https://m.media-amazon.com/images/I/41wzSBoC9CL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0FJFWMVSG/?tag=tolees00-21'
 descuento: '35.52'
-average: '396.5'
+average: '388.0'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

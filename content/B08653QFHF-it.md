@@ -29,8 +29,8 @@ average: '40.31'
 ℹ️:
 
 - Suola flessibile.
-- Genere: da uomo.
 - Soletta in memory foam.
+- Genere: da uomo.
 - Tomaia in mesh ingegnerizzato.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

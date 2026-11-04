@@ -28,11 +28,11 @@ average: '54.99'
 
 ℹ️:
 
-- Designer: Anna e Gian Franco Gasparini
-- Tagliere per pane con raccoglitore a comparsa e porta coltello
 - Dimensioni: altezza 4.50 cm, lunghezza 42 cm, larghezza 27 cm
 - Le fessure longitudinali fanno cadere le briciole direttamente nel contenitore sotto il piano di lavoro
 - Materiale: legno di bambù, raccoglitore in resina termoplastica
+- Tagliere per pane con raccoglitore a comparsa e porta coltello
+- Designer: Anna e Gian Franco Gasparini
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B007TJCESQ{{</world>}}

@@ -30,9 +30,9 @@ average: '1.55'
 
 - Struttura ovale in plastica resistente
 - Raccoglie ogni genere di impurità dalla superficie dellacqua, come foglie ed insetti, in modo facile e comodo
-- Retina Raccogli Foglie Intex
 - Compatibile con lasta telescopica in alluminio con diametro da 26,2 mm (codice articolo Intex: 29054), venduta separatamente
 - Colore azzurro
+- Retina Raccogli Foglie Intex
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00I5IXMKY{{</world>}}

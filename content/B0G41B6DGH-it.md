@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Moleskine Agenda Settimanale Verticale 2026-2027 Essential Planner 15 Mesi Con Slot Orari Giornalieri e Copertina Flessibile Formato XXL 23 5x28 14 cm Colore Nero'
-date: 2026-10-24 07:12:37
+date: 2026-11-03 16:43:34
 image: 'https://m.media-amazon.com/images/I/31-oXYVfQGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

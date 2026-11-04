@@ -28,8 +28,8 @@ average: '27.45'
 
 ℹ️:
 
-- Tasche laterali
 - Logo Futura ricamato
+- Tasche laterali
 - Coulisse piatta ed elastico in vita
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

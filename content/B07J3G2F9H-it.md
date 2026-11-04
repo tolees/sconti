@@ -28,8 +28,8 @@ average: '45.8166666666667'
 
 ℹ️:
 
-- La confezione include 6 batterie AA (LR6/R6), ma queste sono solo a scopo di test.
 - Il veicolo richiede 8 batterie AA (LR6/R6), il che significa che il cliente deve utilizzare 8 batterie AA.
+- La confezione include 6 batterie AA (LR6/R6), ma queste sono solo a scopo di test.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07J3G2F9H{{</world>}}

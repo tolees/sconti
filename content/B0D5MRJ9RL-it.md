@@ -28,9 +28,9 @@ average: '23.39'
 
 ℹ️:
 
-- Realizzati con materiali sostenibili
 - Adatto per: clima caldo
 - Design traspirante per un comfort extra
+- Realizzati con materiali sostenibili
 - Shorts del marchio Under Armour
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

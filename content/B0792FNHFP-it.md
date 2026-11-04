@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Larghezza scarpa: Normale
-- Diametro polpaccio: Regolabile
 - Chiusura: Cerniera
-- Materiale esterno: Pelle liscia
-- Fodera: Tela
 - Tipo di tacco: Piatto
-- Altezza tacco: 3.5 cm
+- Diametro polpaccio: Regolabile
+- Materiale esterno: Pelle liscia
 - Materiale suola: Sintetico
+- Fodera: Tela
+- Altezza tacco: 3.5 cm
+- Larghezza scarpa: Normale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0792FNHFP{{</world>}}

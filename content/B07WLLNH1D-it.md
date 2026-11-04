@@ -29,10 +29,10 @@ average: '16.49'
 ℹ️:
 
 - Ottima traspirabilità, per mantenere la pelle asciutta
-- Stile: slim fit
+- Materiale confortevole e resistente
 - Inserto in mesh sul retro per unottima traspirabilità
 - Maglietta realizzata in tessuto morbido e traspirante
-- Materiale confortevole e resistente
+- Stile: slim fit
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07WLLNH1D{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tomaia: Pelle
-- Colore: Nero
-- Suola/Caratteristiche: 100% Gomma; Lacci
 - Sottopiede: Sottopiede OrthoLite Recycled per ammortizzazione
 - Fodera: 57% Tessuto 45% Poliestere Riciclato - 35% Cotone Riciclato - 20% Viscosa 43% Poliestere Riciclato
+- Suola/Caratteristiche: 100% Gomma; Lacci
+- Colore: Nero
+- Tomaia: Pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07P2MYW26{{</world>}}

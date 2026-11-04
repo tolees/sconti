@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Borse a tracolla
 - MANDARINA DUCK
+- Borse a tracolla
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07G2TWLKH{{</world>}}

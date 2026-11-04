@@ -28,10 +28,10 @@ average: '32.6'
 
 ℹ️:
 
-- Patta sul tallone in pelle scamosciata
-- SoftFoam+: la soletta interna di PUMA offre un comfort immediato e duraturo, garantendo la ottima ammortizzazione ad ogni passo, per tutto il giorno
 - Chiusura con lacci
 - Perforazione sulla punta
+- SoftFoam+: la soletta interna di PUMA offre un comfort immediato e duraturo, garantendo la ottima ammortizzazione ad ogni passo, per tutto il giorno
+- Patta sul tallone in pelle scamosciata
 - Tomaia sintetica
 - Silhouette di stivaletto basso
 

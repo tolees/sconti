@@ -28,8 +28,8 @@ average: '34.95'
 
 ℹ️:
 
-- 100%LINO
 - Pantalone in lino con vita semi elasticata e gamba dritta, lunghezza sopra la caviglia. Filetti dietro e piega sul davanti.
+- 100%LINO
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D8QKGG81{{</world>}}

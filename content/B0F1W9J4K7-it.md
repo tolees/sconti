@@ -28,10 +28,10 @@ average: '455.966666666667'
 
 ℹ️:
 
-- Mini-LED con Local Dimming
-- Dolby Vision IQ / HDR 10+ / HLG
 - QLED Display 144Hz
+- Dolby Vision IQ / HDR 10+ / HLG
 - Smart TV Mini-LED 144Hz 4K 55", Risoluzione 3840x2160
+- Mini-LED con Local Dimming
 - Audio Dolby Atmos 2.1
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

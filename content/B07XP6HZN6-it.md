@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- GRADAZIONE ALCOLICA: 5% vol
 - ASAHI SUPER DRY: birra a bassa fermentazione dal colore giallo paglierino, da servire a 4-5°C
-- GUSTO: pulito, secco e rinfrescante
-- Birra Peroni S.r.. Via Birolli, 8 - Roma, Italy.
-- IDEALE CON: cibi freschi e crudité
 - FORMATO: cassa di birra con 20 bottiglie da 50 cl
+- IDEALE CON: cibi freschi e crudité
+- GRADAZIONE ALCOLICA: 5% vol
+- Birra Peroni S.r.. Via Birolli, 8 - Roma, Italy.
+- GUSTO: pulito, secco e rinfrescante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07XP6HZN6{{</world>}}

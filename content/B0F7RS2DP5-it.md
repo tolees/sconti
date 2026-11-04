@@ -28,10 +28,10 @@ average: '9.09'
 
 ℹ️:
 
-- Contiene: 18 pennarelli, 12 matite colorate, 1 matita, 1 gomma, 1 righello, 1 temperino, forbici con punta arrotondata, 2 penne; riempimento Giotto, Fila; ottimo per la cancelleria
-- Dimensioni: 20 cm x 13 cm x 7.5 cm
-- Pratico e resistente con stampe ART
 - Astuccio ottimo per riporre e organizzare il tuo materiale scolastico, dotato di 3 ampi scomparti con chiusura a zip
+- Pratico e resistente con stampe ART
+- Dimensioni: 20 cm x 13 cm x 7.5 cm
+- Contiene: 18 pennarelli, 12 matite colorate, 1 matita, 1 gomma, 1 righello, 1 temperino, forbici con punta arrotondata, 2 penne; riempimento Giotto, Fila; ottimo per la cancelleria
 - Ogni scomparto è dotato di pratici elastici per mantenere in ordine il tuo astuccio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

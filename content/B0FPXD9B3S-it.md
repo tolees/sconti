@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Creator 3 in 1 Feroce dinosauro 31379 | Giochi per bambini da 8 anni velociraptor giocattolo ricostruibile in stegosauro o in pterosauro idea regalo 283 pezzi'
-date: 2026-11-01 19:02:45
+date: 2026-11-03 11:06:12
 image: 'https://m.media-amazon.com/images/I/51vxo2pD7HL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0FPXD9B3S/?tag=tolees00-21'
 descuento: '40.02'
-average: '17.44'
+average: '17.1677777777778'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

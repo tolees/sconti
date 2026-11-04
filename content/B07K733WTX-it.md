@@ -28,8 +28,8 @@ average: '20.3071428571429'
 
 ℹ️:
 
-- Piccolo logo Levis ricamato sul petto
 - Vestibilità comoda
+- Piccolo logo Levis ricamato sul petto
 - Design moderno
 - Questo è un prodotto originale Levis
 

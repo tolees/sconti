@@ -28,10 +28,10 @@ average: '74.83'
 
 ℹ️:
 
-- Batteria integrata Ioni di Litio 62 mAh
 - Tipo di microfono: Integrata -38 dB
-- True Wireless Stereo (TWS) Bluetooth 5.4 400 m
 - Argento Musica e Chiamate In-ear Auricolare
+- True Wireless Stereo (TWS) Bluetooth 5.4 400 m
+- Batteria integrata Ioni di Litio 62 mAh
 - Intraurale Auricolari 15 - 40000 Hz 118 dB
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

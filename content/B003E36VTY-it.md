@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Il nostro obiettivo principale è la soddisfazione del cliente
-- Precisione
 - Bussole esagonali 1/2 a 17
+- Precisione
+- Il nostro obiettivo principale è la soddisfazione del cliente
 - Rigorosi controlli sul prodotto finale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

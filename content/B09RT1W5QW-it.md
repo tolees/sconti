@@ -28,8 +28,8 @@ average: '10.0033333333333'
 
 ℹ️:
 
-- Concentrazione, memoria, lessico, autonomia, capacità sensoriali, coordinazione occhio-mano
 - Basato sulle Life Skills
+- Concentrazione, memoria, lessico, autonomia, capacità sensoriali, coordinazione occhio-mano
 - Illustrazioni dautore, crea tutte le storie che vuoi, metti le cards sul compositoio e fai volare la fantasia, Made in Italy
 - Compositoio, 15 elementi sagomati, 36 cards, istruzioni
 

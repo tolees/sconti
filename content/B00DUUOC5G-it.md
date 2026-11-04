@@ -28,13 +28,13 @@ average: '2.5'
 
 ℹ️:
 
+- Rispetta i capelli
+- Rispetta i capelli
+- Non lascia residui
 - Senza alcool
 - Senza alcool
 - Rispetta i capelli
 - Non lascia residui
-- Rispetta i capelli
-- Non lascia residui
-- Rispetta i capelli
 - Rispetta i capelli
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

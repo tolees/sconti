@@ -28,10 +28,10 @@ average: '86.1966666666667'
 
 ℹ️:
 
-- Colore: Nero
 - Tomaia: Pelle
-- Soletta: EVA
+- Colore: Nero
 - Suola/Caratteristiche: 80% TPU / 20% TPU riciclato
+- Soletta: EVA
 - Fodera: 100% Poliestere Riciclato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

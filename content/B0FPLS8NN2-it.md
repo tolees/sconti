@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oral-B Dentifricio Pro-expert Fresco Intenso Clinicamente Provato 12x75ml | Dentifricio Clinicamente Provato Pulizia Denti Efficace Alito Fresco Extra Freschezza'
-date: 2026-10-31 11:41:24
+date: 2026-11-03 07:21:55
 image: 'https://m.media-amazon.com/images/I/51h1Rv79TuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0FPLS8NN2/?tag=tolees00-21'
 descuento: '57.79'
-average: '18.9525925925925'
+average: '18.955172413793'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

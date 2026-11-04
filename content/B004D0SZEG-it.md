@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Sport: ciclismo
 - Peso della confezione: 68 g
 - Numero di confezioni: 1
-- Sport: ciclismo
 - Dimensioni della confezione: 12,7 x 11,68 x 2,29 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

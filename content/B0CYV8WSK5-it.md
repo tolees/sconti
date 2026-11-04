@@ -28,16 +28,16 @@ average: '57.59'
 
 ℹ️:
 
-- Peso: 347 g (misura 42 2/3)
-- Tomaia in mesh con rivestimenti in materiale sintetico
-- Chiusura con lacci
-- Questo prodotto contiene almeno il 20% di materiali riciclati
 - Calzata regolare
+- Ammortizzazione LIGHTMOTION
+- Questo prodotto contiene almeno il 20% di materiali riciclati
+- Chiusura con lacci
+- Soletta OrthoLite
+- Peso: 347 g (misura 42 2/3)
 - Fodera in tessuto
 - Drop intersuola: 10 mm (tallone: 30 mm / avampiede: 20 mm)
-- Soletta OrthoLite
+- Tomaia in mesh con rivestimenti in materiale sintetico
 - Suola Traxion
-- Ammortizzazione LIGHTMOTION
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CYV8WSK5{{</world>}}

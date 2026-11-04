@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Fonte di fibre
-- Confezione da 375g, equivalente a circa 12 porzioni da 30g
-- Cereali FITNESS Cioccolato al Latte con frumento 100% integrale
-- Mix di gusto ed energia per la tua colazione
 - Visita il sito Nestlé per scoprire come le nostre marche sono scese in campo e contribuiscono al raggiungimento degli obiettivi di sostenibilità del Gruppo Nestlé con progetti concreti
+- Cereali FITNESS Cioccolato al Latte con frumento 100% integrale
+- Confezione da 375g, equivalente a circa 12 porzioni da 30g
+- Mix di gusto ed energia per la tua colazione
 - I cereali FITNESS Cioccolato al Latte contengono vitamine e minerali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

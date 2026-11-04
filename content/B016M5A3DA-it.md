@@ -28,9 +28,9 @@ average: '106.3'
 
 ℹ️:
 
+- Originale di Weber
 - È composto da due parti
 - Materiale: acciaio legato
-- Originale di Weber
 - Porcellana smaltata Cast griglie con costruito in Drip Guard
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

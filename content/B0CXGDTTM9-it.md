@@ -29,8 +29,8 @@ average: '43.2'
 ℹ️:
 
 - Chiusura con lacci
-- Tomaia in pelle
 - Suola in gomma
+- Tomaia in pelle
 - Fodera in tessuto
 - Calzata regolare
 

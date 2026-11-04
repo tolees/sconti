@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Cordino
 - Primo Tessuto: 100% Poliestere(100% Riciclato)
+- Cordino
 - Vestibilità regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

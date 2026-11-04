@@ -28,8 +28,8 @@ average: '11.99'
 
 ℹ️:
 
-- Pino
 - Daniele
+- Pino
 - Musicante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

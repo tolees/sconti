@@ -28,10 +28,10 @@ average: '11.36'
 
 ℹ️:
 
-- Formato Roll-On: Per applicare il deodorante proteggendo la pelle.
-- Unesclusiva formula che unisce tutta lefficacia del Talco a polveri assorbenti naturali e minerali per un effetto assoluto, che assorbe il sudore e garantisce una sensazione extra-asciutta in ogni situazione.
-- Efficacia 72 ore. 0% Alcool. Dermatologicamente testato.
 - Profumo di Borotalco: unisce la freschezza degli agrumi a un morbido cuore di fiori bianchi, su fondo talcato
+- Formato Roll-On: Per applicare il deodorante proteggendo la pelle.
+- Efficacia 72 ore. 0% Alcool. Dermatologicamente testato.
+- Unesclusiva formula che unisce tutta lefficacia del Talco a polveri assorbenti naturali e minerali per un effetto assoluto, che assorbe il sudore e garantisce una sensazione extra-asciutta in ogni situazione.
 - Per luomo che cerca una protezione assoluta contro il sudore nasce una nuova Esperienza Borotalco: il deodorante Borotalco Asciutto - Uomo con Talco Assolut
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

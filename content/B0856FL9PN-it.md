@@ -28,11 +28,11 @@ average: '4.148'
 
 ℹ️:
 
-- Confezione tascabile e completamente riciclabile
-- 100% Frutta. Con Vitamina C, solo gli zuccheri della frutta.
-- Da 6 Mesi
-- Prodotto in Italia. Solo Mele e Pere Italiane.
 - Filiera tracciata e controllata
+- Da 6 Mesi
+- Confezione tascabile e completamente riciclabile
+- Prodotto in Italia. Solo Mele e Pere Italiane.
+- 100% Frutta. Con Vitamina C, solo gli zuccheri della frutta.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0856FL9PN{{</world>}}

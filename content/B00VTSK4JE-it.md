@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Non lavabile in lavastoviglie
 - Prodotta in fibra di cotone di ottima qualità
+- Non lavabile in lavastoviglie
 - Ottima per decorare dolci
 - Anti-perdita del contenuto
 

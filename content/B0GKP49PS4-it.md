@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Popola la tua isola creando personaggi MII di ogni tipo
 - Giocabile anche su Nintendo Switch 2
+- Popola la tua isola creando personaggi MII di ogni tipo
 - Prenditi cura della tua comunità e guarda nascere amicizie o amori
 - Modella il paesaggio a tuo piacimento
 

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Qualità robusta
 - Maniche lunghe
-- Taglio dritto
+- Qualità robusta
 - Chiusura: bottoni
+- Taglio dritto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00EO326FQ{{</world>}}

@@ -28,10 +28,10 @@ average: '32.5'
 
 ℹ️:
 
-- Tomaia in materiale sintetico
-- Soletta in tessuto
 - Vestibilità regolare
 - Suola in gomma
+- Tomaia in materiale sintetico
+- Soletta in tessuto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F1X3RZ1K{{</world>}}

@@ -28,15 +28,15 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Giacca dalla vestibilità aderente e pantaloni dalla vestibilità regolare
-- Vita alta
-- Questo prodotto contiene almeno il 70% di materiali riciclati e rinnovabili
-- Polsini a coste e orlo elasticizzato sulla giacca
-- Tasche anteriori sulla giacca e sui pantaloni
-- Zip integrale e collo alto
 - Girovita elasticizzato con cordino
-- 53% cotone / 47% poliestere (riciclato)
+- Vita alta
+- Giacca dalla vestibilità aderente e pantaloni dalla vestibilità regolare
 - Orlo aperto
+- Zip integrale e collo alto
+- Tasche anteriori sulla giacca e sui pantaloni
+- Questo prodotto contiene almeno il 70% di materiali riciclati e rinnovabili
+- 53% cotone / 47% poliestere (riciclato)
+- Polsini a coste e orlo elasticizzato sulla giacca
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZPL534S{{</world>}}

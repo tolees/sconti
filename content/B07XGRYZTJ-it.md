@@ -28,8 +28,8 @@ average: '16.75'
 
 ℹ️:
 
-- Resistente
 - Leggero
+- Resistente
 - Capiente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

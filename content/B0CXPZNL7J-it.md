@@ -28,10 +28,10 @@ average: '3.59'
 
 ℹ️:
 
-- Certificato COSMOS ORGANIC. Approvato dai dermatologi AIDECO.
-- Test clinico su 20 soggetti: valutazione strumentale. La sua formula è adatta per levigare la pelle e ridurre la dimensioni dei pori visibili.
 - 0% siliconi, SLES, PEG. Formula vegan, prodotto testato Nichel, Cobalto, Cromo.
 - Subito dopo luso la pelle è levigata e la dimensione dei pori visibili è ridotta
+- Test clinico su 20 soggetti: valutazione strumentale. La sua formula è adatta per levigare la pelle e ridurre la dimensioni dei pori visibili.
+- Certificato COSMOS ORGANIC. Approvato dai dermatologi AIDECO.
 - Per pelli miste
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

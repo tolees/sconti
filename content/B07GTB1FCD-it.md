@@ -29,10 +29,10 @@ average: '1.99'
 ℹ️:
 
 - Gusto intenso e deciso
-- Senza glutine
-- Ottimo per la degustazione e per abbinamenti con cibi e bevande
 - Tavoletta di cioccolato fondente extra con 70% di cacao
+- Ottimo per la degustazione e per abbinamenti con cibi e bevande
 - Confezione da 85 g
+- Senza glutine
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07GTB1FCD{{</world>}}

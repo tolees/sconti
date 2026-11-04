@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dotata di due ampi vani porta oggetti
-- Borsone da allenamento mimetico
 - Capacità: 45 litri
+- Dotata di due ampi vani porta oggetti
 - Rappresenta uno dei grandi must di LEONE1947
+- Borsone da allenamento mimetico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00NWBTPD2{{</world>}}

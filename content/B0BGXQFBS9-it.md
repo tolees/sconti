@@ -28,11 +28,11 @@ average: '3.3'
 
 ℹ️:
 
-- Biffi: qualità, tradizione e innovazione all’insegna del Made in Italy
-- 1 Flacone squeeze di Ketchup Biffi da 950g
-- Perfetto per hamburger, patatine fritte e per accompagnare la carne
-- Il nostro Ketchup è prodotto con solo Pomodori 100% italiani. Pratico formato per i bar e la ristorazione professionale
 - Senza glutine
+- Perfetto per hamburger, patatine fritte e per accompagnare la carne
+- 1 Flacone squeeze di Ketchup Biffi da 950g
+- Biffi: qualità, tradizione e innovazione all’insegna del Made in Italy
+- Il nostro Ketchup è prodotto con solo Pomodori 100% italiani. Pratico formato per i bar e la ristorazione professionale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BGXQFBS9{{</world>}}

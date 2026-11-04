@@ -28,10 +28,10 @@ average: '1.42'
 
 ℹ️:
 
-- Indispensabile in ogni cucina
-- Confezionato in Germania
-- Cannella in polvere
 - Combinare spezie ed erbe aromatiche è il modo perfetto per dare sapore e carattere ai tuoi piatti
+- Cannella in polvere
+- Confezionato in Germania
+- Indispensabile in ogni cucina
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BL76X3YM{{</world>}}

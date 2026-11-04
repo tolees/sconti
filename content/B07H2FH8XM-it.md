@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Allenamento
 - Tipo di sport: ropa deportiva atlética
+- Allenamento
 - Burdeos
 - Magliette equipaggiate; m/c
 

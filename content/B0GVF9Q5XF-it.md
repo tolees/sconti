@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lefant A1 Pro Purificatore d Aria con Filtro HEPA CADR350 m³/h Sensor PM2 5'
-date: 2026-09-15 13:12:12
+date: 2026-11-03 17:36:12
 image: 'https://m.media-amazon.com/images/I/41z-JwNsSIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

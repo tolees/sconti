@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Girmi PH47 Asciugacapelli Professionale 2100 Watt 2 velocità 3 temperature Ioni Motore AC Bianco.'
-date: 2026-11-02 12:27:31
+date: 2026-11-03 14:03:25
 image: 'https://m.media-amazon.com/images/I/31eaKJpKVJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

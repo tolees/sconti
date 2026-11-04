@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'Cecotec Barbecue Elettrico PerfectRoast 3000 Inox. 3000 W Superficie di cottura mista Rivestimento antiaderente Resistenza integrata piastra rimovibile termostato regolabile 03182'
-date: 2026-01-25 05:58:47
+date: 2026-11-03 11:13:11
 image: 'https://m.media-amazon.com/images/I/31sjGItbvsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B09ZB7NF31-it Cecotec Barbecue Elettrico PerfectRoast 3000 Inox. 3000 W...'
 sku: 'B09ZB7NF31-it'
-tags: [ 'Bistecchiere','Casa e cucina','Elettrodomestici','Piastre e griglie elettriche','cecotec','🇮🇹', ]
-actualPrice: 90.9 EUR
+tags: [ '🇮🇹', ]
+actualPrice: 86.99 EUR
 currency: EUR
-price: 90.9
-comparePrice: 149.0 EUR
+price: 86.99
+comparePrice: 173.76 EUR
 prodname: 'Cecotec Barbecue Elettrico PerfectRoast 3000 Inox. 3000 W Superficie di cottura mista Rivestimento antiaderente Resistenza integrata piastra rimovibile termostato regolabile 03182'
 country: 'it'
 flag: '🇮🇹'
-brand: 'Cecotec'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B09ZB7NF31/?tag=tolees00-21'
-descuento: '38.99'
-average: '90.9'
+descuento: '49.94'
+average: '88.2933333333333'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,11 +28,6 @@ average: '90.9'
 
 ℹ️:
 
-- Grande superficie di cottura da 30 x 50 per cucinare allo stesso tempo una grande varietà di alimenti; paravento pieghevole in acciaio inossidabile; per evitare che il vento estingua il fuoco o lo estenda; protegge anche dagli schizzi
-- È dotato di una piastra estraibile in alluminio pressofuso con rivestimento antiaderente, che evita che gli alimenti si attacchino, nella quale è possibile cucinare comodamente; superficie mista da grill e piastra per cucinare dalla carne e verdure fino alle uova fritte, frutti di mare o pesce
-- Barbecue elettrico con resistenza integrata per migliorare la distribuzione del calore e sfruttare al massimo la potenza. 3000 W di potenza per cucinare tutti i tipi di alimenti
-- Una pulizia facile grazie alla sua piastra facilmente estraibile e adatta a lavastoviglie; include vaschetta di raccolta grasso per un uso più comodo e pulito; inoltre, è lavabile in lavastoviglie; include anche un ripiano per gli accessori e una spatola per la pulizia
-- Due zone di cottura con controllo della temperatura indipendente grazie ai suoi due termostati; a seconda degli alimenti, permette una cottura indipendente su ogni piastra, regolando tempo e temperatura per ottenere i risultati desiderati; dispone di 6 livelli di temperatura per zona
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09ZB7NF31{{</world>}}

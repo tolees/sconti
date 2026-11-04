@@ -28,10 +28,10 @@ average: '28.59'
 
 ℹ️:
 
+- Puntale sportivo
+- Chiusura in velcro
 - Brooklyn LS si ispira ai classici Vans con uninfluenza sullo stile delle scarpe da corte. Presenta un puntale sportivo e una forma più accomodante per la fila degli occhi.
 - Costruzione vulcanizzata
-- Chiusura in velcro
-- Puntale sportivo
 - Suola originale a nido dape
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

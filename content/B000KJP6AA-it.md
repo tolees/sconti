@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Prodotti per lufficio e luso personale
 - Marca Staedtler
+- Prodotti per lufficio e luso personale
 - Prodotto originale ed esclusivo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

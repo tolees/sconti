@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony WF-C510 Auricolari True Wireless | Auricolari In-Ear Bluetooth multipoint modalità trasparenza IPX4 22h di autonomia iOS/Android Nero'
-date: 2026-10-26 17:53:14
+date: 2026-11-03 10:42:00
 image: 'https://m.media-amazon.com/images/I/31UxHmBTinL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0DBLN4C47/?tag=tolees00-21'
 descuento: '49.93'
-average: '37.6475000000002'
+average: '37.4287142857144'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Adatto a una dieta vegetariana e vegana
 - Lattina contiene 1 porzione
-- Conservare in luogo fresco, buio e asciutto
 - Confezionato in Germania
+- Adatto a una dieta vegetariana e vegana
 - Bevanda analcolica gassata a basso contenuto calorico
+- Conservare in luogo fresco, buio e asciutto
 - Aromatizzata allarancia, con edulcoranti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

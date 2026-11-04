@@ -29,9 +29,9 @@ average: '39.9'
 ℹ️:
 
 - 3M SCOTCHGARD
+- Tappetino Goga raffreddato ad aria
 - Ultra Go
 - Tecnologia Goga Mat
-- Tappetino Goga raffreddato ad aria
 - Antiscivolo in condizioni di bagnato e asciutto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

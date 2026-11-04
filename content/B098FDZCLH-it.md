@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Materiale esterno: tela
 - Materiale interno: tessuto
 - Chiusura: gomma
 - Larghezza scarpa: media
 - Tipo di tacco: piatto
+- Materiale esterno: tela
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B098FDZCLH{{</world>}}

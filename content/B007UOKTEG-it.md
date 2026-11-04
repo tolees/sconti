@@ -28,9 +28,9 @@ average: '24.895'
 
 ℹ️:
 
-- GUSTO: pieno, intensamente luppolato
-- GRADAZIONE ALCOLICA: 4.4 % vol
 - IDEALE CON: formaggi freschi, salumi stagionati, selvaggina, pesce, carciofi, primi piatti in bianco
+- GRADAZIONE ALCOLICA: 4.4 % vol
+- GUSTO: pieno, intensamente luppolato
 - FORMATO: cassa di birre con 24 bottiglie da 33 cl
 - PILSNER URQUELL: birra Pils a bassa fermentazione dal colore dorato, da servire a 6-7°C
 

@@ -28,10 +28,10 @@ average: '6.75666666666667'
 
 ℹ️:
 
-- GENTILE CON LA PELLE: Le nuove formule di Neutro Roberts Intimo sono naturalmente gentili e rispettano il pH intimo fisiologico.
-- ECOLOGICO: i Flaconi di Neutro Roberts Intimo contengono il 30% di bioplastica e sono 100% riciclabili
 - TESTATO: sotto controllo ginecologico e pediatrico e adatto alluso quotidiano
 - NATURALE: La formula contiene estratto di Camomilla di origine 100% naturale. Deterge con delicatezza anche le mucose più sensibili
+- GENTILE CON LA PELLE: Le nuove formule di Neutro Roberts Intimo sono naturalmente gentili e rispettano il pH intimo fisiologico.
+- ECOLOGICO: i Flaconi di Neutro Roberts Intimo contengono il 30% di bioplastica e sono 100% riciclabili
 - DELICATO: racchiude le proprietà naturali della Camomilla per detergere con delicatezza. Ideale per uso quotidiano
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

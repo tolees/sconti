@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Ideali per un aperitivo o durante i pasti, così come sono o abbinati a ciò che preferisci.
-- Scopri i due gusti Olio Extravergine doliva ed erbe aromatiche
-- Ingredienti 100% naturali: farina, un pizzico di sale, olio extravergine di oliva con l’aggiunta di erbe aromatiche.
 - Croccanti triangolini cotti al forno, così buoni che uno tira l’altro!
+- Ingredienti 100% naturali: farina, un pizzico di sale, olio extravergine di oliva con l’aggiunta di erbe aromatiche.
 - Fatto con 100% grano italiano, prodotto in Italia nello stabilimento di Capriata D’Orba in Piemonte.
+- Scopri i due gusti Olio Extravergine doliva ed erbe aromatiche
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07VPWVQG4{{</world>}}

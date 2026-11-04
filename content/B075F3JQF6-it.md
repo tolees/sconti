@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Scatola, gioco e regole in francese
 - pedagogico
+- Scatola, gioco e regole in francese
 - Gioco evolutivo
 - Intelligente
 

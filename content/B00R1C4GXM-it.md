@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Adatto per 12 ali di pollo
 - Acciaio inossidabile
+- Adatto per 12 ali di pollo
 - 38 x 16 x 2 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

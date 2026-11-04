@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Button fly
 - Leg
+- Button fly
+- Vita media
 - Etichetta G-Star Originals tessuta sul retro della vita
 - 5 tasche- tasca portamonete spostata verso linterno
-- Vita media
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BRYKVBPK{{</world>}}

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Attacco esagonale da 1/4" per luso con mandrini per avvitatori a tre ganasce e mandrini per avvitatori esagonali
-- Ladattatore per prese è dotato di una testa a quadrato con un attacco esagonale da 1/4" che consente di collegare le prese al trapano avvitatore o allavvitatore a impulsi
 - Dotazione di fornitura: 1x Adattatore Impact Control per Bussola, da 1/4" HEX a 1/2" Quadrato, Lunghezza 50 mm
+- Ladattatore per prese è dotato di una testa a quadrato con un attacco esagonale da 1/4" che consente di collegare le prese al trapano avvitatore o allavvitatore a impulsi
 - Ottimale per applicazioni generiche di bussole con coppia di trasmissione inferiore a 80 Nm
+- Attacco esagonale da 1/4" per luso con mandrini per avvitatori a tre ganasce e mandrini per avvitatori esagonali
 - Un affidabile collegamento a groppino consente di fissare e rimuovere le bussole premendo il groppino
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

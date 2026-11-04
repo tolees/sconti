@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dal sapore intenso e dalla consistenza cremosa, il Pesto Fresco 100% Vegetale Biffi, è ideale per primi piatti a base di pasta o cereali, per insaporire il minestrone e per realizzare fantasiosi aperitivi.
 - Con basilico 100% italiano, senza formaggio e senza aglio
+- Dal sapore intenso e dalla consistenza cremosa, il Pesto Fresco 100% Vegetale Biffi, è ideale per primi piatti a base di pasta o cereali, per insaporire il minestrone e per realizzare fantasiosi aperitivi.
 - Senza glutine
 - Confezione contenente 3 vasetti di vetro da 190g di Pesto 100% Vegetale Biffi
 - Biffi: qualità, tradizione e innovazione all’insegna del Made in Italy

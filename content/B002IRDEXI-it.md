@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Posizione velocità: 1
-- Tecnologia: ciclonica
 - Voltaggio: 7.2 V
+- Tecnologia: ciclonica
 - Filtraggio: filtro permanente
 - Capacità contenitore polvere: 375 ml
 

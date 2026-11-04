@@ -29,10 +29,10 @@ average: '6.62'
 ℹ️:
 
 - Album per larchiviazione di foto
-- Design in stile vintage
-- 100 pag / 400 foto
 - Gli interni sono realizzati in cartoncino bianco, offrendo ampio spazio per organizzare le foto e molti altri ricordi
+- 100 pag / 400 foto
 - Album fotografico
+- Design in stile vintage
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07BB2FQR1{{</world>}}

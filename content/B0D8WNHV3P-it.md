@@ -28,11 +28,11 @@ average: '56.52'
 
 ℹ️:
 
-- Cappuccio con parte anteriore incrociata e inserto triangolare a coste, coulisse
-- G-Star RAW Ricamo sul petto
 - Polsini arrotondati
-- Inserti laterali, polsini e orlo a costine
+- G-Star RAW Ricamo sul petto
 - Tasca a marsupio
+- Cappuccio con parte anteriore incrociata e inserto triangolare a coste, coulisse
+- Inserti laterali, polsini e orlo a costine
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D8WNHV3P{{</world>}}

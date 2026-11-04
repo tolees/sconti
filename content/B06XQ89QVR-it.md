@@ -28,11 +28,11 @@ average: '9.965'
 
 ℹ️:
 
+- - Verniciabile ed integrazione perfetta con cartongesso, antigraffio e privo di bolle o imperfezioni
+- - Garanzia Eurekaled 5 anni (Il trattamento anti invecchiamento della superficie garantisce una alta affidabilità nel tempo.)
 - - Incluso di Portalampada GU10 e ghiera in acciaio per fissaggio faretto. la lampadina non inclusa.
 - Spedizione in Italia 24/48 ore
 - - Compatibile con tutti i modelli dei faretti GU10 e MR16 con 5 cm di diametro.
-- - Verniciabile ed integrazione perfetta con cartongesso, antigraffio e privo di bolle o imperfezioni
-- - Garanzia Eurekaled 5 anni (Il trattamento anti invecchiamento della superficie garantisce una alta affidabilità nel tempo.)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B06XQ89QVR{{</world>}}

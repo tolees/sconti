@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Chiusura : Chiusura a zip
-- Tipologia di prodotto : Giubbotto bomber
-- Polsini : Polsini a coste
-- Manica : Maniche lunghe
 - Tasche : Tasche frontali
+- Manica : Maniche lunghe
+- Polsini : Polsini a coste
+- Tipologia di prodotto : Giubbotto bomber
 - Dettagli : Dettaglio a blocchi di colore, Dettaglio del logo
+- Chiusura : Chiusura a zip
 - Lunghezza/taglia : Corto
 - Collo : Cappuccio
 

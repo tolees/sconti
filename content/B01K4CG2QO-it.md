@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Colpo di vapore da 135 g
 - Avviso sonoro quando e necessario ricaricare il ferro, spegnimento automatico
+- Potenza: 2400 watt
 - Serbatoio dell’acqua da 300 ml
 - Sistema anticalcare e anti-goccia
-- Potenza: 2400 watt
+- Colpo di vapore da 135 g
 - Controlli della temperatura su 6 impostazioni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

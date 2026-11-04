@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nostromo Tonno all’Olio di Oliva 5 Lattine da 60g – Formato Multipack Fonte di Proteine Senza Conservanti Sgocciolato Premium Pronto da Gustare'
-date: 2026-10-28 10:52:23
+date: 2026-11-03 19:35:11
 image: 'https://m.media-amazon.com/images/I/31ozqKcitjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0CWLC3X94/?tag=tolees00-21'
 descuento: '27.17'
-average: '3.326'
+average: '3.31666666666667'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

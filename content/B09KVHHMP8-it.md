@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Maniche lunghe
 - Girocollo in maglia a costine con inserto a V sulla scollatura anteriore
 - Vestibilità rilassata
 - Polsini elasticizzati e rinforzati in elastan a costine su maniche e vita
-- Maniche lunghe
 - Pile Clarksburg
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

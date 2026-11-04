@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'NOBIS 20000mAh 45W Power Bank'
-date: 2026-09-21 17:52:27
+title: 'NOBIS 20000mAh 45W Power Bank | Caricatore Portatile con USB-C In/Out 4 porte display LED digitale e ricarica rapida compatibile con Phone 17 e S25 Verde'
+date: 2026-11-03 12:42:01
 image: 'https://m.media-amazon.com/images/I/31dI6GM7fdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0D63H6KKV-it NOBIS 20000mAh 45W Power Bank'
+slug: 'B0D63H6KKV-it NOBIS 20000mAh 45W Power Bank | Caricatore Portatile con...'
 sku: 'B0D63H6KKV-it'
 tags: [ '🇮🇹', ]
-actualPrice: 28.99 EUR
+actualPrice: 29.99 EUR
 currency: EUR
-price: 28.99
+price: 29.99
 comparePrice: 44.99 EUR
-prodname: 'NOBIS 20000mAh 45W Power Bank'
+prodname: 'NOBIS 20000mAh 45W Power Bank | Caricatore Portatile con USB-C In/Out 4 porte display LED digitale e ricarica rapida compatibile con Phone 17 e S25 Verde'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0D63H6KKV/?tag=tolees00-21'
-descuento: '35.56'
-average: '28.3579999999999'
+descuento: '33.34'
+average: '28.5063636363636'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Sfumato rosa
-- 1000 gr
-- Confetti con cioccolato bianco, fondente e al LATTE ai gusti assortiti. SENZA GLUTINE.
 - Assortito
+- 1000 gr
+- Sfumato rosa
+- Confetti con cioccolato bianco, fondente e al LATTE ai gusti assortiti. SENZA GLUTINE.
 - Forma a MANDORLA
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

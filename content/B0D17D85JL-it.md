@@ -28,8 +28,8 @@ average: '8.0'
 
 ℹ️:
 
-- Adatta alluso quotidiano
 - Questa t-shirt è un capo essenziale di qualsiasi guardaroba
+- Adatta alluso quotidiano
 - Si abbina in maniera ottimale a jeans, pantaloncini e pantaloni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

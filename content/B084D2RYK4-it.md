@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Tipo di pelle: Normal
+- Siero
 - Scopri la nostra gamma completa di prodotti
 - Il nostro obiettivo principale è la soddisfazione del cliente
-- Siero
-- Tipo di pelle: Normal
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B084D2RYK4{{</world>}}

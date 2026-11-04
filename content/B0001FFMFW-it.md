@@ -29,9 +29,9 @@ average: '23.8'
 ℹ️:
 
 - Articolo adatto a trascorrere momenti di divertimento in compagnia
-- Età: dai 4 anni in su
-- Giochi
 - 2 - 4 giocatori
+- Giochi
+- Età: dai 4 anni in su
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0001FFMFW{{</world>}}

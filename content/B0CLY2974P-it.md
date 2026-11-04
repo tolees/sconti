@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Accesso al pulsante di accensione con visibilità LED per attività
 - Ventola PWM inclusa con connettore ventola Pi5
-- Offre accesso a tutte le principali porte e pin GPIO
-- Dissipatori di calore inclusi
 - Design a incastro, non richiede attrezzi
+- Dissipatori di calore inclusi
+- Offre accesso a tutte le principali porte e pin GPIO
+- Accesso al pulsante di accensione con visibilità LED per attività
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CLY2974P{{</world>}}

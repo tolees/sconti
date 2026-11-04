@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Bamyasi
-- Ege
 - Can
+- Ege
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B007HLUC26{{</world>}}

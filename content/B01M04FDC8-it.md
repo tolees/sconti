@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Corpo in fusione dalluminio, matiene caldo il caffè.
-- Nota non adatto per induzione
 - Fondo ad alto spessore, per risparmio energetico.
 - Guarnizioni in silicone a lunga durata.
+- Nota non adatto per induzione
+- Corpo in fusione dalluminio, matiene caldo il caffè.
 - Manici in finitura soft touch, ergonomico e sicuro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

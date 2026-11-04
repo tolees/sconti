@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Sovrapposizione del pannello del tallone con passante superiore
 - Colletto e linguetta imbottiti
+- Sovrapposizione del pannello del tallone con passante superiore
 - Suola flessibile leggera ammortizzante
 - Soletta comfort imbottita in memory foam
 - Logo S laterale

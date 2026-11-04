@@ -28,8 +28,8 @@ average: '5.34'
 
 ℹ️:
 
-- Barattoli da 45 ml.
 - Pittura per tessuto di alta qualità.
+- Barattoli da 45 ml.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B005DBORCS{{</world>}}

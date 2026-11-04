@@ -28,11 +28,11 @@ average: '16.68'
 
 ℹ️:
 
-- PRODOTTO: Giardiniera allaceto di vino Saclà
-- F.lli Saclà S.p.A., azienda familiare che dal 1939 accompagna lo stare a tavola in Italia e nel Mondo coniugando tradizione e innovazione. "E per tutti. E Saclà." è limpegno di Saclà nelloffrire a tutti i consumatori la giusta soluzione di gusto e formato per ogni occasione
 - ACETELLI, RICETTA TRADIZIONALE CON 8 VERDURE
 - SAPORI AUTENTICI OGNI GIORNO: La Giardiniera Acetelli Saclà è ideale per arricchire aperitivi, antipasti e svariate preparazioni
 - MATERIE PRIME SELEZIONATE: Gli Acetelli Saclà contengono ingredienti selezionati con cura e di prima qualità e lavorati con passione ed esperienza
+- F.lli Saclà S.p.A., azienda familiare che dal 1939 accompagna lo stare a tavola in Italia e nel Mondo coniugando tradizione e innovazione. "E per tutti. E Saclà." è limpegno di Saclà nelloffrire a tutti i consumatori la giusta soluzione di gusto e formato per ogni occasione
+- PRODOTTO: Giardiniera allaceto di vino Saclà
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01LYEFJ19{{</world>}}

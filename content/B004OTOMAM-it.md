@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Lunghezza mm 200
-- Chiave regolabile a rullino
 - Apertura mm 29
+- Chiave regolabile a rullino
 - Finitura fosfatata nera
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

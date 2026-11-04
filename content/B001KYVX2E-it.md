@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rimmel London Extra Super Lash Mascara - 101 Black'
-date: 2026-11-02 09:18:44
+date: 2026-11-03 19:22:20
 image: 'https://m.media-amazon.com/images/I/31ys2L81DrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B001KYVX2E/?tag=tolees00-21'
 descuento: '64.99'
-average: '2.255'
+average: '2.27'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

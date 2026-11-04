@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Giotto Tempera Extra Fine Astuccio Da 12 Tempere In Tubetto Multicolore 7.5 Ml Confezione Da 12'
-date: 2026-10-26 12:42:05
+date: 2026-11-03 20:52:08
 image: 'https://m.media-amazon.com/images/I/51XZbbcy-xL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

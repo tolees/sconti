@@ -29,8 +29,8 @@ average: '7.99'
 ℹ️:
 
 - Impiego sicuro e rapida sostituzione della lama, con sblocco tramite pulsante ad estrazione
-- Robusto coltello con testa in metallo in acciaio inossidabile e corpo in nylon con fibra di vetro
 - Dotazione: 1 coltello ripiegabile, 3 lame trapezoidali standard (SK5)
+- Robusto coltello con testa in metallo in acciaio inossidabile e corpo in nylon con fibra di vetro
 - Scomparto lame per lame di ricambio standard SK5 all’interno dell’impugnatura del coltello
 - Rapida apertura comandabile con una sola mano, con scorrevole lama ripiegabile
 

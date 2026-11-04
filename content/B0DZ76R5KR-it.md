@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony ULT FIELD 3 - Speaker Bluetooth portatile con ULT POWER SOUND batteria 24 ore IP67 impermeabile antipolvere antiurto tracolla staccabile compatto - Bianco'
-date: 2026-11-02 19:25:35
+date: 2026-11-04 13:09:47
 image: 'https://m.media-amazon.com/images/I/31Z6XVwIooL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

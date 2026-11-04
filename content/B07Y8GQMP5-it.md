@@ -28,11 +28,11 @@ average: '66.6628571428572'
 
 ℹ️:
 
+- 100 percent pregiata lana e merino; certificazione Oeko-Tex, tessuto privo di sostanze nocive
 - Tecnologia brevettata Adapto: raggiunge il livello di calore desiderato e lo mantiene stabile tutta la notte autoregolandosi sulla base della temperatura corporea e dellâ€ambiente
-- Consumo energetico ridotto, 150x80 cm; lavabile
 - Sistema di controllo digitale Electro Block: funzione auto-diagnosi ad ogni accensione; monitora costantemente lo scaldaletto durante lâ€uso e, in caso di anomalie, interviene spegnendolo
 - Comando che permette di scegliere tra 6 livelli di temperatura dotato di timer di autospegnimento programmabile dopo 1, 3 o 9 ore
-- 100 percent pregiata lana e merino; certificazione Oeko-Tex, tessuto privo di sostanze nocive
+- Consumo energetico ridotto, 150x80 cm; lavabile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07Y8GQMP5{{</world>}}

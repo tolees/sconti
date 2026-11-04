@@ -28,12 +28,12 @@ average: '26.8'
 
 ℹ️:
 
-- Suola in gomma
-- Tomaia traforata
-- Tomaia in materiale sintetico
 - Chiusura con lacci
 - Calzata regolare
+- Suola in gomma
 - Fodera in tessuto
+- Tomaia traforata
+- Tomaia in materiale sintetico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D31ZVW5X{{</world>}}

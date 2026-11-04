@@ -28,8 +28,8 @@ average: '83.115'
 
 ℹ️:
 
-- 4K UHD +Blu-ray
 - Midnight Classics
+- 4K UHD +Blu-ray
 - Collectors Edition
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

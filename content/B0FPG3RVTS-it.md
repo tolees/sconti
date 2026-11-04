@@ -28,9 +28,9 @@ average: '386.66'
 
 ℹ️:
 
-- Memoria: 16GB RAM, 512GB SSD
 - Processore: Intel Core i5 1334U
 - Schermo: 17.3" FHD Antiriflesso IPS 300 nits
+- Memoria: 16GB RAM, 512GB SSD
 - Sistema Operativo: Windows 11 Home
 - Scheda grafica: Intel Iris Xe
 

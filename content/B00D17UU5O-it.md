@@ -28,11 +28,11 @@ average: '32.44'
 
 ℹ️:
 
+- Dimensione nominale: 16 1/2 "(415 mm)
 - Capacità del tubo: 1 1/2 "(40 mm)
-- Acciaio al cromo-vanadio
 - Giratubo a 2 manici con ganasce a S
 - Ganasce temprate ad induzione
-- Dimensione nominale: 16 1/2 "(415 mm)
+- Acciaio al cromo-vanadio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00D17UU5O{{</world>}}

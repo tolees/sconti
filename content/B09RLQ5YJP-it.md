@@ -28,8 +28,8 @@ average: '26.99'
 
 ℹ️:
 
-- Design accattivante, ottimo per fan della Playstation e per decorare ambienti di gioco.
 - PLAYSTATION - Lampada Playstation Icon - Paladone licenza ufficiale.
+- Design accattivante, ottimo per fan della Playstation e per decorare ambienti di gioco.
 - Illuminazione datmosfera, adatto come complemento darredo o regalo per appassionati di videogiochi.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

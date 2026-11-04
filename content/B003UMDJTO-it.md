@@ -28,10 +28,10 @@ average: '0.79'
 
 ℹ️:
 
-- Pasta di semola di Grano Duro
-- Lavorazione tradizionale secondo la ricetta di oltre 125 anni
-- Metodo De Cecco
 - Paese di coltivazione del grano: UE e non UE. Paese di molitura: Italia
+- Lavorazione tradizionale secondo la ricetta di oltre 125 anni
+- Pasta di semola di Grano Duro
+- Metodo De Cecco
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B003UMDJTO{{</world>}}

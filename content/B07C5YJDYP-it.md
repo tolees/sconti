@@ -28,10 +28,10 @@ average: '25.692'
 
 ℹ️:
 
-- Camicia in jeans da uomo.
-- Il nostro modello è alto 184 cm e indossa una taglia L.
 - Molto comoda da indossare.
 - Composizione dei materiali: 100% cotone.
+- Camicia in jeans da uomo.
+- Il nostro modello è alto 184 cm e indossa una taglia L.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07C5YJDYP{{</world>}}

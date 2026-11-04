@@ -28,9 +28,9 @@ average: '21.84'
 
 ℹ️:
 
-- Istruzioni di lavaggio: lavabile in lavatrice
 - Vestibilità: regolare
 - Maglione
+- Istruzioni di lavaggio: lavabile in lavatrice
 - Composizione: 65% poliestere 13% acrilico 13% nylon;poliammide 6% lana 3% elastane
 - Tipo elasticizzato: non elasticizzato
 

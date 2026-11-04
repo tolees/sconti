@@ -28,9 +28,9 @@ average: '26.32'
 
 ℹ️:
 
-- Tessuto leggero e morbido
-- Logo del marchio sul petto
 - Con uno stile casual
+- Logo del marchio sul petto
+- Tessuto leggero e morbido
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D5HSHZVC{{</world>}}

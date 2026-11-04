@@ -28,11 +28,11 @@ average: '11.24'
 
 ℹ️:
 
+- Maggiore durata grazie alla formula poliuretanica
+- Inodore e pronto alluso
+- Antigoccia
 - Ideale per legno, ferro e plastica
 - Per interno ed esterno
-- Antigoccia
-- Inodore e pronto alluso
-- Maggiore durata grazie alla formula poliuretanica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08N14HL5G{{</world>}}

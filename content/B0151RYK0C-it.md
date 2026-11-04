@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- XLR femmina a XLR maschio
 - Ideale per ambienti viventi
 - Lunghezza: 10 m
-- XLR femmina a XLR maschio
 - Riduce il ronzio e le interferenze audio
 - Cavo microfono di buona qualità
 

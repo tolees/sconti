@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hisense O66226AXS Forno Multifunzione Termoventilato Cavità XXL 77 Litri Pulizia Aqua Clean 13 Funzioni Cottura Combinata a Vapore Funzione Pizza 300 °C Inox'
-date: 2026-10-16 18:49:07
+date: 2026-11-03 18:29:35
 image: 'https://m.media-amazon.com/images/I/41YWlsFm8CL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

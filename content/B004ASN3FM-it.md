@@ -28,11 +28,11 @@ average: '14.48'
 
 ℹ️:
 
-- Supermina diametro mina 3,8Mm
 - Mina ricca di pigmenti coloranti, di lunga durata
-- Confezione da 24 colori
+- Supermina diametro mina 3,8Mm
 - Pastello esagonale premium di qualità superiore
 - Facili da temperare
+- Confezione da 24 colori
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B004ASN3FM{{</world>}}

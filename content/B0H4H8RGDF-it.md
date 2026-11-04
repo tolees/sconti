@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ELDEN RING TARNISHED EDITION NSW2'
-date: 2026-11-02 19:25:08
+date: 2026-11-04 13:09:23
 image: 'https://m.media-amazon.com/images/I/41cDnQwpNBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

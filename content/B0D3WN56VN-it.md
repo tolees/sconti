@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- App Logi Options+: personalizza l’intera riga F per adattare qualsiasi funzione di cui hai bisogno e lavorare in modo semplice ed efficiente (disponibile solo su Windows e macOS)
-- Copertura ottimale: il coperchio integrato protegge la tastiera compatta da eventuali danni, per mantenere alta la produttività tutto il giorno
 - Tastiera portatile ovunque: il design supersottile e leggero di questa tastiera Bluetooth portatile la rende facile da trasportare, il compagno ottimo per il tuo tablet o altri dispositivi mobili
-- Una digitazione perfetta: questa piccola tastiera wireless è dotata di tasti scissor-switch ottimamente distanziati per un’esperienza di digitazione comoda e spaziosa
+- Per qualsiasi sistema operativo Apple: utilizza la tastiera Bluetooth wireless Keys-To-Go 2 per iPad con i dispositivi Apple; compatibile con iOS, iPadOS, macOS
 - Riga completa di tasti di scelta rapida: con questa tastiera Bluetooth per iPad, accedi con un solo tocco alla regolazione del volume e ai controlli multimediali, ai livelli di luminosità dello schermo e a molto altro ancora, per una comodità sempre a portata di mano
 - Associa fino a tre dispositivi: digita su tre diversi dispositivi con una sola tastiera di piccole dimensioni e passa dall’uno all’altro con la semplice pressione di un tasto
-- Per qualsiasi sistema operativo Apple: utilizza la tastiera Bluetooth wireless Keys-To-Go 2 per iPad con i dispositivi Apple; compatibile con iOS, iPadOS, macOS
+- App Logi Options+: personalizza l’intera riga F per adattare qualsiasi funzione di cui hai bisogno e lavorare in modo semplice ed efficiente (disponibile solo su Windows e macOS)
+- Copertura ottimale: il coperchio integrato protegge la tastiera compatta da eventuali danni, per mantenere alta la produttività tutto il giorno
+- Una digitazione perfetta: questa piccola tastiera wireless è dotata di tasti scissor-switch ottimamente distanziati per un’esperienza di digitazione comoda e spaziosa
 - Durata della batteria di tre anni: lunga autonomia della batteria fino a 3 anni per digitare senza preoccupazioni; la tastiera wireless portatile Keys-To-Go 2 viene fornita con batterie a bottone preinstallate
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

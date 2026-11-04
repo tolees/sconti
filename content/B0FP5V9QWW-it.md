@@ -28,12 +28,12 @@ average: '48.79'
 
 ℹ️:
 
-- Forma rotonda facile da indossare.
-- Logo Lacoste esteso su entrambe le aste per un look più sofisticato.
-- Profili molto sottili
 - Nuova interpretazione del concetto di strisce e bordature con strisce colorate molto sottili su entrambe le aste, che incarnano fedelmente il DNA Lacoste.
-- Protezione UV al 100%
 - Dimensioni 50/21/145
+- Forma rotonda facile da indossare.
+- Profili molto sottili
+- Protezione UV al 100%
+- Logo Lacoste esteso su entrambe le aste per un look più sofisticato.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FP5V9QWW{{</world>}}

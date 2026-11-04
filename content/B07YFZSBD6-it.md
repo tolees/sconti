@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 140 pagine per blocco
-- Quaderno formato A4 a righe con margini per prendere appunti in modo ordinato
 - Carta liscia, bianca, 90 g/m², per scrivere su entrambi i lati
 - Perforati per strappo facile
 - Confezione da 5 pezzi
+- 140 pagine per blocco
 - Fogli con 4 fori per poterli inserire in raccoglitori ad anelli o a leva
+- Quaderno formato A4 a righe con margini per prendere appunti in modo ordinato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07YFZSBD6{{</world>}}

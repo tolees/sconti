@@ -28,11 +28,11 @@ average: '4.73'
 
 ℹ️:
 
-- Resistente allacqua, allumidità e agli agenti atmosferici
-- Riempitivo e verniciabile
-- Resistente alle temperature da.-40°C a +120°C
-- forte e flessibile
 - Trasparente, senza solventi e senza isocianati
+- Resistente allacqua, allumidità e agli agenti atmosferici
+- forte e flessibile
+- Resistente alle temperature da.-40°C a +120°C
+- Riempitivo e verniciabile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00IZHK3SO{{</world>}}

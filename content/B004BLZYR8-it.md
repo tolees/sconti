@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tempo di cottura: 11 minuti
 - Un’esperienza di gusto unica, con il certificato di garanzia Pasta di Gragnano IGP
+- Tempo di cottura: 11 minuti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B004BLZYR8{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Fragranza originale di Banderas Profumi
+- Note di fondoMuschio legnoso orientale ambrate, legno di sandalo, patchouli, muschio di quercia, fava tonka, accordo dambra
+- Note di cuoriAromatico verde, foglie viola, lavanda e salvia
 - Note di testaAgrumi speziati, bergamotto, pompelmo e pepe nero
 - The Icon, dove la marca apre un territorio per mostrare un profumo maschile e singolare per ogni uomo di successo
-- Fragranza originale di Banderas Profumi
-- Note di cuoriAromatico verde, foglie viola, lavanda e salvia
-- Note di fondoMuschio legnoso orientale ambrate, legno di sandalo, patchouli, muschio di quercia, fava tonka, accordo dambra
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08Z9CG2HS{{</world>}}

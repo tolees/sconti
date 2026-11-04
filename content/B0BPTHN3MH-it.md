@@ -28,9 +28,9 @@ average: '4.99'
 
 ℹ️:
 
+- Punta senza cuciture
 - Lunghezza fantasmino
 - Supporto dellarco plantare
-- Punta senza cuciture
 - Confezione da tre paia
 - 57% cotone / 37% poliestere riciclato / 3% gomma / 2% elastane / 1% nylon riciclato
 

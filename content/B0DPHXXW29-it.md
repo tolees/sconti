@@ -28,8 +28,8 @@ average: '56.57'
 
 ℹ️:
 
-- Capacità portante: 299,4 kg
 - Panca pesi con schienale regolabile in 7 posizioni e sedile a 3 posizioni
+- Capacità portante: 299,4 kg
 - Panca regolabile per sollevamento pesi, allenamento della forza e allenamenti
 - Panca compatta ideale per piccoli spazi e palestre domestiche
 - Lattrezzatura da palestra pieghevole offre una facile installazione e piegatura per una comoda conservazione

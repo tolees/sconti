@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Vans branding sul lato
 - Protezione UVA/UVB 400
 - Telaio: 100% policarbonato, Lenti: 100% policarbonato
-- Vans branding sul lato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CRDWSYXT{{</world>}}

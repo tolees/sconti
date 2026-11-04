@@ -29,8 +29,8 @@ average: '14.99'
 ℹ️:
 
 - Utilizzabile con le versioni IXO IV e V, si collega al cacciavite rimuovendo il cappuccio nero in gomma
-- Accessorio cutter per IXO
 - Ladattatore trasforma IXO in un valido aiutante per tagliare materiali morbidi e flessibili fino a 6 mm di spessore, come PVC, cartone, etc.
+- Accessorio cutter per IXO
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00K71DVNU{{</world>}}

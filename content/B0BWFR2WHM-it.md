@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Manualità fine e coordinazione occhio, mano, Creatività e fantasia, Curiosità e capacità di osservazione, Decodificazione di immagini
-- Formato 25x35, 60 pezzi, puzzle double face
 - 60 pezzi
+- Formato 25x35, 60 pezzi, puzzle double face
+- Manualità fine e coordinazione occhio, mano, Creatività e fantasia, Curiosità e capacità di osservazione, Decodificazione di immagini
 - Ricostruisci e colora le scene belle del tuo supereroe preferito
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

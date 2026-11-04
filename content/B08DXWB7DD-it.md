@@ -28,8 +28,8 @@ average: '19.6'
 
 ℹ️:
 
-- TRIUMPH - Lottima messa in scena del corpo femminile
 - Spalline regolabili con dettagli in pizzo
+- TRIUMPH - Lottima messa in scena del corpo femminile
 - AMOURETTE CHARM – Punta elastica per una vestibilità ottima
 - Coppe ricoperte di pizzo fine
 - Lingerie dal design senza tempo, vestibilità confortevole

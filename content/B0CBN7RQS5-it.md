@@ -30,8 +30,8 @@ average: '159.2'
 
 - Resistente all’acqua fino a 50 m: indossabile per nuotare in acque basse
 - Bracciale in acciaio bicolore
-- Cassa rettangolare in acciaio con quadrante blu
 - Cassa da 30 mm, larghezza del bracciale di 22 mm, cristallo minerale, movimento al quarzo a tre sfere con display analogico, importato
+- Cassa rettangolare in acciaio con quadrante blu
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CBN7RQS5{{</world>}}

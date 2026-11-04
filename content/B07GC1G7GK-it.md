@@ -28,11 +28,11 @@ average: '94.24'
 
 ℹ️:
 
-- Lacci
 - Suola/Caratteristiche: EVA per leggerezza
+- Tomaia: Pelle
+- Lacci
 - Fodera: 62% Poliestere riciclato 24% Tessuto 65% Poliuretano - 35% Poliestere 14% Tessuto
 - Colore: Nero
-- Tomaia: Pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07GC1G7GK{{</world>}}

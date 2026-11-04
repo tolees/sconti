@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- tela
-- Chiusura: gomma
-- con lacci
-- piatta
+- Collezione: Primavera/Estate 19
 - 13.779527545 pollici
 - tessuto
-- Collezione: Primavera/Estate 19
+- Chiusura: gomma
+- tela
+- con lacci
+- piatta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B294RWR8{{</world>}}

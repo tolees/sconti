@@ -28,11 +28,11 @@ average: '675.666666666667'
 
 ℹ️:
 
-- Smart TV VIDAA con +1000 APP
-- Audio Dolby Atmos
 - Native 144Hz Game Mode
 - Hi-View AI Engine, Hi-QLED Colour, Total HDR Solution, Filmmaker Mode, AI Light Sensor
 - Hisense Smart TV ULED MiniLED 65" 4K 65E8S
+- Smart TV VIDAA con +1000 APP
+- Audio Dolby Atmos
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0GQF24H9M{{</world>}}

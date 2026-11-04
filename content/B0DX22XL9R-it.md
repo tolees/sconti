@@ -28,10 +28,10 @@ average: '14.19'
 
 ℹ️:
 
-- CHAMBRAY DI COTONE LEGGERO: il denim leggero e traspirante offre comfort e lunga durata.
 - DETTAGLI: chiusura frontale con bottoni, bottoni sulle punte del colletto, taschino sul petto, carré posteriore con piega centrale a cannoncino, bottone sul polsino
 - LUNGHEZZA DEL CAPO: 74,9cm dal lato del collo nella taglia M (IT)
 - CAMICIA IN DENIM: questo modello con abbottonatura frontale versatile combina uno stile classico con dettagli moderni, perfetto da indossare a strati o da solo
+- CHAMBRAY DI COTONE LEGGERO: il denim leggero e traspirante offre comfort e lunga durata.
 - VESTIBILITÀ CLASSICA: vestibilità comoda e rilassata su spalle, petto e vita
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

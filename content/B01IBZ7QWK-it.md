@@ -28,13 +28,13 @@ average: '16.99'
 
 ℹ️:
 
-- Si consiglia di sostituire il filtro AquaClean ogni 3 mesi
 - Sostituzione filtro: compare avviso automatico sulla macchina
-- Tecnologia di scambio ionico: rimuove il calcare presente nellacqua prima che entri nella macchina
-- Filtro con micropori: blocca le impurità che contaminano lacqua
-- *Basato su 8 sostituzioni del filtro AquaClean come indicato sulla macchina: il numero effettivo di tazze dipende dalla varietà di caffè selezionata, dai programmi di risciacquo e di pulizia
+- Si consiglia di sostituire il filtro AquaClean ogni 3 mesi
 - Sistema Click & Go: installazione facilitata del filtro in un tocco
+- *Basato su 8 sostituzioni del filtro AquaClean come indicato sulla macchina: il numero effettivo di tazze dipende dalla varietà di caffè selezionata, dai programmi di risciacquo e di pulizia
+- Tecnologia di scambio ionico: rimuove il calcare presente nellacqua prima che entri nella macchina
 - Rimuove il calcare presente nellacqua: fino a 5000 tazze senza decalcificare*
+- Filtro con micropori: blocca le impurità che contaminano lacqua
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01IBZ7QWK{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Harry Potter Folletto della Cornovaglia 76461 | Giochi per bambini da 8 anni action figure snodabile decorazione da cameretta con accessori idea regalo 320 pezzi'
-date: 2026-11-02 11:08:36
+date: 2026-11-03 14:37:33
 image: 'https://m.media-amazon.com/images/I/51gWT+CBBmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0FPXGPT4J/?tag=tolees00-21'
 descuento: '33.34'
-average: '18.9928571428572'
+average: '19.1175000000001'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

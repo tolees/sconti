@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Designer: Pierre Charpin
 - Materiale: acciaio inossidabile 18/10
+- Dimensioni: altezza 7cm, diametro 23 cm
 - Pratico cestino portaoggetti e portafrutta per la cucina o il soggiorno
 - Lavabile in Lavastoviglie
-- Dimensioni: altezza 7cm, diametro 23 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00BCKG0TM{{</world>}}

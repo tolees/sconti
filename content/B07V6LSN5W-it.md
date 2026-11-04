@@ -29,11 +29,11 @@ average: '2.89'
 ℹ️:
 
 - Unità di misura: unità
-- Unità: 1.0
-- Offre igiene ed equilibrio nel rispetto delle parti intime; protegge incrementando le naturali difese della pelle
-- Numero di pezzi: 1
 - Senza parabeni e petrolati peg sles e sls allergeni saponi alcalini
 - Scopri la nostra gamma di prodotti
+- Numero di pezzi: 1
+- Unità: 1.0
+- Offre igiene ed equilibrio nel rispetto delle parti intime; protegge incrementando le naturali difese della pelle
 - Dermatologicamente testato; 98% ingredienti naturali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

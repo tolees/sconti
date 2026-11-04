@@ -28,16 +28,16 @@ average: '194.910499999999'
 
 ℹ️:
 
-- Interfaccia utente intuitiva per tutte le impostazioni in Italiano
-- Connessione WAN a 2,5 gigabit per connessione a modem DSL, via cavo o fibra ottica
-- Connessione semplice e sicura di nuovi dispositivi wireless nella rete locale premendo un tasto (Connect)
-- Base DECT per 6 telefoni cordless (ad esempio tutti i modelli di FRITZFon) e per prese commutabili
 - Accesso Wi-Fi per ospiti pratico e sicuro senza accesso alla rete locale privata
-- Sicurezza per il futuro con il protocollo Internet IPv6
+- Connessione WAN a 2,5 gigabit per connessione a modem DSL, via cavo o fibra ottica
 - Connessione a qualsiasi modem in fibra ottica, via cavo o DSL tramite porta WAN
-- 3 x LAN Gigabit
 - USB 3.0 per stampante e memoria (NAS)
 - Wi-Fi 6 fino a 6 Gbits (1.2002.4002.400 Mbits)
+- 3 x LAN Gigabit
+- Sicurezza per il futuro con il protocollo Internet IPv6
+- Interfaccia utente intuitiva per tutte le impostazioni in Italiano
+- Connessione semplice e sicura di nuovi dispositivi wireless nella rete locale premendo un tasto (Connect)
+- Base DECT per 6 telefoni cordless (ad esempio tutti i modelli di FRITZFon) e per prese commutabili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09HV1VKWG{{</world>}}

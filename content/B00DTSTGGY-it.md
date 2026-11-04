@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Basic, Regali, Streetwear
-- Beanie con le seguenti caratteristiche:
-- Materiale: Synthetisch
 - Il tuo merch EMP preferito!
+- Beanie con le seguenti caratteristiche:
+- Basic, Regali, Streetwear
+- Materiale: Synthetisch
 - Basco || Molto confortevole
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

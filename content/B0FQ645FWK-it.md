@@ -29,8 +29,8 @@ average: '7.99'
 ℹ️:
 
 - COLORE NERO: design pratico ed elegante.
-- MATERIALE DI QUALITÀ: realizzata in carbon steel con rivestimento antiaderente.
 - TEGLIA RETTANGOLARE: dimensioni 38x26,5 cm, altezza 1,6 cm.
+- MATERIALE DI QUALITÀ: realizzata in carbon steel con rivestimento antiaderente.
 - SPESSORE 0,4 MM: resistenza e durata nel tempo.
 - UTILIZZO MULTIPLO: perfetta per dolci, biscotti e torte salate.
 

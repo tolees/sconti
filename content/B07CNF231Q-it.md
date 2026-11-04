@@ -28,8 +28,8 @@ average: '111.5'
 
 ℹ️:
 
-- Per un lavoro ripetibile e preciso
 - Il rilascio della coppia può essere sentito e percepito chiaramente
+- Per un lavoro ripetibile e preciso
 - Scala molto facile da leggere con lente dingrandimento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

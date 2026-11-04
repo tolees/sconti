@@ -28,9 +28,9 @@ average: '43.99'
 
 ℹ️:
 
-- Resistente allacqua a 5 ATM Può essere indossato durante la doccia o il nuoto, ma non durante le immersioni
 - Quadrante azzurro
 - Movimento al quarzo con 3 lancette con numeri grandi e facili da leggere
+- Resistente allacqua a 5 ATM Può essere indossato durante la doccia o il nuoto, ma non durante le immersioni
 - Diametro della cassa: 32 mm / Spessore della cassa 9,90mm
 - Cinturino in silicone blu chiaro con disegno petit piqué
 

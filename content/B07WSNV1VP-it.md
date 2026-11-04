@@ -28,11 +28,11 @@ average: '109.5'
 
 ℹ️:
 
-- Funzioni: cronografo
 - I dettagli iconici di Maserati riflettono il DNA del marchio e lo stile italiano unico, riconoscibile in tutto il mondo per un prodotto sportivo-elegante.
-- Diametro cassa: 52x44mm - Lunghezza totale cinturino: 210mm
+- Funzioni: cronografo
 - Materiali: Acciaio, PVD Oro
 - Disegno del cerchione inciso sul retro della cassa
+- Diametro cassa: 52x44mm - Lunghezza totale cinturino: 210mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07WSNV1VP{{</world>}}

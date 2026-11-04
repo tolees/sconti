@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tomaia in pelle
-- Suola in gomma
-- Intersuola in gomma
 - Logo PUMA Cat sul tallone
+- Suola in gomma
+- Tomaia in pelle
+- Intersuola in gomma
 - Striscia sagomata PUMA sui lati mediale e laterale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

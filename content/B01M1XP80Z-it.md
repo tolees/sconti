@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- POTASSIO PER LA PRESSIONE SANGUIGNA: Il potassio contribuisce al mantenimento di una normale pressione sanguigna
 - SENZA GLUTINE E SENZA ZUCCHERO
-- PRODOTTO IN ITALIA. Confezione da 60 compresse.
-- MAGNESIO PER STANCHEZZA E FATICA FISICA: Con magnesio che contribuisce alla riduzione di stanchezza e fatica e aiuta a ripristinare lequilibrio elettrolitico
 - SALI MINERALI ORGANICI: Contiene sali organici di potassio e magnesio altamente assimilabili dallorganismo
+- MAGNESIO PER STANCHEZZA E FATICA FISICA: Con magnesio che contribuisce alla riduzione di stanchezza e fatica e aiuta a ripristinare lequilibrio elettrolitico
+- PRODOTTO IN ITALIA. Confezione da 60 compresse.
+- POTASSIO PER LA PRESSIONE SANGUIGNA: Il potassio contribuisce al mantenimento di una normale pressione sanguigna
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01M1XP80Z{{</world>}}

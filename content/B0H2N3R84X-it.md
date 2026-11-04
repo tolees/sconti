@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Da applicare sulle ciglia naturali, sopra il mascara o sulle sopracciglia.
+- Testato oftalmologicamente e adatto agli occhi sensibili.
 - Ciglia voluminose dal bagliore stellato.
 - I riflessi dorati e argentati brillano su tutti i colori degli occhi e su tutte le carnagioni.
-- Da applicare sulle ciglia naturali, sopra il mascara o sulle sopracciglia.
 - Formula ad asciugatura rapida ultra potente.
-- Testato oftalmologicamente e adatto agli occhi sensibili.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0H2N3R84X{{</world>}}

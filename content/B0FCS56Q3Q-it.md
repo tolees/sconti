@@ -28,8 +28,8 @@ average: '28.99'
 
 ℹ️:
 
-- Guantoni da boxe originali LEONE 1947
 - Manicotto: PU/PL Imbottitura: 100% PU Materiale palmo: FLEX PU Materiale dorso: FLEX PU Disciplina: Boxe Chiusura: Velcro
+- Guantoni da boxe originali LEONE 1947
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FCS56Q3Q{{</world>}}

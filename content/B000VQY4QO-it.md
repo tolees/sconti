@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Telaio da tessitura
 - 34 x 11,5 x 6 cm
+- Per perline
 - Materiale naturale
 - 1 filo
-- Telaio da tessitura
-- Per perline
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000VQY4QO{{</world>}}

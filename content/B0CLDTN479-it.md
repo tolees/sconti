@@ -29,8 +29,8 @@ average: '34.99'
 ℹ️:
 
 - Long Sleeves
-- Regular Fit
 - materialFabricComposition: 88% Polyester, 9% Cotton, 3% Viscose
+- Regular Fit
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CLDTN479{{</world>}}

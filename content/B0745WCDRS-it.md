@@ -28,11 +28,11 @@ average: '9.72'
 
 ℹ️:
 
-- 6 pezzi Topkapi "Ajda": 6 bicchieri da tè turchi.
-- Adatti alla lavastoviglie e al microonde.
-- Un set perfetto per sorseggiare il tè turco, tè orientale, tè caldo, tè marocchino alla menta e altro ancora.
-- Ideali per casa, giardino, terrazza, balcone, per assaporare ovunque volete il vostro tè nel tempo libero.
 - Altezza: circa 9,9 cm. Diametro: ~6,5 cm. Volume massimo: ~165 cc.
+- Ideali per casa, giardino, terrazza, balcone, per assaporare ovunque volete il vostro tè nel tempo libero.
+- Un set perfetto per sorseggiare il tè turco, tè orientale, tè caldo, tè marocchino alla menta e altro ancora.
+- Adatti alla lavastoviglie e al microonde.
+- 6 pezzi Topkapi "Ajda": 6 bicchieri da tè turchi.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0745WCDRS{{</world>}}

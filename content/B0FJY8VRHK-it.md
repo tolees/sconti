@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'KITKAT Hazelnut Twist Wafer Ricoperto di Cioccolato al Latte 3 snack 41 5g | Barretta dal cuore di wafer croccante ricoperto da cioccolato latte gusto nocciola. 3 barrette 41 5g 125 5g'
-date: 2026-11-02 07:40:25
+date: 2026-11-03 15:44:16
 image: 'https://m.media-amazon.com/images/I/41SYyOMozwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0FJY8VRHK/?tag=tolees00-21'
 descuento: '44.38'
-average: '2.26'
+average: '2.19'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

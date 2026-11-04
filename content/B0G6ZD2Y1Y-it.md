@@ -28,10 +28,10 @@ average: '17.99'
 
 ℹ️:
 
-- CONFIGURAZIONE FACILE - Funziona con il Wi-Fi di casa; scarica e apri lapp WiZ, inserisci la smart plug, connettila al Wi-Fi ed è fatta
-- AUTOMAZIONE DOMESTICA - Programma laccensione e lo spegnimento automatico di luci ed elettrodomestici in base alla tua routine quotidiana per semplificare la vita e risparmiare energia
 - INTEGRAZIONE PER CASA CONNESSA - Certificazione Matter per una perfetta integrazione con gli assistenti per la casa connessa tra cui Alexa, Google Home e Apple Home
 - CONTROLLI VOCALI - Connettiti al tuo assistente preferito per la casa connessa e controlla la tua smart plug con i comandi vocali​
+- AUTOMAZIONE DOMESTICA - Programma laccensione e lo spegnimento automatico di luci ed elettrodomestici in base alla tua routine quotidiana per semplificare la vita e risparmiare energia
+- CONFIGURAZIONE FACILE - Funziona con il Wi-Fi di casa; scarica e apri lapp WiZ, inserisci la smart plug, connettila al Wi-Fi ed è fatta
 - RENDI SMART QUALSIASI PRESA - Da apparecchi per illuminazione a ventilatori, a macchine da caffè, rendi smart qualsiasi dispositivo alimentato da rete elettrica con la smart plug
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

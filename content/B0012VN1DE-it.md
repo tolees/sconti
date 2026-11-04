@@ -32,8 +32,8 @@ average: '5.80166666666667'
 - Profumazione tropicale
 - Olio abbronzante
 - per unabbronzatura meravigliosa
-- Contiene vitamina C
 - senza SPF
+- Contiene vitamina C
 - Flacone 100% riciclato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

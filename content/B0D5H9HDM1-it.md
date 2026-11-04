@@ -28,8 +28,8 @@ average: '87.99'
 
 ℹ️:
 
-- Non resistente allacqua
 - Alla caviglia
+- Non resistente allacqua
 - GT-2000 13
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

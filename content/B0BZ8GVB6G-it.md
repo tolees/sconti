@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cecotec Idropulitrice ad alta pressione HydroBoost 2400 AdvanceClean 2400 W Casa Giardino o Auto Portata max 480 l/h 180 bar di pressione massima pompa in alluminio raggio d azione 14m'
-date: 2026-11-02 10:21:46
+date: 2026-11-03 12:08:18
 image: 'https://m.media-amazon.com/images/I/41vTuX8NieL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0BZ8GVB6G/?tag=tolees00-21'
 descuento: '55.24'
-average: '89.6266666666667'
+average: '89.372'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

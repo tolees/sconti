@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Disney Winnie the Pooh 43300 | Set per adulti con vaso di miele minifigure da collezione e personaggio di Ih-Oh decorazione casa idea regalo 1399 pezzi'
-date: 2026-10-31 22:37:20
+date: 2026-11-03 15:16:25
 image: 'https://m.media-amazon.com/images/I/41YJ89Ja7RL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0FPVXCY7B/?tag=tolees00-21'
 descuento: '24.67'
-average: '119.446923076924'
+average: '118.985714285715'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

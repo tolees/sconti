@@ -30,8 +30,8 @@ average: '32.5'
 
 - Tomaia in tessuto
 - Chiusura con lacci
-- Fodera in tessuto
 - Intersuola Cloudfoam
+- Fodera in tessuto
 - Calzata regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

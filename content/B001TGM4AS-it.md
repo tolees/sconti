@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Sgabello in alluminio 3 gradini
-- prodotto a norma EN 14183 - certificato TÜV-GS - portata max 150kg
 - Made in Italy
 - Gradino con tappetino antiscivolo
+- prodotto a norma EN 14183 - certificato TÜV-GS - portata max 150kg
 - Telaio rettangolare 35 × 20 mm
+- Sgabello in alluminio 3 gradini
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B001TGM4AS{{</world>}}

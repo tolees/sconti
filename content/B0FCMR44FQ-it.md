@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Confezionato in atmosfera protettiva per mantenere la freschezza.
 - Adatto per diete vegetariane e vegane.
-- Ricco di acidi grassi omega-3.
 - Fonte di fibre
+- Ricco di acidi grassi omega-3.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FCMR44FQ{{</world>}}

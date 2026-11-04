@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Maglietta comoda e traspirante
 - Ottimo comfort anche mentre si pratica unattività sportiva
+- Maglietta comoda e traspirante
 - Grazie alla tecnologia Dri-FIT si ha una sensazione di asciutto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

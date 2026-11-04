@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Mantiene la corretta idratazione delle mani
-- Rispetta il pH della pelle
 - Con antibatterico
+- Rispetta il pH della pelle
+- Mantiene la corretta idratazione delle mani
 - Adatto per tutta la famiglia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Girocollo
-- Maniche corte
-- 260 g/m², tessuto single jersey
-- Lunghezza regolare
 - Vestibilità regolare
+- Lunghezza regolare
+- Maniche corte
+- Girocollo
+- 260 g/m², tessuto single jersey
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F6YLW246{{</world>}}

@@ -28,10 +28,10 @@ average: '5.9'
 
 ℹ️:
 
-- Progettato e prodotto in Nuova Zelanda, senza ftalati e senza BPA
-- Tappo avvitabile a tenuta ermetica per trasporto senza fuoriuscite
 - Lavabile in lavastoviglie (cestello superiore)
 - Porta da bere a scuola, in ufficio e ovunque ti trovi con questa borraccia quadrata in stile rétro
+- Tappo avvitabile a tenuta ermetica per trasporto senza fuoriuscite
+- Progettato e prodotto in Nuova Zelanda, senza ftalati e senza BPA
 - Pareti concave per facilitare limpugnatura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

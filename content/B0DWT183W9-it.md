@@ -30,8 +30,8 @@ average: '41.92'
 
 - Dettagli incisi
 - Manico rimovibile tipo borsa
-- Tasca posteriore esterna
 - Vari scomparti interni
+- Tasca posteriore esterna
 - Chiusura: patta e cerniera
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

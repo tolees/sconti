@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- ISTRUZIONI PER L’USO: Erogare sulle mani bagnate, creare la schiuma e risciacquare accuratamente
 - DERMATOLOGICAMENTE TESTATO: Adatto a tutti i tipi di pelle
-- IGIENIZZANTE: Detergente per le mani igienizzante
 - FORMULA IDRATANTE: Protegge la pelle dall’eccessiva secchezza, lasciando le mani nutrite e morbide
+- ISTRUZIONI PER L’USO: Erogare sulle mani bagnate, creare la schiuma e risciacquare accuratamente
+- IGIENIZZANTE: Detergente per le mani igienizzante
 - 2 RICARICHE da 1000 ml: 70% di imballaggio in meno rispetto ai flaconi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

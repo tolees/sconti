@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars R2-D2-75379 | Giochi per bambini da 10 anni figura di droide giocattolo con testa rotante periscopio e strumenti idea regalo 1050 pezzi'
-date: 2026-10-31 08:24:24
+date: 2026-11-04 11:32:24
 image: 'https://m.media-amazon.com/images/I/51i5rro1xlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0CFVZC2GF/?tag=tolees00-21'
 descuento: '24.98'
-average: '75.8851470588235'
+average: '75.8601428571428'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

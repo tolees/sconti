@@ -28,10 +28,10 @@ average: '15.2'
 
 ℹ️:
 
+- Adatta sia alle palle di grasso con rete che senza.
+- Circa 25 cm.
 - Fornire sempre dellacqua fresca per il benessere degli uccelli.
 - Materiale: acciaio inossidabile.
-- Circa 25 cm.
-- Adatta sia alle palle di grasso con rete che senza.
 - Con base per evitare la dispersione di cibo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

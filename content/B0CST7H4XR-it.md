@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Imballaggio: Scatola
 - Lacci
+- Imballaggio: Scatola
 - Completamente foderato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

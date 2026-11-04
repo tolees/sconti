@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Caricatore Google USB-C 45 W - Caricatore per la ricarica rapida di smartphone Pixel - Compatibile con i prodotti Made by Google e altri dispositivi USB-C® - Bianco ghiaccio'
-date: 2026-10-30 12:32:46
+date: 2026-11-04 07:02:22
 image: 'https://m.media-amazon.com/images/I/31NRMr8eoAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0D94D1MTS/?tag=tolees00-21'
 descuento: '50.01'
-average: '17.9075000000001'
+average: '17.8753846153847'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

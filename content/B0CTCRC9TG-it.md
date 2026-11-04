@@ -28,8 +28,8 @@ average: '18.9'
 
 ℹ️:
 
-- Traspirabilità
 - Materiale di alta qualità
+- Traspirabilità
 - Design versatile
 - Taglio confortevole
 

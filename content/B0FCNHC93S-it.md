@@ -28,9 +28,9 @@ average: '60.0'
 
 ℹ️:
 
-- Design ispirato alla tradizione dei modelli degli anni 70 per un look classico
 - Stringata
 - Tomaia in suede, mesh e nylon
+- Design ispirato alla tradizione dei modelli degli anni 70 per un look classico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FCNHC93S{{</world>}}

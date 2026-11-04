@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars Grogu e carrozzina 75403 | Giochi per bambini da 10 anni modellino da costruire di personaggio giocattolo idea regalo da collezione 1048 pezzi'
-date: 2026-10-30 17:23:32
+date: 2026-11-03 11:46:36
 image: 'https://m.media-amazon.com/images/I/51WxOQg1brL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0DHSDMSWQ/?tag=tolees00-21'
 descuento: '36.77'
-average: '74.8246153846155'
+average: '74.3948148148149'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

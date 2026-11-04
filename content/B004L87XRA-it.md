@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Staedtler pigment liner 5+1 Set 308 SB6P Pennarello punta fine Nero 0.05 mm 0.1 mm 0.2 mm 0.3 mm 0.5 mm 0.8 mm 6 p'
-date: 2026-11-02 16:47:10
+date: 2026-11-04 11:21:42
 image: 'https://m.media-amazon.com/images/I/41+l15qf9OL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

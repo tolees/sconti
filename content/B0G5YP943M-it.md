@@ -29,9 +29,9 @@ average: '17.49'
 ℹ️:
 
 - Tasca sul petto a sinistra
-- Girocollo a coste
-- Manica corta
 - Orlo a doppio ago
+- Manica corta
+- Girocollo a coste
 - Vestibilità ampia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

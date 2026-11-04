@@ -28,8 +28,8 @@ average: '3.99'
 
 ℹ️:
 
-- Ricomponi i 6 puzzle degli animali del bosco
 - Tessere alto spessore, incastri autocorrettivi, cartone super resistente
+- Ricomponi i 6 puzzle degli animali del bosco
 - Manualità fine e coordinazione occhio, mano, creatività e fantasia, curiosità e capacità di osservazione, decodificazione di immagini
 - 6 puzzle, istruzioni
 

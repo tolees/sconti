@@ -28,11 +28,11 @@ average: '7.21'
 
 ℹ️:
 
-- Un mix di ingredienti (complesso di Glicerina e polisaccaridi del Tamarindo) che, grazie alle loro proprietà mucoadesive, permettono alle stesse di rimanere adese alla mucosa.
 - Aiuta la salute della mucosa grazie all’azione della Biotina (Vitamina B8)
-- Favorisce il benessere della gola grazie all’azione del Timo
 - Favorisce la fluidità delle secrezioni bronchiali grazie all’azione dell’Edera
+- Favorisce il benessere della gola grazie all’azione del Timo
 - Cuore liquido con PROPOLIS M.E.D. e Miele
+- Un mix di ingredienti (complesso di Glicerina e polisaccaridi del Tamarindo) che, grazie alle loro proprietà mucoadesive, permettono alle stesse di rimanere adese alla mucosa.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FQNQ7CKH{{</world>}}

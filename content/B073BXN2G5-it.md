@@ -28,8 +28,8 @@ average: '54.968'
 
 ℹ️:
 
-- Materiale suola: Gomma
 - Fodera: Sintetico
+- Materiale suola: Gomma
 - Chiusura: Stringata
 - Materiale esterno:Pelle
 

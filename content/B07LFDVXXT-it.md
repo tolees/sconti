@@ -29,9 +29,9 @@ average: '18.1'
 ℹ️:
 
 - Logo Levis sul petto
-- Questo è un prodotto originale Levis
 - Maglietta a maniche corte in morbido jersey
 - Confezione da due
+- Questo è un prodotto originale Levis
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07LFDVXXT{{</world>}}

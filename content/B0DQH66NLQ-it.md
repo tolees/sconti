@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Lavabile in lavatrice
-- Memory foam raffreddato ad aria
 - Slip-in
+- Memory foam raffreddato ad aria
 - Scivola-passo
 - Cuscino per tallone
 

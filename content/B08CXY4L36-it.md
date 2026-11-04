@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Con lopzione Bluetooth potrai gestire fino a 10 punti luce allinterno di una stanza.
-- Questo prodotto è un prodotto contenitore. I prodotti contenitori gli apparecchi di illuminazione che possono essere smontati per consentire la verifica separata della o delle sorgenti luminose ivi contenute.
-- Prodotto compatibile e controllabile con gli assistenti vocali Alexa, Google e Apple HomeKit.
-- Per accedere alle funzionalità completa del sistema di illuminazione smart Hue invece è necessario disporre di un Bridge Hue (venduto separatamente)
-- Crea latmosfera giusta per qualsiasi ambiente di casa con loriginale lampada Philips Hue Iris
 - Passa da una luce fredda ad una calda o imposta unatmosfera colorata per creare il giusto mood
+- Per accedere alle funzionalità completa del sistema di illuminazione smart Hue invece è necessario disporre di un Bridge Hue (venduto separatamente)
+- Con lopzione Bluetooth potrai gestire fino a 10 punti luce allinterno di una stanza.
+- Prodotto compatibile e controllabile con gli assistenti vocali Alexa, Google e Apple HomeKit.
+- Questo prodotto è un prodotto contenitore. I prodotti contenitori gli apparecchi di illuminazione che possono essere smontati per consentire la verifica separata della o delle sorgenti luminose ivi contenute.
+- Crea latmosfera giusta per qualsiasi ambiente di casa con loriginale lampada Philips Hue Iris
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08CXY4L36{{</world>}}

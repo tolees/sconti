@@ -28,8 +28,8 @@ average: '907.09'
 
 ℹ️:
 
-- HDR400: High Dynamic Range per colori e contrasto ottimizzati, offrendo unesperienza visiva più vivida
 - AMD FreeSync Premium; gioco fluido e senza strappi, senza balbettii
+- HDR400: High Dynamic Range per colori e contrasto ottimizzati, offrendo unesperienza visiva più vivida
 - Sincronizza la frequenza di aggiornamento del display con la scheda grafica per eliminare lo strappo e lo stuttering dello schermo
 - Gli altoparlanti integrati forniscono luscita audio senza la necessità di altoparlanti esterni
 - Design del display curvo per unesperienza più coinvolgente

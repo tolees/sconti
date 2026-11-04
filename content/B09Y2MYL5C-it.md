@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony WH-1000XM5 Premium Cuffie bluetooth con Cancellazione Rumore | Over-Ear wireless chiamate nitide Hi-Res 30 ore batteria custodia rigida iOS & Android noise cancelling - Nero'
-date: 2026-10-25 15:07:21
+date: 2026-11-04 08:00:15
 image: 'https://m.media-amazon.com/images/I/21m0YJkUsyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B09Y2MYL5C/?tag=tolees00-21'
 descuento: '33.44'
-average: '276.972931034481'
+average: '274.373833333332'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

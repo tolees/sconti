@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Colletto a punta
 - Vestibilità regolare
+- Colletto a punta
 - Scollo con bottoni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

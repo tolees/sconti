@@ -28,9 +28,9 @@ average: '45.2406666666668'
 
 ℹ️:
 
+- Soletta leggera in EVA adibouncy
 - Tomaia in pelle rivestita
 - Chiusura con lacci
-- Soletta leggera in EVA adibouncy
 - Suola in gomma; fodera in tessuto
 - Calzata regolare
 

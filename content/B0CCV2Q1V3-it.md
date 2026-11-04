@@ -28,10 +28,10 @@ average: '9.12'
 
 ℹ️:
 
-- Confezionato in atmosfera protettiva per mantenere la freschezza
 - Adatto per diete vegetariane e vegane
-- Può contenere occasionalmente frammenti di guscio
 - Conservare in luogo fresco e asciutto. Una volta aperto, richiudere ermeticamente il sacchetto
+- Confezionato in atmosfera protettiva per mantenere la freschezza
+- Può contenere occasionalmente frammenti di guscio
 - Non adatto per gli allergici alla frutta a guscio, alle arachidi, al sesamo, alla soia e per i celiaci a causa dei metodi di fabbricazione
 - Confezionato in atmosfera protettiva per mantenere la freschezza
 

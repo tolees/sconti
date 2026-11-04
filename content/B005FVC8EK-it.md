@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Contengono 9.3 ml dinchiostro ciascuno
 - Contiene due serbatoi dinchiostro nero
+- Contengono 9.3 ml dinchiostro ciascuno
 - Compatibile con la serie iP100
 - Inchiostro di qualità ottimale
 - Serbatoio dinchiostro a base di pigmento

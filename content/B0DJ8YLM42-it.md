@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Larghezza regolare
 - Dettagli del marchio PUMA
+- Larghezza regolare
 - Vestibilità comoda
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

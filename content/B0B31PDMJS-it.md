@@ -28,10 +28,10 @@ average: '20.0'
 
 ℹ️:
 
-- Tomaia in similpelle
-- Chiusura con lacci
 - Calzata regolare
+- Chiusura con lacci
 - Suola in gomma non-marking
+- Tomaia in similpelle
 - Fodera in tessuto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

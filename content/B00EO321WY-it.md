@@ -28,9 +28,9 @@ average: '17.99'
 
 ℹ️:
 
-- Taglio dritto
 - Qualità robusta
 - Chiusura: bottoni
+- Taglio dritto
 - Maniche lunghe
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

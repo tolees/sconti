@@ -28,10 +28,10 @@ average: '5.64'
 
 ℹ️:
 
-- Cover imperfezioni
 - Disponibile in colore beige dorato
-- Corrisponde al colore e alla consistenza della pelle
 - Polvere morbida super miscelabile
+- Cover imperfezioni
+- Corrisponde al colore e alla consistenza della pelle
 - Lapplicatore per polvere e lo specchio allinterno garantiscono unapplicazione facile da usare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '25.0'
 
 ℹ️:
 
-- Con fodera interna
-- Finitura: dettagli argentati spazzolati
-- Logo in rilievo allesterno
 - Larghezza: 3,5 cm
+- Con fodera interna
+- Logo in rilievo allesterno
+- Finitura: dettagli argentati spazzolati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B4K47JP1{{</world>}}

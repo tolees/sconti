@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fabuloso Ammorbidente Concentrato Magnolia & Lavanda 1 9L | Ammorbidente profumato per lavatrice Fragranza che dura per settimane Rende i capi più facili da stirare Per 86 lavaggi'
-date: 2026-11-01 09:43:36
+date: 2026-11-04 12:22:13
 image: 'https://m.media-amazon.com/images/I/510m8naN-sL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0GZQYK999/?tag=tolees00-21'
 descuento: '51.92'
-average: '15.61'
+average: '15.134'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

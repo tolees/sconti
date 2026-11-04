@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cecotec Robot da Cucina Multifunzione con dispenser alimentare Mambo CooKing Unique. 2200 W 45 funzioni migliaia di ricette guidate brocca unica da 5 l accessori: vaporiera o pala per stufati'
-date: 2026-11-02 08:22:04
+date: 2026-11-03 12:09:36
 image: 'https://m.media-amazon.com/images/I/41gMzNxSO4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0BQ1M7RDL/?tag=tolees00-21'
 descuento: '45.63'
-average: '459.996666666667'
+average: '430.495000000001'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

@@ -28,8 +28,8 @@ average: '25.5'
 
 ℹ️:
 
-- Idrata in profondità, lifta e minimizza le rughe
 - Preserva lequilibrio del microbioma cutaneo
+- Idrata in profondità, lifta e minimizza le rughe
 - Fortifica la barriera epidermica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

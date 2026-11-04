@@ -28,8 +28,8 @@ average: '14.85'
 
 ℹ️:
 
-- 100% composito
 - Lavare a mano
+- 100% composito
 - Scollo tondo
 - Manica corta
 

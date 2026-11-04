@@ -29,15 +29,15 @@ average: '10.865'
 ℹ️:
 
 - Lama in acciaio ad alto tenore di carbonio, con rivestimento in teflon, per un taglio netto e uniforme
+- 10 anni di garanzia
 - Lazione a cricchetto a 4 step corti facilita enormemente la potatura
+- Lazione a cricchetto a 4 step corti facilita enormemente la potatura
+- 10 anni di garanzia
+- Corpo in alluminio pressofuso leggero, con meccanismo di bloccaggio in metallo
+- Ideale per steli secchi, spessi, o legnosi
+- Corpo in alluminio pressofuso leggero, con meccanismo di bloccaggio in metallo
 - Ideale per steli secchi, spessi, o legnosi
 - Lama in acciaio ad alto tenore di carbonio, con rivestimento in teflon, per un taglio netto e uniforme
-- Lazione a cricchetto a 4 step corti facilita enormemente la potatura
-- Ideale per steli secchi, spessi, o legnosi
-- 10 anni di garanzia
-- Corpo in alluminio pressofuso leggero, con meccanismo di bloccaggio in metallo
-- 10 anni di garanzia
-- Corpo in alluminio pressofuso leggero, con meccanismo di bloccaggio in metallo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B003YCIXSM{{</world>}}

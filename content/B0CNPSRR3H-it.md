@@ -28,8 +28,8 @@ average: '11.5'
 
 ℹ️:
 
-- Stile cinque tasche
 - Con passanti per cintura
+- Stile cinque tasche
 - Vita alta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

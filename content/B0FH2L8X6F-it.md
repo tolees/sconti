@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Taglio standard
-- Gamba dritta
 - Composizione: 71 per cento cotone 28 per cento poliestere 1 per cento elastan
+- Gamba dritta
+- Taglio standard
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FH2L8X6F{{</world>}}

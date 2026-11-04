@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Drop intersuola: 6 mm (tallone 27 mm / avampiede 21 mm)
-- Vestibilità regolare
-- Peso: 246,0 grammi (taglia UK 8,5)
 - Fodera in tessuto
 - Tomaia in tessuto
-- Chiusura con lacci
+- Vestibilità regolare
 - Suola in gomma
+- Chiusura con lacci
+- Peso: 246,0 grammi (taglia UK 8,5)
+- Drop intersuola: 6 mm (tallone 27 mm / avampiede 21 mm)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DHXGDTVW{{</world>}}

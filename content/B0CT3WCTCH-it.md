@@ -28,8 +28,8 @@ average: '65.21'
 
 ℹ️:
 
-- Ogni Joy-Con include un accelerometro e un sensore di movimento giroscopico, che rendono possibile controllare separatamente il movimento sinistro e destro.
 - Ogni Joy-Con ha un set completo di pulsanti e può fungere da controller autonomo.
+- Ogni Joy-Con include un accelerometro e un sensore di movimento giroscopico, che rendono possibile controllare separatamente il movimento sinistro e destro.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CT3WCTCH{{</world>}}

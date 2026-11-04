@@ -30,9 +30,9 @@ average: '90.09'
 
 - ​Al terzo livello, lanciati in un testa a testa nel giro della morte, regolando i deviatori per cambiare le destinazioni delle macchinine.
 - ​Porta lascensore a due posti al secondo livello e lancia le 2 macchinine Hot Wheels incluse in una sfida testa a testa.
-- ​Hot Wheels City Mega Garage include 2 veicoli Hot Wheels ed è il regalo perfetto per bambini e bambine dai 5 anni in su.
-- ​Al quarto livello un drago divora auto attende i bambini che lanciano le Hot Wheels per sconfiggerlo o essere divorati. Le auto divorate vengono espulse, mentre il drago sconfitto precipita in fondo al garage.
 - ​Il primo livello presenta fantastici dettagli, come pompe di benzina mobili, un autolavaggio con un rullo in schiuma, deviatori e connettori per collegare il playset ad altri set e creare una Hot Wheels City ancora più grande. (Set aggiuntivi in vendita separatamente).
+- ​Al quarto livello un drago divora auto attende i bambini che lanciano le Hot Wheels per sconfiggerlo o essere divorati. Le auto divorate vengono espulse, mentre il drago sconfitto precipita in fondo al garage.
+- ​Hot Wheels City Mega Garage include 2 veicoli Hot Wheels ed è il regalo perfetto per bambini e bambine dai 5 anni in su.
 - ​Usa gli oltre 50 posti auto per riporre in modo pratico le Hot Wheels.
 - ​Sfreccia, esibisciti in acrobazie pazzesche e affronta un drago nel Mega Garage Hot Wheels City multilivello.
 

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Larghezza regolare
+- Suola in EVA
 - Tipo di tacco: Tacco piatto
 - Punta arrotondata
-- Suola in EVA
-- Larghezza regolare
 - Chiusura: Lacci
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

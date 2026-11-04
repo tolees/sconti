@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- TASCA - Tasche per le mani con cerniera
-- OPERE DARTE - STAMPA Logo HH
-- TESSUTO - Interno collo in tricot garzato
-- Articoli consegnati: 1 giacca in pile da uomo Helly Hansen HP 2.0 - Giacca Ebony S
 - BORSA - borse
+- Articoli consegnati: 1 giacca in pile da uomo Helly Hansen HP 2.0 - Giacca Ebony S
+- TESSUTO - Interno collo in tricot garzato
+- OPERE DARTE - STAMPA Logo HH
+- TASCA - Tasche per le mani con cerniera
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B2J3GX4B{{</world>}}

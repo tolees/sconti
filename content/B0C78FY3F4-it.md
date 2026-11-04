@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Almeno il 50% della tomaia proviene da fonti riciclate
-- Tomaia in materiale sintetico e suede
-- Suola in gomma non-marking
 - Fodera in tessuto
 - Chiusura con lacci
+- Suola in gomma non-marking
+- Tomaia in materiale sintetico e suede
 - Intersuola Cloudfoam
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

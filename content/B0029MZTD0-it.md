@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- dotate di un supporto
 - Adeguato per un passepartout
 - Con vetro trasparente lavato
+- dotate di un supporto
 - Profilo rettangolare in plastica
 - Disponibile in molti colori e formati
 

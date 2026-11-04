@@ -29,11 +29,11 @@ average: '34.99'
 ℹ️:
 
 - Smart Alarm & Chime – Funziona con le tue smart camera (Tapo C420, Tapo C400), campanelli video (Tapo D230) e sensori come allarme o campanello intelligente quando viene rilevato un movimento o arriva un visitatore.
-- Archiviazione microSD locale: salva i video registrati dalle videocamere o dai campanelli video sulla scheda microSD installata nellhub (fino a 512 GB)
-- Fino a 64+4 dispositivi: collega più dispositivi (fino a 64 interruttori*, sensori o pulsanti + 4 videocamere o campanelli) per creare lecosistema intelligente della tua casa. Funziona con Tapo C420, Tapo C400, Tapo D230 e altri.
-- Wireless a basso consumo: aiuta i sensori e i pulsanti intelligenti a durare fino a 10 volte più a lungo adottando un protocollo wireless a bassissimo consumo
 - Controllo vocale: funziona con Amazon Alexa e Google Home per lautomazione a mani libere
+- Archiviazione microSD locale: salva i video registrati dalle videocamere o dai campanelli video sulla scheda microSD installata nellhub (fino a 512 GB)
+- Wireless a basso consumo: aiuta i sensori e i pulsanti intelligenti a durare fino a 10 volte più a lungo adottando un protocollo wireless a bassissimo consumo
 - 19 opzioni di suoneria: più suonerie integrate (fino a 90 dB) per i tuoi scenari personalizzati.
+- Fino a 64+4 dispositivi: collega più dispositivi (fino a 64 interruttori*, sensori o pulsanti + 4 videocamere o campanelli) per creare lecosistema intelligente della tua casa. Funziona con Tapo C420, Tapo C400, Tapo D230 e altri.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C8BJ9ZLB{{</world>}}

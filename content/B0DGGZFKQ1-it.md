@@ -28,11 +28,11 @@ average: '159.0'
 
 ℹ️:
 
+- Controllo Meccanico,
+- Colore Bianco
+- Cucina 50X50 libera installazione
 - Forno a Gas + Piano con 4 bruciatori a gas e griglie a piattina
 - Dimensioni HxLxP: 85,0 x 50,0 x 50,0
-- Cucina 50X50 libera installazione
-- Colore Bianco
-- Controllo Meccanico,
 - Classe A
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

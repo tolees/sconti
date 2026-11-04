@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ECHTPower Upgrade Controller per P4 Porta Type-C Pulsanti Posteriori Controller Bluetooth per P4/ PC Batteria da 1000mAh Doppia Vibrazione Impugnatura Antiscivolo Ergonomico'
-date: 2026-10-28 13:56:16
+date: 2026-11-04 14:02:59
 image: 'https://m.media-amazon.com/images/I/41Ldv9KSy8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

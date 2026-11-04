@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Fai Festa con Saila: compleanno, Natale, Halloween, Laurea, le nostre caramelle rendono ogni occasione unica
-- Ogni momento è adatto per gustare una caramella Saila: quando vai dalla Nonna, quando sei in ufficio, quando sei nel traffico, quando porti al parco tuo figlio, fatti accompagnare da Sperlari
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
+- Ogni momento è adatto per gustare una caramella Saila: quando vai dalla Nonna, quando sei in ufficio, quando sei nel traffico, quando porti al parco tuo figlio, fatti accompagnare da Sperlari
 - All’interno della confezione trovi 75 g di Saila Jelly Confetti Menta
-- Questo prodotto è senza glutine
 - I confetti Jelly: un’anima di morbida liquirizia ricoperta da un freschissimo strato croccante, così buoni che sai quando inizi ma non quando smetti
+- Questo prodotto è senza glutine
+- Fai Festa con Saila: compleanno, Natale, Halloween, Laurea, le nostre caramelle rendono ogni occasione unica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FZW8YNJY{{</world>}}

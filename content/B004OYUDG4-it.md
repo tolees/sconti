@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- La colonna centrale a forma di esagono può essere posizionata da 0 a 180 gradi.
-- Le gambe in lega di alluminio a 3 sezioni da 26mm si regolano a 25, 50 e 80 gradi per consentire la fotografia ad angolo estremamente basso.
 - La testa a sfera ruota di 360 gradi e include una piastra rapida e una livella a bolla.
+- Le gambe in lega di alluminio a 3 sezioni da 26mm si regolano a 25, 50 e 80 gradi per consentire la fotografia ad angolo estremamente basso.
+- La colonna centrale a forma di esagono può essere posizionata da 0 a 180 gradi.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B004OYUDG4{{</world>}}

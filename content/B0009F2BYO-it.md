@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Electric
-- Over
 - All
+- Over
+- Electric
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0009F2BYO{{</world>}}

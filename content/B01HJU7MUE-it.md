@@ -29,9 +29,9 @@ average: '14.98'
 ℹ️:
 
 - 3B Scientific Poster la Muscolatura Umana
+- Laminata sui 2 lati (75 micron)
 - Stampato su carta per foto (200 g) di alta qualità
 - Pratico formato poster 50 x 67 cm
-- Laminata sui 2 lati (75 micron)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01HJU7MUE{{</world>}}

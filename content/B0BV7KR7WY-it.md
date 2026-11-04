@@ -28,8 +28,8 @@ average: '40.05'
 
 ℹ️:
 
-- Compatibile con lenti a contatto, lifting di ciglia, extension ciglia e ciglia finte
 - Senza prostaglandina. OFTALMOLOGO TESTATO SICURO PER GLI OCCHI
+- Compatibile con lenti a contatto, lifting di ciglia, extension ciglia e ciglia finte
 - La NUOVA OLAPLEX Peptide Complex Technology supporta il ciclo di crescita naturale e la ritenzione delle ciglia, per ciglia più lunghe, spesse, forti e piene.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

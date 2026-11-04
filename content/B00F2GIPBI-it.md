@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- audioCD
 - Swings Both Ways
+- audioCD
 - Robbie Williams
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

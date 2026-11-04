@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Model: Pld 6185/s
+- Brand: Polaroid
 - Protective case Included
 - Size: 52 Millimetres
 - Colour: 807/M9 BLACK
-- Brand: Polaroid
+- Model: Pld 6185/s
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BS7376NG{{</world>}}

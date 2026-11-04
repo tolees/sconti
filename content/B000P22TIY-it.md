@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Fragranza classica: questa eau de toilette fruttata e legnosa è adatto a diventare il tuo profumo distintivo
-- Profumo da uomo versatile: memorabile per una serata fuori, adatto da essere indossato ogni giorno
 - Note di fondo: ad aggiungere profondità e complessità sono le finiture di legno di cedro, ambra e muschio
+- Fragranza classica: questa eau de toilette fruttata e legnosa è adatto a diventare il tuo profumo distintivo
 - Lunga persistenza: senza mai invadere il naso, Nautica Voyage indugia sulla pelle
+- Profumo da uomo versatile: memorabile per una serata fuori, adatto da essere indossato ogni giorno
 - Note di testa: la mela croccante, la foglia verde fresca e il loto delicato aprono questo profumo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

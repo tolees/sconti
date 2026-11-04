@@ -29,8 +29,8 @@ average: '17.5'
 ℹ️:
 
 - Il tessuto in jersey è morbido e comodo da indossare tutti i giorni
-- Elasticizzato: medio
 - Motivo: tinta unita
+- Elasticizzato: medio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08T9WPFQX{{</world>}}

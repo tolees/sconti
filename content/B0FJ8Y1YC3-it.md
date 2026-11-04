@@ -28,11 +28,11 @@ average: '49.39'
 
 ℹ️:
 
-- Tasca Frontale
+- Schienale: Preformato
 - Spallacci: imbottiti rivestiti in tessuto e rete con sagomatura anatomica e inserti rifrangenti
 - Dimensioni: 33 x 44 x 22 cm; Capacità 29 lt
+- Tasca Frontale
 - Poliestere effetto Shiny
-- Schienale: Preformato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FJ8Y1YC3{{</world>}}

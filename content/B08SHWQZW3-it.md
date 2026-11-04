@@ -28,10 +28,10 @@ average: '26.2666666666667'
 
 ℹ️:
 
-- A car with a roof rack, that can fit up to eight figures.
-- The boot door and seats turn into a picnic table set!
 - Suitable for ages three years and above.
 - Stimulates imaginative role-playing by children.
+- The boot door and seats turn into a picnic table set!
+- A car with a roof rack, that can fit up to eight figures.
 - The included plates and food can be put in the basket.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

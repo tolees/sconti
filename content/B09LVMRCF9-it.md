@@ -29,8 +29,8 @@ average: '19.99'
 ℹ️:
 
 - Taglia S
-- 100 % Puro Cotone, Lavabile in lavatrice fino a 30°
 - Prodotto Ufficiale F.C. Inter
+- 100 % Puro Cotone, Lavabile in lavatrice fino a 30°
 - Accapptoio in Microspugna in busta salvaspazio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

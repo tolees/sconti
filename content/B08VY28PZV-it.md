@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Realizzata con una tecnica che cattura il delizioso sapore e laroma del ginepro insieme a quello delle altre piante naturali, offrendo un gusto autentico con zero alcol
-- Unalternativa analcolica con tutto il sapore del gin Tanqueray London Dry
-- Per goderti Tanqueray 0.0, servi 50 ml di prodotto in un calice da gin & tonic pieno di ghiaccio, mescolalo con lacqua tonica e decora con una fetta di lime
 - Un regalo adatto per gli amanti del gin che cercano unalternativa analcolica da godersi sempre e ovunque
 - Equilibrio tra ginepro rinfrescante, coriandolo speziato, angelica aromatica e liquirizia dolce in unalternativa analcolica che offre una base classica per i cocktail
+- Per goderti Tanqueray 0.0, servi 50 ml di prodotto in un calice da gin & tonic pieno di ghiaccio, mescolalo con lacqua tonica e decora con una fetta di lime
+- Unalternativa analcolica con tutto il sapore del gin Tanqueray London Dry
 - Una bevanda analcolica a base di piante botaniche naturali adatta agli amanti del gin, quando non vogliono bere alcolici
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

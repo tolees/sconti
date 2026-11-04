@@ -31,8 +31,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 - Con Vitamina C ed E per la cura della pelle
 - Facile da sfumare
 - Aspetto sano e luminoso che dura tutto il giorno
-- Formula vegana
 - Con perle che riflettono la luce
+- Formula vegana
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FCMW7XC6{{</world>}}

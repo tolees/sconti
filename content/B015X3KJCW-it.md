@@ -29,8 +29,8 @@ average: '2.5'
 ℹ️:
 
 - Bianco
-- 15 ml
 - Creme
+- 15 ml
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B015X3KJCW{{</world>}}

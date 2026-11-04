@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Made in Italy
 - Formato 435 ml
 - Tecnologia Innovativa in Schiuma attiva al Limone di Sicilia
 - Azione Ultra Rapida: dimezzi i tempi di pulizia della cucina
-- Made in Italy
 - Multiuso: stoviglie, piatti, padelle, piani cottura (acciaio, piastre a induzione e vetroceramica), lavelli e piastrelle.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

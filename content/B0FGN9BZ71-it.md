@@ -28,11 +28,11 @@ average: '2.49'
 
 ℹ️:
 
-- Formula: ricca con Collagene e Vitamina E, è composta al 95% da ingredienti di origine naturale
 - Modo duso: massaggia quotidianamente sul corpo asciutto fino a completo assorbimento
-- Prodotto: Crema studiata per le pelli mature o molto secche, si assorbe rapidamente e non ungere
-- Risultato: Rassoda la tua pelle e offre 72 ore di idratazione intensa, lasciandola tonica ed elastica.
 - Contenuto: n.1 x Leocrema Crema Corpo Rassodante 250ml
+- Risultato: Rassoda la tua pelle e offre 72 ore di idratazione intensa, lasciandola tonica ed elastica.
+- Formula: ricca con Collagene e Vitamina E, è composta al 95% da ingredienti di origine naturale
+- Prodotto: Crema studiata per le pelli mature o molto secche, si assorbe rapidamente e non ungere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FGN9BZ71{{</world>}}

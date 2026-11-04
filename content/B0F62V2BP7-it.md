@@ -28,8 +28,8 @@ average: '7.95'
 
 ℹ️:
 
-- Formato compatto per cancelleria
 - Chiusura con zip
+- Formato compatto per cancelleria
 - Tessuto resistente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

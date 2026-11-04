@@ -28,9 +28,9 @@ average: '86.82'
 
 ℹ️:
 
-- Dotazione: EasyGrassCut 18V-230, 1 batteria PBA 18V 2.5Ah W-B, caricabatteria AL 1830 CV, confezione in cartone
 - Gli utensili da giardino Easy di Bosch: per giardini di piccole e medie dimensioni
 - Grande praticità d’impiego: Design leggero e motore potente per lavorare in modo semplice e senza sforzi
+- Dotazione: EasyGrassCut 18V-230, 1 batteria PBA 18V 2.5Ah W-B, caricabatteria AL 1830 CV, confezione in cartone
 - POWER FOR ALL ALLIANCE: 1 BATTERIA, 10+ MARCHI, ​150+ PRODOTTI.​
 - Taglio continuo: taglio ininterrotto con il tagliabordi a batteria Bosch, grazie al sistema che fa avanzare il filo ad ogni rilascio della levetta
 

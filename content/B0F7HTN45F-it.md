@@ -28,9 +28,9 @@ average: '22.99'
 
 ℹ️:
 
+- 10,1 x 6,2 x 7,1 cm
 - Ceramica
 - Usa esclusivamente un panno morbido asciutto per la pulizia evita che vengano a contatto con liquidi o prodotti aggressivi evita il contatto con acqua; ricorda che la ceramica è fragile e va trattata con cura; non idoneo al contatto con alimenti
-- 10,1 x 6,2 x 7,1 cm
 - Dona un tocco di stile e personalità ai tuoi spazi con la selezione THUN di oggetti decorativi; nella nostra sezione Living troverai tutto il necessario per creare un’atmosfera accogliente; scegli i dettagli giusti per trasformare ogni angolo della tua casa in un ambiente caldo e armonioso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

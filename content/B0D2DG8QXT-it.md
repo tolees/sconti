@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Carica e riproduci amplificatori, cabine e pedali AI Tone Modeled
 - Uscita mono/stereo TRS per collegare amplificatori reali, cabine PA o FRFR
 - Carica fino a 20 preset in configurazioni A/B o on/off
 - Accordatore integrato, EQ, gate, compressore e riverbero
+- Carica e riproduci amplificatori, cabine e pedali AI Tone Modeled
 - Colori della micro-manopola personalizzabili: aggiungi più pedali alla tua catena
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ average: '18.98'
 
 ℹ️:
 
-- Chlorine resistant
-- __Fit:__ Snug fit
-- __Fabric:__ Saltwater-resistant fabric made from recycled yarn
 - __Sun protection:__ UPF 50 sun protection
+- __Fabric:__ Saltwater-resistant fabric made from recycled yarn
 - Moisture wicking
+- __Fit:__ Snug fit
+- Chlorine resistant
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08C9TP2J1{{</world>}}

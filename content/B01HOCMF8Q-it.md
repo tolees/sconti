@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Per schermi fino a 81cm (32") e un peso massimo di 18kg
-- Solo 18 mm di distanza dalla parete
-- Livella integrata per facilitare il montaggio
 - Compatibile con gli standard VESA 75 x 75 e 100 x 100 mm
+- Livella integrata per facilitare il montaggio
+- Solo 18 mm di distanza dalla parete
 - Dimensioni: 120x120x18 mm
+- Per schermi fino a 81cm (32") e un peso massimo di 18kg
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01HOCMF8Q{{</world>}}

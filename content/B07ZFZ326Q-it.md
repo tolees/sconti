@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- safety rubber
+- Rubber handle
 - Premium finish
 - inner compartment for accessories
-- Rubber handle
-- safety rubber
 - inner compartment for game cards
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

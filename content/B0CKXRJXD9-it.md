@@ -28,14 +28,14 @@ average: '50.41'
 
 ℹ️:
 
+- Almeno il 20% del materiale proviene da fonti riciclate e rinnovabili
+- Chiusura con lacci
 - Fodera in tessuto
+- Suola Traxion
+- Calzata regolare
 - Tomaia in tessuto con punta rinforzata
 - Drop intersuola: 10 mm (tallone: 27 mm / avampiede: 17 mm)
-- Chiusura con lacci
 - Intersuola in EVA
-- Almeno il 20% del materiale proviene da fonti riciclate e rinnovabili
-- Calzata regolare
-- Suola Traxion
 - Peso: 390 g (misura 42 2/3)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

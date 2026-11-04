@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Spalle basse
 - Questo prodotto contiene almeno il 70% di materiali riciclati e rinnovabili
-- Tasche a marsupio
 - Taglio leggermente corto sul retro
-- Calzata regolare
-- Zip integrale e cappuccio regolabile con cordino
-- Polsini e orli a coste
 - 55% cotone / 36% poliestere (riciclato) / 9% viscosa
+- Tasche a marsupio
+- Calzata regolare
+- Spalle basse
+- Polsini e orli a coste
+- Zip integrale e cappuccio regolabile con cordino
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZP7GQ4D{{</world>}}

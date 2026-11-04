@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Bianco
 - Nalgene
+- Bianco
 - Bottiglia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

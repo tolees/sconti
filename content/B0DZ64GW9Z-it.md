@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ECOVACS T80 OMNI Robot Aspirapolvere Lavapavimenti 18000 Pa OZMO ROLLER | ZeroTangle Generation 3.0 Lavaggio Mocio con Acqua Calda a 40-75 °C Asciugatura ad Aria Calda Riricarica Automatica'
-date: 2026-11-02 12:48:42
+date: 2026-11-03 14:34:41
 image: 'https://m.media-amazon.com/images/I/313yuD3xRgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0DZ64GW9Z/?tag=tolees00-21'
 descuento: '28.78'
-average: '554.362727272727'
+average: '537.248333333333'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

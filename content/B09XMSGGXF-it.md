@@ -28,10 +28,10 @@ average: '13.12'
 
 ℹ️:
 
-- Prodotto di qualità
-- Marca: Nike
-- Modello: Y Nk Df Tiempo Prem Ii Jsy Ss
 - Big Kids Short-Sleeve Soccer Jersey
+- Modello: Y Nk Df Tiempo Prem Ii Jsy Ss
+- Marca: Nike
+- Prodotto di qualità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09XMSGGXF{{</world>}}

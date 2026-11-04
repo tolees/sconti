@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Disney Pixar Kevin e Dug 43290 | Giochi per bambini da 9 anni set con cane golden retriever giocattolo e uccello esotico regalo di compleanno 628 pezzi'
-date: 2026-11-02 10:16:48
+date: 2026-11-03 11:06:23
 image: 'https://m.media-amazon.com/images/I/51ZWDRfkmZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0FPXDZ8VH/?tag=tolees00-21'
 descuento: '33.34'
-average: '42.2364999999998'
+average: '42.1295238095236'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

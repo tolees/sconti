@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Trust Verto Mouse Verticale Cablato Mouse Ergonomico con Filo 1000/1600 DPI Cavo USB 1 5 m Illuminazione LED 6 Pulsanti per PC Computer Portatile Mac - Nero'
-date: 2026-10-27 10:22:08
+date: 2026-11-04 07:21:51
 image: 'https://m.media-amazon.com/images/I/31fDR-q4A0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B07FLZ3XSK/?tag=tolees00-21'
 descuento: '25.01'
-average: '15.1011111111111'
+average: '15.0809090909091'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

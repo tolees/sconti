@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- clip in metallo
-- Ideale per disegno tecnico, bozzetti, schizzi
-- indicazione della gradazione sul cappuccio
-- Punta in metallo
 - Colore nero intenso
+- indicazione della gradazione sul cappuccio
+- Ideale per disegno tecnico, bozzetti, schizzi
+- Punta in metallo
+- clip in metallo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07QW2CQ4D{{</world>}}

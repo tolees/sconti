@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Fokky Elastici Fitness Set di 5 Elastico Palestra in Lattice Naturale'
-date: 2026-09-09 13:49:54
+title: 'Fokky Elastici Fitness Set di 5 Elastico Palestra in Lattice Naturale | Borsa da Trasporto Fasce Elastiche Fitness per Crossfit Yoga Pilates Squats Lunges Stretching Allenamento di Forza'
+date: 2026-11-03 16:01:17
 image: 'https://m.media-amazon.com/images/I/31hFQ-2TA1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -13,7 +13,7 @@ actualPrice: 7.59 EUR
 currency: EUR
 price: 7.59
 comparePrice: 12.99 EUR
-prodname: 'Fokky Elastici Fitness Set di 5 Elastico Palestra in Lattice Naturale'
+prodname: 'Fokky Elastici Fitness Set di 5 Elastico Palestra in Lattice Naturale | Borsa da Trasporto Fasce Elastiche Fitness per Crossfit Yoga Pilates Squats Lunges Stretching Allenamento di Forza'
 country: 'it'
 flag: '🇮🇹'
 brand: ''

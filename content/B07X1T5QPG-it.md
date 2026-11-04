@@ -30,8 +30,8 @@ average: '25.19'
 
 - Due scomparti con tasche multiple con chiusura a zip
 - Altezza: 17.5 cm, larghezza: 26 cm, profondità: 10 cm
-- Realizzato in 100% nylon
 - Tessuto idrorepellente
+- Realizzato in 100% nylon
 - Gancio da appendere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

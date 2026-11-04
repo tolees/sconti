@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Italpak Buste Sacchetti Trasparenti per Alimenti Fondo Quadro 6+4x22'
-date: 2026-10-18 13:17:27
+date: 2026-11-04 14:05:50
 image: 'https://m.media-amazon.com/images/I/414IB8tTUTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,13 +12,13 @@ tags: [ '🇮🇹', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99
-comparePrice: 11.76 EUR
+comparePrice: 13.51 EUR
 prodname: 'Italpak Buste Sacchetti Trasparenti per Alimenti Fondo Quadro 6+4x22'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B07ZQV8F4B/?tag=tolees00-21'
-descuento: '32.06'
+descuento: '40.86'
 average: '7.99'
 ---
 

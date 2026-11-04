@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'dV Giochi Lupus in Tabula Colore Rosso DVG9200 8 a 24 giocatori'
-date: 2026-10-30 14:10:38
+date: 2026-11-03 10:21:59
 image: 'https://m.media-amazon.com/images/I/41DE+SusrqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B00227DWIG/?tag=tolees00-21'
 descuento: '58.95'
-average: '13.6026666666666'
+average: '13.0599999999999'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Seghetto multiuso
-- lama universale, a foretto, per metallo
 - Fornito con 3 lame
+- lama universale, a foretto, per metallo
+- Seghetto multiuso
 - Coni impugnatura in ABS
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

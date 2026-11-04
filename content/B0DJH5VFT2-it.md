@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 100% poliestere (riciclato)
 - Chiusura con coulisse
+- 100% poliestere (riciclato)
 - Tessuto Infinitex
 - Vestibilità regolare
 

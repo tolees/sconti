@@ -28,8 +28,8 @@ average: '21.99'
 
 ℹ️:
 
-- Suola morbida per movimenti fluidi
 - Realizzati con materiali sostenibili
+- Suola morbida per movimenti fluidi
 - Sneaker del marchio PUMA
 - Adatto per: tutte le stagioni
 

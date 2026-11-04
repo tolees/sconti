@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Tovaglia stampata antimacchia
 - Tovaglia in tela cerata ottima, 90% PVC e 10% polipropilene
-- Istruzioni per il lavaggio: Massimo 30° C, senza candeggina, senza sbiancanti; non adatta all’asciugatrice
 - Impermeabile
+- Istruzioni per il lavaggio: Massimo 30° C, senza candeggina, senza sbiancanti; non adatta all’asciugatrice
 - Si pulisce facilmente con un panno umido
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

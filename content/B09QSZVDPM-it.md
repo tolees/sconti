@@ -28,9 +28,9 @@ average: '8.39'
 
 ℹ️:
 
-- 100% cotone singolo jersey
-- Vestibilità regolare
 - 0
+- Vestibilità regolare
+- 100% cotone singolo jersey
 - Proveniente da partner di fiducia che danno la priorità allattenzione alla riduzione dellimpatto ambientale della produzione e al miglioramento dello sviluppo economico nelle aree produttrici di cotone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,14 +28,14 @@ average: '27.63'
 
 ℹ️:
 
-- Orli a coste
 - Tasca a marsupio
-- Spalle basse
-- Cappuccio regolabile con cordino
-- Calzata regolare
-- 55% cotone / 36% poliestere (riciclato) / 9% viscosa
 - Taglio leggermente corto sul retro
+- 55% cotone / 36% poliestere (riciclato) / 9% viscosa
+- Calzata regolare
+- Orli a coste
+- Cappuccio regolabile con cordino
 - Questo prodotto contiene almeno il 70% di materiali riciclati e rinnovabili
+- Spalle basse
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZVCLD1V{{</world>}}

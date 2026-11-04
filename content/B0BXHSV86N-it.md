@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Un prodotto di colore nero
 - Un prodotto robusto e resistente
+- Un prodotto di colore nero
 - Un prodotto della marca Bticino
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

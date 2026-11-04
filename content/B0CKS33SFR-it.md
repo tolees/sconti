@@ -28,16 +28,16 @@ average: '43.9'
 
 ℹ️:
 
-- Soletta OrthoLite
-- Drop intersuola: 10 mm (tallone 35 mm / avampiede 25 mm)
 - Intersuola Bounce 2.0
-- Tomaia in mesh
-- Vestibilità regolare
 - Drop intersuola: 10 mm (tallone 35 mm / avampiede 25 mm)
-- Chiusura in pizzo
+- Vestibilità regolare
 - Fodera in tessuto
-- Suola adiwear
+- Chiusura in pizzo
+- Drop intersuola: 10 mm (tallone 35 mm / avampiede 25 mm)
 - Peso: 324 g (taglia UK 8,5)
+- Soletta OrthoLite
+- Suola adiwear
+- Tomaia in mesh
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CKS33SFR{{</world>}}

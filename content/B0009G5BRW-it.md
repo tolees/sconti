@@ -28,16 +28,16 @@ average: '3.86142857142857'
 
 ℹ️:
 
-- IGIENICO E IMPERMEABILE – 100% resistente all’acqua e disinfettabile, per una pulizia facile e una conservazione sicura con custodia protettiva inclusa.
-- DISPLAY LCD CHIARO E MEMORIA – Ampio display facilmente leggibile con 1 posizione di memoria per richiamare l’ultima misurazione effettuata.
+- Prodotto medicale. Disinfettabile. Segnale acustico di fine misurazione
 - Precisione di misurazione + -0,1 °C: 35,5 - 42 °C
 - Tecnologia di misurazione a contatto. 1 posizione di memoria
 - Impermeabile
-- Prodotto medicale. Disinfettabile. Segnale acustico di fine misurazione
-- DISPOSITIVO MEDICO DETRAIBILE – Conforme alle normative sanitarie, detraibile fiscalmente, con batteria LR41 inclusa per un utilizzo immediato.
-- SICURO E SENZA RISCHI – Privo di vetro e mercurio, ideale anche per i bambini; con spegnimento automatico per risparmio energetico.
 - MISURAZIONE PRECISA E RAPIDA – Termometro digitale a contatto con precisione di ±0,1°C tra 35,5–42°C e segnale acustico al termine della misurazione.
+- DISPOSITIVO MEDICO DETRAIBILE – Conforme alle normative sanitarie, detraibile fiscalmente, con batteria LR41 inclusa per un utilizzo immediato.
 - Senza mercurio, senza vetro. Spegnimento automatico
+- DISPLAY LCD CHIARO E MEMORIA – Ampio display facilmente leggibile con 1 posizione di memoria per richiamare l’ultima misurazione effettuata.
+- SICURO E SENZA RISCHI – Privo di vetro e mercurio, ideale anche per i bambini; con spegnimento automatico per risparmio energetico.
+- IGIENICO E IMPERMEABILE – 100% resistente all’acqua e disinfettabile, per una pulizia facile e una conservazione sicura con custodia protettiva inclusa.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0009G5BRW{{</world>}}

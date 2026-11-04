@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'STAEDTLER Textsurfer Classic 364 Evidenziatori – set da 4 pastello | Punta scalpello 1–5 mm tinte pastello tenui INK·JET SAFE – ricaricabili – Art.-Nr. 364-S WP4P'
-date: 2026-10-30 09:27:37
+date: 2026-11-03 08:11:53
 image: 'https://m.media-amazon.com/images/I/51JdbPGva0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

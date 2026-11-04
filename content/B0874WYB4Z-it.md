@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Formato: 100 capsule salva aroma, per preservare tutta la freschezza del caffè
 - Made in Italy: Gruppo Gimoka - Caffè per passione sin dagli anni 80, si impegna attivamente per sviluppare soluzioni di packaging facilmente riciclabili, compostabili ed ecosostenibili
-- Miscela: Arabica-Robusta, Ricco e Corposo. Chicchi provenienti dal Brasile, Vietnam e Uganda
 - Profilo sensoriale: caffè espresso dal gusto forte e legni pregiati grazie alla tostatura prolungata. Caratterizzato da note avvolgenti che esprimono una combinazione di sentori di cacao amaro e frutta secca
+- Miscela: Arabica-Robusta, Ricco e Corposo. Chicchi provenienti dal Brasile, Vietnam e Uganda
 - Intensità: 13
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'San Benedetto Thè Deteinato al Limone 12x500 ml Senza Teina e Glutine Bevanda Fresca e Dissetante Tappo Click con Poche Calorie.'
-date: 2026-10-30 13:49:52
+date: 2026-11-03 19:35:15
 image: 'https://m.media-amazon.com/images/I/51EI0UiXa9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,13 +12,13 @@ tags: [ '🇮🇹', ]
 actualPrice: 4.64 EUR
 currency: EUR
 price: 4.64
-comparePrice: 8.4 EUR
+comparePrice: 6.12 EUR
 prodname: 'San Benedetto Thè Deteinato al Limone 12x500 ml Senza Teina e Glutine Bevanda Fresca e Dissetante Tappo Click con Poche Calorie.'
 country: 'it'
 flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0CT3QY141/?tag=tolees00-21'
-descuento: '44.76'
+descuento: '24.18'
 average: '4.64'
 ---
 

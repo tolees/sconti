@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Brucia per 8-10 minuti
 - Totalmente inodore
 - 100% naturale
-- Brucia per 8-10 minuti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00HIXQQ32{{</world>}}

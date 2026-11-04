@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Fodera: 50% tessuto (45% poliestere riciclato - 35% cotone riciclato - 20% viscosa) 27% pelle di maiale 23% poliestere riciclato
 - Materiale esterno: 100% pelle bovina
+- Fodera: 50% tessuto (45% poliestere riciclato - 35% cotone riciclato - 20% viscosa) 27% pelle di maiale 23% poliestere riciclato
 - Suola: 100% EVA
 - Colore: marrone medio
 

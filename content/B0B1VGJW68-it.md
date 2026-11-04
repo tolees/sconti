@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Colletto rovesciato
-- Giacca di jeans da donna classica
 - Chiusura tramite bottoni
 - Tasche con patta sul petto
+- Giacca di jeans da donna classica
+- Colletto rovesciato
 - Slim fit, taglio aderente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

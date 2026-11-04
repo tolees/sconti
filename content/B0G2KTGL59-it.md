@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Anlapus 2K 3MP Confezione da 2 Telecamere di Sorveglianza WiFi 6 Esterno/Interno Visione Notturna a Colori Rilevamento Persona/Veicolo Allarme Acustico e Luminoso Registrazione 24/7'
-date: 2026-11-02 15:04:48
+date: 2026-11-04 13:09:16
 image: 'https://m.media-amazon.com/images/I/31uQHsBuYOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

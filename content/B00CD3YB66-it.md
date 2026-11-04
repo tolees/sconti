@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Vestibilità : Regular
-- Basic
-- Giacca di mezza stagione con le seguenti caratteristiche:
 - Scopri tutti i top brand su EMP!
+- Basic
+- Vestibilità : Regular
+- Giacca di mezza stagione con le seguenti caratteristiche:
 - Giacca || Vestibilità standard || Scollo tondo Colletto alto || Patch con logo, Cuciture decorative
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

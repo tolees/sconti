@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Larghezza: Regolare
+- Tipo di punta: Rotonda
 - Fibbia: Lacci
 - Tipo di tacco: Platform
-- Tipo di punta: Rotonda
 - Suola: Gomma
-- Larghezza: Regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DNFN7QD2{{</world>}}

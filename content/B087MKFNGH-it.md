@@ -28,14 +28,14 @@ average: '17.86'
 
 ℹ️:
 
-- Ottima idea regalo per appassionati
-- Gamma affidabile
-- Mangime umido per gatti- percentuale di carne elevata- vitamine e minerali importanti- senza cereali
-- Mjamjam- perché è buono
-- Prodotto che unisce tradizione ed innovazione
 - Questo è ciò a cui rinunciamo: glutine e soia, conservanti sintetici, lattosio, zucchero
-- Composizione: 98,6 % di carne e interiora (carne, cuore, fegato, ventriglio di pollo),0,5 % di mine-rali,0,5 % di gusci duovo essiccati,0,4 % di olio di salmone
+- Mangime umido per gatti- percentuale di carne elevata- vitamine e minerali importanti- senza cereali
+- Prodotto che unisce tradizione ed innovazione
+- Gamma affidabile
 - Per i nostri pasti utilizziamo prevalentemente ingredienti provenienti da fattorie regionali
+- Mjamjam- perché è buono
+- Ottima idea regalo per appassionati
+- Composizione: 98,6 % di carne e interiora (carne, cuore, fegato, ventriglio di pollo),0,5 % di mine-rali,0,5 % di gusci duovo essiccati,0,4 % di olio di salmone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B087MKFNGH{{</world>}}

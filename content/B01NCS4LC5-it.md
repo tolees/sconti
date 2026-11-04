@@ -28,11 +28,11 @@ average: '9.67'
 
 ℹ️:
 
+- 2 anni di garanzia
 - Made in Italy
-- Corpo in alluminio pressato per una cottura rapida e uniforme.
 - Lavabile in lavastoviglie
 - Comoda maniglia inox
-- 2 anni di garanzia
+- Corpo in alluminio pressato per una cottura rapida e uniforme.
 - Adatta per utilizzo in forno (resistente fino a 250 °C)
 - Rivestimento antiaderente effetto pietra hardoise, privo di PFOA, Nichel e Bisfenolo A.
 

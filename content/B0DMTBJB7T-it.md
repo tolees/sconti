@@ -28,9 +28,9 @@ average: '580.0'
 
 ℹ️:
 
+- CLASSE ENERGETICA A: La lavatrice appartiene alla classe energetica A.
 - CAPACITA 11 KG: Lavatrice 700 a carica frontale con capacità di carico di 11 kg.
 - MOTORE INVERTER: Equipaggiata con motore Inverter per il ciclo di lavaggio.
-- CLASSE ENERGETICA A: La lavatrice appartiene alla classe energetica A.
 - CONNETTIVITA WI-FI: Dotata di connettività Wi-Fi per il controllo da remoto.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

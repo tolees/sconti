@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Azione non-stop Rivivi l’emozione unica dei giochi arcade.
+- Un remake completo Grafica, sonoro e meccaniche completamente rifatte in chiave moderna.
 - Sottotitolato in italiano
 - Gioca da solo o con un amico Sfrutta al massimo i nuovi comandi migliorati e ottimizzati per una mira più precisa.
-- Un remake completo Grafica, sonoro e meccaniche completamente rifatte in chiave moderna.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FZV8VXYN{{</world>}}

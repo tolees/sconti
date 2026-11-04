@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Girocollo
-- Composizione: 90% cotone
 - 10% poliestere
+- Composizione: 90% cotone
+- Girocollo
 - Dettagli stampati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

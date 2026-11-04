@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Official licensed product
 - Original new era product
+- Official licensed product
 - Baseball Cap - berretti da baseball
 - Us sport fashion
 

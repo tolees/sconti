@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Acqua alle Rose Siero in Crema Lenitivo Con Collagene Vegetale di Rosa Chinensis è ideale per idratare delicatamente le Pelli Sensibili. Aiuta a proteggere dallo stress ossidativo - 30 ml'
-date: 2026-09-25 12:22:59
+date: 2026-11-03 11:36:56
 image: 'https://m.media-amazon.com/images/I/41FV1I6uA5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -28,11 +28,11 @@ average: '2.22'
 
 ℹ️:
 
+- La confezione contiene circa 6 porzioni
 - Adatto per una dieta vegetariana
+- Conservare in luogo fresco e asciutto
 - Confezionato in Germania
 - Patatine fritte, salate
-- Conservare in luogo fresco e asciutto
-- La confezione contiene circa 6 porzioni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09HNBG6V5{{</world>}}

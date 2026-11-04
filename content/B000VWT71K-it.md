@@ -29,10 +29,10 @@ average: '10.5'
 ℹ️:
 
 - Pressione operativa: 8 bar. Materiale: alluminio pressofuso
-- Pulizia rapida o rimozione di trucioli e altri corpi estranei
-- Incluso adattatore per tubo flessibile con diametro interno di 8 mm
 - Lunga durata grazie al robusto alloggiamento in alluminio resistente agli urti e agli urti
+- Incluso adattatore per tubo flessibile con diametro interno di 8 mm
 - Gancio di sospensione integrato | con 3 ugelli: 25 – 100 – 200 mm
+- Pulizia rapida o rimozione di trucioli e altri corpi estranei
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000VWT71K{{</world>}}

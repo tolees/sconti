@@ -28,10 +28,10 @@ average: '65.51'
 
 ℹ️:
 
-- Lo zaino Big trolley è la scelta perfetta per i bambini della scuola elementare e media che desiderano comodità e capienza. I piedini antiribaltamento garantiscono equilibrio e protezione del contenuto in ogni situazione. Usalo come trolley con spallacci a scomparsa o come zaino per la massima libertà di movimento!
 - Tessuto: poliestere
 - Dimensioni: 35x51x26,5 cm - capacità: 36 lt
 - Schienale: Imbottito e rivestito in tessuto. Spallacci: A scomparsa e imbottiti.
+- Lo zaino Big trolley è la scelta perfetta per i bambini della scuola elementare e media che desiderano comodità e capienza. I piedini antiribaltamento garantiscono equilibrio e protezione del contenuto in ogni situazione. Usalo come trolley con spallacci a scomparsa o come zaino per la massima libertà di movimento!
 - Trolley dopppio scomparto con tasca frontale. Barra telescopica a doppia asta. Piedini antiribaltamento. Scocca antiurto. Ruote da 75 mm. Elastico interno porta borraccia.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

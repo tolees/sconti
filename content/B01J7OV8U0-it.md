@@ -28,15 +28,15 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Dimensioni (mm): 190 x 215 x 170
+- Temperatura di esercizio 42 gradi C circa
+- Accessori per yogurt greco: la yogurtiera YG02 ti permetterà di elaborare il tuo yogurt greco fatto in casa senza convervanti.
 - Healthy: preprara il tuo yogut preferito in casa, utilizzando ingredienti sani e genuini, senza alcun additivo artificale o conservante.
 - Capacità contenitore 1.5 litri: potrai ottenere yogurt naturale per tutta la tua famiglia.
-- Accessori per yogurt greco: la yogurtiera YG02 ti permetterà di elaborare il tuo yogurt greco fatto in casa senza convervanti.
+- Alimentazione: AC 220-240V - 5060 Hz
+- Coperchio trasparente con maniglia
 - Potenza: 20 W
 - Luce di funzionamento
-- Dimensioni (mm): 190 x 215 x 170
-- Coperchio trasparente con maniglia
-- Temperatura di esercizio 42 gradi C circa
-- Alimentazione: AC 220-240V - 5060 Hz
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01J7OV8U0{{</world>}}

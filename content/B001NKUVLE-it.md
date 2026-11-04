@@ -28,12 +28,12 @@ average: '18.6'
 
 ℹ️:
 
-- Distanze comode delle prese
 - Con fori di fissaggio per montaggio a parete
-- Tipo it: prese con pratica disposizione a 45°
-- Con clip per sistemare il cavo in eccesso
-- Uscita cavo variabile, possibile su entrambi i lati
 - Interruttore di sicurezza on/off illuminato, bipolare
+- Distanze comode delle prese
+- Tipo it: prese con pratica disposizione a 45°
+- Uscita cavo variabile, possibile su entrambi i lati
+- Con clip per sistemare il cavo in eccesso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B001NKUVLE{{</world>}}

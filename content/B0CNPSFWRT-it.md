@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Vita alta
 - Con passanti per cintura
+- Vita alta
 - Stile cinque tasche
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

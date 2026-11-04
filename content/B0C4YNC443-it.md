@@ -28,10 +28,10 @@ average: '5.1'
 
 ℹ️:
 
-- Cura del corpo vegana approvata dalla Vegan Society e cruelty free
+- Senza parabeni e senza SLS
 - I nostri gel doccia detergono delicatamente e rigenerano la pelle
 - Con olio di geranio e oli essenziali di lavanda inglese e lavandino, per detergere delicatamente e donare un aroma piacevolmente calmante
-- Senza parabeni e senza SLS
+- Cura del corpo vegana approvata dalla Vegan Society e cruelty free
 - Ingredienti di origine naturale al 99,5% e aroma 100% naturale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

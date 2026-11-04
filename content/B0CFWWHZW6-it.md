@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- A partire dal semplice Posizionamento Dadi ad una esperienza del tutto inedita
-- Dagli autori di successo Isra e Shei, i Llama Dice, a tre anni di distanza dal capolavoro The Red Cathedral
 - Meccaniche: Posizionamento Lavoratori
-- Meccaniche: Preparazione Variabile
+- A partire dal semplice Posizionamento Dadi ad una esperienza del tutto inedita
 - Presentato ad Essen 2023, il lancio Devir di maggior successo
+- Dagli autori di successo Isra e Shei, i Llama Dice, a tre anni di distanza dal capolavoro The Red Cathedral
+- Meccaniche: Preparazione Variabile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CFWWHZW6{{</world>}}

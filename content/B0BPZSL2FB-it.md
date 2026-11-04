@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cecotec PrecisionCare PrecisionCare AllDrive Pro Trim Dial Shaver 75 min autonomia 19 impostazioni da 1 a 10 mm lame in acciaio inossidabile con rivestimento in titanio e batteria al litio'
-date: 2026-11-02 18:10:54
+date: 2026-11-03 21:20:36
 image: 'https://m.media-amazon.com/images/I/41IUZIY2hRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Materiale: 100% plastica
 - Collezione: On The Go
+- Materiale: 100% plastica
 - Il contenitore può essere inserito in frigorifero o in congelatore
 - Colore: Sea Blue
 

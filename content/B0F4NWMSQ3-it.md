@@ -29,8 +29,8 @@ average: '67.42'
 ℹ️:
 
 - Zip frontale
-- Giacca leggera
 - Colletto rialzato
+- Giacca leggera
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F4NWMSQ3{{</world>}}

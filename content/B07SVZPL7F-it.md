@@ -28,9 +28,9 @@ average: '4.95'
 
 ℹ️:
 
+- __Tomaia: __ Tomaia in gomma con pin ROXY in metallo
 - Suola esterna: suola in gomma
 - Plantare: plantare in gomma testurizzata
-- __Tomaia: __ Tomaia in gomma con pin ROXY in metallo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07SVZPL7F{{</world>}}

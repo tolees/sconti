@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tipo di tacco: Tacco piatto
-- Larghezza regolare
 - Punta arrotondata
 - Suola in gomma che avvolge il tallone
 - Loghi PUMA
+- Tipo di tacco: Tacco piatto
+- Larghezza regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F635T4XM{{</world>}}

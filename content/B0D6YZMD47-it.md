@@ -28,10 +28,10 @@ average: '8.3'
 
 ℹ️:
 
-- La formula green degli ombretti, con il 93% di ingredienti derivati da Materie Prime di Origine Naturale, è arricchita con Olio di Argan Biologico, Olio di Semi di Cotone e Olio di Avocado; è Vegan
-- Oftalmologicamente testato
 - Ideale per creare sofisticati look occhi, naturali da giorno o intensi da sera
 - Packaging realizzato con bioplastica derivata dalla fermentazione del mais e con vernici naturali a base d’acqua
+- La formula green degli ombretti, con il 93% di ingredienti derivati da Materie Prime di Origine Naturale, è arricchita con Olio di Argan Biologico, Olio di Semi di Cotone e Olio di Avocado; è Vegan
+- Oftalmologicamente testato
 - Palette con 9 ombretti multi finish, mat, perlati e metallici, in polvere compatta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '51.245'
 
 ℹ️:
 
-- EK30Y, 30 anni
 - Custodia imbottita per laptop per la maggior parte dei dispositivi da 17 pollici
-- Dimensioni della cabina per la maggior parte delle principali compagnie aeree
 - Tessuto idrorepellente
+- Dimensioni della cabina per la maggior parte delle principali compagnie aeree
+- EK30Y, 30 anni
 - Portabottiglie laterale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

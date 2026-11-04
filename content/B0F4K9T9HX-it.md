@@ -28,9 +28,9 @@ average: '8.99'
 
 ℹ️:
 
+- Deve essere gonfiato
+- Deve essere gonfiato
 - Rivestimento 100% TPU (riciclato)
-- Deve essere gonfiato
-- Deve essere gonfiato
 - Camera daria in gomma butilica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

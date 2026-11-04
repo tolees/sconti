@@ -28,8 +28,8 @@ average: '44.9'
 
 ℹ️:
 
-- Tomaia traforata in materiale sintetico liscio "Durabuck"
 - Suola in gomma flessibile
+- Tomaia traforata in materiale sintetico liscio "Durabuck"
 - Tacco 3,8 cm
 - Zeppa con tacco nascosto da 2,5 cm
 

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Discreto e distintivo logo Columbia sulla parte frontale
+- Contenuto: 1x Columbia Whirlibird Cuffed, Berretto Unisex, Colore: Blu (Collegiate Navy, Logo), Taglia: Taglia Unica, Articolo: 1911321
 - Berretto dalla tradizione nautica, adatto per qualsiasi occasione in clima freddo, Orecchie e testa al calduccio
 - Risvolto sulle orecchie per calore e comfort extra, Gamma di colori mélange e a tinta unita
-- Contenuto: 1x Columbia Whirlibird Cuffed, Berretto Unisex, Colore: Blu (Collegiate Navy, Logo), Taglia: Taglia Unica, Articolo: 1911321
+- Discreto e distintivo logo Columbia sulla parte frontale
 - Classico e morbidissimo berretto con costruzione resistente su 4 punti e con risvolto, Comfort elevato con temperature basse in barca o davanti ai falò
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ average: '14.6066666666667'
 
 ℹ️:
 
-- Per le pappe, scegli pochi, semplici alimenti
 - Essenziali per laccrescimento e lo sviluppo
 - Senza sale aggiunto, senza aromi e senza conservanti
+- Per le pappe, scegli pochi, semplici alimenti
 - Contiene 4 blister da 2 vasetti manzo, 4 blister da 2 vasetti pollo e 4 blister da 2 vasetti vitello
 - Mellin confezione mista di Omogeneizzato 100% Naturale con Carne
 

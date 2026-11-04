@@ -28,9 +28,9 @@ average: '6.075'
 
 ℹ️:
 
-- Ottimo per stimolare la creatività dei bambini
-- Gioco interattivo per bambini ed adulti
 - Adatto per almeno due giocatori
+- Gioco interattivo per bambini ed adulti
+- Ottimo per stimolare la creatività dei bambini
 - Contiene un tabellone, 90 pedine e nove pennarelli cancellabili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

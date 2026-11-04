@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Resa in pagine dellinchiostro a colori: 12000 pagine
 - Colori di stampa: nero
 - Compatibilità marca: HP
-- Resa in pagine dellinchiostro a colori: 12000 pagine
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B006MVK6AA{{</world>}}
